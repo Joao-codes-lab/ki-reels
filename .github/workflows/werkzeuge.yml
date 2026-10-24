@@ -44,6 +44,10 @@ jobs:
         if: ${{ inputs.task == 'stile' }}
         continue-on-error: true
         run: python tools/style_samples.py --out /tmp/research/stile
+      - name: Figuren-Proben (Bild-KI)
+        if: ${{ inputs.task == 'figuren' }}
+        continue-on-error: true
+        run: python tools/style_samples.py --set figuren --out /tmp/research/figuren
       - name: Ergebnisse in Branch „research“ speichern
         run: |
           git config user.name "ki-reels-bot"

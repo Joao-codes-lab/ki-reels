@@ -37,13 +37,37 @@ STYLES = {
 }
 
 
+FIGUREN = {
+    "Tiere als Menschen": "anthropomorphic animal characters (the barista is a fox, the man in the suit is a crow), "
+                          "stylized cartoon, bold shapes, expressive, flat colors",
+    "Bohnenfiguren": "simple bean-shaped cartoon characters with tiny limbs and dot eyes, flat vector, cute but "
+                     "expressive, minimal faces, bold color blocks",
+    "Erklärvideo-Flat": "flat vector explainer-video style, geometric characters without noses, soft gradients, "
+                        "clean shapes, modern infographic look",
+    "Gummiarm-Retro": "1930s rubber hose cartoon style, pie-cut eyes, white gloves, wobbly limbs, sepia-tinted colors, "
+                      "vintage film grain",
+    "Großkopf-Knubbel": "chunky cartoon characters with oversized heads and small bodies, thick outlines, satirical "
+                        "caricature, bright flat colors, western TV cartoon look",
+    "Knete-Figuren": "claymation characters with exaggerated simple shapes, visible thumbprints, handmade stop-motion set",
+    "Papierfiguren": "flat paper cut-out characters like a children's craft show, simple geometric bodies, construction "
+                     "paper textures",
+    "Monster-WG": "friendly colorful monster characters with one or three eyes, fluffy or slimy textures, playful "
+                  "cartoon, each monster different",
+    "Linolschnitt": "bold linocut print style characters, two colors black and orange, carved texture, graphic poster",
+    "Socken-Puppen": "felt puppet characters like a late-night puppet show, googly eyes, fuzzy textures, studio set",
+}
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", default="research/stile")
-    out = Path(ap.parse_args().out)
+    ap.add_argument("--set", default="stile")
+    a = ap.parse_args()
+    out = Path(a.out)
+    styles = FIGUREN if a.set == "figuren" else STYLES
     out.mkdir(parents=True, exist_ok=True)
     tiles = []
-    for name, style in STYLES.items():
+    for name, style in styles.items():
         p = out / f"{name}.jpg"
         src = imagegen.generate(SCENE, p, w=576, h=1024, seed=4242,
                                 style=f"{style}, no text, no letters, no watermark")
