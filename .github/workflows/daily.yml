@@ -89,7 +89,7 @@ jobs:
       - name: Verlauf speichern
         if: always()
         run: |
-          git add data content
+          git add -A -- data content $([ -d assets ] && echo assets)
           git commit -qm "Verlauf $(date +%F)" || echo "nichts zu speichern"
           git push
 

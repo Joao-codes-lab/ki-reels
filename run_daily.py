@@ -13,13 +13,16 @@ import os
 import shutil
 from pathlib import Path
 
-from reels import buffer, scriptgen
+from reels import buffer, imagegen, scriptgen
 from reels.render import render
+from reels.render_story import render_part
 
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data"
 SITE = ROOT / "site" / "videos"
 PENDING = DATA / "pending.json"
+STATE = DATA / "series_state.json"
+ASSETS = ROOT / "assets"
 
 DISCLOSURE = {
     "de": "🤖 KI-generiert (Skript, Stimme, Grafik)",
@@ -59,6 +62,57 @@ def generate(langs, tts_backend, count):
     save(PENDING, pending)
 
 
+def slugify(text):
+    import re
+    return re.sub(r"[^a-z0-9]+", "_", text.lower())[:40].strip("_")
+
+
+def generate_series(langs, tts_backend):
+    """Version 2: pro Sprache täglich ein Teil der aktuellen Serie „Das Haus der 8 Level“."""
+    today = dt.date.today().isoformat()
+    state = load(STATE, {})
+    pending = load(PENDING, [])
+    SITE.mkdir(parents=True, exist_ok=True)
+    for lang in langs:
+        st = state.get(lang)
+        if not st or st["next"] > 8:
+            used = [x["topic"] for x in state.get("_done", []) if x["lang"] == lang]
+            topic = scriptgen.next_series_topic(used)
+            series = scriptgen.write_series(topic, lang)
+            sid = f"{lang}_{slugify(topic)}"
+            (DATA / "series").mkdir(exist_ok=True)
+            save(DATA / "series" / f"{sid}.json", series)
+            st = {"id": sid, "topic": topic, "next": 1}
+            state.setdefault("_done", []).append({"lang": lang, "topic": topic, "start": today})
+            print(f"[{lang}] Neue Serie: {series['title']}")
+        series = load(DATA / "series" / f"{st['id']}.json", None)
+        adir = ASSETS / st["id"]
+        floors = []
+        for lv in series["levels"]:  # Hauptbild jeder Etage (einmal pro Serie)
+            p = adir / f"floor_{lv['n']}.jpg"
+            src = imagegen.generate(f"Inside {series['house']}, floor {lv['n']} of 8: {lv['visual']}", p, seed=lv["n"] * 7919)
+            if src not in ("cache",):
+                print(f"  Bild Etage {lv['n']}: {src}")
+            floors.append(str(p))
+        n = st["next"]
+        lv = series["levels"][n - 1]
+        scenes = [floors[n - 1]]
+        for i, prompt in enumerate(lv.get("scenes", [])):
+            p = adir / f"l{n}_s{i + 1}.jpg"
+            print(f"  Szene {i + 1}: {imagegen.generate(prompt, p, seed=n * 104729 + i)}")
+            scenes.append(str(p))
+        name = f"{today}_{st['id']}_teil{n}.mp4"
+        info = render_part(series, n, {"floors": floors, "scenes": scenes}, ROOT / "out" / name, backend=tts_backend)
+        shutil.copy(info["path"], SITE / name)
+        caption = f"{series['title']} – Level {n}/8\n\n{lv['caption']}\n\n{DISCLOSURE[lang]}"
+        pending.append({"lang": lang, "file": name, "caption": caption, "topic": st["topic"]})
+        print(f"[{lang}] {series['title']} Teil {n} -> {name} ({info['duration']} s)")
+        st["next"] = n + 1
+        state[lang] = st
+        save(STATE, state)
+    save(PENDING, pending)
+
+
 def post(base_url):
     pending = load(PENDING, [])
     remaining = []
@@ -95,8 +149,11 @@ if __name__ == "__main__":
     ap.add_argument("--tts", default=os.environ.get("TTS", "edge"))
     ap.add_argument("--count", type=int, default=int(os.environ.get("VIDEOS_PER_RUN", "1")))
     ap.add_argument("--base-url", default=os.environ.get("PAGES_URL", ""))
+    ap.add_argument("--mode", default=os.environ.get("MODE", "series"), choices=["series", "classic"])
     a = ap.parse_args()
-    if a.step == "generate":
+    if a.step == "generate" and a.mode == "series":
+        generate_series(a.langs.split(","), a.tts)
+    elif a.step == "generate":
         generate(a.langs.split(","), a.tts, a.count)
     else:
         post(a.base_url)

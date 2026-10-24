@@ -56,12 +56,11 @@ def make_house(floor_imgs, current, reveal_next=False):
         box = floor_box(k)
         bw, bh = box[2] - box[0], box[3] - box[1]
         tile = cover(floor_imgs[k - 1], bw, bh) if floor_imgs[k - 1] is not None else Image.new("RGB", (bw, bh), (30, 30, 40))
-        locked = k > current and not (reveal_next and k == current + 1 and k < 8)
-        if k == 8 and current < 8:
-            locked = True
+        locked = k > current
+        teaser = reveal_next and k == current + 1
         if locked:
-            tile = tile.filter(ImageFilter.GaussianBlur(22))
-            tile = ImageEnhance.Brightness(tile).enhance(0.25)
+            tile = tile.filter(ImageFilter.GaussianBlur(22 if not teaser else 12))
+            tile = ImageEnhance.Brightness(tile).enhance(0.25 if not teaser else 0.7)
         elif k < current:
             tile = ImageEnhance.Brightness(tile).enhance(0.6)
         img.paste(tile, box[:2])
@@ -192,10 +191,9 @@ def render_part(series, n, images, out_path, backend="edge"):
             # Kopfzeile: Serie + Level
             d.rounded_rectangle([40, 80, 40 + 330, 150], radius=35, fill=(255, 214, 60))
             d.text((70, 88), f"LEVEL {n}/8", font=F_BLACK(48), fill=(10, 10, 20))
-            f = F_SEMI(32)
-            tw = d.textlength(lab["ai"], font=f)
-            d.rounded_rectangle([W - tw - 90, 90, W - 50, 146], radius=28, fill=(0, 0, 0))
-            d.text((W - tw - 70, 98), lab["ai"], font=f, fill=(255, 255, 255))
+            # dezente KI-Kennzeichnung unten links
+            d.text((36, H - 62), lab["ai"], font=F_SEMI(24), fill=(200, 200, 210),
+                   stroke_width=2, stroke_fill=(0, 0, 0))
             ft = F_BOLD(56)
             draw_centered(d, wrap(d, series["title"], ft, W - 120), ft, 190, (255, 255, 255),
                           stroke=6, stroke_fill=(0, 0, 0))
