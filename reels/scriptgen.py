@@ -299,7 +299,10 @@ Für jedes Level:
   Figur, dem Gegenspieler und Nebenfiguren (je eigene Stimme), dazwischen kurze Ich-Sätze der Figur. Jede Zeile
   ist ein neuer Beat: Demütigung, Konter, Schock, Wendung. Konkrete Zahlen und Details statt Allgemeinplätze.
   Erster Satz = Hook (Widerspruch mit Zahl oder ein Satz mitten im Streit). Genau ein Satz ist das Schlüssel-Zitat.
-- quote: genau dieses Zitat, wortgleich wie in der Story (ohne Anführungszeichen), max. 10 Wörter.
+- quote: genau dieses Zitat, wortgleich wie in der Story (ohne Anführungszeichen), max. 10 Wörter. Es wird von
+  einer SICHTBAREN Figur aus einem anderen (höheren) Level gesagt, die im Bild mit ihrer höheren Zahl erscheint.
+- quote_by: {{"level": int, "name": "Tante Rosa", "badge": "8.000 €", "character": englische Beschreibung
+  dieser Figur (gleiche Welt), "scene": englischer Bildprompt, wie sie den Satz herablassend sagt}}.
 - stats: genau 3 Kennzahlen der Figur für die Werte-Leiste, passend zum Thema, kurz:
   [{{"label": "Netto", "value": "1.380 €", "bar": 0.15}}, ...] (label max. 12 Zeichen, value max. 9 Zeichen,
   bar = 0..1 wie voll der Balken ist, steigt über die Level).
@@ -327,7 +330,7 @@ Außerdem:
 
 Antworte NUR mit JSON:
 {{"title": str, "house": str, "catchphrase": str, "links": [str, ...], "levels": [{{"n": 1, "open_loop": str, "gegenspieler": {{"level": int, "tat": str}}, "name": str, "badge": str, "verdict": str, "story": str,
-"gender": str, "twist": {{"delta": str, "after": str}}, "lines": [{{"s": str, "t": str}}], "quote": str, "stats": [{{"label": str, "value": str, "bar": float}}], "character": str, "visual": str,
+"gender": str, "twist": {{"delta": str, "after": str}}, "lines": [{{"s": str, "t": str}}], "quote": str, "quote_by": {{"level": int, "name": str, "badge": str, "character": str, "scene": str}}, "stats": [{{"label": str, "value": str, "bar": float}}], "character": str, "visual": str,
 "scenes": [str, str, str, str, str, str], "caption": str}}, ... bis n=8]}}
 """
 

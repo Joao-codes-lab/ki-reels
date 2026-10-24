@@ -12,7 +12,7 @@ import subprocess
 import tempfile
 from pathlib import Path
 
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 from . import sfx, tts
 from .render import FONTS, FPS, H, LABELS, W, chunk_words
@@ -77,14 +77,14 @@ def draw_hud(img, stats, t_in, first=None):
 INTRO = 1.1
 
 
-def draw_intro(img, n, t):
-    """Statt Aufzugtüren: großes „LEVEL n“ knallt ins Bild und fliegt dann nach oben links weg."""
+def draw_intro(img, txt, t):
+    """Statt Aufzugtüren: Rolle bzw. Betrag der Figur knallt ins Bild und fliegt dann nach oben links weg."""
     d = ImageDraw.Draw(img, "RGBA")
     k = ease(min(t / 0.15, 1))
     out = ease(max(t - 0.75, 0) / 0.35)
     size = int(230 * (0.5 + 0.6 * k - 0.1 * min(t / 0.3, 1)) * (1 - 0.7 * out))
     f = F_COND(max(size, 20))
-    txt = f"LEVEL {n}"
+    f = fit_font(d, txt, F_COND, max(size, 20), SAFE_W - 80, 20)
     w = d.textlength(txt, font=f)
     x = SAFE_CX - w / 2 - out * (SAFE_CX - 160)
     y = 760 - out * 700
@@ -187,6 +187,65 @@ def leaderboard(series, n, lab, reveal):
     return img
 
 
+def _portrait(pic, size, dark=False):
+    """Runder Ausschnitt aus dem oberen Bilddrittel (dort sitzt meist der Kopf mit der Stirn-Zahl)."""
+    w, h = pic.size
+    side = int(w * 0.8)
+    crop = pic.crop(((w - side) // 2, int(h * 0.12), (w + side) // 2, int(h * 0.12) + side)).resize((size, size))
+    if dark:
+        crop = Image.blend(crop.filter(ImageFilter.GaussianBlur(14)), Image.new("RGB", (size, size), (10, 10, 14)), 0.82)
+    mask = Image.new("L", (size, size), 0)
+    ImageDraw.Draw(mask).ellipse([0, 0, size - 1, size - 1], fill=255)
+    return crop, mask
+
+
+def endcard(series, n, lab, t, pic):
+    """Abspann: verschwommene Szene, große Karte der aktuellen Figur, gesperrte Karte des nächsten Levels."""
+    lv = series["levels"][n - 1]
+    bg = pic.resize((W // 8, H // 8)).filter(ImageFilter.GaussianBlur(3)).resize((W, H))
+    img = Image.blend(bg, Image.new("RGB", (W, H), (12, 10, 14)), 0.55)
+    d = ImageDraw.Draw(img, "RGBA")
+    sub = re.sub(r"^(Die|The)\s+8\s+Level[s]?\s+(von|of)\s+", "", series["title"], flags=re.I).upper()
+    head = lab["levels"]
+    hw = d.textlength(head, font=F_MONO(28))
+    d.text((SAFE_CX - hw / 2, 170), head, font=F_MONO(28), fill=(235, 228, 215))
+    fs = fit_font(d, sub, F_COND, 96, SAFE_W)
+    sw = d.textlength(sub, font=fs)
+    d.text((SAFE_CX - sw / 2, 215), sub, font=fs, fill=(255, 255, 255), stroke_width=4, stroke_fill=(0, 0, 0))
+    # aktuelle Figur
+    pop = ease(min(t / 0.35, 1))
+    size = int(380 * (0.85 + 0.15 * pop))
+    por, mask = _portrait(pic, size)
+    cx, cy = SAFE_CX, 560
+    d.ellipse([cx - size / 2 - 12, cy - 12, cx + size / 2 + 12, cy + size + 12], fill=ACCENT + (255,))
+    img.paste(por, (int(cx - size / 2), cy), mask)
+    d = ImageDraw.Draw(img, "RGBA")
+    name = lv["name"].split(",")[0].upper()
+    for txt, f, col, y in ((name, F_COND(84), (255, 255, 255), cy + size + 30),
+                           (str(lv["badge"]), F_COND(70), ACCENT, cy + size + 130)):
+        f = fit_font(d, txt, lambda z: F_COND(z), f.size, SAFE_W - 40, 30)
+        tw = d.textlength(txt, font=f)
+        d.text((SAFE_CX - tw / 2, y), txt, font=f, fill=col, stroke_width=5, stroke_fill=(0, 0, 0))
+    if n < 8:
+        # gesperrte Karte: nächstes Level als dunkle Silhouette mit Fragezeichen
+        y0 = 1300
+        d.rounded_rectangle([110, y0, 890, y0 + 190], radius=40, fill=(20, 18, 24, 230), outline=ACCENT + (255,), width=4)
+        sil, smask = _portrait(pic, 150, dark=True)
+        img.paste(sil, (140, y0 + 20), smask)
+        d = ImageDraw.Draw(img, "RGBA")
+        d.text((190, y0 + 40), "?", font=F_COND(90), fill=ACCENT)
+        pulse = 0.85 + 0.15 * abs(((t * 2) % 2) - 1)
+        nxt = f"LEVEL {n + 1}"
+        d.text((320, y0 + 28), nxt, font=F_COND(int(72 * pulse)), fill=(255, 255, 255))
+        d.text((320, y0 + 120), lab["next"], font=F_MONO(34), fill=ACCENT)
+    if lab.get("you"):
+        q = lab["you"]
+        qf = fit_font(d, q, F_COND, 54, SAFE_W, 30)
+        qw = d.textlength(q, font=qf)
+        d.text((SAFE_CX - qw / 2, 1540), q, font=qf, fill=(255, 255, 255), stroke_width=5, stroke_fill=(0, 0, 0))
+    return img
+
+
 def find_quote(words, quote):
     """Zeitbereich, in dem das Zitat gesprochen wird (oder None)."""
     if not quote:
@@ -224,7 +283,12 @@ def render_part(series, n, images, out_path, backend="gemini"):
         total = dur + 1.6
         chunks = chunk_words(words)
         qspan = find_quote(words, lv.get("quote"))
-        qcard = quote_card(lv["quote"], vl["quote"]) if qspan else None
+        qpic = None
+        if qspan and lv.get("quote_image") and Path(lv["quote_image"]).exists():
+            qpic = cover(Image.open(lv["quote_image"]).convert("RGB"), W, H)
+        qcard = quote_card(lv["quote"], vl["quote"]) if (qspan and qpic is None) else None
+        qby = lv.get("quote_by") or {}
+        role = (lv["name"].split(",")[-1].strip() if "," in lv["name"] else lv["name"]).upper()
         hud_at = INTRO
 
         cuts, t = [], 0.0
@@ -246,7 +310,18 @@ def render_part(series, n, images, out_path, backend="gemini"):
 
         def frame(t):
             if t >= outro:
-                img = leaderboard(series, n, vl, t - outro)
+                img = endcard(series, n, vl, t - outro, pics[0])
+            elif qspan and qspan[0] <= t < qspan[1] and qpic is not None:
+                # Die Person aus einem anderen Level ist zu sehen und sagt den Satz selbst
+                img = shot(qpic, 7, (t - qspan[0]) / max(qspan[1] - qspan[0], 0.1))
+                tag = f"{qby.get('name', '')} · {qby.get('badge', '')}".strip(" ·").upper()
+                if tag:
+                    dq = ImageDraw.Draw(img)
+                    tf = fit_font(dq, tag, F_COND, 54, SAFE_W - 40, 30)
+                    tw = dq.textlength(tag, font=tf)
+                    dq.rounded_rectangle([SAFE_CX - tw / 2 - 24, 1300, SAFE_CX + tw / 2 + 24, 1300 + tf.size * 1.3],
+                                         radius=20, fill=(235, 70, 70))
+                    dq.text((SAFE_CX - tw / 2, 1300 + tf.size * 0.1), tag, font=tf, fill=(255, 255, 255))
             elif qspan and qspan[0] <= t < qspan[1]:
                 img = qcard.copy()
             else:
@@ -257,21 +332,24 @@ def render_part(series, n, images, out_path, backend="gemini"):
                 if k > 0 and t - c0 < 0.07:
                     img = Image.blend(img, Image.new("RGB", (W, H), (255, 255, 255)), 0.3 * (1 - (t - c0) / 0.07))
                 if t < INTRO:
-                    draw_intro(img, n, t)
+                    draw_intro(img, role, t)
                 if t >= hud_at:
                     after = twist.get("after") if (twist_at and t >= twist_at) else None
                     draw_hud(img, lv.get("stats"), t - hud_at, after)
                 if twist_at and twist_at <= t < twist_at + 1.6:
                     draw_delta(img, twist["delta"], t - twist_at)
             d = ImageDraw.Draw(img)
-            # Level-Marke oben links (klein, dezent)
-            d.rounded_rectangle([60, 40, 250, 92], radius=26, fill=ACCENT)
-            d.text((84, 42), f"LEVEL {n}/8", font=F_COND(40), fill=INK)
+            # Marke oben links: Betrag der Figur statt „Level“ (Wunsch João)
+            pill = str(lv.get("badge") or role).upper()
+            pf = fit_font(d, pill, F_COND, 40, 420, 24)
+            pw = d.textlength(pill, font=pf)
+            d.rounded_rectangle([60, 40, 60 + pw + 48, 92], radius=26, fill=ACCENT)
+            d.text((84, 42), pill, font=pf, fill=INK)
             cur = None
             for c in chunks:
                 if c[0][0] - 0.05 <= t <= c[-1][1] + 0.25:
                     cur = c
-            in_quote = qspan and qspan[0] <= t < qspan[1]
+            in_quote = qspan and qspan[0] <= t < qspan[1] and qpic is None
             if cur and not in_quote and t < outro:
                 draw_captions_v4(d, cur, t)
             d.text((36, H - 62), lab["ai"], font=F_MONO(20), fill=(200, 200, 210))
