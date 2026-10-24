@@ -112,3 +112,35 @@ def review_video(path, name):
         except Exception as e:
             print("  Video-Jury:", model, str(e)[:150])
     return None, {}
+
+
+DESIGN_PROMPT = """Ihr seid eine strenge Design-Jury für virale Reels. Vorbilder: simpsonsvorhersage.n und herr.amorim
+(bunte 3D-Obst- und Gemüsemenschen mit Zahl auf der Stirn) sowie _8_levels (warme, detailreiche Webcomic-Szenen).
+Bewertet jedes der {n} Bilder (Reihenfolge wie gezeigt, Index ab 0) je 0-10: exotisch_individuell,
+nicht_menschlich_realistisch (10 = klar Cartoon/Figur, 0 = Foto eines Menschen oder Anime), wiedererkennung,
+lesbarkeit_handy, passt_zur_szene. Szene: {scene}
+Antworte NUR mit JSON: {{"punkte": [int pro Bild, 0-50], "sieger": int, "warum": str}}"""
+
+
+def pick_image(paths, scene):
+    """Gemini schaut sich mehrere Bildvarianten an und wählt die beste. Gibt (index, bewertung) zurück."""
+    key = os.environ.get("GEMINI_API_KEY")
+    if not key or len(paths) < 2:
+        return 0, {}
+    parts = [{"inlineData": {"mimeType": "image/jpeg", "data": base64.b64encode(Path(p).read_bytes()).decode()}}
+             for p in paths]
+    parts.append({"text": DESIGN_PROMPT.format(n=len(paths), scene=scene[:600])})
+    body = {"contents": [{"parts": parts}], "generationConfig": {"responseMimeType": "application/json"}}
+    for model in ("gemini-2.5-flash", "gemini-flash-latest"):
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={key}"
+        req = urllib.request.Request(url, json.dumps(body).encode(), {"Content-Type": "application/json"})
+        try:
+            with urllib.request.urlopen(req, timeout=180) as r:
+                data = json.load(r)
+            text = "".join(p.get("text", "") for p in data["candidates"][0]["content"]["parts"] if not p.get("thought"))
+            res = json.loads(re.sub(r"^```(json)?|```$", "", text.strip()).strip())
+            i = int(res.get("sieger", 0))
+            return (i if 0 <= i < len(paths) else 0), res
+        except Exception as e:
+            print("  Design-Jury:", model, str(e)[:150])
+    return 0, {}

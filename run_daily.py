@@ -124,6 +124,12 @@ def generate_series(langs, tts_backend, frames):
               save(PENDING, pending)
 
 
+DESIGN_VARIANTS = [
+    "glossy candy-colored textures, exaggerated cartoon proportions, dramatic reality-TV studio lighting",
+    "bold saturated colors, playful stylized shapes, cinematic rim light, shallow depth of field",
+]
+
+
 def generate_pilots(lang, tts_backend, k=5):
     """5 Pilotfolgen (Teil 1 von 5 verschiedenen Serien) zur Auswahl durch João. Werden nicht automatisch gepostet."""
     today = dt.date.today().isoformat()
@@ -146,11 +152,23 @@ def generate_pilots(lang, tts_backend, k=5):
             fr = scriptgen.FRAMES.get(frame, {})
             who = f"Main character: {lv['character']}. " if lv.get("character") else ""
             forehead = f" The glowing forehead display reads '{lv['badge']}'." if frame == "frucht" else ""
-            pics = []
-            for i, prompt in enumerate([lv["visual"]] + lv.get("scenes", [])):
+            # Design-Battle: 3 Stilvarianten des Titelbilds, die Design-Jury wählt den Look für alle Szenen
+            base = fr.get("style") or imagegen.STYLE
+            looks = [base] + [f"{base}, {v}" for v in DESIGN_VARIANTS]
+            prompts = [lv["visual"]] + lv.get("scenes", [])
+            full = [f"{fr.get('art', '')}{who}{p}.{forehead} Setting: {series['house']}" for p in prompts]
+            cands = []
+            for j, look in enumerate(looks):
+                p = ASSETS / sid / f"l1_0_v{j}.jpg"
+                imagegen.generate(full[0], p, seed=7919 + idx * 101 + j * 13, style=look)
+                cands.append(p)
+            win, verdict = critic.pick_image([str(c) for c in cands], full[0])
+            print(f"  Design-Battle: Variante {win} gewinnt {verdict.get('punkte', '')} {str(verdict.get('warum', ''))[:200]}")
+            look, seed0 = looks[win], 7919 + idx * 101 + win * 13
+            pics = [str(cands[win])]
+            for i, prompt in enumerate(full[1:], 1):
                 p = ASSETS / sid / f"l1_{i}.jpg"
-                full = f"{fr.get('art', '')}{who}{prompt}.{forehead} Setting: {series['house']}"
-                print(f"  Bild {i + 1}: {imagegen.generate(full, p, seed=7919 + i + idx * 101, style=fr.get('style'))}")
+                print(f"  Bild {i + 1}: {imagegen.generate(prompt, p, seed=seed0 + i, style=look)}")
                 pics.append(str(p))
             name = f"{today}_pilot{idx}_{sid}_teil1.mp4"
             info = render_lift(series, 1, pics, ROOT / "out" / name, backend=tts_backend)
@@ -159,7 +177,8 @@ def generate_pilots(lang, tts_backend, k=5):
             print(f"  Video-Jury: {score}/100 {review.get('verbesserungen', '')}")
             results.append({"nr": idx, "topic": topic, "frame": frame, "title": series["title"], "file": name,
                             "hook": idea.get("hook"), "warum": idea.get("warum_viral"), "score": score,
-                            "jury": review.get("verbesserungen"), "sid": sid})
+                            "jury": review.get("verbesserungen"), "sid": sid,
+                            "design": verdict})
         except Exception as e:
             print(f"  Pilot {idx} fehlgeschlagen: {e}")
         save(pdir / f"{today}_{lang}.json", results)

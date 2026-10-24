@@ -353,13 +353,38 @@ IDEEN:
 {ideas}"""
 
 
-def pilot_ideas(lang, used, k=5):
-    ideas = ask(PILOT_PROMPT.format(k=k, k2=k * 2, lang_name=LANG_NAMES[lang], used=", ".join(used) or "keine"))["ideen"]
-    ideas = [i for i in ideas if i.get("topic") and i.get("frame") in FRAMES]
-    try:
-        pick = ask(PILOT_JURY.format(k=k, ideas=json.dumps(list(enumerate(ideas)), ensure_ascii=False)))["auswahl"]
-        chosen = [ideas[int(i)] for i in pick if 0 <= int(i) < len(ideas)][:k]
-    except Exception as e:
-        print("  Pilot-Jury nicht erreichbar:", str(e)[:150])
-        chosen = ideas[:k]
-    return chosen or ideas[:k]
+CHALLENGE = """
+Aktuelle Favoriten aus der letzten Runde (eure Ideen müssen diese SCHLAGEN, also packender, überraschender,
+identifizierbarer sein; keine Kopien): {champs}"""
+
+
+def _fresh_ideas(lang, used, n, champs=None):
+    prompt = PILOT_PROMPT.format(k=n // 2, k2=n, lang_name=LANG_NAMES[lang], used=", ".join(used) or "keine")
+    if champs:
+        prompt += CHALLENGE.format(champs=json.dumps(champs, ensure_ascii=False))
+    ideas = ask(prompt)["ideen"]
+    return [i for i in ideas if i.get("topic") and i.get("frame") in FRAMES]
+
+
+def pilot_ideas(lang, used, k=5, rounds=3):
+    """Battle Royale: pro Runde treten die Überlebenden gegen neue Herausforderer an, die Jury lässt nur die k
+    besten weiter. Nach der letzten Runde bleiben die k stärksten Ideen übrig."""
+    survivors = []
+    for r in range(1, rounds + 1):
+        try:
+            pool = survivors + _fresh_ideas(lang, used, k * 2, survivors)
+        except Exception as e:
+            print(f"  Runde {r}: neue Ideen fehlgeschlagen:", str(e)[:150])
+            pool = survivors
+        if len(pool) <= k:
+            survivors = pool
+            continue
+        try:
+            pick = ask(PILOT_JURY.format(k=k, ideas=json.dumps(list(enumerate(pool)), ensure_ascii=False)))
+            survivors = [pool[int(i)] for i in pick["auswahl"] if 0 <= int(i) < len(pool)][:k] or pool[:k]
+            print(f"  Battle-Runde {r}: {len(pool)} Ideen -> {[i['topic'] for i in survivors]}")
+            print(f"    Jury: {str(pick.get('begruendung', ''))[:300]}")
+        except Exception as e:
+            print(f"  Runde {r}: Pilot-Jury nicht erreichbar:", str(e)[:150])
+            survivors = pool[:k]
+    return survivors
