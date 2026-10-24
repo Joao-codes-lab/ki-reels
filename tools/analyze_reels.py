@@ -63,12 +63,13 @@ def main():
 
     model = WhisperModel("small", device="cpu", compute_type="int8")
     out = Path(a.out)
+    out.mkdir(parents=True, exist_ok=True)
     summary = []
     for url in a.urls:
         with tempfile.TemporaryDirectory() as tmp:
             vids = download(url, tmp, a.max)
             if not vids:
-                summary.append(f"- {url}: nichts geladen (evtl. Login nötig)")
+                summary.append(f"- {url}: nichts geladen (Profilseiten brauchen bei Instagram einen Login, einzelne Reel-Links gehen oft)")
             for v in vids:
                 acc, vid = v.stem.split("__", 1)
                 d = out / acc
