@@ -24,3 +24,13 @@ jobs:
             printf "%-26s %-22s %s\n" "$h" "$ttr" "$igr"
             sleep 2
           done < werkzeuge/handles.txt
+      - name: Instagram ueber Apify pruefen
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+        run: |
+          users=$(grep -v '^$' werkzeuge/handles.txt | jq -R . | jq -sc .)
+          curl -s -X POST -H "Content-Type: application/json" \
+            "https://api.apify.com/v2/acts/apify~instagram-profile-scraper/run-sync-get-dataset-items?token=$APIFY_TOKEN&timeout=240" \
+            -d "{\"usernames\": $users}" > /tmp/ig.json
+          echo "Instagram-Treffer (= BELEGT), alle anderen vermutlich frei:"
+          jq -r '.[] | "\(.username // .inputUrl // "?")  followers=\(.followersCount // "-")  error=\(.error // "-")"' /tmp/ig.json || head -c 2000 /tmp/ig.json
