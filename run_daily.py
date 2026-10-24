@@ -93,7 +93,8 @@ def generate_series(langs, tts_backend):
         floors = []
         for lv in series["levels"]:  # Hauptbild jeder Etage (einmal pro Serie)
             p = adir / f"floor_{lv['n']}.jpg"
-            src = imagegen.generate(f"Inside {series['house']}, floor {lv['n']} of 8: {lv['visual']}", p, seed=lv["n"] * 7919)
+            who = f"Main character: {lv['character']}. " if lv.get("character") else ""
+            src = imagegen.generate(f"Inside {series['house']}, floor {lv['n']} of 8. {who}{lv['visual']}", p, seed=lv["n"] * 7919)
             if src not in ("cache",):
                 print(f"  Bild Etage {lv['n']}: {src}")
             floors.append(str(p))
@@ -102,7 +103,8 @@ def generate_series(langs, tts_backend):
         scenes = [floors[n - 1]]
         for i, prompt in enumerate(lv.get("scenes", [])):
             p = adir / f"l{n}_s{i + 1}.jpg"
-            print(f"  Szene {i + 1}: {imagegen.generate(prompt, p, seed=n * 104729 + i)}")
+            who = f"Main character: {lv['character']}. " if lv.get("character") else ""
+            print(f"  Szene {i + 1}: {imagegen.generate(who + prompt, p, seed=n * 7919)}")  # gleicher Seed = ähnlichere Figur
             scenes.append(str(p))
         name = f"{today}_{st['id']}_teil{n}.mp4"
         (ROOT / "out").mkdir(exist_ok=True)

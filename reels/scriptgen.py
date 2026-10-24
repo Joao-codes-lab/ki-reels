@@ -153,6 +153,8 @@ Für jedes Level:
 - verdict: Urteil in 1-3 Wörtern in GROSSBUCHSTABEN, z. B. "NICHT REICH"
 - story: gesprochener Text, 140-170 Wörter (ca. 60-70 Sekunden), kurze Sätze, Du-Ansprache erlaubt,
   beginnt mit dem Hook, endet mit dem Cliffhanger (Level 8: mit der Kommentar-Frage).
+- character: englische, feste Beschreibung des Aussehens der Figur (Geschlecht, Alter, Haare, Gesicht,
+  Kleidung, ein markantes Detail), max. 30 Wörter. Wird in jedes Bild dieses Levels übernommen.
 - visual: englischer Bildprompt für die Hauptszene der Figur in ihrer Wohnung/ihrem Stockwerk
   (Person, Tätigkeit, Gefühl, Einrichtung, Licht). Keine Schrift im Bild.
 - scenes: 2 weitere englische Bildprompts (Schlüsselmomente der Story, gleiche Figur beschrieben:
@@ -165,7 +167,7 @@ Außerdem:
 
 Antworte NUR mit JSON:
 {{"title": str, "house": str, "levels": [{{"n": 1, "name": str, "badge": str, "verdict": str, "story": str,
-"visual": str, "scenes": [str, str], "caption": str}}, ... bis n=8]}}
+"character": str, "visual": str, "scenes": [str, str], "caption": str}}, ... bis n=8]}}
 """
 
 COUNTRIES = {"de": "Deutschland", "en": "USA", "es": "Spanien", "pt": "Brasilien", "fr": "Frankreich"}
