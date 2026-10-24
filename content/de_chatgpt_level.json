@@ -1,0 +1,20 @@
+{
+  "lang": "de",
+  "id": "de_chatgpt_level",
+  "topic": "ChatGPT",
+  "title": "Die 8 Level der ChatGPT-Nutzer",
+  "hook": "Es gibt acht Level, ChatGPT zu nutzen. Die meisten bleiben bei Level zwei hängen. Wo bist du?",
+  "levels": [
+    {"n": 1, "name": "Der Googler", "text": "Du stellst ChatGPT Fragen wie einer Suchmaschine. Ein Satz rein, irgendeine Antwort raus."},
+    {"n": 2, "name": "Der Kopierer", "text": "Du lässt dir Texte schreiben und kopierst sie eins zu eins. Jeder merkt, dass es KI ist."},
+    {"n": 3, "name": "Der Rollenspieler", "text": "Du sagst: Du bist ein Marketing-Experte. Plötzlich werden die Antworten deutlich besser."},
+    {"n": 4, "name": "Der Kontextgeber", "text": "Du erklärst Ziel, Zielgruppe und Format, bevor du fragst. Die Antwort passt beim ersten Versuch."},
+    {"n": 5, "name": "Der Beispielgeber", "text": "Du zeigst ChatGPT zwei Beispiele, wie es klingen soll. Es kopiert deinen Stil perfekt."},
+    {"n": 6, "name": "Der Kritiker", "text": "Du lässt ChatGPT seine eigene Antwort bewerten und verbessern. Zwei Runden, doppelte Qualität."},
+    {"n": 7, "name": "Der Systembauer", "text": "Du speicherst deine besten Prompts als Vorlagen und eigene GPTs. Du fängst nie wieder bei null an."},
+    {"n": 8, "name": "Der Automatisierer", "text": "ChatGPT arbeitet für dich, während du schläfst. Verbunden mit deinen Tools, ganz ohne Klicks."}
+  ],
+  "cta": "Folge für Teil zwei. Meine besten Prompt-Vorlagen findest du im Link in der Bio.",
+  "caption": "Auf welchem Level bist du? 👇 #chatgpt #ki #produktivität #prompts #lernen",
+  "keywords": ["ChatGPT Tipps", "KI lernen", "Prompts"]
+}
