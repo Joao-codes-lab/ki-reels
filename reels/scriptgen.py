@@ -281,5 +281,7 @@ def write_series(topic, lang, frame="aufzug"):
                                   next_line=NEXT_LINE.get(lang, NEXT_LINE["en"]).format(n="X"))
     prompt += blueprint_hint(topic)
     s = ensure_next_line(validate_series(ask(prompt)), lang)
+    from . import critic  # unabhängige Jury bewertet und lässt überarbeiten
+    s = ensure_next_line(validate_series(critic.improve_series(s, ask, f"{lang}_{frame}_{topic}")), lang)
     s.update({"lang": lang, "topic": topic, "frame": frame})
     return s

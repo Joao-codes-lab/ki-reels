@@ -109,7 +109,13 @@ def gemini_analysis(video):
 
 
 def transcribe(model, video):
-    segs, info = model.transcribe(str(video), vad_filter=True)
+    import numpy as np  # selbst dekodieren, PyAV-Versionen sind mit faster-whisper oft inkompatibel
+    raw = subprocess.run(["ffmpeg", "-loglevel", "error", "-i", str(video), "-f", "s16le", "-ac", "1", "-ar", "16000", "-"],
+                         capture_output=True).stdout
+    if not raw:
+        return "?", "(kein Ton)"
+    audio = np.frombuffer(raw, np.int16).astype(np.float32) / 32768
+    segs, info = model.transcribe(audio, vad_filter=True)
     lines = [f"[{s.start:5.1f}s] {s.text.strip()}" for s in segs]
     return info.language, "\n".join(lines)
 
@@ -145,7 +151,10 @@ def main():
                 if ij.exists():
                     info = json.loads(ij.read_text())
                 dur = contact_sheet(v, d / f"{vid}.jpg")
-                lang, text = transcribe(model, v)
+                try:
+                    lang, text = transcribe(model, v)
+                except Exception as e:
+                    lang, text = "?", f"(Transkript fehlgeschlagen: {e})"
                 md = [f"# {acc} / {vid}", "",
                       f"- URL: {info.get('webpage_url', url)}",
                       f"- Dauer: {dur:.1f} s, Sprache: {lang}",

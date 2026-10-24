@@ -19,6 +19,9 @@ from . import sfx, tts
 from .render import F_BLACK, F_BOLD, F_DISPLAY, F_SEMI, FPS, H, LABELS, W, chunk_words, draw_centered, wrap
 
 AMBER = (255, 190, 40)
+# Sicherer Bereich: rechts liegen bei TikTok/Reels die Buttons, unten die Beschreibung
+SAFE_X0, SAFE_X1, SAFE_BOTTOM = 60, 940, 1640
+SAFE_W, SAFE_CX = SAFE_X1 - SAFE_X0, (SAFE_X0 + SAFE_X1) / 2
 YELLOW = (255, 225, 60)
 CUT = 2.3          # Sekunden pro Bild
 DOOR_OPEN = (0.55, 1.15)
@@ -121,7 +124,7 @@ def draw_indicator(img, shown, n_current, title, blink=False):
         tw = d.textlength(lab, font=f)
         d.text((cx - tw / 2, y - 21), lab, font=f, fill=(15, 15, 15) if k <= n_current else (200, 200, 210))
     ft = F_BOLD(42)
-    draw_centered(d, wrap(d, title, ft, W - 160), ft, 360, (255, 255, 255), stroke=6, stroke_fill=(0, 0, 0))
+    draw_centered(d, wrap(d, title, ft, W - 200)[:2], ft, 360, (255, 255, 255), stroke=6, stroke_fill=(0, 0, 0))
 
 
 def badge_image(badge, verdict, name):
@@ -129,10 +132,12 @@ def badge_image(badge, verdict, name):
     t1, t2 = badge.upper() + "  →  ", verdict.upper()
     tmp = ImageDraw.Draw(Image.new("RGB", (1, 1)))
     w1, w2 = tmp.textlength(t1, font=fb), tmp.textlength(t2, font=fb)
-    if w1 + w2 > W - 110:
-        fb = F_BLACK(48)
+    size = 66
+    while w1 + w2 > SAFE_W - 80 and size > 30:
+        size -= 4
+        fb = F_BLACK(size)
         w1, w2 = tmp.textlength(t1, font=fb), tmp.textlength(t2, font=fb)
-    fn = F_BOLD(44)
+    fn = fit_font(tmp, name, F_BOLD, 44, SAFE_W - 80)
     wn = tmp.textlength(name, font=fn)
     bw = int(max(w1 + w2, wn) + 70)
     im = Image.new("RGBA", (bw, 190), (0, 0, 0, 0))
@@ -163,18 +168,20 @@ def pop_scale(dt):
     return 1.0
 
 
-def draw_captions(d, chunk, t, y=1500):
-    fnt = F_BLACK(84)
+def fit_font(d, text, make, size, max_w, min_size=34):
+    """Größte Schrift, bei der `text` in `max_w` passt."""
+    while size > min_size and d.textlength(text, font=make(size)) > max_w:
+        size -= 4
+    return make(size)
+
+
+def draw_captions(d, chunk, t, y=1480):
     words = [w[2] for w in chunk]
+    fnt = fit_font(d, " ".join(words), F_BLACK, 84, SAFE_W - 20)
     space = d.textlength(" ", font=fnt)
     widths = [d.textlength(w, font=fnt) for w in words]
     total_w = sum(widths) + space * (len(words) - 1)
-    if total_w > W - 110:
-        fnt = F_BLACK(64)
-        space = d.textlength(" ", font=fnt)
-        widths = [d.textlength(w, font=fnt) for w in words]
-        total_w = sum(widths) + space * (len(words) - 1)
-    x = (W - total_w) / 2
+    x = SAFE_CX - total_w / 2
     for (a, b, w), ww in zip(chunk, widths):
         active = a <= t < b + 0.05
         d.text((x, y), w, font=fnt, fill=YELLOW if active else (255, 255, 255), stroke_width=10, stroke_fill=(0, 0, 0))
@@ -248,14 +255,15 @@ def render_part(series, n, images, out_path, backend="gemini"):
             d = ImageDraw.Draw(img)
             draw_indicator(img, shown, n if t < outro + 0.6 else min(n + 1, 8), series["title"], blink)
             if badge_at <= t < outro:
-                paste_scaled(img, badge, W / 2, 1255, pop_scale(t - badge_at))
+                paste_scaled(img, badge, SAFE_CX, 1255, pop_scale(t - badge_at))
             if t >= outro + 0.5:
                 if last:
-                    draw_centered(d, wrap(d, ll["which"], F_DISPLAY(90), W - 140), F_DISPLAY(90), 1150, YELLOW,
+                    draw_centered(d, wrap(d, ll["which"], F_DISPLAY(90), SAFE_W), F_DISPLAY(90), 1150, YELLOW,
                                   stroke=8, stroke_fill=(0, 0, 0))
-                    draw_centered(d, [ll["comment"]], F_BOLD(52), 1360, (255, 255, 255), stroke=6, stroke_fill=(0, 0, 0))
+                    draw_centered(d, [ll["comment"]], fit_font(d, ll["comment"], F_BOLD, 52, SAFE_W), 1360, (255, 255, 255), stroke=6, stroke_fill=(0, 0, 0))
                 else:
-                    draw_centered(d, [ll["next"].format(n=n + 1)], F_BOLD(54), 1330, (255, 255, 255),
+                    nxt = ll["next"].format(n=n + 1)
+                    draw_centered(d, [nxt], fit_font(d, nxt, F_BOLD, 54, SAFE_W), 1330, (255, 255, 255),
                                   stroke=6, stroke_fill=(0, 0, 0))
             cur = None
             for c in chunks:

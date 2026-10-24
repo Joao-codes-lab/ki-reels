@@ -13,7 +13,7 @@ import os
 import shutil
 from pathlib import Path
 
-from reels import buffer, imagegen, scriptgen
+from reels import buffer, critic, imagegen, scriptgen
 from reels.render import render
 from reels.render_lift import render_part as render_lift
 
@@ -107,8 +107,14 @@ def generate_series(langs, tts_backend, frames):
             name = f"{today}_{st['id']}_teil{n}.mp4"
             info = render_lift(series, n, pics, ROOT / "out" / name, backend=tts_backend)
             shutil.copy(info["path"], SITE / name)
+            score, review = critic.review_video(info["path"], name[:-4])
+            print(f"  Video-Jury: {score}/100 {review.get('verbesserungen', '')}")
             caption = f"{series['title']} – Level {n}/8\n\n{lv['caption']}\n\n{DISCLOSURE[lang]}"
-            pending.append({"lang": lang, "frame": frame, "file": name, "caption": caption, "topic": st["topic"]})
+            if score is not None and score < critic.VIDEO_MIN:
+                print(f"  zurückgehalten (unter {critic.VIDEO_MIN} Punkten), wird nicht gepostet")
+            else:
+                pending.append({"lang": lang, "frame": frame, "file": name, "caption": caption,
+                                "topic": st["topic"], "score": score})
             print(f"[{key}] {series['title']} Teil {n} -> {name} ({info['duration']} s)")
             st["next"] = n + 1
             st["last_date"] = today
