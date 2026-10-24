@@ -230,6 +230,8 @@ def continue_pilots(levels=3, top=1):
         return
     newest = files[-1].name[:10]
     tts_backend = "eleven" if os.environ.get("ELEVENLABS_API_KEY") else os.environ.get("TTS", "gemini")
+    done_path = DATA / "fortsetzungen.json"  # schont ElevenLabs-Guthaben: nichts doppelt rendern
+    done = load(done_path, [])
     for f in [x for x in files if x.name.startswith(newest)]:
         best = sorted([p for p in load(f, []) if p.get("sid")], key=lambda p: -(p.get("score") or 0))[:top]
         for p in best:
@@ -238,12 +240,16 @@ def continue_pilots(levels=3, top=1):
                 continue
             print(f"[Fortsetzung] {series['title']} (Pilot-Score {p.get('score')})")
             for n in range(2, min(levels, len(series["levels"])) + 1):
+                if f"{p['sid']}:{n}" in done:
+                    continue
                 try:
                     pics, _ = level_images(series, n, p["frame"], ASSETS / p["sid"], seed=7919 + n * 101)
                     name = f"{today}_fortsetzung_{p['sid']}_teil{n}.mp4"
                     info = render_lift(series, n, pics, ROOT / "out" / name, backend=tts_backend)
                     shutil.copy(info["path"], SITE / name)
                     print(f"  Level {n} -> {name} ({info['duration']} s)")
+                    done.append(f"{p['sid']}:{n}")
+                    save(done_path, done)
                 except Exception as e:
                     print(f"  Level {n} fehlgeschlagen: {e}")
 
