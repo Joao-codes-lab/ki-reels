@@ -2,7 +2,7 @@
 
 - URL: https://www.instagram.com/p/De2WNH4syRR/
 - Dauer: 110.9 s, Sprache: ?
-- Likes: 284, Kommentare: 17, Views: 32783
+- Likes: 339, Kommentare: 19, Views: 37639
 - Datum: 2026-10-23T19:51:36.000Z
 
 ## Beschreibung

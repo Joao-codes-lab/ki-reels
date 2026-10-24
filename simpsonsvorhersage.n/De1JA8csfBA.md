@@ -2,7 +2,7 @@
 
 - URL: https://www.instagram.com/p/De1JA8csfBA/
 - Dauer: 89.4 s, Sprache: de
-- Likes: 6034, Kommentare: 148, Views: 304533
+- Likes: 6330, Kommentare: 153, Views: 322094
 - Datum: 2026-10-23T08:37:11.000Z
 
 ## Beschreibung

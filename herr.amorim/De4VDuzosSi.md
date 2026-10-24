@@ -2,7 +2,7 @@
 
 - URL: https://www.instagram.com/p/De4VDuzosSi/
 - Dauer: 82.3 s, Sprache: ?
-- Likes: 145, Kommentare: 4, Views: 4061
+- Likes: 532, Kommentare: 6, Views: 13473
 - Datum: 2026-10-24T14:20:28.000Z
 
 ## Beschreibung
