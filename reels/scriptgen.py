@@ -273,7 +273,7 @@ Blickwinkel und will alle Teile sehen. Lege pro Level das Feld "gegenspieler" ab
 tut). Level 8 löst das Netz auf.
 
 Easter Egg: In JEDER Szene ist irgendwo klein eine goldene Münze versteckt (Running Gag für die Kommentare).
-Baue Gegenspieler (im Bild mit seiner Stirn-Zahl) und Münze in visual/scenes ein.
+Der Gegenspieler muss in MINDESTENS 2 Szenen sichtbar sein (mit Sorte, Outfit und seiner höheren Stirn-Zahl, in Szene mit der Figur), damit man ihn vor Augen hat. Die Münze steckt in jeder Szene.
 
 Identifikation: Jede Figur muss sich anfühlen wie jemand, den man kennt oder selbst ist: ein alltäglicher,
 konkreter Moment (Supermarktkasse, Kontoauszug, WG-Küche, Pendelzug), ein innerer Gedanke, eine kleine Schwäche,
