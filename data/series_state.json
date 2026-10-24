@@ -1,3 +1,17 @@
 {
-  "_done": []
+  "_done": [
+    {
+      "lang": "de",
+      "frame": "aufzug",
+      "topic": "Reichtum in Deutschland",
+      "start": "2026-10-24"
+    }
+  ],
+  "de:aufzug": {
+    "id": "de_aufzug_reichtum_in_deutschland",
+    "topic": "Reichtum in Deutschland",
+    "frame": "aufzug",
+    "next": 2,
+    "last_date": "2026-10-24"
+  }
 }

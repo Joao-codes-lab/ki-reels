@@ -1,134 +1,288 @@
 {
   "title": "Die 8 Level von Reichtum in Deutschland",
-  "house": "A modern elevator shaft connecting eight different economic realities in contemporary Germany",
+  "house": "A contemporary German metropolis with cobblestone kiez alleys, red-brick altbau quarters, sleek glass high-rises by the river, and neighborhood tram lines connecting everyone.",
+  "links": [
+    "Jonas (Level 1) hält an der roten Ampel vor dem Café Kranich, wo Meryem (Level 2) arbeitet, und liefert später Sushi an Sarah (Level 4).",
+    "Meryem (Level 2) bedient Tim (Level 3) jeden Morgen und erhält regelmäßig ein Zehn-Euro-Trinkgeld vom unauffälligen Stammgast Heinrich (Level 8).",
+    "Tim (Level 3) wohnt zur Miete in einem unsanierten Altbau, der Felix (Level 7) gehört und dessen Heizungsrohre von Birgits Handwerker-Truppe (Level 6) instand gesetzt werden.",
+    "Sarah (Level 4) bestellt spätabends Essen, das von Jonas (Level 1) gebracht wird, und strebt den Lebensstil der Penthouse-Klasse um Markus (Level 5) an.",
+    "Markus (Level 5) mietet ein Luxus-Penthouse in einem Neubau-Komplex, der Felix (Level 7) gehört, und operiert Angehörige von Birgits (Level 6) Belegschaft.",
+    "Birgit (Level 6) saniert als Generalunternehmerin Altbauten für Felix (Level 7) und Stiftungsliegenschaften von Heinrich (Level 8), während sie Tims (Level 3) Wohnhaus betreut.",
+    "Felix (Level 7) hält Mietshäuser von Tim (Level 3) und Markus (Level 5), zahlt jedoch Erbbauzins an die alteingesessene Familienstiftung von Heinrich (Level 8).",
+    "Heinrich (Level 8) ist der stille Eigentümer des Grund und Bodens unter dem Café Kranich (Level 2) sowie von Felix' (Level 7) Immobilienarealen und beobachtet Jonas (Level 1) vom Kaffeehaustisch aus."
+  ],
   "levels": [
     {
       "n": 1,
-      "name": "Kevin, 24, Bürgergeld-Empfänger",
-      "badge": "563 € plus Miete",
-      "verdict": "ÜBERLEBEN",
-      "story": "Level 1: 563 Euro Bürgergeld im Monat – und am zehnten Tag ist das Konto leer. Kevin starrt auf das rote Display seines Smartphones in der Berliner Einzimmerwohnung. Dispo ausgereizt, Stromnachzahlung von 350 Euro liegt auf dem kaputten Tisch. Er greift nach seiner alten Jacke, um Pfandflaschen zu sammeln, während der Nachbar laut gegen die Wand klopft. Jedes Mal rechnest du jeden Cent nach und fragst dich, wann die nächste Preiserhöhung im Supermarkt kommt. Kennst du diesen kalten Angstschweiß am Monatsanfang? Du fühlst dich gefangen im System, ohne einen Ausweg. Doch bald ändert sich das Spiel komplett. Das siehst du in Level 2.",
-      "character": "Young man, 24, unstyled brown hair, tired eyes with dark circles, wearing a faded gray hoodie, sitting in a messy small apartment.",
-      "visual": "A young man staring worriedly at a smartphone showing a negative bank balance in a cluttered, dimly lit German apartment.",
-      "scenes": [
-        "Close-up of a hand holding a red notification on a smartphone screen showing a negative balance",
-        "Medium shot of a young man looking at a stack of unpaid utility bills on a worn-out kitchen table",
-        "Close-up of empty kitchen cabinets with only a box of cheap pasta left inside",
-        "Wide shot of a person walking alone down a gray German street at dusk carrying a plastic bag of empty bottles"
+      "name": "Jonas, 23, Fahrradkurier",
+      "badge": "1.150 € netto",
+      "verdict": "EXISTENZMINIMUM",
+      "story": "Wenn dir bei Schneeregen die Fahrradkette reißt und du genau weißt: Wegen dieser Reparatur gibt es die nächsten vier Tage nur Leitungswasser und Toast. Ich bin Jonas, 23, Fahrradkurier. Seit sechs Uhr morgens strample ich durch den Novembermatsch. Mein Knie brennt. Der Chef rief: Zehn Minuten Verspätung kosten dich den Bonus. Da waren es nur noch fünfzehn Euro bis zum Monatsende. Mein WG-Zimmer kostet 420 Euro, warm, ohne Heizung nach 22 Uhr. An der roten Ampel vor dem Kiez-Café Kranich wärme ich mir die Hände am Auspuff eines Taxis. Drinnen steht Meryem und schäumt Milch auf. Ich zähle im Kopf Pfandflaschen zusammen, um heute Abend Nudeln mit Pesto zu kochen. Kennst du das Gefühl, wenn ein platter Reifen deine gesamte Monatsplanung ruiniert? Jeder Cent ist ein Überlebenskampf. Aber wie lebt man, wenn man zwar Vollzeit schuftet, aber trotzdem bei jeder Rechnung zittert? Das siehst du in Level 2.",
+      "quote": "Zehn Minuten Verspätung kosten dich den Bonus.",
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "1.150 €",
+          "bar": 0.08
+        },
+        {
+          "label": "Warmmiete",
+          "value": "420 €",
+          "bar": 0.12
+        },
+        {
+          "label": "Puffer",
+          "value": "15 €",
+          "bar": 0.01
+        }
       ],
-      "caption": "Wie kommst du aus dem Minus heraus? Wo stehst du am Monatsanfang? #Bürgergeld #Armut #Finanzen #Geld #Deutschland"
+      "character": "Messy brown bangs under a neon-yellow bicycle helmet, bright turquoise rain jacket over a gray hoodie, and a worn waterproof courier backpack.",
+      "visual": "A ball-headed courier figure shivering in pouring rain beside a bicycle on wet asphalt, warm yellow glow spilling from a cozy cafe window nearby.",
+      "scenes": [
+        "Close-up of small gloved ball-head hands desperately repairing a snapped bike chain on a rainy curb, water splashing around.",
+        "A cramped, dimly lit shared apartment bedroom with a thin mattress on the floor and empty bottle deposits lined against the wall.",
+        "Looking through the misty glass window of Cafe Kranich from the outside street, watching the cozy warm interior while standing in the cold.",
+        "Counting tiny copper euro coins and supermarket discount receipts under the harsh fluorescent light of a discounter checkout."
+      ],
+      "caption": "Wenn ein platter Fahrradreifen deine Finanzen komplett ins Wanken bringt. Wo stehst du im Leben? #reichtum #finanzen #deutschland #armutsgrenze #mindestlohn"
     },
     {
       "n": 2,
-      "name": "Sarah, 29, Friseurin",
-      "badge": "1.750 € netto",
+      "name": "Meryem, 29, Barista",
+      "badge": "1.780 € netto",
       "verdict": "KNAPP DABEI",
-      "story": "Level 2: 1.750 Euro netto im Monat – und nach der Miete bleibt nur der Dispo. Sarah zählt im Hamburger Supermarkt die Cent-Stücke an der Kasse, weil die Butter schon wieder teurer geworden ist. Sie arbeitet 40 Stunden die Woche auf den Beinen, aber für den Urlaub an der Ostsee reicht es seit drei Jahren nicht mehr. Jedes Mal, wenn die Autowerkstatt anruft, bricht Panik aus. Kennst du das Gefühl, Vollzeit zu arbeiten und trotzdem jeden Cent umdrehen zu müssen? Du strampelst jeden Tag, kommst aber keinen Schritt vorwärts. Doch es gibt Stufen, wo Geld plötzlich eine andere Rolle spielt. Das siehst du in Level 3.",
-      "character": "Young woman, 29, blonde dyed hair tied in a messy bun, wearing a black hairdressing apron over a simple sweater, looking stressed.",
-      "visual": "A young female hairdresser counting small coins at a German supermarket checkout counter with a stressed expression.",
-      "scenes": [
-        "Close-up of hands counting euro coins and small bills on a worn wooden table",
-        "Medium shot of a woman looking at a high electricity bill with a worried face in a modest kitchen",
-        "Close-up reflection in a salon mirror of a tired worker taking a deep breath during a break",
-        "Wide shot of a small German apartment living room with secondhand furniture"
+      "story": "Vollzeit schuften, aber vor der Supermarktkasse jedes Mal innerlich zittern. Ich bin Meryem, 29, Barista im Café Kranich. Mit Trinkgeld komme ich auf 1.780 Euro netto. Klingt machbar, bis die Warmmiete von 750 Euro für meine Einzimmerwohnung abgeht. Heute Morgen stand Jonas mit tropfender Lieferjacke vor meiner Scheibe, während ich Hafermilch schäumte. Meine Mutter mahnte am Telefon: Leg jeden Monat wenigstens fünfzig Euro für Notfälle zurück. Doch wie soll das gehen? Die Stromnachzahlung lag gestern im Kasten: 310 Euro. Jetzt stehe ich beim Discounter und rechne Butter gegen Käse auf. Mein Highlight der Woche ist ein älterer Stammgast im abgetragenen Wollmantel, der mir immer zehn Euro Trinkgeld zusteckt. Wo stehst du am Monatsende: Sparbuch oder Dispo? Doch was passiert, wenn man ein solides Gehalt hat, aber der Traum vom Eigenheim trotzdem unerreichbar bleibt? Das siehst du in Level 3.",
+      "quote": "Leg jeden Monat wenigstens fünfzig Euro für Notfälle zurück.",
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "1.780 €",
+          "bar": 0.18
+        },
+        {
+          "label": "Warmmiete",
+          "value": "750 €",
+          "bar": 0.25
+        },
+        {
+          "label": "Puffer",
+          "value": "45 €",
+          "bar": 0.04
+        }
       ],
-      "caption": "Wer kennt den Kampf mit dem Mindestlohn? Wo ziehst du die Grenze beim Einkaufen? #Mindestlohn #Arbeit #Inflation #Geld #Leben"
+      "character": "High dark curly bun, emerald green knitted sweater beneath a rustic denim barista apron, with a small brass hoop earring in one ear.",
+      "visual": "A ball-headed female barista standing behind a warm wooden espresso bar steaming milk, glancing worriedly at a banking app on her phone.",
+      "scenes": [
+        "Steaming oat milk at a gleaming chrome espresso machine while an older customer in an olive coat slips a banknote into the glass tip jar.",
+        "Opening a yellow utility bill envelope in a tiny sunlit studio apartment, an expression of shock visible in furrowed eyebrows.",
+        "Hesitating in front of supermarket shelves, comparing generic brand cheese prices with a calculator open on a cracked smartphone screen.",
+        "Walking briskly along a chilly city sidewalk at dusk past high-end boutiques, clutching a warm canvas tote bag tightly."
+      ],
+      "caption": "Vollzeit gearbeitet und am 25. des Monats trotzdem Angst vor der Supermarktkasse. Kennst du das? #mittelschicht #inflation #deutschland #gehalt #sparen"
     },
     {
       "n": 3,
-      "name": "Markus, 34, Sachbearbeiter",
-      "badge": "2.900 € netto",
-      "verdict": "MITTELSCHICHT",
-      "story": "Level 3: 2.900 Euro netto – und der Traum vom Eigenheim platzt an den Zinsen. Markus sitzt am Küchentisch in Köln und blättert durch die Baufinanzierung, die plötzlich doppelt so teuer ist wie kalkuliert. Der Gebrauchtwagen braucht TÜV, die Nebenkostenabrechnung fordert Nachzahlung. Eigentlich läuft alles normal, aber es fühlt sich an wie Stillstand trotz Vollzeit-Job. Ertappst du dich auch dabei, wie du neidisch auf die schicke Doppelhaushälfte der Nachbarn schaust? Du bist weder arm noch reich, sondern steckst im perfekten deutschen Mittelstands-Korsett fest. Aber war das schon alles im Leben? Das siehst du in Level 4.",
-      "character": "Man, 34, neat short brown hair, wearing a casual blue shirt and glasses, looking intently at laptop numbers at a clean wooden table.",
-      "visual": "A man looking overwhelmed by rising interest rate calculations on a laptop screen in a tidy suburban German kitchen.",
-      "scenes": [
-        "Close-up of a calculator and financial graphs showing rising loan interest rates",
-        "Medium shot of a man looking out a window at parked cars in a typical German housing area",
-        "Close-up of a hands opening a letter with a high utility adjustment bill",
-        "Wide shot of a neat semi-detached house neighborhood in Germany under a cloudy sky"
+      "name": "Tim, 34, IT-Administrator",
+      "badge": "2.720 € netto",
+      "verdict": "DURCHSCHNITT",
+      "story": "2.700 netto, Vollzeit-Job, keine Schulden – und die Bankberaterin hat mich heute förmlich ausgelacht, als ich nach einer 3-Zimmer-Wohnung gefragt habe. Ich bin Tim, 34, IT-Administrator. Jeden Morgen hole ich meinen Flat White bei Meryem im Café Kranich. Doch die Realität sieht bitter aus: 1.150 Euro Kaltmiete für sechzig Quadratmeter im Altbau. Meine Verlobte und ich wollten finanzieren, aber die Beraterin sagte trocken: Bei den aktuellen Zinsen fehlen Ihnen achtzigtausend Euro Eigenkapital. Unser mühsam Erspartes schmilzt durch die Inflation dahin. Gestern reparierte Birgits Handwerkertruppe die uralten Rohre im Keller, was die Nebenkosten weiter hochtreibt. Kennst du das Gefühl, brav alles richtig zu machen, aber gesellschaftlich trotzdem nicht voranzukommen? Doch was passiert, wenn das Einkommen plötzlich die Fünftausend-Euro-Marke knackt, aber die Ausgaben explodieren? Das siehst du in Level 4.",
+      "quote": "Bei den aktuellen Zinsen fehlen Ihnen achtzigtausend Euro Eigenkapital.",
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "2.720 €",
+          "bar": 0.32
+        },
+        {
+          "label": "Kaltmiete",
+          "value": "1.150 €",
+          "bar": 0.4
+        },
+        {
+          "label": "Sparrate",
+          "value": "200 €",
+          "bar": 0.15
+        }
       ],
-      "caption": "Fühlst du dich auch von der Inflation eingeklemmt? Wo stehst du finanziell? #Mittelschicht #Finanzen #Inflation #Deutschland #Zukunft"
+      "character": "Neat short parted black hair, navy blue zip cardigan over an olive t-shirt, wearing rectangular tortoiseshell glasses and carrying a canvas commuter lanyard.",
+      "visual": "A ball-headed man sitting opposite an advisor across a sleek bank desk, looking defeated at a rejected mortgage document with charts.",
+      "scenes": [
+        "Carrying a takeaway coffee cup through an early-morning urban park, passing tram tracks with commuters packed into carriages.",
+        "Sitting at a glass bank consultation table, staring at a bold red stamp on an architectural real estate flyer.",
+        "Inspecting an old, rusted cast-iron heating pipe in a dusty apartment basement alongside plumbers in navy overalls.",
+        "Sitting with a laptop at a small dining table in a charming but creaky old apartment, spreadsheet open with shrinking savings balances."
+      ],
+      "caption": "Guter Beruf, stabiles Gehalt – und trotzdem ist Wohneigentum ein unerreichbarer Traum. Wo stehst du? #immobilien #eigenheim #mittelschicht #finanzen #zinsen"
     },
     {
       "n": 4,
-      "name": "Daniel, 41, IT-Berater",
-      "badge": "5.200 € netto",
-      "verdict": "SOLIDE",
-      "story": "Level 4: 5.200 Euro netto im Monat – und trotzdem kein Cent auf dem Tagesgeldkonto. Daniel bestellt im Münchner Szene-Café den teuren Flat White, während die Leasingrate für den Audi Q3 direkt vom Konto abgeht. Der Urlaub auf Mallorca ist gebucht, aber die private Altersvorsorge frisst ein riesiges Loch ins Budget. Es läuft gut, aber der Lebensstil wächst einfach immer mit dem Gehalt mit. Kennst du diesen Lifestyle-Creep, bei dem man trotz gutem Einkommen am Monatsende exakt bei Null rauskommt? Du hast alles, aber bist trotzdem kein Stück unabhängig. Doch ab hier wird es richtig spannend. Das siehst du in Level 5.",
-      "character": "Man, 41, neatly trimmed beard, wearing a smart casual blazer over a plain t-shirt, holding a modern smartphone in a trendy cafe.",
-      "visual": "A confident man in his early forties working on a high-end laptop inside a bright, modern cafe in a major German city.",
-      "scenes": [
-        "Close-up of a contactless payment terminal glowing green after a high bill transaction",
-        "Medium shot of a man walking past expensive modern glass office buildings in Munich",
-        "Close-up of banking app notifications showing high monthly fixed costs and insurance payments",
-        "Wide shot of a sleek modern SUV parked on a clean street in an upscale neighborhood"
+      "name": "Sarah, 39, Marketingchefin",
+      "badge": "4.800 € netto",
+      "verdict": "GUTVERDIENER",
+      "story": "Ich verdiene fast 5.000 Euro netto im Monat – und habe panische Angst vor der nächsten Nebenkostenabrechnung. Ich bin Sarah, 39, Marketingchefin in einem E-Commerce-Konzern. Mein Gehalt klingt nach purem Luxus, doch für die Vierzimmerwohnung im Neubauviertel überweisen wir 2.400 Euro Miete. Dazu kommen 600 Euro für den privaten Kita-Platz unseres Sohnes und die Leasingrate für den Kombi. Gestern lieferte der durchnässte Kurier Jonas mein Sushi – ich gab fünf Euro Trinkgeld aus schlechtem Gewissen. Mein Steuerberater warnte neulich: Ohne private Vorsorge reicht Ihre Rente später nicht für diesen Lebensstandard. Wir verdienen viel, aber ein Jobverlust würde uns in drei Monaten ruinieren. Fragst du dich auch manchmal, ob höherer Verdienst nur höhere Rechnungen bedeutet? Doch wie lebt jemand, der wirklich zu den oberen fünf Prozent gehört, aber seine Seele an die Arbeit verkauft? Das siehst du in Level 5.",
+      "quote": "Ohne private Vorsorge reicht Ihre Rente später nicht für diesen Lebensstandard.",
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "4.800 €",
+          "bar": 0.52
+        },
+        {
+          "label": "Fixkosten",
+          "value": "3.200 €",
+          "bar": 0.58
+        },
+        {
+          "label": "Depot",
+          "value": "28.000 €",
+          "bar": 0.28
+        }
       ],
-      "caption": "Gutes Gehalt, aber am Ende trotzdem weg? Wer kennt das Phänomen? #Gehalt #Karriere #Lifestyle #München #Geld"
+      "character": "Sleek blonde bob haircut, elegant beige trench coat over a terracotta silk blouse, sporting a rose gold smartwatch on her wrist.",
+      "visual": "A stylish ball-headed woman at a designer kitchen island with a glowing laptop, surrounded by luxury grocery bags and daycare billing statements.",
+      "scenes": [
+        "Opening the door of a modern minimalist apartment to accept a food delivery bag from a drenched courier in the rain.",
+        "Walking briskly through a glass office corridor while checking urgent notifications vibrating on a rose gold smartwatch.",
+        "Sitting at a conference table opposite an accountant reviewing detailed pension projection graphs showing future deficits.",
+        "Buckling a toddler into a child seat inside a premium leased family SUV parked in an underground garage with dim strip lighting."
+      ],
+      "caption": "Fast 5.000 Euro netto, aber die Lifestyle-Inflation frisst jeden Cent wieder auf. Kennst du das? #karriere #steuern #gehalt #sparen #lifestyleinflation"
     },
     {
       "n": 5,
-      "name": "Vanessa, 38, Fachärztin",
+      "name": "Dr. Markus, 47, Chefarzt",
       "badge": "8.500 € netto",
-      "verdict": "OBERKLASSE",
-      "story": "Level 5: 8.500 Euro netto – und die Steuererklärung raubt dir den letzten Nerv. Vanessa steht in ihrer schicken Frankfurter Altbauwohnung und schaut auf die Abrechnung, bei der fast die Hälfte für den Soli und Einkommensteuer draufgeht. Klar, der Porsche Macan steht vor der Tür und der Bio-Einkauf kostet kein Nachdenken. Aber der Preis dafür sind 60-Stunden-Wochen und permanente Verantwortung. Ist das der Preis für echten Wohlstand, wenn dir die Zeit fehlt, dein Geld überhaupt auszugeben? Du hast den Erfolg, aber oft keinen Kopf mehr für die schönen Dinge. Und jetzt betreten wir das Territorium der echten Macher. Das siehst du in Level 6.",
-      "character": "Woman, 38, elegant blonde hair, wearing a stylish beige blazer and fine gold jewelry, standing in a spacious high-ceiling room.",
-      "visual": "An elegant female doctor looking thoughtfully out of a large window in a high-end renovated Altbau apartment in Frankfurt.",
-      "scenes": [
-        "Close-up of a luxury mechanical wristwatch on a woman's wrist while signing documents",
-        "Medium shot of a person reviewing a complex tax return document with many deduction items",
-        "Close-up of fresh organic produce being unpacked in a designer kitchen",
-        "Wide shot of an elegant living room with stucco ceiling and expensive minimalist furniture"
+      "verdict": "OBERE 3 PROZENT",
+      "story": "8.500 Euro netto im Monat – und meine Kinder kennen mich kaum. Ich bin Markus, 47, leitender Chirurg an der Universitätsklinik. Mein Einkommen platziert mich unter den oberen drei Prozent dieses Landes. Ich bewohne ein Penthouse, das Felix’ Immobiliengesellschaft gehört. Teure Uhren, Maßanzüge, privater Tennisclub – nach außen hin das absolute Bilderbuchleben. Doch gestern Nacht kam ich nach einer langen Not-OP heim. Auf dem Esstisch lag ein Zettel meiner siebenjährigen Tochter: Papa, schläfst du heute schon wieder im Krankenhaus? Ich rette jeden Tag fremde Menschenleben, während mein eigenes Kind vergisst, wie meine Stimme klingt. Mein Geld vermehrt sich stetig, aber meine Lebenszeit rinnt mir durch die Finger. Kennst du das Gefühl, alles gekauft zu haben, was du wolltest, aber das Wichtigste zu verpassen? Doch wie fühlt es sich an, wenn echter Reichtum nicht auf dem Gehaltszettel, sondern in Firmenwerten steckt? Das siehst du in Level 6.",
+      "quote": "Papa, schläfst du heute schon wieder im Krankenhaus?",
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "8.500 €",
+          "bar": 0.74
+        },
+        {
+          "label": "Wohnen",
+          "value": "3.400 €",
+          "bar": 0.68
+        },
+        {
+          "label": "Vermögen",
+          "value": "420.000 €",
+          "bar": 0.5
+        }
       ],
-      "caption": "Steuerlast in Deutschland: Fluch oder Segen für Gutverdiener? Wo ist deine Schmerzgrenze? #Steuern #Ärzte #Karriere #Wohlstand #Deutschland"
+      "character": "Silver-gray side-swept hair, crisp tailored charcoal suit with a white spread-collar shirt, accented by an understated luxury titanium chronograph watch.",
+      "visual": "A ball-headed surgeon in a designer penthouse late at night, holding a child's hand-drawn crayon note while gazing out over illuminated city rooftops.",
+      "scenes": [
+        "Standing exhausted in surgical scrubs under clinical operating theater lights, pulling off latex gloves after a marathon procedure.",
+        "Walking into an empty, immaculate penthouse living room at midnight, panoramic floor-to-ceiling glass windows framing skyline lights.",
+        "Holding a colorful crayon drawing of a family with a tearful expression reflected in a glass designer coffee table.",
+        "Sitting alone in the back of an executive black sedan on a rainy freeway, phone glowing with missed family calendar alerts."
+      ],
+      "caption": "Reich an Geld, aber arm an Zeit für die eigene Familie. Würdest du diesen Tausch eingehen? #erfolg #chefarzt #karriere #geld #worklifebalance"
     },
     {
       "n": 6,
-      "name": "Tobias, 45, Mittelstands-Inhaber",
-      "badge": "25.000 € mtl.",
+      "name": "Birgit, 55, Handwerksunternehmerin",
+      "badge": "3,2 Mio. € Firma",
       "verdict": "VERMÖGEND",
-      "story": "Level 6: 25.000 Euro monatlich – und die Verantwortung für 80 Mitarbeiter schläft nachts mit im Bett. Tobias blickt in Stuttgart über die Produktionshalle seiner Firma für Automatisierungstechnik. Das Haus in Bestlage ist abbezahlt, der Tesla Plaid steht in der Einfahrt, und der nächste Skiurlaub in St. Moritz ist fix. Aber jedes neue Lieferkettengesetz und jeder Zinsanstieg kosten ihn wertvolle Nerven. Träumst du von diesem Level, oder ahnst du, dass Freiheit erst ganz woanders beginnt? Du bist der Chef, aber das Risiko trägt allein dein Name. Doch warte ab, wenn das Geld für dich arbeiten lernt. Das siehst du in Level 7.",
-      "character": "Man, 45, short graying hair at temples, sharp jawline, wearing a dark tailored suit without a tie, looking determined in a modern industrial setting.",
-      "visual": "A successful German business owner standing on a mezzanine overlooking a modern automated manufacturing plant floor.",
-      "scenes": [
-        "Close-up of hands reviewing corporate financial growth charts on a high-resolution tablet",
-        "Medium shot of a business owner talking focused with an engineer inside a bright factory hall",
-        "Close-up of car keys resting on a sleek marble entryway table next to a luxury watch",
-        "Wide shot of a modern glass-front corporate office building reflecting the afternoon sun"
+      "story": "Drei Millionen Euro Betriebsvermögen – aber ich fahre einen alten Kombi. Ich bin Birgit, 55, Inhaberin eines Sanitärunternehmens mit 35 Mitarbeitern. Vor dreißig Jahren habe ich den Betrieb meines Vaters übernommen. Mein Firmenwert samt Fuhrpark und Werkstatthalle liegt bei über drei Millionen Euro. Doch auf meinem privaten Girokonto behalte ich mir bescheidene 3.800 Euro Monatslohn. Während Markus im Penthouse residiert, renovieren meine Jungs gerade die Heizung in Tims Mietshaus. Luxus brauche ich nicht, meine Sicherheit ist solide Substanz. Mein Steuerberater drängte neulich: Verkaufen Sie die Firma und genießen Sie Ihre Rente. Doch ich trage täglich Verantwortung für 35 loyale Familien. Reichtum bedeutet für mich Unabhängigkeit und Verlässlichkeit, kein oberflächliches Bling-Bling. Bist du eher der Typ für schnellen Konsum oder dauerhafte Werte? Doch was geschieht, wenn jemand überhaupt nicht mehr arbeiten muss, weil zweistellige Millionenvermögen von selbst Erträge abwerfen? Das siehst du in Level 7.",
+      "quote": "Verkaufen Sie die Firma und genießen Sie Ihre Rente.",
+      "stats": [
+        {
+          "label": "Entnahme",
+          "value": "3.800 €",
+          "bar": 0.44
+        },
+        {
+          "label": "Betrieb",
+          "value": "3,2 Mio.",
+          "bar": 0.82
+        },
+        {
+          "label": "Team",
+          "value": "35 Köpfe",
+          "bar": 0.65
+        }
       ],
-      "caption": "Unternehmer-Risiko vs. Reichtum: Würdest du tauschen? #Unternehmer #Wirtschaft #Mittelstand #Erfolg #Business"
+      "character": "Short spiky auburn hair, heavy-duty navy blue work vest over a red flannel shirt, with a wooden folding ruler poking from her pocket.",
+      "visual": "A confident ball-headed businesswoman in workwear leaning over blueprints in a bustling workshop yard full of white service vans.",
+      "scenes": [
+        "Unrolling architectural piping schematics over the hood of a reliable, mud-splattered silver station wagon in a commercial yard.",
+        "Walking through a busy plumbing supply warehouse, shaking hands warmly with young apprentices and senior foremen.",
+        "Sitting at a solid oak desk in a functional office, firmly pushing an investment banker's takeover contract back across the table.",
+        "Inspecting high-efficiency heat pump installations inside the damp basement of an urban apartment building with a flashlight."
+      ],
+      "caption": "Millionenschwer auf dem Papier, aber bodenständig mit Blaumann und altem Kombi. Echter Wohlstand oder falsche Bescheidenheit? #mittelstand #unternehmer #handwerk #vermögen"
     },
     {
       "n": 7,
-      "name": "Helena, 52, Investorin",
-      "badge": "1,2 Mio. € Dividende",
-      "verdict": "FINANZIELL FREI",
-      "story": "Level 7: 1,2 Millionen Euro Dividende im Jahr – und der Wecker klingelt, wann immer sie will. Helena schlürft ihren Espresso auf der Dachterrasse in Düsseldorf und prüft kurz die Performance ihres Immobilienportfolios und Tech-Start-ups. Geld ist längst kein Tauschmittel mehr für Konsum, sondern ein reines Werkzeug für Freiheit und Einfluss. Sie muss keinen einzigen Tag mehr arbeiten, tut es aber aus purem Spaß an Deals. Wovon träumst du nachts, wenn Geld keine Rolle mehr in deinem Leben spielen würde? Du denkst, das ist das Ende der Fahnenstange? Da täusechst du dich gewaltig. Das siehst du in Level 8.",
-      "character": "Woman, 52, sophisticated silver-streaked bob haircut, wearing designer sunglasses and a minimalist white linen shirt on a sunny balcony.",
-      "visual": "A poised female investor relaxing on a luxurious rooftop terrace overlooking an upscale German city skyline.",
-      "scenes": [
-        "Close-up of a tablet screen displaying international real estate portfolio maps and yields",
-        "Medium shot of a confident woman smiling while closing a contract with a handshake in a glass boardroom",
-        "Close-up of a cup of artisan espresso on a marble table with a high-end pen",
-        "Wide shot of a penthouse apartment balcony with panoramic views of a skyline"
+      "name": "Felix, 43, Immobilieninvestor",
+      "badge": "15 Mio. € Asset",
+      "verdict": "MULTI-MILLIONÄR",
+      "story": "Fünfzehn Millionen Euro – und Geld hat jede Bedeutung verloren. Ich bin Felix, 43, Ex-Gründer und Immobilieninvestor. Mit Anfang dreißig habe ich meine Softwarefirma verkauft. Heute besitze ich etliche Wohnblöcke in der Stadt – darunter Tims Mietshaus und Markus’ Penthouse. Mein Nettovermögen liegt bei fünfzehn Millionen Euro. Ich muss keine Stunde mehr arbeiten. Mein Kapital vermehrt sich über ein Family Office in Mieten und Aktien. Ein befreundeter Banker spottete neulich: Für dich ist Geld doch bloß noch ein Highscore im Computerspiel. Er hatte recht. Preisschilder existieren für mich nicht. Wenn du mit 43 in dein Handy schaust, 45.000 Euro Mieteinnahmen reinkommen und du merkst: Dir ist völlig egal, ob du morgen aufwachst oder nicht. Wenn du dir jeden materiellen Traum sofort kaufst, verliert plötzlich alles seinen Reiz. Glaubst du, dass grenzenloses Vermögen wirklich glücklich macht? Doch wer zieht im Hintergrund die Fäden, ohne dass irgendjemand seinen Namen ahnt? Das siehst du in Level 8.",
+      "quote": "Für dich ist Geld doch bloß noch ein Highscore im Computerspiel.",
+      "stats": [
+        {
+          "label": "Passiv",
+          "value": "45.000 €",
+          "bar": 0.88
+        },
+        {
+          "label": "Bestand",
+          "value": "12 Blocks",
+          "bar": 0.85
+        },
+        {
+          "label": "Vermögen",
+          "value": "15 Mio. €",
+          "bar": 0.92
+        }
       ],
-      "caption": "Ab welchem Betrag bist du wirklich frei? Diskutiere mit in den Kommentaren! #FinanzielleFreiheit #Investieren #Reichtum #Immobilien #Millionär"
+      "character": "Short faded buzzcut, minimalist slate-gray cashmere crewneck sweater, off-white tailored chinos, and ultra-sleek matte black designer wireless earbuds.",
+      "visual": "A ball-headed man lounging in a sunlit architectural villa terrace overlooking private gardens, staring pensively into an untouched espresso.",
+      "scenes": [
+        "Standing before a floor model of urban apartment developments inside a private family office with marble accents.",
+        "Sitting poolside at an infinity pool overlooking rolling hills, completely motionless while market numbers rise on a tablet screen.",
+        "Walking through a premier art gallery opening with champagne in hand, glancing indifferently at multi-thousand euro price tags.",
+        "Looking out of a rooftop window overlooking the bustling city below, hands tucked into pockets with an aura of existential detachment."
+      ],
+      "caption": "Finanzielle Freiheit mit 43 – doch wenn man alles kaufen kann, wird plötzlich alles bedeutungslos. Was würdest du tun? #millionär #finanziellefreiheit #investieren #immobilien"
     },
     {
       "n": 8,
-      "name": "Friedrich, 68, Family-Office-Patriarch",
-      "badge": "Generationen-Vermögen",
-      "verdict": "UNBEZAHLBAR",
-      "story": "Level 8: Dreistelliger Millionen-Stiftungswert – und das Geld überlebt drei Generationen nach dir. Friedrich sitzt in einer historischen Villa am Starnberger See und bespricht mit der Treuhand den globalen Stiftungszweck. Hier geht es nicht mehr um Kontostände, sondern um Generationenverantwortung, Stiftungen, Kunstsammlungen und politischen Einfluss hinter verschlossenen Türen. Sein Name taucht auf keiner Forbes-Liste auf, aber seine Familie steuert ganze Industrien im Hintergrund. Wer ganz oben ankommt, merkt plötzlich, dass Macht leise ist und Reichtum ganz andere Gesetze hat. Welches Thema sollen wir als Nächstes im Aufzug durchnehmen?",
-      "character": "Elderly man, 68, distinguished white hair, wearing a classic tailored tweed jacket and pocket square, sitting in a historic wood-paneled library.",
-      "visual": "A distinguished elderly man looking calmly out the window of a historic lakeside mansion in Bavaria surrounded by antique bookshelves.",
-      "scenes": [
-        "Close-up of an old leather-bound foundation deed being signed with a fountain pen",
-        "Medium shot of an elderly man walking through a private art gallery in a grand estate",
-        "Close-up of hands adjusting the gold bezel of a vintage heirloom pocket watch",
-        "Wide shot of a magnificent historic villa nestled by a serene German lake at sunset"
+      "name": "Heinrich, 71, Familienstiftungs-Patriarch",
+      "badge": "92 Mio. € Erbe",
+      "verdict": "ALTES GELD",
+      "story": "Neunzig Millionen Euro – und mein Lieblingspullover hat geflickte Ellbogen. Ich bin Heinrich, 71, Verwalter unseres zweihundertjährigen Familienstiftungsvermögens. Über neunzig Millionen Euro in Waldflächen, Beteiligungen und städtischem Grundbesitz. Auch der Erbbauzins von Felix’ Wohnanlagen und das Haus von Café Kranich gehören unserer Familienstiftung. Ich trage eine abgetragene Wachsjacke und meide jedes Rampenlicht. Echtes Vermögen macht keinen Lärm. Jeden Vormittag trinke ich meinen schwarzen Kaffee bei Meryem und gebe zehn Euro Trinkgeld. Durch das Fenster sehe ich den Kurier Jonas im Regen vorbeipedalen. Mein Großvater mahnte mich früh: Großes Vermögen ist kein Privileg, sondern eine ernste Pflicht. Wir besitzen Werte, die niemals verkauft werden. Die reichsten Menschen Deutschlands tragen keine Rolex, sondern Schuhe, die sie seit 15 Jahren neu besohlen lassen – weil ihnen bereits das Land gehört, auf dem deine Mietwohnung steht. Auf welchem Level stehst du aktuell – und welches Thema sollen wir als Nächstes im Aufzug durchleuchten?",
+      "quote": "Großes Vermögen ist kein Privileg, sondern eine ernste Pflicht.",
+      "stats": [
+        {
+          "label": "Stiftung",
+          "value": "92 Mio. €",
+          "bar": 0.98
+        },
+        {
+          "label": "Landbesitz",
+          "value": "450 ha",
+          "bar": 0.95
+        },
+        {
+          "label": "Horizont",
+          "value": "200 Jahre",
+          "bar": 1.0
+        }
       ],
-      "caption": "Geld, Macht und Stiftungen: Welches Thema soll der Aufzug als Nächstes öffnen? Schreib es in die Kommentare! #Macht #Vermögen #Stiftung #Geheimnis #Deutschland"
+      "character": "Thin wispy white hair, olive wax jacket with a brown corduroy collar over a patched tweed sweater, holding an antique horn-handled wooden walking stick.",
+      "visual": "An unassuming older ball-headed gentleman sitting in the corner of a cozy neighborhood cafe, quietly reading a broadsheet newspaper while sipping black coffee.",
+      "scenes": [
+        "A peaceful private library with floor-to-ceiling mahogany shelves, leather-bound century-old deeds, and soft golden lamp glow.",
+        "Sitting at a small wooden corner table in Cafe Kranich, gently sliding a crisp ten-euro note beneath an empty coffee saucer for the barista.",
+        "Walking with an old walking stick along an autumn forest path flanked by ancient oak trees belonging to the family trust.",
+        "Looking quietly through rain-streaked cafe glass at a bicycle courier riding past the tram stop, carrying an aura of complete calm."
+      ],
+      "caption": "Das wahre Top-Level in Deutschland protzt nicht – es besitzt den Boden, auf dem die Stadt steht. Welches Thema als Nächstes? #altesgeld #reichtum #dynastie #finanzen #deutschland"
     }
   ],
   "lang": "de",
