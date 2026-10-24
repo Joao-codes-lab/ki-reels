@@ -17,7 +17,7 @@ on:
 permissions:
   contents: write
 
-concurrency: daily
+concurrency: trends  # eigene Gruppe, sonst verdrängt ein wartender Tageslauf diesen Lauf
 
 jobs:
   run:
