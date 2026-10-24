@@ -56,7 +56,7 @@ jobs:
         run: python tools/bild_test.py data/series/de_frucht_das_monatliche_dating_app_budget.json data/series/en_frucht_monthly_salary_and_career_status.json --out /tmp/research/bildtest
       - name: Schnellvideo (Level 1 einer gespeicherten Serie)
         if: ${{ env.TASK == 'schnellvideo' }}
-        run: python tools/schnellvideo.py ${{ inputs.urls || 'data/series/de_frucht_das_monatliche_dating_app_budget.json' }} --out /tmp/research/schnell ${{ inputs.frame && format('--frame {0}', inputs.frame) || '' }}
+        run: python tools/schnellvideo.py "${URLS:-data/series/de_frucht_das_monatliche_dating_app_budget.json}" --out /tmp/research/schnell ${{ inputs.frame && format('--frame {0}', inputs.frame) || '' }}
       - name: Stimmproben
         if: ${{ inputs.task == 'stimmen' || inputs.task == 'beides' }}
         continue-on-error: true

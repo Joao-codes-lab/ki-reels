@@ -307,6 +307,8 @@ def render_part(series, n, images, out_path, backend="gemini"):
         events += [(outro, "whoosh"), (outro + 0.4, "pop"), (total - 0.9, "ding")]
         fx = Path(tmp) / "fx.wav"
         sfx.write_wav(fx, sfx.mix(events, total))
+        mus = Path(tmp) / "music.wav"
+        sfx.write_wav(mus, sfx.music(total, hits=[h for h in (twist_at, outro) if h]))
 
         def frame(t):
             if t >= outro:
@@ -358,8 +360,11 @@ def render_part(series, n, images, out_path, backend="gemini"):
 
         ff = subprocess.Popen(
             ["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}",
-             "-r", str(FPS), "-i", "-", "-i", str(voice), "-i", str(fx), "-filter_complex",
-             "[1:a]apad=pad_dur=2[v];[v][2:a]amix=inputs=2:normalize=0:duration=longest,"
+             "-r", str(FPS), "-i", "-", "-i", str(voice), "-i", str(fx), "-i", str(mus), "-filter_complex",
+             # Musik taucht unter der Stimme ab (Sidechain) und kommt in Pausen und im Outro hoch
+             "[1:a]apad=pad_dur=2,asplit=2[v][vk];[3:a]volume=0.55[m0];"
+             "[m0][vk]sidechaincompress=threshold=0.02:ratio=5:attack=15:release=350[m];"
+             "[v][2:a][m]amix=inputs=3:normalize=0:duration=longest,"
              "loudnorm=I=-14:TP=-1.5[a]", "-map", "0:v", "-map", "[a]",
              "-c:v", "libx264", "-preset", "medium", "-crf", "21", "-pix_fmt", "yuv420p",
              "-c:a", "aac", "-b:a", "160k", "-t", f"{total:.2f}", "-movflags", "+faststart", str(out_path)],

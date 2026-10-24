@@ -230,7 +230,7 @@ def render_part(series, n, images, out_path, backend="gemini"):
         events += [(badge_at, "pop"), (outro, "whoosh"), (outro + 0.55, "tick"), (outro + 0.7, "tick"),
                    (total - 1.0, "ding")]
         fx = Path(tmp) / "fx.wav"
-        sfx.write_wav(fx, sfx.mix(events, total))
+        sfx.write_wav(fx, sfx.mix(events, total, music_gain=0.10))
 
         def frame(t):
             if t < outro:
