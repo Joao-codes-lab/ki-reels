@@ -139,10 +139,12 @@ def image_prompt(frame, lv, scene):
     char = lv.get("character", "")
     if frame == "frucht":
         return (f"Main character: {char}. It is a cartoon fruit or vegetable creature, NOT a human. Scene: {scene}. "
-                f"A small glowing digital number '{lv['badge']}' on its forehead.")
+                f"A small glowing digital number '{lv['badge']}' on its forehead. Every character in the image is a "
+                f"fruit or vegetable creature, no human faces.")
     if frame == "fruchtmensch":
-        return (f"Main character: {char}. Fruit or vegetable head on a human body in stylish clothes. Scene: {scene}. "
-                f"A small glowing digital number '{lv['badge']}' on the forehead.")
+        return (f"Every character has a big fruit or vegetable INSTEAD of a human head (no human faces, no hair), on a "
+                f"human body in stylish clothes. Main character: {char}. Scene: {scene}. "
+                f"A small glowing digital number '{lv['badge']}' on the fruit forehead.")
     return f"Main character: {char}. Scene: {scene}"
 
 
