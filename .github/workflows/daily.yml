@@ -9,6 +9,12 @@ on:
       count:
         description: "Anzahl Themen (je Thema ein Video pro Sprache)"
         default: "1"
+      langs:
+        description: "Sprachen, z. B. de,en"
+        default: "de,en"
+      parts:
+        description: "Teile pro Serie in diesem Lauf"
+        default: "1"
       post:
         description: "Bei Buffer einplanen?"
         type: boolean
@@ -28,8 +34,9 @@ jobs:
       GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
       BUFFER_KEY_DE: ${{ secrets.BUFFER_KEY_DE }}
       BUFFER_KEY_EN: ${{ secrets.BUFFER_KEY_EN }}
-      LANGS: ${{ vars.LANGS || 'de,en' }}
+      LANGS: ${{ inputs.langs || vars.LANGS || 'de,en' }}
       VIDEOS_PER_RUN: ${{ inputs.count || vars.VIDEOS_PER_RUN || '1' }}
+      PARTS: ${{ inputs.parts || '1' }}
       PAGES_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
     steps:
       - uses: actions/checkout@v4

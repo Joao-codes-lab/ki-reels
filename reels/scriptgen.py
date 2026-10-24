@@ -204,9 +204,16 @@ Für jedes Level:
 - name: Vorname + Alter + Rolle, z. B. "Lena, 27, Pflegerin"
 - badge: Kernzahl, max. 18 Zeichen, z. B. "3.200 € netto"
 - verdict: Urteil in 1-3 Wörtern in GROSSBUCHSTABEN, z. B. "NICHT REICH"
-- story: gesprochener Text, 130-150 Wörter (ca. 55-60 Sekunden), sehr kurze Sätze, Du-Ansprache erlaubt.
-- character: englische, feste Beschreibung des Aussehens der Figur (Geschlecht, Alter, Haare, Gesicht,
-  Kleidung, ein markantes Detail), max. 30 Wörter. Wird in jedes Bild dieses Levels übernommen.
+- story: gesprochener Text, 130-150 Wörter (ca. 55-60 Sekunden), in der ICH-FORM der Figur erzählt
+  (die Figur spricht selbst, z. B. "Ich hab 214 Videos gepostet. Mia, 19."), sehr kurze, rhythmische Sätze,
+  erster Satz = Hook. Genau ein Satz ist ein wörtliches Zitat einer anderen Person (z. B. Chef, Mutter, Kommentar).
+- quote: genau dieses Zitat, wortgleich wie in der Story (ohne Anführungszeichen), max. 10 Wörter.
+- stats: genau 3 Kennzahlen der Figur für die Werte-Leiste, passend zum Thema, kurz:
+  [{{"label": "Netto", "value": "1.380 €", "bar": 0.15}}, ...] (label max. 12 Zeichen, value max. 9 Zeichen,
+  bar = 0..1 wie voll der Balken ist, steigt über die Level).
+- character: englische, feste Beschreibung der Figur im Kanal-Figurenstil (alle Figuren haben einen einfachen,
+  runden, cremeweißen Kugelkopf ohne Nase, kleine Punktaugen und ausdrucksstarke Augenbrauen) – beschreibe nur
+  Frisur bzw. Kopfbedeckung, Kleidung mit Farben und ein markantes Accessoire, max. 30 Wörter.
 - visual: englischer Bildprompt für die Hauptszene (Tätigkeit, Gefühl, Umgebung, Licht). Keine Schrift im Bild.
 - scenes: 4 weitere englische Bildprompts, je ein Schlüsselmoment der Geschichte in der richtigen Reihenfolge,
   ausdrucksstarke Mimik und Gestik, abwechslungsreiche Perspektiven (Nahaufnahme, Totale, Detail).
@@ -218,7 +225,8 @@ Außerdem:
 
 Antworte NUR mit JSON:
 {{"title": str, "house": str, "links": [str, ...], "levels": [{{"n": 1, "name": str, "badge": str, "verdict": str, "story": str,
-"character": str, "visual": str, "scenes": [str, str, str, str], "caption": str}}, ... bis n=8]}}
+"quote": str, "stats": [{{"label": str, "value": str, "bar": float}}], "character": str, "visual": str,
+"scenes": [str, str, str, str], "caption": str}}, ... bis n=8]}}
 """
 
 COUNTRIES = {"de": "Deutschland", "en": "USA", "es": "Spanien", "pt": "Brasilien", "fr": "Frankreich"}
@@ -237,6 +245,8 @@ def validate_series(s):
         for k in ("name", "badge", "verdict", "story", "visual", "caption"):
             assert lv.get(k), f"Level {i}: {k} fehlt"
         lv["scenes"] = (lv.get("scenes") or [])[:4]
+        lv["stats"] = [x for x in (lv.get("stats") or []) if isinstance(x, dict)][:3]
+        lv["quote"] = lv.get("quote") or ""
     assert s.get("title") and s.get("house")
     return s
 

@@ -15,7 +15,7 @@ from pathlib import Path
 
 from reels import buffer, critic, imagegen, scriptgen
 from reels.render import render
-from reels.render_lift import render_part as render_lift
+from reels.render_v4 import render_part as render_lift
 
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data"
@@ -76,51 +76,52 @@ def generate_series(langs, tts_backend, frames):
     (ROOT / "out").mkdir(exist_ok=True)
     for frame in frames:
         for lang in langs:
-            key = f"{lang}:{frame}"
-            st = state.get(key)
-            if st and st.get("last_date") == today:
-                print(f"[{key}] heute schon erledigt")
-                continue
-            if not st or st["next"] > 8:
-                used = [x["topic"] for x in state.get("_done", []) if x["lang"] == lang and x.get("frame") == frame]
-                topic = scriptgen.next_series_topic(used)
-                series = scriptgen.write_series(topic, lang, frame)
-                sid = f"{lang}_{frame}_{slugify(topic)}"
-                (DATA / "series").mkdir(exist_ok=True)
-                save(DATA / "series" / f"{sid}.json", series)
-                st = {"id": sid, "topic": topic, "frame": frame, "next": 1}
-                state.setdefault("_done", []).append({"lang": lang, "frame": frame, "topic": topic, "start": today})
-                print(f"[{key}] Neue Serie: {series['title']}")
-            series = load(DATA / "series" / f"{st['id']}.json", None)
-            n = st["next"]
-            lv = series["levels"][n - 1]
-            art = scriptgen.FRAMES.get(frame, {}).get("art", "")
-            who = f"Main character: {lv['character']}. " if lv.get("character") else ""
-            adir = ASSETS / st["id"]
-            pics = []
-            for i, prompt in enumerate([lv["visual"]] + lv.get("scenes", [])):
-                p = adir / f"l{n}_{i}.jpg"
-                full = f"{art}{who}{prompt}. Setting: {series['house']}"
-                style = scriptgen.FRAMES.get(frame, {}).get("style")
-                print(f"  Bild {i + 1}: {imagegen.generate(full, p, seed=n * 7919 + i, style=style)}")
-                pics.append(str(p))
-            name = f"{today}_{st['id']}_teil{n}.mp4"
-            info = render_lift(series, n, pics, ROOT / "out" / name, backend=tts_backend)
-            shutil.copy(info["path"], SITE / name)
-            score, review = critic.review_video(info["path"], name[:-4])
-            print(f"  Video-Jury: {score}/100 {review.get('verbesserungen', '')}")
-            caption = f"{series['title']} – Level {n}/8\n\n{lv['caption']}\n\n{DISCLOSURE[lang]}"
-            if score is not None and score < critic.VIDEO_MIN:
-                print(f"  zurückgehalten (unter {critic.VIDEO_MIN} Punkten), wird nicht gepostet")
-            else:
-                pending.append({"lang": lang, "frame": frame, "file": name, "caption": caption,
-                                "topic": st["topic"], "score": score})
-            print(f"[{key}] {series['title']} Teil {n} -> {name} ({info['duration']} s)")
-            st["next"] = n + 1
-            st["last_date"] = today
-            state[key] = st
-            save(STATE, state)
-            save(PENDING, pending)
+          for part in range(int(os.environ.get("PARTS", "1"))):
+              key = f"{lang}:{frame}"
+              st = state.get(key)
+              if part == 0 and st and st.get("last_date") == today:
+                  print(f"[{key}] heute schon erledigt")
+                  break
+              if not st or st["next"] > 8:
+                  used = [x["topic"] for x in state.get("_done", []) if x["lang"] == lang and x.get("frame") == frame]
+                  topic = scriptgen.next_series_topic(used)
+                  series = scriptgen.write_series(topic, lang, frame)
+                  sid = f"{lang}_{frame}_{slugify(topic)}"
+                  (DATA / "series").mkdir(exist_ok=True)
+                  save(DATA / "series" / f"{sid}.json", series)
+                  st = {"id": sid, "topic": topic, "frame": frame, "next": 1}
+                  state.setdefault("_done", []).append({"lang": lang, "frame": frame, "topic": topic, "start": today})
+                  print(f"[{key}] Neue Serie: {series['title']}")
+              series = load(DATA / "series" / f"{st['id']}.json", None)
+              n = st["next"]
+              lv = series["levels"][n - 1]
+              art = scriptgen.FRAMES.get(frame, {}).get("art", "")
+              who = f"Main character: {lv['character']}. " if lv.get("character") else ""
+              adir = ASSETS / st["id"]
+              pics = []
+              for i, prompt in enumerate([lv["visual"]] + lv.get("scenes", [])):
+                  p = adir / f"l{n}_{i}.jpg"
+                  full = f"{art}{who}{prompt}. Setting: {series['house']}"
+                  style = scriptgen.FRAMES.get(frame, {}).get("style")
+                  print(f"  Bild {i + 1}: {imagegen.generate(full, p, seed=n * 7919 + i, style=style)}")
+                  pics.append(str(p))
+              name = f"{today}_{st['id']}_teil{n}.mp4"
+              info = render_lift(series, n, pics, ROOT / "out" / name, backend=tts_backend)
+              shutil.copy(info["path"], SITE / name)
+              score, review = critic.review_video(info["path"], name[:-4])
+              print(f"  Video-Jury: {score}/100 {review.get('verbesserungen', '')}")
+              caption = f"{series['title']} – Level {n}/8\n\n{lv['caption']}\n\n{DISCLOSURE[lang]}"
+              if score is not None and score < critic.VIDEO_MIN:
+                  print(f"  zurückgehalten (unter {critic.VIDEO_MIN} Punkten), wird nicht gepostet")
+              else:
+                  pending.append({"lang": lang, "frame": frame, "file": name, "caption": caption,
+                                  "topic": st["topic"], "score": score})
+              print(f"[{key}] {series['title']} Teil {n} -> {name} ({info['duration']} s)")
+              st["next"] = n + 1
+              st["last_date"] = today
+              state[key] = st
+              save(STATE, state)
+              save(PENDING, pending)
 
 
 def post(base_url):
@@ -162,7 +163,7 @@ if __name__ == "__main__":
     ap.add_argument("--mode", default=os.environ.get("MODE", "series"), choices=["series", "classic"])
     a = ap.parse_args()
     if a.step == "generate" and a.mode == "series":
-        generate_series(a.langs.split(","), a.tts, os.environ.get("FRAMES", "aufzug,sherwood,pixel").split(","))
+        generate_series(a.langs.split(","), a.tts, os.environ.get("FRAMES", "aufzug").split(","))
     elif a.step == "generate":
         generate(a.langs.split(","), a.tts, a.count)
     else:

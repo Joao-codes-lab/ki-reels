@@ -17,10 +17,10 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageFilter
 
 STYLE = (
-    "2D cartoon illustration in the style of a classic animated TV sitcom: bold black outlines, flat cel-shaded "
-    "colors, bright saturated palette, exaggerated expressive faces with big eyes and eyebrows, simple rounded "
-    "shapes, detailed colorful background, dynamic composition, NOT photorealistic, NOT 3D render, no realistic "
-    "skin texture, no text, no letters, no watermark"
+    "detailed hand-drawn ink illustration with warm cozy lighting and muted earthy colors, richly detailed "
+    "cluttered background, cross-hatching, graphic-novel quality; the character is a simple cartoon figure with a "
+    "plain round cream-white ball head without nose, small dot eyes and expressive eyebrows, normal body with "
+    "detailed clothes; character drawn clean and simple, background detailed; no text, no letters, no watermark"
 )
 
 GEMINI_IMAGE_MODELS = [m for m in (os.environ.get("GEMINI_IMAGE_MODEL"), "gemini-2.5-flash-image") if m]
