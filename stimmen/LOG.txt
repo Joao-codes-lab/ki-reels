@@ -1,0 +1,19 @@
+ok  de_edge_FlorianMultilingualNeural.mp3
+ok  de_edge_SeraphinaMultilingualNeural.mp3
+ok  de_edge_ConradNeural.mp3
+ok  de_edge_KillianNeural.mp3
+ok  de_gemini_Charon.mp3 (gemini-2.5-flash-preview-tts)
+ok  de_gemini_Puck.mp3 (gemini-2.5-flash-preview-tts)
+ok  de_gemini_Fenrir.mp3 (gemini-2.5-flash-preview-tts)
+ok  de_gemini_Orus.mp3 (gemini-2.5-flash-preview-tts)
+ok  de_gemini_Kore.mp3 (gemini-2.5-flash-preview-tts)
+ok  de_gemini_Aoede.mp3 (gemini-2.5-flash-preview-tts)
+ok  en_edge_AndrewMultilingualNeural.mp3
+ok  en_edge_BrianMultilingualNeural.mp3
+ok  en_edge_AvaMultilingualNeural.mp3
+ok  en_gemini_Charon.mp3 (gemini-2.5-flash-preview-tts)
+ok  en_gemini_Puck.mp3 (gemini-2.5-flash-preview-tts)
+ok  en_gemini_Fenrir.mp3 (gemini-2.5-flash-preview-tts)
+ok  en_gemini_Orus.mp3 (gemini-2.5-flash-preview-tts)
+ok  en_gemini_Kore.mp3 (gemini-2.5-flash-preview-tts)
+ERR en_gemini_Aoede.mp3: gemini-2.5-pro-preview-tts: HTTP Error 429: Too Many Requests
