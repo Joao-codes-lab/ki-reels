@@ -41,7 +41,7 @@ def whoosh(sec=0.45, seed=1):
         out[i] = acc
     env = np.sin(np.pi * np.linspace(0, 1, n)) ** 1.5
     out *= env
-    return 0.5 * out / np.abs(out).max()
+    return 0.15 * out / np.abs(out).max()  # leise: João fand ihn zu laut
 
 
 def pop():

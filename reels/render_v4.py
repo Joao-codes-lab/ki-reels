@@ -173,7 +173,7 @@ def render_part(series, n, images, out_path, backend="gemini"):
             cuts.append(t)
             t += CUT
         events = [(0.1, "tick"), (DOOR_OPEN[0] - 0.1, "ding"), (hud_at, "pop")]
-        events += [(c, "whoosh") for c in cuts[1:]]
+        events += [(c, "whoosh") for c in cuts[3::3]]  # nur jeder 3. Schnitt, sonst nervt es
         if qspan:
             events.append((qspan[0], "pop"))
         events += [(outro, "whoosh"), (outro + 0.4, "pop"), (total - 0.9, "ding")]
