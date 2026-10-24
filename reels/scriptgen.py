@@ -202,9 +202,20 @@ Psychologische Mechanik (in jedem Teil anwenden):
 - Danach eine echte Szene mit Konflikt: Name, Alter, Job, ein konkreter Moment, ein Detail, eine Wendung.
 - Selbstvergleich: Zuschauer sollen sich einordnen ("Kennst du das?", "Wo stehst du?").
 - Emotion: Stolz, Neid, Scham, Hoffnung oder Überraschung – ehrlich, nicht kitschig.
-- Vorletzter Satz = Teaser auf das nächste Level, ohne es zu verraten.
+- Vorletzter Satz = Cliffhanger: die offene Frage wird kurz vor der Antwort abgebrochen (z. B. "Dann sagte er
+  diesen einen Satz, der alles verändert hat ..."). Die Antwort kommt erst im nächsten Teil.
 - LETZTER Satz ist IMMER exakt: "{next_line}" (mit der Nummer des nächsten Levels; nur bei Level 8 stattdessen
   die Frage an die Zuschauer, welches Thema als Nächstes kommen soll).
+
+Offene Frage (wichtigste Regel!): Jeder Teil baut von Satz 1 an EINE konkrete, brennende Frage auf, auf die
+das ganze Video hinfiebert (z. B. "Was stand in dem Brief?", "Wer hat das Geld überwiesen?", "Was hat der Mann im
+Anzug zu ihr gesagt?"). Die Spannung steigt bis zum Ende, die Antwort wird kurz vor der Auflösung abgebrochen
+und kommt ERST im nächsten Teil (dort in den ersten 10 Sekunden aufgelöst, dann neue Frage). Lege sie im Feld
+"open_loop" ab. Keine Auflösung im selben Teil!
+
+Im Kopf bleiben: Die Serie hat einen festen Satz, den jede Figur einmal sagt oder hört (ein Running Gag oder
+Motto wie "Die Zahl lügt nie."), lege ihn im Feld "catchphrase" ab. Jede Figur hat ein unverwechselbares
+Merkmal (Tick, Gegenstand, Spruch), an dem man sie in anderen Teilen wiedererkennt.
 
 Identifikation: Jede Figur muss sich anfühlen wie jemand, den man kennt oder selbst ist: ein alltäglicher,
 konkreter Moment (Supermarktkasse, Kontoauszug, WG-Küche, Pendelzug), ein innerer Gedanke, eine kleine Schwäche,
@@ -248,7 +259,7 @@ Außerdem:
 - house: {setting}.
 
 Antworte NUR mit JSON:
-{{"title": str, "house": str, "links": [str, ...], "levels": [{{"n": 1, "name": str, "badge": str, "verdict": str, "story": str,
+{{"title": str, "house": str, "catchphrase": str, "links": [str, ...], "levels": [{{"n": 1, "open_loop": str, "name": str, "badge": str, "verdict": str, "story": str,
 "gender": str, "lines": [{{"s": str, "t": str}}], "quote": str, "stats": [{{"label": str, "value": str, "bar": float}}], "character": str, "visual": str,
 "scenes": [str, str, str, str], "caption": str}}, ... bis n=8]}}
 """
@@ -366,7 +377,7 @@ def _fresh_ideas(lang, used, n, champs=None):
     return [i for i in ideas if i.get("topic") and i.get("frame") in FRAMES]
 
 
-def pilot_ideas(lang, used, k=5, rounds=3):
+def pilot_ideas(lang, used, k=5, rounds=4):
     """Battle Royale: pro Runde treten die Überlebenden gegen neue Herausforderer an, die Jury lässt nur die k
     besten weiter. Nach der letzten Runde bleiben die k stärksten Ideen übrig."""
     survivors = []

@@ -15,7 +15,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 REVIEWS = ROOT / "data" / "reviews"
-SERIES_MIN = 80
+SERIES_MIN = 85
 VIDEO_MIN = int(os.environ.get("VIDEO_MIN", "55"))
 
 JURY_PROMPT = """Ihr seid eine unabhängige, sehr strenge Jury für virale Kurzvideos (TikTok/Instagram Reels).
@@ -27,12 +27,14 @@ Bewertet diese 8-teilige Serie (ein Teil pro Video) jeweils 0-10:
 - story: Echte Geschichte mit Konflikt und Wendung statt Aufzählung?
 - identifikation: Erkennt man sich oder Bekannte wieder?
 - verbindungen: Gibt es subtile Querverweise zwischen den Figuren, die neugierig machen?
-- sog: Will man nach jedem Teil unbedingt den nächsten sehen?
+- sog: Gibt es pro Teil EINE offene Frage, auf die das ganze Video hinfiebert und die erst im nächsten Teil
+  aufgelöst wird? Will man unbedingt weiterschauen?
+- merkfaehigkeit: Bleibt etwas im Kopf (Catchphrase, unverwechselbare Figuren, ein Satz, den man zitiert)?
 - sprache: Klingt es gesprochen natürlich, kurz, ohne Floskeln?
 Dann: gesamt (0-100) und für jedes schwache Level konkrete Verbesserungen (Satz-genau).
 
 Antworte NUR mit JSON: {{"scores": {{"hook": int, "story": int, "identifikation": int, "verbindungen": int,
-"sog": int, "sprache": int}}, "gesamt": int, "fixes": [{{"n": int, "fix": str}}], "fazit": str}}
+"sog": int, "merkfaehigkeit": int, "sprache": int}}, "gesamt": int, "fixes": [{{"n": int, "fix": str}}], "fazit": str}}
 
 SERIE:
 {series}"""
@@ -65,7 +67,7 @@ def improve_series(series, ask, name):
     """Lässt die Serie bewerten und bei Bedarf überarbeiten. Gibt die beste Version zurück."""
     best, best_score, rounds = series, -1, []
     current = series
-    for _ in range(3):
+    for _ in range(4):
         try:
             crit = ask(JURY_PROMPT.format(series=json.dumps(current, ensure_ascii=False)))
             score = int(crit.get("gesamt", 0))
@@ -76,7 +78,7 @@ def improve_series(series, ask, name):
         print(f"  Skript-Jury: {score}/100 – {crit.get('fazit', '')[:140]}")
         if score > best_score:
             best, best_score = current, score
-        if score >= SERIES_MIN or len(rounds) == 3:
+        if score >= SERIES_MIN or len(rounds) == 4:
             break
         try:
             current = ask(REWRITE_PROMPT.format(critique=json.dumps(crit, ensure_ascii=False),
