@@ -23,6 +23,9 @@ JURY_PROMPT = """Ihr seid eine unabhängige, sehr strenge Jury für virale Kurzv
 Rollen: (A) Producer, der täglich Millionen-Reels sieht, (B) typischer Zuschauer 18-30, der nach 2 Sekunden
 weiterwischt, wenn ihn nichts packt, (C) Story-Editor. Ihr habt keinen Grund, nett zu sein.
 
+Vergleicht mit den viralen Vorbildern (Obst-Dramen mit Zahl auf der Stirn, z. B. "2.000 Euro? Wer hat den denn
+eingeladen? Vielleicht putzt er später die Toiletten für uns Reiche." und "8 Levels of Fame": "I've posted 214
+videos. My best one has 41 views."). Fesselt unser Text mindestens so stark? Wenn nicht, gibt es keine hohen Punkte.
 Bewertet diese 8-teilige Serie (ein Teil pro Video) jeweils 0-10:
 - hook: Packt der erste Satz jedes Teils sofort?
 - story: Echte Geschichte mit Konflikt und Wendung statt Aufzählung?

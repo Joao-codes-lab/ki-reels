@@ -102,7 +102,7 @@ def _gemini(text, lang, path, cast=None):
     key = os.environ["GEMINI_API_KEY"]
     voice = os.environ.get("GEMINI_VOICE") or VOICES.get(lang, {}).get("gemini", "Puck")
     if cast:
-        script = "\n".join(f"{sp}: {t}" for sp, t in cast["lines"])
+        script = "\n".join(f"{sp if sp in cast['voices'] else 'Erzaehler'}: {t}" for sp, t in cast["lines"])
         speech = {"multiSpeakerVoiceConfig": {"speakerVoiceConfigs": [
             {"speaker": sp, "voiceConfig": {"prebuiltVoiceConfig": {"voiceName": v}}} for sp, v in cast["voices"].items()]}}
         prompt = CAST_STYLE.get(lang, CAST_STYLE["en"]) + script
@@ -138,7 +138,12 @@ def _gemini(text, lang, path, cast=None):
 # Standard-Stimmen von ElevenLabs (mehrsprachig mit eleven_multilingual_v2)
 ELEVEN_VOICES = {"Erzaehler": "JBFqnCBsd6RMkjVDRZzb",  # George: tief, warm, erzählend
                  "w": "EXAVITQu4vr4xnSDxMaL",  # Sarah
-                 "m": "TX3LPaxmHKxFdv7VOQHJ"}  # Liam
+                 "m": "TX3LPaxmHKxFdv7VOQHJ",  # Liam
+                 # Gegenspieler und Nebenfiguren: andere Stimmen, damit man sie auseinanderhält
+                 "Gegenspieler_m": "nPczCjzI2devNBz1zQrb",  # Brian: selbstgefällig, tief
+                 "Gegenspieler_w": "FGY2WhTYpPnrIDTdsKH5",  # Laura: spitz
+                 "Nebenfigur_m": "IKne3meq5aSn9XLyUdCD",  # Charlie
+                 "Nebenfigur_w": "XrExE9yKIg1WjnnlVkGX"}  # Matilda
 GEMINI_GENDER = {"Kore": "w", "Aoede": "w", "Leda": "w", "Zephyr": "w", "Puck": "m", "Charon": "m", "Fenrir": "m"}
 
 
@@ -180,8 +185,12 @@ def _eleven(text, lang, path, cast=None):
     tmp = path.parent / "eleven"
     tmp.mkdir(exist_ok=True)
     parts, words, offset, gap = [], [], 0.0, 0.18
-    for i, (sp, t) in enumerate(lines):
-        vid = ELEVEN_VOICES["Erzaehler"] if sp == "Erzaehler" else ELEVEN_VOICES[fig]
+    genders = (cast or {}).get("genders") or [None] * len(lines)
+    for i, ((sp, t), g) in enumerate(zip(lines, genders)):
+        if sp in ("Gegenspieler", "Nebenfigur"):
+            vid = ELEVEN_VOICES[f"{sp}_{g or 'm'}"]
+        else:
+            vid = ELEVEN_VOICES["Erzaehler"] if sp == "Erzaehler" else ELEVEN_VOICES[fig]
         p = tmp / f"{i:02d}.mp3"
         ws = _eleven_line(t, vid, p, sp != "Erzaehler")
         words += [(offset + a, offset + b, w) for a, b, w in ws]

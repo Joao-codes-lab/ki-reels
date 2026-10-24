@@ -74,6 +74,25 @@ def draw_hud(img, stats, t_in, first=None):
                             fill=BAR_COLORS[i % 3] + (255,))
 
 
+INTRO = 1.1
+
+
+def draw_intro(img, n, t):
+    """Statt Aufzugtüren: großes „LEVEL n“ knallt ins Bild und fliegt dann nach oben links weg."""
+    d = ImageDraw.Draw(img, "RGBA")
+    k = ease(min(t / 0.15, 1))
+    out = ease(max(t - 0.75, 0) / 0.35)
+    size = int(230 * (0.5 + 0.6 * k - 0.1 * min(t / 0.3, 1)) * (1 - 0.7 * out))
+    f = F_COND(max(size, 20))
+    txt = f"LEVEL {n}"
+    w = d.textlength(txt, font=f)
+    x = SAFE_CX - w / 2 - out * (SAFE_CX - 160)
+    y = 760 - out * 700
+    pad = 30 * (1 - out)
+    d.rounded_rectangle([x - pad, y - pad / 2, x + w + pad, y + size * 1.15 + pad / 2], radius=30, fill=ACCENT + (235,))
+    d.text((x, y), txt, font=f, fill=INK)
+
+
 def draw_delta(img, delta, t):
     """Großes "+500 €" / "-400 €" springt auf und fliegt zur Werte-Leiste: die Zahl ändert sich live."""
     d = ImageDraw.Draw(img, "RGBA")
@@ -190,14 +209,14 @@ def render_part(series, n, images, out_path, backend="gemini"):
     lab = LABELS[lang]
     vl = V4_LABELS.get(lang, V4_LABELS["en"])
     pics = [cover(Image.open(p).convert("RGB"), W, H) for p in images]
-    doors = make_doors(str(n))
 
     with tempfile.TemporaryDirectory() as tmp:
         voice = Path(tmp) / "voice.mp3"
         fig = {"w": "Kore", "m": "Puck"}.get(str(lv.get("gender", "m"))[:1].lower(), "Puck")
         cast = None
         if len({x["s"] for x in lv.get("lines", [])}) > 1:
-            cast = {"lines": [(x["s"], x["t"]) for x in lv["lines"]], "voices": {"Erzaehler": "Charon", "Figur": fig}}
+            cast = {"lines": [(x["s"], x["t"]) for x in lv["lines"]], "voices": {"Erzaehler": "Charon", "Figur": fig},
+                    "genders": [x.get("g") for x in lv["lines"]]}
         dur, words = tts.speak(lv["story"], lang, voice, backend=backend, cast=cast)
         starts = sentence_starts(words)
         outro = words[starts[-1]][0] - 0.2 if len(starts) > 1 else dur - 2.5
@@ -206,13 +225,13 @@ def render_part(series, n, images, out_path, backend="gemini"):
         chunks = chunk_words(words)
         qspan = find_quote(words, lv.get("quote"))
         qcard = quote_card(lv["quote"], vl["quote"]) if qspan else None
-        hud_at = DOOR_OPEN[1]
+        hud_at = INTRO
 
-        cuts, t = [], DOOR_OPEN[0]
+        cuts, t = [], 0.0
         while t < outro:
             cuts.append(t)
             t += CUT
-        events = [(0.1, "tick"), (DOOR_OPEN[0] - 0.1, "ding"), (hud_at, "pop")]
+        events = [(0.05, "pop"), (hud_at, "pop")]
         events += [(hud_at + i * 0.08, "tick") for i in range(int(COUNT_UP / 0.08))]
         twist = lv.get("twist") or {}
         twist_at = qspan[1] if (qspan and twist.get("delta")) else None
@@ -237,8 +256,8 @@ def render_part(series, n, images, out_path, backend="gemini"):
                 img = shot(pics[k % len(pics)], k, (t - c0) / max(c1 - c0, 0.1))
                 if k > 0 and t - c0 < 0.07:
                     img = Image.blend(img, Image.new("RGB", (W, H), (255, 255, 255)), 0.3 * (1 - (t - c0) / 0.07))
-                if t < DOOR_OPEN[1]:
-                    draw_doors(img, doors, (t - DOOR_OPEN[0]) / (DOOR_OPEN[1] - DOOR_OPEN[0]))
+                if t < INTRO:
+                    draw_intro(img, n, t)
                 if t >= hud_at:
                     after = twist.get("after") if (twist_at and t >= twist_at) else None
                     draw_hud(img, lv.get("stats"), t - hud_at, after)

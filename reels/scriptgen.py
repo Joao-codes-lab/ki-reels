@@ -202,8 +202,9 @@ Demütigung oder des Triumphs, eine überraschende Wendung. Level 8 bleibt bis z
                        "Kleidung mit Farben und ein Accessoire; auf der Stirn eine leuchtende Digitalanzeige."),
     "style": ("high-quality 3D animated feature film style, anthropomorphic fruit and vegetable people with "
               "expressive cartoon faces, the head and skin made of the fruit or vegetable, stylized proportions, "
-              "a small glowing digital display embedded in the forehead, cinematic warm lighting, richly detailed "
-              "colorful environment, no extra text, no watermark"),
+              "a small glowing digital display embedded in the forehead, extremely detailed and busy background environment "
+              "full of props, signs, plants, lights and other fruit people, cinematic warm lighting, vibrant colors, "
+              "no extra text, no watermark"),
 }
 
 FRAMES["fruchtmensch"] = dict(FRAMES["frucht"], **{
@@ -229,6 +230,14 @@ Satz in die Geschichte hineingezogen und wollen unbedingt den nächsten Teil seh
 Thema der Serie: {topic}
 Sprache und Kultur: {lang_name}. Schreibe muttersprachlich und an das Land angepasst ({country}), mit
 realistischen, konkreten Zahlen (Gehälter, Mieten, Preise) für dieses Land. Keine Übersetzung.
+
+So klingen die viralen Vorbilder (NUR Ton und Tempo übernehmen, nichts kopieren):
+- Obst-Drama (116.000 Aufrufe): "Wie kannst du dir das alles leisten? Deine Stirn zeigt nur 2.000 Euro." /
+  "2.000 Euro? Wer hat den denn eingeladen?" / "Vielleicht putzt er später die Toiletten für uns Reiche." /
+  "Wir sind eingeladen. Behandeln Sie uns mit Respekt."
+- Level-Format (313.000 Aufrufe): "I've posted 214 videos. My best one has 41 views. Eight levels of fame.
+  Level one. I'm Mia, 19. 30 of those 41 views are my mom. My studio is a $30 ring light in a closet."
+Merke: kurze Sätze, jede Zeile eine neue Information oder Emotion, sichtbare Ungerechtigkeit, konkrete Zahlen.
 
 Psychologische Mechanik (in jedem Teil anwenden):
 - Erster Satz = Hook in max. 12 Wörtern, der mitten in eine Szene springt, mit überraschender Zahl oder
@@ -285,9 +294,11 @@ Für jedes Level:
 - name: Vorname + Alter + Rolle, z. B. "Lena, 27, Pflegerin"
 - badge: Kernzahl, max. 18 Zeichen, z. B. "3.200 € netto"
 - verdict: Urteil in 1-3 Wörtern in GROSSBUCHSTABEN, z. B. "NICHT REICH"
-- story: gesprochener Text, MINDESTENS 140 und höchstens 165 Wörter (ca. 60-70 Sekunden, wie die Vorbilder; zu kurze Teile werden verworfen), in der ICH-FORM der Figur erzählt
-  (die Figur spricht selbst, z. B. "Ich hab 214 Videos gepostet. Mia, 19."), sehr kurze, rhythmische Sätze,
-  erster Satz = Hook. Genau ein Satz ist ein wörtliches Zitat einer anderen Person (z. B. Chef, Mutter, Kommentar).
+- story: gesprochener Text, MINDESTENS 140 und höchstens 165 Wörter (ca. 60-70 Sekunden, wie die Vorbilder;
+  zu kurze Teile werden verworfen). Ein MITREISSENDES Mini-Drama, kein Bericht: etwa 60 % Dialog zwischen der
+  Figur, dem Gegenspieler und Nebenfiguren (je eigene Stimme), dazwischen kurze Ich-Sätze der Figur. Jede Zeile
+  ist ein neuer Beat: Demütigung, Konter, Schock, Wendung. Konkrete Zahlen und Details statt Allgemeinplätze.
+  Erster Satz = Hook (Widerspruch mit Zahl oder ein Satz mitten im Streit). Genau ein Satz ist das Schlüssel-Zitat.
 - quote: genau dieses Zitat, wortgleich wie in der Story (ohne Anführungszeichen), max. 10 Wörter.
 - stats: genau 3 Kennzahlen der Figur für die Werte-Leiste, passend zum Thema, kurz:
   [{{"label": "Netto", "value": "1.380 €", "bar": 0.15}}, ...] (label max. 12 Zeichen, value max. 9 Zeichen,
@@ -298,12 +309,16 @@ Für jedes Level:
   Absturz, Geschenk): {{"delta": "-400 €", "after": "750 €"}} (after = neuer erster Wert der Werte-Leiste,
   gleiches Format wie dort, max. 9 Zeichen).
 - lines: die Story als gesprochene Zeilen mit Sprecher, zusammen exakt der Story-Text:
-  [{{"s": "Erzaehler", "t": "Die 8 Level von Reichtum. Level 3."}}, {{"s": "Figur", "t": "..."}}, ...].
-  "Erzaehler" spricht die Level-Ansage am Anfang und alle Sätze anderer Personen (Dialogpartner, Zitate),
-  "Figur" spricht alles in Ich-Form. Mindestens 2 kurze Dialogmomente mit einer anderen Person.
-- visual: englischer Bildprompt für die Hauptszene (Tätigkeit, Gefühl, Umgebung, Licht). Keine Schrift im Bild.
-- scenes: 4 weitere englische Bildprompts, je ein Schlüsselmoment der Geschichte in der richtigen Reihenfolge,
-  ausdrucksstarke Mimik und Gestik, abwechslungsreiche Perspektiven (Nahaufnahme, Totale, Detail).
+  [{{"s": "Erzaehler", "t": "Die 8 Level von Reichtum. Level 3."}}, {{"s": "Figur", "t": "..."}},
+   {{"s": "Gegenspieler", "g": "m", "t": "..."}}, {{"s": "Nebenfigur", "g": "w", "t": "..."}}, ...].
+  Sprecher: "Erzaehler" (nur die Level-Ansage am Anfang und der Schlusssatz), "Figur" (Ich-Form und eigene
+  Dialogsätze), "Gegenspieler" und "Nebenfigur" (mit "g": "w" oder "m"). Mindestens 6 Sprecherwechsel.
+- visual: englischer Bildprompt für die Hauptszene. Keine Schrift im Bild.
+- scenes: 6 weitere englische Bildprompts, je ein Schlüsselmoment in der richtigen Reihenfolge. JEDE Szene an
+  einem ANDEREN, sehr detailliert beschriebenen Ort (z. B. überfüllte U-Bahn, luxuriöser Ballsaal, chaotische
+  WG-Küche, Neon-Kiosk, Uni-Flur, Dachterrasse) mit Wetter, Licht, Requisiten und weiteren Obst- und Gemüsemenschen
+  im Hintergrund. Perspektiven abwechseln: Totale, die die ganze Umgebung zeigt, Halbnah mit zwei Figuren im Streit,
+  Detail (Hand, Display, Gegenstand). Beginne jeden Prompt mit Ort und Perspektive.
 - caption: 1 Satz + Frage an die Zuschauer + 4-6 Hashtags in der Zielsprache.
 
 Außerdem:
@@ -313,7 +328,7 @@ Außerdem:
 Antworte NUR mit JSON:
 {{"title": str, "house": str, "catchphrase": str, "links": [str, ...], "levels": [{{"n": 1, "open_loop": str, "gegenspieler": {{"level": int, "tat": str}}, "name": str, "badge": str, "verdict": str, "story": str,
 "gender": str, "twist": {{"delta": str, "after": str}}, "lines": [{{"s": str, "t": str}}], "quote": str, "stats": [{{"label": str, "value": str, "bar": float}}], "character": str, "visual": str,
-"scenes": [str, str, str, str], "caption": str}}, ... bis n=8]}}
+"scenes": [str, str, str, str, str, str], "caption": str}}, ... bis n=8]}}
 """
 
 COUNTRIES = {"de": "Deutschland", "en": "USA", "es": "Spanien", "pt": "Brasilien", "fr": "Frankreich"}
@@ -331,15 +346,23 @@ def validate_series(s):
         lv["n"] = i
         for k in ("name", "badge", "verdict", "story", "visual", "caption"):
             assert lv.get(k), f"Level {i}: {k} fehlt"
-        lv["scenes"] = (lv.get("scenes") or [])[:4]
+        lv["scenes"] = (lv.get("scenes") or [])[:6]
         lv["stats"] = [x for x in (lv.get("stats") or []) if isinstance(x, dict)][:3]
         lv["quote"] = lv.get("quote") or ""
         tw = lv.get("twist") if isinstance(lv.get("twist"), dict) else {}
         lv["twist"] = {"delta": str(tw.get("delta", ""))[:10], "after": str(tw.get("after", ""))[:9]} if tw.get("delta") else {}
-        lines = [(x.get("s", "Figur"), str(x.get("t", "")).strip()) for x in (lv.get("lines") or [])
-                 if isinstance(x, dict) and str(x.get("t", "")).strip()]
-        lv["lines"] = [{"s": "Erzaehler" if sp.lower().startswith(("erz", "narr")) else "Figur", "t": t}
-                       for sp, t in lines] or [{"s": "Figur", "t": lv["story"]}]
+        roles = {"erz": "Erzaehler", "narr": "Erzaehler", "geg": "Gegenspieler", "ant": "Gegenspieler",
+                 "neb": "Nebenfigur", "side": "Nebenfigur"}
+        out = []
+        for x in lv.get("lines") or []:
+            if not isinstance(x, dict) or not str(x.get("t", "")).strip():
+                continue
+            sp = next((v for k, v in roles.items() if str(x.get("s", "")).lower().startswith(k)), "Figur")
+            item = {"s": sp, "t": str(x["t"]).strip()}
+            if sp in ("Gegenspieler", "Nebenfigur"):
+                item["g"] = "w" if str(x.get("g", "m")).lower().startswith(("w", "f")) else "m"
+            out.append(item)
+        lv["lines"] = out or [{"s": "Figur", "t": lv["story"]}]
         lv["story"] = " ".join(x["t"] for x in lv["lines"])
     assert s.get("title") and s.get("house")
     return s
