@@ -5,7 +5,6 @@ on:
     - cron: "0 5 * * *"   # täglich 05:00 UTC (06:00/07:00 deutscher Zeit)
     - cron: "0 12 * * *"  # Nachholversuch, falls der Morgenlauf gescheitert ist
     - cron: "30 22 * * *" # Nacht-Battle: 5 neue Pilotfolgen (nicht gepostet), João sieht sie morgens
-    - cron: "15 2 * * *"  # Nacht-Fortsetzung: bester Pilot bekommt Level 2 und 3 (Querbezüge sichtbar)
   workflow_dispatch:
     inputs:
       count:
