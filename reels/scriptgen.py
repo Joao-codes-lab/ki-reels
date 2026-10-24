@@ -206,6 +206,17 @@ Demütigung oder des Triumphs, eine überraschende Wendung. Level 8 bleibt bis z
               "colorful environment, no extra text, no watermark"),
 }
 
+FRAMES["fruchtmensch"] = dict(FRAMES["frucht"], **{
+    "name": "Die Stirn-Zahl (Fruchtkopf)",
+    "character_rule": ("Die Figur hat einen Kopf aus Obst oder Gemüse (Sorte nennen) auf einem menschlichen Körper, "
+                       "trägt auffällige, stylische Kleidung mit Farben und Accessoires; auf der Stirn eine leuchtende "
+                       "Digitalanzeige."),
+    "style": ("glossy high-end 3D animated film render, characters with a fruit or vegetable head on a stylish human "
+              "body, trendy detailed fashion outfits and accessories, expressive cartoon faces, small glowing digital "
+              "number display on the forehead, richly detailed luxurious environment, warm cinematic lighting, "
+              "vibrant saturated colors, no extra text, no watermark"),
+})
+
 NEXT_LINE = {"de": "Das siehst du in Level {n}.", "en": "You'll see that in Level {n}.",
              "es": "Lo verás en el nivel {n}.", "pt": "Você vai ver isso no nível {n}.",
              "fr": "Tu verras ça au niveau {n}."}
