@@ -170,6 +170,15 @@ def level_images(series, n, frame, folder, seed):
         p = folder / f"l{n}_{i}.jpg"
         print(f"  Bild {i + 1}: {imagegen.generate(prompt, p, seed=seed + j * 13 + i, style=look, model=model)}")
         pics.append(str(p))
+    qb = lv.get("quote_by") if isinstance(lv.get("quote_by"), dict) else {}
+    if qb.get("character"):
+        other = {"character": qb["character"], "badge": qb.get("badge", "")}
+        p = folder / f"l{n}_zitat.jpg"
+        src = imagegen.generate(image_prompt(frame, other, qb.get("scene") or lv["visual"]), p, seed=seed + 77,
+                                style=look, model=model)
+        print(f"  Zitat-Bild ({qb.get('name')}, {qb.get('badge')}): {src}")
+        if src != "placeholder":
+            lv["quote_image"] = str(p)
     return pics, verdict
 
 
