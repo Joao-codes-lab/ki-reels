@@ -153,7 +153,7 @@ if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("step", choices=["generate", "post"])
     ap.add_argument("--langs", default=os.environ.get("LANGS", "de,en"))
-    ap.add_argument("--tts", default=os.environ.get("TTS", "edge"))
+    ap.add_argument("--tts", default=os.environ.get("TTS", "gemini"))
     ap.add_argument("--count", type=int, default=int(os.environ.get("VIDEOS_PER_RUN", "1")))
     ap.add_argument("--base-url", default=os.environ.get("PAGES_URL", ""))
     ap.add_argument("--mode", default=os.environ.get("MODE", "series"), choices=["series", "classic"])
