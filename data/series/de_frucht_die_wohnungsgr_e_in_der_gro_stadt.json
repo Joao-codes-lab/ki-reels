@@ -1,0 +1,732 @@
+{
+  "title": "Die 8 Level von Wohnungsgröße",
+  "house": "A bustling German metropolis built entirely of organic architecture, featuring giant glass skyscrapers with leafy balconies, neon-lit tram lines, and bustling street markets where fruit and vegetable people commute.",
+  "catchphrase": "Die Zahl auf der Stirn lügt nie.",
+  "links": [
+    "Level 1: Leon erwähnt die laute Nachbarin mit dem riesigen Loft aus Level 8.",
+    "Level 2: Samira kauft Kaffee im Kiosk von Level 3.",
+    "Level 3: Ben sieht den Sportwagen von Level 7 vorbeirasen.",
+    "Level 4: Mia arbeitet als Reinigungskraft im Penthouse von Level 8.",
+    "Level 5: Jonas wartet an derselben Bushaltestelle wie Samira aus Level 2.",
+    "Level 6: Clara bestellt Blumen bei der Floristin aus Level 5.",
+    "Level 7: David überholt Ben aus Level 3 auf der Stadtautobahn.",
+    "Level 8: Sophia blickt von oben auf die kleine Kammer von Leon aus Level 1 hinab."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Wer hatte mir diesen mysteriösen blauen Brief zugesteckt?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Die Person aus Level 8 schaute verächtlich auf Leons kleine Kammer herab und blockierte den Aufzug."
+      },
+      "name": "Leon, 22, Azubi",
+      "badge": "8 qm",
+      "verdict": "ABstellkammer",
+      "story": "Die 8 Level von Wohnungsgröße. Level 1. Acht Quadratmeter Wohnfläche – kleiner als manche Gefängniszelle. Ich zahle dreihundertfünfzig Euro warm für eine alte Besenkammer direkt unter dem Dach. Mein Bett berührt gleichzeitig die Dusche und die Kochnische. Als ich gestern im Flur stand, musterte mich die Nachbarin aus dem Penthouse kalt. Wer so wohnt, hat im Leben einfach versagt. Ich schluckte den Kloß in meinem Hals hinunter und ging zurück in mein winziges Zimmer. Mein Konto ist leer, mein Rücken schmerzt von der Matratze auf dem Boden, aber ich gebe nicht auf. Plötzlich klopfte es heftig an meiner Holztür. Ein Umschlag lag im Staub. Ich blickte auf das Papier. Darin stand eine Nachricht, die alles verändern sollte. Wer hatte mir diesen Brief zugesteckt? Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+2 qm",
+        "after": "10 qm"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Wohnungsgröße. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Acht Quadratmeter Wohnfläche – kleiner als manche Gefängniszelle."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich zahle dreihundertfünfzig Euro warm für eine alte Besenkammer direkt unter dem Dach."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Bett berührt gleichzeitig die Dusche und die Kochnische."
+        },
+        {
+          "s": "Figur",
+          "t": "Als ich gestern im Flur stand, musterte mich die Nachbarin aus dem Penthouse kalt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer so wohnt, hat im Leben einfach versagt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schluckte den Kloß in meinem Hals hinunter und ging zurück in mein winziges Zimmer."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Konto ist leer, mein Rücken schmerzt von der Matratze auf dem Boden, aber ich gebe nicht auf."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich klopfte es heftig an meiner Holztür. Ein Umschlag lag im Staub."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich blickte auf das Papier. Darin stand eine Nachricht, die alles verändern sollte."
+        },
+        {
+          "s": "Figur",
+          "t": "Wer hatte mir diesen Brief zugesteckt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Wer so wohnt, hat im Leben einfach versagt.",
+      "stats": [
+        {
+          "label": "Wohnfläche",
+          "value": "8 qm",
+          "bar": 0.05
+        },
+        {
+          "label": "Miete",
+          "value": "350 €",
+          "bar": 0.1
+        },
+        {
+          "label": "Komfort",
+          "value": "Sehr gering",
+          "bar": 0.02
+        }
+      ],
+      "character": "A young lemon person with bright yellow citrus skin, wearing a slightly faded oversized grey hoodie and holding a worn-out cardboard box. A glowing digital display on his forehead reads 8 qm. Hidden golden coin on the doorframe.",
+      "visual": "A tiny, cramped attic room with a slant roof, a narrow mattress on the floor, dim warm lighting, and a gloomy depressed expression on the lemon man's face.",
+      "scenes": [
+        "Close-up of the glowing digital display reading 8 qm on the lemon's forehead.",
+        "Medium shot of the cramped room showing the bed touching the mini kitchenette and hidden golden coin on the wall.",
+        "Over-the-shoulder shot looking out the tiny dusty window at giant skyscrapers.",
+        "Close-up of a mysterious blue envelope lying on the dusty wooden floorboards."
+      ],
+      "caption": "Wie viel Platz brauchst du wirklich zum Leben? #Wohnungsnot #Großstadt #Level1 #Immobilien #Mietwahnsinn"
+    },
+    {
+      "n": 2,
+      "open_loop": "Was stand in der Kündigung, die der Vermieter mir gerade auf den Tisch geknallt hat?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Die Person aus Level 4 strich Samiras Mietvertrag durch und lachte höhnisch über ihre Kaution."
+      },
+      "name": "Samira, 25, Barista",
+      "badge": "24 qm",
+      "verdict": "1-ZIMMER-LOCH",
+      "story": "Die 8 Level von Wohnungsgröße. Level 2. Vierundzwanzig Quadratmeter Einzimmerwohnung im lauten Hinterhof. Ich kenne jeden Fleck an meiner Tapete auswendig. Die Kaffeemaschine brummt Tag und Nacht durch die dünnen Wände. Gestern traf ich im Kiosk den armen Azubi von nebenan und fühlte mich kurz überlegen. Doch heute kam der Schock. Der Vermieter stand plötzlich in meinem Flur und schüttelte den Kopf. Eigenbedarf, Sie müssen bis Freitag draußen sein. Mein Herz blieb stehen. Vierundzwanzig Quadratmeter schienen plötzlich wie ein Luxus, den ich gleich verliere. Wohin soll ich mit all meinem Kram? Auf dem Küchentisch lag ein offizieller Brief mit rotem Stempel. Ich riss ihn zitternd auf und las die ersten Zeilen. Was stand in dieser verhängnisvollen Kündigung? Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "-24 qm",
+        "after": "0 qm"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Wohnungsgröße. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Vierundzwanzig Quadratmeter Einzimmerwohnung im lauten Hinterhof."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich kenne jeden Fleck an meiner Tapete auswendig."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Kaffeemaschine brummt Tag und Nacht durch die dünnen Wände."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern traf ich im Kiosk den armen Azubi von nebenan und fühlte mich kurz überlegen."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch heute kam der Schock. Der Vermieter stand plötzlich in meinem Flur und schüttelte den Kopf."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Eigenbedarf, Sie müssen bis Freitag draußen sein."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Herz blieb stehen. Vierundzwanzig Quadratmeter schienen plötzlich wie ein Luxus, den ich gleich verliere."
+        },
+        {
+          "s": "Figur",
+          "t": "Wohin soll ich mit all meinem Kram?"
+        },
+        {
+          "s": "Figur",
+          "t": "Auf dem Küchentisch lag ein offizieller Brief mit rotem Stempel. Ich riss ihn zitternd auf und las die ersten Zeilen."
+        },
+        {
+          "s": "Figur",
+          "t": "Was stand in dieser verhängnisvollen Kündigung?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Eigenbedarf, Sie müssen bis Freitag draußen sein.",
+      "stats": [
+        {
+          "label": "Wohnfläche",
+          "value": "24 qm",
+          "bar": 0.18
+        },
+        {
+          "label": "Miete",
+          "value": "680 €",
+          "bar": 0.25
+        },
+        {
+          "label": "Komfort",
+          "value": "Einfach",
+          "bar": 0.2
+        }
+      ],
+      "character": "An orange person with bright citrus peel skin, wearing a green apron over a black t-shirt and holding a steaming coffee cup. A glowing digital display on her forehead reads 24 qm. Hidden golden coin on the kitchen shelf.",
+      "visual": "A narrow studio apartment with a fold-out couch, scattered cardboard boxes, harsh neon light from the backyard, and a stressed expression on the orange woman's face.",
+      "scenes": [
+        "Close-up of the glowing digital display reading 24 qm on the orange's forehead.",
+        "Medium shot of the small messy kitchen with hidden golden coin near the coffee mugs.",
+        "Wide shot of the landlord handing over a red-stamped paper with cold eyes.",
+        "Close-up of Samira's trembling hands opening the official red-stamped letter."
+      ],
+      "caption": "Kündigung wegen Eigenbedarf – der Albtraum in der Großstadt! #Mieterrechte #Wohnungssuche #Level2 #Großstadtleben #Umzug"
+    },
+    {
+      "n": 3,
+      "open_loop": "Wer hat das Geld auf meinem Konto gesperrt, als ich die Kaution überweisen wollte?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Leon schüttete versehentlich seinen Kaffee über Ben's neue Unterlagen im Hausflur."
+      },
+      "name": "Ben, 29, Grafiker",
+      "badge": "45 qm",
+      "verdict": "STANDARD-WG",
+      "story": "Die 8 Level von Wohnungsgröße. Level 3. Einundvierzig Quadratmeter Zweizimmerwohnung im Altbau mit Holzdielen. Endlich Platz für einen echten Schreibtisch und ein Sofa, das nicht klappbar ist. Ich dachte, ich hätte es geschafft. Bis mein Kumpel vorbeikam und mein Wohnzimmer musterte. Für das Geld kriegst du auf dem Land ein ganzes Schloss, Alter. Da traf mich die Realität wie ein Schlag ins Gesicht. Zwölfhundert Euro Warmmiete für ein paar Holzdielen und eine klappernde Heizung. Ich atmete tief durch und wollte die Kaution für meine Traumwohnung überweisen. Doch plötzlich sprang eine rote Fehlermeldung auf dem Bildschirm auf. Mein Online-Banking war blockiert. Wer hatte mein Konto gesperrt und meine Zukunft zerstört? Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+5 qm",
+        "after": "50 qm"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Wohnungsgröße. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Einundvierzig Quadratmeter Zweizimmerwohnung im Altbau mit Holzdielen."
+        },
+        {
+          "s": "Figur",
+          "t": "Endlich Platz für einen echten Schreibtisch und ein Sofa, das nicht klappbar ist."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich dachte, ich hätte es geschafft. Bis mein Kumpel vorbeikam und mein Wohnzimmer musterte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Für das Geld kriegst du auf dem Land ein ganzes Schloss, Alter."
+        },
+        {
+          "s": "Figur",
+          "t": "Da traf mich die Realität wie ein Schlag ins Gesicht."
+        },
+        {
+          "s": "Figur",
+          "t": "Zwölfhundert Euro Warmmiete für ein paar Holzdielen und eine klappernde Heizung."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich atmete tief durch und wollte die Kaution für meine Traumwohnung überweisen."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch plötzlich sprang eine rote Fehlermeldung auf dem Bildschirm auf. Mein Online-Banking war blockiert."
+        },
+        {
+          "s": "Figur",
+          "t": "Wer hatte mein Konto gesperrt und meine Zukunft zerstört?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Für das Geld kriegst du auf dem Land ein ganzes Schloss, Alter.",
+      "stats": [
+        {
+          "label": "Wohnfläche",
+          "value": "45 qm",
+          "bar": 0.35
+        },
+        {
+          "label": "Miete",
+          "value": "1.200 €",
+          "bar": 0.4
+        },
+        {
+          "label": "Komfort",
+          "value": "Gut",
+          "bar": 0.45
+        }
+      ],
+      "character": "An avocado person with light green pitted skin, wearing a stylish denim jacket and round hipster glasses. A glowing digital display on his forehead reads 45 qm. Hidden golden coin under the wooden desk lamp.",
+      "visual": "A cozy two-room apartment with old wooden floorboards, a sleek laptop on a desk, soft afternoon light, and a shocked expression on the avocado man's face.",
+      "scenes": [
+        "Close-up of the glowing digital display reading 45 qm on the avocado's forehead.",
+        "Medium shot of the neat desk area with hidden golden coin beneath the lamp base.",
+        "Close-up of the laptop screen showing a red error message blocking the bank account.",
+        "Wide shot of Ben staring at his phone in disbelief in the middle of the room."
+      ],
+      "caption": "Mietwahnsinn in der Stadt: 45 Quadratmeter für ein Vermögen? #Altbau #Mietpreisbremse #Level3 #Wohnung #Großstadtleben"
+    },
+    {
+      "n": 4,
+      "open_loop": "Wer stand plötzlich in meinem Schlafzimmer, obwohl ich die Haustür doppelt verriegelt hatte?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Die Person aus Level 6 schüttete absichtlich Farbe auf Mias frisch gewischten Flur."
+      },
+      "name": "Mia, 31, Krankenschwester",
+      "badge": "68 qm",
+      "verdict": "MITTELKLASSE-GLÜCK",
+      "story": "Die 8 Level von Wohnungsgröße. Level 4. Achtundsechzig Quadratmeter im dritten Stock. Drei Zimmer, Balkon, Blick auf einen kleinen begrünten Innenhof. Nach Jahren im Wohnklo ein echter Neuanfang. Ich habe lange gespart für diese Miete. Letzte Woche traf ich im Treppenhaus eine arrogante Nachbarin. Sie musterte meine Einrichtung und sagte abfällig: Ganz nett, aber für eine Familie reicht das niemals. Es tat weh, denn sie hat recht. Ich lebe allein, und jeder Cent geht für die Warmmiete drauf. Trotzdem genoss ich den Abend auf meinem kleinen Balkon. Bis ich ein seltsames Kratzen an der Wohnungstür hörte. Die Schritte kamen näher. Wer stand plötzlich in meinem Schlafzimmer, obwohl ich die Haustür doppelt verriegelt hatte? Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+15 qm",
+        "after": "83 qm"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Wohnungsgröße. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Achtundsechzig Quadratmeter im dritten Stock. Drei Zimmer, Balkon, Blick auf einen kleinen begrünten Innenhof."
+        },
+        {
+          "s": "Figur",
+          "t": "Nach Jahren im Wohnklo ein echter Neuanfang. Ich habe lange gespart für diese Miete."
+        },
+        {
+          "s": "Figur",
+          "t": "Letzte Woche traf ich im Treppenhaus eine arrogante Nachbarin."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie musterte meine Einrichtung und sagte abfällig:"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Ganz nett, aber für eine Familie reicht das niemals."
+        },
+        {
+          "s": "Figur",
+          "t": "Es tat weh, denn sie hat recht. Ich lebe allein, und jeder Cent geht für die Warmmiete drauf."
+        },
+        {
+          "s": "Figur",
+          "t": "Trotzdem genoss ich den Abend auf meinem kleinen Balkon."
+        },
+        {
+          "s": "Figur",
+          "t": "Bis ich ein seltsames Kratzen an der Wohnungstür hörte. Die Schritte kamen näher."
+        },
+        {
+          "s": "Figur",
+          "t": "Wer stand plötzlich in meinem Schlafzimmer, obwohl ich die Haustür doppelt verriegelt hatte?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Ganz nett, aber für eine Familie reicht das niemals.",
+      "stats": [
+        {
+          "label": "Wohnfläche",
+          "value": "68 qm",
+          "bar": 0.52
+        },
+        {
+          "label": "Miete",
+          "value": "1.550 €",
+          "bar": 0.6
+        },
+        {
+          "label": "Komfort",
+          "value": "Sehr gut",
+          "bar": 0.55
+        }
+      ],
+      "character": "A strawberry person with textured red skin and tiny green leaf hair, wearing a cozy knitted cardigan and silver earrings. A glowing digital display on her forehead reads 68 qm. Hidden golden coin on the balcony railing.",
+      "visual": "A bright, welcoming three-room apartment with plants on the windowsill, warm golden hour lighting, and a tense expression on the strawberry woman's face.",
+      "scenes": [
+        "Close-up of the glowing digital display reading 68 qm on the strawberry's forehead.",
+        "Medium shot of the sunny balcony with hidden golden coin on the railing.",
+        "Wide shot of Mia looking toward the hallway with a frightened expression.",
+        "Close-up of a locked door handle slowly turning downwards."
+      ],
+      "caption": "Fast 70 Quadratmeter – der Traum vom eigenen Balkon! #Wohnung #MünchenBerlin #Level4 #Eigenheim #Mieten"
+    },
+    {
+      "n": 5,
+      "open_loop": "Was war in dem mysteriösen Paket, das der Kurierdienst vor meiner Tür abgestellt hatte?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Ben parkte sein Auto so ungeschickt, dass Jonas den Hauseingang nicht verlassen konnte."
+      },
+      "name": "Jonas, 35, Ingenieur",
+      "badge": "95 qm",
+      "verdict": "FAMILIEN-NEST",
+      "story": "Die 8 Level von Wohnungsgröße. Level 5. Fünfundneunzig Quadratmeter im Neubau. Vier Zimmer, Fußbodenheizung, Gäste-WC. Endlich genug Platz für Kind, Kegel und Homeoffice. Ich habe jahrelang geschuftet für diesen Standard. Doch gestern kam mein Schwiegervater zu Besuch, lief durch die Räume und schnaubte verächtlich. Für eine vierköpfige Familie ist das hier doch reine Platzverschwendung. Seine Worte trafen mich mitten ins Herz, obwohl wir so lange auf diese Wohnung gewartet hatten. Jedes Zimmer kostet ein kleines Vermögen an Nebenkosten. Plötzlich klingelte es unten Sturm an der Haustür. Ein Lieferdienst rannte die Treppe hinauf und drückte mir einen riesigen, schweren Karton in die Hand. Wer hat dieses mysteriöse Paket geschickt, das nicht mal einen Absender trug? Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+10 qm",
+        "after": "105 qm"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Wohnungsgröße. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Fünfundneunzig Quadratmeter im Neubau. Vier Zimmer, Fußbodenheizung, Gäste-WC."
+        },
+        {
+          "s": "Figur",
+          "t": "Endlich genug Platz für Kind, Kegel und Homeoffice. Ich habe jahrelang geschuftet für diesen Standard."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch gestern kam mein Schwiegervater zu Besuch, lief durch die Räume und schnaubte verächtlich."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Für eine vierköpfige Familie ist das hier doch reine Platzverschwendung."
+        },
+        {
+          "s": "Figur",
+          "t": "Seine Worte trafen mich mitten ins Herz, obwohl wir so lange auf diese Wohnung gewartet hatten."
+        },
+        {
+          "s": "Figur",
+          "t": "Jedes Zimmer kostet ein kleines Vermögen an Nebenkosten."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich klingelte es unten Sturm an der Haustür. Ein Lieferdienst rannte die Treppe hinauf und drückte mir einen riesigen, schweren Karton in die Hand."
+        },
+        {
+          "s": "Figur",
+          "t": "Wer hat dieses mysteriöse Paket geschickt, das nicht mal einen Absender trug?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Für eine vierköpfige Familie ist das hier doch reine Platzverschwendung.",
+      "stats": [
+        {
+          "label": "Wohnfläche",
+          "value": "95 qm",
+          "bar": 0.68
+        },
+        {
+          "label": "Miete",
+          "value": "2.100 €",
+          "bar": 0.72
+        },
+        {
+          "label": "Komfort",
+          "value": "Sehr hoch",
+          "bar": 0.7
+        }
+      ],
+      "character": "A broccoli person with a rich green floret head, wearing a clean business shirt and a smart wristwatch. A glowing digital display on his forehead reads 95 qm. Hidden golden coin on the kitchen counter.",
+      "visual": "A modern, spacious apartment living room with minimalist furniture, bright daylight, and a pensive expression on the broccoli man's face.",
+      "scenes": [
+        "Close-up of the glowing digital display reading 95 qm on the broccoli's forehead.",
+        "Medium shot of the modern kitchen with hidden golden coin on the counter.",
+        "Wide shot of Jonas holding a large brown package in the hallway.",
+        "Close-up of the mysterious package without any return address."
+      ],
+      "caption": "Fast 100 Quadratmeter – der Traum vom modernen Familienleben! #Neubau #Familienwohnung #Level5 #Wohnen #Immobilien"
+    },
+    {
+      "n": 6,
+      "open_loop": "Wer hat die Haustür unseres Reihenhauses mitten in der Nacht von außen verriegelt?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Samira ließ unabsichtlich den Müllsack direkt vor Claras Eingangstür liegen."
+      },
+      "name": "Clara, 42, Architektin",
+      "badge": "140 qm",
+      "verdict": "REIHENHAUS-IDYLLE",
+      "story": "Die 8 Level von Wohnungsgröße. Level 6. Hundertvierzig Quadratmeter Wohnfläche über drei Etagen mit eigenem kleinen Gartenanteil. Eigentum, endlich raus aus der Mietspirale. Ich dachte, hier haben wir unsere Ruhe. Doch gestern sprach mich eine Nachbarin im Vorgarten an und sagte eiskalt: Für so ein kleines Reihenhaus machst du dir viel zu viele Schulden, du wirst den Kredit nie abbezahlen. Ihre Worte brannten sich in mein Hirn. Jede Rate ist ein massiver Druck auf meinen Schultern. Banktermine, Zinsen, Instandhaltung – man ist nie wirklich frei. Trotzdem genoss ich den Blick ins Grün. Bis plötzlich ein lautes Schlossgeräusch an unserer Haustür ertönte. Jemand hatte von außen einen Riegel vorgeschoben. Wer hat uns mitten in der Nacht in unserem eigenen Haus eingesperrt? Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+40 qm",
+        "after": "180 qm"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Wohnungsgröße. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Hundertvierzig Quadratmeter Wohnfläche über drei Etagen mit eigenem kleinen Gartenanteil."
+        },
+        {
+          "s": "Figur",
+          "t": "Eigentum, endlich raus aus der Mietspirale. Ich dachte, hier haben wir unsere Ruhe."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch gestern sprach mich eine Nachbarin im Vorgarten an und sagte eiskalt:"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Für so ein kleines Reihenhaus machst du dir viel zu viele Schulden, du wirst den Kredit nie abbezahlen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ihre Worte brannten sich in mein Hirn. Jede Rate ist ein massiver Druck auf meinen Schultern."
+        },
+        {
+          "s": "Figur",
+          "t": "Banktermine, Zinsen, Instandhaltung – man ist nie wirklich frei."
+        },
+        {
+          "s": "Figur",
+          "t": "Trotzdem genoss ich den Blick ins Grün. Bis plötzlich ein lautes Schlossgeräusch an unserer Haustür ertönte."
+        },
+        {
+          "s": "Figur",
+          "t": "Jemand hatte von außen einen Riegel vorgeschoben."
+        },
+        {
+          "s": "Figur",
+          "t": "Wer hat uns mitten in der Nacht in unserem eigenen Haus eingesperrt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Für so ein kleines Reihenhaus machst du dir viel zu viele Schulden, du wirst den Kredit nie abbezahlen.",
+      "stats": [
+        {
+          "label": "Wohnfläche",
+          "value": "140 qm",
+          "bar": 0.82
+        },
+        {
+          "label": "Kreditrate",
+          "value": "2.800 €",
+          "bar": 0.85
+        },
+        {
+          "label": "Komfort",
+          "value": "Sehr hoch",
+          "bar": 0.88
+        }
+      ],
+      "character": "A coconut person with a hard brown fibrous shell head, wearing an elegant beige trench coat and designer scarf. A glowing digital display on her forehead reads 140 qm. Hidden golden coin on the garden fence.",
+      "visual": "A modern suburban townhouse garden with trimmed hedges, soft evening lights, and a determined expression on the coconut woman's face.",
+      "scenes": [
+        "Close-up of the glowing digital display reading 140 qm on the coconut's forehead.",
+        "Medium shot of the garden entrance with hidden golden coin on the wooden fence.",
+        "Wide shot of Clara looking out the glass door into the dark garden.",
+        "Close-up of a front door handle being tested from the inside with no success."
+      ],
+      "caption": "140 Quadratmeter Reihenhaus – der Traum vom Eigenheim mit Garten! #Immobilien #Eigenheim #Level6 #Architektur #Wohnen"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welche geheimnisvolle Person stand plötzlich auf meiner Dachterrasse und kannte alle meine Geheimnisse?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Jonas hinterließ absichtlich eine Beschwerde bei der Hausverwaltung gegen Davids Eigentumswohnung."
+      },
+      "name": "David, 46, Unternehmer",
+      "badge": "250 qm",
+      "verdict": "LUXUS-PENTHOUSE",
+      "story": "Die 8 Level von Wohnungsgröße. Level 7. Zweihundertfünfzig Quadratmeter Luxus-Penthouse über den Dächern der Stadt. Panoramafenster, privater Fahrstuhl, riesige Dachterrasse mit Infinity-Pool. Ich habe es ganz nach oben geschafft. Gestern traf ich einen alten Bekannten im Aufzug, der neidisch auf meine Stirn starrte. Du hast zwar all diesen Platz, aber am Ende bist du hier oben einsamer als je zuvor. Seine Worte trafen einen wichigen Nerv. Geld und Quadratmeter kaufen keinen Frieden, wenn man niemanden hat, mit dem man sie teilt. Trotzdem genoss ich die Aussicht auf die glitzernde Metropole. Bis plötzlich ein Schatten auf meiner Dachterrasse auftauchte. Jemand stand am Rand meines Pools. Welche geheimnisvolle Person stand plötzlich auf meiner Dachterrasse und kannte all meine tiefsten Geheimnisse? Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+150 qm",
+        "after": "400 qm"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Wohnungsgröße. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Zweihundertfünfzig Quadratmeter Luxus-Penthouse über den Dächern der Stadt."
+        },
+        {
+          "s": "Figur",
+          "t": "Panoramafenster, privater Fahrstuhl, riesige Dachterrasse mit Infinity-Pool. Ich habe es ganz nach oben geschafft."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern traf ich einen alten Bekannten im Aufzug, der neidisch auf meine Stirn starrte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Du hast zwar all diesen Platz, aber am Ende bist du hier oben einsamer als je zuvor."
+        },
+        {
+          "s": "Figur",
+          "t": "Seine Worte trafen einen wichigen Nerv. Geld und Quadratmeter kaufen keinen Frieden, wenn man niemanden hat, mit dem man sie teilt."
+        },
+        {
+          "s": "Figur",
+          "t": "Trotzdem genoss ich die Aussicht auf die glitzernde Metropole."
+        },
+        {
+          "s": "Figur",
+          "t": "Bis plötzlich ein Schatten auf meiner Dachterrasse auftauchte. Jemand stand am Rand meines Pools."
+        },
+        {
+          "s": "Figur",
+          "t": "Welche geheimnisvolle Person stand plötzlich auf meiner Dachterrasse und kannte all meine tiefsten Geheimnisse?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Du hast zwar all diesen Platz, aber am Ende bist du hier oben einsamer als je zuvor.",
+      "stats": [
+        {
+          "label": "Wohnfläche",
+          "value": "250 qm",
+          "bar": 0.95
+        },
+        {
+          "label": "Kaufpreis",
+          "value": "2.2 Mio €",
+          "bar": 0.98
+        },
+        {
+          "label": "Komfort",
+          "value": "Maximum",
+          "bar": 1.0
+        }
+      ],
+      "character": "A dragon fruit person with vibrant pink and green scaled skin, wearing a sharp tailored Armani suit and gold cufflinks. A glowing digital display on his forehead reads 250 qm. Hidden golden coin at the edge of the glass pool.",
+      "visual": "A luxurious penthouse terrace at sunset overlooking glowing skyscrapers, with an infinity pool and a sophisticated, slightly lonely expression on the dragon fruit man's face.",
+      "scenes": [
+        "Close-up of the glowing digital display reading 250 qm on the dragon fruit's forehead.",
+        "Medium shot of the luxurious pool area with hidden golden coin on the glass rim.",
+        "Wide shot of David standing alone against a backdrop of city lights.",
+        "Close-up of a mysterious silhouette appearing near the penthouse glass doors."
+      ],
+      "caption": "Ein Vierteltausend Quadratmeter Luxus über den Dächern! #Penthouse #Luxusleben #Level7 #Erfolg #Immobilien"
+    },
+    {
+      "n": 8,
+      "open_loop": "Was war der wahre Grund, warum alle unsere Wege in dieser Stadt von Anfang an miteinander verbunden waren?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Leon schaute zu Sophia hoch und erkannte, dass sein ganzer Weg erst durch ihre Hilfe möglich wurde."
+      },
+      "name": "Sophia, 52, Investorin",
+      "badge": "??? qm",
+      "verdict": "DAS GEHEIME NETZ",
+      "story": "Die 8 Level von Wohnungsgröße. Level 8. Die finale Zahl auf meiner Stirn bleibt für die Welt ein Rätsel. Ich besitze nicht nur ein Penthouse, ich besitze das gesamte Gebäude, in dem ihr alle wohnt – vom winzigen Zimmer im Dachgeschoss bis zur luxuriösen Dachterrasse. Jede Zahl auf eurer Stirn, jede Mieterhöhung, jede Begegnung im Treppenhaus war von Anfang an Teil eines großen Plans. Gestern stand der junge Azubi unten im Flur und schaute mich hasserfüllt an. Du hast keine Ahnung, wie sich das anfühlt, wenn man jeden Monat ums Überleben kämpft! Seine Worte trafen mich tiefer, als ich zugeben wollte. Denn auch ich saß vor zwanzig Jahren genau auf dieser kleinen Matratze unterm Dach. Ich lächelte ihn an und sagte diesen einen Satz, der alles veränderte. Was habe ich ihm damals zugerufen? Welches Thema der Stirn-Zahl soll als Nächstes verfilmt werden?",
+      "gender": "w",
+      "twist": {
+        "delta": "∞ qm",
+        "after": "ALLE"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Wohnungsgröße. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Die finale Zahl auf meiner Stirn bleibt für die Welt ein Rätsel."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich besitze nicht nur ein Penthouse, ich besitze das gesamte Gebäude, in dem ihr alle wohnt – vom winzigen Zimmer im Dachgeschoss bis zur luxuriösen Dachterrasse."
+        },
+        {
+          "s": "Figur",
+          "t": "Jede Zahl auf eurer Stirn, jede Mieterhöhung, jede Begegnung im Treppenhaus war von Anfang an Teil eines großen Plans."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern stand der junge Azubi unten im Flur und schaute mich hasserfüllt an."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Du hast keine Ahnung, wie sich das anfühlt, wenn man jeden Monat ums Überleben kämpft!"
+        },
+        {
+          "s": "Figur",
+          "t": "Seine Worte trafen mich tiefer, als ich zugeben wollte. Denn auch ich saß vor zwanzig Jahren genau auf dieser kleinen Matratze unterm Dach."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich lächelte ihn an und sagte diesen einen Satz, der alles veränderte."
+        },
+        {
+          "s": "Figur",
+          "t": "Was habe ich ihm damals zugerufen? Welches Thema der Stirn-Zahl soll als Nächstes verfilmt werden?"
+        }
+      ],
+      "quote": "Du hast keine Ahnung, wie sich das anfühlt, wenn man jeden Monat ums Überleben kämpft!",
+      "stats": [
+        {
+          "label": "Besitz",
+          "value": "Das Haus",
+          "bar": 1.0
+        },
+        {
+          "label": "Macht",
+          "value": "Absolut",
+          "bar": 1.0
+        },
+        {
+          "label": "Wahrheit",
+          "value": "Enthüllt",
+          "bar": 1.0
+        }
+      ],
+      "character": "An exotic pineapple person with crown-like leaves and golden textured skin, wearing a luxurious velvet designer coat and pearl necklace. A glowing digital display on her forehead reads ??? qm. Hidden golden coin embedded in the grand lobby floor.",
+      "visual": "A grand marble lobby of a luxury skyscraper with chandeliers, soft dramatic lighting, and a powerful, knowing expression on the pineapple woman's face.",
+      "scenes": [
+        "Close-up of the glowing digital display reading ??? qm on the pineapple's forehead.",
+        "Medium shot of the grand lobby with hidden golden coin embedded in the floor tiles.",
+        "Wide shot of Sophia looking down from a high balcony at all the previous characters.",
+        "Close-up of Sophia smiling enigmatically into the camera as the series concludes."
+      ],
+      "caption": "Das Finale der Stirn-Zahl! Wer steuert wirklich unser Leben? #Finale #DieStirnZahl #Level8 #Wohnungsmarkt #Mindblown"
+    }
+  ],
+  "lang": "de",
+  "topic": "Die Wohnungsgröße in der Großstadt",
+  "frame": "frucht"
+}

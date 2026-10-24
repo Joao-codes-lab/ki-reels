@@ -1,0 +1,612 @@
+{
+  "title": "Die 8 Level des monatlichen Dating-Budgets",
+  "house": "A bustling German urban neighborhood where fruit and vegetable people live in cozy apartments, commute via local trains, and frequent the central neon-lit kiosk and a corner café.",
+  "catchphrase": "Die Zahl auf der Stirn lügt nie.",
+  "links": [
+    "Level 1 Tim mentions a guy named Leo at the kiosk who always buys expensive organic coffee.",
+    "Level 2 Mia talks about a generous man in a tailored suit who leaves a 50-euro tip.",
+    "Level 3 Ben complains about his coworker Leo who wears designer shoes.",
+    "Level 4 Leonie sees a woman with a glowing 1.500 € badge crying outside the subway.",
+    "Level 5 Jonas meets a frustrated student buying cheap instant noodles.",
+    "Level 6 Clara notices a guy in the bus staring at her expensive dating app receipts.",
+    "Level 7 Sam hears rumors about an anonymous millionaire living in the penthouse.",
+    "Level 8 Leo finally reveals his secret identity and his reasons for testing the dating app."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was war der Grund, warum Tim ausgerechnet von der vermeintlichen Traumfrau blockiert wurde?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Lacht Tim im Café laut aus, als seine Dating-App-Nachricht direkt als Spam markiert wird."
+      },
+      "name": "Tim, 24, Azubi",
+      "badge": "0 € Budget",
+      "verdict": "PLEITE",
+      "story": "Die 8 Level des monatlichen Dating-Budgets. Level 1. Null Euro im Monat für Tinder, Bumble oder Kaffee-Dates. Mein Kontostand ist eine einzige rote Warnlampe. Ich spare jeden Cent für die Miete meiner WG. Gestern habe ich ein Profil gematcht, das perfekt schien. Wir haben stundenlang geschrieben. Sie wollte wissen, ob wir uns heute im Park auf ein Bier treffen. Ich musste ehrlich sein und absagen. Geh erstmal arbeiten, bevor du Frauen datest. Mein Magen zog sich sofort schmerzhaft zusammen. Kennst du das Gefühl, wenn du nicht mal eine Cola im Café bezahlen kannst? Ich schaue auf mein Handy und warte auf ein Wunder. Wer hat mir eigentlich diesen falschen Betrag auf die Stirn gebrachtt? Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+15 €",
+        "after": "15 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level des monatlichen Dating-Budgets. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Null Euro im Monat für Tinder, Bumble oder Kaffee-Dates. Mein Kontostand ist eine einzige rote Warnlampe. Ich spare jeden Cent für die Miete meiner WG."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern habe ich ein Profil gematcht, das perfekt schien. Wir haben stundenlang geschrieben. Sie wollte wissen, ob wir uns heute im Park auf ein Bier treffen. Ich musste ehrlich sein und absagen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Geh erstmal arbeiten, bevor du Frauen datest."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Magen zog sich sofort schmerzhaft zusammen. Kennst du das Gefühl, wenn du nicht mal eine Cola im Café bezahlen kannst? Ich schaue auf mein Handy und warte auf ein Wunder. Wer hat mir eigentlich diesen falschen Betrag auf die Stirn gebrachtt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Geh erstmal arbeiten, bevor du Frauen datest.",
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "0 €",
+          "bar": 0.0
+        },
+        {
+          "label": "Spuren",
+          "value": "1 App",
+          "bar": 0.05
+        },
+        {
+          "label": "Chancen",
+          "value": "1%",
+          "bar": 0.01
+        }
+      ],
+      "character": "A young, slightly bruised green zucchini person wearing a faded oversized gray hoodie. On the forehead, a glowing digital display reads 0 €.",
+      "visual": "A young zucchini man sitting on a shabby subway seat at night, looking despondently at his cracked smartphone screen, cold blue neon lighting, a tiny hidden golden coin near the train door.",
+      "scenes": [
+        "Close up of the glowing 0 € display on the zucchini's forehead reflecting in a dark window.",
+        "The zucchini staring at a dating app profile on a broken smartphone with a tiny hidden golden coin on the screen edge.",
+        "Standing in a cheap discount supermarket aisle holding a single discount can, looking defeated.",
+        "Walking past a glowing neon café window where other fruit people are laughing on dates."
+      ],
+      "caption": "Wie viel gibst du monatlich für Dating aus? #DatingBudget #StirnZahl #Armut #Berlin #Beziehung",
+      "open_loop_question": "Was war der Grund, warum Tim ausgerechnet von der vermeintlichen Traumfrau blockiert wurde?"
+    },
+    {
+      "n": 2,
+      "open_loop": "Wer hat Mia den anonymen Umschlag mit dem Geldschein zugesteckt?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Beschwert sich laut im Kiosk über Mias billigen Kaffee und drängelt sich vor."
+      },
+      "name": "Mia, 22, Barista",
+      "badge": "30 € Budget",
+      "verdict": "KNAPP",
+      "story": "Die 8 Level des monatlichen Dating-Budgets. Level 2. Exakt eine Premium-Mitgliedschaft und sonst nichts. Als Studentin und Barista zählt bei mir jeder Cent im Portemonnaie. Mein Stirn-Display leuchtet in grellem Rot: 30 Euro. Damit bezahle ich genau einen Monat Tinder Gold, um überhaupt Filter nutzen zu können. Heute stand ein Typ an der Theke, der mich mit einem Blick musterte, der alles sagte. Für den Preis kriege ich woanders eine ganze Bohne. Ich biss mir auf die Unterlippe, um nicht zu heulen. Der Kaffeeduft in der Luft fühlte sich plötzlich bitter an. Warum schauen alle immer nur auf die Zahl? Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+20 €",
+        "after": "50 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level des monatlichen Dating-Budgets. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Exakt eine Premium-Mitgliedschaft und sonst nichts. Als Studentin und Barista zählt bei mir jeder Cent im Portemonnaie. Mein Stirn-Display leuchtet in grellem Rot: 30 Euro."
+        },
+        {
+          "s": "Figur",
+          "t": "Damit bezahle ich genau einen Monat Tinder Gold, um überhaupt Filter nutzen zu können. Heute stand ein Typ an der Theke, der mich mit einem Blick musterte, der alles sagte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Für den Preis kriege ich woanders eine ganze Bohne."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich biss mir auf die Unterlippe, um nicht zu heulen. Der Kaffeeduft in der Luft fühlte sich plötzlich bitter an. Warum schauen alle immer nur auf die Zahl?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Für den Preis kriege ich woanders eine ganze Bohne.",
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "30 €",
+          "bar": 0.12
+        },
+        {
+          "label": "Spuren",
+          "value": "2 Apps",
+          "bar": 0.15
+        },
+        {
+          "label": "Chancen",
+          "value": "12%",
+          "bar": 0.1
+        }
+      ],
+      "character": "A lively lemon person with bright yellow textured skin, wearing a neat white apron over a green shirt. On the forehead, a glowing digital display reads 30 €.",
+      "visual": "A yellow lemon woman standing behind a bustling café counter holding a steaming milk pitcher, warm golden lighting, a tiny hidden golden coin resting on the espresso machine.",
+      "scenes": [
+        "Close up of the lemon woman wiping down the counter with a determined yet sad expression.",
+        "The lemon woman looking at her smartphone showing a 30 € monthly subscription charge with a tiny hidden golden coin next to the cup.",
+        "A businessman in a suit pointing arrogantly across the counter.",
+        "Looking out the steamy café window into the rainy Berlin street."
+      ],
+      "caption": "Reichen 30 Euro im Monat für die Liebe? #DatingApp #LemonLife #StirnZahl #Berlin #Kaffee",
+      "open_loop_question": "Wer hat Mia den anonymen Umschlag mit dem Geldschein zugesteckt?"
+    },
+    {
+      "n": 3,
+      "open_loop": "Was befand sich in dem mysteriösen Paket, das Ben vor seiner Haustür fand?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Parkt seinen teuren Sportwagen demonstrativ quer über Bens Einfahrt und lacht ihn aus."
+      },
+      "name": "Ben, 29, Sachbearbeiter",
+      "badge": "120 € Budget",
+      "verdict": "MITTELMÄSSIG",
+      "story": "Die 8 Level des monatlichen Dating-Budgets. Level 3. Drei verschiedene Plattformen und Boosts für das Wochenende. Mit meinem Job im Amt verdiene ich solide, aber für luxuriöse Dates reicht es nie im Leben. Auf meiner Stirn leuchtet stolz die 120. Damit kann ich mir ein paar Super-Likes und VIP-Funktionen leisten. Heute hatte ich ein Date in einer schicken Bar. Sie sah atemberaubend aus in ihrem roten Kleid. Wir redeten über unsere Jobs, unsere Träume und die hohen Mieten in der Stadt. Als die Rechnung kam, legte ich mein Geld passend hin. Dafür kriegst du hier nicht mal eine Vorspeise. Mein Stolz zerbrach in tausend Stücke auf dem Marmorboden. Was hat sie danach mit meinem Drink gemacht? Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+50 €",
+        "after": "170 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level des monatlichen Dating-Budgets. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Drei verschiedene Plattformen und Boosts für das Wochenende. Mit meinem Job im Amt verdiene ich solide, aber für luxuriöse Dates reicht es nie im Leben. Auf meiner Stirn leuchtet stolz die 120."
+        },
+        {
+          "s": "Figur",
+          "t": "Damit kann ich mir ein paar Super-Likes und VIP-Funktionen leisten. Heute hatte ich ein Date in einer schicken Bar. Sie sah atemberaubend aus in ihrem roten Kleid."
+        },
+        {
+          "s": "Figur",
+          "t": "Wir redeten über unsere Jobs, unsere Träume und die hohen Mieten in der Stadt. Als die Rechnung kam, legte ich mein Geld passend hin."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Dafür kriegst du hier nicht mal eine Vorspeise."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Stolz zerbrach in tausend Stücke auf dem Marmorboden. Was hat sie danach mit meinem Drink gemacht?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Dafür kriegst du hier nicht mal eine Vorspeise.",
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "120 €",
+          "bar": 0.3
+        },
+        {
+          "label": "Spuren",
+          "value": "3 Apps",
+          "bar": 0.35
+        },
+        {
+          "label": "Chancen",
+          "value": "35%",
+          "bar": 0.28
+        }
+      ],
+      "character": "An orange person with bright citrus peel texture, wearing a tidy navy blue polo shirt and round glasses. On the forehead, a glowing digital display reads 120 €.",
+      "visual": "An orange man sitting nervously at a sleek cocktail bar table with dim moody lighting, holding a glass, a tiny hidden golden coin on the coaster.",
+      "scenes": [
+        "Close up of the orange man's glowing 120 € forehead under low bar lighting.",
+        "The orange man counting euro bills on the dark wooden table with a tiny hidden golden coin near the glass base.",
+        "A glamorous date sitting opposite him with an unreadable expression.",
+        "Walking alone down the empty illuminated city street at midnight."
+      ],
+      "caption": "Reicht ein mittleres Budget für wahre Liebe? #DatingLife #OrangeMan #StirnZahl #Bar #Beziehung",
+      "open_loop_question": "Was befand sich in dem mysteriösen Paket, das Ben vor seiner Haustür fand?"
+    },
+    {
+      "n": 4,
+      "open_loop": "Wer hat Leonies geheimes Dating-Profil im Internet veröffentlicht?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Beschimpft Leonie im U-Bahnhof als Snob, weil ihr Budget höher ist."
+      },
+      "name": "Leonie, 26, Grafikerin",
+      "badge": "350 € Budget",
+      "verdict": "GUT DABEI",
+      "story": "Die 8 Level des monatlichen Dating-Budgets. Level 4. Exklusive Events, Event-Tindern und VIP-Agenturen. Als freiberufliche Grafikerin stecke ich jeden überschüssigen Euro in meine Partnersuche. Auf meiner Stirn leuchtet die 350 wie ein Leuchtturm im grauen Alltag. Ich dachte, damit gehöre ich zu den Gewinnern. Heute traf ich einen Typen, den ich online über eine Luxus-App kennengelernt hatte. Er kam in Turnschuhen, die mehr kosteten als meine Miete. Wir setzten uns in ein Szene-Café. Er bestellte direkt den teuersten Champagner der Karte. Ich blätterte durch die App und zeigte ihm meine Matches. Mit dem Taschengeld kaufst du dir hier nicht mal Respekt. Mein Herz stockte, und die Kaffeetasse zitterte in meiner Hand. Wer war der Mann am Nebentisch, der das alles beobachtet hat? Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "-100 €",
+        "after": "250 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level des monatlichen Dating-Budgets. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Exklusive Events, Event-Tindern und VIP-Agenturen. Als freiberufliche Grafikerin stecke ich jeden überschüssigen Euro in meine Partnersuche. Auf meiner Stirn leuchtet die 350 wie ein Leuchtturm im grauen Alltag."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich dachte, damit gehöre ich zu den Gewinnern. Heute traf ich einen Typen, den ich online über eine Luxus-App kennengelernt hatte. Er kam in Turnschuhen, die mehr kosteten als meine Miete."
+        },
+        {
+          "s": "Figur",
+          "t": "Wir setzten uns in ein Szene-Café. Er bestellte direkt den teuersten Champagner der Karte. Ich blätterte durch die App und zeigte ihm meine Matches."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Mit dem Taschengeld kaufst du dir hier nicht mal Respekt."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Herz stockte, und die Kaffeetasse zitterte in meiner Hand. Wer war der Mann am Nebentisch, der das alles beobachtet hat?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Mit dem Taschengeld kaufst du dir hier nicht mal Respekt.",
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "350 €",
+          "bar": 0.5
+        },
+        {
+          "label": "Spuren",
+          "value": "5 Apps",
+          "bar": 0.55
+        },
+        {
+          "label": "Chancen",
+          "value": "55%",
+          "bar": 0.45
+        }
+      ],
+      "character": "A smooth strawberry person with bright red skin and tiny golden seeds, wearing a stylish black leather jacket and silver hoop earrings. On the forehead, a glowing digital display reads 350 €.",
+      "visual": "A stylish strawberry woman sitting at a trendy outdoor terrace café during golden hour, looking shocked at her phone, a tiny hidden golden coin on the saucer rim.",
+      "scenes": [
+        "Close up of the strawberry woman's glowing 350 € display reflecting in her sunglasses.",
+        "Holding a sleek smartphone displaying high-end dating app graphs with a tiny hidden golden coin near the phone base.",
+        "An arrogant date leaning back in a chair with crossed arms.",
+        "Walking briskly down a crowded shopping street with neon lights reflecting on the pavement."
+      ],
+      "caption": "Wie viel ist dir die perfekte Partnersuche wert? #DatingApp #Strawberry #StirnZahl #Luxus #Berlin",
+      "open_loop_question": "Wer hat Leonies geheimes Dating-Profil im Internet veröffentlicht?"
+    },
+    {
+      "n": 5,
+      "open_loop": "Welche geheime Nachricht stand in der E-Mail, die Jonas nach dem Date bekam?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Beschwert sich im Supermarkt laut über Jonas' Blockade an der Kasse."
+      },
+      "name": "Jonas, 31, Projektleiter",
+      "badge": "800 € Budget",
+      "verdict": "OBERER DURCHSCHNITT",
+      "story": "Die 8 Level des monatlichen Dating-Budgets. Level 5. Professionelles Profil-Styling, Fotografen und Elite-Agenturen. Als Projektleiter in einer IT-Firma überlasse ich bei der Partnersuche absolut nichts dem Zufall. Auf meiner Stirn leuchtet die 800 in hellem Weiß. Für die meisten Menschen hier draußen ist das eine astronomische Summe. Heute hatte ich ein Date in einem exklusiven Restaurant über den Dächern der Stadt. Mein Gegenüber trug Diamanten und schaute mich mit eiskalten Augen an. Wir sprachen über unsere Ansprüche und was wir von einem Partner erwarten. Ich erzählte von meinem Aufwand, um die Richtige zu finden. Du kaufst dir Dates, aber keine Gefühle. Die Worte trafen mich härter als jeder Korb zuvor. Warum schmerzt Erfolg in der Liebe eigentlich so sehr? Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+200 €",
+        "after": "1.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level des monatlichen Dating-Budgets. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Professionelles Profil-Styling, Fotografen und Elite-Agenturen. Als Projektleiter in einer IT-Firma überlasse ich bei der Partnersuche absolut nichts dem Zufall. Auf meiner Stirn leuchtet die 800 in hellem Weiß."
+        },
+        {
+          "s": "Figur",
+          "t": "Für die meisten Menschen hier draußen ist das eine astronomische Summe. Heute hatte ich ein Date in einem exklusiven Restaurant über den Dächern der Stadt."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Gegenüber trug Diamanten und schaute mich mit eiskalten Augen an. Wir sprachen über unsere Ansprüche und was wir von einem Partner erwarten. Ich erzählte von meinem Aufwand, um die Richtige zu finden."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Du kaufst dir Dates, aber keine Gefühle."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Worte trafen mich härter als jeder Korb zuvor. Warum schmerzt Erfolg in der Liebe eigentlich so sehr?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Du kaufst dir Dates, aber keine Gefühle.",
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "800 €",
+          "bar": 0.68
+        },
+        {
+          "label": "Spuren",
+          "value": "8 Apps",
+          "bar": 0.7
+        },
+        {
+          "label": "Chancen",
+          "value": "72%",
+          "bar": 0.65
+        }
+      ],
+      "character": "An avocado person with smooth green skin and a calm demeanor, wearing a tailored charcoal gray suit and a slim silk tie. On the forehead, a glowing digital display reads 800 €.",
+      "visual": "An avocado man standing on a high-rise balcony overlooking the glittering night city skyline, holding a crystal glass, a tiny hidden golden coin on the balcony railing.",
+      "scenes": [
+        "Close up of the avocado man adjusting his tie while the 800 € sign glows sharply.",
+        "Reviewing professional dating portfolio photos on a tablet with a tiny hidden golden coin in the corner of the screen.",
+        "Sitting opposite a sophisticated date in a high-end restaurant.",
+        "Walking towards a sleek silver luxury car parked in the underground garage."
+      ],
+      "caption": "Können 800 Euro im Monat die wahre Liebe kaufen? #DatingLife #Avocado #StirnZahl #Erfolg #Berlin",
+      "open_loop_question": "Welche geheime Nachricht stand in der E-Mail, die Jonas nach dem Date bekam?"
+    },
+    {
+      "n": 6,
+      "open_loop": "Welche Person aus Claras Vergangenheit tauchte plötzlich auf der Party auf?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Kritisierte Claras Ausgaben in einer Online-Gruppe öffentlich als Verschwendung."
+      },
+      "name": "Clara, 28, Unternehmensberaterin",
+      "badge": "2.000 € Budget",
+      "verdict": "HIGH ROLLER",
+      "story": "Die 8 Level des monatlichen Dating-Budgets. Level 6. Private Matchmaker, exklusive Member-Clubs und persönliche Image-Berater. Als Unternehmensberaterin sehe ich Zeit als meine kostbarste Währung. Auf meiner Stirn leuchtet unübersehbar die 2.000. Für mich ist das nur eine Investition in die Effizienz. Heute traf ich mich in einer privaten Rooftop-Lounge mit einem Mann aus einer Top-Agentur. Wir sprachen nicht über Gefühle, sondern über Portfolios und Lebensstandards. Ich zeigte ihm meine Statistik von über hundert geführten Dates. Du optimierst deine Liebe wie eine Excel-Tabelle. In diesem Moment wurde mir kalt. Ich hatte alles im Griff, aber niemanden, der mich festhielt. Welcher alte Bekannte stand plötzlich hinter mir an der Bar? Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "-500 €",
+        "after": "1.500 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level des monatlichen Dating-Budgets. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Private Matchmaker, exklusive Member-Clubs und persönliche Image-Berater. Als Unternehmensberaterin sehe ich Zeit als meine kostbarste Währung. Auf meiner Stirn leuchtet unübersehbar die 2.000."
+        },
+        {
+          "s": "Figur",
+          "t": "Für mich ist das nur eine Investition in die Effizienz. Heute traf ich mich in einer privaten Rooftop-Lounge mit einem Mann aus einer Top-Agentur."
+        },
+        {
+          "s": "Figur",
+          "t": "Wir sprachen nicht über Gefühle, sondern über Portfolios und Lebensstandards. Ich zeigte ihm meine Statistik von über hundert geführten Dates."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Du optimierst deine Liebe wie eine Excel-Tabelle."
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Moment wurde mir kalt. Ich hatte alles im Griff, aber niemanden, der mich festhielt. Welcher alte Bekannte stand plötzlich hinter mir an der Bar?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Du optimierst deine Liebe wie eine Excel-Tabelle.",
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "2.000 €",
+          "bar": 0.85
+        },
+        {
+          "label": "Spuren",
+          "value": "12 Clubs",
+          "bar": 0.88
+        },
+        {
+          "label": "Chancen",
+          "value": "88%",
+          "bar": 0.82
+        }
+      ],
+      "character": "An elegant dragon fruit person with vibrant pink and green scaled skin, wearing a sharp white designer blazer and holding a sleek leather planner. On the forehead, a glowing digital display reads 2.000 €.",
+      "visual": "A dragon fruit woman sitting in a luxurious rooftop lounge with panoramic city views, holding a smartphone showing financial charts, a tiny hidden golden coin embedded in the marble table.",
+      "scenes": [
+        "Close up of the dragon fruit woman's glowing 2.000 € display under soft neon lighting.",
+        "Browsing exclusive member profiles on a custom tablet with a tiny hidden golden coin next to her cocktail glass.",
+        "A wealthy date smoking a cigar across the low table.",
+        "Stepping out of a private elevator into a silent penthouse hallway."
+      ],
+      "caption": "Ist Liebe ab einem bestimmten Budget nur noch Business? #HighRoller #DragonFruit #StirnZahl #Luxus #Berlin",
+      "open_loop_question": "Welche Person aus Claras Vergangenheit tauchte plötzlich auf der Party auf?"
+    },
+    {
+      "n": 7,
+      "open_loop": "Was war der wahre Grund für Sams plötzlichen Kontowechsel?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Beschuldigt Sam im Club, seinen Reichtum nur durch Betrug erworben zu haben."
+      },
+      "name": "Sam, 34, Investor",
+      "badge": "5.000 € Budget",
+      "verdict": "ELITE",
+      "story": "Die 8 Level des monatlichen Dating-Budgets. Level 7. Globale Agenturen, Privatjets für Wochenend-Trips und maßgeschneiderte Algorithmen. Als Investor kaufe ich mir nicht nur Dates, sondern den gesamten Marktwert. Auf meiner Stirn leuchtet die 5.000 in grellem Gold. Für die meisten Menschen in dieser Stadt bin ich ein Gott. Heute traf ich eine Frau, die sich absolut nichts aus meinem Geld machte. Wir saßen in einer verlassenen Kunstgalerie, weit weg von jedem Blitzlichtgewitter. Sie musterte mein leuchtendes Display und schüttelte den Kopf. Ich bot ihr an, ihr Leben komplett zu verändern, ihr alles zu kaufen, was sie je wollte. Du kannst dir alles kaufen, aber niemanden, der dich vermisst. In diesem Moment begriff ich, dass meine Zahl wertlos war. Wer war der mysteriöse Fremde, der uns aus der Schattenecke beobachtete? Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+5.000 €",
+        "after": "10.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level des monatlichen Dating-Budgets. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Globale Agenturen, Privatjets für Wochenend-Trips und maßgeschneiderte Algorithmen. Als Investor kaufe ich mir nicht nur Dates, sondern den gesamten Marktwert. Auf meiner Stirn leuchtet die 5.000 in grellem Gold."
+        },
+        {
+          "s": "Figur",
+          "t": "Für die meisten Menschen in dieser Stadt bin ich ein Gott. Heute traf ich eine Frau, die sich absolut nichts aus meinem Geld machte."
+        },
+        {
+          "s": "Figur",
+          "t": "Wir saßen in einer verlassenen Kunstgalerie, weit weg von jedem Blitzlichtgewitter. Sie musterte mein leuchtendes Display und schüttelte den Kopf. Ich bot ihr an, ihr Leben komplett zu verändern, ihr alles zu kaufen, was sie je wollte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Du kannst dir alles kaufen, aber niemanden, der dich vermisst."
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Moment begriff ich, dass meine Zahl wertlos war. Wer war der mysteriöse Fremde, der uns aus der Schattenecke beobachtete?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Du kannst dir alles kaufen, aber niemanden, der dich vermisst.",
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "5.000 €",
+          "bar": 0.95
+        },
+        {
+          "label": "Spuren",
+          "value": "Global",
+          "bar": 0.97
+        },
+        {
+          "label": "Chancen",
+          "value": "99%",
+          "bar": 0.95
+        }
+      ],
+      "character": "A majestic coconut person with a hard brown fibrous shell, wearing an immaculate black cashmere turtleneck and silver cufflinks. On the forehead, a glowing digital display reads 5.000 €.",
+      "visual": "A coconut man standing in an empty minimalist art gallery under stark spotlights, looking thoughtfully at a blank canvas, a tiny hidden golden coin on the polished concrete floor.",
+      "scenes": [
+        "Close up of the coconut man's glowing 5.000 € golden forehead under gallery spotlights.",
+        "Holding a black titanium credit card with a tiny hidden golden coin reflecting off its surface.",
+        "A mysterious woman looking away in an empty industrial loft.",
+        "Walking towards a waiting private helicopter on a rooftop helipad at night."
+      ],
+      "caption": "Ist die absolute finanzielle Elite in der Liebe einsam? #Elite #Coconut #StirnZahl #Investor #Berlin",
+      "open_loop_question": "Was war der wahre Grund für Sams plötzlichen Kontowechsel?"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welche Zahl wird am Ende auf allen Stirnen der Stadt aufleuchten?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Tritt als erster vor und gibt zu, dass das ganze Dating-Experiment nur ein großes soziales Experiment war."
+      },
+      "name": "Leo, 30, Sozialexperimentator",
+      "badge": "Unendlich",
+      "verdict": "UNBEZAHLBAR",
+      "story": "Die 8 Level des monatlichen Dating-Budgets. Level 8. Und die Erkenntnis, dass alles nur ein verdammt großes Experiment war. Ich bin derjenige, der die App programmiert, die Zahlen manipuliert und euch alle beobachtet hat. Auf meiner Stirn leuchtet das Unendlich-Zeichen. Ich wollte sehen, wie Geld unser Dating-Verhalten zerstört. Tim, Mia, Ben, Leonie, Jonas, Clara, Sam – ihr alle wart Teil meiner Studie. Gestern stand ich an Tims Kiosk, bestellte bei Mias Café, ignorierte Ben in der Bar, stritt mit Leonie, traf Jonas im Restaurant, passierte Claras Lounge und beobachtete Sam in der Galerie. Niemand von euch wusste, dass ich jeden einzelnen von euch gesteuert habe. Als ich euch allen in die Augen sah, begriff ich den wahren Preis. Das Experiment ist vorbei, die Zahlen bedeuten gar nichts. Welches Thema sollen wir als Nächstes mit der Stirn-Zahl enthüllen?",
+      "gender": "m",
+      "twist": {
+        "delta": "0 €",
+        "after": "0 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level des monatlichen Dating-Budgets. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Und die Erkenntnis, dass alles nur ein verdammt großes Experiment war. Ich bin derjenige, der die App programmiert, die Zahlen manipuliert und euch alle beobachtet hat."
+        },
+        {
+          "s": "Figur",
+          "t": "Auf meiner Stirn leuchtet das Unendlich-Zeichen. Ich wollte sehen, wie Geld unser Dating-Verhalten zerstört. Tim, Mia, Ben, Leonie, Jonas, Clara, Sam – ihr alle wart Teil meiner Studie."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern stand ich an Tims Kiosk, bestellte bei Mias Café, ignorierte Ben in der Bar, stritt mit Leonie, traf Jonas im Restaurant, passierte Claras Lounge und beobachtete Sam in der Galerie."
+        },
+        {
+          "s": "Figur",
+          "t": "Niemand von euch wusste, dass ich jeden einzelnen von euch gesteuert habe. Als ich euch allen in die Augen sah, begriff ich den wahren Preis."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das Experiment ist vorbei, die Zahlen bedeuten gar nichts."
+        },
+        {
+          "s": "Figur",
+          "t": "Welches Thema sollen wir als Nächstes mit der Stirn-Zahl enthüllen?"
+        }
+      ],
+      "quote": "Das Experiment ist vorbei, die Zahlen bedeuten gar nichts.",
+      "stats": [
+        {
+          "label": "System",
+          "value": "Admin",
+          "bar": 1.0
+        },
+        {
+          "label": "Wahrheit",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Kontrolle",
+          "value": "Max",
+          "bar": 1.0
+        }
+      ],
+      "character": "A mysterious forest-green fig person wearing a classic dark trench coat and a fedora hat. On the forehead, a glowing digital display reads the infinity symbol.",
+      "visual": "A fig man standing in a high-tech control room surrounded by multiple screens showing all characters from levels 1 to 7, glowing green ambient light, a tiny hidden golden coin on the main control console.",
+      "scenes": [
+        "Close up of the fig man's glowing infinity symbol on his forehead in a dark server room.",
+        "Monitors showing all previous characters (Tim, Mia, Ben, Leonie, Jonas, Clara, Sam) with a tiny hidden golden coin next to the master switch.",
+        "Walking through the glowing neon streets where all fruit people cross paths.",
+        "Looking directly into the camera as the screens around him slowly fade to black."
+      ],
+      "caption": "Welches Thema sollen wir als Nächstes mit der Stirn-Zahl enthüllen? Schreib es in die Kommentare! #StirnZahl #Sozialexperiment #DatingApp #Finale #Berlin",
+      "open_loop_question": "Welche Zahl wird am Ende auf allen Stirnen der Stadt aufleuchten?"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das monatliche Dating-App-Budget",
+  "frame": "frucht"
+}

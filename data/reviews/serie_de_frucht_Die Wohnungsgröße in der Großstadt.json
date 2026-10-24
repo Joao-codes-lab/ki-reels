@@ -1,0 +1,197 @@
+{
+  "best_score": 62,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 7,
+        "story": 6,
+        "identifikation": 8,
+        "verbindungen": 5,
+        "sog": 8,
+        "wut": 4,
+        "merkfaehigkeit": 6,
+        "sprache": 6
+      },
+      "gesamt": 62,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetzen durch: 'Acht Quadratmeter. Mehr ist das nicht. 350 Euro warm für eine alte Besenkammer, wo das Bett die Dusche berührt.'"
+        },
+        {
+          "n": 2,
+          "fix": "Ersetzen durch: '24 Quadratmeter im lauten Hinterhof. Ich kenne jeden Fleck meiner Tapete, bis der Vermieter mir heute die Kündigung vor die Nase knallt.'"
+        },
+        {
+          "n": 3,
+          "fix": "Ersetzen durch: '45 Quadratmeter Altbau. 1.200 Euro für Holzdielen, und plötzlich blockiert das Online-Banking bei der Kaution.'"
+        },
+        {
+          "n": 4,
+          "fix": "Ersetzen durch: '68 Quadratmeter im dritten Stock. Endlich Balkon – bis ich mitten in der Nacht Schritte höre und die Haustür von innen knarzt.'"
+        },
+        {
+          "n": 5,
+          "fix": "Ersetzen durch: '95 Quadratmeter Neubau. Fußbodenheizung und endlich Platz – bis ein anonymer Kurier ein Paket bringt, das alles sprengt.'"
+        },
+        {
+          "n": 6,
+          "fix": "Ersetzen durch: '140 Quadratmeter Reihenhaus. Eigentum statt Miete – bis jemand mitten in der Nacht von außen den Riegel vor unsere Tür schiebt.'"
+        },
+        {
+          "n": 7,
+          "fix": "Ersetzen durch: '250 Quadratmeter Penthouse über den Dächern. Infinity-Pool, absolute Freiheit – bis plötzlich ein Schatten auf meiner Dachterrasse auftaucht.'"
+        },
+        {
+          "n": 8,
+          "fix": "Ersetzen durch: 'Die finale Zahl bleibt ein Rätsel. Ich besitze nicht nur das Penthouse, sondern das ganze Gebäude, in dem ihr alle lebt.'"
+        }
+      ],
+      "fazit": "Producer: Die visuelle Welt mit den Fruchtmenschen und den digitalen Anzeigen auf der Stirn ist stark und hat virales Potenzial. Aber der Text klingt oft zu nach Drehbuch statt nach echten TikTok-Creator-Rants. Zuschauer 18-30: Nach 2 Sekunden muss es knallen, nicht erst nach drei Einleitungssätzen. Weg mit den lahmen Aufzählungen, her mit echtem Schmerz und harten Konflikten. Story-Editor: Die Querverweise zwischen den Levels sind zu beliebig und die Gegenspieler-Aktionen zu zahm. Mehr direkter Zoff zwischen den Charakteren, damit man wissen will, wie es ausgeht!"
+    },
+    {
+      "scores": {
+        "hook": 3,
+        "story": 2,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 3,
+        "wut": 2,
+        "merkfaehigkeit": 4,
+        "sprache": 3
+      },
+      "gesamt": 33,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze das langweilige Intro durch: '8 Quadratmeter. 350 Euro warm. Und der Vermieter will mich rauswerfen.'"
+        },
+        {
+          "n": 2,
+          "fix": "Kürze den Einstieg auf: 'Kündigung wegen Eigenbedarf. Mitten im Monat.'"
+        },
+        {
+          "n": 3,
+          "fix": "Mach den Konflikt greifbar: '1200 Euro Miete und die Bank sperrt mein Konto wegen dieser Kaution.'"
+        },
+        {
+          "n": 4,
+          "fix": "Erhöhe den Druck: 'Wer steht nachts in meiner Wohnung, wenn die Haustür von innen verriegelt ist?'"
+        },
+        {
+          "n": 5,
+          "fix": "Direkter Einstieg: '95 Quadratmeter Neubau. Und dieses anonyme Paket zerstört alles.'"
+        },
+        {
+          "n": 6,
+          "fix": "Sofortiger Konflikt: 'Eigentum statt Miete – bis jemand uns von außen einsperrt.'"
+        },
+        {
+          "n": 7,
+          "fix": "Stärkerer Hook: '250 Quadratmeter Penthouse – und plötzlich steht dieser ungebetene Gast am Pool.'"
+        },
+        {
+          "n": 8,
+          "fix": "Klares Finale statt Fragen: 'Ich besitze dieses ganze Gebäude. Und jetzt zahlt ihr den Preis.'"
+        }
+      ],
+      "fazit": "Die Serie scheitert an absolut drögen, vorhersehbaren Formulierungen und extrem schwachen Hooks, die nach 2 Sekunden zum Weiterswischen einladen. Statt echter Eskalation und Wut auf den Gegenspieler gibt es generische Monologe und lauwarme Cliffhanger. Die Obst-Metaphern retten den Schrott auch nicht mehr."
+    },
+    {
+      "scores": {
+        "hook": 5,
+        "story": 4,
+        "identifikation": 6,
+        "verbindungen": 4,
+        "sog": 7,
+        "wut": 3,
+        "merkfaehigkeit": 5,
+        "sprache": 4
+      },
+      "gesamt": 48,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ändere den Hook in: '350 Euro für 8 Quadratmeter. Und mein Vermieter will mich heute noch rauswerfen.'"
+        },
+        {
+          "n": 2,
+          "fix": "Ändere den Hook in: 'Kündigung wegen Eigenbedarf, mitten im Monat. Wo soll ich mit meinem ganzen Zeug hin?'"
+        },
+        {
+          "n": 3,
+          "fix": "Ändere den Hook in: '1200 Euro Miete und die Bank sperrt plötzlich mein Konto für die Kaution.'"
+        },
+        {
+          "n": 4,
+          "fix": "Ändere den Hook in: 'Wer steht nachts in meiner Wohnung, obwohl die Haustür von innen verriegelt ist?'"
+        },
+        {
+          "n": 5,
+          "fix": "Ändere den Hook in: '95 Quadratmeter Neubau, aber dieses anonyme Paket zerstört alles.'"
+        },
+        {
+          "n": 6,
+          "fix": "Ändere den Hook in: 'Eigentum statt Miete – bis uns jemand mitten in der Nacht von außen einsperrt.'"
+        },
+        {
+          "n": 7,
+          "fix": "Ändere den Hook in: '250 Quadratmeter Penthouse, und plötzlich steht dieser ungebetene Gast an meinem Pool.'"
+        },
+        {
+          "n": 8,
+          "fix": "Ändere den Hook in: 'Ich besitze dieses ganze Gebäude. Und jetzt zahlt ihr alle den Preis dafür.'"
+        }
+      ],
+      "fazit": "Die Idee mit den Obst-Figuren und den Stirn-Zahlen hat absolutes Viral-Potenzial, aber der Text klingt aktuell wie eine generische KI-Aufzählung und total hölzern. Die Konflikte wiederholen sich fast identisch (Brief/Paket/eingesperrt), und echte Wut auf den Gegenspieler entsteht nicht, weil die 'Taten' im Off stattfinden statt direkt gezeigt zu werden. Schneller auf den Punkt kommen, Floskeln wie 'Das siehst du in Level X' durch harte Cliffhanger ersetzen."
+    },
+    {
+      "scores": {
+        "hook": 4,
+        "story": 3,
+        "identifikation": 5,
+        "verbindungen": 4,
+        "sog": 6,
+        "wut": 3,
+        "merkfaehigkeit": 4,
+        "sprache": 4
+      },
+      "gesamt": 41,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den lahmen Einstieg durch: '350 Euro für 8 Quadratmeter Schimmel – und mein Vermieter will mich heute rauswerfen.'"
+        },
+        {
+          "n": 2,
+          "fix": "Lass die Dialoge krachen: 'Kündigung wegen Eigenbedarf, mitten im Monat. Wo soll ich mit meinem ganzen Zeug hin? Auf den Müll?'"
+        },
+        {
+          "n": 3,
+          "fix": "Streich das Standard-Intro: '1200 Euro Miete und die Bank sperrt mein Konto – weil der Idiot aus Level 1 meinen Briefkasten demoliert hat.'"
+        },
+        {
+          "n": 4,
+          "fix": "Erhöhe die Spannung sofort: 'Wer steht nachts in meiner Wohnung, obwohl die Haustür doppelt verriegelt ist? Ich höre Schritte im Flur.'"
+        },
+        {
+          "n": 5,
+          "fix": "Mach es greifbarer: '95 Quadratmeter Neubau, aber dieses anonyme Paket vor meiner Tür enthält genau das, was ich vor Jahren versteckt habe.'"
+        },
+        {
+          "n": 6,
+          "fix": "Kürze den Konflikt: 'Eigentum statt Miete – bis uns jemand mitten in der Nacht von außen einsperrt und den Schlüssel umdreht.'"
+        },
+        {
+          "n": 7,
+          "fix": "Mehr Biss: '250 Quadratmeter Penthouse, und plötzlich steht dieser ungebetene Gast an meinem Pool und spuckt ins Wasser.'"
+        },
+        {
+          "n": 8,
+          "fix": "Das Finale muss knallen: 'Ich besitze dieses ganze Gebäude. Und jetzt zahlt ihr alle den Preis für meine Fehler.'"
+        }
+      ],
+      "fazit": "Die Serie hat eine geile visuelle Grundidee (Fruchtmenschen, organische Architektur, digitale Stirn-Anzeigen), aber textlich ist das oft astrein generischer Einheitsbrei. Die Hooks klingen wie drittklassige Romane, nicht wie TikTok-Hits. Jeder baut denselben Frust auf, aber die Gegenspieler-Aktionen greifen zu handzahm ineinander, um echte Wut oder krassen Sog zu erzeugen. Straffen, Assi-Faktor hoch, direkter sprechen."
+    }
+  ]
+}

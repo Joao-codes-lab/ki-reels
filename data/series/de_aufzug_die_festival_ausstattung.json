@@ -1,0 +1,664 @@
+{
+  "title": "Die 8 Level von Festival-Ausstattung",
+  "house": "a bustling German city with old brick buildings, modern co-working spaces, and indie music clubs",
+  "catchphrase": "Der Bass lügt nie.",
+  "links": [
+    "Level 1 Tim finds a discarded tent pole from Level 8's expensive glamping set near the trash cans.",
+    "Level 2 Sarah sells cheap ponchos to Level 3 Leo at the corner kiosk.",
+    "Level 3 Leo drops his heavy cooler box in front of Level 4 Hanna at the subway station.",
+    "Level 4 Hanna works at the same agency that designs the branding for Level 5 Ben's premium van rental.",
+    "Level 5 Ben drives past Level 6 Marie's boutique where she buys her solar generator gear.",
+    "Level 6 Marie drinks coffee at the café where Level 7 Jonas leaves a massive tip after a festival weekend.",
+    "Level 7 Jonas hires Level 8 Noah's logistics firm to transport VIP backstage containers.",
+    "Level 8 Noah notices Level 1 Tim sleeping outside the fence and remembers his own first festival."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Warum lag plötzlich ein pinkes VIP-Bändchen in meinem Müllsack?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Wirft seinen Restmüll achtlos vor Tims Zelt und lacht über dessen kaputte Isomatte."
+      },
+      "name": "Tim, 19, Azubi",
+      "badge": "0 € Budget",
+      "verdict": "ÜBERLEBENSKÜNSTLER",
+      "story": "Die 8 Level von Festival-Ausstattung. Level 1. Level 1: 0 Euro Festival-Budget und eine Plastiktüte als Regenjacke. Ich bin Tim, 19, und ich stehe hier im strömenden Schlamm von Wacken. Meine Ausrüstung? Eine durchgelegene Isomatte vom Sperrmüll und ein kaputter Regenschirm. Du wirst den ersten Tag nicht überstehen. Jetzt liege ich hier im kalten Matsch, mein Handy ist tot, und plötzlich entdecke ich diesen einen glänzenden Gegenstand im Dreck. Es ist kein Kronkorken, es ist etwas, das alles verändert hätte, wenn ich gewusst hätte, wem es gehört. Was war das für ein Fundstück? Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+5 € Pfand",
+        "after": "5 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Festival-Ausstattung. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 0 Euro Festival-Budget und eine Plastiktüte als Regenjacke."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Tim, 19, und ich stehe hier im strömenden Schlamm von Wacken."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Ausrüstung? Eine durchgelegene Isomatte vom Sperrmüll und ein kaputter Regenschirm."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Du wirst den ersten Tag nicht überstehen."
+        },
+        {
+          "s": "Figur",
+          "t": "Jetzt liege ich hier im kalten Matsch, mein Handy ist tot, und plötzlich entdecke ich diesen einen glänzenden Gegenstand im Dreck."
+        },
+        {
+          "s": "Figur",
+          "t": "Es ist kein Kronkorken, es ist etwas, das alles verändert hätte, wenn ich gewusst hätte, wem es gehört."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was war das für ein Fundstück?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Du wirst den ersten Tag nicht überstehen.",
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "0 €",
+          "bar": 0.02
+        },
+        {
+          "label": "Komfort",
+          "value": "1%",
+          "bar": 0.01
+        },
+        {
+          "label": "Überleben",
+          "value": "Modus",
+          "bar": 0.1
+        }
+      ],
+      "character": "Simple round cream-white ball head without nose, small dot eyes, expressive eyebrows. Messy blond hair, faded oversized hoodie with mud stains, holding a ripped plastic bag, a tiny golden coin near his worn sneaker.",
+      "visual": "A shivering young man standing in thick festival mud under a gray rainy sky, holding a broken umbrella, simple round cream-white ball head, small dot eyes, expressive eyebrows, messy blond hair, muddy oversized hoodie, a tiny golden coin in the mud.",
+      "scenes": [
+        "Close-up of muddy sneakers and a ripped plastic bag serving as makeshift boots, a tiny golden coin on a stone.",
+        "Wide shot of a massive muddy campsite with cheap blue tents flapping in the wind.",
+        "Medium shot of the young man looking tired at his phone with a dead battery screen.",
+        "Close-up of an expressive worried face staring down at a shiny object in the dirt."
+      ],
+      "caption": "Wer kennt den Kampf mit dem Billigzelt? ⛺ Mitten im Schlamm zeigt sich, wer durchhält! #Festival #Wacken #Camping #BudgetLife #Survival"
+    },
+    {
+      "n": 2,
+      "open_loop": "Wer hat die Kiste mit den teuren Powerbanks vor meinem Kiosk vergessen?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Reklamiert lautstark an Sarahs Kiosk, dass die 2-Euro-Regenponchos zu dünn sind."
+      },
+      "name": "Sarah, 22, Kiosk-Aushilfe",
+      "badge": "45 € Ausrüstung",
+      "verdict": "IMPROVISATIONSKÜNSTLER",
+      "story": "Die 8 Level von Festival-Ausstattung. Level 2. Level 2: 45 Euro für Einweg-Regenponchos und ein Aldi-Zelt, das beim Aufbau sofort kollabierte. Ich bin Sarah, 22, und verkaufe gerade die letzten Dosen Ravioli an genervte Camper vor dem Southside-Gelände. Verleih bloß keine Gaskocher auf Kredit! Ich dachte, ich wäre gut vorbereitet mit meinem Lidl-Equipment, aber dann stand dieser Typ mit dem Proberaum-Equipment vor mir und wollte meine letzte Luftmatratze tauschen. Ich lehnte ab und ging zum Zeltplatz zurück, wo mich eine merkwürdige Entdeckung erwartete. Welcher Zettel lag auf meinem Schlafsack? Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+30 €",
+        "after": "75 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Festival-Ausstattung. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 45 Euro für Einweg-Regenponchos und ein Aldi-Zelt, das beim Aufbau sofort kollabierte."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Sarah, 22, und verkaufe gerade die letzten Dosen Ravioli an genervte Camper vor dem Southside-Gelände."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Verleih bloß keine Gaskocher auf Kredit!"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich dachte, ich wäre gut vorbereitet mit meinem Lidl-Equipment, aber dann stand dieser Typ mit dem Proberaum-Equipment vor mir und wollte meine letzte Luftmatratze tauschen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich lehnte ab und ging zum Zeltplatz zurück, wo mich eine merkwürdige Entdeckung erwartete."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welcher Zettel lag auf meinem Schlafsack?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Verleih bloß keine Gaskocher auf Kredit!",
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "45 €",
+          "bar": 0.15
+        },
+        {
+          "label": "Komfort",
+          "value": "15%",
+          "bar": 0.2
+        },
+        {
+          "label": "Stimmung",
+          "value": "Genervt",
+          "bar": 0.3
+        }
+      ],
+      "character": "Simple round cream-white ball head without nose, small dot eyes, expressive eyebrows. Short dark bob, neon festival vest over a black tee, holding a roll of duct tape, a tiny golden coin on the counter.",
+      "visual": "A young woman working behind a cramped festival kiosk counter filled with snacks, simple round cream-white ball head, small dot eyes, expressive eyebrows, short dark bob, neon vest, a tiny golden coin near the cash register.",
+      "scenes": [
+        "Close-up of hands stacking cheap ramen noodle cups and rain ponchos, a tiny golden coin on the table.",
+        "Medium shot of festival visitors arguing at the kiosk window in the rain.",
+        "Close-up of an expressive frustrated face holding a broken tent pole.",
+        "Wide shot of colorful cheap dome tents crowded tightly together in a dusty field."
+      ],
+      "caption": "Der Kiosk am Festival-Eingang rettet jeden Tag! 🍫 Wer kennt das? #FestivalLife #Southside #Kiosk #CampingFail #Survival"
+    },
+    {
+      "n": 3,
+      "open_loop": "Warum rief mich der Sicherheitsdienst wegen meines Pavillons an?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Stellt ihren riesigen Design-Bollerwagen quer über Leos Zeltleinen."
+      },
+      "name": "Leo, 25, Student",
+      "badge": "180 € Grundausstattung",
+      "verdict": "STANDARD-CAMPER",
+      "story": "Die 8 Level von Festival-Ausstattung. Level 3. Level 3: 180 Euro für ein Decathlon-Wurfzelt, Kühlbox und den obligatorischen Klappstuhl. Ich bin Leo, 25, und ich versuche gerade, meinen Pavillon auf dem Hurricane-Festival gegen den Wind zu sichern. Kauf dir endlich mal vernünftige Heringe, die aus Metall! Ich lachte noch, aber nach zwanzig Minuten flog das Ding mitsamt meiner Luftmatratze davon. Genau in diesem Moment trat diese Frau in High-End-Outdoor-Klamotten vorbei, trat auf meine letzte Dose Ravioli und sagte diesen einen Satz, der alles veränderte. Was hat sie zu mir gesagt? Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-50 €",
+        "after": "130 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Festival-Ausstattung. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 180 Euro für ein Decathlon-Wurfzelt, Kühlbox und den obligatorischen Klappstuhl."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Leo, 25, und ich versuche gerade, meinen Pavillon auf dem Hurricane-Festival gegen den Wind zu sichern."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Kauf dir endlich mal vernünftige Heringe, die aus Metall!"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich lachte noch, aber nach zwanzig Minuten flog das Ding mitsamt meiner Luftmatratze davon."
+        },
+        {
+          "s": "Figur",
+          "t": "Genau in diesem Moment trat diese Frau in High-End-Outdoor-Klamotten vorbei, trat auf meine letzte Dose Ravioli und sagte diesen einen Satz, der alles veränderte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was hat sie zu mir gesagt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Kauf dir endlich mal vernünftige Heringe, die aus Metall!",
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "180 €",
+          "bar": 0.35
+        },
+        {
+          "label": "Komfort",
+          "value": "40%",
+          "bar": 0.3
+        },
+        {
+          "label": "Ausrüstung",
+          "value": "Standard",
+          "bar": 0.4
+        }
+      ],
+      "character": "Simple round cream-white ball head without nose, small dot eyes, expressive eyebrows. Curly brown hair, baseball cap backwards, colorful Hawaiian shirt, holding a folding chair, a tiny golden coin on the grass.",
+      "visual": "A young man struggling with a pop-up tent in strong wind at a crowded festival campground, simple round cream-white ball head, small dot eyes, expressive eyebrows, curly hair, Hawaiian shirt, a tiny golden coin near the tent pegs.",
+      "scenes": [
+        "Close-up of cheap plastic tent pegs bending in hard ground, a tiny golden coin on the soil.",
+        "Medium shot of a chaotic campsite with flying tarps and half-collapsed pavilions.",
+        "Close-up of an expressive stressed face holding a bent tent pole.",
+        "Wide shot of rows of colorful dome tents under a cloudy festival sky."
+      ],
+      "caption": "Das Drama mit dem Wurfzelt kennt jeder! 🎪 Wer hat auch schon mal im Wind gekämpft? #HurricaneFestival #CampingLife #FestivalGear #Decathlon #Struggle"
+    },
+    {
+      "n": 4,
+      "open_loop": "Wer hat meinen maßgeschneiderten Holzkohlegrill gestohlen?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Blockiert mit seinem riesigen Camper-Van Hannas gesamten Zufahrtsweg."
+      },
+      "name": "Hanna, 29, Grafikdesignerin",
+      "badge": "550 € Pro-Setup",
+      "verdict": "FESTIVAL-PROFI",
+      "story": "Die 8 Level von Festival-Ausstattung. Level 4. Level 4: 550 Euro Investition in ein Marken-Trekkingzelt, Solarlader und eine ultraleichte Kühlbox. Ich bin Hanna, 29, und mein Camp auf dem Melt!-Festival sieht aus wie ein Outdoor-Katalog. Du nimmst doch nicht ernsthaft eine Espressokanne mit aufs Campinggelände! Doch, genau das tat ich. Alles lief perfekt, bis ich bemerkte, dass jemand unseren großen Sonnenschirm einfach mitgenommen hatte. Ich ging los, um ihn zu suchen, und fand ihn ausgerechnet bei dem Typen, der direkt neben uns parkte. Was stand auf der Kühlbox dieses Typen geschrieben? Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+120 €",
+        "after": "670 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Festival-Ausstattung. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 550 Euro Investition in ein Marken-Trekkingzelt, Solarlader und eine ultraleichte Kühlbox."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Hanna, 29, und mein Camp auf dem Melt!-Festival sieht aus wie ein Outdoor-Katalog."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Du nimmst doch nicht ernsthaft eine Espressokanne mit aufs Campinggelände!"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch, genau das tat ich."
+        },
+        {
+          "s": "Figur",
+          "t": "Alles lief perfekt, bis ich bemerkte, dass jemand unseren großen Sonnenschirm einfach mitgenommen hatte."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich ging los, um ihn zu suchen, und fand ihn ausgerechnet bei dem Typen, der direkt neben uns parkte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was stand auf der Kühlbox dieses Typen geschrieben?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Du nimmst doch nicht ernsthaft eine Espressokanne mit aufs Campinggelände!",
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "550 €",
+          "bar": 0.55
+        },
+        {
+          "label": "Komfort",
+          "value": "75%",
+          "bar": 0.7
+        },
+        {
+          "label": "Ausrüstung",
+          "value": "Profi",
+          "bar": 0.65
+        }
+      ],
+      "character": "Simple round cream-white ball head without nose, small dot eyes, expressive eyebrows. Blonde ponytail, utility vest over black crop top, holding a solar power bank, a tiny golden coin on a camping table.",
+      "visual": "A young woman standing in a neatly organized festival camp with high-end gear and solar panels, simple round cream-white ball head, small dot eyes, expressive eyebrows, blonde ponytail, utility vest, a tiny golden coin on the camp table.",
+      "scenes": [
+        "Close-up of a high-tech solar power bank charging a smartphone, a tiny golden coin beside it.",
+        "Medium shot of a well-organized tent setup with LED string lights and matching chairs.",
+        "Close-up of an expressive determined face looking across neighboring campsites.",
+        "Wide shot of an industrial festival backdrop at sunset with electronic music stages."
+      ],
+      "caption": "Wenn die Festival-Ausrüstung professioneller ist als die Wohnung! ⛺✨ Wer liebt gutes Outdoor-Gear? #MeltFestival #CampingPro #FestivalStyle #OutdoorLife #Design"
+    },
+    {
+      "n": 5,
+      "open_loop": "Warum lag ein Geldbündel in meinem gemieteten Camper-Handschuhfach?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Leiht sich Bens Profi-Generator aus und gibt ihn völlig verdreckt zurück."
+      },
+      "name": "Ben, 34, Event-Manager",
+      "badge": "1.800 € Camper-Van",
+      "verdict": "KOMFORT-CAMPER",
+      "story": "Die 8 Level von Festival-Ausstattung. Level 5. Level 5: 1.800 Euro Leihgebühr für einen ausgebauten VW-Bus inklusive Standheizung und Dachzelt. Ich bin Ben, 34, und ich genieße das Deichbrand-Festival im absoluten Luxus. Sag mal, brauchst du im Schlamm wirklich eine Fußbodenheizung? Brauche ich nicht, aber sie ist da. Ich saß gerade auf meiner Camp-Couch und trank kalten Prosecco, als plötzlich eine Frau an unsere Schiebetür klopfte und stinksauer nach ihrem gestohlenen Generator fragte. Ich wusste von nichts, aber als sie auf unseren Van zeigte, sagte sie diesen einen Satz, der mich erstarren ließ. Welcher Satz war das? Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+350 €",
+        "after": "2.150 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Festival-Ausstattung. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 1.800 Euro Leihgebühr für einen ausgebauten VW-Bus inklusive Standheizung und Dachzelt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Ben, 34, und ich genieße das Deichbrand-Festival im absoluten Luxus."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Sag mal, brauchst du im Schlamm wirklich eine Fußbodenheizung?"
+        },
+        {
+          "s": "Figur",
+          "t": "Brauche ich nicht, aber sie ist da."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich saß gerade auf meiner Camp-Couch und trank kalten Prosecco, als plötzlich eine Frau an unsere Schiebetür klopfte und stinksauer nach ihrem gestohlenen Generator fragte."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich wusste von nichts, aber als sie auf unseren Van zeigte, sagte sie diesen einen Satz, der mich erstarren ließ."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welcher Satz war das?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Sag mal, brauchst du im Schlamm wirklich eine Fußbodenheizung?",
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "1.800 €",
+          "bar": 0.75
+        },
+        {
+          "label": "Komfort",
+          "value": "90%",
+          "bar": 0.85
+        },
+        {
+          "label": "Fahrzeug",
+          "value": "Van",
+          "bar": 0.8
+        }
+      ],
+      "character": "Simple round cream-white ball head without nose, small dot eyes, expressive eyebrows. Short blonde hair, stylish stubble beard, sunglasses on forehead, denim shirt, holding a camper key, a tiny golden coin on the van bumper.",
+      "visual": "A man relaxing inside a modern converted camper van at a festival site, simple round cream-white ball head, small dot eyes, expressive eyebrows, stylish stubble beard, denim shirt, looking out the sliding door, a tiny golden coin on the van step.",
+      "scenes": [
+        "Close-up of camper keys with a leather strap, a tiny golden coin on the dashboard.",
+        "Medium shot of a sleek VW camper van parked on green grass with an awning extended.",
+        "Close-up of an expressive surprised face looking out the sliding van door.",
+        "Wide shot of a golden hour festival landscape with camper vans parked in neat rows."
+      ],
+      "caption": "Vanlife auf dem Festival – der ultimative Komfort! 🚐💨 Wer gönnt sich diesen Luxus? #Deichbrand #CamperLife #VanLife #FestivalLuxury #Roadtrip"
+    },
+    {
+      "n": 6,
+      "open_loop": "Warum rief mich die Festivalleitung wegen meiner VIP-Gästeliste an?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Bucht Marie den kompletten Pavillon vor der Nase weg, obwohl sie reserviert hatte."
+      },
+      "name": "Marie, 38, Boutique-Inhaberin",
+      "badge": "4.500 € Luxus-Glamping",
+      "verdict": "GLAMPING-QUEEN",
+      "story": "Die 8 Level von Festival-Ausstattung. Level 6. Level 6: 4.500 Euro für das exklusive Glamping-Tipi mit echten Betten und privatem Sanitärbereich. Ich bin Marie, 38, und ich verbringe das Lollapalooza-Festival im Luxus-Bereich. Du zahlst doch keine Miete für ein Festival-Zelt! Doch, das tat ich, inklusive Butler-Service und Teppichboden. Alles war perfekt, bis ich feststellte, dass jemand unsere exklusive Lounge-Ecke besetzt hatte. Ich ging hin zur Bar, um mich zu beschweren, und traf dort auf den Mann, der angeblich alles gebucht hatte. Wer war dieser Mann und what had he in his hand? Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "-800 €",
+        "after": "3.700 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Festival-Ausstattung. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 4.500 Euro für das exklusive Glamping-Tipi mit echten Betten und privatem Sanitärbereich."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Marie, 38, und ich verbringe das Lollapalooza-Festival im Luxus-Bereich."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Du zahlst doch keine Miete für ein Festival-Zelt!"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch, das tat ich, inklusive Butler-Service und Teppichboden."
+        },
+        {
+          "s": "Figur",
+          "t": "Alles war perfekt, bis ich feststellte, dass jemand unsere exklusive Lounge-Ecke besetzt hatte."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich ging hin zur Bar, um mich zu beschweren, und traf dort auf den Mann, der angeblich alles gebucht hatte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer war dieser Mann und what had he in his hand?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Du zahlst doch keine Miete für ein Festival-Zelt!",
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "4.500 €",
+          "bar": 0.88
+        },
+        {
+          "label": "Komfort",
+          "value": "98%",
+          "bar": 0.95
+        },
+        {
+          "label": "Status",
+          "value": "Glamping",
+          "bar": 0.9
+        }
+      ],
+      "character": "Simple round cream-white ball head without nose, small dot eyes, expressive eyebrows. Elegant dark hair in a bun, designer sunglasses, boho chic linen dress, holding a champagne flute, a tiny golden coin on a wooden pallet table.",
+      "visual": "A woman standing inside a luxurious decorated bell tent with wooden furniture and fairy lights, simple round cream-white ball head, small dot eyes, expressive eyebrows, elegant bun, boho dress, a tiny golden coin on a rustic table.",
+      "scenes": [
+        "Close-up of a crystal champagne glass reflecting festival lights, a tiny golden coin on the wooden table.",
+        "Medium shot of a spacious luxury bell tent interior with a double bed and Persian rugs.",
+        "Close-up of an expressive confident face wearing designer sunglasses.",
+        "Wide shot of an exclusive VIP glamping area at a major music festival during sunset."
+      ],
+      "caption": "Glamping auf dem Festival – Luxus pur im Tipi! ✨⛺ Wer feiert lieber mit Stil? #Lollapalooza #GlampingLife #FestivalStyle #LuxuryCamping #VIP"
+    },
+    {
+      "n": 7,
+      "open_loop": "Warum flog der Hubschrauber genau über unser Backstage-Areal?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Sperrt Jonas den Zugang zum privaten Künstler-Bereich ab."
+      },
+      "name": "Jonas, 42, Unternehmer",
+      "badge": "12.000 € Backstage-Container",
+      "verdict": "VIP-INVESTOR",
+      "story": "Die 8 Level von Festival-Ausstattung. Level 7. Level 7: 12.000 Euro für einen klimatisierten VIP-Container direkt an der Mainstage des Melt!-Festivals. Ich bin Jonas, 42, und ich nutze das Event für exklusive Geschäftskontakte. Du kannst unmöglich eine Tonne Catering in den Backstage-Bereich fliegen lassen! Doch, genau das tat ich, inklusive privatem Koch und eigenem Sicherheitsdienst. Wir feierten gerade den Deal des Jahres, als plötzlicher Lärm von draußen unsere Besprechung unterbrach. Ein Mann in teurem Anzug stand vor unserer Glastür und klopfte laut an die Scheibe. Was hat dieser Mann von mir gefordert? Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+5.000 €",
+        "after": "17.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Festival-Ausstattung. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 12.000 Euro für einen klimatisierten VIP-Container direkt an der Mainstage des Melt!-Festivals."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Jonas, 42, und ich nutze das Event für exklusive Geschäftskontakte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Du kannst unmöglich eine Tonne Catering in den Backstage-Bereich fliegen lassen!"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch, genau das tat ich, inklusive privatem Koch und eigenem Sicherheitsdienst."
+        },
+        {
+          "s": "Figur",
+          "t": "Wir feierten gerade den Deal des Jahres, als plötzlicher Lärm von draußen unsere Besprechung unterbrach."
+        },
+        {
+          "s": "Figur",
+          "t": "Ein Mann in teurem Anzug stand vor unserer Glastür und klopfte laut an die Scheibe."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was hat dieser Mann von mir gefordert?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Du kannst unmöglich eine Tonne Catering in den Backstage-Bereich fliegen lassen!",
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "12.000 €",
+          "bar": 0.95
+        },
+        {
+          "label": "Komfort",
+          "value": "VIP",
+          "bar": 0.98
+        },
+        {
+          "label": "Netzwerk",
+          "value": "Exklusiv",
+          "bar": 0.95
+        }
+      ],
+      "character": "Simple round cream-white ball head without nose, small dot eyes, expressive eyebrows. Short slicked-back dark hair, tailored dark blazer over open collar shirt, holding a smartphone, a tiny golden coin on a glass desk.",
+      "visual": "A man standing inside a high-end glass backstage container overlooking a massive festival crowd, simple round cream-white ball head, small dot eyes, expressive eyebrows, tailored blazer, a tiny golden coin on the modern desk.",
+      "scenes": [
+        "Close-up of a high-end smartphone showing VIP pass QR codes, a tiny golden coin on the glass table.",
+        "Medium shot of a luxurious backstage lounge with leather sofas and professional lighting.",
+        "Close-up of an expressive serious face looking through soundproof glass.",
+        "Wide shot of a gigantic festival stage with pyrotechnics and thousands of cheering fans."
+      ],
+      "caption": "Hinter den Kulissen der größten Festivals! 🚁✨ Wer kennt die VIP-Welt? #FestivalVIP #BackstageLife #BusinessAndMusic #MeltFestival #Luxury"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches Thema sollen wir als Nächstes im Aufzug öffnen?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Blickt mit großen Augen durch den Zaun und erinnert Noah an seine eigenen Anfänge."
+      },
+      "name": "Noah, 49, Festival-Besitzer",
+      "badge": "150.000 € Privat-Festival",
+      "verdict": "CHEF IM RING",
+      "story": "Die 8 Level von Festival-Ausstattung. Level 8. Level 8: 150.000 Euro Produktionsbudget für mein eigenes exquisites Boutique-Festival im Schwarzwald. Ich bin Noah, 49, und ich besitze das gesamte Gelände, auf dem all diese Geschichten stattfanden. Niemand baut ein Festival nur für fünfhundert ausgewählte Gäste auf! Doch, genau das tat ich, weil ich damals als Azubi mit null Euro im Schlamm schwur, dass es eines Tages anders laufen wird. Ich blicke aus meinem Panorama-Container auf das bunte Treiben unten im Tal, sehe Tim mit seiner Plastiktüte am Zaun stehen, Sarah am Kiosk, Leo beim Zeltaufbau und Hanna mit ihrem Solarlader. Jeder von ihnen ist Teil des großen Ganzen, das ich einst erschaffen habe. Welche Welt öffnen wir als Nächstes im Aufzug?",
+      "gender": "m",
+      "twist": {
+        "delta": "+50.000 €",
+        "after": "200.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Festival-Ausstattung. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 150.000 Euro Produktionsbudget für mein eigenes exquisites Boutique-Festival im Schwarzwald."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Noah, 49, und ich besitze das gesamte Gelände, auf dem all diese Geschichten stattfanden."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Niemand baut ein Festival nur für fünfhundert ausgewählte Gäste auf!"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch, genau das tat ich, weil ich damals als Azubi mit null Euro im Schlamm schwur, dass es eines Tages anders laufen wird."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich blicke aus meinem Panorama-Container auf das bunte Treiben unten im Tal, sehe Tim mit seiner Plastiktüte am Zaun stehen, Sarah am Kiosk, Leo beim Zeltaufbau und Hanna mit ihrem Solarlader."
+        },
+        {
+          "s": "Figur",
+          "t": "Jeder von ihnen ist Teil des großen Ganzen, das ich einst erschaffen habe."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welche Welt öffnen wir als Nächstes im Aufzug?"
+        }
+      ],
+      "quote": "Niemand baut ein Festival nur für fünfhundert ausgewählte Gäste auf!",
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "150 Tsd",
+          "bar": 1.0
+        },
+        {
+          "label": "Komfort",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Einfluss",
+          "value": "Maximum",
+          "bar": 1.0
+        }
+      ],
+      "character": "Simple round cream-white ball head without nose, small dot eyes, expressive eyebrows. Silver hair, refined casual blazer over a fine knit sweater, holding festival master blueprints, a tiny golden coin on the architectural model.",
+      "visual": "An older man standing on a wooden balcony overlooking a breathtaking boutique festival nestled in a green valley at sunset, simple round cream-white ball head, small dot eyes, expressive eyebrows, silver hair, refined blazer, a tiny golden coin on the railing.",
+      "scenes": [
+        "Close-up of festival master blueprint plans on a wooden table, a tiny golden coin beside them.",
+        "Medium shot of a panoramic view over a glowing festival site in the mountains at dusk.",
+        "Close-up of an expressive satisfied face looking out over the entire festival grounds.",
+        "Wide shot of closed elevator doors with the display flashing level 8, ending the cycle."
+      ],
+      "caption": "Das ultimative Festival – wer hätte gedacht, wie alles zusammenhängt? 🎶✨ Welches Thema sollen wir als Nächstes im Aufzug öffnen? #FestivalBoss #BlackForest #Ending #ElevatorSeries #Mastermind"
+    }
+  ],
+  "lang": "de",
+  "topic": "Die Festival-Ausstattung",
+  "frame": "aufzug"
+}
