@@ -219,6 +219,35 @@ def generate_pilots(lang, tts_backend, k=5):
         save(pdir / f"{today}_{lang}.json", results)
 
 
+def continue_pilots(levels=3, top=1):
+    """Nachtschicht: die besten Piloten der letzten Nacht bekommen Level 2..levels, damit João die Querbezüge sieht."""
+    today = dt.date.today().isoformat()
+    SITE.mkdir(parents=True, exist_ok=True)
+    (ROOT / "out").mkdir(exist_ok=True)
+    files = sorted((DATA / "pilots").glob("*.json"))
+    if not files:
+        print("keine Piloten gefunden")
+        return
+    newest = files[-1].name[:10]
+    tts_backend = "eleven" if os.environ.get("ELEVENLABS_API_KEY") else os.environ.get("TTS", "gemini")
+    for f in [x for x in files if x.name.startswith(newest)]:
+        best = sorted([p for p in load(f, []) if p.get("sid")], key=lambda p: -(p.get("score") or 0))[:top]
+        for p in best:
+            series = load(DATA / "series" / f"{p['sid']}.json", None)
+            if not series:
+                continue
+            print(f"[Fortsetzung] {series['title']} (Pilot-Score {p.get('score')})")
+            for n in range(2, min(levels, len(series["levels"])) + 1):
+                try:
+                    pics, _ = level_images(series, n, p["frame"], ASSETS / p["sid"], seed=7919 + n * 101)
+                    name = f"{today}_fortsetzung_{p['sid']}_teil{n}.mp4"
+                    info = render_lift(series, n, pics, ROOT / "out" / name, backend=tts_backend)
+                    shutil.copy(info["path"], SITE / name)
+                    print(f"  Level {n} -> {name} ({info['duration']} s)")
+                except Exception as e:
+                    print(f"  Level {n} fehlgeschlagen: {e}")
+
+
 def post(base_url):
     pending = load(PENDING, [])
     remaining = []
@@ -255,11 +284,13 @@ if __name__ == "__main__":
     ap.add_argument("--tts", default=os.environ.get("TTS", "gemini"))
     ap.add_argument("--count", type=int, default=int(os.environ.get("VIDEOS_PER_RUN", "1")))
     ap.add_argument("--base-url", default=os.environ.get("PAGES_URL", ""))
-    ap.add_argument("--mode", default=os.environ.get("MODE", "series"), choices=["series", "classic", "pilots"])
+    ap.add_argument("--mode", default=os.environ.get("MODE", "series"), choices=["series", "classic", "pilots", "fortsetzen"])
     a = ap.parse_args()
     if a.step == "generate" and a.mode == "pilots":
         for lang in a.langs.split(","):
             generate_pilots(lang, a.tts, int(os.environ.get("PILOTS", "5")))
+    elif a.step == "generate" and a.mode == "fortsetzen":
+        continue_pilots(int(os.environ.get("PILOT_LEVELS", "3")), int(os.environ.get("FORTSETZEN_TOP", "1")))
     elif a.step == "generate" and a.mode == "series":
         generate_series(a.langs.split(","), a.tts, os.environ.get("FRAMES", "aufzug").split(","))
     elif a.step == "generate":

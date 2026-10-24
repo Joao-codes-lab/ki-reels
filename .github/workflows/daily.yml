@@ -5,6 +5,7 @@ on:
     - cron: "0 5 * * *"   # täglich 05:00 UTC (06:00/07:00 deutscher Zeit)
     - cron: "0 12 * * *"  # Nachholversuch, falls der Morgenlauf gescheitert ist
     - cron: "30 22 * * *" # Nacht-Battle: 5 neue Pilotfolgen (nicht gepostet), João sieht sie morgens
+    - cron: "15 2 * * *"  # Nacht-Fortsetzung: bester Pilot bekommt Level 2 und 3 (Querbezüge sichtbar)
   workflow_dispatch:
     inputs:
       count:
@@ -17,7 +18,7 @@ on:
         description: "Teile pro Serie in diesem Lauf"
         default: "1"
       mode:
-        description: "series (Tageslauf) oder pilots (5 Pilotfolgen zur Auswahl)"
+        description: "series (Tageslauf), pilots (5 Pilotfolgen) oder fortsetzen (Level 2-3 der besten Piloten)"
         default: "series"
       post:
         description: "Bei Buffer einplanen?"
@@ -41,7 +42,7 @@ jobs:
       LANGS: ${{ inputs.langs || vars.LANGS || 'de,en' }}
       VIDEOS_PER_RUN: ${{ inputs.count || vars.VIDEOS_PER_RUN || '1' }}
       PARTS: ${{ inputs.parts || '1' }}
-      MODE: ${{ inputs.mode || (github.event.schedule == '30 22 * * *' && 'pilots') || 'series' }}
+      MODE: ${{ inputs.mode || (github.event.schedule == '30 22 * * *' && 'pilots') || (github.event.schedule == '15 2 * * *' && 'fortsetzen') || 'series' }}
       POLLINATIONS_TOKEN: ${{ secrets.POLLINATIONS_TOKEN }}
       ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
       PAGES_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
@@ -64,6 +65,7 @@ jobs:
 
       - name: Videos erzeugen (bis zu 3 Versuche)
         run: |
+          git pull -q origin main || true  # neueste Piloten/Serien, falls der Lauf in der Warteschlange stand
           for i in 1 2 3; do
             python run_daily.py generate && exit 0
             echo "Versuch $i fehlgeschlagen, neuer Versuch in 2 Minuten"; sleep 120
@@ -104,7 +106,7 @@ jobs:
           echo "Pages noch nicht erreichbar" && exit 1
 
       - name: Bei Buffer einplanen
-        if: ${{ (github.event_name == 'schedule' || inputs.post) && env.MODE != 'pilots' }}
+        if: ${{ (github.event_name == 'schedule' || inputs.post) && env.MODE != 'pilots' && env.MODE != 'fortsetzen' }}
         run: python run_daily.py post
 
       - name: Verlauf speichern
