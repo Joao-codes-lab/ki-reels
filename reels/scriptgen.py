@@ -392,12 +392,12 @@ im Format "Die 8 Level von ...", jede mit dem Anspruch, die viralste Serie des J
 Zielgruppe: {lang_name}, 16-35, Instagram Reels und TikTok. Erfolgreiche Vorbilder: "8 Levels of Wealth in NYC"
 (313.000 Aufrufe: Ich-Erzählung, Widerspruchs-Hook, Querverbindungen) und Obstmenschen-Dramen mit einer Zahl auf
 der Stirn, die über Respekt entscheidet (300.000 Aufrufe).
-Mögliche Welten (frame): "frucht" (Obst- und Gemüsemenschen mit Zahl auf der Stirn) oder "aufzug" (Comic mit
-Kugelkopf-Figuren). Mindestens 3 Ideen mit "frucht".
+Welt (frame): immer "frucht" (Obst- und Gemüsemenschen mit leuchtender Zahl auf der Stirn). Wir perfektionieren
+genau dieses eine Genre, also nur Ideen, die in dieser Welt am stärksten wirken.
 Themen sollen sofort Selbstvergleich und Diskussion auslösen (Geld, Gehalt, Liebe, Status, Schule/Uni, Job,
 Wohnen, Social Media, Familie). Keine Anlage-/Steuerberatung, keine echten Personen.
 Bereits verwendet: {used}
-Antworte NUR mit JSON: {{"ideen": [{{"topic": str, "frame": "frucht"|"aufzug", "hook": str,
+Antworte NUR mit JSON: {{"ideen": [{{"topic": str, "frame": "frucht", "hook": str,
 "warum_viral": str}}]}} mit genau {k2} Ideen; danach bewertet eine Jury."""
 
 PILOT_JURY = """Ihr seid eine strenge Jury aus Viral-Producer, Zielzuschauer (16-35) und Story-Editor.
