@@ -285,7 +285,7 @@ Für jedes Level:
 - name: Vorname + Alter + Rolle, z. B. "Lena, 27, Pflegerin"
 - badge: Kernzahl, max. 18 Zeichen, z. B. "3.200 € netto"
 - verdict: Urteil in 1-3 Wörtern in GROSSBUCHSTABEN, z. B. "NICHT REICH"
-- story: gesprochener Text, 130-150 Wörter (ca. 55-60 Sekunden), in der ICH-FORM der Figur erzählt
+- story: gesprochener Text, MINDESTENS 140 und höchstens 165 Wörter (ca. 60-70 Sekunden, wie die Vorbilder; zu kurze Teile werden verworfen), in der ICH-FORM der Figur erzählt
   (die Figur spricht selbst, z. B. "Ich hab 214 Videos gepostet. Mia, 19."), sehr kurze, rhythmische Sätze,
   erster Satz = Hook. Genau ein Satz ist ein wörtliches Zitat einer anderen Person (z. B. Chef, Mutter, Kommentar).
 - quote: genau dieses Zitat, wortgleich wie in der Story (ohne Anführungszeichen), max. 10 Wörter.
