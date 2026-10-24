@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       task:
-        description: "analyse, stimmen, beides oder stile"
+        description: "analyse, rhythmus, stimmen, beides, stile oder figuren"
         default: "beides"
       urls:
         description: "Reel- oder Profil-Links, durch Leerzeichen getrennt"
@@ -38,9 +38,13 @@ jobs:
           sudo apt-get update -q && sudo apt-get install -y -q ffmpeg
           pip install -r requirements.txt yt-dlp faster-whisper
       - name: Reels analysieren
-        if: ${{ env.TASK != 'stimmen' && env.URLS != '' }}
+        if: ${{ (env.TASK == 'analyse' || env.TASK == 'beides') && env.URLS != '' }}
         continue-on-error: true
         run: python tools/analyze_reels.py $URLS --max $MAX --out /tmp/research
+      - name: Posting-Rhythmus und Hit-Muster
+        if: ${{ env.TASK == 'rhythmus' }}
+        continue-on-error: true
+        run: python tools/profile_stats.py $URLS --max ${{ inputs.max || '60' }} --out /tmp/research/rhythmus
       - name: Stimmproben
         if: ${{ inputs.task == 'stimmen' || inputs.task == 'beides' }}
         continue-on-error: true
