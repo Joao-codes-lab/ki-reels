@@ -3,6 +3,7 @@ name: Tägliche Videos
 on:
   schedule:
     - cron: "0 5 * * *"   # täglich 05:00 UTC (06:00/07:00 deutscher Zeit)
+    - cron: "0 12 * * *"  # Nachholversuch, falls der Morgenlauf gescheitert ist
   workflow_dispatch:
     inputs:
       count:
@@ -47,8 +48,13 @@ jobs:
           git config user.name "ki-reels-bot"
           git config user.email "ki-reels-bot@users.noreply.github.com"
 
-      - name: Videos erzeugen
-        run: python run_daily.py generate
+      - name: Videos erzeugen (bis zu 3 Versuche)
+        run: |
+          for i in 1 2 3; do
+            python run_daily.py generate && exit 0
+            echo "Versuch $i fehlgeschlagen, neuer Versuch in 2 Minuten"; sleep 120
+          done
+          exit 1
 
       - name: Videos auf GitHub Pages veröffentlichen (letzte 10 Tage)
         run: |
@@ -65,7 +71,7 @@ jobs:
             cd /tmp/pages
           fi
           mkdir -p videos
-          cp "$GITHUB_WORKSPACE"/site/videos/*.mp4 videos/
+          cp "$GITHUB_WORKSPACE"/site/videos/*.mp4 videos/ 2>/dev/null || true
           cutoff=$(date -d '-10 days' +%F)
           for f in videos/*.mp4; do n=$(basename "$f"); [[ "${n:0:10}" < "$cutoff" ]] && rm -f "$f" || true; done
           touch .nojekyll
@@ -74,6 +80,7 @@ jobs:
 
       - name: Warten, bis die Videos online sind
         run: |
+          ls site/videos/*.mp4 >/dev/null 2>&1 || { echo "keine neuen Videos"; exit 0; }
           f=$(ls site/videos/*.mp4 | head -1 | xargs basename)
           for i in $(seq 1 30); do
             code=$(curl -s -o /dev/null -w '%{http_code}' "$PAGES_URL/videos/$f")

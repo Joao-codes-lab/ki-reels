@@ -75,6 +75,9 @@ def generate_series(langs, tts_backend):
     SITE.mkdir(parents=True, exist_ok=True)
     for lang in langs:
         st = state.get(lang)
+        if st and st.get("last_date") == today:
+            print(f"[{lang}] heute schon erledigt")
+            continue
         if not st or st["next"] > 8:
             used = [x["topic"] for x in state.get("_done", []) if x["lang"] == lang]
             topic = scriptgen.next_series_topic(used)
@@ -108,6 +111,7 @@ def generate_series(langs, tts_backend):
         pending.append({"lang": lang, "file": name, "caption": caption, "topic": st["topic"]})
         print(f"[{lang}] {series['title']} Teil {n} -> {name} ({info['duration']} s)")
         st["next"] = n + 1
+        st["last_date"] = today
         state[lang] = st
         save(STATE, state)
     save(PENDING, pending)
