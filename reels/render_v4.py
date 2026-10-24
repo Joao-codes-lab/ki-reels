@@ -27,13 +27,34 @@ F_COND = lambda s: ImageFont.truetype(str(FONTS / "Anton-Regular.ttf"), s)
 F_MONO = lambda s: ImageFont.truetype(str(FONTS / "JetBrainsMono-Bold.ttf"), s)
 BAR_COLORS = [(110, 200, 120), (255, 184, 28), (90, 160, 255)]
 V4_LABELS = {
-    "de": {"next": "FOLGT", "levels": "DIE 8 LEVEL VON", "said": "ER SAGTE", "quote": "ZITAT"},
-    "en": {"next": "NEXT", "levels": "THE 8 LEVELS OF", "said": "HE SAID", "quote": "QUOTE"},
+    "de": {"next": "FOLGT", "levels": "DIE 8 LEVEL VON", "said": "ER SAGTE", "quote": "ZITAT",
+           "you": "WELCHE ZAHL STÜNDE AUF DEINER STIRN?"},
+    "en": {"next": "NEXT", "levels": "THE 8 LEVELS OF", "said": "HE SAID", "quote": "QUOTE",
+           "you": "WHAT NUMBER WOULD BE ON YOUR FOREHEAD?"},
 }
 
 
-def draw_hud(img, stats, t_in):
-    """Drei Kennzahl-Kästen oben, fahren beim ersten Auftauchen kurz ein."""
+COUNT_UP = 1.0
+
+
+def count_text(val, frac):
+    """Zahl im Text hochzählen lassen: "1.150 €" bei frac 0.5 -> "575 €"."""
+    m = re.search(r"\d[\d.,]*", val)
+    if not m or frac >= 1:
+        return val
+    raw = m.group(0)
+    sep = "." if "." in raw and "," not in raw[-3:] else ","
+    digits = re.sub(r"[.,]\d{1,2}$", "", raw) if re.search(r"[.,]\d{1,2}$", raw) else raw
+    try:
+        num = int(re.sub(r"\D", "", digits))
+    except ValueError:
+        return val
+    cur = f"{int(num * ease(frac)):,}".replace(",", sep)
+    return val[:m.start()] + cur + val[m.end():]
+
+
+def draw_hud(img, stats, t_in, first=None):
+    """Drei Kennzahl-Kästen oben, fahren ein, die Zahlen zählen hoch. first ersetzt den ersten Wert (Wendung)."""
     if not stats:
         return
     d = ImageDraw.Draw(img, "RGBA")
@@ -44,12 +65,26 @@ def draw_hud(img, stats, t_in):
         x = x0 + i * (bw + gap)
         d.rounded_rectangle([x, y, x + bw, y + 120], radius=14, fill=(18, 16, 14, 215), outline=(255, 255, 255, 40), width=2)
         d.text((x + 16, y + 12), str(st.get("label", "")).upper()[:14], font=F_MONO(20), fill=(200, 195, 185))
-        val = str(st.get("value", ""))
+        val = str(first if (i == 0 and first) else st.get("value", ""))
+        val = count_text(val, t_in / COUNT_UP) if not (i == 0 and first) else val
         d.text((x + 16, y + 38), val, font=fit_font(d, val, F_COND, 50, bw - 30, 26), fill=(255, 255, 255))
         frac = max(0.02, min(1.0, float(st.get("bar", 0.5) or 0)))
         d.rounded_rectangle([x + 16, y + 100, x + bw - 16, y + 108], radius=4, fill=(255, 255, 255, 40))
         d.rounded_rectangle([x + 16, y + 100, x + 16 + (bw - 32) * frac, y + 108], radius=4,
                             fill=BAR_COLORS[i % 3] + (255,))
+
+
+def draw_delta(img, delta, t):
+    """Großes "+500 €" / "-400 €" springt auf und fliegt zur Werte-Leiste: die Zahl ändert sich live."""
+    d = ImageDraw.Draw(img, "RGBA")
+    neg = delta.strip().startswith(("-", "−"))
+    col = (235, 70, 70) if neg else (70, 210, 110)
+    sc = 0.6 + 0.5 * ease(min(t / 0.18, 1)) - 0.1 * ease(min(max(t - 0.18, 0) / 0.2, 1))
+    f = F_COND(int(170 * sc))
+    w = d.textlength(delta, font=f)
+    y = 620 - int(380 * ease(max(t - 1.0, 0) / 0.6))
+    alpha = 255 if t < 1.2 else int(255 * max(0, 1 - (t - 1.2) / 0.4))
+    d.text((SAFE_CX - w / 2, y), delta, font=f, fill=col + (alpha,), stroke_width=10, stroke_fill=(0, 0, 0, alpha))
 
 
 def draw_captions_v4(d, chunk, t, y=1470):
@@ -125,6 +160,11 @@ def leaderboard(series, n, lab, reveal):
         x0, y = SAFE_CX - pw / 2 - 40, y0 + 8 * row + 50
         d.rounded_rectangle([x0, y, x0 + (pw + 80) * s, y + 100 * s], radius=50, fill=ACCENT)
         d.text((x0 + 40 * s, y + 10 * s), pill, font=F_COND(int(56 * s)), fill=INK)
+    if lab.get("you"):
+        q = lab["you"] + " ↓"
+        qf = fit_font(d, q, F_COND, 54, SAFE_W, 30)
+        qw = d.textlength(q, font=qf)
+        d.text((SAFE_CX - qw / 2, 1530), q, font=qf, fill=(255, 255, 255))
     return img
 
 
@@ -173,6 +213,11 @@ def render_part(series, n, images, out_path, backend="gemini"):
             cuts.append(t)
             t += CUT
         events = [(0.1, "tick"), (DOOR_OPEN[0] - 0.1, "ding"), (hud_at, "pop")]
+        events += [(hud_at + i * 0.08, "tick") for i in range(int(COUNT_UP / 0.08))]
+        twist = lv.get("twist") or {}
+        twist_at = qspan[1] if (qspan and twist.get("delta")) else None
+        if twist_at:
+            events += [(twist_at, "pop")] + [(twist_at + 0.1 + i * 0.07, "tick") for i in range(8)]
         events += [(c, "whoosh") for c in cuts[3::3]]  # nur jeder 3. Schnitt, sonst nervt es
         if qspan:
             events.append((qspan[0], "pop"))
@@ -195,7 +240,10 @@ def render_part(series, n, images, out_path, backend="gemini"):
                 if t < DOOR_OPEN[1]:
                     draw_doors(img, doors, (t - DOOR_OPEN[0]) / (DOOR_OPEN[1] - DOOR_OPEN[0]))
                 if t >= hud_at:
-                    draw_hud(img, lv.get("stats"), t - hud_at)
+                    after = twist.get("after") if (twist_at and t >= twist_at) else None
+                    draw_hud(img, lv.get("stats"), t - hud_at, after)
+                if twist_at and twist_at <= t < twist_at + 1.6:
+                    draw_delta(img, twist["delta"], t - twist_at)
             d = ImageDraw.Draw(img)
             # Level-Marke oben links (klein, dezent)
             d.rounded_rectangle([60, 40, 250, 92], radius=26, fill=ACCENT)

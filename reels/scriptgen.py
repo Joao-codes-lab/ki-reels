@@ -217,6 +217,13 @@ Im Kopf bleiben: Die Serie hat einen festen Satz, den jede Figur einmal sagt ode
 Motto wie "Die Zahl lügt nie."), lege ihn im Feld "catchphrase" ab. Jede Figur hat ein unverwechselbares
 Merkmal (Tick, Gegenstand, Spruch), an dem man sie in anderen Teilen wiedererkennt.
 
+Endlosschleife: Der Cliffhanger am Ende und der Hook am Anfang spiegeln sich, sodass der Anfang beim
+erneuten Abspielen wie die Fortsetzung des Endes wirkt.
+
+Easter Egg und Schatten: In JEDER Szene ist irgendwo klein eine goldene Münze versteckt (Running Gag für die
+Kommentare), und in mindestens einer Szene pro Teil steht unscharf im Hintergrund dieselbe geheimnisvolle Figur
+mit Hut und langem Mantel. Wer sie ist, bleibt bis Level 8 offen. Baue beides in visual/scenes ein.
+
 Identifikation: Jede Figur muss sich anfühlen wie jemand, den man kennt oder selbst ist: ein alltäglicher,
 konkreter Moment (Supermarktkasse, Kontoauszug, WG-Küche, Pendelzug), ein innerer Gedanke, eine kleine Schwäche,
 ein Wunsch. Keine Klischees, keine Karikatur.
@@ -245,6 +252,9 @@ Für jedes Level:
   bar = 0..1 wie voll der Balken ist, steigt über die Level).
 - character: englische, feste Beschreibung der Figur, max. 35 Wörter. {character_rule}
 - gender: "w" oder "m" (für die Stimme der Figur).
+- twist: der Moment, in dem sich die Hauptzahl live ändert, direkt NACH dem Zitat (Gehalt kommt, Strafe,
+  Absturz, Geschenk): {{"delta": "-400 €", "after": "750 €"}} (after = neuer erster Wert der Werte-Leiste,
+  gleiches Format wie dort, max. 9 Zeichen).
 - lines: die Story als gesprochene Zeilen mit Sprecher, zusammen exakt der Story-Text:
   [{{"s": "Erzaehler", "t": "Die 8 Level von Reichtum. Level 3."}}, {{"s": "Figur", "t": "..."}}, ...].
   "Erzaehler" spricht die Level-Ansage am Anfang und alle Sätze anderer Personen (Dialogpartner, Zitate),
@@ -260,7 +270,7 @@ Außerdem:
 
 Antworte NUR mit JSON:
 {{"title": str, "house": str, "catchphrase": str, "links": [str, ...], "levels": [{{"n": 1, "open_loop": str, "name": str, "badge": str, "verdict": str, "story": str,
-"gender": str, "lines": [{{"s": str, "t": str}}], "quote": str, "stats": [{{"label": str, "value": str, "bar": float}}], "character": str, "visual": str,
+"gender": str, "twist": {{"delta": str, "after": str}}, "lines": [{{"s": str, "t": str}}], "quote": str, "stats": [{{"label": str, "value": str, "bar": float}}], "character": str, "visual": str,
 "scenes": [str, str, str, str], "caption": str}}, ... bis n=8]}}
 """
 
@@ -282,6 +292,8 @@ def validate_series(s):
         lv["scenes"] = (lv.get("scenes") or [])[:4]
         lv["stats"] = [x for x in (lv.get("stats") or []) if isinstance(x, dict)][:3]
         lv["quote"] = lv.get("quote") or ""
+        tw = lv.get("twist") if isinstance(lv.get("twist"), dict) else {}
+        lv["twist"] = {"delta": str(tw.get("delta", ""))[:10], "after": str(tw.get("after", ""))[:9]} if tw.get("delta") else {}
         lines = [(x.get("s", "Figur"), str(x.get("t", "")).strip()) for x in (lv.get("lines") or [])
                  if isinstance(x, dict) and str(x.get("t", "")).strip()]
         lv["lines"] = [{"s": "Erzaehler" if sp.lower().startswith(("erz", "narr")) else "Figur", "t": t}
