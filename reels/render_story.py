@@ -29,6 +29,18 @@ HX0, HX1, HY_TOP, HY_BOT = 70, 1010, 470, 1830
 FLOOR_H = (HY_BOT - HY_TOP) / 8
 
 
+def _top_shade(h=620):
+    """Abdunklung oben, damit Titel und Hinweis auf den nächsten Teil lesbar bleiben."""
+    shade = Image.new("RGBA", (W, h), (0, 0, 0, 0))
+    d = ImageDraw.Draw(shade)
+    for y in range(h):
+        d.line([(0, y), (W, y)], fill=(5, 6, 16, int(230 * (1 - (y / h) ** 2))))
+    return shade
+
+
+TOP_SHADE = _top_shade()
+
+
 def floor_box(k):
     y1 = HY_BOT - (k - 1) * FLOOR_H
     return (HX0 + 30, int(y1 - FLOOR_H + 8), HX1 - 30, int(y1 - 8))
@@ -159,9 +171,10 @@ def render_part(series, n, images, out_path, backend="edge"):
         spans = sentence_spans(words)
         hook_end = words[spans[0][1]][1] if spans else min(3.0, dur)
         hook_end = max(2.5, min(hook_end + 0.2, 5.0))
-        cl_idx = spans[-2][0] if len(spans) >= 3 else (spans[-1][0] if spans else len(words) - 1)
-        cliff_start = words[cl_idx][0] - 0.1 if words else dur * 0.85
-        cliff_start = max(cliff_start, hook_end + 6)
+        # Cliffhanger beginnt mit dem Satz, der etwa 9 s vor Schluss anfängt (Teaser + Verweis auf den nächsten Teil)
+        starts = [words[a][0] for a, _ in spans[1:]] or [dur * 0.85]
+        cliff_start = min(starts, key=lambda x: abs(x - (dur - 9))) - 0.1
+        cliff_start = min(max(cliff_start, hook_end + 6), dur - 3)
         total = dur + 1.6
         chunks = chunk_words(words)
 
@@ -186,6 +199,7 @@ def render_part(series, n, images, out_path, backend="edge"):
                 tgt = floor_box(min(n + 1, 8))
                 img = zoom(house_next, 1 - lt, (tgt[0] + tgt[2]) / 2, (tgt[1] + tgt[3]) / 2, 1.0, 1.35)
             img = img.copy()
+            img.paste(TOP_SHADE, (0, 0), TOP_SHADE)
             d = ImageDraw.Draw(img)
 
             # Kopfzeile: Serie + Level

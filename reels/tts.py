@@ -54,14 +54,30 @@ async def _edge(text, voice, path, rate):
     return words
 
 
+def _restore_punctuation(text, words):
+    """Edge liefert Wörter ohne Satzzeichen; hängt sie aus dem Originaltext wieder an."""
+    out, pos = [], 0
+    for start, end, w in words:
+        i = text.find(w, pos)
+        if i < 0:
+            out.append((start, end, w))
+            continue
+        j = i + len(w)
+        k = j
+        while k < len(text) and not text[k].isspace() and not text[k].isalnum():
+            k += 1
+        out.append((start, end, text[i:k]))
+        pos = k
+    return out
+
+
 def speak(text, lang, path, backend="edge", rate="+8%"):
     """Erzeugt Audio unter `path` und gibt (dauer, [(start, ende, wort), ...]) zurück."""
     path = Path(path)
     if backend == "edge":
         words = asyncio.run(_edge(text, VOICES[lang]["edge"], path, rate))
         dur = audio_duration(path)
-        if not words:
-            words = _estimate_words(text, dur)
+        words = _restore_punctuation(text, words) if words else _estimate_words(text, dur)
         return dur, words
     if backend == "espeak":
         wav = path.with_suffix(".wav")
