@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       task:
-        description: "analyse, rhythmus, tiefe, stimmen, beides, stile oder figuren"
+        description: "analyse, rhythmus, tiefe, musik, stimmen, beides, stile oder figuren"
         default: "beides"
       urls:
         description: "Reel- oder Profil-Links, durch Leerzeichen getrennt"
@@ -52,6 +52,10 @@ jobs:
           git fetch -q origin research && mkdir -p /tmp/rhythmus
           for f in $(git ls-tree --name-only origin/research rhythmus/ | grep json); do git show "origin/research:$f" > /tmp/$f; done
           timeout 75m python -u tools/deep_analysis.py $URLS --rhythmus /tmp/rhythmus --top ${{ inputs.max || '8' }} --flop 3 --out /tmp/research/tiefe
+      - name: Hintergrundmusik der Vorbilder
+        if: ${{ env.TASK == 'musik' }}
+        continue-on-error: true
+        run: python -u tools/music_probe.py $URLS --out /tmp/research/musik
       - name: Stimmproben
         if: ${{ inputs.task == 'stimmen' || inputs.task == 'beides' }}
         continue-on-error: true
