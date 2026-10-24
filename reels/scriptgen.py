@@ -408,6 +408,7 @@ genau dieses eine Genre, also nur Ideen, die in dieser Welt am stärksten wirken
 Themen sollen sofort Selbstvergleich und Diskussion auslösen (Geld, Gehalt, Liebe, Status, Schule/Uni, Job,
 Wohnen, Social Media, Familie). Keine Anlage-/Steuerberatung, keine echten Personen.
 Bereits verwendet: {used}
+Das Feld topic enthält nur das Thema selbst, ohne "Die 8 Level von" davor.
 Antworte NUR mit JSON: {{"ideen": [{{"topic": str, "frame": "frucht", "hook": str,
 "warum_viral": str}}]}} mit genau {k2} Ideen; danach bewertet eine Jury."""
 

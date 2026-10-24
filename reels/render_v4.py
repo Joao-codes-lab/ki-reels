@@ -253,7 +253,7 @@ def render_part(series, n, images, out_path, backend="gemini"):
                 if c[0][0] - 0.05 <= t <= c[-1][1] + 0.25:
                     cur = c
             in_quote = qspan and qspan[0] <= t < qspan[1]
-            if cur and not in_quote and not (t >= outro + 0.3):
+            if cur and not in_quote and t < outro:
                 draw_captions_v4(d, cur, t)
             d.text((36, H - 62), lab["ai"], font=F_MONO(20), fill=(200, 200, 210))
             d.rectangle([0, H - 10, int(W * t / total), H], fill=ACCENT)
