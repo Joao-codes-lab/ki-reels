@@ -88,10 +88,14 @@ def music(sec, bpm=104, seed=3):
     return 0.5 * out * fade / max(np.abs(out).max(), 1e-6)
 
 
-def mix(events, sec, music_gain=0.10):
-    """events: [(zeit_s, name)] -> Stereo-Spur als numpy-Array."""
+def mix(events, sec, music_gain=0.10, bed=None):
+    """events: [(zeit_s, name)] -> Stereo-Spur als numpy-Array. bed: fertiges Musikbett (reels.music.bed)."""
     bank = {"ding": ding(), "whoosh": whoosh(), "pop": pop(), "tick": tick()}
-    out = music(sec) * music_gain if music_gain else np.zeros(int(SR * sec))
+    if bed is not None:
+        out = np.zeros(int(SR * sec))
+        out[:min(len(bed), len(out))] = bed[:len(out)]
+    else:
+        out = music(sec) * music_gain if music_gain else np.zeros(int(SR * sec))
     for at, name in events:
         s = bank[name]
         i = int(at * SR)

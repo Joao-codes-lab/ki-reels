@@ -26,6 +26,10 @@ MOODS = {
     "luxus": {"was": "Reichtum, Luxus, Penthouse, cool und edel, entspannter Groove (Lo-Fi, Lounge, smooth Jazz, Chillhop)",
               "feel": ["bright", "grooving", "relaxed", "calming", "mellow"], "genre": ["jazz", "electronica", "funk", "pop"],
               "bpm": (75, 115)},
+    "lofi": {"was": "melancholischer Lo-Fi-Hip-Hop für Storytelling über Geld in der Großstadt: Rhodes oder Piano, weiche "
+                     "Drums, Vinyl-Knistern, 70-90 BPM, Moll, konstanter Loop (Vorbild: 8-Levels-Reels)",
+             "feel": ["relaxed", "mellow", "grooving", "somber", "calming"], "genre": ["hip hop", "hip-hop", "urban", "electronica", "jazz"],
+             "bpm": (68, 95)},
     "spannung": {"was": "leise Spannung, Geheimnis, etwas stimmt nicht, pulsierend, ohne Melodie im Vordergrund",
                  "feel": ["suspenseful", "mysterious", "unnerving", "dark", "eerie", "tense"],
                  "genre": ["electronica", "soundtrack", "cinematic"], "bpm": (60, 130)},
@@ -85,6 +89,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", default="research/musik_bib")
     ap.add_argument("--per-mood", type=int, default=3)
+    ap.add_argument("--moods", default=",".join(MOODS), help="nur diese Stimmungen (Komma-getrennt)")
     ap.add_argument("--candidates", type=int, default=6)
     a = ap.parse_args()
     out = Path(a.out)
@@ -93,7 +98,7 @@ def main():
     print(f"Katalog: {len(pieces)} Titel")
     lib, used = {}, set()
     with tempfile.TemporaryDirectory() as tmp:
-        for mood in MOODS:
+        for mood in a.moods.split(","):
             tried = []
             for p in [p for p in rank(pieces, mood) if p["filename"] not in used][:a.candidates]:
                 mp3 = Path(tmp) / p["filename"]
@@ -119,6 +124,9 @@ def main():
                                   "bpm": p.get("bpm"), "feel": p.get("feel"), "start": v.get("beste_startsekunde", 0),
                                   "loop": v.get("loopbar", True), "warum": v.get("warum"),
                                   "credit": f"Musik: \"{p['title']}\" Kevin MacLeod (incompetech.com), CC BY 4.0"})
+    old = Path(__file__).resolve().parent.parent / "assets" / "music" / "bibliothek.json"
+    if old.exists():  # bestehende Bibliothek behalten, nur neu gebaute Stimmungen ersetzen
+        lib = {**json.loads(old.read_text(encoding="utf-8")), **lib}
     (out / "bibliothek.json").write_text(json.dumps(lib, ensure_ascii=False, indent=1), encoding="utf-8")
     print(json.dumps({m: [x["title"] for x in v] for m, v in lib.items()}, ensure_ascii=False))
 

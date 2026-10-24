@@ -59,7 +59,7 @@ jobs:
       - name: Musik-Bibliothek nach Stimmung (incompetech, CC BY)
         if: ${{ env.TASK == 'musikbib' }}
         continue-on-error: true
-        run: python -u tools/music_library.py --out /tmp/research/musik_bib
+        run: python -u tools/music_library.py --out /tmp/research/musik_bib ${{ inputs.urls && format('--moods {0}', inputs.urls) || '' }}
       - name: Stimmproben
         if: ${{ inputs.task == 'stimmen' || inputs.task == 'beides' }}
         continue-on-error: true
