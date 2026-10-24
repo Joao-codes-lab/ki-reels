@@ -1,0 +1,616 @@
+{
+  "title": "The 8 Levels of Salary & Career Status",
+  "house": "A bustling metropolitan city where fruit and vegetable people commute on the central subway line, grab morning coffee at the corner kiosk, and hide their glowing forehead salary badges under raincoats.",
+  "catchphrase": "The glowing number on your forehead never lies.",
+  "links": [
+    "Level 1 mentions a quiet regular at the morning kiosk who always pays with crisp hundred-dollar bills (Level 8).",
+    "Level 2's barista remembers a stressed accountant who dropped his briefcase near the subway stairs (Level 3).",
+    "Level 3 shares an office floor with a smug marketing director who constantly checks her watch (Level 5).",
+    "Level 4 spots a delivery van driven by a guy who only listens to financial podcasts (Level 2).",
+    "Level 5 complains about a junior coder who keeps eating all the free breakroom snacks (Level 1).",
+    "Level 6 notices a flashy sports car speeding past the bakery every single morning (Level 7).",
+    "Level 7 buys her expensive espresso from the very barista who used to work double shifts (Level 2).",
+    "Level 8 is the quiet investor who funds the whole district and watches everyone from the penthouse."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Who slipped the mysterious fifty-dollar bill into the tip jar while my back was turned?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Snaps his fingers at her to hurry up with his order and complains that the coffee is too weak."
+      },
+      "name": "Leo, 22, Dishwasher",
+      "badge": "1,150 $ / mo",
+      "verdict": "MINIMUM WAGE",
+      "story": "The 8 Levels of Salary and Career Status. Level 1. Level 1: 1,150 dollars a month, and rent is due tomorrow. My lemon skin feels tight from the steam of the industrial sink. My hands are pruned. I scrub the same greasy pan for the third time because the kitchen manager said you missed a spot. You're barely surviving kid. That stung. I check my mobile banking app for the fourth time today. Zero change. Just then, my phone lights up with a push notification from my landlord. He wants the cash by midnight or I am out on the street. I freeze, staring at the glowing number on my forehead in the greasy mirror above the sink. Then someone leaves a massive tip on the counter outside. You'll see that in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+50 $",
+        "after": "1,200 $ /"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Levels of Salary and Career Status. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 1,150 dollars a month, and rent is due tomorrow. My lemon skin feels tight from the steam of the industrial sink. My hands are pruned."
+        },
+        {
+          "s": "Figur",
+          "t": "I scrub the same greasy pan for the third time because the kitchen manager said you missed a spot."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You're barely surviving kid."
+        },
+        {
+          "s": "Figur",
+          "t": "That stung. I check my mobile banking app for the fourth time today. Zero change."
+        },
+        {
+          "s": "Figur",
+          "t": "Just then, my phone lights up with a push notification from my landlord. He wants the cash by midnight or I am out on the street."
+        },
+        {
+          "s": "Figur",
+          "t": "I freeze, staring at the glowing number on my forehead in the greasy mirror above the sink. Then someone leaves a massive tip on the counter outside."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You're barely surviving kid.",
+      "stats": [
+        {
+          "label": "Monthly Net",
+          "value": "1,150 $",
+          "bar": 0.05
+        },
+        {
+          "label": "Savings",
+          "value": "45 $",
+          "bar": 0.02
+        },
+        {
+          "label": "Stress",
+          "value": "99%",
+          "bar": 0.99
+        }
+      ],
+      "character": "A young lemon person with bright yellow citrus skin, wearing a stained dishwasher apron and a silver stud earring. On his forehead, the digital badge '1,150 $ / mo' glows faintly.",
+      "visual": "A stressed lemon person washing dishes in a hot commercial kitchen, staring at a phone with a worried expression, cinematic lighting, hidden golden coin near the sink drain.",
+      "scenes": [
+        "Close up of steaming industrial dishwasher and soapy water with a hidden golden coin on the metal edge.",
+        "Medium shot of the lemon person looking at his glowing forehead badge in a dirty bathroom mirror.",
+        "Over-the-shoulder view of a smartphone screen showing a red zero balance and a landlord text.",
+        "Wide shot of the chaotic restaurant kitchen at night with harsh fluorescent lights."
+      ],
+      "caption": "How do you survive in the city on minimum wage? Let me know below! #Salary #Struggle #CityLife #Level1 #LemonPerson"
+    },
+    {
+      "n": 2,
+      "open_loop": "What was the secret message written on the crumpled receipt left by the man in the tailored suit?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Ignores her polite greeting, slams his laptop down on the café table, and demands a refund for a lukewarm latte."
+      },
+      "name": "Mia, 26, Barista",
+      "badge": "2,400 $ / mo",
+      "verdict": "BARELY COVERED",
+      "story": "Level 2. Level 2: 2,400 dollars a month, and my tip jar is my only safety net. My strawberry seeds ache from standing twelve hours behind the espresso machine. The rent went up again. My roommate texts me asking if I can cover her share of the electricity bill. I massage my temples and force a smile for the next customer in line. You're always so cheerful, how do you do it? A regular asks while tapping his expensive watch impatiently. I look at him, then down at my glowing forehead badge reflecting in the stainless steel milk pitcher. My phone buzzes with a bank alert. An unexpected direct deposit hits my account from an unknown sender. You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+300 $",
+        "after": "2,700 $ /"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 2,400 dollars a month, and my tip jar is my only safety net. My strawberry seeds ache from standing twelve hours behind the espresso machine."
+        },
+        {
+          "s": "Figur",
+          "t": "The rent went up again. My roommate texts me asking if I can cover her share of the electricity bill. I massage my temples and force a smile for the next customer in line."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You're always so cheerful, how do you do it?"
+        },
+        {
+          "s": "Figur",
+          "t": "A regular asks while tapping his expensive watch impatiently. I look at him, then down at my glowing forehead badge reflecting in the stainless steel milk pitcher."
+        },
+        {
+          "s": "Figur",
+          "t": "My phone buzzes with a bank alert. An unexpected direct deposit hits my account from an unknown sender."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "You're always so cheerful, how do you do it?",
+      "stats": [
+        {
+          "label": "Monthly Net",
+          "value": "2,400 $",
+          "bar": 0.18
+        },
+        {
+          "label": "Savings",
+          "value": "310 $",
+          "bar": 0.1
+        },
+        {
+          "label": "Tip Jar",
+          "value": "85 $",
+          "bar": 0.08
+        }
+      ],
+      "character": "A red strawberry person with tiny green leaf hair clips, wearing a striped canvas apron and carrying a small notepad. Her forehead displays '2,400 $ / mo'.",
+      "visual": "A strawberry barista wiping down a gleaming espresso machine in a cozy coffee shop, warm morning light, golden coin resting on a saucer.",
+      "scenes": [
+        "Close up of frothing milk in a metal pitcher with a hidden golden coin on the wooden counter.",
+        "Medium shot of the strawberry person smiling tiredly at a customer across the bar.",
+        "Detail shot of a smartphone screen showing a sudden bank deposit alert.",
+        "Wide shot of the bustling downtown café interior during morning rush hour."
+      ],
+      "caption": "Can a barista ever save enough for a deposit in this economy? Drop your thoughts! #BaristaLife #RentCrisis #Level2 #Strawberry"
+    },
+    {
+      "n": 3,
+      "open_loop": "Why did the senior partner suddenly lock the glass conference room door from the inside?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Steals his booked meeting room without an apology and laughs at his budget proposal during the presentation."
+      },
+      "name": "Arthur, 34, Junior Accountant",
+      "badge": "4,500 $ / mo",
+      "verdict": "MIDDLE CLASS",
+      "story": "Level 3. Level 3: 4,500 dollars a month, and I am drowning in student loans and insurance premiums. My avocado skin is pale from staring at Excel sheets under flickering fluorescent office lights. I check my retirement fund projection and feel a knot in my stomach. Thirty more years of this desk. My boss walks past my cubicle, drops a massive stack of tax files on my keyboard without looking up. Work harder if you ever want a real office, Arthur. That cold whisper cuts deep. I adjust my glasses and stare at the glowing number on my forehead, wishing it would magically double. Suddenly, my office phone rings with an emergency call from corporate auditing. You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-250 $",
+        "after": "4,250 $ /"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 4,500 dollars a month, and I am drowning in student loans and insurance premiums. My avocado skin is pale from staring at Excel sheets under flickering fluorescent office lights."
+        },
+        {
+          "s": "Figur",
+          "t": "I check my retirement fund projection and feel a knot in my stomach. Thirty more years of this desk. My boss walks past my cubicle, drops a massive stack of tax files on my keyboard without looking up."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Work harder if you ever want a real office, Arthur."
+        },
+        {
+          "s": "Figur",
+          "t": "That cold whisper cuts deep. I adjust my glasses and stare at the glowing number on my forehead, wishing it would magically double."
+        },
+        {
+          "s": "Figur",
+          "t": "Suddenly, my office phone rings with an emergency call from corporate auditing."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Work harder if you ever want a real office, Arthur.",
+      "stats": [
+        {
+          "label": "Monthly Net",
+          "value": "4,500 $",
+          "bar": 0.35
+        },
+        {
+          "label": "Loans",
+          "value": "32,000 $",
+          "bar": 0.6
+        },
+        {
+          "label": "Savings",
+          "value": "1,200 $",
+          "bar": 0.25
+        }
+      ],
+      "character": "An avocado person with smooth green skin and a large seed-like bald spot on top, wearing a charcoal grey suit and wire-rimmed glasses. His forehead badge reads '4,500 $ / mo'.",
+      "visual": "An avocado office worker sitting at a cluttered desk surrounded by endless paperwork, cold blue computer monitor light, golden coin tucked under a stapler.",
+      "scenes": [
+        "Close up of an Excel spreadsheet with a hidden golden coin resting next to the keyboard.",
+        "Medium shot of the avocado person rubbing his temples in a sterile cubicle.",
+        "Over-the-shoulder shot of a massive stack of audit files dropped on a desk.",
+        "Wide shot of a massive corporate open-space office with rows of grey cubicles."
+      ],
+      "caption": "Is the corporate ladder worth the daily burnout? Tell me your story! #CorporateLife #OfficeHumor #Level3 #Avocado"
+    },
+    {
+      "n": 4,
+      "open_loop": "What document was hidden inside the locked glove compartment of the company van?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Crosses the street too slowly right in front of his delivery van and flips him off when he honks."
+      },
+      "name": "Benny, 29, Courier",
+      "badge": "6,800 $ / mo",
+      "verdict": "GOOD LIVING",
+      "story": "Level 4. Level 4: 6,800 dollars a month from non-stop overtime driving cargo across the city. My orange peel skin is weathered from wind, smog, and endless highway miles. My back aches every time I lift another heavy wooden crate. People think delivery is easy money until they carry a piano up four flights of stairs. You're late with this shipment again, Benny. The client yells, pointing at his wristwatch with an angry expression. I bite my tongue, swallow my pride, and tap my glowing forehead badge to prove my delivery status. My GPS suddenly reroutes me to an upscale gated community across town. You'll see that in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+800 $",
+        "after": "7,600 $ /"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 6,800 dollars a month from non-stop overtime driving cargo across the city. My orange peel skin is weathered from wind, smog, and endless highway miles."
+        },
+        {
+          "s": "Figur",
+          "t": "My back aches every time I lift another heavy wooden crate. People think delivery is easy money until they carry a piano up four flights of stairs."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You're late with this shipment again, Benny."
+        },
+        {
+          "s": "Figur",
+          "t": "The client yells, pointing at his wristwatch with an angry expression. I bite my tongue, swallow my pride, and tap my glowing forehead badge to prove my delivery status."
+        },
+        {
+          "s": "Figur",
+          "t": "My GPS suddenly reroutes me to an upscale gated community across town."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "You're late with this shipment again, Benny.",
+      "stats": [
+        {
+          "label": "Monthly Net",
+          "value": "6,800 $",
+          "bar": 0.5
+        },
+        {
+          "label": "Overtime",
+          "value": "50 hrs",
+          "bar": 0.7
+        },
+        {
+          "label": "Fuel Cost",
+          "value": "450 $",
+          "bar": 0.4
+        }
+      ],
+      "character": "A vibrant orange person with textured citrus skin, wearing a high-visibility safety vest and a baseball cap backward. His forehead badge shows '6,800 $ / mo'.",
+      "visual": "An orange delivery driver holding a heavy package next to a white van in a busy downtown alley, golden afternoon light, golden coin on the bumper.",
+      "scenes": [
+        "Close up of a delivery scanner device with a hidden golden coin sitting on the keypad.",
+        "Medium shot of the orange person wiping sweat from his forehead near the van doors.",
+        "Action shot of carrying a large cardboard box up concrete stairs.",
+        "Wide shot of a delivery van parked on a congested city street during rush hour."
+      ],
+      "caption": "Deliveries pay the bills, but at what cost? What's your side hustle? #DeliveryDriver #Hustle #Level4 #OrangePerson"
+    },
+    {
+      "n": 5,
+      "open_loop": "Who sent the anonymous email that exposed the quarterly marketing budget discrepancies?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Interrupts her pitch meeting with a sarcastic correction about spreadsheet formatting and smiles smugly."
+      },
+      "name": "Chloe, 31, Marketing Lead",
+      "badge": "11,500 $ / mo",
+      "verdict": "UPPER BRACKET",
+      "story": "Level 5. Level 5: 11,500 dollars a month, and my life is ruled by quarterly targets and endless stakeholder meetings. My broccoli crown is perfectly trimmed, but inside I am buzzing with pure anxiety. I own a sleek downtown condo, yet I haven't eaten a home-cooked meal in three weeks. You care more about slide decks than actual people, Chloe. My creative director sighs during the strategy review. That sentence hits me harder than any performance review ever could. I look down at my polished conference table, watching my glowing forehead badge reflect off the glass. My laptop screen suddenly flashes a high-priority calendar invite from the executive suite. You'll see that in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1,500 $",
+        "after": "13,000 $ "
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 11,500 dollars a month, and my life is ruled by quarterly targets and endless stakeholder meetings. My broccoli crown is perfectly trimmed, but inside I am buzzing with pure anxiety."
+        },
+        {
+          "s": "Figur",
+          "t": "I own a sleek downtown condo, yet I haven't eaten a home-cooked meal in three weeks."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You care more about slide decks than actual people, Chloe."
+        },
+        {
+          "s": "Figur",
+          "t": "My creative director sighs during the strategy review. That sentence hits me harder than any performance review ever could."
+        },
+        {
+          "s": "Figur",
+          "t": "I look down at my polished conference table, watching my glowing forehead badge reflect off the glass. My laptop screen suddenly flashes a high-priority calendar invite from the executive suite."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "You care more about slide decks than actual people, Chloe.",
+      "stats": [
+        {
+          "label": "Monthly Net",
+          "value": "11,500 $",
+          "bar": 0.68
+        },
+        {
+          "label": "Investments",
+          "value": "85,000 $",
+          "bar": 0.55
+        },
+        {
+          "label": "Work/Life",
+          "value": "10/90",
+          "bar": 0.15
+        }
+      ],
+      "character": "A broccoli person with a dense green floret head, wearing a tailored designer blazer and pearl earrings. Her forehead badge glows with '11,500 $ / mo'.",
+      "visual": "A broccoli marketing executive presenting metrics in a sleek glass boardroom, cinematic neon lighting, golden coin resting on the edge of a tablet.",
+      "scenes": [
+        "Close up of a tablet screen displaying marketing charts with a hidden golden coin on the bezel.",
+        "Medium shot of the broccoli person standing confidently in front of a presentation screen.",
+        "Detail shot of manicured hands tapping nervously on a designer conference table.",
+        "Wide shot of a high-rise corporate boardroom overlooking the glowing city skyline at dusk."
+      ],
+      "caption": "Is corporate success worth sacrificing your personal life? Let's talk about it! #CorporateClimb #Marketing #Level5 #Broccoli"
+    },
+    {
+      "n": 6,
+      "open_loop": "Why was the luxury sports car towed from the private driveway in the middle of the night?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Delivers his morning green juice with a cold stare and whispers a warning about living beyond his means."
+      },
+      "name": "Derek, 38, Senior Architect",
+      "badge": "19,000 $ / mo",
+      "verdict": "WEALTHY",
+      "story": "Level 6. Level 6: 19,000 dollars a month, and my custom-built architectural firm is the talk of the design district. My coconut shell is hard, polished, and impenetrable to outside critics. I drive a matte-black luxury coupe and vacation in the Maldives twice a year. People think money buys peace of mind, but my phone never stops ringing with demanding billionaire clients. Your design is too radical, we are dropping your firm. The developer barks over the speakerphone during a tense conference call. That arrogant threat shakes my confidence to the core. I stare at the glowing number on my forehead in my bathroom mirror, wondering if I am just a fraud. My banking app sends a sudden notification about a frozen asset account. You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "-4,000 $",
+        "after": "15,000 $ "
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 19,000 dollars a month, and my custom-built architectural firm is the talk of the design district. My coconut shell is hard, polished, and impenetrable to outside critics."
+        },
+        {
+          "s": "Figur",
+          "t": "I drive a matte-black luxury coupe and vacation in the Maldives twice a year. People think money buys peace of mind, but my phone never stops ringing with demanding billionaire clients."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Your design is too radical, we are dropping your firm."
+        },
+        {
+          "s": "Figur",
+          "t": "The developer barks over the speakerphone during a tense conference call. That arrogant threat shakes my confidence to the core."
+        },
+        {
+          "s": "Figur",
+          "t": "I stare at the glowing number on my forehead in my bathroom mirror, wondering if I am just a fraud. My banking app sends a sudden notification about a frozen asset account."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "Your design is too radical, we are dropping your firm.",
+      "stats": [
+        {
+          "label": "Monthly Net",
+          "value": "19,000 $",
+          "bar": 0.82
+        },
+        {
+          "label": "Real Estate",
+          "value": "1.4M $",
+          "bar": 0.75
+        },
+        {
+          "label": "Portfolio",
+          "value": "450k $",
+          "bar": 0.7
+        }
+      ],
+      "character": "A coconut person with a hard, textured brown shell head, wearing a minimalist black turtleneck and designer watch. His forehead badge glows with '19,000 $ / mo'.",
+      "visual": "A coconut architect standing in a ultra-modern concrete studio looking over architectural blueprints, dramatic moody lighting, hidden golden coin on a drafting compass.",
+      "scenes": [
+        "Close up of architectural blueprints with a hidden golden coin resting under a metal scale ruler.",
+        "Medium shot of the coconut person looking intensely at a smartphone screen displaying bad news.",
+        "Over-the-shoulder view of a sleek laptop showing a frozen bank account notification.",
+        "Wide shot of a minimalist glass-and-concrete architectural studio at night."
+      ],
+      "caption": "Does high income guarantee financial security, or just higher stakes? Comment your take! #Architect #Wealth #Level6 #Coconut"
+    },
+    {
+      "n": 7,
+      "open_loop": "Who owned the mysterious offshore holding company that bought out her entire enterprise overnight?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Tries to outbid her on a commercial penthouse property and sneers at her portfolio during the auction."
+      },
+      "name": "Elena, 42, Tech Founder",
+      "badge": "42,000 $ / mo",
+      "verdict": "TOP 1 PERCENT",
+      "story": "Level 7. Level 7: 42,000 dollars a month from my artificial intelligence startup, and I finally control the board. My dragonfruit skin is vibrant pink with exotic green scales, armored against every hostile takeover attempt in the valley. I fly private jets and dine with politicians. Yet, loneliness creeps in when the markets close and the penthouse goes silent. You sold out your original vision just to cash out early, Elena. A former co-founder yells at me during a brutal rooftop confrontation. That accusation stings like salt in an open wound. I sip vintage champagne and watch my glowing forehead badge pulse in the dark window glass. My private assistant hands me a sealed envelope marked confidential. You'll see that in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "+15,000 $",
+        "after": "57,000 $ "
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 42,000 dollars a month from my artificial intelligence startup, and I finally control the board. My dragonfruit skin is vibrant pink with exotic green scales, armored against every hostile takeover attempt in the valley."
+        },
+        {
+          "s": "Figur",
+          "t": "I fly private jets and dine with politicians. Yet, loneliness creeps in when the markets close and the penthouse goes silent."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You sold out your original vision just to cash out early, Elena."
+        },
+        {
+          "s": "Figur",
+          "t": "A former co-founder yells at me during a brutal rooftop confrontation. That accusation stings like salt in an open wound."
+        },
+        {
+          "s": "Figur",
+          "t": "I sip vintage champagne and watch my glowing forehead badge pulse in the dark window glass. My private assistant hands me a sealed envelope marked confidential."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "You sold out your original vision just to cash out early, Elena.",
+      "stats": [
+        {
+          "label": "Monthly Net",
+          "value": "42,000 $",
+          "bar": 0.94
+        },
+        {
+          "label": "Company Val",
+          "value": "28M $",
+          "bar": 0.9
+        },
+        {
+          "label": "Jet Hours",
+          "value": "120 hrs",
+          "bar": 0.85
+        }
+      ],
+      "character": "A striking dragonfruit person with magenta textured skin and green leafy tips on her head, wearing an elegant white silk blouse and diamond earrings. Her forehead badge glows '42,000 $ / mo'.",
+      "visual": "A dragonfruit tech founder standing on a high-rise luxury rooftop terrace at twilight overlooking the city, glamorous cinematic lighting, hidden golden coin on a champagne glass rim.",
+      "scenes": [
+        "Close up of a crystal champagne flute with a hidden golden coin resting right beside the base.",
+        "Medium shot of the dragonfruit person holding a confidential black envelope with a stern expression.",
+        "Over-the-shoulder view of a massive glass penthouse overlooking the illuminated city skyline.",
+        "Wide shot of a sleek corporate rooftop helipad at sunset."
+      ],
+      "caption": "When you reach the top, who can you actually trust? Let me know below! #TechFounder #Success #Level8Soon #Dragonfruit"
+    },
+    {
+      "n": 8,
+      "open_loop": "Which topic of our society should we expose in the brand new series next week?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Doesn't recognize him in his disguise at the diner counter and accidentally spills coffee on his expensive cashmere sweater."
+      },
+      "name": "Victor, 51, Venture Capitalist",
+      "badge": "1,250,000 $ / mo",
+      "verdict": "THE 0.1 PERCENT",
+      "story": "Level 8. Level 8: 1.25 million dollars a month, and I own the entire financial ecosystem this city runs on. My golden pineapple crown gleams under the penthouse chandelier, every leaf perfectly symmetrical. I fund the startups, control the venture capital funds, and pull the strings behind every glowing forehead badge in the district. You thought you earned your success independently, but every single one of you worked for my portfolio. I whisper this to the empty boardroom while reviewing the district acquisition files. That absolute truth connects every single story from the dishwasher to the tech founder. I look into the panoramic glass wall, watching the entire city glow beneath my feet. Which topic of our society should we expose in the brand new series next week?",
+      "gender": "m",
+      "twist": {
+        "delta": "+500,000 $",
+        "after": "1,750,000"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 1.25 million dollars a month, and I own the entire financial ecosystem this city runs on. My golden pineapple crown gleams under the penthouse chandelier, every leaf perfectly symmetrical."
+        },
+        {
+          "s": "Figur",
+          "t": "I fund the startups, control the venture capital funds, and pull the strings behind every glowing forehead badge in the district."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You thought you earned your success independently, but every single one of you worked for my portfolio."
+        },
+        {
+          "s": "Figur",
+          "t": "I whisper this to the empty boardroom while reviewing the district acquisition files. That absolute truth connects every single story from the dishwasher to the tech founder."
+        },
+        {
+          "s": "Figur",
+          "t": "I look into the panoramic glass wall, watching the entire city glow beneath my feet."
+        },
+        {
+          "s": "Figur",
+          "t": "Which topic of our society should we expose in the brand new series next week?"
+        }
+      ],
+      "quote": "You thought you earned your success independently, but every single one of you worked for my portfolio.",
+      "stats": [
+        {
+          "label": "Monthly Net",
+          "value": "1.25M $",
+          "bar": 1.0
+        },
+        {
+          "label": "Portfolio",
+          "value": "450M $",
+          "bar": 1.0
+        },
+        {
+          "label": "Influence",
+          "value": "Absolute",
+          "bar": 1.0
+        }
+      ],
+      "character": "A distinguished pineapple person with a golden spiky crown head, wearing a bespoke navy blue tailored suit and gold cufflinks. His forehead badge glows with '1,250,000 $ / mo'.",
+      "visual": "A pineapple investor standing in a ultra-luxurious penthouse overlooking the entire glowing metropolis at night, dramatic cinematic golden hour lighting, hidden golden coin on a marble desk.",
+      "scenes": [
+        "Close up of a gold fountain pen resting on a dark marble desk with a hidden golden coin nearby.",
+        "Medium shot of the pineapple person looking over district financial charts with a confident smile.",
+        "Over-the-shoulder view of panoramic floor-to-ceiling windows showing the glittering city grid.",
+        "Wide shot of a magnificent executive penthouse suite filled with modern art and luxury furniture."
+      ],
+      "caption": "The final level changes everything you thought you knew about money and power. What topic should we tackle next? #VentureCapital #Top1Percent #Level8 #Pineapple"
+    }
+  ],
+  "lang": "en",
+  "topic": "Monthly Salary and Career Status",
+  "frame": "frucht"
+}

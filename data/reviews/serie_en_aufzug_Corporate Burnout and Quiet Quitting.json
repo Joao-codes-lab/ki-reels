@@ -1,0 +1,53 @@
+{
+  "best_score": 73,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 8,
+        "story": 6,
+        "identifikation": 9,
+        "verbindungen": 7,
+        "sog": 8,
+        "wut": 7,
+        "merkfaehigkeit": 8,
+        "sprache": 5
+      },
+      "gesamt": 73,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ändere den Satz 'I drink instant coffee with tap water and stare at the wall for hours before sleep' in 'Leitungswasser und kalter Instant-Kaffee. Mehr ist nicht drin.'"
+        },
+        {
+          "n": 2,
+          "fix": "Kürze den Zähl-Satz auf den Punkt: '48 Tabellen am Tag. Das linke Auge zuckt permanent.'"
+        },
+        {
+          "n": 3,
+          "fix": "Lass das Corporate-Sprech weg. Sag direkt: '72k im Jahr und der Puls rast im Stundentakt.'"
+        },
+        {
+          "n": 4,
+          "fix": "Direkter Einstieg ohne Füllwörter: '95.000 Dollar und jede Woche Tränen im Treppenhaus.'"
+        },
+        {
+          "n": 5,
+          "fix": "Schärfe den Konflikt: 'Neun Stunden Zoom mit schwarzen Bildschirmen. Meine Tochter fragt, ob mein Laptop festgeklebt ist.'"
+        },
+        {
+          "n": 6,
+          "fix": "Erhöhe den Druck: '165k dafür, dass ich nach unten trete und nach oben lächle.'"
+        },
+        {
+          "n": 7,
+          "fix": "Prägnanter formulieren: 'Porsche in der Tiefgarage, Magengeschwür im Büro.'"
+        },
+        {
+          "n": 8,
+          "fix": "Stärkerer Schlusspunkt: 'Null Gehalt. Dafür zum ersten Mal seit 30 Jahren wieder atmen.'"
+        }
+      ],
+      "fazit": "Starke visuelle und thematische Grundidee mit hohem Suchtfaktor, aber die Skripte klingen zu sehr nach übersetztem Englisch und tragen zu dick auf. Schneller, härter, direkter sprechen - weg von den langen Sätzen, rein in die TikTok-Realität."
+    }
+  ]
+}

@@ -1,0 +1,704 @@
+{
+  "title": "The 8 Levels of Burnout",
+  "house": "a gray concrete apartment building in downtown Chicago",
+  "catchphrase": "Just keep the camera on.",
+  "links": [
+    "Level 1 buys coffee from the barista in Level 4 every morning.",
+    "Level 3 reviews the expense report of Level 6.",
+    "Level 5 shares an elevator with Level 2 on Tuesday nights.",
+    "Level 7 answers emails from the boss in Level 8."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "What was written on the final eviction notice taped to the glass door?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Refuses to accept her expired coupon and laughs at her empty card."
+      },
+      "name": "Marcus, 24, Night Shift Packer",
+      "badge": "14h shifts",
+      "verdict": "TOTAL EXHAUSTION",
+      "story": "The 8 Levels of Corporate Burnout. Level 1. 14 hours on my feet for 11 dollars an hour. My ankles are completely numb. I dropped scanner number four on the concrete floor, and my supervisor just stared at me. You're simply not working fast enough. I have zero dollars left for groceries this week. My rent went up to 1,250 dollars, and my phone screen is shattered into a spiderweb. I drink instant coffee with tap water and stare at the wall for hours before sleep. Then the manager walked over with a clipboard in his hand. What was written onด the final eviction notice taped to the glass door? You'll see that in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-150 $",
+        "after": "0 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Levels of Corporate Burnout. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "14 hours on my feet for 11 dollars an hour. My ankles are completely numb."
+        },
+        {
+          "s": "Figur",
+          "t": "I dropped scanner number four on the concrete floor, and my supervisor just stared at me."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You're simply not working fast enough."
+        },
+        {
+          "s": "Figur",
+          "t": "I have zero dollars left for groceries this week."
+        },
+        {
+          "s": "Figur",
+          "t": "My rent went up to 1,250 dollars, and my phone screen is shattered into a spiderweb."
+        },
+        {
+          "s": "Figur",
+          "t": "I drink instant coffee with tap water and stare at the wall for hours before sleep."
+        },
+        {
+          "s": "Figur",
+          "t": "Then the manager walked over with a clipboard in his hand."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What was written onด the final eviction notice taped to the glass door?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You're simply not working fast enough.",
+      "stats": [
+        {
+          "label": "Sleep",
+          "value": "3.5 hrs",
+          "bar": 0.1
+        },
+        {
+          "label": "Bank",
+          "value": "12 $",
+          "bar": 0.05
+        },
+        {
+          "label": "Stress",
+          "value": "99 %",
+          "bar": 0.99
+        }
+      ],
+      "character": "Simple round cream-white ball head without a nose, tiny dot eyes, exhausted drooping eyebrows. Messy black hair, faded blue warehouse vest over a gray hoodie, holding a broken smartphone. A tiny gold coin rests on the warehouse shelf.",
+      "visual": "Exhausted young man in a gray hoodie staring blankly at a concrete warehouse floor under flickering fluorescent lights, gripping a broken scanner, subtle gold coin on a metal shelf in the background.",
+      "scenes": [
+        "Close up of red, bloodshot eyes staring at a glowing phone screen at 3 AM.",
+        "Wide shot of a massive, dark fulfillment center with tiny worker silhouettes.",
+        "Detail shot of trembling hands holding a plastic cup of cheap instant coffee.",
+        "Over-the-shoulder view of a negative bank account balance on a cracked display."
+      ],
+      "caption": "How many hours do you work before your eyes burn? Drop your current shift below. #burnout #nightshift #exhausted #corporate #worklife"
+    },
+    {
+      "n": 2,
+      "open_loop": "Who sent the mysterious calendar invite for midnight?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Rejects her vacation request with a red pen stroke."
+      },
+      "name": "Chloe, 29, Junior Data Entry",
+      "badge": "48 emails/hr",
+      "verdict": "QUIET QUITTING",
+      "story": "The 8 Levels of Corporate Burnout. Level 2. 48 spreadsheets a day while my left eye twitches constantly. I stopped answering Slack messages after 5 PM sharp. My manager walked past my cubicle and slammed a heavy binder on the desk. Just do it over from scratch. I eat cold pasta standing up in the tiny shared kitchen. My student loan payment is 450 dollars a month, and my landlord is raising rent to 1,600 dollars. I have two browser tabs open for job applications hidden behind Excel. Then my Outlook notification sound chimed in an empty office. Who sent the mysterious calendar invite for midnight? You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+0 $",
+        "after": "450 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Levels of Corporate Burnout. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "48 spreadsheets a day while my left eye twitches constantly."
+        },
+        {
+          "s": "Figur",
+          "t": "I stopped answering Slack messages after 5 PM sharp."
+        },
+        {
+          "s": "Figur",
+          "t": "My manager walked past my cubicle and slammed a heavy binder on the desk."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Just do it over from scratch."
+        },
+        {
+          "s": "Figur",
+          "t": "I eat cold pasta standing up in the tiny shared kitchen."
+        },
+        {
+          "s": "Figur",
+          "t": "My student loan payment is 450 dollars a month, and my landlord is raising rent to 1,600 dollars."
+        },
+        {
+          "s": "Figur",
+          "t": "I have two browser tabs open for job applications hidden behind Excel."
+        },
+        {
+          "s": "Figur",
+          "t": "Then my Outlook notification sound chimed in an empty office."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Who sent the mysterious calendar invite for midnight?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Just do it over from scratch.",
+      "stats": [
+        {
+          "label": "Sleep",
+          "value": "5.0 hrs",
+          "bar": 0.25
+        },
+        {
+          "label": "Bank",
+          "value": "450 $",
+          "bar": 0.15
+        },
+        {
+          "label": "Stress",
+          "value": "85 %",
+          "bar": 0.85
+        }
+      ],
+      "character": "Simple round cream-white ball head without a nose, tiny dot eyes, skeptical arched eyebrows. Bobbed brown hair, oversized beige cardigan, wearing round wire-rim glasses. A small gold coin is tucked under the keyboard.",
+      "visual": "Young woman in a beige cardigan staring blankly at a glowing dual-monitor setup in a dark office cubicle, twitching left eye, subtle gold coin resting beside the mousepad.",
+      "scenes": [
+        "Close up of an eye twitching near a glowing computer monitor at dusk.",
+        "Wide shot of endless empty gray cubicles under buzzing fluorescent lamps.",
+        "Detail shot of a cheap plastic lunch container with cold noodles.",
+        "Over-the-shoulder shot of hiding a job board tab behind a giant spreadsheet."
+      ],
+      "caption": "At what exact minute do you close your laptop and ignore all pings? Let's talk about boundaries. #quietquitting #corporatelife #officestress #burnout #workplace"
+    },
+    {
+      "n": 3,
+      "open_loop": "What did the HR director whisper into the phone?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Cuts his department budget by half during the quarterly review."
+      },
+      "name": "David, 34, Mid-Level Analyst",
+      "badge": "72k / year",
+      "verdict": "MID-CAREER TRAP",
+      "story": "The 8 Levels of Corporate Burnout. Level 3. 72,000 dollars a year to stare at pivot tables until my chest tightens. My doctor asked me why my resting heart rate is 110 beats per minute. You need to learn how to manage your stress better. I pay 2,100 dollars rent for a one-bedroom apartment with zero natural light. My team lead dumped three extra client decks on my desk right before the weekend. I haven't spoken to my brother in four months because I am always too drained. Then my office phone started vibrating across the wooden desk. What did the HR director whisper into the phone? You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-300 $",
+        "after": "1,200 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Levels of Corporate Burnout. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "72,000 dollars a year to stare at pivot tables until my chest tightens."
+        },
+        {
+          "s": "Figur",
+          "t": "My doctor asked me why my resting heart rate is 110 beats per minute."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You need to learn how to manage your stress better."
+        },
+        {
+          "s": "Figur",
+          "t": "I pay 2,100 dollars rent for a one-bedroom apartment with zero natural light."
+        },
+        {
+          "s": "Figur",
+          "t": "My team lead dumped three extra client decks on my desk right before the weekend."
+        },
+        {
+          "s": "Figur",
+          "t": "I haven't spoken to my brother in four months because I am always too drained."
+        },
+        {
+          "s": "Figur",
+          "t": "Then my office phone started vibrating across the wooden desk."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What did the HR director whisper into the phone?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "You need to learn how to manage your stress better.",
+      "stats": [
+        {
+          "label": "Sleep",
+          "value": "6.0 hrs",
+          "bar": 0.4
+        },
+        {
+          "label": "Bank",
+          "value": "1,500 $",
+          "bar": 0.3
+        },
+        {
+          "label": "Stress",
+          "value": "90 %",
+          "bar": 0.9
+        }
+      ],
+      "character": "Simple round cream-white ball head without a nose, tiny dot eyes, strained horizontal eyebrows. Short neat blonde hair, stiff white button-down shirt with a loosened blue tie. A tiny gold coin sits on the edge of the coffee mug.",
+      "visual": "Man in a white shirt and loosened tie pressing two fingers against his temples in a glass-walled meeting room, looking stressed at a laptop screen, subtle gold coin on the wooden table.",
+      "scenes": [
+        "Close up of fingers rubbing tired eyes in front of glowing financial charts.",
+        "Wide shot of walking through a sterile downtown corporate lobby at night.",
+        "Detail shot of a digital smartwatch displaying a high heart rate alert.",
+        "Over-the-shoulder view of an unread pile of 200 work emails."
+      ],
+      "caption": "Does your chest tighten every Sunday evening when you think of Monday morning? Tell me your story. #corporateburnout #analyst #workstress #career #mentalhealth"
+    },
+    {
+      "n": 4,
+      "open_loop": "Why was the entire marketing department locked out of their accounts?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Steals her campaign idea and presents it as his own innovation."
+      },
+      "name": "Sarah, 31, Senior Copywriter",
+      "badge": "95k / year",
+      "verdict": "CREATIVE DEAD END",
+      "story": "The 8 Levels of Corporate Burnout. Level 4. 95,000 dollars a year and I cry in the stairwell twice every single week. I wrote forty versions of the same banner ad because the client changed their mind again. We value your passion, but this needs more pop. My therapy sessions cost 180 dollars an hour just to talk about my boss. I live in a 2,500 dollar apartment where I only sleep on weekends. My friends invited me to dinner, but I canceled because I couldn't lift my arms. Then the office printer started flashing red with an error message. Why was the entire marketing department locked out of their accounts? You'll see that in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "-500 $",
+        "after": "2,400 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Levels of Corporate Burnout. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "95,000 dollars a year and I cry in the stairwell twice every single week."
+        },
+        {
+          "s": "Figur",
+          "t": "I wrote forty versions of the same banner ad because the client changed their mind again."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "We value your passion, but this needs more pop."
+        },
+        {
+          "s": "Figur",
+          "t": "My therapy sessions cost 180 dollars an hour just to talk about my boss."
+        },
+        {
+          "s": "Figur",
+          "t": "I live in a 2,500 dollar apartment where I only sleep on weekends."
+        },
+        {
+          "s": "Figur",
+          "t": "My friends invited me to dinner, but I canceled because I couldn't lift my arms."
+        },
+        {
+          "s": "Figur",
+          "t": "Then the office printer started flashing red with an error message."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Why was the entire marketing department locked out of their accounts?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "We value your passion, but this needs more pop.",
+      "stats": [
+        {
+          "label": "Sleep",
+          "value": "5.5 hrs",
+          "bar": 0.3
+        },
+        {
+          "label": "Bank",
+          "value": "2,900 $",
+          "bar": 0.45
+        },
+        {
+          "label": "Stress",
+          "value": "92 %",
+          "bar": 0.92
+        }
+      ],
+      "character": "Simple round cream-white ball head without a nose, tiny dot eyes, worried curved eyebrows. Curly red hair tied back with a pencil, wearing a black turtleneck sweater and silver hoop earrings. A gold coin is stuck inside an empty coffee cup.",
+      "visual": "Woman in a black turtleneck staring blankly at a blank document on a sleek laptop screen in a modern design agency, subtle gold coin resting on a sketchbook.",
+      "scenes": [
+        "Close up of a tear dropping onto a mechanical keyboard in a quiet office.",
+        "Wide shot of sitting alone on concrete steps in a dim concrete stairwell.",
+        "Detail shot of a red therapy couch with a crumpled tissue box.",
+        "Over-the-shoulder view of deleting thirty draft emails in frustration."
+      ],
+      "caption": "Have you ever cried at your office desk and pretended you just had something in your eye? Let's share. #creativeburnout #copywriter #adagency #mentalhealth #corporate"
+    },
+    {
+      "n": 5,
+      "open_loop": "What emergency document was hidden inside the locked desk drawer?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Accuses him of wasting company time when taking a mandatory bathroom break."
+      },
+      "name": "Tom, 38, Project Manager",
+      "badge": "125k / year",
+      "verdict": "CONSTANT MEETINGS",
+      "story": "The 8 Levels of Corporate Burnout. Level 5. 125,000 dollars a year, and I spend nine hours a day in Zoom rooms talking to black boxes. My daughter asked me why my laptop is glued to my hands during dinner. You are the glue that holds this entire division together, Tom. My mortgage is 3,200 dollars, and my property taxes just went up another notch. I haven't slept through the night in three years without taking melatonin. My calendar is color-coded so tightly there is literally no white space left. Then my phone buzzed with an urgent text from the CEO. What emergency document was hidden inside the locked desk drawer? You'll see that in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1,000 $",
+        "after": "5,200 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Levels of Corporate Burnout. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "125,000 dollars a year, and I spend nine hours a day in Zoom rooms talking to black boxes."
+        },
+        {
+          "s": "Figur",
+          "t": "My daughter asked me why my laptop is glued to my hands during dinner."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You are the glue that holds this entire division together, Tom."
+        },
+        {
+          "s": "Figur",
+          "t": "My mortgage is 3,200 dollars, and my property taxes just went up another notch."
+        },
+        {
+          "s": "Figur",
+          "t": "I haven't slept through the night in three years without taking melatonin."
+        },
+        {
+          "s": "Figur",
+          "t": "My calendar is color-coded so tightly there is literally no white space left."
+        },
+        {
+          "s": "Figur",
+          "t": "Then my phone buzzed with an urgent text from the CEO."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What emergency document was hidden inside the locked desk drawer?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "You are the glue that holds this entire division together, Tom.",
+      "stats": [
+        {
+          "label": "Sleep",
+          "value": "5.0 hrs",
+          "bar": 0.25
+        },
+        {
+          "label": "Bank",
+          "value": "4,200 $",
+          "bar": 0.55
+        },
+        {
+          "label": "Stress",
+          "value": "95 %",
+          "bar": 0.95
+        }
+      ],
+      "character": "Simple round cream-white ball head without a nose, tiny dot eyes, stressed wavy eyebrows. Short thinning graying hair, navy blue blazer over an open-collared blue shirt, wearing a silver smart watch. A gold coin is on the phone charging pad.",
+      "visual": "Middle-aged man in a navy blazer sitting at a glass dining table at night surrounded by glowing screens and empty coffee mugs, rubbing his forehead, subtle gold coin next to a smartphone.",
+      "scenes": [
+        "Close up of a laptop screen showing a grid of twelve video conference participants.",
+        "Wide shot of an empty suburban kitchen at 2 AM with a single glowing light.",
+        "Detail shot of a digital pill bottle on a wooden nightstand.",
+        "Over-the-shoulder view of a chaotic calendar app packed with back-to-back meetings."
+      ],
+      "caption": "How many status meetings could be an email instead? Drop your meeting count below. #projectmanager #corporatelife #burnout #meetings #workplace"
+    },
+    {
+      "n": 6,
+      "open_loop": "Whose name was crossed out on the restructuring org chart?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Ignores all data requests and submits intentionally flawed reports."
+      },
+      "name": "Elena, 42, Director of Operations",
+      "badge": "165k / year",
+      "verdict": "THE MIDDLE CRUSH",
+      "story": "The 8 Levels of Corporate Burnout. Level 6. 165,000 dollars a year, and I am the punching bag for both the board and the floor. My husband stopped asking about my day because I just sigh and stare at the television. We need you to lay off twenty percent of your team by Friday afternoon. My private school tuition for my kids is 2,400 dollars a month. I take sleeping pills just to get four hours of restless brain activity. My phone rings during Sunday family brunch every single week without fail. Then my printer spat out a confidential twenty-page restructuring memo. Whose name was crossed out on the restructuring org chart? You'll see that in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "-2,000 $",
+        "after": "6,100 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Levels of Corporate Burnout. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "165,000 dollars a year, and I am the punching bag for both the board and the floor."
+        },
+        {
+          "s": "Figur",
+          "t": "My husband stopped asking about my day because I just sigh and stare at the television."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "We need you to lay off twenty percent of your team by Friday afternoon."
+        },
+        {
+          "s": "Figur",
+          "t": "My private school tuition for my kids is 2,400 dollars a month."
+        },
+        {
+          "s": "Figur",
+          "t": "I take sleeping pills just to get four hours of restless brain activity."
+        },
+        {
+          "s": "Figur",
+          "t": "My phone rings during Sunday family brunch every single week without fail."
+        },
+        {
+          "s": "Figur",
+          "t": "Then my printer spat out a confidential twenty-page restructuring memo."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Whose name was crossed out on the restructuring org chart?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "We need you to lay off twenty percent of your team by Friday afternoon.",
+      "stats": [
+        {
+          "label": "Sleep",
+          "value": "4.5 hrs",
+          "bar": 0.2
+        },
+        {
+          "label": "Bank",
+          "value": "8,100 $",
+          "bar": 0.7
+        },
+        {
+          "label": "Stress",
+          "value": "98 %",
+          "bar": 0.98
+        }
+      ],
+      "character": "Simple round cream-white ball head without a nose, tiny dot eyes, severe downward eyebrows. Sharp black bob haircut, tailored charcoal gray blazer, wearing pearl stud earrings. A gold coin rests on the corner of a leather desk blotter.",
+      "visual": "Woman in a sharp charcoal blazer standing beside a panoramic office window overlooking a city skyline at dusk, holding a printed document with trembling fingers, subtle gold coin on the windowsill.",
+      "scenes": [
+        "Close up of fingers holding a red pen over a printed spreadsheet of employee names.",
+        "Wide shot of pacing alone in a quiet, high-rise corner office at night.",
+        "Detail shot of a smartphone screen displaying a missed call from the executive chairman.",
+        "Over-the-shoulder view of signing a termination letter in silence."
+      ],
+      "caption": "Have you ever had to deliver life-altering bad news because upper management demanded it? Let's discuss. #director #layoffs #corporatepolitics #burnout #management"
+    },
+    {
+      "n": 7,
+      "open_loop": "What did the board chairman whisper before locking the boardroom door?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Misses three critical project deadlines and blames her leadership."
+      },
+      "name": "Marcus V., 49, VP of Strategy",
+      "badge": "240k / stock",
+      "verdict": "GOLDEN HANDCUFFS",
+      "story": "The 8 Levels of Corporate Burnout. Level 7. 240,000 dollars a year plus stock options, and I haven't felt joy since my promotion in 2019. My Porsche sits in the underground garage while I sleep on a cot in my corner office. You're too valuable in this chair to even think about stepping down now, Marcus. My alimony payments are 5,000 dollars a month, and my mortgage on the penthouse is 7,500 dollars. I take blood pressure medication with lukewarm tap water from the executive washroom. My entire life is filtered through quarterly earnings reports and stock tickers. Then the board chairman walked in without knocking and locked the heavy oak door. What did the board chairman whisper before locking the boardroom door? You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+15,000 $",
+        "after": "35,000 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Levels of Corporate Burnout. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "240,000 dollars a year plus stock options, and I haven't felt joy since my promotion in 2019."
+        },
+        {
+          "s": "Figur",
+          "t": "My Porsche sits in the underground garage while I sleep on a cot in my corner office."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You're too valuable in this chair to even think about stepping down now, Marcus."
+        },
+        {
+          "s": "Figur",
+          "t": "My alimony payments are 5,000 dollars a month, and my mortgage on the penthouse is 7,500 dollars."
+        },
+        {
+          "s": "Figur",
+          "t": "I take blood pressure medication with lukewarm tap water from the executive washroom."
+        },
+        {
+          "s": "Figur",
+          "t": "My entire life is filtered through quarterly earnings reports and stock tickers."
+        },
+        {
+          "s": "Figur",
+          "t": "Then the board chairman walked in without knocking and locked the heavy oak door."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What did the board chairman whisper before locking the boardroom door?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "You're too valuable in this chair to even think about stepping down now, Marcus.",
+      "stats": [
+        {
+          "label": "Sleep",
+          "value": "4.0 hrs",
+          "bar": 0.15
+        },
+        {
+          "label": "Bank",
+          "value": "20k $",
+          "bar": 0.85
+        },
+        {
+          "label": "Stress",
+          "value": "99 %",
+          "bar": 0.99
+        }
+      ],
+      "character": "Simple round cream-white ball head without a nose, tiny dot eyes, deep worry lines on forehead. Slicked-back gray hair, expensive custom navy pinstripe suit, gold cufflinks. A gold coin rests on a crystal whisky tumbler.",
+      "visual": "Middle-aged executive in a custom pinstripe suit standing in front of floor-to-ceiling windows of a high-rise corner office, holding a glass of amber liquid, subtle gold coin on the marble desk.",
+      "scenes": [
+        "Close up of an expensive luxury watch ticking against a bare wrist at 4 AM.",
+        "Wide shot of a massive, dark executive boardroom with an empty leather chair.",
+        "Detail shot of prescription pill bottles next to a stack of financial portfolios.",
+        "Over-the-shoulder view of a stock portfolio app showing millions in red numbers."
+      ],
+      "caption": "Is a high salary worth losing your health, family, and peace of mind? Drop your thoughts below. #executive #burnout #wealth #corporategreed #success"
+    },
+    {
+      "n": 8,
+      "open_loop": "What was actually written inside the final envelope left on the empty desk?",
+      "gegenspieler": {
+        "level": 0,
+        "tat": "None. He walked out and left the entire building behind."
+      },
+      "name": "Arthur, 58, Former CEO",
+      "badge": "0 $ / FREE",
+      "verdict": "WALKED AWAY",
+      "story": "The 8 Levels of Corporate Burnout. Level 8. Zero dollars salary because I walked out of the glass tower and left my phone in the elevator. I am sitting on a wooden park bench with a simple cup of black coffee watching the pigeons. Congratulations, Arthur, you finally remembered what living actually feels like. My bank accounts are frozen, my penthouse is sold, and I have one small suitcase. I haven't checked my corporate email in forty-eight hours, and my chest pain completely vanished. The sun is shining directly on my face for the first time in thirty years of meetings. What was actually written inside the final envelope left on the empty desk? Which topic should we explore in our next series?",
+      "gender": "m",
+      "twist": {
+        "delta": "FREEDOM",
+        "after": "0 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Levels of Corporate Burnout. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Zero dollars salary because I walked out of the glass tower and left my phone in the elevator."
+        },
+        {
+          "s": "Figur",
+          "t": "I am sitting on a wooden park bench with a simple cup of black coffee watching the pigeons."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Congratulations, Arthur, you finally remembered what living actually feels like."
+        },
+        {
+          "s": "Figur",
+          "t": "My bank accounts are frozen, my penthouse is sold, and I have one small suitcase."
+        },
+        {
+          "s": "Figur",
+          "t": "I haven't checked my corporate email in forty-eight hours, and my chest pain completely vanished."
+        },
+        {
+          "s": "Figur",
+          "t": "The sun is shining directly on my face for the first time in thirty years of meetings."
+        },
+        {
+          "s": "Figur",
+          "t": "What was actually written inside the final envelope left on the empty desk?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Which topic should we explore in our next series?"
+        }
+      ],
+      "quote": "Congratulations, Arthur, you finally remembered what living actually feels like.",
+      "stats": [
+        {
+          "label": "Sleep",
+          "value": "8.5 hrs",
+          "bar": 0.95
+        },
+        {
+          "label": "Bank",
+          "value": "0 $",
+          "bar": 0.01
+        },
+        {
+          "label": "Stress",
+          "value": "0 %",
+          "bar": 0.0
+        }
+      ],
+      "character": "Simple round cream-white ball head without a nose, tiny dot eyes, relaxed smiling eyebrows. Pure white hair, simple beige cotton sweater, comfortable sneakers, holding a plain paper coffee cup. A gold coin rests on the wooden park bench slat.",
+      "visual": "Older man in a simple beige sweater sitting on a sunlit wooden park bench, smiling peacefully while holding a paper coffee cup, green trees in the background, subtle gold coin on the armrest.",
+      "scenes": [
+        "Close up of relaxed eyes closed peacefully under warm morning sunlight.",
+        "Wide shot of a peaceful city park with green grass and distant skyscrapers.",
+        "Detail shot of an expensive smartphone left facedown on a park bench.",
+        "Over-the-shoulder view of a single small leather suitcase sitting on the grass."
+      ],
+      "caption": "Would you walk away from everything tomorrow if it meant getting your peace back? Let me know below! #burnoutrecovery #freedom #corporateexit #mindfulness #lifechoices"
+    }
+  ],
+  "lang": "en",
+  "topic": "Corporate Burnout and Quiet Quitting",
+  "frame": "aufzug"
+}
