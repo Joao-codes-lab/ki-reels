@@ -17,11 +17,11 @@ Dauer insgesamt: ca. 45 Minuten.
 
 ## 3. Accounts pro Sprache (je 10 Min)
 Für **Deutsch** und **Englisch** jeweils:
-1. Neue Gmail-Adresse (z. B. kilevel.de@gmail.com / ailevels.en@gmail.com)
+1. Neue Gmail-Adresse (z. B. weristlevel8@gmail.com / whoislevel8@gmail.com)
 2. **TikTok**-Account mit dieser Mail (persönliches Konto lassen, das braucht man später für Creator Rewards)
 3. **Instagram**-Account mit dieser Mail → Einstellungen → **Professionelles Konto → Creator**
-4. Namensvorschläge: DE „KI Level“ (@ki.level), EN „AI Levels“ (@ai.levels). Alternativen sind ok.
-5. Bio: DE „Von Level 1 zu Level 8 mit KI 🤖 | Täglich neue KI-Tipps“, EN „From level 1 to level 8 with AI 🤖 | Daily AI tips“
+4. Nutzernamen (entschieden 2026-10-24): DE **@wer.ist.level8** (Anzeigename „Wer ist Level 8? 🍎“), EN **@who.is.level8** („Who is Level 8? 🍎“). Reserve gegen Kopierer: @weristlevel8 / @whoislevel8.
+5. Bio: DE „Welches Level bist du? 👇 | Jeden Tag ein neues Level“, EN „What level are you? 👇 | A new level every day“
 
 Tipp: Accounts nicht alle in derselben Minute vom selben Handy anlegen, sondern über den Tag verteilen. Ein paar Videos von Hand anschauen und liken, bevor das erste Video kommt.
 
