@@ -1,6 +1,8 @@
 name: Werkzeuge
 
 on:
+  schedule:
+    - cron: "0 21 * * *"  # Nacht-Wettbewerbsanalyse: neueste Reels der Vorbilder
   workflow_dispatch:
     inputs:
       task:
@@ -23,6 +25,9 @@ jobs:
     env:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+      TASK: ${{ inputs.task || 'analyse' }}
+      URLS: ${{ inputs.urls || vars.VORBILDER || 'https://www.instagram.com/_8_levels/ https://www.instagram.com/simpsonsvorhersage.n/ https://www.instagram.com/herr.amorim/' }}
+      MAX: ${{ inputs.max || '3' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -33,9 +38,9 @@ jobs:
           sudo apt-get update -q && sudo apt-get install -y -q ffmpeg
           pip install -r requirements.txt yt-dlp faster-whisper
       - name: Reels analysieren
-        if: ${{ inputs.task != 'stimmen' && inputs.urls != '' }}
+        if: ${{ env.TASK != 'stimmen' && env.URLS != '' }}
         continue-on-error: true
-        run: python tools/analyze_reels.py ${{ inputs.urls }} --max ${{ inputs.max }} --out /tmp/research
+        run: python tools/analyze_reels.py $URLS --max $MAX --out /tmp/research
       - name: Stimmproben
         if: ${{ inputs.task == 'stimmen' || inputs.task == 'beides' }}
         continue-on-error: true

@@ -4,6 +4,7 @@ on:
   schedule:
     - cron: "0 5 * * *"   # täglich 05:00 UTC (06:00/07:00 deutscher Zeit)
     - cron: "0 12 * * *"  # Nachholversuch, falls der Morgenlauf gescheitert ist
+    - cron: "30 22 * * *" # Nacht-Battle: 5 neue Pilotfolgen (nicht gepostet), João sieht sie morgens
   workflow_dispatch:
     inputs:
       count:
@@ -31,7 +32,7 @@ concurrency: daily
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 180
     env:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
@@ -40,7 +41,7 @@ jobs:
       LANGS: ${{ inputs.langs || vars.LANGS || 'de,en' }}
       VIDEOS_PER_RUN: ${{ inputs.count || vars.VIDEOS_PER_RUN || '1' }}
       PARTS: ${{ inputs.parts || '1' }}
-      MODE: ${{ inputs.mode || 'series' }}
+      MODE: ${{ inputs.mode || (github.event.schedule == '30 22 * * *' && 'pilots') || 'series' }}
       POLLINATIONS_TOKEN: ${{ secrets.POLLINATIONS_TOKEN }}
       ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
       PAGES_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
@@ -103,7 +104,7 @@ jobs:
           echo "Pages noch nicht erreichbar" && exit 1
 
       - name: Bei Buffer einplanen
-        if: ${{ github.event_name == 'schedule' || inputs.post }}
+        if: ${{ (github.event_name == 'schedule' || inputs.post) && env.MODE != 'pilots' }}
         run: python run_daily.py post
 
       - name: Verlauf speichern
