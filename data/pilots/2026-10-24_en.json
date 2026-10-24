@@ -1,28 +1,123 @@
 [
   {
     "nr": 1,
-    "topic": "Monthly Salary and Career Status",
+    "topic": "The 8 Levels of Renting an Apartment in a Major City",
+    "frame": "aufzug",
+    "title": "The 8 Levels of Renting in NYC",
+    "file": "2026-10-24_pilot1_en_aufzug_the_8_levels_of_renting_an_apartment_in_teil1.mp4",
+    "hook": "Level 1 shares a kitchen with a raccoon, Level 8 owns the view.",
+    "warum": "Relatable housing crisis pain points mixed with extreme lifestyle contrasts.",
+    "score": 78,
+    "jury": [
+      "Die KI-Stimme klingt an manchen Stellen zu monoton, mehr emotionale Dynamik würde die Frustration besser transportieren.",
+      "Der Text am Ende (das Menü) könnte schneller einblenden, um den Spannungsbogen nahtlos zur nächsten Episode zu halten.",
+      "Mehr optische Abwechslung in den Bildausschnitten der ersten Sekunden könnte den Hook noch stärker machen."
+    ],
+    "sid": "en_aufzug_the_8_levels_of_renting_an_apartment_in",
+    "design": {
+      "punkte": [
+        32,
+        46,
+        37
+      ],
+      "sieger": 1,
+      "warum": "Bild 1 setzt den Prompt perfekt um: Der Kopf ist eine einfache cremeweiße Kugel ohne Nase mit Punktaugen, der Zopf stimmt und die klaustrophobische Keller-Atmosphäre mit flackerndem Licht ist extrem detailreich im Webcomic-Stil getroffen. Bild 0 hat zu menschliche Gesichtszüge und Haare, Bild 3 weicht ebenfalls zu stark vom runden Ballkopf ab."
+    }
+  },
+  {
+    "nr": 2,
+    "topic": "The 8 Levels of Family Group Chat Drama and Holiday Pressure",
     "frame": "frucht",
-    "title": "The 8 Levels of Salary & Career Status",
-    "file": "2026-10-24_pilot1_en_frucht_monthly_salary_and_career_status_teil1.mp4",
-    "hook": "You work 60 hours a week for a 4 on your head? My melon is an 8 and I sleep till noon.",
-    "warum": "Directly hits the nerve of hustle culture, work-life balance, and income inequality among Gen Z.",
+    "title": "The 8 Levels of Family Group Chat Drama",
+    "file": "2026-10-24_pilot2_en_frucht_the_8_levels_of_family_group_chat_drama_teil1.mp4",
+    "hook": "Level 1 is muted on WhatsApp, but Level 8's number decides who gets written out of the will.",
+    "warum": "Universal family dynamics that everyone secretly relates to during holidays.",
+    "score": 83,
+    "jury": [
+      "Einen noch überraschenderen Einstieg (Hook) wählen, um die Zuschauer in den ersten Sekunden noch stärker zu fesseln.",
+      "Die Soundeffekte bei Benachrichtigungen und Textnachrichten lauter und dynamischer abmischen, um das Tempo und den Dopamin-Effekt zu erhöhen.",
+      "Am Ende des Videos einen klareren visuellen Call-to-Action einbauen, um die Neugier auf Level 2 noch mehr anzuheizen."
+    ],
+    "sid": "en_frucht_the_8_levels_of_family_group_chat_drama",
+    "design": {
+      "punkte": [
+        42,
+        46,
+        44
+      ],
+      "sieger": 1,
+      "warum": "Bild 1 trifft den viralen Look am besten: Die digitale Anzeige auf der Stirn wirkt wie ein UI-Widget, das Smartphone, der Blick und die schmutzige grüne Schürze erzeugen maximale Sympathie und Storytelling-Tiefe für ein Reel."
+    }
+  },
+  {
+    "nr": 3,
+    "topic": "The 8 Levels of Corporate Small Talk and Zoom Meeting Etiquette",
+    "frame": "aufzug",
+    "title": "The 8 Levels of Corporate Small Talk",
+    "file": "2026-10-24_pilot3_en_aufzug_the_8_levels_of_corporate_small_talk_and_teil1.mp4",
+    "hook": "Level 1 desperately waves 'Can you hear me?', Level 8 mutes the entire global economy for a coffee break.",
+    "warum": "Remote work trauma hits home for every office worker trapped in back-to-back calls.",
+    "score": 90,
+    "jury": [
+      "Die visuellen Schnitte präziser mit den Betonungen in der Audiostimme synchronisieren.",
+      "Die Übergänge zwischen den Comic-Szenen noch flüssiger gestalten.",
+      "Die Einblendung der finalen Level-Übersicht für eine Sekunde länger halten."
+    ],
+    "sid": "en_aufzug_the_8_levels_of_corporate_small_talk_and",
+    "design": {
+      "punkte": [
+        31,
+        41,
+        42
+      ],
+      "sieger": 1,
+      "warum": "Bild 1 trifft die Vorgabe des ballonartigen runden Kopfes perfekt, während Bild 0 und 2 menschliche Gesichter zeigen."
+    }
+  },
+  {
+    "nr": 4,
+    "topic": "The 8 Levels of Social Media Influencer Apology Videos",
+    "frame": "aufzug",
+    "title": "The 8 Levels of Apology Videos",
+    "file": "2026-10-24_pilot4_en_aufzug_the_8_levels_of_social_media_influencer_teil1.mp4",
+    "hook": "Level 1 cries without tears in a dim hoodie, Level 8 monetizes their own cancellation with a luxury perfume line.",
+    "warum": "Mocks modern internet drama and fake influencer culture that Gen Z loves to roast.",
     "score": null,
     "jury": null,
-    "sid": "en_frucht_monthly_salary_and_career_status",
-    "design": {}
+    "sid": "en_aufzug_the_8_levels_of_social_media_influencer",
+    "design": {
+      "punkte": [
+        34,
+        38,
+        41
+      ],
+      "sieger": 2,
+      "warum": "Bild 2 trifft die exakte Kernaussage der Szene am besten (weint in die Hände vor dem Ringlicht, detailreicher Comic-Stil im _8_levels-Look, hohe Lesbarkeit am Smartphone)."
+    }
   },
   {
     "nr": 5,
-    "topic": "Corporate Burnout and Quiet Quitting",
-    "frame": "aufzug",
-    "title": "The 8 Levels of Burnout",
-    "file": "2026-10-24_pilot5_en_aufzug_corporate_burnout_and_quiet_quitting_teil1.mp4",
-    "hook": "You're pulling an all-nighter for a pizza party reward while your boss's spherical head gets a promotion? Grab a parachute and jump out this elevator.",
-    "warum": "The ultimate anti-work anthem disguised as absurd corporate comedy that employees will mass-forward.",
-    "score": null,
-    "jury": null,
-    "sid": "en_aufzug_corporate_burnout_and_quiet_quitting",
-    "design": {}
+    "topic": "The 8 Levels of Procrastination and Last-Minute Exam Cramming",
+    "frame": "frucht",
+    "title": "The 8 Levels of Procrastination",
+    "file": "2026-10-24_pilot5_en_frucht_the_8_levels_of_procrastination_and_last_teil1.mp4",
+    "hook": "Level 1 organizes their desk color-cooperatively, Level 8 invents a time machine just to submit the essay five minutes late.",
+    "warum": "Universal student pain point that triggers instant 'this is literally me' comments.",
+    "score": 89,
+    "jury": [
+      "Das digitale Display auf der Stirn wirkt im ersten Frame leicht versetzt, hier auf perfekte Kontinuität achten.",
+      "Die Übergänge zwischen den Levels könnten durch noch dynamischere Soundeffekte verstärkt werden.",
+      "Der Text am Ende zur nächsten Stufe könnte minimal länger eingeblendet werden, um den Spannungsbogen zu maximieren."
+    ],
+    "sid": "en_frucht_the_8_levels_of_procrastination_and_last",
+    "design": {
+      "punkte": [
+        32,
+        41,
+        37
+      ],
+      "sieger": 1,
+      "warum": "Bild 1 trifft den viralen Look von simpsonsvorhersage.n & herr.amorim am besten: Perfekte Peach-Textur mit Fuzz-Skin, klarer Cartoon-Fruchttyp, getragener Hoodie, warme Dorm-Atmosphäre und ein Digital-Timer auf der Stirn, während Bild 0 eher wie ein Apfel wirkt und Bild 3 handwerklich schwächer sitzt."
+    }
   }
 ]

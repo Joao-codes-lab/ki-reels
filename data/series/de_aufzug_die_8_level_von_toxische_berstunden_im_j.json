@@ -1,0 +1,588 @@
+{
+  "title": "Die 8 Level von Toxische Überstunden im Job",
+  "house": "a grey, overcast corporate business district in Frankfurt am Main with modern glass towers and old brick office blocks",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Level 1 todes-erschöpft im Regionalexpress nach Offenbach, während Level 8 im selben Zug im Ruhebereich sitzt",
+    "Level 2 bestellt Kaffee im Kiosk, den Level 7 drei Minuten zuvor verlassen hat",
+    "Level 3 findet den Liebesbrief von Level 6 im Kopierraum auf dem Drucker",
+    "Level 4 arbeitet in der Steuerkanzlei, die Level 5 wegen des Millionen-Betrugs prüft"
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was lag in dem blauen Umschlag auf dem Küchentisch?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Erwischt Level 1 im Kopierraum beim Weinen und nennt ihn einen lahmen Looser."
+      },
+      "name": "Jonas, 24, Werkstudent",
+      "badge": "14,50 € / Stunde",
+      "verdict": "UNBEZAHLT",
+      "story": "40 Stunden im Kellerarchiv, kein Tageslicht – und dann sperrt die Bank mein Konto wegen 4,90 Euro. Level 1: 72 Stunden pro Woche und am Monatsende fehlt jede verdammte Minute auf dem Zettel. Mein Rücken brennt wie Feuer, der Kaffeeautomat schmeckt nach altem Maschinenöl. Mein Chef klopfte mir gerade auf die Schulter und sagte diesen einen Satz, der alles verändert hat: 'Jonas, wer Karriere machen will, darf nicht auf die Uhr schauen.' Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-4,90 €",
+        "after": "-4,90 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "40 Stunden im Kellerarchiv, kein Tageslicht – und dann sperrt die Bank mein Konto wegen 4,90 Euro."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 72 Stunden pro Woche und am Monatsende fehlt jede verdammte Minute auf dem Zettel."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Rücken brennt wie Feuer, der Kaffeeautomat schmeckt nach altem Maschinenöl."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Mein Chef klopfte mir gerade auf die Schulter und sagte diesen einen Satz, der alles verändert hat: 'Jonas, wer Karriere machen will, darf nicht auf die Uhr schauen.'"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Jonas, wer Karriere machen will, darf nicht auf die Uhr schauen.",
+      "stats": [
+        {
+          "label": "Stunden/W.",
+          "value": "72 Std.",
+          "bar": 0.95
+        },
+        {
+          "label": "Kontostand",
+          "value": "-4,90 €",
+          "bar": 0.05
+        },
+        {
+          "label": "Schlaf",
+          "value": "3 Std.",
+          "bar": 0.1
+        }
+      ],
+      "character": "Simple round cream-white bald head without a nose, tiny dot eyes, exhausted downturned eyebrows. Wearing a cheap, oversized grey hoodie with a coffee stain and a golden coin hidden near the zipper.",
+      "visual": "A young man sitting alone in a dark, messy office basement surrounded by tall stacks of paper files under flickering fluorescent light, holding his head in hands with deep dark circles under eyes.",
+      "scenes": [
+        "Close up of a blinking red digital clock showing 03:42 AM in a dark office room.",
+        "A golden coin subtly hidden on the edge of a dusty cardboard archive box.",
+        "Medium shot of the young man staring blankly at a glowing smartphone screen showing a red error message.",
+        "Wide shot of the endless rows of grey archive shelves stretching into dark shadows."
+      ],
+      "caption": "Wer kennt diesen absoluten Albtraum im ersten Job? Wo stehst du heute? #toxischeüberstunden #karriere #job #offenbach #arbeit"
+    },
+    {
+      "n": 2,
+      "open_loop": "Wer hat die anonyme E-Mail an die Personalabteilung geschickt?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Streichft kommentarlos den Urlaub von Level 2 per System-Klick vor versammelter Mannschaft."
+      },
+      "name": "Sarah, 29, Junior-Beraterin",
+      "badge": "55.000 € / Jahr",
+      "verdict": "AUSGEBRANNT",
+      "story": "Der Level-Aufzug. Level 2. 50k im Jahr klingen geil, bis du merkst, dass du für den Mindestlohn im Büro schrumpfst. Ich arbeite im Großraumbüro in Frankfurt, es ist Mitternacht und meine Kollegen sind längst weg. Ich mampfe kalte Pizzastücke zwischen Zeilen voller roter Zahlen. Meine beste Freundin schrieb mir gerade: 'Sarah, du verpasst dein eigenes Leben für eine Firma, die deinen Namen vergisst.' Genau in diesem Moment piepste mein Laptop und das System zeigte mir meine erfassten Arbeitsstunden für diesen Monat an. Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+120 Std",
+        "after": "280 Std"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Der Level-Aufzug. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "50k im Jahr klingen geil, bis du merkst, dass du für den Mindestlohn im Büro schrumpfst."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich arbeite im Großraumbüro in Frankfurt, es ist Mitternacht und meine Kollegen sind längst weg."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich mampfe kalte Pizzastücke zwischen Zeilen voller roter Zahlen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Meine beste Freundin schrieb mir gerade: 'Sarah, du verpasst dein eigenes Leben für eine Firma, die deinen Namen vergisst.'"
+        },
+        {
+          "s": "Figur",
+          "t": "Genau in diesem Moment piepste mein Laptop und das System zeigte mir meine erfassten Arbeitsstunden für diesen Monat an."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Sarah, du verpasst dein eigenes Leben für eine Firma, die deinen Namen vergisst.",
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "55k €",
+          "bar": 0.3
+        },
+        {
+          "label": "Stunden/M.",
+          "value": "280 Std",
+          "bar": 0.8
+        },
+        {
+          "label": "Freizeit",
+          "value": "0 Std.",
+          "bar": 0.02
+        }
+      ],
+      "character": "Simple round cream-white bald head, tiny dot eyes, stressed arched eyebrows. Messy blonde hair tied in a loose bun, wearing a crumpled white business blouse with a tiny golden coin pinned to the collar.",
+      "visual": "A young woman sitting at a sleek glass desk in a dark skyscraper overlooking the illuminated Frankfurt skyline at night, illuminated only by the cold blue light of a laptop screen.",
+      "scenes": [
+        "Close up of a half-eaten slice of cold pizza in an open greasy cardboard box.",
+        "A golden coin pinned discreetly like a brooch on the white collar of a blouse.",
+        "Medium shot of tired eyes staring intensely at colorful moving spreadsheet charts.",
+        "Wide shot of an enormous, empty corporate open-plan floor at 2 AM with glowing monitors."
+      ],
+      "caption": "Corporate Hustle Culture frisst die Seele auf. Kennst du das Gefühl? #corporate #frankfurt #burnout #arbeit #karriere"
+    },
+    {
+      "n": 3,
+      "open_loop": "Welches Dokument lag versteckt im Safe des Abteilungsleiters?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Nimmt Level 3 die Beförderung weg und lacht im Meeting laut über seine Präsentation."
+      },
+      "name": "Markus, 34, Projektleiter",
+      "badge": "85.000 € / Jahr",
+      "verdict": "AUF DEM SPRUNG",
+      "story": "Der Level-Aufzug. Level 3. 88.000 Euro Gehalt und ich sehe meine Tochter nur schlafend. Mein Herz rast wie nach einem Marathon. Dreißig Mails im Posteingang, während ich hier kotzen könnte vor Stress. Mein Chef trat herein, wusch sich die Hände und sagte eiskalt: 'Markus, wer oben bleiben will, zeigt keine Schwäche.' In diesem Moment summte mein Smartphone mit einer Push-Mitteilung von meiner Frau. Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-1 Nachric",
+        "after": "0 Mails"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Der Level-Aufzug. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "88.000 Euro Gehalt und ich sehe meine Tochter nur schlafend."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Herz rast wie nach einem Marathon."
+        },
+        {
+          "s": "Figur",
+          "t": "Dreißig Mails im Posteingang, während ich hier kotzen könnte vor Stress."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Mein Chef trat herein, wusch sich die Hände und sagte eiskalt: 'Markus, wer oben bleiben will, zeigt keine Schwäche.'"
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Moment summte mein Smartphone mit einer Push-Mitteilung von meiner Frau."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Markus, wer oben bleiben will, zeigt keine Schwäche.",
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "88k €",
+          "bar": 0.5
+        },
+        {
+          "label": "Blutdruck",
+          "value": "160/100",
+          "bar": 0.85
+        },
+        {
+          "label": "Familie",
+          "value": "10 Min.",
+          "bar": 0.15
+        }
+      ],
+      "character": "Simple round cream-white bald head, tiny dot eyes, sharp worried eyebrows. Short dark side-parted hair, wearing an expensive charcoal grey suit without a tie, carrying a leather briefcase with a golden coin zipper pull.",
+      "visual": "A tense man splashing cold water onto his face in a luxurious, modern marble-tiled corporate restroom under bright LED mirrors.",
+      "scenes": [
+        "Close up of water droplets splashing across a marble sink counter next to a luxury wristwatch.",
+        "A golden coin attached as a subtle zipper pull on a high-end leather briefcase on the floor.",
+        "Medium shot of a man staring anxiously at a buzzing smartphone on the tile ledge.",
+        "Wide shot of an opulent corporate hallway with polished floors reflecting modern ceiling lights."
+      ],
+      "caption": "Der unsichtbare Druck im mittleren Management. Wer trägt diese Last? #management #druck #familie #karriere #erfolg"
+    },
+    {
+      "n": 4,
+      "open_loop": "Warum rief die Steuerfahndung genau um 14:15 Uhr an?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Streicht das gesamte Jahresbudget für das Team von Level 4 ohne Vorwarnung."
+      },
+      "name": "Elena, 38, Hauptabteilungsleiterin",
+      "badge": "120.000 € / Jahr",
+      "verdict": "VERLOREN",
+      "story": "Der Level-Aufzug. Level 4. Ich sitze im Firmenwagen, kann nicht fahren, weil die Hände zittern – und der Vorstand wartet. Ich habe seit drei Tagen Magensaft im Hals und schlafe nur noch mit Tabletten. Meine Assistentin klopfte an die Autoscheibe und sagte mit zitternder Stimme: 'Frau Weber, der Vorstand wartet im Konferenzraum auf Sie.' Ich sah, wie Level 7 nach dem Budgetstreich erst in der Kantine seine Hände wusch und flüsterte: \"Jetzt spürst du, was ich jeden Tag fühle.\" Genau dann klingelte mein Festnetztelefon im Büro und ein anonymer Anruf kam rein. Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "Anruf",
+        "after": "Unbekannt"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Der Level-Aufzug. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze im Firmenwagen, kann nicht fahren, weil die Hände zittern – und der Vorstand wartet."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe seit drei Tagen Magensaft im Hals und schlafe nur noch mit Tabletten."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Meine Assistentin klopfte an die Autoscheibe und sagte mit zitternder Stimme: 'Frau Weber, der Vorstand wartet im Konferenzraum auf Sie.'"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sah, wie Level 7 nach dem Budgetstreich erst in der Kantine seine Hände wusch und flüsterte: \"Jetzt spürst du, was ich jeden Tag fühle.\""
+        },
+        {
+          "s": "Figur",
+          "t": "Genau dann klingelte mein Festnetztelefon im Büro und ein anonymer Anruf kam rein."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Frau Weber, der Vorstand wartet im Konferenzraum auf Sie.",
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "120k €",
+          "bar": 0.65
+        },
+        {
+          "label": "Schlaf",
+          "value": "4 Std.",
+          "bar": 0.2
+        },
+        {
+          "label": "Pillen",
+          "value": "3 Stk.",
+          "bar": 0.7
+        }
+      ],
+      "character": "Simple round cream-white bald head, tiny dot eyes, tense arched eyebrows. Neat reddish bob haircut, wearing a sharp navy blue blazer and a gold necklace with a golden coin pendant.",
+      "visual": "A woman sitting inside the dark leather interior of a luxury car at night, holding the steering wheel with white knuckles and staring blankly ahead.",
+      "scenes": [
+        "Close up of trembling hands gripping a dark leather steering wheel under dashboard lights.",
+        "A golden coin resting as a delicate pendant on a thin gold necklace around the neck.",
+        "Medium shot of a worried face illuminated by the amber glow of the car radio display.",
+        "Wide shot of an empty corporate underground parking garage with concrete pillars and harsh neon lights."
+      ],
+      "caption": "Wenn der Erfolg zur goldenen Falle wird. Wer kennt diesen Punkt? #karriere #geld #druck #verantwortung #erfolg"
+    },
+    {
+      "n": 5,
+      "open_loop": "Was stand in dem handgeschriebenen Zettel im Aktenkoffer?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Vergisst absichtlich eine wichtige Datei, sodass Level 5 die gesamte Nacht durcharbeiten muss."
+      },
+      "name": "Thomas, 43, Senior Partner",
+      "badge": "180.000 € / Jahr",
+      "verdict": "KONTrollFREAK",
+      "story": "Der Level-Aufzug. Level 5. Scheidung via WhatsApp auf dem Weg ins Meeting. 180k Brutto, null Leben. Ich stehe in meinem Designer-Büro im zwanzigsten Stock und kontrolliere zum vierten Mal die Bilanzen, obwohl alles perfekt ist. Mein Kopf dröhnt, als würde ein Presslufthammer direkt gegen meine Schläfe schlagen. Mein bester Klient trat ein, musterte mich kalt und sagte: 'Thomas, du hast alles erreicht, aber du bist komplett allein.' In diesem Sekundentakt ploppte eine neue Gerichtsvorladung auf meinem Bildschirm auf. Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "Gericht",
+        "after": "Vorladung"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Der Level-Aufzug. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Scheidung via WhatsApp auf dem Weg ins Meeting. 180k Brutto, null Leben."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe in meinem Designer-Büro im zwanzigsten Stock und kontrolliere zum vierten Mal die Bilanzen, obwohl alles perfekt ist."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Kopf dröhnt, als würde ein Presslufthammer direkt gegen meine Schläfe schlagen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Mein bester Klient trat ein, musterte mich kalt und sagte: 'Thomas, du hast alles erreicht, aber du bist komplett allein.'"
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Sekundentakt ploppte eine neue Gerichtsvorladung auf meinem Bildschirm auf."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Thomas, du hast alles erreicht, aber du bist komplett allein.",
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "180k €",
+          "bar": 0.78
+        },
+        {
+          "label": "Einsamkeit",
+          "value": "100%",
+          "bar": 0.95
+        },
+        {
+          "label": "Stress",
+          "value": "Max",
+          "bar": 0.9
+        }
+      ],
+      "character": "Simple round cream-white bald head, tiny dot eyes, strict skeptical eyebrows. Neatly trimmed grey beard, wearing a tailored black pinstripe suit and a golden wristwatch with a golden coin engraved on the clasp.",
+      "visual": "A middle-aged man standing in front of a giant floor-to-ceiling glass window in a luxury high-rise office at twilight, looking down at tiny cars on the street below.",
+      "scenes": [
+        "Close up of an expensive luxury wristwatch resting on a dark glass desk next to a fountain pen.",
+        "A golden coin engraved on the metal clasp of the watch strap.",
+        "Medium shot of a stern face reflecting in the cold glass of a skyscraper window.",
+        "Wide shot of an ultra-modern minimalist executive office with dark wood panels and designer furniture."
+      ],
+      "caption": "Der Preis des Erfolgs: Wenn Geld das Einzige ist, was übrig bleibt. #erfolg #einsamkeit #geld #karriere #manager"
+    },
+    {
+      "n": 6,
+      "open_loop": "Welche Summe wurde heimlich auf das Schweizer Konto überwiesen?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Kopiert die Idee von Level 6 und verkauft sie als die eigene im Management-Meeting."
+      },
+      "name": "Katrin, 46, Direktorin",
+      "badge": "250.000 € / Jahr",
+      "verdict": "KÖNIGSKLASSE",
+      "story": "Der Level-Aufzug. Level 6. Viertelmillion Jahresgehalt, aber dreimal täglich Betablocker, um nicht umzukippen. Ich sitze im Privatjet auf dem Weg nach Zürich, die Champagnerflasche steht unberührt vor mir, während ich auf meinem Tablet die Entlassungslisten für morgen früh durchgehe. Mein Aufsichtsratsvorsitzender lehnte sich rüber und sagte diesen einen Satz, der mir den Boden unter den Füßen weggezog: 'Katrin, heute fressen sie dir aus der Hand, morgen zerreißen sie dich.' Genau da blinkte mein privates Notfallhandy auf. Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "Notfall",
+        "after": "Alarm"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Der Level-Aufzug. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Viertelmillion Jahresgehalt, aber dreimal täglich Betablocker, um nicht umzukippen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze im Privatjet auf dem Weg nach Zürich, die Champagnerflasche steht unberührt vor mir, während ich auf meinem Tablet die Entlassungslisten für morgen früh durchgehe."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Mein Aufsichtsratsvorsitzender lehnte sich rüber und sagte diesen einen Satz, der mir den Boden unter den Füßen weggezog: 'Katrin, heute fressen sie dir aus der Hand, morgen zerreißen sie dich.'"
+        },
+        {
+          "s": "Figur",
+          "t": "Genau da blinkte mein privates Notfallhandy auf."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Katrin, heute fressen sie dir aus der Hand, morgen zerreißen sie dich.",
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "250k €",
+          "bar": 0.88
+        },
+        {
+          "label": "Betablocker",
+          "value": "3x tägl.",
+          "bar": 0.8
+        },
+        {
+          "label": "Kontrolle",
+          "value": "99%",
+          "bar": 0.92
+        }
+      ],
+      "character": "Simple round cream-white bald head, tiny dot eyes, piercing confident eyebrows. Elegant silver-streaked dark hair, wearing a high-end designer cashmere camel coat with a golden coin shaped brooch on the lapel.",
+      "visual": "A powerful woman sitting in the luxurious leather cabin of a private corporate jet at night, looking intently at a glowing tablet screen with dark city lights visible through the small circular window.",
+      "scenes": [
+        "Close up of a crystal champagne flute reflecting blurred cabin lights.",
+        "A golden coin shaped designer brooch pinned securely to a heavy cashmere coat lapel.",
+        "Medium shot of a cool, calculating expression lit by the cold glow of a digital tablet.",
+        "Wide shot of the luxurious interior of a private jet cabin with polished wood trim and leather seats."
+      ],
+      "caption": "An der Spitze ist die Luft verdammt dünn. Wer überlebt hier wirklich? #business #macht #geld #luxus #karriere"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welcher Name stand ganz oben auf der geheimen Entlassungsliste?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Kürzt das Budget von Level 7 um genau die Hälfte und verhöhnt ihn im Aufzug."
+      },
+      "name": "Dr. Robert, 51, Vorstandsvorsitzender",
+      "badge": "500.000 € + Boni",
+      "verdict": "MACHT-ELITE",
+      "story": "Der Level-Aufzug. Level 7. Eine halbe Million im Jahr, aber mein Magen blutet und ich spüre seit Jahren nichts mehr. Ich stehe in der gläsernen Penthouse-Zentrale in Frankfurt, unter mir leuchtet die Finanzmetropole wie eine Platine. Meine Assistentin brachte mir die Post und sagte leise: 'Herr Doktor, die Bundesanstalt prüft die Akten von vor fünf Jahren.' In diesem Moment fiel der Strom in der gesamten Etage aus. Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "Stromausfa",
+        "after": "Dunkel"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Der Level-Aufzug. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Eine halbe Million im Jahr, aber mein Magen blutet und ich spüre seit Jahren nichts mehr."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe in der gläsernen Penthouse-Zentrale in Frankfurt, unter mir leuchtet die Finanzmetropole wie eine Platine."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Meine Assistentin brachte mir die Post und sagte leise: 'Herr Doktor, die Bundesanstalt prüft die Akten von vor fünf Jahren.'"
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Moment fiel der Strom in der gesamten Etage aus."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Herr Doktor, die Bundesanstalt prüft die Akten von vor fünf Jahren.",
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "500k+",
+          "bar": 0.95
+        },
+        {
+          "label": "Stress",
+          "value": "Kritisch",
+          "bar": 0.99
+        },
+        {
+          "label": "Freiheit",
+          "value": "0%",
+          "bar": 0.01
+        }
+      ],
+      "character": "Simple round cream-white bald head, tiny dot eyes, imposing sharp eyebrows. Impeccable silver hair at temples, wearing a bespoke tailored Italian three-piece suit with a solid gold pocket watch chain attached to a golden coin.",
+      "visual": "A senior corporate executive standing at the edge of a giant floor-to-ceiling glass window of a penthouse office overlooking a sprawling, glittering metropolis at dusk.",
+      "scenes": [
+        "Close up of an antique gold pocket watch case resting on a mahogany desk.",
+        "A real golden coin attached as a fob to a heavy gold pocket watch chain.",
+        "Medium shot of an imposing man looking down with a mix of triumph and inner emptiness.",
+        "Wide shot of an elite, ultra-luxurious top-floor boardroom with panoramic city views."
+      ],
+      "caption": "Ganz oben angekommen und doch komplett verloren. Kennst du diesen Preis? #vorstand #reichtum #macht #frankfurt #karriere"
+    },
+    {
+      "n": 8,
+      "open_loop": "Was passierte, als sich die Aufzugtüren für immer öffneten?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Befindet sich im selben Aufzug und reicht Level 8 schweigend eine Tasse kalten Kaffee."
+      },
+      "name": "Hanna, 62, Reinigungskraft",
+      "badge": "FREIHEIT",
+      "verdict": "GEWONNEN",
+      "story": "Der Level-Aufzug. Level 8. Ihr verkauft alle euer Leben für Zahlen. Ich gehe seit 30 Jahren um Punkt 16 Uhr nach Hause. Ich kenne jeden Tresor, jedes schmutzige Geheimnis, jede Träne und jede gefälschte Bilanz in diesem Gebäude. Der Vorstandsvorsitzende stand heute im dunklen Flur vor mir und fragte zitternd diesen einen Satz: 'Hanna, wie hast du es geschafft, niemals verrückt zu werden?' Ich lächelte, wischte das letzte Fenster sauber und sagte: Weil ich weiß, dass Reichtum dort beginnt, wo die Angst aufhört. Welches Thema sollen wir als Nächstes im Aufzug öffnen?",
+      "gender": "w",
+      "twist": {
+        "delta": "Feierabend",
+        "after": "16:00 Uhr"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Der Level-Aufzug. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Ihr verkauft alle euer Leben für Zahlen. Ich gehe seit 30 Jahren um Punkt 16 Uhr nach Hause."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich kenne jeden Tresor, jedes schmutzige Geheimnis, jede Träne und jede gefälschte Bilanz in diesem Gebäude."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Der Vorstandsvorsitzende stand heute im dunklen Flur vor mir und fragte zitternd diesen einen Satz: 'Hanna, wie hast du es geschafft, niemals verrückt zu werden?'"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich lächelte, wischte das letzte Fenster sauber und sagte: Weil ich weiß, dass Reichtum dort beginnt, wo die Angst aufhört."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema sollen wir als Nächstes im Aufzug öffnen?"
+        }
+      ],
+      "quote": "Hanna, wie hast du es geschafft, niemals verrückt zu werden?",
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "Einfach",
+          "bar": 0.4
+        },
+        {
+          "label": "innerer Frieden",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Freiheit",
+          "value": "Unbezahlbar",
+          "bar": 1.0
+        }
+      ],
+      "character": "Simple round cream-white bald head, tiny dot eyes, warm knowing eyebrows. Grey hair tied in a simple braid under a blue cleaning cap, wearing a comfortable blue work tunic with a shining golden coin used as a key ring.",
+      "visual": "A serene older woman smiling gently while wiping a crystal-clear skyscraper window with a cloth, with warm golden sunset light flooding through the clean glass.",
+      "scenes": [
+        "Close up of a simple grey cleaning bucket with soapy water and fresh foam bubbles reflecting light.",
+        "A real gleaming golden coin attached to a simple key ring hanging on a belt loop.",
+        "Medium shot of a smiling, peaceful face looking out over the city with absolute calm.",
+        "Wide shot of the bright, sunlit top-floor observation deck of the skyscraper at sunset."
+      ],
+      "caption": "Das unerwartete Ende der Reise. Was ist dir im Leben wirklich wichtig? Schreib es in die Kommentare! #weisheit #leben #geld #arbeit #freiheit"
+    }
+  ],
+  "lang": "de",
+  "topic": "Die 8 Level von 'Toxische Überstunden im Job'",
+  "frame": "aufzug"
+}

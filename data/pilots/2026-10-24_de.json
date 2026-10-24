@@ -1,41 +1,102 @@
 [
   {
     "nr": 1,
-    "topic": "Die Wohnungsgröße in der Großstadt",
+    "topic": "Die 8 Level von 'Toxische Überstunden im Job'",
+    "frame": "aufzug",
+    "title": "Die 8 Level von Toxische Überstunden im Job",
+    "file": "2026-10-24_pilot1_de_aufzug_die_8_level_von_toxische_berstunden_im_j_teil1.mp4",
+    "hook": "Der Aufzug hält in Stockwerk 3 für 40 Stunden Dienst nach Vorschrift. Aber die Kugelköpfe in Stockwerk 8 haben seit Wochen nicht geschlafen – und nennen es stolz 'Grind'.",
+    "warum": "Hustle-Culture-Satire trifft Work-Life-Balance-Konflikt; spaltet die Community frontal in 'Karriere-Grinder' versus 'Quiet-Quitter'.",
+    "score": 90,
+    "jury": [
+      "Das Ende könnte noch etwas cliffhanger-lastiger sein.",
+      "Die Untertitel könnten farblich noch etwas mehr Akzente setzen.",
+      "Das Audio-Mixing bei den Soundeffekten könnte dynamischer sein."
+    ],
+    "sid": "de_aufzug_die_8_level_von_toxische_berstunden_im_j",
+    "design": {
+      "punkte": [
+        42,
+        36,
+        40
+      ],
+      "sieger": 0,
+      "warum": "Bild 0 trifft den Webcomic-Stil von _8_levels am besten, zeigt das Gesicht und die Kleidung (Hoodie mit goldenem Detail) extrem präzise und bietet auf kleinen Smartphone-Bildschirmen eine perfekte Lesbarkeit bei maximaler emotionaler Wirkung."
+    }
+  },
+  {
+    "nr": 2,
+    "topic": "Die 8 Level von 'Beziehungsstatus: Situationship vs. Ring am Finger'",
     "frame": "frucht",
-    "title": "Die 8 Level von Wohnungsgröße",
-    "file": "2026-10-24_pilot1_de_frucht_die_wohnungsgr_e_in_der_gro_stadt_teil1.mp4",
-    "hook": "Du zahlst 1.200 Euro für ein WG-Zimmer? Level 8 wohnt in einem Kleiderschrank und zahlt mehr.",
-    "warum": "Der ewige Schmerzpunkt der jungen Generation (Wohnungsnot) wird gnadenlos auf die Schippe genommen.",
-    "score": null,
-    "jury": null,
-    "sid": "de_frucht_die_wohnungsgr_e_in_der_gro_stadt",
-    "design": {}
+    "title": "Die 8 Level von Beziehungsstatus",
+    "file": "2026-10-24_pilot2_de_frucht_die_8_level_von_beziehungsstatus_situati_teil1.mp4",
+    "hook": "Die Banane mit der '0' auf der Stirn ist seit 7 Jahren verheiratet und weint. Aber die Traube mit der 'Unendlich'-Zahl schläft jede Nacht mit jemand anderem und weint genau so laut.",
+    "warum": "Beziehungsformate triggern die tiefsten romantischen Unsicherheiten. Jeder User wird sich in einem der Level sofort wiedererkennen und den Partner markieren.",
+    "score": 88,
+    "jury": [
+      "Die Start-Hook im Video könnte noch prägnanter und emotionaler formuliert sein, um die Aufmerksamkeit in der ersten Sekunde maximal zu binden.",
+      "Die Untertitel könnten an einigen Stellen noch harmonischer zum Sprechtempo getimed werden.",
+      "Das Ende bietet bereits eine gute Vorschau, könnte jedoch durch einen noch stärkeren Cliffhanger oder eine konkrete Frage an den Zuschauer zum Kommentieren motivieren."
+    ],
+    "sid": "de_frucht_die_8_level_von_beziehungsstatus_situati",
+    "design": {
+      "punkte": [
+        43,
+        21,
+        37
+      ],
+      "sieger": 0,
+      "warum": "Bild 0 trifft den Kern des Prompts am besten: Die Erdbeere hat eine nicht-menschliche, detailreiche Textur, das Badge mit '0 Wochen' sitzt stimmig auf dem Kopf, der Hoodie und die traurige Stimmung passen perfekt in die deutsche Studentenküche. Bild 1 driftet zu stark in Richtung menschliches Kind mit Kostüm ab, während Bild 2 zwar schön ist, aber unleserliche Textfehler auf den Headbands zeigt."
+    }
   },
   {
     "nr": 3,
-    "topic": "Das monatliche Dating-App-Budget",
-    "frame": "frucht",
-    "title": "Die 8 Level des monatlichen Dating-Budgets",
-    "file": "2026-10-24_pilot3_de_frucht_das_monatliche_dating_app_budget_teil1.mp4",
-    "hook": "Du zahlst 30 Euro für Tinder Gold und bekommst keine Dates? Level 8 investiert so viel wie ein Kleinwagen und kriegt trotzdem nur ein 'Hey'.",
-    "warum": "Dating-App-Frust ist der intimste und schmerzhafteste Alltagsschmerz der Generation Z, der sofort in den Kommentaren eskaliert.",
-    "score": null,
-    "jury": null,
-    "sid": "de_frucht_das_monatliche_dating_app_budget",
-    "design": {}
+    "topic": "Die 8 Level von 'Therapie-Erfahrung und mentale Gesundheit'",
+    "frame": "aufzug",
+    "title": "Die 8 Level von Therapie-Erfahrung",
+    "file": "2026-10-24_pilot3_de_aufzug_die_8_level_von_therapie_erfahrung_und_m_teil1.mp4",
+    "hook": "Stockwerk 1 sagt noch stolz 'Ich brauche keine Therapie'. Doch je höher der Aufzug fährt, desto teurer werden die Meditations-Retreats und desto tiefer sitzt das Trauma der Kugelköpfe.",
+    "warum": "Mental Health ist das absolute Trend- und Identitätsthema der Jugend. Der Kontrast zwischen Verdrängung und radikaler Selbstoptimierung bricht jedes Tabu.",
+    "score": 88,
+    "jury": [
+      "Das Ende könnte noch einen stärkeren Cliffhanger für Level 2 bieten.",
+      "Die Übergänge zwischen den Szenen könnten dynamischer sein, um den Dopamin-Kick zu erhöhen.",
+      "Ein paar mehr Soundeffekte bei den Übergängen würden die emotionale Wirkung verstärken."
+    ],
+    "sid": "de_aufzug_die_8_level_von_therapie_erfahrung_und_m",
+    "design": {
+      "punkte": [
+        32,
+        41,
+        37
+      ],
+      "sieger": 1,
+      "warum": "Bild 1 setzt den Webcomic-Stil von _8_levels und den vorgegebenen Charakter (runder, cremeweisser Kopf, braune Haare, gelbe Jacke mit Tasche/Rucksack und Getränkedose) am exaktesten und ausdrucksstärksten um. Es passt perfekt zur Szene und hat das höchste virale Potenzial für Reels."
+    }
   },
   {
     "nr": 4,
-    "topic": "Die Festival-Ausstattung",
-    "frame": "aufzug",
-    "title": "Die 8 Level von Festival-Ausstattung",
-    "file": "2026-10-24_pilot4_de_aufzug_die_festival_ausstattung_teil1.mp4",
-    "hook": "Du stolzierst mit Regenschirm und Gummistiefeln aufs Gelände? Level 8 baut sich ein privates Luxus-Penthouse mitten in den Matsch.",
-    "warum": "Jeder kennt den Kontrast zwischen elendigem Camping-Überlebenskampf und VIP-Luxus auf Festivals.",
-    "score": null,
-    "jury": null,
-    "sid": "de_aufzug_die_festival_ausstattung",
-    "design": {}
+    "topic": "Die 8 Level von 'Elterlicher Support und Erbe-Aussicht'",
+    "frame": "frucht",
+    "title": "Die 8 Level von Elterlicher Support",
+    "file": "2026-10-24_pilot4_de_frucht_die_8_level_von_elterlicher_support_und_teil1.mp4",
+    "hook": "Ich dachte, mein Bafög sei arm. Bis die Kiwi mit der '0'-Eltern-Zahl mir erklärte, dass sie mit 25 ihr drittes Mehrfamilienhaus renoviert.",
+    "warum": "Klassismus und Generationengerechtigkeit triggern extrem. Löst harten Neid, Diskussionswut und Klassenkampf in den Kommentaren aus.",
+    "score": 88,
+    "jury": [
+      "Noch mehr visuelle Abwechslung in den Mittelszenen schaffen",
+      "Die Übergänge zwischen den KI-generierten Clips noch flüssiger gestalten",
+      "Am Ende einen direkten Call-to-Action für Level 2 einbauen"
+    ],
+    "sid": "de_frucht_die_8_level_von_elterlicher_support_und",
+    "design": {
+      "punkte": [
+        39,
+        43,
+        35
+      ],
+      "sieger": 1,
+      "warum": "Bild 1 trifft die Vorgaben der viralen Vorbilder (wie herr.amorim) am besten: Das digitale Preisschild auf der Stirn ist klar als solches erkennbar, die Cartoon-Ästhetik ist konsequent umgesetzt (kein echter Mensch, sondern eine Erdbeerfigur) und die Handy-Lesbarkeit ist durch den zentralen Fokus und den Kontrast am höchsten."
+    }
   }
 ]

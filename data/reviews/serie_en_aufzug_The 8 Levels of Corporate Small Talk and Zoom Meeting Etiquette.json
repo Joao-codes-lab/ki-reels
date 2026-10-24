@@ -1,0 +1,97 @@
+{
+  "best_score": 80,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 8,
+        "story": 7,
+        "identifikation": 9,
+        "verbindungen": 8,
+        "sog": 9,
+        "wut": 8,
+        "merkfaehigkeit": 8,
+        "sprache": 7
+      },
+      "gesamt": 80,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Kürze den Einstieg sofort auf den Punkt: 'Erster Arbeitstag, 120 Dollar auf dem Konto, und der VP sagt mir direkt ins Gesicht: Du hältst das Papier falsch herum.'"
+        },
+        {
+          "n": 3,
+          "fix": "Verschärfe den Satzbau für mehr Punch: '45 unmutete Mikrofone, verschütteter Kaffee und der Chef sagt: Niemand interessiert sich für deine Daten.'"
+        },
+        {
+          "n": 5,
+          "fix": "Streiche unnötiges Füllmaterial im ersten Satz: '150 Foliendecks über Synergie und mein Bonus ist weg, weil der Chef meine Kampagne zerreißt.'"
+        },
+        {
+          "n": 8,
+          "fix": "Verzichte am Ende auf die generische Call-to-Action-Frage und lass den Founder-Satz wirken: 'Vergesst die Zahlen, lebt euer Leben.'"
+        }
+      ],
+      "fazit": "Starke, binge-würdige Corporate-Serie mit exzellentem Vernetzungsgrad über alle acht Level. Die Figuren spiegeln den modernen Arbeitsalltag perfekt wider und erzeugen sofortiger Sog durch die offenen Fragen am Ende jedes Clips. Einziger Kritikpunkt sind stellenweise zu lange, verschachtelte Sätze, die für TikTok-Verhältnisse gestrafft werden müssen."
+    },
+    {
+      "scores": {
+        "hook": 7,
+        "story": 6,
+        "identifikation": 8,
+        "verbindungen": 9,
+        "sog": 8,
+        "wut": 7,
+        "merkfaehigkeit": 6,
+        "sprache": 5
+      },
+      "gesamt": 70,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den langen Monolog durch: 'Erster Arbeitstag, 120 Dollar auf dem Konto. Und der VP sagt mir ins Gesicht: Papier falsch herum. Du bist raus, bevor du angefangen hast.'"
+        },
+        {
+          "n": 3,
+          "fix": "Kürze den Einstieg sofort auf: '45 stumme Avatare, kein Kaffee, und der Chef sagt: Niemand interessiert sich für deine Daten.'"
+        },
+        {
+          "n": 5,
+          "fix": "Direkter einsteigen: '150 Foliendecks über Synergie und mein Bonus ist weg, weil der Chef meine Kampagne in der Luft zerreißt.'"
+        },
+        {
+          "n": 8,
+          "fix": "Schluss-Slogan auf Deutsch vereinheitlichen oder komplett auf Englisch halten: 'Vergesst die Zahlen, lebt euer Leben' bricht abrupt mit dem sonst englischen Skript."
+        }
+      ],
+      "fazit": "Starke Verknüpfung der Ebenen und exzellenter Sog über alle 8 Teile hinweg, aber die Texte sind zu lang und textlastig für den 2-Sekunden-Swipe-Druck. Die Sprache wirkt stellenweise zu konstruiert und wie übersetzter Buch-Text statt echtes TikTok-Office-Slang."
+    },
+    {
+      "scores": {
+        "hook": 8,
+        "story": 7,
+        "identifikation": 9,
+        "verbindungen": 8,
+        "sog": 8,
+        "wut": 6,
+        "merkfaehigkeit": 7,
+        "sprache": 6
+      },
+      "gesamt": 74,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den Meta-Text durch echten Schmerz: 'Erster Tag, 120 Dollar auf dem Konto. Und der VP brüllt mich an, weil das Papier klemmt.'"
+        },
+        {
+          "n": 3,
+          "fix": "Kürze den Text auf TikTok-Länge: '45 stumme Avatare, kein Kaffee. Und der Chef sagt: Niemand interessiert sich für deine Daten.'"
+        },
+        {
+          "n": 5,
+          "fix": "Schärfe den Konflikt: '150 Foliendecks über Synergie und mein Bonus ist weg, weil der Chef meine Kampagne in der Luft zerreißt.'"
+        }
+      ],
+      "fazit": "Starke Corporate-Atmosphäre und coole Verknüpfungen, aber Level 1, 3 und 5 sind viel zu textlastig und klingen nach sterilem Drehbuch statt echtem TikTok-Talk. Mehr Tempo, weniger Kunstsprache!"
+    }
+  ]
+}

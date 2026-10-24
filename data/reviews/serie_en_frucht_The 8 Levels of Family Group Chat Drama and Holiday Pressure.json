@@ -1,0 +1,149 @@
+{
+  "best_score": 74,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 7,
+        "story": 6,
+        "identifikation": 8,
+        "verbindungen": 9,
+        "sog": 8,
+        "wut": 7,
+        "merkfaehigkeit": 8,
+        "sprache": 6
+      },
+      "gesamt": 74,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ändere den Satz: 'I am Maya, 24, a part-time barista...' zu: 'Wer mich heute noch einmal nach billigem Kaffee fragt, rastet aus.'"
+        },
+        {
+          "n": 2,
+          "fix": "Ändere den Satz: 'I am Leo, 27, a delivery driver...' zu: 'Mein Bruder schickt den Flug-Beleg in den Chat. Ich liefere gerade seine Pizza.'"
+        },
+        {
+          "n": 3,
+          "fix": "Ändere den Satz: 'I am Chloe, 31, a meticulous accountant...' zu: 'Jemand hat mit meiner Kreditkarte das Weihnachtsessen bezahlt. Ich weiß genau, wer es war.'"
+        },
+        {
+          "n": 4,
+          "fix": "Ändere den Satz: 'I am Sam, 35, a passionate history teacher...' zu: 'Aus der Familien-Gruppe fliegen tat weh. Bis ich gesehen habe, wer noch fehlt.'"
+        },
+        {
+          "n": 5,
+          "fix": "Ändere den Satz: 'I am Elena, 39, an architect...' zu: 'Mein Toast-Video wurde im Chat sabotiert. Jetzt brennt die Hütte.'"
+        },
+        {
+          "n": 6,
+          "fix": "Ändere den Satz: 'I am Marcus, 42, a senior surgeon...' zu: '80 Stunden OP-Woche und Onkel Uwe löscht einfach die Excel-Tabelle.'"
+        },
+        {
+          "n": 7,
+          "fix": "Ändere den Satz: 'I am Victoria, 46, a high-flying tech executive...' zu: 'Unterschrift gefälscht für das Ferienhaus? Nicht mit mir.'"
+        },
+        {
+          "n": 8,
+          "fix": "Ändere den Satz: 'I am Arthur, 52, a venture capitalist...' zu: 'Ich habe alle Chats manipuliert. Bis Maya mir geschrieben hat.'"
+        }
+      ],
+      "fazit": "Geile visuelle Welt mit den Frucht-Metaphern und starker Vernetzung, aber die Einleitungen klingen zu sehr nach generischer Biografie statt nach eiskaltem TikTok-Hook. Mehr Tempo, weniger Erklären."
+    },
+    {
+      "scores": {
+        "hook": 7,
+        "story": 6,
+        "identifikation": 8,
+        "verbindungen": 9,
+        "sog": 8,
+        "wut": 7,
+        "merkfaehigkeit": 7,
+        "sprache": 6
+      },
+      "gesamt": 73,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Level 1: 1,200 Dollar im Monat und meine Familie hat mich gerade aus der Gruppe geworfen. Wer mir noch einmal mit billigem Kaffee kommt, rastet aus. Mein Zwiebel-Kopf brennt, das Badge zeigt erbärmliche 1.200. Dann schreibt Tante Karin: 'Komm gar nicht erst ohne Geschenk.' Plötzlich summt das Handy: Mietzuschuss-Eingang. Und dann ruft der Vermieter an. Das siehst du in Level 2."
+        },
+        {
+          "n": 2,
+          "fix": "Level 2: 2.800 Dollar im Monat und mein eigener Bruder schickt meinen Economy-Flugbeleg in den Familienchat. Während ich seine Pizza liefere. Die Arroganz macht mich krank. Doch plötzlich ploppt ein saftiger Nachtschicht-Bonus auf. Mein Badge klettert. Und der Dispatcher drückt mir die nächste Dreifach-Schicht aufs Auge. Das siehst du in Level 3."
+        },
+        {
+          "n": 3,
+          "fix": "Level 3: 4.500 Dollar im Monat und jemand hat das Weihnachtsessen mit meiner Kreditkarte maxes out. Ich weiß genau, wer es war. Mutter schickt nur eine Sprachnachricht: 'Ststell dich nicht so an, das ist für die Familie.' Dann kommt die unerwartete Steuerrückzahlung. Sekunde später: Überziehungs-Warnung. Das siehst du in Level 4."
+        },
+        {
+          "n": 4,
+          "fix": "Level 4: 6.200 Dollar im Monat und ich fliege einfach aus dem Familien-Weihnachts-Resort. Der Ausschluss brennt. Bis ich sehe, wer noch fehlt. Plötzlich kommt das Schul-Stipendium. Mein Badge blinkt auf. Dann klingelt das Schulleitungstelefon. Das siehst du in Level 5."
+        },
+        {
+          "n": 5,
+          "fix": "Level 5: 9.800 Dollar im Monat und mein Toast-Video im Chat wurde sabotiert. Onkel Uwe macht mich zum Gespött. Der Verrat sitzt tief. Dann wird mein Blueprint-Bonus freigegeben. Das Badge springt hoch. Sofort ruft der Bauleiter an wegen Baustopp. Das siehst du in Level 6."
+        },
+        {
+          "n": 6,
+          "fix": "Level 6: 18.500 Dollar im Monat und Onkel Uwe löscht einfach die Excel-Tabelle für die Feiertage. Nach 80 Stunden OP. Alle behandeln mich nur als Bankomat. Dann zahlt das Krankenhaus den Gefahren-Bonus aus. Sofort pikt mich der Chefarzt an. Das siehst du in Level 7."
+        },
+        {
+          "n": 7,
+          "fix": "Level 7: 45.000 Dollar im Monat und irgendwer im Chat fälscht meine Unterschrift für das Feriendomizil. Die Audacity ist grenzenlos. Plötzlich vesten meine Stock Options vorzeitig. Das Badge explodiert. Dann klingelt mein Anwalt. Das siehst du in Level 8."
+        },
+        {
+          "n": 8,
+          "fix": "Level 8: 120.000 Dollar im Monat und ich habe jeden einzelnen Chat manipuliert. Bis Maya mir schreibt: 'Das Spiel ist vorbei, Arthur.' Mein Imperium wankt. Das Mainframe stürzt ab. Das Badge erlischt. Welches System sprengen wir als Nächstes?"
+        }
+      ],
+      "fazit": "Starke visuelle Welt und geniale Querverweise, aber der Text stolpert zu oft über unnatürliche Denglisch-Sätze und holprige Übergänge. Wenn die Dialoge tighter und deutscher klickt, wird das absolut viral."
+    },
+    {
+      "scores": {
+        "hook": 5,
+        "story": 4,
+        "identifikation": 6,
+        "verbindungen": 5,
+        "sog": 4,
+        "wut": 3,
+        "merkfaehigkeit": 6,
+        "sprache": 4
+      },
+      "gesamt": 46,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Weg mit dem langweiligen Erklär-Satz am Anfang. Sag direkt: '1.200 Dollar im Monat und Tante Karin wirft mich aus der Familien-Gruppe, weil mein Geschenk zu billig ist.' Keine Meta-Ansagen wie 'Das siehst du in Level 2'."
+        },
+        {
+          "n": 2,
+          "fix": "Der Einstieg muss knallen: 'Mein eigener Bruder schickt meinen Economy-Flugbeleg in den Familienchat, während ich seine Pizza liefere.' Zeig den Schmerz sofort, lass das monatliche Gehalt als bloße Zahl am Anfang weg."
+        },
+        {
+          "n": 3,
+          "fix": "Direkter Konflikt: 'Jemand hat das Weihnachtsessen mit meiner Kreditkarte maxes out, und Mutter sagt nur: Stell dich nicht so an.' Raus mit den steifen Übergängen."
+        },
+        {
+          "n": 4,
+          "fix": "Mach es persönlich: 'Ich fliege einfach aus dem Familien-Weihnachts-Resort, weil mein Badge zu niedrig ist.' Zeig die Wut, nicht nur die Fakten."
+        },
+        {
+          "n": 5,
+          "fix": "Weniger Business-Sprech, mehr Drama: 'Onkel Uwe sabotiert mein Toast-Video im Familienchat und macht mich zum Gespött.' Lass den Bauleiter am Ende weg, mach die offene Frage schärfer."
+        },
+        {
+          "n": 6,
+          "fix": "Zuspitzung auf den Punkt: 'Nach 80 Stunden OP löscht Onkel Uwe einfach die Excel-Tabelle für die Feiertage.' Zeig die absolute Respektlosigkeit."
+        },
+        {
+          "n": 7,
+          "fix": "Erhöhe den Einsatz: 'Irgenwer im Chat fälscht meine Unterschrift für das Feriendomizil.' Das ist illegal, nicht nur passiv-aggressiv. Mehr Eskalation!"
+        },
+        {
+          "n": 8,
+          "fix": "Stärkeres Finale: '120.000 Dollar im Monat und ich habe jeden einzelnen Chat manipuliert – bis Maya kommt.' Keine lahme Frage am Ende, sondern ein harter Cut."
+        }
+      ],
+      "fazit": "Die Serie hat eine geile visuelle Idee (Frucht- und Gemüse-Menschen mit Ziffern auf der Stirn), scheitert aber an drögem, hölzernem Skripting. Statt echter Konflikte klingen die Videos wie vorgelesene Wikipedia-Einträge. Die Übergänge ('Das siehst du in Level X') killen jeden Retention-Rate-Algorithmus sofort, weil der Zuschauer merkt, dass er in einem Funnel gefangen ist. Mehr Punch, echtes menschliches Drama und härtere Cliffhanger, sonst swipen die Leute nach 1,5 Sekunden weg."
+    }
+  ]
+}

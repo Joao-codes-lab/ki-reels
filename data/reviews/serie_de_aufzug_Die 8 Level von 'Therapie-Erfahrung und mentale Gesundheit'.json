@@ -1,0 +1,137 @@
+{
+  "best_score": 42,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 5,
+        "story": 4,
+        "identifikation": 6,
+        "verbindungen": 3,
+        "sog": 4,
+        "wut": 3,
+        "merkfaehigkeit": 5,
+        "sprache": 4
+      },
+      "gesamt": 42,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den sterilen Erzählersatz durch harten Punch: 'Ich stehe um 3 Uhr nachts im Flur, meine Hände zittern – und ich wähle zum ersten Mal die Nummer gegen den Abgrund.'"
+        },
+        {
+          "n": 2,
+          "fix": "Schmeiß das Buchhalter-Deutsch raus. Lass Sarah direkt sagen: 'Drei Sitzungen auf dieser Dreckscouch und mir wird klar: Ich bin nicht stark, ich bin einfach nur am Ende.'"
+        },
+        {
+          "n": 3,
+          "fix": "Mach den Konflikt greifbar statt theoretisch: '120 Euro pro Stunde, weil die Kasse mich hängen lässt. Mein Chef grinst, während mein Herz im Minutentakt explodiert.'"
+        },
+        {
+          "n": 4,
+          "fix": "Klingt zu nach Aufsatz. Besser: 'Acht Fremde im Stuhlkreis. Als der Typ neben mir weint, bricht in mir alles zusammen, was ich jahrelang weggesperrt habe.'"
+        },
+        {
+          "n": 5,
+          "fix": "Kürzen und zuspitzen: 'J jahrelang anderen geholfen, jetzt liege ich selbst in der Tagesklinik. Und dann steht plötzlich der Typ vor mir, den ich gestern noch weggeschickt habe.'"
+        },
+        {
+          "n": 6,
+          "fix": "Mehr Biss für die Therapeutin: 'Seit zwanzig Jahren höre ich mir die Scheiße anderer an. Bis eine einfache Frage mich zwingt, in meinen eigenen Keller zu gucken.'"
+        },
+        {
+          "n": 7,
+          "fix": "Weg mit dem Pathos: 'Mit 61 kapiere ich erst, dass mein ganzer Perfektionismus nur Angst war. Dann klingelt das Handy – mit der Nummer, die ich seit 30 Jahren blockiere.'"
+        },
+        {
+          "n": 8,
+          "fix": "Keine Meta-Fragen am Ende. Harter Schluss: 'Acht Leben, ein Aufzug. Wir dachten, wir wären allein. Bis sich die Türen öffnen und wir merken: Niemand von uns ist es.'"
+        }
+      ],
+      "fazit": "Produzent & Zuschauer-Urteil: Das ist zu behäbig, zu Therapiestunden-mäßig und viel zu brav für TikTok. Nach zwei Sekunden wischt jeder weg, weil es wie ein animierter Ratgeber statt wie eine virale Serie klingt. Die Querverweise finden im Off statt und das Antagonisten-System zündet null, weil man die Fieslinge kaum spürt. Mehr Schmerz, mehr Tempo, weniger Psychologen-Sprech."
+    },
+    {
+      "scores": {
+        "hook": 5,
+        "story": 4,
+        "identifikation": 6,
+        "verbindungen": 4,
+        "sog": 3,
+        "wut": 3,
+        "merkfaehigkeit": 5,
+        "sprache": 4
+      },
+      "gesamt": 42,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ändere den Hook zu: 'Drei Uhr nachts, Kassen-Hotline besetzt, und das Gefühl, dass gleich alles kollabiert. Level 1.'"
+        },
+        {
+          "n": 2,
+          "fix": "Kürze den Story-Teil auf den Konflikt: 'Drei Sitzungen auf der Dreckscouch – und mir wird klar: Ich bin nicht stark, ich bin einfach nur leer.'"
+        },
+        {
+          "n": 3,
+          "fix": "Schärfe den Konflikt: '120 Euro pro Stunde, damit mein Chef weitergrinsen kann, während mein Herz explodiert.'"
+        },
+        {
+          "n": 4,
+          "fix": "Erhöhe den Sog: Ersetze das sterile 'Therapeuten-Telefon klingelt' durch eine konkrete Bedrohung für den nächsten Teil."
+        },
+        {
+          "n": 5,
+          "fix": "Verbinde die Gegenspieler besser: Zeige in Level 5 kurz visuell, wie Tom (Level 1) den Pfleger anbrüllt, während David zusieht."
+        }
+      ],
+      "fazit": "Guter Ansatz beim Thema mentale Gesundheit, aber dramaturgisch viel zu viel 'Tell' statt 'Show'. Die Sätze sind sperrig, die Übergänge haken, und die offene Frage am Ende jedes Clips verpufft, weil sie zu generisch ist. Mehr Schmerz, mehr Tempo, härtere Kontraste."
+    },
+    {
+      "scores": {
+        "hook": 5,
+        "story": 4,
+        "identifikation": 6,
+        "verbindungen": 3,
+        "sog": 4,
+        "wut": 3,
+        "merkfaehigkeit": 5,
+        "sprache": 4
+      },
+      "gesamt": 42,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ändere den Hook zu: 'Drei Uhr nachts, Kassen-Hotline besetzt, und der Typ vor mir lacht über meinen Kassenstatus.' (Sofortiger Konflikt, kein lautes Erklär-Intro)."
+        },
+        {
+          "n": 2,
+          "fix": "Streich den Meta-Satz 'Drei Sitzungen auf der Dreckscouch'. Sag stattdessen: 'Nach drei Sitzungen sagt die Therapeutin den Satz, der mein Kartenhaus einreißt: Du musst nicht für alle stark sein.'"
+        },
+        {
+          "n": 3,
+          "fix": "Kürze den Text auf den Punkt: '120 Euro pro Stunde, damit mein Chef weitergrinsen kann, während ich im Glasbüro unsichtbar verbrenne.'"
+        },
+        {
+          "n": 4,
+          "fix": "Weg mit der Passagen-Aufzählung. Ersetze durch: 'Acht Fremde im Stuhlkreis. Als der Typ neben mir weint, bricht alles in mir zusammen.'"
+        },
+        {
+          "n": 5,
+          "fix": "Verbinde die Handlung direkt mit Tom aus Level 1: 'Im Flur brüllt derselbe Typ, den ich gestern noch ignoriert habe, den Pfleger an. Jetzt liege ich selbst hier.'"
+        },
+        {
+          "n": 6,
+          "fix": "Konkreter machen: 'Seit zwanzig Jahren höre ich mir den Schmerz anderer an – bis mich eine einfache Frage in meinen eigenen Keller zwingt.'"
+        },
+        {
+          "n": 7,
+          "fix": "Mehr Schärfe: 'Mit 61 kapiere ich, dass mein Perfektionismus nur Angst war. Dann klingelt das Handy mit genau der Nummer, die ich seit 30 Jahren blockiere.'"
+        },
+        {
+          "n": 8,
+          "fix": "Das Finale muss knallen: 'Acht Leben, ein Aufzug. Wir dachten, wir wären allein mit unseren Dämonen. Bis sich die Tür öffnet.'"
+        }
+      ],
+      "fazit": "Die Serie hat ein starkes, emotional wichtiges Thema (Mentale Gesundheit/Therapie), leidet aber massiv an gekünstelten, oft kitschigen Monologen und Meta-Erklärungen ('Die 8 Level von...'). Der Zuschauer im Alter von 18-30 wischt nach 2 Sekunden weg, wenn Figuren wie in einem schlechten Hörbuch ihre Gefühle vorlesen, statt sie zu zeigen. Die Querverweise zwischen den Leveln sind zu versteckt und zahlen nicht genug auf den Spannungsbogen (Sog) ein. Weniger Poesie, mehr harte, ungeschönte Realität!"
+    }
+  ]
+}

@@ -1,0 +1,611 @@
+{
+  "title": "Die 8 Level von Elterlicher Support",
+  "house": "A bustling German city where anthropomorphic fruit and vegetable people live, featuring modern apartments, busy tram lines, a central Kiosk, and neon digital numbers glowing brightly on every foreheads.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Barista in Level 2 mentions a generous man in a tailored suit who leaves massive tips.",
+    "A dropped golden coin appears near the tram stop in Level 4, picked up later in Level 7.",
+    "A harsh voicemail from Level 8 echoes in the background of Level 1."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was genau stand in dem blauen Umschlag, den der Anwalt auf den Tisch geknallt hat?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Lacht sie aus und streicht ihr den monatlichen Unterhalt komplett."
+      },
+      "name": "Marie, 19, Studentin",
+      "badge": "0 € Erbe / Monat",
+      "verdict": "KOMPLETT ALLEIN",
+      "story": "Level 1. Minus zwölf Euro auf dem Konto, während hinter mir im Penny die Kassiererin schon die Augen verdreht. Mein Vater hat mir zum Auszug nur einen dummen Spruch dagelassen. Kein Cent, kein Support. Ich arbeite im Callcenter, um meine Miete fürs WG-Zimmer in Köln-Ehrenfeld zu zahlen. Pünktlich zahlen ist hier Pflicht. Mein Handy vibriert, die App zeigt minus 12 Euro. Ich schlucke den Kloß runter. Wer bezahlt eure Rechnungen, wenn der Notgroschen fehlt? Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+50 €",
+        "after": "38 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Minus zwölf Euro auf dem Konto, während hinter mir im Penny die Kassiererin schon die Augen verdreht."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Vater hat mir zum Auszug nur einen dummen Spruch dagelassen. Kein Cent, kein Support."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich arbeite im Callcenter, um meine Miete fürs WG-Zimmer in Köln-Ehrenfeld zu zahlen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Pünktlich zahlen ist hier Pflicht."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Handy vibriert, die App zeigt minus 12 Euro. Ich schlucke den Kloß runter."
+        },
+        {
+          "s": "Figur",
+          "t": "Wer bezahlt eure Rechnungen, wenn der Notgroschen fehlt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Pünktlich zahlen ist hier Pflicht.",
+      "stats": [
+        {
+          "label": "Erbe",
+          "value": "0 €",
+          "bar": 0.01
+        },
+        {
+          "label": "Miete",
+          "value": "480 €",
+          "bar": 0.2
+        },
+        {
+          "label": "Support",
+          "value": "Keiner",
+          "bar": 0.0
+        }
+      ],
+      "character": "A young strawberry woman with tiny freckled seeds, wearing a faded oversized grey hoodie and holding a worn-out discount card. On her forehead, a bright glowing digital display reads 0 €.",
+      "visual": "A stressed strawberry woman standing at a discount supermarket checkout counter in Germany, neon digital forehead number glowing 0 €, holding a basket with cheap groceries, cinematic soft lighting, subtle golden coin hidden on the conveyor belt.",
+      "scenes": [
+        "Close-up of the strawberry woman looking anxiously at her smartphone banking app showing negative balance.",
+        "Medium shot in a crowded German discount grocery store with a blurry pear person waiting impatiently behind.",
+        "Detail shot of a small glowing digital display on her forehead showing 0 € in red numbers.",
+        "Wide shot of a typical rainy urban street in Cologne with trams passing by in the background."
+      ],
+      "caption": "Wie kommt ihr durch den Monat? #stirnzahl #erbe #geld #koeln #studentenleben #reality"
+    },
+    {
+      "n": 2,
+      "open_loop": "Wer hat den anonymen Brief im Briefkasten hinterlassen, der alles bedroht?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Kürzt die Auto-Zulage wegen angeblicher Faulheit."
+      },
+      "name": "Jonas, 24, Azubi",
+      "badge": "200 € / Monat",
+      "verdict": "KNAPP DRAN",
+      "story": "Level 2. Zweihundert Euro von Mama – und der Golf 4 raucht schon wieder auf der Standspur. Mein Ausbildungsgehalt ist nach drei Wochen weg. Der Umschlag von zu Hause hält die Karre am Laufen, mehr nicht. Dortmund frisst mich auf. Wer so schraubt, kriegt bald gar nichts mehr. Ich schlucke. Meine Eltern können nicht mehr geben, selbst wenn sie wollten. Wer rettet einen, wenn der Support wegbricht? Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "-100 €",
+        "after": "100 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Zweihundert Euro von Mama – und der Golf 4 raucht schon wieder auf der Standspur."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Ausbildungsgehalt ist nach drei Wochen weg."
+        },
+        {
+          "s": "Figur",
+          "t": "Der Umschlag von zu Hause hält die Karre am Laufen, mehr nicht. Dortmund frisst mich auf."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer so schraubt, kriegt bald gar nichts mehr."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schlucke. Meine Eltern können nicht mehr geben, selbst wenn sie wollten."
+        },
+        {
+          "s": "Figur",
+          "t": "Wer rettet einen, wenn der Support wegbricht?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Wer so schraubt, kriegt bald gar nichts mehr.",
+      "stats": [
+        {
+          "label": "Support",
+          "value": "200 €",
+          "bar": 0.15
+        },
+        {
+          "label": "Gehalt",
+          "value": "850 €",
+          "bar": 0.25
+        },
+        {
+          "label": "Auto",
+          "value": "Golf 4",
+          "bar": 0.3
+        }
+      ],
+      "character": "An orange man with textured citrus peel skin, wearing oil-stained blue mechanic overalls and a greasy baseball cap. On her forehead, a glowing green digital display reads 200 € / Mo.",
+      "visual": "An orange mechanic leaning against an old car in a dark auto repair shop, forehead glowing 200 €, holding a wrench, golden coin resting on a nearby toolbox.",
+      "scenes": [
+        "Close-up of the orange mechanic wiping grease off his forehead near the glowing number.",
+        "Medium shot in a busy garage with tools scattered everywhere under neon lights.",
+        "Detail shot of a hand opening a plain white envelope containing two 50-euro bills.",
+        "Wide shot of an industrial street in Dortmund during dusk."
+      ],
+      "caption": "Wie viel steuern eure Eltern bei? #stirnzahl #azubi #ausbildung #geld #dortmund #eltern"
+    },
+    {
+      "n": 3,
+      "open_loop": "Warum lag der Schlüssel für die Eigentumswohnung plötzlich auf dem Küchentisch seiner Schwester?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Nennt ihn einen Undankbaren, weil er ein eigenes Auto statt eines Neuwagens will."
+      },
+      "name": "Leon, 26, Junior-Berater",
+      "badge": "1.000 € / Monat",
+      "verdict": "MITTELMASS",
+      "story": "Level 3. Tausend Euro Zuschuss von Papa und trotzdem penne ich hier auf Pump. 60 Stunden in der Beratung, Anzug an, aber ohne Papas Scheck läuft im Ostend gar nichts. Außen hart, innen pleite. Wer so lebt wie du, braucht sich über Schulden nicht wundern. Der Satz sitzt. Papas Scheck hängt wie ein Damoklesschwert über mir. Wer entscheidet, wann man erwachsen ist? Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+500 €",
+        "after": "1.500 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Tausend Euro Zuschuss von Papa und trotzdem penne ich hier auf Pump."
+        },
+        {
+          "s": "Figur",
+          "t": "60 Stunden in der Beratung, Anzug an, aber ohne Papas Scheck läuft im Ostend gar nichts."
+        },
+        {
+          "s": "Figur",
+          "t": "Außen hart, innen pleite."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer so lebt wie du, braucht sich über Schulden nicht wundern."
+        },
+        {
+          "s": "Figur",
+          "t": "Der Satz sitzt. Papas Scheck hängt wie ein Damoklesschwert über mir."
+        },
+        {
+          "s": "Figur",
+          "t": "Wer entscheidet, wann man erwachsen ist?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Wer so lebt wie du, braucht sich über Schulden nicht wundern.",
+      "stats": [
+        {
+          "label": "Zuschuss",
+          "value": "1.000 €",
+          "bar": 0.4
+        },
+        {
+          "label": "Miete",
+          "value": "1.400 €",
+          "bar": 0.6
+        },
+        {
+          "label": "Erbe",
+          "value": "Offen",
+          "bar": 0.5
+        }
+      ],
+      "character": "An avocado man with textured green skin and a distinctive dark pit-shaped pattern on his cheek, wearing a sharp navy blue slim-fit suit. On her forehead, a glowing digital display reads 1.000 € / Mo.",
+      "visual": "An avocado man in a sleek Frankfurt high-rise office looking out the window at the skyline, forehead glowing 1.000 €, holding a coffee cup, tiny golden coin on the windowsill.",
+      "scenes": [
+        "Close-up of the avocado man adjusting his tie nervously in a glass office reflection.",
+        "Medium shot sitting at a minimalist desk with laptop and financial charts.",
+        "Detail shot of a glowing forehead number 1.000 € reflecting in a glass window.",
+        "Wide shot of Frankfurt skyline at twilight with modern skyscrapers."
+      ],
+      "caption": "Wie finanzieren sich junge Professionals in der Großstadt? #stirnzahl #karriere #frankfurt #geld #beratung #lifestyle"
+    },
+    {
+      "n": 4,
+      "open_loop": "Was stand in dem Testament, das der Notar heimlich im Tresor versteckt hatte?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Wirft ihr vor, im Leben nur dank reicher Eltern weiterzukommen."
+      },
+      "name": "Sophie, 28, Fotografin",
+      "badge": "50.000 € vorgezogen",
+      "verdict": "GESICHERT",
+      "story": "Level 4. Fünfzigtausend Euro Startkapital vom Vater – und jede Foto-Abrechnung in Hamburg bringt mich zum Zittern. Alle sagen, das Studio ist nur Papas Scheckheft. Ich will es allein schaffen, aber die Angst frisst mich auf. Dein Studio sieht teuer aus, aber ob deine Bilder das wert sind, bezweifle ich. Das saß. Wem beweist ihr eigentlich, dass ihr es schafft? Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+10.000 €",
+        "after": "60.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Fünfzigtausend Euro Startkapital vom Vater – und jede Foto-Abrechnung in Hamburg bringt mich zum Zittern."
+        },
+        {
+          "s": "Figur",
+          "t": "Alle sagen, das Studio ist nur Papas Scheckheft. Ich will es allein schaffen, aber die Angst frisst mich auf."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Dein Studio sieht teuer aus, aber ob deine Bilder das wert sind, bezweifle ich."
+        },
+        {
+          "s": "Figur",
+          "t": "Das saß. Wem beweist ihr eigentlich, dass ihr es schafft?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Dein Studio sieht teuer aus, aber ob deine Bilder das wert sind, bezweifle ich.",
+      "stats": [
+        {
+          "label": "Vorschuss",
+          "value": "50.000 €",
+          "bar": 0.55
+        },
+        {
+          "label": "Studio",
+          "value": "Bezahlt",
+          "bar": 0.7
+        },
+        {
+          "label": "Druck",
+          "value": "Hoch",
+          "bar": 0.8
+        }
+      ],
+      "character": "A bright yellow lemon woman with textured porous skin, wearing a stylish black artist smock and round wire-rimmed glasses. On her forehead, a glowing digital display reads 50.000 €.",
+      "visual": "A lemon woman standing in her bright photography studio in Hamburg, adjusting a vintage camera, forehead glowing 50.000 €, golden coin half-hidden under a camera tripod.",
+      "scenes": [
+        "Close-up of the lemon woman looking critically at a printed photograph on her desk.",
+        "Medium shot in a sunlit industrial loft studio with professional lighting equipment.",
+        "Detail shot of the bright glowing forehead display showing 50.000 €.",
+        "Wide shot of a trendy backyard in Hamburg's Schanzenviertel."
+      ],
+      "caption": "Wie viel Starthilfe hattet ihr im Leben? #stirnzahl #fotografie #hamburg #selbstständig #geld #erbe"
+    },
+    {
+      "n": 5,
+      "open_loop": "Welche Bedingungen standen in dem geheimen Schenkungsvertrag, den sie unterschreiben musste?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Beschwert sich laut über ihre Privilegien, während er selbst kämpft."
+      },
+      "name": "Ben, 29, Architekt",
+      "badge": "250.000 € Erbe",
+      "verdict": "SICHERES POLSTER",
+      "story": "Level 5. Viertelmillion Erbe für die Altbauwohnung – und plötzlich gehört mein ganzes Leben der Familie. Die Anzahlung war ein Geschenk, aber jetzt soll ich das Unternehmen übernehmen. Wer das Kapital kriegt, muss liefern. Das Beton-Gold bindet mich wie eine Kette. Wann wird ein Geschenk zur Fessel? Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+50.000 €",
+        "after": "300.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Viertelmillion Erbe für die Altbauwohnung – und plötzlich gehört mein ganzes Leben der Familie."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Anzahlung war ein Geschenk, aber jetzt soll ich das Unternehmen übernehmen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer das Kapital kriegt, muss liefern."
+        },
+        {
+          "s": "Figur",
+          "t": "Das Beton-Gold bindet mich wie eine Kette."
+        },
+        {
+          "s": "Figur",
+          "t": "Wann wird ein Geschenk zur Fessel?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Wer von uns das Kapital kriegt, muss auch das Familienunternehmen übernehmen.",
+      "stats": [
+        {
+          "label": "Erbe",
+          "value": "250.000 €",
+          "bar": 0.65
+        },
+        {
+          "label": "Immobilie",
+          "value": "Altbau",
+          "bar": 0.8
+        },
+        {
+          "label": "Bindung",
+          "value": "Hoch",
+          "bar": 0.85
+        }
+      ],
+      "character": "A broccoli man with rich green florets forming his hair and head structure, wearing a beige turtleneck sweater and modern designer glasses. On her forehead, a glowing digital display reads 250.000 €.",
+      "visual": "A broccoli man standing in a high-ceiling Berlin Altbau apartment with exposed brick and large windows, forehead glowing 250.000 €, golden coin placed on an architectural model on the table.",
+      "scenes": [
+        "Close-up of the broccoli man looking thoughtfully at architectural blueprints.",
+        "Medium shot in a spacious Berlin apartment filled with designer furniture and plants.",
+        "Detail shot of the digital forehead display shining 250.000 € in warm room light.",
+        "Wide shot of a quiet treelined street in Prenzlauer Berg during autumn."
+      ],
+      "caption": "Ab welchem Betrag verändert Geld die Familie? #stirnzahl #architektur #berlin #immobilien #erbe #geld"
+    },
+    {
+      "n": 6,
+      "open_loop": "Was war der wahre Grund, warum der Vater das gesamte Stiftungsvermögen sperren ließ?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Beschuldigt ihn, seine Machtposition nur durch Papas Geld bekommen zu haben."
+      },
+      "name": "Clara, 31, Stiftungsmanagerin",
+      "badge": "1,2 Mio. € Trust",
+      "verdict": "ABGESICHERT",
+      "story": "Level 6. Eine Million im Trust und ich fühle mich trotzdem wie der größte Versager. Die Stiftung in München läuft, aber jeder Erfolg wird auf Papas Geld reduziert. Ohne den Trust wärst du eine Nullnummer. Der Satz traf wie ein Hammer. Wie geht man damit um, wenn niemand an die eigene Leistung glaubt? Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+300.000 €",
+        "after": "1,5 Mio. "
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Eine Million im Trust und ich fühle mich trotzdem wie der größte Versager."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Stiftung in München läuft, aber jeder Erfolg wird auf Papas Geld reduziert."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Ohne den Trust wärst du eine Nullnummer."
+        },
+        {
+          "s": "Figur",
+          "t": "Der Satz traf wie ein Hammer."
+        },
+        {
+          "s": "Figur",
+          "t": "Wie geht man damit um, wenn niemand an die eigene Leistung glaubt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Ohne den Trust der Familie wärst du beruflich eine Nullnummer.",
+      "stats": [
+        {
+          "label": "Trust",
+          "value": "1,2 Mio €",
+          "bar": 0.75
+        },
+        {
+          "label": "Budget",
+          "value": "Unbegrenzt",
+          "bar": 0.85
+        },
+        {
+          "label": "Druck",
+          "value": "Maximal",
+          "bar": 0.9
+        }
+      ],
+      "character": "A coconut woman with a fibrous, hard brown textured head structure, wearing an elegant white cashmere blazer and pearl earrings. On her forehead, a glowing digital display reads 1,2 Mio. €.",
+      "visual": "A coconut woman sitting in a luxurious office overlooking Munich, wearing a white blazer, forehead glowing 1,2 Mio. €, holding a crystal glass, golden coin resting on a stack of legal documents.",
+      "scenes": [
+        "Close-up of the coconut woman looking coldly and defensively into the camera.",
+        "Medium shot in a high-end Munich boardroom with leather chairs and mahogany tables.",
+        "Detail shot of the bright glowing forehead display showing 1,2 Mio. €.",
+        "Wide shot of a luxury villa driveway in Grünwald near Munich."
+      ],
+      "caption": "Ist erblicher Reichtum Segen oder Fluch? #stirnzahl #muenchen #stiftung #geld #erbe #lifestyle"
+    },
+    {
+      "n": 7,
+      "open_loop": "Was befand sich in dem verschlossenen Bankschließfach, das nur er öffnen durfte?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Versucht, das gemeinsame Grundstück günstig abzuluchsen."
+      },
+      "name": "Maximilian, 35, Investor",
+      "badge": "5 Mio. € Erbe",
+      "verdict": "ELITÄR",
+      "story": "Level 7. Fünf Millionen Immobilien und die permanente Panik, dass mir alles wegbricht. Frankfurt, Zürich, das Imperium gehört mir, aber die Feinde auch. Wer den Namen trägt, erbt nur Stress. Mein Alltag ist pure Kontrolle. Wie weit würdet ihr gehen? Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1 Mio. €",
+        "after": "6 Mio. €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Fünf Millionen Immobilien und die permanente Panik, dass mir alles wegbricht."
+        },
+        {
+          "s": "Figur",
+          "t": "Frankfurt, Zürich, das Imperium gehört mir, aber die Feinde auch."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer den Namen trägt, erbt nur Stress."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Alltag ist pure Kontrolle."
+        },
+        {
+          "s": "Figur",
+          "t": "Wie weit würdet ihr gehen?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Wer den Namen seines Vaters trägt, erbt nicht nur Geld, sondern auch dessen Feinde.",
+      "stats": [
+        {
+          "label": "Portfolio",
+          "value": "5 Mio. €",
+          "bar": 0.9
+        },
+        {
+          "label": "Macht",
+          "value": "Sehr hoch",
+          "bar": 0.95
+        },
+        {
+          "label": "Sicherheit",
+          "value": "Absolut",
+          "bar": 1.0
+        }
+      ],
+      "character": "A striking dragon fruit man with vibrant pink skin and green leafy scale-like spikes, wearing a tailored charcoal three-piece suit and silk tie. On her forehead, a glowing digital display reads 5 Mio. €.",
+      "visual": "A dragon fruit man standing on a luxury penthouse balcony in Frankfurt overlooking the financial district at night, forehead glowing 5 Mio. €, holding an espresso cup, golden coin on the railing.",
+      "scenes": [
+        "Close-up of the dragon fruit man looking intensely and confidently into the camera.",
+        "Medium shot inside a luxury penthouse with panoramic glass windows and modern art.",
+        "Detail shot of the bright glowing forehead display showing 5 Mio. € in neon white.",
+        "Wide shot of an exclusive private jet runway at a German airport."
+      ],
+      "caption": "Macht Geld wirklich glücklich oder nur einsam? #stirnzahl #millionär #investment #immobilien #erbe #finanzen"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welche überraschende Entscheidung traf der Patriarch am Ende mit dem gesamten Vermögen?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Fordert die Rückzahlung des Startkapitals und bricht jeden Kontakt ab."
+      },
+      "name": "Viktor, 62, Patriarch",
+      "badge": "Unendlich / Allein",
+      "verdict": "DER URSPRUNG",
+      "story": "Level 8. Unendlich viel Geld auf dem Konto – und nicht ein einziger Mensch, der mich anruft. Ich habe das Imperium aufgebaut, das alle spaltet. Jedes Geschenk war ein Test, jede Auflage eine Prüfung. Wer alles hat, hat niemanden mehr. Welches Thema als Nächstes?",
+      "gender": "m",
+      "twist": {
+        "delta": "RESET",
+        "after": "0 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Unendlich viel Geld auf dem Konto – und nicht ein einziger Mensch, der mich anruft."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe das Imperium aufgebaut, das alle spaltet."
+        },
+        {
+          "s": "Figur",
+          "t": "Jedes Geschenk war ein Test, jede Auflage eine Prüfung."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer alles hat, hat niemanden mehr."
+        },
+        {
+          "s": "Figur",
+          "t": "Welches Thema als Nächstes?"
+        }
+      ],
+      "quote": "Wer alles hat, hat am Ende niemanden mehr, der ihn umarmt.",
+      "stats": [
+        {
+          "label": "Vermögen",
+          "value": "Unendlich",
+          "bar": 1.0
+        },
+        {
+          "label": "Macht",
+          "value": "Absolut",
+          "bar": 1.0
+        },
+        {
+          "label": "Einsamkeit",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "A majestic golden pineapple man with spiky crown leaves, wearing a heavy velvet smoking jacket and gold-rimmed glasses. On her forehead, a glowing digital display reads Unendlich.",
+      "visual": "An older pineapple man sitting in a grand, antique-filled study of a historic German mansion, looking thoughtfully into the fireplace, forehead glowing Unendlich, golden coin on the mantlepiece.",
+      "scenes": [
+        "Close-up of the pineapple man closing an old leather-bound family ledger.",
+        "Medium shot in a magnificent historic mansion library with dark wood bookshelves.",
+        "Detail shot of the forehead display shining the infinite symbol in bright gold.",
+        "Wide shot of a grand estate entrance gate in Germany at sunset."
+      ],
+      "caption": "Welches Thema sollen wir als Nächstes zeigen? Schreibt es in die Kommentare! #stirnzahl #erbe #familie #milliardär #geld #drama"
+    }
+  ],
+  "lang": "de",
+  "topic": "Die 8 Level von 'Elterlicher Support und Erbe-Aussicht'",
+  "frame": "frucht"
+}

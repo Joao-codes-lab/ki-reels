@@ -1,0 +1,445 @@
+{
+  "title": "The 8 Levels of Corporate Small Talk",
+  "house": "a bustling corporate high-rise in Chicago today",
+  "catchphrase": "Let's take this offline.",
+  "links": [
+    "Level 1 intern mentions grabbing coffee at the lobby cart where Level 2 barista works.",
+    "Level 2 barista complains about a quiet man in a grey suit who leaves huge tips (Level 8).",
+    "Level 3 project manager envies the corner office views of Level 6.",
+    "Level 4 HR specialist receives an awkward elevator nod from Level 7.",
+    "Level 5 marketing lead copies presentation slides from Level 6's discarded drafts."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "What hidden message was locked inside the printer error log?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Passed by without making eye contact and deleted my vacation request."
+      },
+      "name": "Marcus, 22, Intern",
+      "badge": "0 Small Talk Skills",
+      "verdict": "TOTAL AWKWARDNESS",
+      "story": "Level 1: Zero small talk skills left me staring at the copy machine in absolute panic. My sweat was dripping onto the freshly printed quarterly reports. I tried to blend in by nodding at the senior VP. He just glared and said, \"You are holding the paper upside down, kid.\" That sentence shattered my entire corporate soul right there. Then the printer jammed on every single sheet. I quickly tapped my phone screen to check my meager bank balance of $120.00 left for rent. My heart pounded against my ribs like a trapped bird. The silence in the hallway stretched out for hours. Was this my entire future in corporate America? I needed to escape this floor immediately. Then my manager whispered the exact words that made my blood run cold. You'll see that in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-50 $",
+        "after": "$70.00"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Level 1: Zero small talk skills left me staring at the copy machine in absolute panic. My sweat was dripping onto the freshly printed quarterly reports. I tried to blend in by nodding at the senior VP. He just glared and said, \"You are holding the paper upside down, kid.\" That sentence shattered my entire corporate soul right there. Then the printer jammed on every single sheet. I quickly tapped my phone screen to check my meager bank balance of $120.00 left for rent. My heart pounded against my ribs like a trapped bird. The silence in the hallway stretched out for hours. Was this my entire future in corporate America? I needed to escape this floor immediately. Then my manager whispered the exact words that made my blood run cold."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You are holding the paper upside down, kid.",
+      "stats": [
+        {
+          "label": "Small Talk",
+          "value": "0%",
+          "bar": 0.05
+        },
+        {
+          "label": "Anxiety",
+          "value": "99%",
+          "bar": 0.95
+        },
+        {
+          "label": "Coffee Runs",
+          "value": "14",
+          "bar": 0.2
+        }
+      ],
+      "character": "Cream-white round balloon head, no nose, tiny dot eyes, worried curved eyebrows. Messy brown hair, oversized grey intern hoodie, holding a stack of jammed printer paper with a tiny golden coin sticker hidden on the paper tray.",
+      "visual": "A nervous young man sweating in front of a smoking office copy machine under harsh fluorescent lighting, holding jammed papers, cinematic close-up, dramatic shadows.",
+      "scenes": [
+        "Close-up of nervous sweat dropping onto corporate papers near a hidden tiny golden coin sticker.",
+        "Wide shot of a sterile, empty office corridor with flickering ceiling lights.",
+        "Over-the-shoulder shot looking at a glowing smartphone screen showing a low bank balance.",
+        "Low-angle shot of a stern senior manager looming with crossed arms."
+      ],
+      "caption": "Ever felt totally lost on your first day at the office? Drop your worst work memory below! #CorporateLife #SmallTalk #OfficeHumor #Career #Workplace"
+    },
+    {
+      "n": 2,
+      "open_loop": "Why did the mysterious executive leave a blank envelope on the counter?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Complained my oat milk foam was asymmetric during a board meeting call."
+      },
+      "name": "Chloe, 25, Barista",
+      "badge": "12 Zoom Chat Puns",
+      "verdict": "AWKWARD SMILE",
+      "story": "Level 2: Twelve terrible Zoom chat puns later, I was still stuck making iced lattes for remote executives who never tip. I smiled brightly while mentally calculating my unpaid electricity bill of $310. A regular in a crisp suit walked up and slammed his laptop down on my counter. He looked right through me and ordered a triple shot espresso with zero foam. Then he dropped this absolute bomb on me: \"Your cheerfulness is frankly disturbing before nine a.m.\" My hands froze on the steam wand as the milk hissed loudly. I forced another fake smile while my phone buzzed with an eviction warning. The entire cafe went dead silent except for the grinding coffee beans. What was I supposed to say to someone who viewed human interaction as an inefficiency? I reached for the napkin dispenser with trembling fingers. Then he whispered the exact words that made my stomach drop. You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+5 $",
+        "after": "$315"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Level 2: Twelve terrible Zoom chat puns later, I was still stuck making iced lattes for remote executives who never tip. I smiled brightly while mentally calculating my unpaid electricity bill of $310. A regular in a crisp suit walked up and slammed his laptop down on my counter. He looked right through me and ordered a triple shot espresso with zero foam. Then he dropped this absolute bomb on me: \"Your cheerfulness is frankly disturbing before nine a.m.\" My hands froze on the steam wand as the milk hissed loudly. I forced another fake smile while my phone buzzed with an eviction warning. The entire cafe went dead silent except for the grinding coffee beans. What was I supposed to say to someone who viewed human interaction as an inefficiency? I reached for the napkin dispenser with trembling fingers. Then he whispered the exact words that made my stomach drop."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Your cheerfulness is frankly disturbing before nine a.m.",
+      "stats": [
+        {
+          "label": "Small Talk",
+          "value": "25%",
+          "bar": 0.2
+        },
+        {
+          "label": "Caffeine",
+          "value": "6 cups",
+          "bar": 0.6
+        },
+        {
+          "label": "Tips",
+          "value": "$4.15",
+          "bar": 0.15
+        }
+      ],
+      "character": "Cream-white round balloon head, no nose, tiny dot eyes, raised energetic eyebrows. Bright pink beanie, teal apron over black shirt, holding a steaming milk pitcher with a tiny golden coin sticker on the espresso machine side panel.",
+      "visual": "A young female barista smiling tightly behind a crowded coffee bar, steam rising from an espresso machine, warm golden morning light streaming through glass windows.",
+      "scenes": [
+        "Medium shot of espresso machine spewing white steam next to a tiny golden coin sticker.",
+        "Close-up of a smartphone screen displaying a flashing overdue electricity bill notification.",
+        "Side profile of an impatient customer tapping his expensive wristwatch.",
+        "Wide shot of a bustling downtown coffee shop filled with laptop workers."
+      ],
+      "caption": "Retail and service workers know this fake smile all too well. Have you dealt with a rude morning customer? #BaristaLife #ServiceIndustry #CoffeeShop #CustomerService #WorkLife"
+    },
+    {
+      "n": 3,
+      "open_loop": "Who approved the budget cut that destroyed the entire project folder?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Forwarded my broken spreadsheet directly to the VP without telling me."
+      },
+      "name": "David, 31, Project Manager",
+      "badge": "45 Unmuted Mics",
+      "verdict": "MUTED FOREVER",
+      "story": "Level 3: Forty-five unmuted mics during my quarterly presentation nearly gave me a panic attack on live video. My hands were shaking so badly I spilled black coffee all over my wireless keyboard. I stared at the gallery view of thirty blank corporate avatars staring back at me in total judgment. My boss leaned into his webcam microphone and interrupted my flow without warning. He looked straight into his camera and dropped the killer line: \"Nobody cares about your data points, David, cut to the conclusion.\" The dead silence in the virtual meeting room felt heavier than an anchor. My face burned red while my quarterly performance score flashed on my second monitor at 48 percent. How was I supposed to recover my career after that public execution? I clutched my stress ball until my knuckles turned completely white. Then a private chat notification blinked on my screen with a chilling warning. You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-15 %",
+        "after": "33 %"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Level 3: Forty-five unmuted mics during my quarterly presentation nearly gave me a panic attack on live video. My hands were shaking so badly I spilled black coffee all over my wireless keyboard. I stared at the gallery view of thirty blank corporate avatars staring back at me in total judgment. My boss leaned into his webcam microphone and interrupted my flow without warning. He looked straight into his camera and dropped the killer line: \"Nobody cares about your data points, David, cut to the conclusion.\" The dead silence in the virtual meeting room felt heavier than an anchor. My face burned red while my quarterly performance score flashed on my second monitor at 48 percent. How was I supposed to recover my career after that public execution? I clutched my stress ball until my knuckles turned completely white. Then a private chat notification blinked on my screen with a chilling warning."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Nobody cares about your data points, David, cut to the conclusion.",
+      "stats": [
+        {
+          "label": "Small Talk",
+          "value": "40%",
+          "bar": 0.4
+        },
+        {
+          "label": "Zoom Calls",
+          "value": "8h/day",
+          "bar": 0.75
+        },
+        {
+          "label": "Stress",
+          "value": "88%",
+          "bar": 0.85
+        }
+      ],
+      "character": "Cream-white round balloon head, no nose, tiny dot eyes, furrowed stressed eyebrows. Short blonde fringe, blue dress shirt with top button undone, wearing a cheap headset with a tiny golden coin sticker on the headband.",
+      "visual": "A stressed man staring into a laptop screen displaying a grid of video conference participants, ring light reflecting in his glasses, dark home office background.",
+      "scenes": [
+        "Close-up of a laptop screen showing multiple video call boxes and a tiny golden coin sticker on the bezel.",
+        "Over-the-shoulder shot of spilled black coffee pooling around keyboard keys.",
+        "Medium shot of the man gripping his head in frustration under blue monitor glow.",
+        "Extreme close-up of a blinking red recording light on a webcam."
+      ],
+      "caption": "The dreaded 'you're on mute' moment is every remote worker's nightmare. Have you ever messed up a big presentation? #ZoomFail #RemoteWork #ProjectManager #CorporateHumor #OfficeLife"
+    },
+    {
+      "n": 4,
+      "open_loop": "What confidential file was left open on the office printer tray?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Denied my desk relocation request without giving any reason."
+      },
+      "name": "Sarah, 29, HR Specialist",
+      "badge": "89 Compliance Forms",
+      "verdict": "POLICY BREACH",
+      "story": "Level 4: Eighty-nine compliance forms sat on my desk, waiting to crush another employee's spirit. I spent my entire morning mediating a ridiculous dispute over desk microwave etiquette. My headset hummed with complaints while my own inbox overflowed with termination paperwork. A senior executive strolled into my cubicle without knocking and tossed a complaint folder on my desk. She adjusted her expensive designer glasses and gave me a cold, calculating stare. Without missing a beat, she uttered the sentence that made my job feel completely meaningless: \"Just sweep the harassment claim under the rug, nobody wants paperwork.\" My blood ran ice cold as I realized what corporate protectionism really looked like. My own annual salary review of $64,000 flashed on my desktop screen like a bribe. How could I pretend to protect anyone when the system rewarded silence? I clutched my stapler while my hands shook uncontrollably. Then my desk phone started ringing with an extension I had never seen before. You'll see that in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+3.000 $",
+        "after": "$67.000"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Level 4: Eighty-nine compliance forms sat on my desk, waiting to crush another employee's spirit. I spent my entire morning mediating a ridiculous dispute over desk microwave etiquette. My headset hummed with complaints while my own inbox overflowed with termination paperwork. A senior executive strolled into my cubicle without knocking and tossed a complaint folder on my desk. She adjusted her expensive designer glasses and gave me a cold, calculating stare. Without missing a beat, she uttered the sentence that made my job feel completely meaningless: \"Just sweep the harassment claim under the rug, nobody wants paperwork.\" My blood ran ice cold as I realized what corporate protectionism really looked like. My own annual salary review of $64,000 flashed on my desktop screen like a bribe. How could I pretend to protect anyone when the system rewarded silence? I clutched my stapler while my hands shook uncontrollably. Then my desk phone started ringing with an extension I had never seen before."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Just sweep the harassment claim under the rug, nobody wants paperwork.",
+      "stats": [
+        {
+          "label": "Small Talk",
+          "value": "55%",
+          "bar": 0.55
+        },
+        {
+          "label": "Complaints",
+          "value": "142",
+          "bar": 0.7
+        },
+        {
+          "label": "Salary",
+          "value": "$64k",
+          "bar": 0.5
+        }
+      ],
+      "character": "Cream-white round balloon head, no nose, tiny dot eyes, skeptical arched eyebrows. Dark hair tied in a strict bun, beige blazer, pearl earrings, holding a thick compliance binder with a tiny golden coin sticker on the spine.",
+      "visual": "A serious HR specialist sitting in a grey corporate cubicle surrounded by tall stacks of paper files, cool fluorescent lighting, tense atmosphere.",
+      "scenes": [
+        "Close-up of a thick compliance folder slamming down on a wooden desk next to a tiny golden coin sticker.",
+        "Medium shot of the HR specialist looking down at her desk with a troubled expression.",
+        "Over-the-shoulder shot of a computer monitor displaying HR dispute resolution software.",
+        "Wide shot of endless rows of beige cubicles under buzzing fluorescent lights."
+      ],
+      "caption": "HR isn't always on your side, and this office reality hits hard. Have you ever dealt with shady corporate policies? #HumanResources #CorporateCulture #OfficePolitics #WorkplaceDrama #CareerAdvice"
+    },
+    {
+      "n": 5,
+      "open_loop": "Who leaked the confidential marketing strategy deck to the rival firm?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Laughed loudly when I tripped over my laptop charger in the hallway."
+      },
+      "name": "Liam, 34, Marketing Lead",
+      "badge": "150 Slide Decks",
+      "verdict": "BUZZWORD OVERLOAD",
+      "story": "Level 5: One hundred and fifty slide decks about synergy had turned my brain into corporate mush. I stood in front of the glass boardroom wall, pointing a laser at empty corporate jargon. My team nodded like bobbleheads while our retention metrics plummeted by 20 percent. The creative director leaned back in his leather chair and sighed with maximum condescension. He swirled his lukewarm sparkling water and delivered the killing blow: \"This campaign lacks disruption, Liam, it feels like a boring spreadsheet.\" The entire room erupted into nervous laughter at my expense. My throat tightened as my quarterly bonus of $5,000 vanished into thin air due to missed targets. How could I keep inventing fake enthusiasm for products nobody actually needed? I gripped my laser pointer until the plastic casing cracked in my palm. Then my phone buzzed with an urgent Slack message from the top floor. You'll see that in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "-5.000 $",
+        "after": "$75.000"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Level 5: One hundred and fifty slide decks about synergy had turned my brain into corporate mush. I stood in front of the glass boardroom wall, pointing a laser at empty corporate jargon. My team nodded like bobbleheads while our retention metrics plummeted by 20 percent. The creative director leaned back in his leather chair and sighed with maximum condescension. He swirled his lukewarm sparkling water and delivered the killing blow: \"This campaign lacks disruption, Liam, it feels like a boring spreadsheet.\" The entire room erupted into nervous laughter at my expense. My throat tightened as my quarterly bonus of $5,000 vanished into thin air due to missed targets. How could I keep inventing fake enthusiasm for products nobody actually needed? I gripped my laser pointer until the plastic casing cracked in my palm. Then my phone buzzed with an urgent Slack message from the top floor."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "This campaign lacks disruption, Liam, it feels like a boring spreadsheet.",
+      "stats": [
+        {
+          "label": "Small Talk",
+          "value": "70%",
+          "bar": 0.7
+        },
+        {
+          "label": "Buzzwords",
+          "value": "500+",
+          "bar": 0.8
+        },
+        {
+          "label": "Bonus",
+          "value": "$5k",
+          "bar": 0.45
+        }
+      ],
+      "character": "Cream-white round balloon head, no nose, tiny dot eyes, confident smiling eyebrows. Stylish stubble, turtleneck under a navy blazer, holding a tablet with a tiny golden coin sticker on the back casing.",
+      "visual": "A sleek marketing lead pointing a red laser at a glass whiteboard covered in colorful sticky notes and trendy corporate diagrams, modern glass office interior.",
+      "scenes": [
+        "Close-up of a red laser dot bouncing across a complex diagram near a tiny golden coin sticker.",
+        "Medium shot of colleagues sitting around a sleek glass meeting table looking unimpressed.",
+        "Over-the-shoulder shot of a laptop screen showing a declining growth chart.",
+        "Low-angle shot of the marketing lead standing confidently under designer pendant lights."
+      ],
+      "caption": "Corporate buzzwords sound impressive until the metrics drop. Do you love or hate marketing jargon? #MarketingLife #CorporateBuzzwords #BusinessMeeting #OfficeHumor #AgencyLife"
+    },
+    {
+      "n": 6,
+      "open_loop": "What transfer was logged in the offshore bank account at midnight?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Broke down crying during my presentation and ruined the client pitch."
+      },
+      "name": "Victoria, 41, Senior Director",
+      "badge": "$180k Base Salary",
+      "verdict": "THE GLASS CEILING",
+      "story": "Level 6: One hundred eighty thousand dollars base salary still could not buy me a seat at the real executive table. I sat at the mahogany conference table while my male peers interrupted every single sentence I spoke. My quarterly revenue growth of 35 percent was treated like a basic rounding error. The managing partner leaned forward, resting his diamond-ringed fingers on the polished wood. He looked straight into my eyes and delivered the ultimate corporate insult: \"You're too emotional for the board room, Victoria, stick to middle management.\" The temperature in the glass-walled room dropped below freezing instantly. My stock options worth $120,000 hung in the balance while my career flashed before my eyes. How much excellence did I have to prove just to earn basic professional respect? I squeezed my fountain pen so hard the ink cartridge cracked open. Then my private intercom chimed with a summons from the CEO himself. You'll see that in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+20.000 $",
+        "after": "$200.000"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Level 6: One hundred eighty thousand dollars base salary still could not buy me a seat at the real executive table. I sat at the mahogany conference table while my male peers interrupted every single sentence I spoke. My quarterly revenue growth of 35 percent was treated like a basic rounding error. The managing partner leaned forward, resting his diamond-ringed fingers on the polished wood. He looked straight into my eyes and delivered the ultimate corporate insult: \"You're too emotional for the board room, Victoria, stick to middle management.\" The temperature in the glass-walled room dropped below freezing instantly. My stock options worth $120,000 hung in the balance while my career flashed before my eyes. How much excellence did I have to prove just to earn basic professional respect? I squeezed my fountain pen so hard the ink cartridge cracked open. Then my private intercom chimed with a summons from the CEO himself."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "You're too emotional for the board room, Victoria, stick to middle management.",
+      "stats": [
+        {
+          "label": "Small Talk",
+          "value": "85%",
+          "bar": 0.85
+        },
+        {
+          "label": "Salary",
+          "value": "$180k",
+          "bar": 0.8
+        },
+        {
+          "label": "Power",
+          "value": "High",
+          "bar": 0.75
+        }
+      ],
+      "character": "Cream-white round balloon head, no nose, tiny dot eyes, sharp ambitious eyebrows. Sleek silver bob haircut, tailored white pantsuit, gold wristwatch, holding a luxury leather portfolio with a tiny golden coin sticker on the clasp.",
+      "visual": "An elegant female director sitting at the head of a long mahogany boardroom table in a high-rise skyscraper, moody cinematic side lighting, city skyline backdrop.",
+      "scenes": [
+        "Close-up of an expensive gold fountain pen resting on polished dark wood near a tiny golden coin sticker.",
+        "Medium shot of the senior director looking sternly across a large meeting table.",
+        "Over-the-shoulder shot of panoramic floor-to-ceiling windows overlooking a foggy downtown cityscape.",
+        "Low-angle shot emphasizing power dynamics in a modern executive conference room."
+      ],
+      "caption": "Reaching the top tier comes with invisible walls and intense politics. Have you ever faced corporate double standards? #ExecutiveLife #GlassCeiling #Leadership #CorporatePolitics #Career"
+    },
+    {
+      "n": 7,
+      "open_loop": "Whose name was crossed out on the final restructuring memo?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Ignored my diversity initiative report and filed it in the trash bin."
+      },
+      "name": "Richard, 48, Vice President",
+      "badge": "$450k + Stock Options",
+      "verdict": "THE INNER CIRCLE",
+      "story": "Level 7: Four hundred fifty thousand dollars plus stock options bought me a corner office with zero actual peace of mind. I stood by my floor-to-ceiling glass window, watching tiny cars crawl through the Chicago traffic far below. My executive assistant slid the latest restructuring memo across my marble desk with trembling fingers. The board chairman walked in unannounced, puffing on a cigar stub and smelling like expensive scotch. He tapped the glass partition and delivered the sentence that reminded me I was still replaceable: \"Cut another ten percent of headcount by Friday or your own desk goes next, Richard.\" The sheer brutality of corporate survival hit me like a physical blow to the chest. My personal equity portfolio of $2.2 million suddenly felt like Monopoly money in a rigged game. Who was pulling the strings at the absolute peak of this pyramid scheme? I poured a finger of scotch while my hands shook against the heavy crystal glass. Then my private secure phone rang with a call from the invisible owner. You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+50.000 $",
+        "after": "$500.000"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Level 7: Four hundred fifty thousand dollars plus stock options bought me a corner office with zero actual peace of mind. I stood by my floor-to-ceiling glass window, watching tiny cars crawl through the Chicago traffic far below. My executive assistant slid the latest restructuring memo across my marble desk with trembling fingers. The board chairman walked in unannounced, puffing on a cigar stub and smelling like expensive scotch. He tapped the glass partition and delivered the sentence that reminded me I was still replaceable: \"Cut another ten percent of headcount by Friday or your own desk goes next, Richard.\" The sheer brutality of corporate survival hit me like a physical blow to the chest. My personal equity portfolio of $2.2 million suddenly felt like Monopoly money in a rigged game. Who was pulling the strings at the absolute peak of this pyramid scheme? I poured a finger of scotch while my hands shook against the heavy crystal glass. Then my private secure phone rang with a call from the invisible owner."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "Cut another ten percent of headcount by Friday or your own desk goes next, Richard.",
+      "stats": [
+        {
+          "label": "Small Talk",
+          "value": "95%",
+          "bar": 0.95
+        },
+        {
+          "label": "Salary",
+          "value": "$450k",
+          "bar": 0.9
+        },
+        {
+          "label": "Stress",
+          "value": "Max",
+          "bar": 0.95
+        }
+      ],
+      "character": "Cream-white round balloon head, no nose, tiny dot eyes, stern commanding eyebrows. Neat grey temples, dark pinstripe suit, silk tie, holding a crystal tumbler with a tiny golden coin sticker etched on the glass base.",
+      "visual": "A high-ranking corporate executive standing inside a luxurious glass-walled corner office overlooking a vast city skyline at dusk, dramatic moody lighting.",
+      "scenes": [
+        "Close-up of a heavy crystal tumbler holding amber liquor next to a tiny golden coin sticker.",
+        "Medium shot of the executive looking out over panoramic skyscraper views.",
+        "Over-the-shoulder shot of a printed restructuring memo with bold red pen markups.",
+        "Wide cinematic shot of a lavish corner office with modern minimalist furniture."
+      ],
+      "caption": "At the top of the corporate ladder, the pressure only multiplies. Would you trade places with a VP? #CorporateLadder #ExecutiveLife #BusinessOwner #Wealth #OfficePolitics"
+    },
+    {
+      "n": 8,
+      "open_loop": "What secret code opened the private elevator to the very top floor?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Sent a passive-aggressive email questioning my entire corporate restructuring plan."
+      },
+      "name": "Arthur, 62, The Quiet Founder",
+      "badge": "100% Company Ownership",
+      "verdict": "THE ARCHITECT",
+      "story": "Level 8: One hundred percent company ownership meant I didn't have to make small talk with anyone ever again. I stood quietly in the private elevator as the digital display slowly ticked down past all eight floors of my building. I watched the confused faces of interns, baristas, project managers, and VPs through the glass doors at every stop. None of them knew that the quiet old man in the grey coat owned every single desk they stressed over. I stepped out into the lobby where Marcus from Level 1 was accidentally dropping a stack of papers. He looked up at me with sheer terror, expecting another corporate lecture or harsh reprimand. Instead, I simply smiled, picked up a stray sheet, and whispered the only rule that truly mattered: \"None of these numbers matter if you forget to live your life.\" The entire lobby fell into a profound, stunned silence as the elevator doors began to close again. What topic should we explore through the eight level elevator next? Drop your ideas in the comments right now.",
+      "gender": "m",
+      "twist": {
+        "delta": "∞",
+        "after": "Priceless"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Level 8: One hundred percent company ownership meant I didn't have to make small talk with anyone ever again. I stood quietly in the private elevator as the digital display slowly ticked down past all eight floors of my building. I watched the confused faces of interns, baristas, project managers, and VPs through the glass doors at every stop. None of them knew that the quiet old man in the grey coat owned every single desk they stressed over. I stepped out into the lobby where Marcus from Level 1 was accidentally dropping a stack of papers. He looked up at me with sheer terror, expecting another corporate lecture or harsh reprimand. Instead, I simply smiled, picked up a stray sheet, and whispered the only rule that truly mattered: \"None of these numbers matter if you forget to live your life.\" The entire lobby fell into a profound, stunned silence as the elevator doors began to close again. What topic should we explore through the eight level elevator next? Drop your ideas in the comments right now."
+        }
+      ],
+      "quote": "None of these numbers matter if you forget to live your life.",
+      "stats": [
+        {
+          "label": "Small Talk",
+          "value": "0%",
+          "bar": 0.0
+        },
+        {
+          "label": "Net Worth",
+          "value": "$1.2B",
+          "bar": 1.0
+        },
+        {
+          "label": "Control",
+          "value": "Absolute",
+          "bar": 1.0
+        }
+      ],
+      "character": "Cream-white round balloon head, no nose, tiny dot eyes, calm wise eyebrows. Silver hair, classic grey wool overcoat, holding a brass pocket watch with a tiny golden coin sticker engraved on the casing.",
+      "visual": "A serene elderly founder standing inside a sleek modern private elevator with mirrored walls reflecting soft warm interior lighting, cinematic perspective.",
+      "scenes": [
+        "Close-up of an antique brass pocket watch ticking gently near a tiny golden coin sticker.",
+        "Medium shot of the founder stepping out of elevator doors into a busy corporate lobby.",
+        "Over-the-shoulder shot looking through elevator glass doors at panicked office workers.",
+        "Wide shot of the grand skyscraper lobby as polished elevator doors slowly slide shut."
+      ],
+      "caption": "The final level reveals the person behind the entire corporate machine. What series should the Level Elevator visit next? #CorporateWorld #PlotTwist #Ending #BusinessLife #Mindset"
+    }
+  ],
+  "lang": "en",
+  "topic": "The 8 Levels of Corporate Small Talk and Zoom Meeting Etiquette",
+  "frame": "aufzug"
+}

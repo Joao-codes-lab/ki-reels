@@ -1,0 +1,676 @@
+{
+  "title": "Die 8 Level von Therapie-Erfahrung",
+  "house": "a bustling medium-sized German city with modern tram lines, historic brick buildings, and grey autumn weather",
+  "catchphrase": "Der Verstand lügt nie.",
+  "links": [
+    "Level 1 buys a cheap coffee at the kiosk where Level 3 later complains about inflation.",
+    "Level 3 drops a crumpled receipt that Level 5 picks up in the tram.",
+    "Level 5 leaves a half-empty water bottle on a bench where Level 7 later sits.",
+    "Level 7 forgets a blue umbrella at the bakery where Level 2 works."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was stand in dem mysteriösen blauen Brief vom Amtsgericht, den Tom direkt in den Müll warf?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Lacht im Wartezimmer laut über Toms Kassenpatienten-Status und drängelt sich vor."
+      },
+      "name": "Tom, 24, Lieferfahrer",
+      "badge": "0 Sitzungen",
+      "verdict": "ABSOLUTE VERWEIGERUNG",
+      "story": "Die 8 Level von Therapie-Erfahrung. Level 1. Ich schlucke jede Panikattacke einfach runter. Therapie ist nur was für Schwache, die im Leben versagt haben. Du brauchst professionelle Hilfe, bevor du komplett durchdrehst! Recht hatte er vielleicht, aber ich habe keinen Cent für private Stunden und die Kasse sagt sechs Monate Wartezeiten. Ich stehe nachts im dunklen Flur und zittere am ganzen Körper, während draußen die letzte Bahn vorbeifährt. Der Druck in meiner Brust wird sekündlich lauter. Ich muss diesen einen Anruf machen, der alles verändert. Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+3 Monate",
+        "after": "Wartelist"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Therapie-Erfahrung. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schlucke jede Panikattacke einfach runter."
+        },
+        {
+          "s": "Figur",
+          "t": "Therapie ist nur was für Schwache, die im Leben versagt haben."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Du brauchst professionelle Hilfe, bevor du komplett durchdrehst!"
+        },
+        {
+          "s": "Figur",
+          "t": "Recht hatte er vielleicht, aber ich habe keinen Cent für private Stunden und die Kasse sagt sechs Monate Wartezeiten."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe nachts im dunklen Flur und zittere am ganzen Körper, während draußen die letzte Bahn vorbeifährt."
+        },
+        {
+          "s": "Figur",
+          "t": "Der Druck in meiner Brust wird sekündlich lauter."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich muss diesen einen Anruf machen, der alles verändert."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Du brauchst professionelle Hilfe, bevor du komplett durchdrehst!",
+      "stats": [
+        {
+          "label": "Sitzungen",
+          "value": "0",
+          "bar": 0.0
+        },
+        {
+          "label": "Wartezeit",
+          "value": "6 Monate",
+          "bar": 0.1
+        },
+        {
+          "label": "Sicherheitsgefühl",
+          "value": "12%",
+          "bar": 0.15
+        }
+      ],
+      "character": "Simple round cream-white head, tiny dot eyes, expressive eyebrows, messy brown hair, wearing a worn-out neon-yellow delivery jacket, clutching a crumpled energy drink can.",
+      "visual": "Close-up of a stressed young delivery driver standing in a dark, cold hallway at night, clutching his chest with a worried expression, dim yellow ceiling light flickering.",
+      "scenes": [
+        "Medium shot of Tom throwing a blue envelope into an overflowing hallway trash can, a tiny hidden golden coin on the edge.",
+        "Close-up of Toms trembling hands holding a cheap smartphone displaying a rejection hotline screen.",
+        "Wide shot of a dreary German apartment hallway at midnight with flickering light and a window showing rain.",
+        "Over-the-shoulder shot looking at a torn list of local psychotherapists with crossed-out phone numbers."
+      ],
+      "caption": "Wer kennt diesen Moment, in dem man einfach nicht mehr weiterweiß? #Therapie #MentaleGesundheit #Level1 #Gefühle #Wartezeit",
+      "open_loop_resolved": false
+    },
+    {
+      "n": 2,
+      "open_loop": "Welche Diagnose stand auf dem gelben Zettel, den die Therapeutin langsam zusammenfaltete?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Kürzt als Sachbearbeiterin Toms offiziellen Reha-Antrag wegen Formfehlern."
+      },
+      "name": "Sarah, 31, Erzieherin",
+      "badge": "3 Sitzungen",
+      "verdict": "ERSTE ERKENNTNIS",
+      "story": "Die 8 Level von Therapie-Erfahrung. Level 2. Nach drei Sitzungen auf der alten Ledercouch dachte ich, ich hätte alles im Griff. Du musst nicht immer für alle anderen stark sein. Da ist es aus mir herausgebrochen und ich habe vor lauter Erschöpfung geweint wie ein Kind. Bist du sicher, dass alles okay ist, Schatz? Ich log und sagte ja, obwohl mein Kopf komplett kreiste. Der Raum roch nach altem Holz und Pfefferminztee. Plötzlich hörte ich das tickende Wanduhr-Geräusch, das mir signalisierte, dass die Zeit schon um ist. Was sie mir dann noch mit auf den Weg gab, änderte meinen Blick auf alles. Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1 Zettel",
+        "after": "Überweisu"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Therapie-Erfahrung. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Nach drei Sitzungen auf der alten Ledercouch dachte ich, ich hätte alles im Griff."
+        },
+        {
+          "s": "Figur",
+          "t": "Du musst nicht immer für alle anderen stark sein."
+        },
+        {
+          "s": "Figur",
+          "t": "Da ist es aus mir herausgebrochen und ich habe vor lauter Erschöpfung geweint wie ein Kind."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Bist du sicher, dass alles okay ist, Schatz?"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich log und sagte ja, obwohl mein Kopf komplett kreiste."
+        },
+        {
+          "s": "Figur",
+          "t": "Der Raum roch nach altem Holz und Pfefferminztee."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich hörte ich das tickende Wanduhr-Geräusch, das mir signalisierte, dass die Zeit schon um ist."
+        },
+        {
+          "s": "Figur",
+          "t": "Was sie mir dann noch mit auf den Weg gab, änderte meinen Blick auf alles."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Du musst nicht immer für alle anderen stark sein.",
+      "stats": [
+        {
+          "label": "Sitzungen",
+          "value": "3",
+          "bar": 0.25
+        },
+        {
+          "label": "Selbstreflexion",
+          "value": "35%",
+          "bar": 0.3
+        },
+        {
+          "label": "Mut",
+          "value": "40%",
+          "bar": 0.35
+        }
+      ],
+      "character": "Simple round cream-white head, dot eyes, neat blonde bob haircut, wearing a warm green knitted cardigan, holding a steaming ceramic mug.",
+      "visual": "Medium shot of a woman sitting in a warm, sunlit therapist office with a brown leather couch and bookshelves in the background, looking thoughtfully down at her hands.",
+      "scenes": [
+        "Close-up of a ticking vintage wall clock with a tiny golden coin engraved on the wooden frame.",
+        "Over-the-shoulder shot of two take-away coffee cups on a small wooden waiting room table.",
+        "Wide shot of a quiet Berlin side street with autumn leaves blowing past an old wooden doorway.",
+        "Close-up of a therapist's reassuring hand handing over a folded pink appointment slip."
+      ],
+      "caption": "Der Moment, in dem man merkt, dass man nicht alles allein tragen muss. #Therapie #Erzieherin #MentaleGesundheit #Level2 #Selbstfürsorge",
+      "open_loop_resolved": false
+    },
+    {
+      "n": 3,
+      "open_loop": "Warum schaute der Chefarzt so geschockt auf den Aktenordner auf seinem Schreibtisch?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Befördert den gestressten Chef an Markus vorbei, obwohl Markus den Burnout öffentlich machte."
+      },
+      "name": "Markus, 42, Projektleiter",
+      "badge": "120 € / Stunde",
+      "verdict": "SELBSTZAHLER",
+      "story": "Die 8 Level von Therapie-Erfahrung. Level 3. Ich zahle 120 Euro pro Stunde aus eigener Tasche, weil die Kasse sechs Monate blockiert. Ein echter Mann bricht wegen ein bisschen Stress nicht zusammen. Da wurde mir klar, dass dieses System mich auffrisst. Ich sitze in meinem Glasbüro im 14. Stock, schaue auf die Autobahn und spüre absolut gar nichts mehr. Mein Herz rast, aber mein Gesicht bleibt maskenhaft ruhig. Ich tippe den Bericht zu Ende, während meine Hände unkontrolliert zittern. Auf dem Bildschirm blinkt die nächste Deadline. Dann öffnete sich die Bürotür langsam und dieser eine Satz fiel... Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-120 €",
+        "after": "Rechnung"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Therapie-Erfahrung. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich zahle 120 Euro pro Stunde aus eigener Tasche, weil die Kasse sechs Monate blockiert."
+        },
+        {
+          "s": "Figur",
+          "t": "Ein echter Mann bricht wegen ein bisschen Stress nicht zusammen."
+        },
+        {
+          "s": "Figur",
+          "t": "Da wurde mir klar, dass dieses System mich auffrisst."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze in meinem Glasbüro im 14. Stock, schaue auf die Autobahn und spüre absolut gar nichts mehr."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Herz rast, aber mein Gesicht bleibt maskenhaft ruhig."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich tippe den Bericht zu Ende, während meine Hände unkontrolliert zittern."
+        },
+        {
+          "s": "Figur",
+          "t": "Auf dem Bildschirm blinkt die nächste Deadline."
+        },
+        {
+          "s": "Figur",
+          "t": "Dann öffnete sich die Bürotür langsam und dieser eine Satz fiel..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Ein echter Mann bricht wegen ein bisschen Stress nicht zusammen.",
+      "stats": [
+        {
+          "label": "Sitzungen",
+          "value": "12",
+          "bar": 0.4
+        },
+        {
+          "label": "Kosten/Std",
+          "value": "120 €",
+          "bar": 0.45
+        },
+        {
+          "label": "Stresslevel",
+          "value": "95%",
+          "bar": 0.9
+        }
+      ],
+      "character": "Simple round cream-white head, dot eyes, slicked-back dark hair with grey temples, wearing a sharp navy blue business suit without a tie, holding a sleek smartphone.",
+      "visual": "Medium shot of a middle-aged businessman standing in a modern glass skyscraper office overlooking a busy highway at dusk, looking exhausted and rubbing his temples.",
+      "scenes": [
+        "Close-up of an expensive leather billfold with a tiny golden coin tucked behind a credit card slot.",
+        "Wide shot of an empty corporate floor at 9 PM with only one desk lamp glowing.",
+        "Close-up of shaking hands typing rapidly on a mechanical keyboard with glowing blue backlight.",
+        "Over-the-shoulder shot of a laptop screen showing a red deadline warning banner."
+      ],
+      "caption": "Wenn der Erfolg den Preis fordert, den man nicht zahlen kann. #Burnout #Karriere #Selbstzahler #Level3 #MentalHealth",
+      "open_loop_resolved": false
+    },
+    {
+      "n": 4,
+      "open_loop": "Welche verheimlichte Diagnose verbarg sich hinter dem blauen Stempel auf dem Gutachten?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Ignoriert als Abteilungsleiterin in der Klinik die Notfall-Einweisung und schickt Hanna nach Hause."
+      },
+      "name": "Hanna, 29, Studentin",
+      "badge": "Gruppentherapie",
+      "verdict": "SPIEGELBILD DER SEELE",
+      "story": "Die 8 Level von Therapie-Erfahrung. Level 4. Acht fremde Menschen im Stuhlkreis, und jede Woche öffne ich eine neue Tür in meinem Kopf. Deine Angst ist nicht real, sie ist nur ein alter Film in deinem Kopf. Das traf mich tiefer als jede Vorlesung. Früher dachte ich, ich bin die Einzige mit diesen dunklen Gedanken im Hörsaal. Jetzt sitze ich hier mit meinem Notizbuch, trinke lauwarmen Kamillentee aus einem Pappbecher und merke, wie die Maske bröckelt. Jedes Mal, wenn jemand anderes seine Geschichte erzählt, sehe ich mein eigenes Spiegelbild. Das neonfarbene Licht der Praxis flackert kurz auf. Plötzlich klingelte das Telefon der Therapeutin mit einer Nachricht, die alles stoppte. Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+8 Persone",
+        "after": "Gruppe ak"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Therapie-Erfahrung. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Acht fremde Menschen im Stuhlkreis, und jede Woche öffne ich eine neue Tür in meinem Kopf."
+        },
+        {
+          "s": "Figur",
+          "t": "Deine Angst ist nicht real, sie ist nur ein alter Film in deinem Kopf."
+        },
+        {
+          "s": "Figur",
+          "t": "Das traf mich tiefer als jede Vorlesung."
+        },
+        {
+          "s": "Figur",
+          "t": "Früher dachte ich, ich bin die Einzige mit diesen dunklen Gedanken im Hörsaal."
+        },
+        {
+          "s": "Figur",
+          "t": "Jetzt sitze ich hier mit meinem Notizbuch, trinke lauwarmen Kamillentee aus einem Pappbecher und merke, wie die Maske bröckelt."
+        },
+        {
+          "s": "Figur",
+          "t": "Jedes Mal, wenn jemand anderes seine Geschichte erzählt, sehe ich mein eigenes Spiegelbild."
+        },
+        {
+          "s": "Figur",
+          "t": "Das neonfarbene Licht der Praxis flackert kurz auf."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich klingelte das Telefon der Therapeutin mit einer Nachricht, die alles stoppte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Deine Angst ist nicht real, sie ist nur ein alter Film in deinem Kopf.",
+      "stats": [
+        {
+          "label": "Sitzungen",
+          "value": "24",
+          "bar": 0.55
+        },
+        {
+          "label": "Gruppenvertrauen",
+          "value": "60%",
+          "bar": 0.6
+        },
+        {
+          "label": "Fortschritt",
+          "value": "50%",
+          "bar": 0.55
+        }
+      ],
+      "character": "Simple round cream-white head, dot eyes, messy bun with colorful hairpins, wearing an oversized vintage denim jacket, holding a red spiral notebook.",
+      "visual": "Medium shot of a young female student sitting in a circle of wooden chairs in a bright, cozy group therapy room, listening intently with a thoughtful expression.",
+      "scenes": [
+        "Close-up of an open spiral notebook with handwritten notes and a tiny golden coin drawn in the margin.",
+        "Wide shot of a university library reading room filled with focused students under warm desk lamps.",
+        "Close-up of hands passing a box of paper tissues in a circle.",
+        "Over-the-shoulder view of a therapist nodding empathetically during a session."
+      ],
+      "caption": "In der Gruppe erkennt man, dass man mit seinen Ängsten nie allein ist. #Gruppentherapie #Studentenleben #Level4 #Angststörung #Heilung",
+      "open_loop_resolved": false
+    },
+    {
+      "n": 5,
+      "open_loop": "Was stand in der Patientenakte, die der Chefarzt heimlich im Tresor einschloss?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Beschimpft den Pfleger im Flur laut als unfähig, weil das Abendessen fünf Minuten zu spät kommt."
+      },
+      "name": "David, 38, Krankenpfleger",
+      "badge": "Tagesklinik",
+      "verdict": "VOLLSTÄNDIGER STOPP",
+      "story": "Die 8 Level von Therapie-Erfahrung. Level 5. Ich habe jahrelang anderen geholfen, bis mein eigener Körper die Reißleine gezogen hat. Wer weint, hat auf dieser Station nichts verloren. Sechs Wochen Tagesklinik haben mir den Boden unter den Füßen weggezogen und gleichzeitig gerettet. Morgens Gruppentherapie, mittags Ergo, nachmittags stundenlanges Grübeln im Park. Ich sitze auf der Holzbank und beobachte die Enten auf dem Teich, während die Erinnerungen hochsteigen. Mein Ausweis hängt leblos an meinem Schlüsselbund in der Tasche. Plötzlich trat eine Person an mich heran, die ich niemals hier erwartet hätte. Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "-6 Wochen",
+        "after": "Auszeit"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Therapie-Erfahrung. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe jahrelang anderen geholfen, bis mein eigener Körper die Reißleine gezogen hat."
+        },
+        {
+          "s": "Figur",
+          "t": "Wer weint, hat auf dieser Station nichts verloren."
+        },
+        {
+          "s": "Figur",
+          "t": "Sechs Wochen Tagesklinik haben mir den Boden unter den Füßen weggezogen und gleichzeitig gerettet."
+        },
+        {
+          "s": "Figur",
+          "t": "Morgens Gruppentherapie, mittags Ergo, nachmittags stundenlanges Grübeln im Park."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze auf der Holzbank und beobachte die Enten auf dem Teich, während die Erinnerungen hochsteigen."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Ausweis hängt leblos an meinem Schlüsselbund in der Tasche."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich trat eine Person an mich heran, die ich niemals hier erwartet hätte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Wer weint, hat auf dieser Station nichts verloren.",
+      "stats": [
+        {
+          "label": "Sitzungen",
+          "value": "45",
+          "bar": 0.7
+        },
+        {
+          "label": "Tagesklinik",
+          "value": "6 Wochen",
+          "bar": 0.75
+        },
+        {
+          "label": "Erholung",
+          "value": "70%",
+          "bar": 0.65
+        }
+      ],
+      "character": "Simple round cream-white head, dot eyes, short blonde stubble hair, wearing a dark green hospital worker fleece jacket, holding a worn leather key fob.",
+      "visual": "Medium shot of a male nurse sitting alone on a wooden park bench outside a clinic in autumn, staring thoughtfully at falling yellow leaves.",
+      "scenes": [
+        "Close-up of a stainless steel hospital key ring featuring a tiny golden coin attached as a charm.",
+        "Wide shot of a tranquil hospital garden with a duck pond and leafless birch trees under an overcast sky.",
+        "Close-up of hands molding a small clay figure during an art therapy session.",
+        "Over-the-shoulder shot of a clinical hallway with shiny linoleum floors reflecting neon lights."
+      ],
+      "caption": "Wenn die Helfer selbst zusammenbrechen und lernen müssen, Hilfe anzunehmen. #Tagesklinik #Pflege #MentalHealth #Level5 #Auszeit",
+      "open_loop_resolved": false
+    },
+    {
+      "n": 6,
+      "open_loop": "Welches Geheimnis verriet die alte Therapeutin im letzten gemeinsamen Abschlussgespräch?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Kürzt als Vorstand die Fördergelder für genau das ambulante Therapiezentrum, in dem Lisa arbeitet."
+      },
+      "name": "Lisa, 50, Therapeutin",
+      "badge": "Auf der anderen Seite",
+      "verdict": "DIE WENDEPUNKT-HEILERIN",
+      "story": "Die 8 Level von Therapie-Erfahrung. Level 6. Ich sitze seit zwanzig Jahren auf dem Stuhl und höre mir die Abgründe anderer an. Haben Sie eigentlich auch Angst, dass Ihre eigenen Masken irgendwann fallen? Diese Frage hat mich mitten ins Herz getroffen, weil ich meine eigene Trauma-Vergangenheit jahrelang im Keller weggeschlossen hatte. Jetzt mache ich selbst wieder Supervision, um meine blinden Flecken zu reinigen. Der Raum ist still, nur das Summen der Lampe ist zu hören. Ich halte meine Brille in der Hand und atme tief ein. Auf meinem Schreibtisch liegt ein Brief, der meine gesamte berufliche Haltung infrage stellt. Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+20 Jahre",
+        "after": "Supervisi"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Therapie-Erfahrung. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze seit zwanzig Jahren auf dem Stuhl und höre mir die Abgründe anderer an."
+        },
+        {
+          "s": "Figur",
+          "t": "Haben Sie eigentlich auch Angst, dass Ihre eigenen Masken irgendwann fallen?"
+        },
+        {
+          "s": "Figur",
+          "t": "Diese Frage hat mich mitten ins Herz getroffen, weil ich meine eigene Trauma-Vergangenheit jahrelang im Keller weggeschlossen hatte."
+        },
+        {
+          "s": "Figur",
+          "t": "Jetzt mache ich selbst wieder Supervision, um meine blinden Flecken zu reinigen."
+        },
+        {
+          "s": "Figur",
+          "t": "Der Raum ist still, nur das Summen der Lampe ist zu hören."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich halte meine Brille in der Hand und atme tief ein."
+        },
+        {
+          "s": "Figur",
+          "t": "Auf meinem Schreibtisch liegt ein Brief, der meine gesamte berufliche Haltung infrage stellt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Haben Sie eigentlich auch Angst, dass Ihre eigenen Masken irgendwann fallen?",
+      "stats": [
+        {
+          "label": "Berufsjahre",
+          "value": "20",
+          "bar": 0.8
+        },
+        {
+          "label": "Selbsttherapie",
+          "value": "85%",
+          "bar": 0.85
+        },
+        {
+          "label": "Empathie",
+          "value": "95%",
+          "bar": 0.9
+        }
+      ],
+      "character": "Simple round cream-white head, dot eyes, elegant silver-streaked grey hair in a chignon, wearing a professional terracotta blazer and round wire-rimmed glasses.",
+      "visual": "Medium shot of an experienced female therapist sitting behind a polished wooden desk in a calm, book-lined office, holding glasses thoughtfully near her face.",
+      "scenes": [
+        "Close-up of a brass desk paperweight shaped with a tiny hidden golden coin design.",
+        "Wide shot of an elegant practice room with tall bookshelves, a Persian rug, and soft afternoon sunlight.",
+        "Close-up of hands folding a handwritten supervision protocol letter.",
+        "Over-the-shoulder shot looking out a window onto a quiet urban courtyard with green plants."
+      ],
+      "caption": "Auch die Menschen, die anderen helfen, tragen ihre eigenen Rucksäcke. #Therapeuten #Supervision #Level6 #Psychologie #MentaleGesundheit",
+      "open_loop_resolved": false
+    },
+    {
+      "n": 7,
+      "open_loop": "Was stand auf dem Zettel, den das anonyme Team im Kreis an Lisa weitergab?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Bricht als reicher Investor in Lisas Praxis in Tränen aus und beschuldigt sie des Betrugs."
+      },
+      "name": "Robert, 61, pensionierter Architekt",
+      "badge": "Radikale Akzeptanz",
+      "verdict": "INNERE FREIHEIT",
+      "story": "Die 8 Level von Therapie-Erfahrung. Level 7. Mit einundsechzig Jahren habe ich zum ersten Mal verstanden, dass meine Kindheit mich ein Leben lang ferngesteuert hat. Du kannst die Vergangenheit nicht reparieren, aber du kannst aufhören, sie jeden Tag neu zu leben. Da begriff ich, dass all mein Perfektionismus nur ein Schutzschild war. Ich sitze auf meinem Balkon, trinke schwarzen Kaffee und schaue in den herbstlichen Himmel, ohne das Gefühl zu haben, etwas leisten zu müssen. Mein Zeigefingernagel tippt rhythmisch gegen die Porzellantasse. Plötzlich klingelt mein Handy mit einer Nummer, die ich seit dreißig Jahren blockiert hatte. Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "0 Last",
+        "after": "Akzeptier"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Therapie-Erfahrung. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Mit einundsechzig Jahren habe ich zum ersten Mal verstanden, dass meine Kindheit mich ein Leben lang ferngesteuert hat."
+        },
+        {
+          "s": "Figur",
+          "t": "Du kannst die Vergangenheit nicht reparieren, aber du kannst aufhören, sie jeden Tag neu zu leben."
+        },
+        {
+          "s": "Figur",
+          "t": "Da begriff ich, dass all mein Perfektionismus nur ein Schutzschild war."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze auf meinem Balkon, trinke schwarzen Kaffee und schaue in den herbstlichen Himmel, ohne das Gefühl zu haben, etwas leisten zu müssen."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Zeigefingernagel tippt rhythmisch gegen die Porzellantasse."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich klingelt mein Handy mit einer Nummer, die ich seit dreißig Jahren blockiert hatte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Du kannst die Vergangenheit nicht reparieren, aber du kannst aufhören, sie jeden Tag neu zu leben.",
+      "stats": [
+        {
+          "label": "Erfahrung",
+          "value": "61 J.",
+          "bar": 0.95
+        },
+        {
+          "label": "Akzeptanz",
+          "value": "98%",
+          "bar": 0.95
+        },
+        {
+          "label": "Innere Ruhe",
+          "value": "99%",
+          "bar": 0.98
+        }
+      ],
+      "character": "Simple round cream-white head, dot eyes, completely white short hair, wearing a comfortable beige fleece vest over a checkered shirt, holding a ceramic coffee cup.",
+      "visual": "Medium shot of an elderly retired architect sitting on a sunlit balcony surrounded by green plants, smiling peacefully while holding a hot mug.",
+      "scenes": [
+        "Close-up of the base of a ceramic coffee mug showing a tiny hidden golden coin stamp.",
+        "Wide shot of a peaceful rooftop terrace in a German city with warm afternoon sun and distant church towers.",
+        "Close-up of an old vintage pocket watch ticking steadily in an open palm.",
+        "Over-the-shoulder shot of a smartphone screen buzzing with an incoming anonymous call."
+      ],
+      "caption": "Es ist nie zu spät, den Frieden mit der eigenen Geschichte zu machen. #Alter #Lebensweisheit #Level7 #Akzeptanz #MentaleStärke",
+      "open_loop_resolved": false
+    },
+    {
+      "n": 8,
+      "open_loop": "Was geschah, als sich alle acht Figuren im Aufzug trafen und die Tür in den Innenhof aufging?",
+      "gegenspieler": {
+        "level": 0,
+        "tat": "Niemand mehr. Der Aufzug hat alle Masken abgelegt und verbindet sie zu einer Gemeinschaft."
+      },
+      "name": "Kollektiv, Alle 8 Level",
+      "badge": "Der Aufzug öffnet sich",
+      "verdict": "VOLLSTÄNDIGER KREIS",
+      "story": "Die 8 Level von Therapie-Erfahrung. Level 8. Wir alle saßen im selben Lift, ohne zu wissen, dass unsere Geschichten durch ein unsichtbares Netz verbunden sind. Niemand von uns ist jemals wirklich allein mit seinen Dämonen gewesen. Die Anzeigetafel springt auf die goldene 8 und ein leises Ding ertönt im ganzen Gebäude. Wir schauen uns an und wissen plötzlich: Der Verstand lügt nie, wenn man endlich aufhört vor sich selbst wegzulaufen. Welches Thema der Gesellschaft wollen wir als Nächstes im Aufzug durchleuchten?",
+      "gender": "w",
+      "twist": {
+        "delta": "∞",
+        "after": "Gemeinsam"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Therapie-Erfahrung. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Wir alle saßen im selben Lift, ohne zu wissen, dass unsere Geschichten durch ein unsichtbares Netz verbunden sind."
+        },
+        {
+          "s": "Figur",
+          "t": "Niemand von uns ist jemals wirklich allein mit seinen Dämonen gewesen."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Anzeigetafel springt auf die goldene 8 und ein leises Ding ertönt im ganzen Gebäude."
+        },
+        {
+          "s": "Figur",
+          "t": "Wir schauen uns an und wissen plötzlich: Der Verstand lügt nie, wenn man endlich aufhört vor sich selbst wegzulaufen."
+        },
+        {
+          "s": "Figur",
+          "t": "Welches Thema der Gesellschaft wollen wir als Nächstes im Aufzug durchleuchten?"
+        }
+      ],
+      "quote": "Niemand von uns ist jemals wirklich allein mit seinen Dämonen gewesen.",
+      "stats": [
+        {
+          "label": "Verbundenheit",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Gemeinschaft",
+          "value": "Max",
+          "bar": 1.0
+        },
+        {
+          "label": "Kreis",
+          "value": "Geschlossen",
+          "bar": 1.0
+        }
+      ],
+      "character": "All eight figures standing together in a wide elevator cabin, simple round cream-white heads, dot eyes, wearing their respective outfits from levels 1 to 7, smiling peacefully.",
+      "visual": "Wide angle cinematic shot inside a glowing modern elevator with open doors, showing all eight characters standing together looking out into a bright, welcoming urban courtyard.",
+      "scenes": [
+        "Close-up of the elevator panel showing the glowing number 8 with a tiny golden coin embedded right beside the button.",
+        "Wide shot of the building exterior with sunlight flooding the entrance hall as people step out together.",
+        "Close-up of eight different hands stacking on top of each other in a circle of solidarity.",
+        "Final wide shot zooming out of the open glass elevator shaft into the vibrant city."
+      ],
+      "caption": "Der Kreis schließt sich. Welches Thema sollen wir als Nächstes im Aufzug öffnen? Schreibt es in die Kommentare! #Gemeinschaft #Therapie #Level8 #Finale #MentalHealthMatters",
+      "open_loop_resolved": true
+    }
+  ],
+  "lang": "de",
+  "topic": "Die 8 Level von 'Therapie-Erfahrung und mentale Gesundheit'",
+  "frame": "aufzug"
+}

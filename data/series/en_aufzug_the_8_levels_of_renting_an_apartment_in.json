@@ -1,0 +1,648 @@
+{
+  "title": "The 8 Levels of Renting in NYC",
+  "house": "a bustling metropolis in New York City today with cramped apartments, yellow cabs, and endless concrete",
+  "catchphrase": "The market doesn't wait.",
+  "links": [
+    "Level 1 tenant finds the lost mail of Level 8 in the lobby",
+    "Level 3 barista serves coffee to the weary broker from Level 6",
+    "Level 2 delivery driver nearly drops a package for Level 7",
+    "Level 4 neighbor hears the loud arguments coming from Level 5"
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "What was actually written in the eviction notice left on the front door?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Laughs at her credit score and rejects her rental application without reading it."
+      },
+      "name": "Maya, 22, Barista",
+      "badge": "1,400 $/mo",
+      "verdict": "CRUSHED",
+      "story": "The 8 Levels of Renting in NYC. Level 1. Level 1: 1,400 dollars a month for a box with no windows. I share a bathroom with five strangers in Queens and my damp mattress smells like old laundry. My last two paychecks vanished into application fees for places that ghosted me instantly. I work forty hours a week just to keep the lights on, watching every single dollar evaporate before rent is even due. You are never going to afford a real apartment here! Then my phone buzzed with an alert from the bank. Account balance: 14 dollars. Will the landlord accept my partial payment tomorrow morning? You'll see that in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "-1,400 $",
+        "after": "14 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Levels of Renting in NYC. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 1,400 dollars a month for a box with no windows."
+        },
+        {
+          "s": "Figur",
+          "t": "I share a bathroom with five strangers in Queens and my damp mattress smells like old laundry."
+        },
+        {
+          "s": "Figur",
+          "t": "My last two paychecks vanished into application fees for places that ghosted me instantly."
+        },
+        {
+          "s": "Figur",
+          "t": "I work forty hours a week just to keep the lights on, watching every single dollar evaporate before rent is even due."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You are never going to afford a real apartment here!"
+        },
+        {
+          "s": "Figur",
+          "t": "Then my phone buzzed with an alert from the bank. Account balance: 14 dollars."
+        },
+        {
+          "s": "Figur",
+          "t": "Will the landlord accept my partial payment tomorrow morning?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You are never going to afford a real apartment here!",
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "1,400 $",
+          "bar": 0.05
+        },
+        {
+          "label": "Space",
+          "value": "80 sqft",
+          "bar": 0.05
+        },
+        {
+          "label": "Stress",
+          "value": "99%",
+          "bar": 0.99
+        }
+      ],
+      "character": "Simple round cream-white ball head without nose, small dot eyes, worried eyebrows, messy dark ponytail, worn-out oversized gray hoodie, holding a cracked smartphone with a gold coin sticker on the back.",
+      "visual": "A young woman sitting on a cramped mattress in a tiny basement room, staring anxiously at a glowing smartphone screen under flickering fluorescent light.",
+      "scenes": [
+        "Close up of banking app showing an alarmingly low balance of 14 dollars.",
+        "Wide shot of a dingy shared hallway with peeling wallpaper and stacked cardboard boxes.",
+        "A small hidden gold coin resting on the edge of a rusty radiator.",
+        "Medium shot of the tired barista wiping down a greasy diner counter at midnight."
+      ],
+      "caption": "Could you survive your first apartment hunt in the city? #nyc #renting #apartmenthunting #struggle #queens"
+    },
+    {
+      "n": 2,
+      "open_loop": "Who sent the mysterious wire transfer that suddenly cleared the pending deposit?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Outbids him by fifty dollars on a tiny Brooklyn studio just as he is about to sign."
+      },
+      "name": "Leo, 26, Junior Designer",
+      "badge": "2,300 $/mo",
+      "verdict": "STUCK",
+      "story": "Level 2. Level 2: 2,300 dollars a month to hear my upstairs neighbor stomp around in heavy boots every single night. I thought upgrading from a shared room meant peace, but my studio apartment in Brooklyn has paper-thin walls and a radiator that sounds like a dying steam engine. Every apartment viewing feels like an audition for a reality show where fifty desperate people wave their credit scores like weapons. Someone else just offered six months upfront in cash. My heart dropped right into my stomach as I watched my dream slip away. Who actually had that kind of cash lying around? You'll see that in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "-2,300 $",
+        "after": "320 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 2,300 dollars a month to hear my upstairs neighbor stomp around in heavy boots every single night."
+        },
+        {
+          "s": "Figur",
+          "t": "I thought upgrading from a shared room meant peace, but my studio apartment in Brooklyn has paper-thin walls and a radiator that sounds like a dying steam engine."
+        },
+        {
+          "s": "Figur",
+          "t": "Every apartment viewing feels like an audition for a reality show where fifty desperate people wave their credit scores like weapons."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Someone else just offered six months upfront in cash."
+        },
+        {
+          "s": "Figur",
+          "t": "My heart dropped right into my stomach as I watched my dream slip away."
+        },
+        {
+          "s": "Figur",
+          "t": "Who actually had that kind of cash lying around?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Someone else just offered six months upfront in cash.",
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "2,300 $",
+          "bar": 0.2
+        },
+        {
+          "label": "Space",
+          "value": "250 sqft",
+          "bar": 0.15
+        },
+        {
+          "label": "Stress",
+          "value": "85%",
+          "bar": 0.85
+        }
+      ],
+      "character": "Simple round cream-white ball head without nose, small dot eyes, determined eyebrows, short curly brown hair, wearing a casual denim jacket over a black t-shirt, carrying a sketchbook.",
+      "visual": "A young man standing in a narrow unfurnished studio apartment, looking out a dirty window at a brick wall while holding a rejection letter.",
+      "scenes": [
+        "Close up of a glossy real estate listing flyer with a gold coin watermark in the corner.",
+        "Wide shot of a crowded open house hallway filled with anxious applicants.",
+        "Medium shot of the designer tapping anxiously on his stylus over a tablet screen.",
+        "A tiny gold coin wedged into the grooves of an old wooden window frame."
+      ],
+      "caption": "Have you ever lost an apartment you really wanted? #brooklyn #studio #apartmentsearch #renterlife #nyc"
+    },
+    {
+      "n": 3,
+      "open_loop": "What secret instruction was hidden inside the landlord's manila folder?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Triples the building maintenance fees overnight without any prior notice."
+      },
+      "name": "Sam, 29, Accountant",
+      "badge": "3,500 $/mo",
+      "verdict": "TENSION",
+      "story": "Level 3. Level 3: 3,500 dollars a month for a one-bedroom with a tiny sliver of a park view if you press your face against the glass. I finally have a stable corporate salary, but my entire life is consumed by calculating whether I can afford groceries and utilities this month. The leasing agent slid a thick manila folder across his polished mahogany desk and smiled coldly. Background checks take at least two weeks, so do not call us. I felt totally powerless despite paying every bill on time for a decade. What was actually inside that restricted folder? You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-3,500 $",
+        "after": "1,200 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 3,500 dollars a month for a one-bedroom with a tiny sliver of a park view if you press your face against the glass."
+        },
+        {
+          "s": "Figur",
+          "t": "I finally have a stable corporate salary, but my entire life is consumed by calculating whether I can afford groceries and utilities this month."
+        },
+        {
+          "s": "Figur",
+          "t": "The leasing agent slid a thick manila folder across his polished mahogany desk and smiled coldly."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Background checks take at least two weeks, so do not call us."
+        },
+        {
+          "s": "Figur",
+          "t": "I felt totally powerless despite paying every bill on time for a decade."
+        },
+        {
+          "s": "Figur",
+          "t": "What was actually inside that restricted folder?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Background checks take at least two weeks, so do not call us.",
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "3,500 $",
+          "bar": 0.4
+        },
+        {
+          "label": "Space",
+          "value": "450 sqft",
+          "bar": 0.35
+        },
+        {
+          "label": "Stress",
+          "value": "70%",
+          "bar": 0.7
+        }
+      ],
+      "character": "Simple round cream-white ball head without nose, small dot eyes, focused eyebrows, neatly parted blond hair, wearing a tailored navy blue suit and wire-rimmed glasses.",
+      "visual": "A man in a sharp suit sitting across a sleek glass desk in a modern leasing office, staring intently at a closed folder.",
+      "scenes": [
+        "Close up of a shiny gold coin resting on top of a stack of bank statements.",
+        "Wide shot of a luxury glass apartment tower reflecting the Manhattan sunset.",
+        "Medium shot of the accountant rubbing his temples under harsh office lighting.",
+        "A golden coin embossed faintly on the corner of the leasing agent's golden pen."
+      ],
+      "caption": "Is a corporate salary enough to rent in Manhattan anymore? #manhattan #corporate #rentals #finance #housing"
+    },
+    {
+      "n": 4,
+      "open_loop": "Why did the building superintendent suddenly confiscate the spare keys?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Drops trash bags in the shared courtyard and wakes her up every morning at sunrise."
+      },
+      "name": "Chloe, 31, Marketing Manager",
+      "badge": "4,800 $/mo",
+      "verdict": "MID-TIER",
+      "story": "Level 4. Level 4: 4,800 dollars a month for an elevator that breaks down every Tuesday and a doorman who never remembers my name. I live in a trendy mid-rise in Chelsea with sleek stainless steel appliances, yet my ceiling leaks whenever it rains hard. I spend my weekends arguing with property management over hidden amenity fees that keep appearing on my portal. We are changing all the lobby locks tonight at midnight. Panic instantly set in because I was still waiting for my updated security fob. How was I supposed to get back inside my own home? You'll see that in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "-4,800 $",
+        "after": "2,100 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 4,800 dollars a month for an elevator that breaks down every Tuesday and a doorman who never remembers my name."
+        },
+        {
+          "s": "Figur",
+          "t": "I live in a trendy mid-rise in Chelsea with sleek stainless steel appliances, yet my ceiling leaks whenever it rains hard."
+        },
+        {
+          "s": "Figur",
+          "t": "I spend my weekends arguing with property management over hidden amenity fees that keep appearing on my portal."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "We are changing all the lobby locks tonight at midnight."
+        },
+        {
+          "s": "Figur",
+          "t": "Panic instantly set in because I was still waiting for my updated security fob."
+        },
+        {
+          "s": "Figur",
+          "t": "How was I supposed to get back inside my own home?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "We are changing all the lobby locks tonight at midnight.",
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "4,800 $",
+          "bar": 0.55
+        },
+        {
+          "label": "Space",
+          "value": "650 sqft",
+          "bar": 0.5
+        },
+        {
+          "label": "Stress",
+          "value": "60%",
+          "bar": 0.6
+        }
+      ],
+      "character": "Simple round cream-white ball head without nose, small dot eyes, ambitious eyebrows, sleek bob cut dark hair, wearing a stylish camel trench coat and silver hoop earrings.",
+      "visual": "A woman standing in a modern hallway holding a designer handbag, looking nervously at a bulletin board notice about lock changes.",
+      "scenes": [
+        "Close up of a brass mailbox slot with a tiny gold coin wedged beside the lock.",
+        "Wide shot of a chic Chelsea apartment lobby with polished marble floors.",
+        "Medium shot of the marketing manager frantically typing an email on her laptop.",
+        "A gleaming gold coin resting on the rim of an iced coffee cup on the counter."
+      ],
+      "caption": "Are luxury rental fees getting completely out of hand? #chelsea #luxuryrentals #apartmentliving #nyc #marketing"
+    },
+    {
+      "n": 5,
+      "open_loop": "What emergency announcement interrupted the building tenants meeting?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Quietly buys the entire building and schedules total demolition without warning."
+      },
+      "name": "Marcus, 35, Tech Founder",
+      "badge": "6,500 $/mo",
+      "verdict": "PRESSURE",
+      "story": "Level 5. Level 5: 6,500 dollars a month for a luxury high-rise loft in SoHo with exposed brick and floor-to-ceiling windows. My startup is scaling fast, but my personal life is crumbling under the weight of astronomical New York overhead costs. The board of directors held an emergency Zoom call and my primary investor delivered the blow directly. We are slashing your housing stipend starting next month. My stomach hit the floor as I realized my luxurious lifestyle was built entirely on shifting sand. How could I downsize without looking like a failure to everyone? You'll see that in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "-6,500 $",
+        "after": "3,400 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 6,500 dollars a month for a luxury high-rise loft in SoHo with exposed brick and floor-to-ceiling windows."
+        },
+        {
+          "s": "Figur",
+          "t": "My startup is scaling fast, but my personal life is crumbling under the weight of astronomical New York overhead costs."
+        },
+        {
+          "s": "Figur",
+          "t": "The board of directors held an emergency Zoom call and my primary investor delivered the blow directly."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "We are slashing your housing stipend starting next month."
+        },
+        {
+          "s": "Figur",
+          "t": "My stomach hit the floor as I realized my luxurious lifestyle was built entirely on shifting sand."
+        },
+        {
+          "s": "Figur",
+          "t": "How could I downsize without looking like a failure to everyone?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "We are slashing your housing stipend starting next month.",
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "6,500 $",
+          "bar": 0.7
+        },
+        {
+          "label": "Space",
+          "value": "900 sqft",
+          "bar": 0.65
+        },
+        {
+          "label": "Stress",
+          "value": "50%",
+          "bar": 0.5
+        }
+      ],
+      "character": "Simple round cream-white ball head without nose, small dot eyes, intense eyebrows, short buzzed dark hair, wearing a black minimalist turtleneck and smartwatch.",
+      "visual": "A man pacing inside a spacious loft with massive arched windows overlooking the glittering city skyline at dusk.",
+      "scenes": [
+        "Close up of a sleek laptop screen displaying a red financial deficit chart.",
+        "Wide shot of an expensive SoHo living room with designer furniture.",
+        "Medium shot of the tech founder running his hand through his hair in frustration.",
+        "A tiny gold coin resting on the polished corner of a minimalist oak coffee table."
+      ],
+      "caption": "When startup perks disappear and reality hits hard. #soho #techlife #loftliving #startup #entrepreneur"
+    },
+    {
+      "n": 6,
+      "open_loop": "What confidential document was left inside the penthouse elevator?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Files a false noise complaint with the city board just out of pure envy."
+      },
+      "name": "Elena, 38, Corporate Lawyer",
+      "badge": "9,000 $/mo",
+      "verdict": "ELITE",
+      "story": "Level 6. Level 6: 9,000 dollars a month for a sprawling Tribeca loft with a private elevator entrance and custom Italian marble. I bill six hundred dollars an hour, yet I barely spend enough waking hours in my apartment to enjoy the custom soaking tub. Everyone thinks wealth buys absolute peace of mind in this city, but the cooperative board rules feel like a prison sentence. The board president blocked my architectural plans and told me coldly across the boardroom table, We do not approve modern renovations in historical units. I clenched my fists because my money suddenly felt completely useless against their petty rules. What rule were they hiding in the bylaws? You'll see that in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "-9,000 $",
+        "after": "5,800 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 9,000 dollars a month for a sprawling Tribeca loft with a private elevator entrance and custom Italian marble."
+        },
+        {
+          "s": "Figur",
+          "t": "I bill six hundred dollars an hour, yet I barely spend enough waking hours in my apartment to enjoy the custom soaking tub."
+        },
+        {
+          "s": "Figur",
+          "t": "Everyone thinks wealth buys absolute peace of mind in this city, but the cooperative board rules feel like a prison sentence."
+        },
+        {
+          "s": "Figur",
+          "t": "The board president blocked my architectural plans and told me coldly across the boardroom table,"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "We do not approve modern renovations in historical units."
+        },
+        {
+          "s": "Figur",
+          "t": "I clenched my fists because my money suddenly felt completely useless against their petty rules."
+        },
+        {
+          "s": "Figur",
+          "t": "What rule were they hiding in the bylaws?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "We do not approve modern renovations in historical units.",
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "9,000 $",
+          "bar": 0.85
+        },
+        {
+          "label": "Space",
+          "value": "1,400 sqft",
+          "bar": 0.8
+        },
+        {
+          "label": "Stress",
+          "value": "40%",
+          "bar": 0.4
+        }
+      ],
+      "character": "Simple round cream-white ball head without nose, small dot eyes, sharp confident eyebrows, sleek blonde hair tied back in a low bun, wearing an expensive emerald green blazer.",
+      "visual": "A woman standing by a massive factory-style window in a luxurious Tribeca loft, looking down with an expression of controlled irritation.",
+      "scenes": [
+        "Close up of a gold coin resting on top of heavy leather-bound legal contract books.",
+        "Wide shot of an expansive open-plan kitchen with marble countertops and designer pendant lights.",
+        "Medium shot of the lawyer reviewing architectural blueprints with a red pen.",
+        "A hidden gold coin gleaming on the brass handle of the private elevator door."
+      ],
+      "caption": "When money can't buy you freedom from board rules. #tribeca #lawyerlife #luxuryapartment #nyc #realestate"
+    },
+    {
+      "n": 7,
+      "open_loop": "Who was standing behind the door when the private security team knocked?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Outbids her for the penthouse terrace right before her final paperwork clears."
+      },
+      "name": "Julian, 42, Hedge Fund Partner",
+      "badge": "15,000 $/mo",
+      "verdict": "POWER",
+      "story": "Level 7. Level 7: 15,000 dollars a month for a full-floor Central Park West residence with panoramic views of the entire skyline. I manage billions in assets, yet I check the market ticker before I even pour my morning espresso. People look at my address and assume my life is an effortless masterpiece of luxury and privilege. But my property manager called me with an urgent warning that shook even my jaded nerves. The anonymous buyer in the unit above you just doubled their offer in cash. My heart raced because in this city, there is always someone richer waiting to take your view. Who dared to challenge my position at the top? You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "-15,000 $",
+        "after": "12,000 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 15,000 dollars a month for a full-floor Central Park West residence with panoramic views of the entire skyline."
+        },
+        {
+          "s": "Figur",
+          "t": "I manage billions in assets, yet I check the market ticker before I even pour my morning espresso."
+        },
+        {
+          "s": "Figur",
+          "t": "People look at my address and assume my life is an effortless masterpiece of luxury and privilege."
+        },
+        {
+          "s": "Figur",
+          "t": "But my property manager called me with an urgent warning that shook even my jaded nerves."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The anonymous buyer in the unit above you just doubled their offer in cash."
+        },
+        {
+          "s": "Figur",
+          "t": "My heart raced because in this city, there is always someone richer waiting to take your view."
+        },
+        {
+          "s": "Figur",
+          "t": "Who dared to challenge my position at the top?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "The anonymous buyer in the unit above you just doubled their offer in cash.",
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "15,000 $",
+          "bar": 0.95
+        },
+        {
+          "label": "Space",
+          "value": "2,500 sqft",
+          "bar": 0.9
+        },
+        {
+          "label": "Stress",
+          "value": "30%",
+          "bar": 0.3
+        }
+      ],
+      "character": "Simple round cream-white ball head without nose, small dot eyes, calculating eyebrows, greying temples, wearing a cashmere turtleneck and a luxury gold watch.",
+      "visual": "A man standing in a lavish Central Park West apartment with floor-to-ceiling glass showing the park in autumn, holding a crystal tumbler.",
+      "scenes": [
+        "Close up of a solid gold coin resting beside a crystal whiskey decanter.",
+        "Wide shot of a massive living room overlooking Central Park at sunset.",
+        "Medium shot of the hedge fund manager staring intently at glowing twin computer monitors.",
+        "A tiny gold coin embossed on the custom brass key fob on the marble entryway table."
+      ],
+      "caption": "Even at the top of the market, someone always wants your view. #centralparkwest #hedgefund #luxuryrealestate #nyc #penthouse"
+    },
+    {
+      "n": 8,
+      "open_loop": "Which topic should the elevator explore next in the city?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Refuses to cash the final refund check, keeping the entire building connected forever."
+      },
+      "name": "Arthur, 65, Building Owner",
+      "badge": "OWNER",
+      "verdict": "LEGEND",
+      "story": "Level 8. Level 8: Zero rent, because I own the entire building from the basement laundry room to the rooftop water tower. I started fifty years ago as the kid sweeping floors in Level 1, saving every single coin until I bought my first brownstone. I watched Maya struggle in the basement, Leo fight for a studio in Brooklyn, and Julian stress over his Central Park view. The market doesn't wait for anyone, but I learned that bricks and mortar are the only things in this city that truly remember your name. I left a single gold coin in every mailbox in this building just to remind them all who was watching. Which topic should the elevator open next?",
+      "gender": "m",
+      "twist": {
+        "delta": "+1 BUILDIN",
+        "after": "ALL"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: Zero rent, because I own the entire building from the basement laundry room to the rooftop water tower."
+        },
+        {
+          "s": "Figur",
+          "t": "I started fifty years ago as the kid sweeping floors in Level 1, saving every single coin until I bought my first brownstone."
+        },
+        {
+          "s": "Figur",
+          "t": "I watched Maya struggle in the basement, Leo fight for a studio in Brooklyn, and Julian stress over his Central Park view."
+        },
+        {
+          "s": "Figur",
+          "t": "The market doesn't wait for anyone, but I learned that bricks and mortar are the only things in this city that truly remember your name."
+        },
+        {
+          "s": "Figur",
+          "t": "I left a single gold coin in every mailbox in this building just to remind them all who was watching."
+        },
+        {
+          "s": "Figur",
+          "t": "Which topic should the elevator open next?"
+        }
+      ],
+      "quote": "The market doesn't wait for anyone.",
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "OWNER",
+          "bar": 1.0
+        },
+        {
+          "label": "Space",
+          "value": "ENTIRE",
+          "bar": 1.0
+        },
+        {
+          "label": "Stress",
+          "value": "0%",
+          "bar": 0.0
+        }
+      ],
+      "character": "Simple round cream-white ball head without nose, small dot eyes, wise knowing eyebrows, distinguished white hair and mustache, wearing a classic tweed vest over a crisp white shirt, holding an antique brass master key ring.",
+      "visual": "An older gentleman standing on a sunlit rooftop overlooking the entire New York City skyline, holding an antique brass key ring with a gleaming gold coin attached.",
+      "scenes": [
+        "Close up of an antique brass key ring with multiple engraved keys and a shiny gold coin.",
+        "Wide shot of the historic brick building exterior spanning all eight levels under a golden morning sun.",
+        "Medium shot of the owner smiling gently as he looks down at the bustling street below.",
+        "A final golden coin reflecting the bright New York City skyline as the elevator doors slowly close."
+      ],
+      "caption": "From the basement to the penthouse, the city remembers every step. What topic should the elevator visit next? #nyc #realestate #property #theend #levelfamilia"
+    }
+  ],
+  "lang": "en",
+  "topic": "The 8 Levels of Renting an Apartment in a Major City",
+  "frame": "aufzug"
+}

@@ -1,0 +1,543 @@
+{
+  "title": "The 8 Levels of Family Group Chat Drama",
+  "house": "A bustling metropolitan neighborhood where fruit and vegetable people live in cozy apartments, ride the central subway line, and grab coffee at the corner kiosk.",
+  "catchphrase": "The number on your forehead never lies.",
+  "links": [
+    "Level 2 mentions an expensive gift from someone with a glowing 95 on their forehead",
+    "Level 5 drops a hint about a huge family inheritance dispute",
+    "Level 8 reveals the origin of the group chat rule"
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Who leaked the screenshot of my bank statement into the family chat?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Muted the chat and banned her from the holiday dinner video call."
+      },
+      "name": "Maya, 24, Barista",
+      "badge": "Level 1: $1,200",
+      "verdict": "BROKE",
+      "story": "Level 1: 1,200 dollars a month, and my family just removed me from the group chat. I am Maya, 24, a part-time barista living in a cramped studio apartment. My fingers are stained from peeling onions all day at the local deli, and my forehead badge glows a pathetic 1,200. Today, the family Thanksgiving group chat blew up with holiday pressure, flight cost debates, and luxury gift lists. I cannot even afford a bus ticket home. Then my aunt texted me directly: Don't bother showing up empty-handed. That sting hit deeper than any customer insult. Suddenly, my phone buzzed with an emergency rent subsidy deposit. My balance jumped instantly. Then my landlord called to demand the rest. You'll see that in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+$300",
+        "after": "$1,500"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 1: 1,200 dollars a month, and my family just removed me from the group chat."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Maya, 24, a part-time barista living in a cramped studio apartment. My fingers are stained from peeling onions all day at the local deli, and my forehead badge glows a pathetic 1,200. Today, the family Thanksgiving group chat blew up with holiday pressure, flight cost debates, and luxury gift lists. I cannot even afford a bus ticket home. Then my aunt texted me directly:"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Don't bother showing up empty-handed."
+        },
+        {
+          "s": "Figur",
+          "t": "That sting hit deeper than any customer insult. Suddenly, my phone buzzed with an emergency rent subsidy deposit. My balance jumped instantly. Then my landlord called to demand the rest."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "Don't bother showing up empty-handed.",
+      "stats": [
+        {
+          "label": "Monthly",
+          "value": "$1,200",
+          "bar": 0.05
+        },
+        {
+          "label": "Holiday Fund",
+          "value": "$0",
+          "bar": 0.0
+        },
+        {
+          "label": "Stress",
+          "value": "99%",
+          "bar": 1.0
+        }
+      ],
+      "character": "An onion person with pale purple skin layers, wearing a faded green apron, holding a cracked smartphone. A tiny hidden gold coin sits near her shoe. Bright glowing digital numbers on her forehead.",
+      "visual": "Close-up of a stressed onion person looking at a smartphone screen displaying a family group chat in a dim apartment.",
+      "scenes": [
+        "Close-up of the glowing Level 1 forehead badge reflecting in a smartphone screen.",
+        "Medium shot of the onion person peeling an onion at a greasy kitchen counter.",
+        "Detail shot of a cracked phone notification showing family chat bubble.",
+        "Wide shot of a tiny studio apartment with a glowing neon sign outside."
+      ],
+      "caption": "Family group chats during the holidays are toxic. Where do you stand? #FamilyDrama #HolidayStress #BrokeLife #StirnZahl #Relatable"
+    },
+    {
+      "n": 2,
+      "open_loop": "Why did my brother forward my flight receipt to the entire family?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Mocked her cheap economy ticket compared to his first-class booking."
+      },
+      "name": "Leo, 27, Delivery Driver",
+      "badge": "Level 2: $2,800",
+      "verdict": "STRUGGLING",
+      "story": "Level 2: 2,800 dollars a month, and my brother just publicly roasted my economy seat purchase. I am Leo, 27, a delivery driver constantly dodging traffic on my scooter. My skin is a tough, bumpy orange rind, smelling faintly of diesel and cold rain. In the family group chat, the holiday pressure is reaching boiling point. Everyone is comparing gifts and travel itineraries. I saved for months to buy a basic airline ticket to visit our parents. Then my brother messaged the whole chat: Enjoy sitting in the back with the cargo. His arrogance makes my blood boil. Suddenly, a hefty holiday bonus hit my account from night shifts. My forehead badge flickered and climbed. Then my dispatcher assigned me a triple holiday shift. You'll see that in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+$600",
+        "after": "$3,400"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 2: 2,800 dollars a month, and my brother just publicly roasted my economy seat purchase."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Leo, 27, a delivery driver constantly dodging traffic on my scooter. My skin is a tough, bumpy orange rind, smelling faintly of diesel and cold rain. In the family group chat, the holiday pressure is reaching boiling point. Everyone is comparing gifts and travel itineraries. I saved for months to buy a basic airline ticket to visit our parents. Then my brother messaged the whole chat:"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Enjoy sitting in the back with the cargo."
+        },
+        {
+          "s": "Figur",
+          "t": "His arrogance makes my blood boil. Suddenly, a hefty holiday bonus hit my account from night shifts. My forehead badge flickered and climbed. Then my dispatcher assigned me a triple holiday shift."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Enjoy sitting in the back with the cargo.",
+      "stats": [
+        {
+          "label": "Monthly",
+          "value": "$2,800",
+          "bar": 0.15
+        },
+        {
+          "label": "Holiday Fund",
+          "value": "$150",
+          "bar": 0.1
+        },
+        {
+          "label": "Overtime",
+          "value": "40h",
+          "bar": 0.8
+        }
+      ],
+      "character": "An orange person with textured citrus skin, wearing a bright yellow raincoat and a delivery backpack. A golden coin rests on the scooter handlebar. Glowing digital numbers on his forehead.",
+      "visual": "Medium shot of an orange person riding a delivery scooter in the rain, looking angrily at a smartwatch.",
+      "scenes": [
+        "Close-up of the orange skin texture and glowing Level 2 forehead badge.",
+        "Over-the-shoulder shot of a smartphone showing a family group chat roasting an economy ticket.",
+        "Wide shot of a city street at night with delivery scooters passing by.",
+        "Detail shot of a golden coin hidden on a scooter dashboard."
+      ],
+      "caption": "Nothing beats holiday passive-aggressiveness in family chats. Tag a sibling! #SiblingRivalry #DeliveryLife #Holidays #StirnZahl #Family"
+    },
+    {
+      "n": 3,
+      "open_loop": "Who authorized the charge on my shared credit card for the holiday dinner?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Secretly used her card to buy gifts after being cut off."
+      },
+      "name": "Chloe, 31, Accountant",
+      "badge": "Level 3: $4,500",
+      "verdict": "MIDDLING",
+      "story": "Level 3: 4,500 dollars a month, and someone just maxed out the family holiday dinner budget using my card. I am Chloe, 31, a meticulous accountant who crunches numbers until my head hurts. My head is a smooth, tart green apple, crisp and hyper-vigilant. The family group chat is absolute chaos; everyone is arguing over who brings the expensive organic turkey. I am trying to keep our holiday budget afloat without going into debt. Then my mother sent a voice note to the chat: Stop pinching pennies, this is for family. The disrespect after all my planning is unreal. Suddenly, an unexpected tax refund notification popped up on my screen. My forehead badge jumped instantly. Then my phone rang with an overdraft warning. You'll see that in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "+$800",
+        "after": "$5,300"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 3: 4,500 dollars a month, and someone just maxed out the family holiday dinner budget using my card."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Chloe, 31, a meticulous accountant who crunches numbers until my head hurts. My head is a smooth, tart green apple, crisp and hyper-vigilant. The family group chat is absolute chaos; everyone is arguing over who brings the expensive organic turkey. I am trying to keep our holiday budget afloat without going into debt. Then my mother sent a voice note to the chat:"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Stop pinching pennies, this is for family."
+        },
+        {
+          "s": "Figur",
+          "t": "The disrespect after all my planning is unreal. Suddenly, an unexpected tax refund notification popped up on my screen. My forehead badge jumped instantly. Then my phone rang with an overdraft warning."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Stop pinching pennies, this is for family.",
+      "stats": [
+        {
+          "label": "Monthly",
+          "value": "$4,500",
+          "bar": 0.3
+        },
+        {
+          "label": "Savings",
+          "value": "$1,200",
+          "bar": 0.25
+        },
+        {
+          "label": "Stress",
+          "value": "85%",
+          "bar": 0.9
+        }
+      ],
+      "character": "A green apple person with crisp, shiny skin, wearing wire-rimmed glasses and a neat grey blazer. A golden coin is tucked under a calculator. Glowing digital numbers on her forehead.",
+      "visual": "Medium shot of a green apple person staring in disbelief at a laptop screen filled with spreadsheets.",
+      "scenes": [
+        "Close-up of the green apple person's shiny face and glowing Level 2 forehead badge.",
+        "Over-the-shoulder shot of a laptop screen displaying a banking app and group chat.",
+        "Wide shot of an orderly desk with financial documents and a hidden gold coin.",
+        "Close-up of a ringing smartphone showing an overdraft warning."
+      ],
+      "caption": "Being the responsible one in the family chat is exhausting. Can you relate? #AccountantLife #FamilyDinner #Budgeting #StirnZahl #Adulting"
+    },
+    {
+      "n": 4,
+      "open_loop": "Why was my holiday party invitation mysteriously canceled in the app?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Removed her name from the guest list to make room for VIPs."
+      },
+      "name": "Sam, 35, High School Teacher",
+      "badge": "Level 4: $6,200",
+      "verdict": "STABLE",
+      "story": "Level 4: 6,200 dollars a month, and I just found out I was uninvited from the main family holiday bash. I am Sam, 35, a passionate history teacher with a head shaped like a firm brown coconut, tough on the outside, soft inside. My classroom is loud, but my apartment is quiet, filled with stacks of ungraded essays. In the family chat, the elite relatives are planning an exclusive luxury resort Thanksgiving, completely ignoring us middle-tier earners. I tried to offer a modest contribution, and my cousin replied instantly: Don't worry, we invited people who actually fit the vibe. The sheer exclusion burns. Suddenly, an unexpected school board stipend hit my account. My forehead badge flashed upward. Then the principal called me about a schedule change. You'll see that in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+$900",
+        "after": "$7,100"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 4: 6,200 dollars a month, and I just found out I was uninvited from the main family holiday bash."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Sam, 35, a passionate history teacher with a head shaped like a firm brown coconut, tough on the outside, soft inside. My classroom is loud, but my apartment is quiet, filled with stacks of ungraded essays. In the family chat, the elite relatives are planning an exclusive luxury resort Thanksgiving, completely ignoring us middle-tier earners. I tried to offer a modest contribution, and my cousin replied instantly:"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Don't worry, we invited people who actually fit the vibe."
+        },
+        {
+          "s": "Figur",
+          "t": "The sheer exclusion burns. Suddenly, an unexpected school board stipend hit my account. My forehead badge flashed upward. Then the principal called me about a schedule change."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Don't worry, we invited people who actually fit the vibe.",
+      "stats": [
+        {
+          "label": "Monthly",
+          "value": "$6,200",
+          "bar": 0.45
+        },
+        {
+          "label": "Savings",
+          "value": "$4,500",
+          "bar": 0.4
+        },
+        {
+          "label": "Respect",
+          "value": "60%",
+          "bar": 0.6
+        }
+      ],
+      "character": "A coconut person with textured brown fibrous skin, wearing a tweed jacket with elbow patches. A golden coin rests near a stack of books. Glowing digital numbers on his forehead.",
+      "visual": "Medium shot of a coconut person grading papers at a wooden desk with a warm desk lamp.",
+      "scenes": [
+        "Close-up of the rough coconut texture and glowing Level 4 forehead badge.",
+        "Over-the-shoulder shot of a smartphone showing a family chat exclusion message.",
+        "Wide shot of a cozy, book-filled study with a hidden gold coin on the bookshelf.",
+        "Close-up of the coconut person looking thoughtfully out a rainy window."
+      ],
+      "caption": "Family exclusion hurts no matter your age. Ever been uninvited? #TeacherLife #FamilyDrama #Exclusion #StirnZahl #Storytime"
+    },
+    {
+      "n": 5,
+      "open_loop": "Who leaked the video of my holiday toast to the whole family?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Edited the video to make her speech look clumsy and awkward."
+      },
+      "name": "Elena, 39, Architect",
+      "badge": "Level 5: $9,800",
+      "verdict": "UPPER MID",
+      "story": "Level 5: 9,800 dollars a month, and someone just sabotaged my holiday toast video in the group chat. I am Elena, 39, an architect who designs sleek glass buildings. My head is a vibrant, scaly red dragon fruit, exotic and sharp-edged. The family holiday pressure is unbearable; everyone expects me to fund the entire venue rental because of my badge. In the chat, relatives are voting on my proposed venue layout. Then my uncle posted a doctored voice clip mocking my architectural presentation with the caption: Looks more like a prison than a dining room. The betrayal cuts deep. Suddenly, a major client approved my blueprint bonus. My forehead badge leaped forward. Then my contractor called with an emergency site delay. You'll see that in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+$1,500",
+        "after": "$11,300"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 5: 9,800 dollars a month, and someone just sabotaged my holiday toast video in the group chat."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Elena, 39, an architect who designs sleek glass buildings. My head is a vibrant, scaly red dragon fruit, exotic and sharp-edged. The family holiday pressure is unbearable; everyone expects me to fund the entire venue rental because of my badge. In the chat, relatives are voting on my proposed venue layout. Then my uncle posted a doctored voice clip mocking my architectural presentation with the caption:"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Looks more like a prison than a dining room."
+        },
+        {
+          "s": "Figur",
+          "t": "The betrayal cuts deep. Suddenly, a major client approved my blueprint bonus. My forehead badge leaped forward. Then my contractor called with an emergency site delay."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Looks more like a prison than a dining room.",
+      "stats": [
+        {
+          "label": "Monthly",
+          "value": "$9,800",
+          "bar": 0.6
+        },
+        {
+          "label": "Portfolio",
+          "value": "$45K",
+          "bar": 0.55
+        },
+        {
+          "label": "Status",
+          "value": "78%",
+          "bar": 0.75
+        }
+      ],
+      "character": "A dragon fruit person with bright magenta scaly skin and green leaf-like spikes, wearing a modern black turtleneck. A golden coin sits on a architectural scale model. Glowing digital numbers on her forehead.",
+      "visual": "Medium shot of a dragon fruit person reviewing architectural blueprints under bright drafting lights.",
+      "scenes": [
+        "Close-up of the vibrant dragon fruit scales and glowing Level 5 forehead badge.",
+        "Over-the-shoulder shot of a tablet showing a sabotaged family group chat video.",
+        "Wide shot of a modern architectural office with a hidden gold coin on a model building.",
+        "Close-up of the dragon fruit person's fierce expression looking at a phone."
+      ],
+      "caption": "Success attracts envy, especially in family group chats. Who sabotaged you? #ArchitectLife #Betrayal #Success #StirnZahl #Drama"
+    },
+    {
+      "n": 6,
+      "open_loop": "Why did my uncle delete the spreadsheet tracking holiday gift contributions?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Manipulated the gift tiers to make her look like a cheapskate."
+      },
+      "name": "Marcus, 42, Surgeon",
+      "badge": "Level 6: $18,500",
+      "verdict": "WEALTHY",
+      "story": "Level 6: 18,500 dollars a month, and my uncle just deleted the entire holiday contribution spreadsheet I spent hours making. I am Marcus, 42, a senior surgeon with a head shaped like a smooth, golden-yellow pineapple, spiky-crowned and imposing. In the family group chat, tensions are at an all-time high over who pays for the annual luxury family retreat. Everyone treats me like an ATM rather than a brother or son. I tried to organize a fair cost-split, and my aunt fired back in the chat: Stop acting like the CEO of our family. The disrespect stings after working eighty-hour weeks. Suddenly, my hospital direct deposit alert chimed with a massive hazard bonus. My forehead badge flashed upward. Then the chief of surgery paged me for an emergency consult. You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+$3,000",
+        "after": "$21,500"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 6: 18,500 dollars a month, and my uncle just deleted the entire holiday contribution spreadsheet I spent hours making."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Marcus, 42, a senior surgeon with a head shaped like a smooth, golden-yellow pineapple, spiky-crowned and imposing. In the family group chat, tensions are at an all-time high over who pays for the annual luxury family retreat. Everyone treats me like an ATM rather than a brother or son. I tried to organize a fair cost-split, and my aunt fired back in the chat:"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Stop acting like the CEO of our family."
+        },
+        {
+          "s": "Figur",
+          "t": "The disrespect stings after working eighty-hour weeks. Suddenly, my hospital direct deposit alert chimed with a massive hazard bonus. My forehead badge flashed upward. Then the chief of surgery paged me for an emergency consult."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "Stop acting like the CEO of our family.",
+      "stats": [
+        {
+          "label": "Monthly",
+          "value": "$18,500",
+          "bar": 0.75
+        },
+        {
+          "label": "Investments",
+          "value": "$120K",
+          "bar": 0.7
+        },
+        {
+          "label": "Pressure",
+          "value": "90%",
+          "bar": 0.95
+        }
+      ],
+      "character": "A pineapple person with golden textured skin and a spiky green crown, wearing a pristine white doctor's coat over a dark suit. A golden coin rests on a stethoscope. Glowing digital numbers on his forehead.",
+      "visual": "Medium shot of a pineapple person standing in a brightly lit hospital corridor, staring at a tablet.",
+      "scenes": [
+        "Close-up of the pineapple skin texture and glowing Level 6 forehead badge.",
+        "Over-the-shoulder shot of a tablet showing a deleted family spreadsheet.",
+        "Wide shot of a sterile hospital surgical wing with a hidden gold coin on a metal tray.",
+        "Close-up of a hospital pager flashing an emergency alert."
+      ],
+      "caption": "Being the high earner in the family means funding everything. Agree? #SurgeonLife #FamilyMoney #MedicalDrama #StirnZahl #Wealth"
+    },
+    {
+      "n": 7,
+      "open_loop": "Who transferred the holiday estate ownership without my signature?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Forged her signature on the holiday estate deed transfer."
+      },
+      "name": "Victoria, 46, Tech Executive",
+      "badge": "Level 7: $45,000",
+      "verdict": "ELITE",
+      "story": "Level 7: 45,000 dollars a month, and someone in the family chat just forged my signature to take over the holiday estate. I am Victoria, 46, a high-flying tech executive with a head shaped like a sleek, midnight-blue plum, polished and untouchable. The family group chat is a battlefield of entitlement, with relatives fighting over my vacation home keys. I thought financial success would buy peace, but it only bought greed. Then my cousin posted a fake legal notice in the chat with the caption: Your reign over the estate is officially over. The audacity took my breath away. Suddenly, my stock options vested early with an explosive market spike. My forehead badge surged instantly. Then my lawyer called with shocking news. You'll see that in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "+$8,000",
+        "after": "$53,000"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 7: 45,000 dollars a month, and someone in the family chat just forged my signature to take over the holiday estate."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Victoria, 46, a high-flying tech executive with a head shaped like a sleek, midnight-blue plum, polished and untouchable. The family group chat is a battlefield of entitlement, with relatives fighting over my vacation home keys. I thought financial success would buy peace, but it only bought greed. Then my cousin posted a fake legal notice in the chat with the caption:"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Your reign over the estate is officially over."
+        },
+        {
+          "s": "Figur",
+          "t": "The audacity took my breath away. Suddenly, my stock options vested early with an explosive market spike. My forehead badge surged instantly. Then my lawyer called with shocking news."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "Your reign over the estate is officially over.",
+      "stats": [
+        {
+          "label": "Monthly",
+          "value": "$45,000",
+          "bar": 0.9
+        },
+        {
+          "label": "Net Worth",
+          "value": "$2.4M",
+          "bar": 0.88
+        },
+        {
+          "label": "Power",
+          "value": "95%",
+          "bar": 0.98
+        }
+      ],
+      "character": "A plum person with deep glossy purple skin, wearing a sharp tailored emerald green suit. A golden coin sits on a glass coffee table. Glowing digital numbers on her forehead.",
+      "visual": "Medium shot of a plum person in a luxury penthouse looking down at the city skyline through floor-to-ceiling windows.",
+      "scenes": [
+        "Close-up of the smooth plum skin and glowing Level 7 forehead badge.",
+        "Over-the-shoulder shot of a smartphone displaying a fake legal notice in the family chat.",
+        "Wide shot of a minimalist luxury office with a hidden gold coin on a sleek desk.",
+        "Close-up of the plum person answering an urgent phone call."
+      ],
+      "caption": "Money doesn't buy family loyalty. How high is your number? #TechExecutive #FamilyWealth #PowerPlay #StirnZahl #Elite"
+    },
+    {
+      "n": 8,
+      "open_loop": "Who actually created the secret family chat that controls all our numbers?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Secretly founded the shadow chat that manipulates everyone's financial destiny."
+      },
+      "name": "Arthur, 52, Venture Capitalist",
+      "badge": "Level 8: $120,000",
+      "verdict": "UNLIMITED",
+      "story": "Level 8: 120,000 dollars a month, and I am the one who controls every single family group chat drama. I am Arthur, 52, a venture capitalist with a head shaped like a rare white winter melon, smooth, pale, and all-seeing. For years, I watched my relatives fight over pennies, flight tickets, and holiday dinners while I pulled the algorithmic strings behind the Stirn-Zahl system. In the master family chat, everyone is currently panicking about my final holiday announcement. Then my phone pinged with a message from the very first person in our family tree: The game is over, Arthur. That sentence made my cold empire tremble. Suddenly, the central mainframe system crashed globally. My forehead badge blinked out completely. Then the entire screen turned black. Which topic should we cover in the next series?",
+      "gender": "m",
+      "twist": {
+        "delta": "-$120K",
+        "after": "SYSTEM ER"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 8: 120,000 dollars a month, and I am the one who controls every single family group chat drama."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Arthur, 52, a venture capitalist with a head shaped like a rare white winter melon, smooth, pale, and all-seeing. For years, I watched my relatives fight over pennies, flight tickets, and holiday dinners while I pulled the algorithmic strings behind the Stirn-Zahl system. In the master family chat, everyone is currently panicking about my final holiday announcement. Then my phone pinged with a message from the very first person in our family tree:"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The game is over, Arthur."
+        },
+        {
+          "s": "Figur",
+          "t": "That sentence made my cold empire tremble. Suddenly, the central mainframe system crashed globally. My forehead badge blinked out completely. Then the entire screen turned black."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Which topic should we cover in the next series?"
+        }
+      ],
+      "quote": "The game is over, Arthur.",
+      "stats": [
+        {
+          "label": "Monthly",
+          "value": "$120,000",
+          "bar": 1.0
+        },
+        {
+          "label": "Empire",
+          "value": "$50M",
+          "bar": 1.0
+        },
+        {
+          "label": "Control",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "A winter melon person with smooth, pale green-white skin, wearing an expensive charcoal three-piece suit and gold cufflinks. A golden coin rests on a mahogany desk. Glowing digital numbers on his forehead.",
+      "visual": "Medium shot of a winter melon person sitting in a grand boardroom overlooking a glowing metropolis at night.",
+      "scenes": [
+        "Close-up of the pale melon skin and glowing Level 8 forehead badge.",
+        "Over-the-shoulder shot of multiple screens showing all previous family group chats.",
+        "Wide shot of a luxurious private office with a hidden gold coin on a leather chair.",
+        "Close-up of the forehead badge flickering and turning completely black."
+      ],
+      "caption": "The mastermind behind the family chats has been exposed. Which series should we do next? #Mastermind #FamilySecrets #TheEnd #StirnZahl #VentureCapital"
+    }
+  ],
+  "lang": "en",
+  "topic": "The 8 Levels of Family Group Chat Drama and Holiday Pressure",
+  "frame": "frucht"
+}

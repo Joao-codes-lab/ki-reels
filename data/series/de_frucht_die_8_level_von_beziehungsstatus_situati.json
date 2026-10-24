@@ -1,0 +1,779 @@
+{
+  "title": "Die 8 Level von Beziehungsstatus",
+  "house": "A bustling German city with tram lines, gray concrete apartment blocks, a neon-lit spätkauf kiosk, and a trendy hipster café where all the produce people cross paths.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Level 1 buys coffee from the barista in Level 2.",
+    "Level 3 drops his keys in front of the quiet man in a suit from Level 8.",
+    "Level 4 and Level 6 share the same tram stop every morning at 7:45."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Warum hat er nach drei Jahren Beziehung plötzlich meinen Namen blockiert?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Lacht sie an der Bushaltestelle aus und zeigt auf ihre Stirn."
+      },
+      "name": "Mia, 24, Studentin",
+      "badge": "0 Wochen",
+      "verdict": "SITUATIONAL",
+      "story": "Die 8 Level von Beziehungsstatus. Level 1. Level 1: 0 Wochen – und wir wohnen trotzdem schon zusammen in der WG. Ich bin Mia, 24, Studentin. Wir teilen uns ein Bett, wir kochen Pasta, wir küssen uns im Regen. Aber auf seiner Stirn leuchtet seit drei Jahren dieselbe Zahl: Unverbindlich. Letzte Woche fragte ich nach der gemeinsamen Zukunft. Da sah er mich kalt an und sagte: Wir haben doch keinen Vertrag. In diesem Moment flackerte seine Digitalanzeige kurz auf und sprang von Null auf Minus. Ich stand in unserer Küche, den kalten Kaffee in der Hand, und begriff, dass ich nur ein Lückenbüßer bin. Wo stehst du gerade? Kennst du diesen eisigen Schmerz im Magen? Dann sagte er diesen einen Satz, der alles verändert hat ... Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1 Tag",
+        "after": "1 Tag"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Beziehungsstatus. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 0 Wochen – und wir wohnen trotzdem schon zusammen in der WG."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Mia, 24, Studentin."
+        },
+        {
+          "s": "Figur",
+          "t": "Wir teilen uns ein Bett, wir kochen Pasta, wir küssen uns im Regen."
+        },
+        {
+          "s": "Figur",
+          "t": "Aber auf seiner Stirn leuchtet seit drei Jahren dieselbe Zahl: Unverbindlich."
+        },
+        {
+          "s": "Figur",
+          "t": "Letzte Woche fragte ich nach der gemeinsamen Zukunft."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Da sah er mich kalt an und sagte: Wir haben doch keinen Vertrag."
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Moment flackerte seine Digitalanzeige kurz auf und sprang von Null auf Minus."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stand in unserer Küche, den kalten Kaffee in der Hand, und begriff, dass ich nur ein Lückenbüßer bin."
+        },
+        {
+          "s": "Figur",
+          "t": "Wo stehst du gerade? Kennst du diesen eisigen Schmerz im Magen?"
+        },
+        {
+          "s": "Figur",
+          "t": "Dann sagte er diesen einen Satz, der alles verändert hat ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Wir haben doch keinen Vertrag.",
+      "stats": [
+        {
+          "label": "Dauer",
+          "value": "0 Wochen",
+          "bar": 0.05
+        },
+        {
+          "label": "Tränen",
+          "value": "12 L.",
+          "bar": 0.8
+        },
+        {
+          "label": "Klarheit",
+          "value": "2 %",
+          "bar": 0.02
+        }
+      ],
+      "character": "A sad strawberry person with bruised red skin, wearing an oversized gray hoodie and a silver friendship ring on a necklace. A glowing digital badge on her forehead shows '0 Wochen'. A tiny golden coin is hidden near the spilled coffee cup.",
+      "visual": "A sad strawberry person standing in a cramped German student kitchen at night, staring at a glowing digital badge on her forehead, dim moody lighting, hidden golden coin on the counter.",
+      "scenes": [
+        "Close-up of the glowing forehead badge showing '0 Wochen' with a flickering digital glitch.",
+        "The strawberry girl staring out of a rain-streaked apartment window in a gray city.",
+        "A messy shared kitchen table with empty pasta plates and a glowing smartphone screen.",
+        "The strawberry person walking alone past a glowing neon spätkauf at midnight."
+      ],
+      "caption": "Bist du auch in einer verflixten Situationship gefangen? #situationship #beziehung #beziehungsstatus #liebe #drama"
+    },
+    {
+      "n": 2,
+      "open_loop": "Wer hat den Blumenstrauß an meiner Bar abgegeben?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Bestellt extra teuren Espresso und lässt kein Trinkgeld da."
+      },
+      "name": "Ben, 26, Barista",
+      "badge": "3 Monate",
+      "verdict": "FAST ZUSAMMEN",
+      "story": "Die 8 Level von Beziehungsstatus. Level 2. Level 2: 3 Monate – exklusiv, aber ohne Label. Ich bin Ben, 26, Barista im Eck-Café. Wir schreiben uns jeden Morgen Guten-Morgen-Nachrichten, treffen uns zweimal die Woche heimlich in meiner Altbauwohnung. Letzten Dienstag stand sie vor meiner Kaffeebar und ich fragte sie ganz direkt: Sind wir jetzt eigentlich fest zusammen? Sie strich sich die Haare aus dem Gesicht, lächelte unsicher und sagte: Lass uns einfach schauen, wohin das führt. Da spürte ich diesen Stich in der Brust. Mein Stirn-Display zitterte und sprang von drei auf vier Monate, aber mein Herz blieb stehen. Warum wollen alle Freiheit, aber keiner Verantwortung? Kennst du dieses ständige Rätseln? Dann passierte etwas an der Kasse, das alles auf den Kopf stellte ... Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1 Monat",
+        "after": "4 Monate"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Beziehungsstatus. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 3 Monate – exklusiv, aber ohne Label."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Ben, 26, Barista im Eck-Café."
+        },
+        {
+          "s": "Figur",
+          "t": "Wir schreiben uns jeden Morgen Guten-Morgen-Nachrichten, treffen uns zweimal die Woche heimlich in meiner Altbauwohnung."
+        },
+        {
+          "s": "Figur",
+          "t": "Letzten Dienstag stand sie vor meiner Kaffeebar und ich fragte sie ganz direkt: Sind wir jetzt eigentlich fest zusammen?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Sie strich sich die Haare aus dem Gesicht, lächelte unsicher und sagte: Lass uns einfach schauen, wohin das führt."
+        },
+        {
+          "s": "Figur",
+          "t": "Da spürte ich diesen Stich in der Brust."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Stirn-Display zitterte und sprang von drei auf vier Monate, aber mein Herz blieb stehen."
+        },
+        {
+          "s": "Figur",
+          "t": "Warum wollen alle Freiheit, aber keiner Verantwortung?"
+        },
+        {
+          "s": "Figur",
+          "t": "Kennst du dieses ständige Rätseln?"
+        },
+        {
+          "s": "Figur",
+          "t": "Dann passierte etwas an der Kasse, das alles auf den Kopf stellte ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Lass uns einfach schauen, wohin das führt.",
+      "stats": [
+        {
+          "label": "Dauer",
+          "value": "3 Monate",
+          "bar": 0.2
+        },
+        {
+          "label": "Dates",
+          "value": "24",
+          "bar": 0.3
+        },
+        {
+          "label": "Zweifel",
+          "value": "78 %",
+          "bar": 0.78
+        }
+      ],
+      "character": "An orange person with a textured citrus peel skin, wearing a black apron and a silver barista ring. A glowing digital badge on the forehead reads '3 Monate'. A tiny golden coin rests beside the espresso machine.",
+      "visual": "An orange person wiping down a shiny espresso machine in a dimly lit German café, glowing forehead badge visible, hidden golden coin on the saucer.",
+      "scenes": [
+        "Close-up of the orange person's forehead showing '3 Monate' glowing in bright orange digits.",
+        "Pouring heart-shaped latte art with a worried expression on his citrus face.",
+        "Staring at a smartphone notification showing a read receipt without a reply.",
+        "A customer walking out of the café door while the bell rings softly in the background."
+      ],
+      "caption": "Die berühmte 'Mal schauen'-Falle. Wer kennt sie? #situationship #beziehung #dating #kaffee #liebe"
+    },
+    {
+      "n": 3,
+      "open_loop": "Was stand in der SMS, die er sofort wieder gelöscht hat?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Ignoriert seine Nachricht im Treppenhaus komplett."
+      },
+      "name": "Clara, 28, Grafikdesignerin",
+      "badge": "6 Monate",
+      "verdict": "NUR BEIM WEIN",
+      "story": "Die 8 Level von Beziehungsstatus. Level 3. Level 3: 6 Monate – wir nennen uns Freund und Freundin, aber nur wenn wir betrunken sind. Ich bin Clara, 28, Grafikdesignerin. Tagsüber ignorieren wir uns fast in der Agentur, nachts schreiben wir Liebeserklärungen. Gestern Abend saßen wir auf meinem Balkon, die Lichter der Stadt brannten. Ich nahm allen Mut zusammen und fragte: Treffen wir uns eigentlich noch mit anderen? Er lachte nervös und sagte: Wir müssen uns doch keinen Druck machen, Clara. In diesem Moment spürte ich eine kalte Welle der Erniedrigung. Meine Stirn leuchtete auf und meine Hand zitterte über dem Weinglas. Warum gebe ich mich mit halber Liebe zufrieden? Kennst du das Gefühl, eine Option zu sein? Dann kam diese eine WhatsApp-Nachricht rein ... Das siehst du in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "-1 Monat",
+        "after": "5 Monate"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Beziehungsstatus. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 6 Monate – wir nennen uns Freund und Freundin, aber nur wenn wir betrunken sind."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Clara, 28, Grafikdesignerin."
+        },
+        {
+          "s": "Figur",
+          "t": "Tagsüber ignorieren wir uns fast in der Agentur, nachts schreiben wir Liebeserklärungen."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern Abend saßen wir auf meinem Balkon, die Lichter der Stadt brannten."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich nahm allen Mut zusammen und fragte: Treffen wir uns eigentlich noch mit anderen?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Er lachte nervös und sagte: Wir müssen uns doch keinen Druck machen, Clara."
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Moment spürte ich eine kalte Welle der Erniedrigung."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn leuchtete auf und meine Hand zitterte über dem Weinglas."
+        },
+        {
+          "s": "Figur",
+          "t": "Warum gebe ich mich mit halber Liebe zufrieden?"
+        },
+        {
+          "s": "Figur",
+          "t": "Kennst du das Gefühl, eine Option zu sein?"
+        },
+        {
+          "s": "Figur",
+          "t": "Dann kam diese eine WhatsApp-Nachricht rein ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Wir müssen uns doch keinen Druck machen, Clara.",
+      "stats": [
+        {
+          "label": "Dauer",
+          "value": "6 Monate",
+          "bar": 0.35
+        },
+        {
+          "label": "Treffen",
+          "value": "Nachts",
+          "bar": 0.4
+        },
+        {
+          "label": "Wert",
+          "value": "40 %",
+          "bar": 0.4
+        }
+      ],
+      "character": "An avocado person with smooth green skin and a large pit silhouette on her chest, wearing a trendy linen shirt and silver hoops. Glowing forehead badge '6 Monate'. A tiny golden coin rests on the balcony railing.",
+      "visual": "An avocado person sitting on a balcony at dusk overlooking a German city skyline, holding a half-empty wine glass, digital forehead badge glowing softly, hidden golden coin on the ledge.",
+      "scenes": [
+        "Close-up of the forehead badge showing '6 Monate' reflecting in a wine glass.",
+        "The avocado woman staring at her glowing phone screen in a dark room.",
+        "Working on a laptop in a modern advertising agency with blue desk lamps.",
+        "Looking out the tram window while it rains over concrete housing blocks."
+      ],
+      "caption": "Wenn die 'Kein Druck'-Ausrede nur wehtut. #situationship #liebekummer #beziehung #datinglife #berlin"
+    },
+    {
+      "n": 4,
+      "open_loop": "Wem gehörte der zweite Zahnbürstenhalter im Badezimmer?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Starrt sie im Treppenhaus neidisch an."
+      },
+      "name": "Leon, 29, Architekt",
+      "badge": "1 Jahr",
+      "verdict": "EXKLUSIV",
+      "story": "Die 8 Level von Beziehungsstatus. Level 4. Level 4: 1 Jahr – exklusiv, aber ohne Schlüssel zur Wohnung. Ich bin Leon, 29, Architekt. Wir verbringen jedes Wochenende zusammen, kennen unsere Eltern, planen den Sommerurlaub in Italien. Gestern stand ich in ihrer Küche und fragte ganz offen: Wollen wir zusammenziehen? Sie stellte die Kaffeetasse ab, sah mich ernst an und sagte: Ich brauche noch meinen Freiraum, Leon. Da ist etwas in mir zerbrochen. Mein Stirn-Display flackerte von einem auf anderthalb Jahre, obwohl sich nichts bewegt hat. Warum reicht Liebe allein plötzlich nicht mehr aus? Kennst du diese unsichtbare Wand zwischen euch? Dann öffnete sich die Wohnungstür und diese Person trat herein ... Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+6 Monate",
+        "after": "1,5 Jahre"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Beziehungsstatus. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 1 Jahr – exklusiv, aber ohne Schlüssel zur Wohnung."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Leon, 29, Architekt."
+        },
+        {
+          "s": "Figur",
+          "t": "Wir verbringen jedes Wochenende zusammen, kennen unsere Eltern, planen den Sommerurlaub in Italien."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern stand ich in ihrer Küche und fragte ganz offen: Wollen wir zusammenziehen?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Sie stellte die Kaffeetasse ab, sah mich ernst an und sagte: Ich brauche noch meinen Freiraum, Leon."
+        },
+        {
+          "s": "Figur",
+          "t": "Da ist etwas in mir zerbrochen."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Stirn-Display flackerte von einem auf anderthalb Jahre, obwohl sich nichts bewegt hat."
+        },
+        {
+          "s": "Figur",
+          "t": "Warum reicht Liebe allein plötzlich nicht mehr aus?"
+        },
+        {
+          "s": "Figur",
+          "t": "Kennst du diese unsichtbare Wand zwischen euch?"
+        },
+        {
+          "s": "Figur",
+          "t": "Dann öffnete sich die Wohnungstür und diese Person trat herein ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Ich brauche noch meinen Freiraum, Leon.",
+      "stats": [
+        {
+          "label": "Dauer",
+          "value": "1 Jahr",
+          "bar": 0.5
+        },
+        {
+          "label": "Zusammen",
+          "value": "50 %",
+          "bar": 0.5
+        },
+        {
+          "label": "Geduld",
+          "value": "60 %",
+          "bar": 0.6
+        }
+      ],
+      "character": "A lemon person with vibrant yellow skin and a slightly bitter, determined facial expression, wearing a stylish turtleneck sweater and glasses. Glowing forehead badge '1 Jahr'. A hidden golden coin lies near his architectural sketches.",
+      "visual": "A lemon person leaning over blueprints at a drawing desk in a bright loft studio, forehead glowing with the badge, hidden golden coin under a ruler.",
+      "scenes": [
+        "Close-up of the forehead badge showing '1 Jahr' glowing brightly in yellow light.",
+        "The lemon architect packing his travel bag with a heavy sigh.",
+        "Standing in a hallway holding a set of keys that don't fit the door.",
+        "Looking at a framed photo on a shelf where someone's face is cut out."
+      ],
+      "caption": "Nach einem Jahr immer noch kein Schlüssel? Der Albtraum. #beziehung #zusammenziehen #architekt #liebe #beziehungsstatus"
+    },
+    {
+      "n": 5,
+      "open_loop": "Was stand auf dem Zettel, den sie auf dem Küchentisch hinterlassen hat?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Lacht über seine veraltete Beziehungsdefinition im Pausenraum."
+      },
+      "name": "Sarah, 31, Lehrerin",
+      "badge": "2 Jahre",
+      "verdict": "ZUSAMMENGEZOGEN",
+      "story": "Die 8 Level von Beziehungsstatus. Level 5. Level 5: 2 Jahre – gemeinsame Mietwohnung, getrennte Konten, kein Antrag. Ich bin Sarah, 31, Lehrerin. Wir haben IKEA-Möbel aufgebaut, einen Kaktus gekauft und unsere Eltern feiern Weihnachten zusammen. Gestern Abend räumte ich seine Jackentasche aus und fand eine Juwelier-Schachtel. Mein Herz machte einen Satz. Ich rannte ins Wohnzimmer, hielt ihm die Schachtel hin und rief: Wann ist es endlich so weit? Er wurde kreidebleich, riss mir die Schachtel aus der Hand und sagte: Das ist für die Hochzeit meiner Schwester, Sarah. In diesem Moment fühlte sich der Boden unter meinen Füßen an wie Treibsand. Meine Stirn-Display-Zahl flackerte und stürzte ab. Wie lange soll ich noch warten? Kennst du diese falsche Hoffnung? Dann passierte etwas völlig Unerwartetes ... Das siehst du in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "-6 Monate",
+        "after": "1,5 Jahre"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Beziehungsstatus. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 2 Jahre – gemeinsame Mietwohnung, getrennte Konten, kein Antrag."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Sarah, 31, Lehrerin."
+        },
+        {
+          "s": "Figur",
+          "t": "Wir haben IKEA-Möbel aufgebaut, einen Kaktus gekauft und unsere Eltern feiern Weihnachten zusammen."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern Abend räumte ich seine Jackentasche aus und fand eine Juwelier-Schachtel."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Herz machte einen Satz."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich rannte ins Wohnzimmer, hielt ihm die Schachtel hin und rief: Wann ist es endlich so weit?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Er wurde kreidebleich, riss mir die Schachtel aus der Hand und sagte: Das ist für die Hochzeit meiner Schwester, Sarah."
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Moment fühlte sich der Boden unter meinen Füßen an wie Treibsand."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn-Display-Zahl flackerte und stürzte ab."
+        },
+        {
+          "s": "Figur",
+          "t": "Wie lange soll ich noch warten?"
+        },
+        {
+          "s": "Figur",
+          "t": "Kennst du diese falsche Hoffnung?"
+        },
+        {
+          "s": "Figur",
+          "t": "Dann passierte etwas völlig Unerwartetes ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Das ist für die Hochzeit meiner Schwester, Sarah.",
+      "stats": [
+        {
+          "label": "Dauer",
+          "value": "2 Jahre",
+          "bar": 0.65
+        },
+        {
+          "label": "Miete",
+          "value": "50/50",
+          "bar": 0.7
+        },
+        {
+          "label": "Hoffnung",
+          "value": "15 %",
+          "bar": 0.15
+        }
+      ],
+      "character": "A broccoli person with a rich green floret head, wearing a chic cardigan and pearl earrings. Glowing forehead badge '2 Jahre'. A tiny golden coin rests on top of a stack of school notebooks.",
+      "visual": "A broccoli woman standing in a modern apartment hallway holding an empty velvet jewelry box with a devastated expression, hidden golden coin on the wooden shelf.",
+      "scenes": [
+        "Close-up of the glowing forehead badge showing '2 Jahre' with a sudden downward glitch.",
+        "The broccoli teacher grading school tests by the light of a desk lamp, looking exhausted.",
+        "Opening a jacket pocket in a quiet hallway with trembling hands.",
+        "Staring blankly at a blank white wall while rain taps on the window."
+      ],
+      "caption": "Der Moment, wenn du denkst es ist ein Antrag – und dann das. #beziehung #zusammenziehen #lehrerin #drama #liebe"
+    },
+    {
+      "n": 6,
+      "open_loop": "Warum hat er vor dem Standesamt plötzlich die Straßenseite gewechselt?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Lästert im Café über ihre Verlobungspläne."
+      },
+      "name": "David, 33, Buchhalter",
+      "badge": "4 Jahre",
+      "verdict": "VERLOBT",
+      "story": "Die 8 Level von Beziehungsstatus. Level 6. Level 6: 4 Jahre – Verlobungsring am Finger, aber kein Hochzeitstermin in Sicht. Ich bin David, 33, Buchhalter. Wir haben den Ring im Schaufenster ausgesehen, ich bin vor ihr auf die Knie gegangen, die Familie feierte. Doch seit zehn Monaten reden wir nur noch über Excel-Tabellen für die Kosten. Gestern saßen wir beim Abendbrot und ich fragte sie: Wollen wir endlich den Termin buchen? Sie sah mich an und sagte kalt: Wir haben doch Zeit, David, warum so gestresst? Da spürte ich eine kalte Hand an meinem Hals. Mein Stirn-Display glühte auf und zeigte plötzlich eine Verlängerung um zwei Jahre an. Ist ein Versprechen heute gar nichts mehr wert? Kennst du diese unendliche Warteschleife? Dann klingelte mein Handy mit einer unbekannten Nummer ... Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+2 Jahre",
+        "after": "6 Jahre"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Beziehungsstatus. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 4 Jahre – Verlobungsring am Finger, aber kein Hochzeitstermin in Sicht."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin David, 33, Buchhalter."
+        },
+        {
+          "s": "Figur",
+          "t": "Wir haben den Ring im Schaufenster ausgesehen, ich bin vor ihr auf die Knie gegangen, die Familie feierte."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch seit zehn Monaten reden wir nur noch über Excel-Tabellen für die Kosten."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern saßen wir beim Abendbrot und ich fragte sie: Wollen wir endlich den Termin buchen?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Sie sah mich an und sagte kalt: Wir haben doch Zeit, David, warum so gestresst?"
+        },
+        {
+          "s": "Figur",
+          "t": "Da spürte ich eine kalte Hand an meinem Hals."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Stirn-Display glühte auf und zeigte plötzlich eine Verlängerung um zwei Jahre an."
+        },
+        {
+          "s": "Figur",
+          "t": "Ist ein Versprechen heute gar nichts mehr wert?"
+        },
+        {
+          "s": "Figur",
+          "t": "Kennst du diese unendliche Warteschleife?"
+        },
+        {
+          "s": "Figur",
+          "t": "Dann klingelte mein Handy mit einer unbekannten Nummer ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Wir haben doch Zeit, David, warum so gestresst?",
+      "stats": [
+        {
+          "label": "Dauer",
+          "value": "4 Jahre",
+          "bar": 0.8
+        },
+        {
+          "label": "Planung",
+          "value": "10 %",
+          "bar": 0.1
+        },
+        {
+          "label": "Zweifel",
+          "value": "85 %",
+          "bar": 0.85
+        }
+      ],
+      "character": "A coconut person with a tough, fibrous brown outer husk, wearing a neatly ironed office shirt and a silver tie clip. Glowing forehead badge '4 Jahre'. A tiny golden coin rests on an open tax ledger.",
+      "visual": "A coconut person sitting at a cluttered desk filled with financial spreadsheets, illuminated by a green desk lamp, glowing badge on forehead, hidden golden coin under a stapler.",
+      "scenes": [
+        "Close-up of the forehead badge showing '4 Jahre' ticking upward to '6 Jahre'.",
+        "The coconut accountant staring at a glossy wedding magazine with a blank expression.",
+        "Holding a small velvet ring box in his palm while sitting alone in a park.",
+        "Staring at a ringing smartphone on the kitchen counter at night."
+      ],
+      "caption": "Verlobt, aber jahrelang kein Termin? Wer steckt im selben Dilemma? #verlobt #beziehung #hochzeit #buchhalter #drama"
+    },
+    {
+      "n": 7,
+      "open_loop": "Wer stand in diesem Moment vor der Kirchentür?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Kommentiert herablassend ihre Hochzeitsvorbereitungen."
+      },
+      "name": "Elena, 30, Eventmanagerin",
+      "badge": "10 Jahre",
+      "verdict": "VERHEIRATET",
+      "story": "Die 8 Level von Beziehungsstatus. Level 7. Level 7: 10 Jahre – Trauschein, goldener Ring, gemeinsames Haus im Grünen. Ich bin Elena, 30, Eventmanagerin. Wir haben alles erreicht, was man sich erträumt. Gestern Abend standen wir in unserer perfekten Küche, das Abendessen brutzelte, und ich fragte ihn nach all den Jahren: Bereust du eigentlich einen einzigen Tag mit mir? Er hielt Innehielt, sah mich an und sagte: Manchmal frage ich mich, wie ein anderes Leben ausgesehen hätte. In diesem Bruchteil einer Sekunde fror mein Blut ein. Mein Stirn-Display flackerte wild und zeigte plötzlich eine Warnung an. Ist absolute Sicherheit der Tod jeder Liebe? Kennst du diesen Moment der leisen Entfremdung? Dann klopfte es plötzlich an unserer Haustür ... Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "WARNING",
+        "after": "10+Jahre"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Beziehungsstatus. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 10 Jahre – Trauschein, goldener Ring, gemeinsames Haus im Grünen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Elena, 30, Eventmanagerin."
+        },
+        {
+          "s": "Figur",
+          "t": "Wir haben alles erreicht, was man sich erträumt."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern Abend standen wir in unserer perfekten Küche, das Abendessen brutzelte, und ich fragte ihn nach all den Jahren: Bereust du eigentlich einen einzigen Tag mit mir?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Er hielt Innehielt, sah mich an und sagte: Manchmal frage ich mich, wie ein anderes Leben ausgesehen hätte."
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Bruchteil einer Sekunde fror mein Blut ein."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Stirn-Display flackerte wild und zeigte plötzlich eine Warnung an."
+        },
+        {
+          "s": "Figur",
+          "t": "Ist absolute Sicherheit der Tod jeder Liebe?"
+        },
+        {
+          "s": "Figur",
+          "t": "Kennst du diesen Moment der leisen Entfremdung?"
+        },
+        {
+          "s": "Figur",
+          "t": "Dann klopfte es plötzlich an unserer Haustür ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Manchmal frage ich mich, wie ein anderes Leben ausgesehen hätte.",
+      "stats": [
+        {
+          "label": "Dauer",
+          "value": "10 Jahre",
+          "bar": 0.95
+        },
+        {
+          "label": "Sicherheit",
+          "value": "100 %",
+          "bar": 1.0
+        },
+        {
+          "label": "Knistern",
+          "value": "12 %",
+          "bar": 0.12
+        }
+      ],
+      "character": "A dragon fruit person with vibrant magenta skin and green-tipped scale leaves, wearing an elegant silk blouse and a thick golden wedding band. Glowing forehead badge '10 Jahre'. A tiny golden coin is hidden near a vase of flowers.",
+      "visual": "A dragon fruit woman standing in a luxurious, modern suburban kitchen at night, staring at her husband with a worried expression, glowing badge on her forehead, hidden golden coin behind a fruit bowl.",
+      "scenes": [
+        "Close-up of the forehead badge showing '10 Jahre' shifting into a glowing warning sign.",
+        "The dragon fruit event manager looking at old wedding photos in a pristine living room.",
+        "Standing by a large window looking out into the dark, rainy street.",
+        "Turning toward the hallway as a sudden knock echoes through the quiet house."
+      ],
+      "caption": "Nach 10 Jahren Ehe plötzlich Zweifel? Was würdest du tun? #ehe #beziehung #10jahre #liebe #drama"
+    },
+    {
+      "n": 8,
+      "open_loop": "Was befand sich in dem mysteriösen Umschlag vor der Tür?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Schaut ihn im Treppenhaus verwirrt an."
+      },
+      "name": "Julian, 35, Antiquitätenhändler",
+      "badge": "Unendlich",
+      "verdict": "WAHRE LIEBE",
+      "story": "Die 8 Level von Beziehungsstatus. Level 8. Level 8: Unendlich – keine Nummern mehr, keine Verträge, nur noch pure Gewissheit. Ich bin Julian, 35, Antiquitätenhändler. Jahrelang lief ich jeder falschen Zahl hinterher, war in Situationships gefangen, wartete auf Anträge, die nie kamen. Bis ich verstand: Die Zahl auf unserer Stirn misst nur unsere Angst. Gestern stand ich vor der Tür der Frau aus Level 7, hielt den Umschlag in der Hand und sagte den Satz, der alles beendete: Wir brauchen keine Etiketten mehr, wir sind einfach angekommen. In diesem Moment erloschen alle Digitalanzeigen in der ganzen Straße. Die Stadt atmete auf. Alle Missverständnisse der letzten Wochen lösten sich in Luft auf. Jedes Puzzleteil fiel an seinen Platz. Welche Zahl leuchtet gerade auf deiner Stirn – und bist du bereit, sie loszulassen?",
+      "gender": "m",
+      "twist": {
+        "delta": "0",
+        "after": "Frei"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Beziehungsstatus. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: Unendlich – keine Nummern mehr, keine Verträge, nur noch pure Gewissheit."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Julian, 35, Antiquitätenhändler."
+        },
+        {
+          "s": "Figur",
+          "t": "Jahrelang lief ich jeder falschen Zahl hinterher, war in Situationships gefangen, wartete auf Anträge, die nie kamen."
+        },
+        {
+          "s": "Figur",
+          "t": "Bis ich verstand: Die Zahl auf unserer Stirn misst nur unsere Angst."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern stand ich vor der Tür der Frau aus Level 7, hielt den Umschlag in der Hand und sagte den Satz, der alles beendete: Wir brauchen keine Etiketten mehr, wir sind einfach angekommen."
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Moment erloschen alle Digitalanzeigen in der ganzen Straße."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Stadt atmete auf."
+        },
+        {
+          "s": "Figur",
+          "t": "Alle Missverständnisse der letzten Wochen lösten sich in Luft auf."
+        },
+        {
+          "s": "Figur",
+          "t": "Jedes Puzzleteil fiel an seinen Platz."
+        },
+        {
+          "s": "Figur",
+          "t": "Welche Zahl leuchtet gerade auf deiner Stirn – und bist du bereit, sie loszulassen?"
+        }
+      ],
+      "quote": "Wir brauchen keine Etiketten mehr, wir sind einfach angekommen.",
+      "stats": [
+        {
+          "label": "Dauer",
+          "value": "Ewig",
+          "bar": 1.0
+        },
+        {
+          "label": "Angst",
+          "value": "0 %",
+          "bar": 0.0
+        },
+        {
+          "label": "Freiheit",
+          "value": "100 %",
+          "bar": 1.0
+        }
+      ],
+      "character": "A majestic pomegranate person with ruby-red crown seeds, wearing a vintage velvet jacket and holding an antique pocket watch. Glowing forehead badge 'Unendlich'. A tiny golden coin rests inside an open antique clock.",
+      "visual": "A pomegranate man standing in the center of a historic cobblestone street in Berlin at dawn as all digital forehead badges across the city slowly turn off, hidden golden coin on a vintage clock store windowsill.",
+      "scenes": [
+        "Close-up of the forehead badge smoothly transitioning from digits to the infinity symbol.",
+        "The pomegranate antiques dealer opening a heavy wooden door with a warm smile.",
+        "People all over the city looking up in astonishment as their glowing forehead numbers fade away.",
+        "Walking hand in hand down a quiet morning street as the sun breaks through the gray clouds."
+      ],
+      "caption": "Das Ende der Zahlen-Sklaverei. Welches Thema sollen wir als Nächstes verfilmen? #beziehungsstatus #freiheit #liebe #finale #series"
+    }
+  ],
+  "lang": "de",
+  "topic": "Die 8 Level von 'Beziehungsstatus: Situationship vs. Ring am Finger'",
+  "frame": "frucht"
+}

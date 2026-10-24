@@ -1,0 +1,117 @@
+{
+  "best_score": 54,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 5,
+        "story": 4,
+        "identifikation": 3,
+        "verbindungen": 4,
+        "sog": 6,
+        "wut": 5,
+        "merkfaehigkeit": 4,
+        "sprache": 4
+      },
+      "gesamt": 44,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze 'Level 1: 0 red flags – und nach fünf Minuten saß ich allein da' durch 'Nach fünf Minuten war mein Date weg und mein Kaffee noch voll.'"
+        },
+        {
+          "n": 3,
+          "fix": "Ersetze den halben Roman über den Farbkasten durch: 'Nach zwei Minuten hat er ernsthaft versucht, mich mit Wachsmalstiften zu porträtieren.'"
+        },
+        {
+          "n": 6,
+          "fix": "Mach den Text knackiger: 'Sie kam im Brautschleier zur Tanke und wollte sofort meinen Golf auf ihren Namen umschreiben.'"
+        },
+        {
+          "n": 8,
+          "fix": "Kürze den Twist ab: 'Mein eigener Algorithmus hat mich gerade komplett zerstört. Liebe lässt sich eben nicht programmieren.'"
+        }
+      ],
+      "fazit": "Die Idee mit den Früchten als Dating-Opfern ist visuell wild, aber die Texte klingen nach gelesener Buchseite statt nach TikTok. Ihr labert zu viel über Name, Alter und Beruf, statt direkt in den Schmerz zu springen. Nach 2 Sekunden ist der Zuschauer weg, wenn ihr nicht sofort knallt."
+    },
+    {
+      "scores": {
+        "hook": 4,
+        "story": 3,
+        "identifikation": 2,
+        "verbindungen": 6,
+        "sog": 5,
+        "wut": 3,
+        "merkfaehigkeit": 4,
+        "sprache": 4
+      },
+      "gesamt": 39,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ändere den Hook zu: 'Nach fünf Minuten war mein Date weg, mein Kaffee noch voll und auf meiner Stirn leuchtete eine glühende Null.' Streiche die künstliche Einleitung."
+        },
+        {
+          "n": 2,
+          "fix": "Kürze den Einstieg radikal: 'Mein Tinder-Date wollte direkt mein Online-Banking sehen – da wusste ich, ich bin am Arsch.'"
+        },
+        {
+          "n": 3,
+          "fix": "Schneide den Ballast weg: 'Er hat mich nach zwei Minuten mit Wachsmalstiften porträtiert und meine Ex beleidigt.'"
+        },
+        {
+          "n": 4,
+          "fix": "Direkter Einstieg: 'Sie hat einen Ordner mit meinen Finanzen der letzten fünf Jahre ausgepackt.'"
+        },
+        {
+          "n": 5,
+          "fix": "Schneller auf den Punkt: 'Er hat beim ersten Date ernsthaft mein Stammbuch und meine Blutgruppe gefordert.'"
+        },
+        {
+          "n": 6,
+          "fix": "Erhöhe die Stakes sofort: 'Sie kam im Brautschleier zur Tankstelle und wollte meinen Golf auf ihren Namen umschreiben.'"
+        },
+        {
+          "n": 7,
+          "fix": "Weg mit dem Vorgeplänkel: 'Er hat mich per Heli in ein Penthouse mit lauter Fotos aus meinem Badezimmer entführt.'"
+        },
+        {
+          "n": 8,
+          "fix": "Klarer Twist ohne Phrasen: 'Ich habe alle diese Tinder-Dates gesteuert, bis mein eigener Algorithmus mich gefickt hat.'"
+        }
+      ],
+      "fazit": "Die Idee mit anthropomorphen Gemüse-Figuren und einer auf der Stirn leuchtenden Red-Flag-Zahl ist visuell wild, krankt aber an absolut hölzernen, unnatürlichen Dialogen und künstlich aufgeblähten Storys. Nach zwei Sekunden wischt jeder weg, weil niemand so spricht. Die Querverweise (Münzen, Gegenstände) retten es vor dem Totalabsturz, aber die Umsetzung liest sich wie ein schlechtes Hörspiel für Grundschüler."
+    },
+    {
+      "scores": {
+        "hook": 6,
+        "story": 5,
+        "identifikation": 4,
+        "verbindungen": 7,
+        "sog": 8,
+        "wut": 4,
+        "merkfaehigkeit": 5,
+        "sprache": 5
+      },
+      "gesamt": 54,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den lahmen Einstieg durch: 'Nach fünf Minuten ging er – und ließ mich mit der Rechnung und einer fetten Null auf der Stirn zurück.'"
+        },
+        {
+          "n": 3,
+          "fix": "Mach den Konflikt realer: 'Er hat mich nach zwei Minuten mit Wachsmalstiften porträtiert und laut gesagt, dass ich aussehe wie seine Ex.'"
+        },
+        {
+          "n": 6,
+          "fix": "Reduziere das Over-the-Top-Level: 'Sie kam im Brautschleier zur Tankstelle und wollte, dass ich den Kaufvertrag für unser angebliches Haus unterschreibe.'"
+        },
+        {
+          "n": 8,
+          "fix": "Kürze das wirre Finale: 'Ich habe alle diese Tinder-Dates gesteuert, bis mein eigener Algorithmus mich zerstört hat. Game over.'"
+        }
+      ],
+      "fazit": "Die Serie hat durch die offenen Fragen und das verbindene Goldmünzen-Gimmick einen starken Sog, driftet aber ab Level 4 in völlig absurd-irreale Stalker- und Bomben-Fantasien ab, die jegliche reale Identifikation und Wut zerstören. Wer will Mitleid mit einer Entführten im Penthouse? Das ist kein Tinder-Date mehr, das ist ein schlechter B-Movie."
+    }
+  ]
+}

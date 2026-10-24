@@ -1,0 +1,129 @@
+{
+  "best_score": 73,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 3,
+        "story": 6,
+        "identifikation": 8,
+        "verbindungen": 7,
+        "sog": 9,
+        "wut": 5,
+        "merkfaehigkeit": 7,
+        "sprache": 6
+      },
+      "gesamt": 51,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den Einstieg 'Der Level-Aufzug. Level 1.' durch einen packenden Hook: 'Ich war gefangen im Kellerarchiv, während die Uhr draußen weiter tickte – 72 Stunden ohne Pause.'"
+        },
+        {
+          "n": 4,
+          "fix": "Stärke den Wut‑Effekt, indem du den Gegenspieler später seine eigene Sicht zeigen lässt: 'Ich sah, wie Level 7 nach dem Budgetstreich erst in der Kantine seine Hände wusch und flüsterte: \"Jetzt spürst du, was ich jeden Tag fühle.\"'"
+        },
+        {
+          "n": 2,
+          "fix": "Kürze die Sprache und erhöhe die Dramatik: Ersetze 'Ich esse kalte Pizza aus dem Pappkarton direkt vor dem Excel‑Sheet.' durch 'Ich mampfe kalte Pizzastücke zwischen Zeilen voller roter Zahlen.'"
+        }
+      ],
+      "fazit": "Die Serie hat ein starkes Grundgerüst mit klaren Open‑Loops und guter Identifikation, leidet jedoch an schwachen Hooks und wenig emotionaler Wut‑Auflösung. Mit prägnanteren Einstiegen, stärker konzipierten Antagonisten‑Perspektiven und gestraffter Sprache kann das Format deutlich an Viralität gewinnen."
+    },
+    {
+      "scores": {
+        "hook": 5,
+        "story": 4,
+        "identifikation": 6,
+        "verbindungen": 7,
+        "sog": 6,
+        "wut": 3,
+        "merkfaehigkeit": 4,
+        "sprache": 4
+      },
+      "gesamt": 49,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ändere den Hook zu: '40 Stunden im Kellerarchiv, kein Tageslicht – und dann sperrt die Bank mein Konto wegen 4,90 Euro.' Streiche Meta-Sätze."
+        },
+        {
+          "n": 2,
+          "fix": "Entferne die Aufzählung der Fakten. Ersetze durch: '50k im Jahr klingen geil, bis du merkst, dass du für den Mindestlohn im Büro schrumpfst.'"
+        },
+        {
+          "n": 3,
+          "fix": "Kürze den Einstieg: '88.000 Euro Gehalt und ich sehe meine Tochter nur schlafend.' Raus mit dem sperrigen Toiletten-Monolog."
+        },
+        {
+          "n": 4,
+          "fix": "Schneide das Auto-Szenario radikal: 'Ich sitze im Firmenwagen, kann nicht fahren, weil die Hände zittern – und der Vorstand wartet.'"
+        },
+        {
+          "n": 5,
+          "fix": "Konzentriere den Schmerz sofort: 'Scheidung via WhatsApp auf dem Weg ins Meeting. 180k Brutto, null Leben.'"
+        },
+        {
+          "n": 6,
+          "fix": "Direkter Einstieg ohne Floskeln: 'Viertelmillion Jahresgehalt, aber dreimal täglich Betablocker, um nicht umzukippen.'"
+        },
+        {
+          "n": 7,
+          "fix": "Streich das Pathos: 'Eine halbe Million im Jahr, aber mein Magen blutet und ich spüre seit Jahren nichts mehr.'"
+        },
+        {
+          "n": 8,
+          "fix": "Schärfe den Schluss-Punch: 'Ihr verkauft alle euer Leben für Zahlen. Ich gehe seit 30 Jahren um Punkt 16 Uhr nach Hause.'"
+        }
+      ],
+      "fazit": "Konzept mit starker Grundidee und coolen visuellen Easter Eggs (goldene Münze), aber viel zu textlastig und gestelzt für TikTok. Die Sätze klingen nach geschriebener Literatur statt nach echtem, ungefiltertem Frust. Wer nach 2 Sekunden nicht wegwischt, schläft bei den langen Monologen ein. Mehr Tempo, weniger Meta-Erzähler."
+    },
+    {
+      "scores": {
+        "hook": 7,
+        "story": 6,
+        "identifikation": 8,
+        "verbindungen": 9,
+        "sog": 8,
+        "wut": 7,
+        "merkfaehigkeit": 7,
+        "sprache": 6
+      },
+      "gesamt": 73,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den Meta-Satz 'Das siehst du in Level 2' durch einen harten Cut direkt zum Konflikt."
+        },
+        {
+          "n": 2,
+          "fix": "Kürze die Aufzählung der Pizzastücke und bringe den Twist schneller nach 3 Sekunden."
+        },
+        {
+          "n": 3,
+          "fix": "Schreibe die Zeile 'Mein Herz rast wie nach einem Marathon' zu 'Mein Herz hämmert gegen die Rippen' um."
+        },
+        {
+          "n": 4,
+          "fix": "Entferne das steife Behördendeutsch bei den Zeilen der Assistentin."
+        },
+        {
+          "n": 5,
+          "fix": "Verkürze die Einleitung zu Scheidung via WhatsApp, direkt rein in den Druck."
+        },
+        {
+          "n": 6,
+          "fix": "Streiche das langatmige Setting mit dem Privatjet, lass sie direkt auf die Entlassungslisten blicken."
+        },
+        {
+          "n": 7,
+          "fix": "Ändere den Satz über die Platine zu einer greifbaren, schmutzigen Bedrohung."
+        },
+        {
+          "n": 8,
+          "fix": "Lass Hanna direkt mit dem Blick in die Kamera und dem Vorwurf an den Zuschauer starten."
+        }
+      ],
+      "fazit": "Die Serie hat ein starkes Konzept mit genialen Querverweisen und einem fetten Payoff am Ende durch die Reinigungskraft. Die Schwächen liegen in zu vielen gekünstelten Erklär-Sätzen der Erzähler und zu langen, literarischen Beschreibungen, die das Tempo für TikTok bremsen."
+    }
+  ]
+}

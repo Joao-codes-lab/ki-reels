@@ -1,0 +1,575 @@
+{
+  "title": "The 8 Levels of Procrastination",
+  "house": "A bustling metropolitan university district where fruit and vegetable people rush through rain-slicked concrete plazas, neon-lit libraries, and endless coffee shops.",
+  "catchphrase": "The number on my forehead never lies.",
+  "links": [
+    "Level 2 mentions buying coffee from a tired strawberry barista.",
+    "Level 4 borrows a highlighter from a calm blueberry law student.",
+    "Level 6 walks past an exhausted bell pepper crying in the Metro."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "What was the final urgent warning written on the mysterious sticky note?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Laughs loudly at my panicked breakdown in the library aisle."
+      },
+      "name": "Leo, 20, History Student",
+      "badge": "14 days left",
+      "verdict": "TOTAL DENIAL",
+      "story": "Fourteen days left and my essay is just a blank white screen. I'm Leo, a soft, fuzzy peach with grease-stained sweatpants and a constantly flickering digital forehead. I stared at the blinking cursor while my roommate yelled, You are going to fail this entire semester. I told myself I had plenty of time for 4,000 words. But then my forehead number shifted instantly. My hands started shaking as the campus library clock chimed midnight. What was the final urgent warning written on the mysterious sticky note? You'll see that in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-7 days",
+        "after": "7 days"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Fourteen days left and my essay is just a blank white screen."
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Leo, a soft, fuzzy peach with grease-stained sweatpants and a constantly flickering digital forehead."
+        },
+        {
+          "s": "Figur",
+          "t": "I stared at the blinking cursor while my roommate yelled,"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You are going to fail this entire semester."
+        },
+        {
+          "s": "Figur",
+          "t": "I told myself I had plenty of time for 4,000 words. But then my forehead number shifted instantly."
+        },
+        {
+          "s": "Figur",
+          "t": "My hands started shaking as the campus library clock chimed midnight. What was the final urgent warning written on the mysterious sticky note?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You are going to fail this entire semester.",
+      "stats": [
+        {
+          "label": "Time Left",
+          "value": "7 days",
+          "bar": 0.9
+        },
+        {
+          "label": "Words Written",
+          "value": "0",
+          "bar": 0.0
+        },
+        {
+          "label": "Panic Level",
+          "value": "20%",
+          "bar": 0.2
+        }
+      ],
+      "character": "A tender peach person with soft fuzz skin, wearing a worn-out college hoodie and wire-rimmed glasses; a glowing digital timer rests on his forehead. Hidden gold coin near his left sneaker.",
+      "visual": "A peach guy staring at a glowing laptop screen in a dark, messy dorm room at night, looking stressed with a hidden gold coin on the desk.",
+      "scenes": [
+        "Close-up of the peach guy blinking at a completely empty Word document.",
+        "Wide shot of the chaotic dorm room with pizza boxes and scattered notebooks.",
+        "Detail shot of the digital forehead glowing with the number 7 days.",
+        "Close-up of a tiny golden coin tucked safely underneath a heavy textbook."
+      ],
+      "caption": "How many days before the deadline do you start panicking? #Procrastination #StudentLife #College #ExamCramming #Relatable"
+    },
+    {
+      "n": 2,
+      "open_loop": "Why did the professor cross out my entire bibliography in red ink?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Refused to share their study notes at the copying machine."
+      },
+      "name": "Maya, 21, Bio Major",
+      "badge": "7 days left",
+      "verdict": "FALSE COMFORT",
+      "story": "Seven days left and I finally opened the textbook for the first time. I am Maya, a bright yellow lemon wearing a neat cardigan and clutching an iced latte bought from the strawberry barista. I told myself, One week is basically a whole eternity of productive focus. But my friend gasped when she saw my screen and whispered, That source list is completely fake. My forehead countdown blinked faster, and my heart dropped into my shoes. Why did the professor cross out my entire bibliography in red ink? You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "-4 days",
+        "after": "3 days"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Seven days left and I finally opened the textbook for the first time."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Maya, a bright yellow lemon wearing a neat cardigan and clutching an iced latte bought from the strawberry barista."
+        },
+        {
+          "s": "Figur",
+          "t": "I told myself, One week is basically a whole eternity of productive focus. But my friend gasped when she saw my screen and whispered,"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "That source list is completely fake."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead countdown blinked faster, and my heart dropped into my shoes. Why did the professor cross out my entire bibliography in red ink?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "That source list is completely fake.",
+      "stats": [
+        {
+          "label": "Time Left",
+          "value": "3 days",
+          "bar": 0.7
+        },
+        {
+          "label": "Pages Read",
+          "value": "12",
+          "bar": 0.2
+        },
+        {
+          "label": "Coffee Cups",
+          "value": "4",
+          "bar": 0.5
+        }
+      ],
+      "character": "A bright yellow lemon person with a textured peel, wearing a pastel cardigan and pearl earrings; a glowing digital timer rests on her forehead. Hidden gold coin inside the coffee cup lid.",
+      "visual": "A lemon woman sitting at a sunlit campus cafe table, staring anxiously at heavy biology books with a hidden gold coin near her saucer.",
+      "scenes": [
+        "Medium shot of the lemon woman rapidly highlighting text with a shaking hand.",
+        "Close-up of her forehead number shifting rapidly downward.",
+        "Over-the-shoulder shot of a messy bibliography document on a laptop screen.",
+        "Close-up of a tiny golden coin resting right beside the ceramic coffee mug."
+      ],
+      "caption": "Can you read an entire semester in one week? #StudyGram #LemonLife #University #CollegeStruggles #ExamPrep"
+    },
+    {
+      "n": 3,
+      "open_loop": "What hidden file did I accidentally delete from my desktop?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Blocked the hallway printer while printing a 300-page slide deck."
+      },
+      "name": "Sam, 22, Econ Student",
+      "badge": "72 hours left",
+      "verdict": "RUSHING ANXIETY",
+      "story": "Seventy-two hours left and the caffeine has completely stopped working. I am Sam, a tough brown coconut wearing a slightly wrinkled dress shirt and carrying a heavy backpack. I stared at the spreadsheet and my study group leader shouted, You haven't even touched the financial models yet. Panic surged through my wooden shell as I tried to type faster. My digital forehead number plummeted instantly. What hidden file did I accidentally delete from my desktop? You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-24 hours",
+        "after": "48 hours"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Seventy-two hours left and the caffeine has completely stopped working."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Sam, a tough brown coconut wearing a slightly wrinkled dress shirt and carrying a heavy backpack."
+        },
+        {
+          "s": "Figur",
+          "t": "I stared at the spreadsheet and my study group leader shouted,"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You haven't even touched the financial models yet."
+        },
+        {
+          "s": "Figur",
+          "t": "Panic surged through my wooden shell as I tried to type faster. My digital forehead number plummeted instantly. What hidden file did I accidentally delete from my desktop?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "You haven't even touched the financial models yet.",
+      "stats": [
+        {
+          "label": "Time Left",
+          "value": "48 hours",
+          "bar": 0.5
+        },
+        {
+          "label": "Energy Drinks",
+          "value": "6",
+          "bar": 0.8
+        },
+        {
+          "label": "Stress Level",
+          "value": "80%",
+          "bar": 0.8
+        }
+      ],
+      "character": "A fibrous brown coconut person with a hard textured shell, wearing a crisp collar shirt and thick wristbands; a glowing digital timer rests on his forehead. Hidden gold coin tucked inside his backpack pocket.",
+      "visual": "A coconut guy sitting at a crowded university computer lab desk at 3 AM, looking exhausted with a hidden gold coin on the keyboard edge.",
+      "scenes": [
+        "Close-up of the coconut guy aggressively typing on a mechanical keyboard.",
+        "Wide shot of the dim university lab filled with other stressed students.",
+        "Detail shot of the digital forehead glowing red with the new hours count.",
+        "Close-up of a tiny golden coin wedged in the handle of a coffee thermos."
+      ],
+      "caption": "Three days left is where true engineering begins. #EngineeringLife #Coconut #FinalsWeek #AllNighter #Stress"
+    },
+    {
+      "n": 4,
+      "open_loop": "Who sent the anonymous email threatening to report my rough draft?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Asked me to explain the entire syllabus one day before the exam."
+      },
+      "name": "Chloe, 19, Art History",
+      "badge": "24 hours left",
+      "verdict": "PANIC MODE",
+      "story": "Twenty-four hours left and my room looks like a paper tornado hit it. I am Chloe, a smooth green avocado wearing an oversized vintage sweater and paint-splattered jeans. I borrowed a highlighter from a calm blueberry law student just moments before my printer jammed completely. My mom called me on speakerphone and screamed, How could you leave everything to the very last day. Tears welled in my eyes as the deadline loomed closer. Who sent the anonymous email threatening to report my rough draft? You'll see that in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "-12 hours",
+        "after": "12 hours"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Twenty-four hours left and my room looks like a paper tornado hit it."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Chloe, a smooth green avocado wearing an oversized vintage sweater and paint-splattered jeans."
+        },
+        {
+          "s": "Figur",
+          "t": "I borrowed a highlighter from a calm blueberry law student just moments before my printer jammed completely. My mom called me on speakerphone and screamed,"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "How could you leave everything to the very last day."
+        },
+        {
+          "s": "Figur",
+          "t": "Tears welled in my eyes as the deadline loomed closer. Who sent the anonymous email threatening to report my rough draft?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "How could you leave everything to the very last day.",
+      "stats": [
+        {
+          "label": "Time Left",
+          "value": "12 hours",
+          "bar": 0.35
+        },
+        {
+          "label": "Tears Shed",
+          "value": "3 liters",
+          "bar": 0.7
+        },
+        {
+          "label": "Focus",
+          "value": "10%",
+          "bar": 0.1
+        }
+      ],
+      "character": "A pear-shaped green avocado person with smooth skin and a dark pit center, wearing a cozy oversized knit sweater; a glowing digital timer rests on her forehead. Hidden gold coin under a stack of index cards.",
+      "visual": "An avocado woman sitting on her bedroom floor surrounded by loose textbook pages, crying slightly with a hidden gold coin on a textbook cover.",
+      "scenes": [
+        "Medium shot of the avocado woman holding her head in her hands in despair.",
+        "Close-up of her smartphone screen showing a frantic text message.",
+        "Wide shot of the bedroom covered in Post-it notes and reference books.",
+        "Close-up of a tiny golden coin resting on top of a pink highlighter."
+      ],
+      "caption": "The 24-hour panic is an absolute rite of passage. #ArtHistory #Avocado #ExamStress #StudentProblems #Deadline"
+    },
+    {
+      "n": 5,
+      "open_loop": "Why was the examination hall door locked ten minutes early?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Stole the last available power outlet in the quiet study zone."
+      },
+      "name": "Ben, 23, Physics Major",
+      "badge": "6 hours left",
+      "verdict": "ADRENALINE PEAK",
+      "story": "Six hours left and my brain is operating on pure unfiltered adrenaline. I am Ben, a spiky green broccoli wearing a zipped-up athletic jacket and carrying a massive physics tome. I sprinted across the rainy quad past the bell pepper crying in the Metro station. The head proctor looked at his watch and announced coldly, Anyone arriving after midnight will be locked out permanently. My digital timer flashed a violent warning color. Why was the examination hall door locked ten minutes early? You'll see that in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "-3 hours",
+        "after": "3 hours"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Six hours left and my brain is operating on pure unfiltered adrenaline."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Ben, a spiky green broccoli wearing a zipped-up athletic jacket and carrying a massive physics tome."
+        },
+        {
+          "s": "Figur",
+          "t": "I sprinted across the rainy quad past the bell pepper crying in the Metro station. The head proctor looked at his watch and announced coldly,"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Anyone arriving after midnight will be locked out permanently."
+        },
+        {
+          "s": "Figur",
+          "t": "My digital timer flashed a violent warning color. Why was the examination hall door locked ten minutes early?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Anyone arriving after midnight will be locked out permanently.",
+      "stats": [
+        {
+          "label": "Time Left",
+          "value": "3 hours",
+          "bar": 0.25
+        },
+        {
+          "label": "Heart Rate",
+          "value": "160 bpm",
+          "bar": 0.9
+        },
+        {
+          "label": "Panic",
+          "value": "95%",
+          "bar": 0.95
+        }
+      ],
+      "character": "A vibrant green broccoli person with a dense floret head, wearing a sporty zip-up track jacket; a glowing digital timer rests on his forehead. Hidden gold coin inside his jacket pocket flap.",
+      "visual": "A broccoli guy sprinting through a dark, rainy university courtyard at night with books clutched to his chest and a hidden gold coin near a wet bench.",
+      "scenes": [
+        "Action shot of the broccoli guy running fast under an amber streetlamp.",
+        "Close-up of his glowing forehead timer showing three hours remaining.",
+        "Medium shot of a heavy oak exam door with a stern proctor standing outside.",
+        "Close-up of a tiny golden coin lying in a puddle near the sidewalk."
+      ],
+      "caption": "Sprinting across campus at 3 AM with 3 hours left. #Physics #Broccoli #CollegeLife #NightShift #ExamNight"
+    },
+    {
+      "n": 6,
+      "open_loop": "What secret formula was written on the back of my admission test?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Laughed at my messy notes while I begged for study tips."
+      },
+      "name": "Zoe, 21, Chemistry Student",
+      "badge": "60 minutes left",
+      "verdict": "CODE RED",
+      "story": "Sixty minutes left and my hands won't stop shaking. I am Zoe, a dragon fruit with striking pink skin and neon green spikes, wearing a sleek black turtleneck. I rushed past an exhausted bell pepper crying in the Metro and dropped my entire pen collection on the concrete. A passing senior sneered at me, You are definitely going to fail this organic chemistry final. My forehead display flashed sixty red minutes of pure terror. What secret formula was written on the back of my admission ticket? You'll see that in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "-30 mins",
+        "after": "30 mins"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Sixty minutes left and my hands won't stop shaking."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Zoe, a dragon fruit with striking pink skin and neon green spikes, wearing a sleek black turtleneck."
+        },
+        {
+          "s": "Figur",
+          "t": "I rushed past an exhausted bell pepper crying in the Metro and dropped my entire pen collection on the concrete. A passing senior sneered at me,"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You are definitely going to fail this organic chemistry final."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead display flashed sixty red minutes of pure terror. What secret formula was written on the back of my admission ticket?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "You are definitely going to fail this organic chemistry final.",
+      "stats": [
+        {
+          "label": "Time Left",
+          "value": "30 mins",
+          "bar": 0.15
+        },
+        {
+          "label": "Adrenaline",
+          "value": "Max",
+          "bar": 1.0
+        },
+        {
+          "label": "Hope",
+          "value": "5%",
+          "bar": 0.05
+        }
+      ],
+      "character": "An exotic pink dragon fruit person with green leafy spikes, wearing a tight black turtleneck and silver hoop earrings; a glowing digital timer rests on her forehead. Hidden gold coin under her pen case.",
+      "visual": "A dragon fruit woman kneeling on a concrete train station platform gathering scattered pens with a worried expression and a hidden gold coin on a bench.",
+      "scenes": [
+        "Medium shot of the dragon fruit woman rushing down a subway staircase.",
+        "Close-up of her vibrant forehead timer ticking down the final minutes.",
+        "Wide shot of the bustling train platform filled with morning commuters.",
+        "Close-up of a tiny golden coin resting on a metal handrail."
+      ],
+      "caption": "One hour before the hardest exam of your life. #Chemistry #DragonFruit #Panic #StudentLife #Finals"
+    },
+    {
+      "n": 7,
+      "open_loop": "Whose grading sheet was swapped with mine on the professor's desk?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Grabbed the last review packet right out of my hands."
+      },
+      "name": "Max, 22, Law Student",
+      "badge": "5 minutes left",
+      "verdict": "MIRACLE TIME",
+      "story": "Five minutes left and I am staring at the exam auditorium doors. I am Max, a bright orange pumpkin wearing a sharp blazer and carrying a sleek leather briefcase. I walked past the blueberry law student who refused to share notes earlier today. The teaching assistant barked at us, Put all study materials away immediately or face disqualification. My digital timer blinked five final glowing red digits. Whose grading sheet was swapped with mine on the professor's desk? You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "-4 mins",
+        "after": "1 minute"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Five minutes left and I am staring at the exam auditorium doors."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Max, a bright orange pumpkin wearing a sharp blazer and carrying a sleek leather briefcase."
+        },
+        {
+          "s": "Figur",
+          "t": "I walked past the blueberry law student who refused to share notes earlier today. The teaching assistant barked at us,"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Put all study materials away immediately or face disqualification."
+        },
+        {
+          "s": "Figur",
+          "t": "My digital timer blinked five final glowing red digits. Whose grading sheet was swapped with mine on the professor's desk?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "Put all study materials away immediately or face disqualification.",
+      "stats": [
+        {
+          "label": "Time Left",
+          "value": "1 minute",
+          "bar": 0.05
+        },
+        {
+          "label": "Focus",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Survival",
+          "value": "1%",
+          "bar": 0.01
+        }
+      ],
+      "character": "A round orange pumpkin person with ribbed skin and a sturdy stem top, wearing a professional tailored suit jacket; a glowing digital timer rests on his forehead. Hidden gold coin in his briefcase lock.",
+      "visual": "A pumpkin man standing right outside massive wooden examination hall doors holding a sleek briefcase with a hidden gold coin on the door handle.",
+      "scenes": [
+        "Close-up of the pumpkin man looking intently at his watch with beads of sweat.",
+        "Wide shot of hundreds of students lining up outside the grand examination hall.",
+        "Detail shot of the digital forehead glowing with a single blinking minute.",
+        "Close-up of a tiny golden coin reflecting light on the polished brass door handle."
+      ],
+      "caption": "One minute left before the exam doors close forever. #LawStudent #Pumpkin #ExamDay #LastMinute #Pressure"
+    },
+    {
+      "n": 8,
+      "open_loop": "",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Admitted they learned every trick from watching my last-minute routine."
+      },
+      "name": "Oliver, 24, Grad Assistant",
+      "badge": "0 seconds left",
+      "verdict": "SUBMITTED",
+      "story": "Zero seconds left and I hit the submit button right as the server crashed. I am Oliver, a wise purple eggplant wearing a tailored professor vest and round spectacles. I looked out at the lecture hall filled with peach, lemon, coconut, avocado, broccoli, dragon fruit, and pumpkin students who survived the chaos. The dean smiled and told me, Your unconventional procrastination method somehow saved the entire department budget. My forehead timer finally turned a brilliant emerald green. What topic should we explore next in our series?",
+      "gender": "m",
+      "twist": {
+        "delta": "+100%",
+        "after": "PASSED"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Zero seconds left and I hit the submit button right as the server crashed."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Oliver, a wise purple eggplant wearing a tailored professor vest and round spectacles."
+        },
+        {
+          "s": "Figur",
+          "t": "I looked out at the lecture hall filled with peach, lemon, coconut, avocado, broccoli, dragon fruit, and pumpkin students who survived the chaos. The dean smiled and told me,"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Your unconventional procrastination method somehow saved the entire department budget."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead timer finally turned a brilliant emerald green. What topic should we explore next in our series?"
+        }
+      ],
+      "quote": "Your unconventional procrastination method somehow saved the entire department budget.",
+      "stats": [
+        {
+          "label": "Time Left",
+          "value": "0 sec",
+          "bar": 1.0
+        },
+        {
+          "label": "Grade",
+          "value": "A+",
+          "bar": 1.0
+        },
+        {
+          "label": "Relief",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "A sleek dark purple eggplant person with a curved green stem crown, wearing an academic vest and smart glasses; a glowing digital timer rests on his forehead. Hidden gold coin on the podium edge.",
+      "visual": "An eggplant professor smiling triumphantly in front of a packed lecture hall with a bright green forehead display and a hidden gold coin on the wooden desk.",
+      "scenes": [
+        "Medium shot of the eggplant professor pressing the enter key with a triumphant smile.",
+        "Wide shot of the cheering lecture hall filled with diverse fruit and vegetable students.",
+        "Close-up of the forehead display glowing with a permanent green success badge.",
+        "Close-up of a tiny golden coin resting right beside a vintage microphone."
+      ],
+      "caption": "The ultimate relief of submitting your thesis right on time. What topic should we cover next? #Graduation #Eggplant #Success #FinalsOver #SeriesFinale"
+    }
+  ],
+  "lang": "en",
+  "topic": "The 8 Levels of Procrastination and Last-Minute Exam Cramming",
+  "frame": "frucht"
+}

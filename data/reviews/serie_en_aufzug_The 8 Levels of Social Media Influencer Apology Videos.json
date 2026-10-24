@@ -1,0 +1,53 @@
+{
+  "best_score": 42,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 5,
+        "story": 4,
+        "identifikation": 3,
+        "verbindungen": 4,
+        "sog": 6,
+        "wut": 3,
+        "merkfaehigkeit": 5,
+        "sprache": 4
+      },
+      "gesamt": 42,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ändere den Hook von 'The 8 Levels of Social Media Apology Videos. Level 1.' zu 'Sechsundvierzig Millionen Leute haben meinen Screenshot gesehen – in zehn Minuten.'"
+        },
+        {
+          "n": 2,
+          "fix": "Kürze den Einstieg in Level 2 und ersetze den erklärenden Text durch: 'Vierzehntausend Abos reichen für Gratis-Kaffee, aber nicht für eine Makler-Miete von 2.200 Dollar.'"
+        },
+        {
+          "n": 3,
+          "fix": "Streiche in Level 3 die Aufzählung und starte direkt mit dem Konflikt: 'Hundertachtzigtausend Live-Zuschauer sahen zu, wie mein Twitch-Kanal in Flammen aufging.'"
+        },
+        {
+          "n": 4,
+          "fix": "Entferne den Corporate-Sprech in Level 4 und lass die Figur direkt greifen: 'Vierhunderttausend Dollar Inventar vergammeln im Lager, nur weil ein Tweet viral ging.'"
+        },
+        {
+          "n": 5,
+          "fix": "Mache den Ton in Level 5 echter: 'Drei Millionen Downloads schützen dich vor gar nichts, wenn dein eigener Sponsor den Geldhahn zudreht.'"
+        },
+        {
+          "n": 6,
+          "fix": "Verschärfe den Einstieg in Level 6: 'Fast sieben Millionen Follower und plötzlich steht eine Sammelklage im Postfach.'"
+        },
+        {
+          "n": 7,
+          "fix": "Erhöhe den Druck in Level 7: 'Fünfzehn Millionen Follower retten dich nicht vor der Börsen-Hölle, wenn der Vorstand dich fallen lässt.'"
+        },
+        {
+          "n": 8,
+          "fix": "Bringe das Finale auf den Punkt: '94 Prozent aller Influencer-Skandale im Netz sind nicht echt. Sie werden in diesem Raum geschrieben.'"
+        }
+      ],
+      "fazit": "A (Producer): Die Struktur steht, aber es klingt zu sehr nach Wikipedia-Artikeln statt nach echten TikTok-Storys. B (Zuschauer): Nach zwei Sekunden will ich sofort echtes Drama sehen, keine langen Erklärungen über 'Levels'. C (Editor): Zu viele verschachtelte Sätze, zu viel Exposition. Schneller rein in den Konflikt, härtere Cuts, mehr Punchlines."
+    }
+  ]
+}
