@@ -104,11 +104,11 @@ def _riser(sec=1.6):
     return (0.4 * noise + 0.4 * tone) * (t / sec) ** 2.5
 
 
-# Akkordfolge a-Moll: Am – F – C – G (i–VI–III–VII), der typische emotionale Drama-Loop
-CHORDS = [(57, 60, 64), (53, 57, 60), (48, 55, 64), (55, 59, 62)]
+# Akkordfolge d-Moll: Dm – Bb – F – C (i–VI–III–VII), wie in den Vorbild-Dramen (Analyse musik/MUSIK.md)
+CHORDS = [(62, 65, 69), (58, 62, 65), (53, 60, 65), (60, 64, 67)]
 
 
-def music(sec, bpm=92, hits=(), seed=3):
+def music(sec, bpm=72, hits=(), seed=3):
     """Cinematische Spannungsmusik: Streicherfläche, Klavier-Arpeggio, Herzschlag-Bass.
     Ab der Hälfte setzt der Beat voll ein; hits = Zeitpunkte (Twist, Outro) mit Riser davor und Boom darauf."""
     rng = np.random.default_rng(seed)
