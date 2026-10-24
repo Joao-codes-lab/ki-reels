@@ -11,6 +11,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 HISTORY = ROOT / "data" / "history.json"
 TOPICS = ROOT / "data" / "topics.json"
+BLUEPRINTS = ROOT / "data" / "blueprints.json"
 
 LANG_NAMES = {"de": "Deutsch", "en": "English", "es": "Español", "pt": "Português (Brasil)", "fr": "Français"}
 
@@ -198,8 +199,23 @@ def next_series_topic(used):
     return ask(SERIES_TOPIC_PROMPT.format(used=", ".join(used[-60:]) or "keine"))["topic"]
 
 
+def blueprint_hint(topic):
+    """Bauplan eines erfolgreichen englischen Videos (tools/trend_scout.py), falls das Thema daher stammt."""
+    bp = json.loads(BLUEPRINTS.read_text(encoding="utf-8")).get(topic) if BLUEPRINTS.exists() else None
+    if not bp:
+        return ""
+    rules = "\n".join(f"- {r}" for r in bp["regeln"])
+    hooks = " | ".join(bp["hook_ideen"])
+    views = f" mit {bp['aufrufe']:,} Aufrufen".replace(",", ".") if bp.get("aufrufe") else ""
+    return (f"\nDieses Thema basiert auf der Mechanik eines erfolgreichen englischen Videos{views}."
+            " Übernimm nur die Mechanik, keinen Inhalt:\n"
+            f"- Hook-Typ: {bp['hook_typ']}\n- Aufbau: {bp['aufbau']}\n- Spannung: {bp['spannung']}\n"
+            f"- Emotion: {bp['emotion']}\n{rules}\n- Mögliche Hooks (frei abwandeln): {hooks}\n")
+
+
 def write_series(topic, lang):
     prompt = SERIES_PROMPT.format(topic=topic, lang_name=LANG_NAMES[lang], country=COUNTRIES[lang])
+    prompt += blueprint_hint(topic)
     s = validate_series(ask(prompt))
     s.update({"lang": lang, "topic": topic})
     return s
