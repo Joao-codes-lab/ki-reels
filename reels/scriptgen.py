@@ -281,7 +281,8 @@ def blueprint_hint(topic):
     return (f"\nDieses Thema basiert auf der Mechanik eines erfolgreichen englischen Videos{views}."
             " Übernimm nur die Mechanik, keinen Inhalt:\n"
             f"- Hook-Typ: {bp['hook_typ']}\n- Aufbau: {bp['aufbau']}\n- Spannung: {bp['spannung']}\n"
-            f"- Emotion: {bp['emotion']}\n{rules}\n- Mögliche Hooks (frei abwandeln): {hooks}\n")
+            f"- Emotion: {bp['emotion']}\n- Stil des Originals (nur als Anregung): {bp.get('design', '')}\n"
+            f"{rules}\n- Mögliche Hooks (frei abwandeln): {hooks}\n")
 
 
 def write_series(topic, lang, frame="aufzug"):
