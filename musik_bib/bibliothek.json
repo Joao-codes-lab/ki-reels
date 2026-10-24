@@ -1,0 +1,212 @@
+{
+ "luxus": [
+  {
+   "file": "luxus/Devonshire Waltz Allegretto.mp3",
+   "title": "Devonshire Waltz Allegretto",
+   "score": 9,
+   "bpm": "104",
+   "feel": "Relaxed, Calming, Grooving",
+   "start": 0,
+   "loop": true,
+   "warum": "Der Track startet direkt mit einem smooth-jazzigen, entspannten Lo-Fi-Groove, der perfekt zum Thema Luxus und Reichtum passt. Die Melodie ist dezent genug, um einer Erzählstimme nicht in die Quere zu kommen, und das Tempo liegt genau im idealen Bereich für ein stylisches Reel.",
+   "credit": "Musik: \"Devonshire Waltz Allegretto\" Kevin MacLeod (incompetech.com), CC BY 4.0"
+  },
+  {
+   "file": "luxus/Guzheng City.mp3",
+   "title": "Guzheng City",
+   "score": 8,
+   "bpm": "104",
+   "feel": "Bright, Calming, Relaxed",
+   "start": 0,
+   "loop": true,
+   "warum": "Der Track hat einen entspannten Lo-Fi-/Chillhop-Groove, der perfekt zu einer coolen, edlen Penthouse-Ästhetik passt. Die Melodie ist dezent genug, um eine Erzählstimme nicht zu verdecken, und strahlt gleichzeitig Reichtum und Gelassenheit aus.",
+   "credit": "Musik: \"Guzheng City\" Kevin MacLeod (incompetech.com), CC BY 4.0"
+  },
+  {
+   "file": "luxus/Evening.mp3",
+   "title": "Evening",
+   "score": 4,
+   "bpm": "101",
+   "feel": "Bright, Calming, Relaxed",
+   "start": 25,
+   "loop": false,
+   "warum": "Der Anfang ist zu leise und hat Störgeräusche. Ab ca. 0:27 setzt ein schöner, ruhiger Gitarren- und Flöten-Loop ein, der eine entspannte Lounge-Atmosphäre erzeugt, auch wenn es für 'reichen Luxus' etwas zu bodenständig-folkloristisch klingt.",
+   "credit": "Musik: \"Evening\" Kevin MacLeod (incompetech.com), CC BY 4.0"
+  }
+ ],
+ "spannung": [
+  {
+   "file": "spannung/Darkening Developments.mp3",
+   "title": "Darkening Developments",
+   "score": 10,
+   "bpm": "116",
+   "feel": "Dark, Eerie, Intense, Mysterious, Unnerving",
+   "start": 0,
+   "loop": true,
+   "warum": "Der Track hat eine treibende, aber unaufdringliche Percussion und tiefe Bässe, die perfekt eine geheimnisvolle, leicht unheimliche Atmosphäre für ein Status-Reel aufbauen, ohne die Erzählstimme zu verdecken.",
+   "credit": "Musik: \"Darkening Developments\" Kevin MacLeod (incompetech.com), CC BY 4.0"
+  },
+  {
+   "file": "spannung/Static Motion.mp3",
+   "title": "Static Motion",
+   "score": 9,
+   "bpm": null,
+   "feel": "Dark, Eerie, Mysterious, Suspenseful, Unnerving",
+   "start": 2,
+   "loop": true,
+   "warum": "Der Track hat eine düstere, pulsierende und geheimnisvolle Grundstimmung ohne störende Melodien oder Gesang im Vordergrund. Das rhythmische Stampfen erzeugt exakt die unterschwellige Spannung, die für eine 'True Crime'- oder 'Trash-TV-Obst-Dramen'-Ästhetik bei einer Erzählstimme über Geld und Status benötigt wird.",
+   "credit": "Musik: \"Static Motion\" Kevin MacLeod (incompetech.com), CC BY 4.0"
+  },
+  {
+   "file": "spannung/Evening of Chaos.mp3",
+   "title": "Evening of Chaos",
+   "score": 8,
+   "bpm": null,
+   "feel": "Dark, Eerie, Mysterious, Suspenseful, Unnerving",
+   "start": 2,
+   "loop": false,
+   "warum": "Der Track hat eine leise, spannungsgeladene Atmosphäre mit einem treibenden Beat, der perfekt zu einem investigativen oder geheimnisvollen Reel passt, ohne die Stimme zu verdecken.",
+   "credit": "Musik: \"Evening of Chaos\" Kevin MacLeod (incompetech.com), CC BY 4.0"
+  }
+ ],
+ "drama": [
+  {
+   "file": "drama/SCP-x6x.mp3",
+   "title": "SCP-x6x (Hopes)",
+   "score": 8,
+   "bpm": "66",
+   "feel": "Dark, Mysterious, Somber",
+   "start": 0,
+   "loop": true,
+   "warum": "Das langsame Klavier erzeugt eine traurige, schwere Atmosphäre, perfekt für eine Szene von Ungerechtigkeit und Demütigung in einem Trash-TV-Drama. Es lässt der Stimme durch sein zurückhaltendes Arrangement viel Platz.",
+   "credit": "Musik: \"SCP-x6x (Hopes)\" Kevin MacLeod (incompetech.com), CC BY 4.0"
+  },
+  {
+   "file": "drama/SCP-x5x.mp3",
+   "title": "SCP-x5x (Outer Thoughts)",
+   "score": 8,
+   "bpm": "102",
+   "feel": "Dark, Mysterious, Somber",
+   "start": 0,
+   "loop": false,
+   "warum": "Der Track liefert die perfekte schwere, melodramatische und ungerechte Trash-TV-Atmosphäre für ein emotionales Comic-Reel. Die Töne lassen genug Freiraum für eine deutsche Erzählstimme.",
+   "credit": "Musik: \"SCP-x5x (Outer Thoughts)\" Kevin MacLeod (incompetech.com), CC BY 4.0"
+  },
+  {
+   "file": "drama/Man Down.mp3",
+   "title": "Man Down",
+   "score": 4,
+   "bpm": "53",
+   "feel": "Suspenseful, Dark, Somber",
+   "start": 0,
+   "loop": false,
+   "warum": "Das Stück hat genau diese schwere, emotionale und leicht unfaire Note, die zu einer Demütigungsszene passt. Allerdings ist es sehr getragen und sakral (Orgel/Chöre), was eher an eine Trauerfeier oder ein schlechtes Gewissen erinnert als an knackiges Trash-TV-Drama. Für eine kurze Reel-Sequenz mit Sprechstimme funktioniert es, aber es fehlt der typische Reality-TV-Trash-Vibe.",
+   "credit": "Musik: \"Man Down\" Kevin MacLeod (incompetech.com), CC BY 4.0"
+  }
+ ],
+ "twist": [
+  {
+   "file": "twist/Full On.mp3",
+   "title": "Full On",
+   "score": 9,
+   "bpm": "128",
+   "feel": "Action, Aggressive, Dark, Driving, Epic, Intense",
+   "start": 0,
+   "loop": false,
+   "warum": "Der Track beginnt episch und baut sich langsam auf, was perfekt zu einer Enthüllung oder einem Wendepunkt im Underdog-Szenario passt. Die Melodie trägt die Dramatik, lässt aber genügend Freiraum für eine Erzählstimme.",
+   "credit": "Musik: \"Full On\" Kevin MacLeod (incompetech.com), CC BY 4.0"
+  },
+  {
+   "file": "twist/Undaunted.mp3",
+   "title": "Undaunted",
+   "score": 8,
+   "bpm": "95",
+   "feel": "Driving, Epic, Action, Intense",
+   "start": 0,
+   "loop": false,
+   "warum": "Der Track baut sich extrem gut auf, hat eine dramatische, cineastische Underscore-Ästhetik, die perfekt für eine Enthüllung oder einen Wendepunkt im Underdog-Plot funktioniert. Keine störenden Vocals im Vordergrund.",
+   "credit": "Musik: \"Undaunted\" Kevin MacLeod (incompetech.com), CC BY 4.0"
+  },
+  {
+   "file": "twist/Movement Proposition.mp3",
+   "title": "Movement Proposition",
+   "score": 8,
+   "bpm": "126",
+   "feel": "Action, Aggressive, Driving, Epic, Grooving, Intense",
+   "start": 102,
+   "loop": false,
+   "warum": "Der Track baut sich ab Sekunde 102 perfekt auf, liefert genau die richtige dramatische, spannungsgeladene Enthüllungs-Energie für ein Trash-TV/Status-Reel und lässt genug Raum für eine Voiceover-Stimme, ohne dass störender Gesang ablenkt.",
+   "credit": "Musik: \"Movement Proposition\" Kevin MacLeod (incompetech.com), CC BY 4.0"
+  }
+ ],
+ "gefuehl": [
+  {
+   "file": "gefuehl/Disquiet.mp3",
+   "title": "Disquiet",
+   "score": 10,
+   "bpm": "70",
+   "feel": "Somber, Calming",
+   "start": 0,
+   "loop": true,
+   "warum": "Das rein akustische Klavierstück hat eine getragene, traurige und melancholische Grundstimmung. Es bietet durchgehend Raum für eine Erzählstimme, transportiert das Thema Einsamkeit bei Reichtum perfekt und unterstützt den nachdenklichen Charakter eines Storytelling-Reels.",
+   "credit": "Musik: \"Disquiet\" Kevin MacLeod (incompetech.com), CC BY 4.0"
+  },
+  {
+   "file": "gefuehl/Immersed.mp3",
+   "title": "Immersed",
+   "score": 9,
+   "bpm": "64",
+   "feel": "Calming, Mystical, Relaxed, Somber",
+   "start": 12,
+   "loop": true,
+   "warum": "Das Klavier zieht sich sanft durch, klingt traurig und einsam trotz feiner Eleganz, passt perfekt zur 'Reichtum macht nicht glücklich'-Thematik und stört keine Sprache.",
+   "credit": "Musik: \"Immersed\" Kevin MacLeod (incompetech.com), CC BY 4.0"
+  },
+  {
+   "file": "gefuehl/Anguish.mp3",
+   "title": "Anguish",
+   "score": 8,
+   "bpm": "54",
+   "feel": "Calming, Dark, Somber",
+   "start": 12,
+   "loop": false,
+   "warum": "Das langsame Klavier erzeugt eine traurige, schwere Atmosphäre, die perfekt zum Thema 'Einsamkeit trotz Reichtum' passt. Das Intro ist zu verspielt, ab Sekunde 12 setzt das tragende Motiv ein, das genug Raum für eine Erzählstimme lässt.",
+   "credit": "Musik: \"Anguish\" Kevin MacLeod (incompetech.com), CC BY 4.0"
+  }
+ ],
+ "komik": [
+  {
+   "file": "komik/Goblin_Tinker_Soldier_Spy.mp3",
+   "title": "Goblin Tinker Soldier Spy",
+   "score": 8,
+   "bpm": "101",
+   "feel": "Grooving, Bouncy, Humorous",
+   "start": 14,
+   "loop": false,
+   "warum": "Der Track setzt ab Sekunde 14 mit einer schrägen, peinlichen Rummel-Melodie ein, die perfekt zu Trash-TV und schadenfrohen Comic-Erzählungen passt. Er hält sich im Hintergrund, stört die Stimme nicht und liefert genau die richtige Dosis Comedy-Vibe.",
+   "credit": "Musik: \"Goblin Tinker Soldier Spy\" Kevin MacLeod (incompetech.com), CC BY 4.0"
+  },
+  {
+   "file": "komik/Android Sock Hop.mp3",
+   "title": "Android Sock Hop",
+   "score": 8,
+   "bpm": "98",
+   "feel": "Bouncy, Grooving, Humorous",
+   "start": 11,
+   "loop": true,
+   "warum": "Der Track startet direkt mit schrägen, leicht peinlichen Bläsern, die perfekt zu einer Trash-TV-Ästhetik und schadenfrohen Storylines passen. Die Drums halten den Rhythmus, lassen aber genug Raum für eine Erzählstimme.",
+   "credit": "Musik: \"Android Sock Hop\" Kevin MacLeod (incompetech.com), CC BY 4.0"
+  },
+  {
+   "file": "komik/Salty Ditty.mp3",
+   "title": "Salty Ditty",
+   "score": 8,
+   "bpm": "90",
+   "feel": "Bouncy, Humorous, Uplifting",
+   "start": 0,
+   "loop": true,
+   "warum": "Der Track hat den perfekten 8-bit-Retro-Chiptune-Vibe, der an Trash-Game-Shows und absurde Reality-TV-Dramen erinnert. Die stakkatoartige Bassline und die schrägen Soundeffekte unterstreichen perfekt die schadenfrohe, peinliche Komik. Die Melodie ist zwar präsent, lässt aber durch ihre rhythmische und perkussive Natur der Sprechstimme genug Freiraum. Der treibende Beat hält das Reel spannend und passt exakt zu kurzen, knackigen Clips.",
+   "credit": "Musik: \"Salty Ditty\" Kevin MacLeod (incompetech.com), CC BY 4.0"
+  }
+ ]
+}
