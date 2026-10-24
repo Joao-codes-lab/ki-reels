@@ -25,6 +25,7 @@ jobs:
     env:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+      POLLINATIONS_TOKEN: ${{ secrets.POLLINATIONS_TOKEN }}
       TASK: ${{ inputs.task || 'analyse' }}
       URLS: ${{ inputs.urls || vars.VORBILDER || 'https://www.instagram.com/_8_levels/ https://www.instagram.com/simpsonsvorhersage.n/ https://www.instagram.com/herr.amorim/' }}
       MAX: ${{ inputs.max || '3' }}
@@ -45,6 +46,10 @@ jobs:
         if: ${{ env.TASK == 'rhythmus' }}
         continue-on-error: true
         run: python tools/profile_stats.py $URLS --max ${{ inputs.max || '60' }} --out /tmp/research/rhythmus
+      - name: Bildtest (Design-Varianten gespeicherter Serien)
+        if: ${{ env.TASK == 'bildtest' }}
+        continue-on-error: true
+        run: python tools/bild_test.py data/series/de_frucht_das_monatliche_dating_app_budget.json data/series/en_frucht_monthly_salary_and_career_status.json --out /tmp/research/bildtest
       - name: Stimmproben
         if: ${{ inputs.task == 'stimmen' || inputs.task == 'beides' }}
         continue-on-error: true

@@ -4,6 +4,8 @@ Backends:
 - gemini: Gemini-TTS (kostenlos im free tier, sehr natürlich); Wortzeiten per faster-whisper,
           bei Fehlern automatisch Rückfall auf edge
 - edge:   Microsoft Edge Online-Stimmen (kostenlos, gute Qualität, liefert Wortzeiten)
+- eleven: ElevenLabs (sehr emotional, liefert Zeichen-Zeitstempel); jede Zeile mit eigener Stimme,
+          bei Fehlern Rückfall auf gemini
 - espeak: lokal und offline (robotisch), nur als Notlösung/Test; Wortzeiten werden geschätzt
 """
 import asyncio
@@ -133,6 +135,68 @@ def _gemini(text, lang, path, cast=None):
     wav.unlink()
 
 
+# Standard-Stimmen von ElevenLabs (mehrsprachig mit eleven_multilingual_v2)
+ELEVEN_VOICES = {"Erzaehler": "JBFqnCBsd6RMkjVDRZzb",  # George: tief, warm, erzählend
+                 "w": "EXAVITQu4vr4xnSDxMaL",  # Sarah
+                 "m": "TX3LPaxmHKxFdv7VOQHJ"}  # Liam
+GEMINI_GENDER = {"Kore": "w", "Aoede": "w", "Leda": "w", "Zephyr": "w", "Puck": "m", "Charon": "m", "Fenrir": "m"}
+
+
+def _eleven_line(text, voice_id, path, figure):
+    key = os.environ["ELEVENLABS_API_KEY"]
+    settings = ({"stability": 0.3, "similarity_boost": 0.8, "style": 0.65, "use_speaker_boost": True} if figure
+                else {"stability": 0.5, "similarity_boost": 0.8, "style": 0.3, "use_speaker_boost": True})
+    body = {"text": text, "model_id": os.environ.get("ELEVEN_MODEL", "eleven_multilingual_v2"), "voice_settings": settings}
+    req = urllib.request.Request(
+        f"https://api.elevenlabs.io/v1/text-to-speech/{voice_id}/with-timestamps?output_format=mp3_44100_128",
+        json.dumps(body).encode(), {"Content-Type": "application/json", "xi-api-key": key, "User-Agent": "ki-reels/1.0"})
+    with urllib.request.urlopen(req, timeout=180) as r:
+        data = json.load(r)
+    path.write_bytes(base64.b64decode(data["audio_base64"]))
+    al = data.get("alignment") or data.get("normalized_alignment") or {}
+    chars, st, en = al.get("characters", []), al.get("character_start_times_seconds", []), al.get("character_end_times_seconds", [])
+    words, cur, t0, t1 = [], "", None, None
+    for c, a, b in zip(chars, st, en):
+        if c.isspace():
+            if cur:
+                words.append((t0, t1, cur))
+            cur, t0 = "", None
+            continue
+        if t0 is None:
+            t0 = a
+        cur, t1 = cur + c, b
+    if cur:
+        words.append((t0, t1, cur))
+    return words
+
+
+def _eleven(text, lang, path, cast=None):
+    """Jede Zeile einzeln mit passender Stimme, danach zusammengefügt. Gibt (dauer, wortzeiten) zurück."""
+    if cast:
+        lines = cast["lines"]
+        fig = GEMINI_GENDER.get(cast["voices"].get("Figur", "Puck"), "m")
+    else:
+        lines, fig = [("Figur", text)], "m"
+    tmp = path.parent / "eleven"
+    tmp.mkdir(exist_ok=True)
+    parts, words, offset, gap = [], [], 0.0, 0.18
+    for i, (sp, t) in enumerate(lines):
+        vid = ELEVEN_VOICES["Erzaehler"] if sp == "Erzaehler" else ELEVEN_VOICES[fig]
+        p = tmp / f"{i:02d}.mp3"
+        ws = _eleven_line(t, vid, p, sp != "Erzaehler")
+        words += [(offset + a, offset + b, w) for a, b, w in ws]
+        offset += audio_duration(p) + gap
+        parts.append(p)
+    inputs = sum((["-i", str(p)] for p in parts), [])
+    pads = "".join(f"[{i}:a]apad=pad_dur={gap}[a{i}];" for i in range(len(parts)))
+    chain = "".join(f"[a{i}]" for i in range(len(parts)))
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", *inputs, "-filter_complex",
+                    f"{pads}{chain}concat=n={len(parts)}:v=0:a=1,atempo=1.05[o]", "-map", "[o]", "-b:a", "160k", str(path)],
+                   check=True)
+    k = 1 / 1.05
+    return audio_duration(path), [(a * k, b * k, w) for a, b, w in words]
+
+
 def _norm(w):
     return re.sub(r"[^\w]", "", w.lower())
 
@@ -180,6 +244,12 @@ def _align(text, path, lang):
 def speak(text, lang, path, backend="edge", rate="+8%", cast=None):
     """Erzeugt Audio unter `path` und gibt (dauer, [(start, ende, wort), ...]) zurück."""
     path = Path(path)
+    if backend == "eleven":
+        try:
+            return _eleven(text, lang, path, cast)
+        except Exception as e:
+            print(f"  ElevenLabs nicht verfügbar ({str(e)[:160]}), nehme Gemini")
+            backend = "gemini"
     if backend == "gemini":
         try:
             _gemini(text, lang, path, cast)

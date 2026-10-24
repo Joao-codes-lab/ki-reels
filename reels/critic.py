@@ -16,6 +16,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 REVIEWS = ROOT / "data" / "reviews"
 SERIES_MIN = 85
+JURY_ROUNDS = int(os.environ.get("JURY_ROUNDS", "3"))
 VIDEO_MIN = int(os.environ.get("VIDEO_MIN", "55"))
 
 JURY_PROMPT = """Ihr seid eine unabhängige, sehr strenge Jury für virale Kurzvideos (TikTok/Instagram Reels).
@@ -69,7 +70,7 @@ def improve_series(series, ask, name):
     """Lässt die Serie bewerten und bei Bedarf überarbeiten. Gibt die beste Version zurück."""
     best, best_score, rounds = series, -1, []
     current = series
-    for _ in range(4):
+    for _ in range(JURY_ROUNDS):
         try:
             crit = ask(JURY_PROMPT.format(series=json.dumps(current, ensure_ascii=False)))
             score = int(crit.get("gesamt", 0))
@@ -80,7 +81,7 @@ def improve_series(series, ask, name):
         print(f"  Skript-Jury: {score}/100 – {crit.get('fazit', '')[:140]}")
         if score > best_score:
             best, best_score = current, score
-        if score >= SERIES_MIN or len(rounds) == 4:
+        if score >= SERIES_MIN or len(rounds) == JURY_ROUNDS:
             break
         try:
             current = ask(REWRITE_PROMPT.format(critique=json.dumps(crit, ensure_ascii=False),
@@ -103,7 +104,7 @@ def review_video(path, name):
                                                    "data": base64.b64encode(path.read_bytes()).decode()}},
                                     {"text": VIDEO_PROMPT}]}],
             "generationConfig": {"responseMimeType": "application/json"}}
-    for model in ("gemini-2.5-flash", "gemini-flash-latest"):
+    for model in ("gemini-flash-latest", "gemini-flash-lite-latest"):
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={key}"
         req = urllib.request.Request(url, json.dumps(body).encode(), {"Content-Type": "application/json"})
         try:
@@ -135,7 +136,7 @@ def pick_image(paths, scene):
              for p in paths]
     parts.append({"text": DESIGN_PROMPT.format(n=len(paths), scene=scene[:600])})
     body = {"contents": [{"parts": parts}], "generationConfig": {"responseMimeType": "application/json"}}
-    for model in ("gemini-2.5-flash", "gemini-flash-latest"):
+    for model in ("gemini-flash-latest", "gemini-flash-lite-latest"):
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={key}"
         req = urllib.request.Request(url, json.dumps(body).encode(), {"Content-Type": "application/json"})
         try:

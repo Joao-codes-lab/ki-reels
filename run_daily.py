@@ -124,10 +124,50 @@ def generate_series(langs, tts_backend, frames):
               save(PENDING, pending)
 
 
+# Design-Battle: (Bildmodell, Stil-Zusatz). Die Design-Jury wählt pro Pilot den Look für alle Szenen.
 DESIGN_VARIANTS = [
-    "glossy candy-colored textures, exaggerated cartoon proportions, dramatic reality-TV studio lighting",
-    "bold saturated colors, playful stylized shapes, cinematic rim light, shallow depth of field",
+    ("flux", ""),
+    ("zimage", ""),
+    ("flux", "glossy candy-colored textures, exaggerated cartoon proportions, dramatic reality-TV studio lighting"),
 ]
+
+
+def image_prompt(frame, lv, scene):
+    """Kurzer Bildprompt: Figur zuerst, dann Szene. Der Stil wird in imagegen VOR den Prompt gesetzt."""
+    words = scene.split()
+    scene = " ".join(words[:45])
+    char = lv.get("character", "")
+    if frame == "frucht":
+        return (f"Main character: {char}. It is a cartoon fruit or vegetable creature, NOT a human. Scene: {scene}. "
+                f"A small glowing digital number '{lv['badge']}' on its forehead.")
+    return f"Main character: {char}. Scene: {scene}"
+
+
+def level_images(series, n, frame, folder, seed):
+    """Titelbild in mehreren Design-Varianten, Jury wählt, dann die restlichen Szenen im Siegerlook."""
+    lv = series["levels"][n - 1]
+    fr = scriptgen.FRAMES.get(frame, {})
+    base = fr.get("style") or imagegen.STYLE
+    prompts = [image_prompt(frame, lv, p) for p in [lv["visual"]] + lv.get("scenes", [])]
+    cands = []
+    for j, (model, extra) in enumerate(DESIGN_VARIANTS):
+        p = folder / f"l{n}_0_v{j}.jpg"
+        src = imagegen.generate(prompts[0], p, seed=seed + j * 13, style=f"{base}, {extra}" if extra else base, model=model)
+        if src != "placeholder":
+            cands.append((p, j))
+    if not cands:
+        cands = [(folder / f"l{n}_0_v0.jpg", 0)]
+    win, verdict = critic.pick_image([str(c[0]) for c in cands], prompts[0])
+    path, j = cands[win]
+    model, extra = DESIGN_VARIANTS[j]
+    print(f"  Design-Battle: Variante {j} ({model}) gewinnt {verdict.get('punkte', '')} {str(verdict.get('warum', ''))[:200]}")
+    look = f"{base}, {extra}" if extra else base
+    pics = [str(path)]
+    for i, prompt in enumerate(prompts[1:], 1):
+        p = folder / f"l{n}_{i}.jpg"
+        print(f"  Bild {i + 1}: {imagegen.generate(prompt, p, seed=seed + j * 13 + i, style=look, model=model)}")
+        pics.append(str(p))
+    return pics, verdict
 
 
 def generate_pilots(lang, tts_backend, k=5):
@@ -138,7 +178,9 @@ def generate_pilots(lang, tts_backend, k=5):
     pdir = DATA / "pilots"
     pdir.mkdir(exist_ok=True)
     used = [p["topic"] for f in pdir.glob("*.json") for p in load(f, [])]
-    ideas = scriptgen.pilot_ideas(lang, used, k)
+    ideas = scriptgen.pilot_ideas(lang, used, k, rounds=int(os.environ.get("BATTLE_ROUNDS", "3")))
+    if os.environ.get("ELEVENLABS_API_KEY"):
+        tts_backend = "eleven"
     results = []
     for idx, idea in enumerate(ideas, 1):
         topic, frame = idea["topic"], idea["frame"]
@@ -148,28 +190,7 @@ def generate_pilots(lang, tts_backend, k=5):
             sid = f"{lang}_{frame}_{slugify(topic)}"
             (DATA / "series").mkdir(exist_ok=True)
             save(DATA / "series" / f"{sid}.json", series)
-            lv = series["levels"][0]
-            fr = scriptgen.FRAMES.get(frame, {})
-            who = f"Main character: {lv['character']}. " if lv.get("character") else ""
-            forehead = f" The glowing forehead display reads '{lv['badge']}'." if frame == "frucht" else ""
-            # Design-Battle: 3 Stilvarianten des Titelbilds, die Design-Jury wählt den Look für alle Szenen
-            base = fr.get("style") or imagegen.STYLE
-            looks = [base] + [f"{base}, {v}" for v in DESIGN_VARIANTS]
-            prompts = [lv["visual"]] + lv.get("scenes", [])
-            full = [f"{fr.get('art', '')}{who}{p}.{forehead} Setting: {series['house']}" for p in prompts]
-            cands = []
-            for j, look in enumerate(looks):
-                p = ASSETS / sid / f"l1_0_v{j}.jpg"
-                imagegen.generate(full[0], p, seed=7919 + idx * 101 + j * 13, style=look)
-                cands.append(p)
-            win, verdict = critic.pick_image([str(c) for c in cands], full[0])
-            print(f"  Design-Battle: Variante {win} gewinnt {verdict.get('punkte', '')} {str(verdict.get('warum', ''))[:200]}")
-            look, seed0 = looks[win], 7919 + idx * 101 + win * 13
-            pics = [str(cands[win])]
-            for i, prompt in enumerate(full[1:], 1):
-                p = ASSETS / sid / f"l1_{i}.jpg"
-                print(f"  Bild {i + 1}: {imagegen.generate(prompt, p, seed=seed0 + i, style=look)}")
-                pics.append(str(p))
+            pics, verdict = level_images(series, 1, frame, ASSETS / sid, seed=7919 + idx * 101)
             name = f"{today}_pilot{idx}_{sid}_teil1.mp4"
             info = render_lift(series, 1, pics, ROOT / "out" / name, backend=tts_backend)
             shutil.copy(info["path"], SITE / name)

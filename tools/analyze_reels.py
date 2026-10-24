@@ -95,7 +95,7 @@ def gemini_analysis(video):
     body = {"contents": [{"parts": [{"inlineData": {"mimeType": "video/mp4",
                                                    "data": base64.b64encode(video.read_bytes()).decode()}},
                                     {"text": GEMINI_PROMPT}]}]}
-    for model in ("gemini-2.5-flash", "gemini-flash-latest"):
+    for model in ("gemini-flash-latest", "gemini-flash-lite-latest"):
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={key}"
         req = urllib.request.Request(url, json.dumps(body).encode(), {"Content-Type": "application/json"})
         try:

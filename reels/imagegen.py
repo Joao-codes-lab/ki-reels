@@ -50,28 +50,34 @@ def _gemini(prompt, w, h, style=STYLE):
     raise last
 
 
-def _pollinations(prompt, w, h, seed, style=STYLE):
+def _pollinations(prompt, w, h, seed, style=STYLE, model=None):
+    """Stil steht VOR dem Inhalt (Bildmodelle gewichten den Anfang am stärksten), Prompt wird gekürzt."""
     wait = 16 - (time.time() - _last_pollinations[0])  # anonyme Nutzung: höchstens ca. 1 Bild pro 15 s
-    if wait > 0:
+    if wait > 0 and not os.environ.get("POLLINATIONS_TOKEN"):
         time.sleep(wait)
-    q = urllib.parse.quote(f"{prompt}. {style}")
-    params = {"width": w, "height": h, "seed": seed, "model": "flux", "nologo": "true", "private": "true"}
-    url = f"https://image.pollinations.ai/prompt/{q}?{urllib.parse.urlencode(params)}"
+    text = f"{style}. {prompt}"
+    q = urllib.parse.quote(text[:900])
+    params = {"width": w, "height": h, "seed": seed, "model": model or os.environ.get("POLLINATIONS_MODEL", "flux"),
+              "nologo": "true", "private": "true", "enhance": "false"}
     headers = {"User-Agent": "ki-reels/1.0"}
+    urls = []
     if os.environ.get("POLLINATIONS_TOKEN"):
         headers["Authorization"] = f"Bearer {os.environ['POLLINATIONS_TOKEN']}"
+        urls.append(f"https://gen.pollinations.ai/image/{q}?{urllib.parse.urlencode(params)}")
+    urls.append(f"https://image.pollinations.ai/prompt/{q}?{urllib.parse.urlencode(params)}")
     last = None
     for attempt in range(4):
-        try:
-            with urllib.request.urlopen(urllib.request.Request(url, headers=headers), timeout=240) as r:
-                data = r.read()
-            _last_pollinations[0] = time.time()
-            if len(data) > 5000:
-                return data
-            last = RuntimeError(f"Antwort zu klein ({len(data)} Bytes)")
-        except Exception as e:
-            last = e
-        time.sleep(20 * (attempt + 1))
+        for url in urls:
+            try:
+                with urllib.request.urlopen(urllib.request.Request(url, headers=headers), timeout=240) as r:
+                    data = r.read()
+                _last_pollinations[0] = time.time()
+                if len(data) > 5000:
+                    return data
+                last = RuntimeError(f"Antwort zu klein ({len(data)} Bytes)")
+            except Exception as e:
+                last = e
+        time.sleep(15 * (attempt + 1))
     raise last
 
 
@@ -85,7 +91,7 @@ def _placeholder(path, w, h, prompt):
     img.filter(ImageFilter.GaussianBlur(40)).save(path)
 
 
-def generate(prompt, path, w=768, h=1344, seed=None, style=None):
+def generate(prompt, path, w=768, h=1344, seed=None, style=None, model=None):
     """Erzeugt ein Bild unter `path` (PNG/JPG) und gibt den Namen des Anbieters zurück."""
     path = Path(path)
     marker = path.with_name(path.name + ".ersatz")
@@ -93,12 +99,12 @@ def generate(prompt, path, w=768, h=1344, seed=None, style=None):
         return "cache"
     path.parent.mkdir(parents=True, exist_ok=True)
     seed = seed if seed is not None else random.randint(1, 10**6)
-    order = os.environ.get("IMAGE_PROVIDERS", "gemini,pollinations").split(",")
+    order = os.environ.get("IMAGE_PROVIDERS", "pollinations,gemini").split(",")
     errors = []
     for name in order:
         try:
             st = style or STYLE
-            data = _gemini(prompt, w, h, st) if name == "gemini" else _pollinations(prompt, w, h, seed, st)
+            data = _gemini(prompt, w, h, st) if name == "gemini" else _pollinations(prompt, w, h, seed, st, model)
             tmp = path.with_suffix(".tmp")
             tmp.write_bytes(data)
             im = Image.open(tmp).convert("RGB")

@@ -5,6 +5,7 @@ Schlüssel kommen aus Umgebungsvariablen: GEMINI_API_KEY und/oder GROQ_API_KEY.
 import json
 import os
 import re
+import urllib.error
 import urllib.request
 from pathlib import Path
 
@@ -43,8 +44,19 @@ Es soll breites Interesse wecken und Neugier auslösen. Bereits verwendet (nicht
 Antworte NUR mit JSON: {{"topic": str}} (Thema auf Deutsch, max. 8 Wörter)."""
 
 
-GEMINI_MODELS = [m for m in (os.environ.get("GEMINI_MODEL"), "gemini-flash-latest", "gemini-flash-lite-latest",
-                              "gemini-2.5-flash") if m]
+GEMINI_MODELS = [m for m in (os.environ.get("GEMINI_MODEL"), "gemini-flash-latest", "gemini-flash-lite-latest") if m]
+_dead = set()  # Modelle mit erschöpftem Kontingent (429) in diesem Lauf nicht erneut versuchen
+
+
+def _parse(text):
+    return json.loads(re.sub(r"^```(json)?|```$", "", text.strip()).strip())
+
+
+def _post(url, body, headers, timeout=300):
+    headers = {"Content-Type": "application/json", "User-Agent": "ki-reels/1.0", **headers}
+    req = urllib.request.Request(url, json.dumps(body).encode(), headers)
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return json.load(r)
 
 
 def _gemini(prompt):
@@ -53,40 +65,51 @@ def _gemini(prompt):
             "generationConfig": {"responseMimeType": "application/json", "temperature": 0.9}}
     errors = []
     for model in dict.fromkeys(GEMINI_MODELS):  # Reihenfolge behalten, Duplikate raus
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={key}"
-        req = urllib.request.Request(url, json.dumps(body).encode(), {"Content-Type": "application/json"})
-        try:
-            with urllib.request.urlopen(req, timeout=300) as r:
-                data = json.load(r)
-            parts = data["candidates"][0]["content"]["parts"]
-            return "".join(p.get("text", "") for p in parts if not p.get("thought"))
-        except Exception as e:
-            errors.append(f"{model}: {e}")
-    raise RuntimeError("; ".join(errors))
+        if model in _dead:
+            continue
+        for _ in range(2):  # kaputtes JSON: einmal neu würfeln
+            try:
+                data = _post(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={key}",
+                             body, {})
+                parts = data["candidates"][0]["content"]["parts"]
+                return _parse("".join(p.get("text", "") for p in parts if not p.get("thought")))
+            except urllib.error.HTTPError as e:
+                errors.append(f"{model}: {e}")
+                if e.code in (404, 429):
+                    _dead.add(model)
+                break
+            except Exception as e:
+                errors.append(f"{model}: {e}")
+    raise RuntimeError("; ".join(errors) or "alle Gemini-Modelle erschöpft")
+
+
+def _openai_like(url, key, model, prompt):
+    data = _post(url, {"model": model, "messages": [{"role": "user", "content": prompt}],
+                       "response_format": {"type": "json_object"}, "temperature": 0.9},
+                 {"Authorization": f"Bearer {key}"}, timeout=240)
+    return _parse(data["choices"][0]["message"]["content"])
 
 
 def _groq(prompt):
-    key = os.environ["GROQ_API_KEY"]
-    model = os.environ.get("GROQ_MODEL", "openai/gpt-oss-120b")
-    body = {"model": model, "messages": [{"role": "user", "content": prompt}],
-            "response_format": {"type": "json_object"}, "temperature": 0.9}
-    req = urllib.request.Request("https://api.groq.com/openai/v1/chat/completions", json.dumps(body).encode(),
-                                 {"Content-Type": "application/json", "Authorization": f"Bearer {key}"})
-    with urllib.request.urlopen(req, timeout=120) as r:
-        data = json.load(r)
-    return data["choices"][0]["message"]["content"]
+    return _openai_like("https://api.groq.com/openai/v1/chat/completions", os.environ["GROQ_API_KEY"],
+                        os.environ.get("GROQ_MODEL", "openai/gpt-oss-120b"), prompt)
+
+
+def _pollinations(prompt):
+    return _openai_like("https://gen.pollinations.ai/v1/chat/completions", os.environ["POLLINATIONS_TOKEN"],
+                        os.environ.get("POLLINATIONS_TEXT_MODEL", "openai"), prompt)
 
 
 def ask(prompt):
     errors = []
-    for name, fn, env in (("gemini", _gemini, "GEMINI_API_KEY"), ("groq", _groq, "GROQ_API_KEY")):
+    for name, fn, env in (("gemini", _gemini, "GEMINI_API_KEY"), ("groq", _groq, "GROQ_API_KEY"),
+                          ("pollinations", _pollinations, "POLLINATIONS_TOKEN")):
         if not os.environ.get(env):
             continue
         try:
-            text = fn(prompt)
-            return json.loads(re.sub(r"^```(json)?|```$", "", text.strip()).strip())
+            return fn(prompt)
         except Exception as e:  # nächste KI versuchen
-            errors.append(f"{name}: {e}")
+            errors.append(f"{name}: {str(e)[:200]}")
     raise RuntimeError("Keine KI erreichbar: " + "; ".join(errors or ["kein API-Schlüssel gesetzt"]))
 
 
