@@ -1,0 +1,26 @@
+{
+  "_done": [
+    {
+      "lang": "de",
+      "topic": "Reichtum in Deutschland",
+      "start": "2026-10-24"
+    },
+    {
+      "lang": "en",
+      "topic": "Reichtum in Deutschland",
+      "start": "2026-10-24"
+    }
+  ],
+  "de": {
+    "id": "de_reichtum_in_deutschland",
+    "topic": "Reichtum in Deutschland",
+    "next": 2,
+    "last_date": "2026-10-24"
+  },
+  "en": {
+    "id": "en_reichtum_in_deutschland",
+    "topic": "Reichtum in Deutschland",
+    "next": 2,
+    "last_date": "2026-10-24"
+  }
+}
