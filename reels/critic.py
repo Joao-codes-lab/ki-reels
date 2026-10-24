@@ -29,7 +29,8 @@ Bewertet diese 8-teilige Serie (ein Teil pro Video) jeweils 0-10:
 - verbindungen: Gibt es subtile Querverweise zwischen den Figuren, die neugierig machen?
 - sog: Gibt es pro Teil EINE offene Frage, auf die das ganze Video hinfiebert und die erst im nächsten Teil
   aufgelöst wird? Will man unbedingt weiterschauen?
-- wut: Löst der Bösewicht echte Wut/Empörung aus, sodass man kommentieren will?
+- wut: Löst der Gegenspieler (eine Figur aus einem anderen Level) echte Wut aus, und zeigt sein eigenes Level
+  später überraschend seine Sicht der gleichen Szene?
 - merkfaehigkeit: Bleibt etwas im Kopf (Catchphrase, unverwechselbare Figuren, ein Satz, den man zitiert)?
 - sprache: Klingt es gesprochen natürlich, kurz, ohne Floskeln?
 Dann: gesamt (0-100) und für jedes schwache Level konkrete Verbesserungen (Satz-genau).

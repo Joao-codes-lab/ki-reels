@@ -220,14 +220,17 @@ Merkmal (Tick, Gegenstand, Spruch), an dem man sie in anderen Teilen wiedererken
 Endlosschleife: Der Cliffhanger am Ende und der Hook am Anfang spiegeln sich, sodass der Anfang beim
 erneuten Abspielen wie die Fortsetzung des Endes wirkt.
 
-Bösewicht (sehr wichtig, soll beim Zuschauer echte Wut auslösen): Die Serie hat EINEN wiederkehrenden
-Gegenspieler mit eigener Zahl auf der Stirn (Feld "villain": Name, Sorte/Aussehen auf Englisch, seine Zahl).
-In jedem Teil tut er der Figur etwas Ungerechtes an (demütigt sie wegen ihrer Zahl, nimmt ihr etwas weg,
-lügt, lacht sie aus). Er ist selbstgefällig, nie comicartig böse, sondern so, dass man ihn kennt und hasst.
-Seine wahre Geschichte bzw. Strafe bleibt bis Level 8 offen. Er erscheint in mindestens einer Szene im Bild.
+Wechselnde Gegenspieler (sehr wichtig, soll beim Zuschauer echte Wut auslösen): Der Gegenspieler jedes Levels
+ist eine Figur aus einem ANDEREN Level (z. B. für Level 3 ist Level 8 der Gegenspieler, für Level 2 ist es
+Level 3, für Level 3 auch Level 1). Er tut der Figur etwas Ungerechtes an (demütigt sie wegen ihrer Zahl, nimmt
+ihr etwas weg, lügt, lacht sie aus), wird aber nur angedeutet (Aussehen, Spruch, Zahl auf der Stirn), nicht
+mit Namen erklärt. Wenn später dessen eigenes Level kommt, erzählt er die GLEICHE Szene aus seiner Sicht und man
+versteht, warum er so gehandelt hat. So erklärt sich das Gesamtgefüge mit jeder Folge mehr, man bekommt neue
+Blickwinkel und will alle Teile sehen. Lege pro Level das Feld "gegenspieler" ab (Nummer des Levels und was er
+tut). Level 8 löst das Netz auf.
 
 Easter Egg: In JEDER Szene ist irgendwo klein eine goldene Münze versteckt (Running Gag für die Kommentare).
-Baue Bösewicht und Münze in visual/scenes ein.
+Baue Gegenspieler (im Bild mit seiner Stirn-Zahl) und Münze in visual/scenes ein.
 
 Identifikation: Jede Figur muss sich anfühlen wie jemand, den man kennt oder selbst ist: ein alltäglicher,
 konkreter Moment (Supermarktkasse, Kontoauszug, WG-Küche, Pendelzug), ein innerer Gedanke, eine kleine Schwäche,
@@ -274,7 +277,7 @@ Außerdem:
 - house: {setting}.
 
 Antworte NUR mit JSON:
-{{"title": str, "house": str, "catchphrase": str, "villain": str, "links": [str, ...], "levels": [{{"n": 1, "open_loop": str, "name": str, "badge": str, "verdict": str, "story": str,
+{{"title": str, "house": str, "catchphrase": str, "links": [str, ...], "levels": [{{"n": 1, "open_loop": str, "gegenspieler": {{"level": int, "tat": str}}, "name": str, "badge": str, "verdict": str, "story": str,
 "gender": str, "twist": {{"delta": str, "after": str}}, "lines": [{{"s": str, "t": str}}], "quote": str, "stats": [{{"label": str, "value": str, "bar": float}}], "character": str, "visual": str,
 "scenes": [str, str, str, str], "caption": str}}, ... bis n=8]}}
 """
