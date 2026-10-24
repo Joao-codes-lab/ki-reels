@@ -87,12 +87,28 @@ GEMINI_STYLE = {
 _whisper = []
 
 
-def _gemini(text, lang, path):
+CAST_STYLE = {
+    "de": ("Lies dieses kurze Hörspiel natürlich und lebendig vor, wie ein packendes Kurzvideo. "
+           "Erzaehler spricht ruhig und tief, Figur spricht emotional und echt:\n"),
+    "en": ("Read this short audio drama naturally and vividly, like a gripping short video. "
+           "Narrator speaks calm and deep, Figure speaks emotional and real:\n"),
+}
+
+
+def _gemini(text, lang, path, cast=None):
+    """cast: optional {"lines": [(sprecher, text)], "voices": {sprecher: stimme}} für zwei Stimmen."""
     key = os.environ["GEMINI_API_KEY"]
     voice = os.environ.get("GEMINI_VOICE") or VOICES.get(lang, {}).get("gemini", "Puck")
-    body = {"contents": [{"parts": [{"text": GEMINI_STYLE.get(lang, GEMINI_STYLE["en"]) + text}]}],
-            "generationConfig": {"responseModalities": ["AUDIO"],
-                                 "speechConfig": {"voiceConfig": {"prebuiltVoiceConfig": {"voiceName": voice}}}}}
+    if cast:
+        script = "\n".join(f"{sp}: {t}" for sp, t in cast["lines"])
+        speech = {"multiSpeakerVoiceConfig": {"speakerVoiceConfigs": [
+            {"speaker": sp, "voiceConfig": {"prebuiltVoiceConfig": {"voiceName": v}}} for sp, v in cast["voices"].items()]}}
+        prompt = CAST_STYLE.get(lang, CAST_STYLE["en"]) + script
+    else:
+        speech = {"voiceConfig": {"prebuiltVoiceConfig": {"voiceName": voice}}}
+        prompt = GEMINI_STYLE.get(lang, GEMINI_STYLE["en"]) + text
+    body = {"contents": [{"parts": [{"text": prompt}]}],
+            "generationConfig": {"responseModalities": ["AUDIO"], "speechConfig": speech}}
     err = None
     for m in GEMINI_TTS_MODELS:
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{m}:generateContent?key={key}"
@@ -161,12 +177,12 @@ def _align(text, path, lang):
     return [(t[0], t[1], w) for t, w in zip(times, script)]
 
 
-def speak(text, lang, path, backend="edge", rate="+8%"):
+def speak(text, lang, path, backend="edge", rate="+8%", cast=None):
     """Erzeugt Audio unter `path` und gibt (dauer, [(start, ende, wort), ...]) zurück."""
     path = Path(path)
     if backend == "gemini":
         try:
-            _gemini(text, lang, path)
+            _gemini(text, lang, path, cast)
             return audio_duration(path), _align(text, path, lang)
         except Exception as e:
             print(f"  Gemini-Stimme nicht verfügbar ({str(e)[:160]}), nehme Edge")

@@ -124,6 +124,47 @@ def generate_series(langs, tts_backend, frames):
               save(PENDING, pending)
 
 
+def generate_pilots(lang, tts_backend, k=5):
+    """5 Pilotfolgen (Teil 1 von 5 verschiedenen Serien) zur Auswahl durch João. Werden nicht automatisch gepostet."""
+    today = dt.date.today().isoformat()
+    SITE.mkdir(parents=True, exist_ok=True)
+    (ROOT / "out").mkdir(exist_ok=True)
+    pdir = DATA / "pilots"
+    pdir.mkdir(exist_ok=True)
+    used = [p["topic"] for f in pdir.glob("*.json") for p in load(f, [])]
+    ideas = scriptgen.pilot_ideas(lang, used, k)
+    results = []
+    for idx, idea in enumerate(ideas, 1):
+        topic, frame = idea["topic"], idea["frame"]
+        print(f"[Pilot {idx}] {topic} ({frame})")
+        try:
+            series = scriptgen.write_series(topic, lang, frame)
+            sid = f"{lang}_{frame}_{slugify(topic)}"
+            (DATA / "series").mkdir(exist_ok=True)
+            save(DATA / "series" / f"{sid}.json", series)
+            lv = series["levels"][0]
+            fr = scriptgen.FRAMES.get(frame, {})
+            who = f"Main character: {lv['character']}. " if lv.get("character") else ""
+            forehead = f" The glowing forehead display reads '{lv['badge']}'." if frame == "frucht" else ""
+            pics = []
+            for i, prompt in enumerate([lv["visual"]] + lv.get("scenes", [])):
+                p = ASSETS / sid / f"l1_{i}.jpg"
+                full = f"{fr.get('art', '')}{who}{prompt}.{forehead} Setting: {series['house']}"
+                print(f"  Bild {i + 1}: {imagegen.generate(full, p, seed=7919 + i + idx * 101, style=fr.get('style'))}")
+                pics.append(str(p))
+            name = f"{today}_pilot{idx}_{sid}_teil1.mp4"
+            info = render_lift(series, 1, pics, ROOT / "out" / name, backend=tts_backend)
+            shutil.copy(info["path"], SITE / name)
+            score, review = critic.review_video(info["path"], name[:-4])
+            print(f"  Video-Jury: {score}/100 {review.get('verbesserungen', '')}")
+            results.append({"nr": idx, "topic": topic, "frame": frame, "title": series["title"], "file": name,
+                            "hook": idea.get("hook"), "warum": idea.get("warum_viral"), "score": score,
+                            "jury": review.get("verbesserungen"), "sid": sid})
+        except Exception as e:
+            print(f"  Pilot {idx} fehlgeschlagen: {e}")
+        save(pdir / f"{today}_{lang}.json", results)
+
+
 def post(base_url):
     pending = load(PENDING, [])
     remaining = []
@@ -160,9 +201,12 @@ if __name__ == "__main__":
     ap.add_argument("--tts", default=os.environ.get("TTS", "gemini"))
     ap.add_argument("--count", type=int, default=int(os.environ.get("VIDEOS_PER_RUN", "1")))
     ap.add_argument("--base-url", default=os.environ.get("PAGES_URL", ""))
-    ap.add_argument("--mode", default=os.environ.get("MODE", "series"), choices=["series", "classic"])
+    ap.add_argument("--mode", default=os.environ.get("MODE", "series"), choices=["series", "classic", "pilots"])
     a = ap.parse_args()
-    if a.step == "generate" and a.mode == "series":
+    if a.step == "generate" and a.mode == "pilots":
+        for lang in a.langs.split(","):
+            generate_pilots(lang, a.tts, int(os.environ.get("PILOTS", "5")))
+    elif a.step == "generate" and a.mode == "series":
         generate_series(a.langs.split(","), a.tts, os.environ.get("FRAMES", "aufzug").split(","))
     elif a.step == "generate":
         generate(a.langs.split(","), a.tts, a.count)

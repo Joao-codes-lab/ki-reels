@@ -15,6 +15,9 @@ on:
       parts:
         description: "Teile pro Serie in diesem Lauf"
         default: "1"
+      mode:
+        description: "series (Tageslauf) oder pilots (5 Pilotfolgen zur Auswahl)"
+        default: "series"
       post:
         description: "Bei Buffer einplanen?"
         type: boolean
@@ -37,6 +40,9 @@ jobs:
       LANGS: ${{ inputs.langs || vars.LANGS || 'de,en' }}
       VIDEOS_PER_RUN: ${{ inputs.count || vars.VIDEOS_PER_RUN || '1' }}
       PARTS: ${{ inputs.parts || '1' }}
+      MODE: ${{ inputs.mode || 'series' }}
+      POLLINATIONS_TOKEN: ${{ secrets.POLLINATIONS_TOKEN }}
+      ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
       PAGES_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
     steps:
       - uses: actions/checkout@v4

@@ -153,7 +153,11 @@ def render_part(series, n, images, out_path, backend="gemini"):
 
     with tempfile.TemporaryDirectory() as tmp:
         voice = Path(tmp) / "voice.mp3"
-        dur, words = tts.speak(lv["story"], lang, voice, backend=backend)
+        fig = {"w": "Kore", "m": "Puck"}.get(str(lv.get("gender", "m"))[:1].lower(), "Puck")
+        cast = None
+        if len({x["s"] for x in lv.get("lines", [])}) > 1:
+            cast = {"lines": [(x["s"], x["t"]) for x in lv["lines"]], "voices": {"Erzaehler": "Charon", "Figur": fig}}
+        dur, words = tts.speak(lv["story"], lang, voice, backend=backend, cast=cast)
         starts = sentence_starts(words)
         outro = words[starts[-1]][0] - 0.2 if len(starts) > 1 else dur - 2.5
         outro = min(max(outro, 8.0), dur - 1.5)

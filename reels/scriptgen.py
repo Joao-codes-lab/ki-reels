@@ -134,6 +134,8 @@ Jede Serie = ein Aufzug durch 8 Etagen eines Themas (Level 1 = unten/schlechtest
 Level 8 bleibt bis zum Schluss ein Geheimnis und überrascht.""",
         "setting": "englische Beschreibung des Ortes, an dem die Figuren leben (z. B. 'a big city in Germany today')",
         "art": "",
+        "character_rule": ("Kanal-Figurenstil: einfacher, runder, cremeweißer Kugelkopf ohne Nase, kleine Punktaugen, "
+                           "ausdrucksstarke Augenbrauen – beschreibe Frisur, Kleidung mit Farben, ein Accessoire."),
     },
     "sherwood": {
         "name": "Sherwood heute",
@@ -160,6 +162,25 @@ Nutze Spiele-Sprache sparsam und clever (Leben, Punkte, Power-up, Game over, End
     "art": "",
     "style": ("detailed 16-bit retro pixel art video game scene, side-scrolling platformer look, vibrant colors, "
               "chunky pixel characters with expressive faces, HUD-free, no text, no letters, no watermark"),
+}
+
+FRAMES["frucht"] = {
+    "name": "Die Stirn-Zahl",
+    "text": """Welt des Kanals: "Die Stirn-Zahl". Alle Figuren sind Obst- und Gemüsemenschen (Erdbeere, Orange,
+Avocado, Zitrone, Brokkoli, Kokosnuss, Drachenfrucht ...), und JEDER trägt sein Level sichtbar auf der Stirn als
+leuchtende Digitalanzeige (bei Geld-Themen z. B. das Netto pro Monat). Diese Zahl entscheidet, wie man behandelt
+wird: Respekt, Liebe, Demütigung, Neid. Jede Serie = 8 Level eines Themas; jedes Video erzählt ein Level.
+Die Obst- bzw. Gemüsesorte passt zum Charakter (z. B. saure Zitrone = verbittert, Kokosnuss = harte Schale).
+Erzähle wie ein packendes Trash-TV-Drama mit echten Gefühlen: Ungerechtigkeit wegen der Zahl, ein Moment der
+Demütigung oder des Triumphs, eine überraschende Wendung. Level 8 bleibt bis zum Schluss geheim.""",
+    "setting": "englische Beschreibung der Stadt bzw. des Ortes, an dem die Obstmenschen leben",
+    "art": "",
+    "character_rule": ("Die Figur ist ein Obst- oder Gemüsemensch: nenne die Sorte (Kopf/Haut daraus geformt), "
+                       "Kleidung mit Farben und ein Accessoire; auf der Stirn eine leuchtende Digitalanzeige."),
+    "style": ("high-quality 3D animated feature film style, anthropomorphic fruit and vegetable people with "
+              "expressive cartoon faces, the head and skin made of the fruit or vegetable, stylized proportions, "
+              "a small glowing digital display embedded in the forehead, cinematic warm lighting, richly detailed "
+              "colorful environment, no extra text, no watermark"),
 }
 
 NEXT_LINE = {"de": "Das siehst du in Level {n}.", "en": "You'll see that in Level {n}.",
@@ -211,9 +232,12 @@ Für jedes Level:
 - stats: genau 3 Kennzahlen der Figur für die Werte-Leiste, passend zum Thema, kurz:
   [{{"label": "Netto", "value": "1.380 €", "bar": 0.15}}, ...] (label max. 12 Zeichen, value max. 9 Zeichen,
   bar = 0..1 wie voll der Balken ist, steigt über die Level).
-- character: englische, feste Beschreibung der Figur im Kanal-Figurenstil (alle Figuren haben einen einfachen,
-  runden, cremeweißen Kugelkopf ohne Nase, kleine Punktaugen und ausdrucksstarke Augenbrauen) – beschreibe nur
-  Frisur bzw. Kopfbedeckung, Kleidung mit Farben und ein markantes Accessoire, max. 30 Wörter.
+- character: englische, feste Beschreibung der Figur, max. 35 Wörter. {character_rule}
+- gender: "w" oder "m" (für die Stimme der Figur).
+- lines: die Story als gesprochene Zeilen mit Sprecher, zusammen exakt der Story-Text:
+  [{{"s": "Erzaehler", "t": "Die 8 Level von Reichtum. Level 3."}}, {{"s": "Figur", "t": "..."}}, ...].
+  "Erzaehler" spricht die Level-Ansage am Anfang und alle Sätze anderer Personen (Dialogpartner, Zitate),
+  "Figur" spricht alles in Ich-Form. Mindestens 2 kurze Dialogmomente mit einer anderen Person.
 - visual: englischer Bildprompt für die Hauptszene (Tätigkeit, Gefühl, Umgebung, Licht). Keine Schrift im Bild.
 - scenes: 4 weitere englische Bildprompts, je ein Schlüsselmoment der Geschichte in der richtigen Reihenfolge,
   ausdrucksstarke Mimik und Gestik, abwechslungsreiche Perspektiven (Nahaufnahme, Totale, Detail).
@@ -225,7 +249,7 @@ Außerdem:
 
 Antworte NUR mit JSON:
 {{"title": str, "house": str, "links": [str, ...], "levels": [{{"n": 1, "name": str, "badge": str, "verdict": str, "story": str,
-"quote": str, "stats": [{{"label": str, "value": str, "bar": float}}], "character": str, "visual": str,
+"gender": str, "lines": [{{"s": str, "t": str}}], "quote": str, "stats": [{{"label": str, "value": str, "bar": float}}], "character": str, "visual": str,
 "scenes": [str, str, str, str], "caption": str}}, ... bis n=8]}}
 """
 
@@ -247,18 +271,28 @@ def validate_series(s):
         lv["scenes"] = (lv.get("scenes") or [])[:4]
         lv["stats"] = [x for x in (lv.get("stats") or []) if isinstance(x, dict)][:3]
         lv["quote"] = lv.get("quote") or ""
+        lines = [(x.get("s", "Figur"), str(x.get("t", "")).strip()) for x in (lv.get("lines") or [])
+                 if isinstance(x, dict) and str(x.get("t", "")).strip()]
+        lv["lines"] = [{"s": "Erzaehler" if sp.lower().startswith(("erz", "narr")) else "Figur", "t": t}
+                       for sp, t in lines] or [{"s": "Figur", "t": lv["story"]}]
+        lv["story"] = " ".join(x["t"] for x in lv["lines"])
     assert s.get("title") and s.get("house")
     return s
 
 
 def ensure_next_line(s, lang):
-    """Fester Schlusssatz jedes Teils (Wiedererkennung): „Das siehst du in Level X.“"""
+    """Fester Schlusssatz jedes Teils (Wiedererkennung): „Das siehst du in Level X.“, gesprochen vom Erzähler."""
     for lv in s["levels"][:7]:
         line = NEXT_LINE.get(lang, NEXT_LINE["en"]).format(n=lv["n"] + 1)
-        story = lv["story"].strip()
-        if not story.endswith(line):
-            story = re.sub(r"\s*(Teil|Part|Parte|Partie)\s*\d+\.?\s*$", "", story).rstrip()
-            lv["story"] = f"{story} {line}"
+        lines = lv.get("lines") or [{"s": "Figur", "t": lv["story"]}]
+        lines = [x for x in lines if x["t"].strip() != line]
+        last = lines[-1]["t"]
+        last = re.sub(r"\s*(Teil|Part|Parte|Partie)\s*\d+\.?\s*$", "", last).rstrip()
+        last = last.replace(line, "").rstrip()
+        lines[-1]["t"] = last
+        lines = [x for x in lines if x["t"]] + [{"s": "Erzaehler", "t": line}]
+        lv["lines"] = lines
+        lv["story"] = " ".join(x["t"] for x in lines)
     return s
 
 
@@ -288,6 +322,7 @@ def write_series(topic, lang, frame="aufzug"):
     fr = FRAMES[frame]
     prompt = SERIES_PROMPT.format(topic=topic, lang_name=LANG_NAMES[lang], country=COUNTRIES[lang],
                                   frame_text=fr["text"], setting=fr["setting"],
+                                  character_rule=fr.get("character_rule", ""),
                                   next_line=NEXT_LINE.get(lang, NEXT_LINE["en"]).format(n="X"))
     prompt += blueprint_hint(topic)
     s = ensure_next_line(validate_series(ask(prompt)), lang)
@@ -295,3 +330,35 @@ def write_series(topic, lang, frame="aufzug"):
     s = ensure_next_line(validate_series(critic.improve_series(s, ask, f"{lang}_{frame}_{topic}")), lang)
     s.update({"lang": lang, "topic": topic, "frame": frame})
     return s
+
+
+PILOT_PROMPT = """Du bist Showrunner eines Kurzvideo-Kanals. Entwickle {k} komplett unterschiedliche Serien-Ideen
+im Format "Die 8 Level von ...", jede mit dem Anspruch, die viralste Serie des Jahres zu werden.
+Zielgruppe: {lang_name}, 16-35, Instagram Reels und TikTok. Erfolgreiche Vorbilder: "8 Levels of Wealth in NYC"
+(313.000 Aufrufe: Ich-Erzählung, Widerspruchs-Hook, Querverbindungen) und Obstmenschen-Dramen mit einer Zahl auf
+der Stirn, die über Respekt entscheidet (300.000 Aufrufe).
+Mögliche Welten (frame): "frucht" (Obst- und Gemüsemenschen mit Zahl auf der Stirn) oder "aufzug" (Comic mit
+Kugelkopf-Figuren). Mindestens 3 Ideen mit "frucht".
+Themen sollen sofort Selbstvergleich und Diskussion auslösen (Geld, Gehalt, Liebe, Status, Schule/Uni, Job,
+Wohnen, Social Media, Familie). Keine Anlage-/Steuerberatung, keine echten Personen.
+Bereits verwendet: {used}
+Antworte NUR mit JSON: {{"ideen": [{{"topic": str, "frame": "frucht"|"aufzug", "hook": str,
+"warum_viral": str}}]}} mit genau {k2} Ideen; danach bewertet eine Jury."""
+
+PILOT_JURY = """Ihr seid eine strenge Jury aus Viral-Producer, Zielzuschauer (16-35) und Story-Editor.
+Wählt aus diesen Serien-Ideen die {k} mit der höchsten Chance auf Millionen Aufrufe UND Binge-Watching aller 8 Teile.
+Achtet auf Vielfalt (nicht 5x dasselbe Thema). Antworte NUR mit JSON: {{"auswahl": [Index, ...], "begruendung": str}}
+IDEEN:
+{ideas}"""
+
+
+def pilot_ideas(lang, used, k=5):
+    ideas = ask(PILOT_PROMPT.format(k=k, k2=k * 2, lang_name=LANG_NAMES[lang], used=", ".join(used) or "keine"))["ideen"]
+    ideas = [i for i in ideas if i.get("topic") and i.get("frame") in FRAMES]
+    try:
+        pick = ask(PILOT_JURY.format(k=k, ideas=json.dumps(list(enumerate(ideas)), ensure_ascii=False)))["auswahl"]
+        chosen = [ideas[int(i)] for i in pick if 0 <= int(i) < len(ideas)][:k]
+    except Exception as e:
+        print("  Pilot-Jury nicht erreichbar:", str(e)[:150])
+        chosen = ideas[:k]
+    return chosen or ideas[:k]
