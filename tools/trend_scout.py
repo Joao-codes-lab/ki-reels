@@ -5,7 +5,8 @@
 1. Sucht YouTube Shorts zu den Suchbegriffen aus data/trend_queries.json (yt-dlp, kein Login nötig)
    und nimmt die meistgesehenen englischen Videos. Zusätzlich werden Transkripte aus
    tools/analyze_reels.py (Ordner --research, z. B. Instagram/TikTok-Links) mit einbezogen.
-2. Transkribiert die Tonspur (faster-whisper). Videos werden nicht gespeichert.
+2. Gemini filtert themenfremde Treffer aus und schaut sich die passenden Videos direkt über ihre
+   YouTube-URL an (Ton + Bild). Nur falls das scheitert: Tonspur laden und mit faster-whisper transkribieren.
 3. Gemini zerlegt jedes Video in seinen Bauplan (Hook, Aufbau, Spannungsbogen, Emotion) und
    entwirft daraus ein eigenes deutsches Thema für „Das Haus der 8 Level“. Übernommen wird nur
    die Mechanik, nie Text, Figuren oder Bilder des Originals.
@@ -15,9 +16,12 @@
 import argparse
 import datetime as dt
 import json
+import os
+import re
 import subprocess
 import sys
 import tempfile
+import urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -38,8 +42,7 @@ Status, Lebensstil, Gewohnheiten, KI im Alltag.
 
 Originalvideo: "{title}" von {channel}, {views} Aufrufe, {duration} s.
 Beschreibung: {description}
-Transkript:
-{transcript}
+{material}
 
 Aufgabe:
 1. Zerlege, WARUM das Video funktioniert (Mechanik, nicht Inhalt).
@@ -51,12 +54,22 @@ Aufgabe:
 Antworte NUR mit JSON:
 {{"hook_typ": str, "hook_original_kurz": str (max. 12 Wörter, sinngemäß auf Deutsch),
   "aufbau": str (Ablauf in Sekunden/Beats), "spannung": str (wie Zuschauer gehalten werden),
-  "emotion": str, "warum_es_funktioniert": str (max. 40 Wörter),
+  "emotion": str, "design": str (Bildstil, Schrift, Schnitttempo, Musik; max. 30 Wörter),
+  "warum_es_funktioniert": str (max. 40 Wörter),
   "de_thema": str (max. 6 Wörter, passt in "Die 8 Level von ..."),
   "de_hook_ideen": [str, str, str] (eigene deutsche Hooks, max. 12 Wörter),
   "regeln_fuer_autor": [str, str, str] (konkrete Anweisungen, wie die Mechanik in unsere Serie kommt),
   "fit": int}}
 """
+
+
+FILTER_PROMPT = """Welche dieser YouTube Shorts passen thematisch zu einem Kanal über Geld, Gehalt, Reichtum,
+Wohnen, Job, Status, Lebensstil, Gewohnheiten oder KI im Alltag, sind englischsprachig und leben von
+gesprochener Erklärung oder Story (keine Musikvideos, Filmausschnitte, Comedy-Clips, Sport)?
+{items}
+Antworte NUR mit JSON: {{"ids": [str, ...]}} (passende IDs, beste zuerst)."""
+
+VIDEO_HINT = "Das Video ist angehängt: werte gesprochenen Text, Bilder, Schrift, Schnitt und Musik selbst aus."
 
 
 def run(cmd, timeout=600):
@@ -111,6 +124,39 @@ def transcribe_url(model, url):
         return text, info
 
 
+def gemini_video(url, prompt):
+    """Gemini schaut sich das öffentliche YouTube-Video direkt an (kein Download nötig)."""
+    key = os.environ["GEMINI_API_KEY"]
+    body = {"contents": [{"parts": [{"file_data": {"file_uri": url}}, {"text": prompt}]}],
+            "generationConfig": {"responseMimeType": "application/json", "temperature": 0.7}}
+    errors = []
+    for model in dict.fromkeys(scriptgen.GEMINI_MODELS):
+        req = urllib.request.Request(
+            f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={key}",
+            json.dumps(body).encode(), {"Content-Type": "application/json"})
+        try:
+            with urllib.request.urlopen(req, timeout=300) as r:
+                parts = json.load(r)["candidates"][0]["content"]["parts"]
+            text = "".join(p.get("text", "") for p in parts if not p.get("thought"))
+            return json.loads(re.sub(r"^```(json)?|```$", "", text.strip()).strip())
+        except Exception as e:
+            errors.append(f"{model}: {e}")
+    raise RuntimeError("; ".join(errors))
+
+
+def filter_relevant(cands):
+    if not cands:
+        return []
+    listing = "\n".join(f"- {c['id']}: {c['title']} ({c['channel']})" for c in cands)
+    try:
+        ids = scriptgen.ask(FILTER_PROMPT.format(items=listing)).get("ids") or []
+    except Exception as e:  # ohne Filter weiter, die Passung (fit) sortiert später aus
+        print(f"Themenfilter fehlgeschlagen: {e}")
+        return cands
+    by_id = {c["id"]: c for c in cands}
+    return [by_id[i] for i in ids if i in by_id]
+
+
 def research_items(folder):
     """Transkripte aus tools/analyze_reels.py (Instagram/TikTok-Links von João)."""
     items = []
@@ -127,10 +173,12 @@ def research_items(folder):
 
 
 def adapt(item):
-    a = scriptgen.ask(ADAPT_PROMPT.format(
-        title=item["title"], channel=item["channel"], views=fmt(item["views"]) or "unbekannt",
-        duration=item["duration"] or "?", description=(item.get("description") or "")[:600],
-        transcript=item["transcript"][:4000]))
+    fields = dict(title=item["title"], channel=item["channel"], views=fmt(item["views"]),
+                  duration=item["duration"] or "?", description=(item.get("description") or "")[:600])
+    if item.get("transcript"):
+        a = scriptgen.ask(ADAPT_PROMPT.format(material="Transkript:\n" + item["transcript"][:4000], **fields))
+    else:
+        a = gemini_video(item["url"], ADAPT_PROMPT.format(material=VIDEO_HINT, **fields))
     a["fit"] = int(a.get("fit") or 0)
     assert a.get("de_thema") and a.get("regeln_fuer_autor")
     return a
@@ -151,30 +199,36 @@ def main():
         for c in search_shorts(q, a.per_query):
             if c["id"] not in seen and c["views"] >= a.min_views:
                 candidates.setdefault(c["id"], c)
-    picked = sorted(candidates.values(), key=lambda c: -c["views"])[:a.top]
+    top_views = sorted(candidates.values(), key=lambda c: -c["views"])[:a.top * 4]
+    relevant = filter_relevant(top_views)
+    seen.update(c["id"] for c in top_views if c not in relevant)  # themenfremd, nicht erneut prüfen
+    picked = relevant[:a.top]
     extra = [i for i in research_items(a.research) if i["id"] not in seen] if a.research else []
-    print(f"{len(candidates)} Kandidaten, analysiere {len(picked)} + {len(extra)} aus Research")
+    print(f"{len(candidates)} Kandidaten, {len(relevant)} passend, analysiere {len(picked)} + {len(extra)} aus Research")
 
     model = None
-    if picked:
-        from faster_whisper import WhisperModel
-        model = WhisperModel("small", device="cpu", compute_type="int8")
-
     results = []
     for item in picked + extra:
-        if "transcript" not in item:
-            text, info = transcribe_url(model, item["url"])
-            if not text or info.get("_lang") != "en" or len(text.split()) < 25:
-                print(f"übersprungen (kein englischer Sprechtext): {item['title']}")
-                seen.add(item["id"])
-                continue
-            item["transcript"] = text
-            item["description"] = info.get("description") or ""
         try:
             item["adaption"] = adapt(item)
         except Exception as e:
-            print(f"Adaption fehlgeschlagen ({item['title']}): {e}")
-            continue
+            print(f"Video-Analyse fehlgeschlagen ({item['title']}): {e}")
+            if item.get("transcript"):
+                continue
+            if model is None:  # Ausweg: Ton laden und selbst transkribieren
+                from faster_whisper import WhisperModel
+                model = WhisperModel("small", device="cpu", compute_type="int8")
+            text, info = transcribe_url(model, item["url"])
+            if not text or info.get("_lang") != "en" or len(text.split()) < 25:
+                print(f"übersprungen (kein englischer Sprechtext oder Download gesperrt): {item['title']}")
+                continue
+            item["transcript"] = text
+            item["description"] = info.get("description") or ""
+            try:
+                item["adaption"] = adapt(item)
+            except Exception as e:
+                print(f"Adaption fehlgeschlagen ({item['title']}): {e}")
+                continue
         seen.add(item["id"])
         results.append(item)
         ad = item["adaption"]
@@ -190,6 +244,7 @@ def main():
         blueprints[ad["de_thema"]] = {"quelle": item["url"], "aufrufe": item["views"],
                                       "hook_typ": ad["hook_typ"], "aufbau": ad["aufbau"],
                                       "spannung": ad["spannung"], "emotion": ad["emotion"],
+                                      "design": ad.get("design", ""),
                                       "hook_ideen": ad["de_hook_ideen"], "regeln": ad["regeln_fuer_autor"]}
         new_topics.append(ad["de_thema"])
     save(SERIES_TOPICS, new_topics + queue)
@@ -205,6 +260,7 @@ def main():
                   f"- Quelle: {item['url']} ({item['channel']}, {fmt(item['views'])} Aufrufe)",
                   f"- Hook: {ad['hook_typ']} – „{ad.get('hook_original_kurz', '')}“",
                   f"- Aufbau: {ad['aufbau']}", f"- Spannung: {ad['spannung']}", f"- Emotion: {ad['emotion']}",
+                  f"- Design: {ad.get('design', '')}",
                   f"- Warum es funktioniert: {ad['warum_es_funktioniert']}",
                   f"- **Deutsche Adaption ({ad['fit']}/10): {ad['de_thema']}**",
                   *[f"  - Hook-Idee: {h}" for h in ad["de_hook_ideen"]], ""]
