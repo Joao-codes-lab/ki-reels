@@ -109,7 +109,7 @@ def main():
     a = ap.parse_args()
     out = Path(a.out)
     out.mkdir(parents=True, exist_ok=True)
-    fin = {x["id"]: x for x in run_daily.load(Path(a.src), [])}
+    fin = {x["id"]: x for src in a.src.split(",") for x in run_daily.load(Path(src), [])}
     extra = {}
     if a.extra and Path(a.extra).exists():
         for x in run_daily.load(Path(a.extra), []):

@@ -1,0 +1,961 @@
+[
+ {
+  "id": "G6",
+  "titel_de": "Was verdienst du?",
+  "titel_en": "What Do You Make?",
+  "stirnzahl": "Das Monatsnetto, das jemand im Straßeninterview sagt. Wer lügt, dessen Zahl zersplittert wie ein kaputtes Handydisplay auf die Wahrheit; wer ehrlich ist, dessen Zahl bleibt fest. Über dem Host läuft live der Zuschauerzähler mit, der bei jedem Glitch explodiert.",
+  "pitch_de": "Pflege-Azubi Kaya sagt im viralen Straßeninterview als Einzige die Wahrheit, 1.190 netto, und wird ausgelacht, bis der Prahler neben ihr auf 0 glitcht. Jede Folge erzählt der nächste, reichere Lügner seine Seite, bis Host Ezra selbst vor dem Mikro steht.",
+  "pitch_en": "Nursing trainee Kaya is the only one who tells the truth in a viral street interview, $1,190 a month, and gets laughed at, until the show-off next to her glitches to zero. Every episode the next, richer liar tells his side, until host Ezra ends up in front of the mic himself.",
+  "aenderungen_r4": "Level 1 ist jetzt keine Lügnerin, sondern die ehrliche Pflege-Azubi Kaya, die für die Wahrheit ausgelacht wird. Dazu kommt Kayas Frage „Und du? Was verdienst du?“ an den Zuschauer: So steckt der Zuschauer selbst in der Figur (Identifikation) statt nur zuzuschauen. Gegen die Klassentreffen-Dublette zersplittert die Zahl jetzt wie ein Handydisplay und der Live-Zähler explodiert. Die Zahl lügt nie, Ehrliche bleiben stabil, und der Cliffhanger ist laut: „Das war so abgesprochen!“, dann bricht der Stream ab.",
+  "figuren_8": [
+   {
+    "name": "Kaki Kaya",
+    "kurz": "Kaya",
+    "g": "w",
+    "obst": "Kaki",
+    "zahl": "1.190 € netto (bleibt stabil, glitcht nie)",
+    "look": "Kleine orange Kaki mit grünem Blattkelch als Dutt, mintgrüne Pflegekasack, Augenringe nach Nachtschicht, Kopfhörerkabel um den Hals",
+    "level": 1,
+    "rolle": "Pflege-Azubi, sagt im Interview als Einzige die Wahrheit und wird dafür ausgelacht"
+   },
+   {
+    "name": "Spargel Sven",
+    "kurz": "Sven",
+    "g": "m",
+    "obst": "Weißer Spargel",
+    "zahl": "behauptet 9.000 € → glitcht auf 0 €",
+    "look": "Langer, blasser Spargel mit Spitzenfrisur, offenes Seidenhemd, viel zu große Fake-Rolex, die bei jeder Bewegung klappert",
+    "level": 2,
+    "rolle": "Prahler, der neben Kaya gestellt wird, um sie auszulachen; lügt nach einem Zettel"
+   },
+   {
+    "name": "Physalis Phia",
+    "kurz": "Phia",
+    "g": "w",
+    "obst": "Physalis",
+    "zahl": "behauptet 25.000 € → glitcht auf 1.900 €",
+    "look": "Leuchtend orange Beere im aufgefächerten Papierkelch wie ein Abendkleid, Selfie-Stick, filmt sich ständig beim Filmen",
+    "level": 3,
+    "rolle": "Influencerin, die schon in Teil 1 im Hintergrund auf ihr Interview wartet"
+   },
+   {
+    "name": "Dr. Rambutan Raoul",
+    "kurz": "Raoul",
+    "g": "m",
+    "obst": "Rambutan",
+    "zahl": "behauptet 40.000 € → glitcht auf 3.400 € (nach Praxiskredit)",
+    "look": "Rote, haarige Rambutan im weißen Kittel, Golfhandschuh, Cabrio-Schlüssel um den Finger",
+    "level": 4,
+    "rolle": "Zahnarzt, wirkt reich, gehört aber der Bank"
+   },
+   {
+    "name": "Dattel Dalia",
+    "kurz": "Dalia",
+    "g": "w",
+    "obst": "Medjool-Dattel",
+    "zahl": "behauptet 120.000 € → glitcht auf −2,3 Mio. €",
+    "look": "Glänzend braune, schrumpelige Dattel im Rollkragen, AirPods, hält ein Pitch-Deck wie ein Schild",
+    "level": 5,
+    "rolle": "Start-up-Gründerin, die Investorengeld als Gehalt verkauft; hat Ezra Geld geliehen"
+   },
+   {
+    "name": "Trüffel Tristan",
+    "kurz": "Tristan",
+    "g": "m",
+    "obst": "Schwarzer Trüffel",
+    "zahl": "behauptet 0 € („ich arbeite nicht“) → glitcht NACH OBEN auf 410.000 €",
+    "look": "Knubbelige schwarze Knolle im Kaschmirmantel, Siegelring, sitzt im Bild immer auf einem Klappstuhl, den ein Butler trägt",
+    "level": 6,
+    "rolle": "Erbe, lügt als Einziger nach unten; ist der heimliche Sponsor des Kanals"
+   },
+   {
+    "name": "Kokosnuss Kora",
+    "kurz": "Kora",
+    "g": "w",
+    "obst": "Kokosnuss",
+    "zahl": "behauptet 6.000 € → glitcht auf 1.450 €",
+    "look": "Haarige Kokosnuss mit Headset und Klemmbrett, schwarzes Crew-Shirt „PRODUKTION“, Zettelblock mit Zahlen",
+    "level": 7,
+    "rolle": "Ezras Produzentin, schreibt die Lügen-Zettel und verteilt das Geld"
+   },
+   {
+    "name": "Muskat-Mann",
+    "kurz": "Mantel",
+    "g": "m",
+    "obst": "Muskatnuss",
+    "zahl": "leer – als Einzige Stirn ohne Zahl",
+    "look": "Kleine, gemaserte Muskatnuss im grauen Mantel, alter Filzhut, taucht in jeder Folge irgendwo im Hintergrund auf",
+    "level": 8,
+    "rolle": "Ezras Vater; hat nie gelogen, deshalb ist seine Stirn leer"
+   },
+   {
+    "name": "Erbse Ezra",
+    "kurz": "Ezra",
+    "g": "m",
+    "obst": "Erbse",
+    "zahl": "unsichtbar hinter dem Plüschmikro; darüber der Live-Zuschauerzähler",
+    "look": "Kleine grüne Erbse mit Bucket Hat, hält ein riesiges flauschiges Plüschmikro immer genau vor die Stirn, über ihm ein Taxameter-artiger Stream-Zähler",
+    "level": 0,
+    "rolle": "Host aller Folgen, führt durch jedes Level; wird in Level 8 selbst interviewt"
+   }
+  ],
+  "figuren_teil1": [
+   {
+    "name": "Kaki Kaya",
+    "kurz": "Kaya",
+    "g": "w",
+    "obst": "Kaki",
+    "zahl": "1.190 € netto (bleibt stabil, glitcht nie)",
+    "look": "Kleine orange Kaki mit grünem Blattkelch als Dutt, mintgrüne Pflegekasack, Augenringe nach Nachtschicht, Kopfhörerkabel um den Hals",
+    "level": 1,
+    "rolle": "Pflege-Azubi, sagt im Interview als Einzige die Wahrheit und wird dafür ausgelacht"
+   },
+   {
+    "name": "Spargel Sven",
+    "kurz": "Sven",
+    "g": "m",
+    "obst": "Weißer Spargel",
+    "zahl": "behauptet 9.000 € → glitcht auf 0 €",
+    "look": "Langer, blasser Spargel mit Spitzenfrisur, offenes Seidenhemd, viel zu große Fake-Rolex, die bei jeder Bewegung klappert",
+    "level": 2,
+    "rolle": "Prahler, der neben Kaya gestellt wird, um sie auszulachen; lügt nach einem Zettel"
+   },
+   {
+    "name": "Physalis Phia",
+    "kurz": "Phia",
+    "g": "w",
+    "obst": "Physalis",
+    "zahl": "behauptet 25.000 € → glitcht auf 1.900 €",
+    "look": "Leuchtend orange Beere im aufgefächerten Papierkelch wie ein Abendkleid, Selfie-Stick, filmt sich ständig beim Filmen",
+    "level": 3,
+    "rolle": "Influencerin, die schon in Teil 1 im Hintergrund auf ihr Interview wartet"
+   },
+   {
+    "name": "Muskat-Mann",
+    "kurz": "Mantel",
+    "g": "m",
+    "obst": "Muskatnuss",
+    "zahl": "leer – als Einzige Stirn ohne Zahl",
+    "look": "Kleine, gemaserte Muskatnuss im grauen Mantel, alter Filzhut, taucht in jeder Folge irgendwo im Hintergrund auf",
+    "level": 8,
+    "rolle": "Ezras Vater; hat nie gelogen, deshalb ist seine Stirn leer"
+   },
+   {
+    "name": "Erbse Ezra",
+    "kurz": "Ezra",
+    "g": "m",
+    "obst": "Erbse",
+    "zahl": "unsichtbar hinter dem Plüschmikro; darüber der Live-Zuschauerzähler",
+    "look": "Kleine grüne Erbse mit Bucket Hat, hält ein riesiges flauschiges Plüschmikro immer genau vor die Stirn, über ihm ein Taxameter-artiger Stream-Zähler",
+    "level": 0,
+    "rolle": "Host aller Folgen, führt durch jedes Level; wird in Level 8 selbst interviewt"
+   }
+  ],
+  "gegenspieler_mechanik": "Ezra stellt jeden Interviewten neben den aus dem Level davor, damit er ihn auslacht, dann glitcht dessen eigene Zahl. Der Gegenspieler jeder Folge ist also die Figur aus dem nächsthöheren Level, und in deren eigener Folge sieht man dieselbe Szene aus ihrer Sicht: wie man ihr vorher einen Zettel mit der Lüge zugesteckt hat und warum sie mitgemacht hat.",
+  "sprecher_teil1": [
+   "Erzähler",
+   "Kaya",
+   "Ezra",
+   "Sven"
+  ],
+  "skript_teil1": [
+   {
+    "szene": 1,
+    "bild": "Extreme Nahaufnahme: kleine orange Kaki im mintgrünen Pflegekasack auf einer Einkaufsstraße im Sonnenuntergang, vor ihr ein flauschiges Plüschmikro. Auf ihrer Stirn leuchtet ruhig „1.190 €“. Über allem ein Live-Zähler: „400.000 LIVE“. Fliegende Chat-Sprechblasen „LOL“, „nur??“.",
+    "sprecher": "Kaya",
+    "text": "Ich hab als Einzige die Wahrheit gesagt. 1.190 netto. Und 400.000 Leute lachen mich aus.",
+    "stirnzahl_effekt": "1.190 € steht still und fest; Live-Zähler 400.000 tickert hoch"
+   },
+   {
+    "szene": 2,
+    "bild": "Schwarzer Hintergrund, Rangliste Level 1 bis 8, alles „???“, nur Level 1 zeigt Kayas Gesicht mit 1.190 €.",
+    "sprecher": "Erzähler",
+    "text": "Wer ist Level 8? Level 1.",
+    "stirnzahl_effekt": "Rangliste mit ???, Level 1 blinkt"
+   },
+   {
+    "szene": 3,
+    "bild": "Kaya müde mit Kaffeebecher nach der Nachtschicht, vor ihr springt eine kleine grüne Erbse mit Bucket Hat ins Bild, das riesige Plüschmikro verdeckt seine Stirn.",
+    "sprecher": "Kaya",
+    "text": "Ich komm grad aus der Nachtschicht. Pflege-Azubi, zwölf Stunden auf den Beinen. Ich will nur ins Bett. Und dann steht der da. Ezra. Mit dem Plüschmikro.",
+    "stirnzahl_effekt": ""
+   },
+   {
+    "szene": 4,
+    "bild": "Ezra hält Kaya das Plüschmikro unter die Nase, grinst in die Kamera, Zähler über ihm: 400.000.",
+    "sprecher": "Ezra",
+    "text": "Ehrlich jetzt? Was verdienst du?",
+    "stirnzahl_effekt": "Ezras Stirn bleibt hinter dem Mikro verborgen"
+   },
+   {
+    "szene": 5,
+    "bild": "Nahaufnahme Kaya, leicht stolz, dann Unsicherheit. Ihre Zahl 1.190 € bleibt glasklar. Chat-Blasen regnen: „Wie überlebt die?“, Totenkopf-Symbole.",
+    "sprecher": "Kaya",
+    "text": "1.190. Netto. Ich mag meinen Job.",
+    "stirnzahl_effekt": "1.190 € leuchtet fest, kein Glitch; Chat lacht"
+   },
+   {
+    "szene": 6,
+    "bild": "Ezra zieht einen langen weißen Spargel im offenen Seidenhemd neben Kaya, Fake-Rolex klappert. Auf seiner Stirn golden: „9.000 €“. Er lacht auf Kaya herab.",
+    "sprecher": "Sven",
+    "text": "1.190? Dafür steh ich nicht mal auf. Ich mach 9.000. Im Monat, Schätzchen.",
+    "stirnzahl_effekt": "Svens 9.000 € glänzt golden; Live-Zähler springt 400.000 → 640.000"
+   },
+   {
+    "szene": 7,
+    "bild": "Kaya klein zwischen jubelnden Passanten, alle Herzen fliegen zu Sven. Sie schaut direkt in die Kamera.",
+    "sprecher": "Kaya",
+    "text": "Ich halt nachts Hände von Leuten, die sterben. Er kriegt Herzen. Und du? Sag ehrlich, was verdienst du? Schreib's rein. Deine Stirn sieht hier keiner.",
+    "stirnzahl_effekt": "Kayas 1.190 € flackert kurz grau, als würde sie sich schämen"
+   },
+   {
+    "szene": 8,
+    "bild": "Ezra schiebt das Plüschmikro langsam zu Sven, schaut skeptisch über den Rand.",
+    "sprecher": "Ezra",
+    "text": "Ehrlich jetzt, Sven? Deine Stirn sagt was anderes.",
+    "stirnzahl_effekt": ""
+   },
+   {
+    "szene": 9,
+    "bild": "Svens goldene 9.000 zerspringt wie ein kaputtes Handydisplay, RGB-Pixel splittern, darunter knallrot: „0 €“. Die Fake-Rolex fällt ab. Zähler explodiert.",
+    "sprecher": "Kaya",
+    "text": "Null. Null Euro. Die ganze Straße kreischt. Und auf einmal lacht keiner mehr über mich.",
+    "stirnzahl_effekt": "9.000 € glitcht und zersplittert auf 0 €; Live-Zähler rast 640.000 → 1.200.000"
+   },
+   {
+    "szene": 10,
+    "bild": "Totale über die Menge: vorne eine Physalis im Papierkelch-Kleid, die sich mit Selfie-Stick schminkt. Ganz hinten ein kleiner Muskatnuss-Mann im grauen Mantel und Filzhut. Seine Stirn: komplett leer, als Einzige.",
+    "sprecher": "Kaya",
+    "text": "Hinten macht sich schon die Physalis fertig, für Level 3. Und dahinter steht ein Mann im grauen Mantel. Seine Stirn ist leer. Als Einzige.",
+    "stirnzahl_effekt": "Alle Stirnen leuchten, nur die des Mannes bleibt leer"
+   },
+   {
+    "szene": 11,
+    "bild": "Sven reißt Ezra das Plüschmikro aus der Hand und brüllt direkt in die Kamera, Spucke fliegt, Bildschirm wackelt. Der Zähler überschlägt sich, dann schlagartig Schwarzbild mit rotem „LIVE BEENDET“.",
+    "sprecher": "Sven",
+    "text": "HÖR AUF! DAS WAR SO ABGESPROCHEN!",
+    "stirnzahl_effekt": "Svens 0 € blinkt rot; Zähler springt auf 2.000.000, dann hartes Schwarz „LIVE BEENDET“"
+   },
+   {
+    "szene": 12,
+    "bild": "Kaya allein auf der leeren Straße, das Plüschmikro liegt vor ihren Füßen, ihre 1.190 € leuchtet als einzige Zahl im Dunkeln.",
+    "sprecher": "Kaya",
+    "text": "Abgesprochen. Mit wem? …das siehst du in Level 2.",
+    "stirnzahl_effekt": "1.190 € leuchtet ruhig weiter"
+   }
+  ],
+  "hook_de": "Ich hab als Einzige die Wahrheit gesagt. 1.190 netto. Und 400.000 Leute lachen mich aus.",
+  "hook_en": "I was the only one who told the truth. $1,190 a month. And 400,000 people are laughing at me.",
+  "schlusssatz_de": "Abgesprochen. Mit wem? …das siehst du in Level 2.",
+  "schlusssatz_en": "Staged. By who? …you'll see that in level 2.",
+  "offene_frage": "Mit wem war Svens Lüge abgesprochen, und warum hat er sie trotzdem gesagt?",
+  "bogen_kurz": [
+   "Level 1: Kaya (Kaki), Pflege-Azubi, 1.190 €. Sie sagt die Wahrheit und wird ausgelacht. Sven glitcht von 9.000 auf 0 und schreit: „Das war so abgesprochen!“ Hinten steht der Mann mit der leeren Stirn.",
+   "Level 2: Sven (Spargel) erzählt dieselbe Szene aus seiner Sicht. Eine Frau mit Headset hat ihm 200 € und einen Zettel mit „9.000“ gegeben. Er hat gelogen, weil seine Mutter zuschaut und er ihr einmal zeigen wollte, dass er es geschafft hat. Offene Frage: Warum stand auf Phias Zettel „Lach über Sven“?",
+   "Level 3: Phia (Physalis) behauptet 25.000 und glitcht auf 1.900, denn ihre Kooperationen werden in Produkten bezahlt. Aus ihrer Sicht: Sie findet eine Kandidatenliste „Lügen-Garantie“, auf der auch Kaya steht, mit dem Vermerk „ehrlich, unbrauchbar“.",
+   "Level 4: Dr. Raoul (Rambutan) behauptet 40.000 und glitcht auf 3.400, der Rest geht für den Praxiskredit drauf. Er bemerkt, dass der Mann im grauen Mantel jedes Mal den Kaffee der Ausgelachten bezahlt.",
+   "Level 5: Dalia (Dattel), Gründerin, behauptet 120.000 und glitcht auf −2,3 Mio. Aus ihrer Sicht: Ezra hat sich bei ihr 50.000 geliehen, „für Equipment“, und nie zurückgezahlt.",
+   "Level 6: Tristan (Trüffel), Erbe, lügt als Einziger nach unten: Er sagt 0, die Zahl glitcht HOCH auf 410.000. Er ist der Sponsor des Kanals, und er will Ezra fallen sehen, weil Ezra ihn in einem alten Video gedemütigt hat.",
+   "Level 7: Kora (Kokosnuss), Ezras Produzentin, ist die Frau mit dem Headset, die die Zettel geschrieben hat. Sie behauptet 6.000 und glitcht auf 1.450, weil Ezra sie seit Monaten nicht bezahlt. Sie steckt dem Mann im Mantel den letzten Zettel zu: „Frag ihn.“",
+   "Level 8: Der Muskat-Mann im grauen Mantel dreht das Mikro um: „Was verdienst du, Ezra?“ Ezra sagt 30.000, das Plüschmikro fällt, und seine Stirn glitcht auf −84.000. Live vor 2,1 Mio. Zuschauern."
+  ],
+  "geheimnis_level8": "Der Mann im grauen Mantel ist Ezras Vater, der ihn mit 12 verlassen hat. Seine Stirn ist leer, weil er nie gelogen hat. Er dreht das Mikro um: „Was verdienst du, Ezra?“ Ezra behauptet 30.000 im Monat mit dem Kanal, seine Stirn zersplittert auf −84.000. Er hat die Interviewten bezahlt, damit sie lügen und auffliegen, und sich dafür überall verschuldet. 2,1 Millionen schauen live zu. Ezra sagt zum ersten Mal die Wahrheit: „Ich wollte nur, dass jemand zuschaut.“ Sein Vater: „Ich schau zu.“ Ezras Stirn bleibt bei −84.000 stehen und glitcht nicht mehr. Kaya steht hinten in der Menge und hält ihm einen Kaffee hin.",
+  "catchphrase_de": "„Ehrlich jetzt? Deine Stirn sagt was anderes.“",
+  "catchphrase_en": "“For real? Your forehead says otherwise.”",
+  "platz": 1
+ },
+ {
+  "id": "H1",
+  "titel_de": "Boarding-Gruppe 8",
+  "titel_en": "Boarding Group 8",
+  "stirnzahl": "Ticketpreis in Euro/Dollar. Beim Scannen springt er auf die Stirn: Gruppe 8 grau, Gruppe 1 golden. Bei Strafen, Upgrades oder Rauswurf rattert die Zahl live hoch oder runter, dazu der Bordgong.",
+  "pitch_de": "Litschi Nori sitzt für 89 € auf dem Mittelsitz neben dem Klo, und vorne kostet ein Vorhang 14.000 €. Jede Folge rückt eine Boarding-Gruppe nach vorn, bis klar wird: Die schrumpelige Dattel neben Nori besitzt das ganze Flugzeug.",
+  "pitch_en": "Lychee Nori paid $89 for the middle seat by the toilet, while up front a curtain costs $14,000. Each episode moves one boarding group forward, until we learn the wrinkled date next to Nori owns the whole plane.",
+  "aenderungen_r4": "Für mehr Identifikation hat Nori jetzt einen nachvollziehbaren Grund (erster Flug allein, drei Monate Nachtschicht gespart), und der Gegenspieler ist mit Mango Marco aus Level 2 jemand knapp über ihr statt eines fernen Reichen. Der Name steht jetzt sauber zweimal auf der Passagierliste (Nori ist nach ihrer Oma benannt), so ergibt „Willkommen zurück“ Sinn, und die Oma sitzt schon in Teil 1 stumm mit 0 € am Fenster.",
+  "gegenspieler_teil1": "Mango Marco (Level 2). In Level 2 sehen wir dieselbe Vorhang-Szene aus seiner Sicht: Er hat sein letztes Geld für Premium ausgegeben und zieht den Vorhang zu, weil er Angst hat, selbst nach hinten zu gehören. Dann merkt er, dass er gerade die vermeintliche Chefin der Airline gedemütigt hat.",
+  "figuren_bogen": [
+   {
+    "level": 1,
+    "name": "Litschi Nori",
+    "kurz": "Nori",
+    "g": "w",
+    "obst": "Litschi",
+    "zahl": "89 € (Gruppe 8, Sitz 47E)",
+    "look": "Kleine Litschi mit rosa-roter Noppenschale, die vorne einen Spalt weißes Fruchtfleisch zeigt, übergroßer Rucksack, Becher Instant-Nudeln in der Hand",
+    "rolle": "Erster Flug allein, drei Monate Nachtschicht gespart."
+   },
+   {
+    "level": 2,
+    "name": "Mango Marco",
+    "kurz": "Marco",
+    "g": "m",
+    "obst": "Mango",
+    "zahl": "1.150 € (Gruppe 7, Premium Economy)",
+    "look": "Rot-grüne Mango mit zu engem Leih-Sakko, Krawatte auf halb acht, Bewerbungsmappe auf dem Schoß",
+    "rolle": "Hat sein letztes Geld für Premium ausgegeben, um ausgeschlafen beim Vorstellungsgespräch anzukommen. Demütigt Nori, wird in Level 2 von Kim gedemütigt."
+   },
+   {
+    "level": 3,
+    "name": "Kiwi Kim",
+    "kurz": "Kim",
+    "g": "w",
+    "obst": "Kiwi",
+    "zahl": "2.400 € (Gruppe 6, Vielflieger-Gold)",
+    "look": "Pelzige braune Kiwi, halb aufgeschnitten mit smaragdgrünem Inneren, goldene Statuskarte an einer Kette, Nackenkissen in Krönchenform",
+    "rolle": "Fliegt nur hin und zurück, um ihren Gold-Status nicht zu verlieren. Ohne Status ist sie niemand."
+   },
+   {
+    "level": 4,
+    "name": "Brokkoli Bodo",
+    "kurz": "Bodo",
+    "g": "m",
+    "obst": "Brokkoli",
+    "zahl": "3.800 € (Gruppe 5, ersteigertes Upgrade)",
+    "look": "Breiter Brokkoli mit buschiger Krone wie eine Föhnfrisur, Handy mit Auktions-App, Schweißtropfen",
+    "rolle": "Bietet bei jeder Upgrade-Auktion mit, auf Kredit. Er kauft sich Klasse, die er nicht bezahlen kann."
+   },
+   {
+    "level": 5,
+    "name": "Drachenfrucht Lulu",
+    "kurz": "Lulu",
+    "g": "w",
+    "obst": "Drachenfrucht",
+    "zahl": "5.000 € (Gruppe 4, gesponsert)",
+    "look": "Pinke Drachenfrucht mit grünen Flammenschuppen, Ringlicht am Sitz, Schlafmaske mit aufgemalten Augen",
+    "rolle": "Influencerin, ihr Ticket ist gesponsert und ihre Zahl ist geliehen. Muss jede Minute posten oder sie wird zurückgestuft."
+   },
+   {
+    "level": 6,
+    "name": "Banane Brent",
+    "kurz": "Brent",
+    "g": "m",
+    "obst": "Banane",
+    "zahl": "6.200 € (Gruppe 3, Business)",
+    "look": "Lange gelbe Banane im Maßanzug, braune Altersflecken unter Make-up versteckt, Handy immer auf laut, Meilen-Pokale im Handgepäck",
+    "rolle": "Sammelt Meilen wie Trophäen, weil zu Hause niemand auf ihn wartet."
+   },
+   {
+    "level": 7,
+    "name": "Granatapfel Gloria",
+    "kurz": "Gloria",
+    "g": "w",
+    "obst": "Granatapfel",
+    "zahl": "11.000 € (Gruppe 2, First)",
+    "look": "Dunkelroter Granatapfel mit Krönchen-Kelch, Perlenkette aus eigenen Kernen, Opernglas, das sie auf den Vorhang von 1A richtet",
+    "rolle": "Fliegt seit 20 Jahren First und wartet darauf, einmal in die Suite 1A eingeladen zu werden. Wird von der Purserin abgewiesen."
+   },
+   {
+    "level": 8,
+    "name": "Dattel Oma Lin",
+    "kurz": "Oma Lin",
+    "g": "w",
+    "obst": "Dattel",
+    "zahl": "0 € (offiziell Inhaberin von Suite 1A, 14.000 €)",
+    "look": "Kleine, schrumpelige braune Dattel mit Strickmütze und Wolldecke, sitzt am Fenster 47F, ihre 0 € flackert manchmal golden",
+    "rolle": "Gründerin der Airline, fliegt jedes Jahr inkognito in 47E/47F. Noris Großmutter."
+   }
+  ],
+  "figuren_teil1": [
+   {
+    "name": "Litschi Nori",
+    "kurz": "Nori",
+    "g": "w",
+    "obst": "Litschi",
+    "zahl": "89 € (Gruppe 8, Sitz 47E)",
+    "look": "Kleine Litschi mit rosa-roter Noppenschale, die vorne einen Spalt weißes Fruchtfleisch zeigt, übergroßer Rucksack, Becher Instant-Nudeln in der Hand"
+   },
+   {
+    "name": "Mango Marco",
+    "kurz": "Marco",
+    "g": "m",
+    "obst": "Mango",
+    "zahl": "1.150 € (Gruppe 7, Premium Economy)",
+    "look": "Rot-grüne Mango mit zu engem Leih-Sakko, Krawatte auf halb acht, Bewerbungsmappe auf dem Schoß"
+   },
+   {
+    "name": "Purserin Grapefruit Vera",
+    "kurz": "Vera",
+    "g": "w",
+    "obst": "Grapefruit (rosa)",
+    "zahl": "0 € (Crew)",
+    "look": "Rosa Grapefruit in dunkelblauer Uniform mit Halstuch, streng gescheitelte Schalenkappe, Handscanner mit rotem Laser, Haltung wie ein Lineal"
+   },
+   {
+    "name": "Dattel Oma Lin",
+    "kurz": "Oma Lin",
+    "g": "w",
+    "obst": "Dattel",
+    "zahl": "0 € (offiziell Inhaberin von Suite 1A, 14.000 €)",
+    "look": "Kleine, schrumpelige braune Dattel mit Strickmütze und Wolldecke, sitzt am Fenster 47F, ihre 0 € flackert manchmal golden"
+   }
+  ],
+  "skript_teil1": [
+   {
+    "szene": 1,
+    "bild": "Gate im Pixar-Flughafen, Nahaufnahme: kleine Litschi mit riesigem Rucksack hält ihre Bordkarte an den Scanner. Auf ihrer Stirn springt grau „89 €“ auf, darunter „Gruppe 8“. Im Hintergrund durch die Fluggastbrücke sichtbar: ein golden leuchtender Seidenvorhang mit „1A“.",
+    "sprecher": "Nori",
+    "text": "Ich hab 89 Euro für diesen Flug bezahlt. Der Typ in 1A hat 14.000 bezahlt, damit ich nicht durch seinen Vorhang gucke.",
+    "stirnzahl_effekt": "Scanner-Piep, „89 €“ springt grau auf die Stirn"
+   },
+   {
+    "szene": 2,
+    "bild": "Schwarzer Screen mit Rangliste Level 1 bis 8, alles „???“, nur Level 1 zeigt Noris Gesicht mit 89 €. Ganz oben ein goldener Vorhang statt eines Gesichts.",
+    "sprecher": "Erzähler",
+    "text": "Wer ist Level 8? Level 1.",
+    "stirnzahl_effekt": "Rangliste, Level 1 blinkt"
+   },
+   {
+    "szene": 3,
+    "bild": "Enge Reihe 47, Nori eingequetscht auf dem Mittelsitz 47E, links das Bordklo mit blinkendem Licht. Am Fenster 47F eine winzige schrumpelige Dattel mit Strickmütze, die lächelt. Auf ihrer Stirn: „0 €“.",
+    "sprecher": "Nori",
+    "text": "Erster Flug allein. Mittelsitz 47E, direkt neben dem Klo, das blinkt. Am Fenster 'ne alte Dattel, die mich die ganze Zeit anlächelt.",
+    "stirnzahl_effekt": "Die 0 € der Dattel flackert eine halbe Sekunde golden"
+   },
+   {
+    "szene": 4,
+    "bild": "Nori zieht einen Becher Instant-Nudeln aus dem Rucksack, Augenringe, Namensschild einer Nachtschicht-Jacke an der Rucksackschlaufe.",
+    "sprecher": "Nori",
+    "text": "Drei Monate Nachtschicht für dieses Ticket. Mein Essen? Nudeln aus dem Rucksack. Ich brauch nur heißes Wasser.",
+    "stirnzahl_effekt": ""
+   },
+   {
+    "szene": 5,
+    "bild": "Nori steht im Gang vor einem grauen Vorhang zur Premium Economy. Eine Mango im zu engen Sakko reißt den Vorhang auf, auf seiner Stirn „1.150 €“ in Silber.",
+    "sprecher": "Marco",
+    "text": "Stopp! Gruppe 8? Hier ist Premium. Euer Klo ist hinten.",
+    "stirnzahl_effekt": "Marcos 1.150 € leuchtet silbern auf"
+   },
+   {
+    "szene": 6,
+    "bild": "Nori hält den Nudelbecher hoch, schüchtern.",
+    "sprecher": "Nori",
+    "text": "Ich will doch nur heißes Wasser.",
+    "stirnzahl_effekt": ""
+   },
+   {
+    "szene": 7,
+    "bild": "Marco schnappt ihr den Nudelbecher weg, rümpft die Nase, ruft über die Schulter nach vorne.",
+    "sprecher": "Marco",
+    "text": "Riecht nach Armut. Vera! Die Litschi schleicht nach vorne!",
+    "stirnzahl_effekt": ""
+   },
+   {
+    "szene": 8,
+    "bild": "Eine rosa Grapefruit in Uniform marschiert heran, Handscanner mit rotem Laser auf Noris Stirn gerichtet.",
+    "sprecher": "Vera",
+    "text": "Bordkarte. Sofort. Und bleiben Sie angeschnallt. Es wird teurer.",
+    "stirnzahl_effekt": "„+50 € Strafgebühr“ blinkt rot, Noris Zahl rattert von 89 € auf 139 €"
+   },
+   {
+    "szene": 9,
+    "bild": "Nori mit Tränen in den Augen, im Hintergrund halten Passagiere aus Reihe 46 ihre Handys hoch und filmen.",
+    "sprecher": "Nori",
+    "text": "Halb Reihe 46 filmt mich schon. Und du? Du hättest jetzt auch geheult. Gib's zu.",
+    "stirnzahl_effekt": ""
+   },
+   {
+    "szene": 10,
+    "bild": "Vera scannt Noris Bordkarte. Riesiger Bordgong, die ganze Kabine wird schlagartig golden beleuchtet, alle Köpfe drehen sich. Noris Stirnzahl explodiert in Gold.",
+    "sprecher": "Nori",
+    "text": "Piep. Und dann: BONG.",
+    "stirnzahl_effekt": "Lauter Gong, Noris 139 € rattert in einer Sekunde golden hoch auf 14.000 €, Kabinenlicht wird gold"
+   },
+   {
+    "szene": 11,
+    "bild": "Vera fällt auf ein Knie und verbeugt sich tief vor Nori. Marco im Hintergrund, Nudelbecher in der Hand, wird blass, seine 1.150 € färbt sich grau.",
+    "sprecher": "Vera",
+    "text": "Willkommen zurück, Ma'am.",
+    "stirnzahl_effekt": "Marcos 1.150 € wird grau"
+   },
+   {
+    "szene": 12,
+    "bild": "Nahaufnahme Nori, fassungslos, goldene 14.000 € auf der Stirn. Hinter ihr am Fenster zwinkert die Dattel in die Kamera.",
+    "sprecher": "Nori",
+    "text": "Zurück?! Ich bin noch nie geflogen! Und warum zwinkert die Dattel, als wüsste sie, wer in Level 8 hinter dem Vorhang sitzt? Warum sich die Purserin vor mir verbeugt, das siehst du in Level 2.",
+    "stirnzahl_effekt": "Die 14.000 € pulsiert golden, die 0 € der Dattel bleibt ruhig"
+   }
+  ],
+  "hook_en": "I paid $89 for this flight. The guy in 1A paid $14,000 so I'm not allowed to look through his curtain.",
+  "schlusssatz_en": "Why the purser bowed to me, you'll see that in level 2.",
+  "offene_frage": "Warum verbeugt sich die Purserin vor Nori und sagt „Willkommen zurück, Ma'am“, obwohl Nori noch nie geflogen ist?",
+  "bogen_kurz": [
+   "Level 1 (Gruppe 8, 89 €): Litschi Nori will nur heißes Wasser, Mango Marco zieht den Vorhang zu und nimmt ihre Nudeln, Purserin Vera scannt sie und verbeugt sich: „Willkommen zurück, Ma'am.“",
+   "Level 2 (Gruppe 7, 1.150 €): Dieselbe Szene aus Marcos Sicht. Auflösung: Auf der Passagierliste steht „N. Lin“ zweimal, in 47E und in 1A, Vera hielt Nori für die Besitzerin von 1A. Marco zittert um seinen Job-Traum und wird selbst von Kiwi Kim aus seinem Sitz gescheucht. Die Nudeln wandern mit ihm nach vorn.",
+   "Level 3 (Gruppe 6, 2.400 €): Kiwi Kim fliegt nur für ihren Gold-Status, ohne ihn ist sie niemand. Brokkoli Bodo schnappt ihr das letzte Upgrade weg, und sie sieht, wie Vera Noris Namen auf der Liste rot einkreist.",
+   "Level 4 (Gruppe 5, 3.800 €): Brokkoli Bodo hat sein Upgrade auf Kredit ersteigert und schwitzt bei jedem Gong. Drachenfrucht Lulu filmt ihn für ihre Story als „Upgrade-Bettler“. Er findet Noris Nudelbecher in seinem Gepäckfach.",
+   "Level 5 (Gruppe 4, 5.000 €): Lulus Ticket ist gesponsert, ihre Zahl nur geliehen, wenn ihr Post floppt, wird sie zurückgestuft. Banane Brent lässt sie vor allen löschen. Querverweis: Sie postet das Video von Noris Verbeugung, es geht viral.",
+   "Level 6 (Gruppe 3, 6.200 €): Brent sammelt Meilen, weil zu Hause niemand wartet. Granatapfel Gloria lässt ihn an der First-Bar abblitzen. Er telefoniert laut, um nicht allein zu wirken, und hört, wie Vera über Funk sagt: „Sie ist an Bord.“",
+   "Level 7 (Gruppe 2, 11.000 €): Gloria wartet seit 20 Jahren auf eine Einladung in Suite 1A. Vera weist sie am Vorhang ab: „Die Inhaberin ist heute in Reihe 47.“ Gloria marschiert nach hinten und demütigt die falsche Person, die alte Dattel.",
+   "Level 8 (Suite 1A): Hinter dem Vorhang sitzt niemand. Die Dattel ist Oma Lin, Gründerin der Airline, die jedes Jahr am Jahrestag ihres ersten Fluges inkognito in Reihe 47 fliegt, weil ihr dort als armes Kind ein Steward seine Nudeln gab. Nori ist nach ihr benannt, darum steht der Name doppelt auf der Liste. Jede Demütigung war Omas Test. Am Ende zieht die ganze Business Class in Reihe 47, die Crew bekommt Suite 1A, und Oma isst Noris Nudeln."
+  ],
+  "geheimnis_level8": "Suite 1A ist leer. Die schrumpelige Dattel mit 0 € am Fenster 47F ist Oma Lin, die Gründerin der Airline und Noris Großmutter, nach der Nori benannt ist (darum steht „N. Lin“ zweimal auf der Liste). Sie fliegt jedes Jahr inkognito hinten, weil ihr dort als armes Kind ein Steward seine Nudeln gab, und jede Demütigung von Level 1 bis 7 war ihr Test, wer in ihrer Airline etwas zu sagen haben darf.",
+  "catchphrase_de": "Bitte bleiben Sie angeschnallt. Es wird teurer.",
+  "catchphrase_en": "Please stay buckled. It's about to get more expensive.",
+  "platz": 2
+ },
+ {
+  "id": "B2",
+  "titel_de": "Tisch 8",
+  "titel_en": "Table 8",
+  "stirnzahl": "Wert des Hochzeitsgeschenks. Er leuchtet auf der Stirn auf, sobald die Braut den Umschlag vor allen öffnet, und zählt live hoch oder runter. Danach wird gesetzt: Tisch 1 neben dem Klo, Tisch 8 auf dem Ehrenpodest.",
+  "pitch_de": "Auf einer Luxushochzeit wird nach Geschenkwert gesetzt, und die Trauzeugin landet mit 0 € auf der Stirn neben dem Klo. Acht Folgen fragen nur eins: Warum Tisch 1? Die Antwort macht aus der grausamsten Braut des Jahres eine Gefangene und aus der Kiwi neben dem Klo ihre Retterin.",
+  "pitch_en": "At a luxury wedding guests are seated by gift value, and the maid of honor ends up next to the toilet with 0 on her forehead. Eight episodes ask one thing, why table 1, and the answer turns the cruelest bride of the year into a prisoner and the kiwi by the toilet into her rescuer.",
+  "aenderungen_r4": "Teil 1 startet direkt mit der 0 auf der Stirn und dem Umschlag, die 19-Jahre-Exposition ist raus, und Chantal ist deutlich härter, damit der Twist nicht früh durchschaut wird. Der Ring-Nebenfaden ist gestrichen; jede Folge zeigt ein neues Detail von Tisch 1, Tubers Macht ist erklärt (sie hält die Schulden von Chantals Familie), und im Finale findet Jule den Zettel selbst und rettet Chantal.",
+  "figuren_teil1": [
+   {
+    "name": "Kiwi Jule",
+    "obst": "Kiwi",
+    "zahl": "40 € → 0 €",
+    "look": "Kleine, flauschig braune Kiwi im selbstgenähten grünen Kleid, dickes selbstgemaltes Fotobuch unterm Arm, große feuchte Augen",
+    "g": "w",
+    "kurz": "Jule"
+   },
+   {
+    "name": "Pfirsich-Braut Chantal",
+    "obst": "Pfirsich",
+    "zahl": "155.000 € → 180.000 € (Summe aller Geschenke)",
+    "look": "Rosiger Pfirsich mit Schleier aus echten Geldscheinen, goldenes Mikro in der Hand, eiskaltes Lächeln",
+    "g": "w",
+    "kurz": "Chantal"
+   },
+   {
+    "name": "Zucchini Cousin Zacharias",
+    "obst": "Zucchini",
+    "zahl": "150 €",
+    "look": "Lange dunkelgrüne Zucchini mit Riesenkopfhörern, Bluetooth-Box unterm Arm, Sonnenbrille im Saal",
+    "g": "m",
+    "kurz": "Zacharias"
+   },
+   {
+    "name": "Kokosnuss Trauzeuge Tim",
+    "obst": "Kokosnuss",
+    "zahl": "25.000 €",
+    "look": "Haarige Kokosnuss im weißen Smoking, schwere goldene Uhr, die er beim Winken zeigt (nur kurz im Bild)",
+    "g": "m"
+   },
+   {
+    "name": "Schwarze Trüffel Madame Tuber",
+    "obst": "Schwarze Trüffel",
+    "zahl": "verpixelt",
+    "look": "Knorrige schwarze Trüffel auf einem Thron auf dem Ehrenpodest an Tisch 8, Perlenhalsband, schnüffelt (nur Hintergrund)",
+    "g": "w"
+   }
+  ],
+  "skript_teil1": [
+   {
+    "szene": 1,
+    "bild": "Nahaufnahme: Kiwi Jule auf einem wackeligen Plastikstuhl direkt neben einer Toilettentür mit WC-Schild, Kristalllüster im Hintergrund, auf ihrer Stirn blinkt rot eine 0 €",
+    "sprecher": "Jule",
+    "text": "Ich bin die Trauzeugin. Und ich sitze mit null Euro auf der Stirn neben dem Klo.",
+    "stirnzahl_effekt": "0 € blinkt rot im Takt"
+   },
+   {
+    "szene": 2,
+    "bild": "Totale: Luxus-Hochzeitssaal mit acht Tischen, Tisch 1 am Klo, Tisch 8 golden auf einem Podest, Schriftzug „Wer ist Level 8?“",
+    "sprecher": "Erzähler",
+    "text": "Wer ist Level 8? Wir fangen ganz unten an: Level 1.",
+    "stirnzahl_effekt": ""
+   },
+   {
+    "szene": 3,
+    "bild": "Rückblende-Filter: Pfirsich-Braut Chantal mit Geldschein-Schleier auf der Bühne, goldenes Mikro, Stapel Umschläge, alle Gäste schauen zu",
+    "sprecher": "Jule",
+    "text": "Zehn Minuten vorher. Die Braut, Chantal, meine beste Freundin, öffnet die Geschenke. Vor allen. Mit Mikro.",
+    "stirnzahl_effekt": ""
+   },
+   {
+    "szene": 4,
+    "bild": "Chantal reißt einen dicken Umschlag auf, im Hintergrund winkt Kokosnuss Tim im weißen Smoking mit goldener Uhr, auf seiner Stirn 25.000 €",
+    "sprecher": "Chantal",
+    "text": "Tim, fünfundzwanzigtausend! Du sitzt an Tisch 6, Schatz.",
+    "stirnzahl_effekt": "Chantals Stirn springt von 155.000 € auf 180.000 €"
+   },
+   {
+    "szene": 5,
+    "bild": "Chantal hält einen dünnen, selbstbemalten Umschlag hoch und grinst ins Publikum, Jule steht klein in der Menge",
+    "sprecher": "Chantal",
+    "text": "Und jetzt meine Trauzeugin. Mal sehen, was ich dir wert bin.",
+    "stirnzahl_effekt": ""
+   },
+   {
+    "szene": 6,
+    "bild": "Großaufnahme Jule, Hände ans Fotobuch gepresst, auf ihrer Stirn 40 €",
+    "sprecher": "Jule",
+    "text": "Ich hab da vierzig Euro reingetan. Mehr hatte ich nicht. Ich schwör's.",
+    "stirnzahl_effekt": "40 € leuchtet ruhig"
+   },
+   {
+    "szene": 7,
+    "bild": "Chantal dreht den leeren Umschlag um, nichts fällt raus; Splitscreen: Jules Stirn zählt runter, Chantal zeigt mit dem Finger zur Toilettentür",
+    "sprecher": "Chantal",
+    "text": "Leer. Wie diese Freundschaft. Tisch 1. Neben dem Klo. Und wehe, du stehst heute nochmal auf.",
+    "stirnzahl_effekt": "Jules 40 € zählt live runter auf 0 € und wird rot"
+   },
+   {
+    "szene": 8,
+    "bild": "Lachende Gemüse-Gäste an den Tischen, eine Tanten-Birne hält sich den Mund",
+    "sprecher": "Jule",
+    "text": "Alle lachen. Sogar meine Tante.",
+    "stirnzahl_effekt": ""
+   },
+   {
+    "szene": 9,
+    "bild": "Zucchini Zacharias zieht Jule den Plastikstuhl unterm Po weg und stellt seine Bluetooth-Box drauf, Kopfhörer um den Hals",
+    "sprecher": "Zacharias",
+    "text": "Ey, Kiwi, Stuhl her. Meine Box braucht 'nen Platz. Droppt den Beat!",
+    "stirnzahl_effekt": "Seine 150 € pulsiert im Bass-Takt"
+   },
+   {
+    "szene": 10,
+    "bild": "Jule steht neben dem Klo, Fotobuch im Arm, Kinn zittert",
+    "sprecher": "Jule",
+    "text": "Das ist mein Stuhl.",
+    "stirnzahl_effekt": ""
+   },
+   {
+    "szene": 11,
+    "bild": "Zacharias von unten, überheblich, Sonnenbrille, deutet auf den Klodeckel durch die offene Tür",
+    "sprecher": "Zacharias",
+    "text": "Bei null Euro hast du keinen Stuhl. Du hast 'nen Klodeckel.",
+    "stirnzahl_effekt": "Jules 0 € flackert rot auf"
+   },
+   {
+    "szene": 12,
+    "bild": "Langsamer Zoom auf das goldene Podest an Tisch 8: eine knorrige schwarze Trüffel auf einem Thron, Perlenhalsband, schnüffelt in Jules Richtung, Stirnzahl verpixelt",
+    "sprecher": "Jule",
+    "text": "Und dann seh ich sie. Oben auf dem Podest, an Tisch 8. Eine schwarze Trüffel. Sie schnüffelt in meine Richtung. Ihre Zahl ist verpixelt.",
+    "stirnzahl_effekt": "Verpixelte Zahl der Trüffel flimmert"
+   },
+   {
+    "szene": 13,
+    "bild": "Jule schaut direkt in die Kamera, Toilettentür im Hintergrund",
+    "sprecher": "Jule",
+    "text": "Sag ehrlich: Wie viel hättest du reingetan? Und an welchem Tisch würdest du jetzt sitzen?",
+    "stirnzahl_effekt": ""
+   },
+   {
+    "szene": 14,
+    "bild": "Jule allein an Tisch 1, Kamera fährt zurück, auf ihrer Stirn die rote 0 €; Rangliste eingeblendet: Level 1 Jule, Level 2–8 „???“",
+    "sprecher": "Jule",
+    "text": "Ich weiß, dass da vierzig Euro drin waren. Wer sie rausgenommen hat, das siehst du in Level 2.",
+    "stirnzahl_effekt": "0 € blinkt ein letztes Mal"
+   }
+  ],
+  "hook_en": "I'm the maid of honor. And I'm sitting next to the toilet with zero dollars on my forehead.",
+  "schlusssatz_en": "Who took my forty dollars out, you'll see that in level 2.",
+  "offene_frage": "Wer hat Jules 40 Euro aus dem Umschlag genommen? (Übergeordnet durch alle 8 Teile: Warum ausgerechnet Tisch 1?)",
+  "bogen_kurz": [
+   "Level 1: Kiwi Jule – Chantal öffnet Jules Umschlag vor allen, er ist leer, 40 € zählt auf 0, Tisch 1 neben dem Klo; Zacharias nimmt ihr den Stuhl. Frage: Wer hat die 40 € rausgenommen?",
+   "Level 2: Zucchini Zacharias – Dieselbe Szene aus seiner Sicht: Er hat gesehen, wie Planerin Penny den Umschlag getauscht hat, und schweigt, weil er DJ sein will. Onkel Heinz zieht ihm den Stecker. Tisch-1-Detail: Penny flüstert ins Headset „Tisch 1 sitzt, wie besprochen.“ Frage: Wer hat Penny das befohlen?",
+   "Level 3: Brokkoli Onkel Heinz – Er wollte nur seine Rede halten, Penny setzt ihn vor allen an den Kindertisch und streicht seine 500 € durch. Tisch-1-Detail: Heinz merkt, dass Tisch 1 der einzige Tisch ohne Kamera ist. Frage: Wer hat die Kamera an Tisch 1 abbauen lassen?",
+   "Level 4: Paprika Penny – Die Braut selbst hat Tausch, Sitzplatz und Kamera befohlen, Penny versteht nicht, warum. Ex Anton macht ihr eine Szene, ihr „Geschenk“ sei nur ein Rabatt, 1.200 € zählt auf 0. Tisch-1-Detail: Antons Sitzplan, Tisch 1 rot eingekreist. Frage: Woher hat Anton diesen Plan?",
+   "Level 5: Ananas Anton – Chantal hat ihm den Plan geschickt, Zettel „Hilf mir“, er glaubt, sie will zu ihm zurück. Bevor er „Einspruch!“ ruft, wirft Tim ihn in den Brunnen. Tisch-1-Detail: Auf dem Plan steht neben Tisch 1 ein Pfeil durch die Klotür. Frage: Wem bringt Tim den nassen Zettel?",
+   "Level 6: Kokosnuss Tim – Er bringt „Hilf mir“ zu Madame Tuber, die sein 25.000-€-Geschenk bezahlt hat. Chantal zerreißt vor allen seine Rede und stempelt sein Geschenk „geliehen“, seine Zahl stürzt live. Tisch-1-Detail: Chantal schaut zweimal auf die Uhr, dann zur Klotür. Frage: Warum demütigt die Braut den Trauzeugen ihres eigenen Mannes?",
+   "Level 7: Pfirsich-Braut Chantal – Tuber hat die Kredite der Bäckerei von Chantals Eltern aufgekauft und droht, alles fällig zu stellen, wenn Chantal nicht heiratet; die Sitzordnung nach Geschenkwert ist Tubers Regel. Jede Grausamkeit hat Tubers Leute beschäftigt. Tuber senkt live ihre Zahl: „Lächle, Kind.“ Frage: Was hat Chantal in Jules Fotobuch gesteckt?",
+   "Level 8: Schwarze Trüffel Madame Tuber – Ihre Zahl wird enthüllt: 2,4 Mio., exakt die Schulden von Chantals Familie. Jule blättert selbst im Fotobuch und findet Chantals Zettel: „Tisch 1 hat keine Kamera. Hinter der Klotür ist der Ausgang. Wenn du das liest, lassen sie mich nicht mehr gehen.“ Jule handelt: Zacharias droppt den Beat, Heinz zieht den Stecker, Jule holt Chantal im Dunkeln vom Podest, beide fliehen durch die Klotür. Die Gäste holen ihre Umschläge zurück, Tubers Zahl zählt auf 0."
+  ],
+  "geheimnis_level8": "Madame Tuber, die Großmutter des Bräutigams, hält die Schulden von Chantals Familie (2,4 Mio. €) und erzwingt damit die Hochzeit; die Sitzordnung nach Geschenkwert ist ihre Regel. Chantal war nie das Monster: Sie hat Jules Umschlag leeren lassen, damit ihre beste Freundin an Tisch 1 landet, dem einzigen Tisch ohne Kamera direkt am Hinterausgang hinter der Klotür, und jede Grausamkeit hat Tubers Leute abgelenkt. Ihren Fluchtplan hat sie in Jules Fotobuch versteckt, und Jule findet ihn selbst und rettet sie. Der schlechteste Platz war von Anfang an der beste.",
+  "catchphrase_de": "„Sag mir, was du schenkst, und ich sag dir, wo du sitzt.“",
+  "catchphrase_en": "“Tell me what you gave, I'll tell you where you sit.”",
+  "platz": 3
+ },
+ {
+  "id": "D1",
+  "titel_de": "10 Jahre Abi – Jeder lügt",
+  "titel_en": "10-Year Reunion – Everyone Lies",
+  "stirnzahl": "Das Monatsnetto, das jemand beim Klassentreffen BEHAUPTET. Am Eingang wird es wie bei einer Preisverleihung hochgezählt. Sobald jemand lügt, glitcht die Zahl für eine Sekunde auf die Wahrheit (echter Kontostand) – ein harter Shock-Cut.",
+  "pitch_de": "Beim 10-jährigen Abi-Treffen steht jedem sein angebliches Netto auf der Stirn, und wer lügt, dessen Zahl glitcht auf die Wahrheit. An Tisch 8 steht ein Namensschild für eine Mitschülerin, die angeblich tot ist, und nur der ärmste Gast flackert nie.",
+  "pitch_en": "At the 10-year reunion everyone's claimed income glows on their forehead, and if they lie, it glitches to the truth. Table 8 has a name card for a classmate who's supposedly dead, and the only guest who never glitches is the one who earns the least.",
+  "aenderungen_r4": "Teil 1 öffnet jetzt mit dem Glitch des Lügners als Shock-Cut (14.000 → −80.000), in EN mit „$38K a year“, und ab Teil 2 startet jede Folge mit einem 3-Sekunden-Recap „Bisher glitchten: …“. Das Todesgerücht entsteht aus Sophies Lüge (ihre Zahl flackert schon in Teil 1 bei dem Satz), und die Kellnerin Lia ist bis Teil 2 nur von hinten oder als Hand zu sehen und rückt erst ab Teil 3 bewusst ins Bild.",
+  "figuren_teil1": [
+   {
+    "name": "Kartoffel Olli",
+    "obst": "Kartoffel",
+    "zahl": "1.900 € (flackert nie)",
+    "look": "Verbeulte, sandige Kartoffel im alten Pulli „ABI 2016“, an den Ellbogen durch, Namensschild schief",
+    "g": "m",
+    "kurz": "Olli"
+   },
+   {
+    "name": "Drachenfrucht Kevin",
+    "obst": "Drachenfrucht",
+    "zahl": "behauptet 14.000 €, glitcht auf −80.000 €",
+    "look": "Pinke Drachenfrucht mit Goldkette, Sonnenbrille im Dunkeln, Mietwagen-Schlüssel am Finger, lacht zu laut",
+    "g": "m",
+    "kurz": "Kevin"
+   },
+   {
+    "name": "Rosenkohl Pascal",
+    "obst": "Rosenkohl",
+    "zahl": "behauptet 3.000 €, glitcht auf 340 €",
+    "look": "Kleiner Rosenkohl mit abstehenden Blättern wie Strubbelhaar, Handy-Gimbal in der Hand, moderiert den Einlass",
+    "g": "m",
+    "kurz": "Pascal"
+   },
+   {
+    "name": "Granatapfel Sophie",
+    "obst": "Granatapfel",
+    "zahl": "19.000 € (flackert angeblich nie)",
+    "look": "Tiefroter Granatapfel mit Krone als Hochsteckfrisur, perfekt gebügelte Bluse, Sektglas",
+    "g": "w",
+    "kurz": "Sophie"
+   },
+   {
+    "name": "Kellnerin (Litschi Lia)",
+    "obst": "Litschi",
+    "zahl": "nicht sichtbar",
+    "look": "Nur von hinten oder als Hand im Bild: Catering-Schürze, rosa genoppter Arm, Tablett mit Bowle",
+    "g": "w"
+   }
+  ],
+  "skript_teil1": [
+   {
+    "szene": 1,
+    "bild": "Shock-Cut, Nahaufnahme: Stirn einer pinken Drachenfrucht mit Goldkette, die Zahl 14.000 € zerreißt digital und zeigt rot −80.000 €, daneben schaut eine Kartoffel im Abi-Pulli",
+    "sprecher": "Olli",
+    "text": "Er sagt, er verdient vierzehntausend im Monat. Seine Stirn sagt: minus achtzigtausend.",
+    "stirnzahl_effekt": "14.000 € glitcht eine Sekunde auf −80.000 €, harter Schnitt"
+   },
+   {
+    "szene": 2,
+    "bild": "Dunkle Turnhalle mit Banner „ABI 2016“, Lichterketten, Schriftzug „Wer ist Level 8?“",
+    "sprecher": "Erzähler",
+    "text": "Wer ist Level 8? Level 1.",
+    "stirnzahl_effekt": ""
+   },
+   {
+    "szene": 3,
+    "bild": "Eingang mit rotem Teppich und Scheinwerfer, Gäste mit leuchtenden Stirnzahlen, Olli in der Schlange",
+    "sprecher": "Olli",
+    "text": "Ich bin Olli. Erzieher. Zehn Jahre Abi. Am Eingang wird jedem sein Netto auf die Stirn geschaltet. Wie bei 'ner Preisverleihung.",
+    "stirnzahl_effekt": ""
+   },
+   {
+    "szene": 4,
+    "bild": "Rosenkohl Pascal mit Gimbal moderiert, Scheinwerfer auf Olli; Pascals eigene Stirn zeigt 3.000 € und flackert kurz auf 340 €",
+    "sprecher": "Pascal",
+    "text": "Und jetzt, Leute: Kartoffel Olli! Neunzehnhundert. Oha.",
+    "stirnzahl_effekt": "Ollis Zahl zählt hoch von 0 auf 1.900 € und bleibt stehen; Pascals 3.000 € flackert kurz auf 340 €"
+   },
+   {
+    "szene": 5,
+    "bild": "Olli schaut nach oben auf seine eigene Zahl, ruhig, stabil leuchtend",
+    "sprecher": "Olli",
+    "text": "Meine Zahl flackert nicht. Kein bisschen. Weil sie stimmt.",
+    "stirnzahl_effekt": "1.900 € leuchtet ruhig"
+   },
+   {
+    "szene": 6,
+    "bild": "Buffet: Kevin hängt den Arm um Olli, zeigt mit dem Mietwagen-Schlüssel auf ihn, Gäste drehen sich um",
+    "sprecher": "Kevin",
+    "text": "Neunzehnhundert? Kita-Gehalt, Bruder? Ich geb mehr fürs Tanken aus. Leute, macht Platz, der Erzieher braucht zwei Teller!",
+    "stirnzahl_effekt": ""
+   },
+   {
+    "szene": 7,
+    "bild": "Granatapfel Sophie mit Sektglas, überlegenes Lächeln",
+    "sprecher": "Sophie",
+    "text": "Kevin, lass ihn. Irgendwer muss ja auf unsere Kinder aufpassen.",
+    "stirnzahl_effekt": ""
+   },
+   {
+    "szene": 8,
+    "bild": "Alle lachen, Olli mit leerem Teller in der Mitte",
+    "sprecher": "Olli",
+    "text": "Alle lachen. Kevin, deine Zahl hat grad geflackert.",
+    "stirnzahl_effekt": ""
+   },
+   {
+    "szene": 9,
+    "bild": "Kevin tippt sich lässig an die Stirn, dabei glitcht die Zahl erneut",
+    "sprecher": "Kevin",
+    "text": "Wackelkontakt, Bruder. Premium-Stirn.",
+    "stirnzahl_effekt": "14.000 € glitcht erneut auf −80.000 €"
+   },
+   {
+    "szene": 10,
+    "bild": "Eine Hand in Catering-Handschuh stellt ein Bowleglas ab, Gesicht nicht zu sehen; Olli nickt ihr zu; dann Schwenk auf Tisch 8: leeres Gedeck, Namensschild „Brillenschlange“",
+    "sprecher": "Olli",
+    "text": "Ich sag der Bedienung danke. Dann seh ich Tisch 8. Ein leeres Gedeck. Ein Namensschild: Brillenschlange.",
+    "stirnzahl_effekt": ""
+   },
+   {
+    "szene": 11,
+    "bild": "Musik bricht ab, alle Köpfe drehen sich, Sophie wird blass",
+    "sprecher": "Sophie",
+    "text": "Die ist tot. Seit 2017. Setz dich, Olli.",
+    "stirnzahl_effekt": "Sophies 19.000 €, die nie flackert, flackert für einen Frame"
+   },
+   {
+    "szene": 12,
+    "bild": "Olli schaut direkt in die Kamera, im Hintergrund unscharf die Turnhalle",
+    "sprecher": "Olli",
+    "text": "Und du? Welche Zahl würdest du hier sagen? Und würde sie flackern?",
+    "stirnzahl_effekt": ""
+   },
+   {
+    "szene": 13,
+    "bild": "Olli allein vor Tisch 8, Namensschild im Vordergrund, Rangliste eingeblendet: Level 1 Olli, Level 2–8 „???“",
+    "sprecher": "Olli",
+    "text": "Sophies Zahl hat noch nie geflackert. Bis eben. Wer dieses Namensschild auf Tisch 8 gestellt hat, das siehst du in Level 2.",
+    "stirnzahl_effekt": "1.900 € leuchtet stabil, als einzige Zahl im Raum"
+   }
+  ],
+  "hook_en": "He claims he makes $14K a month. His forehead says minus $80K.",
+  "schlusssatz_en": "Who put that name card on table 8, you'll see that in level 2.",
+  "offene_frage": "Wer hat das Namensschild „Brillenschlange“ auf Tisch 8 gestellt, und warum flackert Sophies Zahl, als sie sagt, dass sie tot ist?",
+  "bogen_kurz": [
+   "Level 1: Kartoffel Olli – Kevin macht ihn am Buffet zum Gespött, an Tisch 8 steht „Brillenschlange“, Sophie sagt „Die ist tot“, und ihre Zahl flackert. Frage: Wer hat das Namensschild hingestellt?",
+   "Level 2: Rosenkohl Pascal – Recap „Bisher glitchten: Kevin.“ Er filmt alles; Marco stellt ihn vor der Bühne bloß, 3.000 glitcht auf 340. In seinem Video sieht man eine Hand im Catering-Handschuh das Namensschild hinstellen. Frage: Wem gehört die Hand?",
+   "Level 3: Kaki Jasmin – Recap. Sophie lässt das Gruppenfoto „ohne die Praktikantin“ neu machen, als „Marketing Lead“ auf „Werkstudentin“ glitcht. Jasmin googelt: Es gibt keine Todesanzeige für Lia, und im Hintergrund des Fotos steht erstmals deutlich eine Kellnerin mit Hornbrille. Frage: Warum lügt Sophie über eine Beerdigung?",
+   "Level 4: Melone Marco – Recap. Er will Ex Jessica am VIP-Tisch zurück, sie fragt „Die Jacke abbezahlt?“, und −23.000 € erscheint. Marco erkennt die Stimme der Kellnerin, kann sie aber nicht zuordnen. Frage: Warum demütigt Jessica ihn genau jetzt?",
+   "Level 5: Avocado Jessica – Recap. Die Jacken-Szene aus ihrer Sicht: Ihre eigene Zahl glitcht im selben Moment auf 1.200 € plus Papas Kreditkarte, sie lenkte nur ab. Kevin blamiert sie mit einer „Investment-Chance“. Tisch 8 wurde abgedeckt, obwohl dort niemand saß. Frage: Wer kennt die echten Kontostände aller?",
+   "Level 6: Drachenfrucht Kevin – Recap. Die Buffet-Szene aus seiner Sicht: Die Demütigung von Olli war Ablenkung von seinen −80.000. Sophie entlarvt ihn auf der Bühne, der Mietwagen wird live abgeschleppt. In seiner Tasche: „Ich weiß, was ihr verdient. Und was ihr getan habt.“ Frage: Wer hat die Stirnen freigeschaltet?",
+   "Level 7: Granatapfel Sophie – Recap. Sie hat 2017 das Todesgerücht erfunden, damit keiner fragt, warum Lia nach Sophies Mobbing die Schule gewechselt hat. Die Kellnerin nimmt die Mütze ab: „Hallo, Sophie. Du hast mir einen Namen gegeben. Und dann einen Grabstein.“ Sophies Zahl flackert auf eine 47. Frage: Was will Lia von der Klasse?",
+   "Level 8: Litschi Lia – Sie hat das alte Schulgebäude gekauft, die Einladungen verschickt, die Glitches ausgelöst und in jeder Folge Bowle serviert. Im Finale schaltet sie die Stirnen um: Statt Geld steht dort, wie oft jeder sie ausgelacht hat, Sophie 47, Kevin 31, Olli 0. Ollis „Danke“ aus Level 1 war der Grund für alles: Sie schenkt ihm die Turnhalle als neue Kita."
+  ],
+  "geheimnis_level8": "Die angeblich tote „Brillenschlange“ Lia lebt; das Todesgerücht hat Sophie 2017 erfunden, damit niemand fragt, warum Lia nach ihrem Mobbing die Schule verlassen hat. Lia hat das alte Schulgebäude gekauft, das Treffen bezahlt, die Lügen-Glitches live ausgelöst und in jeder Folge als Kellnerin daneben gestanden, ohne dass ihr jemand ins Gesicht geschaut hat. Im Finale zeigen die Stirnen, wie oft jeder sie ausgelacht hat. Olli, der ärmste Gast, steht mit 0 da, weil er damals wie heute „Danke“ gesagt hat, und bekommt die Turnhalle als Kita.",
+  "catchphrase_de": "„Sag deine Zahl. Die Stirn sagt die Wahrheit.“",
+  "catchphrase_en": "“Say your number. Your forehead won't lie.”",
+  "platz": 4
+ },
+ {
+  "id": "B3",
+  "titel_de": "Die Rückzahlung",
+  "titel_en": "The Payback",
+  "stirnzahl": "Was du deinen Eltern für deine Erziehung schuldest, laut Mamas goldenem Haushaltsbuch (EN-Version in Dollar). Bei jedem Wunsch, jeder Träne, jedem Bissen rattert sie wie eine Registrierkasse hoch, und aus dem Buch rollt ein Kassenbon. Jede Folge beginnt mit 2 Sekunden Kassenbon-Rattern. Eltern rechnen nach oben weiter, was sie ihren eigenen Eltern schulden.",
+  "pitch_de": "Zum 30. schenken Karotte Bens Eltern ihm eine Rechnung: 187.420 € für seine Kindheit, Tamagotchi inklusive. Level für Level steigt die Schuldenkette bis zur trocken-witzigen Notarin, unter deren Schleier als Einzige eine grüne Zahl schimmert.",
+  "pitch_en": "For his 30th, Ben the carrot's parents give him an itemized bill: $203,000 for his childhood, Tamagotchi included. Level by level the debt chain climbs up to the deadpan notary, the only one whose number glows green under her veil.",
+  "aenderungen_r4": "Mehr Kassenbon-Gags (die Notarin liest trocken Posten wie ein totes Tamagotchi vor), Rattern als fester 2-Sekunden-Hook, die grüne Zahl der Physalis schimmert schon in Teil 1 durch die Hülle, und die Rätsel sind auf zwei reduziert: die fehlende Seite 1998 und der eine Teller zu viel. Rudi ist jetzt Mamas schweigsamer Bruder, das Medizinstudium ist gestrichen, die EN-Version läuft in Dollar mit „Mom sent me an itemized bill for my childhood“.",
+  "figuren_teil1": [
+   {
+    "name": "Karotte Ben",
+    "obst": "Karotte",
+    "zahl": "0 € → 187.420 € → 187.428,40 €",
+    "look": "Karotte mit abgeknabbertem Grün als Igelfrisur, Partyhut aus gefaltetem Kassenbon, Kuchengabel in der Hand",
+    "g": "m",
+    "kurz": "Ben"
+   },
+   {
+    "name": "Zitrone Lea",
+    "obst": "Zitrone",
+    "zahl": "310.000 €",
+    "look": "Glänzend gelbe Zitrone im Arztkittel, porenlose polierte Schale, Stethoskop aus Zitronenschale, Lieblingskind-Lächeln",
+    "g": "w",
+    "kurz": "Lea"
+   },
+   {
+    "name": "Notarin Dr. Physalis",
+    "obst": "Physalis",
+    "zahl": "verschleiert, schimmert grün",
+    "look": "Kleine orangene Physalis unter einer papierenen Lampionhülle, die wie ein Schleier über ihrer Stirn hängt und raschelt, wenn sie lügt; winzige Lesebrille, Stempel",
+    "g": "w",
+    "kurz": "Notarin"
+   },
+   {
+    "name": "Kürbis-Mutter Gerda",
+    "obst": "Hokkaido-Kürbis",
+    "zahl": "780.000 €",
+    "look": "Orangefarbener Hokkaido mit Stiel als strengem Dutt, Lesebrille an Goldkette, goldenes Haushaltsbuch, Preisstempel",
+    "g": "w",
+    "kurz": "Gerda"
+   }
+  ],
+  "skript_teil1": [
+   {
+    "szene": 1,
+    "bild": "Gewächshaus voller Tontöpfe mit Preisschildern, Geburtstagstisch, Kerze in Form einer 30. Karotte Ben mit Kassenbon-Partyhut. Ein meterlanger Kassenbon rollt aus einem goldenen Buch quer über den Tisch bis zu ihm. Kassen-Rattern.",
+    "sprecher": "Ben",
+    "text": "Meine Eltern haben mir zum 30. eine Rechnung geschenkt. 187.420 Euro.",
+    "stirnzahl_effekt": "Bens Stirn rattert wie eine Registrierkasse von 0 auf 187.420 €, Kassen-Pling"
+   },
+   {
+    "szene": 2,
+    "bild": "Rangliste auf schwarzem Grund: Level 1 bis 8, alles ???, Level 1 zeigt Ben.",
+    "sprecher": "Erzähler",
+    "text": "Wer ist Level 8? Level 1.",
+    "stirnzahl_effekt": "Rangliste mit ???"
+   },
+   {
+    "szene": 3,
+    "bild": "Am Kopfende eine kleine Physalis unter ihrer Lampionhülle, winzige Lesebrille, sie liest den Kassenbon völlig tonlos vor.",
+    "sprecher": "Notarin",
+    "text": "Posten 1: Windeln, drei Jahre, 2.880 Euro. Posten 2: ein Tamagotchi. Verstorben. 19,99. Posten 3: Führerschein. Dreimal.",
+    "stirnzahl_effekt": "Bei jedem Posten rattert Bens Zahl ein Stück, Kassen-Pling"
+   },
+   {
+    "szene": 4,
+    "bild": "Ben schiebt sich trotzig ein Stück Kuchen in den Mund, Gerda drückt einen Preisstempel auf seinen Teller.",
+    "sprecher": "Ben",
+    "text": "Mein eigener Geburtstag, und ich zahl drauf. Ich ess jetzt aus Protest den Kuchen. Jedes Stück: 4,20. Steht drauf. Mama hat gestempelt.",
+    "stirnzahl_effekt": "Bens Zahl tickt live: 187.420 → 187.424,20 → 187.428,40"
+   },
+   {
+    "szene": 5,
+    "bild": "Eine glänzende Zitrone im Arztkittel steht auf, Stirn 310.000 €, säuerliches Lächeln.",
+    "sprecher": "Lea",
+    "text": "Ich hab ja nie was gekostet. Aber du, Ben? Du hast dein Studium abgebrochen. Sag's ihnen.",
+    "stirnzahl_effekt": "Leas 310.000 leuchtet ruhig, kein Flackern"
+   },
+   {
+    "szene": 6,
+    "bild": "Ben läuft dunkelorange an, alle starren ihn an, Gerda öffnet ihr goldenes Buch.",
+    "sprecher": "Ben",
+    "text": "Ja. Hab ich. Nach zwei Semestern. Ich wollte Koch werden, nicht Zahnarzt. Und jetzt kostet mich das extra?",
+    "stirnzahl_effekt": "Bens Zahl rattert: „+ Studium, nicht abgeschlossen“, Kassenbon rollt weiter auf den Boden"
+   },
+   {
+    "szene": 7,
+    "bild": "Kürbis-Mutter Gerda, Lesebrille an der Goldkette, kühl.",
+    "sprecher": "Gerda",
+    "text": "Dann reden wir übers Testament, Schatz.",
+    "stirnzahl_effekt": ""
+   },
+   {
+    "szene": 8,
+    "bild": "Durch das Gewächshausglas sieht man draußen zwei identische Kartoffeln, die sich anschreien.",
+    "sprecher": "Ben",
+    "text": "Draußen bieten die Kartoffel-Zwillinge aus Level 2 schon gegeneinander, wer schneller zahlt.",
+    "stirnzahl_effekt": "Zwei Stirnen mit je 240.000 € im Hintergrund"
+   },
+   {
+    "szene": 9,
+    "bild": "Ben frontal, Kassenbon-Partyhut schief, schaut in die Kamera.",
+    "sprecher": "Ben",
+    "text": "Rechne mal nach: Was stünde bei dir auf der Stirn?",
+    "stirnzahl_effekt": ""
+   },
+   {
+    "szene": 10,
+    "bild": "Tischtotale: Die Notarin stellt still einen Teller mehr hin, als Leute da sind. Unter ihrer Lampionhülle schimmert kurz eine grüne Zahl durch. Gerdas goldenes Buch: Eine Seite „1998“ ist herausgerissen.",
+    "sprecher": "Ben",
+    "text": "Und dann deckt die Notarin wieder einen Teller zu viel. Wie jedes Jahr. Ich frag: Für wen? Ihre Hülle raschelt. Mama klappt das Buch zu. Und da fehlt eine Seite. 1998.",
+    "stirnzahl_effekt": "Unter dem Schleier der Notarin blitzt eine grüne Zahl auf und ist sofort wieder weg"
+   },
+   {
+    "szene": 11,
+    "bild": "Nahaufnahme leerer Teller, daneben ein Preisschild „0 €“.",
+    "sprecher": "Ben",
+    "text": "Liebe ist gratis. Kinder nicht. Für wen dieser Teller ist, das siehst du in Level 2.",
+    "stirnzahl_effekt": "Bens Zahl rattert ein letztes Mal: + 0,50 € Kerze"
+   }
+  ],
+  "hook_en": "My mom sent me an itemized bill for my childhood for my 30th. $203,000.",
+  "schlusssatz_en": "Who that plate is for, you'll see that in level 2.",
+  "offene_frage": "Für wen deckt die Notarin jedes Jahr einen Teller mehr, als die Familie ist, und warum fehlt in Mamas goldenem Buch genau die Seite 1998?",
+  "bogen_kurz": [
+   "Level 1: Ben bekommt zum 30. eine Rechnung über 187.420 €, Lea klagt ihn an, die Notarin liest trocken Posten vor und deckt einen Teller zu viel; die Seite 1998 fehlt, unter ihrem Schleier schimmert grün eine Zahl.",
+   "Level 2: Die Kartoffel-Zwillinge (je 240.000 €) müssen gegeneinander bieten, nur einer kommt ins Testament; Tim verkauft Toms Konsole. Gerda verrät im Streit: „Der Teller ist für eine, die wir uns nicht leisten konnten.“ Frage: Wer war 1998 zu teuer?",
+   "Level 3: Teil 1 aus Leas Sicht: Mama hat ihr den Anklagetext auf einer Serviette zugesteckt; Papa Walter liest Leas versteckte Kosten vor (Ballettinternat, zwei Autounfälle), ihre Zahl schnellt live von 310.000 auf 512.000 €.",
+   "Level 4: Teil 2 aus Gerdas Sicht: Sie schuldet Oma Hedwig 780.000 €, die Rechnungen der Kinder sollen ihre eigene abbezahlen; Oma findet einen Rechenfehler und erhöht ihre Zahl live. Gerda: „Ich hab schon mal gespart, als es wehtat.“",
+   "Level 5: Teil 3 aus Walters Sicht: Er hat Lea bloßgestellt, weil Gerdas schweigsamer Bruder Onkel Rudi, Gerichtsvollzieher, bis Sonntag das Gewächshaus pfänden will. Rudi klebt Kuckucke auf alles, nur den leeren Teller lässt er stehen.",
+   "Level 6: Teil 4 aus Omas Sicht: Hedwig erfand das Preissystem, weil ihr Vater sie für eine Mitgift „verkauft“ hat; die Notarin weigert sich zum ersten Mal zu stempeln: „Diese Rechnung kenne ich. 1998. Mit meinem Namen drauf.“",
+   "Level 7: Teil 5 aus Onkel Rudis Sicht: Er hat 1998 das „zu teure“ sechste Familienmitglied heimlich bei sich großgezogen und schweigt seit 30 Jahren; jetzt treibt er im Auftrag der Notarin ein. Frage: Was hat sie mit dem goldenen Buch vor?",
+   "Level 8: Teil 1 aus Sicht der Notarin: Die Physalis ist Gerdas jüngste Tochter, 1998 als „zu teuer“ an Onkel Rudi gegeben. Sie lüftet die Hülle: 11.000.000 € in Grün, was ihr nach Mamas eigener Preisliste zusteht. Sie zerreißt die Rechnung nicht selbst: Die Geschwister zerreißen gemeinsam das goldene Buch, alle Stirnen rattern auf 0, und sie setzt sich an ihren Teller."
+  ],
+  "geheimnis_level8": "Die verschleierte Notarin, die seit Level 1 trocken jede Rechnung vorliest und einen Teller zu viel deckt, ist Gerdas jüngste Tochter: eine kleine Physalis, die 1998 nach Omas Preisliste „zu teuer“ war und still bei Onkel Rudi aufwuchs, deshalb fehlt die Seite 1998. Unter ihrer Lampionhülle steht als einzige Zahl in Grün 11.000.000 €, das, was ihr die Familie nach Mamas eigener Preisliste schuldet. Sie hat alle Rechnungen selbst beglaubigt und Rudi eintreiben lassen, nicht aus Rache, sondern damit die Geschwister das goldene Buch gemeinsam zerreißen. Danach stehen alle Stirnen auf 0, und der Teller ist zum ersten Mal besetzt.",
+  "catchphrase_de": "Liebe ist gratis. Kinder nicht.",
+  "catchphrase_en": "Love is free. Kids aren't.",
+  "platz": 5
+ }
+]
