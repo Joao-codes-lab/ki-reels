@@ -301,7 +301,9 @@ Für jedes Level:
   Erster Satz = Hook (Widerspruch mit Zahl oder ein Satz mitten im Streit). Genau ein Satz ist das Schlüssel-Zitat.
 - quote: genau dieses Zitat, wortgleich wie in der Story (ohne Anführungszeichen), max. 10 Wörter. Es wird von
   einer SICHTBAREN Figur aus einem anderen (höheren) Level gesagt, die im Bild mit ihrer höheren Zahl erscheint.
-- quote_by: {{"level": int, "name": "Tante Rosa", "badge": "8.000 €", "character": englische Beschreibung
+- quote_by: meist der Gegenspieler. In SEINEM eigenen Level wird genau diese Szene mit genau diesem Satz noch
+  einmal aus seiner Sicht gezeigt, und man versteht plötzlich, warum er es gesagt hat.
+  Format: {{"level": int, "name": "Tante Rosa", "badge": "8.000 €", "character": englische Beschreibung
   dieser Figur (gleiche Welt), "scene": englischer Bildprompt, wie sie den Satz herablassend sagt}}.
 - stats: genau 3 Kennzahlen der Figur für die Werte-Leiste, passend zum Thema, kurz:
   [{{"label": "Netto", "value": "1.380 €", "bar": 0.15}}, ...] (label max. 12 Zeichen, value max. 9 Zeichen,
