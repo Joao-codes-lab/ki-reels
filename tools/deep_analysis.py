@@ -174,8 +174,8 @@ def gemini_video(path, prompt):
                 return json.loads(text[text.find("{"):text.rfind("}") + 1])
             except urllib.error.HTTPError as e:
                 err = f"{model}: {e.code} {e.read()[:200]!r}"
-                if e.code == 429:
-                    time.sleep(30 * (attempt + 1))
+                if e.code == 429 and attempt < 1:
+                    time.sleep(30)
                     continue
                 break
             except Exception as e:
@@ -254,8 +254,9 @@ def main():
                     res = {"fehler": str(e)[:300]}
                 mp4.unlink(missing_ok=True)
                 time.sleep(8)  # Free Tier: ca. 10 Anfragen pro Minute
-            print(p["user"], p["code"], p["views"], res.get("story_typ") or res.get("fehler"))
+            print(p["user"], p["code"], p["views"], res.get("story_typ") or res.get("fehler"), flush=True)
             analyses.append({"reel": p, "analyse": res})
+            (out / "reels.json").write_text(json.dumps(analyses, ensure_ascii=False, indent=1), encoding="utf-8")
     (out / "reels.json").write_text(json.dumps(analyses, ensure_ascii=False, indent=1), encoding="utf-8")
 
     # Story-Typ gegen Aufrufe

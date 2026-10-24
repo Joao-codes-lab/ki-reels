@@ -51,7 +51,7 @@ jobs:
         run: |
           git fetch -q origin research && mkdir -p /tmp/rhythmus
           for f in $(git ls-tree --name-only origin/research rhythmus/ | grep json); do git show "origin/research:$f" > /tmp/$f; done
-          python tools/deep_analysis.py $URLS --rhythmus /tmp/rhythmus --top ${{ inputs.max || '8' }} --flop 3 --out /tmp/research/tiefe
+          timeout 75m python -u tools/deep_analysis.py $URLS --rhythmus /tmp/rhythmus --top ${{ inputs.max || '8' }} --flop 3 --out /tmp/research/tiefe
       - name: Stimmproben
         if: ${{ inputs.task == 'stimmen' || inputs.task == 'beides' }}
         continue-on-error: true
@@ -65,6 +65,7 @@ jobs:
         continue-on-error: true
         run: python tools/style_samples.py --set figuren --out /tmp/research/figuren
       - name: Ergebnisse in Branch „research“ speichern
+        if: always()
         run: |
           git config user.name "ki-reels-bot"
           git config user.email "ki-reels-bot@users.noreply.github.com"
