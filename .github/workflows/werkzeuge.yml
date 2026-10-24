@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       task:
-        description: "analyse, rhythmus, stimmen, beides, stile oder figuren"
+        description: "analyse, rhythmus, tiefe, stimmen, beides, stile oder figuren"
         default: "beides"
       urls:
         description: "Reel- oder Profil-Links, durch Leerzeichen getrennt"
@@ -21,7 +21,7 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 90
     env:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
@@ -45,6 +45,13 @@ jobs:
         if: ${{ env.TASK == 'rhythmus' }}
         continue-on-error: true
         run: python tools/profile_stats.py $URLS --max ${{ inputs.max || '60' }} --out /tmp/research/rhythmus
+      - name: Tiefenanalyse (Serien, Story-Typen, Art-Style, Rezept)
+        if: ${{ env.TASK == 'tiefe' }}
+        continue-on-error: true
+        run: |
+          git fetch -q origin research && mkdir -p /tmp/rhythmus
+          for f in $(git ls-tree --name-only origin/research rhythmus/ | grep json); do git show "origin/research:$f" > /tmp/$f; done
+          python tools/deep_analysis.py $URLS --rhythmus /tmp/rhythmus --top ${{ inputs.max || '8' }} --flop 3 --out /tmp/research/tiefe
       - name: Stimmproben
         if: ${{ inputs.task == 'stimmen' || inputs.task == 'beides' }}
         continue-on-error: true
