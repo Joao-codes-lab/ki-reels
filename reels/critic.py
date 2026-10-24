@@ -36,7 +36,7 @@ Bewertet diese 8-teilige Serie (ein Teil pro Video) jeweils 0-10:
 - wut: Löst der Gegenspieler (eine Figur aus einem anderen Level) echte Wut aus, und zeigt sein eigenes Level
   später überraschend seine Sicht der gleichen Szene?
 - merkfaehigkeit: Bleibt etwas im Kopf (Catchphrase, unverwechselbare Figuren, ein Satz, den man zitiert)?
-- sprache: Klingt es gesprochen natürlich, kurz, ohne Floskeln? Hat jede Story mindestens 140 Wörter?
+- sprache: Klingt es gesprochen natürlich, kurz, ohne Floskeln? Hat jede Story mindestens 175 Wörter?
 Dann: gesamt (0-100) und für jedes schwache Level konkrete Verbesserungen (Satz-genau).
 
 Antworte NUR mit JSON: {{"scores": {{"hook": int, "story": int, "identifikation": int, "verbindungen": int,

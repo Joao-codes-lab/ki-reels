@@ -294,7 +294,7 @@ Für jedes Level:
 - name: Vorname + Alter + Rolle, z. B. "Lena, 27, Pflegerin"
 - badge: Kernzahl, max. 18 Zeichen, z. B. "3.200 € netto"
 - verdict: Urteil in 1-3 Wörtern in GROSSBUCHSTABEN, z. B. "NICHT REICH"
-- story: gesprochener Text, MINDESTENS 140 und höchstens 165 Wörter (ca. 60-70 Sekunden, wie die Vorbilder;
+- story: gesprochener Text, MINDESTENS 175 und höchstens 205 Wörter (ca. 75-90 Sekunden, wie die Obst-Dramen der Vorbilder mit 80-110 s;
   zu kurze Teile werden verworfen). Ein MITREISSENDES Mini-Drama, kein Bericht: etwa 60 % Dialog zwischen der
   Figur, dem Gegenspieler und Nebenfiguren (je eigene Stimme), dazwischen kurze Ich-Sätze der Figur. Jede Zeile
   ist ein neuer Beat: Demütigung, Konter, Schock, Wendung. Konkrete Zahlen und Details statt Allgemeinplätze.
