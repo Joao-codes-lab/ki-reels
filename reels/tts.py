@@ -81,17 +81,17 @@ def _restore_punctuation(text, words):
 
 GEMINI_TTS_MODELS = ["gemini-2.5-flash-preview-tts", "gemini-2.5-flash-tts"]
 GEMINI_STYLE = {
-    "de": "Erzähle lebendig und natürlich wie ein packender Storyteller, mit Emotion und kurzen Pausen: ",
-    "en": "Narrate vividly and naturally like a gripping storyteller, with emotion and short pauses: ",
+    "de": "Erzähle extrem emotional und dramatisch wie ein packender Storyteller: flüstere bei Geheimnissen, werde laut und schnell bei Wut oder Schock, mach kurze Spannungspausen: ",
+    "en": "Narrate extremely emotional and dramatic like a gripping storyteller: whisper secrets, get loud and fast on anger or shock, use short suspense pauses: ",
 }
 _whisper = []
 
 
 CAST_STYLE = {
     "de": ("Lies dieses kurze Hörspiel natürlich und lebendig vor, wie ein packendes Kurzvideo. "
-           "Erzaehler spricht ruhig und tief, Figur spricht emotional und echt:\n"),
+           "Erzaehler spricht tief, ruhig und geheimnisvoll. Figur spricht extrem emotional und echt, mit hörbarer Verzweiflung, Wut, Scham oder Triumph, je nach Satz, wie in einem Trash-TV-Drama:\n"),
     "en": ("Read this short audio drama naturally and vividly, like a gripping short video. "
-           "Narrator speaks calm and deep, Figure speaks emotional and real:\n"),
+           "Narrator speaks deep, calm and mysterious. Figure speaks extremely emotional and real, with audible despair, anger, shame or triumph depending on the line, like a reality-TV drama:\n"),
 }
 
 
