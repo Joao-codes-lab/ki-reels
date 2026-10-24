@@ -19,6 +19,7 @@ import statistics
 import sys
 import tempfile
 import time
+import urllib.error
 import urllib.request
 from collections import defaultdict
 from pathlib import Path
@@ -162,9 +163,9 @@ def gemini_video(path, prompt):
     uri = gemini_upload(path, key)
     body = {"contents": [{"parts": [{"fileData": {"mimeType": "video/mp4", "fileUri": uri}}, {"text": prompt}]}],
             "generationConfig": {"responseMimeType": "application/json"}}
-    err = None
-    for model in ("gemini-2.5-flash", "gemini-flash-latest", "gemini-2.5-flash-lite"):
-        for attempt in range(3):
+    errors = []
+    for model in dict.fromkeys(scriptgen.GEMINI_MODELS):
+        for attempt in range(2):
             url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={key}"
             req = urllib.request.Request(url, json.dumps(body).encode(), {"Content-Type": "application/json"})
             try:
@@ -173,15 +174,15 @@ def gemini_video(path, prompt):
                 text = "".join(p.get("text", "") for p in data["candidates"][0]["content"]["parts"] if not p.get("thought"))
                 return json.loads(text[text.find("{"):text.rfind("}") + 1])
             except urllib.error.HTTPError as e:
-                err = f"{model}: {e.code} {e.read()[:200]!r}"
-                if e.code == 429 and attempt < 1:
+                errors.append(f"{model}: {e.code} {e.read()[:160]!r}")
+                if e.code == 429 and attempt == 0:
                     time.sleep(30)
                     continue
                 break
             except Exception as e:
-                err = f"{model}: {e}"
+                errors.append(f"{model}: {e}")
                 break
-    raise RuntimeError(err)
+    raise RuntimeError(" | ".join(errors))
 
 
 def video_urls(codes):
