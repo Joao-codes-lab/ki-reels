@@ -76,7 +76,7 @@ jobs:
           for f in videos/*.mp4; do n=$(basename "$f"); [[ "${n:0:10}" < "$cutoff" ]] && rm -f "$f" || true; done
           touch .nojekyll
           echo '<meta charset="utf-8"><p>KI-Reels Medienablage</p>' > index.html
-          git add -A && git commit -qm "Videos $(date +%F)" && git push -f origin gh-pages
+          git add -A && (git commit -qm "Videos $(date +%F)" || true) && git push -f origin gh-pages
 
       - name: Warten, bis die Videos online sind
         run: |
