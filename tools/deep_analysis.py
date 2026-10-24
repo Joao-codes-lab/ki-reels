@@ -133,14 +133,14 @@ def series_report(user, rows):
     return "\n".join(md)
 
 
-def gemini_upload(path, key):
+def gemini_upload(path, key, mime="video/mp4"):
     """Gemini Files API (resumable), damit auch Videos über 20 MB gehen."""
     size = path.stat().st_size
     start = urllib.request.Request(
         f"https://generativelanguage.googleapis.com/upload/v1beta/files?key={key}",
         json.dumps({"file": {"display_name": path.name}}).encode(),
         {"X-Goog-Upload-Protocol": "resumable", "X-Goog-Upload-Command": "start",
-         "X-Goog-Upload-Header-Content-Length": str(size), "X-Goog-Upload-Header-Content-Type": "video/mp4",
+         "X-Goog-Upload-Header-Content-Length": str(size), "X-Goog-Upload-Header-Content-Type": mime,
          "Content-Type": "application/json"})
     with urllib.request.urlopen(start, timeout=60) as r:
         up = r.headers["X-Goog-Upload-URL"]
@@ -158,10 +158,10 @@ def gemini_upload(path, key):
     raise RuntimeError("Video wurde nicht rechtzeitig verarbeitet")
 
 
-def gemini_video(path, prompt):
+def gemini_video(path, prompt, mime="video/mp4"):
     key = os.environ["GEMINI_API_KEY"]
-    uri = gemini_upload(path, key)
-    body = {"contents": [{"parts": [{"fileData": {"mimeType": "video/mp4", "fileUri": uri}}, {"text": prompt}]}],
+    uri = gemini_upload(path, key, mime)
+    body = {"contents": [{"parts": [{"fileData": {"mimeType": mime, "fileUri": uri}}, {"text": prompt}]}],
             "generationConfig": {"responseMimeType": "application/json"}}
     errors = []
     for model in dict.fromkeys(scriptgen.GEMINI_MODELS):

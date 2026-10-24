@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       task:
-        description: "analyse, rhythmus, tiefe, musik, stimmen, beides, stile oder figuren"
+        description: "analyse, rhythmus, tiefe, musik, musikbib, stimmen, beides, stile oder figuren"
         default: "beides"
       urls:
         description: "Reel- oder Profil-Links, durch Leerzeichen getrennt"
@@ -56,6 +56,10 @@ jobs:
         if: ${{ env.TASK == 'musik' }}
         continue-on-error: true
         run: python -u tools/music_probe.py $URLS --out /tmp/research/musik
+      - name: Musik-Bibliothek nach Stimmung (incompetech, CC BY)
+        if: ${{ env.TASK == 'musikbib' }}
+        continue-on-error: true
+        run: python -u tools/music_library.py --out /tmp/research/musik_bib
       - name: Stimmproben
         if: ${{ inputs.task == 'stimmen' || inputs.task == 'beides' }}
         continue-on-error: true
