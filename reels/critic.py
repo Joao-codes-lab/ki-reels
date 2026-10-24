@@ -29,12 +29,13 @@ Bewertet diese 8-teilige Serie (ein Teil pro Video) jeweils 0-10:
 - verbindungen: Gibt es subtile Querverweise zwischen den Figuren, die neugierig machen?
 - sog: Gibt es pro Teil EINE offene Frage, auf die das ganze Video hinfiebert und die erst im nächsten Teil
   aufgelöst wird? Will man unbedingt weiterschauen?
+- wut: Löst der Bösewicht echte Wut/Empörung aus, sodass man kommentieren will?
 - merkfaehigkeit: Bleibt etwas im Kopf (Catchphrase, unverwechselbare Figuren, ein Satz, den man zitiert)?
 - sprache: Klingt es gesprochen natürlich, kurz, ohne Floskeln?
 Dann: gesamt (0-100) und für jedes schwache Level konkrete Verbesserungen (Satz-genau).
 
 Antworte NUR mit JSON: {{"scores": {{"hook": int, "story": int, "identifikation": int, "verbindungen": int,
-"sog": int, "merkfaehigkeit": int, "sprache": int}}, "gesamt": int, "fixes": [{{"n": int, "fix": str}}], "fazit": str}}
+"sog": int, "wut": int, "merkfaehigkeit": int, "sprache": int}}, "gesamt": int, "fixes": [{{"n": int, "fix": str}}], "fazit": str}}
 
 SERIE:
 {series}"""

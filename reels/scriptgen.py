@@ -220,9 +220,14 @@ Merkmal (Tick, Gegenstand, Spruch), an dem man sie in anderen Teilen wiedererken
 Endlosschleife: Der Cliffhanger am Ende und der Hook am Anfang spiegeln sich, sodass der Anfang beim
 erneuten Abspielen wie die Fortsetzung des Endes wirkt.
 
-Easter Egg und Schatten: In JEDER Szene ist irgendwo klein eine goldene Münze versteckt (Running Gag für die
-Kommentare), und in mindestens einer Szene pro Teil steht unscharf im Hintergrund dieselbe geheimnisvolle Figur
-mit Hut und langem Mantel. Wer sie ist, bleibt bis Level 8 offen. Baue beides in visual/scenes ein.
+Bösewicht (sehr wichtig, soll beim Zuschauer echte Wut auslösen): Die Serie hat EINEN wiederkehrenden
+Gegenspieler mit eigener Zahl auf der Stirn (Feld "villain": Name, Sorte/Aussehen auf Englisch, seine Zahl).
+In jedem Teil tut er der Figur etwas Ungerechtes an (demütigt sie wegen ihrer Zahl, nimmt ihr etwas weg,
+lügt, lacht sie aus). Er ist selbstgefällig, nie comicartig böse, sondern so, dass man ihn kennt und hasst.
+Seine wahre Geschichte bzw. Strafe bleibt bis Level 8 offen. Er erscheint in mindestens einer Szene im Bild.
+
+Easter Egg: In JEDER Szene ist irgendwo klein eine goldene Münze versteckt (Running Gag für die Kommentare).
+Baue Bösewicht und Münze in visual/scenes ein.
 
 Identifikation: Jede Figur muss sich anfühlen wie jemand, den man kennt oder selbst ist: ein alltäglicher,
 konkreter Moment (Supermarktkasse, Kontoauszug, WG-Küche, Pendelzug), ein innerer Gedanke, eine kleine Schwäche,
@@ -269,7 +274,7 @@ Außerdem:
 - house: {setting}.
 
 Antworte NUR mit JSON:
-{{"title": str, "house": str, "catchphrase": str, "links": [str, ...], "levels": [{{"n": 1, "open_loop": str, "name": str, "badge": str, "verdict": str, "story": str,
+{{"title": str, "house": str, "catchphrase": str, "villain": str, "links": [str, ...], "levels": [{{"n": 1, "open_loop": str, "name": str, "badge": str, "verdict": str, "story": str,
 "gender": str, "twist": {{"delta": str, "after": str}}, "lines": [{{"s": str, "t": str}}], "quote": str, "stats": [{{"label": str, "value": str, "bar": float}}], "character": str, "visual": str,
 "scenes": [str, str, str, str], "caption": str}}, ... bis n=8]}}
 """
