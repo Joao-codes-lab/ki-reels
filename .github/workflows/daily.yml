@@ -98,7 +98,7 @@ jobs:
         run: |
           git add -A -- data content $([ -d assets ] && echo assets)
           git commit -qm "Verlauf $(date +%F)" || echo "nichts zu speichern"
-          git push
+          for i in 1 2 3; do git pull -q --rebase origin main && git push && break; sleep 5; done
 
       - name: Videos als Download anhängen
         if: always()

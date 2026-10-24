@@ -15,7 +15,7 @@ from pathlib import Path
 
 from reels import buffer, imagegen, scriptgen
 from reels.render import render
-from reels.render_story import render_part
+from reels.render_lift import render_part as render_lift
 
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data"
@@ -67,57 +67,54 @@ def slugify(text):
     return re.sub(r"[^a-z0-9]+", "_", text.lower())[:40].strip("_")
 
 
-def generate_series(langs, tts_backend):
-    """Version 2: pro Sprache täglich ein Teil der aktuellen Serie „Das Haus der 8 Level“."""
+def generate_series(langs, tts_backend, frames):
+    """Version 3: pro Sprache und Rahmen täglich ein Teil der aktuellen Serie."""
     today = dt.date.today().isoformat()
     state = load(STATE, {})
     pending = load(PENDING, [])
     SITE.mkdir(parents=True, exist_ok=True)
-    for lang in langs:
-        st = state.get(lang)
-        if st and st.get("last_date") == today:
-            print(f"[{lang}] heute schon erledigt")
-            continue
-        if not st or st["next"] > 8:
-            used = [x["topic"] for x in state.get("_done", []) if x["lang"] == lang]
-            topic = scriptgen.next_series_topic(used)
-            series = scriptgen.write_series(topic, lang)
-            sid = f"{lang}_{slugify(topic)}"
-            (DATA / "series").mkdir(exist_ok=True)
-            save(DATA / "series" / f"{sid}.json", series)
-            st = {"id": sid, "topic": topic, "next": 1}
-            state.setdefault("_done", []).append({"lang": lang, "topic": topic, "start": today})
-            print(f"[{lang}] Neue Serie: {series['title']}")
-        series = load(DATA / "series" / f"{st['id']}.json", None)
-        adir = ASSETS / st["id"]
-        floors = []
-        for lv in series["levels"]:  # Hauptbild jeder Etage (einmal pro Serie)
-            p = adir / f"floor_{lv['n']}.jpg"
+    (ROOT / "out").mkdir(exist_ok=True)
+    for frame in frames:
+        for lang in langs:
+            key = f"{lang}:{frame}"
+            st = state.get(key)
+            if st and st.get("last_date") == today:
+                print(f"[{key}] heute schon erledigt")
+                continue
+            if not st or st["next"] > 8:
+                used = [x["topic"] for x in state.get("_done", []) if x["lang"] == lang and x.get("frame") == frame]
+                topic = scriptgen.next_series_topic(used)
+                series = scriptgen.write_series(topic, lang, frame)
+                sid = f"{lang}_{frame}_{slugify(topic)}"
+                (DATA / "series").mkdir(exist_ok=True)
+                save(DATA / "series" / f"{sid}.json", series)
+                st = {"id": sid, "topic": topic, "frame": frame, "next": 1}
+                state.setdefault("_done", []).append({"lang": lang, "frame": frame, "topic": topic, "start": today})
+                print(f"[{key}] Neue Serie: {series['title']}")
+            series = load(DATA / "series" / f"{st['id']}.json", None)
+            n = st["next"]
+            lv = series["levels"][n - 1]
+            art = scriptgen.FRAMES.get(frame, {}).get("art", "")
             who = f"Main character: {lv['character']}. " if lv.get("character") else ""
-            src = imagegen.generate(f"Inside {series['house']}, floor {lv['n']} of 8. {who}{lv['visual']}", p, seed=lv["n"] * 7919)
-            if src not in ("cache",):
-                print(f"  Bild Etage {lv['n']}: {src}")
-            floors.append(str(p))
-        n = st["next"]
-        lv = series["levels"][n - 1]
-        scenes = [floors[n - 1]]
-        for i, prompt in enumerate(lv.get("scenes", [])):
-            p = adir / f"l{n}_s{i + 1}.jpg"
-            who = f"Main character: {lv['character']}. " if lv.get("character") else ""
-            print(f"  Szene {i + 1}: {imagegen.generate(who + prompt, p, seed=n * 7919)}")  # gleicher Seed = ähnlichere Figur
-            scenes.append(str(p))
-        name = f"{today}_{st['id']}_teil{n}.mp4"
-        (ROOT / "out").mkdir(exist_ok=True)
-        info = render_part(series, n, {"floors": floors, "scenes": scenes}, ROOT / "out" / name, backend=tts_backend)
-        shutil.copy(info["path"], SITE / name)
-        caption = f"{series['title']} – Level {n}/8\n\n{lv['caption']}\n\n{DISCLOSURE[lang]}"
-        pending.append({"lang": lang, "file": name, "caption": caption, "topic": st["topic"]})
-        print(f"[{lang}] {series['title']} Teil {n} -> {name} ({info['duration']} s)")
-        st["next"] = n + 1
-        st["last_date"] = today
-        state[lang] = st
-        save(STATE, state)
-    save(PENDING, pending)
+            adir = ASSETS / st["id"]
+            pics = []
+            for i, prompt in enumerate([lv["visual"]] + lv.get("scenes", [])):
+                p = adir / f"l{n}_{i}.jpg"
+                full = f"{art}{who}{prompt}. Setting: {series['house']}"
+                style = scriptgen.FRAMES.get(frame, {}).get("style")
+                print(f"  Bild {i + 1}: {imagegen.generate(full, p, seed=n * 7919 + i, style=style)}")
+                pics.append(str(p))
+            name = f"{today}_{st['id']}_teil{n}.mp4"
+            info = render_lift(series, n, pics, ROOT / "out" / name, backend=tts_backend)
+            shutil.copy(info["path"], SITE / name)
+            caption = f"{series['title']} – Level {n}/8\n\n{lv['caption']}\n\n{DISCLOSURE[lang]}"
+            pending.append({"lang": lang, "frame": frame, "file": name, "caption": caption, "topic": st["topic"]})
+            print(f"[{key}] {series['title']} Teil {n} -> {name} ({info['duration']} s)")
+            st["next"] = n + 1
+            st["last_date"] = today
+            state[key] = st
+            save(STATE, state)
+            save(PENDING, pending)
 
 
 def post(base_url):
@@ -159,7 +156,7 @@ if __name__ == "__main__":
     ap.add_argument("--mode", default=os.environ.get("MODE", "series"), choices=["series", "classic"])
     a = ap.parse_args()
     if a.step == "generate" and a.mode == "series":
-        generate_series(a.langs.split(","), a.tts)
+        generate_series(a.langs.split(","), a.tts, os.environ.get("FRAMES", "aufzug,sherwood,pixel").split(","))
     elif a.step == "generate":
         generate(a.langs.split(","), a.tts, a.count)
     else:

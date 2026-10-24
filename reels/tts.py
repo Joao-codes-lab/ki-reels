@@ -127,7 +127,12 @@ def _align(text, path, lang):
 
     if not _whisper:
         _whisper.append(WhisperModel(os.environ.get("WHISPER_MODEL", "base"), device="cpu", compute_type="int8"))
-    segs, _ = _whisper[0].transcribe(str(path), language=lang, word_timestamps=True, vad_filter=False)
+    import numpy as np  # Audio selbst dekodieren (PyAV-Versionen in faster-whisper sind wackelig)
+
+    raw = subprocess.run(["ffmpeg", "-loglevel", "error", "-i", str(path), "-f", "s16le", "-ac", "1", "-ar", "16000", "-"],
+                         capture_output=True, check=True).stdout
+    audio = np.frombuffer(raw, np.int16).astype(np.float32) / 32768
+    segs, _ = _whisper[0].transcribe(audio, language=lang, word_timestamps=True, vad_filter=False)
     heard = [(w.start, w.end, w.word.strip()) for s in segs for w in (s.words or [])]
     script = text.split()
     times = [None] * len(script)

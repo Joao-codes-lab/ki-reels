@@ -123,27 +123,67 @@ def write_script(topic, lang, out_dir):
     return path
 
 
-# --- Version 2: Story-Serien „Das Haus der 8 Level“ -------------------------------------------
+# --- Version 3: Story-Serien („Der Level-Aufzug“, „Sherwood heute“) -------------------------------------------
 
-SERIES_PROMPT = """Du bist Head-Autor eines viralen Kurzvideo-Kanals ("Das Haus der 8 Level").
-Jede Serie ist ein Haus mit 8 Stockwerken. Auf jedem Stockwerk lebt eine Figur, deren Leben ein Level
-eines Themas zeigt (Level 1 = unten/schlechteste Lage, Level 8 = Penthouse/Spitze).
-Pro Video wird EIN Stockwerk erzählt. Die Zuschauer sollen unbedingt den nächsten Teil sehen wollen.
+FRAMES = {
+    "aufzug": {
+        "name": "Der Level-Aufzug",
+        "text": """Wiedererkennung des Kanals: "Der Level-Aufzug". Jedes Video beginnt mit geschlossenen Aufzugtüren,
+die Anzeige springt auf das Level, "Ding", die Türen gehen auf und wir stehen MITTEN im Leben einer Figur.
+Jede Serie = ein Aufzug durch 8 Etagen eines Themas (Level 1 = unten/schlechteste Lage, Level 8 = ganz oben).
+Level 8 bleibt bis zum Schluss ein Geheimnis und überrascht.""",
+        "setting": "englische Beschreibung des Ortes, an dem die Figuren leben (z. B. 'a big city in Germany today')",
+        "art": "",
+    },
+    "sherwood": {
+        "name": "Sherwood heute",
+        "text": """Wiedererkennung des Kanals: "Sherwood heute" – die gemeinfreie Robin-Hood-Sage in der Gegenwart.
+Nottingham ist eine heutige Großstadt, Sherwood ein Stadtviertel. Die 8 Level sind 8 Ränge dieser Welt,
+von unten (z. B. Bettler am Sherwood-Park) bis oben (z. B. der Sheriff von Nottingham bzw. Prinz John).
+Figuren sind moderne Versionen der klassischen Sagenfiguren (Little John, Bruder Tuck, Maid Marian, Will
+Scarlet, Müllerssohn Much, Guy von Gisborne, der Sheriff) mit heutigen Jobs und echten heutigen Zahlen.
+Level 8 ist eine Überraschung: Robin Hood selbst und wer er heute wirklich ist.
+Nutze nur die gemeinfreie Sage, nichts aus Filmen oder Serien.""",
+        "setting": "englische Beschreibung: 'modern-day Nottingham with a touch of medieval Sherwood'",
+        "art": "modern-day Robin Hood legend, characters mix modern clothes with subtle medieval details (green hood, bow motif), ",
+    },
+}
+
+FRAMES["pixel"] = {
+    "name": "Die Pixelwelt",
+    "text": """Wiedererkennung des Kanals: "Die Pixelwelt" – ein eigenes Retro-Videospiel (kein bekanntes Spiel nachbauen,
+keine bekannten Spielfiguren). Jede Serie ist ein Spiel mit 8 Welten. Jedes Level ist eine Welt mit einer Spielfigur
+(ein heutiger Mensch als Spielheld) und einem "Gegner" aus dem echten Leben (Miete, Dispo, Chef, Inflation ...).
+Level 1 = Startwelt, ganz unten. Level 8 = Endboss-Welt, bleibt bis zum Schluss geheim und überrascht.
+Nutze Spiele-Sprache sparsam und clever (Leben, Punkte, Power-up, Game over, Endboss).""",
+    "setting": "englische Beschreibung der Spielwelt (z. B. 'a retro side-scrolling video game world set in a German city')",
+    "art": "",
+    "style": ("detailed 16-bit retro pixel art video game scene, side-scrolling platformer look, vibrant colors, "
+              "chunky pixel characters with expressive faces, HUD-free, no text, no letters, no watermark"),
+}
+
+NEXT_LINE = {"de": "Das siehst du in Level {n}.", "en": "You'll see that in Level {n}.",
+             "es": "Lo verás en el nivel {n}.", "pt": "Você vai ver isso no nível {n}.",
+             "fr": "Tu verras ça au niveau {n}."}
+
+SERIES_PROMPT = """Du bist Head-Autor eines viralen Kurzvideo-Kanals im Format "Die 8 Level von ...".
+{frame_text}
+Pro Video wird EIN Level als echte, spannende Mini-Geschichte erzählt. Die Zuschauer werden ab dem ersten
+Satz in die Geschichte hineingezogen und wollen unbedingt den nächsten Teil sehen.
 
 Thema der Serie: {topic}
 Sprache und Kultur: {lang_name}. Schreibe muttersprachlich und an das Land angepasst ({country}), mit
 realistischen, konkreten Zahlen (Gehälter, Mieten, Preise) für dieses Land. Keine Übersetzung.
 
 Psychologische Mechanik (in jedem Teil anwenden):
-- Erster Satz = Hook in max. 12 Wörtern mit überraschender Zahl oder Widerspruch,
-  z. B. "Level 3: 80.000 Euro im Jahr – und trotzdem pleite."
+- Erster Satz = Hook in max. 12 Wörtern, der mitten in eine Szene springt, mit überraschender Zahl oder
+  Widerspruch, z. B. "Level 3: 80.000 Euro im Jahr – und trotzdem pleite."
+- Danach eine echte Szene mit Konflikt: Name, Alter, Job, ein konkreter Moment, ein Detail, eine Wendung.
 - Selbstvergleich: Zuschauer sollen sich einordnen ("Kennst du das?", "Wo stehst du?").
-- Konkrete Szenen statt Allgemeinplätze: Name, Alter, Job, ein typischer Moment, ein Detail.
 - Emotion: Stolz, Neid, Scham, Hoffnung oder Überraschung – ehrlich, nicht kitschig.
-- Ende jedes Teils = offene Schleife auf das nächste Level, ohne es zu verraten,
-  z. B. "Einen Stock höher wohnt jemand mit demselben Gehalt, der 1.000 Euro im Monat spart. Wie? Teil 4."
-- Das Penthouse (Level 8) bleibt bis zum Schluss ein Geheimnis und überrascht.
-- Teil 8 endet mit: Zuschauer sollen kommentieren, welches Haus als Nächstes kommt.
+- Vorletzter Satz = Teaser auf das nächste Level, ohne es zu verraten.
+- LETZTER Satz ist IMMER exakt: "{next_line}" (mit der Nummer des nächsten Levels; nur bei Level 8 stattdessen
+  die Frage an die Zuschauer, welches Thema als Nächstes kommen soll).
 
 Regeln: Keine echten Personen, keine Marken-Diffamierung, keine Anlage-/Steuer-/Rechtsberatung,
 keine Einkommensversprechen. Zahlen realistisch und plausibel.
@@ -152,23 +192,21 @@ Für jedes Level:
 - name: Vorname + Alter + Rolle, z. B. "Lena, 27, Pflegerin"
 - badge: Kernzahl, max. 18 Zeichen, z. B. "3.200 € netto"
 - verdict: Urteil in 1-3 Wörtern in GROSSBUCHSTABEN, z. B. "NICHT REICH"
-- story: gesprochener Text, 140-170 Wörter (ca. 60-70 Sekunden), kurze Sätze, Du-Ansprache erlaubt,
-  beginnt mit dem Hook, endet mit dem Cliffhanger (Level 8: mit der Kommentar-Frage).
+- story: gesprochener Text, 130-150 Wörter (ca. 55-60 Sekunden), sehr kurze Sätze, Du-Ansprache erlaubt.
 - character: englische, feste Beschreibung des Aussehens der Figur (Geschlecht, Alter, Haare, Gesicht,
   Kleidung, ein markantes Detail), max. 30 Wörter. Wird in jedes Bild dieses Levels übernommen.
-- visual: englischer Bildprompt für die Hauptszene der Figur in ihrer Wohnung/ihrem Stockwerk
-  (Person, Tätigkeit, Gefühl, Einrichtung, Licht). Keine Schrift im Bild.
-- scenes: 2 weitere englische Bildprompts (Schlüsselmomente der Story, gleiche Figur beschrieben:
-  Geschlecht, Haare, Kleidung).
+- visual: englischer Bildprompt für die Hauptszene (Tätigkeit, Gefühl, Umgebung, Licht). Keine Schrift im Bild.
+- scenes: 4 weitere englische Bildprompts, je ein Schlüsselmoment der Geschichte in der richtigen Reihenfolge,
+  ausdrucksstarke Mimik und Gestik, abwechslungsreiche Perspektiven (Nahaufnahme, Totale, Detail).
 - caption: 1 Satz + Frage an die Zuschauer + 4-6 Hashtags in der Zielsprache.
 
 Außerdem:
 - title: "Die 8 Level von ..." in der Zielsprache, max. 40 Zeichen.
-- house: englische Beschreibung des Hauses/Ortes (z. B. "a tall old apartment building in Cologne at dusk").
+- house: {setting}.
 
 Antworte NUR mit JSON:
 {{"title": str, "house": str, "levels": [{{"n": 1, "name": str, "badge": str, "verdict": str, "story": str,
-"character": str, "visual": str, "scenes": [str, str], "caption": str}}, ... bis n=8]}}
+"character": str, "visual": str, "scenes": [str, str, str, str], "caption": str}}, ... bis n=8]}}
 """
 
 COUNTRIES = {"de": "Deutschland", "en": "USA", "es": "Spanien", "pt": "Brasilien", "fr": "Frankreich"}
@@ -186,8 +224,19 @@ def validate_series(s):
         lv["n"] = i
         for k in ("name", "badge", "verdict", "story", "visual", "caption"):
             assert lv.get(k), f"Level {i}: {k} fehlt"
-        lv["scenes"] = (lv.get("scenes") or [])[:2]
+        lv["scenes"] = (lv.get("scenes") or [])[:4]
     assert s.get("title") and s.get("house")
+    return s
+
+
+def ensure_next_line(s, lang):
+    """Fester Schlusssatz jedes Teils (Wiedererkennung): „Das siehst du in Level X.“"""
+    for lv in s["levels"][:7]:
+        line = NEXT_LINE.get(lang, NEXT_LINE["en"]).format(n=lv["n"] + 1)
+        story = lv["story"].strip()
+        if not story.endswith(line):
+            story = re.sub(r"\s*(Teil|Part|Parte|Partie)\s*\d+\.?\s*$", "", story).rstrip()
+            lv["story"] = f"{story} {line}"
     return s
 
 
@@ -213,9 +262,12 @@ def blueprint_hint(topic):
             f"- Emotion: {bp['emotion']}\n{rules}\n- Mögliche Hooks (frei abwandeln): {hooks}\n")
 
 
-def write_series(topic, lang):
-    prompt = SERIES_PROMPT.format(topic=topic, lang_name=LANG_NAMES[lang], country=COUNTRIES[lang])
+def write_series(topic, lang, frame="aufzug"):
+    fr = FRAMES[frame]
+    prompt = SERIES_PROMPT.format(topic=topic, lang_name=LANG_NAMES[lang], country=COUNTRIES[lang],
+                                  frame_text=fr["text"], setting=fr["setting"],
+                                  next_line=NEXT_LINE.get(lang, NEXT_LINE["en"]).format(n="X"))
     prompt += blueprint_hint(topic)
-    s = validate_series(ask(prompt))
-    s.update({"lang": lang, "topic": topic})
+    s = ensure_next_line(validate_series(ask(prompt)), lang)
+    s.update({"lang": lang, "topic": topic, "frame": frame})
     return s

@@ -17,21 +17,22 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageFilter
 
 STYLE = (
-    "flat 2D cartoon illustration, bold clean dark outlines, simple round-faced cartoon characters "
-    "with big expressive eyes and eyebrows, rich detailed background, cinematic warm lighting, "
-    "vibrant but harmonious colors, high detail, comic book style, no text, no letters, no watermark"
+    "2D cartoon illustration in the style of a classic animated TV sitcom: bold black outlines, flat cel-shaded "
+    "colors, bright saturated palette, exaggerated expressive faces with big eyes and eyebrows, simple rounded "
+    "shapes, detailed colorful background, dynamic composition, NOT photorealistic, NOT 3D render, no realistic "
+    "skin texture, no text, no letters, no watermark"
 )
 
 GEMINI_IMAGE_MODELS = [m for m in (os.environ.get("GEMINI_IMAGE_MODEL"), "gemini-2.5-flash-image") if m]
 _last_pollinations = [0.0]
 
 
-def _gemini(prompt, w, h):
+def _gemini(prompt, w, h, style=STYLE):
     key = os.environ.get("GEMINI_API_KEY")
     if not key:
         raise RuntimeError("kein GEMINI_API_KEY")
     aspect = "9:16" if h > w * 1.3 else ("16:9" if w > h * 1.3 else "1:1")
-    body = {"contents": [{"parts": [{"text": f"{prompt}. Style: {STYLE}. Aspect ratio {aspect}."}]}],
+    body = {"contents": [{"parts": [{"text": f"{prompt}. Style: {style}. Aspect ratio {aspect}."}]}],
             "generationConfig": {"responseModalities": ["IMAGE"], "imageConfig": {"aspectRatio": aspect}}}
     last = None
     for model in dict.fromkeys(GEMINI_IMAGE_MODELS):
@@ -49,11 +50,11 @@ def _gemini(prompt, w, h):
     raise last
 
 
-def _pollinations(prompt, w, h, seed):
+def _pollinations(prompt, w, h, seed, style=STYLE):
     wait = 16 - (time.time() - _last_pollinations[0])  # anonyme Nutzung: höchstens ca. 1 Bild pro 15 s
     if wait > 0:
         time.sleep(wait)
-    q = urllib.parse.quote(f"{prompt}. {STYLE}")
+    q = urllib.parse.quote(f"{prompt}. {style}")
     params = {"width": w, "height": h, "seed": seed, "model": "flux", "nologo": "true", "private": "true"}
     url = f"https://image.pollinations.ai/prompt/{q}?{urllib.parse.urlencode(params)}"
     headers = {"User-Agent": "ki-reels/1.0"}
@@ -84,7 +85,7 @@ def _placeholder(path, w, h, prompt):
     img.filter(ImageFilter.GaussianBlur(40)).save(path)
 
 
-def generate(prompt, path, w=768, h=1344, seed=None):
+def generate(prompt, path, w=768, h=1344, seed=None, style=None):
     """Erzeugt ein Bild unter `path` (PNG/JPG) und gibt den Namen des Anbieters zurück."""
     path = Path(path)
     marker = path.with_name(path.name + ".ersatz")
@@ -96,10 +97,17 @@ def generate(prompt, path, w=768, h=1344, seed=None):
     errors = []
     for name in order:
         try:
-            data = _gemini(prompt, w, h) if name == "gemini" else _pollinations(prompt, w, h, seed)
+            st = style or STYLE
+            data = _gemini(prompt, w, h, st) if name == "gemini" else _pollinations(prompt, w, h, seed, st)
             tmp = path.with_suffix(".tmp")
             tmp.write_bytes(data)
-            Image.open(tmp).convert("RGB").resize((w, h), Image.LANCZOS).save(path)
+            im = Image.open(tmp).convert("RGB")
+            if name == "pollinations":  # Wasserzeichen am unteren Rand abschneiden
+                im = im.crop((0, 0, im.width, int(im.height * 0.94)))
+            cover = max(w / im.width, h / im.height)
+            im = im.resize((int(im.width * cover) + 1, int(im.height * cover) + 1), Image.LANCZOS)
+            x, y = (im.width - w) // 2, (im.height - h) // 2
+            im.crop((x, y, x + w, y + h)).save(path)
             tmp.unlink()
             marker.unlink(missing_ok=True)
             return name
