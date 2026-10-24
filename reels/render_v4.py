@@ -60,7 +60,8 @@ def draw_captions_v4(d, chunk, t, y=1470):
     x = SAFE_CX - (sum(widths) + space * (len(words) - 1)) / 2
     for (a, b, _), w, ww in zip(chunk, words, widths):
         if a <= t < b + 0.05:  # aktives Wort: farbiger Kasten dahinter
-            d.rounded_rectangle([x - 10, y + 8, x + ww + 10, y + fnt.size * 1.18], radius=10, fill=ACCENT)
+            bx = d.textbbox((x, y), w, font=fnt)
+            d.rounded_rectangle([bx[0] - 12, bx[1] - 10, bx[2] + 12, bx[3] + 10], radius=10, fill=ACCENT)
             d.text((x, y), w, font=fnt, fill=INK)
         else:
             d.text((x, y), w, font=fnt, fill=(255, 255, 255), stroke_width=8, stroke_fill=(0, 0, 0))
