@@ -144,6 +144,9 @@ ELEVEN_VOICES = {"Erzaehler": "JBFqnCBsd6RMkjVDRZzb",  # George: tief, warm, erz
                  "Gegenspieler_w": "FGY2WhTYpPnrIDTdsKH5",  # Laura: spitz
                  "Nebenfigur_m": "IKne3meq5aSn9XLyUdCD",  # Charlie
                  "Nebenfigur_w": "XrExE9yKIg1WjnnlVkGX"}  # Matilda
+# Weitere Stimmen, damit bei mehreren Nebenfiguren jede Figur ihre eigene Stimme bekommt
+VOICE_POOL = {"w": ["FGY2WhTYpPnrIDTdsKH5", "XrExE9yKIg1WjnnlVkGX", "cgSgspJ2msm6clMCkdW9", "XB0fDUnXU5powFXDhCwa"],
+              "m": ["nPczCjzI2devNBz1zQrb", "IKne3meq5aSn9XLyUdCD", "N2lVS1w4EtoT3dr4eOWO", "cjVigY5qzO86Huf0OWal"]}
 GEMINI_GENDER = {"Kore": "w", "Aoede": "w", "Leda": "w", "Zephyr": "w", "Puck": "m", "Charon": "m", "Fenrir": "m"}
 
 
@@ -186,8 +189,15 @@ def _eleven(text, lang, path, cast=None):
     tmp.mkdir(exist_ok=True)
     parts, words, offset, gap = [], [], 0.0, 0.18
     genders = (cast or {}).get("genders") or [None] * len(lines)
-    for i, ((sp, t), g) in enumerate(zip(lines, genders)):
-        if sp in ("Gegenspieler", "Nebenfigur"):
+    names = (cast or {}).get("names") or [None] * len(lines)
+    by_name, free = {}, {k: list(v) for k, v in VOICE_POOL.items()}
+    for i, ((sp, t), g, nm) in enumerate(zip(lines, genders, names)):
+        if sp in ("Gegenspieler", "Nebenfigur") and nm:
+            if nm not in by_name:  # jede benannte Figur behält ihre eigene Stimme
+                pool = free[g if g in free else "m"]
+                by_name[nm] = pool.pop(0) if pool else ELEVEN_VOICES[f"{sp}_{g or 'm'}"]
+            vid = by_name[nm]
+        elif sp in ("Gegenspieler", "Nebenfigur"):
             vid = ELEVEN_VOICES[f"{sp}_{g or 'm'}"]
         else:
             vid = ELEVEN_VOICES["Erzaehler"] if sp == "Erzaehler" else ELEVEN_VOICES[fig]

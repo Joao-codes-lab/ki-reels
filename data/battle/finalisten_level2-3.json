@@ -1,0 +1,503 @@
+[
+ {
+  "id": "B2",
+  "levels": [
+   {
+    "level": 2,
+    "figuren": [
+     {
+      "name": "Zucchini Cousin Zacharias",
+      "obst": "Zucchini",
+      "zahl": "150 € → 500 € → 0 €",
+      "look": "Lange dunkelgrüne Zucchini mit Riesenkopfhörern, Bluetooth-Box unterm Arm, Sonnenbrille im Saal",
+      "g": "m"
+     },
+     {
+      "name": "Paprika Penny",
+      "obst": "Paprika",
+      "zahl": "1.200 € (ihr „Geschenk“, wird erst in Level 4 als Rabatt entlarvt)",
+      "look": "Knallrote, glänzende Paprika im schwarzen Hosenanzug, Headset mit blinkendem Licht, Klemmbrett mit Sitzplan, spitze Stöckelschuhe",
+      "g": "w"
+     },
+     {
+      "name": "Brokkoli Onkel Heinz",
+      "obst": "Brokkoli",
+      "zahl": "500 € (in Level 3: 500 € → 1.000 € → 0 €)",
+      "look": "Alter Brokkoli mit buschigen, leicht ergrauten Röschen, braunes Cordsakko mit Mehlstaub am Ärmel, dicker Stapel Karteikarten mit Gummiband",
+      "g": "m"
+     }
+    ],
+    "skript": [
+     {
+      "szene": 1,
+      "bild": "Nahaufnahme: Zucchini Zacharias mit Riesenkopfhörern und Sonnenbrille, auf seiner Stirn pulsiert 150 €; in seinen Brillengläsern spiegelt sich ein dünner, selbstbemalter Umschlag",
+      "sprecher": "Zucchini Cousin Zacharias",
+      "text": "Hundertfünfzig Euro auf meiner Stirn. Und ich weiß, wer der Kiwi die vierzig Euro geklaut hat.",
+      "stirnzahl_effekt": "150 € pulsiert im Bass-Takt"
+     },
+     {
+      "szene": 2,
+      "bild": "Kurzer Rückblende-Schnipsel: Kiwi Jule mit roter 0 € steht neben der Klotür, Fotobuch im Arm",
+      "sprecher": "Erzähler",
+      "text": "Bisher: Jules Umschlag war leer, und keiner weiß, warum.",
+      "stirnzahl_effekt": "Jules 0 € blinkt rot"
+     },
+     {
+      "szene": 3,
+      "bild": "Seitengang hinter der Bühne, Kabelsalat: eine knallrote Paprika im schwarzen Hosenanzug mit Headset tauscht zwei Umschläge und schiebt den bemalten unter ihr Klemmbrett; Zacharias lugt hinter einem Lautsprecherturm hervor, Kopfhörer halb runter",
+      "sprecher": "Zucchini Cousin Zacharias",
+      "text": "Es war die Planerin. Penny. Headset, Klemmbrett, Paprika. Sie tauscht den Umschlag. Und ich steh direkt daneben, Box unterm Arm.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 4,
+      "bild": "Totale: Luxus-Hochzeitssaal, acht Tische, Tisch 1 am Klo, Tisch 8 golden auf dem Podest, Schriftzug „Wer ist Level 8?“",
+      "sprecher": "Erzähler",
+      "text": "Wer ist Level 8? Level 2.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 5,
+      "bild": "Penny dreht sich um, Finger an den Lippen, mit dem Klemmbrett zeigt sie auf ein leeres, glänzendes DJ-Pult",
+      "sprecher": "Paprika Penny",
+      "text": "Du hast nix gesehen. Dafür kriegst du das DJ-Pult. Und ich schreib dir fünfhundert auf.",
+      "stirnzahl_effekt": "Zacharias' 150 € zählt live hoch auf 500 €"
+     },
+     {
+      "szene": 6,
+      "bild": "Zacharias streichelt seine Bluetooth-Box, breites Grinsen, auf der Stirn leuchtet 500 €",
+      "sprecher": "Zucchini Cousin Zacharias",
+      "text": "Fünfhundert Euro. DJ auf 'ner Luxushochzeit. Ich hab sofort genickt. Sorry, Jule.",
+      "stirnzahl_effekt": "500 € leuchtet golden"
+     },
+     {
+      "szene": 7,
+      "bild": "Gleiches Bild wie in Level 1: Zacharias zieht Jule den Plastikstuhl weg und stellt die Box drauf. Neu: Am Bildrand steht Penny und nickt ihm mit dem Klemmbrett zu, er schielt nervös zu ihr",
+      "sprecher": "Zucchini Cousin Zacharias",
+      "text": "Den Stuhl? Penny hat gesagt: Die Kiwi soll stehen. Alle sollen hingucken. Also hab ich den Clown gemacht.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 8,
+      "bild": "Penny am Rand, Hand ans Headset gepresst, flüstert, ihr Blick geht nicht zu Jule, sondern irgendwo nach oben über die Tische",
+      "sprecher": "Paprika Penny",
+      "text": "Tisch 1 sitzt. Wie besprochen.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 9,
+      "bild": "DJ-Pult mit Lichtern, Zacharias reißt die Arme hoch; neben ihm baut sich ein alter Brokkoli im Cordsakko mit Karteikarten auf, Stirn 500 €, kurz eingeblendet „Level 3 ???“",
+      "sprecher": "Zucchini Cousin Zacharias",
+      "text": "Droppt den Beat!",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 10,
+      "bild": "Brokkoli Onkel Heinz zieht den dicken Stecker aus der Box, Lichter gehen aus, Stille im Saal",
+      "sprecher": "Brokkoli Onkel Heinz",
+      "text": "Zehn Jahre hab ich an meiner Rede geschrieben, Junge. Du störst.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 11,
+      "bild": "Penny tritt zwischen die beiden, streicht etwas auf dem Klemmbrett durch, ohne Zacharias anzusehen",
+      "sprecher": "Paprika Penny",
+      "text": "Kein Sound, kein Deal.",
+      "stirnzahl_effekt": "Zacharias' 500 € zählt live runter auf 0 € und wird rot"
+     },
+     {
+      "szene": 12,
+      "bild": "Zacharias nimmt die Sonnenbrille ab und schaut direkt in die Kamera",
+      "sprecher": "Zucchini Cousin Zacharias",
+      "text": "Sag ehrlich: Hättest du's der Kiwi gesagt? Für fünfhundert Euro und ein DJ-Pult? Ich nicht.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 13,
+      "bild": "Zacharias mit roter 0 € neben dem stummen DJ-Pult, im Hintergrund Heinz mit dem Stecker in der Hand; Rangliste eingeblendet: Level 1 Jule, Level 2 Zacharias, Level 3–8 „???“",
+      "sprecher": "Zucchini Cousin Zacharias",
+      "text": "Onkel Heinz zieht nie einfach so 'nen Stecker. Wer ihn geschickt hat, das siehst du in Level 3.",
+      "stirnzahl_effekt": "0 € blinkt ein letztes Mal"
+     }
+    ],
+    "schlusssatz": "Onkel Heinz zieht nie einfach so 'nen Stecker. Wer ihn geschickt hat, das siehst du in Level 3.",
+    "offene_frage": "Wer hat Onkel Heinz geschickt, dem DJ den Stecker zu ziehen? (Querverweis: Mit wem spricht Penny im Headset, „Tisch 1 sitzt, wie besprochen“?)"
+   },
+   {
+    "level": 3,
+    "figuren": [
+     {
+      "name": "Brokkoli Onkel Heinz",
+      "obst": "Brokkoli",
+      "zahl": "500 € (in Level 3: 500 € → 1.000 € → 0 €)",
+      "look": "Alter Brokkoli mit buschigen, leicht ergrauten Röschen, braunes Cordsakko mit Mehlstaub am Ärmel, dicker Stapel Karteikarten mit Gummiband",
+      "g": "m"
+     },
+     {
+      "name": "Paprika Penny",
+      "obst": "Paprika",
+      "zahl": "1.200 € (ihr „Geschenk“, wird erst in Level 4 als Rabatt entlarvt)",
+      "look": "Knallrote, glänzende Paprika im schwarzen Hosenanzug, Headset mit blinkendem Licht, Klemmbrett mit Sitzplan, spitze Stöckelschuhe",
+      "g": "w"
+     },
+     {
+      "name": "Radieschen Rudi",
+      "obst": "Radieschen",
+      "zahl": "5 €",
+      "look": "Kleines, knallpinkes Radieschen mit Zahnlücke, Papierkrone schief auf dem Blattschopf, Wachsmalstifte in der Faust",
+      "g": "m"
+     }
+    ],
+    "skript": [
+     {
+      "szene": 1,
+      "bild": "Nahaufnahme: Brokkoli Onkel Heinz quetscht sich auf einen winzigen Kinderstuhl, Knie bis zum Kinn, vor ihm ein Malbuch; auf seiner Stirn ist 500 € rot durchgestrichen, darunter 0 €",
+      "sprecher": "Brokkoli Onkel Heinz",
+      "text": "Fünfhundert Euro hab ich geschenkt. Jetzt sitz ich am Kindertisch. Mit Malbuch.",
+      "stirnzahl_effekt": "500 € rot durchgestrichen, darunter blinkt 0 €"
+     },
+     {
+      "szene": 2,
+      "bild": "Standbild aus Level 2: Heinz' Hand hält den abgezogenen Stecker, DJ-Pult dunkel",
+      "sprecher": "Erzähler",
+      "text": "Bisher: Onkel Heinz zieht dem DJ den Stecker.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 3,
+      "bild": "Penny mit Headset flüstert Heinz ins Ohr, zeigt erst aufs DJ-Pult, dann aufs goldene Mikro auf der Bühne",
+      "sprecher": "Brokkoli Onkel Heinz",
+      "text": "Penny hat mich geschickt. Sie sagt: Zieh den Stecker, dann kriegst du das Mikro.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 4,
+      "bild": "Totale: Hochzeitssaal mit acht Tischen, Kindertisch mit Luftballons direkt neben Tisch 1, Schriftzug „Wer ist Level 8?“",
+      "sprecher": "Erzähler",
+      "text": "Wer ist Level 8? Level 3.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 5,
+      "bild": "Penny tippt mit dem Kuli auf Heinz' Stirn, zwinkert",
+      "sprecher": "Paprika Penny",
+      "text": "Und deine fünfhundert zählen doppelt, Onkel Heinz.",
+      "stirnzahl_effekt": "Heinz' 500 € springt auf 1.000 €"
+     },
+     {
+      "szene": 6,
+      "bild": "Gleiches Bild wie in Level 2: Heinz zieht den Stecker, Zacharias starrt ihn an. Neu: Heinz' Karteikarten zittern, auf der obersten steht „Für meine kleine Chantal“",
+      "sprecher": "Brokkoli Onkel Heinz",
+      "text": "Ich bin Chantals Onkel. Bäcker. Ihre erste Torte hab ich gebacken, da war sie fünf. Ich wollte nur meine Rede halten.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 7,
+      "bild": "Heinz will zur Bühne, Penny stellt sich mit dem Klemmbrett in den Weg, hinter ihr glänzt das goldene Mikro",
+      "sprecher": "Paprika Penny",
+      "text": "Rede? Steht nicht im Plan. Deine Überweisung kommt erst Montag. Zählt nicht.",
+      "stirnzahl_effekt": "Heinz' 1.000 € zählt live runter auf 0 €, die 500 wird rot durchgestrichen"
+     },
+     {
+      "szene": 8,
+      "bild": "Heinz hält die Karteikarten hoch, Penny schaut auf die Uhr",
+      "sprecher": "Brokkoli Onkel Heinz",
+      "text": "Du hast mir das Mikro versprochen.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 9,
+      "bild": "Penny zeigt auf den Kindertisch mit Luftballons und Malbüchern",
+      "sprecher": "Paprika Penny",
+      "text": "Kindertisch, Heinz. Und wehe, du stehst heute nochmal auf.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 10,
+      "bild": "Am Kindertisch: ein kleines Radieschen mit Zahnlücke und Papierkrone schiebt Heinz einen Wachsmalstift hin, Stirn 5 €",
+      "sprecher": "Radieschen Rudi",
+      "text": "Du darfst das Pferd anmalen. Aber nicht über den Rand.",
+      "stirnzahl_effekt": "Rudis 5 € leuchtet stolz"
+     },
+     {
+      "szene": 11,
+      "bild": "Oben auf dem Podest: Schwarze Trüffel Madame Tuber mit Perlenhalsband schnüffelt in Heinz' Richtung, Zahl verpixelt",
+      "sprecher": "Brokkoli Onkel Heinz",
+      "text": "Komisch. Vorhin fragt mich die alte Trüffel, wie's der Bäckerei geht. Ich hab ihr nie gesagt, dass ich 'ne Bäckerei hab.",
+      "stirnzahl_effekt": "Verpixelte Zahl der Trüffel flimmert"
+     },
+     {
+      "szene": 12,
+      "bild": "Heinz schaut zur Decke: über jedem Tisch eine kleine Kamera mit rotem Licht; über Tisch 1, wo Jule sitzt, nur ein leerer Halter mit abgeschnittenem Kabel",
+      "sprecher": "Brokkoli Onkel Heinz",
+      "text": "Und dann seh ich's. Über jedem Tisch hängt 'ne Kamera. Über jedem. Nur nicht über Tisch 1.",
+      "stirnzahl_effekt": "Jules 0 € blinkt rot unter dem leeren Halter"
+     },
+     {
+      "szene": 13,
+      "bild": "Heinz dreht sich zur Kamera, Wachsmalstift in der Hand",
+      "sprecher": "Brokkoli Onkel Heinz",
+      "text": "Geh zurück zu Level 1. Such über der Kiwi 'ne Kamera. Eben.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 14,
+      "bild": "Heinz am Kindertisch, Blick auf den leeren Halter; Rangliste eingeblendet: Level 1 Jule, Level 2 Zacharias, Level 3 Heinz, Level 4–8 „???“",
+      "sprecher": "Brokkoli Onkel Heinz",
+      "text": "Die hat jemand abgeschraubt. Mit Absicht. Wer, das siehst du in Level 4.",
+      "stirnzahl_effekt": "0 € blinkt ein letztes Mal"
+     }
+    ],
+    "schlusssatz": "Die hat jemand abgeschraubt. Mit Absicht. Wer, das siehst du in Level 4.",
+    "offene_frage": "Wer hat die Kamera über Tisch 1 abbauen lassen? (Querverweis: Woher weiß Madame Tuber von Heinz' Bäckerei?)"
+   }
+  ]
+ },
+ {
+  "id": "D1",
+  "levels": [
+   {
+    "level": 2,
+    "figuren": [
+     {
+      "name": "Rosenkohl Pascal",
+      "obst": "Rosenkohl",
+      "zahl": "behauptet 3.000 €, glitcht auf 340 €",
+      "look": "Kleiner Rosenkohl mit abstehenden Blättern wie Strubbelhaar, Handy-Gimbal in der Hand, moderiert den Einlass",
+      "g": "m"
+     },
+     {
+      "name": "Melone Marco",
+      "obst": "Wassermelone",
+      "zahl": "behauptet 6.500 € (zittert für einen Frame, Wahrheit erst in Level 4)",
+      "look": "Große, glänzend polierte Wassermelone in enger schwarzer Lederjacke, am Innenfutter baumelt noch das Preisschild, dicker Goldring",
+      "g": "m"
+     }
+    ],
+    "skript": [
+     {
+      "szene": 1,
+      "bild": "Selfie-Perspektive aus Pascals Handy-Gimbal: Rosenkohl Pascal mit abstehenden Blättern, Live-Overlay „LIVE • 12“, auf der Stirn zerreißt 3.000 € digital zu roten 340 €",
+      "sprecher": "Rosenkohl Pascal",
+      "text": "Dreitausend im Monat, sag ich. Dreihundertvierzig, sagt meine Stirn. Und das live auf meinem Kanal.",
+      "stirnzahl_effekt": "3.000 € glitcht eine Sekunde auf 340 €, harter Schnitt"
+     },
+     {
+      "szene": 2,
+      "bild": "Schneller Splitscreen: Kevins −80.000 €, Sophies 19.000 € mit einem einzigen Flacker-Frame",
+      "sprecher": "Rosenkohl Pascal",
+      "text": "Bisher glitchten: Kevin und, für einen Frame, Sophie.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 3,
+      "bild": "Pascals Handydisplay, Video wird zurückgespult und gezoomt: eine Hand im Catering-Handschuh stellt das Namensschild „Brillenschlange“ auf Tisch 8",
+      "sprecher": "Rosenkohl Pascal",
+      "text": "Wer das Namensschild hingestellt hat? Hab ich gefilmt. Aus Versehen. 'Ne Hand im Catering-Handschuh.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 4,
+      "bild": "Dunkle Turnhalle mit Banner „ABI 2016“, Lichterketten, Schriftzug „Wer ist Level 8?“",
+      "sprecher": "Erzähler",
+      "text": "Wer ist Level 8? Level 2.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 5,
+      "bild": "Pascal am Einlass mit Gimbal und Ringlicht, Chat-Overlay mit genau einem Kommentar „hi“",
+      "sprecher": "Rosenkohl Pascal",
+      "text": "Ich bin Pascal. Content Creator. Zwölf Zuschauer. Heute geh ich viral. Dachte ich.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 6,
+      "bild": "Gleiches Bild wie in Level 1: Pascal sagt Kartoffel Olli an, Scheinwerfer auf Olli. Neu: aus Pascals Handy gesehen, in der Ecke flackert seine eigene 340 €, im Chat steht „340 lol“",
+      "sprecher": "Rosenkohl Pascal",
+      "text": "Als ich Olli ansag, flackert meine Zahl. Deshalb das „Oha“. Alle sollen auf die Kartoffel gucken. Nicht auf mich.",
+      "stirnzahl_effekt": "Pascals 3.000 € flackert auf 340 €"
+     },
+     {
+      "szene": 7,
+      "bild": "Vor der Bühne: eine große glänzende Melone in enger schwarzer Lederjacke, Stirn 6.500 €, reißt Pascal den Gimbal aus der Hand und hält ihm die Kamera ins Gesicht",
+      "sprecher": "Melone Marco",
+      "text": "Content Creator? Sag deine Zahl in die Kamera, Rosenkohl. Na los.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 8,
+      "bild": "Pascal klein vor der Kameralinse, Ringlicht blendet, Gäste drehen sich um",
+      "sprecher": "Rosenkohl Pascal",
+      "text": "Dreitausend. Netto.",
+      "stirnzahl_effekt": "3.000 € glitcht auf 340 € und bleibt hängen"
+     },
+     {
+      "szene": 9,
+      "bild": "Marco dreht die Kamera zum Publikum, alle lachen, Pascals Chat explodiert mit Lach-Emojis",
+      "sprecher": "Melone Marco",
+      "text": "Dreihundertvierzig! Das ist kein Gehalt, Bruder. Das ist 'n Handyvertrag.",
+      "stirnzahl_effekt": "340 € leuchtet jetzt dauerhaft rot"
+     },
+     {
+      "szene": 10,
+      "bild": "Nahaufnahme Marcos Lederjacke, als er sich wegdreht: am Innenfutter baumelt ein Preisschild",
+      "sprecher": "Rosenkohl Pascal",
+      "text": "Seine Jacke hat übrigens noch das Preisschild dran. Merkt keiner. Außer mir.",
+      "stirnzahl_effekt": "Marcos 6.500 € zittert für einen Frame"
+     },
+     {
+      "szene": 11,
+      "bild": "Pascal schaut direkt in seine eigene Handykamera, Ringlicht aus",
+      "sprecher": "Rosenkohl Pascal",
+      "text": "Sei ehrlich. Hast du deine Zahl auch schon mal schöngeredet? Schreib's mir. Meine Stirn hat's eh verraten.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 12,
+      "bild": "Pascals Video, maximal gezoomt: am Handgelenk unter dem Handschuh blitzt rosa, genoppte Haut, daneben ein Tablett mit Bowle",
+      "sprecher": "Rosenkohl Pascal",
+      "text": "Ich zoom ran. Unterm Handschuh: rosa Haut. Genoppt. Und daneben das Tablett mit der Bowle.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 13,
+      "bild": "Pascal allein auf der Tribüne, im Vordergrund Bowlegläser an jedem Tisch; Rangliste eingeblendet: Level 1 Olli, Level 2 Pascal, Level 3–8 „???“",
+      "sprecher": "Rosenkohl Pascal",
+      "text": "Diese Hand hat heute jedem von uns eingeschenkt. Wem sie gehört, das siehst du in Level 3.",
+      "stirnzahl_effekt": "340 € flackert ein letztes Mal"
+     }
+    ],
+    "schlusssatz": "Diese Hand hat heute jedem von uns eingeschenkt. Wem sie gehört, das siehst du in Level 3.",
+    "offene_frage": "Wem gehört die Hand im Catering-Handschuh, die das Namensschild auf Tisch 8 gestellt hat? (Querverweis: Warum hängt an Marcos Jacke noch das Preisschild?)"
+   },
+   {
+    "level": 3,
+    "figuren": [
+     {
+      "name": "Kaki Jasmin",
+      "obst": "Kaki",
+      "zahl": "behauptet 4.200 € („Marketing Lead“), glitcht auf 1.100 € („Werkstudentin“)",
+      "look": "Glänzend orange Kaki mit grünem Blattkelch als Haarspange, zu großer Blazer, Lanyard „Marketing Lead“, Handy immer in der Hand",
+      "g": "w"
+     },
+     {
+      "name": "Granatapfel Sophie",
+      "obst": "Granatapfel",
+      "zahl": "19.000 € (flackert angeblich nie)",
+      "look": "Tiefroter Granatapfel mit Krone als Hochsteckfrisur, perfekt gebügelte Bluse, Sektglas",
+      "g": "w"
+     },
+     {
+      "name": "Litschi Lia",
+      "obst": "Litschi",
+      "zahl": "nicht sichtbar",
+      "look": "Ab jetzt erstmals bewusst im Bild: rosa genoppte Litschi mit schwarzer Hornbrille, Catering-Mütze tief in der Stirn, Schürze, Handschuhe, Tablett mit Bowle",
+      "g": "w"
+     }
+    ],
+    "skript": [
+     {
+      "szene": 1,
+      "bild": "Nahaufnahme: Kaki Jasmin mit Lanyard „Marketing Lead“, auf ihrer Stirn zerreißt 4.200 € digital zu 1.100 €, darunter glitcht kurz das Wort „Werkstudentin“",
+      "sprecher": "Kaki Jasmin",
+      "text": "Viertausendzweihundert. Marketing Lead. Dann glitcht meine Stirn: Werkstudentin. Vor der ganzen Klasse.",
+      "stirnzahl_effekt": "4.200 € glitcht eine Sekunde auf 1.100 €, harter Schnitt"
+     },
+     {
+      "szene": 2,
+      "bild": "Schneller Splitscreen: Kevins −80.000 €, Pascals 340 €, die Hand im Catering-Handschuh am Namensschild",
+      "sprecher": "Kaki Jasmin",
+      "text": "Bisher glitchten Kevin und Pascal, und eine Hand im Handschuh stellte das Namensschild auf.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 3,
+      "bild": "Jasmins Handyfoto vom Gruppenfoto, vergrößert: ganz hinten am Rand eine rosa genoppte Litschi-Kellnerin mit schwarzer Hornbrille, Handschuh und Bowle-Tablett",
+      "sprecher": "Kaki Jasmin",
+      "text": "Die Hand? Gehört der Kellnerin. Sie steht auf meinem Gruppenfoto. Ganz hinten. Mit Hornbrille.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 4,
+      "bild": "Dunkle Turnhalle mit Banner „ABI 2016“, Schriftzug „Wer ist Level 8?“",
+      "sprecher": "Erzähler",
+      "text": "Wer ist Level 8? Level 3.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 5,
+      "bild": "Gruppenfoto vor dem Banner, alle posen, Granatapfel Sophie in der Mitte, Jasmin am äußersten Rand",
+      "sprecher": "Kaki Jasmin",
+      "text": "Ich bin Jasmin. Achtundzwanzig. Ich hab gesagt, ich bin Marketing Lead. Bin ich nicht.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 6,
+      "bild": "Sophie mit Sektglas tippt mit dem Fingernagel auf Jasmins Lanyard, Kevin und Marco grinsen dahinter",
+      "sprecher": "Granatapfel Sophie",
+      "text": "Marketing Lead? Sag's nochmal, Schatz. Laut.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 7,
+      "bild": "Jasmin schluckt, alle Köpfe drehen sich zu ihr",
+      "sprecher": "Kaki Jasmin",
+      "text": "Marketing Lead.",
+      "stirnzahl_effekt": "4.200 € glitcht auf 1.100 € und bleibt hängen"
+     },
+     {
+      "szene": 8,
+      "bild": "Sophie winkt Pascal mit dem Gimbal heran, Jasmin wird mit einer Handbewegung aus dem Bild geschoben",
+      "sprecher": "Granatapfel Sophie",
+      "text": "Werkstudentin. Süß. Pascal, Foto nochmal. Ohne die Praktikantin.",
+      "stirnzahl_effekt": "Jasmins 1.100 € leuchtet rot"
+     },
+     {
+      "szene": 9,
+      "bild": "Gleiches Bild wie in Level 2: Marco hält Pascal die Kamera ins Gesicht, alle lachen. Neu: Jasmin steht vorne im Bild und lacht am lautesten",
+      "sprecher": "Kaki Jasmin",
+      "text": "Vor zehn Minuten hab ich über Pascal gelacht. Am lautesten. Jetzt lacht Pascal über mich.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 10,
+      "bild": "Jasmin allein auf der Tribüne, Handy-Suchleiste: „Lia Brillenschlange Todesanzeige 2017“, darunter „0 Ergebnisse“",
+      "sprecher": "Kaki Jasmin",
+      "text": "Ich google die Brillenschlange. Lia hieß sie. Todesanzeige 2017? Nichts. Keine Beerdigung. Gar nichts.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 11,
+      "bild": "Erstmals bewusst im Bild: Litschi Lia mit Hornbrille und Catering-Mütze stellt Jasmin ein Glas Bowle hin, ihr Gesicht halb im Licht",
+      "sprecher": "Litschi Lia",
+      "text": "Bowle? Geht aufs Haus.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 12,
+      "bild": "Im Hintergrund flüstert Sophie Kevin etwas ins Ohr und schaut zu Tisch 8, ihre 19.000 € zittert",
+      "sprecher": "Kaki Jasmin",
+      "text": "Und Sophie hat gesagt, sie war auf der Beerdigung. Hat sie. Ich hab's gehört.",
+      "stirnzahl_effekt": "Sophies 19.000 € flackert für einen Frame"
+     },
+     {
+      "szene": 13,
+      "bild": "Jasmin schaut direkt in die Kamera",
+      "sprecher": "Kaki Jasmin",
+      "text": "Sag ehrlich: Hättest du über Pascal auch gelacht? Siehst du. Ich auch.",
+      "stirnzahl_effekt": ""
+     },
+     {
+      "szene": 14,
+      "bild": "Das neue Gruppenfoto auf Jasmins Handy, vergrößert: Melone Marco schaut nicht in die Kamera, sondern starrt kreidebleich zur Kellnerin; Rangliste eingeblendet: Level 1 Olli, Level 2 Pascal, Level 3 Jasmin, Level 4–8 „???“",
+      "sprecher": "Kaki Jasmin",
+      "text": "Auf dem Foto guckt einer nicht in die Kamera. Marco. Er starrt die Kellnerin an. Was er gesehen hat, das siehst du in Level 4.",
+      "stirnzahl_effekt": "1.100 € flackert ein letztes Mal"
+     }
+    ],
+    "schlusssatz": "Auf dem Foto guckt einer nicht in die Kamera. Marco. Er starrt die Kellnerin an. Was er gesehen hat, das siehst du in Level 4.",
+    "offene_frage": "Warum starrt Marco auf dem Gruppenfoto kreidebleich die Kellnerin an? (Halb offen: Warum lügt Sophie über eine Beerdigung, die es nie gab?)"
+   }
+  ]
+ }
+]

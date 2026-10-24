@@ -125,6 +125,8 @@ def music(sec, bpm=72, hits=(), seed=3):
         i = int(at * SR)
         if i >= n or i + len(sig) <= 0:
             return
+        if i < 0:
+            sig, i = sig[-i:], 0
         seg = sig[: n - i]
         out[i:i + len(seg)] += gain * seg
 
@@ -165,7 +167,7 @@ def mix(events, sec, music_gain=0.0):
     out = music(sec) * music_gain if music_gain else np.zeros(int(SR * sec))
     for at, name in events:
         s = bank[name]
-        i = int(at * SR)
+        i = max(0, int(at * SR))
         if i >= len(out):
             continue
         seg = s[: len(out) - i]

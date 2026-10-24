@@ -275,7 +275,7 @@ def render_part(series, n, images, out_path, backend="gemini"):
         cast = None
         if len({x["s"] for x in lv.get("lines", [])}) > 1:
             cast = {"lines": [(x["s"], x["t"]) for x in lv["lines"]], "voices": {"Erzaehler": "Charon", "Figur": fig},
-                    "genders": [x.get("g") for x in lv["lines"]]}
+                    "genders": [x.get("g") for x in lv["lines"]], "names": [x.get("n") for x in lv["lines"]]}
         dur, words = tts.speak(lv["story"], lang, voice, backend=backend, cast=cast)
         starts = sentence_starts(words)
         outro = words[starts[-1]][0] - 0.2 if len(starts) > 1 else dur - 2.5
@@ -283,22 +283,37 @@ def render_part(series, n, images, out_path, backend="gemini"):
         total = dur + 1.6
         chunks = chunk_words(words)
         qspan = find_quote(words, lv.get("quote"))
+        shots = lv.get("line_shots")  # ein Bild pro Skriptzeile, synchron zur Stimme
         qpic = None
         if qspan and lv.get("quote_image") and Path(lv["quote_image"]).exists():
             qpic = cover(Image.open(lv["quote_image"]).convert("RGB"), W, H)
-        qcard = quote_card(lv["quote"], vl["quote"]) if (qspan and qpic is None) else None
+        qcard = quote_card(lv["quote"], vl["quote"]) if (qspan and qpic is None and not shots) else None
         qby = lv.get("quote_by") or {}
         role = (lv["name"].split(",")[-1].strip() if "," in lv["name"] else lv["name"]).upper()
         hud_at = INTRO
 
         cuts, t = [], 0.0
-        while t < outro:
-            cuts.append(t)
-            t += CUT
+        shot_of = []
+        if shots:
+            i = 0
+            for k, x in enumerate(lv["lines"]):
+                at = 0.0 if k == 0 else words[min(i, len(words) - 1)][0] - 0.08
+                if at < outro or k == 0:
+                    cuts.append(max(at, 0.0))
+                    shot_of.append(shots[k])
+                i += len(x["t"].split())
+        else:
+            while t < outro:
+                cuts.append(t)
+                shot_of.append(len(cuts) - 1)
+                t += CUT
         events = [(0.05, "pop"), (hud_at, "pop")]
         events += [(hud_at + i * 0.08, "tick") for i in range(int(COUNT_UP / 0.08))]
         twist = lv.get("twist") or {}
         twist_at = qspan[1] if (qspan and twist.get("delta")) else None
+        if shots and twist.get("delta") and lv.get("twist_line") is not None:
+            upto = sum(len(x["t"].split()) for x in lv["lines"][:lv["twist_line"] + 1])
+            twist_at = words[min(upto, len(words)) - 1][1] + 0.1
         if twist_at:
             events += [(twist_at, "pop")] + [(twist_at + 0.1 + i * 0.07, "tick") for i in range(8)]
         events += [(c, "whoosh") for c in cuts[3::3]]  # nur jeder 3. Schnitt, sonst nervt es
@@ -313,7 +328,7 @@ def render_part(series, n, images, out_path, backend="gemini"):
         def frame(t):
             if t >= outro:
                 img = endcard(series, n, vl, t - outro, pics[0])
-            elif qspan and qspan[0] <= t < qspan[1] and qpic is not None:
+            elif qspan and qspan[0] <= t < qspan[1] and qpic is not None and not shots:
                 # Die Person aus einem anderen Level ist zu sehen und sagt den Satz selbst
                 img = shot(qpic, 7, (t - qspan[0]) / max(qspan[1] - qspan[0], 0.1))
                 tag = f"{qby.get('name', '')} · {qby.get('badge', '')}".strip(" ·").upper()
@@ -324,13 +339,13 @@ def render_part(series, n, images, out_path, backend="gemini"):
                     dq.rounded_rectangle([SAFE_CX - tw / 2 - 24, 1300, SAFE_CX + tw / 2 + 24, 1300 + tf.size * 1.3],
                                          radius=20, fill=(235, 70, 70))
                     dq.text((SAFE_CX - tw / 2, 1300 + tf.size * 0.1), tag, font=tf, fill=(255, 255, 255))
-            elif qspan and qspan[0] <= t < qspan[1]:
+            elif qspan and qspan[0] <= t < qspan[1] and qcard is not None:
                 img = qcard.copy()
             else:
                 k = max([i for i, c in enumerate(cuts) if c <= t] or [0])
                 c0 = cuts[k] if t >= cuts[0] else 0
                 c1 = cuts[k + 1] if k + 1 < len(cuts) else outro
-                img = shot(pics[k % len(pics)], k, (t - c0) / max(c1 - c0, 0.1))
+                img = shot(pics[shot_of[k] % len(pics)], k, (t - c0) / max(c1 - c0, 0.1))
                 if k > 0 and t - c0 < 0.07:
                     img = Image.blend(img, Image.new("RGB", (W, H), (255, 255, 255)), 0.3 * (1 - (t - c0) / 0.07))
                 if t < INTRO:
@@ -342,7 +357,7 @@ def render_part(series, n, images, out_path, backend="gemini"):
                     draw_delta(img, twist["delta"], t - twist_at)
             d = ImageDraw.Draw(img)
             # Marke oben links: Betrag der Figur statt „Level“ (Wunsch João)
-            pill = str(lv.get("badge") or role).upper()
+            pill = str(twist.get("after") if (twist_at and t >= twist_at) else (lv.get("badge") or role)).upper()
             pf = fit_font(d, pill, F_COND, 40, 420, 24)
             pw = d.textlength(pill, font=pf)
             d.rounded_rectangle([60, 40, 60 + pw + 48, 92], radius=26, fill=ACCENT)
@@ -351,7 +366,7 @@ def render_part(series, n, images, out_path, backend="gemini"):
             for c in chunks:
                 if c[0][0] - 0.05 <= t <= c[-1][1] + 0.25:
                     cur = c
-            in_quote = qspan and qspan[0] <= t < qspan[1] and qpic is None
+            in_quote = qspan and qspan[0] <= t < qspan[1] and qcard is not None
             if cur and not in_quote and t < outro:
                 draw_captions_v4(d, cur, t)
             d.text((36, H - 62), lab["ai"], font=F_MONO(20), fill=(200, 200, 210))

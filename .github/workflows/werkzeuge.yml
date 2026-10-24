@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       task:
-        description: "analyse, rhythmus, stimmen, beides, stile oder figuren"
+        description: "analyse, rhythmus, stimmen, beides, stile, figuren, schnellvideo oder battle (urls = Plan, z. B. B2:1-3,D1:1)"
         default: "beides"
       urls:
         description: "Reel- oder Profil-Links, durch Leerzeichen getrennt"
@@ -24,7 +24,7 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 175
     env:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
@@ -57,6 +57,11 @@ jobs:
       - name: Schnellvideo (Level 1 einer gespeicherten Serie)
         if: ${{ env.TASK == 'schnellvideo' }}
         run: python tools/schnellvideo.py "${URLS:-data/series/de_frucht_das_monatliche_dating_app_budget.json}" --out /tmp/research/schnell ${{ inputs.frame && format('--frame {0}', inputs.frame) || '' }}
+      - name: Battle-Finalisten rendern (ein Bild pro Satz, eigene Stimme pro Figur)
+        if: ${{ env.TASK == 'battle' }}
+        continue-on-error: true
+        timeout-minutes: 160
+        run: python tools/battle_videos.py data/battle/finalisten_runde1.json --extra data/battle/finalisten_level2-3.json --plan "$URLS" --out /tmp/research/battle
       - name: Stimmproben
         if: ${{ inputs.task == 'stimmen' || inputs.task == 'beides' }}
         continue-on-error: true
