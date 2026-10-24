@@ -87,7 +87,8 @@ def _placeholder(path, w, h, prompt):
 def generate(prompt, path, w=768, h=1344, seed=None):
     """Erzeugt ein Bild unter `path` (PNG/JPG) und gibt den Namen des Anbieters zurück."""
     path = Path(path)
-    if path.exists() and path.stat().st_size > 5000:
+    marker = path.with_name(path.name + ".ersatz")
+    if path.exists() and path.stat().st_size > 5000 and not marker.exists():
         return "cache"
     path.parent.mkdir(parents=True, exist_ok=True)
     seed = seed if seed is not None else random.randint(1, 10**6)
@@ -100,9 +101,11 @@ def generate(prompt, path, w=768, h=1344, seed=None):
             tmp.write_bytes(data)
             Image.open(tmp).convert("RGB").resize((w, h), Image.LANCZOS).save(path)
             tmp.unlink()
+            marker.unlink(missing_ok=True)
             return name
         except Exception as e:
             errors.append(f"{name}: {e}")
     print("  Bild-KI nicht erreichbar, Ersatzbild:", "; ".join(errors)[:300])
     _placeholder(path, w, h, prompt)
+    marker.touch()  # beim nächsten Lauf erneut versuchen
     return "placeholder"

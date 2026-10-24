@@ -105,6 +105,7 @@ def generate_series(langs, tts_backend):
             print(f"  Szene {i + 1}: {imagegen.generate(prompt, p, seed=n * 104729 + i)}")
             scenes.append(str(p))
         name = f"{today}_{st['id']}_teil{n}.mp4"
+        (ROOT / "out").mkdir(exist_ok=True)
         info = render_part(series, n, {"floors": floors, "scenes": scenes}, ROOT / "out" / name, backend=tts_backend)
         shutil.copy(info["path"], SITE / name)
         caption = f"{series['title']} – Level {n}/8\n\n{lv['caption']}\n\n{DISCLOSURE[lang]}"
