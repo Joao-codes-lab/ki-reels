@@ -185,6 +185,18 @@ Psychologische Mechanik (in jedem Teil anwenden):
 - LETZTER Satz ist IMMER exakt: "{next_line}" (mit der Nummer des nächsten Levels; nur bei Level 8 stattdessen
   die Frage an die Zuschauer, welches Thema als Nächstes kommen soll).
 
+Identifikation: Jede Figur muss sich anfühlen wie jemand, den man kennt oder selbst ist: ein alltäglicher,
+konkreter Moment (Supermarktkasse, Kontoauszug, WG-Küche, Pendelzug), ein innerer Gedanke, eine kleine Schwäche,
+ein Wunsch. Keine Klischees, keine Karikatur.
+
+Verbundenes Universum (wichtig!): Alle 8 Figuren leben in derselben Stadt und kreuzen sich. Plane die Serie
+als Netz: In JEDEM Teil gibt es mindestens eine beiläufige, nicht erklärte Andeutung auf eine Figur aus einem
+anderen Level (frühere oder spätere), z. B. die Barista aus Level 2 erwähnt einen ruhigen Mann im Anzug, der
+immer viel Trinkgeld gibt – in Level 8 ist er die Figur und erwähnt, dass die Barista immer freundlich ist.
+Wiederkehrende Orte (ein Café, eine Buslinie, ein Kiosk) verbinden die Figuren. Die Andeutungen bleiben
+subtil, damit aufmerksame Zuschauer sie in den Kommentaren entdecken. Level 8 löst mehrere davon auf.
+Lege die Verbindungen zusätzlich im Feld "links" ab.
+
 Regeln: Keine echten Personen, keine Marken-Diffamierung, keine Anlage-/Steuer-/Rechtsberatung,
 keine Einkommensversprechen. Zahlen realistisch und plausibel.
 
@@ -205,7 +217,7 @@ Außerdem:
 - house: {setting}.
 
 Antworte NUR mit JSON:
-{{"title": str, "house": str, "levels": [{{"n": 1, "name": str, "badge": str, "verdict": str, "story": str,
+{{"title": str, "house": str, "links": [str, ...], "levels": [{{"n": 1, "name": str, "badge": str, "verdict": str, "story": str,
 "character": str, "visual": str, "scenes": [str, str, str, str], "caption": str}}, ... bis n=8]}}
 """
 

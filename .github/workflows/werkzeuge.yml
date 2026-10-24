@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       task:
-        description: "analyse, stimmen oder beides"
+        description: "analyse, stimmen, beides oder stile"
         default: "beides"
       urls:
         description: "Reel- oder Profil-Links, durch Leerzeichen getrennt"
@@ -37,9 +37,13 @@ jobs:
         continue-on-error: true
         run: python tools/analyze_reels.py ${{ inputs.urls }} --max ${{ inputs.max }} --out /tmp/research
       - name: Stimmproben
-        if: ${{ inputs.task != 'analyse' }}
+        if: ${{ inputs.task == 'stimmen' || inputs.task == 'beides' }}
         continue-on-error: true
         run: python tools/voice_samples.py --out /tmp/research/stimmen
+      - name: Stilproben (Bild-KI)
+        if: ${{ inputs.task == 'stile' }}
+        continue-on-error: true
+        run: python tools/style_samples.py --out /tmp/research/stile
       - name: Ergebnisse in Branch „research“ speichern
         run: |
           git config user.name "ki-reels-bot"
@@ -51,4 +55,5 @@ jobs:
             git worktree add --detach /tmp/r && cd /tmp/r && git checkout --orphan research && git rm -rfq .
           fi
           cp -r /tmp/research/. . 2>/dev/null || true
-          git add -A && (git commit -qm "Werkzeuge $(date +%F_%H%M)" || true) && git push origin research
+          git add -A && (git commit -qm "Werkzeuge $(date +%F_%H%M)" || true)
+          for i in 1 2 3; do git push origin research && break; git pull -q --rebase origin research; done
