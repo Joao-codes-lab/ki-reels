@@ -42,16 +42,26 @@ Es soll breites Interesse wecken und Neugier auslösen. Bereits verwendet (nicht
 Antworte NUR mit JSON: {{"topic": str}} (Thema auf Deutsch, max. 8 Wörter)."""
 
 
+GEMINI_MODELS = [m for m in (os.environ.get("GEMINI_MODEL"), "gemini-flash-latest", "gemini-flash-lite-latest",
+                              "gemini-2.5-flash") if m]
+
+
 def _gemini(prompt):
     key = os.environ["GEMINI_API_KEY"]
-    model = os.environ.get("GEMINI_MODEL", "gemini-flash-latest")
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={key}"
     body = {"contents": [{"parts": [{"text": prompt}]}],
             "generationConfig": {"responseMimeType": "application/json", "temperature": 0.9}}
-    req = urllib.request.Request(url, json.dumps(body).encode(), {"Content-Type": "application/json"})
-    with urllib.request.urlopen(req, timeout=120) as r:
-        data = json.load(r)
-    return data["candidates"][0]["content"]["parts"][0]["text"]
+    errors = []
+    for model in dict.fromkeys(GEMINI_MODELS):  # Reihenfolge behalten, Duplikate raus
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={key}"
+        req = urllib.request.Request(url, json.dumps(body).encode(), {"Content-Type": "application/json"})
+        try:
+            with urllib.request.urlopen(req, timeout=300) as r:
+                data = json.load(r)
+            parts = data["candidates"][0]["content"]["parts"]
+            return "".join(p.get("text", "") for p in parts if not p.get("thought"))
+        except Exception as e:
+            errors.append(f"{model}: {e}")
+    raise RuntimeError("; ".join(errors))
 
 
 def _groq(prompt):

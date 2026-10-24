@@ -42,6 +42,11 @@ jobs:
           sudo apt-get update -q && sudo apt-get install -y -q ffmpeg
           pip install -r requirements.txt
 
+      - name: Git-Identität
+        run: |
+          git config user.name "ki-reels-bot"
+          git config user.email "ki-reels-bot@users.noreply.github.com"
+
       - name: Videos erzeugen
         run: python run_daily.py generate
 
