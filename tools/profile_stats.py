@@ -65,7 +65,7 @@ def summarize(user, items):
           f"- Uhrzeiten (Berlin): " + ", ".join(f"{h}:00 ({c}x)" for h, c in hours),
           f"- Wochentage: " + ", ".join(f"{d} {c}x" for d, c in days),
           f"- Länge: Median {statistics.median(r['sec'] for r in rows)} s",
-          f"- Aufrufe: Median {statistics.median(views):,.0f}, Max {max(views):,.0f}".replace(",", "."),
+          f"- Aufrufe: Median {statistics.median(views):,.0f} | Max {max(views):,.0f}".replace(",", "."),
           f"- Kommentare pro 1.000 Aufrufe (Median): "
           f"{statistics.median(r['comments'] / max(r['views'], 1) * 1000 for r in rows):.1f}", "",
           "| | Datum | Aufrufe | Länge | Caption |", "|---|---|---|---|---|"]
