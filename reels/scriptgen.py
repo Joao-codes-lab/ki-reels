@@ -120,3 +120,84 @@ def write_script(topic, lang, out_dir):
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(s, ensure_ascii=False, indent=2), encoding="utf-8")
     return path
+
+
+# --- Version 2: Story-Serien „Das Haus der 8 Level“ -------------------------------------------
+
+SERIES_PROMPT = """Du bist Head-Autor eines viralen Kurzvideo-Kanals ("Das Haus der 8 Level").
+Jede Serie ist ein Haus mit 8 Stockwerken. Auf jedem Stockwerk lebt eine Figur, deren Leben ein Level
+eines Themas zeigt (Level 1 = unten/schlechteste Lage, Level 8 = Penthouse/Spitze).
+Pro Video wird EIN Stockwerk erzählt. Die Zuschauer sollen unbedingt den nächsten Teil sehen wollen.
+
+Thema der Serie: {topic}
+Sprache und Kultur: {lang_name}. Schreibe muttersprachlich und an das Land angepasst ({country}), mit
+realistischen, konkreten Zahlen (Gehälter, Mieten, Preise) für dieses Land. Keine Übersetzung.
+
+Psychologische Mechanik (in jedem Teil anwenden):
+- Erster Satz = Hook in max. 12 Wörtern mit überraschender Zahl oder Widerspruch,
+  z. B. "Level 3: 80.000 Euro im Jahr – und trotzdem pleite."
+- Selbstvergleich: Zuschauer sollen sich einordnen ("Kennst du das?", "Wo stehst du?").
+- Konkrete Szenen statt Allgemeinplätze: Name, Alter, Job, ein typischer Moment, ein Detail.
+- Emotion: Stolz, Neid, Scham, Hoffnung oder Überraschung – ehrlich, nicht kitschig.
+- Ende jedes Teils = offene Schleife auf das nächste Level, ohne es zu verraten,
+  z. B. "Einen Stock höher wohnt jemand mit demselben Gehalt, der 1.000 Euro im Monat spart. Wie? Teil 4."
+- Das Penthouse (Level 8) bleibt bis zum Schluss ein Geheimnis und überrascht.
+- Teil 8 endet mit: Zuschauer sollen kommentieren, welches Haus als Nächstes kommt.
+
+Regeln: Keine echten Personen, keine Marken-Diffamierung, keine Anlage-/Steuer-/Rechtsberatung,
+keine Einkommensversprechen. Zahlen realistisch und plausibel.
+
+Für jedes Level:
+- name: Vorname + Alter + Rolle, z. B. "Lena, 27, Pflegerin"
+- badge: Kernzahl, max. 18 Zeichen, z. B. "3.200 € netto"
+- verdict: Urteil in 1-3 Wörtern in GROSSBUCHSTABEN, z. B. "NICHT REICH"
+- story: gesprochener Text, 140-170 Wörter (ca. 60-70 Sekunden), kurze Sätze, Du-Ansprache erlaubt,
+  beginnt mit dem Hook, endet mit dem Cliffhanger (Level 8: mit der Kommentar-Frage).
+- visual: englischer Bildprompt für die Hauptszene der Figur in ihrer Wohnung/ihrem Stockwerk
+  (Person, Tätigkeit, Gefühl, Einrichtung, Licht). Keine Schrift im Bild.
+- scenes: 2 weitere englische Bildprompts (Schlüsselmomente der Story, gleiche Figur beschrieben:
+  Geschlecht, Haare, Kleidung).
+- caption: 1 Satz + Frage an die Zuschauer + 4-6 Hashtags in der Zielsprache.
+
+Außerdem:
+- title: "Die 8 Level von ..." in der Zielsprache, max. 40 Zeichen.
+- house: englische Beschreibung des Hauses/Ortes (z. B. "a tall old apartment building in Cologne at dusk").
+
+Antworte NUR mit JSON:
+{{"title": str, "house": str, "levels": [{{"n": 1, "name": str, "badge": str, "verdict": str, "story": str,
+"visual": str, "scenes": [str, str], "caption": str}}, ... bis n=8]}}
+"""
+
+COUNTRIES = {"de": "Deutschland", "en": "USA", "es": "Spanien", "pt": "Brasilien", "fr": "Frankreich"}
+
+SERIES_TOPIC_PROMPT = """Schlage ein neues Thema für die Serie "Die 8 Level von ..." vor (Haus mit 8 Stockwerken,
+jede Etage ein Level). Es muss sofort Selbstvergleich auslösen und breites Interesse haben:
+Geld, Gehalt, Wohnen, Studium, Job, Status, Lebensstil, Gewohnheiten, KI im Alltag.
+Bereits verwendet (nicht wiederholen): {used}
+Antworte NUR mit JSON: {{"topic": str}} (Thema auf Deutsch, max. 6 Wörter)."""
+
+
+def validate_series(s):
+    assert len(s["levels"]) == 8, "es müssen 8 Level sein"
+    for i, lv in enumerate(s["levels"], 1):
+        lv["n"] = i
+        for k in ("name", "badge", "verdict", "story", "visual", "caption"):
+            assert lv.get(k), f"Level {i}: {k} fehlt"
+        lv["scenes"] = (lv.get("scenes") or [])[:2]
+    assert s.get("title") and s.get("house")
+    return s
+
+
+def next_series_topic(used):
+    queue = json.loads((ROOT / "data" / "series_topics.json").read_text(encoding="utf-8"))
+    for t in queue:
+        if t not in used:
+            return t
+    return ask(SERIES_TOPIC_PROMPT.format(used=", ".join(used[-60:]) or "keine"))["topic"]
+
+
+def write_series(topic, lang):
+    prompt = SERIES_PROMPT.format(topic=topic, lang_name=LANG_NAMES[lang], country=COUNTRIES[lang])
+    s = validate_series(ask(prompt))
+    s.update({"lang": lang, "topic": topic})
+    return s
