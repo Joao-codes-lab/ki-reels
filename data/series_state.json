@@ -9,6 +9,12 @@
       "lang": "en",
       "topic": "Reichtum in Deutschland",
       "start": "2026-10-24"
+    },
+    {
+      "lang": "de",
+      "frame": "aufzug",
+      "topic": "Reichtum in Deutschland",
+      "start": "2026-10-24"
     }
   ],
   "de": {
@@ -20,5 +26,12 @@
     "id": "en_reichtum_in_deutschland",
     "topic": "Reichtum in Deutschland",
     "next": 1
+  },
+  "de:aufzug": {
+    "id": "de_aufzug_reichtum_in_deutschland",
+    "topic": "Reichtum in Deutschland",
+    "frame": "aufzug",
+    "next": 2,
+    "last_date": "2026-10-24"
   }
 }
