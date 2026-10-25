@@ -1,0 +1,277 @@
+[
+  {
+    "id": "G6",
+    "levels": [
+      {
+        "level": 2,
+        "figuren": [
+          {
+            "name": "Sven",
+            "obst": "Weißer Spargel",
+            "zahl": "behauptet 9.000 € → glitcht auf 0 €",
+            "look": "Langer, blasser Spargel mit Spitzenfrisur, offenes Seidenhemd, viel zu große Fake-Rolex, die bei jeder Bewegung klappert",
+            "g": "m"
+          },
+          {
+            "name": "Phia",
+            "obst": "Physalis",
+            "zahl": "behauptet 25.000 € → glitcht auf 1.900 €",
+            "look": "Leuchtend orange Beere im aufgefächerten Papierkelch wie ein Abendkleid, Selfie-Stick, filmt sich ständig beim Filmen",
+            "g": "w"
+          },
+          {
+            "name": "Kaya",
+            "obst": "Kaki",
+            "zahl": "1.190 € netto (bleibt stabil, glitcht nie)",
+            "look": "Kleine orange Kaki mit grünem Blattkelch als Dutt, mintgrüne Pflegekasack, Augenringe nach Nachtschicht, Kopfhörerkabel um den Hals",
+            "g": "w"
+          },
+          {
+            "name": "Ezra",
+            "obst": "Erbse",
+            "zahl": "unsichtbar hinter dem Plüschmikro; darüber der Live-Zuschauerzähler",
+            "look": "Kleine grüne Erbse mit Bucket Hat, hält ein riesiges flauschiges Plüschmikro immer genau vor die Stirn, über ihm ein Taxameter-artiger Stream-Zähler",
+            "g": "m"
+          },
+          {
+            "name": "Kora",
+            "obst": "Kokosnuss",
+            "zahl": "im Bild nie zu sehen (Stirn immer abgeschnitten)",
+            "look": "Haarige Kokosnuss mit Headset und Klemmbrett, schwarzes Crew-Shirt „PRODUKTION“; nur von hinten oder angeschnitten im Bild",
+            "g": "w"
+          },
+          {
+            "name": "Mantel",
+            "obst": "Muskatnuss",
+            "zahl": "leer – als Einzige Stirn ohne Zahl",
+            "look": "Kleine, gemaserte Muskatnuss im grauen Mantel, alter Filzhut, steht still im Hintergrund, spricht nie",
+            "g": "m"
+          }
+        ],
+        "skript": [
+          {
+            "szene": 1,
+            "bild": "Extreme Nahaufnahme: langer weißer Spargel im offenen Seidenhemd auf der Einkaufsstraße bei Sonnenuntergang. Er hält zwei zerknitterte 100-€-Scheine hoch. Auf seiner Stirn springt die Zahl hin und her: golden „9.000 €“, rot „0 €“.",
+            "sprecher": "Sven",
+            "text": "200 Euro. Dafür sag ich vor 1,2 Millionen Leuten 9.000. Meine Stirn sagt: null.",
+            "stirnzahl_effekt": "Zahl flackert im Sekundentakt 9.000 € ↔ 0 €"
+          },
+          {
+            "szene": 2,
+            "bild": "Schwarzer Hintergrund, Rangliste Level 1 bis 8. Level 1 zeigt Kaya mit 1.190 €, Level 2 leuchtet mit Svens Silhouette, der Rest „???“.",
+            "sprecher": "Erzähler",
+            "text": "Wer ist Level 8? Level 2. Letztes Mal glitcht Sven auf null und schreit: abgesprochen.",
+            "stirnzahl_effekt": "Level 2 blinkt auf"
+          },
+          {
+            "szene": 3,
+            "bild": "Neuer Ort: Hinterhof hinter dem Dönerladen derselben Straße, Mülltonnen, Neonschild „DÖNER 24/7“. Eine haarige Kokosnuss mit Headset, nur von hinten und angeschnitten, drückt Sven Geld und einen gefalteten Zettel in die Hand. Auf dem Zettel groß: „9.000“.",
+            "sprecher": "Sven",
+            "text": "Mit wem? Mit einer Frau mit Headset. Hinterhof, eine Stunde vorher. 200 Euro und ein Zettel. Da steht 9.000.",
+            "stirnzahl_effekt": ""
+          },
+          {
+            "szene": 4,
+            "bild": "Neuer Ort: Kiosk an der Ecke, Theke voller Fake-Uhren. Sven klebt sich einen goldenen Sticker „9.000 €“ über seine echte Zahl. Im Türrahmen geht gerade ein kleiner Muskatnuss-Mann im grauen Mantel hinaus, Stirn leer, er schaut nicht zurück.",
+            "sprecher": "Sven",
+            "text": "Rolex vom Kiosk, zwölf Euro. Mein Kaffee ist schon bezahlt. Von wem? Keine Ahnung.",
+            "stirnzahl_effekt": "Svens 0 € verschwindet unter dem Sticker, Zahl springt auf 9.000 €"
+          },
+          {
+            "szene": 5,
+            "bild": "Vor dem Kiosk: Physalis im Papierkelch-Kleid filmt sich mit Selfie-Stick, zwinkert in die Linse und steckt einen gefalteten Zettel in ihren Kelch.",
+            "sprecher": "Phia",
+            "text": "Leute, ich hab heute ne Spezialrolle. Mehr darf ich nicht sagen.",
+            "stirnzahl_effekt": ""
+          },
+          {
+            "szene": 6,
+            "bild": "Sven schaut aufs Handy: Eine kleine Kartoffel mit Lockenwicklern sitzt im Wohnzimmer vor dem Stream und hält ein Schild „MEIN SOHN“.",
+            "sprecher": "Sven",
+            "text": "Warum ich mitmach? Mama schaut jeden Stream. Einmal sollte sie stolz sein.",
+            "stirnzahl_effekt": ""
+          },
+          {
+            "szene": 7,
+            "bild": "Dieselbe Szene wie in Level 1, jetzt aus Svens Sicht über seine Schulter: vor ihm die müde Kaya mit ruhiger „1.190 €“, Ezra mit Plüschmikro, Zähler „400.000“.",
+            "sprecher": "Sven",
+            "text": "Dann steh ich neben der Kaki. Sie sagt 1.190. Ich soll lachen. Stand auch auf dem Zettel.",
+            "stirnzahl_effekt": "Kayas 1.190 € bleibt fest; Live-Zähler 400.000 → 640.000"
+          },
+          {
+            "szene": 8,
+            "bild": "Ezra schiebt das Plüschmikro zu Sven. Svens Sticker reißt, die goldene 9.000 zersplittert wie ein Handydisplay, darunter knallrot „0 €“. Die Fake-Rolex fällt auf den Asphalt.",
+            "sprecher": "Sven",
+            "text": "Ehrlich jetzt? Deine Stirn sagt was anderes. Krach. Null. Live. Vor Mama.",
+            "stirnzahl_effekt": "9.000 € zersplittert auf 0 €; Zähler explodiert auf 1.200.000"
+          },
+          {
+            "szene": 9,
+            "bild": "Ezra zieht die Physalis neben Sven. Auf ihrer Stirn glänzt „25.000 €“. Sie lacht mit dem Selfie-Stick in sein Gesicht.",
+            "sprecher": "Phia",
+            "text": "Null? Süß. Mein Kleid kostet mehr als dein Leben, Spargel.",
+            "stirnzahl_effekt": "Phias 25.000 € leuchtet golden"
+          },
+          {
+            "szene": 10,
+            "bild": "Sven allein vor dem dunklen Schaufenster eines Elektromarkts, er schaut direkt in die Kamera. In den Fernsehern hinter ihm läuft der eingefrorene Stream.",
+            "sprecher": "Sven",
+            "text": "Lach ruhig mit. Aber sag ehrlich: 200 Euro und eine stolze Mama? Du hättest es auch gesagt.",
+            "stirnzahl_effekt": "Svens 0 € glimmt schwach rot"
+          },
+          {
+            "szene": 11,
+            "bild": "Bushaltestelle derselben Straße, Nacht. Kaya setzt sich neben Sven und reicht ihm einen Pappbecher. Im Spiegelbild des Elektromarkts steht der Mantel-Mann vor den Fernsehern und legt die Hand still auf Ezras eingefrorenes Bild.",
+            "sprecher": "Kaya",
+            "text": "Hier. Mein Kaffee war auch schon bezahlt. Komisch, oder?",
+            "stirnzahl_effekt": "Kayas 1.190 € und Svens 0 € leuchten nebeneinander"
+          },
+          {
+            "szene": 12,
+            "bild": "Unter der Bank liegt ein zerknüllter Zettel mit Glitzerrand. Sven faltet ihn auf, Nahaufnahme: „Lach über Sven.“",
+            "sprecher": "Sven",
+            "text": "Phias Zettel. Da steht: Lach über Sven. Warum über mich? …das siehst du in Level 3.",
+            "stirnzahl_effekt": ""
+          }
+        ],
+        "schlusssatz": "Phias Zettel. Da steht: Lach über Sven. Warum über mich? …das siehst du in Level 3.",
+        "offene_frage": "Warum stand auf Phias Zettel „Lach über Sven“?"
+      },
+      {
+        "level": 3,
+        "figuren": [
+          {
+            "name": "Phia",
+            "obst": "Physalis",
+            "zahl": "behauptet 25.000 € → glitcht auf 1.900 €",
+            "look": "Leuchtend orange Beere im aufgefächerten Papierkelch wie ein Abendkleid, Selfie-Stick, filmt sich ständig beim Filmen",
+            "g": "w"
+          },
+          {
+            "name": "Raoul",
+            "obst": "Rambutan",
+            "zahl": "behauptet 40.000 € → glitcht auf 3.400 € (nach Praxiskredit)",
+            "look": "Rote, haarige Rambutan im weißen Kittel, Golfhandschuh, Cabrio-Schlüssel um den Finger",
+            "g": "m"
+          },
+          {
+            "name": "Kaya",
+            "obst": "Kaki",
+            "zahl": "1.190 € netto (bleibt stabil, glitcht nie)",
+            "look": "Kleine orange Kaki mit grünem Blattkelch als Dutt, mintgrüne Pflegekasack, Augenringe nach Nachtschicht, Kopfhörerkabel um den Hals",
+            "g": "w"
+          },
+          {
+            "name": "Ezra",
+            "obst": "Erbse",
+            "zahl": "unsichtbar hinter dem Plüschmikro; darüber der Live-Zuschauerzähler",
+            "look": "Kleine grüne Erbse mit Bucket Hat, hält ein riesiges flauschiges Plüschmikro immer genau vor die Stirn, über ihm ein Taxameter-artiger Stream-Zähler",
+            "g": "m"
+          },
+          {
+            "name": "Kora",
+            "obst": "Kokosnuss",
+            "zahl": "im Bild nie zu sehen (Stirn immer abgeschnitten)",
+            "look": "Haarige Kokosnuss mit Headset und Klemmbrett, schwarzes Crew-Shirt „PRODUKTION“; nur von hinten oder angeschnitten im Bild",
+            "g": "w"
+          },
+          {
+            "name": "Mantel",
+            "obst": "Muskatnuss",
+            "zahl": "leer – als Einzige Stirn ohne Zahl",
+            "look": "Kleine, gemaserte Muskatnuss im grauen Mantel, alter Filzhut, steht still im Hintergrund, spricht nie",
+            "g": "m"
+          }
+        ],
+        "skript": [
+          {
+            "szene": 1,
+            "bild": "Extreme Nahaufnahme: Physalis im Papierkelch-Kleid vor einem Drogerie-Schaufenster, die Arme voller Gratis-Cremetuben. Auf ihrer Stirn zersplittert „25.000 €“ in Pixel, darunter „1.900 €“.",
+            "sprecher": "Phia",
+            "text": "25.000 hab ich gesagt. Meine Stirn sagt 1.900. Den Rest krieg ich in Gesichtscreme.",
+            "stirnzahl_effekt": "25.000 € zerbröselt live auf 1.900 €"
+          },
+          {
+            "szene": 2,
+            "bild": "Rangliste Level 1 bis 8: Kaya 1.190 €, Sven 0 €, Level 3 leuchtet mit Phias Silhouette, der Rest „???“.",
+            "sprecher": "Erzähler",
+            "text": "Level 3. Letztes Mal findet Sven Phias Zettel: Lach über Sven.",
+            "stirnzahl_effekt": "Level 3 blinkt auf"
+          },
+          {
+            "szene": 3,
+            "bild": "Neuer Ort: Lieferzone hinter der Drogerie, Paletten, ein weißer Van. Die Kokosnuss mit Headset, nur angeschnitten, hält Phia den Glitzerzettel hin. Phia filmt dabei heimlich.",
+            "sprecher": "Phia",
+            "text": "Warum über ihn? Die Headset-Frau sagt: Wer lacht, kriegt das nächste Interview. Reichweite gegen Fremdschämen. Fair.",
+            "stirnzahl_effekt": ""
+          },
+          {
+            "szene": 4,
+            "bild": "Dieselbe Szene wie in Level 1 und 2, jetzt durch Phias Handydisplay: Sie schminkt sich im Vordergrund, unscharf dahinter glitcht Sven auf 0.",
+            "sprecher": "Phia",
+            "text": "Ich schmink mich, hinter mir glitcht der Spargel. Ich denk: perfekt. Gleich bin ich der Star.",
+            "stirnzahl_effekt": "Svens 9.000 € zersplittert klein im Hintergrund auf 0 €"
+          },
+          {
+            "szene": 5,
+            "bild": "Neuer Ort: Springbrunnen auf dem Marktplatz derselben Straße. Ezra hält Phia das Plüschmikro hin, auf ihrer Stirn golden „25.000 €“. Daneben schlendert eine rote, haarige Rambutan im Kittel, Cabrio-Schlüssel kreist um seinen Finger.",
+            "sprecher": "Phia",
+            "text": "Ich sag 25.000. Im Monat. Ganz locker.",
+            "stirnzahl_effekt": "25.000 € glänzt; Live-Zähler 1.200.000 → 1.500.000"
+          },
+          {
+            "szene": 6,
+            "bild": "Die Rambutan lehnt sich ins Bild, auf seiner Stirn „40.000 €“, er lacht über Phias Zahl, die zu flackern beginnt.",
+            "sprecher": "Raoul",
+            "text": "1.900? Das zahl ich für Golfstunden, Schätzchen.",
+            "stirnzahl_effekt": "Phias 25.000 € zersplittert wie ein Handydisplay auf 1.900 €; Zähler explodiert"
+          },
+          {
+            "szene": 7,
+            "bild": "Phia sitzt auf dem Brunnenrand und schaut direkt in die Kamera, um sie herum Pakete mit Seren und Leggings, die Miete-Mahnung ragt aus ihrem Kelch.",
+            "sprecher": "Phia",
+            "text": "Meine Kooperationen zahlen in Seren. Miete zahlen die nicht. Und du? Wirst du bezahlt oder benutzt?",
+            "stirnzahl_effekt": "1.900 € leuchtet blass"
+          },
+          {
+            "szene": 8,
+            "bild": "Im offenen Van: Ein Klemmbrett mit der Überschrift „LÜGEN-GARANTIE“. Namen mit Häkchen, ganz unten durchgestrichen: „Kaya – ehrlich, unbrauchbar“.",
+            "sprecher": "Phia",
+            "text": "Im Van liegt ein Klemmbrett. Lügen-Garantie. Ganz unten: Kaya. Ehrlich, unbrauchbar.",
+            "stirnzahl_effekt": ""
+          },
+          {
+            "szene": 9,
+            "bild": "Vor der Bäckerei an der Ecke: Kaya nach der Nachtschicht mit Kaffeebecher, sie liest die Liste auf Phias Handy und schnaubt.",
+            "sprecher": "Kaya",
+            "text": "Unbrauchbar. Weil ich nicht lüge. Danke auch.",
+            "stirnzahl_effekt": "Kayas 1.190 € bleibt ruhig und fest"
+          },
+          {
+            "szene": 10,
+            "bild": "Neuer Ort: Fotoautomat am Ende der Straße. Im Ausgabeschacht klemmt ein alter Fotostreifen: ein Mann mit Filzhut und ein winziger Erbsenjunge im Bucket Hat. Eine Hand im grauen Mantel zieht ihn Phia weg, die leere Stirn verschwindet um die Ecke.",
+            "sprecher": "Phia",
+            "text": "Im Fotoautomaten klemmt ein alter Streifen. Filzhut und ein kleiner Junge mit Bucket Hat. Der Mantel-Mann nimmt ihn mir weg.",
+            "stirnzahl_effekt": "Die Stirn des Mannes bleibt leer"
+          },
+          {
+            "szene": 11,
+            "bild": "Zurück am Brunnen: Raoul zupft am Golfhandschuh, Ezra kommt mit dem Mikro auf ihn zu. Raouls „40.000 €“ zittert schon, bevor er den Mund aufmacht.",
+            "sprecher": "Raoul",
+            "text": "Ezra, mach schnell. Ich hab gleich nen Termin.",
+            "stirnzahl_effekt": "Raouls 40.000 € vibriert und flackert, ohne zu brechen"
+          },
+          {
+            "szene": 12,
+            "bild": "Phia im Vordergrund, hinter ihr unscharf Raoul mit der zitternden Zahl. Sie hält den Selfie-Stick still und flüstert in die Linse.",
+            "sprecher": "Phia",
+            "text": "Der Typ lacht über mich. Aber warum zittert seine Zahl, bevor er was sagt? …das siehst du in Level 4.",
+            "stirnzahl_effekt": "Raouls 40.000 € flackert im Hintergrund"
+          }
+        ],
+        "schlusssatz": "Der Typ lacht über mich. Aber warum zittert seine Zahl, bevor er was sagt? …das siehst du in Level 4.",
+        "offene_frage": "Warum zittert die Zahl des Zahnarztes, bevor er überhaupt etwas sagt?"
+      }
+    ]
+  }
+]

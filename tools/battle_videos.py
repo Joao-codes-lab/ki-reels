@@ -111,8 +111,10 @@ def main():
     out.mkdir(parents=True, exist_ok=True)
     fin = {x["id"]: x for src in a.src.split(",") for x in run_daily.load(Path(src), [])}
     extra = {}
-    if a.extra and Path(a.extra).exists():
-        for x in run_daily.load(Path(a.extra), []):
+    for ex in (a.extra or "").split(","):
+        if not ex or not Path(ex).exists():
+            continue
+        for x in run_daily.load(Path(ex), []):
             for lv in x.get("levels", []):
                 extra[(x["id"], int(lv["level"]))] = lv
     style = scriptgen.FRAMES.get(a.frame, {}).get("style") or imagegen.STYLE

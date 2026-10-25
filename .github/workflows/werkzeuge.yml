@@ -61,7 +61,7 @@ jobs:
         if: ${{ env.TASK == 'battle' }}
         continue-on-error: true
         timeout-minutes: 160
-        run: python tools/battle_videos.py data/battle/finalisten_runde1.json,data/battle/finalisten_runde2.json --extra data/battle/finalisten_level2-3.json --plan "$URLS" --out /tmp/research/battle
+        run: python tools/battle_videos.py data/battle/finalisten_runde1.json,data/battle/finalisten_runde2.json,data/battle/finalisten_runde3.json --extra data/battle/finalisten_level2-3.json,data/battle/G6_level2-3.json --plan "$URLS" --out /tmp/research/battle
       - name: Stimmproben
         if: ${{ inputs.task == 'stimmen' || inputs.task == 'beides' }}
         continue-on-error: true
