@@ -1,0 +1,81 @@
+{
+ "top_erkenntnisse": [
+  "Simpsonsvorhersage.n erreicht mit 50 geposteten Reels einen Median von 259.095,5 Views, was zeigt, dass extremes Volumen und serielle Cliffhanger dominieren.",
+  "Der Median der Views liegt bei _8_levels bei 77.991 (11 Posts) und bei herr.amorim bei 140.810 (50 Posts), belegt durch die Auswertung der drei Accounts.",
+  "Flop-Videos (z.B. bei _8_levels mit 10.614 Views oder herr.amorim mit 5.385 Views) leiden massiv unter fehlender Spannungssteigerung oder zu spätem Payoff.",
+  "Top-Videos nutzen zu 100% visuelle Statussysteme (HUD-Leisten, RPG-Balken oder leuchtende Stirn-Zahlen), die den Klassenkonflikt sofort quantifizieren.",
+  "Die ideale Videolänge für virale Retention liegt zwischen 70 und 130 Sekunden, wie die Top-Analysen (Median-Länge ca. 90-110s) belegen."
+ ],
+ "story_typen_ranking": [
+  {
+   "typ": "Level-Aufstieg / Status-Skala",
+   "warum": "Triggert Binge-Watching, Neugier und den Drang, den nächsten Teil zu sehen.",
+   "beleg": "_8_levels erzielt damit Spitzenwerte von bis zu 313.692 Views (_8_levels Top 1)."
+  },
+  {
+   "typ": "Rache / Genugtuung",
+   "warum": "Erzeugt sofortige emotionale Involvierung (Wut auf Arroganz, Freude auf Bestrafung).",
+   "beleg": "simpsonsvorhersage.n Top-Video erreicht 737.014 Views durch Underdog-Triumph."
+  },
+  {
+   "typ": "Familie & Verrat",
+   "warum": "Hohe universelle Relatability und Mitleid mit opferbereiten Vätern/Müttern.",
+   "beleg": "herr.amorim Top-Video knackt 1.029.538 Views durch Beziehungs- und Familientests."
+  }
+ ],
+ "bösewicht_rezept": [
+  "Ausstattung mit extremem Reichtum und arroganten Status-Symbolen (z.B. teure Autos, Anzüge, hohe Stirn-Zahlen).",
+  "Gnadenloses, empathiektloses Verhalten gegen den armen Protagonisten (Ausbeutung, Demütigung, zu Unrecht rauswerfen).",
+  "Konsequente Verachtung von ehrlicher Arbeit und Fokus auf reine materielle Werte.",
+  "Aufbau einer massiven emotionalen Wut beim Zuschauer, die nach Bestrafung schreit."
+ ],
+ "serien_rezept": {
+  "teile": "5 bis 8 Teile pro Story-Bogen",
+  "abstand": "12 bis 24 Stunden zwischen den Teilen, um Binge-Wachstum und Profilbesuche zu triggern",
+  "cliffhanger": "Mitten in der Krise, kurz vor der Enthüllung oder direkt vor dem Urteil abbrechen",
+  "caption": "Teil X von Y + direkter Verweis auf das nächste Level/die Auflösung"
+ },
+ "hook_rezept": [
+  "Schockierende Kontraste in den ersten 3 Sekunden (z.B. 'Ich verdiene 3 Millionen und bin arm' oder '500 Milliarden geschenkt').",
+  "Sofortige visuelle Einblendung des Status-Gimmicks (HUD-Leiste oder Stirn-Zahl).",
+  "Keine Begrüßung oder Intro-Musik, sondern direkt in den aktiven Konflikt einsteigen."
+ ],
+ "dramaturgie_sekunden": [
+  "0-3 s: Der ultimative Kontrast-Hook (Extreme Zahl, Krise oder Ungerechtigkeit) + visuelles Status-Gimmick.",
+  "3-30 s: Eskalation des Konflikts und Einführung der unfairen Machtverhältnisse / des Gegenspielers.",
+  "30-60 s: Der Tiefpunkt (Der Underdog wird gedemütigt, verstoßen oder scheitert fast).",
+  "60-90+ s: Die Wendung, Vorbereitung der Rache oder der Aufbau des harten Cliffhangers für den nächsten Teil."
+ ],
+ "design_rezept": {
+  "figuren": "High-End 3D-Animation (Pixar/Disney-Ästhetik) oder detailreicher 2D-Comic-Stil mit anthropomorphen Figuren (Früchte, Gemüse, Kugelköpfe)",
+  "render": "Fotorealistische Texturen (Stoffe, Witterung, Metall, Hautpartikel)",
+  "farben_licht": "Starker visueller Kontrast zwischen tristem, kaltem Armuts-Setting und warmem, goldenem Luxus-Interieur",
+  "kamera_schnitt": "Dynamische Zooms, Close-ups auf Gesichter/Stirnwerte; 3 bis 5 Schnitte pro 10 Sekunden",
+  "untertitel": "Fett, zentriert, weiße Blockschrift mit schwarzer Outline und farbigen (roten/gelben) Keyword-Highlights",
+  "status_anzeige": "Permanente HUD-Leiste oben (Net Worth, Rent, Stress) ODER leuchtende LED-Zahlen/Preisschilder direkt auf der Stirn der Charaktere"
+ },
+ "ton_rezept": {
+  "stimmen": "Professionelle, emotionale KI- oder Synchronstimmen mit starker dramatischer Tonlage und Charakter-Distinctiveness",
+  "musik": "Cinematische, orchestrale Spannungs-Soundtracks mit treibenden Klavier- und Lo-Fi-Beat-Elementen",
+  "effekte": "Subtile UI-Klicks, Whooshes, Motorengeräusche und atmosphärische Umgebungs-SFX (Regen, Schritte)"
+ },
+ "posting_rezept": {
+  "pro_tag": "2 bis 3 Reels/TikToks täglich, um den Serien-Binge-Effekt zu maximieren",
+  "uhrzeiten_berlin": "10:30 Uhr, 15:00 Uhr und 19:45 Uhr (Optimierung auf Peak-Schul- und Feierabendzeiten)",
+  "laenge_s": "75 bis 130 Sekunden (Tiefe Story mit hoher Retention)"
+ },
+ "jury_kriterien": [
+  "Hat der Hook in den ersten 3 Sekunden einen absurden Kontrast oder eine extreme Zahl?",
+  "Ist das visuelle Statussystem (HUD oder Stirn-Zahl) sofort in Sekunde 1 erkennbar?",
+  "Wird beim Zuschauer in den ersten 30 Sekunden echte Wut oder Mitleid erzeugt?",
+  "Endet das Skript in einem unerträglichen Cliffhanger, der zum Weiterschauen zwingt?",
+  "Ist die emotionale Fallhöhe zwischen Hauptfigur und Gegenspieler maximal maximiert?"
+ ],
+ "verboten": [
+  "Langweilige, neutrale Intros ohne sofortigen Konflikt oder Zahlen-Hook",
+  "Fehlen eines visuellen Status-Gimmicks (HUD oder Stirn-Werte)",
+  "Flache, ungenügend motivierte Antagonisten ohne echte Arroganz",
+  "Abrupte, unspannende Enden ohne klaren Cliffhanger",
+  "Zu geringe Videolänge unter 60 Sekunden bei komplexen Drama-Storys"
+ ]
+}
