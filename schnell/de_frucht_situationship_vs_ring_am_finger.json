@@ -1,0 +1,735 @@
+{
+  "title": "Die 8 Level von Situationship vs. Ring",
+  "house": "A bustling modern German city made of glass and concrete, where every fruit and vegetable citizen walks the streets carrying their digital relationship status brightly glowing on their foreheads.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Barista in Level 2 mentions the regular customer with a platinum ring on his desk.",
+    "Bus stop in Level 4 is right outside the jewelry store from Level 7.",
+    "A dropped golden coin appears near the kiosk in every single level."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was war das für ein mysteriöser Umschlag auf dem Küchentisch?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Lacht sie im Café aus und nennt sie eine billige Affäre.",
+        "g": "m"
+      },
+      "name": "Mia, 23, Werkstudentin",
+      "badge": "0 Monate",
+      "verdict": "NUR BEQUEM",
+      "story": "Die 8 Level von Situationship versus Ring am Finger. Level 1. Level 1: 0 Monate. Ich stand in unserer eiskalten 2-Zimmer-WG in Berlin-Neukölln, während er seelenruhig seine Playstation weiterzockte, obwohl ich weinte. 740 ungelesene Nachrichten auf seinem Handy, aber in keiner einzigen stand mein Name in Kombination mit einem Liebesgeständnis. Zwei Jahre meines Lebens habe ich in diese sogenannte Situationship investiert, nur um zu merken, dass ich für ihn im Grunde unsichtbar bin. Jedes Mal, wenn er mich vor seinen Freunden als ‚gute Kollegin‘ vorstellt, brennt mein Gesicht vor purem Hass. Ich dachte, wir wären längst weiter, aber er hält mich nur hin. Bis vor fünf Minuten eine anonyme Nachricht auf meinem Display aufblinkte, die mein ganzes bisheriges Leben zerstörte: Guck in sein Portemonnaie, während er schläft. Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1 Monat",
+        "after": "1 Monat"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Situationship versus Ring am Finger. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 0 Monate."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stand in unserer eiskalten 2-Zimmer-WG in Berlin-Neukölln, während er seelenruhig seine Playstation weiterzockte, obwohl ich weinte."
+        },
+        {
+          "s": "Figur",
+          "t": "740 ungelesene Nachrichten auf seinem Handy, aber in keiner einzigen stand mein Name in Kombination mit einem Liebesgeständnis."
+        },
+        {
+          "s": "Figur",
+          "t": "Zwei Jahre meines Lebens habe ich in diese sogenannte Situationship investiert, nur um zu merken, dass ich für ihn im Grunde unsichtbar bin."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Jedes Mal, wenn er mich vor seinen Freunden als ‚gute Kollegin‘ vorstellt, brennt mein Gesicht vor purem Hass.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich dachte, wir wären längst weiter, aber er hält mich nur hin."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Bis vor fünf Minuten eine anonyme Nachricht auf meinem Display aufblinkte, die mein ganzes bisheriges Leben zerstörte: Guck in sein Portemonnaie, während er schläft."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Guck in sein Portemonnaie, während er schläft.",
+      "quote_by": {
+        "level": 6,
+        "name": "Tom",
+        "badge": "48 Monate",
+        "character": "An arrogant green avocado man wearing a sharp blue business suit, sipping an expensive latte with a glowing '48 Monate' on his forehead.",
+        "scene": "Wide shot of a luxury Berlin rooftop café in bright morning sunlight, the avocado man looking down condescendingly at a crying strawberry woman."
+      },
+      "stats": [
+        {
+          "label": "Status",
+          "value": "0 Monate",
+          "bar": 0.01
+        },
+        {
+          "label": "Treue",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Geduld",
+          "value": "Am Ende",
+          "bar": 0.1
+        }
+      ],
+      "character": "A soft, sensitive strawberry woman with bright green leafy hair, wearing an oversized thrift-store hoodie and clutching a cracked smartphone. Glowing digital badge on her forehead.",
+      "visual": "Close-up shot of a strawberry woman in a dim, cluttered Berlin student kitchen at dusk, looking at a glowing smartphone with tears in her eyes. A tiny hidden golden coin sits on the counter.",
+      "scenes": [
+        "Wide shot: A chaotic Berlin student kitchen at dusk, cold blue light, messy dishes, a tiny golden coin hidden near the toaster.",
+        "Medium shot: Two figures arguing by the hallway, a strawberry woman holding her phone defensively against an avocado man.",
+        "Detail shot: A cracked smartphone screen showing a flashing anonymous message under a dim yellow ceiling bulb.",
+        "Wide shot: A rainy Berlin bus stop at night, streetlights reflecting in puddles, commuters waiting silently.",
+        "Medium shot: A train interior, tired passengers sitting on worn blue seats, passing neon signs outside the window.",
+        "Close-up shot: A glowing digital display on a forehead ticking upward by a single digit in the dark."
+      ],
+      "caption": "Wie lange würdest du warten, bevor du gehst? #situationship #beziehung #berlin #drama #level"
+    },
+    {
+      "n": 2,
+      "open_loop": "Was verbarg der gut gekleidete Mann im Anzug hinter seinem Rücken?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Wirft ihr vor, im Café nur zu schnorren und niemals echte Opfer zu bringen.",
+        "g": "w"
+      },
+      "name": "Lukas, 26, Barista",
+      "badge": "3 Monate",
+      "verdict": "NUR HALBHERZIG",
+      "story": "Die 8 Level von Situationship versus Ring am Finger. Level 2. Level 2: 3 Monate. Drei Monate lang lief ich als unbezahlter Trottel in seinem Leben mit, während er mich von oben herab musterte. Ich stand hinter der Espressomaschine in Kreuzberg, triefend vor Schweiß, und schob ihr mal wieder den dritten Flat White gratis über den Tresen, weil sie mir drohte, den Kontakt abzubrechen. Sie will mich doch nur als emotionalen Notgroschen, wenn ihr reicher Typ aus Level 7 sich gerade nicht meldet. Meine Orangen-Haut brennt vor Verzweiflung und Selbsthass, während ich zusehe, wie sie mich ausnutzt. Und exakt in diesem Moment geht die Tür auf, die Glocke klingelt schrill, und dieser arrogante Schnösel betritt das Café, knallt einen fetten Autoschlüssel auf den Holztresen und mustert mich so abfällig, als wäre ich Bodensatz. Das siehst du im nächsten Level. Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+2 Monate",
+        "after": "5 Monate"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Situationship versus Ring am Finger. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 3 Monate."
+        },
+        {
+          "s": "Figur",
+          "t": "Drei Monate lang lief ich als unbezahlter Trottel in seinem Leben mit, während er mich von oben herab musterte."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stand hinter der Espressomaschine in Kreuzberg, triefend vor Schweiß, und schob ihr mal wieder den dritten Flat White gratis über den Tresen, weil sie mir drohte, den Kontakt abzubrechen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sie will mich doch nur als emotionalen Notgroschen, wenn ihr reicher Typ aus Level 7 sich gerade nicht meldet.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Orangen-Haut brennt vor Verzweiflung und Selbsthass, während ich zusehe, wie sie mich ausnutzt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Und exakt in diesem Moment geht die Tür auf, die Glocke klingelt schrill, und dieser arrogante Schnösel betritt das Café, knallt einen fetten Autoschlüssel auf den Holztresen und mustert mich so abfällig, als wäre ich Bodensatz."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du im nächsten Level."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Du klammerst viel zu sehr, Lukas.",
+      "quote_by": {
+        "level": 7,
+        "name": "Sarah",
+        "badge": "36 Monate",
+        "character": "A vibrant, glossy orange woman wearing a chic trench coat and designer sunglasses indoors, glowing with a high status.",
+        "scene": "Medium shot of a trendy Berlin café counter, warm amber lighting, the orange woman pointing her finger at the barista."
+      },
+      "stats": [
+        {
+          "label": "Status",
+          "value": "3 Monate",
+          "bar": 0.15
+        },
+        {
+          "label": "Treue",
+          "value": "90%",
+          "bar": 0.9
+        },
+        {
+          "label": "Zweifel",
+          "value": "Hoch",
+          "bar": 0.7
+        }
+      ],
+      "character": "An energetic orange man with a textured citrus peel skin, wearing a neat white apron over a black t-shirt. Glowing digital badge on his forehead.",
+      "visual": "Medium shot of an orange man working behind a steaming espresso machine in a dimly lit Berlin café. A tiny golden coin rests beside the grinder.",
+      "scenes": [
+        "Medium shot: A bustling Berlin café counter, warm amber pendant lights, a steaming espresso machine, a tiny golden coin near the sugar dispenser.",
+        "Close-up shot: A gleaming forehead digital display showing '3 Monate' in bright cyan light.",
+        "Wide shot: The outdoor seating area of the café on a grey morning, wet pavement, sparse pedestrians walking past.",
+        "Detail shot: A hand slamming coins onto a wooden tabletop next to a spilled drop of coffee.",
+        "Medium shot: Two figures arguing near the entrance, customers turning their heads to watch the drama.",
+        "Close-up shot: A velvet jewelry box snapping shut with a sharp, echoing sound."
+      ],
+      "caption": "Wer kennt diesen Moment, wenn man einfach mehr will? #kaffee #berlin #beziehung #liebe #level2"
+    },
+    {
+      "n": 3,
+      "open_loop": "Was stand in dem handgeschriebenen Brief auf dem Beifahrersitz?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Sperrt ihn aus der gemeinsamen Wohnung aus und nimmt die Schlüssel weg.",
+        "g": "w"
+      },
+      "name": "Ben, 29, Grafiker",
+      "badge": "6 Monate",
+      "verdict": "AUF ABRUF",
+      "story": "Die 8 Level von Situationship versus Ring am Finger. Level 3. Level 3: Sechs Monate auf Abruf und ich darf noch nicht mal seine elorgene Wohnung betreten. Ich saß zitternd in meinem alten Opel Corsa auf dem regennassen Parkplatz in Charlottenburg, während die Scheiben von innen beschlugen. Komm bloß nicht hoch, hat sie am Telefon kalt gesagt, mein Ex ist gerade da und du bist nur eine billige Ablenkung. Meine Brokkoli-Krone bebte vor nackter Wut über diese abfälligen Worte, nachdem ich stundenlang auf sie gewartet hatte. Ich bin für sie nichts weiter als ein Lückenbüßer in ihrem perfekten Scheinleben. Da blitzte auf meinem Beifahrersitz plötzlich ein handgeschriebener Brief auf, den sie dort offenbar absichtlich vergessen hatte. Das siehst du direkt im nächsten Video. Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+3 Monate",
+        "after": "9 Monate"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Situationship versus Ring am Finger. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: Sechs Monate auf Abruf und ich darf noch nicht mal seine elorgene Wohnung betreten."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich saß zitternd in meinem alten Opel Corsa auf dem regennassen Parkplatz in Charlottenburg, während die Scheiben von innen beschlugen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Komm bloß nicht hoch, hat sie am Telefon kalt gesagt, mein Ex ist gerade da und du bist nur eine billige Ablenkung.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Brokkoli-Krone bebte vor nackter Wut über diese abfälligen Worte, nachdem ich stundenlang auf sie gewartet hatte."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin für sie nichts weiter als ein Lückenbüßer in ihrem perfekten Scheinleben."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Da blitzte auf meinem Beifahrersitz plötzlich ein handgeschriebener Brief auf, den sie dort offenbar absichtlich vergessen hatte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du direkt im nächsten Video."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Ben, komm bloß nicht hoch, mein Ex ist gerade da und du bist nur Ablenkung.",
+      "quote_by": {
+        "level": 8,
+        "name": "Helena",
+        "badge": "Ewiger Bund",
+        "character": "An elegant coconut woman with a polished shell, wearing a luxury cashmere sweater and diamond earrings.",
+        "scene": "Close-up of a sleek apartment doorway in an upscale Berlin district, looking down coldly at a phone."
+      },
+      "stats": [
+        {
+          "label": "Status",
+          "value": "6 Monate",
+          "bar": 0.3
+        },
+        {
+          "label": "Respekt",
+          "value": "Tief",
+          "bar": 0.2
+        },
+        {
+          "label": "Hoffnung",
+          "value": "50%",
+          "bar": 0.5
+        }
+      ],
+      "character": "A sturdy broccoli man with textured green florets for hair, wearing a worn denim jacket and silver rings. Glowing digital badge on his forehead.",
+      "visual": "Wide shot of a broccoli man sitting in a parked car at night under a flickering streetlamp, rain pouring on the windshield. A tiny golden coin glows on the dashboard.",
+      "scenes": [
+        "Wide shot: A dark, rainy Berlin parking lot at night, glowing taillights reflecting in puddles, a tiny golden coin on the dashboard.",
+        "Medium shot: A broccoli man inside a car pressing a smartphone hard against his ear, frustration on his face.",
+        "Detail shot: A glowing forehead display showing '6 Monate' reflecting in the rearview mirror.",
+        "Wide shot: The illuminated façade of an expensive Berlin apartment building with glowing windows.",
+        "Close-up shot: An envelope being torn open by trembling green fingers inside a dark vehicle.",
+        "Medium shot: A silhouette walking away down a wet sidewalk under a black umbrella."
+      ],
+      "caption": "Wann merkt man, dass man nur die zweite Wahl ist? #zweitewahl #beziehung #auto #berlin #level3"
+    },
+    {
+      "n": 4,
+      "open_loop": "Welches dunkle Geheimnis stand in den Akten auf dem Schreibtisch?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Bettelt ihn an, sie trotz allem nicht zu verlassen, weil sie Angst vor der Einsamkeit hat.",
+        "g": "m"
+      },
+      "name": "Marie, 28, Immobilienmaklerin",
+      "badge": "12 Monate",
+      "verdict": "DIE WARTENDE",
+      "story": "Die 8 Level von Situationship versus Ring am Finger. Level 4. Level 4: Zwölf Monate im goldenen Käfig, wir wohnen offiziell zusammen, aber vor seinen reichen Geschäftsfreunden bin ich nur die Putzfrau. Ich stand im lichtdurchfluteten Foyer dieser viel zu teuren Luxusvilla in Berlin-Grunewald und schmeckte Galle. Hör auf von einer gemeinsamen Zukunft zu träumen, Marie, ein blöder Ring bedeutet gar nichts für mich, hat er mir eben noch ins Gesicht gelacht. Meine Zitronen-Haut krampft vor bitterer Enttäuschung, weil ich gemerkt habe, dass ich meine besten Jahre an einen Egoisten verschwende. Plötzlich fiel mein Blick auf seinen offenen Aktenkoffer auf dem Designer-Schreibtisch, aus dem ein vertrauliches Dokument herausragte. Was dort stand, enthüllte eine Lüge, die alles veränderte. Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+6 Monate",
+        "after": "18 Monate"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Situationship versus Ring am Finger. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: Zwölf Monate im goldenen Käfig, wir wohnen offiziell zusammen, aber vor seinen reichen Geschäftsfreunden bin ich nur die Putzfrau."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stand im lichtdurchfluteten Foyer dieser viel zu teuren Luxusvilla in Berlin-Grunewald und schmeckte Galle."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Hör auf von einer gemeinsamen Zukunft zu träumen, Marie, ein blöder Ring bedeutet gar nichts für mich, hat er mir eben noch ins Gesicht gelacht.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Zitronen-Haut krampft vor bitterer Enttäuschung, weil ich gemerkt habe, dass ich meine besten Jahre an einen Egoisten verschwende."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Plötzlich fiel mein Blick auf seinen offenen Aktenkoffer auf dem Designer-Schreibtisch, aus dem ein vertrauliches Dokument herausragte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was dort stand, enthüllte eine Lüge, die alles veränderte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Hör auf zu träumen, Marie, ein blöder Ring bedeutet gar nichts für mich.",
+      "quote_by": {
+        "level": 1,
+        "name": "Leon",
+        "badge": "0 Monate",
+        "character": "A bitter lime man with a sharp citrus peel texture, wearing a crumpled suit and sneering.",
+        "scene": "Wide shot of a luxury hallway with white marble floors, the lime man walking past dismissively."
+      },
+      "stats": [
+        {
+          "label": "Status",
+          "value": "12 Monate",
+          "bar": 0.45
+        },
+        {
+          "label": "Geduld",
+          "value": "Am Limit",
+          "bar": 0.3
+        },
+        {
+          "label": "Zweifel",
+          "value": "99%",
+          "bar": 0.99
+        }
+      ],
+      "character": "A sleek, bright yellow lemon woman with smooth citrus skin, wearing an elegant business blazer and pearls. Glowing digital badge on her forehead.",
+      "visual": "Medium shot of a lemon woman standing in a luxurious white marble hallway of a high-end villa, looking down with a pained expression. A tiny golden coin rests near the baseboard.",
+      "scenes": [
+        "Medium shot: A luxurious white marble hallway in a Berlin villa, high ceilings, a tiny golden coin near the baseboard.",
+        "Close-up shot: A glowing forehead display showing '12 Monate' in sharp yellow light.",
+        "Wide shot: A sunlit modern living room with floor-to-ceiling windows overlooking a green garden.",
+        "Detail shot: Papers shuffling inside an open leather briefcase on a glass desk.",
+        "Medium shot: Two figures standing by a grand staircase, tension thick in the air.",
+        "Close-up shot: A trembling hand holding a confidential folder stamped with red ink."
+      ],
+      "caption": "Ein ganzes Jahr verschwendet oder der falsche Partner? #immobilien #berlin #beziehung #drama #level4"
+    },
+    {
+      "n": 5,
+      "open_loop": "Wer rief nachts um drei Uhr auf ihrem privaten Festnetztelefon an?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Lacht über ihre vergebliche Hoffnung auf Heirat und nennt sie naiv.",
+        "g": "w"
+      },
+      "name": "Tim, 31, Architekt",
+      "badge": "24 Monate",
+      "verdict": "AUF PROBE",
+      "story": "Die 8 Level von Situationship versus Ring am Finger. Level 5. Level 5: Vierundzwanzig Monate und wir reden immer noch nur von ‚vielleicht irgendwann‘, während meine Uhr tickt. Ich stand in meinem minimalistischen Architekturbüro in Berlin-Mitte und starrte auf die unfertigen Pläne. Nerv mich nicht schon wieder mit Heiratsanträgen, Tim, hat sie mir eiskalt hingeworfen, ich genieße einfach nur die Vorteile, solange es bequem ist. Meine Kokosnuss-Schale fühlte sich plötzlich porös, schutzlos und komplett wertlos an. Da klingelte mein privates Festnetztelefon auf dem Holztisch mit einem schrillen, markerschütternden Ton, den ich um diese Uhrzeit niemals erwartet hätte. Wer da am Apparat war und mir die Wahrheit über ihr Doppelleben erzählte, siehst du sofort im nächsten Teil. Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+12 Monate",
+        "after": "36 Monate"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Situationship versus Ring am Finger. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: Vierundzwanzig Monate und wir reden immer noch nur von ‚vielleicht irgendwann‘, während meine Uhr tickt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stand in meinem minimalistischen Architekturbüro in Berlin-Mitte und starrte auf die unfertigen Pläne."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Nerv mich nicht schon wieder mit Heiratsanträgen, Tim, hat sie mir eiskalt hingeworfen, ich genieße einfach nur die Vorteile, solange es bequem ist.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Kokosnuss-Schale fühlte sich plötzlich porös, schutzlos und komplett wertlos an."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Da klingelte mein privates Festnetztelefon auf dem Holztisch mit einem schrillen, markerschütternden Ton, den ich um diese Uhrzeit niemals erwartet hätte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer da am Apparat war und mir die Wahrheit über ihr Doppelleben erzählte, siehst du sofort im nächsten Teil."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Nerv mich nicht schon wieder mit Heiratsanträgen, Tim, ich genieße einfach nur die Vorteile.",
+      "quote_by": {
+        "level": 3,
+        "name": "Nadine",
+        "badge": "6 Monate",
+        "character": "A sharp prickly pear woman with purple skin, wearing a trendy leather jacket and sneering.",
+        "scene": "Medium shot inside a modern concrete office space, pointing aggressively at an architectural model."
+      },
+      "stats": [
+        {
+          "label": "Status",
+          "value": "24 Monate",
+          "bar": 0.6
+        },
+        {
+          "label": "Geduld",
+          "value": "Kritisch",
+          "bar": 0.25
+        },
+        {
+          "label": "Liebe",
+          "value": "Eingeschränkt",
+          "bar": 0.5
+        }
+      ],
+      "character": "A hard-shelled coconut man with fibrous brown husk texture, wearing a clean black turtleneck and round glasses. Glowing digital badge on her forehead.",
+      "visual": "Medium shot of a coconut man standing in a sleek, concrete-walled architectural office in Berlin by night. A tiny golden coin rests on an architectural model.",
+      "scenes": [
+        "Medium shot: A sleek concrete architectural office in Berlin, blueprints scattered on a large oak table, a tiny golden coin on a miniature building model.",
+        "Close-up shot: A glowing forehead display showing '24 Monate' in bright white light.",
+        "Wide shot: The brightly lit Berlin skyline seen through massive floor-to-ceiling windows at dusk.",
+        "Detail shot: A black landline telephone sitting on a minimalist desk, the red light blinking.",
+        "Medium shot: Two figures arguing across a drafting table, shadows stretching long on the floor.",
+        "Close-up shot: A hand hovering over a ringing telephone receiver in a quiet room."
+      ],
+      "caption": "Zwei Jahre gewartet und immer noch keine Sicherheit? #architektur #berlin #beziehung #drama #level5"
+    },
+    {
+      "n": 6,
+      "open_loop": "Was befand sich in dem versteckten Tresor hinter dem Bild?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Wirft ihm vor, egoistisch zu sein und fordert die Hälfte der gemeinsamen Ersparnisse.",
+        "g": "m"
+      },
+      "name": "Vanessa, 34, Anwältin",
+      "badge": "48 Monate",
+      "verdict": "GEKAUFTE RUHE",
+      "story": "Die 8 Level von Situationship versus Ring am Finger. Level 6. Level 6: Achtundvierzig Monate und ich trage diesen vergoldeten Klunker an meinem Finger, obwohl wir beide wissen, dass er ihn mir nur aus purem Pflichtgefühl gekauft hat. Ich stand in unserer viel zu teuren Altbauwohnung in Berlin-Prenzlauer Berg vor dem riesigen Flurspiegel. Sei gefälligst froh über den teuren Schmuck, Vanessa, mehr wirst du von mir emotional nie bekommen, hat er mir gerade ins Ohr geflüstert. Meine Drachenfrucht-Schale stachelte vor einem tiefen, brennenden Groll, der mich fast ersticken ließ. Plötzlich hörten wir ein lautes, metallenes Klicken von der Sicherheitstür im Flur, das uns beide erstarren ließ. Wer da im Morgengrauen vor unserer Wohnung stand, zeigt dir Level 7. Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+12 Monate",
+        "after": "60 Monate"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Situationship versus Ring am Finger. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: Achtundvierzig Monate und ich trage diesen vergoldeten Klunker an meinem Finger, obwohl wir beide wissen, dass er ihn mir nur aus purem Pflichtgefühl gekauft hat."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stand in unserer viel zu teuren Altbauwohnung in Berlin-Prenzlauer Berg vor dem riesigen Flurspiegel."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sei gefälligst froh über den teuren Schmuck, Vanessa, mehr wirst du von mir emotional nie bekommen, hat er mir gerade ins Ohr geflüstert.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Drachenfrucht-Schale stachelte vor einem tiefen, brennenden Groll, der mich fast ersticken ließ."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Plötzlich hörten wir ein lautes, metallenes Klicken von der Sicherheitstür im Flur, das uns beide erstarren ließ."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer da im Morgengrauen vor unserer Wohnung stand, zeigt dir Level 7."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Sei gefälligst froh über den teuren Schmuck, Vanessa, mehr wirst du von mir emotional nie bekommen.",
+      "quote_by": {
+        "level": 2,
+        "name": "Markus",
+        "badge": "3 Monate",
+        "character": "A stubborn turnip man with pale roots for hair, wearing an unbuttoned denim shirt and glaring.",
+        "scene": "Wide shot of a vintage Berlin Altbau hallway, wooden floors creaking, the turnip man crossing his arms."
+      },
+      "stats": [
+        {
+          "label": "Status",
+          "value": "48 Monate",
+          "bar": 0.75
+        },
+        {
+          "label": "Sicherheit",
+          "value": "Schein",
+          "bar": 0.4
+        },
+        {
+          "label": "Liebe",
+          "value": "Erloschen",
+          "bar": 0.1
+        }
+      ],
+      "character": "An exotic dragon fruit woman with bright pink skin and green leafy tips, wearing a silk designer dress and heavy silver rings. Glowing digital badge on her forehead.",
+      "visual": "Medium shot of a dragon fruit woman standing in a high-ceilinged Berlin Altbau apartment with stucco details, looking at a diamond ring. A tiny golden coin rests on the parquet floor.",
+      "scenes": [
+        "Medium shot: A high-ceilinged Berlin Altbau apartment with ornate stucco moldings, a tiny golden coin resting on vintage herringbone parquet.",
+        "Close-up shot: A glowing forehead display showing '48 Monate' in neon pink light.",
+        "Wide shot: A sunlit street in Prenzlauer Berg with historic brick buildings and parked bicycles.",
+        "Detail shot: A sparkling diamond ring catching the harsh afternoon light near a window sill.",
+        "Medium shot: Two figures confronting each other in a spacious living room with antique furniture.",
+        "Close-up shot: A brass doorknob turning slowly from the outside in a silent corridor."
+      ],
+      "caption": "Ein teurer Ring und trotzdem einsam? #prenzlauerberg #berlin #beziehung #luxus #level6"
+    },
+    {
+      "n": 7,
+      "open_loop": "Was war der wahre Grund für den plötzlichen Polizeieinsatz vor dem Haus?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Beschuldigt sie, ihn nur wegen seines Status und seines Geldes geheiratet zu haben.",
+        "g": "w"
+      },
+      "name": "Paul, 37, Unternehmer",
+      "badge": "60 Monate",
+      "verdict": "GOLDENE KÄFIG",
+      "story": "Die 8 Level von Situationship versus Ring am Finger. Level 7. Level 7: Sechzig Monate Verlobung und ich fühle mich in diesem Luxus-Gefängnis einsamer als je zuvor in meinem Leben. Ich stand vor den historischen, kalten Steinstufen des Standesamtes in Berlin-Mitte, während der Wind an meinem Anzug zerrte. Mach dir bloß keine Illusionen, Paul, der Ring bedeutet absolut null für mich, hat sie mir im Vorbeigehen zugednischt. Meine Avocado-Haut zitterte vor purem Frust und der Erkenntnis, jahrelang eine Lüge geliebt zu haben. Plötzlich zerriss eine laute Polizeisirene die morgendliche Stille, und mehrere Streifenwagen hielten mit quietschenden Reifen direkt vor dem Eingang. Welcher Albtraum hier seinen Lauf nahm, siehst du im finalen Level. Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+12 Monate",
+        "after": "72 Monate"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Situationship versus Ring am Finger. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: Sechzig Monate Verlobung und ich fühle mich in diesem Luxus-Gefängnis einsamer als je zuvor in meinem Leben."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stand vor den historischen, kalten Steinstufen des Standesamtes in Berlin-Mitte, während der Wind an meinem Anzug zerrte."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mach dir bloß keine Illusionen, Paul, der Ring bedeutet absolut null für mich, hat sie mir im Vorbeigehen zugednischt.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Avocado-Haut zitterte vor purem Frust und der Erkenntnis, jahrelang eine Lüge geliebt zu haben."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Plötzlich zerriss eine laute Polizeisirene die morgendliche Stille, und mehrere Streifenwagen hielten mit quietschenden Reifen direkt vor dem Eingang."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welcher Albtraum hier seinen Lauf nahm, siehst du im finalen Level."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Mach dir bloß keine Illusionen, Paul, der Ring bedeutet absolut null für mich.",
+      "quote_by": {
+        "level": 4,
+        "name": "Sophie",
+        "badge": "12 Monate",
+        "character": "A sleek lemon woman wearing a sharp business blazer and dark sunglasses, looking unimpressed.",
+        "scene": "Medium shot on stone steps outside a government building in Berlin, bright daylight, the lemon woman turning away."
+      },
+      "stats": [
+        {
+          "label": "Status",
+          "value": "60 Monate",
+          "bar": 0.9
+        },
+        {
+          "label": "Ring",
+          "value": "Platin",
+          "bar": 1.0
+        },
+        {
+          "label": "Glück",
+          "value": "Fast null",
+          "bar": 0.15
+        }
+      ],
+      "character": "A mature avocado man with dark pebbled skin and a smooth green center tone, wearing an expensive tailored Italian suit. Glowing digital badge on her forehead.",
+      "visual": "Wide shot of an avocado man in a sharp tuxedo standing on the grand stone steps of a historic Berlin registry office under grey skies. A tiny golden coin sits on the concrete.",
+      "scenes": [
+        "Wide shot: The grand stone steps of a historic Berlin registry office, grey overcast sky, a tiny golden coin on the cold concrete.",
+        "Close-up shot: A glowing forehead display showing '60 Monate' in crisp platinum white light.",
+        "Wide shot: A fleet of black luxury sedans parked along the curb of a wide Berlin boulevard.",
+        "Detail shot: A platinum ring glinting inside an open velvet box held by shaking hands.",
+        "Medium shot: Two well-dressed figures arguing in front of massive wooden doors under police sirens.",
+        "Close-up shot: Flashing blue lights reflecting off the wet pavement and glass windows."
+      ],
+      "caption": "Der perfekte Ring am Finger und trotzdem verloren? #standesamt #berlin #beziehung #geld #level7"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welche überraschende Wahrheit verbarg sich hinter der letzten geschlossenen Tür?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Öffnet endlich alle Geheimakten und beendet das Spiel ein für alle Mal.",
+        "g": "m"
+      },
+      "name": "Helena, 40, Galeristin",
+      "badge": "Ewiger Bund",
+      "verdict": "WAHRE LIEBE",
+      "story": "Die 8 Level von Situationship versus Ring am Finger. Level 8. Level 8: Ewiger Bund? Nach all dem Schmerz, den Lügen und den erkauften Ringen auf Stirn und Finger stehe ich nun hier oben. Ich stand ganz allein auf der zugewissten Dachterrasse über den kalten, grauen Dächern von Berlin. Unten auf der Straße kreuzten sich in diesem exakten Moment die Wege aller Figuren dieser toxischen Geschichte – und keine Zahl hat uns am Ende gerettet. Es waren nie die Status-Symbole, Helena, sondern wir haben uns selbst zerstört. Meine Kokosnuss-Schale bricht endgültig auf. Wenn du jemals in einer Situationship warst, weißst du genau, wovon ich spreche. Schreib es in die Kommentare.",
+      "gender": "w",
+      "twist": {
+        "delta": "Unendlich",
+        "after": "Für immer"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Situationship versus Ring am Finger. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: Ewiger Bund? Nach all dem Schmerz, den Lügen und den erkauften Ringen auf Stirn und Finger stehe ich nun hier oben."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stand ganz allein auf der zugewissten Dachterrasse über den kalten, grauen Dächern von Berlin."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Unten auf der Straße kreuzten sich in diesem exakten Moment die Wege aller Figuren dieser toxischen Geschichte – und keine Zahl hat uns am Ende gerettet."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Es waren nie die Status-Symbole, Helena, sondern wir haben uns selbst zerstört.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Kokosnuss-Schale bricht endgültig auf."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wenn du jemals in einer Situationship warst, weißst du genau, wovon ich spreche. Schreib es in die Kommentare."
+        }
+      ],
+      "quote": "Es waren nie die Status-Symbole, Helena, sondern wir haben uns selbst zerstört.",
+      "quote_by": {
+        "level": 5,
+        "name": "Julian",
+        "badge": "36 Monate",
+        "character": "A calm coconut man with a polished shell, wearing a cashmere coat and smiling warmly.",
+        "scene": "Medium shot on a windy Berlin rooftop at sunset, looking lovingly into the camera."
+      },
+      "stats": [
+        {
+          "label": "Status",
+          "value": "Ewig",
+          "bar": 1.0
+        },
+        {
+          "label": "Wahrheit",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Frieden",
+          "value": "Maximal",
+          "bar": 1.0
+        }
+      ],
+      "character": "A wise coconut woman with a hard fibrous shell, wearing a flowing emerald green evening gown and a delicate silver necklace. Glowing digital badge on her forehead.",
+      "visual": "Wide shot of a coconut woman standing on a high Berlin rooftop at golden hour, overlooking the entire sprawling city skyline. A tiny golden coin rests on the ledge.",
+      "scenes": [
+        "Wide shot: A panoramic view of the Berlin skyline at golden hour, glowing sunset light touching the TV tower, a tiny golden coin on a concrete ledge.",
+        "Close-up shot: A glowing forehead display showing 'Ewiger Bund' in warm golden light.",
+        "Wide shot: Street level view showing all previous characters walking past each other near a bustling Berlin kiosk.",
+        "Detail shot: Two hands holding each other gently, completely free of rings or numbers.",
+        "Medium shot: A couple smiling together on a high rooftop terrace overlooking the city lights.",
+        "Close-up shot: The digital forehead display fading out into a soft, natural glow as the screen darkens."
+      ],
+      "caption": "Was ist dir wichtiger: Der Status oder der richtige Mensch? Schreib es in die Kommentare! #berlin #beziehung #liebe #finale #level8"
+    }
+  ],
+  "lang": "de",
+  "topic": "Situationship vs. Ring am Finger",
+  "frame": "frucht"
+}
