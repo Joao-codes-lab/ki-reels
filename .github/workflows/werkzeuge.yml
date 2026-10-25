@@ -62,6 +62,15 @@ jobs:
         continue-on-error: true
         timeout-minutes: 160
         run: python tools/battle_videos.py data/battle/finalisten_runde1.json,data/battle/finalisten_runde2.json,data/battle/finalisten_runde3.json --extra data/battle/finalisten_level2-3.json,data/battle/G6_level2-3.json --plan "$URLS" --out /tmp/research/battle
+      - name: Verfügbare Gemini-Modelle (TTS/Bild) auflisten
+        if: ${{ env.TASK == 'modelle' }}
+        continue-on-error: true
+        run: |
+          curl -s "https://generativelanguage.googleapis.com/v1beta/models?pageSize=200&key=$GEMINI_API_KEY" \
+            | python -c "import json,sys; [print(m['name'], m.get('supportedGenerationMethods')) for m in json.load(sys.stdin).get('models', [])]"
+          curl -s -o /dev/null -w "pollinations gen: %{http_code}\n" -H "Authorization: Bearer $POLLINATIONS_TOKEN" "https://gen.pollinations.ai/image/test?width=64&height=64&model=flux"
+          curl -s -H "Authorization: Bearer $POLLINATIONS_TOKEN" https://gen.pollinations.ai/account/balance || true
+          echo; curl -s -H "xi-api-key: $ELEVENLABS_API_KEY" https://api.elevenlabs.io/v1/user/subscription | head -c 600 || true
       - name: Stimmproben
         if: ${{ inputs.task == 'stimmen' || inputs.task == 'beides' }}
         continue-on-error: true
