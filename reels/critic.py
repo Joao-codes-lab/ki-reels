@@ -115,8 +115,13 @@ def review_video(path, name):
                 data = json.load(r)
             text = "".join(p.get("text", "") for p in data["candidates"][0]["content"]["parts"] if not p.get("thought"))
             res = json.loads(re.sub(r"^```(json)?|```$", "", text.strip()).strip())
+            score = int(res.get("gesamt", 0))
+            from .tts import audio_duration
+            if audio_duration(path) < 45:  # Vorbilder laufen 60-110 s; ein Kurzschnipsel kann kein Sieger sein
+                res["laenge"] = "zu kurz, Punktzahl gedeckelt"
+                score = min(score, 60)
             _save(f"video_{name}", res)
-            return int(res.get("gesamt", 0)), res
+            return score, res
         except Exception as e:
             print("  Video-Jury:", model, str(e)[:150])
     return None, {}
