@@ -73,10 +73,17 @@ def _pollinations(prompt, w, h, seed, style=STYLE, model=None):
                     data = r.read()
                 _last_pollinations[0] = time.time()
                 if len(data) > 5000:
+                    if "image.pollinations.ai" in url and len(urls) > 1:
+                        print(f"    Achtung: Bild kommt vom alten Endpunkt (schwächeres Modell), gen-Fehler: {last}")
                     return data
                 last = RuntimeError(f"Antwort zu klein ({len(data)} Bytes)")
             except Exception as e:
                 last = e
+                if hasattr(e, "read"):
+                    try:
+                        last = RuntimeError(f"{e} {e.read()[:200]!r}")
+                    except Exception:
+                        pass
         time.sleep(15 * (attempt + 1))
     raise last
 
