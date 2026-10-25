@@ -15,6 +15,7 @@ import json
 import os
 import re
 import subprocess
+import time
 import urllib.request
 import wave
 from pathlib import Path
@@ -97,18 +98,12 @@ CAST_STYLE = {
 }
 
 
-def _gemini(text, lang, path, cast=None):
-    """cast: optional {"lines": [(sprecher, text)], "voices": {sprecher: stimme}} für zwei Stimmen."""
+GEMINI_POOL = {"w": ["Kore", "Aoede", "Leda", "Zephyr", "Callirrhoe", "Autonoe"],
+               "m": ["Puck", "Fenrir", "Orus", "Algenib", "Iapetus", "Enceladus"]}
+
+
+def _gemini_call(prompt, speech):
     key = os.environ["GEMINI_API_KEY"]
-    voice = os.environ.get("GEMINI_VOICE") or VOICES.get(lang, {}).get("gemini", "Puck")
-    if cast:
-        script = "\n".join(f"{sp if sp in cast['voices'] else 'Erzaehler'}: {t}" for sp, t in cast["lines"])
-        speech = {"multiSpeakerVoiceConfig": {"speakerVoiceConfigs": [
-            {"speaker": sp, "voiceConfig": {"prebuiltVoiceConfig": {"voiceName": v}}} for sp, v in cast["voices"].items()]}}
-        prompt = CAST_STYLE.get(lang, CAST_STYLE["en"]) + script
-    else:
-        speech = {"voiceConfig": {"prebuiltVoiceConfig": {"voiceName": voice}}}
-        prompt = GEMINI_STYLE.get(lang, GEMINI_STYLE["en"]) + text
     body = {"contents": [{"parts": [{"text": prompt}]}],
             "generationConfig": {"responseModalities": ["AUDIO"], "speechConfig": speech}}
     err = None
@@ -118,12 +113,74 @@ def _gemini(text, lang, path, cast=None):
         try:
             with urllib.request.urlopen(req, timeout=240) as r:
                 data = json.load(r)
-            pcm = base64.b64decode(data["candidates"][0]["content"]["parts"][0]["inlineData"]["data"])
-            break
+            return base64.b64decode(data["candidates"][0]["content"]["parts"][0]["inlineData"]["data"])
         except Exception as e:
             err = e
+    raise RuntimeError(f"Gemini-TTS: {err}")
+
+
+def _gemini_ensemble(lang, cast):
+    """Mehr als zwei Figuren: in Abschnitte mit höchstens zwei Sprechern teilen (Gemini-Grenze),
+    jede Figur behält über alle Abschnitte ihre eigene Stimme."""
+    names = cast["names"]
+    genders = cast.get("genders") or [None] * len(names)
+    fig = cast["voices"].get("Figur", "Puck")
+    free = {k: [v for v in vs if v != fig] for k, vs in GEMINI_POOL.items()}
+    voice_of = {}
+    for (sp, _), nm, g in zip(cast["lines"], names, genders):
+        key = re.sub(r"\W", "", nm or sp) or "Erzaehler"
+        if key not in voice_of:
+            if sp == "Erzaehler":
+                voice_of[key] = cast["voices"].get("Erzaehler", "Charon")
+            elif sp == "Figur":
+                voice_of[key] = fig
+            else:
+                pool = free[g if g in free else "m"]
+                voice_of[key] = pool.pop(0) if pool else ("Kore" if g == "w" else "Puck")
+    chunks, cur = [], []
+    for (sp, t), nm in zip(cast["lines"], names):
+        key = re.sub(r"\W", "", nm or sp) or "Erzaehler"
+        if cur and len({k for k, _ in cur} | {key}) > 2:
+            chunks.append(cur)
+            cur = []
+        cur.append((key, t))
+    if cur:
+        chunks.append(cur)
+    pcm = b""
+    for n, ch in enumerate(chunks):
+        if n:
+            time.sleep(float(os.environ.get("GEMINI_TTS_PAUSE", "21")))  # Free Tier: wenige Anfragen pro Minute
+        who = list(dict.fromkeys(k for k, _ in ch))
+        if len(who) == 1:
+            speech = {"voiceConfig": {"prebuiltVoiceConfig": {"voiceName": voice_of[who[0]]}}}
+            prompt = GEMINI_STYLE.get(lang, GEMINI_STYLE["en"]) + " ".join(t for _, t in ch)
+        else:
+            speech = {"multiSpeakerVoiceConfig": {"speakerVoiceConfigs": [
+                {"speaker": k, "voiceConfig": {"prebuiltVoiceConfig": {"voiceName": voice_of[k]}}} for k in who]}}
+            prompt = CAST_STYLE.get(lang, CAST_STYLE["en"]) + "\n".join(f"{k}: {t}" for k, t in ch)
+        pcm += _gemini_call(prompt, speech) + b"\x00\x00" * int(24000 * 0.15)
+    return pcm
+
+
+def _gemini(text, lang, path, cast=None):
+    """cast: optional {"lines": [(sprecher, text)], "voices": {sprecher: stimme}, "names": [...]} für mehrere Stimmen."""
+    voice = os.environ.get("GEMINI_VOICE") or VOICES.get(lang, {}).get("gemini", "Puck")
+    pcm = None
+    if cast and cast.get("names") and any(cast["names"]):
+        try:
+            pcm = _gemini_ensemble(lang, cast)
+        except Exception as e:
+            print(f"  Gemini-Ensemble fehlgeschlagen ({str(e)[:120]}), nehme zwei Stimmen")
+    if pcm is not None:
+        pass
+    elif cast:
+        script = "\n".join(f"{sp if sp in cast['voices'] else 'Erzaehler'}: {t}" for sp, t in cast["lines"])
+        speech = {"multiSpeakerVoiceConfig": {"speakerVoiceConfigs": [
+            {"speaker": sp, "voiceConfig": {"prebuiltVoiceConfig": {"voiceName": v}}} for sp, v in cast["voices"].items()]}}
+        pcm = _gemini_call(CAST_STYLE.get(lang, CAST_STYLE["en"]) + script, speech)
     else:
-        raise RuntimeError(f"Gemini-TTS: {err}")
+        speech = {"voiceConfig": {"prebuiltVoiceConfig": {"voiceName": voice}}}
+        pcm = _gemini_call(GEMINI_STYLE.get(lang, GEMINI_STYLE["en"]) + text, speech)
     wav = path.with_suffix(".raw.wav")
     with wave.open(str(wav), "wb") as w:
         w.setnchannels(1); w.setsampwidth(2); w.setframerate(24000); w.writeframes(pcm)
