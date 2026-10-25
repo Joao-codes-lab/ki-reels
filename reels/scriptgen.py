@@ -419,9 +419,18 @@ def write_series(topic, lang, frame="aufzug"):
                                   character_rule=fr.get("character_rule", ""),
                                   next_line=NEXT_LINE.get(lang, NEXT_LINE["en"]).format(n="X"))
     prompt += blueprint_hint(topic)
-    s = ensure_next_line(validate_series(ask(prompt)), lang)
     from . import critic  # unabhängige Jury bewertet und lässt überarbeiten
-    s = ensure_next_line(validate_series(critic.improve_series(s, ask, f"{lang}_{frame}_{topic}")), lang)
+    min_words = int(os.environ.get("MIN_STORY_WORDS", "130"))
+    for attempt in range(3):
+        s = ensure_next_line(validate_series(ask(prompt)), lang)
+        s = ensure_next_line(validate_series(critic.improve_series(s, ask, f"{lang}_{frame}_{topic}")), lang)
+        words = len(s["levels"][0]["story"].split())
+        if words >= min_words:
+            break
+        # Ersatz-KIs (wenn Gemini am Limit ist) ignorieren gern die Länge: lieber neu als ein 20-Sekunden-Video
+        print(f"  Story zu kurz ({words} Wörter), neuer Versuch")
+    else:
+        raise ValueError(f"Story bleibt zu kurz ({words} Wörter)")
     s.update({"lang": lang, "topic": topic, "frame": frame})
     return s
 
