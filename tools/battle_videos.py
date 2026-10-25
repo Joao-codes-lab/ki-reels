@@ -149,7 +149,7 @@ def main():
                 prompts = to_english([prompt_for(s["bild"], figs) for s in skript])
                 for i, pr in enumerate(prompts):
                     p = folder / f"{i:02d}.jpg"
-                    src = imagegen.generate(pr[:880], p, seed=4711 + n * 100 + i, style=style)
+                    src = imagegen.generate(pr[:880], p, seed=sum(map(ord, sid)) * 1000 + n * 100 + i, style=style)
                     print(f"  {sid} L{n} Bild {i + 1}/{len(skript)}: {src}")
                     pics.append(str(p))
                 name = f"{sid}_{run_daily.slugify(title)}_level{n}.mp4"

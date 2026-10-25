@@ -284,6 +284,10 @@ def render_part(series, n, images, out_path, backend="gemini"):
         chunks = chunk_words(words)
         qspan = find_quote(words, lv.get("quote"))
         shots = lv.get("line_shots")  # ein Bild pro Skriptzeile, synchron zur Stimme
+        if shots and len(lv["lines"]) > 1:
+            # Endbild genau mit der letzten Skriptzeile (dem Teaser), unabhängig von der Satzerkennung
+            k = sum(len(x["t"].split()) for x in lv["lines"][:-1])
+            outro = min(max(words[min(k, len(words) - 1)][0] - 0.1, 8.0), dur - 1.0)
         qpic = None
         if qspan and lv.get("quote_image") and Path(lv["quote_image"]).exists():
             qpic = cover(Image.open(lv["quote_image"]).convert("RGB"), W, H)
