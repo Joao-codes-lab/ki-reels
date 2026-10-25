@@ -66,25 +66,26 @@ def _pollinations(prompt, w, h, seed, style=STYLE, model=None):
         urls.append(f"https://gen.pollinations.ai/image/{q}?{urllib.parse.urlencode(params)}")
     urls.append(f"https://image.pollinations.ai/prompt/{q}?{urllib.parse.urlencode(params)}")
     last = None
-    for attempt in range(4):
-        for url in urls:
-            try:
-                with urllib.request.urlopen(urllib.request.Request(url, headers=headers), timeout=240) as r:
-                    data = r.read()
-                _last_pollinations[0] = time.time()
-                if len(data) > 5000:
-                    if "image.pollinations.ai" in url and len(urls) > 1:
-                        print(f"    Achtung: Bild kommt vom alten Endpunkt (schwächeres Modell), gen-Fehler: {last}")
-                    return data
-                last = RuntimeError(f"Antwort zu klein ({len(data)} Bytes)")
-            except Exception as e:
-                last = e
-                if hasattr(e, "read"):
-                    try:
-                        last = RuntimeError(f"{e} {e.read()[:200]!r}")
-                    except Exception:
-                        pass
-        time.sleep(15 * (attempt + 1))
+    # Erst mehrfach den guten Endpunkt versuchen (429 bei parallelen Läufen ist meist kurz), den alten nur als letzte Rettung
+    plan = [urls[0]] * 4 + urls[1:] if len(urls) > 1 else urls * 4
+    for attempt, url in enumerate(plan):
+        try:
+            with urllib.request.urlopen(urllib.request.Request(url, headers=headers), timeout=240) as r:
+                data = r.read()
+            _last_pollinations[0] = time.time()
+            if len(data) > 5000:
+                if "image.pollinations.ai" in url and len(urls) > 1:
+                    print(f"    Achtung: Bild kommt vom alten Endpunkt (schwächeres Modell), gen-Fehler: {last}")
+                return data
+            last = RuntimeError(f"Antwort zu klein ({len(data)} Bytes)")
+        except Exception as e:
+            last = e
+            if hasattr(e, "read"):
+                try:
+                    last = RuntimeError(f"{e} {e.read()[:200]!r}")
+                except Exception:
+                    pass
+        time.sleep(10 * (attempt + 1))
     raise last
 
 
