@@ -82,7 +82,7 @@ def _restore_punctuation(text, words):
     return out
 
 
-GEMINI_TTS_MODELS = ["gemini-2.5-flash-preview-tts", "gemini-2.5-flash-tts"]
+GEMINI_TTS_MODELS = ["gemini-3.8-flash-tts", "gemini-3.1-flash-tts-preview", "gemini-3.8-flash-lite-tts"]  # 2.5-TTS wurde abgeschaltet (404)
 GEMINI_STYLE = {
     "de": "Erzähle extrem emotional und dramatisch wie ein packender Storyteller: flüstere bei Geheimnissen, werde laut und schnell bei Wut oder Schock, mach kurze Spannungspausen: ",
     "en": "Narrate extremely emotional and dramatic like a gripping storyteller: whisper secrets, get loud and fast on anger or shock, use short suspense pauses: ",
