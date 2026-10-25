@@ -1,0 +1,810 @@
+{
+  "title": "The 8 Levels of Dating App Burnout",
+  "house": "A bustling metro city where fruit and vegetable people navigate modern romance, illuminated by glowing digital numbers on their foreheads showing their weekly dating app swipes, matches, and situational status.",
+  "catchphrase": "The swipe never lies.",
+  "links": [
+    "Barista in Level 2 mentions the quiet avocado guy leaving big tips",
+    "Subway busker from Level 4 is heard playing in the background of Level 7",
+    "Broken bench from Level 1 is finally repaired in Level 6"
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Why did my last match send me a map to an empty parking lot instead of a coffee shop?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "ghosts her after a three-hour dinner and leaves her with the entire $142 bill."
+      },
+      "name": "Ben, 24, Barista",
+      "badge": "0 Matches",
+      "verdict": "GHOSTED",
+      "story": "The 8 levels of dating app burnout. Level 1. Null Matches, aber 40 Euro im Monat für Fake-Profile – warum zahle ich eigentlich dafür, dass mir ein Drachenfrucht-Millionär ins Gesicht lacht? I have swiped right six hundred times this week on local dating apps in Brooklyn, but my screen stays stubbornly dark. My phone buzzes with a notification. It is just an ad for a premium subscription costing $39.99 a month. The tired potato waitress drops my lukewarm black coffee on the sticky laminate table without looking at me. A sleek dragon fruit man strolls past my booth in a designer trench coat, glancing at my glowing forehead with sheer pity. You are wasting thumb energy on ghosts, kid. Swipe left on your entire pathetic life. My heart drops into my soggy fries. Then my phone screen suddenly lights up with an incoming video call from an unknown number. Das siehst du in Level 2. You'll see that in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1 Match",
+        "after": "1 Match"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of dating app burnout. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Null Matches, aber 40 Euro im Monat für Fake-Profile – warum zahle ich eigentlich dafür, dass mir ein Drachenfrucht-Millionär ins Gesicht lacht?"
+        },
+        {
+          "s": "Figur",
+          "t": "I have swiped right six hundred times this week on local dating apps in Brooklyn, but my screen stays stubbornly dark."
+        },
+        {
+          "s": "Figur",
+          "t": "My phone buzzes with a notification. It is just an ad for a premium subscription costing $39.99 a month."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "The tired potato waitress drops my lukewarm black coffee on the sticky laminate table without looking at me.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "A sleek dragon fruit man strolls past my booth in a designer trench coat, glancing at my glowing forehead with sheer pity.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are wasting thumb energy on ghosts, kid.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Swipe left on your entire pathetic life.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My heart drops into my soggy fries. Then my phone screen suddenly lights up with an incoming video call from an unknown number."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "Swipe left on your entire pathetic life.",
+      "quote_by": {
+        "level": 6,
+        "name": "Julian",
+        "badge": "4,200 Swipes",
+        "character": "An arrogant Dragon Fruit man with neon pink scales, wearing a tailored cashmere coat, scrolling endlessly on a golden phone.",
+        "scene": "A rainy neon-lit diner in Brooklyn, looking down with extreme disgust at a sad potato man eating fries."
+      },
+      "stats": [
+        {
+          "label": "Matches",
+          "value": "0",
+          "bar": 0.0
+        },
+        {
+          "label": "Apps",
+          "value": "4 Active",
+          "bar": 0.4
+        },
+        {
+          "label": "Battery",
+          "value": "4%",
+          "bar": 0.05
+        }
+      ],
+      "character": "Ben is a tired Potato man with dusty brown skin, wearing a faded gray hoodie with coffee stains, holding a cracked smartphone.",
+      "visual": "Wide shot of a gritty Brooklyn diner at night, neon rain hitting the dirty window, a sad potato man staring at a dark phone screen.",
+      "scenes": [
+        "Wide shot: A neon-lit Brooklyn diner at midnight, rain streaking the greasy windows, showing a lone potato man at a corner booth.",
+        "Medium shot: The tired potato man staring at a cracked smartphone screen displaying a $39.99 dating app subscription ad.",
+        "Close-up: A glowing digital forehead display showing the number zero under flickering fluorescent diner lights.",
+        "Medium shot: A sleek dragon fruit man in a designer trench coat walking past the booth, holding a glowing golden phone.",
+        "Close-up: A sticky laminate table with a chipped white mug of black coffee and a small golden coin hidden near the sugar shaker.",
+        "Wide shot: The exterior of the diner with yellow streetlights reflecting in puddles as a lone subway train rumbles overhead."
+      ],
+      "caption": "Ever spent three hours swiping for absolute disappointment? #DatingApps #Burnout #TrashTV #Relatable #SingleLife"
+    },
+    {
+      "n": 2,
+      "open_loop": "Who was actually behind the fake profile that texted me all weekend?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "cancels a rooftop date via text three minutes before arrival."
+      },
+      "name": "Maya, 26, Graphic Designer",
+      "badge": "12 Matches",
+      "verdict": "SITUATIONSHIP",
+      "story": "The 8 levels of dating app burnout. Level 2. Drei Wochen Situationship und dann eine Absage per Text drei Minuten vor dem Date – während die Möwe neben mir hämisch lacht. I am sitting in a cramped Astoria apartment paying $1,850 a month, staring at three dots on my screen that have been pulsing for forty minutes. My match, a smooth orange guy named Leo, promised we would get $8 artisanal matcha lattes together at noon. Instead, my phone lights up with a cold cancellation text. Something came up at the office, rain check? A smug carrot woman leans against my doorway, sipping organic juice and scoffing at my phone. Du wirst niemals mehr als eine Notlösung für den Dienstagabend sein. Nobody buys groceries when they are just window shopping. My studio apartment feels instantly smaller. Then my intercom buzzes loudly downstairs. Das siehst du in Level 3. You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "-3 Matches",
+        "after": "9 Matches"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of dating app burnout. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Drei Wochen Situationship und dann eine Absage per Text drei Minuten vor dem Date – während die Möwe neben mir hämisch lacht."
+        },
+        {
+          "s": "Figur",
+          "t": "I am sitting in a cramped Astoria apartment paying $1,850 a month, staring at three dots on my screen that have been pulsing for forty minutes."
+        },
+        {
+          "s": "Figur",
+          "t": "My match, a smooth orange guy named Leo, promised we would get $8 artisanal matcha lattes together at noon."
+        },
+        {
+          "s": "Figur",
+          "t": "Instead, my phone lights up with a cold cancellation text. Something came up at the office, rain check?"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "A smug carrot woman leans against my doorway, sipping organic juice and scoffing at my phone.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du wirst niemals mehr als eine Notlösung für den Dienstagabend sein.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Nobody buys groceries when they are just window shopping.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My studio apartment feels instantly smaller. Then my intercom buzzes loudly downstairs."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Nobody buys groceries when they are just window shopping.",
+      "quote_by": {
+        "level": 5,
+        "name": "Chloe",
+        "badge": "50 Chats",
+        "character": "An bright orange Carrot woman with leafy green hair, wearing a sleek silk blouse, constantly checking notifications.",
+        "scene": "A narrow apartment hallway in Astoria, leaning against a doorframe with a smug grin, holding a green juice bottle."
+      },
+      "stats": [
+        {
+          "label": "Matches",
+          "value": "12",
+          "bar": 0.15
+        },
+        {
+          "label": "Rent",
+          "value": "$1,850",
+          "bar": 0.5
+        },
+        {
+          "label": "Energy",
+          "value": "14%",
+          "bar": 0.1
+        }
+      ],
+      "character": "Maya is a vibrant Avocado woman with smooth pale green skin, wearing an oversized beige cardigan and silver hoop earrings.",
+      "visual": "Medium shot of an avocado woman sitting on a messy bed in a small Astoria apartment, staring blankly at a glowing phone screen.",
+      "scenes": [
+        "Medium shot: A cramped Astoria apartment bedroom with clothes piled on a chair, soft morning light filtering through cheap blinds.",
+        "Close-up: An avocado woman biting her lip while looking at a texting screen showing three pulsing typing dots.",
+        "Wide shot: The apartment doorway where a smug carrot woman in a silk blouse stands arms crossed, holding an organic green juice.",
+        "Close-up: A glowing forehead display showing the number 12 above the avocado woman's worried eyes.",
+        "Detail shot: A small golden coin resting on a stack of graphic design textbooks beside a half-empty mug.",
+        "Wide shot: The apartment building lobby view through a frosted glass door showing yellow cabs passing in the rainy street."
+      ],
+      "caption": "The classic situationship cancellation text hurts every single time. #Situationship #Astoria #DatingDrama #Relatable"
+    },
+    {
+      "n": 3,
+      "open_loop": "Who left a five-star review on my dating profile with a fake name?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "mocks his cheap first date spot at a local taco truck."
+      },
+      "name": "Leo, 29, Financial Analyst",
+      "badge": "45 Matches",
+      "verdict": "CHRONIC SWIPER",
+      "story": "The 8 levels of dating app burnout. Level 3. Fünfundvierzig Matches, aber ich sitze allein im Penthouse und ghoste drei Frauen, bis mein eigener Spiegel mich anspuckt. I make $95,000 a year working eighty hours in Manhattan, yet my thumb keeps mindlessly swiping through endless profiles like I am shopping on Amazon. My smart TV plays background noise while my phone buzzes incessantly with unread messages. A sharp broccoli man in a crisp tailored suit walks into my open-concept kitchen, tossing my apartment keys onto the marble island. You are treating human beings like disposable fast food, man. A full cart means nothing if you refuse to check out. The silence in my expensive apartment feels deafening, and as I look at my glowing screen, I suddenly slap myself in the face in pure frustration, realizing I am completely addicted. Then my front door security camera chimes with an unexpected visitor. Das siehst du in Level 4. You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+8 Matches",
+        "after": "53 Matche"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of dating app burnout. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Fünfundvierzig Matches, aber ich sitze allein im Penthouse und ghoste drei Frauen, bis mein eigener Spiegel mich anspuckt."
+        },
+        {
+          "s": "Figur",
+          "t": "I make $95,000 a year working eighty hours in Manhattan, yet my thumb keeps mindlessly swiping through endless profiles like I am shopping on Amazon."
+        },
+        {
+          "s": "Figur",
+          "t": "My smart TV plays background noise while my phone buzzes incessantly with unread messages."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "A sharp broccoli man in a crisp tailored suit walks into my open-concept kitchen, tossing my apartment keys onto the marble island.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are treating human beings like disposable fast food, man.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "A full cart means nothing if you refuse to check out.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "The silence in my expensive apartment feels deafening, and as I look at my glowing screen, I suddenly slap myself in the face in pure frustration, realizing I am completely addicted."
+        },
+        {
+          "s": "Figur",
+          "t": "Then my front door security camera chimes with an unexpected visitor."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "A full cart means nothing if you refuse to check out.",
+      "quote_by": {
+        "level": 7,
+        "name": "Marcus",
+        "badge": "180 Matches",
+        "character": "A tall, stern Broccoli man with a dark green florets head, wearing a bespoke charcoal suit and expensive leather shoes.",
+        "scene": "A luxury Manhattan apartment kitchen, leaning against a marble island with a critical, condescending posture."
+      },
+      "stats": [
+        {
+          "label": "Matches",
+          "value": "45",
+          "bar": 0.35
+        },
+        {
+          "label": "Income",
+          "value": "$95k/yr",
+          "bar": 0.6
+        },
+        {
+          "label": "Swipe Rate",
+          "value": "High",
+          "bar": 0.8
+        }
+      ],
+      "character": "Leo is an Orange man with a vibrant citrus peel texture, wearing a navy blue button-down shirt with rolled-up sleeves and a silver watch.",
+      "visual": "Wide shot of a luxury Manhattan apartment living room at night, floor-to-ceiling windows showing city lights, an orange man swiping on his phone.",
+      "scenes": [
+        "Wide shot: A high-rise Manhattan apartment overlooking glowing city traffic at night through floor-to-ceiling glass windows.",
+        "Medium shot: An orange man sitting on a leather couch, swiping rapidly through dating profiles on a sleek smartphone.",
+        "Close-up: A glowing digital forehead display showing the number 45 in bright white light.",
+        "Medium shot: A stern broccoli man in a bespoke suit standing by a marble kitchen island, holding a set of keys.",
+        "Detail shot: A gleaming golden coin resting on the edge of a stainless steel kitchen sink next to a wine glass.",
+        "Wide shot: The apartment hallway where a smart doorbell camera flashes a blue recording light."
+      ],
+      "caption": "When you have dozens of matches but still feel completely empty inside. #DatingBurnout #Manhattan #SwipeFatigue #ModernDating"
+    },
+    {
+      "n": 4,
+      "open_loop": "Why did my date bring his ex-girlfriend to our romantic dinner at a sushi bar?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "leaves her on read for five days after asking her out."
+      },
+      "name": "Sam, 25, Musician",
+      "badge": "89 Matches",
+      "verdict": "ALWAYS THE SIDEKICK",
+      "story": "The 8 levels of dating app burnout. Level 4. Neunundachtzig Matches und niemand hört meine Musik, weil alle nur den Gratis-Eintritt abgreifen wollen. I make $42,000 a year teaching guitar lessons and gigging on weekends. A lovely lemon woman named Clara sits on the barstool beside me, nursing a ginger ale and listening to my set. My phone notifications keep pinging with matches from people who only want free concert tickets. A bitter strawberry girl with bright red seeds and dark sunglasses leans over the sticky wooden bar top. Niemand hört zu, sie wollen nur den Gratis-Eintritt. Nobody buys the instrument when they just came for the concert. My guitar strings suddenly feel loose and out of tune. Then my phone rings with an urgent call from my landlord. Das siehst du in Level 5. You'll see that in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "-12 Matche",
+        "after": "77 Matche"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of dating app burnout. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Neunundachtzig Matches und niemand hört meine Musik, weil alle nur den Gratis-Eintritt abgreifen wollen."
+        },
+        {
+          "s": "Figur",
+          "t": "I make $42,000 a year teaching guitar lessons and gigging on weekends."
+        },
+        {
+          "s": "Figur",
+          "t": "A lovely lemon woman named Clara sits on the barstool beside me, nursing a ginger ale and listening to my set."
+        },
+        {
+          "s": "Figur",
+          "t": "My phone notifications keep pinging with matches from people who only want free concert tickets."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "A bitter strawberry girl with bright red seeds and dark sunglasses leans over the sticky wooden bar top.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Niemand hört zu, sie wollen nur den Gratis-Eintritt.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Nobody buys the instrument when they just came for the concert.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My guitar strings suddenly feel loose and out of tune. Then my phone rings with an urgent call from my landlord."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Nobody buys the instrument when they just came for the concert.",
+      "quote_by": {
+        "level": 2,
+        "name": "Maya",
+        "badge": "12 Matches",
+        "character": "An Avocado woman with smooth pale green skin, wearing an oversized beige cardigan and silver hoop earrings.",
+        "scene": "A crowded East Village pub bar counter, leaning over with a tired, knowing expression while holding a ginger ale."
+      },
+      "stats": [
+        {
+          "label": "Matches",
+          "value": "89",
+          "bar": 0.5
+        },
+        {
+          "label": "Income",
+          "value": "$42k/yr",
+          "bar": 0.3
+        },
+        {
+          "label": "Gigs",
+          "value": "3/wk",
+          "bar": 0.6
+        }
+      ],
+      "character": "Sam is a Coconut man with a hairy brown textured shell, wearing a vintage denim jacket and a black beanie over his head.",
+      "visual": "Medium shot of a coconut man holding an acoustic guitar in a dimly lit East Village pub filled with patrons and warm string lights.",
+      "scenes": [
+        "Wide shot: A dimly lit East Village pub filled with wooden tables, brick walls, and patrons talking over acoustic music.",
+        "Medium shot: A coconut man strumming an acoustic guitar while sitting on a high wooden stool near the stage.",
+        "Close-up: A glowing digital forehead display showing the number 89 in bright amber digits.",
+        "Medium shot: A strawberry woman with bright red seeds and sunglasses leaning across the wooden bar counter with a smirk.",
+        "Detail shot: A small golden coin wedged between the volume knobs of a vintage guitar amplifier.",
+        "Wide shot: The pub entrance showing neon beer signs flickering in the foggy New York street outside."
+      ],
+      "caption": "Being the musician on a date where nobody is actually listening to you play. #EastVillage #MusicianLife #DatingStruggle #IndieMusic"
+    },
+    {
+      "n": 5,
+      "open_loop": "Who sent me a bouquet of dead flowers with my exact home address on the card?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "complains about paying for a cheap coffee date."
+      },
+      "name": "Chloe, 27, Marketing Manager",
+      "badge": "150 Matches",
+      "verdict": "SWIPE ADDICT",
+      "story": "The 8 levels of dating app burnout. Level 5. Hundertfünfzig Matches fühlen sich an wie ein verfluchter Vollzeitjob, bei dem jede Verabredung eine Hinrichtung ist. I make $78,000 a year managing digital campaigns, treating dating apps like my full-time second job. I am sitting in a trendy Chelsea wine bar sipping a $16 Pinot Noir while reviewing profiles on my lap. A nervous potato guy in a faded hoodie walks past my table, staring at my glowing forehead with sheer intimidation. Drei Dates pro Wochenende fühlen sich an wie ein Vorstellungsgespräch bei der Hölle. Your heart is as empty as your digital inbox. My phone screen freezes completely on a match notification. Then the bar lights flicker and shut off entirely. Das siehst du in Level 6. You'll see that in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+25 Matche",
+        "after": "175 Match"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of dating app burnout. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Hundertfünfzig Matches fühlen sich an wie ein verfluchter Vollzeitjob, bei dem jede Verabredung eine Hinrichtung ist."
+        },
+        {
+          "s": "Figur",
+          "t": "I make $78,000 a year managing digital campaigns, treating dating apps like my full-time second job."
+        },
+        {
+          "s": "Figur",
+          "t": "I am sitting in a trendy Chelsea wine bar sipping a $16 Pinot Noir while reviewing profiles on my lap."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "A nervous potato guy in a faded hoodie walks past my table, staring at my glowing forehead with sheer intimidation.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Drei Dates pro Wochenende fühlen sich an wie ein Vorstellungsgespräch bei der Hölle.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your heart is as empty as your digital inbox.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My phone screen freezes completely on a match notification. Then the bar lights flicker and shut off entirely."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Your heart is as empty as your digital inbox.",
+      "quote_by": {
+        "level": 1,
+        "name": "Ben",
+        "badge": "0 Matches",
+        "character": "A tired Potato man with dusty brown skin, wearing a faded gray hoodie with coffee stains, holding a cracked smartphone.",
+        "scene": "A trendy Chelsea wine bar, walking past a table with a bitter, defeated expression while clutching a dead phone."
+      },
+      "stats": [
+        {
+          "label": "Matches",
+          "value": "150",
+          "bar": 0.7
+        },
+        {
+          "label": "Income",
+          "value": "$78k/yr",
+          "bar": 0.5
+        },
+        {
+          "label": "Dates/Wk",
+          "value": "3",
+          "bar": 0.75
+        }
+      ],
+      "character": "Chloe is a bright Carrot woman with vibrant orange skin and leafy green hair, wearing a chic white blazer and gold hoop earrings.",
+      "visual": "Medium shot of a carrot woman sitting at a marble table in a chic Chelsea wine bar, scrolling through a dating app on her phone.",
+      "scenes": [
+        "Wide shot: A chic Chelsea wine bar with exposed brick walls, velvet seating, and warm pendant lighting overhead.",
+        "Medium shot: A carrot woman holding a glass of red wine while swiping through dating profiles on her smartphone.",
+        "Close-up: A glowing digital forehead display showing the number 150 in bright neon orange light.",
+        "Medium shot: A nervous potato man in a gray hoodie walking past the table with a resentful look.",
+        "Detail shot: A small golden coin resting on the base of an empty wine glass next to a leather coaster.",
+        "Wide shot: The wine bar interior as overhead pendant lights suddenly flicker and plunge the room into darkness."
+      ],
+      "caption": "When dating apps feel more like a relentless corporate job than romance. #Chelsea #WineBar #DatingAppBurnout #SwipeLife"
+    },
+    {
+      "n": 6,
+      "open_loop": "Why did my credit card get declined for a $4 coffee right after my date walked out?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "laughs at his entry-level job salary during dinner conversation."
+      },
+      "name": "Julian, 31, Venture Capitalist",
+      "badge": "320 Matches",
+      "verdict": "ELITE TICKET",
+      "story": "The 8 levels of dating app burnout. Level 6. Dreihundertzwanzig Matches und eine halbe Million Gehalt – aber jede Verabredung fühlt sich an wie ein Verhör vor dem Bankrott. I make $240,000 a year funding tech start-ups, yet every single date feels like an investor pitch meeting. I am sitting in an exclusive rooftop lounge wearing a custom tuxedo, swirling scotch in a crystal glass. A handsome orange guy with slicked-back peel and an expensive watch steps out onto the balcony, checking his own forehead stats. Dein Kontostand ändert nichts daran, dass dich niemand liebt. A high net worth cannot buy you a genuine text back. My phone buzzes with a cancellation from my tenth weekend date. Then my private elevator chimes open to reveal an unexpected guest. Das siehst du in Level 7. You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "-50 Matche",
+        "after": "270 Match"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of dating app burnout. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Dreihundertzwanzig Matches und eine halbe Million Gehalt – aber jede Verabredung fühlt sich an wie ein Verhör vor dem Bankrott."
+        },
+        {
+          "s": "Figur",
+          "t": "I make $240,000 a year funding tech start-ups, yet every single date feels like an investor pitch meeting."
+        },
+        {
+          "s": "Figur",
+          "t": "I am sitting in an exclusive rooftop lounge wearing a custom tuxedo, swirling scotch in a crystal glass."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "A handsome orange guy with slicked-back peel and an expensive watch steps out onto the balcony, checking his own forehead stats.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein Kontostand ändert nichts daran, dass dich niemand liebt.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "A high net worth cannot buy you a genuine text back.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My phone buzzes with a cancellation from my tenth weekend date. Then my private elevator chimes open to reveal an unexpected guest."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "A high net worth cannot buy you a genuine text back.",
+      "quote_by": {
+        "level": 3,
+        "name": "Leo",
+        "badge": "45 Matches",
+        "character": "An Orange man with a vibrant citrus peel texture, wearing a navy blue button-down shirt with rolled-up sleeves and a silver watch.",
+        "scene": "A luxury Manhattan rooftop lounge, stepping onto the balcony with a confident, slightly cynical smirk while holding a cocktail."
+      },
+      "stats": [
+        {
+          "label": "Matches",
+          "value": "320",
+          "bar": 0.85
+        },
+        {
+          "label": "Income",
+          "value": "$240k",
+          "bar": 0.9
+        },
+        {
+          "label": "Rent",
+          "value": "$4.2k",
+          "bar": 0.95
+        }
+      ],
+      "character": "Julian is a Dragon Fruit man with bright pink and green scaled skin, wearing a sharp black tuxedo and a silk bow tie.",
+      "visual": "Wide shot of a luxury Manhattan rooftop lounge at night, glowing skyscrapers in the background, a dragon fruit man holding a crystal glass.",
+      "scenes": [
+        "Wide shot: A luxury Manhattan rooftop lounge overlooking glowing Central Park skyscrapers under a clear night sky.",
+        "Medium shot: A dragon fruit man in a sharp tuxedo leaning against a glass balcony railing, swirling scotch in a crystal tumbler.",
+        "Close-up: A glowing digital forehead display showing the number 320 in brilliant white light.",
+        "Medium shot: An orange man in a navy blue shirt stepping onto the balcony with a confident smirk.",
+        "Detail shot: A small golden coin resting on the corner of a polished marble outdoor bar counter.",
+        "Wide shot: A private elevator entrance with brushed steel doors sliding open to reveal a dimly lit hallway."
+      ],
+      "caption": "When success on paper doesn't translate to actual romance in the real world. #Penthouse #VentureCapital #ManhattanNights #DatingLife"
+    },
+    {
+      "n": 7,
+      "open_loop": "Who sent the legal cease-and-desist letter regarding my dating app profile?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "ignores her song request at a crowded East Village pub."
+      },
+      "name": "Marcus, 34, Corporate Lawyer",
+      "badge": "680 Matches",
+      "verdict": "APP ROYALTY",
+      "story": "The 8 levels of dating app burnout. Level 7. Fast siebenhundert Matches und ich bin im Herzen komplett tot, weil kein Algorithmus eine warme Hand ersetzt. I make $350,000 a year practicing corporate law in Midtown, yet I have not felt a single genuine emotion in three years. I am standing in a pristine Tribeca loft reviewing my active match queue on an iPad. A rough coconut guy with a knitted beanie walks into my foyer, holding a beat-up guitar case and staring up at my glowing forehead count. Ein Algorithmus ersetzt keine warme Hand. A platinum membership cannot buy you a real heartbeat. My tablet screen suddenly flashes with a system error warning. Then my intercom announces a visitor from an unknown level. Das siehst du in Level 8. You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "-110 Match",
+        "after": "570 Match"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of dating app burnout. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Fast siebenhundert Matches und ich bin im Herzen komplett tot, weil kein Algorithmus eine warme Hand ersetzt."
+        },
+        {
+          "s": "Figur",
+          "t": "I make $350,000 a year practicing corporate law in Midtown, yet I have not felt a single genuine emotion in three years."
+        },
+        {
+          "s": "Figur",
+          "t": "I am standing in a pristine Tribeca loft reviewing my active match queue on an iPad."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "A rough coconut guy with a knitted beanie walks into my foyer, holding a beat-up guitar case and staring up at my glowing forehead count.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Ein Algorithmus ersetzt keine warme Hand.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "A platinum membership cannot buy you a real heartbeat.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My tablet screen suddenly flashes with a system error warning. Then my intercom announces a visitor from an unknown level."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "A platinum membership cannot buy you a real heartbeat.",
+      "quote_by": {
+        "level": 4,
+        "name": "Sam",
+        "badge": "89 Matches",
+        "character": "A Coconut man with a hairy brown textured shell, wearing a vintage denim jacket and a black beanie over his head.",
+        "scene": "A pristine Tribeca loft foyer, standing with an acoustic guitar case and looking up with judgmental disappointment."
+      },
+      "stats": [
+        {
+          "label": "Matches",
+          "value": "680",
+          "bar": 0.95
+        },
+        {
+          "label": "Income",
+          "value": "$350k",
+          "bar": 0.98
+        },
+        {
+          "label": "Status",
+          "value": "VIP",
+          "bar": 1.0
+        }
+      ],
+      "character": "Marcus is a Broccoli man with dense dark green florets, wearing a bespoke charcoal suit, a crisp white shirt, and silk cufflinks.",
+      "visual": "Medium shot of a broccoli man standing in a modern Tribeca loft holding a tablet displaying a massive dating app match queue.",
+      "scenes": [
+        "Wide shot: A minimalist Tribeca loft with polished concrete floors, modern art pieces, and large factory windows.",
+        "Medium shot: A broccoli man in a bespoke charcoal suit looking intently at a sleek tablet screen filled with profile grids.",
+        "Close-up: A glowing digital forehead display showing the number 680 in sharp, illuminated white digits.",
+        "Medium shot: A coconut man in a denim jacket standing in the entryway holding a guitar case with a stern look.",
+        "Detail shot: A small golden coin resting on the polished concrete floor near a minimalist leather armchair.",
+        "Wide shot: The hallway of the loft building where a brass elevator indicator light blinks an alert signal."
+      ],
+      "caption": "When you reach the absolute top of the algorithm but still feel totally alone. #Tribeca #CorporateLawyer #DatingApps #TopTier"
+    },
+    {
+      "n": 8,
+      "open_loop": "",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "deletes all dating apps forever and steps outside into the real sunlight."
+      },
+      "name": "The Alchemist, ???, Unknown",
+      "badge": "∞ Matches",
+      "verdict": "REAL LIFE",
+      "story": "The 8 levels of dating app burnout. Level 8. Alle Apps gelöscht, Hände zitern beim Entzug – wieso fühlt sich echte Freiheit im Park plötzlich wie illegaler Entzug an? I am sitting on a wooden park bench in Washington Square Park watching real people actually talk to each other without looking at glowing screens. All the characters from every level walk past my bench together, smiling and laughing under the afternoon sun. A wise old pineapple vendor hands me a fresh glass of lemonade without asking for my stats or my salary. The digital numbers on everyone's foreheads suddenly flicker, fade out, and disappear completely into the warm air. We traded algorithms for reality, and nobody checked a screen once. The entire city feels alive for the first time in years. Which toxic modern trap should we expose next in our city?",
+      "gender": "m",
+      "twist": {
+        "delta": "RESET",
+        "after": "0 Apps"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of dating app burnout. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Alle Apps gelöscht, Hände zitern beim Entzug – wieso fühlt sich echte Freiheit im Park plötzlich wie illegaler Entzug an?"
+        },
+        {
+          "s": "Figur",
+          "t": "I am sitting on a wooden park bench in Washington Square Park watching real people actually talk to each other without looking at glowing screens."
+        },
+        {
+          "s": "Figur",
+          "t": "All the characters from every level walk past my bench together, smiling and laughing under the afternoon sun."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "A wise old pineapple vendor hands me a fresh glass of lemonade without asking for my stats or my salary.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "The digital numbers on everyone's foreheads suddenly flicker, fade out, and disappear completely into the warm air."
+        },
+        {
+          "s": "Figur",
+          "t": "We traded algorithms for reality, and nobody checked a screen once."
+        },
+        {
+          "s": "Figur",
+          "t": "The entire city feels alive for the first time in years."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Which toxic modern trap should we expose next in our city?"
+        }
+      ],
+      "quote": "We traded algorithms for reality, and nobody checked a screen once.",
+      "quote_by": {
+        "level": 8,
+        "name": "The Alchemist",
+        "badge": "∞ Matches",
+        "character": "A mysterious Pineapple man with a crown of spiky green leaves, wearing a linen artist shirt and smiling warmly.",
+        "scene": "Washington Square Park bench in the afternoon sunlight, handing out lemonade and watching forehead numbers vanish."
+      },
+      "stats": [
+        {
+          "label": "Matches",
+          "value": "Real",
+          "bar": 1.0
+        },
+        {
+          "label": "Apps",
+          "value": "0",
+          "bar": 0.0
+        },
+        {
+          "label": "Peace",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "The Alchemist is a wise Pineapple man with golden textured skin and spiky green leaves, wearing a relaxed linen shirt.",
+      "visual": "Wide shot of Washington Square Park on a sunny afternoon, diverse fruit and vegetable people chatting happily on park benches without phones.",
+      "scenes": [
+        "Wide shot: Washington Square Park on a bright sunny afternoon with lush green trees and the iconic marble arch in the background.",
+        "Medium shot: A pineapple man sitting on a wooden park bench, smiling peacefully while holding a cold glass of lemonade.",
+        "Close-up: A forehead display flickering as the glowing digital numbers permanently fade away into the sunlight.",
+        "Medium shot: Characters from previous levels walking together through the park, laughing and talking without holding phones.",
+        "Detail shot: A small golden coin resting on the wooden armrest of the park bench next to a fallen leaf.",
+        "Wide shot: The entire park skyline bathed in golden hour light as people embrace in the center square."
+      ],
+      "caption": "Deleting dating apps is the ultimate plot twist. Which modern trap should we expose next? #WashingtonSquarePark #RealLife #DatingFree #Freedom"
+    }
+  ],
+  "lang": "en",
+  "topic": "Dating App Swiping Fatigue and Situationship Drama",
+  "frame": "frucht"
+}

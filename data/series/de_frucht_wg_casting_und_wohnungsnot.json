@@ -1,0 +1,663 @@
+{
+  "title": "Die 8 Level von WG-Casting",
+  "house": "A bustling neon-lit metropolis made of oversized grocery architecture, where produce people commute through steaming subway grates past towering fruit-skyscrapers, rain slicked asphalt reflecting glowing digital numbers on every forehead.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Barista in Level 2 mentions a quiet man in a tailored suit who always tips generously",
+    "The kiosk at the bus stop appears in almost every episode with different prices on the board",
+    "A discarded eviction notice flutters through the background of level 4 and level 7"
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Warum lag dieser mysteriöse Brief im Briefkasten, obwohl der Vermieter mich sofort abgelehnt hatte?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Lacht sie aus und wirft ihre Bewerbungsmappe direkt in den Müllcontainer."
+      },
+      "name": "Mia, 21, Studentin",
+      "badge": "450 €",
+      "verdict": "CHANCE LOS",
+      "story": "Die 8 Level von WG-Casting. Level 1. Level 1: 450 Euro im Monat und die feste Zusage für das Zimmer. So war der Plan, bis die Tür aufging. Vierzig Euro für den Strom und die Miete sprengen dein Budget komplett, Kleine. Ich stehe im Flur, umklammere meinen Beutel und hoffe einfach auf etwas Glück. Für 450 Euro kriegst du hier nicht mal den Besenschrank. Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "-50 €",
+        "after": "400 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von WG-Casting. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 450 Euro im Monat und die feste Zusage für das Zimmer. So war der Plan, bis die Tür aufging."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Vierzig Euro für den Strom und die Miete sprengen dein Budget komplett, Kleine.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im Flur, umklammere meinen Beutel und hoffe einfach auf etwas Glück."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Für 450 Euro kriegst du hier nicht mal den Besenschrank.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Für 450 Euro kriegst du hier nicht mal den Besenschrank.",
+      "quote_by": {
+        "level": 8,
+        "name": "Viktor",
+        "badge": "15.000 €",
+        "character": "A smug coconut person with a polished mahogany shell, wearing a sharp cashmere turtleneck and silver cufflinks.",
+        "scene": "Wide shot of a luxury penthouse hallway, the coconut person stands crossing arms, looking down with a sneer at a small strawberry person holding a folder."
+      },
+      "stats": [
+        {
+          "label": "Einkommen",
+          "value": "450 €",
+          "bar": 0.05
+        },
+        {
+          "label": "Warmmiete",
+          "value": "400 €",
+          "bar": 0.95
+        },
+        {
+          "label": "Chance",
+          "value": "1 %",
+          "bar": 0.01
+        }
+      ],
+      "character": "A fragile strawberry person with freckled red skin, wearing a faded oversized cotton hoodie and holding a worn canvas tote bag, glowing digital number 450 € on forehead.",
+      "visual": "Medium shot in a cramped, dark apartment hallway with peeling floral wallpaper, flickering overhead bulb casting shadows, a tiny golden coin sits on a wooden shoe rack in the background.",
+      "scenes": [
+        "Wide shot of a rainy Berlin street corner at dusk, neon signs reflecting in puddles, a tiny golden coin near a storm drain.",
+        "Medium shot in a gloomy stairwell, peeling wallpaper, a strawberry person clutching a folder.",
+        "Close-up of a digital forehead display glowing with the number 450 Euro in red light.",
+        "Detail shot of a worn canvas shoe on a cracked linoleum floor, a golden coin resting on the edge.",
+        "Two-shot in a messy kitchen, an avocado person pointing toward the exit with an arrogant smirk.",
+        "Wide shot of a crowded tram interior at night, tired commuters staring blankly into their phones."
+      ],
+      "caption": "Wer kennt den Kampf um ein freies Zimmer in der WG? #wgcasting #wohnungskrise #lebenindeutschland #level1 #drama"
+    },
+    {
+      "n": 2,
+      "open_loop": "Wer hat die anonyme Spende von genau 850 Euro auf mein Girokonto überwiesen?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Zerreißt ihren Untermietvertrag vor versammelter Mannschaft im Flur."
+      },
+      "name": "Ben, 24, Azubi",
+      "badge": "920 €",
+      "verdict": "KNAPP DRAN",
+      "story": "Die 8 Level von WG-Casting. Level 2. Level 2: 920 Euro Ausbildungsvergütung und dreißig Bewerbungen ohne jede Rückmeldung. Mit diesem Einkommen bist du eine wandelnde Mietnomaden-Gefahr für uns alle. In der Küche riecht es nach billigem Kaffee, während die Banane meine Auskunft zerknüllt. Probier es lieber in einer anderen Stadt, junger Mann. Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+850 €",
+        "after": "1.770 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von WG-Casting. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 920 Euro Ausbildungsvergütung und dreißig Bewerbungen ohne jede Rückmeldung."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit diesem Einkommen bist du eine wandelnde Mietnomaden-Gefahr für uns alle.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "In der Küche riecht es nach billigem Kaffee, während die Banane meine Auskunft zerknüllt."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Probier es lieber in einer anderen Stadt, junger Mann.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Mit diesem Einkommen bist du eine wandelnde Mietnomaden-Gefahr für uns alle.",
+      "quote_by": {
+        "level": 6,
+        "name": "Samir",
+        "badge": "4.200 €",
+        "character": "A tall, slick banana person in a bright yellow tracksuit, chewing a toothpick with an arrogant smirk.",
+        "scene": "Medium shot in a sunlit loft kitchen, holding a crumpled paper document and pointing aggressively toward the door."
+      },
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "920 €",
+          "bar": 0.18
+        },
+        {
+          "label": "Miete",
+          "value": "650 €",
+          "bar": 0.65
+        },
+        {
+          "label": "Spende",
+          "value": "850 €",
+          "bar": 0.5
+        }
+      ],
+      "character": "A tired yellow lemon person with a bitter crease around the mouth, wearing a stained mechanic jumpsuit and carrying a heavy toolbox, glowing digital number 920 € on forehead.",
+      "visual": "Medium shot in a chaotic, sunlit shared kitchen with dirty dishes piled high in the sink, a golden coin resting on top of a toaster.",
+      "scenes": [
+        "Wide shot of a bustling industrial vocational school yard during break time, grey concrete and smoking students.",
+        "Close-up of a smartphone screen showing a bank app with a glowing positive transaction notification.",
+        "Medium shot in a narrow hallway, a lemon person holding a toolbox while facing a banana person.",
+        "Detail shot of a stainless steel toaster, a tiny golden coin balanced perfectly on the warming rack.",
+        "Two-shot in a crowded grocery store aisle, an elderly melon person shaking their head disapprovingly.",
+        "Wide shot of a neon-lit spätkauf at midnight with old beer crates stacked outside against the wall."
+      ],
+      "caption": "Wer wartet auch händeringend auf die Zusage? #azubi #wohnungssuche #wgleben #level2 #mietwahnsinn"
+    },
+    {
+      "n": 3,
+      "open_loop": "Was stand in dem geheimen Notizzettel, den mir der mysteriöse Fremde zugesteckt hat?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Sperrt ihr den Zugang zum gemeinsamen Badezimmer vor dem Vorstellungsgespräch."
+      },
+      "name": "Clara, 26, Grafikerin",
+      "badge": "1.850 €",
+      "verdict": "MITTELMASS",
+      "story": "Die 8 Level von WG-Casting. Level 3. Level 3: 1.850 Euro netto als Freelancerin und trotzdem am Monatsende pleite. Freelancer sind mir zu unsicher, wir brauchen feste Verträge hier im Haus. Die WG-Sprecherin mustert mein Portfolio, als wäre es wertloser Müll. Vielleicht klappt es ja beim nächsten Mal in der Vorstadt. Das siehst du in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "-300 €",
+        "after": "1.550 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von WG-Casting. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 1.850 Euro netto als Freelancerin und trotzdem am Monatsende pleite."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Freelancer sind mir zu unsicher, wir brauchen feste Verträge hier im Haus.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Die WG-Sprecherin mustert mein Portfolio, als wäre es wertloser Müll."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Vielleicht klappt es ja beim nächsten Mal in der Vorstadt.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Freelancer sind mir zu unsicher, wir brauchen feste Verträge hier im Haus.",
+      "quote_by": {
+        "level": 7,
+        "name": "Madame Kaktus",
+        "badge": "7.500 €",
+        "character": "A prickly pear person with tiny green spines, wearing an elegant emerald velvet blazer and dark sunglasses indoors.",
+        "scene": "Close-up in a brightly lit designer kitchen, crossing arms and looking down with intense disdain at a portfolio book."
+      },
+      "stats": [
+        {
+          "label": "Honor",
+          "value": "1.850 €",
+          "bar": 0.35
+        },
+        {
+          "label": "Fixkosten",
+          "value": "1.400 €",
+          "bar": 0.7
+        },
+        {
+          "label": "Zettel",
+          "value": "1 Stk",
+          "bar": 0.2
+        }
+      ],
+      "character": "A creative avocado person with a smooth light green skin texture, wearing a paint-splattered denim artist jacket and round glasses, glowing digital number 1.850 € on forehead.",
+      "visual": "Medium shot in a modern, sunlit Berlin loft with concrete floors and large industrial windows, a golden coin reflecting light on a glass coffee table.",
+      "scenes": [
+        "Wide shot of a windy subway station platform during morning rush hour, commuters packed shoulder to shoulder.",
+        "Close-up of a hand sketching architectural drafts on a digital tablet with a glowing stylus.",
+        "Medium shot in a minimalist kitchen, an avocado person holding a leather portfolio against a prickly peer.",
+        "Detail shot of a ceramic teacup on a saucer, a golden coin resting right beside the handle.",
+        "Two-shot in a design agency hallway, two colleagues whispering while glancing at a rejection letter.",
+        "Wide shot of a rooftop terrace overlooking the city skyline at dusk with string lights glowing softly."
+      ],
+      "caption": "Freelancer im WG-Dschungel, wer kennt diesen Schmerz? #freelancer #wgsuche #berlin #level3 #mietendeckel"
+    },
+    {
+      "n": 4,
+      "open_loop": "Welches dunkle Geheimnis verbirgt der Vermieter im Keller unter dem Altbau?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Klaut ihre Pfandflaschen vor der Haustür und lacht sie aus."
+      },
+      "name": "David, 29, Lehrer",
+      "badge": "2.800 €",
+      "verdict": "SOLIDE",
+      "story": "Die 8 Level von WG-Casting. Level 4. Level 4: 2.800 Euro als angestellter Lehrer und man wird wegen angeblicher Lärmbelästigung abgemahnt. Beamter hin oder her, hier zieht kein Lehrer in unser Haus ein. Der Hausmeister schaut auf meine Stirn und winkt sofort ab. Die Nachbarn haben sich schon dreimal über deine Schritte beschwert. Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+250 €",
+        "after": "3.050 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von WG-Casting. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 2.800 Euro als angestellter Lehrer und man wird wegen angeblicher Lärmbelästigung abgemahnt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Beamter hin oder her, hier zieht kein Lehrer in unser Haus ein.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Der Hausmeister schaut auf meine Stirn und winkt sofort ab."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Die Nachbarn haben sich schon dreimal über deine Schritte beschwert.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Beamter hin oder her, hier zieht kein Lehrer in unser Haus ein.",
+      "quote_by": {
+        "level": 1,
+        "name": "Mia",
+        "badge": "450 €",
+        "character": "A fragile strawberry person with freckled red skin in a faded oversized hoodie.",
+        "scene": "Wide shot of a wet sidewalk outside a tenement building, pointing mockingly at an approaching teacher carrying boxes."
+      },
+      "stats": [
+        {
+          "label": "Besoldung",
+          "value": "2.800 €",
+          "bar": 0.5
+        },
+        {
+          "label": "Miete",
+          "value": "950 €",
+          "bar": 0.45
+        },
+        {
+          "label": "Keller",
+          "value": "Gesperrt",
+          "bar": 0.8
+        }
+      ],
+      "character": "A crisp broccoli person with curly green florets, wearing a neat tweed jacket and woolen scarf, glowing digital number 2.800 € on forehead.",
+      "visual": "Medium shot in a dark, damp apartment building basement with exposed pipes and flickering neon lights, a golden coin sitting on a wooden crate.",
+      "scenes": [
+        "Wide shot of a historic school courtyard during recess, red brick walls and children playing in the rain.",
+        "Close-up of a metal classroom key turning inside an old wooden door lock with a heavy click.",
+        "Medium shot in a dimly lit hallway, a broccoli person arguing with a janitor holding a clipboard.",
+        "Detail shot of an old brass padlock hanging on a cellar door, a golden coin resting on the stone floor.",
+        "Two-shot in a faculty lounge, older teachers whispering over coffee mugs and grading papers.",
+        "Wide shot of an empty tram passing through a foggy suburban intersection under amber streetlights."
+      ],
+      "caption": "Lehrer auf Wohnungssuche – ein Albtraum? #lehrerleben #wohnungssuche #altbau #level4 #mietrecht"
+    },
+    {
+      "n": 5,
+      "open_loop": "Warum stand plötzlich die Polizei vor der Haustür der Luxus-WG?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Beschuldigt ihn fälschlicherweise des Diebstahls im Gemeinschaftsraum."
+      },
+      "name": "Elena, 31, Ärztin",
+      "badge": "4.500 €",
+      "verdict": "OBERKLASSE",
+      "story": "Die 8 Level von WG-Casting. Level 5. Level 5: 4.500 Euro netto als Assistenzärztin und trotzdem werde ich wie eine Bettlerin behandelt. Für diesen Preis erwarten wir eine ganz andere Attitüde von dir, Schätzchen. Die Mitbewohnerin mustert meine schlichte Handtasche mit hochgezogenen Augenbrauen. Wir haben hier eben unsere Standards im Haus. Das siehst du in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "-500 €",
+        "after": "4.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von WG-Casting. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 4.500 Euro netto als Assistenzärztin und trotzdem werde ich wie eine Bettlerin behandelt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Für diesen Preis erwarten wir eine ganz andere Attitüde von dir, Schätzchen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Mitbewohnerin mustert meine schlichte Handtasche mit hochgezogenen Augenbrauen."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Wir haben hier eben unsere Standards im Haus.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Für diesen Preis erwarten wir eine ganz andere Attitüde von dir, Schätzchen.",
+      "quote_by": {
+        "level": 2,
+        "name": "Ben",
+        "badge": "920 €",
+        "character": "A tired yellow lemon person with a bitter crease, wearing a stained mechanic jumpsuit.",
+        "scene": "Medium shot in a bright hallway, leaning against a door frame and mocking a doctor holding a medical bag."
+      },
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "4.500 €",
+          "bar": 0.7
+        },
+        {
+          "label": "Miete",
+          "value": "1.400 €",
+          "bar": 0.7
+        },
+        {
+          "label": "Polizei",
+          "value": "Sirenen",
+          "bar": 0.9
+        }
+      ],
+      "character": "A sleek eggplant person with glossy deep purple skin, wearing a crisp white lab coat over a silk blouse, glowing digital number 4.500 € on forehead.",
+      "visual": "Medium shot in a pristine hospital breakroom with stainless steel appliances and bright fluorescent lighting, a golden coin resting on a sterile white table.",
+      "scenes": [
+        "Wide shot of a modern hospital entrance at night with flashing ambulance lights reflecting on glass facades.",
+        "Close-up of a stethoscope lying on a desk next to a glowing digital appointment schedule.",
+        "Medium shot in a luxury penthouse kitchen, an eggplant person confronting a lemon person over a lease.",
+        "Detail shot of a marble countertop corner, a tiny golden coin reflecting the overhead spotlight.",
+        "Two-shot in an emergency room corridor, nurses whispering while checking clipboard charts.",
+        "Wide shot of a rainy expressway bridge with endless streams of red taillights stretching into the fog."
+      ],
+      "caption": "Ärzte finden auch keine Wohnung? Verrückt. #ärztin #wohnungssuche #luxuswg #level5 #medizin"
+    },
+    {
+      "n": 6,
+      "open_loop": "Wer hat die Akten über alle Vormieter spurlos aus dem Briefkasten entwendet?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Verbreitet falsche Gerüchte über seine Zahlungsfähigkeit im Haus."
+      },
+      "name": "Samir, 34, Architekt",
+      "badge": "6.200 €",
+      "verdict": "REICH",
+      "story": "Die 8 Level von WG-Casting. Level 6. Level 6: 6.200 Euro als Architekt und man wird trotzdem von den Mitbewerbern aus dem Loft gemobbt. Dein Entwurf ist völlig veraltet, für dich ist hier absolut kein Platz im Loft. Der Mitbewohner stellt sich mir in den Weg und grinst hämisch ins Gesicht. Such dir lieber ein Studio am Stadtrand, Alter. Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+800 €",
+        "after": "7.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von WG-Casting. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 6.200 Euro als Architekt und man wird trotzdem von den Mitbewerbern aus dem Loft gemobbt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein Entwurf ist völlig veraltet, für dich ist hier absolut kein Platz im Loft.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Der Mitbewohner stellt sich mir in den Weg und grinst hämisch ins Gesicht."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Such dir lieber ein Studio am Stadtrand, Alter.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Dein Entwurf ist völlig veraltet, für dich ist hier absolut kein Platz im Loft.",
+      "quote_by": {
+        "level": 3,
+        "name": "Clara",
+        "badge": "1.850 €",
+        "character": "A creative avocado person with smooth green skin in a paint-splattered denim artist jacket.",
+        "scene": "Medium shot in a sunlit architectural studio, crossing arms and pointing disdainfully at a blueprint roll."
+      },
+      "stats": [
+        {
+          "label": "Honorar",
+          "value": "6.200 €",
+          "bar": 0.85
+        },
+        {
+          "label": "Warmmiete",
+          "value": "2.100 €",
+          "bar": 0.8
+        },
+        {
+          "label": "Akten",
+          "value": "Geklaut",
+          "bar": 0.95
+        }
+      ],
+      "character": "A tall banana person with bright yellow curved skin, wearing a sharp black turtleneck and designer glasses, glowing digital number 6.200 € on forehead.",
+      "visual": "Medium shot in a high-end architectural office with glass walls, blueprints scattered on a large drafting table, a golden coin resting near a scale model.",
+      "scenes": [
+        "Wide shot of a sleek downtown skyscraper lobby with polished marble floors and security gates.",
+        "Close-up of a silver scale model building under a focused desk lamp beam.",
+        "Medium shot in a designer loft kitchen, a banana person arguing with an avocado person over a floor plan.",
+        "Detail shot of a metal paperweight on blueprints, a golden coin reflecting the window light.",
+        "Two-shot in an elevator cabin, two professionals avoiding eye contact while moving between floors.",
+        "Wide shot of a rooftop terrace garden with glowing string lights and distant city skyline fog."
+      ],
+      "caption": "Wer baut hier eigentlich noch bezahlbar? #architekt #luxusloft #wohnungssuche #level6 #immobilien"
+    },
+    {
+      "n": 7,
+      "open_loop": "Was befand sich in dem mysteriösen Safe hinter der Tapete im Wohnzimmer?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Meldet seine Tiefgaragen-Einfahrt absichtlich beim Ordnungsamt."
+      },
+      "name": "Katrin, 38, Unternehmensberaterin",
+      "badge": "9.500 €",
+      "verdict": "TOPVERDIENER",
+      "story": "Die 8 Level von WG-Casting. Level 7. Level 7: 9.500 Euro im Monat als Beraterin und trotzdem lehnt mich der Vermieter ab. Wir wollen keine kalten Karrieretypen hier in unserer Hausgemeinschaft haben. Die Zitrone mustert mich eiskalt und schüttelt demonstrativ den Kopf. Hier zieht niemand ein, der nur an die Arbeit denkt. Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "-1.200 €",
+        "after": "8.300 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von WG-Casting. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 9.500 Euro im Monat als Beraterin und trotzdem lehnt mich der Vermieter ab."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wir wollen keine kalten Karrieretypen hier in unserer Hausgemeinschaft haben.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zitrone mustert mich eiskalt und schüttelt demonstrativ den Kopf."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Hier zieht niemand ein, der nur an die Arbeit denkt.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Wir wollen keine kalten Karrieretypen hier in unserer Hausgemeinschaft haben.",
+      "quote_by": {
+        "level": 4,
+        "name": "David",
+        "badge": "2.800 €",
+        "character": "A crisp broccoli person with curly green florets in a neat tweed jacket.",
+        "scene": "Medium shot in a hallway, crossing arms with a stubborn expression while holding a stack of books."
+      },
+      "stats": [
+        {
+          "label": "Monat",
+          "value": "9.500 €",
+          "bar": 0.95
+        },
+        {
+          "label": "Miete",
+          "value": "3.200 €",
+          "bar": 0.9
+        },
+        {
+          "label": "Safe",
+          "value": "Versteckt",
+          "bar": 1.0
+        }
+      ],
+      "character": "A sleek dragon fruit person with vibrant pink skin and green leaf tips, wearing a tailored charcoal business suit and pearl earrings, glowing digital number 9.500 € on forehead.",
+      "visual": "Medium shot in a luxurious penthouse living room with floor-to-ceiling windows and designer furniture, a golden coin resting on a marble fireplace mantel.",
+      "scenes": [
+        "Wide shot of a corporate financial district plaza at dawn, towering glass skyscrapers piercing the clouds.",
+        "Close-up of a gold fountain pen signing a high-value lease contract on heavy parchment paper.",
+        "Medium shot in a sunlit entrance hall, a dragon fruit person confronting a broccoli person over housing rules.",
+        "Detail shot of a carved wooden mantelpiece, a tiny golden coin catching the warm fireplace glow.",
+        "Two-shot in a glass-walled conference room, executives discussing housing budgets over espresso.",
+        "Wide shot of a sleek bullet train gliding past glowing suburban noise barriers in the rain."
+      ],
+      "caption": "Auch Topverdiener haben Ärger mit Vermietern! #consultant #immobilien #wohnungsmakler #level7 #karriere"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welche überraschende Wahrheit verbindet all diese Figuren und die Stadt für immer?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Nimmt den Generalschlüssel an sich und schließt alle anderen aus."
+      },
+      "name": "Viktor, 45, Investor",
+      "badge": "15.000 €",
+      "verdict": "BOSS",
+      "story": "Die 8 Level von WG-Casting. Level 8. Level 8: 15.000 Euro passives Einkommen am Tag und das gesamte Gebäude gehört mir. Wem die Zahlen auf der Stirn gehören, dem gehört am Ende auch die ganze Stadt. Ich stehe auf dem Dach und blicke auf die Menschen, die unten um ein Zimmer kämpfen. Dieses Spiel wird niemals enden, solange die Ziffern leuchten. Welches Thema aus dieser Welt sollen wir als Nächstes in 8 Leveln zeigen?",
+      "gender": "m",
+      "twist": {
+        "delta": "+3.000 €",
+        "after": "18.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von WG-Casting. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 15.000 Euro passives Einkommen am Tag und das gesamte Gebäude gehört mir."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wem die Zahlen auf der Stirn gehören, dem gehört am Ende auch die ganze Stadt.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe auf dem Dach und blicke auf die Menschen, die unten um ein Zimmer kämpfen."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Dieses Spiel wird niemals enden, solange die Ziffern leuchten.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema aus dieser Welt sollen wir als Nächstes in 8 Leveln zeigen?"
+        }
+      ],
+      "quote": "Wem die Zahlen auf der Stirn gehören, dem gehört am Ende auch die ganze Stadt.",
+      "quote_by": {
+        "level": 5,
+        "name": "Elena",
+        "badge": "4.500 €",
+        "character": "A sleek eggplant person with glossy deep purple skin in a crisp white lab coat.",
+        "scene": "Wide shot on a windy rooftop terrace, pointing angrily toward a coconut person standing by the ledge."
+      },
+      "stats": [
+        {
+          "label": "Einkommen",
+          "value": "15.000€",
+          "bar": 1.0
+        },
+        {
+          "label": "Immobilien",
+          "value": "12 Stk",
+          "bar": 1.0
+        },
+        {
+          "label": "Macht",
+          "value": "100 %",
+          "bar": 1.0
+        }
+      ],
+      "character": "A smug coconut person with a polished mahogany shell, wearing a sharp cashmere turtleneck and silver cufflinks, glowing digital number 15.000 € on forehead.",
+      "visual": "Wide shot on a spectacular penthouse rooftop garden overlooking the entire glowing metropolis at night, a golden coin resting on the edge of a glass parapet.",
+      "scenes": [
+        "Wide shot of the glittering metropolis skyline at midnight, thousands of tiny forehead numbers glowing like stars.",
+        "Close-up of a digital real estate dashboard showing multiple properties acquired across the city districts.",
+        "Medium shot on a windy rooftop terrace, a coconut person looking down at the street with an absolute smirk.",
+        "Detail shot of a polished glass railing corner, a golden coin reflecting the flashing neon lights below.",
+        "Two-shot on the penthouse balcony, an eggplant person confronting the property owner face to face.",
+        "Wide shot of the bustling central station far below, tiny produce figures rushing between trains in the rain."
+      ],
+      "caption": "Wer besitzt am Ende wirklich die Stadt? Schreibt euer Wunsch-Thema in die Kommentare! #immobilienhai #metropole #level8 #staffelfinale #endgegner"
+    }
+  ],
+  "lang": "de",
+  "topic": "WG-Casting und Wohnungsnot",
+  "frame": "frucht"
+}

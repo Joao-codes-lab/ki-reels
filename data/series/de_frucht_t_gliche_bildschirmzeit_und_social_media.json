@@ -1,0 +1,656 @@
+{
+  "title": "Die 8 Level von Bildschirmzeit",
+  "house": "A bustling neon-lit metropolis where fruit and vegetable people commute on crowded subway lines, drink coffee at foggy sidewalk kiosks, and constantly check their glowing forehead numbers under gray drizzly skies.",
+  "catchphrase": "Die digitale Zeit lügt nie.",
+  "links": [
+    "In Level 1, a broken charging cable is mentioned, which is found in Level 4's trash can.",
+    "The barista from Level 2 appears as a background extra in Level 6 reading a printed book.",
+    "Level 3's lost smartphone case ends up on the floor in Level 5's office.",
+    "The glowing alarm clock from Level 7 is heard ringing in the apartment next door in Level 8."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Warum rief mein Chef exakt um Mitternacht an?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Wirft mir vor, mein Leben auf TikTok zu verschwenden."
+      },
+      "name": "Finn, 22, Azubi",
+      "badge": "14 Std. / Tag",
+      "verdict": "TOTAL ABHÄNGIG",
+      "story": "Die 8 Level von Bildschirmzeit. Level 1. Level 1: 14 Stunden am Tag am Handy, während um mich herum alle in der U-Bahn hohl drehen. Du hängst nur auf TikTok, du kleiner Brokkoli! Genau das wirft mir der Anzugträger aus Level 3 an den Kopf, bevor mein Display blutrot blinkt und sich sperrt. Warum rief mein Chef exakt um Mitternacht an? Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+2 Std.",
+        "after": "16 Std."
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Bildschirmzeit. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 14 Stunden am Tag am Handy, während um mich herum alle in der U-Bahn hohl drehen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hängst nur auf TikTok, du kleiner Brokkoli!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Genau das wirft mir der Anzugträger aus Level 3 an den Kopf, bevor mein Display blutrot blinkt und sich sperrt."
+        },
+        {
+          "s": "Figur",
+          "t": "Warum rief mein Chef exakt um Mitternacht an?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Du hängst nur auf TikTok, du kleiner Brokkoli!",
+      "quote_by": {
+        "level": 3,
+        "name": "Viktor",
+        "badge": "6 Std. / Tag",
+        "character": "A sleek eggplant person wearing a tailored charcoal suit and gold-rimmed glasses, holding a minimalist tablet.",
+        "scene": "Medium shot inside a crowded subway train with neon lights reflecting off windows, pointing scornfully at a broccoli person."
+      },
+      "stats": [
+        {
+          "label": "Täglich",
+          "value": "14 Std.",
+          "bar": 0.95
+        },
+        {
+          "label": "Apps",
+          "value": "84 St.",
+          "bar": 0.9
+        },
+        {
+          "label": "Fokus",
+          "value": "2 %",
+          "bar": 0.05
+        }
+      ],
+      "character": "A young broccoli person with dark green florets for hair, wearing a worn-out gray hoodie and cracked wireless earbuds; forehead glows with red digital numbers.",
+      "visual": "Wide shot of a crowded subway car at night with green broccoli person holding a glowing phone, rainy windows outside.",
+      "scenes": [
+        "Subway station platform at night, wide angle, flickering fluorescent lights reflecting in puddles.",
+        "Inside metro carriage, close-up on forehead number glowing bright red '14 Std. / Tag'.",
+        "A dimly lit bedroom, medium shot, blue screen light illuminating tired broccoli leaves.",
+        "Corner kiosk on a rainy Berlin street, detail shot of a hand dropping a coin next to a glowing smartphone.",
+        "Busy university hallway, blurred background, close-up of cracked screen showing endless notification badges.",
+        "Darkened kitchen at 3 AM, over-the-shoulder shot staring at a loading animation."
+      ],
+      "caption": "Wie viele Stunden zeigt deine Stirn heute? Schreibt es in die Kommentare! #bildschirmzeit #süchtig #berlin #level1 #smartphone"
+    },
+    {
+      "n": 2,
+      "open_loop": "Welcher Hacker hatte heimlich mein Firmenkonto leergeräumt?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Wirft mir vor, als Barista des Monats zu versagen."
+      },
+      "name": "Mia, 25, Barista",
+      "badge": "11 Std. / Tag",
+      "verdict": "DAUER-SCROLLER",
+      "story": "Die 8 Level von Bildschirmzeit. Level 2. Level 2: Elf Stunden Bildschirmzeit zwischen dampfenden Espressomaschinen und sinnlosem Scrollen in Kreuzberg. Mit elf Stunden wirst du hier niemals Barista des Monats! Das zischt mir der verbitterte Zitrone-Typ aus Level 4 entgegen, der meine Kaffeetasse weggeschlagen hat. Welcher Hacker hatte heimlich mein Firmenkonto leergeräumt? Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1 Std.",
+        "after": "12 Std."
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Bildschirmzeit. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: Elf Stunden Bildschirmzeit zwischen dampfenden Espressomaschinen und sinnlosem Scrollen in Kreuzberg."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit elf Stunden wirst du hier niemals Barista des Monats!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Das zischt mir der verbitterte Zitrone-Typ aus Level 4 entgegen, der meine Kaffeetasse weggeschlagen hat."
+        },
+        {
+          "s": "Figur",
+          "t": "Welcher Hacker hatte heimlich mein Firmenkonto leergeräumt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Mit elf Stunden wirst du hier niemals Barista des Monats!",
+      "quote_by": {
+        "level": 4,
+        "name": "Stefan",
+        "badge": "4 Std. / Tag",
+        "character": "A stern lemon person in a sharp beige trench coat with slick yellow skin and a cold, judgmental glare.",
+        "scene": "Close-up in a moody coffee shop, slamming a ceramic cup down in front of an orange-skinned barista."
+      },
+      "stats": [
+        {
+          "label": "Täglich",
+          "value": "11 Std.",
+          "bar": 0.75
+        },
+        {
+          "label": "Reels",
+          "value": "310 St.",
+          "bar": 0.8
+        },
+        {
+          "label": "Fokus",
+          "value": "12 %",
+          "bar": 0.15
+        }
+      ],
+      "character": "An orange fruit person with textured citrus skin, wearing a green apron over a black turtleneck; forehead shows glowing orange digital digits.",
+      "visual": "Medium shot of a vibrant orange barista behind a steaming espresso machine, staring intently at a glowing phone.",
+      "scenes": [
+        "Foggy Berlin café interior, wide shot, warm pendant lighting over wooden tables and golden coin hidden under a saucer.",
+        "Close-up of orange citrus skin face illuminated by cold phone light showing 11 hours.",
+        "Action shot of frothing milk while thumb scrolls frantically on screen.",
+        "Angry customer in trench coat pointing at the glowing forehead number.",
+        "Back alley behind café at dusk, wet pavement reflecting neon signs.",
+        "Stairwell of an old apartment building, holding a buzzing phone with a mysterious notification."
+      ],
+      "caption": "Wer kennt diesen Moment an der Kaffeetasse? #barista #bildschirmzeit #berlin #level2 #kaffee"
+    },
+    {
+      "n": 3,
+      "open_loop": "Welche geheime Akte lag auf dem Tisch?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Nennt mich einen kleinen Brokkoli und kritisiert meinen Handykonsum."
+      },
+      "name": "Viktor, 31, Analyst",
+      "badge": "6 Std. / Tag",
+      "verdict": "KONTROLLIERT",
+      "story": "Die 8 Level von Bildschirmzeit. Level 3. Level 3: Sechs Stunden Bildschirmzeit, aber die Hälfte davon nur auf dubiosen Krypto-Seiten im elften Stock. Du verschwendest dein Leben auf TikTok, kleiner Brokkoli! Das grinst mir der nervige Typ aus Level 1 ins Gesicht, während mein Bildschirm komplett rot aufleuchtet. Welche geheime Akte lag auf dem Tisch? Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-2 Std.",
+        "after": "4 Std."
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Bildschirmzeit. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: Sechs Stunden Bildschirmzeit, aber die Hälfte davon nur auf dubiosen Krypto-Seiten im elften Stock."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du verschwendest dein Leben auf TikTok, kleiner Brokkoli!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Das grinst mir der nervige Typ aus Level 1 ins Gesicht, während mein Bildschirm komplett rot aufleuchtet."
+        },
+        {
+          "s": "Figur",
+          "t": "Welche geheime Akte lag auf dem Tisch?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Du verschwendest dein Leben auf TikTok, kleiner Brokkoli!",
+      "quote_by": {
+        "level": 1,
+        "name": "Finn",
+        "badge": "14 Std. / Tag",
+        "character": "A young broccoli person with messy green florets and an oversized hoodie holding a cracked phone.",
+        "scene": "Wide shot in an open-plan office, leaning back in a swivel chair while playing loud videos."
+      },
+      "stats": [
+        {
+          "label": "Täglich",
+          "value": "6 Std.",
+          "bar": 0.45
+        },
+        {
+          "label": "Mails",
+          "value": "180 St.",
+          "bar": 0.6
+        },
+        {
+          "label": "Fokus",
+          "value": "45 %",
+          "bar": 0.5
+        }
+      ],
+      "character": "An elegant eggplant person with glossy deep-purple skin, wearing a pinstripe suit and gold cufflinks; forehead displays glowing white digital numbers.",
+      "visual": "Medium shot of a polished eggplant businessman in a skyscraper office looking down at glowing charts.",
+      "scenes": [
+        "Skyscraper boardroom in Frankfurt, wide angle, panoramic glass windows showing skyline at dusk.",
+        "Close-up of smooth purple eggplant skin reflecting green stock ticker numbers.",
+        "Office desk with dual monitors, glowing coin hidden under a silver pen holder.",
+        "Confrontation by the water cooler with a younger colleague holding a phone.",
+        "Private elevator interior, tight shot on forehead number ticking down.",
+        "Underground parking garage at night, opening a sleek luxury sedan door."
+      ],
+      "caption": "Arbeit oder Sucht? Wo liegt die Grenze? #analyst #finanzen #frankfurt #level3 #börse"
+    },
+    {
+      "n": 4,
+      "open_loop": "Welcher USB-Stick im Blumenbeet hat alles zerstört?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Wirft mir vor, die Jugend zu vergraulen."
+      },
+      "name": "Stefan, 41, Abteilungsleiter",
+      "badge": "4 Std. / Tag",
+      "verdict": "PRODUKTIV",
+      "story": "Die 8 Level von Bildschirmzeit. Level 4. Level 4: Vier Stunden Bildschirmzeit, absolut effizient und fehlerfrei in Köln. Mit solchen Methoden vergraulen Sie die Jugend, Herr Direktor! Das wirft mir die Barista aus Level 2 an den Kopf, bevor mein PC abstürzt. Welcher USB-Stick im Blumenbeet hat alles zerstört? Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "-1 Std.",
+        "after": "3 Std."
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Bildschirmzeit. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: Vier Stunden Bildschirmzeit, absolut effizient und fehlerfrei in Köln."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit solchen Methoden vergraulen Sie die Jugend, Herr Direktor!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Das wirft mir die Barista aus Level 2 an den Kopf, bevor mein PC abstürzt."
+        },
+        {
+          "s": "Figur",
+          "t": "Welcher USB-Stick im Blumenbeet hat alles zerstört?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Mit solchen Methoden vergraulen Sie die Jugend, Herr Direktor!",
+      "quote_by": {
+        "level": 2,
+        "name": "Mia",
+        "badge": "11 Std. / Tag",
+        "character": "An orange person with textured citrus skin wearing an apron behind a wooden counter.",
+        "scene": "Medium shot across a coffee bar, looking angrily at a lemon person in a trench coat."
+      },
+      "stats": [
+        {
+          "label": "Täglich",
+          "value": "4 Std.",
+          "bar": 0.3
+        },
+        {
+          "label": "Calls",
+          "value": "12 St.",
+          "bar": 0.4
+        },
+        {
+          "label": "Fokus",
+          "value": "80 %",
+          "bar": 0.85
+        }
+      ],
+      "character": "A sour lemon person with bright yellow textured peel, wearing a beige trench coat and wire-rimmed glasses; forehead shows sharp cyan digital numbers.",
+      "visual": "Wide shot of a sterile government office in Cologne with fluorescent lights and stacks of paper files.",
+      "scenes": [
+        "Government office exterior in Cologne, wide angle, gray rainy morning with trams passing by.",
+        "Close-up of yellow lemon skin furrowed in anger, staring at a desktop computer.",
+        "Filing cabinet row, detail shot of a golden coin tucked beneath a brass handle.",
+        "Meeting room with glass walls, pointing a yellow finger at a subordinate.",
+        "Corridor with linoleum floor, walking briskly with a leather briefcase.",
+        "Elevator lobby, pressing the down button while looking at a smart-watch alert."
+      ],
+      "caption": "Disziplin oder digitaler Zwang? #behörde #köln #level4 #zitrone #arbeit"
+    },
+    {
+      "n": 5,
+      "open_loop": "Warum rief die Polizei auf dem Festnetz an?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Reißt meine Pläne ab und kritisiert unsere Zettelwirtschaft."
+      },
+      "name": "Elena, 34, Architektin",
+      "badge": "2,5 Std. / Tag",
+      "verdict": "BALANCIERT",
+      "story": "Die 8 Level von Bildschirmzeit. Level 5. Level 5: Zweieinhalb Stunden Bildschirmzeit, ich baue echte Wolkenkratzer statt virtueller Welten. Mit euren Zetteln kommt ihr hier keinen Millimeter voran! Das schreit die Kokosnuss aus Level 7 und reißt meine Pläne ab. Warum rief die Polizei auf dem Festnetz an? Das siehst du in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+30 Min.",
+        "after": "3 Std."
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Bildschirmzeit. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: Zweieinhalb Stunden Bildschirmzeit, ich baue echte Wolkenkratzer statt virtueller Welten."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit euren Zetteln kommt ihr hier keinen Millimeter voran!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Das schreit die Kokosnuss aus Level 7 und reißt meine Pläne ab."
+        },
+        {
+          "s": "Figur",
+          "t": "Warum rief die Polizei auf dem Festnetz an?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Mit euren Zetteln kommt ihr hier keinen Millimeter voran!",
+      "quote_by": {
+        "level": 7,
+        "name": "Karla",
+        "badge": "45 Min. / Tag",
+        "character": "A tough coconut person with a hard brown shell wearing a sleek minimalist designer dress.",
+        "scene": "Medium shot on a windy rooftop construction site, looking down condescendingly at an avocado person."
+      },
+      "stats": [
+        {
+          "label": "Täglich",
+          "value": "2,5 Std.",
+          "bar": 0.2
+        },
+        {
+          "label": "Pläne",
+          "value": "42 St.",
+          "bar": 0.35
+        },
+        {
+          "label": "Fokus",
+          "value": "90 %",
+          "bar": 0.9
+        }
+      ],
+      "character": "An avocado person with smooth green skin and a large oval pit outline on her chest, wearing a utility vest and hard hat; forehead displays glowing green numbers.",
+      "visual": "Wide shot of a modern architectural site in Hamburg with crane towers and glass facades under an overcast sky.",
+      "scenes": [
+        "Hamburg harbor construction site, wide angle, massive concrete pillars and gray water in background.",
+        "Close-up of smooth avocado green skin holding a blue architectural blueprint.",
+        "Site trailer interior, golden coin hidden on a wooden shelf next to rolled maps.",
+        "Confrontation near a scaffolding with a coconut-headed colleague.",
+        "Looking at a tablet screen showing warning alerts in red font.",
+        "Walking home across a suspension bridge at dusk with wind blowing through green skin."
+      ],
+      "caption": "Analog vs. Digital – wer gewinnt den Bau? #architektur #hamburg #level5 #avocado #planung"
+    },
+    {
+      "n": 6,
+      "open_loop": "Welche Datei hat das Netzwerk gelöscht?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Nennt meine Buchhandlung analoge Nostalgie und droht mir."
+      },
+      "name": "Ben, 52, Buchhändler",
+      "badge": "1,5 Std. / Tag",
+      "verdict": "FAST OFFLINE",
+      "story": "Die 8 Level von Bildschirmzeit. Level 6. Level 6: Anderthalb Stunden Bildschirmzeit in meiner kleinen Buchhandlung in München. Mit deiner analogen Nostalgie überlebst du das Jahr nicht! Das brüllt der Banker aus Level 3 und drückt mir sein Tablet ins Gesicht. Welche Datei hat das Netzwerk gelöscht? Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1 Std.",
+        "after": "2,5 Std."
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Bildschirmzeit. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: Anderthalb Stunden Bildschirmzeit in meiner kleinen Buchhandlung in München."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit deiner analogen Nostalgie überlebst du das Jahr nicht!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Das brüllt der Banker aus Level 3 und drückt mir sein Tablet ins Gesicht."
+        },
+        {
+          "s": "Figur",
+          "t": "Welche Datei hat das Netzwerk gelöscht?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Mit deiner analogen Nostalgie überlebst du das Jahr nicht!",
+      "quote_by": {
+        "level": 3,
+        "name": "Viktor",
+        "badge": "6 Std. / Tag",
+        "character": "An eggplant person in a pinstripe suit holding a sleek tablet.",
+        "scene": "Medium shot inside a cozy vintage bookstore, waving a glowing tablet in front of a melon-headed bookseller."
+      },
+      "stats": [
+        {
+          "label": "Täglich",
+          "value": "1,5 Std.",
+          "bar": 0.12
+        },
+        {
+          "label": "Bücher",
+          "value": "1.200",
+          "bar": 0.95
+        },
+        {
+          "label": "Fokus",
+          "value": "95 %",
+          "bar": 0.98
+        }
+      ],
+      "character": "A rugged coconut person with a hard fibrous shell texture, wearing a corduroy jacket and reading glasses; forehead shows soft warm amber digital numbers.",
+      "visual": "Wide shot of a warm, wooden independent bookstore in Munich filled with tall bookshelves and golden reading lights.",
+      "scenes": [
+        "Cozy Munich bookstore interior, wide angle, dusty sunlight streaming through tall shop windows.",
+        "Close-up of hard brown coconut shell face looking thoughtfully at a vintage book spine.",
+        "Cashier counter, detail shot of a golden coin half-hidden under an old receipt book.",
+        "Confrontation near the entrance with a slick financial worker holding a tablet.",
+        "Back room storage filled with stacked cardboard boxes and an old glowing landline phone.",
+        "Stepping outside into a snowy Munich alleyway at night with breath visible in cold air."
+      ],
+      "caption": "Echte Bücher gegen digitale Flut. Wo kaufst du ein? #münchen #bestseller #level6 #buchhandlung #offline"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welches Geheimnis trug die Drachenfrucht?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Nennt mich hilflos ohne Papier und Beton."
+      },
+      "name": "Karla, 29, Tech-Gründerin",
+      "badge": "45 Min. / Tag",
+      "verdict": "FAST FREI",
+      "story": "Die 8 Level von Bildschirmzeit. Level 7. Level 7: Nur 45 Minuten Bildschirmzeit, ich habe die digitale Sucht besiegt. Ohne Papier und Beton seid ihr Tech-Leute hilflos! Das zischt die Architektin aus Level 5, kurz bevor alle Server sterben. Welches Geheimnis trug die Drachenfrucht? Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "-30 Min.",
+        "after": "15 Min."
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Bildschirmzeit. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: Nur 45 Minuten Bildschirmzeit, ich habe die digitale Sucht besiegt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Ohne Papier und Beton seid ihr Tech-Leute hilflos!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Das zischt die Architektin aus Level 5, kurz bevor alle Server sterben."
+        },
+        {
+          "s": "Figur",
+          "t": "Welches Geheimnis trug die Drachenfrucht?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Ohne Papier und Beton seid ihr Tech-Leute hilflos!",
+      "quote_by": {
+        "level": 5,
+        "name": "Elena",
+        "badge": "2,5 Std. / Tag",
+        "character": "An avocado person in a utility vest holding construction blueprints.",
+        "scene": "Medium shot on a sleek glass rooftop terrace, arguing fiercely with a coconut tech founder."
+      },
+      "stats": [
+        {
+          "label": "Täglich",
+          "value": "45 Min.",
+          "bar": 0.08
+        },
+        {
+          "label": "Server",
+          "value": "512 St.",
+          "bar": 0.99
+        },
+        {
+          "label": "Fokus",
+          "value": "99 %",
+          "bar": 1.0
+        }
+      ],
+      "character": "A tough coconut person with fibrous brown husk and polished hard shell, wearing a minimalist white tech blazer; forehead shows razor-sharp white digital numbers.",
+      "visual": "Wide shot of a modern glass-and-steel startup incubator rooftop in Stuttgart overlooking green hills.",
+      "scenes": [
+        "Stuttgart tech rooftop at sunset, wide angle, futuristic glass architecture and solar panels.",
+        "Close-up of hard brown coconut shell face lit by flashing red emergency server lights.",
+        "Server room interior, detail shot of a golden coin resting on a blinking router box.",
+        "Confrontation on the balcony with an avocado architect holding blueprints.",
+        "Looking at a completely dead smart-glass display reflecting her own worried face.",
+        "Stepping into a private glass elevator descending rapidly into darkness."
+      ],
+      "caption": "Wie viel Digital Detox hältst du aus? #stuttgart #startup #level7 #kokosnuss #tech"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches Thema sollen wir als Nächstes zeigen?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Bettelt mich um ein Ladekabel an."
+      },
+      "name": "Lara, 28, Offline-Mönchin",
+      "badge": "0 Min. / Tag",
+      "verdict": "VOLLKOMMEN FREI",
+      "story": "Die 8 Level von Bildschirmzeit. Level 8. Level 8: Null Minuten Bildschirmzeit. Keine Push-Nachrichten, nur pure Stille über den Dächern von Berlin. Kannst du mir dein Ladekabel geben, bitte? Das bettelt der Brokkoli aus Level 1, während um uns herum alle Bildschirme schwarz werden. Bist du bereit für das Ende? Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "0 Min.",
+        "after": "0 Min."
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Bildschirmzeit. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: Null Minuten Bildschirmzeit. Keine Push-Nachrichten, nur pure Stille über den Dächern von Berlin."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Kannst du mir dein Ladekabel geben, bitte?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Das bettelt der Brokkoli aus Level 1, während um uns herum alle Bildschirme schwarz werden."
+        },
+        {
+          "s": "Figur",
+          "t": "Bist du bereit für das Ende?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Kannst du mir dein Ladekabel geben, bitte?",
+      "quote_by": {
+        "level": 1,
+        "name": "Finn",
+        "badge": "14 Std. / Tag",
+        "character": "A young broccoli person with cracked phone and desperate eyes.",
+        "scene": "Wide shot on a high Berlin observation tower at dawn, holding out a dead smartphone toward a glowing dragon fruit person."
+      },
+      "stats": [
+        {
+          "label": "Täglich",
+          "value": "0 Min.",
+          "bar": 0.0
+        },
+        {
+          "label": "Apps",
+          "value": "0 St.",
+          "bar": 0.0
+        },
+        {
+          "label": "Fokus",
+          "value": "100 %",
+          "bar": 1.0
+        }
+      ],
+      "character": "A mystical dragon fruit person with vibrant pink skin and green leafy scales, wearing a flowing white linen robe; forehead glows with a soft, pulsing zero.",
+      "visual": "Wide epic shot of Berlin TV tower at sunrise, majestic dragon fruit woman standing on the edge looking out over a silent city.",
+      "scenes": [
+        "Berlin TV tower observation deck at dawn, wide angle, golden sunlight breaking through clouds.",
+        "Close-up of vibrant pink dragon fruit skin and green leaf tips in the morning wind.",
+        "Observation floor interior, detail shot of a golden coin resting on a dusty windowsill.",
+        "Confrontation with the desperate broccoli person holding a dead phone.",
+        "Looking down at the city streets where millions of glowing forehead numbers slowly fade to black.",
+        "Turning away from the skyline toward the open horizon as all screens shut down simultaneously."
+      ],
+      "caption": "Bist du bereit für ein Leben ohne Handy? Welches Thema als Nächstes? #berlin #detox #level8 #drachenfrucht #freiheit"
+    }
+  ],
+  "lang": "de",
+  "topic": "Tägliche Bildschirmzeit und Social-Media-Sucht",
+  "frame": "frucht"
+}

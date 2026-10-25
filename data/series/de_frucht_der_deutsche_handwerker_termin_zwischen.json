@@ -1,0 +1,663 @@
+{
+  "title": "Die 8 Level des Handwerker-Termins",
+  "house": "A bustling German town called Gemüsen, made of brick houses, bakeries, and damp autumn streets where vegetable-people rush between job sites.",
+  "catchphrase": "Die Handwerker-Zahl lügt nie.",
+  "links": [
+    "In Level 1 wird die Kiosk-Besitzerin aus Level 5 kurz erwähnt.",
+    "Der Kaffeefleck in Level 2 stammt vom Bauleiter aus Level 7.",
+    "Die kaputte Klingel aus Level 3 wird in Level 6 repariert.",
+    "Der Zettel am Schwarzen Brett in Level 4 taucht in Level 8 wieder auf."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was steht in der mysteriösen Nachricht von der Zentrale?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Lacht sie aus und sagt, dass ihre Kleinaufträge niemanden interessieren."
+      },
+      "name": "Tom, 24, Azubi",
+      "badge": "650 € netto",
+      "verdict": "PLEITE",
+      "story": "Die 8 Level des Handwerker-Termins. Level 1. Um 7 Uhr stehe ich im kalten Nieselregen vor dem Altbau in Berlin-Kreuzberg und zittere. Sie kommen viel zu spät, junger Mann. Entschuldigung, der Verkehr auf der Ringbahn war die Hölle. Für so ungeübte Anfänger zahle ich keinen Cent. Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-150 €",
+        "after": "500 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level des Handwerker-Termins. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Um 7 Uhr stehe ich im kalten Nieselregen vor dem Altbau in Berlin-Kreuzberg und zittere."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Sie kommen viel zu spät, junger Mann.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Entschuldigung, der Verkehr auf der Ringbahn war die Hölle."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Für so ungeübte Anfänger zahle ich keinen Cent.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Für so ungeübte Anfänger zahle ich keinen Cent.",
+      "quote_by": {
+        "level": 6,
+        "name": "Bernd",
+        "badge": "4.800 €",
+        "character": "An arrogant beet-man with a sharp suit, golden watch, and glowing red digits.",
+        "scene": "Wide angle of a cold Berlin street in the rain, the beet-man slamming a heavy wooden door in the young apprentice's face."
+      },
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "650 €",
+          "bar": 0.1
+        },
+        {
+          "label": "Stunden",
+          "value": "52 h/W",
+          "bar": 0.8
+        },
+        {
+          "label": "Trinkgeld",
+          "value": "0 €",
+          "bar": 0.0
+        }
+      ],
+      "character": "Young strawberry-man with patchy green leaves, wearing a worn-out blue overall smelling of diesel and fresh asphalt; bright glowing digital numbers on his forehead.",
+      "visual": "Close-up shot in a damp Berlin street at dawn, a miserable strawberry-guy looking up at a heavy wooden apartment door while rain falls.",
+      "scenes": [
+        "Wide shot of a grey Berlin street in the rain at 7:00 AM, wet pavement with a hidden golden coin near a storm drain.",
+        "Medium shot of the young strawberry apprentice shivering in blue overalls outside an old residential building.",
+        "Close-up of the glowing red digital display on the strawberry's forehead showing 650 € netto.",
+        "Two-shot of the angry customer slamming a heavy oak door right in the apprentice's face.",
+        "Detail shot of a dirty smartphone screen showing a cancellation message from dispatch.",
+        "Wide shot of the empty subway station interior with cold neon lighting and tired commuters."
+      ],
+      "caption": "Wer kennt den Frust im ersten Lehrjahr? #Handwerker #Azubi #Berlin #StirnZahl #Drama"
+    },
+    {
+      "n": 2,
+      "open_loop": "Wer war am anderen Ende der Leitung und hat die Stimmung komplett gedreht?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Kürzt seine Arbeitszeit eigenmächtig und streicht die Zulage."
+      },
+      "name": "Mia, 29, Gesellin",
+      "badge": "2.150 € netto",
+      "verdict": "KNAPP",
+      "story": "Die 8 Level des Handwerker-Termins. Level 2. Ich stehe in der engen Plattenbau-Küche und suche verzweifelt in meinem Koffer nach der Dichtung. Sie haben das falsche Rohr dabei, Frau Müller, das zahle ich Ihnen niemals. Ich habe drei Kinder zu Hause und arbeite härter als Sie im Büro. Mit dieser niedrigen Zahl auf der Stirn sind Sie hier nur die Angestellte fürs Grobe. Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+300 €",
+        "after": "2.450 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level des Handwerker-Termins. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe in der engen Plattenbau-Küche und suche verzweifelt in meinem Koffer nach der Dichtung."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sie haben das falsche Rohr dabei, Frau Müller, das zahle ich Ihnen niemals.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe drei Kinder zu Hause und arbeite härter als Sie im Büro."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit dieser niedrigen Zahl auf der Stirn sind Sie hier nur die Angestellte fürs Grobe.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Mit dieser niedrigen Zahl auf der Stirn sind Sie hier nur die Angestellte fürs Grobe.",
+      "quote_by": {
+        "level": 5,
+        "name": "Herr Schmidt",
+        "badge": "3.900 €",
+        "character": "A stern lemon-man wearing a beige trenchcoat and rimless glasses.",
+        "scene": "Medium shot inside a cramped kitchen, the lemon-man pointing arrogantly at the female mechanic's forehead."
+      },
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "2.150 €",
+          "bar": 0.35
+        },
+        {
+          "label": "Aufträge",
+          "value": "8/Tag",
+          "bar": 0.6
+        },
+        {
+          "label": "Stress",
+          "value": "90%",
+          "bar": 0.9
+        }
+      ],
+      "character": "Sour lemon-woman with yellow textured skin, wearing a stained grey work jacket and silver earrings; bright digital display showing her monthly earnings.",
+      "visual": "Medium shot inside a messy 1970s apartment kitchen with beige tiles, a yellow lemon-woman arguing with a customer over plumbing parts.",
+      "scenes": [
+        "Medium shot inside a cramped retro kitchen with floral wallpaper and a hidden golden coin on the counter.",
+        "Close-up of the yellow lemon-woman's worried face as she opens her toolbox.",
+        "Detail shot of her glowing digital badge showing 2.150 € netto.",
+        "Two-shot of the angry customer crossing his arms and pointing at the leaky sink.",
+        "Close-up of a ringing landline telephone on a dusty wooden shelf.",
+        "Wide shot of the dreary suburban housing estate under an overcast grey sky."
+      ],
+      "caption": "Handwerker haben es heutzutage echt nicht leicht! #Handwerker #Gesellin #Küche #StirnZahl #Kämpfen"
+    },
+    {
+      "n": 3,
+      "open_loop": "Welchen Satz hat der Kunde gesagt, der alles verändert hat?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Wirft absichtlich Müll in den frisch gereinigten Schacht."
+      },
+      "name": "Kevin, 34, Elektriker",
+      "badge": "3.100 € netto",
+      "verdict": "DURCHSCHNITT",
+      "story": "Die 8 Level des Handwerker-Termins. Level 3. In dem sanierten Loft in Hamburg-Altona fliegt mir zum dritten Mal die Hauptsicherung um die Ohren. Für das Geld hätte ich von Ihnen einfach mehr Kompetenz erwartet. Die Leitungen hier sind von 1972, da hilft auch kein Fluchen und kein Geld der Welt. Sie bleiben eben reiner Durchschnitt, das sieht man doch an Ihrer Stirn. Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+500 €",
+        "after": "3.600 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level des Handwerker-Termins. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "In dem sanierten Loft in Hamburg-Altona fliegt mir zum dritten Mal die Hauptsicherung um die Ohren."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Für das Geld hätte ich von Ihnen einfach mehr Kompetenz erwartet.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Leitungen hier sind von 1972, da hilft auch kein Fluchen und kein Geld der Welt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sie bleiben eben reiner Durchschnitt, das sieht man doch an Ihrer Stirn.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Sie bleiben eben reiner Durchschnitt, das sieht man doch an Ihrer Stirn.",
+      "quote_by": {
+        "level": 7,
+        "name": "Dr. Weber",
+        "badge": "6.200 €",
+        "character": "An arrogant avocado-man in a bespoke cashmere sweater and expensive leather shoes.",
+        "scene": "Wide shot of a luxurious loft living room, the avocado-man looking down condescendingly at the electrician."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "3.100 €",
+          "bar": 0.5
+        },
+        {
+          "label": "Stunden",
+          "value": "42 h/W",
+          "bar": 0.5
+        },
+        {
+          "label": "Jobs",
+          "value": "1.420",
+          "bar": 0.7
+        }
+      ],
+      "character": "Rugged broccoli-man with dark green florets as hair, wearing a high-visibility yellow vest over a grey hoodie; glowing blue numbers on his forehead.",
+      "visual": "Wide shot of a spacious, sunlit industrial loft in Hamburg with exposed brick walls, an angry broccoli electrician holding a multimeter.",
+      "scenes": [
+        "Wide shot of a sunlit industrial loft in Hamburg with exposed brick walls and a hidden golden coin on a wooden stool.",
+        "Medium shot of the broccoli electrician examining an old fuse box with a digital tester.",
+        "Close-up of his glowing forehead display showing 3.100 € netto.",
+        "Two-shot of the wealthy homeowner crossing his arms and mocking the electrician.",
+        "Detail shot of sparks flying slightly from an outdated electrical outlet.",
+        "Wide shot of the bustling Hamburg harbor visible through large floor-to-ceiling windows."
+      ],
+      "caption": "Wer kennt diese arroganten Kunden auf dem Bau? #Elektriker #Hamburg #StirnZahl #Altbau #Handwerk"
+    },
+    {
+      "n": 4,
+      "open_loop": "Wer betritt den Raum und sorgt für plötzliches Schweigen auf der Baustelle?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Beschwert sich öffentlich über seine angeblich langsame Arbeitsweise."
+      },
+      "name": "Sarah, 31, Fliesenlegerin",
+      "badge": "3.850 € netto",
+      "verdict": "GUT",
+      "story": "Die 8 Level des Handwerker-Termins. Level 4. Ich stehe im modernen Neubau in Frankfurt und atme den scharfen Duft von frischem Zement. Frau Klein, diese Fugen sind keine Meisterleistung für diesen stolzen Stundensatz. Meine Arbeit ist millimetergenau, schauen Sie sich das Laser-Profil an. Für fast vier Tausend im Monat erwarte ich schlichtweg Perfektion ohne Ausreden. Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "-300 €",
+        "after": "3.550 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level des Handwerker-Termins. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im modernen Neubau in Frankfurt und atme den scharfen Duft von frischem Zement."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Frau Klein, diese Fugen sind keine Meisterleistung für diesen stolzen Stundensatz.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Arbeit ist millimetergenau, schauen Sie sich das Laser-Profil an."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Für fast vier Tausend im Monat erwarte ich schlichtweg Perfektion ohne Ausreden.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Für fast vier Tausend im Monat erwarte ich schlichtweg Perfektion ohne Ausreden.",
+      "quote_by": {
+        "level": 8,
+        "name": "Mr. Boss",
+        "badge": "12.500 €",
+        "character": "An imposing watermelon-man in an immaculate dark suit with gold cufflinks.",
+        "scene": "Close-up of the imposing watermelon boss stepping into the bright construction site with absolute authority."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "3.850 €",
+          "bar": 0.62
+        },
+        {
+          "label": "Projekte",
+          "value": "34/Jahr",
+          "bar": 0.75
+        },
+        {
+          "label": "Qualität",
+          "value": "98%",
+          "bar": 0.9
+        }
+      ],
+      "character": "Strong dragonfruit-woman with pink spiky skin and green tips, wearing a white painter overall splattered with tile adhesive; glowing white digital numbers.",
+      "visual": "Medium shot inside a bright, unfinished luxury apartment in Frankfurt with grey floor tiles, a dragonfruit craftswoman checking lines with a spirit level.",
+      "scenes": [
+        "Wide shot of a modern Frankfurt skyscraper construction site interior with a hidden golden coin in fresh tile mortar.",
+        "Medium shot of the pink dragonfruit artisan kneeling down with a tile cutter.",
+        "Close-up of her glowing digital badge showing 3.850 € netto.",
+        "Two-shot of a critical site manager pointing aggressively at the floor joints.",
+        "Detail shot of a precise bubble level showing a perfectly centered green mark.",
+        "Wide shot of the Frankfurt skyline through dust-covered floor-to-ceiling windows."
+      ],
+      "caption": "Perfektionismus auf dem Bau kostet Nerven! #Fliesenlegerin #Frankfurt #Handwerk #StirnZahl #Neubau"
+    },
+    {
+      "n": 5,
+      "open_loop": "Was steht in der E-Mail von der Kanzlei Müller & Partner?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Kürzt eigenmächtig das Materialbudget für die Installation."
+      },
+      "name": "Markus, 42, Malermeister",
+      "badge": "4.600 € netto",
+      "verdict": "ERFOLGREICH",
+      "story": "Die 8 Level des Handwerker-Termins. Level 5. In der prunkvollen Altbauvilla in München-Bogenhausen funkelt der Stuck an der Decke. So eine unsaubere Schluderei akzeptiere ich in meinem exklusiven Haus ganz sicher nicht. Ich arbeite seit über zwanzig Jahren fehlerfrei für die besten Adressen dieser Stadt. Mit diesem Gehalt spielen Sie in meiner Liga schlichtweg keine Rolle. Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+800 €",
+        "after": "5.400 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level des Handwerker-Termins. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "In der prunkvollen Altbauvilla in München-Bogenhausen funkelt der Stuck an der Decke."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "So eine unsaubere Schluderei akzeptiere ich in meinem exklusiven Haus ganz sicher nicht.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich arbeite seit über zwanzig Jahren fehlerfrei für die besten Adressen dieser Stadt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit diesem Gehalt spielen Sie in meiner Liga schlichtweg keine Rolle.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Mit diesem Gehalt spielen Sie in meiner Liga schlichtweg keine Rolle.",
+      "quote_by": {
+        "level": 4,
+        "name": "Herr von Berg",
+        "badge": "5.100 €",
+        "character": "An arrogant coconut-man with a hard brown shell head and a silk scarf.",
+        "scene": "Wide shot of a luxury Munich villa salon, the coconut-man sneering at the master painter."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "4.600 €",
+          "bar": 0.75
+        },
+        {
+          "label": "Team",
+          "value": "6 Köpfe",
+          "bar": 0.6
+        },
+        {
+          "label": "Ruf",
+          "value": "Top",
+          "bar": 0.85
+        }
+      ],
+      "character": "Mature orange-man with vibrant citrus-textured peel, wearing a clean white painter jacket with golden embroidery; bright glowing orange digital numbers.",
+      "visual": "Medium shot inside an opulent Munich villa living room with high stucco ceilings, an orange master painter holding a paint roller.",
+      "scenes": [
+        "Wide shot of an opulent Munich villa living room with high stucco ceilings and a hidden golden coin on an antique Persian rug.",
+        "Medium shot of the mature orange master painter holding a professional paint roller.",
+        "Close-up of his glowing forehead display showing 4.600 € netto.",
+        "Two-shot of a wealthy homeowner in a silk robe pointing at a tiny paint spot on the baseboard.",
+        "Detail shot of a smartphone screen showing an incoming email notification from a law firm.",
+        "Wide shot of a snowy Munich street lined with luxury cars and classic architecture."
+      ],
+      "caption": "Auch Meister müssen sich manchmal ärgern! #Malermeister #München #StirnZahl #Handwerk #Luxus"
+    },
+    {
+      "n": 6,
+      "open_loop": "Welcher Notfall wurde über das Funkgerät aus dem Theater gemeldet?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Entzieht ihm ohne Vorwarnung den Großauftrag für das städtische Theater."
+      },
+      "name": "Bernd, 49, Dachdeckermeister",
+      "badge": "5.900 € netto",
+      "verdict": "WOHLHABEND",
+      "story": "Die 8 Level des Handwerker-Termins. Level 6. Ich stehe auf dem regennassen Dach eines Kölner Bürokomplexes und blicke in die Tiefe. So eine mangelhafte Dachkonstruktion können wir hier niemals offiziell abnehmen. Dieses Dach hält jedem Jahrhundertsturm stand, das bescheinigt jede deutsche DIN-Norm. Mit dieser Zahl auf der Stirn sollten Sie lieber kleinere Brötchen backen, Meister. Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1.100 €",
+        "after": "7.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level des Handwerker-Termins. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe auf dem regennassen Dach eines Kölner Bürokomplexes und blicke in die Tiefe."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "So eine mangelhafte Dachkonstruktion können wir hier niemals offiziell abnehmen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Dieses Dach hält jedem Jahrhundertsturm stand, das bescheinigt jede deutsche DIN-Norm."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit dieser Zahl auf der Stirn sollten Sie lieber kleinere Brötchen backen, Meister.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Mit dieser Zahl auf der Stirn sollten Sie lieber kleinere Brötchen backen, Meister.",
+      "quote_by": {
+        "level": 3,
+        "name": "Bauamtleiter Klein",
+        "badge": "3.300 €",
+        "character": "A stubborn turnip-man in a grey bureaucracy suit with a clipboard.",
+        "scene": "Wide angle on a wet rooftop in Cologne, the turnip official handing over a red stop-work notice."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "5.900 €",
+          "bar": 0.82
+        },
+        {
+          "label": "Projekte",
+          "value": "120+",
+          "bar": 0.88
+        },
+        {
+          "label": "Erfolg",
+          "value": "Sehr gut",
+          "bar": 0.9
+        }
+      ],
+      "character": "Weathered coconut-man with a very hard brown fibrous shell head, wearing a thick leather jacket and heavy safety boots; glowing yellow digital numbers.",
+      "visual": "Wide shot on a steep, wet rooftop in Cologne overlooking the cathedral, a coconut roofer in safety gear arguing with a building inspector.",
+      "scenes": [
+        "Wide shot on a steep, wet rooftop in Cologne with the cathedral in the background and a hidden golden coin near the gutter.",
+        "Medium shot of the weathered coconut roofer holding a roofing torch.",
+        "Close-up of his glowing forehead display showing 5.900 € netto.",
+        "Two-shot of an official building inspector handing over a red warning notice.",
+        "Detail shot of a heavy-duty walkie-talkie buzzing with static noise.",
+        "Wide shot of the bustling Hohenzollern Bridge crossed by a commuter train in the rain."
+      ],
+      "caption": "Der Kampf mit den Behörden ist die Härte! #Dachdecker #Köln #StirnZahl #Handwerk #Dach"
+    },
+    {
+      "n": 7,
+      "open_loop": "Wer hat die anonyme Überweisung getätigt und was steckt dahinter?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Überbietet jedes Angebot um exakt einen Euro, um ihn zu ruinieren."
+      },
+      "name": "Dr. Elena, 51, Architektin",
+      "badge": "8.400 € netto",
+      "verdict": "ELITE",
+      "story": "Die 8 Level des Handwerker-Termins. Level 7. Ich stehe im luxuriösen Penthouse über den Dächern von Stuttgart und betrachte die Baupläne. Für diesen überarbeiteten Entwurf zahlen wir keine einzige Zusatzprovision mehr. Meine statischen Berechnungen retten dieses gesamte Millionenprojekt vor dem Einsturz. Mit dieser stolzen Zahl auf der Stirn sollten Sie nicht auch noch Ansprüche stellen. Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1.600 €",
+        "after": "10.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level des Handwerker-Termins. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im luxuriösen Penthouse über den Dächern von Stuttgart und betrachte die Baupläne."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Für diesen überarbeiteten Entwurf zahlen wir keine einzige Zusatzprovision mehr.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine statischen Berechnungen retten dieses gesamte Millionenprojekt vor dem Einsturz."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit dieser stolzen Zahl auf der Stirn sollten Sie nicht auch noch Ansprüche stellen.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Mit dieser stolzen Zahl auf der Stirn sollten Sie nicht auch noch Ansprüche stellen.",
+      "quote_by": {
+        "level": 6,
+        "name": "Magnus",
+        "badge": "7.200 €",
+        "character": "An ambitious pumpkin-man in a sharp grey business suit and golden cufflinks.",
+        "scene": "Medium shot inside a high-end Stuttgart penthouse, the pumpkin investor pointing coldly at the architect's tablet."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "8.400 €",
+          "bar": 0.92
+        },
+        {
+          "label": "Projekte",
+          "value": "Mega",
+          "bar": 0.95
+        },
+        {
+          "label": "Status",
+          "value": "Elite",
+          "bar": 0.98
+        }
+      ],
+      "character": "Sophisticated avocado-woman with smooth light-green skin, wearing a tailored anthracite business blazer and gold-rimmed glasses; glowing golden digital numbers.",
+      "visual": "Wide shot inside a minimalist glass penthouse in Stuttgart at dusk, a sophisticated avocado architect examining blue architectural blueprints.",
+      "scenes": [
+        "Wide shot inside a minimalist glass penthouse in Stuttgart at dusk with a hidden golden coin on a marble table.",
+        "Medium shot of the sophisticated avocado architect reviewing digital blueprints on a large tablet.",
+        "Close-up of her glowing forehead display showing 8.400 € netto.",
+        "Two-shot of a wealthy investor in a sharp suit rejecting the contract.",
+        "Detail shot of a banking app notification showing a massive incoming transfer.",
+        "Wide shot of the illuminated Stuttgart TV tower glowing against the dark night sky."
+      ],
+      "caption": "Auch die Elite hat manchmal Ärger mit Investoren! #Architektin #Stuttgart #StirnZahl #Penthouse #Bau"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches Thema sollen wir als Nächstes zeigen?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Bringt den entscheidenden Hinweis, der das ganze System ins Wanken bringt."
+      },
+      "name": "Theodor, 58, Generalunternehmer",
+      "badge": "18.500 € netto",
+      "verdict": "BOSS",
+      "story": "Die 8 Level des Handwerker-Termins. Level 8. In meinem Chef-Büro in Frankfurt blicke ich auf die Stadt, in der alle Figuren heute gekämpft haben. Jeder von ihnen hat mich verflucht, ohne zu wissen, dass ich die Fäden im Hintergrund ziehe. Die Zahl auf der Stirn zeigt niemals deinen echten Wert, sondern nur deinen Einsatz im großen Spiel. Chef, wir haben ein riesiges Problem auf der Hauptbaustelle in Berlin. Welches Thema sollen wir als Nächstes zeigen?",
+      "gender": "m",
+      "twist": {
+        "delta": "+3.500 €",
+        "after": "22.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level des Handwerker-Termins. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "In meinem Chef-Büro in Frankfurt blicke ich auf die Stadt, in der alle Figuren heute gekämpft haben."
+        },
+        {
+          "s": "Figur",
+          "t": "Jeder von ihnen hat mich verflucht, ohne zu wissen, dass ich die Fäden im Hintergrund ziehe."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl auf der Stirn zeigt niemals deinen echten Wert, sondern nur deinen Einsatz im großen Spiel."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Chef, wir haben ein riesiges Problem auf der Hauptbaustelle in Berlin.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema sollen wir als Nächstes zeigen?"
+        }
+      ],
+      "quote": "Die Zahl auf der Stirn zeigt niemals deinen echten Wert, sondern nur deinen Einsatz im großen Spiel.",
+      "quote_by": {
+        "level": 8,
+        "name": "Theodor",
+        "badge": "18.500 €",
+        "character": "An imposing watermelon-man in an immaculate dark suit with gold cufflinks.",
+        "scene": "Wide angle of a grand executive office in Frankfurt, the watermelon boss looking out over the illuminated skyline."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "18.500 €",
+          "bar": 1.0
+        },
+        {
+          "label": "Projekte",
+          "value": "Alle",
+          "bar": 1.0
+        },
+        {
+          "label": "Macht",
+          "value": "Maximum",
+          "bar": 1.0
+        }
+      ],
+      "character": "Imposing watermelon-man with dark green striped rind pattern, wearing an immaculate tailored charcoal suit and a golden tie clip; glowing gold digital numbers.",
+      "visual": "Wide shot of a luxurious executive office in Frankfurt at night with floor-to-ceiling windows showing the glowing city skyline, a watermelon boss standing proudly.",
+      "scenes": [
+        "Wide shot of a luxurious executive office in Frankfurt at night with a hidden golden coin on a heavy mahogany desk.",
+        "Medium shot of the imposing watermelon boss looking at multiple security and site monitors.",
+        "Close-up of his glowing forehead display showing 18.500 € netto.",
+        "Two-shot of an employee entering the office in panic with a stack of urgent documents.",
+        "Detail shot of a master blueprint showing all eight locations connected with red lines.",
+        "Wide shot of the Frankfurt financial district shining brightly under the night sky."
+      ],
+      "caption": "Wer zieht am Ende wirklich die Fäden im Handwerk? Schreib es in die Kommentare! #Boss #Handwerk #StirnZahl #Finale #Frankfurt"
+    }
+  ],
+  "lang": "de",
+  "topic": "Der deutsche Handwerker-Termin zwischen Hoffnung und Verzweiflung",
+  "frame": "frucht"
+}

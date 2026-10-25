@@ -1,0 +1,695 @@
+{
+  "title": "Die 8 Level von Steuerwahnsinn",
+  "house": "A bustling German bureaucratic city made of brick architecture, neon-lit tax offices, and wet asphalt streets where vegetable and fruit citizens commute daily under gray skies.",
+  "catchphrase": "Die Stirn-Zahl lügt nie.",
+  "links": [
+    "Barista in Level 2 mentions the tired garlic man from Level 5 who always forgets his receipts.",
+    "The kiosk owner in Level 1 appears briefly buying stamps in Level 6.",
+    "The tax office hallway in Level 3 features the exact same vending machine seen in Level 7."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was genau stand in der ominosen Nachzahlungsforderung des Finanzamts?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Lacht sie an der Kasse aus und behauptet laut, sie sei nur zu faul zum Rechnen."
+      },
+      "name": "Tomate Tim, 24, Studi-Aushilfe",
+      "badge": "450 € netto",
+      "verdict": "PLEITE",
+      "story": "Die 8 Level von Steuerwahnsinn. Level 1. Level 1: 450 Euro im Monat und plötzliche 1.200 Euro Steuernachzahlung für den Subunternehmer-Job. Ich stehe im nassen Kiosk, die roten Tomaten-Finger zittern. Mein Girokonto zeigt Minus, der Brief vom Finanzamt leuchtet rot. Du hast wohl noch nie was von der Werbungskostenpauschale gehört, Kleiner. Das ist ein Systemfehler, ich habe doch kaum was verdient. Warum trifft es immer uns Kleinen? Zahlen musst du trotzdem, ob du willst oder nicht. Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-350 €",
+        "after": "100 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Steuerwahnsinn. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 450 Euro im Monat und plötzliche 1.200 Euro Steuernachzahlung für den Subunternehmer-Job."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im nassen Kiosk, die roten Tomaten-Finger zittern. Mein Girokonto zeigt Minus, der Brief vom Finanzamt leuchtet rot."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast wohl noch nie was von der Werbungskostenpauschale gehört, Kleiner.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Das ist ein Systemfehler, ich habe doch kaum was verdient. Warum trifft es immer uns Kleinen?"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Zahlen musst du trotzdem, ob du willst oder nicht.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Du hast wohl noch nie was von der Werbungskostenpauschale gehört, Kleiner.",
+      "quote_by": {
+        "level": 3,
+        "name": "Avocado Anna",
+        "badge": "3.400 € netto",
+        "character": "A sleek avocado person with smooth green skin, a sharp business blazer, and a glowing digital forehead badge.",
+        "scene": "Wide angle shot in a neon-lit tax office hallway, speaking condescendingly to a smaller tomato person."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "450 €",
+          "bar": 0.05
+        },
+        {
+          "label": "Steuerschuld",
+          "value": "1.200 €",
+          "bar": 0.9
+        },
+        {
+          "label": "Stress",
+          "value": "99 %",
+          "bar": 0.99
+        }
+      ],
+      "character": "A young tomato person with bright red skin, wearing a worn-out hoodie, holding a crumpled yellow envelope; glowing forehead shows 450 €.",
+      "visual": "A rain-drenched Berlin kiosk at night, medium shot of a tomato person holding a red tax letter, a small golden coin hidden on the counter.",
+      "scenes": [
+        "Exterior Berlin kiosk at night, medium shot, rain falling on neon signs, a golden coin rests near the cash register.",
+        "Interior tax office waiting room, wide angle shot, rows of plastic chairs under harsh fluorescent light.",
+        "Close-up on a glowing digital forehead displaying 450 € with raindrops splashing.",
+        "Over-the-shoulder shot of a yellow tax envelope being ripped open with trembling red fingers.",
+        "Street corner near a bus stop, low angle shot, an avocado person walking past with a sneer.",
+        "Subway train interior, detail shot of a smartphone screen showing a negative bank balance of minus 120 euros."
+      ],
+      "caption": "Wer kennt diesen Schockmoment vom Finanzamt? #steuer #finanzamt #level1 #drama #geld"
+    },
+    {
+      "n": 2,
+      "open_loop": "Warum ignorierte die Steuerberaterin plötzlich alle seine Belege?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Wirft seine sortierten Belege in den Papierkorb und verlangt einen doppelten Vorschuss."
+      },
+      "name": "Zitrone Zeno, 32, Barista",
+      "badge": "1.800 € netto",
+      "verdict": "VERBITTERT",
+      "story": "Die 8 Level von Steuerwahnsinn. Level 2. Level 2: 1.800 Euro im Monat und drei Ordner voller Quittungen für den Kaffeeladen. Ich sortiere jede Kaffeebohnen-Rechnung, während der Zwiebel-Berater mich auslacht. Mein Kopf ist gelb vor saurem Frust. Das verstehst du erst, wenn du dreimal so viel verdienst. Das Finanzamt will meine Fortbildungen nicht anerkennen. Ich habe monatelang Belege gesammelt! Dein Kaffeeladen ist für die Behörde nur Liebhaberei. Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "-200 €",
+        "after": "1.600 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Steuerwahnsinn. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 1.800 Euro im Monat und drei Ordner voller Quittungen für den Kaffeeladen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sortiere jede Kaffeebohnen-Rechnung, während der Zwiebel-Berater mich auslacht. Mein Kopf ist gelb vor saurem Frust."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Das verstehst du erst, wenn du dreimal so viel verdienst.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Das Finanzamt will meine Fortbildungen nicht anerkennen. Ich habe monatelang Belege gesammelt!"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Dein Kaffeeladen ist für die Behörde nur Liebhaberei.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Das verstehst du erst, wenn du dreimal so viel verdienst.",
+      "quote_by": {
+        "level": 4,
+        "name": "Knoblauch Karla",
+        "badge": "5.100 € netto",
+        "character": "A stern garlic bulb person with paper-white layers, wearing heavy glasses and holding a golden clipboard.",
+        "scene": "Close-up in a cluttered tax office desk, pointing a sharp finger at a yellow lemon person."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "1.800 €",
+          "bar": 0.25
+        },
+        {
+          "label": "Belege",
+          "value": "432 Stk",
+          "bar": 0.5
+        },
+        {
+          "label": "Frust",
+          "value": "85 %",
+          "bar": 0.85
+        }
+      ],
+      "character": "A sour lemon person with yellow textured skin, wearing a stained barista apron and wire-rimmed glasses; glowing forehead shows 1.800 €.",
+      "visual": "A cozy, steam-filled Berlin café interior, medium shot of a lemon person sorting paper receipts on a wooden table, a golden coin hidden in the sugar bowl.",
+      "scenes": [
+        "Interior Berlin café, medium shot, steam from an espresso machine, a golden coin sits inside an open sugar bowl.",
+        "Tax consultancy office, over-the-shoulder shot, stacks of dusty file folders under a buzzing desk lamp.",
+        "Close-up of glowing forehead digital numbers shifting from 1.800 to 1.600 euros rapidly.",
+        "Street outside the café, low angle, a garlic person walking past with a dismissive smirk.",
+        "Kitchen table at night, detail shot, a red pen crossing out calculated tax deductions on a form.",
+        "Bus stop in morning drizzle, wide angle, tired commuters waiting in the gray fog."
+      ],
+      "caption": "Wer kennt den Kampf mit dem Finanzamt um jede Quittung? #steuer #barista #level2 #buerokratie"
+    },
+    {
+      "n": 3,
+      "open_loop": "Was verbarg die Avocado in ihrem verschlüsselten Offshore-Depot?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Beschuldigt sie öffentlich des Steuerbetrugs vor versammelter Kanzlei-Belegschaft."
+      },
+      "name": "Avocado Anna, 39, Buchhalterin",
+      "badge": "3.400 € netto",
+      "verdict": "ANGEPASST",
+      "story": "Die 8 Level von Steuerwahnsinn. Level 3. Level 3: 3.400 Euro im Monat und der tägliche Druck, alle Schlupflöcher legal zu nutzen. Ich arbeite in einer gläsernen Kanzlei am Potsdamer Platz, meine grüne Haut glänzt vor Stress. Für Fehler im System zahlt hier nur einer, und das bist du. Jede Ausgabe muss stimmen, kein Cent darf wackeln. Habe ich jahrelang umsonst gebuckelt? Die Betriebsprüfung findet jeden kleinen Fehler, Anna. Das siehst du in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "-500 €",
+        "after": "2.900 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Steuerwahnsinn. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 3.400 Euro im Monat und der tägliche Druck, alle Schlupflöcher legal zu nutzen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich arbeite in einer gläsernen Kanzlei am Potsdamer Platz, meine grüne Haut glänzt vor Stress."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Für Fehler im System zahlt hier nur einer, und das bist du.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Jede Ausgabe muss stimmen, kein Cent darf wackeln. Habe ich jahrelang umsonst gebuckelt?"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Die Betriebsprüfung findet jeden kleinen Fehler, Anna.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Für Fehler im System zahlt hier nur einer, und das bist du.",
+      "quote_by": {
+        "level": 5,
+        "name": "Brokkoli Ben",
+        "badge": "6.200 € netto",
+        "character": "A stiff broccoli person with a dark green floret head, wearing an expensive tailored gray suit.",
+        "scene": "Medium shot in a modern corporate boardroom, pointing a thick document at an avocado person."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "3.400 €",
+          "bar": 0.45
+        },
+        {
+          "label": "Fälle",
+          "value": "142",
+          "bar": 0.7
+        },
+        {
+          "label": "Risiko",
+          "value": "78 %",
+          "bar": 0.78
+        }
+      ],
+      "character": "An avocado person with smooth green pear-shaped skin, wearing a sharp business blazer and silver earrings; glowing forehead shows 3.400 €.",
+      "visual": "A modern glass-front office overlooking Berlin, medium shot of an avocado person staring at a laptop, a golden coin hidden in a potted desk plant.",
+      "scenes": [
+        "Interior high-rise office in Berlin, wide angle, glass desks reflecting city skyline, a golden coin hidden in a small succulent pot.",
+        "Conference room, medium shot, harsh overhead spotlights on a stack of tax balance sheets.",
+        "Close-up on glowing digital forehead showing 3.400 euros blinking in red warning light.",
+        "Elevator lobby, over-the-shoulder shot, a broccoli person in a sharp suit walking past.",
+        "Underground parking garage, detail shot, high heels clicking on concrete next to a luxury sedan.",
+        "Cafeteria terrace, low angle, looking up at gray concrete facades under heavy rain."
+      ],
+      "caption": "Der tägliche Kampf im Büro mit den Bilanzen. #buchhaltung #steuer #level3 #buerokratie"
+    },
+    {
+      "n": 4,
+      "open_loop": "Welches illegale Dokument versteckte die Steuerberaterin im Aktenkoffer?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Streicht ihre Provision zusammen und droht mit Entzug der Zulassung."
+      },
+      "name": "Knoblauch Karla, 45, Steuerberaterin",
+      "badge": "5.100 € netto",
+      "verdict": "STRENG",
+      "story": "Die 8 Level von Steuerwahnsinn. Level 4. Level 4: 5.100 Euro im Monat und der Stolz, jede Steuerschlupfloch-Regel auswendig zu kennen. Ich kenne jeden Paragraphen im Einkommensteuergesetz, meine weiße Knoblauchhaut riecht nach Aktenstaub. Deine Paragraphen retten dich heute auch nicht mehr. Jetzt stehe ich im Finanzamt und verhandle für meine reiche Mandantschaft. Mein Ruf steht auf dem Spiel! Hier ist ein Formfehler, Karla. Das wird teuer. Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "-800 €",
+        "after": "4.300 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Steuerwahnsinn. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 5.100 Euro im Monat und der Stolz, jede Steuerschlupfloch-Regel auswendig zu kennen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich kenne jeden Paragraphen im Einkommensteuergesetz, meine weiße Knoblauchhaut riecht nach Aktenstaub."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Deine Paragraphen retten dich heute auch nicht mehr.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Jetzt stehe ich im Finanzamt und verhandle für meine reiche Mandantschaft. Mein Ruf steht auf dem Spiel!"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Hier ist ein Formfehler, Karla. Das wird teuer.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Deine Paragraphen retten dich heute auch nicht mehr.",
+      "quote_by": {
+        "level": 6,
+        "name": "Drachenfrucht Dana",
+        "badge": "8.500 € netto",
+        "character": "A striking dragon fruit person with vibrant pink and green scaled skin, wearing an avant-garde designer coat.",
+        "scene": "Wide angle shot in a luxurious tax authority foyer, holding a gold-embossed audit file."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "5.100 €",
+          "bar": 0.65
+        },
+        {
+          "label": "Mandanten",
+          "value": "88",
+          "bar": 0.8
+        },
+        {
+          "label": "Macht",
+          "value": "82 %",
+          "bar": 0.82
+        }
+      ],
+      "character": "A garlic bulb person with paper-white segmented skin, wearing a strict gray tweed suit and gold reading glasses; glowing forehead shows 5.100 €.",
+      "visual": "A classic Berlin tax consultancy office with mahogany desks, medium shot of a garlic person stamping documents, a golden coin hidden inside an ink pad box.",
+      "scenes": [
+        "Interior classic tax office, medium shot, heavy mahogany shelves filled with law books, a golden coin hidden inside an open ink pad box.",
+        "Tax authority interrogation room, wide angle, harsh fluorescent light above a metal table.",
+        "Close-up on glowing digital forehead showing 5.100 euros reflecting in a glass window.",
+        "Corridor outside room 402, over-the-shoulder shot, a dragon fruit person walking in designer heels.",
+        "Detail shot of a red ink stamp crashing down onto a rejected tax declaration form.",
+        "Rainy street outside the ministry, low angle, grand stone columns dripping with water."
+      ],
+      "caption": "Wenn die Steuerprüfung plötzlich ernst wird. #steuerberater #level4 #finanzamt #geld"
+    },
+    {
+      "n": 5,
+      "open_loop": "Welches geheime Dokument entnahm der Broccoli-Mann dem Safe?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Beschlagnahmt sein Firmenkonto wegen angeblicher Steuerhinterziehung."
+      },
+      "name": "Brokkoli Ben, 51, Abteilungsleiter",
+      "badge": "6.200 € netto",
+      "verdict": "ETabLIERT",
+      "story": "Die 8 Level von Steuerwahnsinn. Level 5. Level 5: 6.200 Euro im Monat und die Verantwortung für das große Firmen-Steuerbudget. Mein Brokkoli-Kopf steht kerzengerade im Vorstandssaal, während ich die Bilanzen prüfe. Das Spiel ist vorbei, Ben, pack deine Sachen. Die Finanzbehörde droht mit Kontoeinfrierung! Ich habe jahrelang alles sauber gehalten! Die Staatsanwaltschaft ermittelt wegen Steuerverkürzung. Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "-1.200 €",
+        "after": "5.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Steuerwahnsinn. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 6.200 Euro im Monat und die Verantwortung für das große Firmen-Steuerbudget."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Brokkoli-Kopf steht kerzengerade im Vorstandssaal, während ich die Bilanzen prüfe."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Das Spiel ist vorbei, Ben, pack deine Sachen.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Finanzbehörde droht mit Kontoeinfrierung! Ich habe jahrelang alles sauber gehalten!"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Die Staatsanwaltschaft ermittelt wegen Steuerverkürzung.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Das Spiel ist vorbei, Ben, pack deine Sachen.",
+      "quote_by": {
+        "level": 7,
+        "name": "Kokosnuss Kaja",
+        "badge": "12.000 € netto",
+        "character": "A tough coconut person with hard brown fibrous shell, wearing an elite platinum-colored executive suit.",
+        "scene": "Close-up in a penthouse office, pushing a termination contract across a glass desk."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "6.200 €",
+          "bar": 0.75
+        },
+        {
+          "label": "Budget",
+          "value": "1.2 Mio",
+          "bar": 0.85
+        },
+        {
+          "label": "Macht",
+          "value": "90 %",
+          "bar": 0.9
+        }
+      ],
+      "character": "A broccoli person with a dense dark green floret head, wearing an expensive tailored gray suit and gold cufflinks; glowing forehead shows 6.200 €.",
+      "visual": "A luxurious corporate boardroom with leather chairs, medium shot of a broccoli person looking at financial charts, a golden coin hidden beneath a crystal water jug.",
+      "scenes": [
+        "Interior corporate boardroom, wide angle, mahogany table reflecting city lights, a golden coin hidden under a crystal water pitcher.",
+        "Private executive office, medium shot, a safe standing open with glowing documents inside.",
+        "Close-up on glowing digital forehead dropping rapidly from 6.200 to 5.000 euros.",
+        "Penthouse hallway, over-the-shoulder shot, a coconut person walking with heavy footsteps.",
+        "Detail shot of a cardboard box being filled with expensive fountain pens and binders.",
+        "Rooftop terrace in the evening, low angle, looking up at darkening Berlin clouds."
+      ],
+      "caption": "Wenn das Firmenimperium ins Wanken gerät. #vorstand #steuer #level5 #karriere"
+    },
+    {
+      "n": 6,
+      "open_loop": "Welche Summe stand auf dem finalen Überweisungsträger der Steuerprüferin?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Nimmt ihren Bericht ungelesen ab und setzt die Höchststrafe fest."
+      },
+      "name": "Drachenfrucht Dana, 48, Finanzamtsleiterin",
+      "badge": "8.500 € netto",
+      "verdict": "UNBESTECHLICH",
+      "story": "Die 8 Level von Steuerwahnsinn. Level 6. Level 6: 8.500 Euro im Monat und die absolute Macht über Steuerprüfungen in ganz Berlin. Meine pinke Drachenfrucht-Hut schimmert im Neonlicht des Ministeriums. Unterschreib einfach, sonst bist du morgen weg. Jetzt sitze ich im Hochsicherheitsbüro und muss den größten Steuerskandal der Stadt unterschreiben! Der Minister will diesen Bericht nicht sehen, Dana. Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1.500 €",
+        "after": "10.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Steuerwahnsinn. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 8.500 Euro im Monat und die absolute Macht über Steuerprüfungen in ganz Berlin."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine pinke Drachenfrucht-Hut schimmert im Neonlicht des Ministeriums."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Unterschreib einfach, sonst bist du morgen weg.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Jetzt sitze ich im Hochsicherheitsbüro und muss den größten Steuerskandal der Stadt unterschreiben!"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Der Minister will diesen Bericht nicht sehen, Dana.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Unterschreib einfach, sonst bist du morgen weg.",
+      "quote_by": {
+        "level": 8,
+        "name": "Anonyme Orange",
+        "badge": "GEHEIM",
+        "character": "A mysterious orange person shrouded in a dark trench coat with an obscured glowing digital forehead.",
+        "scene": "Silhouette shot in a dimly lit ministerial archive room, handing over a sealed black envelope."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "8.500 €",
+          "bar": 0.88
+        },
+        {
+          "label": "Fälle",
+          "value": "1.400",
+          "bar": 0.92
+        },
+        {
+          "label": "Macht",
+          "value": "95 %",
+          "bar": 0.95
+        }
+      ],
+      "character": "A vibrant dragon fruit person with pink and green scaled skin, wearing an avant-garde designer coat and gold-rimmed glasses; glowing forehead shows 8.500 €.",
+      "visual": "A high-security Ministry of Finance archive room at night, medium shot of a dragon fruit person examining a stamped folder, a golden coin hidden behind a heavy brass paperweight.",
+      "scenes": [
+        "Interior Ministry archive room at night, wide angle, long rows of steel shelves, a golden coin hidden beneath a heavy brass paperweight.",
+        "Private office of the director, medium shot, desk lamps casting long shadows on official stamps.",
+        "Close-up on glowing digital forehead showing 8.500 euros glowing brightly in the dark.",
+        "Shadowy corridor, over-the-shoulder shot, a figure in a dark coat disappearing around the corner.",
+        "Detail shot of a gold fountain pen hovering above an empty signature line.",
+        "Window view overlooking Berlin at midnight, low angle, city lights flickering through heavy rain."
+      ],
+      "caption": "Wenn die Behördenleitung vor schwierigen Entscheidungen steht. #finanzamt #level6 #macht #geld"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welche Wahrheit stand in der ultimativen Steuerakte von Level 8?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Vergisst absichtlich seine Steuererklärung und löst damit die Prüfungskette aus."
+      },
+      "name": "Kokosnuss Kaja, 55, Finanzdirektorin",
+      "badge": "12.000 € netto",
+      "verdict": "UNANTASTBAR",
+      "story": "Die 8 Level von Steuerwahnsinn. Level 7. Level 7: 12.000 Euro im Monat und die alleinige Kontrolle über alle Steueroasen der Metropole. Meine harte Kokosnussschale hat schon viele Stürme überstanden, ich stehe über jedem Gesetz. Du hast den falschen Mann unterschätzt. Jetzt steht mein eigenes Imperium vor dem Zusammenbruch, weil ein kleiner Tomatenjunge seine Erklärung nicht abgegeben hat! Die Akte ist öffentlich geworden, Kaja. Alles bricht ein. Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "-3.000 €",
+        "after": "9.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Steuerwahnsinn. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 12.000 Euro im Monat und die alleinige Kontrolle über alle Steueroasen der Metropole."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine harte Kokosnussschale hat schon viele Stürme überstanden, ich stehe über jedem Gesetz."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast den falschen Mann unterschätzt.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Jetzt steht mein eigenes Imperium vor dem Zusammenbruch, weil ein kleiner Tomatenjunge seine Erklärung nicht abgegeben hat!"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Die Akte ist öffentlich geworden, Kaja. Alles bricht ein.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Du hast den falschen Mann unterschätzt.",
+      "quote_by": {
+        "level": 8,
+        "name": "Meister Orange",
+        "badge": "SYSTEM-ROOT",
+        "character": "An enigmatic orange person with textured citrus skin, wearing an elegant tailored coat and holding the master key.",
+        "scene": "Wide angle shot in an underground vault, standing in front of glowing servers with an open digital ledger."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "12.000 €",
+          "bar": 0.98
+        },
+        {
+          "label": "Macht",
+          "value": "99 %",
+          "bar": 0.99
+        },
+        {
+          "label": "Kontrolle",
+          "value": "100 %",
+          "bar": 1.0
+        }
+      ],
+      "character": "A coconut person with a hard brown fibrous shell, wearing an elite platinum-colored executive suit and pearl necklace; glowing forehead shows 12.000 €.",
+      "visual": "A luxury penthouse office overlooking Berlin at night, medium shot of a coconut person staring at crashing stock charts on monitors, a golden coin hidden inside an open crystal jewelry box.",
+      "scenes": [
+        "Interior luxury penthouse office at night, wide angle, panoramic floor-to-ceiling windows showing city lights, a golden coin hidden inside an open crystal jewelry box.",
+        "Private vault room, medium shot, steel safe door swinging open with blue warning lights.",
+        "Close-up on glowing digital forehead dropping rapidly from 12.000 to 9.000 euros.",
+        "Underground server room, over-the-shoulder shot, glowing cables and spinning server racks.",
+        "Detail shot of a digital display showing a connection linking Level 1 directly to Level 7.",
+        "Rooftop helipad in pouring rain, low angle, silhouette of a mysterious orange figure standing in the wind."
+      ],
+      "caption": "Wenn die absolut Mächtigen plötzlich alles verlieren. #finanzdirektor #level7 #macht #sturz"
+    },
+    {
+      "n": 8,
+      "open_loop": "Wie endete das große Steuer-Geheimnis für alle Figuren in der Stadt?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Nimmt die Entschuldigung an und reicht ihm den ersten Kaffebecher."
+      },
+      "name": "Meister Orange, unendlich, System-Architekt",
+      "badge": "SYSTEM-ROOT",
+      "verdict": "DIE WAHRHEIT",
+      "story": "Die 8 Level von Steuerwahnsinn. Level 8. Level 8: Unendlich viel Macht und der Ursprung aller Stirn-Zahlen in dieser Stadt. Meine orange Zitrus-Hut leuchtet im Zentrum des Hauptrechners, während ich alle Fäden des Steuerwahnsinns in der Hand halte. Jede Zahl auf der Stirn war nur ein Test, ein Spiegel eurer eigenen Gier. Der Kiosk, das Café, die Kanzlei – alles war von Anfang an miteinander verbunden. Die Zahlen lügen nie, aber wir können das System verändern. Welches Thema soll als Nächstes kommen?",
+      "gender": "m",
+      "twist": {
+        "delta": "RESTART",
+        "after": "UNENDLICH"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Steuerwahnsinn. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: Unendlich viel Macht und der Ursprung aller Stirn-Zahlen in dieser Stadt."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine orange Zitrus-Hut leuchtet im Zentrum des Hauptrechners, während ich alle Fäden des Steuerwahnsinns in der Hand halte."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Jede Zahl auf der Stirn war nur ein Test, ein Spiegel eurer eigenen Gier.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Der Kiosk, das Café, die Kanzlei – alles war von Anfang an miteinander verbunden."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Die Zahlen lügen nie, aber wir können das System verändern.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema soll als Nächstes kommen?"
+        }
+      ],
+      "quote": "Jede Zahl auf der Stirn war nur ein Test, ein Spiegel eurer eigenen Gier.",
+      "quote_by": {
+        "level": 1,
+        "name": "Tomate Tim",
+        "badge": "450 € netto",
+        "character": "A young tomato person with bright red skin and a glowing forehead badge.",
+        "scene": "Wide angle shot in the central server control room, standing next to the master architect."
+      },
+      "stats": [
+        {
+          "label": "Macht",
+          "value": "MAX",
+          "bar": 1.0
+        },
+        {
+          "label": "System",
+          "value": "ROOT",
+          "bar": 1.0
+        },
+        {
+          "label": "Wahrheit",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "An enigmatic orange person with textured citrus skin, wearing an elegant tailored dark coat and holding the master key; glowing forehead shows SYSTEM-ROOT.",
+      "visual": "The central server core underneath Berlin, wide angle shot of a massive glowing orange data sphere, a golden coin hidden right in the center of the control console.",
+      "scenes": [
+        "Interior central server core beneath Berlin, wide angle, massive glowing data sphere, a golden coin hidden right in the center of the control console.",
+        "Control room, medium shot, screens displaying all previous characters from Level 1 to 7.",
+        "Close-up on glowing forehead showing SYSTEM-ROOT flashing in gold light.",
+        "Streets of Berlin montage, over-the-shoulder shot, all characters looking up at the sky simultaneously.",
+        "Detail shot of a digital ledger resetting to zero across all city terminals.",
+        "Rooftop overview of Berlin at sunrise, low angle, the camera spinning in an infinite loop back to Level 1."
+      ],
+      "caption": "Das große Finale von Die Stirn-Zahl! Welches Thema soll als Nächstes kommen? Schreibt es in die Kommentare! #finale #steuer #level8 #stirnzahl #system"
+    }
+  ],
+  "lang": "de",
+  "topic": "Die ewige Steuererklärung und bürokratischer Wahnsinn",
+  "frame": "frucht"
+}

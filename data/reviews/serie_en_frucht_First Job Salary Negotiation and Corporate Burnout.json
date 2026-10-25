@@ -1,0 +1,149 @@
+{
+  "best_score": 51,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 6,
+        "story": 5,
+        "identifikation": 4,
+        "verbindungen": 4,
+        "sog": 5,
+        "wut": 6,
+        "merkfaehigkeit": 5,
+        "sprache": 6
+      },
+      "gesamt": 51,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den sterilen Erzähler-Satz durch einen harten Vorwurf direkt ins Gesicht des Zuschauers: 'Null Euro im Monat, und du sollst noch dankbar sein, dass du für sie atmen darfst.'"
+        },
+        {
+          "n": 2,
+          "fix": "Lass die Zucchini-Figur nicht jammern, sondern zeige die konkrete Demütigung: '2.400 Euro? Dafür zahlst du Miete und hast noch exakt drei Euro für Toastbrot übrig. Während Victoria im Penthouse sitzt und deine Quartalszahlen als ihre ausgibt.'"
+        },
+        {
+          "n": 3,
+          "fix": "Verzichte auf Floskeln wie 'Burnout ist nur ein Wort'. Nutze echten Corporate-Schmerz: '3.800 Euro im Monat und drei Kollegen haben sich gerade krankgemeldet, damit du ihre Arbeit mitmachen darfst.'"
+        },
+        {
+          "n": 4,
+          "fix": "Verschärfe den Konflikt im Loft: '5.200 Euro und du denkst, du hast es geschafft – bis Zoe dir aus dem Erdgeschoss die Bilanz vor die Füße wirft und deine Beförderung streicht.'"
+        },
+        {
+          "n": 5,
+          "fix": "Erhöhe den Druck auf den Teamleiter: '7.100 Euro, aber dein Team hasst dich, weil du ihre Budgets kürzen musstest, während oben die Fäden gezogen werden.'"
+        },
+        {
+          "n": 6,
+          "fix": "Mach den Verrat greifbar: '11.500 Euro im Monat und dein eigener Partner verkauft dich an die Konkurrenz, während du deinen Kindern zum dritten Mal sagst, dass du heute Abend nicht nach Hause kommst.'"
+        },
+        {
+          "n": 7,
+          "fix": "Zuspitzung auf dem Helipad: '22.005 Euro. Du stehst ganz oben, aber die Ermittler stehen schon im Foyer, weil Maya deine Unterschrift gefälscht hat.'"
+        },
+        {
+          "n": 8,
+          "fix": "Das Ende muss wie ein Schlag in die Fresse wirken: '999.999 Euro im Monat. Und die Zahl auf deiner Stirn war von Anfang an nur geliehen. Wer lacht jetzt?'"
+        }
+      ],
+      "fazit": "Die Serie hat eine starke visuelle Grundidee (Stirn-Zahlen, Frucht-Metropole), verliert sich aber in hölzernen Dialogen und aufzählenden Texten. Die Konflikte wirken oft behauptet statt gefühlt, und die 140-Wörter-Grenze führt zu unnötigem Ballast. Um echten TikTok-Sog zu erzeugen, müssen die Dialoge brutaler, direkter und emotional verletzender werden."
+    },
+    {
+      "scores": {
+        "hook": 5,
+        "story": 4,
+        "identifikation": 4,
+        "verbindungen": 6,
+        "sog": 4,
+        "wut": 3,
+        "merkfaehigkeit": 5,
+        "sprache": 4
+      },
+      "gesamt": 44,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den sterilen Einstieg durch einen echten Faustschlag ins Gesicht des Zuschauers: '2.000 Euro Einstiegsgehalt? Wer hat den Apple-Jungen eigentlich reingelassen? Vielleicht putzt er später die Toiletten für uns Reiche, während ich hier meine Aktienoptionen zeichne.' Mach den Ton absolut verächtlich, damit man sofort Hass aufbaut."
+        },
+        {
+          "n": 2,
+          "fix": "Erhöhe die Dramatik und Wortanzahl durch echten Konflikt statt Aufzählung: '2.400 Euro im Monat? Dafür darfst du dir exakt drei trockene Toastbrot-Scheiben leisten, während Victoria im Penthouse sitzt und deine monatelange Arbeit als ihre eigene ausgibt. Ich habe drei Nächte nicht geschlafen, für diesen beschissenen Bericht. Und was sagt sie? Du bist hier unten austauschbar, Kleines. Genau das siehst du im nächsten Level, wenn ich mich an ihr räche.'"
+        },
+        {
+          "n": 3,
+          "fix": "Lass die Figur greifbarer und wütender werden: '3.800 Euro und drei Kollegen haben sich absichtlich krankgemeldet, damit ich ihre Scheiße mitmachen darf. Ich steh im eiskalten Keller am Kopierer, während Marcus vorbeiläuft und mir ins Gesicht lacht: Du willst mehr Geld für diesen Müll? Du bist ersetzbar, Kid. Mein Blutdruck kocht. Im nächsten Level zeige ich dir, wie ich seinen Schreibtisch verwüste.'"
+        },
+        {
+          "n": 4,
+          "fix": "Fokussiere auf den Verrat: '5.200 Euro und du denkst kurz, du hast es geschafft – bis Zoe dir aus dem Erdgeschoss die Bilanz vor die Füße wirft und deine Beförderung eigenhändig streicht. Ich stand auf meinem neuen Balkon mit Prosecco, und sie ruft hoch: Genieß die Aussicht, solange du noch oben bist. Diese Schlange hat mich eiskalt hintergangen. Das siehst du im nächsten Level.'"
+        },
+        {
+          "n": 5,
+          "fix": "Verstärke den moralischen Verfall: '7.100 Euro, aber dein eigenes Team hasst dich zu Recht, weil du ihre Budgets zusammengestrichen hast, während die da oben die Fäden ziehen. Ich saß im Konfi und rieb mir die schmerzenden Tempi. Du musst dir doch nie Sorgen machen, sagt der Kollege höhnisch. Meine Ehe bricht auseinander, und die Zahlen rutschen ab. Im nächsten Level erfährst du, wer mich reingelegt hat.'"
+        },
+        {
+          "n": 6,
+          "fix": "Erhöhe den emotionalen Druck auf die Zielgruppe: '11.500 Euro im Monat und dein eigener Geschäftspartner verkauft dich an die Konkurrenz, während du deinen Kindern am Telefon zum dritten Mal sagst, dass Papa heute Nacht nicht nach Hause kommt. Ich laufe im Penthouse auf und ab, das Handy vibriert vor schlechten Nachrichten. Must be nice, oben zu sitzen. Die feindliche Übernahme läuft. Das siehst du in Level 7.'"
+        },
+        {
+          "n": 7,
+          "fix": "Verschärfe die Paranoia und den Verrat: '22.005 Euro. Du stehst ganz oben auf dem Helipad, aber die Bundespolizei wartet schon im Foyer, weil Maya deine Unterschrift gefälscht und dir die Schuld in die Schuhe geschoben hat. Ein kaltes Lächeln, denn hier oben überlebt nur, wer andere vernichtet. Die Ermittlungen laufen. Das siehst du im finalen Level 8.'"
+        },
+        {
+          "n": 8,
+          "fix": "Setze den finalen Twist mit maximaler Wucht: '999.999 Euro im Monat. Und die leuchtende Zahl auf deiner Stirn war von Anfang an nur eine verdammte Lüge. Wer lacht jetzt, wo das Imperium brennt? Die Zahl war nie dein wahrer Wert, sondern nur das Preisschild, das sie dir aufgeklebt haben, um dich zu steuern. Welche Serie machen wir als Nächstes? Schreib es in die Kommentare!'"
+        }
+      ],
+      "fazit": "Die Serie hat eine geile visuelle Grundidee mit den Früchten und den Zahlen auf der Stirn, aber sie scheitert massiv an dem, was virale TikToks in den ersten zwei Sekunden brauchen: rohe, ungefilterte Emotion, echte Arroganz und puren Hass auf die Gegenspieler. Die Texte klingen oft zu steril, zu sehr nach Drehbuch und zu wenig nach echten, verletzten Menschen, die am Rande des Nervenzusammenbruchs stehen. Ohne härtere Confrontations, bissigere Dialoge und diesen unstillbaren Drang, sofort wissen zu wollen, wie sich die Figur im nächsten Level rähmt, wischt die Gen-Z-Zielgruppe nach exakt 1.5 Sekunden weg."
+    },
+    {
+      "scores": {
+        "hook": 3,
+        "story": 4,
+        "identifikation": 2,
+        "verbindungen": 4,
+        "sog": 3,
+        "wut": 4,
+        "merkfaehigkeit": 3,
+        "sprache": 2
+      },
+      "gesamt": 31,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Schreibe den Text komplett in natürliches Deutsch um und entferne Regieanweisungen wie 'Mach den Ton absolut verächtlich'. Erweitere auf über 140 Wörter: 'Level 1: 2.000 Euro Einstiegsgehalt und ich darf gleich den Müll rausbringen, während die anderen im Konferenzraum Champagner trinken. Wer hat den Apple-Jungen eigentlich reingelassen? Vielleicht putzt er später die Toiletten für uns Reiche, während ich hier meine Aktienoptionen zeichne und mich frage, ob ich mir heute Abend noch eine billige Ramen-Suppe leisten kann oder lieber hungrig ins Bett gehe. Mein Bankkonto zeigt fette Null, die Miete frisst mein ganzes Nicht-Gehalt auf, und der Kollege schaut mich an, als wäre ich reiner Abfall. Ich habe mir den Arsch aufgerissen für diesen Abschluss, und das ist der Dank? Ein Vertrag ohne Zukunft und ein Chef, der mich nicht mal beim Namen nennt. Warte ab, bis ich ganz oben stehe, dann wird sich das Blatt wenden. Warum wurde mein Vertrag eigentlich genau vor Schichtbeginn zerrissen? Das erfährst du im nächsten Level.'"
+        },
+        {
+          "n": 2,
+          "fix": "Erweitere auf über 140 Wörter und streiche künstliche Metasätze: 'Level 2: 2.400 Euro im Monat und das Gefühl, komplett unsichtbar zu sein. Dafür darfst du dir exakt drei trockene Toastbrot-Scheiben leisten, während Victoria im Penthouse sitzt und deine monatelange Arbeit als ihre eigene ausgibt. Ich habe drei Nächte nicht geschlafen für diesen beschissenen Bericht, der den Umsatz retten sollte. Und was sagt sie mir ins Gesicht? Du bist hier unten austauschbar, Kleines, mach dich bloß nicht wichtig. Mein Kopf dröhnt, die Kaffeemaschine ist schon wieder kaputt, und die Angst vor dem nächsten Monat sitzt mir im Nacken. Sie glaubt, sie kann mich einfach so zertreten, nur weil auf ihrer Stirn eine größere Zahl prangt. Aber ich kenne ihre schmutzigen Geheimnisse und die Fehler in ihrer Bilanz. Warum hat mein Manager ausgerechnet heute meinen Gegenentwurf abgelehnt? Das siehst du im nächsten Level.'"
+        },
+        {
+          "n": 3,
+          "fix": "Erweitere auf über 140 Wörter für echten Wortfluss: 'Level 3: 3.800 Euro und drei Kollegen haben sich absichtlich krankgemeldet, nur damit ich ihre Scheiße mitmachen darf. Ich steh im eiskalten Keller am Kopierer, die Papierstaus hören nicht auf, und Marcus läuft feixend vorbei und drückt mir noch drei Akten in die Hand. Du willst mehr Geld für diesen Müll? Du bist ersetzbar, Kid, hör auf zu heulen. Mein Blutdruck kocht, während ich hier unten im Mief versinke und mein Erspartes im Minutentakt schrumpft. Niemand sieht, wie viel Arbeit hier reinfällt. Alle schauen weg, wenn die Obenen nach unten treten. Doch das Rad dreht sich weiter, und der nächste Schritt nach oben fordert seinen Preis. Wer hat eigentlich meine vertrauliche Krankmeldung im Intranet geleakt? Das siehst du im nächsten Level.'"
+        },
+        {
+          "n": 4,
+          "fix": "Erweitere auf über 140 Wörter und korrigiere den englischen Satzanfang: 'Level 4: 5.200 Euro und du denkst kurz, du hast es endlich geschafft – bis Zoe dir aus dem Erdgeschoss die Bilanz vor die Füße wirft und deine Beförderung eigenhändig streicht. Ich stehe auf meinem neuen Balkon mit einer viel zu teuren Flasche Prosecco, und sie ruft nach oben: Genieß die Aussicht, solange du noch da oben bist, es geht tief runter. Diese Schlange hat mich eiskalt hintergangen, nur um ihren eigenen Arsch zu retten. Meine Hände zittern am Glas, die Miete für diese Bude frisst die Gehaltserhöhung sofort wieder auf, und die Sicherheit war nur eine Illusion. Warum wurde meine Beförderung genau an dem Tag gestrichen, als ich den Mietvertrag unterschrieben habe? Das siehst du im nächsten Level.'"
+        },
+        {
+          "n": 5,
+          "fix": "Erweitere auf über 140 Wörter und entferne den englischen Einwurf: 'Level 5: 7.100 Euro, aber dein eigenes Team hasst dich zu Recht, weil du ihre Budgets zusammengestrichen hast, während die da oben die Fäden ziehen. Ich saß im Besprechungsraum und rieb mir die schmerzenden Tempel, während der Kaffee längst kalt geworden war. Du musst dir doch nie Sorgen machen, sagt der Kollege höhnisch und grinst mich an. Meine Ehe bricht auseinander, weil ich nur noch im Büro hocke, und die Zahlen rutschen trotzdem ab. Der Druck frisst mich von innen auf, und das Geld auf dem Konto bringt mir meine verlorene Zeit auch nicht zurück. Wer hat meine Abteilung so manipuliert, dass wir wie Idioten dastehen? Im nächsten Level erfährst du, wer mich reingelegt hat.'"
+        },
+        {
+          "n": 6,
+          "fix": "Erweitere auf über 140 Wörter und mache den Text flüssiger: 'Level 6: 11.500 Euro im Monat und dein eigener Geschäftspartner verkauft dich an die Konkurrenz, während du deinen Kindern am Telefon zum dritten Mal sagst, dass Papa heute Nacht nicht nach Hause kommt. Ich laufe im Penthouse auf und ab, das Handy vibriert im Sekundentakt vor schlechten Nachrichten und Drohungen aus der Chefetage. Must be nice, oben zu sitzen, hieß es früher – jetzt weiß ich, dass man hier oben einsamer ist als je zuvor. Die feindliche Übernahme läuft auf Hochtouren, und alle meine Aktienoptionen drohen wertlos zu werden. Warum hat mein eigener Partner im entscheidenden Moment gegen mich gestimmt? Das siehst du im nächsten Level.'"
+        },
+        {
+          "n": 7,
+          "fix": "Erweitere auf über 140 Wörter für maximale Dramatik: 'Level 7: 22.005 Euro. Du stehst ganz oben auf dem Helipad im eiskalten Wind, aber die Bundespolizei wartet schon im Foyer, weil Maya deine Unterschrift gefälscht und dir die Schuld an der Millionen-Pleite in die Schuhe geschoben hat. Ein kaltes Lächeln friert mir im Gesicht ein, denn hier oben überlebt nur, wer andere gnadenlos vernichtet. Die Handschellen liegen bereit, die Medienmeute wartet unten auf der Straße, und jahrelanger Aufbau stürzt in Sekunden ein. Wer von den vermeintlichen Freunden hat dieses falsche Dokument in den Safe gelegt? Das siehst du im finalen Level 8.'"
+        },
+        {
+          "n": 8,
+          "fix": "Erweitere auf über 140 Wörter und sorge für einen echten Mindfuck: 'Level 8: 999.999 Euro im Monat. Und die leuchtende Zahl auf deiner Stirn war von Anfang an nur eine verdammte Lüge, um uns alle gegeneinander aufzuhetzen. Wer lacht jetzt, wo das gesamte Imperium in Flammen aufgeht und die Server im Keller abstürzen? Die Zahl war nie dein wahrer Wert, sondern nur das Preisschild, das sie dir aufgeklebt haben, um dich zu steuern und gefügig zu machen. Jetzt bricht das System zusammen, die Zahlen erlöschen, und wir stehen alle nackt vor der Realität. Welche Serie machen wir als Nächstes, um das nächste System zu sprengen? Schreib es sofort in die Kommentare!'"
+        }
+      ],
+      "fazit": "Die Serie hat ein starkes visuelles Konzept (Stirn-Zahlen, Frucht-Metaphern, Easter Eggs), scheitert aber aktuell an unnatürlicher Sprache, fehlendem Wortumfang (unter 140 Wörtern pro Teil) und Meta-Regieanweisungen im Text. Die Dialoge klingen oft nach Drehbuch statt nach echten TikTok-Hooks. Wenn ihr die Texte menschlicher, wütender und wortreicher gestaltet, hat das Zeug zu echtem Millionen-Viral-Hit."
+    }
+  ]
+}

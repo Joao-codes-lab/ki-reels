@@ -1,123 +1,127 @@
 [
   {
     "nr": 1,
-    "topic": "The 8 Levels of Renting an Apartment in a Major City",
-    "frame": "aufzug",
-    "title": "The 8 Levels of Renting in NYC",
-    "file": "2026-10-24_pilot1_en_aufzug_the_8_levels_of_renting_an_apartment_in_teil1.mp4",
-    "hook": "Level 1 shares a kitchen with a raccoon, Level 8 owns the view.",
-    "warum": "Relatable housing crisis pain points mixed with extreme lifestyle contrasts.",
-    "score": 78,
+    "topic": "First Job Salary Negotiation and Corporate Burnout",
+    "frame": "frucht",
+    "title": "The 8 Levels of First Job Salary",
+    "file": "2026-10-24_pilot1_en_frucht_first_job_salary_negotiation_and_corpora_teil1.mp4",
+    "hook": "Level 1 is a tiny strawberry working 80 hours for exposure, while Level 8 is a golden pineapple who gets paid just for existing in the office.",
+    "warum": "Directly hits Gen Z financial anxiety and workplace resentment. The numeric forehead status triggers intense self-comparison and outrage.",
+    "score": 87,
     "jury": [
-      "Die KI-Stimme klingt an manchen Stellen zu monoton, mehr emotionale Dynamik würde die Frustration besser transportieren.",
-      "Der Text am Ende (das Menü) könnte schneller einblenden, um den Spannungsbogen nahtlos zur nächsten Episode zu halten.",
-      "Mehr optische Abwechslung in den Bildausschnitten der ersten Sekunden könnte den Hook noch stärker machen."
+      "Mehr Abwechslung in den Bildübergängen schaffen, um die visuelle Dynamik zu erhöhen.",
+      "Die emotionalen Höhepunkte im Voiceover noch stärker betonen.",
+      "Die Call-to-Action am Ende interaktiver gestalten, um Kommentare zu fördern."
     ],
-    "sid": "en_aufzug_the_8_levels_of_renting_an_apartment_in",
+    "sid": "en_frucht_first_job_salary_negotiation_and_corpora",
     "design": {
       "punkte": [
-        32,
-        46,
-        37
+        12,
+        18,
+        15
       ],
       "sieger": 1,
-      "warum": "Bild 1 setzt den Prompt perfekt um: Der Kopf ist eine einfache cremeweiße Kugel ohne Nase mit Punktaugen, der Zopf stimmt und die klaustrophobische Keller-Atmosphäre mit flackerndem Licht ist extrem detailreich im Webcomic-Stil getroffen. Bild 0 hat zu menschliche Gesichtszüge und Haare, Bild 3 weicht ebenfalls zu stark vom runden Ballkopf ab."
+      "warum": "Bild 1 setzt das Thema (Cartoon-Fruchtmensch ohne menschliches Gesicht) am saubersten und ästhetisch ansprechendsten um. Alle drei Bilder verfehlen jedoch die exakte corporate-lobby Szene und den vorgegebenen Textstring, wobei Bild 1 den besten Viral-Charme besitzt."
     }
   },
   {
     "nr": 2,
-    "topic": "The 8 Levels of Family Group Chat Drama and Holiday Pressure",
+    "topic": "Gym Membership Tiers and Protein Powder Obsession",
     "frame": "frucht",
-    "title": "The 8 Levels of Family Group Chat Drama",
-    "file": "2026-10-24_pilot2_en_frucht_the_8_levels_of_family_group_chat_drama_teil1.mp4",
-    "hook": "Level 1 is muted on WhatsApp, but Level 8's number decides who gets written out of the will.",
-    "warum": "Universal family dynamics that everyone secretly relates to during holidays.",
-    "score": 83,
+    "title": "The 8 Levels of Gym Membership & Protein",
+    "file": "2026-10-24_pilot2_en_frucht_gym_membership_tiers_and_protein_powder_teil1.mp4",
+    "hook": "Level 1 is a soft banana struggling with a 2-kilo dumbbell, while Level 8 is a massive dragon fruit mainlining creatine in the sauna.",
+    "warum": "Gym culture and fitness insecurity are massive on TikTok. The extreme physical transformation of the fruit based on their numeric status triggers instant laughs and endless comments about gym etiquette.",
+    "score": 87,
     "jury": [
-      "Einen noch überraschenderen Einstieg (Hook) wählen, um die Zuschauer in den ersten Sekunden noch stärker zu fesseln.",
-      "Die Soundeffekte bei Benachrichtigungen und Textnachrichten lauter und dynamischer abmischen, um das Tempo und den Dopamin-Effekt zu erhöhen.",
-      "Am Ende des Videos einen klareren visuellen Call-to-Action einbauen, um die Neugier auf Level 2 noch mehr anzuheizen."
+      "Der Einstieg könnte noch prägnanter sein, um das Publikum sofort zu fesseln.",
+      "Die Farbkorrektur in einigen Szenen könnte noch dynamischer wirken.",
+      "Das Ende könnte durch einen stärkeren Cliffhanger noch mehr zum nächsten Teil motivieren."
     ],
-    "sid": "en_frucht_the_8_levels_of_family_group_chat_drama",
+    "sid": "en_frucht_gym_membership_tiers_and_protein_powder",
     "design": {
       "punkte": [
+        28,
         42,
-        46,
-        44
+        35
       ],
       "sieger": 1,
-      "warum": "Bild 1 trifft den viralen Look am besten: Die digitale Anzeige auf der Stirn wirkt wie ein UI-Widget, das Smartphone, der Blick und die schmutzige grüne Schürze erzeugen maximale Sympathie und Storytelling-Tiefe für ein Reel."
+      "warum": "Bild 1 setzt den Obst/Gemüse-Stil am kreativsten um und hat das stärkste Potenzial für den viralen Figuren-Look, auch wenn die exakte Szene (Fitnessstudio/Kartoffel) in keinem der Bilder perfekt getroffen wurde."
     }
   },
   {
     "nr": 3,
-    "topic": "The 8 Levels of Corporate Small Talk and Zoom Meeting Etiquette",
-    "frame": "aufzug",
-    "title": "The 8 Levels of Corporate Small Talk",
-    "file": "2026-10-24_pilot3_en_aufzug_the_8_levels_of_corporate_small_talk_and_teil1.mp4",
-    "hook": "Level 1 desperately waves 'Can you hear me?', Level 8 mutes the entire global economy for a coffee break.",
-    "warum": "Remote work trauma hits home for every office worker trapped in back-to-back calls.",
-    "score": 90,
+    "topic": "Dating App Swiping Fatigue and Situationship Drama",
+    "frame": "frucht",
+    "title": "The 8 Levels of Dating App Burnout",
+    "file": "2026-10-24_pilot3_en_frucht_dating_app_swiping_fatigue_and_situation_teil1.mp4",
+    "hook": "Level 1 is a desperate fig crying over a ghoster on Tinder, while Level 8 is an untouchable pomegranate with 999 unread matches who charges people to look at them.",
+    "warum": "Modern dating misery is the ultimate engagement bait. Viewers will tag their single friends and argue endlessly in the comments about whether situationships are worse than being ghosted.",
+    "score": 82,
     "jury": [
-      "Die visuellen Schnitte präziser mit den Betonungen in der Audiostimme synchronisieren.",
-      "Die Übergänge zwischen den Comic-Szenen noch flüssiger gestalten.",
-      "Die Einblendung der finalen Level-Übersicht für eine Sekunde länger halten."
+      "Das Intro (Hook) könnte visuell noch schockierender sein, um die Absprungrate im ersten Moment weiter zu senken.",
+      "Die Untertitel könnten dynamischer animiert werden, um den Dopamin-Effekt im rasanten Tempo zu verstärken.",
+      "Der Spannungsbogen am Ende zu Level 2 könnte durch einen Cliffhanger im Text noch verstärkt werden."
     ],
-    "sid": "en_aufzug_the_8_levels_of_corporate_small_talk_and",
+    "sid": "en_frucht_dating_app_swiping_fatigue_and_situation",
     "design": {
       "punkte": [
-        31,
-        41,
-        42
+        42,
+        38,
+        44
       ],
-      "sieger": 1,
-      "warum": "Bild 1 trifft die Vorgabe des ballonartigen runden Kopfes perfekt, während Bild 0 und 2 menschliche Gesichter zeigen."
+      "sieger": 2,
+      "warum": "Bild 2 trifft mit der blauen Kreatur und den detaillierten Früchten im Hintergrund den geforderten Cartoon-Stil und die Webcomic-Ästhetik ('herrs.amorim' / '_8_levels') am besten. Alle Bilder verfehlen zwar teilweise das sehr spezifische Brooklyn-Diner-Szenario, aber Bild 2 liefert die markanteste, viral-tauglichste 3D-Figur."
     }
   },
   {
     "nr": 4,
-    "topic": "The 8 Levels of Social Media Influencer Apology Videos",
-    "frame": "aufzug",
-    "title": "The 8 Levels of Apology Videos",
-    "file": "2026-10-24_pilot4_en_aufzug_the_8_levels_of_social_media_influencer_teil1.mp4",
-    "hook": "Level 1 cries without tears in a dim hoodie, Level 8 monetizes their own cancellation with a luxury perfume line.",
-    "warum": "Mocks modern internet drama and fake influencer culture that Gen Z loves to roast.",
-    "score": null,
-    "jury": null,
-    "sid": "en_aufzug_the_8_levels_of_social_media_influencer",
+    "topic": "Remote Work Zoom Calls and Slack Message Anxiety",
+    "frame": "frucht",
+    "title": "The 8 Levels of Remote Work",
+    "file": "2026-10-24_pilot4_en_frucht_remote_work_zoom_calls_and_slack_message_teil1.mp4",
+    "hook": "Level 1 is a terrified blueberry sweating through a camera-off meeting, while Level 8 is a lazy coconut sending the 'Per my last email' thumbs-up emoji from a yacht in Bali.",
+    "warum": "Everyone hates corporate culture. The universal panic of 'can you see my screen?' combined with toxic productivity makes every remote worker feel personally attacked and validated.",
+    "score": 87,
+    "jury": [
+      "Noch mehr visuelle Abwechslung bei den Gesichtern und Charakteren für maximale Retention.",
+      "Sounddesign an den Übergängen akzentuierter gestalten.",
+      "Den Call-to-Action am Ende noch interaktiver gestalten (z.B. direkte Frage an den Zuschauer)."
+    ],
+    "sid": "en_frucht_remote_work_zoom_calls_and_slack_message",
     "design": {
       "punkte": [
-        34,
+        32,
         38,
-        41
+        35
       ],
-      "sieger": 2,
-      "warum": "Bild 2 trifft die exakte Kernaussage der Szene am besten (weint in die Hände vor dem Ringlicht, detailreicher Comic-Stil im _8_levels-Look, hohe Lesbarkeit am Smartphone)."
+      "sieger": 1,
+      "warum": "Bild 1 zeigt am ehesten die geforderte groteske, aber sympathische Obstkreaturen-Ästhetik im viralen 3D-Stil von simpsonsvorhersage.n, während Bild 0 und 2 zu stark an reguläres CGI-Gemüse erinnern und den Vibe der geforderten Szene verfehlen."
     }
   },
   {
     "nr": 5,
-    "topic": "The 8 Levels of Procrastination and Last-Minute Exam Cramming",
+    "topic": "Rideshare Rating Scores and Late-Night Uber Etiquette",
     "frame": "frucht",
-    "title": "The 8 Levels of Procrastination",
-    "file": "2026-10-24_pilot5_en_frucht_the_8_levels_of_procrastination_and_last_teil1.mp4",
-    "hook": "Level 1 organizes their desk color-cooperatively, Level 8 invents a time machine just to submit the essay five minutes late.",
-    "warum": "Universal student pain point that triggers instant 'this is literally me' comments.",
-    "score": 89,
+    "title": "The 8 Levels of Rideshare Ratings",
+    "file": "2026-10-24_pilot5_en_frucht_rideshare_rating_scores_and_late_night_u_teil1.mp4",
+    "hook": "Level 1 is a nervous kiwi with a 4.2 rating waiting in the rain, while Level 8 is a royal mango whose driver opens the door, rolls out a red carpet, and offers them a custom playlist.",
+    "warum": "Everyone checks their Uber rating like a credit score. Debating what actually ruins a driver's rating sparks fierce arguments and funny passenger horror stories in the comment section.",
+    "score": 81,
     "jury": [
-      "Das digitale Display auf der Stirn wirkt im ersten Frame leicht versetzt, hier auf perfekte Kontinuität achten.",
-      "Die Übergänge zwischen den Levels könnten durch noch dynamischere Soundeffekte verstärkt werden.",
-      "Der Text am Ende zur nächsten Stufe könnte minimal länger eingeblendet werden, um den Spannungsbogen zu maximieren."
+      "Die abrupten deutschen und englischen Sprachwechsel verwirren etwas und sollten einheitlicher sein.",
+      "Die KI-Bilder könnten noch flüssiger ineinander übergehen, um den visuellen Rhythmus zu stärken.",
+      "Das Ende könnte durch einen noch klareren Teaser für Level 2 mehr FOMO erzeugen."
     ],
-    "sid": "en_frucht_the_8_levels_of_procrastination_and_last",
+    "sid": "en_frucht_rideshare_rating_scores_and_late_night_u",
     "design": {
       "punkte": [
-        32,
-        41,
-        37
+        28,
+        34,
+        22
       ],
       "sieger": 1,
-      "warum": "Bild 1 trifft den viralen Look von simpsonsvorhersage.n & herr.amorim am besten: Perfekte Peach-Textur mit Fuzz-Skin, klarer Cartoon-Fruchttyp, getragener Hoodie, warme Dorm-Atmosphäre und ein Digital-Timer auf der Stirn, während Bild 0 eher wie ein Apfel wirkt und Bild 3 handwerklich schwächer sitzt."
+      "warum": "Bild 1 zeigt eine solide Farbpalette, verfehlt aber das Thema des melancholischen Blaubeermenschen im Auto deutlich. Bild 2 trifft den gespenstischen Ton und die Figurendichte am besten, auch wenn die Szene nicht exakt dem Prompt entspricht, liefert aber das stimmigste Design für Social Media. Bild 3 ist zu humanoid und verliert den reinen Cartoon-Gemüsecharme."
     }
   }
 ]

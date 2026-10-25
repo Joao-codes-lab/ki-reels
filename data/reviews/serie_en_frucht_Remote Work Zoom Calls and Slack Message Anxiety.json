@@ -1,0 +1,149 @@
+{
+  "best_score": 73,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 7,
+        "story": 6,
+        "identifikation": 8,
+        "verbindungen": 9,
+        "sog": 8,
+        "wut": 7,
+        "merkfaehigkeit": 7,
+        "sprache": 6
+      },
+      "gesamt": 73,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den Beginn mit: 'Level 1: 1.200 Dollar im Monat, mein WLAN bricht wieder zusammen und der Chef lacht im Call über meine kaputte Kamera. Ich sitze im dunklen Kleiderschrank, weil mein WG-Zimmer zu laut ist. Plötzlich poppt die Lohnabrechnung auf: Null Euro. Wer hat mein Gehalt geklaut? Das siehst du in Level 2.' (Ausbau auf über 140 Wörter im Skript durch mehr innere Monologe)."
+        },
+        {
+          "n": 2,
+          "fix": "Ersetze den Beginn mit: 'Level 2: 2.400 Dollar im Monat und der Kunde will um Mitternacht noch drei komplett neue Versionen. Ich koche Ramen auf einer billigen Herdplatte, während meine Augen brennen. Deine Texte haben keine Seele, schreibt mir diese arrogante Zitrone aus Level 7. Plötzlich vibriert mein Handy mit einer unerwarteten Gutschrift. Wer hat mir diese 500 Dollar überwiesen? Du siehst es in Level 3.'"
+        },
+        {
+          "n": 3,
+          "fix": "Ersetze den Beginn mit: 'Level 3: 4.100 Dollar um 3 Uhr morgens im dunklen Zimmer, während ich Produktionsfehler suche. Der Broccoli-Typ aus Level 8 droht mir schon wieder per Slack: Wenn der Bug nicht weg ist, fliegst du. Ich schlage auf den Tisch und verschütte meinen Kaffee. Warum behandelt man mich wie den letzten Dreck? Wer hat gerade meinen Root-Zugriff gelöscht? Die Antwort kommt in Level 4.'"
+        },
+        {
+          "n": 4,
+          "fix": "Ersetze den Beginn mit: 'Level 4: 6.200 Dollar im Monat und ich muss diesen toxischen Zoom-Call moderieren, in dem sich alle anschreien. Sam aus Level 1 hat im Firmenchat Lügen über mich verbreitet, und das Management schaut zu. Meine Hände zittern an der Maus nach 80 Arbeitsstunden diese Woche. Wer hat meine vertrauliche Leistungsbeurteilung an die ganze Firma geleakt? Du siehst es in Level 5.'"
+        },
+        {
+          "n": 5,
+          "fix": "Ersetze den Beginn mit: 'Level 5: 8.900 Dollar im Monat, mein Homeoffice ist größer als die Wohnung von Mia aus Level 2. Ich trinke teuren Espresso und sehe mir den Aktienkurs an, während sie Gerüchte streut, wir würden alle faulenzen. Mein Badge leuchtet grün. Wer hat meine Aktienoptionen einen Monat zu früh freigeschaltet? Das erfährst du in Level 6.'"
+        },
+        {
+          "n": 6,
+          "fix": "Ersetze den Beginn mit: 'Level 6: 12.500 Dollar im Monat, ich feuere gerade drei Abteilungsleiter per Videocall. Leo aus Level 3 hat mir absichtlich einen kaputten Code-Patch geschickt, der mein Staging-System zerstört hat. Meine Knöchel werden weiß vor Wut auf dem Mahagoni-Tisch. Wer hat meine gesamte Division hinter meinem Rücken aufgekauft? Du siehst es in Level 7.'"
+        },
+        {
+          "n": 7,
+          "fix": "Ersetze den Beginn mit: 'Level 7: 22.000 Dollar im Monat und ich plane feindliche Übernahmen von meiner Yacht aus. Chloe aus Level 4 wagt es ernsthaft, meine Ethik im Business anzuzweifeln, während sie in ihrem winzigen Balkon sitzt. Ich trinke Champagner. Wer hat mein privates Schweizer Bankkonto in drei Sekunden komplett leergeräumt? Die Auflösung gibt es in Level 8.'"
+        },
+        {
+          "n": 8,
+          "fix": "Ersetze den Beginn mit: 'Level 8: 99.999 Dollar im Monat und mir gehören die Server, auf denen ihr alle arbeitet. Leo aus Level 3 hat unwissentlich den Master-Algorithmus geschrieben, der euch alle einsperrt. Ich sehe von oben auf die glänzende Stadt herab. Ich habe keinen Käfig gebaut, ich habe eure Welt erschaffen. Wer von euch loggt sich jetzt freiwillig aus?'"
+        }
+      ],
+      "fazit": "Die Serie hat durch die Obst-Metaphern, die gut verknüpften Level und die spiralförmigen Konflikte ein extrem starkes virales Fundament. Allerdings sind die Texte pro Video oft zu kurz, zu hölzern und verschenken in den ersten zwei Sekunden das maximale Drama. Mit knackigeren, emotionaleren Dialogen und echten Konflikten statt reinem Namedpping brennt das durch die Decke."
+    },
+    {
+      "scores": {
+        "hook": 3,
+        "story": 4,
+        "identifikation": 5,
+        "verbindungen": 4,
+        "sog": 3,
+        "wut": 3,
+        "merkfaehigkeit": 4,
+        "sprache": 4
+      },
+      "gesamt": 38,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den trockenen Einstieg durch harten Social Proof: '2.000 Euro Gehalt? Warum zeigt mein Slack gerade Null Euro an, während mein Chef mich im Call auslacht? Wer hat mein Konto gehackt?'"
+        },
+        {
+          "n": 2,
+          "fix": "Erhöhe den Konflikt sofort: '2.400 Dollar, koche Ramen und die arrogante Zitrone aus Level 7 will um Mitternacht noch drei Versionen. Wer hat mir gerade 500 Euro überwiesen?'"
+        },
+        {
+          "n": 3,
+          "fix": "Verschärfe den Ton: '4.100 Dollar um 3 Uhr nachts und der Broccoli-Typ aus Level 8 droht mir schon wieder mit dem Rauswurf. Wer hat gerade meinen gesamten Code gelöscht?'"
+        },
+        {
+          "n": 4,
+          "fix": "Mehr Biss: '6.200 Dollar und dieser toxische Zoom-Call bricht zusammen, weil Sam aus Level 1 Lügen verbreitet. Wer hat meine Leistungsbeurteilung geleakt?'"
+        },
+        {
+          "n": 5,
+          "fix": "Direkter Konter: '8.900 Dollar im Monat, mein Office ist größer als Mias Wohnung aus Level 2, während sie erzählt, wir faulenzen. Wer hat meine Aktienoptionen freigeschaltet?'"
+        },
+        {
+          "n": 6,
+          "fix": "Mehr Dominanz: '12.500 Dollar, ich feuere drei Leute per Call und Leo aus Level 3 zerstört mein Staging-System. Wer hat meine Division aufgekauft?'"
+        },
+        {
+          "n": 7,
+          "fix": "Höhere Arroganz: '22.000 Dollar von der Yacht aus, und Chloe aus Level 4 wagt es, meine Ethik zu kritisieren. Wer hat mein Schweizer Konto in drei Sekunden leergeräumt?'"
+        },
+        {
+          "n": 8,
+          "fix": "Absoluter Twist: '99.999 Dollar im Monat, mir gehören eure Server. Leo aus Level 3 hat unwissentlich den Master-Algorithmus geschrieben. Wer von euch loggt sich jetzt freiwillig aus?'"
+        }
+      ],
+      "fazit": "Für TikTok und Instagram Reels ist das viel zu brav, zu hölzern und wie ein klassischer Corporate-Erklärbär geschrieben. Nach 2 Sekunden swipen die Leute weg, weil der erste Satz keine Emotionen (Neid, Hass, Schock) triggert. Die Frucht-Metapher ist zwar nett, aber die Storylines lesen sich wie eine aufgeteilte Textaufgabe statt wie purer emotionaler Terror und Mobbing unter Kollegen. Mehr Dreck, mehr Wut, aggressivere Hooks!"
+    },
+    {
+      "scores": {
+        "hook": 5,
+        "story": 4,
+        "identifikation": 3,
+        "verbindungen": 6,
+        "sog": 4,
+        "wut": 3,
+        "merkfaehigkeit": 4,
+        "sprache": 4
+      },
+      "gesamt": 41,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Level 1: 2.000 Euro im Monat? Ernsthaft? Warum zeigt mein Slack gerade Null Euro an, während mein toxischer Chef mich im Video-Call auslacht und mich vor dem ganzen Team vorführt? Hat er mein Konto gehackt, nur weil ich fünf Minuten zu spät zum Stand-up eingeloggt war? Ich arbeite seit Wochen durch, trinke lauwarmen Kaffee aus einer kaputten Tasse und jetzt das. Wenn ich diesen Monat meine Miete nicht zahle, fliege ich raus. Wer diesen Scheiß-Account leergeräumt hat und warum mein Kollege aus der nächsten Ebene plötzlich grinst, siehst du sofort im nächsten Teil."
+        },
+        {
+          "n": 2,
+          "fix": "Level 2: 2.400 Dollar, ich koche mir nachts billige Ramen, während die arrogante Zitrone aus Level 7 um Mitternacht noch drei komplett neue Versionen verlangt und meine Arbeit als wertlos bezeichnet. Wer hat mir gerade heimlich 500 Euro auf mein Konto überwiesen? Ist das eine Falle von der Geschäftsführung oder will mich hier jemand reinreiten? Ich halte den Druck im Homeoffice kaum noch aus, der Bildschirm flackert, die Augen brennen. Wer hinter diesem dubiosen Geldsegen steckt und welches Spiel hier gespielt wird, erfährst du im nächsten Level."
+        },
+        {
+          "n": 3,
+          "fix": "Level 3: 4.100 Dollar um 3 Uhr nachts, der Broccoli-Typ aus Level 8 droht mir schon wieder mit dem fristlosen Rauswurf, falls der Bug nicht sofort verschwindet. Wer hat gerade meinen gesamten Code im Repository gelöscht und meine Arbeit von drei Wochen einfach vernichtet? Ich sitze hier im dunklen Zimmer, das Blaulicht blendet mich, während die Deadline näher rückt. Welcher Verräter aus den oberen Etagen meine Server sabotierte und wie ich mich dafür räche, siehst du im nächsten Teil."
+        },
+        {
+          "n": 4,
+          "fix": "Level 4: 6.200 Dollar und dieser verdammte Zoom-Call bricht komplett zusammen, weil Sam aus Level 1 dreiste Lügen über meine Abteilung verbreitet. Wer hat meine streng vertrauliche Leistungsbeurteilung an die gesamte Belegschaft geleakt? Ich trage hier die Verantwortung für das Team, und jetzt will mich jemand absägen. Welcher illoyale Mitarbeiter hinter meinem Rücken die Fäden zieht und wie das Management darauf reagiert, erfährst du im nächsten Video."
+        },
+        {
+          "n": 5,
+          "fix": "Level 5: 8.900 Dollar im Monat, mein Office ist größer als die winzige Wohnung von Mia aus Level 2, während sie in den Chats erzählt, wir würden den ganzen Tag nur faulenzen. Wer hat meine Aktienoptionen ohne Vorankündigung und mitten in der Nacht freigeschaltet? Ist das der Beginn einer feindlichen Übernahme oder eine Belohnung vom Vorstand? Wer hier wirklich profitiert und wer das sinkende Schiff verlässt, siehst du im nächsten Level."
+        },
+        {
+          "n": 6,
+          "fix": "Level 6: 12.500 Dollar, ich feue gerade drei Angestellte eiskalt per Video-Call, während Leo aus Level 3 mein gesamtes Staging-System zerstört. Wer hat meine Division im Hintergrund aufgekauft und mir die administrative Kontrolle entzogen? Ich lasse mich von diesem technischem Amoklauf nicht einschüchtern. Wer das Sagen hat und welche Intrige hier läuft, erfährst du im nächsten Teil."
+        },
+        {
+          "n": 7,
+          "fix": "Level 7: 22.000 Dollar Gehalt, ich sitze auf meiner Luxus-Yacht, und Chloe aus Level 4 wagt es tatsächlich, meine geschäftliche Ethik öffentlich anzuzweifeln. Wer hat mein privates Schweizer Bankkonto in genau drei Sekunden komplett leergeräumt? Wer es gewagt hat, mich so zu bestehlen, wird die Konsequenzen spüren. Welcher skrupellose Kopf hinter dieser Millionen-Transaktion steckt, siehst du im finalen Level."
+        },
+        {
+          "n": 8,
+          "fix": "Level 8: 99.999 Dollar im Monat, mir gehören sämtliche Server, und Leo aus Level 3 hat unwissentlich den Master-Algorithmus geschrieben, der euch alle steuert. Wer von euch loggt sich jetzt freiwillig aus, bevor das System komplett abstürzt? Das Spiel ist vorbei, und ich halte alle Fäden in der Hand. Wer jetzt noch glaubt, entkommen zu können, erlebt die brutale Wahrheit am Ende des Systems."
+        }
+      ],
+      "fazit": "Die Serie hat eine originelle visuelle Grundidee mit den Frucht-Metaphern, scheitert aber massiv an der Umsetzung für virale Plattformen. Die Texte lesen sich wie sterile Aufzählungen von Problemen statt wie hochemotionale, erbarmungslose Dramen. Die Hooks verpuffen nach einer Sekunde, weil sie zu langatmig und erklärend sind. Es fehlt der Punch, die echte Gehässigkeit, die Wut und der unbändige Sog, sofort weiterzuwischen, um die Auflösung zu sehen. Die Wortanzahl pro Teil war viel zu niedrig (unter 50 statt der geforderten 140+ Wörter), wodurch keinerlei Bindung entsteht. Mit den vorgeschlagenen dramatischen Überarbeitungen wird echter viraler Druck aufgebaut."
+    }
+  ]
+}

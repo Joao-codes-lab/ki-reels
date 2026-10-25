@@ -1,0 +1,694 @@
+{
+  "title": "The 8 Levels of First Job Salary",
+  "house": "A bustling neon-lit corporate metropolis named Citrus City, where rain slicked pavement reflects towering glass skyscrapers and fruit and vegetable people rush between subway stations and high-rise cubicles.",
+  "catchphrase": "The number on your forehead never lies.",
+  "links": [
+    "A quiet man in a sharp suit leaves a massive tip at the subway kiosk in Level 1 and Level 5.",
+    "The stressed barista from Level 2 is spotted crying in the corporate elevator in Level 6.",
+    "A dropped golden coin rolls past the reception desk in every single level."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Why did the recruiter suddenly shred my contract right before my first shift?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Laughs at my unpaid internship offer and tells me to buy coffee for the real employees."
+      },
+      "name": "Pip, 22, Intern",
+      "badge": "$0 / mo",
+      "verdict": "BROKE",
+      "story": "The 8 levels of first job salary. Level 1. Level 1: 0 dollars a month and they expect me to work eighty hours a week for exposure. I stood in the glass-walled HR lobby holding my cold resume, my forehead glowing with a stark zero. You are working for free because you are worth nothing to this company. My chest tightened into a knot of burning humiliation and I swallowed hard. We don't take charity cases here, kid. You'll see that in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1,200 $",
+        "after": "1,200 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of first job salary. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 0 dollars a month and they expect me to work eighty hours a week for exposure."
+        },
+        {
+          "s": "Figur",
+          "t": "I stood in the glass-walled HR lobby holding my cold resume, my forehead glowing with a stark zero."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are working for free because you are worth nothing to this company.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My chest tightened into a knot of burning humiliation and I swallowed hard."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "We don't take charity cases here, kid.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "We don't take charity cases here, kid.",
+      "quote_by": {
+        "level": 6,
+        "name": "Barnaby",
+        "badge": "9,500 $",
+        "character": "A hard-shelled Coconut man wearing an expensive charcoal suit and gold-rimmed glasses.",
+        "scene": "Wide shot of a luxury corporate boardroom, Coconut man leaning over a glass table looking down condescendingly."
+      },
+      "stats": [
+        {
+          "label": "Salary",
+          "value": "$0",
+          "bar": 0.0
+        },
+        {
+          "label": "Rent",
+          "value": "$800",
+          "bar": 0.1
+        },
+        {
+          "label": "Stress",
+          "value": "99%",
+          "bar": 1.0
+        }
+      ],
+      "character": "A fragile green Apple boy with smooth skin, wearing a frayed oversized thrift-store sweater and clutching a worn-out leather notebook; a bright glowing zero rests on his forehead.",
+      "visual": "Close-up shot in a sleek corporate lobby during twilight, cold blue fluorescent lighting reflecting off polished marble floors where a tiny golden coin lies half-hidden near a pillar.",
+      "scenes": [
+        "Wide shot of the bustling subway station at dawn, dim yellow lights flickering above crowds of tired fruit people rushing past concrete pillars.",
+        "Medium shot inside a cramped elevator, a nervous Apple boy standing alone while his glowing zero forehead number illuminates the dark cabin.",
+        "Close-up detail of a trembling hand holding a cheap black ballpoint pen over a blank, intimidating employment contract.",
+        "Halbnah shot in the shiny HR office, a tall Coconut man in a sharp suit pointing mockingly at the young Apple's resume.",
+        "Detail shot of a small golden coin resting on a cold steel bench right beside a discarded paper coffee cup.",
+        "Wide exterior shot of a towering glass skyscraper under dark rain clouds, glowing digital billboards flashing corporate slogans."
+      ],
+      "caption": "Would you work for free just to get your foot in the door? Let me know in the comments! #CorporateLife #FirstJob #SalaryNegotiation #Burnout #StirnZahl"
+    },
+    {
+      "n": 2,
+      "open_loop": "Why did my manager reject my counter-offer after I brought in record sales?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Steals my quarterly client list and claims it as her own multi-million dollar pitch."
+      },
+      "name": "Zoe, 24, Junior Analyst",
+      "badge": "2,400 $",
+      "verdict": "UNDERPAID",
+      "story": "The 8 levels of first job salary. Level 2. Level 2: 2,400 dollars a month and rent takes two thirds before I even buy groceries. I sat in the cramped breakroom staring at my meager paycheck while sipping lukewarm tap water. You think staying late makes you special when your number is this pathetic? My eyes stung with hot tears of pure exhaustion and rage after three all-nighters. Know your place at the bottom of the ladder. You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+600 $",
+        "after": "3,000 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of first job salary. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 2,400 dollars a month and rent takes two thirds before I even buy groceries."
+        },
+        {
+          "s": "Figur",
+          "t": "I sat in the cramped breakroom staring at my meager paycheck while sipping lukewarm tap water."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You think staying late makes you special when your number is this pathetic?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My eyes stung with hot tears of pure exhaustion and rage after three all-nighters."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Know your place at the bottom of the ladder.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Know your place at the bottom of the ladder.",
+      "quote_by": {
+        "level": 7,
+        "name": "Victoria",
+        "badge": "14,000 $",
+        "character": "An elegant Dragonfruit woman with vibrant magenta skin, wearing a luxurious faux-fur coat.",
+        "scene": "Medium shot in a high-rise executive lounge, Dragonfruit woman swirling wine in a crystal glass while looking down at a clipboard."
+      },
+      "stats": [
+        {
+          "label": "Salary",
+          "value": "2,400 $",
+          "bar": 0.2
+        },
+        {
+          "label": "Rent",
+          "value": "1,600 $",
+          "bar": 0.6
+        },
+        {
+          "label": "Stress",
+          "value": "85%",
+          "bar": 0.9
+        }
+      ],
+      "character": "A slender Zucchini woman with dark green textured skin, wearing a faded business-casual blouse and silver hoop earrings; a bright digital 2,400 glows on her forehead.",
+      "visual": "Halbnah shot inside a fluorescent-lit office breakroom, green walls peeling slightly, a vending machine humming in the corner with a tiny golden coin wedged in the coin slot.",
+      "scenes": [
+        "Wide shot of a crowded open-plan office filled with rows of identical gray cubicles and stressed vegetable workers hunched over glowing monitors.",
+        "Medium shot in the messy breakroom, a green Zucchini woman staring bitterly at a printed bank statement on a folding table.",
+        "Close-up detail of a digital forehead display glowing with the green digits 2,400 in a dim hallway.",
+        "Halbnah shot of a sharp senior executive slamming a heavy black binder onto a desk while shouting angrily.",
+        "Detail shot of a small golden coin wedged firmly inside the coin return slot of an old snack vending machine.",
+        "Wide shot of a rainy city street at night, yellow taxi cabs splashing muddy water past lonely pedestrians."
+      ],
+      "caption": "Have you ever been told you don't deserve a raise after working your hardest? Drop your thoughts below! #CorporateBurnout #JuniorAnalyst #Underpaid #StirnZahl #WorkplaceDrama"
+    },
+    {
+      "n": 3,
+      "open_loop": "Who leaked my private medical leave request to the entire department?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Demotes me to archive duty because I requested a standard cost-of-living adjustment."
+      },
+      "name": "Leo, 26, Assistant",
+      "badge": "3,800 $",
+      "verdict": "AVERAGE",
+      "story": "The 8 levels of first job salary. Level 3. Level 3: 3,800 dollars a month and burnout is just another word for keeping your job. I stood at the industrial copy machine in the basement level, my eyes burning from spreadsheets. You want a raise with that mediocre output? My blood pressure spiked instantly as I dropped a stack of important tax forms on the floor. You are easily replaceable, kid. You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+800 $",
+        "after": "4,600 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of first job salary. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 3,800 dollars a month and burnout is just another word for keeping your job."
+        },
+        {
+          "s": "Figur",
+          "t": "I stood at the industrial copy machine in the basement level, my eyes burning from spreadsheets."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You want a raise with that mediocre output?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My blood pressure spiked instantly as I dropped a stack of important tax forms on the floor."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are easily replaceable, kid.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "You are easily replaceable, kid.",
+      "quote_by": {
+        "level": 5,
+        "name": "Marcus",
+        "badge": "6,500 $",
+        "character": "A sturdy Pumpkin man with a thick orange peel and a heavy gold signet ring on his thumb.",
+        "scene": "Halbnah shot in a brightly lit corridor, Pumpkin man crossing his arms with an arrogant smirk while looking down at his watch."
+      },
+      "stats": [
+        {
+          "label": "Salary",
+          "value": "3,800 $",
+          "bar": 0.35
+        },
+        {
+          "label": "Savings",
+          "value": "400 $",
+          "bar": 0.15
+        },
+        {
+          "label": "Stress",
+          "value": "90%",
+          "bar": 0.95
+        }
+      ],
+      "character": "An earthy Potato man with rough brown skin, wearing a loose-fitting gray cardigan and wire-rimmed glasses; a glowing digital 3,800 rests on his forehead.",
+      "visual": "Wide shot of a damp basement copy room with flickering fluorescent lights overhead and towering stacks of paper boxes piled against gray concrete walls.",
+      "scenes": [
+        "Wide shot of a dreary office basement corridor lined with humming server racks and grey metal storage cabinets.",
+        "Medium shot of a Potato man leaning against a noisy copy machine, rubbing his tired eyes in exhaustion.",
+        "Close-up detail of digital numbers 3,800 glowing softly in the dark shadows of a stairwell.",
+        "Halbnah shot of a stern manager pointing an accusing finger at an open folder on a messy desk.",
+        "Detail shot of a small golden coin resting on top of an industrial stapler next to a half-empty mug of black coffee.",
+        "Wide shot of a rainy bus stop at midnight, dim streetlamps casting long shadows on wet asphalt."
+      ],
+      "caption": "Is an average salary worth sacrificing your mental health? Tell me your story below! #WorkplaceStress #PotatoLife #BurnoutRecovery #StirnZahl #OfficeDrama"
+    },
+    {
+      "n": 4,
+      "open_loop": "Why did my promotion get canceled right after I signed the lease on my new apartment?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Spreads false rumors about my working hours to undermine my performance review."
+      },
+      "name": "Maya, 28, Project Manager",
+      "badge": "5,200 $",
+      "verdict": "SECURE",
+      "story": "The 8 levels of first job salary. Level 4. Level 4: 5,200 dollars a month and I finally thought I made it out of the struggle. I stood on the balcony of my new high-rise loft holding a glass of prosecco. Must be nice living high up while the rest of us drown in paperwork. A bitter knot formed in my stomach as I remembered how hard I fought for this title. Enjoy your view while it lasts. You'll see that in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1,300 $",
+        "after": "6,500 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of first job salary. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 5,200 dollars a month and I finally thought I made it out of the struggle."
+        },
+        {
+          "s": "Figur",
+          "t": "I stood on the balcony of my new high-rise loft holding a glass of prosecco."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Must be nice living high up while the rest of us drown in paperwork.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "A bitter knot formed in my stomach as I remembered how hard I fought for this title."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Enjoy your view while it lasts.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Enjoy your view while it lasts.",
+      "quote_by": {
+        "level": 2,
+        "name": "Zoe",
+        "badge": "2,400 $",
+        "character": "A slender Zucchini woman wearing a faded business-casual blouse and silver hoop earrings.",
+        "scene": "Medium shot on a lower apartment balcony, Zucchini woman looking up with an expression of intense envy and bitterness."
+      },
+      "stats": [
+        {
+          "label": "Salary",
+          "value": "5,200 $",
+          "bar": 0.55
+        },
+        {
+          "label": "Savings",
+          "value": "6,200 $",
+          "bar": 0.4
+        },
+        {
+          "label": "Stress",
+          "value": "70%",
+          "bar": 0.7
+        }
+      ],
+      "character": "A vibrant Mango woman with golden-yellow smooth skin, wearing a stylish teal blazer and minimalist gold jewelry; a glowing digital 5,200 adorns her forehead.",
+      "visual": "Wide shot of a modern glass balcony at sunset, glowing city skyline in the background with amber streetlights flickering on below.",
+      "scenes": [
+        "Wide shot of a sleek modern apartment balcony overlooking a sprawling neon-lit metropolitan skyline at dusk.",
+        "Medium shot of a Mango woman smiling proudly while holding a crystal wine glass against the evening breeze.",
+        "Close-up detail of a bright digital forehead display showing 5,200 in warm amber light.",
+        "Halbnah shot of two colleagues arguing across adjacent balconies, tension visible in their posture.",
+        "Detail shot of a small golden coin resting on a wrought-iron patio table beside a potted succulent.",
+        "Wide interior shot of a minimalist living room with unpacked moving boxes piled near floor-to-ceiling windows."
+      ],
+      "caption": "Does hitting a mid-level salary actually bring peace of mind or just higher expectations? Let me know! #CareerMilestone #MangoLife #ApartmentLiving #StirnZahl #CorporateClimb"
+    },
+    {
+      "n": 5,
+      "open_loop": "Why was my department budget slashed by half right after I presented our record profits?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Accuses me of corporate negligence over an audit error that she secretly caused."
+      },
+      "name": "Marcus, 35, Team Lead",
+      "badge": "7,100 $",
+      "verdict": "UPWARD",
+      "story": "The 8 levels of first job salary. Level 5. Level 5: 7,100 dollars a month and every extra dollar just buys you more sleepless nights. I sat at the head of the mahogany conference table rubbing my temples as projections flashed. You must never worry about bills with a number like that, sir. A hollow laugh escaped my lips because my marriage was falling apart from overwork. Your team's numbers are slipping. You'll see that in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1,900 $",
+        "after": "9,000 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of first job salary. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 7,100 dollars a month and every extra dollar just buys you more sleepless nights."
+        },
+        {
+          "s": "Figur",
+          "t": "I sat at the head of the mahogany conference table rubbing my temples as projections flashed."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "You must never worry about bills with a number like that, sir.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "A hollow laugh escaped my lips because my marriage was falling apart from overwork."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your team's numbers are slipping.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Your team's numbers are slipping.",
+      "quote_by": {
+        "level": 8,
+        "name": "Director Plum",
+        "badge": "SECRET",
+        "character": "A mysterious majestic Plum person wearing a tailored midnight-blue velvet coat and silver cufflinks.",
+        "scene": "Wide shot of a dimly lit penthouse office, Plum person standing in deep shadows holding a gold-plated fountain pen."
+      },
+      "stats": [
+        {
+          "label": "Salary",
+          "value": "7,100 $",
+          "bar": 0.7
+        },
+        {
+          "label": "Savings",
+          "value": "18,000 $",
+          "bar": 0.65
+        },
+        {
+          "label": "Stress",
+          "value": "95%",
+          "bar": 0.98
+        }
+      ],
+      "character": "A sturdy Pumpkin man with a textured orange rind, wearing a charcoal wool suit and a silk tie; a glowing digital 7,100 shines proudly on his forehead.",
+      "visual": "Wide shot of a luxurious glass-walled corporate boardroom with sleek leather chairs and holographic charts glowing in the center of the room.",
+      "scenes": [
+        "Wide shot of an executive glass boardroom overlooking a misty morning skyline with sleek skyscrapers piercing the clouds.",
+        "Medium shot of a Pumpkin man sitting at a polished conference table, staring blankly at a glowing tablet.",
+        "Close-up detail of digital numbers 7,100 glowing in crisp white light on a stressed forehead.",
+        "Halbnah shot of an anxious junior employee handing a stack of yellow memo folders across a heavy desk.",
+        "Detail shot of a small golden coin resting inside the leather-bound cover of an executive expense ledger.",
+        "Wide shot of a quiet underground parking garage, luxury sedans parked neatly under harsh fluorescent strips."
+      ],
+      "caption": "Does a higher salary automatically mean more stress and less family time? Tell me your thoughts! #TeamLead #PumpkinLife #CorporateClimb #StirnZahl #SalaryGoals"
+    },
+    {
+      "n": 6,
+      "open_loop": "Why did my own business partner vote to oust me during the board meeting?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Leaks my confidential restructuring memo to the press to sabotage my executive bid."
+      },
+      "name": "Barnaby, 42, Director",
+      "badge": "11,500 $",
+      "verdict": "EXECUTIVE",
+      "story": "The 8 levels of first job salary. Level 6. Level 6: 11,500 dollars a month and you realize power is just a cage made of gold. I paced across the plush Persian rug of my corner office, my phone buzzing with updates. Must be nice sitting up here while we do the real lifting. A cold wave of guilt washed over me because I barely remembered my children's faces. The board is initiating a hostile takeover. You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+3,500 $",
+        "after": "15,000 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of first job salary. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 11,500 dollars a month and you realize power is just a cage made of gold."
+        },
+        {
+          "s": "Figur",
+          "t": "I paced across the plush Persian rug of my corner office, my phone buzzing with updates."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Must be nice sitting up here while we do the real lifting.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "A cold wave of guilt washed over me because I barely remembered my children's faces."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "The board is initiating a hostile takeover.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "The board is initiating a hostile takeover.",
+      "quote_by": {
+        "level": 4,
+        "name": "Maya",
+        "badge": "5,200 $",
+        "character": "A vibrant Mango woman wearing a stylish teal blazer and minimalist gold jewelry.",
+        "scene": "Halbnah shot in a bustling hallway, Mango woman speaking urgently into a smartphone with a tense expression."
+      },
+      "stats": [
+        {
+          "label": "Salary",
+          "value": "11,500 $",
+          "bar": 0.85
+        },
+        {
+          "label": "Assets",
+          "value": "450,000$",
+          "bar": 0.8
+        },
+        {
+          "label": "Stress",
+          "value": "99%",
+          "bar": 1.0
+        }
+      ],
+      "character": "A hard-shelled Coconut man with a textured brown husk, wearing an expensive charcoal-gray bespoke suit and gold cufflinks; a glowing digital 11,500 beams from his forehead.",
+      "visual": "Wide shot of a luxurious corner office on the 40th floor, floor-to-ceiling windows framing a breathtaking panoramic view of the glittering city at twilight.",
+      "scenes": [
+        "Wide shot of a lavish corner office on the top floor of a gleaming skyscraper, floor-to-ceiling windows framing the sunset.",
+        "Medium shot of a Coconut man standing by the glass window holding a heavy crystal tumbler.",
+        "Close-up detail of a bright digital forehead display showing 11,500 in sharp amber light.",
+        "Halbnah shot of a tense phone conversation in a dimly lit office, shadows accentuating worried features.",
+        "Detail shot of a small golden coin resting on a polished mahogany desk beside a sleek silver fountain pen.",
+        "Wide shot of an empty corporate lobby at midnight, distant security guards making their final rounds."
+      ],
+      "caption": "Is reaching the top executive tier worth losing everything else in life? Let's talk about it! #ExecutiveLife #CoconutCEO #CorporateDrama #StirnZahl #BurnoutHell"
+    },
+    {
+      "n": 7,
+      "open_loop": "Whose signature was on the secret wire transfer that emptied our corporate account?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Undermines my market expansion strategy by leaking proprietary data to competitors."
+      },
+      "name": "Victoria, 45, Vice President",
+      "badge": "22,005 $",
+      "verdict": "ELITE",
+      "story": "The 8 levels of first job salary. Level 7. Level 7: 22,005 dollars a month and when you reach the top everybody wants to watch you fall. I stood on the private helipad of our corporate headquarters adjusting my silk scarf. You sign away our department bonuses while your own number keeps climbing. A mocking smile curled on my lips because survival at this altitude required crushing others. The investigation is already reaching the executive floor. You'll see that in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "+8,000 $",
+        "after": "30,005 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of first job salary. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 22,005 dollars a month and when you reach the top everybody wants to watch you fall."
+        },
+        {
+          "s": "Figur",
+          "t": "I stood on the private helipad of our corporate headquarters adjusting my silk scarf."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You sign away our department bonuses while your own number keeps climbing.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "A mocking smile curled on my lips because survival at this altitude required crushing others."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "The investigation is already reaching the executive floor.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "The investigation is already reaching the executive floor.",
+      "quote_by": {
+        "level": 4,
+        "name": "Maya",
+        "badge": "5,200 $",
+        "character": "A vibrant Mango woman wearing a stylish teal blazer and minimalist gold jewelry.",
+        "scene": "Medium shot in a tense hallway, Mango woman holding a red folder and staring defiantly at the executive suite."
+      },
+      "stats": [
+        {
+          "label": "Salary",
+          "value": "22,005 $",
+          "bar": 0.95
+        },
+        {
+          "label": "Assets",
+          "value": "2.1M $",
+          "bar": 0.95
+        },
+        {
+          "label": "Stress",
+          "value": "90%",
+          "bar": 0.9
+        }
+      ],
+      "character": "An elegant Dragonfruit woman with vibrant magenta textured skin and green leaf-like tips, wearing a tailored white pantsuit and diamond brooch; a glowing digital 22,005 shines on her forehead.",
+      "visual": "Wide shot of a private rooftop helipad at sunset, glowing neon city lights stretching to the horizon beneath a dramatic purple sky.",
+      "scenes": [
+        "Wide shot of a private corporate helipad on top of a gleaming skyscraper during a dramatic purple sunset.",
+        "Medium shot of a Dragonfruit woman standing near a sleek helicopter rotor, looking haughty and untouchable.",
+        "Close-up detail of digital numbers 22,005 glowing in bright neon white on an elite forehead.",
+        "Halbnah shot of two powerful executives arguing fiercely beside a glass emergency exit door.",
+        "Detail shot of a small golden coin resting on the polished metal skid of a parked executive helicopter.",
+        "Wide shot of a sprawling corporate campus lit up by thousands of glowing windows in the dark night."
+      ],
+      "caption": "Does elite wealth bring ultimate freedom or just endless paranoia? What do you think? #EliteWealth #Dragonfruit #CorporateVP #StirnZahl #TopTier"
+    },
+    {
+      "n": 8,
+      "open_loop": "What secret did the founder leave behind in the vault that changes every number forever?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Tries to block my final company restructuring vote to protect his own inflated bonus."
+      },
+      "name": "Director Plum, 55, Founder",
+      "badge": "999,999 $",
+      "verdict": "THE OWNER",
+      "story": "The 8 levels of first job salary. Level 8. Level 8: 999,999 dollars a month and at the very top you realize the number was never yours to keep. I sat in the vaulted penthouse archive room surrounded by decades of employee records. You own the entire city, yet you look more miserable than the interns downstairs. A quiet chuckle escaped my lips because I had watched every fruit chase a glowing digit. The number on your forehead was never your worth; it was just a price tag they gave you. Which theme should we do next? Write it in the comments!",
+      "gender": "m",
+      "twist": {
+        "delta": "RESET",
+        "after": "0 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of first job salary. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 999,999 dollars a month and at the very top you realize the number was never yours to keep."
+        },
+        {
+          "s": "Figur",
+          "t": "I sat in the vaulted penthouse archive room surrounded by decades of employee records."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You own the entire city, yet you look more miserable than the interns downstairs.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "A quiet chuckle escaped my lips because I had watched every fruit chase a glowing digit."
+        },
+        {
+          "s": "Figur",
+          "t": "The number on your forehead was never your worth; it was just a price tag they gave you."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Which theme should we do next? Write it in the comments!"
+        }
+      ],
+      "quote": "The number on your forehead was never your worth; it was just a price tag they gave you.",
+      "quote_by": {
+        "level": 8,
+        "name": "Director Plum",
+        "badge": "999,999 $",
+        "character": "A majestic Plum person with deep purple velvety skin, wearing a tailored midnight-blue velvet coat and silver cufflinks.",
+        "scene": "Wide shot of a grand penthouse vault, Plum person turning around slowly with a wise smile as city lights glow outside."
+      },
+      "stats": [
+        {
+          "label": "Salary",
+          "value": "999K $",
+          "bar": 1.0
+        },
+        {
+          "label": "Empire",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Truth",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "A majestic Plum person with deep purple velvety skin and timeless features, wearing a tailored midnight-blue velvet coat; a glowing digital 999,999 shines brightly on his forehead.",
+      "visual": "Wide shot of a grand vaulted penthouse archive room filled with antique wooden shelves, glowing holographic monitors, and a massive steel vault door.",
+      "scenes": [
+        "Wide shot of a magnificent penthouse archive room with towering bookshelves and stained glass windows.",
+        "Medium shot of a majestic Plum person standing before an open steel vault filled with glowing old ledgers.",
+        "Close-up detail of the maximum digital forehead display glowing with six nines in brilliant golden light.",
+        "Halbnah shot of two powerful figures confronting each other in the center of a silent, opulent archive.",
+        "Detail shot of a small golden coin resting on the cold steel floor right in front of the massive vault door.",
+        "Wide exterior shot of the entire metropolis of Citrus City as all glowing forehead numbers simultaneously flicker and fade to black."
+      ],
+      "caption": "If the numbers on our foreheads disappeared today, who would you really be? Which topic should we do next? #TheEnd #StirnZahl #CorporateBoss #PlotTwist #DeepLife"
+    }
+  ],
+  "lang": "en",
+  "topic": "First Job Salary Negotiation and Corporate Burnout",
+  "frame": "frucht"
+}

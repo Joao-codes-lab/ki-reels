@@ -1,102 +1,102 @@
 [
   {
-    "nr": 1,
-    "topic": "Die 8 Level von 'Toxische Überstunden im Job'",
-    "frame": "aufzug",
-    "title": "Die 8 Level von Toxische Überstunden im Job",
-    "file": "2026-10-24_pilot1_de_aufzug_die_8_level_von_toxische_berstunden_im_j_teil1.mp4",
-    "hook": "Der Aufzug hält in Stockwerk 3 für 40 Stunden Dienst nach Vorschrift. Aber die Kugelköpfe in Stockwerk 8 haben seit Wochen nicht geschlafen – und nennen es stolz 'Grind'.",
-    "warum": "Hustle-Culture-Satire trifft Work-Life-Balance-Konflikt; spaltet die Community frontal in 'Karriere-Grinder' versus 'Quiet-Quitter'.",
-    "score": 90,
-    "jury": [
-      "Das Ende könnte noch etwas cliffhanger-lastiger sein.",
-      "Die Untertitel könnten farblich noch etwas mehr Akzente setzen.",
-      "Das Audio-Mixing bei den Soundeffekten könnte dynamischer sein."
-    ],
-    "sid": "de_aufzug_die_8_level_von_toxische_berstunden_im_j",
-    "design": {
-      "punkte": [
-        42,
-        36,
-        40
-      ],
-      "sieger": 0,
-      "warum": "Bild 0 trifft den Webcomic-Stil von _8_levels am besten, zeigt das Gesicht und die Kleidung (Hoodie mit goldenem Detail) extrem präzise und bietet auf kleinen Smartphone-Bildschirmen eine perfekte Lesbarkeit bei maximaler emotionaler Wirkung."
-    }
-  },
-  {
     "nr": 2,
-    "topic": "Die 8 Level von 'Beziehungsstatus: Situationship vs. Ring am Finger'",
+    "topic": "Tägliche Bildschirmzeit und Social-Media-Sucht",
     "frame": "frucht",
-    "title": "Die 8 Level von Beziehungsstatus",
-    "file": "2026-10-24_pilot2_de_frucht_die_8_level_von_beziehungsstatus_situati_teil1.mp4",
-    "hook": "Die Banane mit der '0' auf der Stirn ist seit 7 Jahren verheiratet und weint. Aber die Traube mit der 'Unendlich'-Zahl schläft jede Nacht mit jemand anderem und weint genau so laut.",
-    "warum": "Beziehungsformate triggern die tiefsten romantischen Unsicherheiten. Jeder User wird sich in einem der Level sofort wiedererkennen und den Partner markieren.",
-    "score": 88,
+    "title": "Die 8 Level von Bildschirmzeit",
+    "file": "2026-10-24_pilot2_de_frucht_t_gliche_bildschirmzeit_und_social_media_teil1.mp4",
+    "hook": "Mit '11h 45m' auf der Stirn giltst du in unserer Gesellschaft als sabbernde Zucchini – aber niemand sieht, dass die '2h'-Pflaume neben mir heimlich ein Zweithandy im Rucksack hat.",
+    "warum": "Schuldgefühle treffen auf radikale Ehrlichkeit. Jeder checkt sofort seine eigene Screen-Time und taggt Freunde, die angeblich 'Level 8' erreicht haben.",
+    "score": 81,
     "jury": [
-      "Die Start-Hook im Video könnte noch prägnanter und emotionaler formuliert sein, um die Aufmerksamkeit in der ersten Sekunde maximal zu binden.",
-      "Die Untertitel könnten an einigen Stellen noch harmonischer zum Sprechtempo getimed werden.",
-      "Das Ende bietet bereits eine gute Vorschau, könnte jedoch durch einen noch stärkeren Cliffhanger oder eine konkrete Frage an den Zuschauer zum Kommentieren motivieren."
+      "Die KI-generierten Gesichter wirken teils unheimlich und lenken ab, konsistentere Charaktere wären besser.",
+      "Das Ende könnte einen klareren Call-to-Action enthalten, um die Interaktionsrate zu steigern.",
+      "Die abrupten Bildwechsel bei manchen Szenen etwas flüssiger gestalten, um die Lesbarkeit der Untertitel zu optimieren."
     ],
-    "sid": "de_frucht_die_8_level_von_beziehungsstatus_situati",
+    "sid": "de_frucht_t_gliche_bildschirmzeit_und_social_media",
     "design": {
       "punkte": [
-        43,
-        21,
-        37
+        18,
+        12,
+        15
       ],
       "sieger": 0,
-      "warum": "Bild 0 trifft den Kern des Prompts am besten: Die Erdbeere hat eine nicht-menschliche, detailreiche Textur, das Badge mit '0 Wochen' sitzt stimmig auf dem Kopf, der Hoodie und die traurige Stimmung passen perfekt in die deutsche Studentenküche. Bild 1 driftet zu stark in Richtung menschliches Kind mit Kostüm ab, während Bild 2 zwar schön ist, aber unleserliche Textfehler auf den Headbands zeigt."
+      "warum": "Bild 0 hat den stärksten Fokus auf die charakteristische Obst-/Gemüse-Kreatur mit glühendem Hintergrund und passt größenmäßig am besten zum Handy, auch wenn die Detailtiefe der Szene (U-Bahn, Hoodies) in allen Bildern fehlt und die Ziffern fehlen. Bild 0 fängt den 3D-Stil (simpsonsvorhersage) am konsistentesten ein."
     }
   },
   {
     "nr": 3,
-    "topic": "Die 8 Level von 'Therapie-Erfahrung und mentale Gesundheit'",
-    "frame": "aufzug",
-    "title": "Die 8 Level von Therapie-Erfahrung",
-    "file": "2026-10-24_pilot3_de_aufzug_die_8_level_von_therapie_erfahrung_und_m_teil1.mp4",
-    "hook": "Stockwerk 1 sagt noch stolz 'Ich brauche keine Therapie'. Doch je höher der Aufzug fährt, desto teurer werden die Meditations-Retreats und desto tiefer sitzt das Trauma der Kugelköpfe.",
-    "warum": "Mental Health ist das absolute Trend- und Identitätsthema der Jugend. Der Kontrast zwischen Verdrängung und radikaler Selbstoptimierung bricht jedes Tabu.",
-    "score": 88,
+    "topic": "WG-Casting und Wohnungsnot",
+    "frame": "frucht",
+    "title": "Die 8 Level von WG-Casting",
+    "file": "2026-10-24_pilot3_de_frucht_wg_casting_und_wohnungsnot_teil1.mp4",
+    "hook": "Für ein 10-Quadratmeter-Zimmer ohne Fenster verlangt die Vermieter-Zitrone eine Bonitätszahl von mindestens '800' – meine Stirn flackert bei '620', was mich offiziell obdachlos macht.",
+    "warum": "Wohnungsnot in deutschen Großstädten (Berlin, München, Köln) ist der größte gemeinsame Schmerzpunkt junger Menschen. Erzeugt sofort Wut, Solidarität und virale Rants.",
+    "score": 87,
     "jury": [
-      "Das Ende könnte noch einen stärkeren Cliffhanger für Level 2 bieten.",
-      "Die Übergänge zwischen den Szenen könnten dynamischer sein, um den Dopamin-Kick zu erhöhen.",
-      "Ein paar mehr Soundeffekte bei den Übergängen würden die emotionale Wirkung verstärken."
+      "Die Hook könnte noch packender gestaltet werden, um Zuschauer sofort zu fesseln.",
+      "Einige Untertitel-Animationen könnten noch dynamischer platziert werden.",
+      "Das Ende sollte noch deutlicher zu einer Handlung (z.B. Like/Abo) aufrufen."
     ],
-    "sid": "de_aufzug_die_8_level_von_therapie_erfahrung_und_m",
+    "sid": "de_frucht_wg_casting_und_wohnungsnot",
     "design": {
       "punkte": [
         32,
-        41,
-        37
+        28,
+        35
       ],
-      "sieger": 1,
-      "warum": "Bild 1 setzt den Webcomic-Stil von _8_levels und den vorgegebenen Charakter (runder, cremeweisser Kopf, braune Haare, gelbe Jacke mit Tasche/Rucksack und Getränkedose) am exaktesten und ausdrucksstärksten um. Es passt perfekt zur Szene und hat das höchste virale Potenzial für Reels."
+      "sieger": 2,
+      "warum": "Bild 2 trifft mit der blauen Hauptfigur, den detaillierten Fratzen und der intensiven Farbpalette den Style von _8_levels und den Vorbildern am besten, auch wenn das verlangte Hoodie/Tote-Bag-Detail in keinem der KI-Bilder exakt umgesetzt wurde."
     }
   },
   {
     "nr": 4,
-    "topic": "Die 8 Level von 'Elterlicher Support und Erbe-Aussicht'",
+    "topic": "Die ewige Steuererklärung und bürokratischer Wahnsinn",
     "frame": "frucht",
-    "title": "Die 8 Level von Elterlicher Support",
-    "file": "2026-10-24_pilot4_de_frucht_die_8_level_von_elterlicher_support_und_teil1.mp4",
-    "hook": "Ich dachte, mein Bafög sei arm. Bis die Kiwi mit der '0'-Eltern-Zahl mir erklärte, dass sie mit 25 ihr drittes Mehrfamilienhaus renoviert.",
-    "warum": "Klassismus und Generationengerechtigkeit triggern extrem. Löst harten Neid, Diskussionswut und Klassenkampf in den Kommentaren aus.",
-    "score": 88,
+    "title": "Die 8 Level von Steuerwahnsinn",
+    "file": "2026-10-24_pilot4_de_frucht_die_ewige_steuererkl_rung_und_b_rokratis_teil1.mp4",
+    "hook": "Ich sitze als verzweifelte Kiwi vor 47 Belegen, während auf meiner Stirn derCountdown läuft: ‚Abgabefrist heute, 23:59 Uhr‘ – und ELSTER stürzt zum vierten Mal ab.",
+    "warum": "Die deutsche Angst vor dem Finanzamt und das jährliche Steuer-Trauma verbinden die Community. Jeder leidet mit und teilt den Beitrag aus purem Schmerz.",
+    "score": 64,
     "jury": [
-      "Noch mehr visuelle Abwechslung in den Mittelszenen schaffen",
-      "Die Übergänge zwischen den KI-generierten Clips noch flüssiger gestalten",
-      "Am Ende einen direkten Call-to-Action für Level 2 einbauen"
+      "Auf menschlichere oder passendere Visuals setzen: Die surrealen Gemüse-Köpfe erzeugen Uncanny-Valley-Effekte und lenken vom realen Steuerthema ab.",
+      "Echte Stimmen statt generischer KI-TTS-Sprecher verwenden, um die emotionale Verzweiflung und Wut gegenüber dem Finanzamt glaubhaft zu transportieren.",
+      "Den Hook in den ersten 2 Sekunden schärfen: Den Schockmoment ('1.200 € Steuernachzahlung bei 450 € Job') sofort visualisieren und thematisieren, statt Zeit mit Level-Ankündigungen zu verlieren."
     ],
-    "sid": "de_frucht_die_8_level_von_elterlicher_support_und",
+    "sid": "de_frucht_die_ewige_steuererkl_rung_und_b_rokratis",
     "design": {
       "punkte": [
-        39,
-        43,
+        28,
+        33,
+        41
+      ],
+      "sieger": 2,
+      "warum": "Bild 2 trifft die Anforderungen am besten: Der Charakter ist klar eine Tomate/Frucht mit deutlichem Cartoon-Stil, hat ausdrucksstarke Augen für Reels und lässt sich thematisch gut in die beschriebene Kiosk-Szene einfügen. Die anderen Bilder verfehlen die spezifischen Details der Szene (wie Briefumschlag oder Kiosk-Kontext) zu stark."
+    }
+  },
+  {
+    "nr": 5,
+    "topic": "Der deutsche Handwerker-Termin zwischen Hoffnung und Verzweiflung",
+    "frame": "frucht",
+    "title": "Die 8 Level des Handwerker-Termins",
+    "file": "2026-10-24_pilot5_de_frucht_der_deutsche_handwerker_termin_zwischen_teil1.mp4",
+    "hook": "Auf meiner Stirn leuchtet das Zeitfenster ‚Zwischen 8 und 14 Uhr‘ – jetzt ist es 18 Uhr, ich sitze als traurige Feige in der leeren Wohnung und der Klempner ist im Urlaub.",
+    "warum": "Der ultimative deutsche Alltags-Frust: Auf Handwerker warten. Das verbindet absolut jeden und sorgt für wilde Geschichten in den Kommentaren.",
+    "score": 88,
+    "jury": [
+      "Die Soundeffekte beim Textwechsel stärker betonen",
+      "Die Übergänge zwischen den KI-Bildern noch flüssiger gestalten",
+      "Am Ende noch deutlicher zu einer Interaktion aufrufen"
+    ],
+    "sid": "de_frucht_der_deutsche_handwerker_termin_zwischen",
+    "design": {
+      "punkte": [
+        22,
+        28,
         35
       ],
-      "sieger": 1,
-      "warum": "Bild 1 trifft die Vorgaben der viralen Vorbilder (wie herr.amorim) am besten: Das digitale Preisschild auf der Stirn ist klar als solches erkennbar, die Cartoon-Ästhetik ist konsequent umgesetzt (kein echter Mensch, sondern eine Erdbeerfigur) und die Handy-Lesbarkeit ist durch den zentralen Fokus und den Kontrast am höchsten."
+      "sieger": 2,
+      "warum": "Bild 3 setzt den Cartoon-Stil für Gemüsemenschen am präzisesten um und hat das größte Potenzial für virale Reels, auch wenn die vorgeschriebenen Details wie die Zahl auf der Stirn und die Berlin-Szene bei allen Bildern abstrahiert wurden."
     }
   }
 ]

@@ -1,0 +1,751 @@
+{
+  "title": "The 8 Levels of Rideshare Ratings",
+  "house": "A neon-soaked midnight metropolis where fruit and vegetable people hustle for tips under streetlamps, navigating damp concrete sidewalks and yellow cabs.",
+  "catchphrase": "Your rating tells the truth about you.",
+  "links": [
+    "Barista in level 3 mentions a broke driver who smells like gasoline",
+    "Kiosk owner in level 5 sells energy drinks to exhausted drivers",
+    "Passenger in level 7 complains about the exact car from level 2"
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Why did the passenger instantly cancel the ride and slam the car door?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Leaves a one-star review and spills coffee on the backseat."
+      },
+      "name": "Leo, 22, Rideshare Rookie",
+      "badge": "4.20",
+      "verdict": "DEACTIVATION RISK",
+      "story": "The 8 levels of rideshare ratings. Level 1. 2.400 Euro Miese diesen Monat? Wer hat den Typen in den Anzug gelassen? Vielleicht leckt er mir gleich die Fußmatten sauber. My rating is 4.20 and my battered sedan smells like stale french fries. You drive like a total maniac. He slammed my door so hard the rearview mirror shook. I swallowed the lump in my throat and gripped the steering wheel. Watch out for the pothole! Then my phone buzzed with an automated deactivation warning. Das siehst du in Level 2. You'll see that in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-0.15",
+        "after": "4.05"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of rideshare ratings. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "2.400 Euro Miese diesen Monat? Wer hat den Typen in den Anzug gelassen? Vielleicht leckt er mir gleich die Fußmatten sauber."
+        },
+        {
+          "s": "Figur",
+          "t": "My rating is 4.20 and my battered sedan smells like stale french fries."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You drive like a total maniac.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "He slammed my door so hard the rearview mirror shook. I swallowed the lump in my throat and gripped the steering wheel."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Watch out for the pothole!",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then my phone buzzed with an automated deactivation warning."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You drive like a total maniac.",
+      "quote_by": {
+        "level": 4,
+        "name": "Marcus",
+        "badge": "4.85",
+        "character": "A crisp, glossy bell pepper man in an expensive grey trench coat holding a golden coin.",
+        "scene": "Close-up shot of a bell pepper man leaning forward in a backseat, pointing angrily at a glowing digital dashboard."
+      },
+      "stats": [
+        {
+          "label": "Rating",
+          "value": "4.20",
+          "bar": 0.4
+        },
+        {
+          "label": "Trips",
+          "value": "42",
+          "bar": 0.1
+        },
+        {
+          "label": "Tips",
+          "value": "$4.50",
+          "bar": 0.05
+        }
+      ],
+      "character": "A tired blueberry person with dark indigo skin, wearing a faded grey hoodie and carrying a stained thermal coffee mug. A glowing '4.20' floats on his forehead.",
+      "visual": "Wide shot of a gloomy city alleyway at night, an exhausted blueberry person sitting behind the steering wheel of a beat-up compact car under flickering streetlights.",
+      "scenes": [
+        "Wide shot of a gloomy city alleyway at night, an exhausted blueberry person sitting behind the steering wheel of a beat-up compact car under flickering streetlights.",
+        "Medium shot inside a damp sedan, a bell pepper passenger in a suit yelling while checking his expensive watch.",
+        "Close-up detail of a glowing digital dashboard showing 4.20 rating and a tiny hidden golden coin stuck on the radio dial.",
+        "Low angle shot outside a 24-hour diner, neon lights reflecting on the wet pavement as the driver counts loose change.",
+        "Halbnah shot in a cramped apartment hallway, bills piled up on a tiny wooden table next to a flickering lamp.",
+        "Detail shot of a smartphone screen displaying an automated deactivation warning message in red text."
+      ],
+      "caption": "Would you keep driving with a score like this? #rideshare #uberdriver #struggle #ratings #viral"
+    },
+    {
+      "n": 2,
+      "open_loop": "Who left a hundred-dollar bill hidden under the floor mat?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Refuses to tip and complains about the radio volume."
+      },
+      "name": "Maya, 25, Night Shift Driver",
+      "badge": "4.45",
+      "verdict": "BARELY SURVIVING",
+      "story": "The 8 levels of rideshare ratings. Level 2. Mit deiner 4.45-Bewertung kannst du dir nicht mal lauwarme Fischstäbchen leisten, Süße. Steig aus. My rating is 4.45 and I drive twelve hours straight just to cover my gas and car insurance. You'll never get luxury tips with a score like that, sweetheart. My chest tightened with humiliation because I worked twice as hard as anyone else. Just drop me off at the corner, hurry up. Then the rear door opened and a stranger dropped something heavy. Das siehst du in Level 3. You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+0.10",
+        "after": "4.55"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of rideshare ratings. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Mit deiner 4.45-Bewertung kannst du dir nicht mal lauwarme Fischstäbchen leisten, Süße. Steig aus."
+        },
+        {
+          "s": "Figur",
+          "t": "My rating is 4.45 and I drive twelve hours straight just to cover my gas and car insurance."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You'll never get luxury tips with a score like that, sweetheart.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My chest tightened with humiliation because I worked twice as hard as anyone else."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Just drop me off at the corner, hurry up.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then the rear door opened and a stranger dropped something heavy."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "You'll never get luxury tips with a score like that, sweetheart.",
+      "quote_by": {
+        "level": 6,
+        "name": "Sam",
+        "badge": "4.92",
+        "character": "A smug lemon person with a sharp smirk, wearing a shiny gold silk vest and a Rolex watch.",
+        "scene": "Medium shot of a lemon person tossing a coin onto a dashboard inside a dimly lit taxi."
+      },
+      "stats": [
+        {
+          "label": "Rating",
+          "value": "4.45",
+          "bar": 0.48
+        },
+        {
+          "label": "Trips",
+          "value": "180",
+          "bar": 0.25
+        },
+        {
+          "label": "Tips",
+          "value": "$22.00",
+          "bar": 0.15
+        }
+      ],
+      "character": "An orange person with bright citrus skin, wearing a neon yellow reflective vest over a black hoodie. A glowing '4.45' sits on her forehead.",
+      "visual": "Wide shot of a bustling city bridge at night, an orange person driving a compact hatchback through glowing red tail lights and mist.",
+      "scenes": [
+        "Wide shot of a bustling city bridge at night, an orange person driving a compact hatchback through glowing red tail lights and mist.",
+        "Halbnah shot inside a car, a smug lemon passenger pointing at the glowing rating on the driver's forehead.",
+        "Close-up detail of a dirty floor mat with a tiny golden coin tucked beneath the accelerator pedal.",
+        "Medium shot outside a neon-lit convenience store, the driver buying a cheap energy drink at 3 AM.",
+        "Detail shot of a smartphone GPS routing through dark, rain-slicked suburban streets.",
+        "Close-up of the driver's eyes in the rearview mirror looking worried and exhausted."
+      ],
+      "caption": "Have you ever dealt with a passenger like this? #ridesharing #nightshift #driverlife #foryou #nyc"
+    },
+    {
+      "n": 3,
+      "open_loop": "What secret did the passenger whisper before locking the car doors from the inside?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Makes degrading comments about the cleanliness of the car."
+      },
+      "name": "Oliver, 29, Weekend Hustler",
+      "badge": "4.62",
+      "verdict": "AVERAGE EARNER",
+      "story": "The 8 levels of rideshare ratings. Level 3. Vierzehn Stunden am Steuer, und die Alte im Pelzmantel kotzt fast wegen meiner Pizza-Reste. Noch ein Wort und ich werfe ihr Gepäck auf die Gleise. My rating is 4.62 and I thought I was doing okay until a woman in a fur coat got in. People with your score always miss the highway exits. I wanted to scream because I had been awake for fourteen hours straight funding my sister's tuition. Just keep your eyes on the road, man. Then she leaned forward and whispered something terrifying. Das siehst du in Level 4. You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+0.05",
+        "after": "4.67"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of rideshare ratings. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Vierzehn Stunden am Steuer, und die Alte im Pelzmantel kotzt fast wegen meiner Pizza-Reste. Noch ein Wort und ich werfe ihr Gepäck auf die Gleise."
+        },
+        {
+          "s": "Figur",
+          "t": "My rating is 4.62 and I thought I was doing okay until a woman in a fur coat got in."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "People with your score always miss the highway exits.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I wanted to scream because I had been awake for fourteen hours straight funding my sister's tuition."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Just keep your eyes on the road, man.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then she leaned forward and whispered something terrifying."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "People with your score always miss the highway exits.",
+      "quote_by": {
+        "level": 7,
+        "name": "Victoria",
+        "badge": "4.96",
+        "character": "An elegant dragon fruit person with magenta skin, wearing a silver mink stole and diamond earrings.",
+        "scene": "Close-up shot of a dragon fruit woman looking down her nose in a luxury leather interior."
+      },
+      "stats": [
+        {
+          "label": "Rating",
+          "value": "4.62",
+          "bar": 0.6
+        },
+        {
+          "label": "Trips",
+          "value": "450",
+          "bar": 0.45
+        },
+        {
+          "label": "Tips",
+          "value": "$85.00",
+          "bar": 0.35
+        }
+      ],
+      "character": "A broccoli person with a dark green florets head, wearing a clean denim jacket over a black t-shirt. A glowing '4.62' floats on his forehead.",
+      "visual": "Medium shot of a broccoli person driving through a neon-lit downtown intersection under a light drizzle.",
+      "scenes": [
+        "Medium shot of a broccoli person driving through a neon-lit downtown intersection under a light drizzle.",
+        "Halbnah shot in the backseat, a dragon fruit passenger sneering while looking at her smartphone.",
+        "Close-up detail of a dashboard air freshener shaped like a pine tree with a golden coin hidden behind it.",
+        "Wide shot of a crowded airport drop-off zone with cars honking and travelers rushing past.",
+        "Detail shot of a smartphone app showing incoming ride requests piling up rapidly.",
+        "Close-up of the driver's hands tightly gripping the steering wheel in frustration."
+      ],
+      "caption": "Ever had a passenger judge you before the ride even started? #rideshare #uberdriver #citylife #humiliation #trending"
+    },
+    {
+      "n": 4,
+      "open_loop": "Whose face turned pale when the dashboard camera started recording audio?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Threatens to report the driver to corporate over a minor delay."
+      },
+      "name": "Chloe, 26, Airport Specialist",
+      "badge": "4.78",
+      "verdict": "PRO STATUS",
+      "story": "The 8 levels of rideshare ratings. Level 4. Du denkst, deine 4.78 schützt dich vor meinem Anwalt? Mein Business-Jet wartet nicht auf Schlampen im Kleinwagen. My rating is 4.78 and I keep pristine leather seats and bottled water in my trunk. You think a 4.78 makes you special? My company pays for my Black XL rides exclusively. My blood boiled because I maintained five-star service through every chaotic airport rush. Hurry up to Terminal B, flight's boarding in twenty minutes. Then my dashcam beeped, recording every single insulting word. Das siehst du in Level 5. You'll see that in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+0.08",
+        "after": "4.86"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of rideshare ratings. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Du denkst, deine 4.78 schützt dich vor meinem Anwalt? Mein Business-Jet wartet nicht auf Schlampen im Kleinwagen."
+        },
+        {
+          "s": "Figur",
+          "t": "My rating is 4.78 and I keep pristine leather seats and bottled water in my trunk."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You think a 4.78 makes you special? My company pays for my Black XL rides exclusively.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My blood boiled because I maintained five-star service through every chaotic airport rush."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Hurry up to Terminal B, flight's boarding in twenty minutes.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then my dashcam beeped, recording every single insulting word."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "You think a 4.78 makes you special? My company pays for my Black XL rides exclusively.",
+      "quote_by": {
+        "level": 8,
+        "name": "Julian",
+        "badge": "5.00",
+        "character": "An immaculate golden coconut person in a bespoke silk suit holding a titanium card.",
+        "scene": "Wide shot of a coconut man sitting regally in a luxury SUV while mocking a driver."
+      },
+      "stats": [
+        {
+          "label": "Rating",
+          "value": "4.78",
+          "bar": 0.75
+        },
+        {
+          "label": "Trips",
+          "value": "1,200",
+          "bar": 0.65
+        },
+        {
+          "label": "Tips",
+          "value": "$240.00",
+          "bar": 0.55
+        }
+      ],
+      "character": "A strawberry person with bright red skin and tiny golden seeds, wearing a tailored navy blazer and gold-rimmed glasses. A glowing '4.78' shines on her forehead.",
+      "visual": "Wide shot of a sleek hybrid crossover parked outside a modern airport terminal under bright overhead floodlights at dusk.",
+      "scenes": [
+        "Wide shot of a sleek hybrid crossover parked outside a modern airport terminal under bright overhead floodlights at dusk.",
+        "Halbnah shot inside the luxury cabin, a bell pepper businessman leaning back arrogantly with his arms crossed.",
+        "Close-up detail of a mounted dashcam blinking a small red recording light with a golden coin glued to its mount.",
+        "Medium shot of rows of incoming flights flashing on a massive terminal departure board.",
+        "Detail shot of a pristine center console stocked with neatly arranged bottled water and mints.",
+        "Close-up of the driver pressing a button on the dashboard to save the dashcam footage."
+      ],
+      "caption": "Would you report a passenger for talking down to you? #rideshare #airportlife #bossbabe #driverproblems #viral"
+    },
+    {
+      "n": 5,
+      "open_loop": "What was hidden inside the expensive leather briefcase left on the backseat?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Demands a discount and leaves a negative rating out of spite."
+      },
+      "name": "Sam, 31, VIP Chauffeur",
+      "badge": "4.92",
+      "verdict": "ELITE TIER",
+      "story": "The 8 levels of rideshare ratings. Level 5. Du willst wissen, warum meine Bilanz perfekt ist? Weil ich Schmarotzer wie dich direkt aus dem System trete. My rating is 4.92 and I drive elite executives who only travel in premium silence. You probably buy your ratings, don't you? I adjusted my silk tie and ignored her petty bitterness because my stats speak for themselves. Make sure the AC is set to seventy-two degrees, please. Then I noticed a heavy black leather briefcase left abandoned. Das siehst du in Level 6. You'll see that in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+0.03",
+        "after": "4.95"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of rideshare ratings. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Du willst wissen, warum meine Bilanz perfekt ist? Weil ich Schmarotzer wie dich direkt aus dem System trete."
+        },
+        {
+          "s": "Figur",
+          "t": "My rating is 4.92 and I drive elite executives who only travel in premium silence."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You probably buy your ratings, don't you?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I adjusted my silk tie and ignored her petty bitterness because my stats speak for themselves."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Make sure the AC is set to seventy-two degrees, please.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then I noticed a heavy black leather briefcase left abandoned."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "You probably buy your ratings, don't you?",
+      "quote_by": {
+        "level": 2,
+        "name": "Maya",
+        "badge": "4.45",
+        "character": "An orange person with bright citrus skin wearing a reflective safety vest over a worn hoodie.",
+        "scene": "Medium shot of an orange woman leaning through a car window with an angry, envious expression."
+      },
+      "stats": [
+        {
+          "label": "Rating",
+          "value": "4.92",
+          "bar": 0.88
+        },
+        {
+          "label": "Trips",
+          "value": "3,400",
+          "bar": 0.8
+        },
+        {
+          "label": "Tips",
+          "value": "$750.00",
+          "bar": 0.7
+        }
+      ],
+      "character": "A lemon person with bright yellow textured skin, wearing a sharp charcoal suit and silk tie. A glowing '4.92' beams proudly on his forehead.",
+      "visual": "Wide shot of a luxury black sedan parked outside a five-star hotel entrance with glowing chandeliers reflecting on the wet marble driveway.",
+      "scenes": [
+        "Wide shot of a luxury black sedan parked outside a five-star hotel entrance with glowing chandeliers reflecting on the wet marble driveway.",
+        "Halbnah shot inside the high-end vehicle, a lemon chauffeur adjusting his rearview mirror while looking calm.",
+        "Close-up detail of a leather-bound briefcase resting on plush leather upholstery with a tiny golden coin zipper pull.",
+        "Medium shot of hotel bellhops rushing toward the vehicle to assist with high-end luggage.",
+        "Detail shot of a digital rideshare app interface showing a glowing five-star tip notification.",
+        "Close-up of the chauffeur's gloved hand opening the heavy black briefcase."
+      ],
+      "caption": "What would you do if a client left a briefcase in your car? #vipdriver #chauffeur #luxurycars #money #trending"
+    },
+    {
+      "n": 6,
+      "open_loop": "Who was waiting inside the penthouse lobby holding a stack of cash?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Complains about the route and leaves a sarcastic review."
+      },
+      "name": "Victoria, 34, Executive Director",
+      "badge": "4.96",
+      "verdict": "PLATINUM STATUS",
+      "story": "The 8 levels of rideshare ratings. Level 6. Dein Autogeruch ruiniert meinen Ruf. Mit deiner Bewertung fährst du maximal noch Mülltonnen spazieren. My rating is 4.96 and I command respect the moment anyone steps into my luxury SUV. People with your score always complain about traffic. I raised an eyebrow at his pathetic attitude because perfection isn't an accident, it's a standard. The board meeting has been moved up to midnight, Director. Then my phone rang with an urgent call from my corporate office. Das siehst du in Level 7. You'll see that in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+0.02",
+        "after": "4.98"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of rideshare ratings. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Dein Autogeruch ruiniert meinen Ruf. Mit deiner Bewertung fährst du maximal noch Mülltonnen spazieren."
+        },
+        {
+          "s": "Figur",
+          "t": "My rating is 4.96 and I command respect the moment anyone steps into my luxury SUV."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "People with your score always complain about traffic.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I raised an eyebrow at his pathetic attitude because perfection isn't an accident, it's a standard."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "The board meeting has been moved up to midnight, Director.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then my phone rang with an urgent call from my corporate office."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "People with your score always complain about traffic.",
+      "quote_by": {
+        "level": 3,
+        "name": "Oliver",
+        "badge": "4.62",
+        "character": "A broccoli person with dark green florets, wearing a denim jacket over a black t-shirt.",
+        "scene": "Medium shot of a broccoli driver looking back skeptically over his shoulder."
+      },
+      "stats": [
+        {
+          "label": "Rating",
+          "value": "4.96",
+          "bar": 0.95
+        },
+        {
+          "label": "Trips",
+          "value": "5,800",
+          "bar": 0.9
+        },
+        {
+          "label": "Tips",
+          "value": "$1,400",
+          "bar": 0.85
+        }
+      ],
+      "character": "A dragon fruit person with vibrant magenta skin and green-tipped scales, wearing a silver mink coat over a black evening dress. A glowing '4.96' shines on her forehead.",
+      "visual": "Wide shot of a towering glass skyscraper at night, a luxury white SUV pulling up to the illuminated revolving glass doors.",
+      "scenes": [
+        "Wide shot of a towering glass skyscraper at night, a luxury white SUV pulling up to the illuminated revolving glass doors.",
+        "Halbnah shot inside a spacious leather interior, a dragon fruit executive talking firmly on her smartphone.",
+        "Close-up detail of a diamond-encrusted smartphone case resting on a center console with a golden coin sticker on the back.",
+        "Medium shot in a high-rise elevator with mirrored walls reflecting city lights.",
+        "Detail shot of a penthouse door unlocking with a biometric scanner.",
+        "Close-up of the executive's sharp expression as she reads a shocking message on her screen."
+      ],
+      "caption": "What would you do if your executive ride was suddenly redirected at midnight? #luxuryride #corporate #bosslady #elite #foryou"
+    },
+    {
+      "n": 7,
+      "open_loop": "Why did the mysterious passenger hand over the keys to a fleet of fifty cars?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Insults the vehicle's interior and threatens a false complaint."
+      },
+      "name": "Marcus, 38, Fleet Owner",
+      "badge": "4.85",
+      "verdict": "TOP 1% DRIVER",
+      "story": "The 8 levels of rideshare ratings. Level 7. Du glaubst, du bist der Boss im Revier? Deine Karre riecht nach billigem Sprit und Bankrott. My rating is 4.85 and I own three luxury black cabs that dominate the city. You think you own the whole road just because of your score, don't you? I chuckled quietly at his ignorance because success is built through relentless hustle, not luck. Boss, the investors are waiting at the terminal. Then a sleek black limousine pulled up beside me. Das siehst du in Level 8. You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+0.07",
+        "after": "4.92"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of rideshare ratings. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Du glaubst, du bist der Boss im Revier? Deine Karre riecht nach billigem Sprit und Bankrott."
+        },
+        {
+          "s": "Figur",
+          "t": "My rating is 4.85 and I own three luxury black cabs that dominate the city."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You think you own the whole road just because of your score, don't you?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I chuckled quietly at his ignorance because success is built through relentless hustle, not luck."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Boss, the investors are waiting at the terminal.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then a sleek black limousine pulled up beside me."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "You think you own the whole road just because of your score, don't you?",
+      "quote_by": {
+        "level": 1,
+        "name": "Leo",
+        "badge": "4.20",
+        "character": "A tired blueberry person with indigo skin wearing a faded grey hoodie.",
+        "scene": "Medium shot of a blueberry driver glaring through a cracked car window."
+      },
+      "stats": [
+        {
+          "label": "Rating",
+          "value": "4.85",
+          "bar": 0.82
+        },
+        {
+          "label": "Trips",
+          "value": "4,100",
+          "bar": 0.78
+        },
+        {
+          "label": "Tips",
+          "value": "$920.00",
+          "bar": 0.75
+        }
+      ],
+      "character": "A bell pepper person with glossy green skin, wearing a crisp grey trench coat over a tailored suit. A glowing '4.85' flashes on his forehead.",
+      "visual": "Wide shot of a private aviation tarmac at night, a bell pepper entrepreneur standing beside a row of parked luxury black vehicles.",
+      "scenes": [
+        "Wide shot of a private aviation tarmac at night, a bell pepper entrepreneur standing beside a row of parked luxury black vehicles.",
+        "Halbnah shot near a limousine door, a bell pepper man adjusting his tie while looking confident.",
+        "Close-up detail of a silver car key fob resting in a palm with a small golden coin attached to the keychain.",
+        "Medium shot of private jet stairs illuminated by bright blue landing lights.",
+        "Detail shot of a digital fleet management dashboard showing dozens of active vehicles across the city.",
+        "Close-up of the entrepreneur's face smirking as he looks toward a approaching limousine."
+      ],
+      "caption": "Would you hand over your car keys to a total stranger? #fleetowner #entrepreneur #luxurylife #bossmindset #viral"
+    },
+    {
+      "n": 8,
+      "open_loop": "Did she sign the contract and take over the empire?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Insults the driver's vehicle while sitting in the back of a luxury SUV."
+      },
+      "name": "Julian, 42, Rideshare King",
+      "badge": "5.00",
+      "verdict": "THE ABSOLUTE LEGEND",
+      "story": "The 8 levels of rideshare ratings. Level 8. Du wolltest nach ganz oben? Herzlichen Glückwunsch, du bist bankrott. Schau dir deine Stirn an. My rating is a permanent 5.00 and I founded the entire rideshare network operating across this city. You think a five-star rating makes you invincible. I smiled calmly from the backseat because she was the exact driver I had been searching for. Are you serious? Is this a promotion? The rating system isn't a measure of your worth, it's a test of your hunger. What rating do you show on your forehead?",
+      "gender": "m",
+      "twist": {
+        "delta": "0.00",
+        "after": "5.00"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of rideshare ratings. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Du wolltest nach ganz oben? Herzlichen Glückwunsch, du bist bankrott. Schau dir deine Stirn an."
+        },
+        {
+          "s": "Figur",
+          "t": "My rating is a permanent 5.00 and I founded the entire rideshare network operating across this city."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You think a five-star rating makes you invincible.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I smiled calmly from the backseat because she was the exact driver I had been searching for."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Are you serious? Is this a promotion?",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The rating system isn't a measure of your worth, it's a test of your hunger. What rating do you show on your forehead?"
+        }
+      ],
+      "quote": "You think a five-star rating makes you invincible.",
+      "quote_by": {
+        "level": 4,
+        "name": "Chloe",
+        "badge": "4.78",
+        "character": "A strawberry person with bright red skin and tiny golden seeds wearing a tailored navy blazer.",
+        "scene": "Medium shot of a strawberry driver looking back in absolute shock."
+      },
+      "stats": [
+        {
+          "label": "Rating",
+          "value": "5.00",
+          "bar": 1.0
+        },
+        {
+          "label": "Trips",
+          "value": "25,000",
+          "bar": 1.0
+        },
+        {
+          "label": "Tips",
+          "value": "$15,000",
+          "bar": 1.0
+        }
+      ],
+      "character": "An immaculate coconut person with a hard brown textured shell and smooth white core, wearing a bespoke silk tuxedo. A glowing '5.00' gleams brilliantly on his forehead.",
+      "visual": "Wide shot of a magnificent penthouse boardroom overlooking the glowing skyline at midnight, surrounded by holographic city maps and luxury cars.",
+      "scenes": [
+        "Wide shot of a magnificent penthouse boardroom overlooking the glowing skyline at midnight, surrounded by holographic city maps and luxury cars.",
+        "Halbnah shot of a coconut tycoon sitting at a massive mahogany desk, smiling calmly.",
+        "Close-up detail of a solid gold contract document resting on a glass table with a large golden coin resting upon it.",
+        "Medium shot of holographic screens displaying ratings of all eight characters across the city.",
+        "Detail shot of the digital forehead display shifting to a permanent glowing five-star crown.",
+        "Close-up of the tycoon looking directly into the camera lens with a triumphant grin."
+      ],
+      "caption": "What rating is glowing on your forehead right now? #rideshareking #boss #success #mindset #foryou"
+    }
+  ],
+  "lang": "en",
+  "topic": "Rideshare Rating Scores and Late-Night Uber Etiquette",
+  "frame": "frucht"
+}

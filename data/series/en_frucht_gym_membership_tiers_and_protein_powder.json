@@ -1,0 +1,716 @@
+{
+  "title": "The 8 Levels of Gym Membership & Protein",
+  "house": "A bustling neon-lit metropolis where produce citizens hustle through morning commutes, grimy neighborhood iron gyms, and ultra-exclusive rooftop wellness clubs.",
+  "catchphrase": "The digits never lie.",
+  "links": [
+    "The bitter lemon barista in Level 1 mentions a stressed broccoli broker who always leaves zero tip.",
+    "The supplement store clerk in Level 2 hears rumors of an elite coconut CEO hoarding pure isolate.",
+    "The cracked locker room mirror in Level 3 reflects the exact same dent seen in Level 6's private sauna.",
+    "The bus stop from Level 4 is where the Level 7 dragonfruit influencer drops her shaker bottle."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Why did the gym manager suddenly snatch away my membership card at the front desk?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Laughs at her cheap store-brand protein and revokes her locker access without warning."
+      },
+      "name": "Leo, 22, Fast-Food Cook",
+      "badge": "0 $ / mo",
+      "verdict": "BROKE",
+      "story": "The 8 levels of gym membership. Level 1. Level 1: 0 dollars for fitness – and I am trying to lift anyway. My forehead glows zero, and the gym bouncer stares at my chalk-dusted sneakers. I mix tap water with expired discount whey in a cracked shaker bottle behind the counter. You can't even afford the basic guest pass, kid. I swallow hard and grip my rusty 15-pound dumbbell. Then the front desk alarm blares loudly, and the manager points right at me. You'll see that in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+15 $",
+        "after": "15 $ / mo"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of gym membership. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 0 dollars for fitness – and I am trying to lift anyway."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead glows zero, and the gym bouncer stares at my chalk-dusted sneakers."
+        },
+        {
+          "s": "Figur",
+          "t": "I mix tap water with expired discount whey in a cracked shaker bottle behind the counter."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You can't even afford the basic guest pass, kid.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I swallow hard and grip my rusty 15-pound dumbbell."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then the front desk alarm blares loudly, and the manager points right at me."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You can't even afford the basic guest pass, kid.",
+      "quote_by": {
+        "level": 6,
+        "name": "Brokkoli-Head",
+        "badge": "450 $ / mo",
+        "character": "A smug, tall broccoli man wearing high-end compression shorts, a carbon-fiber lifting belt, and a gleaming forehead badge.",
+        "scene": "Wide angle shot of a gritty basement gym, Brokkoli-Head standing over Leo with a condescending smirk, pointing at the glowing zero badge."
+      },
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "0 $",
+          "bar": 0.02
+        },
+        {
+          "label": "Protein",
+          "value": "12g",
+          "bar": 0.05
+        },
+        {
+          "label": "Gains",
+          "value": "0.1 lbs",
+          "bar": 0.01
+        }
+      ],
+      "character": "A lean, determined potato man with dusty earth-brown skin, wearing a faded gray cotton hoodie and frayed running shoes. A bright digital '0 $ / mo' glows on his forehead.",
+      "visual": "Wide angle shot of a gloomy, damp basement gym with flickering fluorescent lights, rusty iron weights piled in corners, and a glowing digital '0' on a potato man's forehead. A tiny gold coin is tucked behind a weight rack.",
+      "scenes": [
+        "Wide angle shot of a gloomy basement gym, flickering fluorescent lights, rusty iron weights piled in corners, a hidden gold coin behind a weight rack.",
+        "Close-up of a cracked plastic shaker bottle filled with gray water and cheap powder, water droplets forming condensation.",
+        "Medium shot of Leo wiping sweat from his forehead, his glowing zero badge casting a harsh blue light on his face.",
+        "Over-the-shoulder shot of Brokkoli-Head walking past in bright neon gear, smirking down at Leo's worn-out sneakers.",
+        "Close-up of a dirty locker room floor with discarded towel scraps and a flickering overhead bulb.",
+        "Detail shot of a rusty 15-pound dumbbell handle caked in old chalk dust and grime."
+      ],
+      "caption": "Would you still hit the gym if your account showed zero? #GymLife #BrokeGains #FitnessJourney #TheStirnZahl #Protein"
+    },
+    {
+      "n": 2,
+      "open_loop": "Why did the supplement clerk hand me a tub with a security seal and a menacing warning?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Intercepts his bulk discount coupon and calls store security."
+      },
+      "name": "Maya, 24, Barista",
+      "badge": "45 $ / mo",
+      "verdict": "BUDGET LIFT",
+      "story": "The 8 levels of gym membership. Level 2. Level 2: 45 dollars a month for a basement dungeon gym – and my protein is expired discount soy. My forehead glows forty-five, and I count every single scoop like gold dust. I carry my neon pink shaker past the supplement wall, sniffing the vanilla chalk substitute. Stop wasting your money on fake powder, you are just spinning your wheels. I grit my teeth and grip my membership fob tightly. Then the store manager steps out from the back office with a clipboard. You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+30 $",
+        "after": "75 $ / mo"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of gym membership. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 45 dollars a month for a basement dungeon gym – and my protein is expired discount soy."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead glows forty-five, and I count every single scoop like gold dust."
+        },
+        {
+          "s": "Figur",
+          "t": "I carry my neon pink shaker past the supplement wall, sniffing the vanilla chalk substitute."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Stop wasting your money on fake powder, you are just spinning your wheels.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I grit my teeth and grip my membership fob tightly."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then the store manager steps out from the back office with a clipboard."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Stop wasting your money on fake powder, you are just spinning your wheels.",
+      "quote_by": {
+        "level": 5,
+        "name": "Orange-Girl",
+        "badge": "220 $ / mo",
+        "character": "A bright citrus woman with vibrant dimpled orange skin, wearing matching neon pink athleisure and holding a titanium blender bottle.",
+        "scene": "Medium shot in a crowded supplement store aisle, Orange-Girl tossing an empty designer tub past Maya with an arrogant smirk."
+      },
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "45 $",
+          "bar": 0.15
+        },
+        {
+          "label": "Protein",
+          "value": "40g",
+          "bar": 0.2
+        },
+        {
+          "label": "Gains",
+          "value": "2.4 lbs",
+          "bar": 0.12
+        }
+      ],
+      "character": "A vibrant yellow Zitrone woman with slightly puckered citrus skin, wearing a sweat-stained gray cotton tank top and carrying a neon pink shaker. A glowing '45 $ / mo' badge sits on her forehead.",
+      "visual": "Medium shot of a narrow, brightly lit supplement store aisle packed with plastic tubs, a glowing '45' on a Zitrone woman's forehead. A tiny gold coin rests behind a tub of creatine.",
+      "scenes": [
+        "Medium shot of a narrow supplement store aisle, brightly lit shelves with protein tubs, a hidden gold coin behind creatine.",
+        "Close-up of a neon pink shaker bottle filled with lumpy, foaming soy protein mix.",
+        "Wide shot of the busy gym reception desk with turnstiles clicking and members swiping key fobs.",
+        "Over-the-shoulder shot of Orange-Girl holding an imported titanium shaker, looking down at Maya's cheap badge.",
+        "Detail shot of a laminated membership card with scuffed edges and a peeling barcode.",
+        "Close-up of Maya's determined eyes reflecting the harsh store neon lights."
+      ],
+      "caption": "Ever had someone judge your budget protein stack? #GymStrugs #ProteinPowder #FitFam #TheStirnZahl #Gains"
+    },
+    {
+      "n": 3,
+      "open_loop": "Whose expensive leather gym bag was left unattended in my private locker?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Demands she clean up his spilled pre-workout powder off the floor."
+      },
+      "name": "Sam, 28, Warehouse Clerk",
+      "badge": "120 $ / mo",
+      "verdict": "MID TIER",
+      "story": "The 8 levels of gym membership. Level 3. Level 3: 120 dollars a month for a 24/7 fitness club – and my joints still ache. My forehead glows one-twenty, and I swipe past the biometric turnstiles right into the crowded free-weight zone. I load up two plates on the bench press while a slick Avocado-Guy in designer joggers watches me struggle. That form is absolute trash, mate, you are gonna snap your spine. I wipe the cold sweat from my brow and grip the knurled steel bar. Then a heavy leather gym bag drops right onto my bench with a thud. You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+80 $",
+        "after": "200 $ / m"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of gym membership. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 120 dollars a month for a 24/7 fitness club – and my joints still ache."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead glows one-twenty, and I swipe past the biometric turnstiles right into the crowded free-weight zone."
+        },
+        {
+          "s": "Figur",
+          "t": "I load up two plates on the bench press while a slick Avocado-Guy in designer joggers watches me struggle."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "That form is absolute trash, mate, you are gonna snap your spine.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I wipe the cold sweat from my brow and grip the knurled steel bar."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then a heavy leather gym bag drops right onto my bench with a thud."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "That form is absolute trash, mate, you are gonna snap your spine.",
+      "quote_by": {
+        "level": 7,
+        "name": "Avocado-Guy",
+        "badge": "750 $ / mo",
+        "character": "A smooth green avocado man with rich emerald skin, wearing bespoke compression leggings, designer wireless headphones, and a glowing high-tier badge.",
+        "scene": "Wide shot of the free-weight zone, Avocado-Guy leaning against a rack of dumbbells, sneering down at Sam on the bench."
+      },
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "120 $",
+          "bar": 0.3
+        },
+        {
+          "label": "Protein",
+          "value": "90g",
+          "bar": 0.4
+        },
+        {
+          "label": "Gains",
+          "value": "5.1 lbs",
+          "bar": 0.28
+        }
+      ],
+      "character": "A rugged red Erdbeere man with dotted seedy skin, wearing a charcoal gray stringer tank and wrist wraps. A bright digital '120 $ / mo' glows on his forehead.",
+      "visual": "Wide shot of a bustling commercial gym floor with rubber flooring, mirrors, and glowing numbers on lifters' foreheads. A tiny gold coin is wedged inside a dumbbell rack.",
+      "scenes": [
+        "Wide shot of a bustling commercial gym floor, rubber flooring, mirrors, a hidden gold coin wedged in a dumbbell rack.",
+        "Close-up of chalk-covered hands gripping a heavy barbell with metal clips.",
+        "Medium shot of Sam gritting his teeth during a bench press, veins bulging on his strawberry skin.",
+        "Over-the-shoulder shot of Avocado-Guy adjusting his wireless earbuds, looking unimpressed.",
+        "Detail shot of a biometric scanner glowing green as a membership fob is tapped.",
+        "Close-up of a digital forehead badge displaying '120 $ / mo' under harsh fluorescent ceiling panels."
+      ],
+      "caption": "Ever had someone critique your bench press form uninvited? #GymBro #BenchPress #FitnessFail #TheStirnZahl #Gains"
+    },
+    {
+      "n": 4,
+      "open_loop": "Why did the personal trainer suddenly hand me his client's unfinished gold-label whey?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Threatens to cancel his corporate group coaching contract over a minor delay."
+      },
+      "name": "Chloe, 26, Graphic Designer",
+      "badge": "250 $ / mo",
+      "verdict": "PROSUMER",
+      "story": "The 8 levels of gym membership. Level 4. Level 4: 250 dollars a month for boutique fitness – and I survive on organic grass-fed whey. My forehead glows two-fifty, and I step onto the polished oak studio floor with my custom blender bottle. I mix my isolate while a majestic Kokosnuss-Man in an expensive tracksuit sips an exotic smoothie. You call that macro split balanced? You are missing all the essential micronutrients, darling. I take a deep breath and adjust my lifting gloves. Then the head coach walks over with an unbranded black tub. You'll see that in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+150 $",
+        "after": "400 $ / m"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of gym membership. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 250 dollars a month for boutique fitness – and I survive on organic grass-fed whey."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead glows two-fifty, and I step onto the polished oak studio floor with my custom blender bottle."
+        },
+        {
+          "s": "Figur",
+          "t": "I mix my isolate while a majestic Kokosnuss-Man in an expensive tracksuit sips an exotic smoothie."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You call that macro split balanced? You are missing all the essential micronutrients, darling.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I take a deep breath and adjust my lifting gloves."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then the head coach walks over with an unbranded black tub."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "You call that macro split balanced? You are missing all the essential micronutrients, darling.",
+      "quote_by": {
+        "level": 8,
+        "name": "Kokosnuss-Man",
+        "badge": "1.500 $ / mo",
+        "character": "A sturdy, fiber-shelled coconut man with textured brown skin, wearing a pristine white tailored tracksuit and a glowing elite platinum badge.",
+        "scene": "Medium shot in a sunlit boutique gym lounge, Kokosnuss-Man sipping an exotic smoothie while looking down at Chloe with mild amusement."
+      },
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "250 $",
+          "bar": 0.45
+        },
+        {
+          "label": "Protein",
+          "value": "140g",
+          "bar": 0.6
+        },
+        {
+          "label": "Gains",
+          "value": "9.5 lbs",
+          "bar": 0.5
+        }
+      ],
+      "character": "A sleek, vibrant Drachenfrucht woman with magenta skin and green-tipped scale leaves, wearing a teal crop top and matching leggings. A glowing '250 $ / mo' badge sits on her forehead.",
+      "visual": "Medium shot of a high-end boutique fitness studio with natural sunlight streaming through floor-to-ceiling windows, polished oak floors. A tiny gold coin is hidden behind a row of matching yoga mats.",
+      "scenes": [
+        "Medium shot of a high-end boutique fitness studio, natural sunlight, polished oak floors, a hidden gold coin behind yoga mats.",
+        "Close-up of a stainless steel blender ball swirling inside a clear glass shaker bottle.",
+        "Wide shot of group fitness members stretching on matching branded turf mats.",
+        "Over-the-shoulder shot of Kokosnuss-Man holding an exotic green smoothie, glancing down at Chloe.",
+        "Detail shot of a digital smartwatch tracking heart rate and calorie burn in real time.",
+        "Close-up of Chloe's glowing forehead badge reading '250 $ / mo' in crisp white LEDs."
+      ],
+      "caption": "Ever spent half your paycheck on boutique fitness classes? #BoutiqueFitness #ProteinIsolate #HealthyLifestyle #TheStirnZahl #Gains"
+    },
+    {
+      "n": 5,
+      "open_loop": "Whose private nutritionist left this confidential bloodwork report on the front desk?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Complains loudly to management about her using the heavy lifting rack."
+      },
+      "name": "Marcus, 31, Software Engineer",
+      "badge": "500 $ / mo",
+      "verdict": "ELITE TIER",
+      "story": "The 8 levels of gym membership. Level 5. Level 5: 500 dollars a month for a luxury fitness club – and my private locker smells like vanilla isolate. My forehead glows five-hundred, and I swipe my RFID wristband into the VIP recovery zone. I pour pharmaceutical-grade whey into a glass shaker while a bitter Zitrone-Girl glares at me from the treadmill. Why are you taking up the squat rack if you are not even competing, seriously? I sip my shake and adjust my titanium wrist wraps. Then a gold-embossed envelope slides under my private locker door. You'll see that in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+300 $",
+        "after": "800 $ / m"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of gym membership. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 500 dollars a month for a luxury fitness club – and my private locker smells like vanilla isolate."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead glows five-hundred, and I swipe my RFID wristband into the VIP recovery zone."
+        },
+        {
+          "s": "Figur",
+          "t": "I pour pharmaceutical-grade whey into a glass shaker while a bitter Zitrone-Girl glares at me from the treadmill."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Why are you taking up the squat rack if you are not even competing, seriously?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I sip my shake and adjust my titanium wrist wraps."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then a gold-embossed envelope slides under my private locker door."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Why are you taking up the squat rack if you are not even competing, seriously?",
+      "quote_by": {
+        "level": 2,
+        "name": "Zitrone-Girl",
+        "badge": "45 $ / mo",
+        "character": "A sour yellow lemon woman with puckered citrus skin, wearing a faded cotton tank top and carrying a worn plastic shaker.",
+        "scene": "Wide shot of the cardio mezzanine, Zitrone-Girl running furiously on a treadmill while glaring down at Marcus in the free-weight zone."
+      },
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "500 $",
+          "bar": 0.65
+        },
+        {
+          "label": "Protein",
+          "value": "180g",
+          "bar": 0.75
+        },
+        {
+          "label": "Gains",
+          "value": "14.2 lbs",
+          "bar": 0.7
+        }
+      ],
+      "character": "A polished Ananas man with golden spiky crown leaves, wearing a tailored black athletic jacket and titanium-rimmed glasses. A glowing '500 $ / mo' badge sits on his forehead.",
+      "visual": "Wide shot of a luxurious VIP gym lounge with leather armchairs, marble flooring, and ambient LED strip lighting. A tiny gold coin is nestled between the cushions of a leather chair.",
+      "scenes": [
+        "Wide shot of a luxurious VIP gym lounge, leather armchairs, marble flooring, a hidden gold coin between sofa cushions.",
+        "Close-up of pharmaceutical-grade protein powder cascading into a crystal shaker glass.",
+        "Medium shot of Marcus swiping a sleek black RFID wristband at a biometric turnstile.",
+        "Over-the-shoulder shot of Zitrone-Girl glaring from a treadmill console upstairs.",
+        "Detail shot of titanium wrist wraps being securely tightened around sturdy wrists.",
+        "Close-up of a digital forehead badge glowing brightly with '500 $ / mo'."
+      ],
+      "caption": "Would you pay five hundred bucks a month for gym access? #LuxuryGym #VIPFitness #ProteinShake #TheStirnZahl #Gains"
+    },
+    {
+      "n": 6,
+      "open_loop": "Whose private sauna key was left hanging in the VIP steam room lock?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Sneaks into his private locker area and knocks over his expensive shaker bottle."
+      },
+      "name": "Helena, 29, Corporate Lawyer",
+      "badge": "900 $ / mo",
+      "verdict": "VIP STATUS",
+      "story": "The 8 levels of gym membership. Level 6. Level 6: 900 dollars a month for ultra-exclusive wellness – and my post-workout recovery protocol is military-grade. My forehead glows nine-hundred, and I walk past the velvet ropes into the private lounge. I blend custom grass-fed isolate while a ragged Potato-Boy in dusty sneakers glares from the doorway. You guys just burn money on powder while real people work for a living. I sip my smoothie and ignore his bitter comment. Then a heavy stainless steel locker door swings open on its own. You'll see that in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+400 $",
+        "after": "1.300 $ /"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of gym membership. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 900 dollars a month for ultra-exclusive wellness – and my post-workout recovery protocol is military-grade."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead glows nine-hundred, and I walk past the velvet ropes into the private lounge."
+        },
+        {
+          "s": "Figur",
+          "t": "I blend custom grass-fed isolate while a ragged Potato-Boy in dusty sneakers glares from the doorway."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You guys just burn money on powder while real people work for a living.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I sip my smoothie and ignore his bitter comment."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then a heavy stainless steel locker door swings open on its own."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "You guys just burn money on powder while real people work for a living.",
+      "quote_by": {
+        "level": 1,
+        "name": "Potato-Boy",
+        "badge": "0 $ / mo",
+        "character": "A gritty potato man with earthy brown skin, wearing a faded gray hoodie and dusty running shoes.",
+        "scene": "Medium shot in a luxury club doorway, Potato-Boy standing in tattered clothes, glaring at Helena with raw resentment."
+      },
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "900 $",
+          "bar": 0.8
+        },
+        {
+          "label": "Protein",
+          "value": "220g",
+          "bar": 0.9
+        },
+        {
+          "label": "Gains",
+          "value": "19.8 lbs",
+          "bar": 0.85
+        }
+      ],
+      "character": "An elegant Feige woman with deep purple-brown fig skin, wearing a designer white linen workout tunic and diamond stud earrings. A glowing '900 $ / mo' badge sits on her forehead.",
+      "visual": "Wide angle shot of an ultra-luxury wellness spa with marble pillars, steaming indoor plunge pools, and soft golden lighting. A tiny gold coin is tucked into the base of a marble fountain.",
+      "scenes": [
+        "Wide angle shot of an ultra-luxury wellness spa, marble pillars, steaming indoor plunge pools, a hidden gold coin in a fountain base.",
+        "Close-up of a high-speed silver blender whipping up a thick green superfood protein smoothie.",
+        "Medium shot of Helena walking past velvet ropes held by uniformed valets.",
+        "Over-the-shoulder shot of Potato-Boy peering in from the public hallway in dusty sneakers.",
+        "Detail shot of a gleaming platinum membership card resting on a reception tray.",
+        "Close-up of a digital forehead badge glowing with '900 $ / mo' in sharp amber light."
+      ],
+      "caption": "Is a nine-hundred dollar gym membership ever truly worth it? #LuxuryWellness #EliteFitness #SpaLife #TheStirnZahl #Gains"
+    },
+    {
+      "n": 7,
+      "open_loop": "Whose private jet itinerary was left inside my custom titanium shaker bottle?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Bumps into her deliberately in the corridor and spills her organic smoothie."
+      },
+      "name": "Julian, 34, Hedge Fund Partner",
+      "badge": "1.800 $ / mo",
+      "verdict": "TIER ONE",
+      "story": "The 8 levels of gym membership. Level 7. Level 7: 1.800 dollars a month for a private executive gym – and my whey is imported straight from the Swiss Alps. My forehead glows eighteen-hundred, and I walk into the biometric penthouse training suite. I mix my custom isolate while an ordinary Strawberry-Guy in a worn-out stringer tank bumps right into my shaker. Watch where you are going, rich boy, you are not the only one lifting here. I adjust my gold-plated sports watch and take a slow sip. Then my private concierge hands me a sealed black briefcase. You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+700 $",
+        "after": "2.500 $ /"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of gym membership. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 1.800 dollars a month for a private executive gym – and my whey is imported straight from the Swiss Alps."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead glows eighteen-hundred, and I walk into the biometric penthouse training suite."
+        },
+        {
+          "s": "Figur",
+          "t": "I mix my custom isolate while an ordinary Strawberry-Guy in a worn-out stringer tank bumps right into my shaker."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Watch where you are going, rich boy, you are not the only one lifting here.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I adjust my gold-plated sports watch and take a slow sip."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then my private concierge hands me a sealed black briefcase."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "Watch where you are going, rich boy, you are not the only one lifting here.",
+      "quote_by": {
+        "level": 3,
+        "name": "Strawberry-Guy",
+        "badge": "120 $ / mo",
+        "character": "A rugged red strawberry man with dotted seedy skin, wearing a sweat-stained stringer tank and lifting wrist wraps.",
+        "scene": "Medium shot in a penthouse hallway, Strawberry-Guy aggressively bumping shoulders with Julian while glaring with intense resentment."
+      },
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "1.800 $",
+          "bar": 0.95
+        },
+        {
+          "label": "Protein",
+          "value": "260g",
+          "bar": 0.98
+        },
+        {
+          "label": "Gains",
+          "value": "25.4 lbs",
+          "bar": 0.95
+        }
+      ],
+      "character": "A sleek, vibrant Kiwifrucht man with fuzzy brown skin and emerald green flesh, wearing a bespoke tailored athletic blazer and gold-rimmed glasses. A glowing '1.800 $ / mo' badge sits on his forehead.",
+      "visual": "Wide angle shot of a penthouse gym overlooking a sprawling skyscraper skyline at sunset, glass walls, custom titanium equipment. A tiny gold coin rests on the edge of a panoramic window sill.",
+      "scenes": [
+        "Wide angle shot of a penthouse gym overlooking a sprawling skyline at sunset, a hidden gold coin on a window sill.",
+        "Close-up of a custom titanium shaker bottle being filled with ultra-pure white whey isolate.",
+        "Medium shot of Julian stepping out of a private elevator into a sun-drenched training suite.",
+        "Over-the-shoulder shot of Strawberry-Guy glaring angrily across the rubber flooring.",
+        "Detail shot of a gold-plated sports watch displaying biometric recovery metrics.",
+        "Close-up of a digital forehead badge shining brightly with '1.800 $ / mo'."
+      ],
+      "caption": "Would you drop nearly two grand a month on a penthouse gym? #PenthouseGym #ExecutiveFitness #EliteWealth #TheStirnZahl #Gains"
+    },
+    {
+      "n": 8,
+      "open_loop": "What was the final secret formula hidden inside the founder's ultimate vault?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Questions his training authority in front of all elite members."
+      },
+      "name": "Victor, 42, Fitness Empire Founder",
+      "badge": "10.000 $ / mo",
+      "verdict": "MAX LEVEL",
+      "story": "The 8 levels of gym membership. Level 8. Level 8: 10.000 dollars a month for total physical mastery – and I own the entire gym chain. My forehead glows ten-thousand, and I step onto the private rooftop helipad gym overlooking the entire city. I pour pure golden elixir into a crystal goblet while a boutique Drachenfrucht-Girl watches me from the lounge doors. You think money buys true discipline, or is it just an expensive illusion? I smile calmly and look out over the glowing metropolis below. Then the main digital skyline board flashes all our numbers at once. What topic should we explore next in our series?",
+      "gender": "m",
+      "twist": {
+        "delta": "MAX",
+        "after": "10.000 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of gym membership. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 10.000 dollars a month for total physical mastery – and I own the entire gym chain."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead glows ten-thousand, and I step onto the private rooftop helipad gym overlooking the entire city."
+        },
+        {
+          "s": "Figur",
+          "t": "I pour pure golden elixir into a crystal goblet while a boutique Drachenfrucht-Girl watches me from the lounge doors."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You think money buys true discipline, or is it just an expensive illusion?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I smile calmly and look out over the glowing metropolis below."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then the main digital skyline board flashes all our numbers at once. What topic should we explore next in our series?"
+        }
+      ],
+      "quote": "You think money buys true discipline, or is it just an expensive illusion?",
+      "quote_by": {
+        "level": 4,
+        "name": "Drachenfrucht-Girl",
+        "badge": "250 $ / mo",
+        "character": "A sleek magenta dragonfruit woman with green-tipped scale leaves, wearing a teal crop top and matching athletic leggings.",
+        "scene": "Medium shot on a rooftop terrace at dusk, Drachenfrucht-Girl leaning against a glass railing, challenging Victor with a confident smirk."
+      },
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "10.000 $",
+          "bar": 1.0
+        },
+        {
+          "label": "Protein",
+          "value": "500g",
+          "bar": 1.0
+        },
+        {
+          "label": "Gains",
+          "value": "MAX",
+          "bar": 1.0
+        }
+      ],
+      "character": "A sturdy, fiber-shelled Kokosnuss man with textured brown husk skin, wearing a pristine white tailored cashmere tracksuit and gold-rimmed sunglasses. A glowing '10.000 $ / mo' badge sits on his forehead.",
+      "visual": "Wide angle drone shot of an ultra-luxury rooftop helipad gym at night, glowing neon skyscrapers stretching to the horizon, private equipment sparkling under warm lights. A glowing gold coin rests directly on the center helipad landing circle.",
+      "scenes": [
+        "Wide angle drone shot of a rooftop helipad gym at night, neon skyscrapers, a glowing gold coin on the helipad circle.",
+        "Close-up of a crystal goblet being filled with a shimmering golden liquid elixir.",
+        "Medium shot of Victor standing tall in a pristine white cashmere tracksuit, his forehead badge glowing '10.000 $ / mo'.",
+        "Over-the-shoulder shot of Drachenfrucht-Girl holding her shaker bottle, looking up with a challenging expression.",
+        "Detail shot of the city skyline lighting up with synchronized digital numbers across thousands of glowing foreheads.",
+        "Close-up of Victor's calm, knowing smile reflecting the city's neon lights."
+      ],
+      "caption": "Can money truly buy ultimate fitness mastery? What topic should we do next? #FitnessEmpire #MaxLevel #UltimateGains #TheStirnZahl #EndOfTheLine"
+    }
+  ],
+  "lang": "en",
+  "topic": "Gym Membership Tiers and Protein Powder Obsession",
+  "frame": "frucht"
+}

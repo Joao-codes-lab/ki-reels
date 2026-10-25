@@ -1,0 +1,723 @@
+{
+  "title": "The 8 Levels of Remote Work",
+  "house": "A bustling metropolitan city made of glass skyscrapers, coffee shops, and fiber-optic cables, inhabited by living fruit and vegetable people.",
+  "catchphrase": "The screen doesn't lie.",
+  "links": [
+    "A quiet blueberry barista in Level 2 mentions a stressed broccoli always ordering double espresso.",
+    "A coconut manager in Level 5 complains about a glitchy microphone from the broccoli in Level 8."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Why did the system lock my Slack account right during the quarterly review?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Muted her microphone during the presentation and laughed at her broken headset."
+      },
+      "name": "Sam, 22, Intern",
+      "badge": "1,200 $ / mo",
+      "verdict": "UNSTABLE",
+      "story": "The 8 levels of remote work. Level 1. Level 1: 1,200 dollars a month and my Wi-Fi drops every five minutes. I stared at my cracked laptop screen in the dark closet. You are lagging so hard, everyone is laughing at your camera feed! I gripped my $4 thrifted headphones. Then the screen froze completely. You look like a joke on corporate calls. My digital badge pulsed red. Suddenly, my direct deposit notification popped up. Wait, why does it say zero? You'll see that in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-1,200 $",
+        "after": "0 $ / mo"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of remote work. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 1,200 dollars a month and my Wi-Fi drops every five minutes."
+        },
+        {
+          "s": "Figur",
+          "t": "I stared at my cracked laptop screen in the dark closet."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "You are lagging so hard, everyone is laughing at your camera feed!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I gripped my $4 thrifted headphones. Then the screen froze completely."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You look like a joke on corporate calls.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My digital badge pulsed red. Suddenly, my direct deposit notification popped up."
+        },
+        {
+          "s": "Figur",
+          "t": "Wait, why does it say zero?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You look like a joke on corporate calls.",
+      "quote_by": {
+        "level": 6,
+        "name": "Victoria",
+        "badge": "9,500 $ / mo",
+        "character": "A sleek, sharp-edged dragon fruit woman in a tailored pink blazer.",
+        "scene": "Close-up of a dragon fruit woman adjusting her expensive webcam in a luxury home office, sneering at a laptop."
+      },
+      "stats": [
+        {
+          "label": "Income",
+          "value": "1,200 $",
+          "bar": 0.1
+        },
+        {
+          "label": "Wi-Fi",
+          "value": "2 Mbps",
+          "bar": 0.05
+        },
+        {
+          "label": "Stress",
+          "value": "99 %",
+          "bar": 0.99
+        }
+      ],
+      "character": "Sam is a young, anxious strawberry person with freckles made of seeds, wearing an oversized grey hoodie and holding a chipped ceramic mug.",
+      "visual": "Medium shot of a strawberry person sitting in a dark, cluttered bedroom lit only by the cold blue light of a laptop screen.",
+      "scenes": [
+        "Wide shot of a cramped apartment kitchen at dawn with dirty dishes piled high near a glowing router.",
+        "Close-up of a laptop screen showing a frozen Zoom grid with pixelated fruit avatars.",
+        "Medium shot of a coconut man leaning through a doorway with a judgmental scowl.",
+        "Detail shot of a trembling hand holding a cheap plastic mouse with a frayed USB cable.",
+        "Wide shot of a rainy street outside a window with neon diner signs reflecting in puddles.",
+        "Close-up of the glowing digital badge on Sam's forehead flickering from green to deep red."
+      ],
+      "caption": "Ever had your Zoom freeze at the worst possible second? Drop your worst work story below! #remotework #zoomlife #struggle #corporate #relatable"
+    },
+    {
+      "n": 2,
+      "open_loop": "Who transferred the extra five hundred dollars into my account during the team sync?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Denied her remote expense report for a basic ergonomic chair."
+      },
+      "name": "Mia, 26, Copywriter",
+      "badge": "2,400 $ / mo",
+      "verdict": "STRUGGLING",
+      "story": "The 8 levels of remote work. Level 2. Level 2: 2,400 dollars a month and my client demands revisions at midnight. I typed furiously while boiling instant ramen on a hot plate. Your copy lacks soul, just like your tiny apartment. I stared at my second-hand monitor held up by old textbooks. Then, my phone buzzed with an incoming wire transfer. Who authorized this sudden bonus? You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+500 $",
+        "after": "2,900 $ /"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of remote work. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 2,400 dollars a month and my client demands revisions at midnight."
+        },
+        {
+          "s": "Figur",
+          "t": "I typed furiously while boiling instant ramen on a hot plate."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your copy lacks soul, just like your tiny apartment.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I stared at my second-hand monitor held up by old textbooks."
+        },
+        {
+          "s": "Figur",
+          "t": "Then, my phone buzzed with an incoming wire transfer."
+        },
+        {
+          "s": "Figur",
+          "t": "Who authorized this sudden bonus?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Your copy lacks soul, just like your tiny apartment.",
+      "quote_by": {
+        "level": 7,
+        "name": "Zoe",
+        "badge": "12,000 $ / mo",
+        "character": "A sharp, yellow lemon woman with a sour expression, wearing a crisp white linen shirt.",
+        "scene": "Medium shot of a lemon woman typing aggressively on a sleek mechanical keyboard while sipping black coffee."
+      },
+      "stats": [
+        {
+          "label": "Income",
+          "value": "2,400 $",
+          "bar": 0.25
+        },
+        {
+          "label": "Wi-Fi",
+          "value": "25 Mbps",
+          "bar": 0.3
+        },
+        {
+          "label": "Stress",
+          "value": "85 %",
+          "bar": 0.85
+        }
+      ],
+      "character": "Mia is an orange person with bright citrus skin, wearing a faded college sweatshirt and mismatched colorful socks.",
+      "visual": "Halbnah shot of an orange person typing frantically on a laptop next to a steaming pot of instant noodles in a small kitchen.",
+      "scenes": [
+        "Wide shot of a cluttered studio apartment with laundry drying on a metal rack.",
+        "Close-up of a glowing Slack window displaying a harsh message from a manager.",
+        "Detail shot of stacked textbooks supporting an old computer screen.",
+        "Medium shot of a lemon woman glaring at her tablet screen during a video call.",
+        "Close-up of a banking app notification showing a sudden cash deposit.",
+        "Wide shot of the city skyline at night through a rain-streaked window."
+      ],
+      "caption": "Late-night client revisions are the absolute worst. Have you ever gotten an unexpected bonus? #freelance #writerlife #zoom #money #relatable"
+    },
+    {
+      "n": 3,
+      "open_loop": "Why did the senior director cancel my presentation deck five minutes before the meeting?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Deleted her cloud storage folder without giving any explanation."
+      },
+      "name": "Leo, 31, Developer",
+      "badge": "4,100 $ / mo",
+      "verdict": "MID-TIER",
+      "story": "The 8 levels of remote work. Level 3. Level 3: 4,100 dollars a month and I am debugging production code at 3 AM. I rubbed my stinging eyes in front of three monitors displaying endless terminal text. Fix that memory leak before the Tokyo team logs on, or else. I slammed my fist on the wooden desk, spilling my cold coffee. Why is everyone treating me like an intern? Who just deleted my root access? You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-300 $",
+        "after": "3,800 $ /"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of remote work. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 4,100 dollars a month and I am debugging production code at 3 AM."
+        },
+        {
+          "s": "Figur",
+          "t": "I rubbed my stinging eyes in front of three monitors displaying endless terminal text."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Fix that memory leak before the Tokyo team logs on, or else.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I slammed my fist on the wooden desk, spilling my cold coffee."
+        },
+        {
+          "s": "Figur",
+          "t": "Why is everyone treating me like an intern?"
+        },
+        {
+          "s": "Figur",
+          "t": "Who just deleted my root access?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Fix that memory leak before the Tokyo team logs on, or else.",
+      "quote_by": {
+        "level": 8,
+        "name": "Barnaby",
+        "badge": "18,500 $ / mo",
+        "character": "A massive, imposing broccoli man in a dark charcoal suit with golden cufflinks.",
+        "scene": "Wide shot of a luxurious penthouse office with floor-to-ceiling windows overlooking the city at night, a broccoli man typing on a gold-plated laptop."
+      },
+      "stats": [
+        {
+          "label": "Income",
+          "value": "4,100 $",
+          "bar": 0.45
+        },
+        {
+          "label": "Wi-Fi",
+          "value": "100 Mbps",
+          "bar": 0.6
+        },
+        {
+          "label": "Stress",
+          "value": "90 %",
+          "bar": 0.9
+        }
+      ],
+      "character": "Leo is an avocado person with a smooth green head and a small wooden pit necklace, wearing a dark grey hoodie and glasses.",
+      "visual": "Wide shot of a developer's desk illuminated by three large monitors glowing with green code in a dark room.",
+      "scenes": [
+        "Close-up of fingers flying across a mechanical keyboard with colorful RGB backlighting.",
+        "Medium shot of an avocado person staring in disbelief at an empty code repository.",
+        "Detail shot of a spilled coffee mug pooling near a power strip.",
+        "Wide shot of a modern home office setup with minimalist furniture and a houseplant.",
+        "Close-up of the bright digital badge on Leo's forehead showing his monthly earnings.",
+        "Medium shot of a towering broccoli man silhouetted against a skyscraper window."
+      ],
+      "caption": "Late-night coding bugs are a developer's true nightmare. Ever lost your progress right before a deadline? #coding #developer #techlife #burnout #remote"
+    },
+    {
+      "n": 4,
+      "open_loop": "Who sent the anonymous feedback report claiming I am incompetent?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Blamed her for a missed deployment deadline during the weekly town hall."
+      },
+      "name": "Chloe, 29, Product Manager",
+      "badge": "6,200 $ / mo",
+      "verdict": "STABLE",
+      "story": "The 8 levels of remote work. Level 4. Level 4: 6,200 dollars a month and I am mediating a screaming match on Zoom. Six different fruit avatars were shouting over each other about feature roadmaps. You are losing control of this team, Chloe, management is noticing. I pressed mute and took a deep breath. My hands shook on my wireless mouse. I had worked eighty hours this week. Who forwarded my private performance review to the whole company? You'll see that in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+800 $",
+        "after": "7,000 $ /"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of remote work. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 6,200 dollars a month and I am mediating a screaming match on Zoom."
+        },
+        {
+          "s": "Figur",
+          "t": "Six different fruit avatars were shouting over each other about feature roadmaps."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are losing control of this team, Chloe, management is noticing.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I pressed mute and took a deep breath."
+        },
+        {
+          "s": "Figur",
+          "t": "My hands shook on my wireless mouse. I had worked eighty hours this week."
+        },
+        {
+          "s": "Figur",
+          "t": "Who forwarded my private performance review to the whole company?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "You are losing control of this team, Chloe, management is noticing.",
+      "quote_by": {
+        "level": 1,
+        "name": "Sam",
+        "badge": "1,200 $ / mo",
+        "character": "An anxious strawberry person wearing an oversized hoodie and thrifted headphones.",
+        "scene": "Close-up of a strawberry person typing a reckless message into a company-wide chat channel with a panicked expression."
+      },
+      "stats": [
+        {
+          "label": "Income",
+          "value": "6,200 $",
+          "bar": 0.6
+        },
+        {
+          "label": "Wi-Fi",
+          "value": "250 Mbps",
+          "bar": 0.75
+        },
+        {
+          "label": "Stress",
+          "value": "75 %",
+          "bar": 0.75
+        }
+      ],
+      "character": "Chloe is a peach person with velvety pink-orange skin, wearing a smart navy blazer and silver hoop earrings.",
+      "visual": "Medium shot of a peach person sitting at a glass patio table with a laptop, looking stressed during a video conference.",
+      "scenes": [
+        "Wide shot of a sunny balcony office overlooking a dense urban park with other apartment towers.",
+        "Close-up of a laptop screen displaying a grid of animated fruit participants in a heated meeting.",
+        "Detail shot of a sleek silver mouse resting next to a half-empty glass of iced tea.",
+        "Medium shot of a coconut man leaning back in an ergonomic leather chair with a smug grin.",
+        "Close-up of a notification banner flashing red across the top of a smartphone screen.",
+        "Wide shot of the bustling city streets far below seen through a glass balcony railing."
+      ],
+      "caption": "Managing remote teams is harder than herding cats. Ever had a private review leaked? #management #zoommeeting #tech #corporate #remote"
+    },
+    {
+      "n": 5,
+      "open_loop": "Why did my stock options vest a month early without any prior notice?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Spread rumors that her remote team was slacking off during company hours."
+      },
+      "name": "Arthur, 35, Senior Architect",
+      "badge": "8,900 $ / mo",
+      "verdict": "THRIVING",
+      "story": "The 8 levels of remote work. Level 5. Level 5: 8,900 dollars a month and my home office is bigger than most apartments. I adjusted my designer desk lamp and took a sip of espresso. You think your architecture is safe, Arthur? The cloud migration is failing. I leaned back in my ergonomic leather chair, watching the stock ticker. My badge glowed a brilliant emerald green. Who transferred this massive equity payout into my account? You'll see that in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1,500 $",
+        "after": "10,400 $ "
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of remote work. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 8,900 dollars a month and my home office is bigger than most apartments."
+        },
+        {
+          "s": "Figur",
+          "t": "I adjusted my designer desk lamp and took a sip of espresso."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You think your architecture is safe, Arthur? The cloud migration is failing.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I leaned back in my ergonomic leather chair, watching the stock ticker."
+        },
+        {
+          "s": "Figur",
+          "t": "My badge glowed a brilliant emerald green."
+        },
+        {
+          "s": "Figur",
+          "t": "Who transferred this massive equity payout into my account?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "You think your architecture is safe, Arthur? The cloud migration is failing.",
+      "quote_by": {
+        "level": 2,
+        "name": "Mia",
+        "badge": "2,400 $ / mo",
+        "character": "An orange person with bright citrus skin wearing a faded college sweatshirt.",
+        "scene": "Medium shot of an orange person typing quickly on an old laptop in a cluttered kitchen."
+      },
+      "stats": [
+        {
+          "label": "Income",
+          "value": "8,900 $",
+          "bar": 0.75
+        },
+        {
+          "label": "Wi-Fi",
+          "value": "500 Mbps",
+          "bar": 0.9
+        },
+        {
+          "label": "Stress",
+          "value": "50 %",
+          "bar": 0.5
+        }
+      ],
+      "character": "Arthur is a coconut person with a hard, textured brown shell and a clean-shaven face, wearing a tailored black turtleneck.",
+      "visual": "Wide shot of a spacious, minimalist loft apartment with polished concrete floors and floor-to-ceiling bookshelves.",
+      "scenes": [
+        "Close-up of a high-end espresso machine pouring dark roast into a ceramic cup.",
+        "Medium shot of a coconut man looking calmly at multiple curved computer monitors.",
+        "Detail shot of a golden coin resting on a stack of architectural blueprints.",
+        "Wide shot of a sunlit home office with designer furniture and modern art on the walls.",
+        "Close-up of a stock market app showing green upward-trending candlestick charts.",
+        "Medium shot of a financial notification banner flashing brightly across a phone screen."
+      ],
+      "caption": "High earnings come with high-stakes architecture decisions. Have your stock options ever surprised you? #architec #tech #finance #remotework #success"
+    },
+    {
+      "n": 6,
+      "open_loop": "Why did the board of directors lock me out of the quarterly earnings call?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Sent a corrupted code patch that crashed her staging environment right before the demo."
+      },
+      "name": "Victoria, 38, VP of Operations",
+      "badge": "12,500 $ / mo",
+      "verdict": "ELITE",
+      "story": "The 8 levels of remote work. Level 6. Level 6: 12,500 dollars a month and I am firing three department heads over a Zoom webinar. I looked into the camera lens with absolute coldness. You can cut all the staff you want, Victoria, but your division is still bankrupt. I gripped the edges of my mahogany desk so hard my knuckles turned white. My digital badge shone with an blinding platinum light. Who just bought out my entire division behind my back? You'll see that in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+2,500 $",
+        "after": "15,000 $ "
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of remote work. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 12,500 dollars a month and I am firing three department heads over a Zoom webinar."
+        },
+        {
+          "s": "Figur",
+          "t": "I looked into the camera lens with absolute coldness."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You can cut all the staff you want, Victoria, but your division is still bankrupt.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I gripped the edges of my mahogany desk so hard my knuckles turned white."
+        },
+        {
+          "s": "Figur",
+          "t": "My digital badge shone with an blinding platinum light."
+        },
+        {
+          "s": "Figur",
+          "t": "Who just bought out my entire division behind my back?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "You can cut all the staff you want, Victoria, but your division is still bankrupt.",
+      "quote_by": {
+        "level": 3,
+        "name": "Leo",
+        "badge": "4,100 $ / mo",
+        "character": "An avocado person wearing a dark grey hoodie and glasses in a dim room.",
+        "scene": "Close-up of an avocado man typing aggressively on a mechanical keyboard with glowing green backlighting."
+      },
+      "stats": [
+        {
+          "label": "Income",
+          "value": "12,500 $",
+          "bar": 0.88
+        },
+        {
+          "label": "Wi-Fi",
+          "value": "1 Gbps",
+          "bar": 0.95
+        },
+        {
+          "label": "Stress",
+          "value": "60 %",
+          "bar": 0.6
+        }
+      ],
+      "character": "Victoria is a sleek dragon fruit person with vibrant magenta skin and green leaf tips, wearing a tailored cream blazer and pearl earrings.",
+      "visual": "Wide shot of a luxurious high-rise corner office with leather armchairs and a panoramic view of the financial district.",
+      "scenes": [
+        "Close-up of a high-end webcam mounted on a massive curved monitor displaying executive charts.",
+        "Medium shot of a dragon fruit woman speaking authoritatively into a professional studio microphone.",
+        "Detail shot of a heavy gold pen resting on a dark walnut conference table.",
+        "Wide shot of an empty boardroom with glass walls and designer designer lighting.",
+        "Close-up of a smartphone screen showing an international encrypted phone call.",
+        "Medium shot of a security access panel glowing with high-level biometric clearance lights."
+      ],
+      "caption": "Executive decisions at the top level change everything overnight. Have you ever faced corporate restructuring? #executive #leadership #business #corporate #success"
+    },
+    {
+      "n": 7,
+      "open_loop": "Why did my private Swiss bank account transfer all its assets to an unknown entity?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Publicly questioned her leadership competence during a crucial quarterly review."
+      },
+      "name": "Zoe, 42, Managing Director",
+      "badge": "22,000 $ / mo",
+      "verdict": "TYCOON",
+      "story": "The 8 levels of remote work. Level 7. Level 7: 22,000 dollars a month and I am orchestrating a hostile corporate takeover from my yacht. I stared at my satellite tablet while the Mediterranean waves crashed against the hull. You cannot just buy out our entire portfolio, Zoe, it is unethical! I took a slow sip of champagne and smiled. Power isn't ethical, it's arithmetic. Who emptied my offshore account in three seconds? You'll see that in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "-15,000 $",
+        "after": "7,000 $ /"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of remote work. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 22,000 dollars a month and I am orchestrating a hostile corporate takeover from my yacht."
+        },
+        {
+          "s": "Figur",
+          "t": "I stared at my satellite tablet while the Mediterranean waves crashed against the hull."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You cannot just buy out our entire portfolio, Zoe, it is unethical!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I took a slow sip of champagne and smiled."
+        },
+        {
+          "s": "Figur",
+          "t": "Power isn't ethical, it's arithmetic."
+        },
+        {
+          "s": "Figur",
+          "t": "Who emptied my offshore account in three seconds?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "You cannot just buy out our entire portfolio, Zoe, it is unethical!",
+      "quote_by": {
+        "level": 4,
+        "name": "Chloe",
+        "badge": "6,200 $ / mo",
+        "character": "A peach person with velvety pink-orange skin wearing a smart navy blazer.",
+        "scene": "Medium shot of a peach person looking furiously at a laptop screen on a sunny balcony."
+      },
+      "stats": [
+        {
+          "label": "Income",
+          "value": "22,000 $",
+          "bar": 0.95
+        },
+        {
+          "label": "Wi-Fi",
+          "value": "Satellite",
+          "bar": 1.0
+        },
+        {
+          "label": "Stress",
+          "value": "40 %",
+          "bar": 0.4
+        }
+      ],
+      "character": "Zoe is a sharp lemon person with a bright yellow citrus peel, wearing designer sunglasses and a silk white yachting shirt.",
+      "visual": "Wide shot of a luxury yacht deck at sunset with sleek modern furniture and the open sea stretching to the horizon.",
+      "scenes": [
+        "Close-up of a crystal champagne flute sparkling in the golden hour sunlight.",
+        "Medium shot of a lemon woman tapping on a diamond-encrusted satellite tablet.",
+        "Detail shot of a golden coin resting on a mahogany railing overlooking the ocean.",
+        "Wide shot of a private coastal villa with a helicopter pad in the background.",
+        "Close-up of a secure banking terminal displaying a massive financial transfer in red text.",
+        "Medium shot of a peach person glaring at a video camera in a split-screen display."
+      ],
+      "caption": "When wealth reaches the highest tier, the stakes become unimaginably massive. Who do you think took the funds? #luxury #wealth #business #power #yachtlife"
+    },
+    {
+      "n": 8,
+      "open_loop": "Who really owns the entire global remote network, and what happens when the display turns black?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Unwittingly wrote the master algorithm that centralized all global corporate control."
+      },
+      "name": "Barnaby, 50, Founder & CEO",
+      "badge": "99,999 $ / mo",
+      "verdict": "THE SYSTEM",
+      "story": "The 8 levels of remote work. Level 8. Level 8: 99,999 dollars a month and I own the servers every single person logs into. I stood on the obsidian balcony of my cloud headquarters, looking down at the glowing city. You built a cage for all of us, Barnaby. I smiled softly and raised my crystal glass. I didn't build a cage, I built the entire world. Are you ready to log off forever? Which theme should we explore next? Drop your ideas in the comments.",
+      "gender": "m",
+      "twist": {
+        "delta": "∞",
+        "after": "INFINITY"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of remote work. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 99,999 dollars a month and I own the servers every single person logs into."
+        },
+        {
+          "s": "Figur",
+          "t": "I stood on the obsidian balcony of my cloud headquarters, looking down at the glowing city."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You built a cage for all of us, Barnaby.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I smiled softly and raised my crystal glass."
+        },
+        {
+          "s": "Figur",
+          "t": "I didn't build a cage, I built the entire world."
+        },
+        {
+          "s": "Figur",
+          "t": "Are you ready to log off forever?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Which theme should we explore next? Drop your ideas in the comments."
+        }
+      ],
+      "quote": "You built a cage for all of us, Barnaby.",
+      "quote_by": {
+        "level": 3,
+        "name": "Leo",
+        "badge": "4,100 $ / mo",
+        "character": "An avocado person wearing a dark grey hoodie in a dim developer room.",
+        "scene": "Close-up of an avocado man staring intensely at a glowing terminal screen while typing the final master command."
+      },
+      "stats": [
+        {
+          "label": "Control",
+          "value": "100 %",
+          "bar": 1.0
+        },
+        {
+          "label": "Network",
+          "value": "Global",
+          "bar": 1.0
+        },
+        {
+          "label": "Status",
+          "value": "ADMIN",
+          "bar": 1.0
+        }
+      ],
+      "character": "Barnaby is a massive, imposing broccoli man with a dense green floret crown, wearing a dark charcoal suit with golden cufflinks.",
+      "visual": "Wide shot of an ultra-modern glass penthouse high above the clouds, overlooking an entire glowing futuristic city of digital workers.",
+      "scenes": [
+        "Close-up of a massive server room with rows of blue and green blinking lights.",
+        "Medium shot of a broccoli man looking down at the sprawling metropolis through floor-to-ceiling windows.",
+        "Detail shot of a golden coin resting on a sleek obsidian desk next to a master control keyboard.",
+        "Wide shot of the entire digital city at night with glowing fiber-optic streets connecting every building.",
+        "Close-up of the infinity symbol glowing brightly on the forehead badge of the ultimate CEO.",
+        "Wide shot fading to black as the final global server shuts down with a soft click."
+      ],
+      "caption": "The top of the pyramid changes everything you thought you knew about the system. What theme should we do next? #ceo #remotework #matrix #mindblown #future"
+    }
+  ],
+  "lang": "en",
+  "topic": "Remote Work Zoom Calls and Slack Message Anxiety",
+  "frame": "frucht"
+}
