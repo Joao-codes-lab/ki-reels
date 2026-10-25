@@ -5,13 +5,26 @@
       "frame": "aufzug",
       "topic": "Reichtum in Deutschland",
       "start": "2026-10-24"
+    },
+    {
+      "lang": "en",
+      "frame": "aufzug",
+      "topic": "Mietpreise in deutschen Großstädten",
+      "start": "2026-10-25"
     }
   ],
   "de:aufzug": {
     "id": "de_aufzug_reichtum_in_deutschland",
     "topic": "Reichtum in Deutschland",
     "frame": "aufzug",
+    "next": 3,
+    "last_date": "2026-10-25"
+  },
+  "en:aufzug": {
+    "id": "en_aufzug_mietpreise_in_deutschen_gro_st_dten",
+    "topic": "Mietpreise in deutschen Großstädten",
+    "frame": "aufzug",
     "next": 2,
-    "last_date": "2026-10-24"
+    "last_date": "2026-10-25"
   }
 }

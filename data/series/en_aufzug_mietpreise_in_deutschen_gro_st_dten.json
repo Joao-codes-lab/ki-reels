@@ -1,0 +1,805 @@
+{
+  "title": "The 8 Levels of US Rent Prices",
+  "house": "A hyper-gentrified American metropolis where towering glass skyscrapers overlook cramped pre-war brownstones and hidden basement storage units.",
+  "catchphrase": "The rent always collects.",
+  "links": [
+    "Kyle in Level 1 sublets an illegal basement cot from Chloe in Level 2.",
+    "Chloe in Level 2 rents a converted walk-in pantry from Marcus in Level 3.",
+    "Marcus in Level 3 leases his noisy track-side studio from broker Tanya in Level 4.",
+    "Tanya in Level 4 rents her pre-war walkup from corporate asset director David in Level 5.",
+    "David in Level 5 manages high-rise portfolios owned by heritage heiress Victoria in Level 6.",
+    "Victoria in Level 6 pays debt service on her brownstones to hedge fund titan Julian in Level 7.",
+    "Julian in Level 7 leases his $35k penthouse from Arthur in Level 8, who owns all 40 buildings.",
+    "The corner bodega with neon signs appears in the background across Levels 1 through 5."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Who was Chloe frantically calling on speakerphone about the lease deadline?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Snatches Kyle's weekly tip money from his milk crate and threatens to lock him out in winter."
+      },
+      "name": "Kyle, 21, Dishwasher",
+      "badge": "$650/mo",
+      "verdict": "ROCK BOTTOM",
+      "story": "The 8 Levels of Rent. Level 1. Level one: six hundred fifty dollars for a damp boiler closet. I am Kyle, twenty-one, dishwasher. My bed is a ripped army cot beside leaking copper pipes. I count eighty crumpled dollar bills on my mattress. Suddenly, the metal basement door slams open. Your dirty cash is fifty dollars short again, Chloe snaps coldly. \"The heat was off for three days, Chloe,\" I plead, shivering. \"Give me until Friday.\" The rent always collects, she mocks, tossing an empty coffee cup onto my pillow. Pay up or sleep on the subway. That hit like a punch to my gut. She grabs my weekly tips right off the milk crate. Now my checking account is completely empty. Do you think you could survive sleeping next to a roaring furnace? Chloe hurried upstairs, frantically dialing someone about an urgent lease deadline. Whose name was she whispering into her phone so terrified? You'll see that in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-$130",
+        "after": "$0"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Levels of Rent. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level one: six hundred fifty dollars for a damp boiler closet. I am Kyle, twenty-one, dishwasher. My bed is a ripped army cot beside leaking copper pipes. I count eighty crumpled dollar bills on my mattress. Suddenly, the metal basement door slams open."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your dirty cash is fifty dollars short again,",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Chloe snaps coldly."
+        },
+        {
+          "s": "Figur",
+          "t": "\"The heat was off for three days, Chloe,\" I plead, shivering. \"Give me until Friday.\""
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "The rent always collects,",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "she mocks, tossing an empty coffee cup onto my pillow."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Pay up or sleep on the subway.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "That hit like a punch to my gut. She grabs my weekly tips right off the milk crate. Now my checking account is completely empty. Do you think you could survive sleeping next to a roaring furnace? Chloe hurried upstairs, frantically dialing someone about an urgent lease deadline. Whose name was she whispering into her phone so terrified?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "Pay up or sleep on the subway.",
+      "quote_by": {
+        "level": 2,
+        "name": "Chloe",
+        "badge": "$1,400/mo",
+        "character": "Round cream-white ball head, messy bun, green barista apron over an oversized beige hoodie, holding an iced latte.",
+        "scene": "Medium shot in a dark basement doorway, Chloe sneering down with an iced coffee cup, bright yellow forehead badge gleaming."
+      },
+      "stats": [
+        {
+          "label": "Checking",
+          "value": "$130",
+          "bar": 0.03
+        },
+        {
+          "label": "Rent Share",
+          "value": "78%",
+          "bar": 0.95
+        },
+        {
+          "label": "Sq Footage",
+          "value": "45 sq ft",
+          "bar": 0.05
+        }
+      ],
+      "character": "Round cream-white ball head, small dot eyes, messy brown tuft, faded grey hoodie, frayed cuffs, worn canvas sneakers, tired eyebrows.",
+      "visual": "Wide shot of a dark concrete basement boiler room with steaming pipes, a thin cot with wrinkled blanket, a small glowing golden coin under the metal bed leg.",
+      "scenes": [
+        "Wide shot of a damp apartment basement storage hallway, flickering fluorescent light, exposed rusty water pipes, a tiny golden coin sitting on a rusted drain cover.",
+        "Medium shot of Kyle kneeling beside an army cot, counting crumpled dollar bills on an upturned wooden milk crate, shivering in the cold damp air, small golden coin hidden on the crate corner.",
+        "Close-up detail of dirty work boots standing in a water puddle next to an old hissing furnace, small golden coin glinting inside the puddle reflection.",
+        "Medium shot of stylish Chloe standing on metal basement stairs above Kyle, sneering coldly while holding a plastic iced drink, her glowing yellow badge visible, tiny golden coin on the third stair.",
+        "Detail shot of an empty battered leather wallet dropped onto a threadbare blanket, showing zero cash inside, a tiny golden coin resting in the wallet fold.",
+        "Wide shot looking up the dark basement staircase toward the slightly open street door with neon city streetlights leaking through, small golden coin on the door frame."
+      ],
+      "caption": "Could you survive living in a damp boiler closet for $650 a month? Where do you stand on rent? #rentcrisis #nycrent #apartmenthunting #viralvideo #landlord"
+    },
+    {
+      "n": 2,
+      "open_loop": "Who was the powerful broker that signed the eviction notice Marcus hid under his coffee maker?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Blocks Chloe from entering the kitchen and seizes her tip money to cover his own rent deficit."
+      },
+      "name": "Chloe, 24, Barista",
+      "badge": "$1,400/mo",
+      "verdict": "TIGHT SQUEEZE",
+      "story": "The 8 Levels of Rent. Level 2. Level two: fourteen hundred dollars for a windowless walk-in pantry. I'm Chloe, twenty-four, barista. I didn't want to squeeze Kyle downstairs, but my master tenant Marcus was cornering me. I stand in our cramped kitchen, counting my tips next to the humming toaster. Marcus storms in wearing an expensive silk robe, waving a yellow legal notice. Where is the rest of your rent, Chloe? he sneers, tapping his digital watch. \"I just handed you twelve hundred,\" I argue, gripping my apron. \"Kyle was short, give me two days!\" The rent always collects, Marcus laughs coldly, blocking the hallway to my closet. Your closet rent pays my half, peasant. My stomach drops instantly. He snatches Kyle’s envelope straight out of my hands and logs into his banking app. Could you live in a room where your bed touches both walls? As Marcus walked away, I saw an urgent eviction notice addressed to him on the granite counter with a huge red warning stamp. Who was threatening to seize his entire apartment by midnight? You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "-$200",
+        "after": "$45"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Levels of Rent. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level two: fourteen hundred dollars for a windowless walk-in pantry. I'm Chloe, twenty-four, barista. I didn't want to squeeze Kyle downstairs, but my master tenant Marcus was cornering me. I stand in our cramped kitchen, counting my tips next to the humming toaster. Marcus storms in wearing an expensive silk robe, waving a yellow legal notice."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Where is the rest of your rent, Chloe?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "he sneers, tapping his digital watch. \"I just handed you twelve hundred,\" I argue, gripping my apron. \"Kyle was short, give me two days!\""
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "The rent always collects,",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Marcus laughs coldly, blocking the hallway to my closet."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your closet rent pays my half, peasant.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My stomach drops instantly. He snatches Kyle’s envelope straight out of my hands and logs into his banking app. Could you live in a room where your bed touches both walls? As Marcus walked away, I saw an urgent eviction notice addressed to him on the granite counter with a huge red warning stamp. Who was threatening to seize his entire apartment by midnight?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Your closet rent pays my half, peasant.",
+      "quote_by": {
+        "level": 3,
+        "name": "Marcus",
+        "badge": "$2,400/mo",
+        "character": "Round cream-white ball head, slick modern buzzcut, navy silk lounging robe, silver smartwatch, smirk with arched eyebrows.",
+        "scene": "Medium shot in a dimly lit narrow apartment hallway, Marcus arms crossed leaning against the doorframe, yellow digital rent badge above his brow."
+      },
+      "stats": [
+        {
+          "label": "Checking",
+          "value": "$245",
+          "bar": 0.08
+        },
+        {
+          "label": "Rent Share",
+          "value": "64%",
+          "bar": 0.75
+        },
+        {
+          "label": "Sq Footage",
+          "value": "65 sq ft",
+          "bar": 0.1
+        }
+      ],
+      "character": "Round cream-white ball head, ginger messy bun, emerald barista apron over cream sweater, silver hoop earring, anxious arched eyebrows.",
+      "visual": "Wide shot of a narrow converted walk-in pantry with a foam twin mattress crammed wall-to-wall, clothes on hangers overhead, golden coin sitting on a shelf edge.",
+      "scenes": [
+        "Wide shot of an overcrowded fourth-floor apartment kitchen with mismatched cabinets, dirty dishes stacked, a tiny golden coin glinting beside the humming toaster.",
+        "Medium shot of Chloe standing in a narrow hallway holding an envelope of cash, eyes wide with distress, small golden coin hidden on the baseboard trim.",
+        "Detail close-up of Marcus's silver smartwatch displaying rent calculation apps, small golden coin sitting next to a mug on the laminate counter.",
+        "Medium shot of Marcus in a navy silk robe looming over Chloe by the pantry doorway, pointing an eviction warning sheet at her chest, small golden coin on the door hinge.",
+        "Detail shot of a smartphone screen showing bank balance plummeting from $245 to $45 after an instant transfer, small golden coin reflecting in the screen glass.",
+        "Wide shot looking out the kitchen window onto a gritty brick alley where an elevated subway train screeches past, small golden coin lodged in the window sash."
+      ],
+      "caption": "Fourteen hundred dollars for a pantry with no windows! Would you do it to live in the city? #apartmentlife #renters #roommates #citylife #housingmarket"
+    },
+    {
+      "n": 3,
+      "open_loop": "Whose booming executive voice was threatening Tanya on speakerphone during the inspection?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Slaps Marcus with an instant $500 penalty for subletting and threatens to lease his studio to waiting tech interns."
+      },
+      "name": "Marcus, 28, Coder",
+      "badge": "$2,400/mo",
+      "verdict": "BURNING OUT",
+      "story": "The 8 Levels of Rent. Level 3. Level three: twenty-four hundred dollars above screeching train tracks. I am Marcus, twenty-eight, junior coder. I act arrogant to Chloe because the broker Tanya is bleeding me dry. The subway rumbles outside my window, violently shaking my dual monitors. The front buzzer rings furiously. Tanya steps inside, adjusting her tailored designer blazer and holding a clipboard. You sublet the pantry to a barista without authorization, Tanya says, smirking at my desk. That illegal surcharge is five hundred dollars today. \"My rent already eats half my salary, Tanya!\" I shout over the train noise. The market went up, she shrugs, sliding a lease renewal across my keyboard. Three hundred applicants want your rat hole. The rent always collects, she adds, tapping her luxury ballpoint pen against my screen. My hands tremble as I hit authorize on my computer, watching my savings plunge. Would you pay half your tech paycheck just to smell subway exhaust? Before Tanya left, she answered a speakerphone call from an angry corporate landlord demanding millions. Whose booming voice was threatening to revoke her agency license? You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-$500",
+        "after": "$1,120"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Levels of Rent. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level three: twenty-four hundred dollars above screeching train tracks. I am Marcus, twenty-eight, junior coder. I act arrogant to Chloe because the broker Tanya is bleeding me dry. The subway rumbles outside my window, violently shaking my dual monitors. The front buzzer rings furiously. Tanya steps inside, adjusting her tailored designer blazer and holding a clipboard."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You sublet the pantry to a barista without authorization,",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Tanya says, smirking at my desk."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "That illegal surcharge is five hundred dollars today.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "\"My rent already eats half my salary, Tanya!\" I shout over the train noise."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "The market went up,",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "she shrugs, sliding a lease renewal across my keyboard."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Three hundred applicants want your rat hole.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "The rent always collects,",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "she adds, tapping her luxury ballpoint pen against my screen. My hands tremble as I hit authorize on my computer, watching my savings plunge. Would you pay half your tech paycheck just to smell subway exhaust? Before Tanya left, she answered a speakerphone call from an angry corporate landlord demanding millions. Whose booming voice was threatening to revoke her agency license?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Three hundred applicants want your rat hole.",
+      "quote_by": {
+        "level": 4,
+        "name": "Tanya",
+        "badge": "$3,800/mo",
+        "character": "Round cream-white ball head, sharp bob haircut, structured camel blazer, chunky gold necklace, sharp cat-eye glasses.",
+        "scene": "Medium shot inside a messy studio, Tanya tapping a leather folder with a designer pen, yellow badge glowing on her forehead."
+      },
+      "stats": [
+        {
+          "label": "Checking",
+          "value": "$1,620",
+          "bar": 0.22
+        },
+        {
+          "label": "Rent Share",
+          "value": "52%",
+          "bar": 0.58
+        },
+        {
+          "label": "Sq Footage",
+          "value": "320 sq ft",
+          "bar": 0.25
+        }
+      ],
+      "character": "Round cream-white ball head, short dark buzzcut, oversized black developer hoodie, silver ring on thumb, exhausted strained eyes.",
+      "visual": "Wide shot of a small cluttered studio apartment right against elevated iron subway tracks, dual computer monitors glowing, golden coin sitting on the speaker.",
+      "scenes": [
+        "Wide shot of a rumbling studio apartment right next to steel elevated train tracks, blue monitor glow on exposed brick walls, small golden coin balanced on the monitor stand.",
+        "Medium shot of Marcus hunched over his mechanical keyboard, coffee mugs piled up, looking stressed as headlights flood his room, tiny golden coin on the mousepad corner.",
+        "Medium shot of Tanya in a tailored blazer standing haughtily in the cramped doorway, holding an official lease packet, small golden coin resting on the hallway carpet.",
+        "Detail shot of a lease violation notice showing a red $500 penalty stamp over Marcus's signature line, small golden coin lying beside an expensive ballpoint pen.",
+        "Detail shot of Tanya's smartphone vibrating on a glass coffee table, an incoming call displaying corporate asset management, small golden coin sitting right next to the phone.",
+        "Wide shot of the building exterior from street level, showing elevated train sparks flying near Marcus's tiny third-floor window, small golden coin on the fire escape ladder."
+      ],
+      "caption": "Twenty-four hundred dollars and the subway literally shakes your bed every 6 minutes! Would you take this deal? #techlife #nycapartment #brokerfees #rentals"
+    },
+    {
+      "n": 4,
+      "open_loop": "Who was the furious heiress threatening to shut down David's entire corporate management firm?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Hits Tanya with an instant $600 building assessment fee and threatens immediate eviction despite building maintenance failures."
+      },
+      "name": "Tanya, 34, Broker",
+      "badge": "$3,800/mo",
+      "verdict": "GOLDEN HANDCUFFS",
+      "story": "The 8 Levels of Rent. Level 4. Level four: thirty-eight hundred dollars for a peeling pre-war brownstone walkup. I am Tanya, thirty-four, leasing agent. I squeezed Marcus because David from corporate management was breathing down my neck. I walk into the lobby of my own building, exhaustedly carrying my heels. David, the portfolio director, steps out of the elevator holding a clipboard and tablet. Your personal rent increase starts this month, Tanya, David announces, glancing at his Rolex. An extra six hundred bucks for building improvements. \"My radiator leaks and the elevator has been broken for months!\" I snap, showing my muddy heels. Pay the premium or pack your boxes, David replies coldly, checking off my unit number. Commission checks don't excuse late rent fees. The rent always collects, he whispers, handing me a revised contract with a zero-grace policy. I furiously swipe my credit card into his portable card reader. Could you handle paying four grand a month while climbing five flights of stairs? As David turned, his phone lit up with a furious text from an heiress demanding his immediate firing. Who was the powerful woman controlling David's entire management firm? You'll see that in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "-$600",
+        "after": "$2,850"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Levels of Rent. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level four: thirty-eight hundred dollars for a peeling pre-war brownstone walkup. I am Tanya, thirty-four, leasing agent. I squeezed Marcus because David from corporate management was breathing down my neck. I walk into the lobby of my own building, exhaustedly carrying my heels. David, the portfolio director, steps out of the elevator holding a clipboard and tablet."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your personal rent increase starts this month, Tanya,",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "David announces, glancing at his Rolex."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "An extra six hundred bucks for building improvements.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "\"My radiator leaks and the elevator has been broken for months!\" I snap, showing my muddy heels."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Pay the premium or pack your boxes,",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "David replies coldly, checking off my unit number."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Commission checks don't excuse late rent fees.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "The rent always collects,",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "he whispers, handing me a revised contract with a zero-grace policy. I furiously swipe my credit card into his portable card reader. Could you handle paying four grand a month while climbing five flights of stairs? As David turned, his phone lit up with a furious text from an heiress demanding his immediate firing. Who was the powerful woman controlling David's entire management firm?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Commission checks don't excuse late rent fees.",
+      "quote_by": {
+        "level": 5,
+        "name": "David",
+        "badge": "$6,200/mo",
+        "character": "Round cream-white ball head, neat side-part grey hair, charcoal bespoke suit, gold cuff links, stern condescending expression.",
+        "scene": "Medium shot in a grand marble pre-war foyer, David checking a gold watch with an icy smirk, high yellow badge shimmering above him."
+      },
+      "stats": [
+        {
+          "label": "Checking",
+          "value": "$3,450",
+          "bar": 0.38
+        },
+        {
+          "label": "Rent Share",
+          "value": "44%",
+          "bar": 0.46
+        },
+        {
+          "label": "Sq Footage",
+          "value": "680 sq ft",
+          "bar": 0.42
+        }
+      ],
+      "character": "Round cream-white ball head, sleek brunette bob, gold hoop earrings, camel cashmere trench coat, designer black tote bag, exasperated expression.",
+      "visual": "Wide shot of a vintage pre-war apartment foyer with cracked marble checkered floor, brass mailboxes, a small golden coin resting on top of mailbox 4B.",
+      "scenes": [
+        "Wide shot of a vintage pre-war marble entrance hall, peeling decorative plaster ceiling, antique brass elevator cages, small golden coin on the marble ledge.",
+        "Medium shot of Tanya leaning against a grand wooden stair banister, carrying high heels, panting from climbing five floors, tiny golden coin on the bottom step.",
+        "Medium shot of David in a bespoke three-piece suit confronting Tanya by the broken elevator door, holding an iPad, small golden coin on the brass call button.",
+        "Detail shot of a mobile payment terminal processing an instant six-hundred-dollar transaction, card chip inserted, small golden coin sitting beside the device.",
+        "Detail shot of David's phone screen lighting up with a message notification reading 'Board meeting: Victoria demands liquidation', small golden coin reflecting off the phone glass.",
+        "Wide shot looking out Tanya's bay window at the high-rise glass towers downtown reflecting sunset gold, small golden coin sitting on the radiator cover."
+      ],
+      "caption": "Paying almost $4,000 a month and the elevator doesn't even work! Is city real estate totally broken? #realestateagent #prewar #rentproblems #luxuryrent"
+    },
+    {
+      "n": 5,
+      "open_loop": "Who was the shadowy equity mogul landing a private helicopter on Victoria's heritage roof?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Victoria automatically claws back David's quarterly performance bonus to cover building vacancies."
+      },
+      "name": "David, 42, Director",
+      "badge": "$6,200/mo",
+      "verdict": "CORPORATE RAT RACE",
+      "story": "The 8 Levels of Rent. Level 5. Level five: sixty-two hundred dollars for a glass box in the clouds. I am David, forty-two, property director. I pressure agents like Tanya because Victoria, the property heiress, constantly threatens my job. I stand by the floor-to-ceiling windows of my high-rise, watching the sunset over the skyline. The heavy oak door opens, and Victoria walks in, wearing a cashmere coat and diamond earrings. Your building occupancy rate fell below target this quarter, David, Victoria says, resting her leather gloves on my marble counter. \"I manage fifty luxury towers for you, Victoria!\" I exclaim, pouring a glass of water. \"I need one more week.\" The rent always collects, she states icily, tossing an invoice onto the table. Luxury means quiet tenants, not your excuses. She automatically debits my executive salary bonus to cover the building shortfall. My account balance drops before my eyes. Would you sacrifice your peace of mind just for an infinity pool view? Before Victoria departed, she stared nervously out my window at a black helicopter landing on a private rooftop. What mysterious investor was squeezing Victoria out of her family empire? You'll see that in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "-$2,500",
+        "after": "$5,900"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Levels of Rent. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level five: sixty-two hundred dollars for a glass box in the clouds. I am David, forty-two, property director. I pressure agents like Tanya because Victoria, the property heiress, constantly threatens my job. I stand by the floor-to-ceiling windows of my high-rise, watching the sunset over the skyline. The heavy oak door opens, and Victoria walks in, wearing a cashmere coat and diamond earrings."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your building occupancy rate fell below target this quarter, David,",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Victoria says, resting her leather gloves on my marble counter. \"I manage fifty luxury towers for you, Victoria!\" I exclaim, pouring a glass of water. \"I need one more week.\""
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "The rent always collects,",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "she states icily, tossing an invoice onto the table."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Luxury means quiet tenants, not your excuses.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "She automatically debits my executive salary bonus to cover the building shortfall. My account balance drops before my eyes. Would you sacrifice your peace of mind just for an infinity pool view? Before Victoria departed, she stared nervously out my window at a black helicopter landing on a private rooftop. What mysterious investor was squeezing Victoria out of her family empire?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Luxury means quiet tenants, not your excuses.",
+      "quote_by": {
+        "level": 6,
+        "name": "Victoria",
+        "badge": "$12,500/mo",
+        "character": "Round cream-white ball head, platinum blonde sculpted updo, black velvet trench coat, pearl necklace, haughty narrowed eyes.",
+        "scene": "Medium shot in a high-floor glass penthouse, Victoria holding leather driving gloves, tall yellow rent badge glowing over her crown."
+      },
+      "stats": [
+        {
+          "label": "Checking",
+          "value": "$8,400",
+          "bar": 0.55
+        },
+        {
+          "label": "Rent Share",
+          "value": "38%",
+          "bar": 0.38
+        },
+        {
+          "label": "Sq Footage",
+          "value": "1,150 sq",
+          "bar": 0.58
+        }
+      ],
+      "character": "Round cream-white ball head, neat salt-and-pepper hair, tailored navy suit without tie, gold signet ring, stressed furrowed brows.",
+      "visual": "Wide shot of a minimalist high-rise penthouse living room, floor-to-ceiling glass showing panoramic city skyscrapers, small golden coin sitting on a low marble table.",
+      "scenes": [
+        "Wide shot of an ultra-modern high-rise lobby with 24-hour concierge, waterfall glass wall, sleek marble floors, tiny golden coin hidden near the revolving door.",
+        "Medium shot of David standing beside a panoramic window looking out over the glowing grid of city avenues, holding an empty crystal glass, small golden coin on the window sill.",
+        "Medium shot of Victoria entering the penthouse suite, draped in luxury black velvet, delivering cold corporate ultimatums, small golden coin resting on the credenza.",
+        "Detail shot of a private bank interface deducting a twenty-five-hundred-dollar clawback penalty, balance sliding downwards, small golden coin beside the keyboard.",
+        "Close-up of Victoria looking through high-magnification binoculars at a private rooftop helipad across town, small golden coin resting near the telescope tripod.",
+        "Wide shot of a luxury skyscraper rooftop infinity pool at twilight, steam rising into the cold night air, small golden coin resting on the edge coping."
+      ],
+      "caption": "Over $6,000 for a luxury glass box and your boss still claws back your rent bonus! Worth the view? #luxuryapartments #penthouse #highrise #corporatelife"
+    },
+    {
+      "n": 6,
+      "open_loop": "Who was inside the armored Maybach that hedge fund titan Julian bowed down to?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Julian triggers a default clause on Victoria's historic ground lease and seizes a six-figure quarterly penalty."
+      },
+      "name": "Victoria, 39, Heiress",
+      "badge": "$12,500/mo",
+      "verdict": "OLD MONEY ILLUSION",
+      "story": "The 8 Levels of Rent. Level 6. Level six: twelve thousand five hundred dollars for a historic family brownstone. I am Victoria, thirty-nine, boutique investor. I had to discipline David because Julian’s hedge fund owns the underlying ground lease on my property. I sit in my private parlor, surrounded by antique oil paintings and imported marble fireplaces. Julian enters unannounced, accompanied by two bodyguards in sharp charcoal suits. The ground debt on this historic block matured today, Victoria, Julian says smoothly, inspecting an antique vase. \"My family has owned this heritage block for three generations, Julian!\" I protest, clutching the mahogany desk. History doesn't pay dividends, Julian replies, gesturing to his attorney to slide a foreclosure notice forward. Historic charm doesn't cover modern debt yields. The rent always collects, he smiles faintly, executing a six-figure monthly penalty straight from my trust fund. My reserve fund is completely frozen. Would you stay in your childhood home if the ground underneath belonged to a shark? Julian rushed out, bowing nervously to an incoming armored limousine parked outside. Who was riding in that limousine that made a multi-millionaire tremble in fear? You'll see that in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "-$15,000",
+        "after": "$22,000"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Levels of Rent. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level six: twelve thousand five hundred dollars for a historic family brownstone. I am Victoria, thirty-nine, boutique investor. I had to discipline David because Julian’s hedge fund owns the underlying ground lease on my property. I sit in my private parlor, surrounded by antique oil paintings and imported marble fireplaces. Julian enters unannounced, accompanied by two bodyguards in sharp charcoal suits."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "The ground debt on this historic block matured today, Victoria,",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Julian says smoothly, inspecting an antique vase. \"My family has owned this heritage block for three generations, Julian!\" I protest, clutching the mahogany desk."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "History doesn't pay dividends,",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Julian replies, gesturing to his attorney to slide a foreclosure notice forward."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Historic charm doesn't cover modern debt yields.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "The rent always collects,",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "he smiles faintly, executing a six-figure monthly penalty straight from my trust fund. My reserve fund is completely frozen. Would you stay in your childhood home if the ground underneath belonged to a shark? Julian rushed out, bowing nervously to an incoming armored limousine parked outside. Who was riding in that limousine that made a multi-millionaire tremble in fear?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "Historic charm doesn't cover modern debt yields.",
+      "quote_by": {
+        "level": 7,
+        "name": "Julian",
+        "badge": "$35,000/mo",
+        "character": "Round cream-white ball head, silver swept-back hair, pinstripe bespoke Italian suit, silk pocket square, cold predatory grin.",
+        "scene": "Medium shot in a dimly lit antique parlor, Julian leaning over a mahogany desk holding legal foreclosure documents, towering yellow badge."
+      },
+      "stats": [
+        {
+          "label": "Trust Fund",
+          "value": "$37,000",
+          "bar": 0.72
+        },
+        {
+          "label": "Rent Share",
+          "value": "28%",
+          "bar": 0.28
+        },
+        {
+          "label": "Sq Footage",
+          "value": "3,400 sq",
+          "bar": 0.75
+        }
+      ],
+      "character": "Round cream-white ball head, platinum wavy bob, silk emerald blouse, pearl drop earrings, heavy antique gold signet ring, haughty yet anxious eyes.",
+      "visual": "Wide shot of a historic three-story brownstone library with floor-to-ceiling mahogany bookshelves, green velvet curtains, small golden coin glinting on an antique globe stand.",
+      "scenes": [
+        "Wide shot of a tree-lined historic cobblestone street of private brownstones with wrought-iron gates and stone staircases, small golden coin on the iron gate latch.",
+        "Medium shot of Victoria seated at an ornate mahogany writing desk in a firelit library, antique portraits on the wall, tiny golden coin on the brass inkwell.",
+        "Medium shot of Julian standing aggressively across the desk with two bodyguards framed in the double doorways, holding a debt folder, small golden coin on a side table.",
+        "Detail shot of an embossed legal ground-lease contract demanding fifteen thousand dollars penalty debit, small golden coin resting on the contract seal.",
+        "Medium shot of Julian gazing anxiously through the library lace curtains toward a black armored limousine at the curb, small golden coin on the marble sill.",
+        "Wide shot of the brownstone private courtyard garden surrounded by brick ivy walls in the evening twilight, small golden coin hidden among the fountain stones."
+      ],
+      "caption": "Twelve thousand a month for a historic family brownstone and a hedge fund still owns the ground beneath! Old money isn't safe. #brownstone #oldmoney #realestate #nyc"
+    },
+    {
+      "n": 7,
+      "open_loop": "Who was the reclusive elderly billionaire whose name sat at the very top of the city's master deed registry?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Arthur's private estate auditor freezes Julian's escrow account and enforces a half-million dollar leasehold renewal penalty."
+      },
+      "name": "Julian, 46, Hedge Fund Partner",
+      "badge": "$35,000/mo",
+      "verdict": "APEX TENANT",
+      "story": "The 8 Levels of Rent. Level 7. Level seven: thirty-five thousand dollars monthly for a full-floor sky penthouse. I am Julian, forty-six, hedge fund partner. I pressured Victoria because my entire firm answers to one private lender: Arthur. I sip vintage bourbon on my wraparound terrace overlooking the illuminated park. An elderly butler in a pristine tuxedo steps onto the terrace, holding a silver tray with a single gold fountain pen. Mr. Vance requires your signature on the master tower lease renewal, the butler says, bowing stiffly. \"I just generated twelve percent returns for his portfolio this quarter!\" I shout, slamming my crystal glass down. Tenants are easily replaced, Mr. Julian, the butler answers softly, tapping the ledger. Even penthouses are just tenant boxes. The rent always collects, the butler murmurs, transferring five hundred thousand dollars from my capital account as security deposit. My master fund liquidity shrinks instantly. Could you live in the sky knowing you are still just an ordinary renter? The butler opened an encrypted tablet, revealing a hidden blueprint connecting every single rental building in the city. Whose empire secretly controls all eight levels of this city? You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "-$50,000",
+        "after": "$185,000"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Levels of Rent. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level seven: thirty-five thousand dollars monthly for a full-floor sky penthouse. I am Julian, forty-six, hedge fund partner. I pressured Victoria because my entire firm answers to one private lender: Arthur. I sip vintage bourbon on my wraparound terrace overlooking the illuminated park. An elderly butler in a pristine tuxedo steps onto the terrace, holding a silver tray with a single gold fountain pen."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Mr. Vance requires your signature on the master tower lease renewal,",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "the butler says, bowing stiffly. \"I just generated twelve percent returns for his portfolio this quarter!\" I shout, slamming my crystal glass down."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Tenants are easily replaced, Mr. Julian,",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "the butler answers softly, tapping the ledger."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Even penthouses are just tenant boxes.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "The rent always collects,",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "the butler murmurs, transferring five hundred thousand dollars from my capital account as security deposit. My master fund liquidity shrinks instantly. Could you live in the sky knowing you are still just an ordinary renter? The butler opened an encrypted tablet, revealing a hidden blueprint connecting every single rental building in the city. Whose empire secretly controls all eight levels of this city?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "Even penthouses are just tenant boxes.",
+      "quote_by": {
+        "level": 8,
+        "name": "Arthur",
+        "badge": "$4.2M/mo",
+        "character": "Round cream-white ball head, white trimmed beard, gold wire spectacles, charcoal cashmere turtleneck under bespoke wool blazer, piercing calm eyes.",
+        "scene": "Medium shot in a private museum library, Arthur gazing impassively while an aide transfers millions on a tablet, massive yellow badge overhead."
+      },
+      "stats": [
+        {
+          "label": "Capital",
+          "value": "$235,000",
+          "bar": 0.88
+        },
+        {
+          "label": "Rent Share",
+          "value": "18%",
+          "bar": 0.18
+        },
+        {
+          "label": "Sq Footage",
+          "value": "6,500 sq",
+          "bar": 0.9
+        }
+      ],
+      "character": "Round cream-white ball head, neatly trimmed grey beard, tailored pinstripe suit, gold chronograph watch, confident yet suddenly fearful expression.",
+      "visual": "Wide drone shot of a breathtaking 80th-floor wraparound penthouse terrace overlooking Central Park at night, illuminated city skyline, small golden coin sitting on the glass parapet.",
+      "scenes": [
+        "Wide shot of an eighty-story glass supertall skyscraper summit, fog wrapping around the illuminated spire, small golden coin on the metal maintenance crane track.",
+        "Medium shot of Julian leaning over the terrace glass railing holding a crystal tumbler of whiskey, city grid glittering below, tiny golden coin on the teak bar table.",
+        "Medium shot of the stoic butler in a tuxedo presenting a black leather leasehold ledger on a silver tray, small golden coin on the tray rim.",
+        "Detail shot of a digital banking wire authorization of fifty thousand dollars fee deduction, glowing green digits, small golden coin sitting beside the ledger pen.",
+        "Detail shot of an encrypted tablet displaying an interactive 3D digital map connecting every apartment building in the metro grid, small golden coin resting on the tablet stand.",
+        "Wide shot looking down from the eighty-fifth floor into the canyon of city streets where tiny yellow taxis move like ants, small golden coin embedded in the terrace tile."
+      ],
+      "caption": "Thirty-five grand every single month and you're still just renting from someone higher up! Who owns the city? #penthouse #billionaire #nycrent #skyline #hedgefond"
+    },
+    {
+      "n": 8,
+      "open_loop": "Which topic should we explore in the elevator next?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Arthur collects rent from every single floor below, but realizes none of his billions can buy back the youth of his struggling tenants."
+      },
+      "name": "Arthur, 68, Master Landlord",
+      "badge": "$4.2M/mo",
+      "verdict": "THE FINAL BOSS",
+      "story": "The 8 Levels of Rent. Level 8. Level eight: four million two hundred thousand dollars flowing in every month. I am Arthur, sixty-eight, institutional city landlord. I sit in my quiet private museum, gazing at a digital 3D model of the city. Every single floor you saw in this elevator belongs to my private family trust. Kyle’s basement cot, Chloe’s pantry, Marcus’s studio, Tanya’s walkup, David’s tower, Victoria’s brownstone, and Julian’s penthouse. The monthly wire transfers from forty thousand tenants have cleared, Mr. Vance, my auditor confirms, handing me a golden ledger. \"Every level pays upward,\" I reply, tracing the glowing elevator grid on the glass display. \"They think they are fighting each other, but the rent always collects.\" You own the city, sir, my assistant whispers in awe, watching thirty million dollars refresh on the digital monitor. From sixty dollars of crumpled tips to multi-million penthouses, nobody truly owns their ground here. But now that you saw how the real estate ladder works, where do you stand? Which topic should we explore in the elevator next?",
+      "gender": "m",
+      "twist": {
+        "delta": "+$4.2M",
+        "after": "$34.2M"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Levels of Rent. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level eight: four million two hundred thousand dollars flowing in every month. I am Arthur, sixty-eight, institutional city landlord. I sit in my quiet private museum, gazing at a digital 3D model of the city. Every single floor you saw in this elevator belongs to my private family trust. Kyle’s basement cot, Chloe’s pantry, Marcus’s studio, Tanya’s walkup, David’s tower, Victoria’s brownstone, and Julian’s penthouse."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "The monthly wire transfers from forty thousand tenants have cleared, Mr. Vance,",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "my auditor confirms, handing me a golden ledger. \"Every level pays upward,\" I reply, tracing the glowing elevator grid on the glass display. \"They think they are fighting each other, but the rent always collects.\""
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "You own the city, sir,",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "my assistant whispers in awe, watching thirty million dollars refresh on the digital monitor. From sixty dollars of crumpled tips to multi-million penthouses, nobody truly owns their ground here. But now that you saw how the real estate ladder works, where do you stand?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Which topic should we explore in the elevator next?"
+        }
+      ],
+      "quote": "You own the city, sir,",
+      "quote_by": {
+        "level": 7,
+        "name": "Julian",
+        "badge": "$35,000/mo",
+        "character": "Round cream-white ball head, silver swept-back hair, pinstripe bespoke Italian suit, silk pocket square, cold predatory grin.",
+        "scene": "Medium shot on a rooftop terrace, Julian holding his crystal glass while looking humbled and stunned, yellow badge glowing."
+      },
+      "stats": [
+        {
+          "label": "Cash Flow",
+          "value": "$34.2M",
+          "bar": 1.0
+        },
+        {
+          "label": "Buildings",
+          "value": "40 Units",
+          "bar": 1.0
+        },
+        {
+          "label": "Tenants",
+          "value": "41,200",
+          "bar": 1.0
+        }
+      ],
+      "character": "Round cream-white ball head, neat white parted hair, gold round spectacles, charcoal tailored wool vest over crisp white shirt, calm calculating eyes.",
+      "visual": "Wide shot of a private historic museum gallery with grand marble arches, classical sculptures, and a glowing interactive 3D holographic model of the city skyline, small golden coin on a sculpture base.",
+      "scenes": [
+        "Wide shot of an immense private neoclassical gallery with vaulted skylights, classical marble statues, an interactive glowing 3D city holographic table in the center, small golden coin on a pedestal.",
+        "Medium shot of Arthur standing calmly with hands behind his back, looking at the illuminated city hologram showing all eight building levels interconnected, tiny golden coin near the holographic projector.",
+        "Medium shot of Arthur's personal auditor bowing slightly while opening an antique leather-bound master ledger, small golden coin resting on the ledger ribbon.",
+        "Detail shot of a digital banking terminal showing $4,200,000 monthly rent deposits pouring into a private trust account, small golden coin reflecting off the terminal edge.",
+        "Medium shot of Arthur looking out a massive arched window at the entire city skyline at dusk, realizing all forty thousand windows belong to his trust, small golden coin on the brass window crank.",
+        "Wide cinematic drone shot pulling back through open elevator doors into darkness, showing the glowing levels one through eight stacked together in the city night, small golden coin floating in the elevator threshold."
+      ],
+      "caption": "The final level revealed: $4.2M every month from 40,000 tenants who think they own their lives! Which topic should we do next? #landlord #realeatatemogul #8levels #wealthgap #viral"
+    }
+  ],
+  "lang": "en",
+  "topic": "Mietpreise in deutschen Großstädten",
+  "frame": "aufzug"
+}

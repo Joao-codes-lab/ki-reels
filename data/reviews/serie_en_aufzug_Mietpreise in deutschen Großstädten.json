@@ -1,0 +1,25 @@
+{
+  "best_score": 96,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 9,
+        "story": 10,
+        "identifikation": 9,
+        "verdigungen": 10,
+        "sog": 10,
+        "wut": 9,
+        "merkfaehigkeit": 10,
+        "sprache": 10
+      },
+      "gesamt": 96,
+      "fixes": [
+        {
+          "n": 8,
+          "fix": "In Level 8, replace the weak final call to action 'Which topic should we explore in the elevator next?' with an aggressive, highly engaging loop question: 'Can you guess which level actually has zero debt, or does the rent always collect?'"
+        }
+      ],
+      "fazit": "Brutal effektive, perfekt vernetzte Serie mit exzellentem Sog und klaren Rollen. Die psychologische Eskalation von Level 1 bis 8 sitzt punktgenau. Nur der finale Call-to-Action in Teil 8 schwächelt minimal."
+    }
+  ]
+}
