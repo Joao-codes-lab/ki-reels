@@ -263,6 +263,10 @@ Merkmal (Tick, Gegenstand, Spruch), an dem man sie in anderen Teilen wiedererken
 Endlosschleife: Der Cliffhanger am Ende und der Hook am Anfang spiegeln sich, sodass der Anfang beim
 erneuten Abspielen wie die Fortsetzung des Endes wirkt.
 
+Formel "versteckter Wert" (die stärkste der Vorbilder): Die Figur wird wegen ihrer niedrigen Stirnzahl gedemütigt,
+hat aber heimlich mehr Wert (Besitz, Können, Geheimnis), und die Zuschauer ahnen es vor dem Bösewicht. Die
+Genugtuung muss absehbar sein, kommt aber erst später. Erster Satz: extreme Zahl oder absurder Kontrast.
+
 Wechselnde Gegenspieler (sehr wichtig, soll beim Zuschauer echte Wut auslösen): Der Gegenspieler jedes Levels
 ist eine Figur aus einem ANDEREN Level (z. B. für Level 3 ist Level 8 der Gegenspieler, für Level 2 ist es
 Level 3, für Level 3 auch Level 1). Er tut der Figur etwas Ungerechtes an (demütigt sie wegen ihrer Zahl, nimmt

@@ -37,6 +37,13 @@ Bewertet diese 8-teilige Serie (ein Teil pro Video) jeweils 0-10:
   später überraschend seine Sicht der gleichen Szene?
 - merkfaehigkeit: Bleibt etwas im Kopf (Catchphrase, unverwechselbare Figuren, ein Satz, den man zitiert)?
 - sprache: Klingt es gesprochen natürlich, kurz, ohne Floskeln? Hat jede Story mindestens 175 Wörter?
+Datenbasis der Vorbilder (Vorbild-Rezept.md): Hits folgen der Formel "versteckter Wert". Eine niedrige Stirnzahl
+wird gedemütigt, aber die Figur hat heimlich mehr Wert, und die Zuschauer ahnen es VOR dem Bösewicht. Rache und
+Genugtuung erreichen im Median 619.000 Aufrufe, Familie/Verrat 909.000, reine Demütigung ohne absehbare
+Genugtuung nur 34.000. Zieht bei hook, sog und wut deutlich ab, wenn eins davon fehlt: extreme Zahl oder absurder
+Kontrast in den ersten 3 Sekunden, Wut oder Mitleid in den ersten 30 Sekunden, ein Geheimnis, das die Zuschauer
+früher kennen als der Bösewicht, ein Ende direkt vor der Auflösung, ein wirklich arroganter Bösewicht.
+Verboten: neutrales Intro, Demütigung ohne Aussicht auf Genugtuung, Saisonthemen.
 Dann: gesamt (0-100) und für jedes schwache Level konkrete Verbesserungen (Satz-genau).
 
 Antworte NUR mit JSON: {{"scores": {{"hook": int, "story": int, "identifikation": int, "verbindungen": int,
