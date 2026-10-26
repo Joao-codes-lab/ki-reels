@@ -186,5 +186,40 @@
    "warum": "Der Track hat den perfekten 8-bit-Retro-Chiptune-Vibe, der an Trash-Game-Shows und absurde Reality-TV-Dramen erinnert. Die stakkatoartige Bassline und die schrägen Soundeffekte unterstreichen perfekt die schadenfrohe, peinliche Komik. Die Melodie ist zwar präsent, lässt aber durch ihre rhythmische und perkussive Natur der Sprechstimme genug Freiraum. Der treibende Beat hält das Reel spannend und passt exakt zu kurzen, knackigen Clips.",
    "credit": "Musik: \"Salty Ditty\" Kevin MacLeod (incompetech.com), CC BY 4.0"
   }
+ ],
+ "lofi": [
+  {
+   "file": "lofi/Groove Grove.mp3",
+   "title": "Groove Grove",
+   "score": 10,
+   "bpm": "70",
+   "feel": "Calming, Grooving, Mysterious, Relaxed",
+   "start": 0,
+   "loop": true,
+   "warum": "Perfekter Match für das 8-Levels-Format: Warme Lo-Fi-Rhodes-Akkorde in Moll, sanfte Drums mit Vinyl-Textur, optimales Tempo (ca. 78 BPM) und viel Freiraum für die Erzählstimme ohne aufdringliche Melodien.",
+   "credit": "Musik: \"Groove Grove\" Kevin MacLeod (incompetech.com), CC BY 4.0"
+  },
+  {
+   "file": "lofi/Dub Eastern.mp3",
+   "title": "Dub Eastern",
+   "score": 10,
+   "bpm": "69",
+   "feel": "Calming, Dark, Grooving, Mystical, Relaxed",
+   "start": 0,
+   "loop": true,
+   "warum": "Perfekter Match für das Format: sanfte Lo-Fi-Pianochords in Moll, dezente Drums, Vinyl-Textur und keine dominanten Lead-Elemente oder Vocals, sodass die Erzählstimme absolut im Vordergrund bleibt.",
+   "credit": "Musik: \"Dub Eastern\" Kevin MacLeod (incompetech.com), CC BY 4.0"
+  },
+  {
+   "file": "lofi/Energizing.mp3",
+   "title": "Energizing",
+   "score": 9,
+   "bpm": "90",
+   "feel": "Calming, Grooving, Relaxed",
+   "start": 0,
+   "loop": true,
+   "warum": "Der Track hat genau die richtige entspannte und emotionale Lo-Fi-Atmosphäre im Stil von 8-Levels-Reels. Das Tempo und die Instrumentierung lassen einer deutschen Erzählstimme vollkommenen Platz, während das Vinyl-Knistern und der melancholische Vibe perfekt zum Thema Geld und Status in der Großstadt passen.",
+   "credit": "Musik: \"Energizing\" Kevin MacLeod (incompetech.com), CC BY 4.0"
+  }
  ]
 }

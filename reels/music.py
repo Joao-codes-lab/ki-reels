@@ -4,7 +4,7 @@
   sfx.write_wav(fx, sfx.mix(events, total, bed=bed))
   caption += "\n" + music.credits()                              # Namensnennung ist Pflicht
 
-Stimmungen: luxus, spannung, drama, twist, gefuehl, komik (siehe bibliothek.json, gebaut von tools/music_library.py).
+Stimmungen: lofi (Signature-Sound 8-Levels), luxus, spannung, drama, twist, gefuehl, komik (siehe bibliothek.json, gebaut von tools/music_library.py).
 Die Vorbilder legen die Musik ca. 16-18 dB unter die Stimme, Wechsel weich mit Crossfade.
 """
 import json
