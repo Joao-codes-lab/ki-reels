@@ -1,0 +1,784 @@
+{
+  "title": "Die 8 Level von Kontostand am Monatsende",
+  "house": "A bustling vegetable metropolis under neon lights, with crowded bus stops, greasy fast-food stalls, luxury apartment towers, and damp subway tunnels.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Barista in Level 2 mentions the rich man in the suit.",
+    "Bus ticket machine from Level 3 breaks in Level 5.",
+    "Dropped coin from Level 1 rolls into Level 8's lobby."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was stand in dem grauen Brief vom Gerichtsvollzieher?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Lacht sie an der Supermarktkasse aus, als ihre Karte abgelehnt wird."
+      },
+      "name": "Tomate Tom, 24, Studi-Aushilfe",
+      "badge": "-120 €",
+      "verdict": "ÜBERZIEHT",
+      "story": "Die 8 Level von Kontostand am Monatsende. Level 1. Minus 120 Euro. Die Kassiererin starrt auf meine Stirn und zieht demonstrativ die Augenbrauen hoch. Genau in diesem Moment schubst die reiche Schnleuse hinter mir ihren Einkaufswagen in meine Hacken. Gestern kostete das billigste Toastbrot im Discounter noch 89 Cent, heute sind es 1,19 Euro. Die Inflation frisst meine Existenz auf. Warum blockierst du hier alles mit deiner Pleite-Zahl? Warum blockierst du hier alles mit deiner Pleite-Zahl? Ich schlucke die Demütigung hinunter, packe mein leeres Pfandflaschennetz und will gehen. Da fällt mir die winzige goldene Münze auf dem Kassenband auf. Plötzlich vibriert mein Smartphone in der kaputten Hosentasche. Eine SMS von der Bank blinkt auf: Kontosperrung droht. Ich muss sofort handeln, bevor der Strom abgestellt wird. Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-50 €",
+        "after": "-170 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Kontostand am Monatsende. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Minus 120 Euro. Die Kassiererin starrt auf meine Stirn und zieht demonstrativ die Augenbrauen hoch."
+        },
+        {
+          "s": "Figur",
+          "t": "Genau in diesem Moment schubst die reiche Schnleuse hinter mir ihren Einkaufswagen in meine Hacken."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern kostete das billigste Toastbrot im Discounter noch 89 Cent, heute sind es 1,19 Euro."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Inflation frisst meine Existenz auf."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Warum blockierst du hier alles mit deiner Pleite-Zahl?",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Warum blockierst du hier alles mit deiner Pleite-Zahl?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schlucke die Demütigung hinunter, packe mein leeres Pfandflaschennetz und will gehen."
+        },
+        {
+          "s": "Figur",
+          "t": "Da fällt mir die winzige goldene Münze auf dem Kassenband auf."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich vibriert mein Smartphone in der kaputten Hosentasche."
+        },
+        {
+          "s": "Figur",
+          "t": "Eine SMS von der Bank blinkt auf: Kontosperrung droht."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich muss sofort handeln, bevor der Strom abgestellt wird."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Warum blockierst du hier alles mit deiner Pleite-Zahl?",
+      "quote_by": {
+        "level": 4,
+        "name": "Orange Olivia",
+        "badge": "4.500 €",
+        "character": "A round orange woman in a chic blazer, wearing a glowing digital badge on her forehead.",
+        "scene": "Wide shot of a noisy supermarket checkout line at dusk, with flickering fluorescent lights and shelves of canned goods."
+      },
+      "stats": [
+        {
+          "label": "Kontostand",
+          "value": "-120 €",
+          "bar": 0.01
+        },
+        {
+          "label": "Miete",
+          "value": "650 €",
+          "bar": 0.35
+        },
+        {
+          "label": "Schulden",
+          "value": "1.200 €",
+          "bar": 0.6
+        }
+      ],
+      "character": "A young tomato man with soft red skin, wearing a faded grey hoodie and frayed jeans, carrying a net full of empty bottles. Glowing red digital badge on forehead.",
+      "visual": "Wide shot of a dreary discount supermarket checkout lane at dusk, with a tomato man staring at his glowing negative balance badge.",
+      "scenes": [
+        "Wide shot of a dreary discount supermarket checkout lane at dusk, with a tomato man staring at his glowing negative balance badge. A tiny golden coin rests on the metal belt.",
+        "Close-up of the tomato man's face, sweat on his red skin, forehead glowing with -120 Euro, fluorescent lights buzzing above.",
+        "Medium shot of a rich orange woman glaring down at him, her forehead showing a bright 4.500 Euro while she taps her acrylic nails.",
+        "Detail shot of a smartphone screen showing a red banking app alert: Kontosperrung droht. A tiny golden coin lies next to the phone.",
+        "Wide shot of a dimly lit student shared apartment kitchen, dirty dishes piled up, a cold radiator hissing softly in the background.",
+        "Close-up of an official grey court letter on a sticky wooden table, envelope half-torn open by trembling tomato hands."
+      ],
+      "caption": "Wer kennt diesen Schock am Monatsende? #kontostand #armut #geld #drama #fyp"
+    },
+    {
+      "n": 2,
+      "open_loop": "Wer hat den mysteriösen Umschlag im Café hinterlassen?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Kürzt ihre Arbeitsstunden und verhöhnt ihre Haushaltsführung."
+      },
+      "name": "Zitrone Zenta, 31, Floristin",
+      "badge": "380 €",
+      "verdict": "KNAPP",
+      "story": "Die 8 Level von Kontostand am Monatsende. Level 2. 380 Euro Rest. Davon kann ich nicht mal mehr meine offenen Rechnungen zahlen. Und dann stellt sich ausgerechnet diese arrogante Bankerin neben mich. Die Kaffeemaschine zischt, der Duft von billigem Bohnenkaffee liegt in der kalten Morgenluft. Mit 380 Euro auf der Stirn kommst du in dieser Stadt nicht mal bis zur Monatsmitte. Ich presse die Lippen aufeinander, meine gelbe Zitrone-Haut kocht innerlich vor Wut. Ich arbeite sechzig Stunden die Woche und soll mir so etwas anhören? Doch in diesem Moment sehe ich die winzige goldene Münze unter dem Zuckerdosierer glitzern. Plötzlich schiebt die Kellnerin einen vergessen geglaubten Umschlag über den Tresen. Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+50 €",
+        "after": "430 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Kontostand am Monatsende. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "380 Euro Rest. Davon kann ich nicht mal mehr meine offenen Rechnungen zahlen."
+        },
+        {
+          "s": "Figur",
+          "t": "Und dann stellt sich ausgerechnet diese arrogante Bankerin neben mich."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Kaffeemaschine zischt, der Duft von billigem Bohnenkaffee liegt in der kalten Morgenluft."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit 380 Euro auf der Stirn kommst du in dieser Stadt nicht mal bis zur Monatsmitte.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich presse die Lippen aufeinander, meine gelbe Zitrone-Haut kocht innerlich vor Wut."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich arbeite sechzig Stunden die Woche und soll mir so etwas anhören?"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch in diesem Moment sehe ich die winzige goldene Münze unter dem Zuckerdosierer glitzern."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich schiebt die Kellnerin einen vergessen geglaubten Umschlag über den Tresen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Mit 380 Euro auf der Stirn kommst du in dieser Stadt nicht mal bis zur Monatsmitte.",
+      "quote_by": {
+        "level": 6,
+        "name": "Banane Bea",
+        "badge": "12.400 €",
+        "character": "A tall, elegant banana woman wearing a high-end trench coat and golden earrings.",
+        "scene": "Medium shot inside a bustling, warm-lit café with steam rising from espresso cups and morning commuters in the background."
+      },
+      "stats": [
+        {
+          "label": "Guthaben",
+          "value": "380 €",
+          "bar": 0.08
+        },
+        {
+          "label": "Miete",
+          "value": "720 €",
+          "bar": 0.4
+        },
+        {
+          "label": "Sparen",
+          "value": "0 €",
+          "bar": 0.0
+        }
+      ],
+      "character": "A sour lemon woman with textured bright yellow skin, wearing a practical green apron and carrying a worn floral purse. Glowing yellow digital badge on forehead.",
+      "visual": "Medium shot of a lemon woman counting coins on a greasy café counter under warm pendant lights.",
+      "scenes": [
+        "Medium shot of a lemon woman counting coins on a greasy café counter under warm pendant lights. A tiny golden coin rests beside the sugar bowl.",
+        "Close-up of the lemon woman's acidic expression, her bright yellow forehead displaying 380 Euro, steam blurring the background.",
+        "Medium shot of an elegant banana woman sneering at her, pointing at her own forehead with a 12.400 Euro badge.",
+        "Detail shot of a white ceramic coffee cup with a golden coin hidden in the saucer rim.",
+        "Wide shot of a rainy downtown street corner with yellow tram lines and rushing pedestrians holding black umbrellas.",
+        "Close-up of a plain brown paper envelope sliding across a dark wooden table, sealed with a red wax stamp."
+      ],
+      "caption": "Am Ende des Geldes ist noch so viel Monat übrig! #finanzen #gehalt #geld #drama #fyp"
+    },
+    {
+      "n": 3,
+      "open_loop": "Was stand auf dem geheimnisvollen Zettel in der U-Bahn?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Schubst ihn im Pendlerzug und bezeichnet seine Arbeit als wertlos."
+      },
+      "name": "Brokkoli Ben, 29, Paketzusteller",
+      "badge": "1.450 €",
+      "verdict": "ÜBERLEBT",
+      "story": "Die 8 Level von Kontostand am Monatsende. Level 3. 1.450 Euro. Ich schufte seit zwölf Stunden im Lieferwagen, während der Typ in der Ersten Klasse mich wegen meines Schweißgeruchs verspottet. Draußen ziehen graue Betonwände vorbei, drinnen schwitzt die Menge im stickigen Feierabendverkehr. Mit so einer mickrigen Zahl wirst du nie aus der Gosse kommen. Mein Kiefer mahlt, die Frustration brennt in meiner Brust wie Säure. Ich liefere jeden Tag zweihundert Pakete aus und kann mir nicht mal einen Döner leisten. Doch plötzlich entdecke ich eine winzige goldene Münze, die auf dem zerkratzten Linoleumboden des Zuges rollt. Genau in diesem Moment flackert das Licht, und ein alter Mann lässt einen handgeschriebenen Zettel fallen. Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+100 €",
+        "after": "1.550 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Kontostand am Monatsende. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "1.450 Euro. Ich schufte seit zwölf Stunden im Lieferwagen, während der Typ in der Ersten Klasse mich wegen meines Schweißgeruchs verspottet."
+        },
+        {
+          "s": "Figur",
+          "t": "Draußen ziehen graue Betonwände vorbei, drinnen schwitzt die Menge im stickigen Feierabendverkehr."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit so einer mickrigen Zahl wirst du nie aus der Gosse kommen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Kiefer mahlt, die Frustration brennt in meiner Brust wie Säure."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich liefere jeden Tag zweihundert Pakete aus und kann mir nicht mal einen Döner leisten."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch plötzlich entdecke ich eine winzige goldene Münze, die auf dem zerkratzten Linoleumboden des Zuges rollt."
+        },
+        {
+          "s": "Figur",
+          "t": "Genau in diesem Moment flackert das Licht, und ein alter Mann lässt einen handgeschriebenen Zettel fallen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Mit so einer mickrigen Zahl wirst du nie aus der Gosse kommen.",
+      "quote_by": {
+        "level": 7,
+        "name": "Kürbis Kurt",
+        "badge": "24.000 €",
+        "character": "A bulky, orange pumpkin man wearing a sharp tailored business suit and golden cufflinks.",
+        "scene": "Wide shot inside a crowded, rattling subway train during rush hour with flickering neon lights and tired commuters."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "1.450 €",
+          "bar": 0.2
+        },
+        {
+          "label": "Miete",
+          "value": "800 €",
+          "bar": 0.45
+        },
+        {
+          "label": "Rest",
+          "value": "50 €",
+          "bar": 0.05
+        }
+      ],
+      "character": "A rugged broccoli man with detailed dark green florets as hair, wearing a high-visibility delivery jacket. Glowing green digital badge on forehead.",
+      "visual": "Wide shot of a crowded, rattling subway train interior with a broccoli man holding a package and staring at his 1.450 Euro badge.",
+      "scenes": [
+        "Wide shot of a crowded, rattling subway train interior with a broccoli man holding a package and staring at his 1.450 Euro badge. A tiny golden coin rests on the floor.",
+        "Close-up of the broccoli man's tense green face, sweat dripping, forehead glowing with 1.450 Euro.",
+        "Medium shot of a proud pumpkin man in a suit smirking, showing a 24.000 Euro badge.",
+        "Detail shot of a dirty subway floor where a tiny golden coin reflects the flickering fluorescent tubes.",
+        "Wide shot of a gray Berlin subway platform with concrete pillars and damp posters peeling off the walls.",
+        "Close-up of a folded piece of lined paper lying on a wooden bench, smudged with ink."
+      ],
+      "caption": "Wer kennt den Kampf mit dem Gehalt am Monatsende? #gehalt #arbeit #geld #drama #fyp"
+    },
+    {
+      "n": 4,
+      "open_loop": "Welches dunkle Geheimnis verbirgt sich hinter der Kündigung?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Kündigt ihr fristlos per SMS im Großraumbüro."
+      },
+      "name": "Orange Olivia, 34, Marketing-Managerin",
+      "badge": "3.800 €",
+      "verdict": "SOLIDE",
+      "story": "Die 8 Level von Kontostand am Monatsende. Level 4. 3.800 Euro und jede Nacht Überstunden – nur damit meine Chefin mich vor versammelter Mannschaft als unfähig darstellt, um ihren eigenen Arsch zu retten. Die Kaffeemaschine brummt im Hintergrund, und meine Kollegin tippt nervös auf ihre Tastatur. Mit fast viertausend Euro tönst du hier rum, aber die Miete für deinen Loft-Traum zahlst du wohl von Luft und Liebe? Meine Orangen-Haut zieht sich vor Ärger zusammen. Ich arbeite Nacht für Nacht durch, und sie tut so, als würde ich den Betrieb ruinieren. Da glitzert plötzlich die winzige goldene Münze auf meiner Teetasse. Mein Handy vibriert – eine dringende Nachricht von der Personalabteilung. Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "-3.800 €",
+        "after": "0 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Kontostand am Monatsende. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "3.800 Euro und jede Nacht Überstunden – nur damit meine Chefin mich vor versammelter Mannschaft als unfähig darstellt, um ihren eigenen Arsch zu retten."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Kaffeemaschine brummt im Hintergrund, und meine Kollegin tippt nervös auf ihre Tastatur."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit fast viertausend Euro tönst du hier rum, aber die Miete für deinen Loft-Traum zahlst du wohl von Luft und Liebe?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Orangen-Haut zieht sich vor Ärger zusammen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich arbeite Nacht für Nacht durch, und sie tut so, als würde ich den Betrieb ruinieren."
+        },
+        {
+          "s": "Figur",
+          "t": "Da glitzert plötzlich die winzige goldene Münze auf meiner Teetasse."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Handy vibriert – eine dringende Nachricht von der Personalabteilung."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Mit fast viertausend Euro tönst du hier rum, aber die Miete für deinen Loft-Traum zahlst du wohl von Luft und Liebe?",
+      "quote_by": {
+        "level": 8,
+        "name": "Drachenfrucht Dana",
+        "badge": "120.000 €",
+        "character": "An exotic dragon fruit woman with magenta and green scale-like skin, wearing a haute couture white pantsuit.",
+        "scene": "Wide shot of a sleek, modern glass-fronted corporate office overlooking a rainy skyline at midday."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "3.800 €",
+          "bar": 0.45
+        },
+        {
+          "label": "Miete",
+          "value": "1.400 €",
+          "bar": 0.6
+        },
+        {
+          "label": "Depot",
+          "value": "12.000 €",
+          "bar": 0.3
+        }
+      ],
+      "character": "A vibrant orange woman with textured citrus skin, wearing a sharp business blazer and silver hoop earrings. Glowing digital badge on forehead.",
+      "visual": "Wide shot of a modern glass-fronted corporate office with raindrops on the window, an orange woman staring at her 3.800 Euro badge.",
+      "scenes": [
+        "Wide shot of a modern glass-fronted corporate office with raindrops on the window, an orange woman staring at her 3.800 Euro badge. A tiny golden coin rests on her teacup saucer.",
+        "Close-up of the orange woman's determined face, orange peel texture visible, forehead glowing with 3.800 Euro.",
+        "Medium shot of an exotic dragon fruit woman smiling coldly, showing a 120.000 Euro badge.",
+        "Detail shot of a white porcelain teacup with a golden coin reflecting the office lights.",
+        "Wide shot of a sterile corporate hallway with gray carpet and closed conference room doors.",
+        "Close-up of a smartphone screen lighting up with a notification from the HR director."
+      ],
+      "caption": "Gutes Gehalt und trotzdem reicht es nicht? #karriere #gehalt #geld #drama #fyp"
+    },
+    {
+      "n": 5,
+      "open_loop": "Wer steckt hinter dem anonymen Anruf bei der Bank?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Beschuldigt ihn fälschlicherweise des Diebstahls im Kiosk."
+      },
+      "name": "Avocado Ava, 27, Grafikdesignerin",
+      "badge": "6.200 €",
+      "verdict": "OBEREN 10%",
+      "story": "Die 8 Level von Kontostand am Monatsende. Level 5. Sechstausend Euro Netto und trotzdem ein kalter Knoten im Magen. Und unten auf der Straße steht genau der Typ, den ich gestern erst angeschrien habe. Auf dem Glastisch liegt der Rechnungsstapel für Steuern und Versicherungen. Du hast gut reden mit deinen sechstausend Euro, während wir hier unten verhungern! Mein Avocado-Herz zieht sich schmerzhaft zusammen. Ich habe mir jeden Cent hart erkämpft, ohne Vitamin B oder Erbe. Doch in diesem Augenblick glänzt die winzige goldene Münze auf dem Fensterbrett. Mein Festnetztelefon klingelt schrill in der Stille. Das siehst du in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "-1.500 €",
+        "after": "4.700 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Kontostand am Monatsende. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Sechstausend Euro Netto und trotzdem ein kalter Knoten im Magen."
+        },
+        {
+          "s": "Figur",
+          "t": "Und unten auf der Straße steht genau der Typ, den ich gestern erst angeschrien habe."
+        },
+        {
+          "s": "Figur",
+          "t": "Auf dem Glastisch liegt der Rechnungsstapel für Steuern und Versicherungen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast gut reden mit deinen sechstausend Euro, während wir hier unten verhungern!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Avocado-Herz zieht sich schmerzhaft zusammen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe mir jeden Cent hart erkämpft, ohne Vitamin B oder Erbe."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch in diesem Augenblick glänzt die winzige goldene Münze auf dem Fensterbrett."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Festnetztelefon klingelt schrill in der Stille."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Du hast gut reden mit deinen sechstausend Euro, während wir hier unten verhungern!",
+      "quote_by": {
+        "level": 1,
+        "name": "Tomate Tom",
+        "badge": "-170 €",
+        "character": "A young tomato man in a faded grey hoodie, looking desperate and angry on the street below.",
+        "scene": "Medium shot from a high loft window looking down at a gritty sidewalk lit by the orange glow of streetlamps."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "6.200 €",
+          "bar": 0.65
+        },
+        {
+          "label": "Steuern",
+          "value": "2.100 €",
+          "bar": 0.7
+        },
+        {
+          "label": "Sparquote",
+          "value": "2.000 €",
+          "bar": 0.5
+        }
+      ],
+      "character": "An elegant avocado woman with soft green skin and a large dark pit texture on her cheek, wearing a minimalist silk blouse. Glowing digital badge on forehead.",
+      "visual": "Medium shot of an avocado woman sitting by a large loft window at sunset, looking at her glowing 6.200 Euro badge.",
+      "scenes": [
+        "Medium shot of an avocado woman sitting by a large loft window at sunset, looking at her glowing 6.200 Euro badge. A tiny golden coin rests on the windowsill.",
+        "Close-up of the avocado woman's calm green face, forehead glowing with 6.200 Euro, warm sunset light reflecting.",
+        "Medium shot of a young tomato man looking up from the street with fury in his eyes, showing a -170 Euro badge.",
+        "Detail shot of a sleek glass coffee table with scattered tax forms and a glowing golden coin.",
+        "Wide shot of an industrial loft interior with exposed brick walls and modern designer furniture.",
+        "Close-up of a retro landline phone ringing on a wooden side table."
+      ],
+      "caption": "Reich genug oder ständige Sorgen? #einkommen #geld #finanzen #drama #fyp"
+    },
+    {
+      "n": 6,
+      "open_loop": "Was enthielt der Aktendeckel auf dem Schreibtisch des Steuerberaters?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Verbreitet Lügen über ihre Finanzen im Freundeskreis."
+      },
+      "name": "Banane Bea, 38, Immobilienmaklerin",
+      "badge": "12.400 €",
+      "verdict": "VERMÖGEND",
+      "story": "Die 8 Level von Kontostand am Monatsende. Level 6. Zwölftausend Euro Cashflow. Klingt nach Millionär, aber das Finanzamt wartet nur darauf, dass ich stolmpe und alles verliere. Der Wind zerrt an meinem Kostüm, unten fließen die Autos wie bunte Lichterketten durch die Häuserschluchten. Du schwimmst im Geld, während ehrliche Leute für einen Hungerlohn buckeln! Meine Bananen-Schale strahlt in mattem Gelb, während mein Stolz bröckelt. Niemand sieht die schlaflosen Nächte, die Pleite-Risiken und die Kredite, die dieses Imperium zusammenhalten. Da entdecke ich die winzige goldene Münze im Blumenkübel. Mein Smartphone vibriert mit einer E-Mail von meinem Steuerberater. Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "-4.000 €",
+        "after": "8.400 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Kontostand am Monatsende. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Zwölftausend Euro Cashflow. Klingt nach Millionär, aber das Finanzamt wartet nur darauf, dass ich stolmpe und alles verliere."
+        },
+        {
+          "s": "Figur",
+          "t": "Der Wind zerrt an meinem Kostüm, unten fließen die Autos wie bunte Lichterketten durch die Häuserschluchten."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du schwimmst im Geld, während ehrliche Leute für einen Hungerlohn buckeln!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Bananen-Schale strahlt in mattem Gelb, während mein Stolz bröckelt."
+        },
+        {
+          "s": "Figur",
+          "t": "Niemand sieht die schlaflosen Nächte, die Pleite-Risiken und die Kredite, die dieses Imperium zusammenhalten."
+        },
+        {
+          "s": "Figur",
+          "t": "Da entdecke ich die winzige goldene Münze im Blumenkübel."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Smartphone vibriert mit einer E-Mail von meinem Steuerberater."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Du schwimmst im Geld, während ehrliche Leute für einen Hungerlohn buckeln!",
+      "quote_by": {
+        "level": 2,
+        "name": "Zitrone Zenta",
+        "badge": "380 €",
+        "character": "A sour lemon woman in a worn floral apron, looking bitter and resentful on a neighboring balcony.",
+        "scene": "Wide shot of a luxury penthouse balcony at twilight, overlooking a glowing city skyline with towering skyscrapers."
+      },
+      "stats": [
+        {
+          "label": "Cashflow",
+          "value": "12.400 €",
+          "bar": 0.8
+        },
+        {
+          "label": "Kredite",
+          "value": "80.000 €",
+          "bar": 0.5
+        },
+        {
+          "label": "Assets",
+          "value": "1.2 Mio €",
+          "bar": 0.9
+        }
+      ],
+      "character": "An elegant banana woman with smooth yellow skin, wearing a designer green trench coat and gold bracelets. Glowing digital badge on forehead.",
+      "visual": "Wide shot of a luxury penthouse balcony at twilight, a banana woman looking out at the city with her 12.400 Euro badge glowing.",
+      "scenes": [
+        "Wide shot of a luxury penthouse balcony at twilight, a banana woman looking out at the city with her 12.400 Euro badge glowing. A tiny golden coin sits in a potted orchid.",
+        "Close-up of the banana woman's confident yet strained face, yellow skin catching the neon lights, badge showing 12.400 Euro.",
+        "Medium shot of a bitter lemon woman glaring from a neighboring balcony, showing a 380 Euro badge.",
+        "Detail shot of a modern smartphone screen displaying a PDF attachment from the tax office.",
+        "Wide shot of Frankfurt financial district at night with glowing skyscraper windows and light trails from traffic.",
+        "Close-up of a leather-bound folder resting on a glass office desk under a designer lamp."
+      ],
+      "caption": "Reich sein ist nicht gleich sorgenfrei! #luxus #immobilien #geld #drama #fyp"
+    },
+    {
+      "n": 7,
+      "open_loop": "Wer hat das Millionen-Vermoegen auf dem Schweizer Konto eingefroren?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Beschuldigt ihn auf Social Media der Ausbeutung und Korruption."
+      },
+      "name": "Kürbis Kurt, 45, Investmentbanker",
+      "badge": "24.000 €",
+      "verdict": "ELITE",
+      "story": "Die 8 Level von Kontostand am Monatsende. Level 7. Vierundzwanzigtausend Euro passiv. Der Paketzusteller aus Level 3 steht plötzlich im Marmorfoyer, filmt mich heimlich und will mich im Netz zerstören. Ich stehe im Marmor-Foyer einer privaten Bank, umgeben von goldenen Säulen und eisiger Stille. Du sitzt auf deinem goldenen Thron und lachst über uns, während du den Markt ausraubst! Mein massiver Kürbis-Kopf glüht vor Wut und Stolz. Ich habe jahrelang 90 Stunden pro Woche geschuftet, während andere schliefen. Niemand kennt den Preis für diesen Erfolg. Doch in diesem Moment funkelt die winzige goldene Münze auf dem polierten Marmorboden. Mein Private-Banking-Berater eilt herangetroffen mit bleichem Gesicht herbei. Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "-24.000 €",
+        "after": "0 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Kontostand am Monatsende. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Vierundzwanzigtausend Euro passiv. Der Paketzusteller aus Level 3 steht plötzlich im Marmorfoyer, filmt mich heimlich und will mich im Netz zerstören."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im Marmor-Foyer einer privaten Bank, umgeben von goldenen Säulen und eisiger Stille."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du sitzt auf deinem goldenen Thron und lachst über uns, während du den Markt ausraubst!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein massiver Kürbis-Kopf glüht vor Wut und Stolz."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe jahrelang 90 Stunden pro Woche geschuftet, während andere schliefen."
+        },
+        {
+          "s": "Figur",
+          "t": "Niemand kennt den Preis für diesen Erfolg."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch in diesem Moment funkelt die winzige goldene Münze auf dem polierten Marmorboden."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Private-Banking-Berater eilt herangetroffen mit bleichem Gesicht herbei."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Du sitzt auf deinem goldenen Thron und lachst über uns, während du den Markt ausraubst!",
+      "quote_by": {
+        "level": 3,
+        "name": "Brokkoli Ben",
+        "badge": "1.450 €",
+        "character": "A rugged broccoli delivery man in a high-visibility jacket, looking defiant and exhausted.",
+        "scene": "Wide shot of a lavish marble bank lobby with golden columns, crystal chandeliers, and security guards."
+      },
+      "stats": [
+        {
+          "label": "Einkommen",
+          "value": "24.000 €",
+          "bar": 0.9
+        },
+        {
+          "label": "Portfolio",
+          "value": "3.5 Mio €",
+          "bar": 0.95
+        },
+        {
+          "label": "Risiko",
+          "value": "Maximal",
+          "bar": 0.99
+        }
+      ],
+      "character": "A bulky pumpkin man with ribbed orange skin, wearing a tailored Italian pinstripe suit and expensive cufflinks. Glowing digital badge on forehead.",
+      "visual": "Wide shot of a lavish marble bank lobby with golden columns, a pumpkin man looking arrogant with his 24.000 Euro badge.",
+      "scenes": [
+        "Wide shot of a lavish marble bank lobby with golden columns, a pumpkin man looking arrogant with his 24.000 Euro badge. A tiny golden coin rests on the marble floor.",
+        "Close-up of the pumpkin man's rigid orange face, forehead glowing with 24.000 Euro, crystal chandelier reflecting in his eyes.",
+        "Medium shot of a defiant broccoli man standing by the revolving doors, showing a 1.450 Euro badge.",
+        "Detail shot of a polished marble tile reflecting a tiny golden coin and expensive leather shoes.",
+        "Wide shot of an opulent private banking consultation room with leather armchairs and mahogany desks.",
+        "Close-up of a bank manager's panicked face holding an official asset freeze document."
+      ],
+      "caption": "Reich sein schützt vor Absturz nicht! #finanzen #reichtum #geld #drama #fyp"
+    },
+    {
+      "n": 8,
+      "open_loop": "Was geschah, als sich die digitale Anzeige auf der Stirn plötzlich komplett ausschaltete?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Versucht sie vor dem Vorstand als unfähig darzustellen und ihr Projekt zu stehlen."
+      },
+      "name": "Drachenfrucht Dana, 42, Hedgefonds-Gründerin",
+      "badge": "120.000 €",
+      "verdict": "UNBEZAHLBAR",
+      "story": "Die 8 Level von Kontostand am Monatsende. Level 8. Einhundertzwanzigtausend im Monat. Und plötzlich zählt keine Zahl mehr auf der Stirn, weil die Anzeige ganz schwarz wird. Wer bist du, wenn niemand mehr hinschaut? Ich stehe auf der Aussichtsplattform des höchsten Wolkenkratzers, unter mir schimmert die gesamte Stadt wie ein Meer aus Lichtern. Du hast alles, aber du hast den Verstand verloren! Mein Drachenfrucht-Kopf bebt vor eiskalter Erleichterung. Die Zahl lügt nie, aber sie zeigt nicht das ganze Bild. Alle Wege aller Figuren kreuzen sich hier oben in diesem Moment. Da rollt die letzte winzige goldene Münze direkt an meine Absatzschuhe. Die digitale Anzeige auf meiner Stirn flackert plötzlich wild, erlischt für eine Sekunde – und zeigt etwas völlig Unfassbares. Welches Thema der Stirn-Zahl soll als Nächstes kommen?",
+      "gender": "w",
+      "twist": {
+        "delta": "0 €",
+        "after": "ERR"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Kontostand am Monatsende. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Einhundertzwanzigtausend im Monat. Und plötzlich zählt keine Zahl mehr auf der Stirn, weil die Anzeige ganz schwarz wird. Wer bist du, wenn niemand mehr hinschaut?"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe auf der Aussichtsplattform des höchsten Wolkenkratzers, unter mir schimmert die gesamte Stadt wie ein Meer aus Lichtern."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast alles, aber du hast den Verstand verloren!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Drachenfrucht-Kopf bebt vor eiskalter Erleichterung."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl lügt nie, aber sie zeigt nicht das ganze Bild."
+        },
+        {
+          "s": "Figur",
+          "t": "Alle Wege aller Figuren kreuzen sich hier oben in diesem Moment."
+        },
+        {
+          "s": "Figur",
+          "t": "Da rollt die letzte winzige goldene Münze direkt an meine Absatzschuhe."
+        },
+        {
+          "s": "Figur",
+          "t": "Die digitale Anzeige auf meiner Stirn flackert plötzlich wild, erlischt für eine Sekunde – und zeigt etwas völlig Unfassbares."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema der Stirn-Zahl soll als Nächstes kommen?"
+        }
+      ],
+      "quote": "Du hast alles, aber du hast den Verstand verloren!",
+      "quote_by": {
+        "level": 4,
+        "name": "Orange Olivia",
+        "badge": "3.800 €",
+        "character": "An ambitious orange woman in a sharp blazer, looking furious and desperate on a high-rise rooftop.",
+        "scene": "Wide shot of a windy skyscraper rooftop at night with panoramic city views and glowing neon signs in the distance."
+      },
+      "stats": [
+        {
+          "label": "Einkommen",
+          "value": "120.000 €",
+          "bar": 1.0
+        },
+        {
+          "label": "Netzwerk",
+          "value": "Global",
+          "bar": 1.0
+        },
+        {
+          "label": "Wahrheit",
+          "value": "Unbekannt",
+          "bar": 0.0
+        }
+      ],
+      "character": "An exotic dragon fruit woman with magenta and green scale-like skin, wearing a haute couture white pantsuit and diamond necklace. Glowing digital badge on forehead.",
+      "visual": "Wide shot of a windy skyscraper rooftop at night, a dragon fruit woman looking down at the city with a 120.000 Euro badge.",
+      "scenes": [
+        "Wide shot of a windy skyscraper rooftop at night, a dragon fruit woman looking down at the city with a 120.000 Euro badge. A tiny golden coin rests near her stiletto heel.",
+        "Close-up of the dragon fruit woman's striking magenta face, forehead glowing with 120.000 Euro, city lights reflecting in her eyes.",
+        "Medium shot of a furious orange woman confronting her, showing a 3.800 Euro badge.",
+        "Detail shot of a gleaming stiletto shoe next to a tiny golden coin on concrete.",
+        "Wide shot of the entire metropolis sparkling under a massive night sky with shooting stars.",
+        "Close-up of the digital forehead badge flickering, turning from numbers to mysterious letters."
+      ],
+      "caption": "Was bedeutet Geld wirklich am Ende des Tages? Schreib es in die Kommentare für das nächste Thema! #reichtum #geld #finale #drama #fyp"
+    }
+  ],
+  "lang": "de",
+  "topic": "Kontostand am Monatsende",
+  "frame": "frucht"
+}

@@ -1,0 +1,828 @@
+{
+  "title": "Die 8 Level der Jobsuche und des Ghosting",
+  "house": "A bustling German metropolis named Fruchtstadt where produce people commute via crowded U-Bahn trains, drink coffee at neon-lit kiosks, and stress over digital forehead numbers showing their current monthly income or job status.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Level 1 mentions a cheap drip coffee at the Kiosk where Level 2 later works.",
+    "Level 2's Barista references a quiet man in a suit who leaves big tips, later revealed as Level 8.",
+    "Level 3 finds a discarded rejection letter written on stationery from Level 6's corporate tower.",
+    "Level 4 uses the same bus route as Level 1 every Tuesday morning at 7:30.",
+    "Level 5 complains about an overpriced apartment rented out by Level 7's agency.",
+    "Level 6 receives an internal HR memo originally drafted by Level 5 before his layoff.",
+    "Level 7 denies a loan to Level 3 just before his own company crashes.",
+    "Level 8 meets everyone briefly at the central U-Bahn platform without looking at their foreheads."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was stand genau in dem anonymen E-Mail-Betreff der Absage?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Lacht sie am Kiosk aus und behauptet, ihre Bewerbungsunterlagen seien im Müll gelandet."
+      },
+      "name": "Mia, 23, arbeitslose Studentin",
+      "badge": "0 € netto",
+      "verdict": "UNTERSTER PLATZ",
+      "story": "Die 8 Level von Jobsuche und Ghosting. Level 1. Level 1: 0 Euro auf der Stirn und nach 45 Absagen der absolute Tiefpunkt. Ich sitze im kalten Flur des Jobcenters, halte meinen ausgedruckten Lebenslauf und zittere vor Scham. Mit welchem Recht bewirbst du dich hier, wenn deine Stirn komplett leer bleibt? Das fragte mich dieser arrogante Typ im teuren Trenchcoat, während er mich demonstrativ ignorierte. Meine Miete von 650 Euro für das WG-Zimmer ist seit drei Tagen überfällig, und mein Kontostand zeigt Minus 45 Euro. Ich wollte nur eine Chance als Werkstudentin, doch die digitale Wand aus Vorurteilen bricht mir jeden Tag das Genick. Du musst dir halt einfach mehr Mühe geben bei deinen Anschreiben. Überall sehe ich nur diese leuchtenden Zahlen, die über Wert und Unwert entscheiden, als wäre ein Mensch ohne Einkommen ein Niemand. Plötzlich vibriert mein Handy in der Jackentasche, und eine neue Push-Nachricht leuchtet auf dem Display auf. Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+450 €",
+        "after": "450 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Jobsuche und Ghosting. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 0 Euro auf der Stirn und nach 45 Absagen der absolute Tiefpunkt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze im kalten Flur des Jobcenters, halte meinen ausgedruckten Lebenslauf und zittere vor Scham."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit welchem Recht bewirbst du dich hier, wenn deine Stirn komplett leer bleibt?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Das fragte mich dieser arrogante Typ im teuren Trenchcoat, während er mich demonstrativ ignorierte."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Miete von 650 Euro für das WG-Zimmer ist seit drei Tagen überfällig, und mein Kontostand zeigt Minus 45 Euro."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich wollte nur eine Chance als Werkstudentin, doch die digitale Wand aus Vorurteilen bricht mir jeden Tag das Genick."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du musst dir halt einfach mehr Mühe geben bei deinen Anschreiben.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Überall sehe ich nur diese leuchtenden Zahlen, die über Wert und Unwert entscheiden, als wäre ein Mensch ohne Einkommen ein Niemand."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich vibriert mein Handy in der Jackentasche, und eine neue Push-Nachricht leuchtet auf dem Display auf."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Mit welchem Recht bewirbst du dich hier, wenn deine Stirn komplett leer bleibt?",
+      "quote_by": {
+        "level": 4,
+        "name": "Ben",
+        "badge": "4.200 €",
+        "character": "An arrogant pear person wearing a tailored grey suit and holding a leather briefcase.",
+        "scene": "A crowded hallway in a job center with harsh fluorescent lighting, pointing a finger at a young strawberry person with a blank forehead."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "0 €",
+          "bar": 0.0
+        },
+        {
+          "label": "Miete",
+          "value": "-650 €",
+          "bar": 0.2
+        },
+        {
+          "label": "Absagen",
+          "value": "45",
+          "bar": 0.9
+        }
+      ],
+      "character": "A fragile strawberry person with pink skin dotted by tiny seeds, wearing a worn-out oversized grey hoodie and a faded red scarf; on her forehead, a flickering digital display showing '0 €'.",
+      "visual": "A wide shot of a gloomy German job center hallway with flickering neon lights, a strawberry person sitting on a metal bench holding a CV, with a glowing '0 €' on her forehead and a tiny gold coin hidden near a trash can.",
+      "scenes": [
+        "A wide shot of a gloomy German job center hallway with flickering neon lights, a strawberry person sitting on a metal bench holding a CV, with a glowing '0 €' on her forehead.",
+        "Medium shot in a chaotic student WG kitchen with dirty dishes in the sink, a strawberry person staring at a smartphone showing a negative bank balance of minus 45 euros.",
+        "Close-up on a faded red CV paper covered in handwritten rejection notes, resting on a sticky kitchen table next to a cold cup of instant coffee.",
+        "Wide shot of a crowded U-Bahn station platform in Fruchtstadt during rush hour, commuters ignoring the strawberry person standing near the yellow safety line.",
+        "Medium shot at a bright neon-lit street kiosk, where a rude pear person in a suit points mockingly at the strawberry's empty forehead display.",
+        "Detail shot of a smartphone screen buzzing with a new notification message while resting on a worn fabric jacket pocket."
+      ],
+      "caption": "Wer ohne Einkommen da steht, wird gnadenlos aussortiert. Kennst du dieses Gefühl von totalem Ghosting? #jobsuche #ghosting #karriere #deutschland #drama"
+    },
+    {
+      "n": 2,
+      "open_loop": "Warum ignorierte der Personalchef plötzlich alle meine Anrufe?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Zieht nach dem Vorstellungsgespräch die Zusage ohne Begründung zurück und lächelt kühl."
+      },
+      "name": "Tom, 28, Barista",
+      "badge": "1.450 € netto",
+      "verdict": "KNAPP DABEI",
+      "story": "Die 8 Level von Jobsuche und Ghosting. Level 2. Level 2: 1.450 Euro im Monat als Barista – und nach drei Vorstellungsgesprächen herrscht eisiges Schweigen. Ich dachte, mit meiner neuen Stelle im Café hätte ich es geschafft, doch die Jobsuche im Marketing bleibt ein Albtraum. Für diesen Job reicht deine lächerliche kleine Zahl vorne niemals aus. Eine schicke Zitronenfrau mit perfektem Kostüm trat an die Bar, musterte meine Stirn und sagte kalt. Meine Miete in der winzigen 35-Quadratmeter-Wohnung frisst bereits 700 Euro auf, und von den restlichen 750 Euro kann man in dieser Stadt kaum überleben. Ich habe mich für eine Junior-Stelle beworben, drei Runden erfolgreich absolviert, und dann kam einfach gar nichts mehr. Die Firmen heutzutage verlangen Spitzenleistungen für ein Butterbrot. Kein Ton, keine Absage, einfach komplettes Ghosting nach stundenlangen Testaufgaben. Warum ignorierte der Personalchef plötzlich alle meine Anrufe? Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+200 €",
+        "after": "1.650 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Jobsuche und Ghosting. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 1.450 Euro im Monat als Barista – und nach drei Vorstellungsgesprächen herrscht eisiges Schweigen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich dachte, mit meiner neuen Stelle im Café hätte ich es geschafft, doch die Jobsuche im Marketing bleibt ein Albtraum."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Für diesen Job reicht deine lächerliche kleine Zahl vorne niemals aus.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Eine schicke Zitronenfrau mit perfektem Kostüm trat an die Bar, musterte meine Stirn und sagte kalt."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Miete in der winzigen 35-Quadratmeter-Wohnung frisst bereits 700 Euro auf, und von den restlichen 750 Euro kann man in dieser Stadt kaum überleben."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe mich für eine Junior-Stelle beworben, drei Runden erfolgreich absolviert, und dann kam einfach gar nichts mehr."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Die Firmen heutzutage verlangen Spitzenleistungen für ein Butterbrot.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Kein Ton, keine Absage, einfach komplettes Ghosting nach stundenlangen Testaufgaben."
+        },
+        {
+          "s": "Figur",
+          "t": "Warum ignorierte der Personalchef plötzlich alle meine Anrufe?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Für diesen Job reicht deine lächerliche kleine Zahl vorne niemals aus.",
+      "quote_by": {
+        "level": 5,
+        "name": "Madame Zitrone",
+        "badge": "5.500 €",
+        "character": "A bitter, sour-yellow lemon person wearing a sharp business blazer and holding a designer handbag.",
+        "scene": "Inside a hipster café with warm pendant lighting, looking down disdainfully at a young coffee-bean person behind the counter."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "1.450 €",
+          "bar": 0.25
+        },
+        {
+          "label": "Miete",
+          "value": "-700 €",
+          "bar": 0.4
+        },
+        {
+          "label": "Bewerbungen",
+          "value": "28",
+          "bar": 0.6
+        }
+      ],
+      "character": "An energetic lemon person with textured yellow skin, wearing a neat green apron over a black t-shirt; on his forehead, a bright digital display showing '1.450 €'.",
+      "visual": "A medium shot inside a hipster café in Fruchtstadt with warm pendant lighting, a lemon barista wiping down the counter with a cloth, glowing forehead number '1.450 €', and a tiny golden coin resting near the espresso machine.",
+      "scenes": [
+        "A medium shot inside a hipster café in Fruchtstadt with warm pendant lighting, a lemon barista wiping down the counter with a cloth, glowing forehead number '1.450 €'.",
+        "Close-up on an espresso machine hissing steam while a notification popup on a phone screen shows a missed call from an unknown corporate number.",
+        "Wide shot of a rainy street outside the café window, where pedestrians walk past under black umbrellas during the late afternoon.",
+        "Medium shot by the cash register, a sour yellow lemon customer in a business suit sneering at the barista's forehead display.",
+        "Detail shot of a crumpled job rejection letter lying on a wooden café table next to an empty coffee mug.",
+        "Wide shot of a small apartment living room with moving boxes piled up in the corner under a flickering desk lamp."
+      ],
+      "caption": "Drei Runden Vorstellungsgespräch und dann völlige Funkstille? Wer kennt dieses miese Ghosting? #jobsuche #karriere #beruf #deutschland #ghosting"
+    },
+    {
+      "n": 3,
+      "open_loop": "Welches Geheimnis stand in der Personalakte, die auf dem Flur lag?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Wirft seinen Lebenslauf ungelesen in den Papiermüll und nennt ihn unqualifiziert."
+      },
+      "name": "Sarah, 31, Grafikerin",
+      "badge": "2.800 € netto",
+      "verdict": "MITTELMASS",
+      "story": "Die 8 Level von Jobsuche und Ghosting. Level 3. Level 3: 2.800 Euro im Monat als feste Grafikerin – und trotzdem suche ich panisch einen Ausweg aus der Agenturhölle. Ich stehe im Flur des Verlagsgebäudes, halte den Umschlag meiner Kündigung in der Hand und atme flach. Mit deiner mittelmäßigen Nummer wirst du hier niemals den Chefposten bekommen. Genau dieser Typ hat meine Gehaltsverhandlungen im letzten Monat blockiert, während ich 50-Stunden-Wochen geschoben habe. Meine Fixkosten steigen ins Unermessliche, die Warmmiete für die kleine Wohnung liegt bei 1.100 Euro, und jede freie Minute investiere ich in neue Bewerbungen. Doch statt Antworten ernte ich nur standardisierte Absagen mit Textbausteinen. Die wollen alle nur frisches Blut für wenig Geld ausbeuten. Ghosting ist in dieser Branche längst zum Standard geworden, und niemand übernimmt Verantwortung für die verschwendete Lebenszeit. Welches Geheimnis stand in der Personalakte, die auf dem Flur lag? Das siehst du in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "-300 €",
+        "after": "2.500 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Jobsuche und Ghosting. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 2.800 Euro im Monat als feste Grafikerin – und trotzdem suche ich panisch einen Ausweg aus der Agenturhölle."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im Flur des Verlagsgebäudes, halte den Umschlag meiner Kündigung in der Hand und atme flach."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit deiner mittelmäßigen Nummer wirst du hier niemals den Chefposten bekommen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Genau dieser Typ hat meine Gehaltsverhandlungen im letzten Monat blockiert, während ich 50-Stunden-Wochen geschoben habe."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Fixkosten steigen ins Unermessliche, die Warmmiete für die kleine Wohnung liegt bei 1.100 Euro, und jede freie Minute investiere ich in neue Bewerbungen."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch statt Antworten ernte ich nur standardisierte Absagen mit Textbausteinen."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Die wollen alle nur frisches Blut für wenig Geld ausbeuten.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ghosting ist in dieser Branche längst zum Standard geworden, und niemand übernimmt Verantwortung für die verschwendete Lebenszeit."
+        },
+        {
+          "s": "Figur",
+          "t": "Welches Geheimnis stand in der Personalakte, die auf dem Flur lag?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Mit deiner mittelmäßigen Nummer wirst du hier niemals den Chefposten bekommen.",
+      "quote_by": {
+        "level": 6,
+        "name": "Herr Brokkoli",
+        "badge": "6.800 €",
+        "character": "A rigid, tree-like broccoli person wearing an expensive charcoal suit and gold cufflinks.",
+        "scene": "In a sleek corporate hallway with glass walls, sneering down at a creative potato person."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "2.800 €",
+          "bar": 0.45
+        },
+        {
+          "label": "Miete",
+          "value": "-1.100 €",
+          "bar": 0.6
+        },
+        {
+          "label": "Stunden",
+          "value": "50h/W.",
+          "bar": 0.8
+        }
+      ],
+      "character": "A creative avocado person with smooth green skin and a large round pit outline on her chest, wearing a stylish denim shirt and silver earrings; on her forehead, a glowing display showing '2.800 €'.",
+      "visual": "A wide shot of a modern publishing office hallway with polished concrete floors and glass conference rooms, an avocado woman holding a resignation letter with forehead display '2.800 €', and a tiny golden coin near a potted plant.",
+      "scenes": [
+        "A wide shot of a modern publishing office hallway with polished concrete floors and glass conference rooms, an avocado woman holding a resignation letter with forehead display '2.800 €'.",
+        "Medium shot inside a design studio with dual monitors showing vector graphics, coffee cups stacked next to a graphic tablet.",
+        "Close-up on a printer spitting out formal resignation papers while office lights hum overhead.",
+        "Wide shot of an underground parking garage with concrete pillars, where a broccoli person in a luxury car speeds away.",
+        "Detail shot of a confidential HR folder left half-open on a reception desk with blurred text visible.",
+        "Medium shot in a dimly lit hallway at dusk, an avocado person looking out the window into the rainy city."
+      ],
+      "caption": "Feste Anstellung und trotzdem nur Ausbeutung und Ghosting im Job? Wer kennt den Frust? #jobsuche #agenturleben #karriere #deutschland #ghosting"
+    },
+    {
+      "n": 4,
+      "open_loop": "Wer hat die Zusage für die Traumstelle kurz vor dem Vertrag gestohlen?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Zieht das Jobangebot wegen fadenscheiniger Compliance-Gründe in letzter Sekunde zurück."
+      },
+      "name": "David, 35, Abteilungsleiter",
+      "badge": "4.500 € netto",
+      "verdict": "GUT DABEI",
+      "story": "Die 8 Level von Jobsuche und Ghosting. Level 4. Level 4: 4.500 Euro im Monat als gefragter Experte – und trotzdem werde ich von Konzernen wie eine heiße Kartoffel fallen gelassen. Ich stehe in der Chefetage vor der gläsernen Tür des Vorstands, bereit für den Unterschriften-Termin. Für die Führungsposition reicht dein Profil hinten und vorne nicht, wir haben intern längst jemand anderen ausgewählt. Da kommt eine glatte Kokosnuss im teuren Kaschmirpullover aus dem Besprechungsraum, blickt auf mein Stirn-Display und lacht kalt. Dabei hatte mir der Personalverantwortliche in drei Feedbackgesprächen zugesichert, dass die Stelle mir sicher ist. Kein Anruf, keine Mail, einfach reines Corporate Ghosting auf höchster Ebene. Verträge sind in dieser Liga erst etwas wert, wenn die Tinte trocken ist. Meine Fixkosten für das Reihenhaus am Stadtrand betragen 2.200 Euro, und der Druck auf dem Arbeitsmarkt macht auch vor Führungskräften keinen Halt mehr. Wer hat die Zusage für die Traumstelle kurz vor dem Vertrag gestohlen? Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+500 €",
+        "after": "5.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Jobsuche und Ghosting. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 4.500 Euro im Monat als gefragter Experte – und trotzdem werde ich von Konzernen wie eine heiße Kartoffel fallen gelassen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe in der Chefetage vor der gläsernen Tür des Vorstands, bereit für den Unterschriften-Termin."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Für die Führungsposition reicht dein Profil hinten und vorne nicht, wir haben intern längst jemand anderen ausgewählt.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Da kommt eine glatte Kokosnuss im teuren Kaschmirpullover aus dem Besprechungsraum, blickt auf mein Stirn-Display und lacht kalt."
+        },
+        {
+          "s": "Figur",
+          "t": "Dabei hatte mir der Personalverantwortliche in drei Feedbackgesprächen zugesichert, dass die Stelle mir sicher ist."
+        },
+        {
+          "s": "Figur",
+          "t": "Kein Anruf, keine Mail, einfach reines Corporate Ghosting auf höchster Ebene."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Verträge sind in dieser Liga erst etwas wert, wenn die Tinte trocken ist.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Fixkosten für das Reihenhaus am Stadtrand betragen 2.200 Euro, und der Druck auf dem Arbeitsmarkt macht auch vor Führungskräften keinen Halt mehr."
+        },
+        {
+          "s": "Figur",
+          "t": "Wer hat die Zusage für die Traumstelle kurz vor dem Vertrag gestohlen?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Für die Führungsposition reicht dein Profil hinten und vorne nicht, wir haben intern längst jemand anderen ausgewählt.",
+      "quote_by": {
+        "level": 7,
+        "name": "Direktor Kokosnuss",
+        "badge": "9.200 €",
+        "character": "A hard, brown coconut person wearing a bespoke cashmere turtleneck and an expensive luxury watch.",
+        "scene": "Standing inside a penthouse boardroom with panoramic city views, looking down at a manager with a condescending smirk."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "4.500 €",
+          "bar": 0.65
+        },
+        {
+          "label": "Miete",
+          "value": "-2.200 €",
+          "bar": 0.75
+        },
+        {
+          "label": "Stufe",
+          "value": "Senior",
+          "bar": 0.7
+        }
+      ],
+      "character": "A structured potato person with earthy brown skin and a neat haircut, wearing a crisp navy blue blazer and slim-fit trousers; on his forehead, a bright digital display showing '4.500 €'.",
+      "visual": "A wide shot of a sleek corporate penthouse floor with floor-to-ceiling windows overlooking Fruchtstadt skyline, a potato manager standing near a glass conference door with glowing '4.500 €', and a tiny golden coin on a windowsill.",
+      "scenes": [
+        "A wide shot of a sleek corporate penthouse floor with floor-to-ceiling windows overlooking Fruchtstadt skyline, a potato manager standing near a glass conference door with glowing '4.500 €'.",
+        "Medium shot inside a minimalist corner office with leather armchairs and a polished mahogany coffee table.",
+        "Close-up on a golden fountain pen resting on top of an unfinalized employment contract.",
+        "Wide shot of an executive elevator lobby with polished marble floors reflecting the overhead spotlights.",
+        "Detail shot of a smartphone screen showing a calendar invite titled 'Final Decision Meeting' being abruptly deleted.",
+        "Medium shot of the potato manager looking out over the city in deep frustration as evening falls."
+      ],
+      "caption": "Selbst in höheren Positionen wird man plötzlich geghostet. Wer hat das schon erlebt? #karriere #management #ghosting #deutschland #erfolgreich"
+    },
+    {
+      "n": 5,
+      "open_loop": "Was stand in dem vertraulichen Dokument auf dem Chef-Schreibtisch?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Entlässt sie per Videocall nach zehn Jahren Betriebszugehörigkeit ohne Vorwarnung."
+      },
+      "name": "Elena, 41, HR-Managerin",
+      "badge": "6.200 € netto",
+      "verdict": "OBEREN 10%",
+      "story": "Die 8 Level von Jobsuche und Ghosting. Level 5. Level 5: 6.200 Euro im Monat als erfahrene Personalchefin – und plötzlich stehe ich auf der anderen Seite des Ghostings. Jahrelang habe ich selbst Absagen verschickt und Kandidaten vertröstet, jetzt treibt mich das System in den Wahnsinn. Wir restrukturieren die Abteilung komplett, deine Stelle wird ab morgen nicht mehr gebraucht. Eine strahlende Drachenfrucht im goldenen Designer-Kostüm betritt mein Büro, blickt auf mein Stirn-Display und sagt kühl. Keine Vorwarnung, keine menschliche Geste, einfach die kalte Schulter von ganz oben. Mein Gehalt schien sicher, doch mit einer Eigentumswohnung und Fixkosten von 3.100 Euro im Monat bricht mir der Boden unter den Füßen weg. Wer oben sitzt, fällt am tiefsten, wenn das Management umstrukturiert. Karma schlägt in dieser Stadt schneller zu, als man einen Lebenslauf aktualisieren kann. Was stand in dem vertraulichen Dokument auf dem Chef-Schreibtisch? Das siehst du in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "-1.200 €",
+        "after": "5.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Jobsuche und Ghosting. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 6.200 Euro im Monat als erfahrene Personalchefin – und plötzlich stehe ich auf der anderen Seite des Ghostings."
+        },
+        {
+          "s": "Figur",
+          "t": "Jahrelang habe ich selbst Absagen verschickt und Kandidaten vertröstet, jetzt treibt mich das System in den Wahnsinn."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wir restrukturieren die Abteilung komplett, deine Stelle wird ab morgen nicht mehr gebraucht.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Eine strahlende Drachenfrucht im goldenen Designer-Kostüm betritt mein Büro, blickt auf mein Stirn-Display und sagt kühl."
+        },
+        {
+          "s": "Figur",
+          "t": "Keine Vorwarnung, keine menschliche Geste, einfach die kalte Schulter von ganz oben."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Gehalt schien sicher, doch mit einer Eigentumswohnung und Fixkosten von 3.100 Euro im Monat bricht mir der Boden unter den Füßen weg."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Wer oben sitzt, fällt am tiefsten, wenn das Management umstrukturiert.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Karma schlägt in dieser Stadt schneller zu, als man einen Lebenslauf aktualisieren kann."
+        },
+        {
+          "s": "Figur",
+          "t": "Was stand in dem vertraulichen Dokument auf dem Chef-Schreibtisch?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Wir restrukturieren die Abteilung komplett, deine Stelle wird ab morgen nicht mehr gebraucht.",
+      "quote_by": {
+        "level": 8,
+        "name": "The Boss",
+        "badge": "18.500 €",
+        "character": "An exotic dragon fruit person with vibrant pink skin, green scale-tips, and a flawless white silk suit.",
+        "scene": "Sitting behind a massive glass desk in a top-floor corner office, dismissing an employee with a wave of the hand."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "6.200 €",
+          "bar": 0.8
+        },
+        {
+          "label": "Fixkosten",
+          "value": "-3.100 €",
+          "bar": 0.85
+        },
+        {
+          "label": "Status",
+          "value": "HR-Leitung",
+          "bar": 0.85
+        }
+      ],
+      "character": "An elegant plum person with smooth deep-purple skin, wearing a tailored emerald green pantsuit and pearl earrings; on her forehead, a glowing display showing '6.200 €'.",
+      "visual": "A medium shot in a luxurious corporate office with dark wood bookshelves and floor-to-ceiling windows, a plum HR manager packing her desk boxes with forehead display '6.200 €', and a tiny golden coin on an open memo pad.",
+      "scenes": [
+        "A medium shot in a luxurious corporate office with dark wood bookshelves and floor-to-ceiling windows, a plum HR manager packing her desk boxes with forehead display '6.200 €'.",
+        "Close-up on a cardboard moving box being filled with staplers, frames, and desk accessories.",
+        "Wide shot of an opulent corporate hallway with gold-trimmed elevator doors reflecting a stormy sky outside.",
+        "Medium shot by the glass conference room where a dragon fruit executive points coldly at a termination document.",
+        "Detail shot of a confidential HR reorganization report stamped with red classified text.",
+        "Wide shot of the underground executive parking garage as a plum manager walks toward her car alone in the quiet shadows."
+      ],
+      "caption": "Wenn die Personalerin selbst plötzlich das Opfer von Corporate Ghosting wird. Karma? #hr #karriere #ghosting #deutschland #wirtschaft"
+    },
+    {
+      "n": 6,
+      "open_loop": "Welche Summe stand auf dem unterschriebenen Beratervertrag auf dem Tisch?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Nimmt seine Beratung an und gibt ihm im Café absichtlich einen falschen Karrieretipp."
+      },
+      "name": "Markus, 45, Unternehmensberater",
+      "badge": "9.500 € netto",
+      "verdict": "TOP EARNER",
+      "story": "Die 8 Level von Jobsuche und Ghosting. Level 6. Level 6: 9.500 Euro im Monat als Senior-Berater – und selbst auf diesem Level wird man von großen Klienten gnadenlos geghostet. Ich sitze im Konferenzraum eines Dax-Konzerns, präsentiere das Sanierungskonzept und warte auf das Go. Ihre Honorarvorstellungen sind völlig realitätsfern, wir vergeben den Auftrag an eine günstigere Agentur. Da betritt ein geheimnisvoller, reicher Granatapfel im feinen Smoking den Raum, mustert meine Stirn und erklärt eiskalt. Nach wochenlangen Verhandlungen und schlaflosen Nächten einfach ein kalter Tritt in den Magen. Meine monatlichen Ausgaben für Villa und Leasingrate belaufen sich auf 5.000 Euro, und der Druck, das Level zu halten, ist brutal. Auf diesem Niveau wird nicht mehr verhandelt, da wird gnadenlos ausgetauscht. Man meint, mit dieser Zahl auf der Stirn sei man unverwundbar, doch in der Job- und Auftragswelt zählt am Ende nur der billigste Preis. Welche Summe stand auf dem unterschriebenen Beratervertrag auf dem Tisch? Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1.500 €",
+        "after": "11.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Jobsuche und Ghosting. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 9.500 Euro im Monat als Senior-Berater – und selbst auf diesem Level wird man von großen Klienten gnadenlos geghostet."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze im Konferenzraum eines Dax-Konzerns, präsentiere das Sanierungskonzept und warte auf das Go."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Ihre Honorarvorstellungen sind völlig realitätsfern, wir vergeben den Auftrag an eine günstigere Agentur.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Da betritt ein geheimnisvoller, reicher Granatapfel im feinen Smoking den Raum, mustert meine Stirn und erklärt eiskalt."
+        },
+        {
+          "s": "Figur",
+          "t": "Nach wochenlangen Verhandlungen und schlaflosen Nächten einfach ein kalter Tritt in den Magen."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine monatlichen Ausgaben für Villa und Leasingrate belaufen sich auf 5.000 Euro, und der Druck, das Level zu halten, ist brutal."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Auf diesem Niveau wird nicht mehr verhandelt, da wird gnadenlos ausgetauscht.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Man meint, mit dieser Zahl auf der Stirn sei man unverwundbar, doch in der Job- und Auftragswelt zählt am Ende nur der billigste Preis."
+        },
+        {
+          "s": "Figur",
+          "t": "Welche Summe stand auf dem unterschriebenen Beratervertrag auf dem Tisch?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Ihre Honorarvorstellungen sind völlig realitätsfern, wir vergeben den Auftrag an eine günstigere Agentur.",
+      "quote_by": {
+        "level": 2,
+        "name": "Pomegranate VIP",
+        "badge": "12.000 €",
+        "character": "A ruby-red pomegranate person sparkling with gemstone accessories and wearing a tailored velvet tuxedo.",
+        "scene": "Leaning back in a luxury leather armchair in a private club lounge, sipping expensive champagne while rejecting a proposal."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "9.500 €",
+          "bar": 0.9
+        },
+        {
+          "label": "Fixkosten",
+          "value": "-5.000 €",
+          "bar": 0.9
+        },
+        {
+          "label": "Status",
+          "value": "Senior",
+          "bar": 0.95
+        }
+      ],
+      "character": "A polished melon person with textured green rind and firm texture, wearing a sharp charcoal business suit with a silver silk tie; on his forehead, a bright digital display showing '9.500 €'.",
+      "visual": "A wide shot of a lavish boardroom with a long glass conference table reflecting crystal chandeliers, a melon consultant standing with glowing forehead number '9.500 €', and a tiny golden coin near a crystal water pitcher.",
+      "scenes": [
+        "A wide shot of a lavish boardroom with a long glass conference table reflecting crystal chandeliers, a melon consultant standing with glowing forehead number '9.500 €'.",
+        "Medium shot of a high-end laptop screen displaying complex financial pivot tables and red rejection stamps.",
+        "Close-up on a gold-plated fountain pen resting next to a thick contract binder.",
+        "Wide shot of an illuminated sky-bridge connecting two corporate towers in the financial district at night.",
+        "Detail shot of a leather briefcase snap closing shut with a sharp metallic click.",
+        "Medium shot of the melon consultant looking out over the city lights from a high-rise balcony in deep contemplation."
+      ],
+      "caption": "Selbst Top-Verdiener werden von Konzernen eiskalt geghostet. Wer kennt dieses Business-Game? #beratung #business #karriere #deutschland #ghosting"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welche schreckliche Wahrheit über den Firmengründungsbetrug stand im Polizeibericht?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Enthüllt anonym seine gefälschten Referenzen beim neuen Großkunden."
+      },
+      "name": "Victoria, 49, Vorstandsvorsitzende",
+      "badge": "14.200 € netto",
+      "verdict": "ELITE KLASSE",
+      "story": "Die 8 Level von Jobsuche und Ghosting. Level 7. Level 7: 14.200 Euro im Monat als CEO eines wachsenden Tech-Unternehmens – und der totale Absturz durch ein falsches Netzwerk. Ich stehe auf der Bühne meiner eigenen Jahreskonferenz, bereit die neue Expansionsstrategie zu verkünden. Deine ganze Karriere ist auf Lug, Betrug und gekauften Empfehlungen aufgebaut! Da stürmt eine bescheidene, aber wütende Avocadofrau an den Sicherheitsleuten vorbei, zeigt auf meine Stirn und schreit vor versammelter Mannschaft. In Sekundenschnelle blitzt das Smartphone von hundert Journalisten auf, und mein Firmenimperium bricht wie ein Kartenhaus zusammen. Meine monatlichen Verpflichtungen von 8.000 Euro für Immobilien und Kredite sind plötzlich wertlos, während die Investoren ihre Gelder augenblicklich eingefroren haben. Der Fall von ganz oben ist immer der lauteste in der Wirtschaftswelt. Ghosting auf diesem Level bedeutet, dass niemand mehr deine Anrufe entgegennimmt und alle Türen für immer verschlossen bleiben. Welche schreckliche Wahrheit über den Firmengründungsbetrug stand im Polizeibericht? Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "-10.000 €",
+        "after": "4.200 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Jobsuche und Ghosting. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 14.200 Euro im Monat als CEO eines wachsenden Tech-Unternehmens – und der totale Absturz durch ein falsches Netzwerk."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe auf der Bühne meiner eigenen Jahreskonferenz, bereit die neue Expansionsstrategie zu verkünden."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Deine ganze Karriere ist auf Lug, Betrug und gekauften Empfehlungen aufgebaut!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Da stürmt eine bescheidene, aber wütende Avocadofrau an den Sicherheitsleuten vorbei, zeigt auf meine Stirn und schreit vor versammelter Mannschaft."
+        },
+        {
+          "s": "Figur",
+          "t": "In Sekundenschnelle blitzt das Smartphone von hundert Journalisten auf, und mein Firmenimperium bricht wie ein Kartenhaus zusammen."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine monatlichen Verpflichtungen von 8.000 Euro für Immobilien und Kredite sind plötzlich wertlos, während die Investoren ihre Gelder augenblicklich eingefroren haben."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Der Fall von ganz oben ist immer der lauteste in der Wirtschaftswelt.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ghosting auf diesem Level bedeutet, dass niemand mehr deine Anrufe entgegennimmt und alle Türen für immer verschlossen bleiben."
+        },
+        {
+          "s": "Figur",
+          "t": "Welche schreckliche Wahrheit über den Firmengründungsbetrug stand im Polizeibericht?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Deine ganze Karriere ist auf Lug, Betrug und gekauften Empfehlungen aufgebaut!",
+      "quote_by": {
+        "level": 3,
+        "name": "Sarah",
+        "badge": "2.800 €",
+        "character": "An ambitious avocado person wearing a sharp denim blazer and determined expression.",
+        "scene": "Pointing accusingly from the front row of a crowded press auditorium towards a high executive stage."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "14.200 €",
+          "bar": 0.95
+        },
+        {
+          "label": "Kredite",
+          "value": "-8.000 €",
+          "bar": 0.95
+        },
+        {
+          "label": "Status",
+          "value": "CEO",
+          "bar": 0.98
+        }
+      ],
+      "character": "An elegant pineapple person with golden crown-like leaves and textured yellow skin, wearing a stunning white silk designer dress and diamond brooch; on her forehead, a bright digital display showing '14.200 €'.",
+      "visual": "A wide shot of a grand corporate conference auditorium filled with flashing camera lights and media reporters, a pineapple CEO standing on stage with glowing '14.200 €', and a tiny golden coin on the podium edge.",
+      "scenes": [
+        "A wide shot of a grand corporate conference auditorium filled with flashing camera lights and media reporters, a pineapple CEO standing on stage with glowing '14.200 €'.",
+        "Medium shot of camera flashbulbs illuminating a large projection screen displaying financial charts.",
+        "Close-up on a microphone stand shaking slightly as frantic whispers echo through the hall.",
+        "Wide shot of security guards rushing down the carpeted aisle toward the stage steps.",
+        "Detail shot of a smartphone screen flashing emergency news alerts about corporate fraud.",
+        "Medium shot of the pineapple CEO staring in utter shock at the crashing stock ticker behind her."
+      ],
+      "caption": "Wenn das Imperium wegen einer Enthüllung in Sekundenschnelle zusammenbricht. Wer trägt die Schuld? #ceo #wirtschaft #skandal #deutschland #ghosting"
+    },
+    {
+      "n": 8,
+      "open_loop": "Was geschieht, wenn alle Zahlen auf einmal erlöschen und nur noch der Mensch zählt?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Reicht der gestürzten Chefin im U-Bahn-Schacht eine warme Tasse Kaffee und lächelt verzeihend."
+      },
+      "name": "Oliver, 52, Gründer & Investor",
+      "badge": "25.000 € netto",
+      "verdict": "UNENDLICH",
+      "story": "Die 8 Level von Jobsuche und Ghosting. Level 8. Level 8: 25.000 Euro im Monat als legendärer Investor – und die Erkenntnis, dass jede Zahl auf der Stirn am Ende nur eine Illusion ist. Ich stehe auf dem zentralen U-Bahn-Bahnsteig in Fruchtstadt, genau dort, wo vor Monaten alles für Mia in Level 1 begann. Egal wie hoch deine Zahl leuchtet, am Ende steigen wir alle in dieselbe Bahn. Eine junge Erdbeere reicht mir plötzlich eine einfache Tasse Kiosk-Kaffee und sagt mit einem warmen Lächeln. In diesem Moment flackern alle digitalen Displays auf unseren Stirnen kurz auf und schalten sich für immer aus. Kein Ghosting mehr, keine Jobsuche nach Nummern, keine Verurteilung nach Kontostand. Die Zahl lügt nie – aber sie macht uns niemals zu echten Menschen. Das ewige System aus Neid und Demütigung ist mit einem Schlag komplett zerstört. Welches Thema der Gesellschaft soll als Nächstes in 8 Leveln seziert werden? Schreibe dein Wunschthema in die Kommentare.",
+      "gender": "m",
+      "twist": {
+        "delta": "0 €",
+        "after": "0 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Jobsuche und Ghosting. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 25.000 Euro im Monat als legendärer Investor – und die Erkenntnis, dass jede Zahl auf der Stirn am Ende nur eine Illusion ist."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe auf dem zentralen U-Bahn-Bahnsteig in Fruchtstadt, genau dort, wo vor Monaten alles für Mia in Level 1 begann."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Egal wie hoch deine Zahl leuchtet, am Ende steigen wir alle in dieselbe Bahn.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Eine junge Erdbeere reicht mir plötzlich eine einfache Tasse Kiosk-Kaffee und sagt mit einem warmen Lächeln."
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Moment flackern alle digitalen Displays auf unseren Stirnen kurz auf und schalten sich für immer aus."
+        },
+        {
+          "s": "Figur",
+          "t": "Kein Ghosting mehr, keine Jobsuche nach Nummern, keine Verurteilung nach Kontostand."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Die Zahl lügt nie – aber sie macht uns niemals zu echten Menschen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Das ewige System aus Neid und Demütigung ist mit einem Schlag komplett zerstört."
+        },
+        {
+          "s": "Figur",
+          "t": "Welches Thema der Gesellschaft soll als Nächstes in 8 Leveln seziert werden?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Schreibe dein Wunschthema in die Kommentare."
+        }
+      ],
+      "quote": "Egal wie hoch deine Zahl leuchtet, am Ende steigen wir alle in dieselbe Bahn.",
+      "quote_by": {
+        "level": 1,
+        "name": "Mia",
+        "badge": "0 €",
+        "character": "A resilient strawberry person wearing a simple red hoodie and a genuine smile.",
+        "scene": "Standing on a crowded U-Bahn platform, handing a warm paper cup of coffee to an older coconut investor."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "25.000 €",
+          "bar": 1.0
+        },
+        {
+          "label": "Illusion",
+          "value": "0 €",
+          "bar": 0.0
+        },
+        {
+          "label": "Gemeinschaft",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "A wise coconut person with a hard textured brown shell and gentle eyes, wearing an elegant dark wool coat and a silk scarf; on his forehead, a glowing display showing '25.000 €' that slowly fades to zero.",
+      "visual": "A wide shot of the central U-Bahn station platform in Fruchtstadt where all characters from previous levels stand together in a circle as their forehead displays slowly flicker and turn dark, with a gleaming golden coin right in the center of the tracks.",
+      "scenes": [
+        "A wide shot of the central U-Bahn station platform in Fruchtstadt where all characters from previous levels stand together in a circle as their forehead displays slowly flicker and turn dark.",
+        "Medium shot of the coconut investor smiling warmly while receiving a simple paper cup of coffee from a strawberry person.",
+        "Close-up on digital forehead numbers across multiple characters dimming and finally turning completely blank.",
+        "Wide shot of an incoming U-Bahn train pulling into the underground station with soft warm interior lights glowing.",
+        "Detail shot of diverse hands touching palms in mutual respect without looking at forehead displays.",
+        "Medium shot of all produce characters boarding the train together as a unified community."
+      ],
+      "caption": "Das große Finale von 'Die Stirn-Zahl'. Welches gesellschaftliche Thema sollen wir als Nächstes in 8 Leveln zeigen? Schreib es in die Kommentare! #gesellschaft #finale #stirnzahl #deutschland #zusammenhalt"
+    }
+  ],
+  "lang": "de",
+  "topic": "Die Jobsuche und Ghosting nach Bewerbungsgesprächen",
+  "frame": "frucht"
+}

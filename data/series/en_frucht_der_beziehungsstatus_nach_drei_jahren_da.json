@@ -1,0 +1,751 @@
+{
+  "title": "The 8 Levels of Three-Year Dating",
+  "house": "Freshville, a neon-lit metropolis where produce-people navigate modern romance under the harsh glow of their glowing forehead numbers, sharing narrow apartments, 24-hour diners, and subway platforms.",
+  "catchphrase": "The number on your forehead never lies.",
+  "links": [
+    "The barista from Level 2 is mentioned in Level 5 dropping coffee on a regular.",
+    "The broken bench at Central Park appears in Level 1 and Level 7.",
+    "The blue neon umbrella from Level 3 is left in the taxi in Level 6."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Why did the engagement ring box suddenly turn out to be completely empty?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Laughs at her cheap anniversary dinner and tells her she will never get a ring.",
+        "g": "m"
+      },
+      "name": "Maya, 26, Barista",
+      "badge": "Month 36",
+      "verdict": "STUCK",
+      "story": "2.000 Euro für eine billige Mikrowelle? Wer hat Leo eigentlich reingelassen? Vielleicht putzt er gleich die Toiletten für uns Erfolgreiche. Month 36. Three years of renting a damp studio together, and my forehead badge still flashes Month 36 with zero ring in sight. I stood across from Leo at our cramped kitchen table, holding a lukewarm cup of instant coffee, waiting for the question every couple faces. Instead, he didn't even look up from his phone screen. He just swiped right on another dating app while sitting right in front of me. I slammed my ceramic mug down so hard the handle snapped off, spilling dark liquid across the cheap laminate counter. How can we celebrate three years when you are already shopping for someone else? You are just a placeholder until I upgrade my apartment. Das siehst du in Level 2. You'll see that in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "-36 Mo",
+        "after": "Single"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "2.000 Euro für eine billige Mikrowelle? Wer hat Leo eigentlich reingelassen? Vielleicht putzt er gleich die Toiletten für uns Erfolgreiche."
+        },
+        {
+          "s": "Figur",
+          "t": "Month 36. Three years of renting a damp studio together, and my forehead badge still flashes Month 36 with zero ring in sight."
+        },
+        {
+          "s": "Figur",
+          "t": "I stood across from Leo at our cramped kitchen table, holding a lukewarm cup of instant coffee, waiting for the question every couple faces."
+        },
+        {
+          "s": "Figur",
+          "t": "Instead, he didn't even look up from his phone screen. He just swiped right on another dating app while sitting right in front of me."
+        },
+        {
+          "s": "Figur",
+          "t": "I slammed my ceramic mug down so hard the handle snapped off, spilling dark liquid across the cheap laminate counter."
+        },
+        {
+          "s": "Figur",
+          "t": "How can we celebrate three years when you are already shopping for someone else?"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are just a placeholder until I upgrade my apartment.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You are just a placeholder until I upgrade my apartment.",
+      "quote_by": {
+        "level": 6,
+        "name": "Leo",
+        "badge": "Month 48",
+        "character": "A smug lemon-man with a slicked-back peel, wearing an expensive grey synthetic hoodie and a cold smirk.",
+        "scene": "Wide shot of a cluttered, dark apartment kitchen at night, neon light bleeding through dirty blinds as Leo leans against the counter looking down with disdain."
+      },
+      "stats": [
+        {
+          "label": "Status",
+          "value": "Month 36",
+          "bar": 0.1
+        },
+        {
+          "label": "Savings",
+          "value": "$12.40",
+          "bar": 0.05
+        },
+        {
+          "label": "Trust",
+          "value": "12%",
+          "bar": 0.12
+        }
+      ],
+      "character": "A fragile strawberry-woman with freckled red skin wearing a faded oversized thrift-store sweater and a glowing digital forehead badge.",
+      "visual": "Close-up shot of a strawberry-woman crying in a cramped, dimly lit kitchen, staring at a cracked coffee mug with a glowing red forehead badge reading Month 36.",
+      "scenes": [
+        "Wide shot of a cramped, messy studio apartment at twilight, rain streaking the single dirty window, a small golden coin resting on a stained rug.",
+        "Medium shot of Maya holding a chipped mug, her red strawberry skin glistening with nervous sweat under fluorescent lights.",
+        "Close-up detail shot of the glowing digital forehead badge flashing 'Month 36' in harsh red numbers.",
+        "Over-the-shoulder shot looking at a glowing smartphone screen displaying dating profiles inside a dark, cluttered hallway.",
+        "Halbnah shot of Leo packing his gym bag while ignoring Maya, his lemon peel glistening under the harsh kitchen bulb.",
+        "Detail shot of a small golden coin half-hidden under a pile of unpaid utility bills on a wooden coffee table."
+      ],
+      "caption": "Three years down the drain over a text message. Would you stay or leave? #datingdrama #relationships #thestirnzahl #heartbreak #couplegoals"
+    },
+    {
+      "n": 2,
+      "open_loop": "Whose expensive car was parked outside the apartment building waiting for her?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Insults her budget anniversary gift and throws it into the trash.",
+        "g": "w"
+      },
+      "name": "Leo, 28, Delivery Driver",
+      "badge": "Month 48",
+      "verdict": "RESTLESS",
+      "story": "Nach vier Jahren ziehst du aus und nimmst nicht mal deinen Schrott mit? Du bist keine Partnerin, du bist ein mietfreier Schmarotzer! Four years of dating, and my forehead badge finally ticked up while Maya was packing her cardboard boxes in the hallway. I stood by the door holding my gym bag, listening to her sniffle while she zipped up her old duffel bag. You think you deserve a ring when you cannot even pay half the Wi-Fi bill? She looked up at me with red, watery eyes, her strawberry skin pale with utter disbelief. After four years, that is all I am worth to you? You made the right trade today, kid. Das siehst du in Level 3. You'll see that in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+12 Mo",
+        "after": "Month 60"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Nach vier Jahren ziehst du aus und nimmst nicht mal deinen Schrott mit? Du bist keine Partnerin, du bist ein mietfreier Schmarotzer!"
+        },
+        {
+          "s": "Figur",
+          "t": "Four years of dating, and my forehead badge finally ticked up while Maya was packing her cardboard boxes in the hallway."
+        },
+        {
+          "s": "Figur",
+          "t": "I stood by the door holding my gym bag, listening to her sniffle while she zipped up her old duffel bag."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You think you deserve a ring when you cannot even pay half the Wi-Fi bill?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "She looked up at me with red, watery eyes, her strawberry skin pale with utter disbelief."
+        },
+        {
+          "s": "Figur",
+          "t": "After four years, that is all I am worth to you?"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "You made the right trade today, kid.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "You made the right trade today, kid.",
+      "quote_by": {
+        "level": 5,
+        "name": "Marcus",
+        "badge": "Year 5",
+        "character": "An arrogant avocado-man with a polished, oily pit-head and a tailored midnight-blue suit.",
+        "scene": "Medium shot from inside a sleek black luxury sedan at night, streetlights reflecting off the tinted window as Marcus points outward."
+      },
+      "stats": [
+        {
+          "label": "Status",
+          "value": "Month 48",
+          "bar": 0.25
+        },
+        {
+          "label": "Ambition",
+          "value": "High",
+          "bar": 0.6
+        },
+        {
+          "label": "Loyalty",
+          "value": "15%",
+          "bar": 0.15
+        }
+      ],
+      "character": "A smug lemon-man with a textured, bright yellow citrus peel, wearing a fitted grey sports hoodie and clean white sneakers.",
+      "visual": "Medium shot of a lemon-man standing in a dim apartment hallway, looking down at a packing box with a glowing forehead badge reading Month 48.",
+      "scenes": [
+        "Wide shot of a desolate apartment stairwell at night with flickering overhead fluorescent lighting and peeling wallpaper.",
+        "Close-up of a glowing digital forehead badge flashing 'Month 48' in bright green numbers.",
+        "Halbnah shot of Maya holding a framed photograph, her strawberry skin lit by the orange glow of a streetlamp outside.",
+        "Detail shot of a small golden coin resting on the edge of a wooden stair tread next to a cardboard box flap.",
+        "Wide shot of a gleaming luxury sedan parked illegally under a flickering neon street sign in the rainy downtown district.",
+        "Close-up of a tinted car window rolling down slowly to reveal a shadowy figure inside."
+      ],
+      "caption": "Trading up or running away from commitment? Where do you draw the line? #breakup #relationshipadvice #thestirnzahl #datinglife #toxic"
+    },
+    {
+      "n": 3,
+      "open_loop": "What secret document was hidden inside the sleek leather briefcase?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Dismisses her career struggles and refuses to sign the partnership renewal.",
+        "g": "m"
+      },
+      "name": "Chloe, 29, Accountant",
+      "badge": "Year 3.2",
+      "verdict": "STRESSED",
+      "story": "Einen Ehevertrag nach drei Jahren? Wer ist dieser Mann, ein Anwalt oder ein Psychopath? Year 3.2. Three years and two months of living in a shared brownstone, and my forehead badge flashed Year 3.2 while my boyfriend of three years handed me a legal prenup during breakfast. I choked on my organic avocado toast, staring at the bold black print across the glossy paper. You really expect me to sign away my future after three years of building this life together? Three years is a probationary period, Chloe, not a marriage certificate. My heart hammered against my ribs as I looked at the pen in my hand, knowing that signing meant losing everything I had saved. Sign now before the market crashes completely. Das siehst du in Level 4. You'll see that in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "+0.5 Yr",
+        "after": "Year 3.7"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Einen Ehevertrag nach drei Jahren? Wer ist dieser Mann, ein Anwalt oder ein Psychopath?"
+        },
+        {
+          "s": "Figur",
+          "t": "Year 3.2. Three years and two months of living in a shared brownstone, and my forehead badge flashed Year 3.2 while my boyfriend of three years handed me a legal prenup during breakfast."
+        },
+        {
+          "s": "Figur",
+          "t": "I choked on my organic avocado toast, staring at the bold black print across the glossy paper."
+        },
+        {
+          "s": "Figur",
+          "t": "You really expect me to sign away my future after three years of building this life together?"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Three years is a probationary period, Chloe, not a marriage certificate.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My heart hammered against my ribs as I looked at the pen in my hand, knowing that signing meant losing everything I had saved."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Sign now before the market crashes completely.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Three years is a probationary period, Chloe, not a marriage certificate.",
+      "quote_by": {
+        "level": 7,
+        "name": "Julian",
+        "badge": "Year 7.5",
+        "character": "A polished pumpkin-man with a carved, arrogant grin, wearing a bespoke tweed vest and gold-rimmed reading glasses.",
+        "scene": "Medium shot of an upscale penthouse dining room with floor-to-ceiling windows overlooking a foggy city skyline at dawn."
+      },
+      "stats": [
+        {
+          "label": "Commitment",
+          "value": "Year 3.2",
+          "bar": 0.4
+        },
+        {
+          "label": "Income",
+          "value": "$74,000",
+          "bar": 0.45
+        },
+        {
+          "label": "Stress",
+          "value": "89%",
+          "bar": 0.9
+        }
+      ],
+      "character": "An energetic orange-woman with a bright textured peel, wearing a professional beige blazer and a delicate gold chain necklace.",
+      "visual": "Medium shot of an orange-woman sitting at a sleek marble dining table, looking at legal papers with a glowing forehead badge reading Year 3.2.",
+      "scenes": [
+        "Wide shot of a luxury sunlit apartment kitchen with minimalist white cabinetry and a steaming cup of artisan coffee.",
+        "Close-up of glowing digital forehead numbers reading 'Year 3.2' against vibrant orange citrus skin.",
+        "Halbnah shot of Chloe holding a fountain pen over a dense legal document, her expression torn between anger and fear.",
+        "Detail shot of a small golden coin resting directly on top of a legal signature line.",
+        "Over-the-shoulder shot of a sleek glass elevator arriving in a high-rise foyer with brass fixtures.",
+        "Close-up of a mysterious courier handing over a thick manila envelope stamped with red ink."
+      ],
+      "caption": "A prenup after three years of dating? Would you sign or walk away? #prenup #datingrules #thestirnzahl #relationships #modernromance"
+    },
+    {
+      "n": 4,
+      "open_loop": "What was written inside the torn anniversary card left on the park bench?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Throws her handmade gift into the mud during a public argument in the park.",
+        "g": "w"
+      },
+      "name": "Sam, 31, Landscape Architect",
+      "badge": "Year 4.0",
+      "verdict": "GROWING",
+      "story": "Vier Jahre Liebe und du wirfst mein Fotobuch in den Dreck, weil kein echter Klunker drauf ist? Such dir einen Goldgräber, ich bin raus! Year 4.0. Four years of quiet loyalty, and my forehead badge hit Year 4.0 while my girlfriend tossed my handmade anniversary photo album into the muddy park grass. I knelt down in the drizzle, carefully wiping damp dirt off the cover of the book I had spent three months binding by hand. After four years, you still bring me paper scrapbooks instead of a real diamond? I looked up at her, my sturdy broccoli florets soaked with cold rain, feeling a strange sense of absolute clarity wash over me. I built a career with my bare hands and spent every anniversary trying to prove my love to someone who only counts material assets. Some trees only grow when you cut the dead branches off. Das siehst du in Level 5. You'll see that in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+0.8 Yr",
+        "after": "Year 4.8"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Vier Jahre Liebe und du wirfst mein Fotobuch in den Dreck, weil kein echter Klunker drauf ist? Such dir einen Goldgräber, ich bin raus!"
+        },
+        {
+          "s": "Figur",
+          "t": "Year 4.0. Four years of quiet loyalty, and my forehead badge hit Year 4.0 while my girlfriend tossed my handmade anniversary photo album into the muddy park grass."
+        },
+        {
+          "s": "Figur",
+          "t": "I knelt down in the drizzle, carefully wiping damp dirt off the cover of the book I had spent three months binding by hand."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "After four years, you still bring me paper scrapbooks instead of a real diamond?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I looked up at her, my sturdy broccoli florets soaked with cold rain, feeling a strange sense of absolute clarity wash over me."
+        },
+        {
+          "s": "Figur",
+          "t": "I built a career with my bare hands and spent every anniversary trying to prove my love to someone who only counts material assets."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Some trees only grow when you cut the dead branches off.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Some trees only grow when you cut the dead branches off.",
+      "quote_by": {
+        "level": 8,
+        "name": "Elder Thorn",
+        "badge": "Forever",
+        "character": "A wise pinecone-man with weathered wooden features, wearing a classic wool trench coat and a pocket watch.",
+        "scene": "Wide shot of a foggy downtown park bench at early morning, surrounded by towering oak trees and soft mist."
+      },
+      "stats": [
+        {
+          "label": "Commitment",
+          "value": "Year 4.0",
+          "bar": 0.5
+        },
+        {
+          "label": "Projects",
+          "value": "14",
+          "bar": 0.7
+        },
+        {
+          "label": "Resilience",
+          "value": "94%",
+          "bar": 0.95
+        }
+      ],
+      "character": "A sturdy broccoli-man with deep green florets for hair, wearing a waterproof canvas utility jacket and mud-splattered work boots.",
+      "visual": "Medium shot of a broccoli-man kneeling in a muddy city park in the rain, holding a damp photo album with a glowing forehead badge reading Year 4.0.",
+      "scenes": [
+        "Wide shot of an expansive urban park under a heavy grey rain cloud, wet pavement reflecting distant city lights.",
+        "Close-up of a glowing digital forehead badge flashing 'Year 4.0' through dark green broccoli florets.",
+        "Halbnah shot of Sam holding a ruined handmade photo album, water dripping from his dark green textured skin.",
+        "Detail shot of a small golden coin half-submerged in a murky puddle of rainwater on a paved walkway.",
+        "Wide shot of joggers passing by on a winding park trail while rain continues to fall steadily.",
+        "Close-up of an elderly figure walking past with an umbrella, leaving a trail of quiet wisdom behind."
+      ],
+      "caption": "When handmade gifts aren't enough for someone chasing numbers. #relationshipgoals #heartbreak #thestirnzahl #growthmindset #dating"
+    },
+    {
+      "n": 5,
+      "open_loop": "What transaction was listed on the bank statement found inside the designer envelope?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Belittles her financial portfolio during a tense dinner party with colleagues.",
+        "g": "m"
+      },
+      "name": "Marcus, 32, Investment Broker",
+      "badge": "Year 5",
+      "verdict": "SECURE",
+      "story": "Fünf Jahre und du schnüffelst in meinen Konten rum? Du vertraust mir nicht mal den Wocheneinkauf an! Year 5. Five years of high-stakes dating, and my forehead badge shone a solid Year 5 while my partner and I stood inside our glass-walled penthouse overlooking the financial district. I tossed my car keys onto the Italian marble kitchen island next to a bottle of vintage champagne. After five years of managing our joint assets, you still check my personal bank account behind my back? Trust isn't a joint account, Marcus, it's an audit you keep failing every single quarter. My jaw tightened as I stared at the screen showing every transaction from our anniversary trip last weekend. Your portfolio is safe, but your heart is completely bankrupt. Das siehst du in Level 6. You'll see that in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1 Yr",
+        "after": "Year 6"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Fünf Jahre und du schnüffelst in meinen Konten rum? Du vertraust mir nicht mal den Wocheneinkauf an!"
+        },
+        {
+          "s": "Figur",
+          "t": "Year 5. Five years of high-stakes dating, and my forehead badge shone a solid Year 5 while my partner and I stood inside our glass-walled penthouse overlooking the financial district."
+        },
+        {
+          "s": "Figur",
+          "t": "I tossed my car keys onto the Italian marble kitchen island next to a bottle of vintage champagne."
+        },
+        {
+          "s": "Figur",
+          "t": "After five years of managing our joint assets, you still check my personal bank account behind my back?"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Trust isn't a joint account, Marcus, it's an audit you keep failing every single quarter.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My jaw tightened as I stared at the screen showing every transaction from our anniversary trip last weekend."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Your portfolio is safe, but your heart is completely bankrupt.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Your portfolio is safe, but your heart is completely bankrupt.",
+      "quote_by": {
+        "level": 3,
+        "name": "Chloe",
+        "badge": "Year 3.2",
+        "character": "An orange-woman with a vibrant citrus peel, wearing a sharp corporate blazer and wire-rimmed glasses.",
+        "scene": "Medium shot of a sleek glass-walled office boardroom at dusk, city lights twinkling in the background."
+      },
+      "stats": [
+        {
+          "label": "Commitment",
+          "value": "Year 5",
+          "bar": 0.65
+        },
+        {
+          "label": "Net Worth",
+          "value": "$320,000",
+          "bar": 0.75
+        },
+        {
+          "label": "Trust",
+          "value": "42%",
+          "bar": 0.42
+        }
+      ],
+      "character": "An elegant avocado-man with a smooth polished green skin and a firm central pit-head, wearing a bespoke midnight-blue suit and silk tie.",
+      "visual": "Medium shot of an avocado-man standing in a high-rise luxury penthouse kitchen, looking at a glowing tablet with a forehead badge reading Year 5.",
+      "scenes": [
+        "Wide shot of a luxury penthouse living room with floor-to-ceiling windows overlooking a glowing nighttime city skyline.",
+        "Close-up of a glowing digital forehead badge flashing 'Year 5' on a smooth green avocado forehead.",
+        "Halbnah shot of Marcus holding car keys over a marble countertop, tension visible in his posture.",
+        "Detail shot of a small golden coin resting beside a crystal champagne flute on the kitchen island.",
+        "Over-the-shoulder shot of a glowing smartphone screen displaying financial graphs and alerts.",
+        "Close-up of a corporate messenger dropping an envelope on the glass coffee table."
+      ],
+      "caption": "When love becomes a financial transaction. Would you trust your partner with your accounts? #wealth #relationships #thestirnzahl #finance #trustissues"
+    },
+    {
+      "n": 6,
+      "open_loop": "Who sent the mysterious bouquet of black roses to the anniversary dinner?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Abandons her at a highway diner after mocking her lack of financial ambition.",
+        "g": "m"
+      },
+      "name": "Elena, 33, Art Curator",
+      "badge": "Month 60",
+      "verdict": "EVALUATED",
+      "story": "Fünf Jahre vorbei und du schickst mir nur eine kalte SMS statt aufzutauchen? Mein nächster Partner fragt wenigstens nicht nach dem Kassenzettel! Month 60. Exactly five years since our first date, and my forehead badge flashed Month 60 while I sat alone at a reserved table in an empty upscale art gallery. I traced the stem of a long-stemmed red rose, waiting for the man who promised he would finally propose tonight. After sixty months of playing the supportive partner while you built your collection, you send me a text message instead of showing up? I found someone whose number matches my future goals better than yours ever will. A cold wave of betrayal washed over me as I realized every single anniversary had been nothing more than a calculated investment strategy. Your exhibition has been canceled due to lack of interest. Das siehst du in Level 7. You'll see that in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+12 Mo",
+        "after": "Year 6"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Fünf Jahre vorbei und du schickst mir nur eine kalte SMS statt aufzutauchen? Mein nächster Partner fragt wenigstens nicht nach dem Kassenzettel!"
+        },
+        {
+          "s": "Figur",
+          "t": "Month 60. Exactly five years since our first date, and my forehead badge flashed Month 60 while I sat alone at a reserved table in an empty upscale art gallery."
+        },
+        {
+          "s": "Figur",
+          "t": "I traced the stem of a long-stemmed red rose, waiting for the man who promised he would finally propose tonight."
+        },
+        {
+          "s": "Figur",
+          "t": "After sixty months of playing the supportive partner while you built your collection, you send me a text message instead of showing up?"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "I found someone whose number matches my future goals better than yours ever will.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "A cold wave of betrayal washed over me as I realized every single anniversary had been nothing more than a calculated investment strategy."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Your exhibition has been canceled due to lack of interest.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "I found someone whose number matches my future goals better than yours ever will.",
+      "quote_by": {
+        "level": 2,
+        "name": "Leo",
+        "badge": "Month 48",
+        "character": "A lemon-man with a textured bright yellow peel, wearing a casual grey zip hoodie.",
+        "scene": "Medium shot of a dark parking lot at night, leaning against the door of a parked car while typing furiously on a smartphone."
+      },
+      "stats": [
+        {
+          "label": "Duration",
+          "value": "Month 60",
+          "bar": 0.8
+        },
+        {
+          "label": "Exhibits",
+          "value": "28",
+          "bar": 0.85
+        },
+        {
+          "label": "Heartbreak",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "An exotic dragonfruit-woman with vibrant pink skin and green leafy tips, wearing an avant-garde black velvet dress and silver hoop earrings.",
+      "visual": "Medium shot of a dragonfruit-woman sitting alone at an elegant candlelit table inside an empty art gallery, illuminated by a single spotlight with a badge reading Month 60.",
+      "scenes": [
+        "Wide shot of a minimalist modern art gallery at night with polished concrete floors and abstract paintings on white walls.",
+        "Close-up of a glowing digital forehead badge flashing 'Month 60' across bright pink dragonfruit skin.",
+        "Halbnah shot of Elena holding a single red rose, her expression filled with profound disappointment.",
+        "Detail shot of a small golden coin resting on a sleek white reception desk beside an invitation card.",
+        "Over-the-shoulder shot of a smartphone screen displaying a cold breakup text message.",
+        "Close-up of an old rotary telephone sitting on a wooden pedestal ringing in an empty hallway."
+      ],
+      "caption": "Sixty months wasted on someone who treated love like a stock portfolio. #heartbreak #artgallery #thestirnzahl #datinglife # betrayed"
+    },
+    {
+      "n": 7,
+      "open_loop": "What was hidden inside the antique safe behind the mahogany painting?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Mocks his marital longevity while flaunting his new high-status partner.",
+        "g": "m"
+      },
+      "name": "Julian, 35, Estate Attorney",
+      "badge": "Year 7.5",
+      "verdict": "ESTABLISHED",
+      "story": "Sieben Jahre ein aufgebautes Imperium und du willst alles zerstören wegen einer Meinungsverschiedenheit über unser Treuhandkonto? Unterschreib endlich und verschwinde aus meinem Blickfeld. Year 7.5. Seven and a half years of legal partnerships and domestic stability, and my forehead badge burned bright with Year 7.5 while my wife of seven years presented me with divorce papers across our study desk. I adjusted my gold-rimmed reading glasses, staring at the embossed seal stamped onto the front page of the legal binder. After seven and a half years of building this estate together, you want to dissolve everything over a disagreement about our trust fund? The merger is finalized, sign the papers and let her walk. My hands shook slightly as I held the pen, knowing that signing would divide an empire we spent nearly a decade constructing. Das siehst du in Level 8. You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "-3.5 Yr",
+        "after": "Year 4.0"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Sieben Jahre ein aufgebautes Imperium und du willst alles zerstören wegen einer Meinungsverschiedenheit über unser Treuhandkonto? Unterschreib endlich und verschwinde aus meinem Blickfeld."
+        },
+        {
+          "s": "Figur",
+          "t": "Year 7.5. Seven and a half years of legal partnerships and domestic stability, and my forehead badge burned bright with Year 7.5 while my wife of seven years presented me with divorce papers across our study desk."
+        },
+        {
+          "s": "Figur",
+          "t": "I adjusted my gold-rimmed reading glasses, staring at the embossed seal stamped onto the front page of the legal binder."
+        },
+        {
+          "s": "Figur",
+          "t": "After seven and a half years of building this estate together, you want to dissolve everything over a disagreement about our trust fund?"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "The merger is finalized, sign the papers and let her walk.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My hands shook slightly as I held the pen, knowing that signing would divide an empire we spent nearly a decade constructing."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "The merger is finalized, sign the papers and let her walk.",
+      "quote_by": {
+        "level": 5,
+        "name": "Marcus",
+        "badge": "Year 5",
+        "character": "An avocado-man with smooth green skin and a sharp pit-head, wearing a tailored navy suit.",
+        "scene": "Medium shot of a sunlit corporate office lobby with glass elevators and marble floors."
+      },
+      "stats": [
+        {
+          "label": "Duration",
+          "value": "Year 7.5",
+          "bar": 0.9
+        },
+        {
+          "label": "Assets",
+          "value": "$1.4M",
+          "bar": 0.92
+        },
+        {
+          "label": "Control",
+          "value": "88%",
+          "bar": 0.88
+        }
+      ],
+      "character": "A polished pumpkin-man with a carved, stern facial expression, wearing a bespoke tweed vest, pocket watch, and gold-rimmed reading glasses.",
+      "visual": "Medium shot of a pumpkin-man sitting at a large mahogany desk in a wood-paneled study, reviewing legal papers with a glowing forehead badge reading Year 7.5.",
+      "scenes": [
+        "Wide shot of an opulent wood-paneled law study with towering bookshelves filled with leather-bound volumes.",
+        "Close-up of glowing digital forehead numbers reading 'Year 7.5' on a carved pumpkin forehead.",
+        "Halbnah shot of Julian holding a heavy fountain pen over a divorce decree, looking grim.",
+        "Detail shot of a small golden coin resting on a polished mahogany surface beside an antique inkwell.",
+        "Over-the-shoulder shot of a rainy garden view through large leaded glass windows.",
+        "Close-up of an intercom speaker glowing with a soft amber light on a wooden desk."
+      ],
+      "caption": "Seven and a half years down the drain in the courtroom. Would you fight for it? #divorce #lawyerlife #thestirnzahl #relationships #estate"
+    },
+    {
+      "n": 8,
+      "open_loop": "",
+      "gegenspieler": {
+        "level": 0,
+        "tat": "None",
+        "g": "m"
+      },
+      "name": "Elder Thorn, 70, Park Keeper",
+      "badge": "Forever",
+      "verdict": "TIMELESS",
+      "story": "Nach 50 Jahren Parkbank sehe ich euch alle scheitern, weil ihr eure Nummern mehr liebt als echte Menschen. Was für eine erbärmliche Bilanz. Forever. After watching thousands of couples walk through these park gates over the last fifty years, I finally understood what the numbers on our foreheads really meant. I sat on the old wooden bench where Maya and Leo had first shared a coffee on their very first date, watching the morning mist rise off the damp grass. A young couple walked past me, their forehead badges flashing Month 3 and Year 4 respectively, holding hands without a single care about what digits glowed above their eyes. True connection isn't measured in months, contracts, or bank accounts, I muttered to myself, gently tossing a small golden coin into the fountain beside the path. After seeing every level of love rise and fall in this city, I know that numbers only matter to those who forgot how to feel. What number is currently glowing on your own forehead right now?",
+      "gender": "m",
+      "twist": {
+        "delta": "0",
+        "after": "Forever"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Nach 50 Jahren Parkbank sehe ich euch alle scheitern, weil ihr eure Nummern mehr liebt als echte Menschen. Was für eine erbärmliche Bilanz."
+        },
+        {
+          "s": "Figur",
+          "t": "Forever. After watching thousands of couples walk through these park gates over the last fifty years, I finally understood what the numbers on our foreheads really meant."
+        },
+        {
+          "s": "Figur",
+          "t": "I sat on the old wooden bench where Maya and Leo had first shared a coffee on their very first date, watching the morning mist rise off the damp grass."
+        },
+        {
+          "s": "Figur",
+          "t": "A young couple walked past me, their forehead badges flashing Month 3 and Year 4 respectively, holding hands without a single care about what digits glowed above their eyes."
+        },
+        {
+          "s": "Figur",
+          "t": "True connection isn't measured in months, contracts, or bank accounts, I muttered to myself, gently tossing a small golden coin into the fountain beside the path."
+        },
+        {
+          "s": "Figur",
+          "t": "After seeing every level of love rise and fall in this city, I know that numbers only matter to those who forgot how to feel."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What number is currently glowing on your own forehead right now?"
+        }
+      ],
+      "quote": "True connection isn't measured in months, contracts, or bank accounts.",
+      "quote_by": {
+        "level": 8,
+        "name": "Elder Thorn",
+        "badge": "Forever",
+        "character": "A weathered pinecone-man with wooden features, wearing a classic wool trench coat and holding a carved wooden walking cane.",
+        "scene": "Wide shot of a tranquil park fountain at sunrise, steam rising from the water as golden morning light filters through ancient oak trees."
+      },
+      "stats": [
+        {
+          "label": "Wisdom",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Status",
+          "value": "Forever",
+          "bar": 1.0
+        },
+        {
+          "label": "Peace",
+          "value": "Max",
+          "bar": 1.0
+        }
+      ],
+      "character": "A wise pinecone-man with weathered wooden skin and textured cone scales, wearing a classic wool trench coat and carrying a carved walking cane.",
+      "visual": "Wide shot of a wise pinecone-man sitting on an old wooden park bench at sunrise, watching a glowing fountain with a forehead badge reading Forever.",
+      "scenes": [
+        "Wide shot of a serene city park at sunrise with golden light filtering through dense tree branches and quiet walking paths.",
+        "Close-up of a glowing digital forehead badge flashing 'Forever' across weathered pinecone skin.",
+        "Halbnah shot of Elder Thorn holding a carved wooden cane while smiling softly at passing couples.",
+        "Detail shot of a small golden coin landing with a gentle splash inside a stone park fountain.",
+        "Wide shot of diverse produce-people walking together across a scenic stone bridge in the center of the park.",
+        "Close-up of the final glowing forehead display fading gently into a warm, peaceful sunrise glow."
+      ],
+      "caption": "The final level. What number is glowing on your forehead right now? Let us know in the comments! #thestirnzahl #love #wisdom #relationships #finale"
+    }
+  ],
+  "lang": "en",
+  "topic": "Der Beziehungsstatus nach drei Jahren Dating",
+  "frame": "frucht"
+}

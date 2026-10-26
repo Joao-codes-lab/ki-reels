@@ -1,0 +1,732 @@
+{
+  "title": "Die 8 Level vom Body Count beim ersten Date",
+  "house": "A bustling German metropolis where anthropomorphic fruit and vegetable people live, featuring neon-lit tram stations, cozy retro cafes, and rain-slicked cobblestone streets.",
+  "catchphrase": "Die Stirn-Zahl lügt nie.",
+  "links": [
+    "Barista in Level 1 mentions a quiet pineapple regular who always leaves big tips (Level 5)",
+    "The broken ticket machine from Level 2 is repaired by the electrician in Level 7",
+    "A dropped golden coin in Level 3 rolls straight into Level 6's shoe"
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Warum starrte er plötzlich so geschockt auf mein Date-Profil, obwohl wir uns gerade erst kennengelernt hatten?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Lacht sie im Café aus und zeigt demonstrativ auf ihre eigene niedrige Zahl."
+      },
+      "name": "Mia, 22, Studentin",
+      "badge": "0",
+      "verdict": "UNBERÜHRT",
+      "story": "Null auf der Stirn beim ersten Date – und die Avocado gegenüber lacht dich direkt aus. Ich sitze im retro Café Kaffeehaferl am Hackeschen Markt, draußen nieselt es auf den nassen Asphalt, während drinnen der süßliche Geruch von Billigkaffee in der Luft hängt und mein Magen sich unaufhaltsam verkrampft. Null auf der Stirn. Eine nackte, kalte, leuchtende Null, die jeder im Raum sehen kann, während die Kaffeetassen klappern und ich verzweifelt versuche, den Pony tiefer in die Stirn zu ziehen. Gegenüber sitzt Ben, eine eitle Avocado mit perfekt gegeltem Haar, der mich mustert wie ein Insekt unter dem Mikroskop. Wie kann man mit Mitte zwanzig so komplett versagen? Kein Wunder, dass dich noch nie jemand gewollt hat. Die panische Angst vor dem Urteil frisst sich von innen durch meine Brust, lässt meinen Hals zuschnüren und meine Hände unkontrolliert zittern. Sowas kommt heutzutage gar nicht mehr gut an, Schätzchen. Mit dir verschwende ich sicher nicht meinen Abend. Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1",
+        "after": "1"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Null auf der Stirn beim ersten Date – und die Avocado gegenüber lacht dich direkt aus."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze im retro Café Kaffeehaferl am Hackeschen Markt, draußen nieselt es auf den nassen Asphalt, während drinnen der süßliche Geruch von Billigkaffee in der Luft hängt und mein Magen sich unaufhaltsam verkrampft."
+        },
+        {
+          "s": "Figur",
+          "t": "Null auf der Stirn. Eine nackte, kalte, leuchtende Null, die jeder im Raum sehen kann, während die Kaffeetassen klappern und ich verzweifelt versuche, den Pony tiefer in die Stirn zu ziehen."
+        },
+        {
+          "s": "Figur",
+          "t": "Gegenüber sitzt Ben, eine eitle Avocado mit perfekt gegeltem Haar, der mich mustert wie ein Insekt unter dem Mikroskop."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wie kann man mit Mitte zwanzig so komplett versagen? Kein Wunder, dass dich noch nie jemand gewollt hat.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Die panische Angst vor dem Urteil frisst sich von innen durch meine Brust, lässt meinen Hals zuschnüren und meine Hände unkontrolliert zittern."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Sowas kommt heutzutage gar nicht mehr gut an, Schätzchen.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit dir verschwende ich sicher nicht meinen Abend.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Mit dir verschwende ich sicher nicht meinen Abend.",
+      "quote_by": {
+        "level": 4,
+        "name": "Ben",
+        "badge": "14",
+        "character": "An arrogant avocado person with sleek gelled hair, wearing a tight designer jacket, holding a glowing number 14 on his forehead.",
+        "scene": "Wide angle shot in a retro cafe with warm lighting, pointing mockingly across a small wooden table at a blushing strawberry person."
+      },
+      "stats": [
+        {
+          "label": "Body Count",
+          "value": "0",
+          "bar": 0.05
+        },
+        {
+          "label": "Selbstwert",
+          "value": "12 %",
+          "bar": 0.12
+        },
+        {
+          "label": "Mut",
+          "value": "45 %",
+          "bar": 0.45
+        }
+      ],
+      "character": "A young strawberry person with freckled red skin, wearing an oversized vintage wool sweater and a tiny silver necklace, glowing digit 0 on the forehead. Hidden golden coin on the saucer.",
+      "visual": "Wide shot in a cozy, retro German café with warm amber lighting, rain outside the window, a strawberry person looking sad across a small wooden table at an arrogant avocado.",
+      "scenes": [
+        "Wide shot: The interior of 'Kaffeehaferl' cafe with vintage posters, rain streaks on the large front window, and a tiny golden coin resting on the windowsill.",
+        "Medium close-up: Mia, the strawberry person, biting her lip nervously, her glowing digit '0' clearly visible on her forehead.",
+        "Over-the-shoulder shot: Ben the avocado sneering across the table, his forehead showing a bright digital '14'.",
+        "Close-up detail: A half-empty coffee cup on a saucer with a tiny golden coin tucked under the rim.",
+        "Medium shot: Other vegetable patrons at the next table whispering and pointing with amused expressions.",
+        "Close-up: Mia's hands trembling as she grips her knit sweater sleeves tightly in shame."
+      ],
+      "caption": "Wer wurde beim ersten Date schon mal wegen seiner Zahl blamiert? 🍓 #bodymetrics #erstesdate #beziehung #viral #fyp"
+    },
+    {
+      "n": 2,
+      "open_loop": "Warum schrie der Kellner plötzlich so laut, als er meinen Kassenbon sah?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Wirft ihr im Supermarkt verächtliche Blicke zu und drängelt sich vor."
+      },
+      "name": "Leo, 25, Barista",
+      "badge": "1",
+      "verdict": "FAST UNBESCHRIEBEN",
+      "story": "Eine einsame Eins auf der Stirn und du bist im Kiosk der Abschaum für jeden, der vorbeiläuft. Ich stehe hinter der klappernden Espressomaschine im U-Bahn-Schacht am Alexanderplatz, während die Kaffeetassen auf dem nassen Edelstahl laut klappern und die Bässe der Pendler mir direkt in den Magen schlagen. Eine einsame Eins. Die glühende, erbärmliche Ziffer brennt mir förmlich in die Haut, ein Stempel des Versagens, während die Kundschaft mich anstarrt, als hätte ich eine ansteckende Krankheit. Wie kann man mit Mitte zwanzig nur eine einzige Erfahrung im Leben gesammelt haben? Bist du zu hässlich für den Rest der Welt oder einfach komplett unfähig, einen Menschen anzufassen? Die Wut steigt in mir hoch wie gallige Magensäure, kocht im Hals und treibt mir den kalten Schweiß auf die Stirn. Mach einfach meinen Cappuccino, Kumpel, manche lernen es eben nie. Such dir lieber Nachhilfe in Sachen Romantik, Kleiner. Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+2",
+        "after": "3"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Eine einsame Eins auf der Stirn und du bist im Kiosk der Abschaum für jeden, der vorbeiläuft."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe hinter der klappernden Espressomaschine im U-Bahn-Schacht am Alexanderplatz, während die Kaffeetassen auf dem nassen Edelstahl laut klappern und die Bässe der Pendler mir direkt in den Magen schlagen."
+        },
+        {
+          "s": "Figur",
+          "t": "Eine einsame Eins. Die glühende, erbärmliche Ziffer brennt mir förmlich in die Haut, ein Stempel des Versagens, während die Kundschaft mich anstarrt, als hätte ich eine ansteckende Krankheit."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wie kann man mit Mitte zwanzig nur eine einzige Erfahrung im Leben gesammelt haben? Bist du zu hässlich für den Rest der Welt oder einfach komplett unfähig, einen Menschen anzufassen?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Wut steigt in mir hoch wie gallige Magensäure, kocht im Hals und treibt mir den kalten Schweiß auf die Stirn."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Mach einfach meinen Cappuccino, Kumpel, manche lernen es eben nie.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Such dir lieber Nachhilfe in Sachen Romantik, Kleiner.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Such dir lieber Nachhilfe in Sachen Romantik, Kleiner.",
+      "quote_by": {
+        "level": 5,
+        "name": "Helene",
+        "badge": "22",
+        "character": "A stern coconut person with a hard shell hairstyle, wearing a sharp business blazer, glowing digit 22 on her forehead.",
+        "scene": "Close-up in a bustling Berlin U-Bahn station kiosk, looking down with extreme condescension across a steel counter."
+      },
+      "stats": [
+        {
+          "label": "Body Count",
+          "value": "1",
+          "bar": 0.15
+        },
+        {
+          "label": "Geduld",
+          "value": "30 %",
+          "bar": 0.3
+        },
+        {
+          "label": "Kaffee-Skill",
+          "value": "99 %",
+          "bar": 0.99
+        }
+      ],
+      "character": "A zesty lemon person with bright yellow textured skin, wearing a neat black barista apron and round glasses, glowing digit 1 on the forehead. Hidden golden coin behind the sugar dispenser.",
+      "visual": "Medium shot in a bustling Berlin kiosk, a yellow lemon person behind a shiny espresso machine looking stressed, with a stern coconut person glaring at him.",
+      "scenes": [
+        "Wide shot: The chaotic Berlin U-Bahn station entrance with fluorescent lighting and rushing commuters, a golden coin half-hidden on the ticket validator.",
+        "Medium shot: Leo the lemon barista wiping down the stainless steel counter with a white cloth.",
+        "Over-the-shoulder: Helene the coconut person leaning over the counter, pointing sharply at Leo's forehead.",
+        "Close-up detail: The glowing digital '1' on Leo's citrus forehead reflecting in the coffee tamper.",
+        "Medium close-up: A pineapple commuter shaking his head in judgment next to the counter.",
+        "Close-up: Steam hissing violently from the espresso machine nozzle, blurring the background."
+      ],
+      "caption": "Wer wurde im Service schon mal so fertiggemacht? 🍋 #baristalife #datingfails #berlin #trend #foryou"
+    },
+    {
+      "n": 3,
+      "open_loop": "Warum rannte die Kellnerin plötzlich weinend aus dem Restaurant, nachdem er das gesagt hatte?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Bricht im Club arrogant in schallendes Gelächter aus und zieht eine andere Date-Partnerin vor."
+      },
+      "name": "Samira, 27, Grafikerin",
+      "badge": "4",
+      "verdict": "MITTELMASS",
+      "story": "Vier auf der Stirn im Schickimicki-Restaurant und plötzlich tuschelt der ganze Laden über deine mickrige Bilanz. Ich sitze im edlen Restaurant Goldene Knolle in Mitte, wo das gedimmte Kerzenlicht die teuren Kristallgläser bricht und der Duft von frischem Trüffel und sautiertem Gemüse in der Luft liegt, während mein Magen sich schmerzhaft verkrampft. Mir gegenüber sitzt Jonas, eine arrogante Drachenfrucht mit geschmacklosem Seidenschal, der mit eiskalten, hasserfüllten Augen auf mein Gesicht starrt, als hätte ich den Verstand verloren. Die vier auf meiner Stirn leuchtet wie ein Neon-Schild der Schande, während der kalte Teller mit dem teuren Essen unberührt vor mir liegt und jede Sekunde des Schweigens wie Blei auf meinen Schultern lastet. Vier? Ist das dein Ernst? Nach all den Jahren in dieser Stadt dachte ich, du hättest wenigstens ansatzweise begriffen, wie der Hase läuft. Seine Blicke brennen sich in meine Haut, durchbohren meinen Selbstwert und lassen mich spüren, wie erbärmlich und unerfahren ich in seiner glitzernden Welt wirke. Mit so einer niedrigen Zahl bleibst du wohl für immer Anfängerin. Das siehst du in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "+3",
+        "after": "7"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Vier auf der Stirn im Schickimicki-Restaurant und plötzlich tuschelt der ganze Laden über deine mickrige Bilanz."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze im edlen Restaurant Goldene Knolle in Mitte, wo das gedimmte Kerzenlicht die teuren Kristallgläser bricht und der Duft von frischem Trüffel und sautiertem Gemüse in der Luft liegt, während mein Magen sich schmerzhaft verkrampft."
+        },
+        {
+          "s": "Figur",
+          "t": "Mir gegenüber sitzt Jonas, eine arrogante Drachenfrucht mit geschmacklosem Seidenschal, der mit eiskalten, hasserfüllten Augen auf mein Gesicht starrt, als hätte ich den Verstand verloren."
+        },
+        {
+          "s": "Figur",
+          "t": "Die vier auf meiner Stirn leuchtet wie ein Neon-Schild der Schande, während der kalte Teller mit dem teuren Essen unberührt vor mir liegt und jede Sekunde des Schweigens wie Blei auf meinen Schultern lastet."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Vier? Ist das dein Ernst? Nach all den Jahren in dieser Stadt dachte ich, du hättest wenigstens ansatzweise begriffen, wie der Hase läuft.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Seine Blicke brennen sich in meine Haut, durchbohren meinen Selbstwert und lassen mich spüren, wie erbärmlich und unerfahren ich in seiner glitzernden Welt wirke."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit so einer niedrigen Zahl bleibst du wohl für immer Anfängerin.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Mit so einer niedrigen Zahl bleibst du wohl für immer Anfängerin.",
+      "quote_by": {
+        "level": 7,
+        "name": "Jonas",
+        "badge": "31",
+        "character": "A sleek dragon fruit person with vibrant pink skin and green spikes, wearing a silk scarf, glowing digit 31 on the forehead.",
+        "scene": "Low angle shot in a luxurious dimly lit restaurant, swirling a wine glass with an arrogant smirk."
+      },
+      "stats": [
+        {
+          "label": "Body Count",
+          "value": "4",
+          "bar": 0.3
+        },
+        {
+          "label": "Ehrgeiz",
+          "value": "65 %",
+          "bar": 0.65
+        },
+        {
+          "label": "Wein-Pegel",
+          "value": "1.5‰",
+          "bar": 0.5
+        }
+      ],
+      "character": "A creative peach person with velvety pink-orange skin, wearing a modern black blazer and artistic silver earrings, glowing digit 4 on the forehead. Hidden golden coin under the bread basket.",
+      "visual": "Medium close-up in a luxurious upscale restaurant with glowing candles, a peach woman looking hurt as a dragon fruit man mocks her across the table.",
+      "scenes": [
+        "Wide shot: The interior of 'Goldene Knolle' restaurant with crystal chandeliers, white tablecloths, and a tiny golden coin near the bread basket.",
+        "Medium shot: Samira the peach person staring down at her plate, her forehead showing a glowing '4'.",
+        "Over-the-shoulder: Jonas the dragon fruit sneering over his wine glass, his forehead glowing '31'.",
+        "Close-up detail: A half-eaten truffle dish with silver cutlery reflecting the candlelight.",
+        "Medium shot: Waitstaff whispering near the service door, watching the awkward confrontation.",
+        "Close-up: Samira clenching her napkin tightly, her velvety skin flushing pink."
+      ],
+      "caption": "Wer kennt diese arroganten Typen im Restaurant? 🍑 #datingdrama #berlin #beziehung #fy #viral"
+    },
+    {
+      "n": 4,
+      "open_loop": "Warum sprang der Barkeeper plötzlich über den Tresen, als mein Date das Handy zückte?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Starrt sie eiskalt an, nimmt demonstrativ einen Drink und lässt sie mitten im Club stehen."
+      },
+      "name": "Ben, 28, Unternehmensberater",
+      "badge": "14",
+      "verdict": "FORTgeschritten",
+      "story": "Vierzehn auf der Stirn im Club und du denkst, du bist Gott, bis dich der Blick der Erdbeere von damals trifft wie ein Vorschlaghammer. Ich stehe im überfüllten Matrix-Club am Boxhagener Platz, wo der dröhnende Bass die Wände zum Beben bringt, der kalte Schweiß mir den Rücken herunterläuft und der Neon-Blitz der blauen Laser mich in eine andere Realität reißt. Vierzehn auf meiner Stirn. Stolz präsentiere ich die Zahl, halte die Nase hoch wie ein König, während ich denke, dass ich mit dieser Bilanz die unangefochtene Nummer Eins auf jedem Dating-Markt bin. Doch plötzlich trifft mich der stechende Blick von Mia – genau derselben Erdbeere aus dem Café, die ich damals mit meiner Null so unbarmherzig zertrümmert hatte. Glaubst du ernsthaft, du wärst mit deinen vierzehn Einkerbungen etwas Besseres? Du bist nur ein armseliger kleiner Junge. Mein schrumpfendes Ego schrumpft in Millisekunden auf Null zusammen, während der Bass in meiner Brust hämmert und die Arroganz in meinem Kopf verbrennt wie altes Papier. Pass lieber auf, wen du hier so von oben herab behandelst, Junge. Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+5",
+        "after": "19"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Vierzehn auf der Stirn im Club und du denkst, du bist Gott, bis dich der Blick der Erdbeere von damals trifft wie ein Vorschlaghammer."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im überfüllten Matrix-Club am Boxhagener Platz, wo der dröhnende Bass die Wände zum Beben bringt, der kalte Schweiß mir den Rücken herunterläuft und der Neon-Blitz der blauen Laser mich in eine andere Realität reißt."
+        },
+        {
+          "s": "Figur",
+          "t": "Vierzehn auf meiner Stirn. Stolz präsentiere ich die Zahl, halte die Nase hoch wie ein König, während ich denke, dass ich mit dieser Bilanz die unangefochtene Nummer Eins auf jedem Dating-Markt bin."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch plötzlich trifft mich der stechende Blick von Mia – genau derselben Erdbeere aus dem Café, die ich damals mit meiner Null so unbarmherzig zertrümmert hatte."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Glaubst du ernsthaft, du wärst mit deinen vierzehn Einkerbungen etwas Besseres? Du bist nur ein armseliger kleiner Junge.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein schrumpfendes Ego schrumpft in Millisekunden auf Null zusammen, während der Bass in meiner Brust hämmert und die Arroganz in meinem Kopf verbrennt wie altes Papier."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Pass lieber auf, wen du hier so von oben herab behandelst, Junge.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Pass lieber auf, wen du hier so von oben herab behandelst, Junge.",
+      "quote_by": {
+        "level": 8,
+        "name": "Milo",
+        "badge": "???",
+        "character": "An enigmatic and sleek pineapple person in a tailored dark suit, wearing subtle gold cufflinks, glowing mysterious digits on the forehead.",
+        "scene": "Low angle shot inside a neon-lit Berlin club, stepping out of the VIP shadow with an icy, knowing expression."
+      },
+      "stats": [
+        {
+          "label": "Body Count",
+          "value": "14",
+          "bar": 0.55
+        },
+        {
+          "label": "Arroganz",
+          "value": "88 %",
+          "bar": 0.88
+        },
+        {
+          "label": "Status",
+          "value": "VIP",
+          "bar": 0.9
+        }
+      ],
+      "character": "An avocado person with smooth green skin and slick gelled hair, wearing a designer leather jacket and silver rings, glowing digit 14 on the forehead. Hidden golden coin on the club speaker.",
+      "visual": "Wide shot of a crowded Berlin neon club with pulsing pink and blue lights, an avocado man smirking next to a startled strawberry person.",
+      "scenes": [
+        "Wide shot: The neon-drenched exterior of 'Matrix' club with flashing strobe lights and a golden coin taped near the entrance sign.",
+        "Medium shot: Ben the avocado person standing confidently with his arms crossed, glowing '14' on his forehead.",
+        "Over-the-shoulder: Mia the strawberry person looking back at him in absolute disbelief.",
+        "Close-up detail: A cocktail glass resting on a vibrating speaker cone shaking from heavy bass.",
+        "Medium shot: Club goers dancing in the background under purple laser lights.",
+        "Close-up: Ben's smug smile turning into sudden confusion as his number flickers."
+      ],
+      "caption": "Karma schlägt immer zurück. Wer erinnert sich noch an Ben aus Level 1? 🥑 #clublife #karma #berlin #trend #fyp"
+    },
+    {
+      "n": 5,
+      "open_loop": "Warum schaute der Türsteher plötzlich auf mein Handy und ließ mich sofort durch?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Beschimpft sie an der Bar als angeberisch und schüttet demonstrativ ihr Getränk aus."
+      },
+      "name": "Helene, 31, Eventmanagerin",
+      "badge": "22",
+      "verdict": "ERFAHREN",
+      "story": "Zweiundzwanzig auf der Stirn auf der Dachterrasse und plötzlich bist du eine Königin, bis der verachtete Barista von neulich dir die Maske vom Gesicht reißt. Ich stehe auf der mondänen Dachterrasse des Hotel de Rome am Gendarmenmarkt, wo feine Champagnerperlen in den Kristallgläsern aufsteigen und der Wind der Berliner Nacht meine perfekt frisierten Kokosfaser-Haare streichelt. Zweiundzwanzig auf der Stirn. Ich dachte, diese Zahl macht mich unangreifbar, verleiht mir den Status einer eisernen Herrscherin, die über allem steht. Doch als ich mich umdrehe, steht er da: Leo, der verarmte Barista aus dem U-Bahn-Kiosk, den ich Tage zuvor noch wie Dreck behandelt hatte. Zweiundzwanzig? Du hältst dich für unsterblich, dabei bist du im Inneren komplett hohl und verarmt an echtem Gefühl. Seine eiskalten, stechenden Worte treffen mich wie ein Faustschlag mitten ins Gesicht, während mein panischer Angst vor dem Gesichtsverlust sich wie ein eisiger Schraubstock um mein Herz legt. Solche Leute lernen es einfach nie, lass sie stehen, Leo. Das siehst du in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+4",
+        "after": "26"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Zweiundzwanzig auf der Stirn auf der Dachterrasse und plötzlich bist du eine Königin, bis der verachtete Barista von neulich dir die Maske vom Gesicht reißt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe auf der mondänen Dachterrasse des Hotel de Rome am Gendarmenmarkt, wo feine Champagnerperlen in den Kristallgläsern aufsteigen und der Wind der Berliner Nacht meine perfekt frisierten Kokosfaser-Haare streichelt."
+        },
+        {
+          "s": "Figur",
+          "t": "Zweiundzwanzig auf der Stirn. Ich dachte, diese Zahl macht mich unangreifbar, verleiht mir den Status einer eisernen Herrscherin, die über allem steht."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch als ich mich umdrehe, steht er da: Leo, der verarmte Barista aus dem U-Bahn-Kiosk, den ich Tage zuvor noch wie Dreck behandelt hatte."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Zweiundzwanzig? Du hältst dich für unsterblich, dabei bist du im Inneren komplett hohl und verarmt an echtem Gefühl.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Seine eiskalten, stechenden Worte treffen mich wie ein Faustschlag mitten ins Gesicht, während mein panischer Angst vor dem Gesichtsverlust sich wie ein eisiger Schraubstock um mein Herz legt."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Solche Leute lernen es einfach nie, lass sie stehen, Leo.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Solche Leute lernen es einfach nie, lass sie stehen, Leo.",
+      "quote_by": {
+        "level": 2,
+        "name": "Leo",
+        "badge": "1",
+        "character": "A zesty lemon person with textured yellow skin, wearing a neat black barista apron, glowing digit 1 on the forehead.",
+        "scene": "Medium shot on a luxury hotel rooftop terrace, looking away with deep resentment holding a cocktail glass."
+      },
+      "stats": [
+        {
+          "label": "Body Count",
+          "value": "22",
+          "bar": 0.7
+        },
+        {
+          "label": "Einfluss",
+          "value": "91 %",
+          "bar": 0.91
+        },
+        {
+          "label": "Glamour",
+          "value": "95 %",
+          "bar": 0.95
+        }
+      ],
+      "character": "A structured coconut person with a hard brown shell hairstyle, wearing a sharp white designer blazer and pearl earrings, glowing digit 22 on the forehead. Hidden golden coin in the champagne flute base.",
+      "visual": "Wide shot of a luxury Berlin hotel rooftop at sunset with glowing city lights, a coconut woman looking shocked as a lemon barista turns his back on her.",
+      "scenes": [
+        "Wide shot: The stunning Berlin skyline at dusk from the Hotel de Rome rooftop, with a golden coin nestled on the edge of a marble flower pot.",
+        "Medium shot: Helene the coconut person standing stiffly in her designer blazer, glowing '22' on her forehead.",
+        "Over-the-shoulder: Leo the lemon barista holding a drink, glaring at her with cold disappointment.",
+        "Close-up detail: Crystal champagne flutes bubbling under warm string lights.",
+        "Medium shot: Wealthy vegetable guests chatting and sipping cocktails in soft focus background.",
+        "Close-up: Helene's hard shell exterior trembling slightly from unexpected emotional impact."
+      ],
+      "caption": "Manchmal holt einen die Vergangenheit schneller ein, als man 'Champagner' sagen kann. 🥥 #rooftop #berlin #karma #viral #foryou"
+    },
+    {
+      "n": 6,
+      "open_loop": "Warum fiel die Hochzeitstorte just in dem Moment zusammen, als er die Tür öffnete?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Nimmt demonstrativ im Restaurant Platz und verspottet sie vor allen Gästen."
+      },
+      "name": "Jonas, 29, Start-up-Gründer",
+      "badge": "31",
+      "verdict": "VETERAN",
+      "story": "Einunddreißig auf der Stirn im Startup-Loft und du merkst, dass du emotional komplett tot bist, während die Grafikerin dich auslacht. Ich stehe im hippen Co-Working-Space in Kreuzberg, umgeben von rohem Industriebeton, riesigen Grünpflanzen und dem Summen teurer Laptops, während der Erfolg auf dem Papier mir eine goldene Zukunft verspricht. Einunddreißig auf meiner Stirn. Eine stolze, hochoktanige Zahl, die mir jahrelang das Gefühl gab, ein unfehlbarer Eroberer zu sein. Doch in diesem Moment blicke ich in den Spiegel und merke, dass die innere Leereungslosigkeit mich von innen auffrisst, während Samira – die nette Pfirsich-Grafikerin aus dem Restaurant, die ich einst so arrogant abserviert hatte – mich mit einem herablassenden, eiskalten Lächeln mustert. Einunddreißig? Du kannst noch so viele Firmen gründen, Jonas, du bist emotional komplett verbrannt und wirst für immer allein bleiben. Der Kontrast zwischen meinem angeblichen Business-Glück und der absoluten Trostlosigkeit in meiner Brust schneidet mir den Atem ab. Lass dich nicht unterkriegen, Alter, die Zahl ist doch nur Statistik. Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+8",
+        "after": "39"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Einunddreißig auf der Stirn im Startup-Loft und du merkst, dass du emotional komplett tot bist, während die Grafikerin dich auslacht."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im hippen Co-Working-Space in Kreuzberg, umgeben von rohem Industriebeton, riesigen Grünpflanzen und dem Summen teurer Laptops, während der Erfolg auf dem Papier mir eine goldene Zukunft verspricht."
+        },
+        {
+          "s": "Figur",
+          "t": "Einunddreißig auf meiner Stirn. Eine stolze, hochoktanige Zahl, die mir jahrelang das Gefühl gab, ein unfehlbarer Eroberer zu sein."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch in diesem Moment blicke ich in den Spiegel und merke, dass die innere Leereungslosigkeit mich von innen auffrisst, während Samira – die nette Pfirsich-Grafikerin aus dem Restaurant, die ich einst so arrogant abserviert hatte – mich mit einem herablassenden, eiskalten Lächeln mustert."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Einunddreißig? Du kannst noch so viele Firmen gründen, Jonas, du bist emotional komplett verbrannt und wirst für immer allein bleiben.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Der Kontrast zwischen meinem angeblichen Business-Glück und der absoluten Trostlosigkeit in meiner Brust schneidet mir den Atem ab."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Lass dich nicht unterkriegen, Alter, die Zahl ist doch nur Statistik.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Lass dich nicht unterkriegen, Alter, die Zahl ist doch nur Statistik.",
+      "quote_by": {
+        "level": 3,
+        "name": "Samira",
+        "badge": "4",
+        "character": "A creative peach person with velvety pink-orange skin, wearing a modern black blazer, glowing digit 4 on the forehead.",
+        "scene": "Close-up in a trendy industrial co-working loft, leaning against a concrete pillar with a disappointed facial expression."
+      },
+      "stats": [
+        {
+          "label": "Body Count",
+          "value": "31",
+          "bar": 0.85
+        },
+        {
+          "label": "Ego",
+          "value": "96 %",
+          "bar": 0.96
+        },
+        {
+          "label": "Startup",
+          "value": "Series A",
+          "bar": 0.8
+        }
+      ],
+      "character": "A dragon fruit person with vibrant pink skin and green spikes, wearing a stylish silk scarf and tailored suit jacket, glowing digit 31 on the forehead. Hidden golden coin under a coffee mug.",
+      "visual": "Medium shot in a trendy Kreuzberg industrial loft, a dragon fruit man looking defensive as a peach woman argues with him near a concrete pillar.",
+      "scenes": [
+        "Wide shot: The sunlit interior of a Kreuzberg co-working loft with exposed brick walls, indoor palm trees, and a golden coin under a white ceramic mug.",
+        "Medium shot: Jonas the dragon fruit person adjusting his silk scarf nervously, glowing '31' on his forehead.",
+        "Over-the-shoulder: Samira the peach person crossing her arms in strict judgment.",
+        "Close-up detail: A glowing MacBook screen reflecting code next to an empty espresso cup.",
+        "Medium shot: Startup founders in the background whispering and watching the drama unfold.",
+        "Close-up: Jonas clenching his jaw as his vibrant pink spikes twitch."
+      ],
+      "caption": "Wer kennt diese Typen, die sich nur über ihre Statistik definieren? 🐉 #startup #berlin #beziehung #viral #foryou"
+    },
+    {
+      "n": 7,
+      "open_loop": "Warum rannte the Polizist plötzlich auf den roten Teppich zu, als die Limousine hielt?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Starrt ihn im Café verständnislos an und lässt demonstrativ die Rechnung liegen."
+      },
+      "name": "Milo, 33, Star-Architekt",
+      "badge": "48",
+      "verdict": "LEGENDE",
+      "story": "Achtundvierzig auf der Stirn vor der Oper und du bist der einsamste Hund Berlins, während die Null von damals dich mit Mitleid strafend ansieht. Ich stehe vor der gläsernen Fassade der Charlottenburger Oper, wo das grelle Blitzlichtgewitter der Paparazzi mich blendet und der rote Teppich mir zu Füßen liegt, als wäre ich ein Gott. Achtundvierzig auf meiner Stirn. Eine astronomische Zahl, die mich zum gejagtesten Mann der Stadt macht, während die Millionen auf meinen Bankkonten und die Architekturpreise in meinen Vitrinen plötzlich wie absolut wertloser Müll in der Hand zerbröseln. Denn direkt vor mir steht Mia – genau jenes Mädchen mit der Null von damals, die mich jetzt mit einem Blick voller tiefem Mitleid und klarer Stärke mustert, der mich tiefer trifft als jede Waffe. Achtundvierzig Menschen auf deiner Liste, Milo – aber bist du jemals auch nur einem einzigen von ihnen wirklich nah gekommen? Der kalte Nachtwind fegt über den Marmor, während mir schlagartig klar wird, dass mein gesamter Reichtum nur eine riesige, hohle Fassade ist, die mich vor der bitteren Einsamkeit nicht schützen kann. Manchmal wiegt eine einzige echte Liebe mehr als tausend Zahlen, mein Freund. Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+12",
+        "after": "60"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Achtundvierzig auf der Stirn vor der Oper und du bist der einsamste Hund Berlins, während die Null von damals dich mit Mitleid strafend ansieht."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe vor der gläsernen Fassade der Charlottenburger Oper, wo das grelle Blitzlichtgewitter der Paparazzi mich blendet und der rote Teppich mir zu Füßen liegt, als wäre ich ein Gott."
+        },
+        {
+          "s": "Figur",
+          "t": "Achtundvierzig auf meiner Stirn. Eine astronomische Zahl, die mich zum gejagtesten Mann der Stadt macht, während die Millionen auf meinen Bankkonten und die Architekturpreise in meinen Vitrinen plötzlich wie absolut wertloser Müll in der Hand zerbröseln."
+        },
+        {
+          "s": "Figur",
+          "t": "Denn direkt vor mir steht Mia – genau jenes Mädchen mit der Null von damals, die mich jetzt mit einem Blick voller tiefem Mitleid und klarer Stärke mustert, der mich tiefer trifft als jede Waffe."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Achtundvierzig Menschen auf deiner Liste, Milo – aber bist du jemals auch nur einem einzigen von ihnen wirklich nah gekommen?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Der kalte Nachtwind fegt über den Marmor, während mir schlagartig klar wird, dass mein gesamter Reichtum nur eine riesige, hohle Fassade ist, die mich vor der bitteren Einsamkeit nicht schützen kann."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Manchmal wiegt eine einzige echte Liebe mehr als tausend Zahlen, mein Freund.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Manchmal wiegt eine einzige echte Liebe mehr als tausend Zahlen, mein Freund.",
+      "quote_by": {
+        "level": 1,
+        "name": "Mia",
+        "badge": "1",
+        "character": "A young strawberry person with freckled red skin, wearing a vintage wool sweater, glowing digit 1 on the forehead.",
+        "scene": "Medium shot outside a glowing glass opera house in Berlin, looking up with profound emotional wisdom."
+      },
+      "stats": [
+        {
+          "label": "Body Count",
+          "value": "48",
+          "bar": 0.95
+        },
+        {
+          "label": "Einsamkeit",
+          "value": "99 %",
+          "bar": 0.99
+        },
+        {
+          "label": "Erfolg",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "A pineapple person with textured golden-brown skin and a leafy crown, wearing a tailored dark suit and gold cufflinks, glowing digit 48 on the forehead. Hidden golden coin on the opera marble step.",
+      "visual": "Wide shot of the illuminated glass opera house in Charlottenburg at night, a pineapple man in a suit looking defeated next to a strawberry woman.",
+      "scenes": [
+        "Wide shot: The grand exterior of the Berlin opera house with glowing architectural lights and a golden coin on the marble steps.",
+        "Medium shot: Milo the pineapple person looking down remorsefully, glowing '48' on his forehead.",
+        "Over-the-shoulder: Mia the strawberry person looking directly at him with a mixture of pity and clarity.",
+        "Close-up detail: Camera flashlights reflecting off polished brass architectural models in his hand.",
+        "Medium shot: Paparazzi silhouettes in the background holding long camera lenses.",
+        "Close-up: Milo's leafy crown drooping slightly under the heavy emotional weight."
+      ],
+      "caption": "Wer ganz oben steht, ist oft am einsamsten. 🍍 #architektur #berlin #beziehung #viral #foryou"
+    },
+    {
+      "n": 8,
+      "open_loop": "Was geschah in dieser Nacht, als alle Zahlen auf den Stirnen plötzlich für immer erloschen?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Reicht ihm nach all den Jahren die Hand und lächelt verzeihend."
+      },
+      "name": "Milo, 33, Star-Architekt",
+      "badge": "???",
+      "verdict": "UNENDLICH",
+      "story": "Unendlich auf der Stirn im selben Café, und plötzlich bricht die ganze Fassade aus Zahlen und Hass in einer Sekunde zusammen. Ich sitze wieder im winzigen, nostalgischen Café Kaffeehaferl am Hackeschen Markt, genau dort, wo vor all diesen Jahren der Albtraum begann, während draußen der sanfte Regen an die Fensterscheiben trommelt und drinnen der vertraute Duft von frisch geröstetem Bohnenkaffee in der Luft liegt. Unendlich leuchtet als Symbol auf meiner Stirn, ein grelles Mahnmal für all die Jahre voller emotionaler Kälte, oberflächlicher Begegnungen und dem gnadenlosen Verurteilen anderer Menschen. Mir gegenüber sitzt Mia – nicht mehr als verletzte Fremde, sondern als die einzige Person auf dieser Welt, die mich trotz meiner Fehler je wirklich gesehen hat. Der Schmerz der vergangenen Jahre, die jahrelange Angst nicht zu genügen und die tonnenschwere Last des gesellschaftlichen Drucks brechen in diesem Augenblick in einer einzigen Sekunde endgültig auf und lösen sich in pure, bedingungslose Erlösung auf. Es kam nie auf die Zahl an, Milo. Nur darauf, wer mit dir am Tisch sitzt. Unsere Stirn-Anzeigen flackern wild in warmen Pastelltönen, fangen an zu vibrieren und erlöschen schließlich für immer im sanften Kerzenlicht. Welches Thema aus unserem Alltag sollen wir als Nächstes in 8 Leveln zerlegen?",
+      "gender": "m",
+      "twist": {
+        "delta": "---",
+        "after": "HEUTE"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Unendlich auf der Stirn im selben Café, und plötzlich bricht die ganze Fassade aus Zahlen und Hass in einer Sekunde zusammen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze wieder im winzigen, nostalgischen Café Kaffeehaferl am Hackeschen Markt, genau dort, wo vor all diesen Jahren der Albtraum begann, während draußen der sanfte Regen an die Fensterscheiben trommelt und drinnen der vertraute Duft von frisch geröstetem Bohnenkaffee in der Luft liegt."
+        },
+        {
+          "s": "Figur",
+          "t": "Unendlich leuchtet als Symbol auf meiner Stirn, ein grelles Mahnmal für all die Jahre voller emotionaler Kälte, oberflächlicher Begegnungen und dem gnadenlosen Verurteilen anderer Menschen."
+        },
+        {
+          "s": "Figur",
+          "t": "Mir gegenüber sitzt Mia – nicht mehr als verletzte Fremde, sondern als die einzige Person auf dieser Welt, die mich trotz meiner Fehler je wirklich gesehen hat."
+        },
+        {
+          "s": "Figur",
+          "t": "Der Schmerz der vergangenen Jahre, die jahrelange Angst nicht zu genügen und die tonnenschwere Last des gesellschaftlichen Drucks brechen in diesem Augenblick in einer einzigen Sekunde endgültig auf und lösen sich in pure, bedingungslose Erlösung auf."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Es kam nie auf die Zahl an, Milo. Nur darauf, wer mit dir am Tisch sitzt.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Unsere Stirn-Anzeigen flackern wild in warmen Pastelltönen, fangen an zu vibrieren und erlöschen schließlich für immer im sanften Kerzenlicht."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema aus unserem Alltag sollen wir als Nächstes in 8 Leveln zerlegen?"
+        }
+      ],
+      "quote": "Es kam nie auf die Zahl an, Milo. Nur darauf, wer mit dir am Tisch sitzt.",
+      "quote_by": {
+        "level": 1,
+        "name": "Mia",
+        "badge": "---",
+        "character": "A wise strawberry person with freckled red skin, wearing a warm vintage sweater, glowing soft infinity symbol on the forehead.",
+        "scene": "Close-up in the cozy retro cafe, holding hands across the wooden table with a gentle, loving smile."
+      },
+      "stats": [
+        {
+          "label": "Body Count",
+          "value": "Egal",
+          "bar": 1.0
+        },
+        {
+          "label": "Frieden",
+          "value": "100 %",
+          "bar": 1.0
+        },
+        {
+          "label": "Zukunft",
+          "value": "Gemeinsam",
+          "bar": 1.0
+        }
+      ],
+      "character": "A mature pineapple person with warm golden skin and a soft leafy crown, wearing a cozy knit sweater, glowing infinity sign on the forehead. Hidden golden coin right in the center of the wooden table.",
+      "visual": "Wide warm shot inside the retro 'Kaffeehaferl' cafe, rain on the windows, a pineapple man and a strawberry woman holding hands across a wooden table as their forehead numbers fade to light.",
+      "scenes": [
+        "Wide shot: The cozy interior of 'Kaffeehaferl' with amber fairy lights and a golden coin resting peacefully in the middle of the wooden table.",
+        "Medium close-up: Milo the pineapple person smiling genuinely, his forehead showing a soft glowing infinity symbol.",
+        "Over-the-shoulder: Mia the strawberry person squeezing his hand with a warm, tearful smile.",
+        "Close-up detail: Two steaming coffee mugs with heart latte art reflecting the soft window light.",
+        "Medium shot: The cafe window showing blurred street lights and rain trickling down in cinematic slow motion.",
+        "Close-up: The digital forehead display softly fading out completely, leaving only peaceful skin."
+      ],
+      "caption": "Das Ende der Zahlen. Welches Thema sollen wir als Nächstes in 8 Leveln zeigen? Schreib es in die Kommentare! 🍍 #ende #berlin #liebe #viral #foryou"
+    }
+  ],
+  "lang": "de",
+  "topic": "Der Body Count beim ersten Date",
+  "frame": "frucht"
+}

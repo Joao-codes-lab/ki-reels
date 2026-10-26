@@ -1,0 +1,754 @@
+{
+  "title": "Die 8 Level von: Wer in einer Beziehung mehr liebt",
+  "house": "A bustling neon-lit German metropolis where fruit and vegetable people commute on crowded trams, sip espresso in foggy sidewalk cafes, and live in cramped altbau apartments under a glowing digital sky.",
+  "catchphrase": "Die Stirn lügt nie.",
+  "links": [
+    "Barista in Level 1 mentions the quiet man in the suit from Level 8.",
+    "The broken vintage watch from Level 3 appears on the table in Level 6.",
+    "The red umbrella in Level 2 is left behind in the tram in Level 7."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was hat er in ihr Notizbuch geschrieben, bevor er gegangen ist?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Lacht sie an der Bushaltestelle aus und nennt ihre Liebe einen teuren Witz."
+      },
+      "name": "Mia, 21, Studentin",
+      "badge": "12 % Liebe",
+      "verdict": "NUR OPFER",
+      "story": "Die 8 Level von: Wer in einer Beziehung mehr liebt. Level 1. Level 1: 12 Prozent Liebe auf meiner Stirn – und ich wasche jeden Tag seine dreckigen Teller. Ich bin Mia, 21, und stehe in unserer winzigen Berliner Altbauküche, während Tom auf dem Sofa sitzt und zockt. Fünf Jahre Beziehung, und ich gebe alles, während von ihm nur kaltes Schweigen kommt. Gestern habe ich sein Portemonnaie geputzt und eine fremde Zugfahrkarte gefunden. Warum tust du mir das an, Tom? Fragte ich ihn mit Tränen in den Augen, als er nach Hause kam. Du nervst nur noch mit deiner ständigen Klammerei, Mia. Seine Stirn leuchtete hell in Neonblau, während er mich nur müde musterte. Weißt du überhaupt, wie sich das anfühlt, wenn man jeden Cent und jede Emotion in einen Menschen investiert? Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+5 %",
+        "after": "17 % Lieb"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von: Wer in einer Beziehung mehr liebt. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 12 Prozent Liebe auf meiner Stirn – und ich wasche jeden Tag seine dreckigen Teller."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Mia, 21, und stehe in unserer winzigen Berliner Altbauküche, während Tom auf dem Sofa sitzt und zockt."
+        },
+        {
+          "s": "Figur",
+          "t": "Fünf Jahre Beziehung, und ich gebe alles, während von ihm nur kaltes Schweigen kommt."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern habe ich sein Portemonnaie geputzt und eine fremde Zugfahrkarte gefunden."
+        },
+        {
+          "s": "Figur",
+          "t": "Warum tust du mir das an, Tom? Fragte ich ihn mit Tränen in den Augen, als er nach Hause kam."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du nervst nur noch mit deiner ständigen Klammerei, Mia.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Seine Stirn leuchtete hell in Neonblau, während er mich nur müde musterte."
+        },
+        {
+          "s": "Figur",
+          "t": "Weißt du überhaupt, wie sich das anfühlt, wenn man jeden Cent und jede Emotion in einen Menschen investiert?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Du nervst nur noch mit deiner ständigen Klammerei, Mia.",
+      "quote_by": {
+        "level": 8,
+        "name": "Tom",
+        "badge": "95 % Liebe",
+        "character": "A cold, immaculate coconut person in a sharp tailored suit with a glowing digital forehead display.",
+        "scene": "Medium shot in a dimly lit Berlin apartment kitchen, leaning against the counter, looking down with cold indifference."
+      },
+      "stats": [
+        {
+          "label": "Liebe",
+          "value": "12 %",
+          "bar": 0.12
+        },
+        {
+          "label": "Geld",
+          "value": "450 €",
+          "bar": 0.1
+        },
+        {
+          "label": "Tränen",
+          "value": "14 L",
+          "bar": 0.8
+        }
+      ],
+      "character": "A fragile strawberry person with pink textured skin, messy green leaf hair, wearing an oversized faded grey hoodie, holding a dirty sponge; forehead displays a glowing digital number.",
+      "visual": "Medium close-up of a fragile strawberry woman crying in a cramped Berlin kitchen, holding a sponge, glowing red number 12% on her forehead, cold kitchen light, golden coin hidden near the sink drain.",
+      "scenes": [
+        "Wide shot of a cramped, messy Berlin altbau kitchen with peeling wallpaper, grey morning light streaming through a dirty window, a tiny golden coin resting on the worn wooden counter.",
+        "Medium shot of the strawberry woman staring at her glowing forehead in a cracked bathroom mirror, tears welling up, flickering neon light from the hallway.",
+        "Close-up of a greasy kitchen sink filled with unwashed plates, an old sponge, and a glowing digital display reflecting off the soapy water.",
+        "Wide shot of a crowded Berlin U-Bahn station at rush hour, blurred commuters rushing past, a tall coconut person in a suit standing completely still in the center.",
+        "Medium shot of a small desk cluttered with cheap notebooks, a half-empty coffee mug, and a glowing red digital clock showing 3:14 AM.",
+        "Close-up of a pair of trembling hands holding a crumpled train ticket, soft bokeh lights from the streetlamps outside the window."
+      ],
+      "caption": "Wer liebt in einer Beziehung wirklich mehr? #beziehung #liebe #drama #viral #berlin"
+    },
+    {
+      "n": 2,
+      "open_loop": "Wem hat sie das geheime Geschenk auf dem Tresen hinterlassen?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Kürzt ihre Arbeitszeit im Café ohne Vorwarnung und lacht über ihre Gefühle."
+      },
+      "name": "Lena, 25, Barista",
+      "badge": "28 % Liebe",
+      "verdict": "NUR GEBER",
+      "story": "Die 8 Level von: Wer in einer Beziehung mehr liebt. Level 2. Level 2: 28 Prozent Liebe – und ich backe jeden Morgen frische Croissants für einen Mann, der meinen Namen nicht mal kennt. Ich bin Lena, 25, und arbeite im vernebelten Café an der Ecke. Mein Freund Jonas kam gestern erst um drei Uhr nachts nach Hause, roch nach teurem Parfum und sagte mir eiskalt ins Gesicht. Ich brauche einfach mal Freiraum, Lena. Nerv mich nicht. Freiraum? Ich zahle seit zwei Jahren unsere Miete von 980 Euro allein, während er seine Karriere aufbaut. Als ich ihn zur Rede stellte, knallte er die Wohnungstür zu und ließ mich mit dem kalten Kaffeesatz zurück. Ist das wirklich die Belohnung dafür, dass man bedingungslos liebt? Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "-5 %",
+        "after": "23 % Lieb"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von: Wer in einer Beziehung mehr liebt. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 28 Prozent Liebe – und ich backe jeden Morgen frische Croissants für einen Mann, der meinen Namen nicht mal kennt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Lena, 25, und arbeite im vernebelten Café an der Ecke."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Freund Jonas kam gestern erst um drei Uhr nachts nach Hause, roch nach teurem Parfum und sagte mir eiskalt ins Gesicht."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Ich brauche einfach mal Freiraum, Lena. Nerv mich nicht.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Freiraum? Ich zahle seit zwei Jahren unsere Miete von 980 Euro allein, während er seine Karriere aufbaut."
+        },
+        {
+          "s": "Figur",
+          "t": "Als ich ihn zur Rede stellte, knallte er die Wohnungstür zu und ließ mich mit dem kalten Kaffeesatz zurück."
+        },
+        {
+          "s": "Figur",
+          "t": "Ist das wirklich die Belohnung dafür, dass man bedingungslos liebt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Ich brauche einfach mal Freiraum, Lena. Nerv mich nicht.",
+      "quote_by": {
+        "level": 6,
+        "name": "Jonas",
+        "badge": "64 % Liebe",
+        "character": "A glossy orange person wearing a sleek designer jacket, holding a smartphone with an arrogant smirk.",
+        "scene": "Close-up in a dimly lit hallway, turning away dismissively while adjusting his collar."
+      },
+      "stats": [
+        {
+          "label": "Liebe",
+          "value": "28 %",
+          "bar": 0.28
+        },
+        {
+          "label": "Miete",
+          "value": "980 €",
+          "bar": 0.35
+        },
+        {
+          "label": "Kaffee",
+          "value": "120 T",
+          "bar": 0.6
+        }
+      ],
+      "character": "A bright yellow lemon person with a sour twist, wearing a neat white apron over a black shirt, silver earrings; forehead displays glowing yellow numbers.",
+      "visual": "Wide shot of a foggy Berlin café at dawn, warm amber lights reflecting on the wet pavement, a lemon woman wiping down the counter, golden coin hidden inside a sugar bowl.",
+      "scenes": [
+        "Wide shot of a foggy Berlin sidewalk café at 6:00 AM, warm string lights, steam rising from coffee cups, a tiny golden coin tucked behind the sugar shaker.",
+        "Medium shot of the lemon woman polishing a silver espresso tamper, looking out the steamy window with a sad expression.",
+        "Close-up of a glowing digital display on her forehead showing 28%, flickering against the dark backdrop of the cafe.",
+        "Wide shot of a modern, cold hallway with grey concrete walls, a man in a designer jacket walking away down the corridor.",
+        "Medium shot of a receipt printer spitting out paper bills, dust motes dancing in the shaft of morning light.",
+        "Close-up of an open leather wallet on the counter containing only a few coins and a torn movie ticket."
+      ],
+      "caption": "Wer die Miete zahlt, liebt oft am meisten. #beziehung #geld #liebe #berlin #storytime"
+    },
+    {
+      "n": 3,
+      "open_loop": "Was stand in dem versiegelten Brief auf dem Küchentisch?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Wirft seine alten Liebesbriefe in den Müll und nennt ihn schwach."
+      },
+      "name": "Ben, 29, Buchhalter",
+      "badge": "42 % Liebe",
+      "verdict": "AUSGENUTZT",
+      "story": "Die 8 Level von: Wer in einer Beziehung mehr liebt. Level 3. Level 3: 42 Prozent Liebe – und ich habe meine Ersparnisse geopfert, um ihre Schulden zu bezahlen. Ich bin Ben, 29, und sitze in meinem tristen Reihenhaus in Hamburg, während Marie auf dem Sofa sitzt und ihre Fingernägel feilt. Ich habe ihr jeden Wunsch von den Augen abgelesen, ihre Kreditkarte ausgeglichen, ihr Auto getankt. Und gestern? Da fand ich den Zettel auf dem Tisch: Danke für alles, aber ich suche jemanden mit Perspektive. Du bist einfach langweilig geworden, Ben. Das ist die Wahrheit. Perspektive? Ich habe meine gesamte Jugend für uns weggeworfen. Warum treten alle immer auf den ein, der am meisten gibt? Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+10 %",
+        "after": "52 % Lieb"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von: Wer in einer Beziehung mehr liebt. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 42 Prozent Liebe – und ich habe meine Ersparnisse geopfert, um ihre Schulden zu bezahlen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Ben, 29, und sitze in meinem tristen Reihenhaus in Hamburg, während Marie auf dem Sofa sitzt und ihre Fingernägel feilt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe ihr jeden Wunsch von den Augen abgelesen, ihre Kreditkarte ausgeglichen, ihr Auto getankt."
+        },
+        {
+          "s": "Figur",
+          "t": "Und gestern? Da fand ich den Zettel auf dem Tisch: Danke für alles, aber ich suche jemanden mit Perspektive."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du bist einfach langweilig geworden, Ben. Das ist die Wahrheit.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Perspektive? Ich habe meine gesamte Jugend für uns weggeworfen."
+        },
+        {
+          "s": "Figur",
+          "t": "Warum treten alle immer auf den ein, der am meisten gibt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Du bist einfach langweilig geworden, Ben. Das ist die Wahrheit.",
+      "quote_by": {
+        "level": 7,
+        "name": "Marie",
+        "badge": "81 % Liebe",
+        "character": "A sleek dragon fruit person in a vibrant magenta leather jacket, holding a packed suitcase.",
+        "scene": "Wide shot in a bright suburban living room, standing by the front door with sunglasses on indoors."
+      },
+      "stats": [
+        {
+          "label": "Liebe",
+          "value": "42 %",
+          "bar": 0.42
+        },
+        {
+          "label": "Schulden",
+          "value": "4.200 €",
+          "bar": 0.55
+        },
+        {
+          "label": "Geduld",
+          "value": "3 J.",
+          "bar": 0.5
+        }
+      ],
+      "character": "An earthy avocado person with dark green bumpy skin, wearing a neat beige cardigan and wire-rimmed glasses; forehead displays glowing green numbers.",
+      "visual": "Medium shot of an avocado man sitting at a clean wooden desk in Hamburg, staring at a bank statement, glowing green number 42% on his forehead, golden coin hidden beneath a calculator.",
+      "scenes": [
+        "Wide shot of a neat, sterile suburban living room in Hamburg under overcast grey skies, a tiny golden coin resting under the base of a desk lamp.",
+        "Medium shot of the avocado man holding a stack of unpaid utility bills, his expression heavy with disappointment.",
+        "Close-up of a glowing digital display on his forehead reflecting onto the polished wooden table surface.",
+        "Wide shot of a hallway with white doors, a stylish dragon fruit person wheeling a shiny suitcase toward the exit.",
+        "Medium shot of a coffee table littered with brochures and a half-empty mug of cold tea.",
+        "Close-up of a hand dropping a metal house key onto a glass tray with a sharp clink."
+      ],
+      "caption": "Wer seine Ersparnisse opfert, verliert oft alles. #beziehung #geld #hamburg #liebe #drama"
+    },
+    {
+      "n": 4,
+      "open_loop": "Wer hat die Blumen auf dem Autodach hinterlassen?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Beschwert sich öffentlich über seine Geschenke und nennt ihn billig."
+      },
+      "name": "Sam, 31, Grafiker",
+      "badge": "55 % Liebe",
+      "verdict": "AUF DER KIPPE",
+      "story": "Die 8 Level von: Wer in einer Beziehung mehr liebt. Level 4. Level 4: 55 Prozent Liebe – und ich spüre jeden Tag, dass ich für sie nur die zweite Wahl bin. Ich bin Sam, 31, und arbeite in einem lauten Frankfurter Agentur-Loft, während auf meinem Handy Nachricht um Nachricht von meiner Freundin eingeht. Sie feiert unten im Club mit ihrem Ex, während ich hier sitze und Grafiken für ihre Modenschau baue. Letzte Woche hat sie meine Einladung zum Jahrestag abgesagt, weil ein wichtigerer Kunde angerufen hat. Mach kein Drama, Sam. Ich arbeite wenigstens an meiner Zukunft. Ich habe ihr trotzdem ihr Lieblingsessen gekocht und es warmgehalten. Warum kämpfe ich eigentlich noch, wenn die andere Seite längst aufgegeben hat? Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "-12 %",
+        "after": "43 % Lieb"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von: Wer in einer Beziehung mehr liebt. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 55 Prozent Liebe – und ich spüre jeden Tag, dass ich für sie nur die zweite Wahl bin."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Sam, 31, und arbeite in einem lauten Frankfurter Agentur-Loft, während auf meinem Handy Nachricht um Nachricht von meiner Freundin eingeht."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie feiert unten im Club mit ihrem Ex, während ich hier sitze und Grafiken für ihre Modenschau baue."
+        },
+        {
+          "s": "Figur",
+          "t": "Letzte Woche hat sie meine Einladung zum Jahrestag abgesagt, weil ein wichtigerer Kunde angerufen hat."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mach kein Drama, Sam. Ich arbeite wenigstens an meiner Zukunft.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe ihr trotzdem ihr Lieblingsessen gekocht und es warmgehalten."
+        },
+        {
+          "s": "Figur",
+          "t": "Warum kämpfe ich eigentlich noch, wenn die andere Seite längst aufgegeben hat?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Mach kein Drama, Sam. Ich arbeite wenigstens an meiner Zukunft.",
+      "quote_by": {
+        "level": 2,
+        "name": "Vanessa",
+        "badge": "28 % Liebe",
+        "character": "A sharp lemon person in a yellow trench coat, holding a cocktail glass.",
+        "scene": "Medium shot in a loud Frankfurt nightclub, leaning against the bar with flashing neon lights in the background."
+      },
+      "stats": [
+        {
+          "label": "Liebe",
+          "value": "55 %",
+          "bar": 0.55
+        },
+        {
+          "label": "Stunden",
+          "value": "72/W",
+          "bar": 0.85
+        },
+        {
+          "label": "Nächte",
+          "value": "3 o.S.",
+          "bar": 0.4
+        }
+      ],
+      "character": "A smooth mango person with vibrant orange-yellow skin, wearing a black turtleneck and silver glasses; forehead displays glowing orange numbers.",
+      "visual": "Medium shot of a mango man in a dark Frankfurt design loft, glowing orange number 55% on his forehead, looking at a glowing monitor at night, golden coin hidden behind the computer keyboard.",
+      "scenes": [
+        "Wide shot of a modern Frankfurt agency loft at midnight, glowing computer screens casting blue light on polished concrete floors, a tiny golden coin hidden beneath a mechanical keyboard.",
+        "Medium shot of the mango man staring at his glowing forehead in a dark windowpane reflecting the city skyline.",
+        "Close-up of a smartphone screen buzzing repeatedly with missed calls and angry text messages.",
+        "Wide shot of a chaotic nightclub entrance with flashing red and blue strobe lights, people in fashionable outfits pushing past.",
+        "Medium shot of a takeaway food box sitting untouched on a kitchen counter next to a cold cup of coffee.",
+        "Close-up of a graphic tablet stylus dropping onto a wooden desk with a soft clatter."
+      ],
+      "caption": "Wenn du immer der bist, der kämpft, verlierst du dich selbst. #beziehung #frankfurt #liebe #drama #arbeit"
+    },
+    {
+      "n": 5,
+      "open_loop": "Welches Geheimnis stand auf dem USB-Stick in seiner Jackentasche?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Zahlt seine Rechnungen nicht zurück und lacht ihn im Treppenhaus aus."
+      },
+      "name": "Marie, 28, Floristin",
+      "badge": "68 % Liebe",
+      "verdict": "FAST GLEICH",
+      "story": "Die 8 Level von: Wer in einer Beziehung mehr liebt. Level 5. Level 5: 68 Prozent Liebe – und ich trage die Verantwortung für unseren Traum allein. Ich bin Marie, 28, und stehe in meinem Münchner Blumenladen, umgeben von Rosen und Schleierkraut. Mein Verlobter Leo hat letzte Woche seinen Job gekündigt, um eine App zu erfinden, und ich zahle seitdem Miete, Lebensmittel und seine privaten Schulden. Gestern fand ich heraus, dass er das geliehene Geld für Videospiele ausgegeben hat. Du verstehst einfach meine Vision nicht, Marie. Du bremst mich nur aus. Als ich ihn konfrontierte, zuckte er nur mit den Schultern und sagte, ich sei zu engstirnig. Zu engstirnig? Ich arbeite vierzehn Stunden am Tag, damit wir ein Dach über dem Kopf haben. Das siehst du in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+7 %",
+        "after": "75 % Lieb"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von: Wer in einer Beziehung mehr liebt. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 68 Prozent Liebe – und ich trage die Verantwortung für unseren Traum allein."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Marie, 28, und stehe in meinem Münchner Blumenladen, umgeben von Rosen und Schleierkraut."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Verlobter Leo hat letzte Woche seinen Job gekündigt, um eine App zu erfinden, und ich zahle seitdem Miete, Lebensmittel und seine privaten Schulden."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern fand ich heraus, dass er das geliehene Geld für Videospiele ausgegeben hat."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du verstehst einfach meine Vision nicht, Marie. Du bremst mich nur aus.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Als ich ihn konfrontierte, zuckte er nur mit den Schultern und sagte, ich sei zu engstirnig."
+        },
+        {
+          "s": "Figur",
+          "t": "Zu engstirnig? Ich arbeite vierzehn Stunden am Tag, damit wir ein Dach über dem Kopf haben."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Du verstehst einfach meine Vision nicht, Marie. Du bremst mich nur aus.",
+      "quote_by": {
+        "level": 3,
+        "name": "Leo",
+        "badge": "42 % Liebe",
+        "character": "A casual avocado person wearing a hoodie, holding a game controller with a blank expression.",
+        "scene": "Medium shot in a cluttered Munich apartment living room, lounging on a sofa surrounded by empty pizza boxes."
+      },
+      "stats": [
+        {
+          "label": "Liebe",
+          "value": "68 %",
+          "bar": 0.68
+        },
+        {
+          "label": "Arbeit",
+          "value": "14 Std",
+          "bar": 0.9
+        },
+        {
+          "label": "Last",
+          "value": "2.400 €",
+          "bar": 0.7
+        }
+      ],
+      "character": "A fresh dragon fruit person with vibrant magenta and green skin, wearing a practical green apron over a black linen shirt; forehead displays glowing pink numbers.",
+      "visual": "Wide shot of a sunlit Munich flower shop filled with colorful bouquets, a dragon fruit woman arranging white roses, glowing pink number 68% on her forehead, golden coin hidden inside a ceramic vase.",
+      "scenes": [
+        "Wide shot of a charming Munich flower shop in the morning sunlight, colorful blooms filling every shelf, a tiny golden coin hidden inside a clay flowerpot.",
+        "Medium shot of the dragon fruit woman trimming rose stems with pruning shears, a focused yet tired expression on her face.",
+        "Close-up of a glowing digital display on her forehead reflecting off a glass vase filled with water.",
+        "Wide shot of a messy Munich apartment living room with empty pizza boxes and a glowing television screen.",
+        "Medium shot of a stack of floral invoices and business receipts lying on a wooden counter.",
+        "Close-up of a hand placing a bunch of fresh eucalyptus branches onto a wrapping paper sheet."
+      ],
+      "caption": "Wenn du die Verantwortung trägst, liebst du oft doppelt so schwer. #beziehung #münchen #blumen #liebe #geld"
+    },
+    {
+      "n": 6,
+      "open_loop": "Welchen Namen hatte sie in ihr Notizbuch geschrieben?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Zerstört seine geliebten Schallplatten und nennt seine Gefühle peinlich."
+      },
+      "name": "Jonas, 32, Architekt",
+      "badge": "77 % Liebe",
+      "verdict": "FAST GLEICH",
+      "story": "Die 8 Level von: Wer in einer Beziehung mehr liebt. Level 6. Level 6: 77 Prozent Liebe – und ich habe mein Architekturbüro aufgegeben, um mit ihr nach Köln zu ziehen. Ich bin Jonas, 32, und sitze in unserem designer-eingerichteten Wohnzimmer, während meine Partnerin Clara am Laptop sitzt und geschäftliche E-Mails beantwortet. Ich habe jeden Kompromiss gemacht, ihre Familie unterstützt, ihre Launen ertragen. Letzte Woche fand ich ein Foto ihres Ex-Partners in ihrer Schublade – frisch geküsst, mit einem Datum von vor drei Tagen. Du machst mal wieder aus Mücken Elefanten, Jonas. Es war nur ein alter Bekannter. Als ich sie darauf ansprach, lachte sie nur müde und sagte, ich solle nicht so eifersüchtig sein. Eifersüchtig? Ich habe alles für sie aufgegeben. Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+5 %",
+        "after": "82 % Lieb"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von: Wer in einer Beziehung mehr liebt. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 77 Prozent Liebe – und ich habe mein Architekturbüro aufgegeben, um mit ihr nach Köln zu ziehen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Jonas, 32, und sitze in unserem designer-eingerichteten Wohnzimmer, während meine Partnerin Clara am Laptop sitzt und geschäftliche E-Mails beantwortet."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe jeden Kompromiss gemacht, ihre Familie unterstützt, ihre Launen ertragen."
+        },
+        {
+          "s": "Figur",
+          "t": "Letzte Woche fand ich ein Foto ihres Ex-Partners in ihrer Schublade – frisch geküsst, mit einem Datum von vor drei Tagen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du machst mal wieder aus Mücken Elefanten, Jonas. Es war nur ein alter Bekannter.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Als ich sie darauf ansprach, lachte sie nur müde und sagte, ich solle nicht so eifersüchtig sein."
+        },
+        {
+          "s": "Figur",
+          "t": "Eifersüchtig? Ich habe alles für sie aufgegeben."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Du machst mal wieder aus Mücken Elefanten, Jonas. Es war nur ein alter Bekannter.",
+      "quote_by": {
+        "level": 1,
+        "name": "Clara",
+        "badge": "19 % Liebe",
+        "character": "A sleek peach person in a minimalist grey dress, typing aggressively on a silver laptop.",
+        "scene": "Medium shot in a luxury Cologne penthouse living room, sitting at a glass desk with city lights outside."
+      },
+      "stats": [
+        {
+          "label": "Liebe",
+          "value": "77 %",
+          "bar": 0.77
+        },
+        {
+          "label": "Opfer",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Zweifel",
+          "value": "8/10",
+          "bar": 0.8
+        }
+      ],
+      "character": "A polished orange person with smooth bright peel, wearing a tailored navy blue blazer and slim trousers; forehead displays glowing orange numbers.",
+      "visual": "Medium shot of an orange man in a sleek modern Cologne penthouse, glowing orange number 77% on his forehead, looking out at the rainy skyline, golden coin hidden inside a minimalist fruit bowl.",
+      "scenes": [
+        "Wide shot of a luxury minimalist penthouse in Cologne during a heavy rainstorm, floor-to-ceiling windows showing the illuminated cathedral in the distance, a tiny golden coin hidden beneath a bronze sculpture.",
+        "Medium shot of the orange man holding a small torn photograph, his expression tight with suppressed pain.",
+        "Close-up of a glowing digital display on his forehead reflecting onto the dark glass table.",
+        "Wide shot of a high-end architectural studio with large drawing tables and blueprints scattered about.",
+        "Medium shot of a designer coffee machine hissing and pouring dark espresso into a porcelain cup.",
+        "Close-up of a hand sliding a wooden drawer shut with a soft click."
+      ],
+      "caption": "Wer alles aufgibt, merkt oft zu spät, dass der andere längst gegangen ist. #beziehung #köln #architektur #liebe #drama"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welche Botschaft stand auf dem letzten Zettel im Handschuhfach?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Ignoriert seine Hilferufe und nennt seine Gefühle lächerlich."
+      },
+      "name": "Tom, 35, Ingenieur",
+      "badge": "88 % Liebe",
+      "verdict": "FAST GLEICH",
+      "story": "Die 8 Level von: Wer in einer Beziehung mehr liebt. Level 7. Level 7: 88 Prozent Liebe – und ich trage das Gewicht unserer gesamten Ehe auf meinen Schultern. Ich bin Tom, 35, und stehe in unserer Stuttgarter Stadtvilla, während meine Frau Sophie ihre Koffer für eine Geschäftsreise nach Zürich packt. Ich habe meinen Job in Berlin gekündigt, damit sie hier Karriere machen kann. Ich habe ihr den Rücken freigehalten, als ihre Firma fast bankrott ging. Du machst aus jeder Kleinigkeit ein Drama, Tom. Komm endlich klar. Gestern fand ich eine SMS auf ihrem Handy: Ich vermisse dich so sehr, wir hätten uns früher treffen sollen. Als ich sie zur Rede stellte, wischte sie es mit einer Handbewegung ab und sagte, ich sei einfach zu empfindlich. Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+7 %",
+        "after": "95 % Lieb"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von: Wer in einer Beziehung mehr liebt. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 88 Prozent Liebe – und ich trage das Gewicht unserer gesamten Ehe auf meinen Schultern."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Tom, 35, und stehe in unserer Stuttgarter Stadtvilla, während meine Frau Sophie ihre Koffer für eine Geschäftsreise nach Zürich packt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe meinen Job in Berlin gekündigt, damit sie hier Karriere machen kann."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe ihr den Rücken freigehalten, als ihre Firma fast bankrott ging."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du machst aus jeder Kleinigkeit ein Drama, Tom. Komm endlich klar.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern fand ich eine SMS auf ihrem Handy: Ich vermisse dich so sehr, wir hätten uns früher treffen sollen."
+        },
+        {
+          "s": "Figur",
+          "t": "Als ich sie zur Rede stellte, wischte sie es mit einer Handbewegung ab und sagte, ich sei einfach zu empfindlich."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Du machst aus jeder Kleinigkeit ein Drama, Tom. Komm endlich klar.",
+      "quote_by": {
+        "level": 4,
+        "name": "Sophie",
+        "badge": "51 % Liebe",
+        "character": "A sharp mango person in a designer suit jacket, zipping up a leather travel bag with a cold stare.",
+        "scene": "Medium shot in a luxurious Stuttgart villa bedroom, standing by an open suitcase with morning sunlight streaming in."
+      },
+      "stats": [
+        {
+          "label": "Liebe",
+          "value": "88 %",
+          "bar": 0.88
+        },
+        {
+          "label": "Opfer",
+          "value": "95 %",
+          "bar": 0.95
+        },
+        {
+          "label": "Schmerz",
+          "value": "9/10",
+          "bar": 0.9
+        }
+      ],
+      "character": "A hard brown coconut person with a fibrous husk shell, wearing a crisp dark green wool coat and leather gloves; forehead displays glowing white numbers.",
+      "visual": "Medium shot of a coconut man standing in a bright Stuttgart villa hallway, glowing white number 88% on his forehead, looking at a packed suitcase, golden coin hidden inside an umbrella stand.",
+      "scenes": [
+        "Wide shot of an elegant Stuttgart villa hallway with marble floors and high ceilings, morning sun streaming through large arched windows, a tiny golden coin resting inside a bronze umbrella stand.",
+        "Medium shot of the coconut man holding a leather travel bag, his wooden surface tense and unyielding.",
+        "Close-up of a glowing digital display on his forehead reflecting brightly against the polished floor tiles.",
+        "Wide shot of a spacious designer bedroom with king-size bed and neatly folded clothes on a velvet armchair.",
+        "Medium shot of a sleek smartphone resting on a wooden bedside table, screen glowing with an incoming notification.",
+        "Close-up of a hand locking a leather suitcase with a metallic click."
+      ],
+      "caption": "Wer am meisten investiert, trägt am Ende auch den größten Schmerz. #beziehung #stuttgart #liebe #ehe #drama"
+    },
+    {
+      "n": 8,
+      "open_loop": "Was wird passieren, wenn die Stirn-Zahl für immer erlischt?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Versteht erst jetzt, dass die Zahl auf der Stirn niemals das wahre Herz zeigt."
+      },
+      "name": "Tom, 35, Ingenieur",
+      "badge": "99 % Liebe",
+      "verdict": "WAHRE LIEBE",
+      "story": "Die 8 Level von: Wer in einer Beziehung mehr liebt. Level 8. Level 8: 99 Prozent Liebe – und ich habe endlich begriffen, dass die Zahl auf meiner Stirn mich nicht definiert. Ich bin Tom, und nach all den Tränen, den Opfern und den kalten Worten stehe ich heute allein am Ufer des Flusses in Stuttgart. Die digitale Anzeige auf meiner Stirn flackert wild, springt von 88 auf 99 Prozent, während ich den goldenen Ring ins Wasser werfe. Ich habe in dieser Beziehung alles gegeben, vielleicht zu viel. Aber ich weiß jetzt, wer ich bin. Mia, Lena, Ben, Sam, Marie, Jonas – wir alle haben auf dieser Stirn getragen, was wir fühlten, als wäre es eine Börsenaktie. Doch echte Liebe kennt keine Prozentzahlen. Sie kennt kein Level. Sie ist einfach da, bedingungslos und frei. Welches Thema soll als Nächstes kommen?",
+      "gender": "m",
+      "twist": {
+        "delta": "0 %",
+        "after": "99 % Lieb"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von: Wer in einer Beziehung mehr liebt. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 99 Prozent Liebe – und ich habe endlich begriffen, dass die Zahl auf meiner Stirn mich nicht definiert."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Tom, und nach all den Tränen, den Opfern und den kalten Worten stehe ich heute allein am Ufer des Flusses in Stuttgart."
+        },
+        {
+          "s": "Figur",
+          "t": "Die digitale Anzeige auf meiner Stirn flackert wild, springt von 88 auf 99 Prozent, während ich den goldenen Ring ins Wasser werfe."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe in dieser Beziehung alles gegeben, vielleicht zu viel."
+        },
+        {
+          "s": "Figur",
+          "t": "Aber ich weiß jetzt, wer ich bin."
+        },
+        {
+          "s": "Figur",
+          "t": "Mia, Lena, Ben, Sam, Marie, Jonas – wir alle haben auf dieser Stirn getragen, was wir fühlten, als wäre es eine Börsenaktie."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch echte Liebe kennt keine Prozentzahlen. Sie kennt kein Level. Sie ist einfach da, bedingungslos und frei."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema soll als Nächstes kommen?"
+        }
+      ],
+      "quote": "Doch echte Liebe kennt keine Prozentzahlen.",
+      "quote_by": {
+        "level": 1,
+        "name": "Tom",
+        "badge": "99 % Liebe",
+        "character": "A mature coconut person standing by the river at sunset, looking calmly at the horizon.",
+        "scene": "Wide cinematic shot by the Stuttgart riverbank at golden hour, the forehead display glowing softly before fading out completely."
+      },
+      "stats": [
+        {
+          "label": "Liebe",
+          "value": "99 %",
+          "bar": 0.99
+        },
+        {
+          "label": "Frieden",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Wahrheit",
+          "value": "MAX",
+          "bar": 1.0
+        }
+      ],
+      "character": "A wise coconut person with a hard fibrous shell, wearing an open dark wool overcoat and a simple silver chain; forehead displays a glowing white number that slowly fades.",
+      "visual": "Wide cinematic shot of a coconut man standing by the Stuttgart riverbank at golden hour, sunset reflecting on the water, glowing white number 99% slowly fading on his forehead, golden coin resting on the wooden railing.",
+      "scenes": [
+        "Wide cinematic shot of the Stuttgart riverbank at sunset, golden light reflecting on the gentle waves, a tiny golden coin resting on the weathered wooden railing.",
+        "Medium shot of the coconut man taking a deep breath, looking out over the water with a sense of ultimate peace.",
+        "Close-up of the glowing digital display on his forehead flickering softly and finally turning completely dark.",
+        "Wide shot showing silhouettes of all previous characters walking in different directions across the city bridges.",
+        "Medium shot of a pair of hands opening outward, letting go of a small metallic object into the stream.",
+        "Close-up of rippling water catching the last warm rays of the setting sun."
+      ],
+      "caption": "Welches Thema soll als Nächstes kommen? Schreib es in die Kommentare! #beziehung #liebe #freiheit #stuttgart #finale"
+    }
+  ],
+  "lang": "de",
+  "topic": "Wer in einer Beziehung mehr liebt",
+  "frame": "frucht"
+}
