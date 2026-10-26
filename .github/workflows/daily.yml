@@ -2,8 +2,8 @@ name: Tägliche Videos
 
 on:
   schedule:
-    - cron: "0 5 * * *"   # täglich 05:00 UTC (06:00/07:00 deutscher Zeit)
-    - cron: "0 12 * * *"  # Nachholversuch, falls der Morgenlauf gescheitert ist
+    # - cron: "0 5 * * *"   # pausiert: altes Aufzug-Format, Buffer nicht verbunden; erst nach Pilot-Entscheid wieder an
+    # - cron: "0 12 * * *"  # pausiert (siehe oben)
     - cron: "30 22 * * *" # Nacht-Battle: 5 neue Pilotfolgen (nicht gepostet), João sieht sie morgens
   workflow_dispatch:
     inputs:
