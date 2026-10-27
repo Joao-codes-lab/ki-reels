@@ -96,6 +96,8 @@ def improve_series(series, ask, name):
         try:
             current = ask(REWRITE_PROMPT.format(critique=json.dumps(crit, ensure_ascii=False),
                                                 series=json.dumps(current, ensure_ascii=False)))
+            if isinstance(current, list):  # manche Modelle antworten mit [serie] oder nur der Level-Liste
+                current = current[0] if len(current) == 1 and isinstance(current[0], dict) else {**best, "levels": current}
             assert len(current.get("levels", [])) == 8
         except Exception as e:
             print("  Überarbeitung fehlgeschlagen:", str(e)[:150])
