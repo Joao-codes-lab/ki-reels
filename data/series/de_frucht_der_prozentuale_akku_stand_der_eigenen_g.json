@@ -1,0 +1,868 @@
+{
+  "title": "Die 8 Level von Geduld im Kundenservice",
+  "house": "A bustling German city populated by produce people, featuring a central station, a gray tram line, a neon-lit kiosk, and a crowded customer service center.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Level 1 erwähnt den genervten Barista, der in Level 3 sein eigenes Drama hat.",
+    "Level 4 bestellt oft im selben Kiosk wie die Kokosnuss aus Level 7.",
+    "Level 2 wird von dem Mann im Anzug aus Level 8 im Bus überholt."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was war der wahre Grund für den Systemabsturz beim Schalter?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Legt nach drei Minuten Wartezeit einfach kommentarlos auf."
+      },
+      "name": "Ben, 24, Azubi",
+      "badge": "12% Akku",
+      "verdict": "FAST LEER",
+      "story": "Die 8 Level von Geduld im Kundenservice. Level 1. Mit 12% Akku putzt du heute höchstens noch meine Schuhe, Kleiner. Die Orange mit 88% spuckt Ben direkt vor versammelter Menge den Latte Macchiato vor die Füße: 'Mit 12% Akku putzt du heute höchstens noch meine Schuhe, Kleiner.' Ich stand im strömenden Regen am Hauptbahnhof, mein Ticket-Automat spuckte nur Fehlermeldungen aus und die Hotline spielte seit 22 Minuten dieselbe kaputte Fahrstuhlmelodie. Da riss mir der Geduldsfaden endgültig. Ich trat gegen die Glaswand des Schalters und fluchte laut über den miesen Service. Eine reife, glänzende Orange im teuren Trenchcoat musterte mich kalt von oben bis unten und schnaubte verächtlich. Sie zeigte stolze 88 Prozent auf ihrer Stirn und hielt einen warmen Latte Macchiato in der Hand. Wer keine Nerven hat, sollte zu Fuß gehen, Kleiner. Plötzlich piepte mein Handy und der Akku sprang auf mysteriöse Weise auf exakt 0 Prozent, während der Bildschirm komplett schwarz wurde. Ich starrte fassungslos auf das tote Display, während um mich herum alle Fahrgäste panisch wurden und die Anzeigetafeln flackerten. Wer hatte diesen Blackout absichtlich ausgelöst? Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-12%",
+        "after": "0% Akku"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Geduld im Kundenservice. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Mit 12% Akku putzt du heute höchstens noch meine Schuhe, Kleiner."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die Orange mit 88% spuckt Ben direkt vor versammelter Menge den Latte Macchiato vor die Füße: 'Mit 12% Akku putzt du heute höchstens noch meine Schuhe, Kleiner.'",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stand im strömenden Regen am Hauptbahnhof, mein Ticket-Automat spuckte nur Fehlermeldungen aus und die Hotline spielte seit 22 Minuten dieselbe kaputte Fahrstuhlmelodie."
+        },
+        {
+          "s": "Figur",
+          "t": "Da riss mir der Geduldsfaden endgültig."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich trat gegen die Glaswand des Schalters und fluchte laut über den miesen Service."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Eine reife, glänzende Orange im teuren Trenchcoat musterte mich kalt von oben bis unten und schnaubte verächtlich.",
+          "g": "w"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Sie zeigte stolze 88 Prozent auf ihrer Stirn und hielt einen warmen Latte Macchiato in der Hand.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer keine Nerven hat, sollte zu Fuß gehen, Kleiner.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich piepte mein Handy und der Akku sprang auf mysteriöse Weise auf exakt 0 Prozent, während der Bildschirm komplett schwarz wurde."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich starrte fassungslos auf das tote Display, während um mich herum alle Fahrgäste panisch wurden und die Anzeigetafeln flackerten."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hatte diesen Blackout absichtlich ausgelöst?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Wer keine Nerven hat, sollte zu Fuß gehen, Kleiner.",
+      "quote_by": {
+        "level": 3,
+        "name": "Tante Rosa",
+        "badge": "88%",
+        "character": "An orange person with a glossy peel, wearing a beige trenchcoat, holding a hot latte, looking arrogant.",
+        "scene": "Wide shot of a rainy central tram station where an orange person looks down condescendingly at a younger produce person."
+      },
+      "stats": [
+        {
+          "label": "Geduld-Akku",
+          "value": "12%",
+          "bar": 0.12
+        },
+        {
+          "label": "Warteschleife",
+          "value": "42 Min",
+          "bar": 0.75
+        },
+        {
+          "label": "Krawall-Faktor",
+          "value": "Hoch",
+          "bar": 0.9
+        }
+      ],
+      "character": "Ben is a young lemon person with bright yellow textured skin, wearing a damp gray hoodie and carrying a broken smartphone. On his forehead glows the digital number '12%'.",
+      "visual": "Wide shot of a crowded, rainy German tram station at dusk, neon signs reflecting in puddles, with a lemon person staring at a dead phone.",
+      "scenes": [
+        "Wide shot: A rainy central tram station at dusk with glowing neon signs and a golden coin hidden near a trash bin.",
+        "Medium shot: Inside a damp tram shelter, a lemon person yells at a dead smartphone screen.",
+        "Detail shot: A glowing digital display on a forehead showing 12% in bright red numbers.",
+        "Two-shot: A glossy orange person in a trenchcoat sneering at the lemon person by a ticket machine.",
+        "Detail shot: A black smartphone screen suddenly dying while a golden coin lies on the wet asphalt.",
+        "Wide shot: Panicking commuters crowding a broken, smoking ticket terminal under flickering lights."
+      ],
+      "caption": "Wer kennt diesen absoluten Horror an der Hotline? #Geduld #Kundenservice #Level1 #StirnZahl #Drama"
+    },
+    {
+      "n": 2,
+      "open_loop": "Warum ignorierte der Filialleiter den Notruf der Kundin?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Schiebt sich im Service-Center rücksichtslos mit gefälschtem Ticket vor."
+      },
+      "name": "Mia, 29, Barista",
+      "badge": "25% Akku",
+      "verdict": "KRITISCH",
+      "story": "Die 8 Level von Geduld im Kundenservice. Level 2. Für solche Null-Prozent-Versager zahle ich keinen Cent. Die Ananas stürzt sich auf Mias Espressomaschine, schüttet den heißen Espresso demonstrativ in den Ausguss und zischt: 'Für solche Null-Prozent-Versager zahle ich keinen Cent.' Meine Espressomaschine explodierte mitten im morgendlichen Rushhour-Chaos. Die Milch schäumte über, die Schlange reichte bis auf den Gehweg und mein EC-Gerät verweigerte jede Zusammenarbeit. Ich schweißgebadet, am Rand eines Nervenzusammenbruchs, versuchte die wütenden Kunden zu beruhigen. Da drängte sich eine riesige, stachelige Ananas im Nadelstreifenanzug vor den Tresen. Ihre Stirn leuchtete neonblau mit 75 Prozent Geduld, aber ihre Augen sprühten puren Hass. Sie knallte eine leere Kaffeetasse auf den Edelstahl und schrie durch das ganze Café. Mach schneller, du bist völlig unfähig für diesen Job. In diesem Moment gab die Hauptsicherung ein lautes Knallgeräusch von sich und die Kaffeebar sank komplett in stockfinsteres Dunkel. Ich kniete zitternd am Boden, umgeben von klebriger Milch und scherbengleichem Porzellan. Wer hatte die Stromzufuhr in der gesamten Straße gekappt? Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "-10%",
+        "after": "15% Akku"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Geduld im Kundenservice. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Für solche Null-Prozent-Versager zahle ich keinen Cent."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die Ananas stürzt sich auf Mias Espressomaschine, schüttet den heißen Espresso demonstrativ in den Ausguss und zischt: 'Für solche Null-Prozent-Versager zahle ich keinen Cent.'",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Espressomaschine explodierte mitten im morgendlichen Rushhour-Chaos."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Milch schäumte über, die Schlange reichte bis auf den Gehweg und mein EC-Gerät verweigerte jede Zusammenarbeit."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schweißgebadet, am Rand eines Nervenzusammenbruchs, versuchte die wütenden Kunden zu beruhigen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Da drängte sich eine riesige, stachelige Ananas im Nadelstreifenanzug vor den Tresen.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Ihre Stirn leuchtete neonblau mit 75 Prozent Geduld, aber ihre Augen sprühten puren Hass.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie knallte eine leere Kaffeetasse auf den Edelstahl und schrie durch das ganze Café."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mach schneller, du bist völlig unfähig für diesen Job.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Moment gab die Hauptsicherung ein lautes Knallgeräusch von sich und die Kaffeebar sank komplett in stockfinsteres Dunkel."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich kniete zitternd am Boden, umgeben von klebriger Milch und scherbengleichem Porzellan."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hatte die Stromzufuhr in der gesamten Straße gekappt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Mach schneller, du bist völlig unfähig für diesen Job.",
+      "quote_by": {
+        "level": 4,
+        "name": "Viktor",
+        "badge": "75%",
+        "character": "A spiky pineapple person wearing a sharp pinstripe suit, looking impatient and aggressive.",
+        "scene": "Medium shot of a chaotic coffee shop counter where a pineapple person slams an empty cup down."
+      },
+      "stats": [
+        {
+          "label": "Geduld-Akku",
+          "value": "25%",
+          "bar": 0.25
+        },
+        {
+          "label": "Kaffee-Chaos",
+          "value": "99%",
+          "bar": 0.99
+        },
+        {
+          "label": "Trinkgeld",
+          "value": "0,20 €",
+          "bar": 0.05
+        }
+      ],
+      "character": "Mia is an avocado person with a smooth green head, wearing a stained brown apron and silver hoop earrings. On her forehead glows '25%'.",
+      "visual": "Medium shot of a chaotic, steam-filled coffee shop counter with spilled milk and an anxious avocado person.",
+      "scenes": [
+        "Wide shot: A bustling morning café with long queues and a hidden golden coin behind the sugar dispenser.",
+        "Medium shot: An avocado barista staring in panic at a smoking espresso machine.",
+        "Detail shot: A digital forehead display showing 25% glowing in amber.",
+        "Two-shot: A spiky pineapple person in a pinstripe suit leaning aggressively over the counter.",
+        "Detail shot: Spilled white milk dripping off the edge of the stainless steel counter with a coin on the floor.",
+        "Wide shot: The entire café plunging into darkness as sparks fly from the fuse box."
+      ],
+      "caption": "Der Albtraum jedes Barista im morgendlichen Rush! #Gastronomie #KaffeeChaos #Level2 #StirnZahl #Drama"
+    },
+    {
+      "n": 3,
+      "open_loop": "Was stand in dem mysteriösen Fax, das die Bank blockierte?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Reißt dem Schalterbeamten den Ausweis aus der Hand und verlangt Sonderbehandlung."
+      },
+      "name": "Tom, 41, Sachbearbeiter",
+      "badge": "38% Akku",
+      "verdict": "ANGEZÄHLT",
+      "story": "Die 8 Level von Geduld im Kundenservice. Level 3. Dein Urlaub fällt aus, damit du meine Überstunden machst, du kleiner Angestellter. Die Kokosnuss wirft Toms gesamte Urlaubsakte vor allen wartenden Bürgern in den Reißwolf mit den Worten: 'Dein Urlaub fällt aus, damit du meine Überstunden machst, du kleiner Angestellter.' Die Schlange im Bürgeramt wuchs schneller als meine Verzweiflung. Seit drei Stunden wartete ich auf Stempel 4b, mein Urlaubsantrag drohte ungültig zu werden und der Drucker im Flur fraß jedes einzelne Dokument. Ich atmete tief durch und legte meine Papiere ordentlich auf den Tresen. Da kam eine dicke, braune Kokosnuss im teuren Kaschmirpullover angestürmt, die sich rücksichtslos vordrängelte. Sie zeigte 62 Prozent auf ihrer harten Stirn und blickte herablassend auf mich. Ohne mit der Wimper zu zucken, wischte sie meine Akten vom Tisch auf den nassen Fußboden. Dein kleines Problem interessiert hier niemanden, du Bürosklave. Plötzlich schrillte das rote Notruftelefon auf dem Schreibtisch des Beamten unaufhörlich, und alle Bildschirme im Raum zeigten eine rote Fehlermeldung. Ich blickte fassungslos auf den Schreibtisch, während die Alarmlichter grell blinkten. Wer hatte diesen Alarm absichtlich ausgelöst? Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-15%",
+        "after": "23% Akku"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Geduld im Kundenservice. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Dein Urlaub fällt aus, damit du meine Überstunden machst, du kleiner Angestellter."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die Kokosnuss wirft Toms gesamte Urlaubsakte vor allen wartenden Bürgern in den Reißwolf mit den Worten: 'Dein Urlaub fällt aus, damit du meine Überstunden machst, du kleiner Angestellter.'",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Schlange im Bürgeramt wuchs schneller als meine Verzweiflung."
+        },
+        {
+          "s": "Figur",
+          "t": "Seit drei Stunden wartete ich auf Stempel 4b, mein Urlaubsantrag drohte ungültig zu werden und der Drucker im Flur fraß jedes einzelne Dokument."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich atmete tief durch und legte meine Papiere ordentlich auf den Tresen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Da kam eine dicke, braune Kokosnuss im teuren Kaschmirpullover angestürmt, die sich rücksichtslos vordrängelte.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Sie zeigte 62 Prozent auf ihrer harten Stirn und blickte herablassend auf mich.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ohne mit der Wimper zu zucken, wischte sie meine Akten vom Tisch auf den nassen Fußboden."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein kleines Problem interessiert hier niemanden, du Bürosklave.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich schrillte das rote Notruftelefon auf dem Schreibtisch des Beamten unaufhörlich, und alle Bildschirme im Raum zeigten eine rote Fehlermeldung."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich blickte fassungslos auf den Schreibtisch, während die Alarmlichter grell blinkten."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hatte diesen Alarm absichtlich ausgelöst?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Dein kleines Problem interessiert hier niemanden, du Bürosklave.",
+      "quote_by": {
+        "level": 5,
+        "name": "Dr. Bernd",
+        "badge": "62%",
+        "character": "A hard-shelled coconut person wearing an expensive cashmere sweater, looking smug and impatient.",
+        "scene": "Medium shot in a crowded municipal office where a coconut person sweeps papers off a desk."
+      },
+      "stats": [
+        {
+          "label": "Geduld-Akku",
+          "value": "38%",
+          "bar": 0.38
+        },
+        {
+          "label": "Wartezeit",
+          "value": "180 Min",
+          "bar": 0.85
+        },
+        {
+          "label": "Stempel",
+          "value": "Fehlt",
+          "bar": 0.1
+        }
+      ],
+      "character": "Tom is a broccoli person with dark green florets, wearing a beige office shirt and thick glasses. On his forehead glows '38%'.",
+      "visual": "Medium shot of a sterile, neon-lit municipal office with gray walls and a frustrated broccoli person standing at a counter.",
+      "scenes": [
+        "Wide shot: A long, depressing queue in a municipal office with gray linoleum floors and a hidden coin on a water cooler.",
+        "Medium shot: A broccoli clerk staring helplessly at a jammed office printer.",
+        "Detail shot: A forehead digital display showing 38% in sharp green numbers.",
+        "Two-shot: A hard coconut person in a cashmere sweater shoving documents off a desk.",
+        "Detail shot: Scattered papers lying on the floor next to a shiny gold coin.",
+        "Wide shot: Emergency lights flashing red across a crowded government waiting room."
+      ],
+      "caption": "Der Horror im Bürgeramt! Wer kennt dieses Gefühl? #Bürgeramt #Behördenwahnsinn #Level3 #StirnZahl #Drama"
+    },
+    {
+      "n": 4,
+      "open_loop": "Welche geheime VIP-Liste lag auf dem Tresen der Autovermietung?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Bucht den letzten Mietwagen vor der Nase des Kunden weg und lacht."
+      },
+      "name": "Sara, 33, Projektmanagerin",
+      "badge": "50% Akku",
+      "verdict": "NEUTRAL",
+      "story": "Die 8 Level von Geduld im Kundenservice. Level 4. Level 4: 50 Prozent Geduld-Akku – und mein Mietwagen war einfach spurlos verschwunden. Ich stand am Schalter der Autovermietung am Flughafen, nachdem mein Flug gestrichen worden war und ich seit zwölf Stunden auf den Beinen war. Ich zeigte dem Agenten meine Buchungsbestätigung, als plötzlich eine elegante Drachenfrucht im pinken Designer-Kostüm den Schalter stürmte. Ihre Stirn leuchtete exakt im ausgeglichenen Bereich mit 50 Prozent, aber ihre Zunge war Gift. Sie warf einen arroganten Blick auf meine Reservierung und knallte ihre Kreditkarte auf den Glastresen. Der Wagen gehört jetzt mir, buchen Sie sich gefälligst ein Fahrrad. In genau diesem Bruchteil sekundenlang sprang meine Stirnanzeige wild flackernd auf 40 Prozent, während die gesamte Flughafenbeleuchtung in ein unheimliches, grelles Rot umschlug. Ich starrte auf das blinkende Display, während die Sirenen im Terminal aufheulten. Wer hatte den Notfall-Modus am Flughafen aktiviert? Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "-10%",
+        "after": "40% Akku"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Geduld im Kundenservice. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 50 Prozent Geduld-Akku – und mein Mietwagen war einfach spurlos verschwunden."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stand am Schalter der Autovermietung am Flughafen, nachdem mein Flug gestrichen worden war und ich seit zwölf Stunden auf den Beinen war."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich zeigte dem Agenten meine Buchungsbestätigung, als plötzlich eine elegante Drachenfrucht im pinken Designer-Kostüm den Schalter stürmte."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Ihre Stirn leuchtete exakt im ausgeglichenen Bereich mit 50 Prozent, aber ihre Zunge war Gift.",
+          "g": "w"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Sie warf einen arroganten Blick auf meine Reservierung und knallte ihre Kreditkarte auf den Glastresen.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Der Wagen gehört jetzt mir, buchen Sie sich gefälligst ein Fahrrad.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "In genau diesem Bruchteil sekundenlang sprang meine Stirnanzeige wild flackernd auf 40 Prozent, während die gesamte Flughafenbeleuchtung in ein unheimliches, grelles Rot umschlug."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich starrte auf das blinkende Display, während die Sirenen im Terminal aufheulten."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hatte den Notfall-Modus am Flughafen aktiviert?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Der Wagen gehört jetzt mir, buchen Sie sich gefälligst ein Fahrrad.",
+      "quote_by": {
+        "level": 6,
+        "name": "Madame X",
+        "badge": "50%",
+        "character": "A vibrant dragon fruit person in a pink designer suit, holding a sleek platinum credit card.",
+        "scene": "Medium shot at a busy airport rental counter where a dragon fruit person snatches a car reservation."
+      },
+      "stats": [
+        {
+          "label": "Geduld-Akku",
+          "value": "50%",
+          "bar": 0.5
+        },
+        {
+          "label": "Flug-Delay",
+          "value": "12 Std",
+          "bar": 0.9
+        },
+        {
+          "label": "Mietwagen",
+          "value": "Weg",
+          "bar": 0.0
+        }
+      ],
+      "character": "Sara is a plump peach person with soft fuzzy skin, wearing a smart grey blazer and holding a boarding pass. On her forehead glows '50%'.",
+      "visual": "Wide shot of a bustling airport terminal at night with glowing departure boards and weary travelers.",
+      "scenes": [
+        "Wide shot: A massive airport terminal with glowing departure boards and a hidden golden coin under a luggage cart.",
+        "Medium shot: A peach traveler holding a crumpled boarding pass at a car rental desk.",
+        "Detail shot: A forehead digital display showing 50% in neon blue.",
+        "Two-shot: A bright dragon fruit person in a pink suit slamming a platinum card down.",
+        "Detail shot: A sleek credit card on glass reflecting a glowing gold coin.",
+        "Wide shot: Airport terminal lights flashing red as an alarm klaxon sounds."
+      ],
+      "caption": "Flughafen-Chaos vom Feinsten! Wer kennt das? #Flughafen #Mietwagen #Level4 #StirnZahl #Drama"
+    },
+    {
+      "n": 5,
+      "open_loop": "Was verbarg sich in dem Aktenkoffer des Mannes im teuren Mantel?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Storniert den Handwerker-Termin vor den Augen der Familie und lacht kalt."
+      },
+      "name": "Leo, 37, Elektriker",
+      "badge": "63% Akku",
+      "verdict": "STABIL",
+      "story": "Die 8 Level von Geduld im Kundenservice. Level 5. Level 5: 63 Prozent Geduld-Akku – und der Kunde in der Luxus-Villa wollte mir erzählen, wie man Kabel verlegt. Seit fünf Stunden arbeitete ich im Keller, um den Kurzschluss zu finden, der das ganze Haus lahmgelegt hatte. Ich wischte mir den Schweiß von der Stirn, als der Hausherr, eine massive, purpurrote Rote Bete im maßgeschneiderten Cashmere-Mantel, die Kellertreppe herunterstürmte. Seine Stirn leuchtete triumphierend mit 37 Prozent – oder war es umgekehrt? Er blickte auf meine Werkzeugkiste, als käme ich direkt aus dem Müll. Ihr Handwerker habt doch alle keine Ahnung von echter Arbeit. In genau diesem Moment gab der Hauptverteilerkasten einen gewaltigen Funkenregen ab und meine Stirnanzeige stürzte dramatisch auf 50 Prozent ab. Ich wich erschrocken zurück, während die Funken knapp an meiner Nase vorbeisprühten. Wer hatte den Kurzschluss absichtlich herbeigeführt? Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "-13%",
+        "after": "50% Akku"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Geduld im Kundenservice. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 63 Prozent Geduld-Akku – und der Kunde in der Luxus-Villa wollte mir erzählen, wie man Kabel verlegt."
+        },
+        {
+          "s": "Figur",
+          "t": "Seit fünf Stunden arbeitete ich im Keller, um den Kurzschluss zu finden, der das ganze Haus lahmgelegt hatte."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich wischte mir den Schweiß von der Stirn, als der Hausherr, eine massive, purpurrote Rote Bete im maßgeschneiderten Cashmere-Mantel, die Kellertreppe herunterstürmte."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Seine Stirn leuchtete triumphierend mit 37 Prozent – oder war es umgekehrt?",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Er blickte auf meine Werkzeugkiste, als käme ich direkt aus dem Müll.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Ihr Handwerker habt doch alle keine Ahnung von echter Arbeit.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "In genau diesem Moment gab der Hauptverteilerkasten einen gewaltigen Funkenregen ab und meine Stirnanzeige stürzte dramatisch auf 50 Prozent ab."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich wich erschrocken zurück, während die Funken knapp an meiner Nase vorbeisprühten."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hatte den Kurzschluss absichtlich herbeigeführt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Ihr Handwerker habt doch alle keine Ahnung von echter Arbeit.",
+      "quote_by": {
+        "level": 7,
+        "name": "Klaus",
+        "badge": "37%",
+        "character": "A deep red beetroot person in a cashmere coat, looking arrogant and wealthy.",
+        "scene": "Medium shot in a dark basement where a beetroot person looks down at an electrician."
+      },
+      "stats": [
+        {
+          "label": "Geduld-Akku",
+          "value": "63%",
+          "bar": 0.63
+        },
+        {
+          "label": "Arbeitszeit",
+          "value": "5 Std",
+          "bar": 0.7
+        },
+        {
+          "label": "Funken",
+          "value": "Gefahr",
+          "bar": 0.95
+        }
+      ],
+      "character": "Leo is a robust potato person with earthy brown skin, wearing a blue worker shirt with tool belt. On his forehead glows '63%'.",
+      "visual": "Medium shot of a dark, messy basement utility room with exposed cables and glowing sparks.",
+      "scenes": [
+        "Wide shot: A luxurious villa basement filled with complex wiring and a hidden golden coin behind a pipe.",
+        "Medium shot: A potato electrician wiping sweat from his forehead with a dirty glove.",
+        "Detail shot: A digital forehead display showing 63% in bright orange.",
+        "Two-shot: A dark red beetroot person in a cashmere coat sneering at the electrician.",
+        "Detail shot: A spark flying from an open fuse box toward a shiny gold coin on the floor.",
+        "Wide shot: A shower of electric sparks illuminating a dark concrete basement."
+      ],
+      "caption": "Handwerker-Leiden auf höchstem Niveau! Wer fühlt's? #Handwerker #Kurzschluss #Level5 #StirnZahl #Drama"
+    },
+    {
+      "n": 6,
+      "open_loop": "Welche geheime Botschaft stand in dem Kündigungsschreiben der Bank?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Überbietet jedes Angebot eiskalt und kauft das gesamte Gebäude auf."
+      },
+      "name": "Hanna, 45, Bankberaterin",
+      "badge": "75% Akku",
+      "verdict": "SOUVERÄN",
+      "story": "Die 8 Level von Geduld im Kundenservice. Level 6. Level 6: 75 Prozent Geduld-Akku – und der Vorstand wollte mich wegen eines Systemfehlers feuern, den ich gar nicht begangen hatte. Ich saß in der gläsernen Etage 40, meine Kontoauszüge zitterten in meinen Händen, als der Regionaldirektor, eine geschwungene, glänzende Aubergine im grauen Nadelstreifenanzug, den Raum betrat. Seine Stirn leuchtete unnahbar mit 85 Prozent, während er mir einen dicken Ordner auf den Mahagoni-Schreibtisch knallte. Er musterte mich mit eisigem Blick und sprach das Urteil aus. Sie sind ab sofort freigestellt, packen Sie Ihre Sachen. In genau diesem Augenblick sprang meine Stirnanzeige wie von Sinnen auf blitzende 60 Prozent, und die riesige Glasfront des Konferenzraums verdunkelte sich augenblicklich zu tiefem Schwarz. Ich starrte fassungslos auf mein eigenes Spiegelbild im Glas, während draußen ein heftiger Gewittersturm losbrach. Wer hatte diesen plötzlichen Wettersturz ausgelöst? Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "-15%",
+        "after": "60% Akku"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Geduld im Kundenservice. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 75 Prozent Geduld-Akku – und der Vorstand wollte mich wegen eines Systemfehlers feuern, den ich gar nicht begangen hatte."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich saß in der gläsernen Etage 40, meine Kontoauszüge zitterten in meinen Händen, als der Regionaldirektor, eine geschwungene, glänzende Aubergine im grauen Nadelstreifenanzug, den Raum betrat."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Seine Stirn leuchtete unnahbar mit 85 Prozent, während er mir einen dicken Ordner auf den Mahagoni-Schreibtisch knallte.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Er musterte mich mit eisigem Blick und sprach das Urteil aus."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sie sind ab sofort freigestellt, packen Sie Ihre Sachen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "In genau diesem Augenblick sprang meine Stirnanzeige wie von Sinnen auf blitzende 60 Prozent, und die riesige Glasfront des Konferenzraums verdunkelte sich augenblicklich zu tiefem Schwarz."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich starrte fassungslos auf mein eigenes Spiegelbild im Glas, während draußen ein heftiger Gewittersturm losbrach."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hatte diesen plötzlichen Wettersturz ausgelöst?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Sie sind ab sofort freigestellt, packen Sie Ihre Sachen.",
+      "quote_by": {
+        "level": 8,
+        "name": "Direktor Malte",
+        "badge": "85%",
+        "character": "An elegant eggplant person in a sharp grey pinstripe suit, looking cold and authoritarian.",
+        "scene": "Wide shot in a high-rise glass boardroom where an eggplant person fires an employee."
+      },
+      "stats": [
+        {
+          "label": "Geduld-Akku",
+          "value": "75%",
+          "bar": 0.75
+        },
+        {
+          "label": "Etage",
+          "value": "40",
+          "bar": 0.95
+        },
+        {
+          "label": "Status",
+          "value": "Krise",
+          "bar": 0.5
+        }
+      ],
+      "character": "Hanna is an elegant plum person with smooth purple skin, wearing a crisp white blouse and pearl earrings. On her forehead glows '75%'.",
+      "visual": "Wide shot of a luxurious high-rise glass boardroom overlooking a stormy city skyline at dusk.",
+      "scenes": [
+        "Wide shot: A high-rise glass boardroom on the 40th floor with a stormy skyline and a hidden golden coin on a windowsill.",
+        "Medium shot: A plum banker holding shaking financial reports.",
+        "Detail shot: A forehead digital display showing 75% in cool white light.",
+        "Two-shot: An elegant eggplant person in a pinstripe suit handing over a folder.",
+        "Detail shot: A leather folder slamming onto a mahogany desk next to a gold coin.",
+        "Wide shot: Lightning flashing outside a massive floor-to-ceiling glass window."
+      ],
+      "caption": "Wenn der Vorstand plötzlich Ernst macht! #Banken #Kündigung #Level6 #StirnZahl #Drama"
+    },
+    {
+      "n": 7,
+      "open_loop": "Was befand sich in dem Safe hinter dem Gemälde im Chefzimmer?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Tritt wütend gegen die Glastür und löst den Großalarm aus."
+      },
+      "name": "Max, 52, Kundenservice-Leiter",
+      "badge": "88% Akku",
+      "verdict": "UNERSCHÜTTERLICH",
+      "story": "Die 8 Level von Geduld im Kundenservice. Level 7. Dein 88%-Akku ist gleich leer, du boomer. Ben (Level 1) stürmt rein, schüttet dem Service-Leiter Max absichtlich den Eistee über das teure Hemd und lacht hämisch: 'Dein 88%-Akku ist gleich leer, du boomer.' Ich hatte gerade den härtesten Tag meiner zwanzigjährigen Karriere im Callcenter. Tausende Beschwerden, ein kollabiertes Ticketsystem und wütende Kunden in der Warteschleife, die jeden Moment das Gebäude stürmen wollten. Ich stand am großen Panoramafenster und hielt den Notfall-Hörer in der Hand, als der junge, gelbe Quälgeist in einem viel zu weiten Hoodie durch die Drehtür rannte und direkt auf meinen Tisch zusteuerte. Seine Stirn flackerte wild mit gerade mal 12 Prozent, und er schäumte vor purer Aggression. Er schlug mit der Faust auf mein Namensschild und brüllte so laut, dass alle Kollegen zusammenzuckten. Ihr alle habt doch keine Ahnung, wie es ist, ganz unten zu sein. In genau dieser Sekunde gab das gesamte Telefontnetzwerk nach, alle Bildschirme flashten in grellen Farben auf, und meine eigene Anzeige sprang exakt auf 95 Prozent. Ich atmete tief aus, während draußen die Sirenen heulten. Welches Geheimnis hielt das System bis zum letzten Moment zurück? Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+7%",
+        "after": "95% Akku"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Geduld im Kundenservice. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Dein 88%-Akku ist gleich leer, du boomer."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Ben (Level 1) stürmt rein, schüttet dem Service-Leiter Max absichtlich den Eistee über das teure Hemd und lacht hämisch: 'Dein 88%-Akku ist gleich leer, du boomer.'",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich hatte gerade den härtesten Tag meiner zwanzigjährigen Karriere im Callcenter."
+        },
+        {
+          "s": "Figur",
+          "t": "Tausende Beschwerden, ein kollabiertes Ticketsystem und wütende Kunden in der Warteschleife, die jeden Moment das Gebäude stürmen wollten."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stand am großen Panoramafenster und hielt den Notfall-Hörer in der Hand, als der junge, gelbe Quälgeist in einem viel zu weiten Hoodie durch die Drehtür rannte und direkt auf meinen Tisch zusteuerte."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Seine Stirn flackerte wild mit gerade mal 12 Prozent, und er schäumte vor purer Aggression.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Er schlug mit der Faust auf mein Namensschild und brüllte so laut, dass alle Kollegen zusammenzuckten.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Ihr alle habt doch keine Ahnung, wie es ist, ganz unten zu sein.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "In genau dieser Sekunde gab das gesamte Telefontnetzwerk nach, alle Bildschirme flashten in grellen Farben auf, und meine eigene Anzeige sprang exakt auf 95 Prozent."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich atmete tief aus, während draußen die Sirenen heulten."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Geheimnis hielt das System bis zum letzten Moment zurück?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Ihr alle habt doch keine Ahnung, wie es ist, ganz unten zu sein.",
+      "quote_by": {
+        "level": 1,
+        "name": "Ben",
+        "badge": "12%",
+        "character": "A bright yellow lemon person in a damp hoodie, looking furious and desperate.",
+        "scene": "Medium shot in a massive call center where a lemon person bangs his fist on a supervisor's desk."
+      },
+      "stats": [
+        {
+          "label": "Geduld-Akku",
+          "value": "88%",
+          "bar": 0.88
+        },
+        {
+          "label": "Callcenter",
+          "value": "Kollaps",
+          "bar": 0.98
+        },
+        {
+          "label": "Erfahrung",
+          "value": "20 Jahre",
+          "bar": 1.0
+        }
+      ],
+      "character": "Max is a wise banana person with a slightly curved yellow head, wearing a professional dark suit and wire-rimmed glasses. On his forehead glows '88%'.",
+      "visual": "Wide shot of a massive, glowing call center floor filled with rows of desks and ringing phones under neon lights.",
+      "scenes": [
+        "Wide shot: A massive call center floor with glowing monitors and a hidden golden coin under a desk.",
+        "Medium shot: A banana supervisor looking calm amidst ringing telephones.",
+        "Detail shot: A forehead digital display showing 88% in steady blue light.",
+        "Two-shot: A furious lemon person in a hoodie slamming a desk in a call center.",
+        "Detail shot: A shiny gold coin resting on a desk next to a ringing telephone.",
+        "Wide shot: Rows of call center agents staring at glowing red monitor screens."
+      ],
+      "caption": "Der Chef im Auge des Sturms! Wer behält die Nerven? #Callcenter #Chef #Level7 #StirnZahl #Drama"
+    },
+    {
+      "n": 8,
+      "open_loop": "Was passierte, als die Hauptanzeige aller Bürger plötzlich erlosch?",
+      "gegenspieler": {
+        "level": 0,
+        "tat": "Zieht den Hauptstecker des gesamten städtischen Servers und lächelt."
+      },
+      "name": "Elena, 60, System-Architektin",
+      "badge": "100% Akku",
+      "verdict": "MAXIMUM",
+      "story": "Die 8 Level von Geduld im Kundenservice. Level 8. Level 8: 100 Prozent Geduld-Akku – und ich hielt den Master-Schlüssel für das gesamte digitale System dieser Stadt in der Hand. Seit Jahrzehnten beobachtete ich, wie die Zahlen auf den Stirnen der Menschen ihr ganzes Leben bestimmten, sie spalteten, demütigten und trieben. Ich stand im geheimen Kontrollzentrum tief unter dem Hauptbahnhof, umgeben von surrenden Servern und blinkenden Glasfaserkabeln. Alle sieben Figuren aus den vorherigen Leveln – die verbitterte Zitrone, die gestresste Avocado, der wütende Brokkoli, die genervte Pfirsich, der stolze Kartoffel, die eiskalte Pflaume und der erfahrene Banane – standen plötzlich hinter mir im Raum, atemlos und voller Erwartung. Sie hatten meine Nachrichten verstanden. Ich trat an das zentrale Bedienpult aus reinem Kristall und legte meine Hand auf den Hauptschalter. Die Zahl bestimmt nicht, wer du bist, sondern was du daraus machst. In exakt diesem Moment erloschen alle digitalen Anzeigen auf unseren Stirnen gleichzeitig und die Stadt da draußen tauchte in ein warmes, echtes Licht. Die Displays wurden schwarz, und absolute Stille legte sich über den Raum. Wer glaubt, dass die Zahl auf unserer Stirn uns steuert, hat nichts begriffen. Welcher arrogante Typ aus welchem Level kriegt als Nächstes seine gerechte Strafe? Schreib's in die Kommentare!",
+      "gender": "w",
+      "twist": {
+        "delta": "RESET",
+        "after": "00% Akku"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Geduld im Kundenservice. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 100 Prozent Geduld-Akku – und ich hielt den Master-Schlüssel für das gesamte digitale System dieser Stadt in der Hand."
+        },
+        {
+          "s": "Figur",
+          "t": "Seit Jahrzehnten beobachtete ich, wie die Zahlen auf den Stirnen der Menschen ihr ganzes Leben bestimmten, sie spalteten, demütigten und trieben."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stand im geheimen Kontrollzentrum tief unter dem Hauptbahnhof, umgeben von surrenden Servern und blinkenden Glasfaserkabeln."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Alle sieben Figuren aus den vorherigen Leveln – die verbitterte Zitrone, die gestresste Avocado, der wütende Brokkoli, die genervte Pfirsich, der stolze Kartoffel, die eiskalte Pflaume und der erfahrene Banane – standen plötzlich hinter mir im Raum, atemlos und voller Erwartung.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie hatten meine Nachrichten verstanden."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich trat an das zentrale Bedienpult aus reinem Kristall und legte meine Hand auf den Hauptschalter."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl bestimmt nicht, wer du bist, sondern was du daraus machst."
+        },
+        {
+          "s": "Figur",
+          "t": "In exakt diesem Moment erloschen alle digitalen Anzeigen auf unseren Stirnen gleichzeitig und die Stadt da draußen tauchte in ein warmes, echtes Licht."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Displays wurden schwarz, und absolute Stille legte sich über den Raum."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer glaubt, dass die Zahl auf unserer Stirn uns steuert, hat nichts begriffen. Welcher arrogante Typ aus welchem Level kriegt als Nächstes seine gerechte Strafe? Schreib's in die Kommentare!"
+        }
+      ],
+      "quote": "Die Zahl bestimmt nicht, wer du bist, sondern was du daraus machst.",
+      "quote_by": {
+        "level": 8,
+        "name": "Elena",
+        "badge": "100%",
+        "character": "A wise coconut person with a polished shell, wearing a futuristic silver lab coat.",
+        "scene": "Wide shot in a high-tech underground server room where all produce characters gather around a glowing crystal console."
+      },
+      "stats": [
+        {
+          "label": "Geduld-Akku",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "System",
+          "value": "Master",
+          "bar": 1.0
+        },
+        {
+          "label": "Zukunft",
+          "value": "Offen",
+          "bar": 1.0
+        }
+      ],
+      "character": "Elena is a majestic watermelon person with dark green striped rind and vibrant pink flesh visible, wearing a silver tech-visor and white coat. On her forehead glows '100%'.",
+      "visual": "Wide shot of a massive, futuristic underground server room with glowing blue fiber optic cables and a crystal control console.",
+      "scenes": [
+        "Wide shot: A vast underground server room filled with glowing blue servers and a hidden golden coin on the master console.",
+        "Medium shot: A watermelon system architect standing before a glowing crystal control panel.",
+        "Detail shot: A forehead digital display showing 100% in bright golden light.",
+        "Wide shot: All seven produce characters from previous levels gathered together in the underground vault.",
+        "Detail shot: A hand resting on a crystal master switch next to a glowing gold coin.",
+        "Wide shot: All forehead displays simultaneously turning off as a warm natural light fills the room."
+      ],
+      "caption": "Das große Finale! Welches Thema sollen wir als Nächstes zeigen? Schreib es in die Kommentare! #Finale #StirnZahl #SystemReset #Geduld #Drama"
+    }
+  ],
+  "lang": "de",
+  "topic": "Der prozentuale Akku-Stand der eigenen Geduld im Kundenservice",
+  "frame": "frucht"
+}

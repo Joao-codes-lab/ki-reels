@@ -1,0 +1,53 @@
+{
+  "best_score": 66,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 5,
+        "story": 6,
+        "identifikation": 7,
+        "verbindungen": 6,
+        "sog": 5,
+        "wut": 4,
+        "merkfaehigkeit": 6,
+        "sprache": 5
+      },
+      "gesamt": 55,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den Beginn durch einen echten Schlag in die Magengrube: '2.000 Euro Gehaltskürzung für eine einzige freundliche Mail?'"
+        },
+        {
+          "n": 2,
+          "fix": "Erhöhe die Wut, indem der Vorgesetzte die Emojis öffentlich ins Lächerliche zieht: 'Zwei gelbe Smileys für eine inkompetente Arbeitsleistung? Du fliegst.'"
+        },
+        {
+          "n": 5,
+          "fix": "Verlängere die Story auf über 175 Wörter, indem die Demütigung durch den Analysten detaillierter und schmerzhafter beschrieben wird."
+        }
+      ],
+      "fazit": "Die Serie hat ein starkes visuelles Konzept mit den Frucht-Figuren, scheitert aber an der harten Realität von TikTok: Die Hooks sind zu zahm, die Konflikte erzeugen zu wenig echte Wut, und die Geschichten bleiben zu oft unter der geforderten Wortlänge von 175 Wörtern. Ohne radikale Zuspitzung und sofortige Genugtuung swischt das Publikum nach 2 Sekunden weg."
+    },
+    {
+      "scores": {
+        "hook": 7,
+        "story": 6,
+        "identifikation": 8,
+        "verbindungen": 9,
+        "sog": 7,
+        "wut": 6,
+        "merkfaehigkeit": 8,
+        "sprache": 5
+      },
+      "gesamt": 66,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den halben Start durch die nackte Provokation: '2.000 Euro Gehaltskürzung für eine einzige freundliche Mail?!' - und verdopple die Länge auf über 175 Wörter durch echten inneren Monolog über die Miete."
+        }
+      ],
+      "fazit": "Kreatives Setting mit Gemüse-Metaphern und starkem roten Faden, aber die Texte sind zu kurz (unter 175 Wörtern) und die Wut auf den Bösewicht verpufft oft in zu viel Bürokratie-Beschreibung. Mehr rohe Demütigung rein!"
+    }
+  ]
+}

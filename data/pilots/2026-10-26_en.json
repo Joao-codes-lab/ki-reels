@@ -1,43 +1,52 @@
 [
   {
-    "nr": 1,
-    "topic": "Das Fitnessstudio-Gewicht beim Bankdrücken",
+    "nr": 3,
+    "topic": "Das Level der passiv-aggressiven E-Mail-Formulierungen im Job",
     "frame": "frucht",
-    "title": "The 8 Levels of Bench Press Weight",
-    "file": "2026-10-26_pilot1_en_frucht_das_fitnessstudio_gewicht_beim_bankdr_ck_teil1.mp4",
-    "hook": "Level 1 drückt gerade mal die Stange mit Tränen in den Augen, während Level 8 die Hantel mit arrogantem Blick verbiegt.",
-    "warum": "Gym-Bro-Kultur liebt Vergleiche, führt zu massiven Markierungen von Freunden in den Kommentaren.",
-    "score": 38,
+    "title": "The 8 Levels of Passive-Aggressive Emails",
+    "file": "2026-10-26_pilot3_en_frucht_das_level_der_passiv_aggressiven_e_mail_teil1.mp4",
+    "hook": "Wer 'Wie in meiner vorherigen E-Mail erwähnt' schreibt, droht bereits mit der Kündigung.",
+    "warum": "Corporate Burnout und toxische Bürokommunikation sind hochgradig relatable und teilenswert.",
+    "score": 85,
     "jury": [
-      "Untertitel dringend reparieren: Ab Sekunde 30 geraten die Captions massiv aus dem Takt und zeigen völlig andere Sätze als die Tonspur.",
-      "Bilder passend zur Narration generieren: Statt zusammenhangsloser Porträt-Stills und verschwommener Farbflächen sollten Hanteln, Gym-Szenen und die gefundene Münze gezeigt werden.",
-      "Sprachmischung auflösen: Der abrupte Wechsel von englischen Texteinblendungen/Intro-Audio zum deutschen Voiceover verwirrt und schwächt den Hook."
+      "Den Text am Anfang noch schärfer auf den Schmerzpunkt der Zielgruppe ausrichten.",
+      "Die KI-Bilder in ihrer Farbgebung einheitlicher gestalten, um visuelle Brüche zu vermeiden.",
+      "Am Ende einen noch klareren Cliffhanger für Level 2 einbauen."
     ],
-    "sid": "en_frucht_das_fitnessstudio_gewicht_beim_bankdr_ck",
-    "design": {}
-  },
-  {
-    "nr": 2,
-    "topic": "Der Beziehungsstatus nach drei Jahren Dating",
-    "frame": "frucht",
-    "title": "The 8 Levels of Three-Year Dating",
-    "file": "2026-10-26_pilot2_en_frucht_der_beziehungsstatus_nach_drei_jahren_da_teil1.mp4",
-    "hook": "Level 1 ist seit der Kindheit unschuldig, aber Level 8 ist in einer komplizierten Situationship mit drei Leuten gleichzeitig.",
-    "warum": "Dating-Chaos und Beziehungsdrama sind die ultimativen Diskussions-Magnete auf TikTok.",
-    "score": 78,
-    "jury": [
-      "Den Einstieg (Hook) noch präziser auf das emotionale Beziehungsthema ausrichten anstatt zu überraschen.",
-      "Die KI-Bilder konsistenter im Stil halten, um visuelle Sprünge zu reduzieren.",
-      "Das Ende (Call-to-Action) knackiger und motivierender für Folge 2 gestalten."
-    ],
-    "sid": "en_frucht_der_beziehungsstatus_nach_drei_jahren_da",
+    "sid": "en_frucht_das_level_der_passiv_aggressiven_e_mail",
     "design": {
       "punkte": [
         28,
-        34
+        32,
+        30
       ],
       "sieger": 1,
-      "warum": "Bild 2 trifft den Cartoon- und Figurenstil (nicht menschlich realistisch) deutlich besser als Bild 1 und nutzt die Obst-/Gemüse-Ästhetik stimmiger für das vorgegebene Konzept."
+      "warum": "Bild 1 hat zwar schöne 3D-Modelle, verfehlt aber komplett das Thema mit dem Büro, dem Kardigan und der Tomaten-Hauptfigur (es ist eine orange Figur mit Kürbiskörper). Bild 2 zeigt eine kreative Grid-Anordnung mit verschiedenen Gemüsewesen, passt aber szenisch ebenfalls nicht zum spezifischen Büromotiv. Bild 3 setzt auf eine blaue Kreatur mit Gemüsehaaren, hat aber auch nichts mit dem vorgegebenen Tomaten-Büro-Setting zu tun. Bild 1 ist optisch nah am Trend von simpsonsvorhersage.n, aber Bild 2 erzielt durch die Vielfalt der Charaktere knapp die höchste Gesamtpunktzahl im Raster."
+    }
+  },
+  {
+    "nr": 5,
+    "topic": "Die Anzahl der Jahre bis zur Einsicht, dass man wie die eigenen Eltern wird",
+    "frame": "frucht",
+    "title": "The 8 Levels of Becoming Your Parents",
+    "file": "2026-10-26_pilot5_en_frucht_die_anzahl_der_jahre_bis_zur_einsicht_da_teil1.mp4",
+    "hook": "Plötzlich Plastiktüten in der Plastiktüten-Box sammeln und laut über das Wetter schimpfen.",
+    "warum": "Der unausweichliche Generationswechsel trifft humorvoll jeden ab Mitte zwanzig.",
+    "score": 83,
+    "jury": [
+      "KI-generierte Bilder teilweise unheimlich oder inkonsistent",
+      "Farbkorrektur für einen einheitlicheren Look anwenden",
+      "Grafik-Elemente im oberen Bereich noch cleaner gestalten"
+    ],
+    "sid": "en_frucht_die_anzahl_der_jahre_bis_zur_einsicht_da",
+    "design": {
+      "punkte": [
+        18,
+        12,
+        15
+      ],
+      "sieger": 0,
+      "warum": "Bild 0 fängt den surrealen 3D-Stil der Vorbilder am besten ein und besitzt eine klar isolierte, fokussierte Charaktersilhouette, auch wenn die Szenen-Vorgaben bezüglich Kleidung und Supermarkt nicht perfekt getroffen wurden, aber ästhetisch am weitesten vorn liegt."
     }
   }
 ]
