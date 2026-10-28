@@ -209,8 +209,12 @@ def generate_pilots(lang, tts_backend, k=5):
             info = render_lift(series, 1, pics, ROOT / "out" / name, backend=tts_backend)
             shutil.copy(info["path"], SITE / name)
             score, review = critic.review_video(info["path"], name[:-4])
+            ersatz = sum(Path(str(p) + ".ersatz").exists() for p in pics)
+            if ersatz * 2 >= len(pics) and score is not None:  # ohne echte Bilder kann ein Pilot kein Sieger sein
+                print(f"  {ersatz}/{len(pics)} Ersatzbilder, Punkte auf höchstens 40 begrenzt")
+                score = min(score, 40)
             print(f"  Video-Jury: {score}/100 {review.get('verbesserungen', '')}")
-            results.append({"nr": idx, "topic": topic, "frame": frame, "title": series["title"], "file": name,
+            results.append({"nr": idx, "ersatzbilder": ersatz, "topic": topic, "frame": frame, "title": series["title"], "file": name,
                             "hook": idea.get("hook"), "warum": idea.get("warum_viral"), "score": score,
                             "jury": review.get("verbesserungen"), "sid": sid,
                             "design": verdict})
