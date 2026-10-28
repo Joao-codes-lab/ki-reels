@@ -1,0 +1,819 @@
+{
+  "title": "The 8 Levels of Rent Prices",
+  "house": "A bustling urban metropolis called Gotham Greens, where towering concrete apartment blocks meet neon-lit bodegas, and every sidewalk features a subtle, hidden gold coin etched into the pavement.",
+  "catchphrase": "The number on your forehead never lies.",
+  "links": [
+    "Barista in Level 2 mentions a generous man in a crisp suit who always tips in cash.",
+    "A yellow bus passing by in Level 4 carries the frantic teenager from Level 1.",
+    "The rooftop garden seen in Level 7 overlooks the cramped balcony of Level 3."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "What was written inside the eviction notice stamped with a red urgent seal?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Laughs at her cramped studio conditions and raises her rent by three hundred dollars right to her face.",
+        "g": "w"
+      },
+      "name": "Mia, 19, Student",
+      "badge": "$450 rent",
+      "verdict": "CRITICAL RISK",
+      "story": "The 8 levels of rent prices. Level 1. 450 Dollar Miete, und mein Vermieter will mich auf den Müll werfen, während ich für mein Krankenpflege-Studium blute. Level one. $450 rent a month – and my landlord is throwing me into the garbage by Friday while I bleed for my nursing degree. I am Mia, 19, working at an exhausting diner while studying nursing, staring at my glowing red forehead badge in the cracked bathroom mirror. My tiny closet room smells of damp cardboard, mold, and cheap instant noodles, while my bank account shows an empty balance of exactly forty-two dollars. Then my phone buzzes aggressively on the mattress, shattering the silence. A text from my landlord pops up with a cold ultimatum, mocking my desperate situation. I grab my worn backpack and rush down the hallway, clutching my last twenty-dollar bill with trembling fingers. Pay your full deposit today or get out, you broke student. What was written inside the eviction notice stamped with a red urgent seal? Das siehst du in Level 2. You'll see that in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+$150",
+        "after": "$600 rent"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of rent prices. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "450 Dollar Miete, und mein Vermieter will mich auf den Müll werfen, während ich für mein Krankenpflege-Studium blute."
+        },
+        {
+          "s": "Figur",
+          "t": "Level one. $450 rent a month – and my landlord is throwing me into the garbage by Friday while I bleed for my nursing degree."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Mia, 19, working at an exhausting diner while studying nursing, staring at my glowing red forehead badge in the cracked bathroom mirror."
+        },
+        {
+          "s": "Figur",
+          "t": "My tiny closet room smells of damp cardboard, mold, and cheap instant noodles, while my bank account shows an empty balance of exactly forty-two dollars."
+        },
+        {
+          "s": "Figur",
+          "t": "Then my phone buzzes aggressively on the mattress, shattering the silence. A text from my landlord pops up with a cold ultimatum, mocking my desperate situation."
+        },
+        {
+          "s": "Figur",
+          "t": "I grab my worn backpack and rush down the hallway, clutching my last twenty-dollar bill with trembling fingers."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Pay your full deposit today or get out, you broke student.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What was written inside the eviction notice stamped with a red urgent seal?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "Pay your full deposit today or get out, you broke student.",
+      "quote_by": {
+        "level": 4,
+        "name": "Beatrice",
+        "badge": "$2,200 rent",
+        "character": "An arrogant Dragon Fruit person with vibrant pink skin and sharp green scales, wearing a sleek silk blouse and holding a golden designer handbag.",
+        "scene": "Wide angle shot in a neon-lit apartment stairwell, looking down from a high landing at a distressed strawberry girl."
+      },
+      "stats": [
+        {
+          "label": "Rent Share",
+          "value": "$450",
+          "bar": 0.1
+        },
+        {
+          "label": "Income",
+          "value": "$1,100",
+          "bar": 0.15
+        },
+        {
+          "label": "Savings",
+          "value": "$42",
+          "bar": 0.05
+        }
+      ],
+      "character": "A fragile Strawberry girl with soft red skin dotted with tiny yellow seeds, wearing a faded oversized gray hoodie and a cracked phone screen in her pocket. On her forehead, a glowing digital display reads '$450 rent'.",
+      "visual": "A cramped, dimly lit college dorm room with exposed pipes, peeling wallpaper, and a tiny window showing a rainy city alleyway. A gold coin is hidden on the windowsill.",
+      "scenes": [
+        "Wide shot of a gloomy, damp apartment hallway with flickering fluorescent lights and a small hidden gold coin near the baseboard.",
+        "Medium shot of a strawberry girl staring desperately at her glowing red forehead display in a cracked bathroom mirror.",
+        "Close up of a trembling hand holding a glowing smartphone displaying a harsh landlord text message.",
+        "Over the shoulder shot looking down a steep metal staircase at an imposing figure standing above.",
+        "Detail shot of a worn-out sneaker stepping over a faded eviction notice on the floor.",
+        "Wide shot of a rainy city street corner at dusk with yellow cabs splashing through puddles."
+      ],
+      "caption": "Could you survive on a student budget in this city? #RentCrisis #Struggle #GothamGreens #StudentLife #Reality"
+    },
+    {
+      "n": 2,
+      "open_loop": "Who slipped the mysterious white envelope under the front door at midnight?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Demands double rent for hallway storage space and publicly mocks his exhausted second job.",
+        "g": "m"
+      },
+      "name": "Leo, 24, Barista",
+      "badge": "$850 rent",
+      "verdict": "STRUGGLING",
+      "story": "The 8 levels of rent prices. Level 2. 850 Dollar Miete für eine mickrige Garage, und mein eiskalter Vermieter reißt dem armen Barista vor meinen Augen die geliebte Kaffeemaschine weg, bevor er die Miete verdoppelt. Level two. $850 rent for a converted garage – and my ice-cold landlord rips the beloved coffee machine away from the poor barista right before my eyes and doubles the rent without warning. I am Leo, 24, pulling espresso shots at dawn while my aching legs burn from twelve-hour shifts at the cafe. A gold coin rests on the counter near my meager tips, and my forehead badge glows a stubborn, harsh yellow indicating my financial trap. A regular customer in a tailored suit drops a massive tip, but it is never enough to cover the soaring cost of living in this unforgiving neighborhood. My landlord stomps into the shop, slams his fist on the counter, and sneers directly in my face. You are two weeks behind on utilities, or your worthless stuff goes on the street tonight. Who slipped the mysterious white envelope under the front door at midnight? Das siehst du in Level 3. You'll see that in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "-$100",
+        "after": "$750 rent"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of rent prices. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "850 Dollar Miete für eine mickrige Garage, und mein eiskalter Vermieter reißt dem armen Barista vor meinen Augen die geliebte Kaffeemaschine weg, bevor er die Miete verdoppelt."
+        },
+        {
+          "s": "Figur",
+          "t": "Level two. $850 rent for a converted garage – and my ice-cold landlord rips the beloved coffee machine away from the poor barista right before my eyes and doubles the rent without warning."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Leo, 24, pulling espresso shots at dawn while my aching legs burn from twelve-hour shifts at the cafe."
+        },
+        {
+          "s": "Figur",
+          "t": "A gold coin rests on the counter near my meager tips, and my forehead badge glows a stubborn, harsh yellow indicating my financial trap."
+        },
+        {
+          "s": "Figur",
+          "t": "A regular customer in a tailored suit drops a massive tip, but it is never enough to cover the soaring cost of living in this unforgiving neighborhood."
+        },
+        {
+          "s": "Figur",
+          "t": "My landlord stomps into the shop, slams his fist on the counter, and sneers directly in my face."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are two weeks behind on utilities, or your worthless stuff goes on the street tonight.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Who slipped the mysterious white envelope under the front door at midnight?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "You are two weeks behind on utilities, or your worthless stuff goes on the street tonight.",
+      "quote_by": {
+        "level": 5,
+        "name": "Marcus",
+        "badge": "$3,100 rent",
+        "character": "A stiff Coconut man with a hard brown textured husk, wearing a sharp utility vest and carrying a heavy ring of brass keys.",
+        "scene": "Medium shot in a cluttered kitchen with warm morning light filtering through dirty blinds."
+      },
+      "stats": [
+        {
+          "label": "Rent Share",
+          "value": "$850",
+          "bar": 0.25
+        },
+        {
+          "label": "Income",
+          "value": "$2,200",
+          "bar": 0.3
+        },
+        {
+          "label": "Savings",
+          "value": "$190",
+          "bar": 0.12
+        }
+      ],
+      "character": "An acidic Lemon man with a bright yellow textured peel, wearing a stained barista apron over a black t-shirt. On his forehead, a glowing digital display reads '$850 rent'.",
+      "visual": "A bustling urban coffee shop interior with copper espresso machines, steaming mugs, and a hidden gold coin resting on the cash register.",
+      "scenes": [
+        "Wide shot of a crowded, steam-filled coffee shop with diverse fruit and vegetable patrons chatting at wooden tables.",
+        "Medium shot of a lemon man wiping down a counter while glancing nervously at his glowing forehead badge.",
+        "Close up of a rough hand placing a heavy brass key ring onto a scratched wooden tabletop.",
+        "Over the shoulder shot of an angry coconut landlord pointing at a past-due utility bill.",
+        "Detail shot of a small gold coin sitting near a ceramic sugar bowl.",
+        "Wide shot of a gloomy garage conversion apartment exterior with a flickering porch light."
+      ],
+      "caption": "Have you ever had to choose between groceries and your utility bill? #RentLife #BaristaProbs #GothamGreens #CityLiving #Struggle"
+    },
+    {
+      "n": 3,
+      "open_loop": "What was hidden inside the locked floor safe beneath the old wooden rug?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Threatens to terminate the commercial workshop lease and confiscates his professional tools.",
+        "g": "m"
+      },
+      "name": "Sam, 31, Artisan",
+      "badge": "$1,400 rent",
+      "verdict": "MODERATE",
+      "story": "The 8 levels of rent prices. Level 3. 1.400 Dollar Miete für eine dunkle Kellerwerkstatt, während die Stadt die Grundsteuer verdoppelt und Victor mich gnadenlos ausraubt. Level three. $1,400 a month for a basement workshop while the city doubles the property tax and Victor ruthlessly robs me blind. I am Sam, 31, carving custom wooden chairs while thick sawdust clings to my heavy green coat. My forehead badge glows a steady blue, reminding me of my precarious middle-tier standing. Across the narrow alley, I can see the bus stop where Mia waits every single morning, shivering in the cold. My arrogant landlord storms down the concrete steps without knocking, smelling of expensive cologne and cheap cigars, holding a termination notice. If you do not pay the outrageous new commercial surcharge by noon, your tools get impounded forever. What was hidden inside the locked floor safe beneath the old wooden rug? Das siehst du in Level 4. You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-$250",
+        "after": "$1,150 re"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of rent prices. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "1.400 Dollar Miete für eine dunkle Kellerwerkstatt, während die Stadt die Grundsteuer verdoppelt und Victor mich gnadenlos ausraubt."
+        },
+        {
+          "s": "Figur",
+          "t": "Level three. $1,400 a month for a basement workshop while the city doubles the property tax and Victor ruthlessly robs me blind."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Sam, 31, carving custom wooden chairs while thick sawdust clings to my heavy green coat."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead badge glows a steady blue, reminding me of my precarious middle-tier standing."
+        },
+        {
+          "s": "Figur",
+          "t": "Across the narrow alley, I can see the bus stop where Mia waits every single morning, shivering in the cold."
+        },
+        {
+          "s": "Figur",
+          "t": "My arrogant landlord storms down the concrete steps without knocking, smelling of expensive cologne and cheap cigars, holding a termination notice."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "If you do not pay the outrageous new commercial surcharge by noon, your tools get impounded forever.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What was hidden inside the locked floor safe beneath the old wooden rug?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "If you do not pay the outrageous new commercial surcharge by noon, your tools get impounded forever.",
+      "quote_by": {
+        "level": 6,
+        "name": "Victor",
+        "badge": "$4,500 rent",
+        "character": "An austere Eggplant man with a deep purple glossy skin, wearing a sharp pinstripe suit and holding a gold-plated pocket watch.",
+        "scene": "Medium shot in a dusty basement workshop filled with wooden shavings and scattered tools."
+      },
+      "stats": [
+        {
+          "label": "Rent Share",
+          "value": "$1,400",
+          "bar": 0.4
+        },
+        {
+          "label": "Income",
+          "value": "$3,400",
+          "bar": 0.45
+        },
+        {
+          "label": "Savings",
+          "value": "$820",
+          "bar": 0.28
+        }
+      ],
+      "character": "A sturdy Broccoli man with a dense dark green floret head, wearing a rugged denim work shirt dusted with wood chips. On his forehead, a glowing digital display reads '$1,400 rent'.",
+      "visual": "A subterranean artisan workshop illuminated by hanging amber bulbs, filled with hand tools, wooden beams, and a hidden gold coin on a workbench.",
+      "scenes": [
+        "Wide shot of a damp basement workshop with exposed brick walls, scattered wood scraps, and a tiny high window showing passing feet outside.",
+        "Medium shot of a broccoli man meticulously carving a wooden chair leg while sweat beads on his forehead.",
+        "Close up of a glowing digital forehead badge displaying '$1,400 rent' in bright blue numbers.",
+        "Over the shoulder shot of an angry eggplant man in a sharp suit kicking a wooden stool across the floor.",
+        "Detail shot of a small gold coin half-buried under a pile of fresh sawdust.",
+        "Wide shot of a cobblestone alleyway with a yellow city bus driving past in the background."
+      ],
+      "caption": "Is small business survival in the city becoming impossible? #ArtisanLife #SmallBusiness #Gotham Greens #RentSurcharge #Craftsmanship"
+    },
+    {
+      "n": 4,
+      "open_loop": "Who sent the anonymous tip to the city zoning board?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Demands an immediate architectural compliance check and fines her heavily for a balcony plant.",
+        "g": "m"
+      },
+      "name": "Chloe, 28, Designer",
+      "badge": "$2,200 rent",
+      "verdict": "AVERAGE",
+      "story": "The 8 levels of rent prices. Level 4. 2.200 Dollar Miete für ein winziges Apartment mit Ziegelblick, während Julian mir skrupellos das Geld aus der Tasche zieht. Level four. $2,200 a month for a tiny apartment with a brick wall view while Julian ruthlessly squeezes every penny out of my pocket. I am Chloe, 28, freelancing as a graphic designer while surviving entirely on instant coffee and impossible deadlines. My forehead badge glows a bright emerald green, hiding my constant burnout. Downstairs in the lobby, Beatrice from the lower stairwell is viciously arguing with a helpless delivery driver. My phone rings with an urgent, terrifying notification from the property app announcing a mandatory fee hike. Your balcony plant violates municipal safety code 4B, so remove it immediately or face eviction. Who sent the anonymous tip to the city zoning board? Das siehst du in Level 5. You'll see that in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+$300",
+        "after": "$2,500 re"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of rent prices. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "2.200 Dollar Miete für ein winziges Apartment mit Ziegelblick, während Julian mir skrupellos das Geld aus der Tasche zieht."
+        },
+        {
+          "s": "Figur",
+          "t": "Level four. $2,200 a month for a tiny apartment with a brick wall view while Julian ruthlessly squeezes every penny out of my pocket."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Chloe, 28, freelancing as a graphic designer while surviving entirely on instant coffee and impossible deadlines."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead badge glows a bright emerald green, hiding my constant burnout."
+        },
+        {
+          "s": "Figur",
+          "t": "Downstairs in the lobby, Beatrice from the lower stairwell is viciously arguing with a helpless delivery driver."
+        },
+        {
+          "s": "Figur",
+          "t": "My phone rings with an urgent, terrifying notification from the property app announcing a mandatory fee hike."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your balcony plant violates municipal safety code 4B, so remove it immediately or face eviction.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Who sent the anonymous tip to the city zoning board?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Your balcony plant violates municipal safety code 4B, so remove it immediately or face eviction.",
+      "quote_by": {
+        "level": 7,
+        "name": "Julian",
+        "badge": "$6,800 rent",
+        "character": "A polished Orange man with a smooth bright citrus peel, wearing a tailored cashmere turtleneck and gold-rimmed glasses.",
+        "scene": "Medium shot on a sunlit apartment balcony overlooking a concrete cityscape."
+      },
+      "stats": [
+        {
+          "label": "Rent Share",
+          "value": "$2,200",
+          "bar": 0.55
+        },
+        {
+          "label": "Income",
+          "value": "$4,800",
+          "bar": 0.6
+        },
+        {
+          "label": "Savings",
+          "value": "$1,900",
+          "bar": 0.42
+        }
+      ],
+      "character": "An elegant Avocado woman with smooth light-green skin and dark brown hair, wearing a stylish beige trench coat and silver earrings. On her forehead, a glowing digital display reads '$2,200 rent'.",
+      "visual": "A modern minimalist apartment living room with sleek white furniture, large windows, and a hidden gold coin resting on a coffee table book.",
+      "scenes": [
+        "Wide shot of a bright urban apartment living room with large glass windows showing a dense city skyline.",
+        "Medium shot of an avocado woman typing rapidly on a laptop while sipping iced coffee.",
+        "Close up of a glowing forehead badge showing '$2,200 rent' in green LED numbers.",
+        "Over the shoulder shot of a stern inspector pointing at a potted fern on a small balcony.",
+        "Detail shot of a tiny gold coin hidden beside a ceramic succulent planter.",
+        "Wide shot of a busy downtown intersection with yellow taxis and pedestrians walking under gray clouds."
+      ],
+      "caption": "Are luxury fees getting out of hand in your city? #DesignLife #RentFees #GothamGreens #CityApartment #Freelancer"
+    },
+    {
+      "n": 5,
+      "open_loop": "What was written inside the confidential bank document marked 'Property Transfer'?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Refuses to renew the master lease and announces a brutal building demolition for luxury condos.",
+        "g": "m"
+      },
+      "name": "Marcus, 42, Manager",
+      "badge": "$3,100 rent",
+      "verdict": "SECURE",
+      "story": "The 8 levels of rent prices. Level 5. 3.100 Dollar Miete für ein großes Loft, und das Executive-Mastermind zerstört mein sicheres Zuhause für schmutzigen Luxus-Profit. Level five. $3,100 a month for a sprawling loft while the executive mastermind destroys my secure home for filthy luxury profit. I am Marcus, 42, managing a mid-sized real estate agency while frantically juggling endless client calls. My forehead badge shines a confident orange-gold, masking my mounting corporate dread. Down on the sidewalk below, I pass Leo the barista rushing toward his second exhausting job. My phone buzzes with a devastating corporate email from head office that destroys my entire life. The entire residential block has been sold to an offshore investment fund. We are losing the master lease. What was written inside the confidential bank document marked 'Property Transfer'? Das siehst du in Level 6. You'll see that in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+$800",
+        "after": "$3,900 re"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of rent prices. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "3.100 Dollar Miete für ein großes Loft, und das Executive-Mastermind zerstört mein sicheres Zuhause für schmutzigen Luxus-Profit."
+        },
+        {
+          "s": "Figur",
+          "t": "Level five. $3,100 a month for a sprawling loft while the executive mastermind destroys my secure home for filthy luxury profit."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Marcus, 42, managing a mid-sized real estate agency while frantically juggling endless client calls."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead badge shines a confident orange-gold, masking my mounting corporate dread."
+        },
+        {
+          "s": "Figur",
+          "t": "Down on the sidewalk below, I pass Leo the barista rushing toward his second exhausting job."
+        },
+        {
+          "s": "Figur",
+          "t": "My phone buzzes with a devastating corporate email from head office that destroys my entire life."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "The entire residential block has been sold to an offshore investment fund. We are losing the master lease.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What was written inside the confidential bank document marked 'Property Transfer'?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "The entire residential block has been sold to an offshore investment fund. We are losing the master lease.",
+      "quote_by": {
+        "level": 8,
+        "name": "The Executive",
+        "badge": "$15,000 rent",
+        "character": "A mysterious Pine nut or exotic root person with an immaculate charcoal tuxedo and a glowing platinum forehead display.",
+        "scene": "Wide shot in a high-rise corner office with floor-to-ceiling windows overlooking the entire metropolis."
+      },
+      "stats": [
+        {
+          "label": "Rent Share",
+          "value": "$3,100",
+          "bar": 0.7
+        },
+        {
+          "label": "Income",
+          "value": "$7,500",
+          "bar": 0.75
+        },
+        {
+          "label": "Savings",
+          "value": "$4,200",
+          "bar": 0.58
+        }
+      ],
+      "character": "A hard Coconut man with a textured brown fibrous husk, wearing a sharp navy blue business suit and a silver wristwatch. On his forehead, a glowing digital display reads '$3,100 rent'.",
+      "visual": "A sleek modern corporate office with glass partitions, leather chairs, city maps on the walls, and a hidden gold coin on a windowsill.",
+      "scenes": [
+        "Wide shot of a high-end corporate office overlooking a vast downtown skyline at midday.",
+        "Medium shot of a coconut man reviewing architectural blueprints at a polished mahogany desk.",
+        "Close up of a glowing forehead badge showing '$3,100 rent' in amber LED light.",
+        "Over the shoulder shot of a nervous business partner dropping a thick manila folder onto a desk.",
+        "Detail shot of a small gold coin resting next to a crystal desk paperweight.",
+        "Wide shot of a bustling city plaza with diverse fruit citizens walking briskly under bright sun."
+      ],
+      "caption": "Can corporate buyouts destroy even secure renters? #RealEstate #CorporateLife #GothamGreens #LoftLiving #MarketCrash"
+    },
+    {
+      "n": 6,
+      "open_loop": "Why did the city planning committee approve the sudden demolition order?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Refuses to cooperate with building inspections and blocks the central fire exit out of pure spite.",
+        "g": "m"
+      },
+      "name": "Victor, 50, Landlord",
+      "badge": "$4,500 rent",
+      "verdict": "HIGH TIER",
+      "story": "The 8 levels of rent prices. Level 6. 4.500 Dollar Miete für gewerbliche Blöcke, während Sam mir als finsterer Mieter das Leben zur Hölle macht. Level six. $4,500 a month for commercial block ownership while Sam makes my life a living hell as a malicious tenant. I am Victor, 50, collecting dues while managing crumbling brick facades across the slums of Gotham Greens. My forehead badge glows a brilliant, unforgiving purple. I vividly recall arguing fiercely with Sam the artisan down in his basement workshop last week. My terrified accountant walks into my plush carpeted office holding a red-flagged portfolio. The municipal tax assessment just tripled. The zoning board is revoking our permits immediately. Why did the city planning committee approve the sudden demolition order? Das siehst du in Level 7. You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "-$1,200",
+        "after": "$3,300 re"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of rent prices. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "4.500 Dollar Miete für gewerbliche Blöcke, während Sam mir als finsterer Mieter das Leben zur Hölle macht."
+        },
+        {
+          "s": "Figur",
+          "t": "Level six. $4,500 a month for commercial block ownership while Sam makes my life a living hell as a malicious tenant."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Victor, 50, collecting dues while managing crumbling brick facades across the slums of Gotham Greens."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead badge glows a brilliant, unforgiving purple."
+        },
+        {
+          "s": "Figur",
+          "t": "I vividly recall arguing fiercely with Sam the artisan down in his basement workshop last week."
+        },
+        {
+          "s": "Figur",
+          "t": "My terrified accountant walks into my plush carpeted office holding a red-flagged portfolio."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "The municipal tax assessment just tripled. The zoning board is revoking our permits immediately.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Why did the city planning committee approve the sudden demolition order?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "The municipal tax assessment just tripled. The zoning board is revoking our permits immediately.",
+      "quote_by": {
+        "level": 3,
+        "name": "Sam",
+        "badge": "$1,400 rent",
+        "character": "A sturdy Broccoli man with a dense dark green floret head, wearing a rugged denim work shirt.",
+        "scene": "Medium shot in a chaotic municipal office with stacks of architectural blueprints."
+      },
+      "stats": [
+        {
+          "label": "Rent Share",
+          "value": "$4,500",
+          "bar": 0.82
+        },
+        {
+          "label": "Income",
+          "value": "$11,200",
+          "bar": 0.85
+        },
+        {
+          "label": "Savings",
+          "value": "$14,500",
+          "bar": 0.78
+        }
+      ],
+      "character": "An austere Eggplant man with deep glossy purple skin, wearing a sharp pinstripe suit and holding a gold-plated pocket watch. On his forehead, a glowing digital display reads '$4,500 rent'.",
+      "visual": "A luxurious penthouse office with dark wood paneling, velvet armchairs, city financial charts on the wall, and a hidden gold coin beneath a brass floor lamp.",
+      "scenes": [
+        "Wide shot of an opulent penthouse office with velvet curtains and panoramic views of the city.",
+        "Medium shot of an eggplant man reviewing financial ledgers with an intense expression.",
+        "Close up of a glowing forehead badge showing '$4,500 rent' in bright purple LED light.",
+        "Over the shoulder shot of an accountant pointing at a red-flagged tax assessment document.",
+        "Detail shot of a small gold coin resting on the base of a brass desk lamp.",
+        "Wide shot of a city street showing historic brick buildings slated for redevelopment."
+      ],
+      "caption": "When property taxes spike, who really pays the price? #LandlordLife #PropertyTax #GothamGreens #RealEstateMarket #Business"
+    },
+    {
+      "n": 7,
+      "open_loop": "Who transferred the fifty thousand dollars into the offshore escrow account?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Files a malicious tenant union complaint accusing him of illegal luxury rent stabilization bypass.",
+        "g": "m"
+      },
+      "name": "Julian, 35, Investor",
+      "badge": "$6,800 rent",
+      "verdict": "ELITE TIER",
+      "story": "The 8 levels of rent prices. Level 7. 6.800 Dollar Miete für eine Penthouse-Suite, während Leo mich mit einer radikalen Mietergewerkschaft in den Ruin treibt. Level seven. $6,800 a month for a luxury penthouse suite while Leo drives me into ruin with a radical tenant union. I am Julian, 35, acquiring prime real estate blocks while others starve. My forehead badge shines a piercing white-gold of ultimate wealth. Down on the street corner, I see Leo the barista wiping tables and struggling to pay his tiny bills. My private banker steps out of the private elevator, sliding a red folder onto my marble table with bad news. A radical tenant union representative is staging an illegal sit-in right in our ground floor lobby. Who transferred the fifty thousand dollars into the offshore escrow account? Das siehst du in Level 8. You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "-$2,000",
+        "after": "$4,800 re"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of rent prices. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "6.800 Dollar Miete für eine Penthouse-Suite, während Leo mich mit einer radikalen Mietergewerkschaft in den Ruin treibt."
+        },
+        {
+          "s": "Figur",
+          "t": "Level seven. $6,800 a month for a luxury penthouse suite while Leo drives me into ruin with a radical tenant union."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Julian, 35, acquiring prime real estate blocks while others starve."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead badge shines a piercing white-gold of ultimate wealth."
+        },
+        {
+          "s": "Figur",
+          "t": "Down on the street corner, I see Leo the barista wiping tables and struggling to pay his tiny bills."
+        },
+        {
+          "s": "Figur",
+          "t": "My private banker steps out of the private elevator, sliding a red folder onto my marble table with bad news."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "A radical tenant union representative is staging an illegal sit-in right in our ground floor lobby.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Who transferred the fifty thousand dollars into the offshore escrow account?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "A radical tenant union representative is staging an illegal sit-in right in our ground floor lobby.",
+      "quote_by": {
+        "level": 2,
+        "name": "Leo",
+        "badge": "$850 rent",
+        "character": "An acidic Lemon man with a bright yellow textured peel, wearing a stained barista apron.",
+        "scene": "Medium shot in a grand penthouse lobby with marble pillars and crystal chandeliers."
+      },
+      "stats": [
+        {
+          "label": "Rent Share",
+          "value": "$6,800",
+          "bar": 0.92
+        },
+        {
+          "label": "Income",
+          "value": "$24,000",
+          "bar": 0.95
+        },
+        {
+          "label": "Savings",
+          "value": "$89,000",
+          "bar": 0.9
+        }
+      ],
+      "character": "An polished Orange man with a smooth bright citrus peel, wearing a tailored cashmere turtleneck and gold-rimmed glasses. On his forehead, a glowing digital display reads '$6,800 rent'.",
+      "visual": "A lavish penthouse balcony overlooking the entire metropolis at sunset, featuring sleek modern furniture and a hidden gold coin near a potted palm.",
+      "scenes": [
+        "Wide shot of an ultra-luxurious penthouse terrace with infinity pool overlooking the glowing city at dusk.",
+        "Medium shot of an orange man holding a crystal champagne flute while looking down at the street below.",
+        "Close up of a glowing forehead badge showing '$6,800 rent' in bright platinum numbers.",
+        "Over the shoulder shot of a private banker handing over a confidential escrow document.",
+        "Detail shot of a small gold coin nestled in the soil of a potted terrace palm.",
+        "Wide shot of a crowded city plaza where protestors hold banners under streetlights."
+      ],
+      "caption": "When luxury real estate clashes with tenant unions, who wins? #PenthouseLife #RealEstateTycoon #GothamGreens #LuxuryRent #CityPolitics"
+    },
+    {
+      "n": 8,
+      "open_loop": "Which topic should we explore in the next series about the hidden numbers of Gotham Greens?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Hands over the master key that unlocks every secret room in the entire metropolis to break the cycle.",
+        "g": "w"
+      },
+      "name": "The Executive, 60, Mastermind",
+      "badge": "$15,000 rent",
+      "verdict": "THE ARCHITECT",
+      "story": "The 8 levels of rent prices. Level 8. 15.000 Dollar Miete für das gesamte Kronenanwesen, während Mia mir als gerissene Rebellin das Monopol entreißt. Level eight. $15,000 a month for the entire crown estate while Mia tears my monopoly apart as a fierce rebel. I am the Executive, 60, watching the entire human drama unfold from the highest glass spire in Gotham Greens. My forehead badge glows an endless, blinding platinum of absolute power. Down on the pavement below, I see Mia, Leo, Sam, Chloe, Marcus, Victor, and Julian all crossing paths in the central plaza. They thought the numbers defined their human worth, but the entire housing system was just a ruthless game I designed. The number on your forehead never lies, but it can always be rewritten if you play your cards right. Which topic should we explore in the next series about the hidden numbers of Gotham Greens? Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "RESET",
+        "after": "MAX RENT"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of rent prices. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "15.000 Dollar Miete für das gesamte Kronenanwesen, während Mia mir als gerissene Rebellin das Monopol entreißt."
+        },
+        {
+          "s": "Figur",
+          "t": "Level eight. $15,000 a month for the entire crown estate while Mia tears my monopoly apart as a fierce rebel."
+        },
+        {
+          "s": "Figur",
+          "t": "I am the Executive, 60, watching the entire human drama unfold from the highest glass spire in Gotham Greens."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead badge glows an endless, blinding platinum of absolute power."
+        },
+        {
+          "s": "Figur",
+          "t": "Down on the pavement below, I see Mia, Leo, Sam, Chloe, Marcus, Victor, and Julian all crossing paths in the central plaza."
+        },
+        {
+          "s": "Figur",
+          "t": "They thought the numbers defined their human worth, but the entire housing system was just a ruthless game I designed."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "The number on your forehead never lies, but it can always be rewritten if you play your cards right.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Which topic should we explore in the next series about the hidden numbers of Gotham Greens?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "The number on your forehead never lies, but it can always be rewritten if you play your cards right.",
+      "quote_by": {
+        "level": 1,
+        "name": "Mia",
+        "badge": "$450 rent",
+        "character": "A fragile Strawberry girl with soft red skin dotted with tiny yellow seeds, wearing a faded oversized gray hoodie.",
+        "scene": "Wide angle shot on a towering glass helipad overlooking the glittering metropolis at night."
+      },
+      "stats": [
+        {
+          "label": "Rent Share",
+          "value": "$15,000",
+          "bar": 1.0
+        },
+        {
+          "label": "Income",
+          "value": "UNLIMITED",
+          "bar": 1.0
+        },
+        {
+          "label": "Savings",
+          "value": "MAX",
+          "bar": 1.0
+        }
+      ],
+      "character": "A mysterious Pine nut or exotic root person with an immaculate charcoal tuxedo and a glowing platinum forehead display reading '$15,000 rent'.",
+      "visual": "A futuristic glass rooftop helipad overlooking the entire gleaming city at night, with a hidden gold coin resting on the landing lights.",
+      "scenes": [
+        "Wide cinematic shot of the highest glass skyscraper helipad overlooking the sprawling neon city at night.",
+        "Medium shot of a mysterious figure in a charcoal tuxedo gazing out over the metropolis.",
+        "Close up of a blinding platinum forehead display showing '$15,000 rent'.",
+        "Over the shoulder shot of a strawberry girl holding out a single gleaming gold coin.",
+        "Detail shot of a small gold coin reflecting the entire city skyline in its polished surface.",
+        "Wide panoramic shot of Gotham Greens with all eight characters walking together below."
+      ],
+      "caption": "Who really controls the prices in our cities? Let us know what theme to do next! #GothamGreens #RentSeries #TheEnd #Mastermind #PlotTwist"
+    }
+  ],
+  "lang": "en",
+  "topic": "Mietpreise",
+  "frame": "frucht"
+}

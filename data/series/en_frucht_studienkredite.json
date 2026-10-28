@@ -1,0 +1,738 @@
+{
+  "title": "The 8 Levels of Student Loans",
+  "house": "A bustling metropolitan university city named Fructopolis, made of endless neon-lit campus libraries, cramped student apartments, and towering banking skyscrapers where giant fruit and vegetable people rush to their futures.",
+  "catchphrase": "The number on your forehead never lies.",
+  "links": [
+    "The barista in Level 2 mentions a tired strawberry student borrowing her textbook.",
+    "The library printer from Level 4 is seen smoking and jammed in the background of Level 6.",
+    "The mysterious sports car from Level 8 nearly splashes the broccoli student in Level 1."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Why did the financial aid office suddenly freeze her entire account right before final exams?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Laughs loudly at her rejected loan application in the crowded cafeteria and tells her to drop out."
+      },
+      "name": "Ben, 20, Broccoli Student",
+      "badge": "-45,000 $",
+      "verdict": "DEEP IN DEBT",
+      "story": "Minus 45.000 Dollar Schulden, kein Cent mehr auf dem Konto und der Dean droht mir live im Hörsaal mit dem Rauswurf. The 8 levels of student loans. Level 1. I am Ben, twenty, broccoli student, staring at my laptop screen in a freezing campus library while my stomach growls. I thought my part-time job at the diner would cover rent and instant ramen. Then the tuition fee hit harder than a freight train. You really think a veggie with that pathetic negative number will graduate? I swallow hard, my small green florets trembling with humiliation. But I know something he does not about this university's hidden grant fund. Then the dean walked in and said these exact words to me. Das siehst du in Level 2. You'll see that in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-2,500 $",
+        "after": "-47,500 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Minus 45.000 Dollar Schulden, kein Cent mehr auf dem Konto und der Dean droht mir live im Hörsaal mit dem Rauswurf."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of student loans. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Ben, twenty, broccoli student, staring at my laptop screen in a freezing campus library while my stomach growls."
+        },
+        {
+          "s": "Figur",
+          "t": "I thought my part-time job at the diner would cover rent and instant ramen. Then the tuition fee hit harder than a freight train."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You really think a veggie with that pathetic negative number will graduate?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I swallow hard, my small green florets trembling with humiliation. But I know something he does not about this university's hidden grant fund."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then the dean walked in and said these exact words to me."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "Your education journey ends right here today, kid.",
+      "quote_by": {
+        "level": 6,
+        "name": "Victor",
+        "badge": "+85,000 $",
+        "character": "An arrogant Dragon Fruit person with glossy magenta skin, sharp scales, wearing a crisp charcoal suit and a gold watch.",
+        "scene": "Wide angle shot in a brightly lit campus hall, Victor sneering down at Ben while holding a rejected loan document."
+      },
+      "stats": [
+        {
+          "label": "Loan Balance",
+          "value": "-45.000 $",
+          "bar": 0.05
+        },
+        {
+          "label": "Savings",
+          "value": "12.50 $",
+          "bar": 0.02
+        },
+        {
+          "label": "Stress",
+          "value": "99 %",
+          "bar": 0.99
+        }
+      ],
+      "character": "A young broccoli student with a head made of fresh, slightly wilted green florets, wearing an oversized faded grey hoodie and carrying a worn-out canvas backpack. Digital badge on forehead: -45,000 $.",
+      "visual": "Medium close-up of a worried broccoli student in a dimly lit library, staring at a glowing laptop screen with negative numbers.",
+      "scenes": [
+        "Wide shot: A freezing campus library at night with rain tapping against giant arched windows, students studying under green desk lamps. A tiny golden coin rests on a wooden bookshelf.",
+        "Medium shot: Ben the broccoli student looking anxiously at his mobile banking app showing a red minus sign.",
+        "Close-up: A glowing digital forehead display reading '-45,000 $' casting a red hue on Ben's worried face.",
+        "Halbnah shot: Victor the dragon fruit in a sharp suit standing over Ben, dropping a coffee-stained letter onto the desk.",
+        "Detail shot: A half-empty paper coffee cup on a stack of economics textbooks with a crumpled white loan notice inside.",
+        "Wide shot: The bustling library entrance with other vegetable students walking past, ignoring Ben's struggle."
+      ],
+      "caption": "How would you survive college with zero dollars in your pocket? Drop your worst student loan story below! #StudentLoans #CollegeLife #BroccoliBoy #DebtCrisis #ViralStory"
+    },
+    {
+      "n": 2,
+      "open_loop": "Who slipped a mysterious envelope with five hundred cash into her tip jar?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Refuses to tip her at the campus coffee shop and mocks her cheap sneakers."
+      },
+      "name": "Mia, 21, Strawberry Barista",
+      "badge": "-28,000 $",
+      "verdict": "STRUGGLING",
+      "story": "Minus 28.000 Dollar und drei zerknüllte Dollarscheine im Trinkgelaglas – während die Chefin mich vor allen Kunden als Versagerin abstempelt. The 8 levels of student loans. Level 2. I am Mia, twenty-one, strawberry barista, rushing to steam oat milk while my phone buzzes with another text from the loan shark collection agency. My tiny studio apartment costs twelve hundred a month, and my textbook costs more than my entire kitchen setup. You probably cannot even afford a real espresso machine. I bite my tongue, wiping the counter with a shaking hand because I need this job to pay my interest rate. But then an old regular walked up and whispered something unbelievable. Das siehst du in Level 3. You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+500 $",
+        "after": "-27,500 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Minus 28.000 Dollar und drei zerknüllte Dollarscheine im Trinkgelaglas – während die Chefin mich vor allen Kunden als Versagerin abstempelt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of student loans. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Mia, twenty-one, strawberry barista, rushing to steam oat milk while my phone buzzes with another text from the loan shark collection agency."
+        },
+        {
+          "s": "Figur",
+          "t": "My tiny studio apartment costs twelve hundred a month, and my textbook costs more than my entire kitchen setup."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You probably cannot even afford a real espresso machine.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I bite my tongue, wiping the counter with a shaking hand because I need this job to pay my interest rate."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "But then an old regular walked up and whispered something unbelievable."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Some people only measure worth by the numbers they inherited.",
+      "quote_by": {
+        "level": 7,
+        "name": "Clarissa",
+        "badge": "+110,000 $",
+        "character": "A sharp-tongued Pineapple woman with a spiky golden-yellow crown, wearing a fur coat and pearl necklace.",
+        "scene": "Close-up in a trendy downtown café, Clarissa sneering at the barista across the polished marble counter."
+      },
+      "stats": [
+        {
+          "label": "Loan Balance",
+          "value": "-28.000 $",
+          "bar": 0.18
+        },
+        {
+          "label": "Monthly Rent",
+          "value": "1.200 $",
+          "bar": 0.4
+        },
+        {
+          "label": "Tips Today",
+          "value": "14.50 $",
+          "bar": 0.05
+        }
+      ],
+      "character": "A bright red strawberry person with tiny yellow seeds across her head, wearing a green apron over a thrifted vintage sweater. Digital badge on forehead: -28,000 $.",
+      "visual": "Medium shot of a strawberry barista behind a bustling café counter, looking stressed while wiping down steam wands.",
+      "scenes": [
+        "Wide shot: A warm, sunlit campus coffee shop with steam rising from espresso machines. A hidden golden coin rests on the saucer of a ceramic mug.",
+        "Medium shot: Mia wiping the counter while checking her phone notifications.",
+        "Close-up: The glowing forehead display '-28,000 $' reflecting on the stainless steel espresso machine.",
+        "Halbnah shot: Clarissa the pineapple wearing sunglasses, pointing condescendingly at the menu.",
+        "Detail shot: A tip jar containing only three crumpled dollar bills and a receipt.",
+        "Wide shot: Students waiting in line outside the coffee shop door in the morning fog."
+      ],
+      "caption": "Working three jobs just to afford basic textbooks is a whole different pain. Who relates? #BaristaLife #StrawberryGirl #CollegeStruggles #WorkHard #DebtFreeJourney"
+    },
+    {
+      "n": 3,
+      "open_loop": "Why was his engineering scholarship revoked five minutes before graduation?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Steals his laboratory research notes and claims them as his own project."
+      },
+      "name": "Leo, 22, Orange Engineering Major",
+      "badge": "-12,000 $",
+      "verdict": "BARELY AFLOAT",
+      "story": "Minus 12.000 Dollar und mein Kollege klaut einfach meine komplette Abschlussarbeit vor den Augen des Prüfungsausschusses. The 8 levels of student loans. Level 3. I am Leo, twenty-two, orange engineering major, standing in the university workshop surrounded by copper wires and soldering irons. I built this entire solar-powered prototype with my bare hands. This thesis is mine now, old friend, your negative balance means the board will never fund your patent anyway. My citrus skin heats up with pure rage and helplessness. I spent four years surviving on instant oatmeal for this exact moment. But right as security grabbed my arm, the department head shouted these words. Das siehst du in Level 4. You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-3,000 $",
+        "after": "-15,000 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Minus 12.000 Dollar und mein Kollege klaut einfach meine komplette Abschlussarbeit vor den Augen des Prüfungsausschusses."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of student loans. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Leo, twenty-two, orange engineering major, standing in the university workshop surrounded by copper wires and soldering irons."
+        },
+        {
+          "s": "Figur",
+          "t": "I built this entire solar-powered prototype with my bare hands."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "This thesis is mine now, old friend, your negative balance means the board will never fund your patent anyway.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My citrus skin heats up with pure rage and helplessness. I spent four years surviving on instant oatmeal for this exact moment."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "But right as security grabbed my arm, the department head shouted these words."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Step away from the prototype immediately, Mr. Orange.",
+      "quote_by": {
+        "level": 5,
+        "name": "Julian",
+        "badge": "+42,000 $",
+        "character": "A sleek, smooth Banana person in a yellow tailored blazer, carrying a leather briefcase.",
+        "scene": "Wide shot in a high-tech university lab, Julian smugly holding a blueprinted circuit board in front of confused professors."
+      },
+      "stats": [
+        {
+          "label": "Loan Balance",
+          "value": "-12.000 $",
+          "bar": 0.25
+        },
+        {
+          "label": "GPA",
+          "value": "3.9",
+          "bar": 0.9
+        },
+        {
+          "label": "Projects",
+          "value": "14",
+          "bar": 0.7
+        }
+      ],
+      "character": "A vibrant orange citrus person with a dimpled peel texture, wearing safety goggles pushed up on his head and a stained lab coat over a blue t-shirt. Digital badge on forehead: -12,000 $.",
+      "visual": "Medium close-up of an orange engineering student soldering wires in a glowing, neon-lit university workshop.",
+      "scenes": [
+        "Wide shot: A sprawling high-tech university laboratory filled with robotic arms and blinking servers at night. A golden coin is half-hidden under a toolbox.",
+        "Medium shot: Leo holding a glowing circuit board with intense concentration.",
+        "Close-up: The digital forehead display reading '-12,000 $' casting an amber glow on his face.",
+        "Halbnah shot: Julian the banana swaggering into the lab, snatching the prototype from Leo's workspace.",
+        "Detail shot: A solder gun resting on a workbench next to blueprint sketches and schematics.",
+        "Wide shot: The university hallway lined with glass display cases showcasing student inventions."
+      ],
+      "caption": "When someone steals four years of hard work just because their number is higher. Ever been betrayed like this? #EngineeringLife #OrangeGuy #TechTheft #CollegeDrama #StudentLoans"
+    },
+    {
+      "n": 4,
+      "open_loop": "Why did the landlord evict her while her final thesis was still sitting on the kitchen table?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Complains about her messy kitchen share and throws her study notes into the hallway."
+      },
+      "name": "Maya, 23, Avocado Grad Student",
+      "badge": "0 $",
+      "verdict": "BREAKEVEN",
+      "story": "Exakt null Dollar auf dem Konto, und mein Vermieter wirft meine Abschlussarbeit auf den nassen Flur, weil ich mir die Miete nicht mehr leisten kann. The 8 levels of student loans. Level 4. I am Maya, twenty-three, avocado grad student, packing my entire life into cardboard boxes in a noisy student sublet. I paid off my first loan tier, but my landlord just doubled the rent because of neighborhood gentrification. Move your junk out of the way, my negative balance is already stressing me out enough without your cardboard castle. I roll my eyes, hugging my thesis notes to my chest like a shield. Nobody warned me that hitting zero would feel this terrifying. But then my phone rang with an unknown caller ID, and the voice on the other end said this. Das siehst du in Level 5. You'll see that in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1.200 $",
+        "after": "+1.200 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Exakt null Dollar auf dem Konto, und mein Vermieter wirft meine Abschlussarbeit auf den nassen Flur, weil ich mir die Miete nicht mehr leisten kann."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of student loans. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Maya, twenty-three, avocado grad student, packing my entire life into cardboard boxes in a noisy student sublet."
+        },
+        {
+          "s": "Figur",
+          "t": "I paid off my first loan tier, but my landlord just doubled the rent because of neighborhood gentrification."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Move your junk out of the way, my negative balance is already stressing me out enough without your cardboard castle.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I roll my eyes, hugging my thesis notes to my chest like a shield. Nobody warned me that hitting zero would feel this terrifying."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "But then my phone rang with an unknown caller ID, and the voice on the other end said this."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "We are calling regarding your emergency housing eviction notice.",
+      "quote_by": {
+        "level": 1,
+        "name": "Ben",
+        "badge": "-45,000 $",
+        "character": "A stressed Broccoli student with green curly florets and a baggy grey hoodie.",
+        "scene": "Medium shot in a cramped apartment hallway, Ben kicking a cardboard moving box with an angry scowl."
+      },
+      "stats": [
+        {
+          "label": "Loan Balance",
+          "value": "0 $",
+          "bar": 0.35
+        },
+        {
+          "label": "Rent Owed",
+          "value": "1.400 $",
+          "bar": 0.5
+        },
+        {
+          "label": "Boxes Packed",
+          "value": "6 / 10",
+          "bar": 0.6
+        }
+      ],
+      "character": "A creamy green avocado person with a smooth dark green skin texture and a pit-shaped hairstyle, wearing thick-rimmed glasses and an oversized thrifted flannel shirt. Digital badge on forehead: 0 $.",
+      "visual": "Medium shot of an avocado grad student surrounded by stacked cardboard moving boxes in a small, messy apartment.",
+      "scenes": [
+        "Wide shot: A cramped student apartment with peeling wallpaper and afternoon sunlight streaming through dusty windows. A golden coin is taped to the underside of a wooden coffee table.",
+        "Medium shot: Maya taping shut a brown cardboard box labeled 'Thesis Notes'.",
+        "Close-up: The digital forehead display reading '0 $' glowing softly in the dim room.",
+        "Halbnah shot: Ben the broccoli student walking past in the hallway, kicking a box irritably.",
+        "Detail shot: A smartphone on a stack of books buzzing with an incoming call from an unknown number.",
+        "Wide shot: The apartment building's graffiti-covered front entrance on a busy city street."
+      ],
+      "caption": "Hitting zero feels like freedom until rent doubles overnight. Who else is surviving roommate drama? #AvocadoGirl #GradLife #RentCrisis #ApartmentHunting #StudentLoans"
+    },
+    {
+      "n": 5,
+      "open_loop": "What secret document was hidden inside the legal intern's red leather portfolio?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Tears up her legal clinic proposal without reading a single sentence."
+      },
+      "name": "Zoe, 24, Coconut Law Student",
+      "badge": "+18,500 $",
+      "verdict": "SAVING UP",
+      "story": "Plus 18.500 Dollar Ersparnis, aber der Senior Partner zerreißt meine Bewerbung vor dem gesamten Büro und nennt mich eine arme Kirchenmaus. The 8 levels of student loans. Level 5. I am Zoe, twenty-four, coconut law student, clutching my internship application files outside the partner's oak double doors. I worked three graveyard shifts a week at the campus legal aid clinic just to afford these filing fees. Cute application, little nut, but pro bono work is charity for people who cannot do real corporate law. My hard fibrous shell aches with pure indignation after everything I sacrificed. Before I could fish my papers out of the bin, the senior partner turned around and whispered this. Das siehst du in Level 6. You'll see that in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+5.000 $",
+        "after": "+23,500 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Plus 18.500 Dollar Ersparnis, aber der Senior Partner zerreißt meine Bewerbung vor dem gesamten Büro und nennt mich eine arme Kirchenmaus."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of student loans. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Zoe, twenty-four, coconut law student, clutching my internship application files outside the partner's oak double doors."
+        },
+        {
+          "s": "Figur",
+          "t": "I worked three graveyard shifts a week at the campus legal aid clinic just to afford these filing fees."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Cute application, little nut, but pro bono work is charity for people who cannot do real corporate law.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My hard fibrous shell aches with pure indignation after everything I sacrificed."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Before I could fish my papers out of the bin, the senior partner turned around and whispered this."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Consider this rejection your most valuable legal lesson yet.",
+      "quote_by": {
+        "level": 8,
+        "name": "Marcus",
+        "badge": "+210,000 $",
+        "character": "An impeccably dressed Coconut person with a hard brown textured shell, wearing custom Italian loafers and a platinum tie clip.",
+        "scene": "Wide angle shot in a luxurious high-rise law firm hallway with marble pillars, Marcus looking down coldly at Zoe."
+      },
+      "stats": [
+        {
+          "label": "Savings",
+          "value": "18.500 $",
+          "bar": 0.45
+        },
+        {
+          "label": "Hours Studied",
+          "value": "1.200",
+          "bar": 0.8
+        },
+        {
+          "label": "Cases Won",
+          "value": "8",
+          "bar": 0.5
+        }
+      ],
+      "character": "A sturdy coconut person with a hard, textured brown shell head, wearing a crisp white blouse and a smart black blazer. Digital badge on forehead: +18,500 $.",
+      "visual": "Medium close-up of a coconut law student holding leather folders in front of a grand mahogany office door.",
+      "scenes": [
+        "Wide shot: A luxurious corporate law firm lobby with polished marble floors and expensive leather armchairs. A golden coin is half-hidden behind a large potted palm plant.",
+        "Medium shot: Zoe adjusting her blazer while holding important legal documents.",
+        "Close-up: The digital forehead display reading '+18,500 $' shining brightly against her brown shell.",
+        "Halbnah shot: Marcus the senior partner in a tailored suit tossing folders into a bin.",
+        "Detail shot: A leather-bound law textbook resting on a marble reception counter.",
+        "Wide shot: The elevator lobby of the corporate skyscraper overlooking the downtown skyline."
+      ],
+      "caption": "When corporate elites try to crush your dreams just because you started from the bottom. Ever faced workplace snobbery? #LawStudent #CoconutGirl #CorporateDrama #HardWork #StudentLoans"
+    },
+    {
+      "n": 6,
+      "open_loop": "What was written inside the confidential audit report found on the dean's private desk?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Sabotages his university budget presentation by switching his presentation slides."
+      },
+      "name": "Victor, 25, Dragon Fruit MBA",
+      "badge": "+85,000 $",
+      "verdict": "RISING FAST",
+      "story": "Plus 85.000 Dollar, doch plötzlich steht mein alter Kommilitone im Auditorium und beschuldigt mich des Betrugs vor Investoren. The 8 levels of student loans. Level 6. I am Victor, twenty-five, dragon fruit MBA student, striding through the grand marble auditorium with my sleek tablet. I played the university game better than anyone, cutting costs and securing sponsorships. You rigged the innovation grant committee to steal my lab funding. I adjust my designer lapel and flash a cold smile. Welcome to real business, kid, ideas don't pay tuition, results do, I snap, stepping right past him toward the stage. I thought my financial victory was absolute. But then the university auditor stood up at the back of the room and announced this. Das siehst du in Level 7. You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+15.000 $",
+        "after": "+100.000 "
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Plus 85.000 Dollar, doch plötzlich steht mein alter Kommilitone im Auditorium und beschuldigt mich des Betrugs vor Investoren."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of student loans. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Victor, twenty-five, dragon fruit MBA student, striding through the grand marble auditorium with my sleek tablet."
+        },
+        {
+          "s": "Figur",
+          "t": "I played the university game better than anyone, cutting costs and securing sponsorships."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You rigged the innovation grant committee to steal my lab funding.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I adjust my designer lapel and flash a cold smile. Welcome to real business, kid, ideas don't pay tuition, results do, I snap, stepping right past him toward the stage."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "I thought my financial victory was absolute. But then the university auditor stood up at the back of the room and announced this."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "All student investment portfolios are now subject to immediate federal freezing.",
+      "quote_by": {
+        "level": 3,
+        "name": "Leo",
+        "badge": "-12,000 $",
+        "character": "An orange engineering student with a dimpled peel texture, wearing a stained lab coat over a blue t-shirt.",
+        "scene": "Medium close-up in an auditorium aisle, Leo confronting Victor with an angry expression."
+      },
+      "stats": [
+        {
+          "label": "Portfolio",
+          "value": "85.000 $",
+          "bar": 0.65
+        },
+        {
+          "label": "Investments",
+          "value": "12",
+          "bar": 0.85
+        },
+        {
+          "label": "VC Backing",
+          "value": "Active",
+          "bar": 0.95
+        }
+      ],
+      "character": "A striking dragon fruit person with vibrant magenta skin, green-tipped leaf scales, and a sharp charcoal suit with a silk tie. Digital badge on forehead: +85,000 $.",
+      "visual": "Medium shot of a dragon fruit MBA student walking confidently through a grand university hall with a tablet in hand.",
+      "scenes": [
+        "Wide shot: A luxurious university conference hall with crystal chandeliers and rows of velvet seats. A golden coin rests on the armrest of the front row.",
+        "Medium shot: Victor checking investment charts on his digital tablet.",
+        "Close-up: The digital forehead display reading '+85,000 $' glowing sharply against his magenta scales.",
+        "Halbnah shot: Leo the orange engineering student confronting Victor angrily in the aisle.",
+        "Detail shot: A sleek digital tablet screen displaying soaring cryptocurrency and stock graphs.",
+        "Wide shot: The exterior of the university business school with glass facades reflecting the sunset."
+      ],
+      "caption": "When business ambition clashes with hard ethics. Who deserves to win the university grant? #DragonFruit #MBA #BusinessLife #StartupDrama #StudentLoans"
+    },
+    {
+      "n": 7,
+      "open_loop": "Who transferred the six-figure trust fund into her personal account right before midnight?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Spills hot coffee on her designer jacket at an exclusive alumni cocktail lounge."
+      },
+      "name": "Clarissa, 26, Pineapple Heiress",
+      "badge": "+110,000 $",
+      "verdict": "WEALTHY",
+      "story": "Plus 110.000 Dollar im Trust-Fonds, aber eine einzige Banküberweisung um Mitternacht löscht mein gesamtes Vermögen aus. The 8 levels of student loans. Level 7. I am Clarissa, twenty-six, pineapple heiress, sipping champagne at an exclusive campus alumni gala. I never had to take out a single student loan in my life. Watch where you are going, peasant, my outfit costs more than your entire annual living allowance. She bursts into tears, clutching her apron tightly around her. I turn away, completely unfazed by her misery. Right as I reached for my glass of champagne, my phone lit up with a shocking bank notification. Das siehst du in Level 8. You'll see that in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "-50.000 $",
+        "after": "+60,000 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Plus 110.000 Dollar im Trust-Fonds, aber eine einzige Banküberweisung um Mitternacht löscht mein gesamtes Vermögen aus."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of student loans. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Clarissa, twenty-six, pineapple heiress, sipping champagne at an exclusive campus alumni gala. I never had to take out a single student loan in my life."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Watch where you are going, peasant, my outfit costs more than your entire annual living allowance.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "She bursts into tears, clutching her apron tightly around her. I turn away, completely unfazed by her misery."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Right as I reached for my glass of champagne, my phone lit up with a shocking bank notification."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "Your trust fund access has been permanently revoked by court order.",
+      "quote_by": {
+        "level": 2,
+        "name": "Mia",
+        "badge": "-28,000 $",
+        "character": "A bright red Strawberry person with tiny yellow seeds, wearing a green apron over a vintage sweater.",
+        "scene": "Medium shot at a glittering alumni gala, Mia holding a tray while wiping a tear from her cheek."
+      },
+      "stats": [
+        {
+          "label": "Trust Fund",
+          "value": "110.000 $",
+          "bar": 0.8
+        },
+        {
+          "label": "Assets",
+          "value": "High",
+          "bar": 0.9
+        },
+        {
+          "label": "Loans",
+          "value": "0 $",
+          "bar": 0.1
+        }
+      ],
+      "character": "An elegant pineapple person with a spiky golden-yellow crown head, wearing a sparkling gold evening gown and pearl drop earrings. Digital badge on forehead: +110,000 $.",
+      "visual": "Medium close-up of a pineapple heiress holding a champagne glass at a high-end rooftop alumni party.",
+      "scenes": [
+        "Wide shot: A luxurious rooftop terrace overlooking the city skyline at night, twinkling with fairy lights. A golden coin rests on the rim of a marble fountain.",
+        "Medium shot: Clarissa holding a crystal champagne flute with a haughty expression.",
+        "Close-up: The digital forehead display reading '+110,000 $' glowing against her golden crown.",
+        "Halbnah shot: Mia the strawberry barista standing nearby with a spilled tray and a tearful face.",
+        "Detail shot: A ringing smartphone on a cocktail table displaying a red alert notification from a bank.",
+        "Wide shot: Elegant guests mingling in designer evening wear under glowing chandeliers."
+      ],
+      "caption": "When generational wealth disappears in a single second. Would you survive without your family safety net? #PineappleGirl #HeiressLife #TrustFund #GalaNight #StudentLoans"
+    },
+    {
+      "n": 8,
+      "open_loop": "Which of the eight characters will finally own the entire university campus?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Attempts to block his corporate acquisition of the entire student loan district."
+      },
+      "name": "Marcus, 35, Coconut Tycoon",
+      "badge": "+210,000 $",
+      "verdict": "DEBT FREE MASTER",
+      "story": "Plus 210.000 Dollar und ich besitze inzwischen die Schuldenverträge von jedem Einzelnen, der mich damals gedemütigt hat. The 8 levels of student loans. Level 8. I am Marcus, thirty-five, coconut tycoon, standing on the penthouse balcony overlooking the illuminated Fructopolis skyline. Years ago, I started with a negative balance worse than any student on these streets, surviving on library coffee and borrowed textbooks. A young coconut law student tries to hand me an appeal file, but I simply look at her forehead and smile because I remember being her. We all played the exact same game of survival, climbing from negative numbers straight to the top of the financial empire. The number on our foreheads only shows where we started, not who we became in the end. Do you want to know which character in this city secretly bought your very first student loan contract?",
+      "gender": "m",
+      "twist": {
+        "delta": "+50.000 $",
+        "after": "+260,000 "
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Plus 210.000 Dollar und ich besitze inzwischen die Schuldenverträge von jedem Einzelnen, der mich damals gedemütigt hat."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of student loans. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Marcus, thirty-five, coconut tycoon, standing on the penthouse balcony overlooking the illuminated Fructopolis skyline."
+        },
+        {
+          "s": "Figur",
+          "t": "Years ago, I started with a negative balance worse than any student on these streets, surviving on library coffee and borrowed textbooks."
+        },
+        {
+          "s": "Figur",
+          "t": "A young coconut law student tries to hand me an appeal file, but I simply look at her forehead and smile because I remember being her."
+        },
+        {
+          "s": "Figur",
+          "t": "We all played the exact same game of survival, climbing from negative numbers straight to the top of the financial empire."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The number on our foreheads only shows where we started, not who we became in the end. Do you want to know which character in this city secretly bought your very first student loan contract?"
+        }
+      ],
+      "quote": "The number on your forehead never tells the whole story.",
+      "quote_by": {
+        "level": 5,
+        "name": "Zoe",
+        "badge": "+18,500 $",
+        "character": "A sturdy Coconut law student with a hard brown textured shell head, wearing a smart black blazer.",
+        "scene": "Wide angle shot on a luxury penthouse balcony, Zoe looking up in awe at Marcus against the glowing city skyline."
+      },
+      "stats": [
+        {
+          "label": "Net Worth",
+          "value": "210.000 $",
+          "bar": 1.0
+        },
+        {
+          "label": "Loan Empire",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Final Level",
+          "value": "MAX",
+          "bar": 1.0
+        }
+      ],
+      "character": "A distinguished coconut person with a hard, polished brown shell head, wearing an exquisite custom-tailored Italian suit, silk tie, and gold cufflinks. Digital badge on forehead: +210,000 $.",
+      "visual": "Wide shot of a coconut tycoon standing on a luxury penthouse balcony overlooking a glowing futuristic city at night.",
+      "scenes": [
+        "Wide shot: A breathtaking penthouse balcony with glass railings overlooking the sprawling neon city of Fructopolis at midnight. A golden coin rests on the penthouse railing.",
+        "Medium shot: Marcus adjusting his platinum cufflink while surveying his financial empire.",
+        "Close-up: The glowing digital forehead display reading '+210,000 $' shining proudly in the night air.",
+        "Halbnah shot: Zoe the coconut law student handing Marcus the final portfolio file.",
+        "Detail shot: A gold-engraved fountain pen resting on a mahogany desk beside stacked loan agreements.",
+        "Wide shot: The entire Fructopolis skyline twinkling with lights as all eight character stories connect across the city."
+      ],
+      "caption": "From negative debt to owning the entire city. What topic should we cover in our next 8-level series? Drop your ideas below! #TycoonLife #CoconutMan #SuccessStory #FinalLevel #StudentLoans"
+    }
+  ],
+  "lang": "en",
+  "topic": "Studienkredite",
+  "frame": "frucht"
+}

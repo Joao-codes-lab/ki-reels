@@ -1,0 +1,821 @@
+{
+  "title": "Die 8 Level von offenen Tabs",
+  "house": "A bustling neon-lit fruit metropolis where everyone has a glowing digital counter on their forehead showing their exact open browser tabs, featuring damp alleyways, crowded cafes, and glowing kiosks.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Barista mentions the girl with 3 tabs who always drops her change.",
+    "A guy in a sharp suit walks past mumbling about 800 tabs crashing his laptop.",
+    "The kiosk owner complains about customers blocking Wi-Fi with endless shopping tabs."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Welcher fatale Systemfehler verbirgt sich im Quellcode von Finns drittem Tab?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Spuckt ihm beleidigende Worte vor der Kundenschlange an den Kopf und demütigt seine niedrige Tab-Zahl."
+      },
+      "name": "Finn, 22, Azubi",
+      "badge": "3 Tabs",
+      "verdict": "UNTERSCHÄTZT",
+      "story": "Drei Tabs? Du armselige Erdbeere hast wohl nicht mal genug Gehirnzellen für einen vierten Tab! spuckt Klara mir vor der ganzen Schlange an den Kopf. Alle Kunden im Kiosk lachen gehässig, während mein Stirnzähler mit erbärmlichen drei Tabs flackert. Sie halten mich für einen geistlosen Hilfsgärtner, der im digitalen Zeitalter den Anschluss verloren hat. Doch was Klara und die spottende Meute nicht ahnen: In meinen drei unscheinbaren Tabs liegt der kompilierte Quellcode des gesamten Metropolen-Netzwerks. Tab eins steuert die neuronale Energieverteilung aller Stadtteile. Tab zwei überwacht die geheimen Notfallprotokolle der städtischen Server-Infrastruktur. Und Tab drei enthält den ultimativen Master-Override, der jede digitale Überwachung mit einem einzigen Skript lahmlegen kann. Während Klara ihr Gehirn mit vierhundertfünfzig offenen Shopping-Feeds, Boulevard-Headlines und Werbetrackern zumüllt, läuft auf meinem Bildschirm reine, unbändige Systemkontrolle. Ich brauche keine hunderte Tabs, um eine Stadt zu beherrschen – ich brauche nur die richtigen drei. Als Klara stolz ihr Smartphone schwenkt, bemerke ich, wie ihre Systemtemperatur gefährlich in den roten Bereich schießt. Welcher fatale Systemfehler verbirgt sich im Quellcode von Finns drittem Tab? Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+50 Tabs",
+        "after": "53 Tabs"
+      },
+      "lines": [
+        {
+          "s": "Nebenfigur",
+          "t": "Drei Tabs? Du armselige Erdbeere hast wohl nicht mal genug Gehirnzellen für einen vierten Tab!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "spuckt Klara mir vor der ganzen Schlange an den Kopf."
+        },
+        {
+          "s": "Figur",
+          "t": "Alle Kunden im Kiosk lachen gehässig, während mein Stirnzähler mit erbärmlichen drei Tabs flackert."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie halten mich für einen geistlosen Hilfsgärtner, der im digitalen Zeitalter den Anschluss verloren hat."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch was Klara und die spottende Meute nicht ahnen: In meinen drei unscheinbaren Tabs liegt der kompilierte Quellcode des gesamten Metropolen-Netzwerks."
+        },
+        {
+          "s": "Figur",
+          "t": "Tab eins steuert die neuronale Energieverteilung aller Stadtteile. Tab zwei überwacht die geheimen Notfallprotokolle der städtischen Server-Infrastruktur."
+        },
+        {
+          "s": "Figur",
+          "t": "Und Tab drei enthält den ultimativen Master-Override, der jede digitale Überwachung mit einem einzigen Skript lahmlegen kann."
+        },
+        {
+          "s": "Figur",
+          "t": "Während Klara ihr Gehirn mit vierhundertfünfzig offenen Shopping-Feeds, Boulevard-Headlines und Werbetrackern zumüllt, läuft auf meinem Bildschirm reine, unbändige Systemkontrolle."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich brauche keine hunderte Tabs, um eine Stadt zu beherrschen – ich brauche nur die richtigen drei."
+        },
+        {
+          "s": "Figur",
+          "t": "Als Klara stolz ihr Smartphone schwenkt, bemerke ich, wie ihre Systemtemperatur gefährlich in den roten Bereich schießt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welcher fatale Systemfehler verbirgt sich im Quellcode von Finns drittem Tab?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Drei Tabs? Du armselige Erdbeere hast wohl nicht mal genug Gehirnzellen für einen vierten Tab!",
+      "quote_by": {
+        "level": 3,
+        "name": "Klara",
+        "badge": "450 Tabs",
+        "character": "An arrogant orange with a shiny leather jacket and a glowing red digital counter on her forehead.",
+        "scene": "Medium shot inside a neon-lit convenience store at night, pointing mockingly at Finn's forehead."
+      },
+      "stats": [
+        {
+          "label": "Tabs",
+          "value": "3",
+          "bar": 0.05
+        },
+        {
+          "label": "RAM",
+          "value": "2 GB",
+          "bar": 0.1
+        },
+        {
+          "label": "Macht",
+          "value": "Root",
+          "bar": 0.99
+        }
+      ],
+      "character": "A young strawberry person with freckled red skin, wearing a worn-out green gardener hoodie, carrying a small golden coin in his pocket.",
+      "visual": "Wide shot of a young strawberry person sitting on a worn-out park bench at dusk, staring nervously at a glowing laptop screen while a tiny golden coin rests on the wooden armrest.",
+      "scenes": [
+        "Wide shot of a bustling neon-lit Berlin street at twilight, with colorful fruit pedestrians rushing past a glowing kiosk, a tiny golden coin hidden near a puddle in the foreground.",
+        "Medium shot inside a cramped and chaotic flower shop, with green leaves hanging from the ceiling and a glowing digital counter clearly visible on the main character's forehead.",
+        "Close-up on a flickering laptop screen in a dark room, displaying exactly three open browser tabs with dense kernel code while dust motes float in the warm desk light.",
+        "Halbnah at a brightly lit convenience store checkout counter at night, where an angry orange person points mockingly at the protagonist.",
+        "Detail shot of shaking hands holding an old smartphone with a cracked screen protector showing raw root code execution.",
+        "Wide shot of a crowded subway station platform during rush hour, with commuting fruit citizens looking away in cold indifference."
+      ],
+      "caption": "Wer braucht schon hunderte Tabs, wenn man den Master-Code besitzt? #tabs #browser #secret #viral #deutschland"
+    },
+    {
+      "n": 2,
+      "open_loop": "Welches Dokument öffnete sich um 03:00 Uhr von selbst auf Mias Display?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Demütigt Mia vor 300 Studenten im Audimax und wirft ihre gesamte Forschungsarbeit in den Papiermüll."
+      },
+      "name": "Mia, 25, Studentin",
+      "badge": "53 Tabs",
+      "verdict": "REBELLISCH",
+      "story": "53 Tabs und Sie wagen es, sich Studentin zu nennen? brüllt Hagebutte durch das Audimax und wirft mein Skript in den Müll. Dreihundert Kommilitonen johlen vor Vergnügen, während mein Gesicht glüht und mein Stirnzähler nervös bei dreiundfünfzig Tabs blinkt. Hagebutte hält mich für eine überforderte Chaotin, die nicht mal fünfzig Quellen gleichzeitig verwalten kann. Doch er begreift nicht, was auf meinem Laptop wirklich vor sich geht. Ich schreibe keine banale Hausarbeit über Medientheorie. Tief im Verborgenen arbeite ich an der Entschlüsselung von Finns legendärem System-Reset-Algorithmus. Meine dreiundfünfzig Tabs sind kein Datenmüll, sondern hochkomplexe Dekodierungs-Routinen, Speicherabbilder und dekompilierte Kernel-Dateien, die das drohende Datenbeben der Metropole aufdecken. Während der Professor sich an seiner elitären Arroganz berauscht, habe ich längst bemerkt, dass das städtische Zentralregister jede Nacht heimlich Daten absaugt. Hagebutte ahnt nicht, dass sein eigener Lehrstuhl im Zentrum dieser illegalen Machenschaften steht. Als die Vorlesung endet, schlägt mein Puls rasend schnell gegen die Schläfen. Welches Dokument öffnete sich um 03:00 Uhr von selbst auf Mias Display? Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+350 Tabs",
+        "after": "403 Tabs"
+      },
+      "lines": [
+        {
+          "s": "Nebenfigur",
+          "t": "53 Tabs und Sie wagen es, sich Studentin zu nennen?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "brüllt Hagebutte durch das Audimax und wirft mein Skript in den Müll."
+        },
+        {
+          "s": "Figur",
+          "t": "Dreihundert Kommilitonen johlen vor Vergnügen, während mein Gesicht glüht und mein Stirnzähler nervös bei dreiundfünfzig Tabs blinkt."
+        },
+        {
+          "s": "Figur",
+          "t": "Hagebutte hält mich für eine überforderte Chaotin, die nicht mal fünfzig Quellen gleichzeitig verwalten kann."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch er begreift nicht, was auf meinem Laptop wirklich vor sich geht. Ich schreibe keine banale Hausarbeit über Medientheorie."
+        },
+        {
+          "s": "Figur",
+          "t": "Tief im Verborgenen arbeite ich an der Entschlüsselung von Finns legendärem System-Reset-Algorithmus."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine dreiundfünfzig Tabs sind kein Datenmüll, sondern hochkomplexe Dekodierungs-Routinen, Speicherabbilder und dekompilierte Kernel-Dateien, die das drohende Datenbeben der Metropole aufdecken."
+        },
+        {
+          "s": "Figur",
+          "t": "Während der Professor sich an seiner elitären Arroganz berauscht, habe ich längst bemerkt, dass das städtische Zentralregister jede Nacht heimlich Daten absaugt."
+        },
+        {
+          "s": "Figur",
+          "t": "Hagebutte ahnt nicht, dass sein eigener Lehrstuhl im Zentrum dieser illegalen Machenschaften steht."
+        },
+        {
+          "s": "Figur",
+          "t": "Als die Vorlesung endet, schlägt mein Puls rasend schnell gegen die Schläfen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Dokument öffnete sich um 03:00 Uhr von selbst auf Mias Display?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "53 Tabs und Sie wagen es, sich Studentin zu nennen?",
+      "quote_by": {
+        "level": 5,
+        "name": "Professor Hagebutte",
+        "badge": "820 Tabs",
+        "character": "An austere and rigid coconut man wearing a tweed jacket with leather elbow patches.",
+        "scene": "Medium shot in a massive university lecture hall with rows of wooden desks, pointing sternly down at a student."
+      },
+      "stats": [
+        {
+          "label": "Tabs",
+          "value": "53",
+          "bar": 0.2
+        },
+        {
+          "label": "RAM",
+          "value": "8 GB",
+          "bar": 0.3
+        },
+        {
+          "label": "Decrypt",
+          "value": "84 %",
+          "bar": 0.84
+        }
+      ],
+      "character": "A bright yellow lemon person with messy hair, wearing a loose oversized vintage sweater, holding a half-empty cup of cold black coffee.",
+      "visual": "Wide shot of a stressed lemon student sitting at a cluttered wooden library desk surrounded by towering stacks of books, with a tiny golden coin half-hidden under a coffee mug.",
+      "scenes": [
+        "Wide shot of a grand university lecture hall with towering windows and dust motes dancing in the afternoon sun, a tiny golden coin resting on the edge of the front row desk.",
+        "Medium shot of the lemon student furiously typing on a sticky keyboard while multiple browser windows overlap messily.",
+        "Close-up on the glowing forehead counter reading 53 tabs in bright digital orange light.",
+        "Halbnah in front of a heavy oak professor's desk where a strict coconut man leans forward with an intimidating smirk.",
+        "Detail shot of a trembling hand hovering over an encrypted partition labeled Reset-Core.",
+        "Wide shot of a rainy tram stop in Cologne at night, with neon reflections shimmering on the wet pavement."
+      ],
+      "caption": "Wenn der Professor keine Ahnung hat, dass du sein gesamtes System dechiffrierst... #audimax #studentenleben #hacker #viral #deutschland"
+    },
+    {
+      "n": 3,
+      "open_loop": "Wird Madame Xenia ihre Spionage-Drohung wahr machen, bevor Tom den Großangriff abwehren kann?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Knallt die fristlose Kündigung auf die Tastatur und droht mit Verhaftung wegen Industriespionage."
+      },
+      "name": "Tom, 29, IT-Support",
+      "badge": "403 Tabs",
+      "verdict": "UNERKANNT",
+      "story": "403 Tabs? Du fliegst, Tom – wer so schlampt, beklaut die Firma! zischt Madame Xenia und knallt die Kündigung auf die Tastatur. Der halbe Bürotrakt starrt herüber, während mein Stirnzähler grellrot auf vierhundertunddrei Tabs aufleuchtet. Xenia denkt, ich verbringe meine Nächte mit Browserspielen und Streaming-Diensten, während die Serverkühler rotieren. Was die eiskalte Chefin in ihrer blinden Wut nicht versteht: In genau diesen vierhundertunddrei Tabs überwache ich heimlich den verheerendsten Großangriff auf die gesamte City. Ausländische Kartelle attackieren sekündlich unsere Firewall, und jeder einzelne meiner geöffneten Tabs hält einen kompromittierten Netzknoten im Finanzdistrikt manuell am Leben. Wenn ich auch nur zehn dieser Tabs schließe, bricht die städtische Strom- und Datenversorgung in sich zusammen. Xenia droht mir mit Polizei, Industriespionage und Schadensersatzklagen, unfähig zu begreifen, dass ich das Einzige bin, was ihre glänzende Karriere vor dem totalen Absturz bewahrt. Während sie mein Kündigungsschreiben unterzeichnet, sauge ich heimlich die letzten kryptografischen Abwehrschlüssel auf meinen externen Speicherstick. Wird Madame Xenia ihre Spionage-Drohung wahr machen, bevor Tom den Großangriff abwehren kann? Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+500 Tabs",
+        "after": "903 Tabs"
+      },
+      "lines": [
+        {
+          "s": "Nebenfigur",
+          "t": "403 Tabs? Du fliegst, Tom – wer so schlampt, beklaut die Firma!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "zischt Madame Xenia und knallt die Kündigung auf die Tastatur."
+        },
+        {
+          "s": "Figur",
+          "t": "Der halbe Bürotrakt starrt herüber, während mein Stirnzähler grellrot auf vierhundertunddrei Tabs aufleuchtet."
+        },
+        {
+          "s": "Figur",
+          "t": "Xenia denkt, ich verbringe meine Nächte mit Browserspielen und Streaming-Diensten, während die Serverkühler rotieren."
+        },
+        {
+          "s": "Figur",
+          "t": "Was die eiskalte Chefin in ihrer blinden Wut nicht versteht: In genau diesen vierhundertunddrei Tabs überwache ich heimlich den verheerendsten Großangriff auf die gesamte City."
+        },
+        {
+          "s": "Figur",
+          "t": "Ausländische Kartelle attackieren sekündlich unsere Firewall, und jeder einzelne meiner geöffneten Tabs hält einen kompromittierten Netzknoten im Finanzdistrikt manuell am Leben."
+        },
+        {
+          "s": "Figur",
+          "t": "Wenn ich auch nur zehn dieser Tabs schließe, bricht die städtische Strom- und Datenversorgung in sich zusammen."
+        },
+        {
+          "s": "Figur",
+          "t": "Xenia droht mir mit Polizei, Industriespionage und Schadensersatzklagen, unfähig zu begreifen, dass ich das Einzige bin, was ihre glänzende Karriere vor dem totalen Absturz bewahrt."
+        },
+        {
+          "s": "Figur",
+          "t": "Während sie mein Kündigungsschreiben unterzeichnet, sauge ich heimlich die letzten kryptografischen Abwehrschlüssel auf meinen externen Speicherstick."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wird Madame Xenia ihre Spionage-Drohung wahr machen, bevor Tom den Großangriff abwehren kann?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "403 Tabs? Du fliegst, Tom – wer so schlampt, beklaut die Firma!",
+      "quote_by": {
+        "level": 6,
+        "name": "Madame Xenia",
+        "badge": "1.250 Tabs",
+        "character": "An elegant dragon-fruit woman with magenta scales and sharp obsidian earrings.",
+        "scene": "Medium shot in a gleaming corporate IT office, looking down with extreme disdain at an overworked employee."
+      },
+      "stats": [
+        {
+          "label": "Tabs",
+          "value": "403",
+          "bar": 0.4
+        },
+        {
+          "label": "RAM",
+          "value": "32 GB",
+          "bar": 0.6
+        },
+        {
+          "label": "Firewall",
+          "value": "99 %",
+          "bar": 0.99
+        }
+      ],
+      "character": "An avocado person with smooth green skin and a pit-shaped monocle, wearing a checked flannel shirt and grease-stained cargo pants.",
+      "visual": "Wide shot of an underground server room filled with blinking rack lights and tangled cables, with a tiny golden coin resting on top of a hot server chassis.",
+      "scenes": [
+        "Wide shot of a Frankfurt open-plan office at night with blue monitor glows, a tiny golden coin hidden under a black coffee cup.",
+        "Medium shot of the avocado IT worker frantically clicking between dozens of minimized browser tabs defending breach points.",
+        "Close-up on the digital forehead display flashing the number 403 in bright red light.",
+        "Halbnah where a dragon-fruit manager in a sharp white suit crosses her arms and slams a termination notice on the desk.",
+        "Detail shot of a mechanical keyboard with worn-out keycaps while an external USB drive rapidly copies encrypted logs.",
+        "Wide shot of an empty night train sliding across an illuminated steel bridge over the Main river."
+      ],
+      "caption": "Wenn die Chefin dich feuert, während du heimlich das gesamte Stromnetz rettest... #buerodrama #itsupport #helden #viral #deutschland"
+    },
+    {
+      "n": 4,
+      "open_loop": "Welche verbotenen Leerverkäufe verbergen sich hinter Dr. Bananes geheimen Konten?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Schüttet im Vorbeigehen versehentlich Eiskaffee über das Steuerpult der Hauptleitungen."
+      },
+      "name": "Sarah, 31, Researcher",
+      "badge": "903 Tabs",
+      "verdict": "ÜBERRASCHT",
+      "story": "903 Tabs und du ruinierst den Server, du unfähiges Gemüse! herrscht Sarah den Praktikanten an, bevor ihr eigener Bildschirm schwarz wird. Der Raum gefriert, als der junge Gärtner Finn stolpert und sein eisgekühlter Kaffee sich zischend über das offene Terminal ergießt. Neunhundertunddrei Tabs – meine gesamte Marktforschung, die unzähligen Live-Ticker und Finanzanalysen scheinen mit einem Schlag vernichtet. Doch mitten in meinem wütenden Schrei geschieht das Unfassbare: Durch die Flüssigkeit entsteht ein präziser Kurzschluss auf Platine sieben. Ich starre wie gelähmt auf die blinkenden Notstrom-Dioden und begreife schlagartig die Realität. Der Kurzschluss hat exakt die manipulierte Glasfaserleitung gekappt, über die der gewaltige Cyberangriff aus Level drei ungehindert in unser Hauptsystem eindringen wollte! Finns Missgeschick hat nicht den Server ruiniert – es hat die gesamte städtische Cloud vor der feindlichen Übernahme gerettet. Als ich hastig die eingefrorenen Restdaten untersuche, stoße ich auf ein brennendes Geheimnis: Milliardenschwere Leerverkäufe, die direkt auf die Konten von Dr. Bananes Luxus-Holding verweisen. Welche verbotenen Leerverkäufe verbergen sich hinter Dr. Bananes geheimen Konten? Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+800 Tabs",
+        "after": "1.703 Tab"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "903 Tabs und du ruinierst den Server, du unfähiges Gemüse!"
+        },
+        {
+          "s": "Figur",
+          "t": "herrscht Sarah den Praktikanten an, bevor ihr eigener Bildschirm schwarz wird."
+        },
+        {
+          "s": "Figur",
+          "t": "Der Raum gefriert, als der junge Gärtner Finn stolpert und sein eisgekühlter Kaffee sich zischend über das offene Terminal ergießt."
+        },
+        {
+          "s": "Figur",
+          "t": "Neunhundertunddrei Tabs – meine gesamte Marktforschung, die unzähligen Live-Ticker und Finanzanalysen scheinen mit einem Schlag vernichtet."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch mitten in meinem wütenden Schrei geschieht das Unfassbare: Durch die Flüssigkeit entsteht ein präziser Kurzschluss auf Platine sieben."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich starre wie gelähmt auf die blinkenden Notstrom-Dioden und begreife schlagartig die Realität."
+        },
+        {
+          "s": "Figur",
+          "t": "Der Kurzschluss hat exakt die manipulierte Glasfaserleitung gekappt, über die der gewaltige Cyberangriff aus Level drei ungehindert in unser Hauptsystem eindringen wollte!"
+        },
+        {
+          "s": "Figur",
+          "t": "Finns Missgeschick hat nicht den Server ruiniert – es hat die gesamte städtische Cloud vor der feindlichen Übernahme gerettet."
+        },
+        {
+          "s": "Figur",
+          "t": "Als ich hastig die eingefrorenen Restdaten untersuche, stoße ich auf ein brennendes Geheimnis: Milliardenschwere Leerverkäufe, die direkt auf die Konten von Dr. Bananes Luxus-Holding verweisen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welche verbotenen Leerverkäufe verbergen sich hinter Dr. Bananes geheimen Konten?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "903 Tabs und du ruinierst den Server, du unfähiges Gemüse!",
+      "quote_by": {
+        "level": 4,
+        "name": "Sarah",
+        "badge": "903 Tabs",
+        "character": "A crisp broccoli person with curly green florets, wearing a neat navy blue blazer and round wire-rimmed glasses.",
+        "scene": "Medium shot in a bright modern office space, furiously pointing at a spilled coffee cup on the central server rack."
+      },
+      "stats": [
+        {
+          "label": "Tabs",
+          "value": "903",
+          "bar": 0.55
+        },
+        {
+          "label": "RAM",
+          "value": "64 GB",
+          "bar": 0.75
+        },
+        {
+          "label": "Schutz",
+          "value": "Aktiv",
+          "bar": 0.92
+        }
+      ],
+      "character": "A crisp broccoli person with curly green florets, wearing a neat navy blue blazer and round wire-rimmed glasses.",
+      "visual": "Wide shot of a sleek glass-walled office in Hamburg overlooking the harbor at sunrise, with a tiny golden coin resting on a stack of financial reports.",
+      "scenes": [
+        "Wide shot of a stormy harbor in Hamburg with grey waves crashing against concrete piers, a tiny golden coin hidden inside an empty shipping container model on a desk.",
+        "Medium shot of the broccoli researcher staring intensely at a massive curved widescreen monitor filled with tiny text.",
+        "Close-up on the glowing digital forehead display flashing 903 in bright neon white.",
+        "Halbnah where a clumsy strawberry intern stumbles and drops an iced coffee over the crucial terminal board.",
+        "Detail shot of sizzling white foam spreading across glowing circuit boards stopping a malware infection.",
+        "Wide shot of an underground parking garage with flickering fluorescent tube lights reflecting on wet concrete."
+      ],
+      "caption": "Ein verschütteter Kaffee rettet die gesamte City vor dem Hacker-Angriff! #plotttwist #servercrash #research #viral #deutschland"
+    },
+    {
+      "n": 5,
+      "open_loop": "Wird Maximilian den Kaufvertrag über Tab 1.703 vollstrecken und Dr. Banane endgültig ruinieren?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Verhöhnt Maximilian öffentlich vor Großanlegern und droht, sein Architekturbüro zu vernichten."
+      },
+      "name": "Maximilian, 37, Architekt",
+      "badge": "1.703 Tabs",
+      "verdict": "TRIUMPHAL",
+      "story": "1.703 Tabs? Wer so viel Ballast mitschleppt, baut Luftschlösser für Penner! verhöhnt Dr. Banane ihn vor den Investoren. Das schallende Gelächter der Anleger hallt durch das edle Münchener Penthouse, während meine Stirnanzeige mit tausendsiebenhundertunddrei Tabs silbern funkelt. Banane sonnt sich in seiner Macht, mustert meinen Anzug herablassend und hält mich für einen überarbeiteten Fantasten, der an unrealistischen Bauprojekten erstickt. Doch der milliardenschwere Großinvestor hat keine Ahnung, welches Spiel hier tatsächlich gespielt wird. Meine ersten tausendsiebenhundertzwei Tabs mögen statische Berechnungen und Architekturpläne sein, doch in Tab 1.703 verbirgt sich mein tödlicher Gegenschlag: der vollständig notariell beglaubigte Kaufvertrag für Bananes bankrotte Holding. Mithilfe der geleakten Finanzberichte habe ich seine erdrückenden Schuldscheine heimlich für einen Bruchteil ihres Werts aufgekauft. Während Banane selbstgefällig an seinem Champagnerglas nippt und vor den Kameras prahlt, gehört ihm in Wahrheit nicht einmal mehr der Stuhl, auf dem er sitzt. Ich richte meine Krawatte, blicke ihm fest in die Augen und warte nur darauf, den Vertrag digital freizugeben. Wird Maximilian den Kaufvertrag über Tab 1.703 vollstrecken und Dr. Banane endgültig ruinieren? Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1.200 Tab",
+        "after": "2.903 Tab"
+      },
+      "lines": [
+        {
+          "s": "Nebenfigur",
+          "t": "1.703 Tabs? Wer so viel Ballast mitschleppt, baut Luftschlösser für Penner!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "verhöhnt Dr. Banane ihn vor den Investoren."
+        },
+        {
+          "s": "Figur",
+          "t": "Das schallende Gelächter der Anleger hallt durch das edle Münchener Penthouse, während meine Stirnanzeige mit tausendsiebenhundertunddrei Tabs silbern funkelt."
+        },
+        {
+          "s": "Figur",
+          "t": "Banane sonnt sich in seiner Macht, mustert meinen Anzug herablassend und hält mich für einen überarbeiteten Fantasten, der an unrealistischen Bauprojekten erstickt."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch der milliardenschwere Großinvestor hat keine Ahnung, welches Spiel hier tatsächlich gespielt wird."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine ersten tausendsiebenhundertzwei Tabs mögen statische Berechnungen und Architekturpläne sein, doch in Tab 1.703 verbirgt sich mein tödlicher Gegenschlag: der vollständig notariell beglaubigte Kaufvertrag für Bananes bankrotte Holding."
+        },
+        {
+          "s": "Figur",
+          "t": "Mithilfe der geleakten Finanzberichte habe ich seine erdrückenden Schuldscheine heimlich für einen Bruchteil ihres Werts aufgekauft."
+        },
+        {
+          "s": "Figur",
+          "t": "Während Banane selbstgefällig an seinem Champagnerglas nippt und vor den Kameras prahlt, gehört ihm in Wahrheit nicht einmal mehr der Stuhl, auf dem er sitzt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich richte meine Krawatte, blicke ihm fest in die Augen und warte nur darauf, den Vertrag digital freizugeben."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wird Maximilian den Kaufvertrag über Tab 1.703 vollstrecken und Dr. Banane endgültig ruinieren?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "1.703 Tabs? Wer so viel Ballast mitschleppt, baut Luftschlösser für Penner!",
+      "quote_by": {
+        "level": 7,
+        "name": "Dr.h.c. Banane",
+        "badge": "4.500 Tabs",
+        "character": "A sleek, aristocratic banana man in a bespoke cashmere turtleneck and designer sunglasses indoors.",
+        "scene": "Medium shot in a luxury glass boardroom overlooking Munich, smirking down at architectural blueprints."
+      },
+      "stats": [
+        {
+          "label": "Tabs",
+          "value": "1.703",
+          "bar": 0.7
+        },
+        {
+          "label": "Anteile",
+          "value": "51 %",
+          "bar": 0.51
+        },
+        {
+          "label": "Coups",
+          "value": "100 %",
+          "bar": 1.0
+        }
+      ],
+      "character": "A polished coconut person with hard brown shell texture, wearing a high-end grey tailored suit and a platinum wristwatch.",
+      "visual": "Wide shot of a minimalist penthouse architectural office in Munich with floor-to-ceiling windows showing the Alps in the distance, a tiny golden coin resting on a glossy marble model.",
+      "scenes": [
+        "Wide shot of a luxury lakeside villa construction site in Bavaria under a dramatic overcast sky, a tiny golden coin hidden in a heap of fresh gravel.",
+        "Medium shot of the coconut architect examining blueprints on a high-end multi-monitor workstation.",
+        "Close-up on the glowing digital forehead counter displaying 1.703 in bright silver LED.",
+        "Halbnah in a luxurious glass-walled conference room where an arrogant banana executive points mockingly at the screen.",
+        "Detail shot of expensive fountain pen poised above a takeover contract titled Tab 1.703.",
+        "Wide shot of a quiet tree-lined avenue in Munich during a gentle autumn drizzle."
+      ],
+      "caption": "Er lacht über meine Tabs – aber Tab 1.703 kauft gerade sein gesamtes Firmenimperium! #kaufvertrag #architektur #rache #viral #deutschland"
+    },
+    {
+      "n": 6,
+      "open_loop": "Wird der Kurs von Xenias Tech-Aktie innerhalb der nächsten sechzig Sekunden auf null abstürzen?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Schleicht sich an den Sicherheitsleuten vorbei und sperrt Xenia aus ihrer eigenen Chefetage aus."
+      },
+      "name": "Madame Xenia, 42, CEO",
+      "badge": "2.903 Tabs",
+      "verdict": "ENTMACHTET",
+      "story": "2.903 Tabs? Du steuerst keinen Konzern mehr, Xenia, du wirst gesteuert! grinst Tom ihr eiskalt ins Gesicht. Panik flackert in meinen Augen auf, als der totgeglaubte IT-Techniker plötzlich mitten in meinem verglasten Vorstandsbüro steht. Auf meiner Stirn glüht die zermürbende Zahl von zweitausendneunhundertunddrei Tabs – ein Albtraum aus Börsentickern, Übernahmeangeboten und blinkenden Krisenwarnungen. Ich dachte, ich hätte Tom vor Wochen fristlos entlassen und aus dem Gebäude geworfen. Doch Tom wurde nie gefeuert. Er hat die Kündigung ins Leere laufen lassen und stattdessen mein gesamtes digitales Firmenreich gekapert. Jeder einzelne meiner fast dreitausend geöffneten Tabs wird nicht mehr von meinen Vorständen bedient, sondern von Toms externem Spiegelsystem kontrolliert. Meine Befehle verpuffen, die Notverkäufe sind blockiert und meine gesamte Macht schmilzt im Sekundentakt dahin. Tom lehnt sich entspannt an die Panzerglasscheibe mit Blick auf den Berliner Fernsehturm, während meine Hände vor Ohnmacht zittern. Er hält die Schlinge in der Hand, und ich habe keine Karten mehr zum Ausspielen. Wird der Kurs von Xenias Tech-Aktie innerhalb der nächsten sechzig Sekunden auf null abstürzen? Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1.597 Tab",
+        "after": "4.500 Tab"
+      },
+      "lines": [
+        {
+          "s": "Nebenfigur",
+          "t": "2.903 Tabs? Du steuerst keinen Konzern mehr, Xenia, du wirst gesteuert!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "grinst Tom ihr eiskalt ins Gesicht."
+        },
+        {
+          "s": "Figur",
+          "t": "Panik flackert in meinen Augen auf, als der totgeglaubte IT-Techniker plötzlich mitten in meinem verglasten Vorstandsbüro steht."
+        },
+        {
+          "s": "Figur",
+          "t": "Auf meiner Stirn glüht die zermürbende Zahl von zweitausendneunhundertunddrei Tabs – ein Albtraum aus Börsentickern, Übernahmeangeboten und blinkenden Krisenwarnungen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich dachte, ich hätte Tom vor Wochen fristlos entlassen und aus dem Gebäude geworfen."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch Tom wurde nie gefeuert. Er hat die Kündigung ins Leere laufen lassen und stattdessen mein gesamtes digitales Firmenreich gekapert."
+        },
+        {
+          "s": "Figur",
+          "t": "Jeder einzelne meiner fast dreitausend geöffneten Tabs wird nicht mehr von meinen Vorständen bedient, sondern von Toms externem Spiegelsystem kontrolliert."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Befehle verpuffen, die Notverkäufe sind blockiert und meine gesamte Macht schmilzt im Sekundentakt dahin."
+        },
+        {
+          "s": "Figur",
+          "t": "Tom lehnt sich entspannt an die Panzerglasscheibe mit Blick auf den Berliner Fernsehturm, während meine Hände vor Ohnmacht zittern."
+        },
+        {
+          "s": "Figur",
+          "t": "Er hält die Schlinge in der Hand, und ich habe keine Karten mehr zum Ausspielen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wird der Kurs von Xenias Tech-Aktie innerhalb der nächsten sechzig Sekunden auf null abstürzen?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "2.903 Tabs? Du steuerst keinen Konzern mehr, Xenia, du wirst gesteuert!",
+      "quote_by": {
+        "level": 3,
+        "name": "Tom",
+        "badge": "403 Tabs",
+        "character": "An avocado IT expert with smooth green skin and a pit-shaped monocle.",
+        "scene": "Medium shot in a high-tech Berlin corporate penthouse, leaning casually against a glass pillar with a smirk."
+      },
+      "stats": [
+        {
+          "label": "Tabs",
+          "value": "2.903",
+          "bar": 0.82
+        },
+        {
+          "label": "Panik",
+          "value": "99 %",
+          "bar": 0.99
+        },
+        {
+          "label": "Kontrolle",
+          "value": "0 %",
+          "bar": 0.01
+        }
+      ],
+      "character": "An elegant dragon-fruit person with vibrant magenta scales, wearing a sleek black velvet pantsuit and sharp obsidian heels.",
+      "visual": "Wide shot of a high-tech corporate boardroom in Berlin at night overlooking the illuminated TV tower, with a tiny golden coin resting on a glass conference table.",
+      "scenes": [
+        "Wide shot of Alexanderplatz in Berlin at night with blurred traffic streaks, a tiny golden coin hidden near the base of the World Time Clock.",
+        "Medium shot of the dragon-fruit CEO standing in front of a giant curved video wall displaying endless lines of code turning red.",
+        "Close-up on the glowing digital forehead counter displaying 2.903 in bright magenta light flickering wildly.",
+        "Halbnah where an avocado IT specialist looks back defiantly over his shoulder with root admin permissions.",
+        "Detail shot of a sleek glass door locking automatically with an electronic red beep while credentials fail.",
+        "Wide shot of a misty Berlin canal at dawn with old industrial brick warehouses along the banks."
+      ],
+      "caption": "Der gekündigte IT-Mitarbeiter übernimmt die gesamte Konzern-Zentrale! #ceo #machtkampf #drama #viral #deutschland"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welcher verheerende Master-Befehl verbirgt sich wirklich hinter Finns drei geheimnisvollen Tabs?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Konfrontiert ihn vor laufenden Kameras mit den Beweisen seiner illegalen Leerverkäufe."
+      },
+      "name": "Dr.h.c. Banane, 51, Investor",
+      "badge": "4.500 Tabs",
+      "verdict": "RUINIERT",
+      "story": "4.500 Tabs und Sie merken nicht mal, dass Ihre Milliarden schon verbrannt sind! schleudert Sarah ihm entgegen. Mein Atem stockt, während die Researcher-Frau aus Level vier unangekündigt in mein Frankfurter Penthouse stürmt und eine zentimeterdicke Akte auf meinen Mahagonitisch knallt. Auf meiner Stirn lodert die monströse Zahl von viertausendfünfhundert Tabs – mein ganzer Stolz, die gewaltige Maschinerie meiner vermeintlich unantastbaren Hedgefonds-Macht. Doch als ich auf Sarahs forensischen Bericht starre, bricht meine Welt wie morsches Holz zusammen. Die Analystin, die ich einst als unbedeutendes Rädchen verspottet habe, hat mein gesamtes illegales Leerverkaufs-Netzwerk bis ins letzte Detail lückenlos aufgedeckt und an die Bundesaufsicht übermittelt. Alle meine viertausendfünfhundert Tabs beginnen wie wild rot zu blinken, als weltweite Nachschussforderungen meine Konten in den Abgrund reißen. Mein Vermögen zerfällt zu Staub. Sarah beugt sich kalt lächelnd vor und flüstert mir zu, wer die entscheidenden System-Hinweise geliefert hat: jener bescheidene Gärtner Finn mit seinen drei lächerlichen Tabs. Welcher verheerende Master-Befehl verbirgt sich wirklich hinter Finns drei geheimnisvollen Tabs? Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+5.500 Tab",
+        "after": "10.000 Ta"
+      },
+      "lines": [
+        {
+          "s": "Nebenfigur",
+          "t": "4.500 Tabs und Sie merken nicht mal, dass Ihre Milliarden schon verbrannt sind!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "schleudert Sarah ihm entgegen."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Atem stockt, während die Researcher-Frau aus Level vier unangekündigt in mein Frankfurter Penthouse stürmt und eine zentimeterdicke Akte auf meinen Mahagonitisch knallt."
+        },
+        {
+          "s": "Figur",
+          "t": "Auf meiner Stirn lodert die monströse Zahl von viertausendfünfhundert Tabs – mein ganzer Stolz, die gewaltige Maschinerie meiner vermeintlich unantastbaren Hedgefonds-Macht."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch als ich auf Sarahs forensischen Bericht starre, bricht meine Welt wie morsches Holz zusammen."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Analystin, die ich einst als unbedeutendes Rädchen verspottet habe, hat mein gesamtes illegales Leerverkaufs-Netzwerk bis ins letzte Detail lückenlos aufgedeckt und an die Bundesaufsicht übermittelt."
+        },
+        {
+          "s": "Figur",
+          "t": "Alle meine viertausendfünfhundert Tabs beginnen wie wild rot zu blinken, als weltweite Nachschussforderungen meine Konten in den Abgrund reißen."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Vermögen zerfällt zu Staub."
+        },
+        {
+          "s": "Figur",
+          "t": "Sarah beugt sich kalt lächelnd vor und flüstert mir zu, wer die entscheidenden System-Hinweise geliefert hat: jener bescheidene Gärtner Finn mit seinen drei lächerlichen Tabs."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welcher verheerende Master-Befehl verbirgt sich wirklich hinter Finns drei geheimnisvollen Tabs?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "4.500 Tabs und Sie merken nicht mal, dass Ihre Milliarden schon verbrannt sind!",
+      "quote_by": {
+        "level": 4,
+        "name": "Sarah",
+        "badge": "903 Tabs",
+        "character": "A crisp broccoli researcher with curly green florets and round wire-rimmed glasses.",
+        "scene": "Medium shot in a high-rise Frankfurt penthouse, looking back with absolute determination over her shoulder."
+      },
+      "stats": [
+        {
+          "label": "Tabs",
+          "value": "4.500",
+          "bar": 0.92
+        },
+        {
+          "label": "Verlust",
+          "value": "100 %",
+          "bar": 1.0
+        },
+        {
+          "label": "Schulden",
+          "value": "Max",
+          "bar": 0.99
+        }
+      ],
+      "character": "A sleek yellow banana person with curved posture, wearing an expensive Italian cashmere turtleneck and gold-rimmed reading glasses.",
+      "visual": "Wide shot of a luxurious penthouse office overlooking the Frankfurt financial district skyscrapers at dusk, with a tiny golden coin resting on a crystal paperweight.",
+      "scenes": [
+        "Wide shot of the Frankfurt skyline with glittering skyscraper lights piercing through heavy evening fog, a tiny golden coin hidden on the ledge of a skyscraper balcony.",
+        "Medium shot of the banana investor sitting in an ergonomic leather armchair surrounded by glowing financial tickers crashing down.",
+        "Close-up on the glowing digital forehead counter displaying 4.500 in brilliant yellow LED shaking violently.",
+        "Halbnah where a broccoli researcher confronts him with a stack of critical market reports uncovering fraud.",
+        "Detail shot of stock market graphs crashing downward in a red waterfall chart across six screens.",
+        "Wide shot of a sleek private elevator descending rapidly into the illuminated underground garage."
+      ],
+      "caption": "Milliardär verliert alles in 60 Sekunden an die Analystin, die er gefeuert hat! #finanzkollaps #börse #gerechtigkeit #viral #deutschland"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches Geheimnis der goldenen Münze wird in der neuen Welt ohne Zahlen ans Licht kommen?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Finn schließt die Allianz mit dem Guru und übergibt die goldene Münze für den finalen Tastendruck."
+      },
+      "name": "Kokosnuss-Guru, 60, Systemvordenker",
+      "badge": "10.000+ Tabs",
+      "verdict": "BEFREIT",
+      "story": "Zehntausend Tabs – und ein einziger Tastendruck löscht eure verfluchte Klassengesellschaft für immer! flüstert der Guru, als Finn mit der goldenen Münze den Raum betritt. Die alte Holzhütte am Rande der Metropole erzittert unter dem sanften Brummen unzähliger alter Bildschirme. Mein Stirnzähler pulsiert jenseits aller Grenzen mit zehntausend offenen Tabs – dem gesammelten Speicher des gesamten Zeitalters. Die Bewohner der Stadt haben sich gegenseitig für Zahlen gedemütigt, Menschen nach Zählern bewertet und sich im Datenwahn selbst verloren. Doch nun schließt sich der ewige Kreis: Finns drei bescheidene Tabs aus Level eins waren stets der lang ersehnte Generalschlüssel. Tab eins bricht die gigantischen Schuldenregister der Konzerne. Tab zwei eliminiert die bösartigen Kontrollmechanismen von Xenias und Bananes Algorithmen. Und Tab drei führt den universellen System-Reset aus. Finn legt die goldene Münze auf den Holztisch, tritt an die Konsole und drückt die Eingabetaste. In Sekundenschnelle erlöschen alle Zähler der Metropole, und jede Stirn wird frei von digitalem Zwang. Welches Thema der Stirn-Zahl sollte als Nächstes gezeigt werden?",
+      "gender": "m",
+      "twist": {
+        "delta": "RESET",
+        "after": "0 Tabs"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Zehntausend Tabs – und ein einziger Tastendruck löscht eure verfluchte Klassengesellschaft für immer!"
+        },
+        {
+          "s": "Figur",
+          "t": "flüstert der Guru, als Finn mit der goldenen Münze den Raum betritt."
+        },
+        {
+          "s": "Figur",
+          "t": "Die alte Holzhütte am Rande der Metropole erzittert unter dem sanften Brummen unzähliger alter Bildschirme."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Stirnzähler pulsiert jenseits aller Grenzen mit zehntausend offenen Tabs – dem gesammelten Speicher des gesamten Zeitalters."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Bewohner der Stadt haben sich gegenseitig für Zahlen gedemütigt, Menschen nach Zählern bewertet und sich im Datenwahn selbst verloren."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch nun schließt sich der ewige Kreis: Finns drei bescheidene Tabs aus Level eins waren stets der lang ersehnte Generalschlüssel."
+        },
+        {
+          "s": "Figur",
+          "t": "Tab eins bricht die gigantischen Schuldenregister der Konzerne. Tab zwei eliminiert die bösartigen Kontrollmechanismen von Xenias und Bananes Algorithmen. Und Tab drei führt den universellen System-Reset aus."
+        },
+        {
+          "s": "Figur",
+          "t": "Finn legt die goldene Münze auf den Holztisch, tritt an die Konsole und drückt die Eingabetaste."
+        },
+        {
+          "s": "Figur",
+          "t": "In Sekundenschnelle erlöschen alle Zähler der Metropole, und jede Stirn wird frei von digitalem Zwang."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema der Stirn-Zahl sollte als Nächstes gezeigt werden?"
+        }
+      ],
+      "quote": "Zehntausend Tabs – und ein einziger Tastendruck löscht eure verfluchte Klassengesellschaft für immer!",
+      "quote_by": {
+        "level": 8,
+        "name": "Kokosnuss-Guru",
+        "badge": "10.000+ Tabs",
+        "character": "A wise old coconut man with a rugged fibrous shell beard, wearing a simple linen robe.",
+        "scene": "Medium shot inside a warm wooden cabin lit by candlelight, looking calmly at a young visitor."
+      },
+      "stats": [
+        {
+          "label": "Tabs",
+          "value": "10.000+",
+          "bar": 1.0
+        },
+        {
+          "label": "Freiheit",
+          "value": "100 %",
+          "bar": 1.0
+        },
+        {
+          "label": "Reset",
+          "value": "0",
+          "bar": 0.0
+        }
+      ],
+      "character": "A wise old coconut person with rough textured brown shell skin and a long fibrous white beard, wearing a comfortable beige linen robe and wooden sandals.",
+      "visual": "Wide shot of a serene wooden cabin nestled in a misty forest at twilight with warm golden light spilling from the windows, a tiny golden coin resting peacefully on the wooden porch step.",
+      "scenes": [
+        "Wide shot of a tranquil forest path covered in golden autumn leaves at sunrise, a tiny golden coin half-buried in soft moss.",
+        "Medium shot inside a cozy wooden cabin filled with antique books and glowing digital screens displaying billions of code lines.",
+        "Close-up on the glowing digital forehead counter showing the infinity symbol and 10.000+ in soft warm amber light fading out.",
+        "Halbnah where an old coconut guru accepts the golden coin from young Finn to initiate the global wipe.",
+        "Detail shot of a finger firmly pressing the return key on an ancient mechanical keyboard as all screens go black.",
+        "Wide shot of the entire fruit metropolis from a high hill as all digital forehead numbers gently fade out into peaceful starlight."
+      ],
+      "caption": "Das System ist gefallen: Alle Tabs auf Null gesetzt! Welches Thema wollt ihr als Nächstes sehen? #finale #systemreset #stirnzahl #viral #deutschland"
+    }
+  ],
+  "lang": "de",
+  "topic": "Die Anzahl der offenen Tabs im Browser",
+  "frame": "frucht"
+}

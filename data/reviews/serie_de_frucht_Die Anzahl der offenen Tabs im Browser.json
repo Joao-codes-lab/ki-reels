@@ -1,0 +1,149 @@
+{
+  "best_score": 60,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 2,
+        "story": 2,
+        "identifikation": 4,
+        "verbindungen": 3,
+        "sog": 2,
+        "wut": 2,
+        "merkfaehigkeit": 3,
+        "sprache": 1
+      },
+      "gesamt": 19,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Neutrales Intro komplett streichen. Hook ersetzen durch: 'Drei Tabs? Du armselige Erdbeere hast wohl nicht mal genug Gehirnzellen für einen vierten Tab!', spuckt Klara mir vor der ganzen Schlange an den Kopf. Wortanzahl von 65 auf mindestens 175 Wörter erweitern: Finn muss erklären, dass in seinen 3 Tabs der Quellcode für das gesamte Metropolen-Netzwerk liegt (versteckter Wert). Die offene Frage muss sich auf den Code beziehen, nicht auf eine aus dem Nichts erfundene E-Mail."
+        },
+        {
+          "n": 2,
+          "fix": "Intro 'Die 8 Level...' tilgen. Starten mit Demütigung: '53 Tabs und Sie wagen es, sich Studentin zu nennen?', brüllt Hagebutte durch das Audimax und wirft mein Skript in den Müll. Text auf 175+ Wörter ausbauen: Mia arbeitet heimlich an der Entschlüsselung von Finns System-Reset. Open Loop angleichen: Nicht 'Wer hat 50 Tabs geöffnet', sondern: 'Welches Dokument öffnete sich um 03:00 Uhr von selbst auf Mias Display?'"
+        },
+        {
+          "n": 3,
+          "fix": "Hook zünden: '403 Tabs? Du fliegst, Tom – wer so schlampt, beklaut die Firma!', zischt Madame Xenia und knallt die Kündigung auf die Tastatur. Wortzahl verdreifachen auf 175+ Wörter. Toms versteckter Wert: Er überwacht heimlich den Großangriff auf die City, während Xenia denkt, er zocke nur. Der Open Loop muss direkt an Xenias Spionage-Drohung anschließen."
+        },
+        {
+          "n": 4,
+          "fix": "Neutralen Vorspann löschen. Hook: '903 Tabs und du ruinierst den Server, du unfähiges Gemüse!', herrscht Sarah den Praktikanten an, bevor ihr eigener Bildschirm schwarz wird. Text auf 175 Wörter strecken. Echte Perspektiven-Wende: Sarah merkt mitten im Wutanfall, dass der verschüttete Kaffee einen Kurzschluss verhindert hat, der den Hackerangriff aus Level 3 stoppt."
+        },
+        {
+          "n": 5,
+          "fix": "Hook radikalisieren: '1.703 Tabs? Wer so viel Ballast mitschleppt, baut Luftschlösser für Penner!', verhöhnt Dr. Banane ihn vor den Investoren. Maximilians Wortmenge drastisch auf 175+ Wörter heben. Versteckter Wert: In Tab 1.703 liegt der Kaufvertrag für Bananes bankrotte Holding. Open Loop exakt auf diesen Coup zuspitzen."
+        },
+        {
+          "n": 6,
+          "fix": "Intro killen. Einstieg: '2.903 Tabs? Du steuerst keinen Konzern mehr, Xenia, du wirst gesteuert!', grinst Tom ihr eiskalt ins Gesicht. Text auf 175+ Wörter ausrollen. Zeige Xenias Panik, als sie begreift, dass Level 3 (Tom) nicht gefeuert wurde, sondern ihr System gekapert hat. Die offene Frage muss das Schicksal ihrer Aktie betreffen."
+        },
+        {
+          "n": 7,
+          "fix": "Hook: '4.500 Tabs und Sie merken nicht mal, dass Ihre Milliarden schon verbrannt sind!', schleudert Sarah ihm entgegen. Länge auf 175 Wörter bringen. Banane bricht zusammen, weil die demütigende Researcher-Frau aus Level 4 sein gesamtes Leerverkaufs-Netzwerk auffliegen lässt. Ultimativer Cliffhanger zu Finns 3 Tabs."
+        },
+        {
+          "n": 8,
+          "fix": "Den moralischen Kalenderspruch-Monolog streichen. Hook: 'Zehntausend Tabs – und ein einziger Tastendruck löscht eure verfluchte Klassengesellschaft für immer!', flüstert der Guru, als Finn mit der goldenen Münze den Raum betritt. Text auf 175 Wörter vertiefen: Der Kreis schließt sich, Finns 3 Tabs waren der Master-Schlüssel. Auflösung des universellen Zähler-Resets."
+        }
+      ],
+      "fazit": "Gnadenloser Durchfall für TikTok/Reels: Die Skripte verstoßen frontal gegen die härtesten Vorgaben. Mit nur 50-70 Wörtern pro Level wird das Mindestkriterium von 175 Wörtern meilenweit verfehlt. Jedes Video beginnt mit dem verbotenen, tödlichen Aufzähler-Intro ('Die 8 Level von...'), das jeden Zuschauer nach 0,5 Sekunden zum Weiterswipen bringt. Das Prinzip des 'versteckten Werts' fehlt völlig: Es gibt keine süße Rache oder Genugtuung, die Open Loops passen inhaltlich nicht zum gesprochenen Text und die Gegenspieler sind flache Schablonen ohne echte Gegenperspektive."
+    },
+    {
+      "scores": {
+        "hook": 7,
+        "story": 6,
+        "identifikation": 5,
+        "verbindungen": 6,
+        "sog": 7,
+        "wut": 6,
+        "merkfaehigkeit": 6,
+        "sprache": 5
+      },
+      "gesamt": 60,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze das zu lange Intro durch einen harten, direkten Vorwurf in der ersten Sekunde: 'Drei Tabs? Du verdammter Taugenichts hast nicht mal genug Gehirnzellen für einen vierten!'"
+        },
+        {
+          "n": 2,
+          "fix": "Kürze die Selbstreflexion und starte direkt mit der Demütigung vor den Studenten: '53 Tabs und du willst studieren? Raus mit dir!'"
+        },
+        {
+          "n": 3,
+          "fix": "Erhöhe den Konflikt sofort durch einen brutalen Rauswurf-Satz: '403 Tabs? Du fliegst noch heute fristlos, du Datendieb!'"
+        },
+        {
+          "n": 4,
+          "fix": "Lass Sarah den Praktikanten sofort anschreien, ohne Umschweife: '903 Tabs und du zerstörst alles, du unfähiges Gemüse!'"
+        },
+        {
+          "n": 5,
+          "fix": "Verschärfe die Demütigung im Penthouse durch Dr. Banane direkt zu Beginn: '1.703 Tabs? Du baust doch nur Luftschlösser für Versager!'"
+        },
+        {
+          "n": 6,
+          "fix": "Lass Tom in Xenias Büro sofort die Kontrolle übernehmen: '2.903 Tabs? Du steuerst hier gar nichts mehr, Xenia!'"
+        },
+        {
+          "n": 7,
+          "fix": "Setze Sarahs Auftritt härter an: '4.500 Tabs und du merkst nicht mal, dass du bankrott bist!'"
+        },
+        {
+          "n": 8,
+          "fix": "Beende das Finale ohne schwammige Fragen, sondern mit einem harten finalen Statement: 'Zehntausend Tabs – und ein einziger Druck löscht euch alle aus.'"
+        }
+      ],
+      "fazit": "Die Serie hat ein starkes, visuelles Konzept und nutzt die verdeckten Werte geschickt. Allerdings sind die Texte stellenweise zu lang, zu hölzern und schweifen in Erklärungen ab, statt pure Emotion und Wut zu erzeugen. Für virale Millionen-Reels müssen die Dialoge noch spitzer, kürzer und konfrontativer werden."
+    },
+    {
+      "scores": {
+        "hook": 6,
+        "story": 5,
+        "identifikation": 4,
+        "verbindungen": 7,
+        "sog": 3,
+        "wut": 4,
+        "merkfaehigkeit": 5,
+        "sprache": 4
+      },
+      "gesamt": 48,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze die Nerd-Metaphern durch alltagsnahe Demütigung und schließe die Wortlücke: Klara muss als spätere Figur exakt zugeordnet sein (nicht Level 3 Tom zuweisen). Hook verschärfen: 'Drei Tabs? Du armseliger Versager hast nicht mal genug Hirn für einen vierten!, schreit Klara durch die Schlange und schüttet mir ihren Becher vor die Füße.'"
+        },
+        {
+          "n": 2,
+          "fix": "Löse zwingend den Cliffhanger aus Level 1 im ersten Satz auf: 'In Finns drittem Tab stand keine Schadsoftware, sondern mein eigener Exmatrikulationsantrag – und genau den knallt mir Professor Hagebutte jetzt vor 300 Studenten hin.' Korrigiere den Gegenspieler-Konflikt, da Hagebutte kein eigenes Level besitzt."
+        },
+        {
+          "n": 3,
+          "fix": "Beantworte das 03:00-Uhr-Dokument aus Level 2 direkt zu Beginn: 'Das Dokument um 03:00 Uhr war Xenias Kündigungsschreiben an mich – doch bevor sie mich rauswirft, übernehme ich ihr System.' Bringe die Wortzahl über 175 Wörter durch konkrete Dialoge statt abstrakter Cyber-Begriffe."
+        },
+        {
+          "n": 4,
+          "fix": "Beseitige den gravierenden POV-Bruch im ersten Satz ('herrscht Sarah den Praktikanten an, bevor ihr eigener Bildschirm...') zu konsequenter Ich-Perspektive: '903 Tabs und du zerstörst alles, du unfähiges Gemüse!, brülle ich den Praktikanten an, als sein Eiskaffee in mein Terminal zischt.' Dehne den Text auf über 175 Wörter aus."
+        },
+        {
+          "n": 5,
+          "fix": "Korrigiere den grammatikalischen POV-Fehler in Satz 1: Ändere 'verhöhnt Dr. Banane ihn vor den Investoren' zwingend in 'verhöhnt Dr. Banane mich vor versammelter Runde'. Verankere das Tab-Thema wieder im Realismus statt generischer Holding-Schuldscheine."
+        },
+        {
+          "n": 6,
+          "fix": "Korrigiere den Inquit-Fehler im Hook: Nicht 'grinst Tom ihr eiskalt ins Gesicht', sondern 'grinst Tom mir eiskalt ins Gesicht'. Zeige Xenias Perspektive auf die Kündigungsszene aus Level 3 als echte, überraschende Rechtfertigung (z. B. dass sie Tom schützen wollte), um die Wut-Regel einzuhalten."
+        },
+        {
+          "n": 7,
+          "fix": "Passe Satz 1 auf konsistente 1. Person an: 'schleudert Sarah mir entgegen' statt 'schleudert Sarah ihm entgegen'. Löse hier die offene Frage aus Level 6 auf (Xenias Kursabsturz) statt einen unvorbereiteten Aktensprung zu vollziehen."
+        },
+        {
+          "n": 8,
+          "fix": "Schreibe den Hook radikal um, damit er wie Level 1-7 mit einem aggressiven Kontrast/Angriff startet: 'Zehntausend Tabs? Du bist kein Erlöser, du bist der größte Daten-Messie der Welt!, schreit die Menge, während Finn die Münze hebt.' Ersetze die unpassende Frage am Ende durch einen echten Serienabschluss mit Genugtuung."
+        }
+      ],
+      "fazit": "Die Serie scheitert an drei fundamentalen TikTok-Regeln: 1. Gebrochene Open Loops (die Fragen am Ende von Teil 1, 2 und 6 werden im Folgeteil ignoriert statt sofort eingelöst). 2. Bruch der Identifikation: Das extrem lebensnahe Thema 'offene Tabs' wird zu einem unglaubwürdigen Cyberpunk-Hacker-Drama verzerrt, wodurch die virale Relevanz für 18-30-Jährige verpufft. 3. Schlampige POV-Sprünge (Ich-Erzähler wechselt mitten im Satz zu 'ihm/ihr') und verfehlte Mindestlängen unter 175 Wörtern. Die Verknüpfung der Figuren ist im Ansatz gut, die Ausführung verliert sich jedoch in technischem Kauderwelsch statt emotionaler Genugtuung."
+    }
+  ]
+}
