@@ -2,7 +2,7 @@
 
 - URL: https://www.instagram.com/p/DfCfPohosrt/
 - Dauer: 364.1 s, Sprache: de
-- Likes: 183, Kommentare: 24, Views: 11454
+- Likes: 322, Kommentare: 40, Views: 19913
 - Datum: 2026-10-28T13:04:32.000Z
 
 ## Beschreibung
@@ -120,20 +120,18 @@ Der Preis der Liebe #geschichten #nachdenken #telenovela #drama
 [270.0s] Das reicht mir.
 [272.0s] Dann klingelte sein Handy.
 [274.0s] Auf dem Display stand Vater.
-[276.0s] Lief nicht auf.
-[278.0s] Friedrichs Stimme zitterte.
-[280.0s] Du hast getan, was ich nie gewagt habe.
-[282.0s] Warum sagst du mir das erst jetzt?
-[284.0s] Du hattest recht, mein Sohn.
-[286.0s] Weiß Mama davon?
-[288.0s] Nein.
-[290.0s] In dieser Nacht fingen die Wehen an.
-[292.0s] Lukas, ist es jetzt?
-[294.0s] Es ist jetzt.
+[276.0s] Ich habe nicht geklappt.
+[278.0s] Ich habe nicht geklappt.
+[280.0s] Und ich habe nie gewerkt, warum ich das nicht geklappt habe.
+[283.0s] Du hast mich nie gezwagt!
+[285.0s] Warum sagst du mir das erst jetzt?
+[287.0s] Du hattest recht, mein Sohn.
+[289.0s] Weiß Mama davon?
+[291.0s] Nein, in dieser Nacht fingen die Wehen an.
+[294.0s] Lukas ist es jetzt.
 [296.0s] Er packte die Tasche und rief ein Taxi.
-[298.0s] Am Empfang fragte die Krankenschwester.
-[300.5s] Name des Vaters?
-[302.0s] Lukas!
+[299.0s] Am Empfang fragte die Krankenschwester.
+[302.0s] Name des Vaters?
 [304.0s] Nur Lukas, sie sah ihn kurz an.
 [306.6s] In Ordnung.
 [307.8s] In der Villa legte Friedrich das Telefon weg.
