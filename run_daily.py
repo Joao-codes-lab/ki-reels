@@ -11,6 +11,7 @@ import datetime as dt
 import json
 import os
 import shutil
+import zlib
 from pathlib import Path
 
 from reels import buffer, critic, imagegen, scriptgen
@@ -204,7 +205,7 @@ def generate_pilots(lang, tts_backend, k=5):
             sid = f"{lang}_{frame}_{slugify(topic)}"
             (DATA / "series").mkdir(exist_ok=True)
             save(DATA / "series" / f"{sid}.json", series)
-            pics, verdict = level_images(series, 1, frame, ASSETS / sid, seed=7919 + idx * 101)
+            pics, verdict = level_images(series, 1, frame, ASSETS / sid, seed=zlib.crc32(sid.encode()) % 900000 + idx * 101)
             name = f"{today}_pilot{idx}_{sid}_teil1.mp4"
             info = render_lift(series, 1, pics, ROOT / "out" / name, backend=tts_backend)
             shutil.copy(info["path"], SITE / name)
@@ -247,7 +248,7 @@ def continue_pilots(levels=3, top=1):
                 if f"{p['sid']}:{n}" in done:
                     continue
                 try:
-                    pics, _ = level_images(series, n, p["frame"], ASSETS / p["sid"], seed=7919 + n * 101)
+                    pics, _ = level_images(series, n, p["frame"], ASSETS / p["sid"], seed=zlib.crc32(p["sid"].encode()) % 900000 + n * 101)
                     name = f"{today}_fortsetzung_{p['sid']}_teil{n}.mp4"
                     info = render_lift(series, n, pics, ROOT / "out" / name, backend=tts_backend)
                     shutil.copy(info["path"], SITE / name)
