@@ -1,0 +1,696 @@
+{
+  "title": "Die 8 Level von WG-Casting",
+  "house": "A sprawling, hyper-gentrified German metropolis of brick altbau buildings, neon spätis, and rain-slicked asphalt where anthropomorphic fruit and vegetable citizens queue endlessly for apartments.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Timmy aus Level 1 bewirbt sich in der WG, aus der Jonas aus Level 2 gerade rausgeworfen wird.",
+    "Jonas aus Level 2 kellnert im Café unter Ronjas Werbeagentur aus Level 3.",
+    "Ronjas WG-Hauptmieter ist Finn aus Level 4, der heimlich Untermieter abzockt.",
+    "Finn aus Level 4 stalkt Mayas Instagram aus Level 5, um ihre Bürgschaft zu prüfen.",
+    "Maya aus Level 5 leiht sich Geld von Viktor aus Level 6 im selben Fitnessstudio.",
+    "Viktor aus Level 6 verhandelt die Miete direkt mit Stellas Verwalter aus Level 7.",
+    "Stella aus Level 7 lässt alle Wohnungen von Hausbesitzer Albrecht aus Level 8 managen.",
+    "Albrecht aus Level 8 entscheidet am Ende über Timmys Schicksal aus Level 1."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Welches dunkle Geheimnis über die WG steht in der roten Mappe?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Schlägt Timmy die Tür vor der Nase zu und zerreißt seine Bewerbungsmappe im strömenden Regen."
+      },
+      "name": "Timmy, 19, Erstsemester",
+      "badge": "350 € Budget",
+      "verdict": "ABGELEHNT",
+      "story": "„350 Euro? Wer hat den Penner reingelassen, der soll die Klos im Treppenhaus putzen!“ Dreihundertfünfzig Euro Budget – dafür kriegst du hier in dieser verfluchten Stadt nicht mal eine feuchte Abstellkammer unter der Treppe. Ich stehe im strömenden Berliner Regen vor der schweren geschnitzten Altbautür in Kreuzberg. Meine Erdbeer-Wangen glühen vor bitterer Kälte, meine Stirn leuchtet erbärmlich schwach: Dreihundertfünfzig Euro. Drinnen läuft feiner Jazz und das selbstgefällige Lachen der reichen Gewinner. Unter meinem nassen Kragen glänzt verborgen das massive Siegel des alten Gründers – ein Detail, das Jonas in seiner blinden Arroganz nicht einmal bemerkt, bevor er mich wie Abfall behandelt. Hast du dich verlaufen, Bürschchen? Ich schlucke meine tiefe Scham hinunter und halte ihm mit zitternden Fingern meine amtliche Bürgschaft hin. Mit Dreihundertfünfzig Euro bist du für uns absolute Luft. Jonas reißt mir die Mappe aus der Hand, wirft sie verächtlich in eine tiefe Schlammpfütze und knallt die massive Eichentür vor meiner Nase zu. Kennst du diese absolute Hilflosigkeit, wenn dein letzter Funke Würde im Dreck zertrampelt wird? Am Boden sehe ich zwischen den nassen Blättern plötzlich eine rote Mappe liegen, die Jonas aus Versehen mit herausgerissen hat. Als ich sie aufklappe, stockt mir der Atem: Darin steht die schmutzige Wahrheit über diese Luxus-WG. Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-50 €",
+        "after": "300 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "„350 Euro? Wer hat den Penner reingelassen, der soll die Klos im Treppenhaus putzen!“"
+        },
+        {
+          "s": "Figur",
+          "t": "Dreihundertfünfzig Euro Budget – dafür kriegst du hier in dieser verfluchten Stadt nicht mal eine feuchte Abstellkammer unter der Treppe. Ich stehe im strömenden Berliner Regen vor der schweren geschnitzten Altbautür in Kreuzberg. Meine Erdbeer-Wangen glühen vor bitterer Kälte, meine Stirn leuchtet erbärmlich schwach: Dreihundertfünfzig Euro. Drinnen läuft feiner Jazz und das selbstgefällige Lachen der reichen Gewinner. Unter meinem nassen Kragen glänzt verborgen das massive Siegel des alten Gründers – ein Detail, das Jonas in seiner blinden Arroganz nicht einmal bemerkt, bevor er mich wie Abfall behandelt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Hast du dich verlaufen, Bürschchen?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schlucke meine tiefe Scham hinunter und halte ihm mit zitternden Fingern meine amtliche Bürgschaft hin."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit Dreihundertfünfzig Euro bist du für uns absolute Luft.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Jonas reißt mir die Mappe aus der Hand, wirft sie verächtlich in eine tiefe Schlammpfütze und knallt die massive Eichentür vor meiner Nase zu. Kennst du diese absolute Hilflosigkeit, wenn dein letzter Funke Würde im Dreck zertrampelt wird? Am Boden sehe ich zwischen den nassen Blättern plötzlich eine rote Mappe liegen, die Jonas aus Versehen mit herausgerissen hat. Als ich sie aufklappe, stockt mir der Atem: Darin steht die schmutzige Wahrheit über diese Luxus-WG."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Mit Dreihundertfünfzig Euro bist du für uns absolute Luft.",
+      "quote_by": {
+        "level": 2,
+        "name": "Jonas",
+        "badge": "600 € Budget",
+        "character": "Bitter yellow Lemon humanoid in a tailored oversized wool sweater, holding an espresso cup, arrogant scowl, glowing forehead badge showing 600 €.",
+        "scene": "Medium shot inside a warm, stuccoed hallway, an arrogant lemon humanoid sneering down at the doorstep through a crack in the heavy carved door."
+      },
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "350 €",
+          "bar": 0.08
+        },
+        {
+          "label": "Zimmergroesse",
+          "value": "8 qm",
+          "bar": 0.1
+        },
+        {
+          "label": "Chancen",
+          "value": "1 %",
+          "bar": 0.02
+        }
+      ],
+      "character": "Young Strawberry humanoid boy with freckles on red skin, worn green denim jacket, wet woolen beanie, glowing digital forehead badge showing 350 €.",
+      "visual": "A dripping wet Kreuzberg street in the rain, wide shot showing a small strawberry boy standing before a towering classic Altbau door while a lemon boy looks down arrogantly, tiny golden coin hidden in a drain grate.",
+      "scenes": [
+        "Exterior Berlin street, wide angle: A drenched Strawberry student stands clutching a soggy cardboard folder in front of a massive wooden entryway, a small golden coin resting on a wet curbstone.",
+        "Doorway, medium close-up: A sour Lemon humanoid in a beige knit turtleneck looks condescendingly down through the open crack, glowing 600 € on his forehead, a golden coin embedded on the door handle.",
+        "Staircase perspective, medium shot: The Lemon smirks mockingly while the Strawberry pleads in soaked clothes, a tiny golden coin visible behind an umbrella stand.",
+        "Extreme close-up on forehead display: The Strawberry's digital numbers flicker rapidly and drop from 350 € to 300 €, tiny golden coin reflection in the digital glass.",
+        "Pavement at night, detail shot: A red plastic dossier drops into a dirty rainwater puddle next to scattered autumn leaves and a shiny golden coin.",
+        "Night alley under neon streetlamps, low angle: The Strawberry boy kneels in mud picking up the mysterious red folder while the door slams shut, a golden coin tucked inside a mailbox slot."
+      ],
+      "caption": "Wenn dein Traum am Berliner Wohnungsmarkt zerschellt! Wo lag deine erste eigene Miete? #wgsuche #berlin #stirnzahl #drama #wohnungsnot"
+    },
+    {
+      "n": 2,
+      "open_loop": "Womit erpresst die Karotte Ronja den verzweifelten Barista Jonas?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Droht Jonas mit dem sofortigen Rauswurf und verlangt 350 Euro Bar-Ablöse unter der Hand."
+      },
+      "name": "Jonas, 23, Barista & Langzeitstudent",
+      "badge": "600 € Budget",
+      "verdict": "UNTER DRUCK",
+      "story": "„600 Euro Miete – und meine eigene Mitbewohnerin wirft mich im Schlafanzug auf die Straße!“ Sechshundert Euro Budget – und heute Nacht schlafe ich auf der kalten Straße. In der roten Mappe stand mein eigener Kündigungsbrief. Ich musste den Erdbeer-Jungen vorhin eiskalt abwimmeln, weil ich selbst um mein nacktes Überleben kämpfe. Die Küche riecht nach teurem Matcha und absolutem Verrat. Jonas, dein Filterkaffee schmeckt einfach nach purer Verzweiflung. Ronja schüttet demonstrativ meinen frisch gebrühten Filterkaffee in den Ausguss und starrt mich eiskalt an. Ich zeige auf meinen Mietvertrag: Ich wohne seit drei Jahren hier, du kannst mich nicht einfach austauschen! Mit deinen mickrigen Sechshundert Euro bist du hier ab sofort absolute Geschichte. Ronja beugt sich vor und raunt bedrohlich: Entweder du zahlst mir heute dreihundertfünfzig Euro bar auf die Hand, oder deine Sachen landen auf dem Hof. Woher soll ich das Geld bloß nehmen? Sie hält mir das Smartphone direkt vor die Augen: Es ist ein Zusammenschnitt, wie ich abends die Kaffeekasse plündere, um meine WG-Kaution zu retten. Entweder ich zahle bar, oder sie schickt es meinem Chef. Ich falle auf die Knie. Dann zieht sie grinsend eine weitere Datei hervor, die mein Schicksal endgültig besiegelt. Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "-80 €",
+        "after": "520 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "„600 Euro Miete – und meine eigene Mitbewohnerin wirft mich im Schlafanzug auf die Straße!“"
+        },
+        {
+          "s": "Figur",
+          "t": "Sechshundert Euro Budget – und heute Nacht schlafe ich auf der kalten Straße. In der roten Mappe stand mein eigener Kündigungsbrief. Ich musste den Erdbeer-Jungen vorhin eiskalt abwimmeln, weil ich selbst um mein nacktes Überleben kämpfe. Die Küche riecht nach teurem Matcha und absolutem Verrat."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Jonas, dein Filterkaffee schmeckt einfach nach purer Verzweiflung.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ronja schüttet demonstrativ meinen frisch gebrühten Filterkaffee in den Ausguss und starrt mich eiskalt an. Ich zeige auf meinen Mietvertrag: Ich wohne seit drei Jahren hier, du kannst mich nicht einfach austauschen!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit deinen mickrigen Sechshundert Euro bist du hier ab sofort absolute Geschichte.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ronja beugt sich vor und raunt bedrohlich: Entweder du zahlst mir heute dreihundertfünfzig Euro bar auf die Hand, oder deine Sachen landen auf dem Hof. Woher soll ich das Geld bloß nehmen? Sie hält mir das Smartphone direkt vor die Augen: Es ist ein Zusammenschnitt, wie ich abends die Kaffeekasse plündere, um meine WG-Kaution zu retten. Entweder ich zahle bar, oder sie schickt es meinem Chef. Ich falle auf die Knie. Dann zieht sie grinsend eine weitere Datei hervor, die mein Schicksal endgültig besiegelt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Mit deinen mickrigen Sechshundert Euro bist du hier Geschichte.",
+      "quote_by": {
+        "level": 3,
+        "name": "Ronja",
+        "badge": "950 € Budget",
+        "character": "Sharp orange Carrot humanoid woman with sleek green foliage hair, tailored black designer blazer, glowing digital forehead badge showing 950 €.",
+        "scene": "Medium shot in a pristine marble kitchen, a sleek carrot woman holding a silver fountain pen, looking down with chilling arrogance."
+      },
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "600 €",
+          "bar": 0.18
+        },
+        {
+          "label": "Zimmergroesse",
+          "value": "12 qm",
+          "bar": 0.18
+        },
+        {
+          "label": "Chancen",
+          "value": "12 %",
+          "bar": 0.12
+        }
+      ],
+      "character": "Slender yellow Lemon humanoid young man with disheveled hair, beige turtleneck sweater, barista apron, glowing digital forehead badge showing 600 €.",
+      "visual": "A stylish minimalist Altbau kitchen with terrazzo counters, wide shot of nervous Lemon Jonas confronting stylish Carrot Ronja, a small golden coin hidden on the espresso machine tray.",
+      "scenes": [
+        "Minimalist modern kitchen, wide shot: Lemon Jonas stands frozen before an open red folder while elegant Carrot Ronja leans over an island, a golden coin tucked inside a fruit bowl.",
+        "Kitchen counter, medium close-up: Carrot Ronja with glowing 950 € on her forehead taps her silver pen on a termination notice, golden coin resting by the marble spice rack.",
+        "Confrontation shot, medium angle: Lemon Jonas clutches his barista apron in anger as Ronja sneers directly into his face, tiny golden coin glinting behind the chrome faucet.",
+        "Detail shot of Lemon forehead: Numbers dropping sharply from 600 € to 520 € with red error flicker, tiny golden coin reflection in the shiny kitchen backsplash.",
+        "Kitchen doorway, low angle: Ronja displays her glowing smartphone screen in shadow while Jonas gasps in horror, golden coin nestled beneath the doorstop.",
+        "Dim corridor, wide shot: Jonas stands isolated under warm hanging pendant lights as rain patters on the skylight, golden coin lying next to a pair of discarded boots."
+      ],
+      "caption": "Wenn Mitbewohner plötzlich zu deinen schlimmsten Feinden werden! Hast du schon mal WG-Stress erlebt? #wgcasting #mietwahnsinn #stirnzahl #berlin #intrige"
+    },
+    {
+      "n": 3,
+      "open_loop": "Welches illegale Dokument zieht Finn aus seiner Aktentasche?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Kassiert Ronjas Kaution ab und verdoppelt eigenmächtig die Abschlagszahlung für die Möbel."
+      },
+      "name": "Ronja, 25, Trainee Werbeagentur",
+      "badge": "950 € Budget",
+      "verdict": "GETÄUSCHT",
+      "story": "„5.000 Euro Bar-Ablöse für eine verrostete Spüle, oder du schläfst im Park!“ Neunhundertfünfzig Euro Monatsbudget – und trotzdem werde ich hier wie der letzte Dreck behandelt. Ich musste Jonas erpressen, weil mein eigener Vermieter mich blutig ausblutet. Ich stehe im stuckverzierten Altbauflur voller schwerer Designertaschen. Vor mir steht Finn, ein massiver Brokkoli im teuren Maßanzug, dessen Stirn unverschämte eintausendvierhundert Euro strahlt. Du willst hier rein? Die Zahl lügt nie, mein Schatz. Trainee in einer Werbeagentur? Süß, aber reicht das für unsere elitären Standards? Ich balle wütend die Fäuste: Ich verdiene gut und zahle pünktlich jeden Cent! Für Neunhundertfünfzig Euro bekommst du bei mir höchstens ein Klappbett im Keller. Finn grinst eiskalt: 5.000 Euro Bar-Ablöse für zwei rostige Herdplatten und ein quietschendes Spülbecken aus den Siebzigern – nimm es oder verreck auf der Straße. Wenn du nicht zahlst, stehen hinter dir zehn andere Bittsteller Schlange. Kennst du dieses Gefühl, wenn dir die Wut die Kehle zuschnürt und dir jemand eiskalt die Luft absaugt? Dann öffnet er seine lederne Aktentasche und zieht einen gefälschten Vertrag heraus, der alles auf den Kopf stellt. Das siehst du in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "-100 €",
+        "after": "850 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "„5.000 Euro Bar-Ablöse für eine verrostete Spüle, oder du schläfst im Park!“"
+        },
+        {
+          "s": "Figur",
+          "t": "Neunhundertfünfzig Euro Monatsbudget – und trotzdem werde ich hier wie der letzte Dreck behandelt. Ich musste Jonas erpressen, weil mein eigener Vermieter mich blutig ausblutet. Ich stehe im stuckverzierten Altbauflur voller schwerer Designertaschen. Vor mir steht Finn, ein massiver Brokkoli im teuren Maßanzug, dessen Stirn unverschämte eintausendvierhundert Euro strahlt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du willst hier rein? Die Zahl lügt nie, mein Schatz. Trainee in einer Werbeagentur? Süß, aber reicht das für unsere elitären Standards?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich balle wütend die Fäuste: Ich verdiene gut und zahle pünktlich jeden Cent!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Für Neunhundertfünfzig Euro bekommst du bei mir höchstens ein Klappbett im Keller.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Finn grinst eiskalt: 5.000 Euro Bar-Ablöse für zwei rostige Herdplatten und ein quietschendes Spülbecken aus den Siebzigern – nimm es oder verreck auf der Straße. Wenn du nicht zahlst, stehen hinter dir zehn andere Bittsteller Schlange. Kennst du dieses Gefühl, wenn dir die Wut die Kehle zuschnürt und dir jemand eiskalt die Luft absaugt? Dann öffnet er seine lederne Aktentasche und zieht einen gefälschten Vertrag heraus, der alles auf den Kopf stellt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Für Neunhundertfünfzig Euro bekommst du bei mir höchstens ein Klappbett.",
+      "quote_by": {
+        "level": 4,
+        "name": "Finn",
+        "badge": "1.400 € Budget",
+        "character": "Broad Broccoli humanoid man in a navy Italian business suit, gold cufflinks, smirking expression, glowing digital forehead badge showing 1.400 €.",
+        "scene": "Medium shot in a grand herringbone-parquet hallway, an imposing broccoli man crossing his muscular arms mockingly."
+      },
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "950 €",
+          "bar": 0.28
+        },
+        {
+          "label": "Zimmergroesse",
+          "value": "16 qm",
+          "bar": 0.25
+        },
+        {
+          "label": "Chancen",
+          "value": "24 %",
+          "bar": 0.24
+        }
+      ],
+      "character": "Stylish Carrot humanoid woman with green layered hair, tailored dark blazer, leather briefcase, glowing digital forehead badge showing 950 €.",
+      "visual": "A lavish hallway with herringbone parquet and historic stucco, wide shot of Carrot Ronja facing imposing Broccoli Finn, a tiny golden coin lying on the ornate radiator cover.",
+      "scenes": [
+        "Grand hallway with herringbone parquet, wide shot: Carrot Ronja with two heavy designer bags confronts imposing Broccoli Finn, a golden coin resting on a classical side table.",
+        "Medium shot: Broccoli Finn in his navy suit glares at Ronja, his 1.400 € forehead badge illuminating the antique wall mirror, golden coin sitting on top of the mirror frame.",
+        "Two-shot over Ronja's shoulder: Finn tosses Ronja's paperwork onto a sideboard in disgust, tiny golden coin hidden beside a crystal vase.",
+        "Macro close-up: Ronja's bright forehead numbers drop from 950 € to 850 € with a red warning flash, golden coin blurred in background lighting.",
+        "Close-up of leather briefcase: Finn unlatches a heavy brass lock of his vintage briefcase, a shiny golden coin resting on the leather buckle.",
+        "Corridor shadow angle, low perspective: Ronja looks devastated under chandelier light as Finn holds up a suspicious stamped sheet, golden coin nestled beneath an umbrella hook."
+      ],
+      "caption": "Möbel-Abschlag von 5.000 € für eine Schrott-Küche? Würdest du das jemals zahlen? #wohnungssuche #abschlag #mietwucher #stirnzahl #deutschland"
+    },
+    {
+      "n": 4,
+      "open_loop": "Welche geheime Klausel steht auf Mayas gepfändetem Leasingvertrag?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Blamiert Finn vor allen anderen Bewerbern und überbietet seine Monatsmiete um das Doppelte."
+      },
+      "name": "Finn, 28, Junior IT-Consultant",
+      "badge": "1.400 € Budget",
+      "verdict": "ÜBERBOTEN",
+      "story": "„1.400 Euro Gehalt und diese Botox-Avocado zahlt die Jahresmiete einfach bar aus der Handtasche!“ Eintausendvierhundert Euro Budget – und plötzlich bin ich nur der kleine Bettler im Raum. Ich musste Ronja gnadenlos melken und abzocken, um selbst irgendwie die astronomische Hauptmiete zu stemmen. Jetzt stehe ich im Salon einer luxuriösen Penthouse-Wohnung in Berlin-Mitte. Vor mir stolziert Maya, eine makellose Avocado im sündhaft teuren Seidenkleid, auf deren Stirn unglaubliche zweitausendundhundert Euro flimmern. Maya filmt mein schweißnasses Gesicht live für ihre hunderttausend Follower, während ich vor Wut zittere. Finn, Schätzchen, IT-Support ist so von gestern. Ich halte wütend meine Gehaltsabrechnung hoch: Ich habe eine unbefristete Festanstellung, Bestnoten und perfekte Referenzen! Eintausendvierhundert Euro reichen in diesem Gebäude nicht mal für das Gästebad. Maya winkt gelangweilt ab und lächelt gehässig: Ich nehme die gesamte Etage und zahle zwölf Monate im Voraus bar aus der Handtasche. Kennst du dieses Gefühl, von purem Neureichen-Gehabe gnadenlos überrollt zu werden? Doch als Maya ihr Designer-Täschchen auf den Glastisch knallt, rutscht ein amtliches Mahnschreiben heraus. Ich blicke darauf und traue meinen Augen nicht. Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "-200 €",
+        "after": "1.200 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "„1.400 Euro Gehalt und diese Botox-Avocado zahlt die Jahresmiete einfach bar aus der Handtasche!“"
+        },
+        {
+          "s": "Figur",
+          "t": "Eintausendvierhundert Euro Budget – und plötzlich bin ich nur der kleine Bettler im Raum. Ich musste Ronja gnadenlos melken und abzocken, um selbst irgendwie die astronomische Hauptmiete zu stemmen. Jetzt stehe ich im Salon einer luxuriösen Penthouse-Wohnung in Berlin-Mitte. Vor mir stolziert Maya, eine makellose Avocado im sündhaft teuren Seidenkleid, auf deren Stirn unglaubliche zweitausendundhundert Euro flimmern. Maya filmt mein schweißnasses Gesicht live für ihre hunderttausend Follower, während ich vor Wut zittere."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Finn, Schätzchen, IT-Support ist so von gestern.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich halte wütend meine Gehaltsabrechnung hoch: Ich habe eine unbefristete Festanstellung, Bestnoten und perfekte Referenzen!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Eintausendvierhundert Euro reichen in diesem Gebäude nicht mal für das Gästebad.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Maya winkt gelangweilt ab und lächelt gehässig: Ich nehme die gesamte Etage und zahle zwölf Monate im Voraus bar aus der Handtasche. Kennst du dieses Gefühl, von purem Neureichen-Gehabe gnadenlos überrollt zu werden? Doch als Maya ihr Designer-Täschchen auf den Glastisch knallt, rutscht ein amtliches Mahnschreiben heraus. Ich blicke darauf und traue meinen Augen nicht."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Eintausendvierhundert Euro reichen in diesem Gebäude nicht mal fürs Gästebad.",
+      "quote_by": {
+        "level": 5,
+        "name": "Maya",
+        "badge": "2.100 € Budget",
+        "character": "Glamorous Avocado humanoid woman in an emerald green silk slip dress, massive gold hoop earrings, holding a ring-light phone, glowing 2.100 € forehead badge.",
+        "scene": "Medium shot inside a sunlit luxury penthouse, a glamorous avocado influencer laughing condescendingly into her phone while pointing at a competitor."
+      },
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "1.400 €",
+          "bar": 0.42
+        },
+        {
+          "label": "Zimmergroesse",
+          "value": "24 qm",
+          "bar": 0.38
+        },
+        {
+          "label": "Chancen",
+          "value": "45 %",
+          "bar": 0.45
+        }
+      ],
+      "character": "Broccoli humanoid young professional in an Italian dark blue suit, slicked dark hair florets, smartwatch, glowing digital forehead badge showing 1.400 €.",
+      "visual": "A sunlit penthouse living room with floor-to-ceiling panoramic windows, wide shot of Broccoli Finn looking humiliated before Avocado influencer Maya, a small golden coin resting on a glass coffee table.",
+      "scenes": [
+        "Luxury penthouse living room, wide shot: Broccoli Finn in his navy suit stands flabbergasted as Avocado Maya struts with a ring-light smartphone, golden coin on the glass coffee table edge.",
+        "Medium shot over Finn's shoulder: Maya with a dazzling 2.100 € badge smiles maliciously at her live stream, tiny golden coin sitting on a designer ceramic vase.",
+        "Close-up of confrontation: Finn thrusts his bank document forward, but Maya dismisses it with manicured nails, golden coin embedded in the terrace door handle.",
+        "Forehead display detail: Finn's digital badge plummets from 1.400 € to 1.200 € with a buzzing red glitch, golden coin reflecting in his polished watch screen.",
+        "Floor level perspective: Maya drops her designer handbag onto an ivory rug, revealing a stamped yellow enforcement letter, golden coin lying by her high heel.",
+        "Wide shot looking out toward the city skyline: Finn glares at the letter while Maya poses against the glass window, tiny golden coin hidden behind the sheer curtain seam."
+      ],
+      "caption": "Wenn Influencer dich beim Wohnungs-Casting einfach wegkaufen! Schon mal gegen Cash-Käufer verloren? #gentrifizierung #berlinmitte #stirnzahl #influencer #wgsuche"
+    },
+    {
+      "n": 5,
+      "open_loop": "Welchen Kofferinhalt will Viktor im WG-Zimmer vor der Polizei verstecken?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Demütigt Maya wegen ihrer Scheinfirmen und droht, ihr Finanzamt-Verfahren öffentlich zu machen."
+      },
+      "name": "Maya, 29, Influencerin & Content Creator",
+      "badge": "2.100 € Budget",
+      "verdict": "ENTLARVT",
+      "story": "„2.100 Euro Scheineinkommen? Schätzchen, für das Taschengeld darfst du höchstens meine Louboutins im Flur abstauben!“ Zweitausendundhundert Euro Scheinbudget – und hinter dieser glänzenden Fassade bin ich längst völlig ruiniert. Finn ahnt bis heute nicht, dass meine Klicks mir niemals echte Miete zahlen. Ich stehe auf dem sonnigen Dachgarten des Penthouses, als Viktor heraustritt: eine knallharte Kokosnuss im maßgeschneiderten Nadelstreifenanzug, auf dessen Stirn gewaltige dreitausendfünfhundert Euro brennen. Er nippt an seinem Champagner und blickt mich mit unverhohlener Verachtung an. Maya, deine verlogene Scheinwelt zieht bei mir nicht. Meine Stimme zittert trotz meines einstudierten Lächelns: Ich bringe zehntausend Follower und immense Reichweite für dieses Haus! Mit Zweitausendundhundert Euro beeindruckst du hier höchstens naive Studenten. Bevor Viktor spricht, entdecke ich auf dem Tisch zufällig seine offenen BaFin-Aktenordner mit vertraulichen Pfändungen Sekunden bevor er bemerkt, dass ich sie sehe. In diesem Moment piept mein Display: Steuervorauszahlung zwangsabgebucht, mein Budget kollabiert live vor seinen Augen. Viktor beugt sich drohend vor: Deine Scheinfirmen stehen kurz vor der Razzia, Schätzchen. Doch dann öffnet er seinen Aktenkoffer, um mich zum Schweigen zu bringen, und ich sehe darin etwas, das die Polizei sofort interessieren würde. Das siehst du in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "-600 €",
+        "after": "1.500 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "„2.100 Euro Scheineinkommen? Schätzchen, für das Taschengeld darfst du höchstens meine Louboutins im Flur abstauben!“"
+        },
+        {
+          "s": "Figur",
+          "t": "Zweitausendundhundert Euro Scheinbudget – und hinter dieser glänzenden Fassade bin ich längst völlig ruiniert. Finn ahnt bis heute nicht, dass meine Klicks mir niemals echte Miete zahlen. Ich stehe auf dem sonnigen Dachgarten des Penthouses, als Viktor heraustritt: eine knallharte Kokosnuss im maßgeschneiderten Nadelstreifenanzug, auf dessen Stirn gewaltige dreitausendfünfhundert Euro brennen. Er nippt an seinem Champagner und blickt mich mit unverhohlener Verachtung an."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Maya, deine verlogene Scheinwelt zieht bei mir nicht.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stimme zittert trotz meines einstudierten Lächelns: Ich bringe zehntausend Follower und immense Reichweite für dieses Haus!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit Zweitausendundhundert Euro beeindruckst du hier höchstens naive Studenten.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Bevor Viktor spricht, entdecke ich auf dem Tisch zufällig seine offenen BaFin-Aktenordner mit vertraulichen Pfändungen Sekunden bevor er bemerkt, dass ich sie sehe. In diesem Moment piept mein Display: Steuervorauszahlung zwangsabgebucht, mein Budget kollabiert live vor seinen Augen. Viktor beugt sich drohend vor: Deine Scheinfirmen stehen kurz vor der Razzia, Schätzchen. Doch dann öffnet er seinen Aktenkoffer, um mich zum Schweigen zu bringen, und ich sehe darin etwas, das die Polizei sofort interessieren würde."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Mit Zweitausendundhundert Euro Miete beeindruckst du höchstens Studenten.",
+      "quote_by": {
+        "level": 6,
+        "name": "Viktor",
+        "badge": "3.500 € Budget",
+        "character": "Rugged, imposing Coconut humanoid man in a pinstripe charcoal suit, gold signet ring, cold calculating smirk, glowing 3.500 € digital forehead badge.",
+        "scene": "Medium shot on an expansive rooftop terrace overlooking Berlin, an imposing coconut businessman holding a crystal champagne flute with supreme arrogance."
+      },
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "2.100 €",
+          "bar": 0.6
+        },
+        {
+          "label": "Zimmergroesse",
+          "value": "38 qm",
+          "bar": 0.58
+        },
+        {
+          "label": "Chancen",
+          "value": "62 %",
+          "bar": 0.62
+        }
+      ],
+      "character": "Glamorous Avocado humanoid woman in an emerald green silk dress, immaculate makeup, holding a gold smartphone, glowing digital forehead badge showing 2.100 €.",
+      "visual": "A lavish rooftop garden overlooking city towers at sunset, wide shot of Avocado Maya trembling before intimidating Coconut banker Viktor, a small golden coin nestled inside a planter box.",
+      "scenes": [
+        "Rooftop terrace garden at golden hour, wide shot: Avocado Maya in green silk faces imposing Coconut Viktor holding champagne, a golden coin tucked inside an olive tree planter.",
+        "Medium shot: Coconut Viktor with glowing 3.500 € badge looks down coldly over his sunglasses at Maya, tiny golden coin resting on the marble balcony railing.",
+        "Low angle dynamic two-shot: Viktor looms over Maya, whose fake confidence shatters completely, golden coin lying on the teak wood decking.",
+        "Extreme close-up on Maya's forehead: Numbers 2.100 € crash violently down to 1.500 € as red warning lights flash, golden coin glinting in the lens flare.",
+        "Detail shot: Viktor clicks open a black aluminum briefcase, revealing bundles of unrecorded bearer bonds, tiny golden coin sitting on the interior lid lining.",
+        "Twilight establishing shot: Both fruit figures silhouetted against the glowing city skyline while wind whips through Maya's hair, golden coin shining next to an outdoor lounge chair."
+      ],
+      "caption": "Fake it till you make it – oder bis die Stirnzahl kollabiert! Wie viel Schein trügt auf Social Media? #influencerlife #finanzamt #stirnzahl #drama #berlin"
+    },
+    {
+      "n": 6,
+      "open_loop": "Wem gehört die unterschriebene Vollmacht in Stellas Handtasche wirklich?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Kauft das gesamte Wohnhaus vor Viktors Nase auf und kündigt ihm fristlos."
+      },
+      "name": "Viktor, 34, Senior Banker",
+      "badge": "3.500 € Budget",
+      "verdict": "ABGESERVIERT",
+      "story": "„3.500 Euro Monatsbudget – und diese arrogante Drachenfrucht wirft mich vor meinen eigenen Kunden aus der Belle-Étage!“ Dreitausendfünfhundert Euro Budget – und trotzdem bin ich hier nur ein kleiner Angestellter auf Abruf. Ich musste Maya erpressen, weil mein eigener Schwarzgeld-Fonds im Ausland kollabiert. Meine privaten Kredite bei drei Großbanken sind gestern allesamt geplatzt, und der Gerichtsvollzieher sitzt mir bereits im Nacken. Ich stehe mit zittrigen Knien im stuckverzierten Kaminzimmer der Belle-Étage. Vor mir sitzt Stella, eine extravagante Drachenfrucht im Haute-Couture-Kimono, deren Stirn unglaubliche sechstausend Euro leuchtet. Viktor, du schwitzt in deinem billigen Nadelstreifenanzug. Meine Adern an den Schläfen pochen vor Zorn: Ich garantiere drei Jahresmieten im Voraus und die komplette Renovierung! Mit Dreitausendfünfhundert Euro bist du hier nur ein geduldeter Bittsteller. Stella lächelt amüsiert, greift zu und konfisziert meine Platin-Kreditkarte physisch direkt vor laufender Kamera: Ich habe dieses Haus vor zehn Minuten komplett gekauft. Mein Herz setzt für immer aus. Sie zieht eine goldene Vollmacht aus ihrer Tasche, um meine Kündigung zu besiegeln. Doch der Name, der ganz unten als wahrer Eigentümer steht, lässt mein Blut gefrieren. Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "-1.500 €",
+        "after": "2.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "„3.500 Euro Monatsbudget – und diese arrogante Drachenfrucht wirft mich vor meinen eigenen Kunden aus der Belle-Étage!“"
+        },
+        {
+          "s": "Figur",
+          "t": "Dreitausendfünfhundert Euro Budget – und trotzdem bin ich hier nur ein kleiner Angestellter auf Abruf. Ich musste Maya erpressen, weil mein eigener Schwarzgeld-Fonds im Ausland kollabiert. Meine privaten Kredite bei drei Großbanken sind gestern allesamt geplatzt, und der Gerichtsvollzieher sitzt mir bereits im Nacken. Ich stehe mit zittrigen Knien im stuckverzierten Kaminzimmer der Belle-Étage. Vor mir sitzt Stella, eine extravagante Drachenfrucht im Haute-Couture-Kimono, deren Stirn unglaubliche sechstausend Euro leuchtet."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Viktor, du schwitzt in deinem billigen Nadelstreifenanzug.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Adern an den Schläfen pochen vor Zorn: Ich garantiere drei Jahresmieten im Voraus und die komplette Renovierung!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit Dreitausendfünfhundert Euro bist du hier nur ein geduldeter Bittsteller.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Stella lächelt amüsiert, greift zu und konfisziert meine Platin-Kreditkarte physisch direkt vor laufender Kamera: Ich habe dieses Haus vor zehn Minuten komplett gekauft. Mein Herz setzt für immer aus. Sie zieht eine goldene Vollmacht aus ihrer Tasche, um meine Kündigung zu besiegeln. Doch der Name, der ganz unten als wahrer Eigentümer steht, lässt mein Blut gefrieren."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Mit Dreitausendfünfhundert Euro bist du hier nur ein geduldeter Bittsteller.",
+      "quote_by": {
+        "level": 7,
+        "name": "Stella",
+        "badge": "6.000 € Budget",
+        "character": "Exotic Dragonfruit humanoid heiress in an avant-garde magenta silk kimono, diamond choker, icy piercing stare, glowing 6.000 € digital forehead badge.",
+        "scene": "Medium shot in a grand salon with an antique marble fireplace, an aristocratic dragonfruit woman sipping espresso while dismissing a suited banker."
+      },
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "3.500 €",
+          "bar": 0.78
+        },
+        {
+          "label": "Zimmergroesse",
+          "value": "65 qm",
+          "bar": 0.75
+        },
+        {
+          "label": "Chancen",
+          "value": "80 %",
+          "bar": 0.8
+        }
+      ],
+      "character": "Imposing Coconut humanoid man in a charcoal pinstripe suit, broad shoulders, gold signet ring, sweating brow, glowing digital forehead badge showing 3.500 €.",
+      "visual": "A palatial salon with roaring marble fireplace and gilded mirrors, wide shot of Coconut banker Viktor standing stiffly before reclined Dragonfruit heiress Stella, a tiny golden coin resting on the fireplace mantle.",
+      "scenes": [
+        "Historic salon with fireplace, wide shot: Coconut banker Viktor stands tense in front of Dragonfruit Stella relaxing on a velvet chaise lounge, golden coin on the carved mantlepiece.",
+        "Medium shot: Stella with glowing 6.000 € forehead badge strokes a tiny pedigree dog while sneering at Viktor, tiny golden coin hidden in the folds of the velvet sofa.",
+        "Two-shot medium angle: Viktor leans forward angrily waving a leather folder, while Stella calmly swirls her espresso cup, golden coin resting on the antique silver tray.",
+        "Forehead display detail: Viktor's digital numbers violently collapse from 3.500 € to 2.000 € with a sharp red glare, golden coin blurred in the background mirror reflection.",
+        "Close-up of golden notarized contract: Stella’s manicured claw holds up a parchment document bearing an embossed red wax seal, tiny golden coin lying on the mahogany table.",
+        "Grand salon wide perspective: Viktor stands frozen in shock as Stella turns her back toward tall arched windows, golden coin tucked beneath the heavy brass curtain tassel."
+      ],
+      "caption": "Egal wie reich du bist – es gibt immer jemanden mit mehr Macht! Wer bestimmt bei dir im Haus die Regeln? #makler #immobilienblase #stirnzahl #macht #berlin"
+    },
+    {
+      "n": 7,
+      "open_loop": "Warum vererbt Immobilien-Tycoon Albrecht das gesamte Viertel ausgerechnet an einen Fremden?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Zerreißt Stellas Vollmacht vor ihren Augen und erklärt ihr gesamtes Millionenerbe für ungültig."
+      },
+      "name": "Stella, 26, Erbin & Kunststudentin",
+      "badge": "6.000 € Budget",
+      "verdict": "ENTEIGNET",
+      "story": "„Du hast 6.000 Euro Taschengeld, aber dein gesamtes Erbe gehört ab heute einem Fremden!“ Sechstausend Euro Monatsbudget – und mein ganzes arrogantes Luxusleben war eine einzige gigantische Lüge. Ich musste Viktor feuern, um mein eigenes Erbe mit allen Mitteln zu verteidigen. Ich stehe im privaten Ballsaal des Gründerzeit-Palais. Die kristallenen Kronleuchter zittern vor Ehrfurcht. Plötzlich öffnet sich die schwere doppelflügelige Eichentür. Herein tritt Herr Albrecht, eine uralte, mächtige Ananas im viktorianischen Gehrock, dessen Stirn unvorstellbare fünfzehntausend Euro strahlt. Er stützt sich auf einen Elfenbeingehstock und mustert mich voller kalter Verachtung. Stella, Kindchen, du hast keinen Cent dieses Geldes selbst verdient. Ich ziehe empört die Stirn kraus: Das Testament meines Vaters garantiert mir dieses gesamte Stadtviertel! Mit deinen Sechstausend Euro Taschengeld besitzt du hier rein gar nichts. In diesem Moment piept mein Display: Alle Treuhandkonten gesperrt, mein Luxusbudget bricht ins absolute Bodenlose ein. Albrecht grinst grausam: Dein Vater hatte einen geheimen Sohn. Mein Atem stockt. Albrecht zieht ein vergilbtes Babyfoto hervor – darauf ist unverkennbar der kleine Timmy aus Level 1 mit seinem unverkennbaren Erdbeer-Muttermal zu sehen –, und als ich das Gesicht des wahren Alleinerben erkenne, realisiere ich den totalen Triumph. Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "-5.500 €",
+        "after": "500 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "„Du hast 6.000 Euro Taschengeld, aber dein gesamtes Erbe gehört ab heute einem Fremden!“"
+        },
+        {
+          "s": "Figur",
+          "t": "Sechstausend Euro Monatsbudget – und mein ganzes arrogantes Luxusleben war eine einzige gigantische Lüge. Ich musste Viktor feuern, um mein eigenes Erbe mit allen Mitteln zu verteidigen. Ich stehe im privaten Ballsaal des Gründerzeit-Palais. Die kristallenen Kronleuchter zittern vor Ehrfurcht. Plötzlich öffnet sich die schwere doppelflügelige Eichentür. Herein tritt Herr Albrecht, eine uralte, mächtige Ananas im viktorianischen Gehrock, dessen Stirn unvorstellbare fünfzehntausend Euro strahlt. Er stützt sich auf einen Elfenbeingehstock und mustert mich voller kalter Verachtung."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Stella, Kindchen, du hast keinen Cent dieses Geldes selbst verdient.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich ziehe empört die Stirn kraus: Das Testament meines Vaters garantiert mir dieses gesamte Stadtviertel!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit deinen Sechstausend Euro Taschengeld besitzt du hier rein gar nichts.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Moment piept mein Display: Alle Treuhandkonten gesperrt, mein Luxusbudget bricht ins absolute Bodenlose ein. Albrecht grinst grausam: Dein Vater hatte einen geheimen Sohn. Mein Atem stockt. Albrecht zieht ein vergilbtes Babyfoto hervor – darauf ist unverkennbar der kleine Timmy aus Level 1 mit seinem unverkennbaren Erdbeer-Muttermal zu sehen –, und als ich das Gesicht des wahren Alleinerben erkenne, realisiere ich den totalen Triumph."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Mit deinen Sechstausend Euro Taschengeld besitzt du hier rein gar nichts.",
+      "quote_by": {
+        "level": 8,
+        "name": "Herr Albrecht",
+        "badge": "15.000 € Budget",
+        "character": "Ancient, powerful Pineapple patriarch humanoid in a velvet Victorian frock coat, ivory walking cane, sovereign smug expression, glowing 15.000 € forehead badge.",
+        "scene": "Medium shot in a cavernous ballroom beneath crystal chandeliers, a towering pineapple patriarch leaning on his cane and gesturing dismissively."
+      },
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "6.000 €",
+          "bar": 0.92
+        },
+        {
+          "label": "Zimmergroesse",
+          "value": "120 qm",
+          "bar": 0.9
+        },
+        {
+          "label": "Chancen",
+          "value": "95 %",
+          "bar": 0.95
+        }
+      ],
+      "character": "Extravagant Dragonfruit humanoid young woman in a magenta haute-couture silk kimono, emerald jewelry, arrogant aristocratic posture, glowing digital forehead badge showing 6.000 €.",
+      "visual": "A magnificent ballroom with towering crystal chandeliers and golden stucco, wide shot of Dragonfruit heiress Stella cowering before towering Pineapple patriarch Albrecht, a tiny golden coin hidden in a chandelier prism.",
+      "scenes": [
+        "Private historic ballroom, wide angle: Dragonfruit Stella stands beneath monumental crystal chandeliers as towering Pineapple patriarch Albrecht enters through double doors, a golden coin resting on a wall sconce.",
+        "Medium shot: Albrecht with a blinding 15.000 € forehead badge leans onto his ivory walking stick, sneering down at Stella, golden coin perched on the cane's silver handle.",
+        "High tension two-shot: Stella clutches her pearl necklace in fury while Albrecht laughs cold-heartedly, tiny golden coin visible on the grand piano lid behind them.",
+        "Macro close-up on forehead display: Stella’s 6.000 € display crashes down into an alarming 500 € in red neon, golden coin reflected on the gilded wallpaper.",
+        "Detail shot: Albrecht’s weathered claw holds out an aged sepia photograph showing an infant strawberry, a golden coin resting on his signet ring finger.",
+        "Palace doors closing, wide perspective: Stella drops to her knees on the polished ballroom parquet as Albrecht turns away into shadow, golden coin lying beside the entrance rug."
+      ],
+      "caption": "Wenn das Millionen-Erbe vor deinen Augen verpufft! Glaubst du an Gerechtigkeit am Wohnungsmarkt? #erbe #wohnungsnot #stirnzahl #luxusleben #großstadt"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches Thema soll die nächste 8-Level-Serie enthüllen?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Timmy betritt den Raum als wahrer Eigentümer und schmeißt Albrecht aus seinem eigenen Büro."
+      },
+      "name": "Herr Albrecht, 58, Hausbesitzer & Patriarch",
+      "badge": "15.000 € Budget",
+      "verdict": "DER BESITZER",
+      "story": "„15.000 Euro Mieteinnahmen – bis der 350-Euro-Bettler aus Level 1 mein Büro stürmt!“ Fünfzehntausend Euro Mieteinnahmen jeden einzelnen Monat – mir gehört diese verfluchte Stadt. Ich habe Stella enterbt, Jonas rausgeworfen und den gesamten Häuserblock absolut kontrolliert. Niemand widerspricht mir je in diesem Viertel. Ich sitze in meinem holzgetäfelten Büro im Dachgeschoss und zähle meine Mietverträge. Plötzlich fliegt die massive Bürotür mit einem lauten Krachen auf. Herein stolziert keine reiche Frucht, sondern Timmy, der kleine Erdbeer-Student aus Level 1. Seine Stirn leuchtet plötzlich in strahlendem Gold: Dreißigtausend Euro Eigentümer-Status. Hinter ihm stehen Jonas, Ronja und die Berliner Polizei. Albrecht, deine schmutzige Schreckensherrschaft ist endgültig vorbei. Mein schwerer Gehstock fällt klappernd zu Boden: Du bist doch der kleine Bettler mit Dreihundertfünfzig Euro aus dem Regen! Die Zahl lügt nie, Onkel Albrecht. Sieh genau hin: Deine Räumungsklagen sind ab dieser Sekunde wertloses Altpapier! Timmy zerreißt Albrechts hunderte Räumungsklagen vor den Augen aller gedemütigten Vormieter in der Luft. In diesem Moment piept mein Display: Totale Beschlagnahmung durch das Nachlassgericht, mein Vermögen wird auf null gesetzt. Die Kette schließt sich für immer: Der Ärmste besitzt jetzt absolut alles. Doch welches Geheimnis wollen wir als Nächstes lüften? Welches Thema soll unsere nächste 8-Level-Serie haben? Schreib es jetzt in die Kommentare!",
+      "gender": "m",
+      "twist": {
+        "delta": "-15.000 €",
+        "after": "0 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "„15.000 Euro Mieteinnahmen – bis der 350-Euro-Bettler aus Level 1 mein Büro stürmt!“"
+        },
+        {
+          "s": "Figur",
+          "t": "Fünfzehntausend Euro Mieteinnahmen jeden einzelnen Monat – mir gehört diese verfluchte Stadt. Ich habe Stella enterbt, Jonas rausgeworfen und den gesamten Häuserblock absolut kontrolliert. Niemand widerspricht mir je in diesem Viertel. Ich sitze in meinem holzgetäfelten Büro im Dachgeschoss und zähle meine Mietverträge. Plötzlich fliegt die massive Bürotür mit einem lauten Krachen auf. Herein stolziert keine reiche Frucht, sondern Timmy, der kleine Erdbeer-Student aus Level 1. Seine Stirn leuchtet plötzlich in strahlendem Gold: Dreißigtausend Euro Eigentümer-Status. Hinter ihm stehen Jonas, Ronja und die Berliner Polizei."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Albrecht, deine schmutzige Schreckensherrschaft ist endgültig vorbei.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein schwerer Gehstock fällt klappernd zu Boden: Du bist doch der kleine Bettler mit Dreihundertfünfzig Euro aus dem Regen!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die Zahl lügt nie, Onkel Albrecht. Sieh genau hin: Deine Räumungsklagen sind ab dieser Sekunde wertloses Altpapier!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Timmy zerreißt Albrechts hunderte Räumungsklagen vor den Augen aller gedemütigten Vormieter in der Luft. In diesem Moment piept mein Display: Totale Beschlagnahmung durch das Nachlassgericht, mein Vermögen wird auf null gesetzt. Die Kette schließt sich für immer: Der Ärmste besitzt jetzt absolut alles. Doch welches Geheimnis wollen wir als Nächstes lüften? Welches Thema soll unsere nächste 8-Level-Serie haben? Schreib es jetzt in die Kommentare!"
+        }
+      ],
+      "quote": "Die Zahl lügt nie, Onkel Albrecht. Sieh genau hin: Deine Räumungsklagen sind ab dieser Sekunde wertloses Altpapier!",
+      "quote_by": {
+        "level": 1,
+        "name": "Timmy",
+        "badge": "30.000 € Eigentümer",
+        "character": "Proud, mature Strawberry humanoid boy in a sharp tailored dark wool coat, standing tall and resolute, glowing golden 30.000 € forehead badge.",
+        "scene": "Medium shot inside a wood-paneled executive penthouse office, a strawberry young man slapping a legal document onto an antique desk with absolute authority."
+      },
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "15.000 €",
+          "bar": 1.0
+        },
+        {
+          "label": "Zimmergroesse",
+          "value": "Gesamthaus",
+          "bar": 1.0
+        },
+        {
+          "label": "Chancen",
+          "value": "100 %",
+          "bar": 1.0
+        }
+      ],
+      "character": "Ancient Pineapple patriarch humanoid with spiky dried crown, velvet Victorian frock coat, ivory cane, gold pocket watch, glowing 15.000 € forehead badge.",
+      "visual": "A lavish wood-paneled corner office overlooking the entire city, wide shot of terrified Pineapple Albrecht collapsing into his leather armchair as Strawberry Timmy confronts him with police officers, a small golden coin resting on the brass desk lamp.",
+      "scenes": [
+        "Wood-paneled executive penthouse office, wide shot: Pineapple patriarch Albrecht sits at a massive oak desk as the heavy double doors burst open, revealing Strawberry Timmy with Jonas and police, a golden coin on the brass desk lamp.",
+        "Medium shot: Strawberry Timmy with a brilliant golden 30.000 € forehead display slams the true legal will down onto the desk, tiny golden coin resting next to the inkwell.",
+        "Over-the-shoulder shot: Albrecht’s ivory cane clatters to the Persian rug while he stares in disbelief at his nephew, golden coin lying half-covered by the rug fringe.",
+        "Extreme macro shot: Albrecht’s forehead numbers 15.000 € countdown rapidly to 0 € with a black-and-red screen shutdown, golden coin shining on the desk calendar.",
+        "Ensemble medium shot: Jonas the Lemon and Ronja the Carrot watch in awe from the office doorway as the balance of power flips forever, tiny golden coin sitting on the doorframe trim.",
+        "Panoramic city skyline from the corner office window, wide low angle: Timmy looks over the city roofs in victory while Albrecht is led away, golden coin glinting prominently on the window sill."
+      ],
+      "caption": "Vom abgelehnten Bewerber zum Eigentümer des ganzen Blocks! Welches Thema soll als Nächstes kommen: Job-Interview oder Luxus-Date? Schreib es in die Kommentare! #finale #stirnzahl #plotwist #karma #wgsuche"
+    }
+  ],
+  "lang": "de",
+  "topic": "WG-Casting in der Großstadt",
+  "frame": "frucht"
+}

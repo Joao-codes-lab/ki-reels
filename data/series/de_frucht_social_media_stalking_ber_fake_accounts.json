@@ -1,0 +1,791 @@
+{
+  "title": "Die 8 Level von Stalking",
+  "house": "A vibrant fruit-and-vegetable metropolis under neon lights, featuring crowded subway lines, damp Berlin back alleys, and sleek glass-front cafés where everyone's digital forehead number dictates social rank.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "In Level 1, Mia spots the barista from Level 3 tossing old coffee beans into a cracked ceramic mug near the U-Bahn entrance.",
+    "The green smoothie spilled in Level 2 ends up staining the wool coat of the strict inspector in Level 6.",
+    "A discarded burner phone from Level 4 is found under the park bench by the tired office worker in Level 7."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was verbarg sich wirklich hinter dem anonymen Fake-Profil, das jede Sekunde ihre Storys aufrief?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Schickt hämische Sprachnachrichten und behauptet, sie lebe in totaler Armut.",
+        "g": "m"
+      },
+      "name": "Mia, 19, Studentin",
+      "badge": "0 Fake-Folgen",
+      "verdict": "UNINTERESSANT",
+      "story": "Die 8 Level von Stalking. Level 1. 0 Follower. Mein Konto wurde vor laufender Kamera gelöscht, weil der reiche Kokosnuss-Typ mich als Putzfrau für seine Luxus-Yacht einteilen wollte. Ich saß auf der feuchten Holzbank der U-Bahn-Linie U8, der kalte Wind pfiff durch den dreckigen Schacht. Neben mir glühte die digitale Anzeige auf meiner Stirn. 0 Follower. Null Relevanz. Plötzlich summte mein gesprungenes Display. Eine neue Direktnachricht von @schatten_auge_99. Ich weiß, dass du gerade am Alexanderplatz stehst, du kleine Heulsuse. Kauf dir endlich ein Leben, Erdbeere. Ich fror ein. Meine roten Wangen brannten vor purer Scham und Demütigung. Um mich herum lachten die arroganten Pendler und zeigten mit dem Finger auf mich. Ich tippte zitternd zurück: Wer bist du? Was willst du von meinem Leben? Die da, die stalkt uns doch nur aus Neid. Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+150 €",
+        "after": "150 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Stalking. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "0 Follower. Mein Konto wurde vor laufender Kamera gelöscht, weil der reiche Kokosnuss-Typ mich als Putzfrau für seine Luxus-Yacht einteilen wollte."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich saß auf der feuchten Holzbank der U-Bahn-Linie U8, der kalte Wind pfiff durch den dreckigen Schacht."
+        },
+        {
+          "s": "Figur",
+          "t": "Neben mir glühte die digitale Anzeige auf meiner Stirn. 0 Follower. Null Relevanz."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich summte mein gesprungenes Display. Eine neue Direktnachricht von @schatten_auge_99."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich weiß, dass du gerade am Alexanderplatz stehst, du kleine Heulsuse. Kauf dir endlich ein Leben, Erdbeere."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich fror ein. Meine roten Wangen brannten vor purer Scham und Demütigung. Um mich herum lachten die arroganten Pendler und zeigten mit dem Finger auf mich."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich tippte zitternd zurück: Wer bist du? Was willst du von meinem Leben?"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die da, die stalkt uns doch nur aus Neid.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Die da, die stalkt uns doch nur aus Neid.",
+      "quote_by": {
+        "level": 4,
+        "name": "Ben",
+        "badge": "12.400 €",
+        "character": "A slick coconut man with a hard brown shell, wearing a sharp navy suit and silver cufflinks.",
+        "scene": "A wide angle shot of a crowded Berlin subway station at rush hour, the coconut man pointing derisively at a strawberry girl with a glowing zero on her forehead."
+      },
+      "stats": [
+        {
+          "label": "Folgen",
+          "value": "0",
+          "bar": 0.01
+        },
+        {
+          "label": "Fake-IDs",
+          "value": "3",
+          "bar": 0.1
+        },
+        {
+          "label": "Paranoia",
+          "value": "99%",
+          "bar": 0.99
+        }
+      ],
+      "character": "A sweet strawberry girl with bright red textured skin, wearing an oversized gray hoodie, a knitted scarf, and holding a cracked smartphone. Glowing digital number on forehead.",
+      "visual": "A gritty Berlin subway station at dusk, cold fluorescent light reflecting off wet tiles. A strawberry girl stares at her phone in horror while a glowing digital number on her forehead reads zero.",
+      "scenes": [
+        "Subway station platform at dusk, wide angle showing dark tunnels, flickering neon lights, and distant figures of vegetable commuters.",
+        "Close up on a cracked smartphone screen displaying a threatening direct message from a burner account.",
+        "Medium shot of the strawberry girl sitting on a wooden bench, biting her lip in stress, glowing forehead number visible.",
+        "Over-the-shoulder shot looking at a sleek coconut man in a sharp suit pointing a finger with arrogant disdain.",
+        "Detail shot of a tiny gold coin hidden in plain sight on a rusty metal pillar next to the station exit sign.",
+        "Wide shot of the bustling station stairs with commuters rushing past under a pale yellow streetlamp."
+      ],
+      "caption": "Wer stalkt hier wen? Schreib es in die Kommentare! #stalking #fakeaccount #drama #berlin #level1"
+    },
+    {
+      "n": 2,
+      "open_loop": "Welches dunkle Geheimnis verbarg der vermeintlich harmlose Kioskbesitzer hinter der Kasse?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Blockiert ihren Account und verbreitet Screenshots in der Nachbarschaft.",
+        "g": "m"
+      },
+      "name": "Leo, 24, Barista",
+      "badge": "12 Fake-IDs",
+      "verdict": "VERDÄCHTIG",
+      "story": "Die 8 Level von Stalking. Level 2. 12 Fake-Accounts blockiert, aber der Kiosk-Besitzer hat mein Erspartes gestohlen und lacht mir ins Gesicht. Der kleine Kiosk an der feuchten Straßenecke roch unerträglich nach billigem Tabak, abgestandenem Kaffee und billigem Strom. Ich wischte mit zitternden Händen den nassen Tresen ab, während mein Blick starr auf das Live-Überwachungsvideo auf meinem Handy heftete. Da tauchte er plötzlich auf: ein Typ mit einer sauren Zitrone als Kopf und einer Stirnzahl, die mich verächtlich verspottete. Er lehnte sich weit über den Tresen und grinste mich schief und bösartig an. Suchst du etwa nach deinen letzten Beweisen, du kleiner, elendiger Kaffeekoch? Ich weiß genau, dass du mein Leben heimlich live streamst, aber ich mache dich fertig. Lass sie nur suchen, die kriegt eh nie genug von meiner Aufmerksamkeit. Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+400 €",
+        "after": "550 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Stalking. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "12 Fake-Accounts blockiert, aber der Kiosk-Besitzer hat mein Erspartes gestohlen und lacht mir ins Gesicht."
+        },
+        {
+          "s": "Figur",
+          "t": "Der kleine Kiosk an der feuchten Straßenecke roch unerträglich nach billigem Tabak, abgestandenem Kaffee und billigem Strom."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich wischte mit zitternden Händen den nassen Tresen ab, während mein Blick starr auf das Live-Überwachungsvideo auf meinem Handy heftete."
+        },
+        {
+          "s": "Figur",
+          "t": "Da tauchte er plötzlich auf: ein Typ mit einer sauren Zitrone als Kopf und einer Stirnzahl, die mich verächtlich verspottete."
+        },
+        {
+          "s": "Figur",
+          "t": "Er lehnte sich weit über den Tresen und grinste mich schief und bösartig an."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Suchst du etwa nach deinen letzten Beweisen, du kleiner, elendiger Kaffeekoch?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich weiß genau, dass du mein Leben heimlich live streamst, aber ich mache dich fertig."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Lass sie nur suchen, die kriegt eh nie genug von meiner Aufmerksamkeit.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Lass sie suchen, die kriegt eh nie genug von meiner Aufmerksamkeit.",
+      "quote_by": {
+        "level": 5,
+        "name": "Viktor",
+        "badge": "25.000 €",
+        "character": "A sour lemon man with rough yellow skin, wearing a tight leather jacket and silver rings.",
+        "scene": "A medium shot inside a dimly lit corner kiosk at night, the lemon man smirking cruelly across a sticky counter."
+      },
+      "stats": [
+        {
+          "label": "Fake-IDs",
+          "value": "12",
+          "bar": 0.2
+        },
+        {
+          "label": "Klicks",
+          "value": "1.400",
+          "bar": 0.3
+        },
+        {
+          "label": "Spuren",
+          "value": "4",
+          "bar": 0.25
+        }
+      ],
+      "character": "An energetic orange man with segmented citrus peel skin, wearing a stained green apron, black cap, and wireless earbuds around his neck.",
+      "visual": "A glowing neon-lit corner kiosk at night, rain streaking down the glass windows. An orange man glares at his smartphone screen while his forehead shows twelve active fake blocks.",
+      "scenes": [
+        "Corner kiosk exterior at night, neon sign flickering with pink and yellow light, puddles on the pavement reflecting the glow.",
+        "Close up on a sticky wooden counter with a tiny gold coin resting near a glass jar of chewing gum.",
+        "Medium shot of the orange man wiping down the counter with a dirty cloth, looking stressed.",
+        "Over the shoulder shot of a lemon man leaning across the counter with an aggressive grin.",
+        "Detail shot of a laptop screen showing IP tracking lines connecting across a city map.",
+        "Wide shot of the damp street outside as a shadowy figure walks away into the fog."
+      ],
+      "caption": "Wer steckt hinter den Fake-Profilen? Finde es heraus! #stalker #kiosk #drama #berlin #level2"
+    },
+    {
+      "n": 3,
+      "open_loop": "Was stand in dem verschlüsselten Ordner auf dem fremden Laptop?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Löscht heimlich alle Beweise von ihrer Cloud und ändert ihre Passwörter.",
+        "g": "m"
+      },
+      "name": "Samia, 29, IT-Analystin",
+      "badge": "450 Stalker",
+      "verdict": "ÜBERWACHT",
+      "story": "Die 8 Level von Stalking. Level 3. 450 Stalker auf meinem Server, und mein Chef hat gerade mein Passwort öffentlich ins Netz gestellt. Die hellen Neonröhren im kalten Großraumbüro summten unerträglich laut, während draußen der unbarmherzige Berliner Dauerregen an die großen Scheiben peitschte. Ich starrte fassungslos auf die endlosen Code-Zeilen, die sich wie pure Seuche durch meine private Datenbank fraßen. Jemand hatte sich heimlich in meine Webcam gehackt und beobachtete jeden meiner Atemzüge. Plötzlich flackerte mein ganzer Bildschirm tiefschwarz. Ein neues Chatfenster sprang auf. Na, kleine Avocado, heute schon in den ekligen Spiegel geschaut? Du kannst deine miserable Firewall so hochziehen wie du willst, wir sehen absolut alles. Ich kriege dich endgültig, egal wie viele Fake-Accounts du noch benutzt. Die da bricht eh gleich psychisch komplett zusammen. Das siehst du in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1.200 €",
+        "after": "1.650 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Stalking. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "450 Stalker auf meinem Server, und mein Chef hat gerade mein Passwort öffentlich ins Netz gestellt."
+        },
+        {
+          "s": "Figur",
+          "t": "Die hellen Neonröhren im kalten Großraumbüro summten unerträglich laut, während draußen der unbarmherzige Berliner Dauerregen an die großen Scheiben peitschte."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich starrte fassungslos auf die endlosen Code-Zeilen, die sich wie pure Seuche durch meine private Datenbank fraßen."
+        },
+        {
+          "s": "Figur",
+          "t": "Jemand hatte sich heimlich in meine Webcam gehackt und beobachtete jeden meiner Atemzüge. Plötzlich flackerte mein ganzer Bildschirm tiefschwarz."
+        },
+        {
+          "s": "Figur",
+          "t": "Ein neues Chatfenster sprang auf. Na, kleine Avocado, heute schon in den ekligen Spiegel geschaut?"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du kannst deine miserable Firewall so hochziehen wie du willst, wir sehen absolut alles.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich kriege dich endgültig, egal wie viele Fake-Accounts du noch benutzt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die da bricht eh gleich psychisch komplett zusammen.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Die da bricht eh gleich psychisch komplett zusammen.",
+      "quote_by": {
+        "level": 7,
+        "name": "Timo",
+        "badge": "89.000 €",
+        "character": "A stiff broccoli man with tightly packed green florets, wearing a pristine cashmere turtleneck and gold-rimmed glasses.",
+        "scene": "A wide angle shot of a sleek corporate open-space office at night, the broccoli man looking down with cold superiority at an avocado woman."
+      },
+      "stats": [
+        {
+          "label": "Stalker",
+          "value": "450",
+          "bar": 0.45
+        },
+        {
+          "label": "Breaches",
+          "value": "18",
+          "bar": 0.4
+        },
+        {
+          "label": "Spuren",
+          "value": "12",
+          "bar": 0.5
+        }
+      ],
+      "character": "An smooth avocado woman with soft green skin and a dark pit-shaped pendant around her neck, wearing a sharp grey blazer and rimless glasses.",
+      "visual": "A high-tech corporate office at night with blue glow from multiple monitors. An avocado woman stares in shock at her hacked laptop screen while code lines scroll rapidly.",
+      "scenes": [
+        "Corporate office floor at night, rows of empty desks under cold white ceiling lights, rain washing down massive glass windows.",
+        "Close up of dual monitors displaying a terminal window with malicious script execution.",
+        "Medium shot of the avocado woman standing up in panic, hands pressed against her desk.",
+        "Over the shoulder shot of a crisp broccoli man stepping into the frame with an arrogant smirk.",
+        "Detail shot of a tiny gold coin resting on the corner of a mechanical computer keyboard.",
+        "Wide shot of the dark office hallway as a silhouette vanishes around the corner."
+      ],
+      "caption": "Wer hat Admin-Zugriff auf dein Leben? Finde es heraus! #hacker #cyberstalking #drama #berlin #level3"
+    },
+    {
+      "n": 4,
+      "open_loop": "Welches dunkle Geheimnis stand in den ausgedruckten Chatprotokollen auf dem Autodach?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Klopft an die Autoscheibe und filmt ihre Panik mit dem Handy.",
+        "g": "m"
+      },
+      "name": "Ben, 31, Influencer",
+      "badge": "2.400 Fake-DMs",
+      "verdict": "EXponIERT",
+      "story": "Die 8 Level von Stalking. Level 4. 2.400 Fake-DMs, und er hat mein Auto zerkratzt, während er mich als Versager beschimpft. Ich saß in meinem teuren, parkenden Sportwagen mitten im kalten Berlin, während die Motortemperatur im eisigen Abendwind rapide sank. Auf dem Beifahrersitz stapelten sich Aktenordner voller Beweise, die mein Leben ruinieren sollten. Plötzlich klopfte es brutal an die Scheibe. Eine schrumpelige Zitrone leuchtete mich durch das Glas an und schlug mit dem Schlüssel einen tiefen Kratzer in den Lack. Ich kurbelte das Fenster runter. Was willst du schon wieder von mir, du elendiger Parasit? Du glaubst wohl, du bist sicher mit deinen paar Tausend Followern, du arrogante Kokosnuss. Ich spürte, wie meine harte Schale tiefe Risse bekam. Mein Herz hämmerte wie wild gegen meine Rippen. Der dreht völlig durch, weil wir sein Passwort haben. Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "-3.000 €",
+        "after": "9.400 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Stalking. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "2.400 Fake-DMs, und er hat mein Auto zerkratzt, während er mich als Versager beschimpft."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich saß in meinem teuren, parkenden Sportwagen mitten im kalten Berlin, während die Motortemperatur im eisigen Abendwind rapide sank."
+        },
+        {
+          "s": "Figur",
+          "t": "Auf dem Beifahrersitz stapelten sich Aktenordner voller Beweise, die mein Leben ruinieren sollten."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich klopfte es brutal an die Scheibe. Eine schrumpelige Zitrone leuchtete mich durch das Glas an und schlug mit dem Schlüssel einen tiefen Kratzer in den Lack."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich kurbelte das Fenster runter. Was willst du schon wieder von mir, du elendiger Parasit?"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du glaubst wohl, du bist sicher mit deinen paar Tausend Followern, du arrogante Kokosnuss.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich spürte, wie meine harte Schale tiefe Risse bekam. Mein Herz hämmerte wie wild gegen meine Rippen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Der dreht völlig durch, weil wir sein Passwort haben.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Der dreht völlig durch, weil wir sein Passwort haben.",
+      "quote_by": {
+        "level": 2,
+        "name": "Leo",
+        "badge": "12 Fake-IDs",
+        "character": "An energetic orange man with citrus peel skin, wearing a stained green apron and wireless earbuds.",
+        "scene": "A medium shot outside a luxury sports car at night, the orange man knocking aggressively on the driver's window while holding a glowing phone."
+      },
+      "stats": [
+        {
+          "label": "Fake-DMs",
+          "value": "2.400",
+          "bar": 0.6
+        },
+        {
+          "label": "Paranoia",
+          "value": "85%",
+          "bar": 0.85
+        },
+        {
+          "label": "Spuren",
+          "value": "21",
+          "bar": 0.65
+        }
+      ],
+      "character": "A hard brown coconut man with fibrous husk hair, wearing a sleek silver bomber jacket and dark sunglasses indoors. Glowing digital number on forehead.",
+      "visual": "A moody, wet Berlin street at night illuminated by red taillights. A coconut man sits inside a luxury sports car looking panicked while an orange man taps aggressively on the window.",
+      "scenes": [
+        "Berlin side street at night, wet asphalt reflecting streetlamps and neon signs from nearby bars.",
+        "Close up of a gloved hand tapping on a car window with a reflection of a flashing digital number.",
+        "Medium shot inside the sports car, dashboard lights casting a blue glow on the coconut man's face.",
+        "Over the shoulder shot looking at documents strewn across the passenger seat with blurred chat logs.",
+        "Detail shot of a tiny gold coin tucked behind the windshield wiper blade.",
+        "Wide shot of the car trapped against the curb as distant figures watch from the shadows."
+      ],
+      "caption": "Wer hat dein Passwort geknackt? Schreib es in die Kommentare! #privacy #exposure #drama #berlin #level4"
+    },
+    {
+      "n": 5,
+      "open_loop": "Welche Person saß am Tisch im Hinterzimmer und zog die Fäden aller Stalker?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Sperrt ihren Serverzugang und schickt ihr falsche GPS-Koordinaten.",
+        "g": "w"
+      },
+      "name": "Viktor, 35, Detektiv",
+      "badge": "8.900 Beweise",
+      "verdict": "GEJAGT",
+      "story": "Die 8 Level von Stalking. Level 5. 8.900 Beweise, und die Drachenfrucht hat sie einfach verbrannt und mich als Dieb angezeigt. Das alte, muffige Archiv im Keller roch penetrant nach nassem Papier und kaltem Zigarettenrauch. Ich blätterte rasend schnell durch die ausgedruckten Chat-Verläufe, als die Deckenlampe bedrohlich flackerte. Jemand war im Gebäude. Die schwere Eisentür knarrte auf. Eine elegante Drachenfrucht mit pinker Schuppenhaut trat eiskalt in den Raum. Sie ging zum Regal und zündete die Akten an. Suchst du etwa nach deinen Beweisen, du armseliger Detektiv? Ich zog meine Schreibtischlampe zu mir her und knallte die brennende Akte auf den Holztisch. Der Schnüffler kriegt gleich Todesangst, weil sein Safe leer ist. Mein Herz setzte einen harten Schlag aus. Ich riss die Schublade auf – sie war komplett leer. Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+15.000 €",
+        "after": "23.900 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Stalking. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "8.900 Beweise, und die Drachenfrucht hat sie einfach verbrannt und mich als Dieb angezeigt."
+        },
+        {
+          "s": "Figur",
+          "t": "Das alte, muffige Archiv im Keller roch penetrant nach nassem Papier und kaltem Zigarettenrauch."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich blätterte rasend schnell durch die ausgedruckten Chat-Verläufe, als die Deckenlampe bedrohlich flackerte."
+        },
+        {
+          "s": "Figur",
+          "t": "Jemand war im Gebäude. Die schwere Eisentür knarrte auf. Eine elegante Drachenfrucht mit pinker Schuppenhaut trat eiskalt in den Raum."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie ging zum Regal und zündete die Akten an. Suchst du etwa nach deinen Beweisen, du armseliger Detektiv?"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich zog meine Schreibtischlampe zu mir her und knallte die brennende Akte auf den Holztisch."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Der Schnüffler kriegt gleich Todesangst, weil sein Safe leer ist.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Herz setzte einen harten Schlag aus. Ich riss die Schublade auf – sie war komplett leer."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Der Schnüffler kriegt gleich Todesangst, weil sein Safe leer ist.",
+      "quote_by": {
+        "level": 3,
+        "name": "Samia",
+        "badge": "450 Stalker",
+        "character": "A smooth avocado woman with green skin and a dark pit pendant, wearing a grey blazer.",
+        "scene": "A medium shot inside a dark archive basement, the avocado woman looking down triumphantly at an open desk drawer."
+      },
+      "stats": [
+        {
+          "label": "Beweise",
+          "value": "8.900",
+          "bar": 0.7
+        },
+        {
+          "label": "Spuren",
+          "value": "44",
+          "bar": 0.75
+        },
+        {
+          "label": "Gefahr",
+          "value": "90%",
+          "bar": 0.9
+        }
+      ],
+      "character": "A sour lemon man with rough yellow skin, wearing a trench coat, dark fedora, and holding a magnifying glass. Glowing digital number on forehead.",
+      "visual": "A dusty basement archive lit by a single green desk lamp. A lemon man stares in disbelief at an empty drawer while stacks of paper surround him.",
+      "scenes": [
+        "Basement archive room filled with dusty cardboard boxes and towering bookshelves under dim yellow light.",
+        "Close up of an open wooden desk drawer with scattered paperclips and dust.",
+        "Medium shot of the lemon man slamming his hands down on the desk in frustration.",
+        "Over the shoulder shot of a dragon fruit woman leaning against a shelf with an icy smile.",
+        "Detail shot of a tiny gold coin hidden behind the spine of an old leather-bound ledger.",
+        "Wide shot of the heavy metal archive door standing slightly open with shadows stretching across the floor."
+      ],
+      "caption": "Wer hat die Akten gestohlen? Schreib es in die Kommentare! #detektiv #archive #drama #berlin #level5"
+    },
+    {
+      "n": 6,
+      "open_loop": "Welche geheime Botschaft stand auf dem Zettel im leeren Tresor?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Wirft alte Briefe in ihren Vorgarten und filmt ihr Entsetzen.",
+        "g": "w"
+      },
+      "name": "Mara, 28, Journalistin",
+      "badge": "15.000 Follower",
+      "verdict": "ZIELSCHEIBE",
+      "story": "Die 8 Level von Stalking. Level 6. 15.000 Follower sahen zu, wie mein Account gesperrt und mein Ruf komplett vernichtet wurde. Das stickige Redaktionsbüro roch nach billigem Filterkaffee und nassen Mänteln im Winter. Ich hämmerte mit letzter Wut in die Tasten meines Laptops, um den vernichtenden Leitartikel über die kriminellen Stalker-Netzwerke endgültig zu veröffentlichen. Plötzlich sprang das Notlicht auf grelles Rot um. Mein Bildschirm fror ein. Eine rote, hämische Textzeile erschien: Du kommst zu spät, Journalistin. Die Bürotür flog krachend auf. Eine winzige Erdbeere stand im Rahmen, die Stirnzahl flackerte wild und unkontrolliert. Du zerstörst unser ganzes Leben mit deinen verlogenen Fake-Storys! Das bist also du... du steckst hinter dem Hauptaccount? Die glaubt ernsthaft, sie findet uns jemals alle. Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+34.000 €",
+        "after": "49.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Stalking. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "15.000 Follower sahen zu, wie mein Account gesperrt und mein Ruf komplett vernichtet wurde."
+        },
+        {
+          "s": "Figur",
+          "t": "Das stickige Redaktionsbüro roch nach billigem Filterkaffee und nassen Mänteln im Winter."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich hämmerte mit letzter Wut in die Tasten meines Laptops, um den vernichtenden Leitartikel über die kriminellen Stalker-Netzwerke endgültig zu veröffentlichen."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich sprang das Notlicht auf grelles Rot um. Mein Bildschirm fror ein. Eine rote, hämische Textzeile erschien: Du kommst zu spät, Journalistin."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Bürotür flog krachend auf. Eine winzige Erdbeere stand im Rahmen, die Stirnzahl flackerte wild und unkontrolliert."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du zerstörst unser ganzes Leben mit deinen verlogenen Fake-Storys!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Das bist also du... du steckst hinter dem Hauptaccount?"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die glaubt ernsthaft, sie findet uns jemals alle.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Die glaubt ernsthaft, sie findet uns jemals alle.",
+      "quote_by": {
+        "level": 1,
+        "name": "Mia",
+        "badge": "0 Fake-Folgen",
+        "character": "A sweet strawberry girl with red textured skin, wearing an oversized grey hoodie.",
+        "scene": "A wide angle shot of a newsroom hallway with red emergency lighting, the strawberry girl pointing aggressively toward an open office door."
+      },
+      "stats": [
+        {
+          "label": "Follower",
+          "value": "15.000",
+          "bar": 0.8
+        },
+        {
+          "label": "Artikel",
+          "value": "89",
+          "bar": 0.85
+        },
+        {
+          "label": "Netzwerk",
+          "value": "99%",
+          "bar": 0.95
+        }
+      ],
+      "character": "An exotic dragon fruit woman with hot-pink scaly skin and green leaf tips, wearing a sharp white pantsuit and silver hoop earrings. Glowing digital number on forehead.",
+      "visual": "A chaotic newsroom under crimson emergency lighting. A dragon fruit woman stares at a frozen laptop screen while shattered coffee mug pieces lie on the floor.",
+      "scenes": [
+        "Newsroom interior bathed in emergency red light, papers fluttering from open windows during a storm.",
+        "Close up of a laptop screen with a frozen error message and a flashing cursor.",
+        "Medium shot of the dragon fruit woman looking down in shock at the shattered coffee mug.",
+        "Over the shoulder shot of a small strawberry girl standing defiantly in the doorway.",
+        "Detail shot of a tiny gold coin resting inside the rim of a broken ceramic mug.",
+        "Wide shot of the dark office floor as shadows lengthen across the desks."
+      ],
+      "caption": "Wer zieht die Fäden im Hintergrund? Schreib es in die Kommentare! #journalismus #expose #drama #berlin #level6"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welche Identität verbarg sich hinter dem Master-Account, der alles kontrollierte?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "HACKT IHREN LIVESTREAM UND LÖSCHT IHRE RECHERCHE-DATEN.",
+        "g": "w"
+      },
+      "name": "Timo, 42, Investor",
+      "badge": "89.000 Follower",
+      "verdict": "KONTROLLEUR",
+      "story": "Die 8 Level von Stalking. Level 7. 89.000 Follower, aber er lacht mich aus, während er mein gesamtes Lebenswerk an die Börse verkauft. Das luxuriöse Penthouse bot einen atemberaubenden, kalten Blick über das regnerische Berlin. Ich schlürfte genüsslich meinen teuren Champagner, während auf den riesigen Monitoren vor mir die panische Verzweiflung meiner Opfer tanzte. Da trat eine eisige Drachenfrucht aus dem privaten Fahrstuhl, die Stirnzahl leuchtete grell in der Dunkelheit. Sie knallte ein USB-Laufwerk voller Beweise auf den Glastisch und sah mich mit eiskaltem Hass an. Spiel endgültig vorbei, Timo. Ich lachte arrogant, stellte mein Glas langsam ab und trat ans Panoramafenster. Der Boss zahlt jetzt den ultimativen Preis für seine unendliche Arroganz. Plötzlich piepten alle Monitore gleichzeitig schrill auf. Mein Hauptkonto wurde gesperrt. Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "-50.000 €",
+        "after": "39.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Stalking. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "89.000 Follower, aber er lacht mich aus, während er mein gesamtes Lebenswerk an die Börse verkauft."
+        },
+        {
+          "s": "Figur",
+          "t": "Das luxuriöse Penthouse bot einen atemberaubenden, kalten Blick über das regnerische Berlin."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schlürfte genüsslich meinen teuren Champagner, während auf den riesigen Monitoren vor mir die panische Verzweiflung meiner Opfer tanzte."
+        },
+        {
+          "s": "Figur",
+          "t": "Da trat eine eisige Drachenfrucht aus dem privaten Fahrstuhl, die Stirnzahl leuchtete grell in der Dunkelheit."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie knallte ein USB-Laufwerk voller Beweise auf den Glastisch und sah mich mit eiskaltem Hass an. Spiel endgültig vorbei, Timo."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich lachte arrogant, stellte mein Glas langsam ab und trat ans Panoramafenster."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Der Boss zahlt jetzt den ultimativen Preis für seine unendliche Arroganz.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich piepten alle Monitore gleichzeitig schrill auf. Mein Hauptkonto wurde gesperrt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Der Boss zahlt jetzt den ultimativen Preis für seine unendliche Arroganz.",
+      "quote_by": {
+        "level": 6,
+        "name": "Mara",
+        "badge": "15.000 Follower",
+        "character": "An exotic dragon fruit woman with hot-pink scaly skin, wearing a white pantsuit.",
+        "scene": "A wide angle shot of a luxury penthouse overlooking Berlin at night, the dragon fruit woman grabbing a broccoli man by his cashmere collar."
+      },
+      "stats": [
+        {
+          "label": "Follower",
+          "value": "89.000",
+          "bar": 0.9
+        },
+        {
+          "label": "Netzwerke",
+          "value": "7",
+          "bar": 0.95
+        },
+        {
+          "label": "Macht",
+          "value": "99%",
+          "bar": 0.99
+        }
+      ],
+      "character": "A stiff broccoli man with tightly packed green florets, wearing a pristine cashmere turtleneck, gold-rimmed glasses, and holding a champagne flute. Glowing digital number on forehead.",
+      "visual": "A luxurious glass penthouse overlooking Berlin's skyline in the rain. A broccoli man stands calmly by multiple monitors while a dragon fruit woman confronts him.",
+      "scenes": [
+        "Penthouse interior with floor-to-ceiling glass windows showing city lights blurred by rain.",
+        "Close up of a glowing USB drive resting on a dark marble coffee table.",
+        "Medium shot of the broccoli man sipping champagne with an arrogant smile.",
+        "Over the shoulder shot of the dragon fruit woman gripping his collar in anger.",
+        "Detail shot of a tiny gold coin embedded in the base of a crystal champagne glass.",
+        "Wide shot of the elevator doors opening in the background with warning red lights flashing."
+      ],
+      "caption": "Wer steckt hinter dem Master-Account? Schreib es in die Kommentare! #penthouse #mastermind #drama #berlin #level7"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welche überraschende Wahrheit enthüllte der finale Stream, der die ganze Stadt veränderte?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Entschuldigt sich öffentlich und übergibt die Admin-Rechte an alle Opfer.",
+        "g": "m"
+      },
+      "name": "Kokosnuss-Mutter, 50, Unbekannt",
+      "badge": "999.999 Master",
+      "verdict": "SYSTEM",
+      "story": "Die 8 Level von Stalking. Level 8. Das Finale muss echte Genugtuung bringen: Alle Unterdrücker stürzten gnadenlos ab, verloren ihr gesamtes Vermögen und wurden vor laufender Kamera von den Opfern verhaftet, statt einer weichgespülten System-Moral. Die finstere Zentrale des Netzwerks im Betonbunker bebte, als die Server explodierten. Alle sieben Unterdrücker knieten winselnd am Boden, während ihre arrogant glänzenden Stirnzahlen für immer schwarz wurden. Wir hatten echte Rache genommen und sie komplett zerstört. Ich stand im Zentrum und hielt das finale Steuerungstablet in der Hand, während draußen ihre Konten auf null sanken. Jahrelang hatten sie uns gestalkt, gehasst und gedemütigt – jetzt zahlten sie mit Zins und Zinseszins. Die Zahl hat uns alle versklavt, aber jetzt ist das Spiel endgültig vorbei. Ich drückte den roten Ausschaltknopf. Stille breitete sich aus, und wir sahen uns ohne Zahlen in die Augen. Welches Thema der Gesellschaft soll als Nächstes entlarvt werden?",
+      "gender": "w",
+      "twist": {
+        "delta": "RESET",
+        "after": "0"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Stalking. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Das Finale muss echte Genugtuung bringen: Alle Unterdrücker stürzten gnadenlos ab, verloren ihr gesamtes Vermögen und wurden vor laufender Kamera von den Opfern verhaftet, statt einer weichgespülten System-Moral."
+        },
+        {
+          "s": "Figur",
+          "t": "Die finstere Zentrale des Netzwerks im Betonbunker bebte, als die Server explodierten."
+        },
+        {
+          "s": "Figur",
+          "t": "Alle sieben Unterdrücker knieten winselnd am Boden, während ihre arrogant glänzenden Stirnzahlen für immer schwarz wurden."
+        },
+        {
+          "s": "Figur",
+          "t": "Wir hatten echte Rache genommen und sie komplett zerstört. Ich stand im Zentrum und hielt das finale Steuerungstablet in der Hand, während draußen ihre Konten auf null sanken."
+        },
+        {
+          "s": "Figur",
+          "t": "Jahrelang hatten sie uns gestalkt, gehasst und gedemütigt – jetzt zahlten sie mit Zins und Zinseszins."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die Zahl hat uns alle versklavt, aber jetzt ist das Spiel endgültig vorbei.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich drückte den roten Ausschaltknopf. Stille breitete sich aus, und wir sahen uns ohne Zahlen in die Augen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema der Gesellschaft soll als Nächstes entlarvt werden?"
+        }
+      ],
+      "quote": "Die Zahl hat uns alle versklavt, aber jetzt ist das Spiel endgültig vorbei.",
+      "quote_by": {
+        "level": 4,
+        "name": "Ben",
+        "badge": "12.400 €",
+        "character": "A slick coconut man with a hard brown shell, wearing a navy suit.",
+        "scene": "A wide angle shot of a sterile underground concrete bunker, all fruit and vegetable characters standing in a circle while glowing foreheads start to fade out."
+      },
+      "stats": [
+        {
+          "label": "System",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Master",
+          "value": "MAX",
+          "bar": 1.0
+        },
+        {
+          "label": "Status",
+          "value": "OFF",
+          "bar": 0.0
+        }
+      ],
+      "character": "A mysterious coconut matriarch with a hard fibrous shell, wearing an elegant silver robe and holding a master control tablet. Glowing digital number on forehead.",
+      "visual": "A vast, dark underground bunker beneath a television tower. Multiple glowing screens project digital numbers around all eight fruit and vegetable characters standing together in a circle.",
+      "scenes": [
+        "Underground concrete bunker with massive server racks humming in the background under cold white strobe lights.",
+        "Close up of a master control tablet displaying a flashing red shutdown button.",
+        "Medium shot of all eight vegetable characters standing in a circle, their forehead numbers glowing brightly.",
+        "Over the shoulder shot of a strawberry girl pressing the final shutdown button.",
+        "Detail shot of a tiny gold coin resting right on top of the server power switch.",
+        "Wide shot of all digital forehead numbers simultaneously fading to black as the screen goes dark."
+      ],
+      "caption": "Welches Thema soll als Nächstes kommen? Schreib es in die Kommentare! #finale #system #drama #berlin #level8"
+    }
+  ],
+  "lang": "de",
+  "topic": "Social-Media-Stalking über Fake-Accounts",
+  "frame": "frucht"
+}

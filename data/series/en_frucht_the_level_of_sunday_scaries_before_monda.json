@@ -1,0 +1,775 @@
+{
+  "title": "The 8 Level of Sunday Scaries",
+  "house": "A sprawling, neon-lit metropolis called Produce City where vegetable and fruit citizens commute in rusty yellow cabs, work frantic desk jobs, and panic about Monday mornings under towering glowing digital billboards.",
+  "catchphrase": "The glowing digit on your forehead never lies.",
+  "links": [
+    "The bitter lemon barista in Level 1 mentions a quiet blueberry man who always leaves a huge tip.",
+    "The exhausted broccoli accountant in Level 3 spots a sleek green grape sports car speeding past the bus stop.",
+    "The glowing coconut tech bro in Level 8 sips espresso at the exact same cafe where the orange starts her shift."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Why did the glowing bank notification make her Sunday night instantly freeze?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Laughs at her for checking her pitiful bank balance on the subway and kicks her spilled coffee away."
+      },
+      "name": "Ruby, 22, Intern",
+      "badge": "12 € left",
+      "verdict": "BROKE",
+      "story": "The 8 Level of Sunday Scaries. Level 1. 12 dollars in my checking account and Sunday night terror is already clawing at my throat. My strawberry skin is pale, my cheap polyester thrift jacket smells like stale subway air, and the glowing '12 $' on my forehead flashes like a neon warning sign. I am staring at my phone in the dim kitchen of my mouse-infested Brooklyn apartment, watching the clock tick toward 7:00 AM Monday. My phone buzzes with a rent reminder from my landlord. A crisp, expensive bell chimes behind me. You can't even afford a decent cup of instant noodles for dinner, can you? My hands tremble against the kitchen counter, my heart slamming against my ribs as I realize I have no money for tomorrow's commute. The screen lights up with a sudden, terrifying alert from my bank app. You'll see that in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "-15 €",
+        "after": "-3 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Level of Sunday Scaries. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "12 dollars in my checking account and Sunday night terror is already clawing at my throat."
+        },
+        {
+          "s": "Figur",
+          "t": "My strawberry skin is pale, my cheap polyester thrift jacket smells like stale subway air, and the glowing '12 $' on my forehead flashes like a neon warning sign."
+        },
+        {
+          "s": "Figur",
+          "t": "I am staring at my phone in the dim kitchen of my mouse-infested Brooklyn apartment, watching the clock tick toward 7:00 AM Monday."
+        },
+        {
+          "s": "Figur",
+          "t": "My phone buzzes with a rent reminder from my landlord."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "A crisp, expensive bell chimes behind me.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You can't even afford a decent cup of instant noodles for dinner, can you?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My hands tremble against the kitchen counter, my heart slamming against my ribs as I realize I have no money for tomorrow's commute."
+        },
+        {
+          "s": "Figur",
+          "t": "The screen lights up with a sudden, terrifying alert from my bank app."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You can't even afford a decent cup of instant noodles for dinner, can you?",
+      "quote_by": {
+        "level": 4,
+        "name": "Valencia",
+        "badge": "8,400 $",
+        "character": "An arrogant orange person wearing a bright silk designer suit and holding a gold-plated travel mug, glowing forehead proudly lit.",
+        "scene": "Wide angle shot of a messy apartment kitchen with a golden coin hidden near the toaster, as the orange looks down with a sneer."
+      },
+      "stats": [
+        {
+          "label": "Balance",
+          "value": "12 $",
+          "bar": 0.05
+        },
+        {
+          "label": "Dread",
+          "value": "99%",
+          "bar": 0.99
+        },
+        {
+          "label": "Sleep",
+          "value": "2 hrs",
+          "bar": 0.1
+        }
+      ],
+      "character": "A young strawberry person with freckled red skin, wearing a frayed oversized thrift-store denim jacket, carrying a battered canvas tote bag, and a glowing digital forehead display.",
+      "visual": "Close-up shot of a strawberry person in a dim, cluttered apartment kitchen on a Sunday night, staring in panic at a glowing phone screen, with a hidden golden coin resting on the counter edge.",
+      "scenes": [
+        "Wide shot of a gloomy Brooklyn apartment kitchen at dusk, rain streaking the dirty window, a strawberry person clutching her phone while a golden coin gleams on the counter.",
+        "Medium shot in a crowded subway station under flickering neon lights, a commuter holding a cracked smartphone displaying a red negative balance.",
+        "Detail shot of a glowing forehead display showing '12 $' against a dark, rainy backdrop.",
+        "Close-up of a stylish orange person in a silk suit sneering sideways, a gold-plated travel mug in hand.",
+        "Over-the-shoulder shot looking at a banking app notification flashing a red overdraft warning.",
+        "Halbnah shot of two fruit citizens arguing near a rusted turnstile while passengers rush past in a blur."
+      ],
+      "caption": "When your bank account is lower than your Sunday night motivation. Where is your stress level right now? #SundayScaries #BrokeLife #ProduceCity #Relatable #Struggling"
+    },
+    {
+      "n": 2,
+      "open_loop": "What secret did the mysterious text message reveal about her Monday shift?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Demands she remake her entire weekend report on a Sunday evening just to assert dominance."
+      },
+      "name": "Leo, 28, Barista",
+      "badge": "2,400 $",
+      "verdict": "STRUGGLING",
+      "story": "The 8 Level of Sunday Scaries. Level 2. 2,400 dollars a month in tips and rent is due in exactly three hours. My lemon skin is sour and peeling, my stained green apron smells like burnt espresso beans, and my glowing forehead display reads '2,400 $'. I am wiping down the sticky counter of the downtown cafe while outside, the relentless Sunday evening drizzle washes over the gray asphalt. My phone buzzes on the metal prep table. A sleek, perfectly polished blueberry man in a cashmere turtleneck walks in, his forehead flashing '12,500 $'. Is this lukewarm foam the best your miserable minimum-wage hands can manage? My teeth grind together as I bite back a bitter retort, my hands clenching into tight fists against the espresso machine. The cafe bell chimes again, and a blinding light erupts from my phone screen as an urgent message arrives from my manager. You'll see that in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+350 $",
+        "after": "2,750 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Level of Sunday Scaries. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "2,400 dollars a month in tips and rent is due in exactly three hours."
+        },
+        {
+          "s": "Figur",
+          "t": "My lemon skin is sour and peeling, my stained green apron smells like burnt espresso beans, and my glowing forehead display reads '2,400 $'."
+        },
+        {
+          "s": "Figur",
+          "t": "I am wiping down the sticky counter of the downtown cafe while outside, the relentless Sunday evening drizzle washes over the gray asphalt."
+        },
+        {
+          "s": "Figur",
+          "t": "My phone buzzes on the metal prep table."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "A sleek, perfectly polished blueberry man in a cashmere turtleneck walks in, his forehead flashing '12,500 $'.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Is this lukewarm foam the best your miserable minimum-wage hands can manage?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My teeth grind together as I bite back a bitter retort, my hands clenching into tight fists against the espresso machine."
+        },
+        {
+          "s": "Figur",
+          "t": "The cafe bell chimes again, and a blinding light erupts from my phone screen as an urgent message arrives from my manager."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Is this lukewarm foam the best your miserable minimum-wage hands can manage?",
+      "quote_by": {
+        "level": 5,
+        "name": "Indigo",
+        "badge": "12,500 $",
+        "character": "A sleek, perfectly spherical blueberry person in a luxurious cashmere turtleneck, holding imported car keys.",
+        "scene": "Medium shot inside a warm, steamy cafe at night with a hidden golden coin resting on the saucer of a ceramic mug."
+      },
+      "stats": [
+        {
+          "label": "Monthly",
+          "value": "2,400 $",
+          "bar": 0.25
+        },
+        {
+          "label": "Anxiety",
+          "value": "85%",
+          "bar": 0.85
+        },
+        {
+          "label": "Caffeine",
+          "value": "4 cups",
+          "bar": 0.6
+        }
+      ],
+      "character": "A sour lemon person with textured yellow skin, wearing a stained green barista apron over a gray cotton hoodie, with a glowing digital forehead display.",
+      "visual": "Medium shot of a lemon person wiping down an espresso machine in a dimly lit downtown cafe on a Sunday night, with a golden coin hidden near the cash register.",
+      "scenes": [
+        "Wide shot of a cozy downtown cafe at night with rain tapping against the large glass windows, a golden coin tucked under the cash register.",
+        "Halbnah shot of a lemon barista glaring across the counter at a wealthy blueberry customer in a cashmere sweater.",
+        "Detail shot of a glowing forehead display showing '2,400 $' in bright blue LED numbers.",
+        "Close-up of a smartphone screen buzzing on a stainless steel prep counter with an unread notification.",
+        "Wide angle shot of empty city streets reflecting neon signs through a misty windshield.",
+        "Close-up of hands gripping the edge of a wooden coffee bar in sheer frustration."
+      ],
+      "caption": "Working service industry on a Sunday night hits different. Can you relate to the retail dread? #SundayScaries #BaristaLife #ServiceIndustry #ProduceCity #WorkStress"
+    },
+    {
+      "n": 3,
+      "open_loop": "Whose name was written on the confidential audit file left on his desk?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Assigns him an impossible weekend project just before leaving for a private jet vacation."
+      },
+      "name": "Broccoli Bob, 34, Accountant",
+      "badge": "4,900 $",
+      "verdict": "MID-TIER",
+      "story": "The 8 Level of Sunday Scaries. Level 3. 4,900 dollars a month and I am still eating instant mac and cheese while staring at a mountain of spreadsheets at 11:00 PM on Sunday. My broccoli floret head is drooping with sheer exhaustion, my beige office button-down is wrinkled, and my glowing forehead reads '4,900 $'. I am sitting in my sterile cubicle on the 40th floor, the fluorescent lights buzzing like angry wasps. A tall, immaculate dragonfruit executive in a sharp Italian suit strides down the empty corridor, his forehead gleaming with '38,000 $'. Finish these tax audits by 8:00 AM or find a new box to sleep in, he mutters without even breaking his stride. My jaw tightens so hard my teeth ache, a sudden wave of hot fury flooding my green veins. I reach out to push the folder away, but my desk phone suddenly starts flashing a bright red light. You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-200 $",
+        "after": "4,700 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Level of Sunday Scaries. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "4,900 dollars a month and I am still eating instant mac and cheese while staring at a mountain of spreadsheets at 11:00 PM on Sunday."
+        },
+        {
+          "s": "Figur",
+          "t": "My broccoli floret head is drooping with sheer exhaustion, my beige office button-down is wrinkled, and my glowing forehead reads '4,900 $'."
+        },
+        {
+          "s": "Figur",
+          "t": "I am sitting in my sterile cubicle on the 40th floor, the fluorescent lights buzzing like angry wasps."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "A tall, immaculate dragonfruit executive in a sharp Italian suit strides down the empty corridor, his forehead gleaming with '38,000 $'.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Finish these tax audits by 8:00 AM or find a new box to sleep in, he mutters without even breaking his stride.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My jaw tightens so hard my teeth ache, a sudden wave of hot fury flooding my green veins."
+        },
+        {
+          "s": "Figur",
+          "t": "I reach out to push the folder away, but my desk phone suddenly starts flashing a bright red light."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Finish these tax audits by 8:00 AM or find a new box to sleep in.",
+      "quote_by": {
+        "level": 7,
+        "name": "Pitaya",
+        "badge": "38,000 $",
+        "character": "A striking dragonfruit person with magenta skin and green-tipped bracts, wearing an expensive tailored Italian suit.",
+        "scene": "Wide angle shot of a high-rise corporate office at midnight with a hidden golden coin tucked under a stapler on the desk."
+      },
+      "stats": [
+        {
+          "label": "Salary",
+          "value": "4,900 $",
+          "bar": 0.45
+        },
+        {
+          "label": "Stress",
+          "value": "92%",
+          "bar": 0.92
+        },
+        {
+          "label": "Overtime",
+          "value": "18 hrs",
+          "bar": 0.8
+        }
+      ],
+      "character": "A broccoli person with a dense green floret head, wearing a rumpled beige office button-down shirt and a narrow tie, with a glowing digital forehead display.",
+      "visual": "Medium shot of a broccoli office worker hunched over a glowing computer screen in a dark corporate cubicle late on Sunday night, with a golden coin hidden near his keyboard.",
+      "scenes": [
+        "Wide shot of an endless sea of empty corporate cubicles under flickering fluorescent lights, a golden coin resting on a desk corner.",
+        "Halbnah shot of a broccoli accountant staring angrily at a red audit folder thrown on his desk by a dragonfruit executive.",
+        "Detail shot of a glowing forehead display showing '4,900 $' in sharp green numbers.",
+        "Close-up of a landline office phone blinking with a red LED notification light.",
+        "Over-the-head shot of sprawling spreadsheet columns illuminated only by monitor glow.",
+        "Medium shot of a sleek glass elevator descending past glittering city skyscrapers at midnight."
+      ],
+      "caption": "The Sunday night corporate overtime struggle is real. Who else is working this weekend? #SundayScaries #CorporateLife #OfficeGrind #ProduceCity #Accounting"
+    },
+    {
+      "n": 4,
+      "open_loop": "What secret truth was hidden inside the CEO's locked corner office?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Passes her in the private elevator without a glance, accidentally dropping a keycard that changes everything."
+      },
+      "name": "Valencia, 41, Manager",
+      "badge": "8,400 $",
+      "verdict": "COMFORTABLE",
+      "story": "The 8 Level of Sunday Scaries. Level 4. 8,400 dollars a month and I still spend my Sunday nights vomiting from sheer corporate anxiety in the executive washroom. My orange peel skin is taut and polished, my pearl necklace feels like a heavy chain, and my glowing forehead proudly displays '8,400 $'. I am standing on the polished marble balcony of my penthouse apartment, looking down at the tiny toy cars crawling along the wet highway below. My phone rings with an urgent call from regional headquarters. A mysterious, silver coconut tycoon in a bespoke tuxedo steps out of the private elevator lobby, his forehead glowing with an blinding '95,000 $'. Don't bother prepping the quarterly report, Valencia, someone else is taking your desk tomorrow, he whispers with an ice-cold smile. My blood runs instantly cold, my breath catches in my throat, and my fingers loosen around my smartphone. The screen flashes a catastrophic system notification. You'll see that in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "-1,500 $",
+        "after": "6,900 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Level of Sunday Scaries. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "8,400 dollars a month and I still spend my Sunday nights vomiting from sheer corporate anxiety in the executive washroom."
+        },
+        {
+          "s": "Figur",
+          "t": "My orange peel skin is taut and polished, my pearl necklace feels like a heavy chain, and my glowing forehead proudly displays '8,400 $'."
+        },
+        {
+          "s": "Figur",
+          "t": "I am standing on the polished marble balcony of my penthouse apartment, looking down at the tiny toy cars crawling along the wet highway below."
+        },
+        {
+          "s": "Figur",
+          "t": "My phone rings with an urgent call from regional headquarters."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "A mysterious, silver coconut tycoon in a bespoke tuxedo steps out of the private elevator lobby, his forehead glowing with an blinding '95,000 $'.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Don't bother prepping the quarterly report, Valencia, someone else is taking your desk tomorrow, he whispers with an ice-cold smile.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My blood runs instantly cold, my breath catches in my throat, and my fingers loosen around my smartphone."
+        },
+        {
+          "s": "Figur",
+          "t": "The screen flashes a catastrophic system notification."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Don't bother prepping the quarterly report, Valencia, someone else is taking your desk tomorrow.",
+      "quote_by": {
+        "level": 8,
+        "name": "Cocco",
+        "badge": "95,000 $",
+        "character": "A polished coconut person with a hard brown shell, wearing a custom tuxedo and silver cufflinks.",
+        "scene": "Wide angle shot of a luxury penthouse hallway with city lights below and a golden coin resting on a marble console table."
+      },
+      "stats": [
+        {
+          "label": "Salary",
+          "value": "8,400 $",
+          "bar": 0.65
+        },
+        {
+          "label": "Anxiety",
+          "value": "95%",
+          "bar": 0.95
+        },
+        {
+          "label": "Status",
+          "value": "High",
+          "bar": 0.7
+        }
+      ],
+      "character": "An orange person with bright textured citrus skin, wearing an elegant silk blouse and a pearl necklace, with a glowing digital forehead display.",
+      "visual": "Medium shot of an orange manager standing on a high-rise balcony at night overlooking a glowing city skyline, with a golden coin hidden on the marble railing.",
+      "scenes": [
+        "Wide shot of a luxury penthouse balcony overlooking a rainy metropolis at night, a golden coin resting on the marble ledge.",
+        "Halbnah shot of an orange manager holding a vibrating smartphone with a look of pure panic.",
+        "Detail shot of a glowing forehead display showing '8,400 $' in bright amber digits.",
+        "Close-up of a silver coconut tycoon smiling coldly in a private elevator lobby.",
+        "Over-the-shoulder shot of a sleek glass desk with glowing monitors and corporate charts.",
+        "Medium shot of city traffic lights streaking through the wet night from above."
+      ],
+      "caption": "Even at the top, Sunday night anxiety comes for everyone. How do you handle career stress? #SundayScaries #CorporateLadder #ProduceCity #ManagementLife #Anxiety"
+    },
+    {
+      "n": 5,
+      "open_loop": "Why was the company bank account completely emptied over the weekend?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Accidentally spills hot coffee on his expensive designer trousers while rushing to the morning meeting."
+      },
+      "name": "Indigo, 29, Director",
+      "badge": "12,500 $",
+      "verdict": "THRIVING",
+      "story": "The 8 Level of Sunday Scaries. Level 5. 12,500 dollars a month in base pay and I spent my entire Sunday night hiding in my home office because I'm terrified my team will find out I have no idea what I'm doing. My blueberry skin is smooth and navy-blue, my cashmere turtleneck is spotless, and my glowing forehead reads '12,500 $'. I am pacing across the hardwood floor of my luxury loft, listening to the heavy rain beat against the floor-to-ceiling windows. My laptop screen displays a flashing red alert from our financial software. A chaotic young lemon intern bursts through my office door without knocking, his forehead flashing '2,400 $'. You think your fancy title protects you from the crash, but the board just voted to wipe our department out! he shouts, spilling lukewarm coffee across my imported Persian rug. My chest tightens into a suffocating knot, my breath hitching as I stare at the ruined rug. My phone lights up with a direct call from the CEO. You'll see that in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "-3,000 $",
+        "after": "9,500 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Level of Sunday Scaries. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "12,500 dollars a month in base pay and I spent my entire Sunday night hiding in my home office because I'm terrified my team will find out I have no idea what I'm doing."
+        },
+        {
+          "s": "Figur",
+          "t": "My blueberry skin is smooth and navy-blue, my cashmere turtleneck is spotless, and my glowing forehead reads '12,500 $'."
+        },
+        {
+          "s": "Figur",
+          "t": "I am pacing across the hardwood floor of my luxury loft, listening to the heavy rain beat against the floor-to-ceiling windows."
+        },
+        {
+          "s": "Figur",
+          "t": "My laptop screen displays a flashing red alert from our financial software."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "A chaotic young lemon intern bursts through my office door without knocking, his forehead flashing '2,400 $'.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You think your fancy title protects you from the crash, but the board just voted to wipe our department out! he shouts, spilling lukewarm coffee across my imported Persian rug.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My chest tightens into a suffocating knot, my breath hitching as I stare at the ruined rug."
+        },
+        {
+          "s": "Figur",
+          "t": "My phone lights up with a direct call from the CEO."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "You think your fancy title protects you from the crash, but the board just voted to wipe our department out!",
+      "quote_by": {
+        "level": 2,
+        "name": "Leo",
+        "badge": "2,400 $",
+        "character": "A sour lemon person with textured yellow skin, wearing a stained apron and carrying a paper coffee cup.",
+        "scene": "Medium shot inside a luxury loft apartment with a golden coin hidden beneath a bookshelf edge."
+      },
+      "stats": [
+        {
+          "label": "Monthly",
+          "value": "12,500 $",
+          "bar": 0.75
+        },
+        {
+          "label": "Panic",
+          "value": "88%",
+          "bar": 0.88
+        },
+        {
+          "label": "Control",
+          "value": "40%",
+          "bar": 0.4
+        }
+      ],
+      "character": "A smooth blueberry person with deep indigo skin, wearing a high-end cashmere turtleneck and designer glasses, with a glowing digital forehead display.",
+      "visual": "Medium shot of a blueberry director pacing nervously inside a modern glass-walled loft on a Sunday evening, with a golden coin hidden near a potted plant.",
+      "scenes": [
+        "Wide shot of a luxury urban loft with floor-to-ceiling windows during a torrential downpour, a golden coin hidden under a designer floor lamp.",
+        "Halbnah shot of a blueberry director staring in horror at a lemon intern holding a spilled coffee cup.",
+        "Detail shot of a glowing forehead display showing '12,500 $' in bright blue LED digits.",
+        "Close-up of a laptop screen flashing a red system crash warning.",
+        "Over-the-shoulder shot of an expensive Persian rug stained with dark coffee.",
+        "Medium shot of city skyline fading into thick fog as Sunday night turns to Monday morning."
+      ],
+      "caption": "High salary doesn't mean zero Sunday anxiety. Who else feels the corporate weight? #SundayScaries #DirectorLife #ProduceCity #ExecutiveStress #CorporateDrama"
+    },
+    {
+      "n": 6,
+      "open_loop": "What incriminating document was found inside the safe before dawn?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Submits an anonymous tip to internal audit about her unauthorized weekend server access."
+      },
+      "name": "Melon, 37, VP",
+      "badge": "22,000 $",
+      "verdict": "ELITE",
+      "story": "The 8 Level of Sunday Scaries. Level 6. 22,000 dollars a month and I am sitting in my dark leather armchair at 2:00 AM on Sunday, shaking because my empire is about to crumble. My watermelon skin is striped dark green and smooth, my velvet blazer is impeccably tailored, and my glowing forehead displays '22,000 $'. I am holding a glass of aged scotch while staring at the glowing security monitors of my corporate headquarters. A tired broccoli accountant in a wrinkled shirt steps out of the shadows near my private study, his forehead flashing '4,900 $'. I just sent the forensic audit straight to the federal regulators, Melon, your little Sunday game is over, he says with a cold, unforgiving smirk. My hand jerks, sending the crystal scotch glass shattering against the marble floor, amber liquid pooling like blood. My heart hammers like a sledgehammer against my ribs. My encrypted phone rings with an unknown caller ID. You'll see that in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "-10,000 $",
+        "after": "12,000 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Level of Sunday Scaries. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "22,000 dollars a month and I am sitting in my dark leather armchair at 2:00 AM on Sunday, shaking because my empire is about to crumble."
+        },
+        {
+          "s": "Figur",
+          "t": "My watermelon skin is striped dark green and smooth, my velvet blazer is impeccably tailored, and my glowing forehead displays '22,000 $'."
+        },
+        {
+          "s": "Figur",
+          "t": "I am holding a glass of aged scotch while staring at the glowing security monitors of my corporate headquarters."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "A tired broccoli accountant in a wrinkled shirt steps out of the shadows near my private study, his forehead flashing '4,900 $'.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "I just sent the forensic audit straight to the federal regulators, Melon, your little Sunday game is over, he says with a cold, unforgiving smirk.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My hand jerks, sending the crystal scotch glass shattering against the marble floor, amber liquid pooling like blood."
+        },
+        {
+          "s": "Figur",
+          "t": "My heart hammers like a sledgehammer against my ribs. My encrypted phone rings with an unknown caller ID."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "I just sent the forensic audit straight to the federal regulators, Melon, your little Sunday game is over.",
+      "quote_by": {
+        "level": 3,
+        "name": "Broccoli Bob",
+        "badge": "4,900 $",
+        "character": "A broccoli person with a green floret head, wearing a rumpled beige button-down shirt and carrying a bulky laptop bag.",
+        "scene": "Wide angle shot of a luxurious dark study room with a golden coin hidden under a stack of legal documents."
+      },
+      "stats": [
+        {
+          "label": "Monthly",
+          "value": "22,000 $",
+          "bar": 0.85
+        },
+        {
+          "label": "Dread",
+          "value": "99%",
+          "bar": 0.99
+        },
+        {
+          "label": "Risk",
+          "value": "Extreme",
+          "bar": 0.95
+        }
+      ],
+      "character": "A watermelon person with striped green and pale green skin, wearing a dark velvet designer blazer, with a glowing digital forehead display.",
+      "visual": "Medium shot of a watermelon executive sitting in a leather armchair in a dark, opulent study at 2 AM, with a golden coin hidden near a crystal decanter.",
+      "scenes": [
+        "Wide shot of an opulent corporate study room at night lit only by security monitors, a golden coin resting near a crystal decanter.",
+        "Halbnah shot of a watermelon VP staring in shock at a broccoli accountant standing in the shadows.",
+        "Detail shot of a glowing forehead display showing '22,000 $' in bright emerald numbers.",
+        "Close-up of a shattered crystal glass on a marble floor with amber liquid spilling out.",
+        "Over-the-shoulder shot of multiple security camera feeds displaying empty office hallways.",
+        "Medium shot of a dark skyscraper standing tall against a menacing pre-dawn sky."
+      ],
+      "caption": "When your multi-thousand-dollar empire collapses on a Sunday night. Who is really in control? #SundayScaries #ExecutiveDrama #ProduceCity #HighStakes #CorporateCrime"
+    },
+    {
+      "n": 7,
+      "open_loop": "Who tipped off the federal investigators about his off-shore accounts?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Leaks his private travel schedule to the press just hours before his scheduled flight."
+      },
+      "name": "Pitaya, 45, CEO",
+      "badge": "38,000 $",
+      "verdict": "UNTOUCHABLE",
+      "story": "The 8 Level of Sunday Scaries. Level 7. 38,000 dollars a month and I am locked inside my private airport hangar at 4:00 AM on Sunday, watching my entire life unravel over a secure satellite phone. My dragonfruit skin is vibrant magenta with green-tipped bracts, my silk scarf is blowing in the hangar draft, and my glowing forehead reads '38,000 $'. I am standing beside my idling private jet while rain pounds against the corrugated metal roof. A cunning watermelon executive in a velvet blazer steps out from behind the landing gear, her forehead flashing '22,000 $'. The federal marshals already have your asset list, Pitaya, your private jet isn't going anywhere tonight, she says with a chilling, victorious laugh. My blood turns to ice, my grip tightening around the satellite phone until my knuckles turn white. A sudden flashing red siren illuminates the entire runway outside. A black armored car tears through the security gates. You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "-25,000 $",
+        "after": "13,000 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Level of Sunday Scaries. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "38,000 dollars a month and I am locked inside my private airport hangar at 4:00 AM on Sunday, watching my entire life unravel over a secure satellite phone."
+        },
+        {
+          "s": "Figur",
+          "t": "My dragonfruit skin is vibrant magenta with green-tipped bracts, my silk scarf is blowing in the hangar draft, and my glowing forehead reads '38,000 $'."
+        },
+        {
+          "s": "Figur",
+          "t": "I am standing beside my idling private jet while rain pounds against the corrugated metal roof."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "A cunning watermelon executive in a velvet blazer steps out from behind the landing gear, her forehead flashing '22,000 $'.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "The federal marshals already have your asset list, Pitaya, your private jet isn't going anywhere tonight, she says with a chilling, victorious laugh.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My blood turns to ice, my grip tightening around the satellite phone until my knuckles turn white."
+        },
+        {
+          "s": "Figur",
+          "t": "A sudden flashing red siren illuminates the entire runway outside. A black armored car tears through the security gates."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "The federal marshals already have your asset list, Pitaya, your private jet isn't going anywhere tonight.",
+      "quote_by": {
+        "level": 6,
+        "name": "Melon",
+        "badge": "22,000 $",
+        "character": "A striped watermelon person with smooth dark skin, wearing a luxury velvet blazer and designer sunglasses.",
+        "scene": "Wide angle shot of a dark airport hangar with a private jet in the background and a golden coin resting on a metal toolbox."
+      },
+      "stats": [
+        {
+          "label": "Monthly",
+          "value": "38,000 $",
+          "bar": 0.92
+        },
+        {
+          "label": "Paranoia",
+          "value": "99%",
+          "bar": 0.99
+        },
+        {
+          "label": "Power",
+          "value": "Peak",
+          "bar": 0.9
+        }
+      ],
+      "character": "A dragonfruit person with magenta skin and green-tipped bracts, wearing an immaculate custom suit and silk scarf, with a glowing digital forehead display.",
+      "visual": "Medium shot of a dragonfruit CEO standing inside a dimly lit private airplane hangar during a rainy pre-dawn storm, with a golden coin hidden near the jet landing gear.",
+      "scenes": [
+        "Wide shot of a cavernous airport hangar at 4 AM with a sleek private jet idling under harsh floodlights, a golden coin resting on a metal tool chest.",
+        "Halbnah shot of a dragonfruit CEO staring in disbelief at a watermelon executive emerging from the shadows.",
+        "Detail shot of a glowing forehead display showing '38,000 $' in brilliant magenta LED numbers.",
+        "Close-up of a satellite phone clutched tightly in a trembling hand.",
+        "Over-the-shoulder shot of red police cruiser lights flashing outside the wire-mesh hangar fence.",
+        "Medium shot of a black armored car speeding across the wet tarmac as dawn breaks over Produce City."
+      ],
+      "caption": "When the top of the corporate ladder turns into a trap door. How far would you fall? #SundayScaries #CEOStyle #ProduceCity #HighRoller #BusinessDrama"
+    },
+    {
+      "n": 8,
+      "open_loop": "What was the true secret behind the glowing numbers on everyone's forehead?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Quietly hands him a warm cup of coffee and a single golden coin as he sits alone on the park bench."
+      },
+      "name": "Cocco, 52, Founder",
+      "badge": "95,000 $",
+      "verdict": "LEGEND",
+      "story": "The 8 Level of Sunday Scaries. Level 8. 95,000 dollars a month and I walked away from it all at 5:00 AM on Sunday just to sit on a lonely park bench in the rain. My coconut shell head is hard and brown, my custom tuxedo is soaked through, and my glowing forehead reads '95,000 $'. I am watching the sun finally break over Produce City, painting the glass skyscrapers in shades of cold gold. A young strawberry intern with wet petals and a forehead flashing '12 $' walks past, pausing to look at me with tired, knowing eyes. You built an entire city of numbers that only make us run in circles, don't you ever feel tired of counting? she asks softly, handing me a small, warm paper cup of black coffee. My hard outer shell cracks just a fraction, a genuine smile touching my lips for the first time in decades. I reach into my pocket, pull out my glowing digital badge, and lay it gently on the wooden bench between us. The numbers flicker, fade to black, and for the first time in my life, the Sunday Scaries are entirely gone. What number will show on your forehead when the clock strikes Monday morning?",
+      "gender": "m",
+      "twist": {
+        "delta": "RESET",
+        "after": "0 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Level of Sunday Scaries. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "95,000 dollars a month and I walked away from it all at 5:00 AM on Sunday just to sit on a lonely park bench in the rain."
+        },
+        {
+          "s": "Figur",
+          "t": "My coconut shell head is hard and brown, my custom tuxedo is soaked through, and my glowing forehead reads '95,000 $'."
+        },
+        {
+          "s": "Figur",
+          "t": "I am watching the sun finally break over Produce City, painting the glass skyscrapers in shades of cold gold."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "A young strawberry intern with wet petals and a forehead flashing '12 $' walks past, pausing to look at me with tired, knowing eyes.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You built an entire city of numbers that only make us run in circles, don't you ever feel tired of counting? she asks softly, handing me a small, warm paper cup of black coffee.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My hard outer shell cracks just a fraction, a genuine smile touching my lips for the first time in decades."
+        },
+        {
+          "s": "Figur",
+          "t": "I reach into my pocket, pull out my glowing digital badge, and lay it gently on the wooden bench between us. The numbers flicker, fade to black, and for the first time in my life, the Sunday Scaries are entirely gone."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What number will show on your forehead when the clock strikes Monday morning?"
+        }
+      ],
+      "quote": "You built an entire city of numbers that only make us run in circles, don't you ever feel tired of counting?",
+      "quote_by": {
+        "level": 1,
+        "name": "Ruby",
+        "badge": "12 $",
+        "character": "A young strawberry person with freckled red skin, wearing a frayed thrift-store denim jacket and carrying a canvas tote.",
+        "scene": "Wide angle shot of a misty park bench at dawn with Produce City skyline in the background and a golden coin resting on the wooden slats."
+      },
+      "stats": [
+        {
+          "label": "Monthly",
+          "value": "95,000 $",
+          "bar": 1.0
+        },
+        {
+          "label": "Freedom",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Peace",
+          "value": "Max",
+          "bar": 1.0
+        }
+      ],
+      "character": "A coconut person with a hard textured brown shell, wearing a bespoke black tuxedo with wet lapels, with a glowing digital forehead display.",
+      "visual": "Medium shot of a coconut founder sitting on a wet wooden park bench at dawn as sunlight hits Produce City, with a golden coin hidden on the armrest.",
+      "scenes": [
+        "Wide shot of a quiet park at dawn overlooking the glittering skyline of Produce City, a golden coin resting on a wooden bench.",
+        "Halbnah shot of a coconut tycoon sitting beside a young strawberry intern in a frayed jacket.",
+        "Detail shot of a glowing forehead display fading from '95,000 $' to zero.",
+        "Close-up of a warm paper coffee cup being handed across a wooden slat bench.",
+        "Over-the-shoulder shot of towering glass skyscrapers glowing in the early morning sunrise.",
+        "Wide cinematic final shot of Produce City waking up as all forehead numbers simultaneously flicker and reset."
+      ],
+      "caption": "The final level. When the numbers finally disappear, what truly matters? What series should we do next? #SundayScaries #ProduceCity #Mindset #Freedom #TheEnd"
+    }
+  ],
+  "lang": "en",
+  "topic": "The Level of Sunday Scaries Before Monday Morning",
+  "frame": "frucht"
+}

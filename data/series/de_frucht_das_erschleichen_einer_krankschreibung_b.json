@@ -1,0 +1,782 @@
+{
+  "title": "Die 8 Level der Krankschreibung",
+  "house": "A bustling German city populated by produce people, where a gleaming digital number glows on every forehead, showing monthly net income or crucial status metrics under rainy skies and neon-lit streets.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "The bitter lemon barista at the central station kiosk always mentions a quiet man in a tailored suit who tips generously.",
+    "The bus line 42 passes by the doctors practice where all produce people try their luck with fake symptoms.",
+    "A gold coin is hidden in every single scene as a running gag for attentive viewers."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was war wirklich in dem gelben Umschlag, den der Arzt auf den Tisch geknallt hat?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Lacht sie im Wartezimmer aus, weil ihre Stirnzahl so niedrig ist, und drängelt sich vor."
+      },
+      "name": "Tom, 22, Azubi",
+      "badge": "680 € netto",
+      "verdict": "SCHmarotzer",
+      "story": "Die 8 Level der Krankschreibung. Level 1. Level 1: 680 Euro Ausbildungsvergütung – und der Arzt glaubt mir kein einziges Wort. Ich schwitze in der überfüllten Praxis, während mein Kopf hhämmert und die Stirn leuchtet. Mein Chef will mich trotz Grippe in der Backstube sehen. Ich brauche diese drei Tage Ruhe dringend, sonst kollabiere ich an den Öfen. Du siehst mir nicht nach Fieber aus, junger Mann. Geh zurück an die Arbeit! Dr. Brokkoli mustert mich kalt von oben bis unten. Sie kennen das Gefühl, wenn man ganz unten steht und jeder denkt, man ist nur faul. Du willst einfach nur schlafen und gesund werden. Der Arzt tippt auf sein Tablet und schüttelt verächtlich den Kopf. Das gibt heute keine gelbe Karte für dich, mein Junge. Diese Worte treffen mich wie ein Schlag mitten ins Gesicht. Genau in diesem Moment flackert meine Stirn kurz auf, als das Kindergeld eintrifft. Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+250 €",
+        "after": "930 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Krankschreibung. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 680 Euro Ausbildungsvergütung – und der Arzt glaubt mir kein einziges Wort."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schwitze in der überfüllten Praxis, während mein Kopf hhämmert und die Stirn leuchtet."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Chef will mich trotz Grippe in der Backstube sehen. Ich brauche diese drei Tage Ruhe dringend, sonst kollabiere ich an den Öfen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du siehst mir nicht nach Fieber aus, junger Mann. Geh zurück an die Arbeit!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Dr. Brokkoli mustert mich kalt von oben bis unten. Sie kennen das Gefühl, wenn man ganz unten steht und jeder denkt, man ist nur faul."
+        },
+        {
+          "s": "Figur",
+          "t": "Du willst einfach nur schlafen und gesund werden. Der Arzt tippt auf sein Tablet und schüttelt verächtlich den Kopf."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Das gibt heute keine gelbe Karte für dich, mein Junge.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Diese Worte treffen mich wie ein Schlag mitten ins Gesicht. Genau in diesem Moment flackert meine Stirn kurz auf, als das Kindergeld eintrifft."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Das gibt heute keine gelbe Karte für dich, mein Junge.",
+      "quote_by": {
+        "level": 8,
+        "name": "Dr. Brokkoli",
+        "badge": "12.500 €",
+        "character": "A stern doctor made of heavy broccoli florets, wearing a white lab coat with a golden stethoscope and a glowing high number on his forehead.",
+        "scene": "Close-up of Dr. Brokkoli looking down condescendingly in a sterile medical office, pointing a green finger at a digital screen."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "680 €",
+          "bar": 0.1
+        },
+        {
+          "label": "Miete",
+          "value": "450 €",
+          "bar": 0.5
+        },
+        {
+          "label": "Geduld",
+          "value": "2 %",
+          "bar": 0.05
+        }
+      ],
+      "character": "A young apprentice strawberry person with fresh green leaves on top, wearing a stained bakery apron over a grey hoodie, and a glowing digital badge on the forehead.",
+      "visual": "A wide shot of a crowded, grey waiting room in a German medical practice, overcast day light streaming through dirty windows, with various produce patients sitting anxiously.",
+      "scenes": [
+        "Wide shot of a crowded, grey waiting room in a German medical practice, overcast day light streaming through dirty windows, with various produce patients sitting anxiously.",
+        "Medium shot of Tom the strawberry person sitting on a plastic chair, holding his glowing forehead in pain while looking at his smartphone.",
+        "Detail shot of a small golden coin hidden behind a stack of old magazines on the reception desk.",
+        "Close-up of the glowing digital display on Tom's forehead changing rapidly as a notification pops up.",
+        "Medium shot in the doctor's office where Dr. Brokkoli points aggressively at the open door.",
+        "Wide shot of the rainy street outside the clinic entrance, bus line 42 passing by in a blur of gray and yellow."
+      ],
+      "caption": "Wie weit würdest du für drei Tage frei gehen? Schreib es in die Kommentare! #krankschreibung #azubi #drama #viral #deutschland"
+    },
+    {
+      "n": 2,
+      "open_loop": "Warum lag die Akte von dem jungen Bäcker plötzlich im Tresor des Chefarztes?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Kürzt ihm im Flur demonstrativ die Zusatzleistungen und lacht über seine Attest-Versuche."
+      },
+      "name": "Mia, 26, Callcenter-Agentin",
+      "badge": "1.450 € netto",
+      "verdict": "VERDAECHTIG",
+      "story": "Die 8 Level der Krankschreibung. Level 2. Level 2: 1.450 Euro netto – und jede Krankschreibung fühlt sich an wie ein Verhör bei der Gestapo. Ich sitze im neonbeleuchteten Kabuff und telefoniere den ganzen Tag mit genervten Kunden. Mein Rücken brennt wie Feuer, aber ich brauche den Schein, um nicht gefeuert zu werden. Die Ärztin in der Praxis winkt schon ab, bevor ich überhaupt mein Symptom nennen kann. Sie wollen doch nur freimachen für das Sommerfest am Wochenende, Fräulein Zitrone! Ihre saure Stimme schneidet mir ins Fleisch. Ich bin keine Betrügerin, ich kann kaum noch sitzen vor Schmerz! Doch die Ziffern auf meiner Stirn leuchten unerbittlich und verraten jeden Cent meines kleinen Gehalts. Niemand glaubt der kleinen Angestellten aus dem Erdgeschoss. Plötzlich piept mein Handy auf dem Schreibtisch und eine unerwartete Überweisung rast herein. Für Leute mit Ihrer Zahl gibt es keine Extrawürste. Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+120 €",
+        "after": "1.570 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Krankschreibung. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 1.450 Euro netto – und jede Krankschreibung fühlt sich an wie ein Verhör bei der Gestapo."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze im neonbeleuchteten Kabuff und telefoniere den ganzen Tag mit genervten Kunden."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Rücken brennt wie Feuer, aber ich brauche den Schein, um nicht gefeuert zu werden. Die Ärztin in der Praxis winkt schon ab, bevor ich überhaupt mein Symptom nennen kann."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sie wollen doch nur freimachen für das Sommerfest am Wochenende, Fräulein Zitrone!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ihre saure Stimme schneidet mir ins Fleisch. Ich bin keine Betrügerin, ich kann kaum noch sitzen vor Schmerz!"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch die Ziffern auf meiner Stirn leuchten unerbittlich und verraten jeden Cent meines kleinen Gehalts. Niemand glaubt der kleinen Angestellten aus dem Erdgeschoss."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich piept mein Handy auf dem Schreibtisch und eine unerwartete Überweisung rast herein."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Für Leute mit Ihrer Zahl gibt es keine Extrawürste.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Sie wollen doch nur freimachen für das Sommerfest am Wochenende, Fräulein Zitrone!",
+      "quote_by": {
+        "level": 5,
+        "name": "Frau Orange",
+        "badge": "4.100 €",
+        "character": "A snappy office manager made of a bright orange fruit, wearing a sharp business suit with shoulder pads and a glowing mid-range salary.",
+        "scene": "Medium shot of Frau Orange leaning over a cubicle divider in a noisy call center, pointing at Mia's forehead."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "1.450 €",
+          "bar": 0.22
+        },
+        {
+          "label": "Miete",
+          "value": "680 €",
+          "bar": 0.6
+        },
+        {
+          "label": "Stress",
+          "value": "95 %",
+          "bar": 0.95
+        }
+      ],
+      "character": "A sharp lemon person with a bright yellow textured peel skin, wearing a cheap blue headset and a tired expression, forehead showing the glowing LED number.",
+      "visual": "Wide shot of a cramped call center room filled with rows of desks, flickering fluorescent lights, and tired produce workers wearing headsets.",
+      "scenes": [
+        "Wide shot of a cramped call center room filled with rows of desks, flickering fluorescent lights, and tired produce workers wearing headsets.",
+        "Medium shot of Mia staring at her computer screen while rubbing her sore lower back in pain.",
+        "Detail shot of a small golden coin resting on the edge of a plastic coffee cup next to the keyboard.",
+        "Close-up of the glowing digital forehead numbers reflecting in the glass of an office window.",
+        "Medium shot of Frau Orange confronting Mia near the water cooler, holding a clipboard.",
+        "Wide shot of the rainy parking lot outside the office building at dusk, cars splashing water on the pavement."
+      ],
+      "caption": "Wer kennt diesen Druck im Büro? Markiere deinen Lieblingskollegen! #krankschreibung #callcenter #arbeit #drama #deutschland"
+    },
+    {
+      "n": 3,
+      "open_loop": "Was stand in der vertraulichen Patientenakte, die der Pfleger heimlich kopiert hat?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Beschuldigt ihn vor dem gesamten Team des Betrugs und fordert sofortige Entlassung."
+      },
+      "name": "Leon, 31, Pflegehelfer",
+      "badge": "2.200 € netto",
+      "verdict": "UNTERSTELLUNG",
+      "story": "Die 8 Level der Krankschreibung. Level 3. Level 3: 2.200 Euro im Monat – und man unterstellt mir sofort, ich würde nur Blau machen. Zehn Tage Nachtschicht auf der Station brechen Knochen und Seele. Ich habe Fieber, mein Thermometer zeigt 39 Grad, aber der Stationsleiter lacht nur müde. Du willst doch bloß zum Fußballspiel, gib's zu, Kumpel! Seine wuchtige Kokosnuss-Schale wirkt wie Panzerung gegen jedes Mitgefühl. Ich laufe seit Stunden auf dem Zahnfleisch, trage alte Omas durch die Gänge, und jetzt soll ich ein Betrüger sein? In Deutschland zählt nur, was auf der Stirn leuchtet, und mit meiner Zahl bist du der ewige Sündenbock. Die Patienten weinen, wenn ich gehe, aber das interessiert hier oben niemanden. Ich presse meine brennenden Hände gegen den kalten Schreibtisch. Genau in diesem Augenblick bricht das System für eine Sekunde zusammen. Mit so einer Zahl kriegst du hier keinen Tag geschenkt. Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+300 €",
+        "after": "2.500 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Krankschreibung. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 2.200 Euro im Monat – und man unterstellt mir sofort, ich würde nur Blau machen."
+        },
+        {
+          "s": "Figur",
+          "t": "Zehn Tage Nachtschicht auf der Station brechen Knochen und Seele. Ich habe Fieber, mein Thermometer zeigt 39 Grad, aber der Stationsleiter lacht nur müde."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du willst doch bloß zum Fußballspiel, gib's zu, Kumpel!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Seine wuchtige Kokosnuss-Schale wirkt wie Panzerung gegen jedes Mitgefühl. Ich laufe seit Stunden auf dem Zahnfleisch, trage alte Omas durch die Gänge, und jetzt soll ich ein Betrüger sein?"
+        },
+        {
+          "s": "Figur",
+          "t": "In Deutschland zählt nur, was auf der Stirn leuchtet, und mit meiner Zahl bist du der ewige Sündenbock."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Patienten weinen, wenn ich gehe, aber das interessiert hier oben niemanden. Ich presse meine brennenden Hände gegen den kalten Schreibtisch."
+        },
+        {
+          "s": "Figur",
+          "t": "Genau in diesem Augenblick bricht das System für eine Sekunde zusammen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit so einer Zahl kriegst du hier keinen Tag geschenkt.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Du willst doch bloß zum Fußballspiel, gib's zu, Kumpel!",
+      "quote_by": {
+        "level": 7,
+        "name": "Boss Kokos",
+        "badge": "8.500 €",
+        "character": "A tough head nurse made of a hard brown coconut shell, wearing a crisp blue uniform shirt and a high executive salary on the forehead.",
+        "scene": "Medium shot of Boss Kokos standing in the sterile hospital hallway, crossing his arms and smirking at Leon."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "2.200 €",
+          "bar": 0.35
+        },
+        {
+          "label": "Miete",
+          "value": "850 €",
+          "bar": 0.65
+        },
+        {
+          "label": "Fieber",
+          "value": "39 C",
+          "bar": 0.9
+        }
+      ],
+      "character": "An avocado person with smooth green skin and a large central pit shape visible on the chest, wearing blue medical scrubs and a glowing digital salary badge.",
+      "visual": "Wide shot of a brightly lit hospital corridor at night, green linoleum floors reflecting fluorescent ceiling tubes, with medicine carts parked along the walls.",
+      "scenes": [
+        "Wide shot of a brightly lit hospital corridor at night, green linoleum floors reflecting fluorescent ceiling tubes, with medicine carts parked along the walls.",
+        "Medium shot of Leon leaning against a pill-dispensing station, looking exhausted with beads of sweat on his avocado skin.",
+        "Detail shot of a small golden coin taped underneath the medication trolley handle.",
+        "Close-up of a digital thermometer reading 39.2 degrees celsius in shaking hands.",
+        "Medium shot of Boss Kokos confronting Leon outside the patient rooms, pointing sternly.",
+        "Wide shot of the hospital entrance doors sliding open into the cold midnight air, rain slicking the ambulance driveway."
+      ],
+      "caption": "Wer im Krankenhaus arbeitet, kennt diesen Kampf. Danke für euren Einsatz! #pflege #krankschreibung #krankenhaus #drama #deutschland"
+    },
+    {
+      "n": 4,
+      "open_loop": "Welches dunkle Geheimnis verbarg der Anwalt hinter seiner glänzenden Stirn?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Weigert sich, die Lohnauszahlung zu prüfen, und wirft die Dokumente in den Aktenwolf."
+      },
+      "name": "Sarah, 35, Grafikerin",
+      "badge": "3.100 € netto",
+      "verdict": "GEPRÜFT",
+      "story": "Die 8 Level der Krankschreibung. Level 4. Level 4: 3.100 Euro netto – und trotzdem musst du vor dem Amtsarzt kriechen wie ein Bettler. Meine Augen binden vor Entzündung, der Bildschirm verschwimmt zu einem grauen Brei, aber die Agentur droht mit Abmahnung. Der Gutachter blättert in meinen Unterlagen, als wären sie Schmutz. Sie verdienen doch genug, um sich eine private Behandlung zu leisten, Frau Drachenfrucht! Seine eiskalte Stimme lässt mich erstarren. Die rosafarbene Haut meiner Drachenfrucht-Stacheln zittert vor Wut und Erschöpfung. Man ackert sich jahrelang hoch, zahlt pünktlich seine Steuern, und beim ersten echten Zusammenbruch wird man wie ein Krimineller behandelt. Hier in der Großstadt bist du nur so viel wert wie deine aktuelle Ziffer. Ich hole tief Luft, um nicht auszurasten. Da vibriert plötzlich das Smartphone mit einer eiligen Nachricht der Krankenkasse. Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+450 €",
+        "after": "3.550 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Krankschreibung. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 3.100 Euro netto – und trotzdem musst du vor dem Amtsarzt kriechen wie ein Bettler."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Augen binden vor Entzündung, der Bildschirm verschwimmt zu einem grauen Brei, aber die Agentur droht mit Abmahnung."
+        },
+        {
+          "s": "Figur",
+          "t": "Der Gutachter blättert in meinen Unterlagen, als wären sie Schmutz."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sie verdienen doch genug, um sich eine private Behandlung zu leisten, Frau Drachenfrucht!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Seine eiskalte Stimme lässt mich erstarren. Die rosafarbene Haut meiner Drachenfrucht-Stacheln zittert vor Wut und Erschöpfung."
+        },
+        {
+          "s": "Figur",
+          "t": "Man ackert sich jahrelang hoch, zahlt pünktlich seine Steuern, und beim ersten echten Zusammenbruch wird man wie ein Krimineller behandelt."
+        },
+        {
+          "s": "Figur",
+          "t": "Hier in der Großstadt bist du nur so viel wert wie deine aktuelle Ziffer. Ich hole tief Luft, um nicht auszurasten."
+        },
+        {
+          "s": "Figur",
+          "t": "Da vibriert plötzlich das Smartphone mit einer eiligen Nachricht der Krankenkasse."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Sie verdienen doch genug, um sich eine private Behandlung zu leisten, Frau Drachenfrucht!",
+      "quote_by": {
+        "level": 6,
+        "name": "Herr Ananas",
+        "badge": "6.200 €",
+        "character": "A spiky pineapple person wearing a golden-brown textured suit jacket and a high salary badge glowing fiercely on the crown.",
+        "scene": "Medium shot of Herr Ananas sitting behind a mahogany desk in an upscale medical review office, tossing medical files aside."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "3.100 €",
+          "bar": 0.5
+        },
+        {
+          "label": "Miete",
+          "value": "1.100 €",
+          "bar": 0.75
+        },
+        {
+          "label": "Erholung",
+          "value": "12 %",
+          "bar": 0.15
+        }
+      ],
+      "character": "A unique dragon fruit person with vibrant magenta skin and green-tipped fleshy scales, wearing stylish designer glasses and a glowing digital income badge.",
+      "visual": "Wide shot of a modern minimalist doctor's consultation room with polished concrete floors, designer chairs, and large glass windows overlooking a rainy skyline.",
+      "scenes": [
+        "Wide shot of a modern minimalist doctor's consultation room with polished concrete floors, designer chairs, and large glass windows overlooking a rainy skyline.",
+        "Medium shot of Sarah rubbing her inflamed eyes while holding medical documents.",
+        "Detail shot of a small golden coin resting on the polished wooden armrest of the guest chair.",
+        "Close-up of the digital forehead display showing the glowing 3.100 € reflection in a chrome lamp.",
+        "Medium shot of Herr Ananas gesturing dismissively across his large desk.",
+        "Wide shot of the downtown city avenue during a heavy afternoon downpour, umbrellas crossing a busy pedestrian zone."
+      ],
+      "caption": "Mittelstand und trotzdem am Ende? Wer kennt das? #krankschreibung #agenturleben #burnout #drama #deutschland"
+    },
+    {
+      "n": 5,
+      "open_loop": "Wer hatte die anonyme Beschwerde über den vermeintlichen Betrug eingereicht?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Verbreitet im Treppenhaus Gerüchte, dass die Abteilungsleiterin nur simuliert."
+      },
+      "name": "Markus, 42, Abteilungsleiter",
+      "badge": "4.800 € netto",
+      "verdict": "ÜBERWACHT",
+      "story": "Die 8 Level der Krankschreibung. Level 5. Level 5: 4.800 Euro im Monat – und der Medizinische Dienst behandelt dich wie einen gemeinen Betrüger. Herzrasen, Panikattacken im Konferenzraum, der Körper streikt nach 70 Stunden Woche. Doch wenn du als Chef einmal ausfällst, kreisen die Geier sofort über deinen Stuhl. Sie wollen sich wohl ein langes Wochenende auf Firmenkosten machen, Herr Kürbis! Ihre spitze Orangen-Nase bohrt sich fast in mein Gesicht. Ich habe diesen Laden aufgebaut, Millionen erwirtschaftet, und jetzt wird jedes Attest in der Zentrale zerpflückt. In dieser Leistungsgesellschaft bist du ohne Stirn-Zahl ein Nichts, aber mit hoher Zahl eine Zielscheibe. Ich balle die Fäuste unter dem Tisch. Genau in diesem Moment klingelt das Festnetztelefon mit einer unheilvollen Nachricht aus dem Vorstand. Niemand schenkt dir hier auch nur einen einzigen freien Tag. Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "-200 €",
+        "after": "4.600 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Krankschreibung. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 4.800 Euro im Monat – und der Medizinische Dienst behandelt dich wie einen gemeinen Betrüger."
+        },
+        {
+          "s": "Figur",
+          "t": "Herzrasen, Panikattacken im Konferenzraum, der Körper streikt nach 70 Stunden Woche."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch wenn du als Chef einmal ausfällst, kreisen die Geier sofort über deinen Stuhl."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sie wollen sich wohl ein langes Wochenende auf Firmenkosten machen, Herr Kürbis!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ihre spitze Orangen-Nase bohrt sich fast in mein Gesicht. Ich habe diesen Laden aufgebaut, Millionen erwirtschaftet, und jetzt wird jedes Attest in der Zentrale zerpflückt."
+        },
+        {
+          "s": "Figur",
+          "t": "In dieser Leistungsgesellschaft bist du ohne Stirn-Zahl ein Nichts, aber mit hoher Zahl eine Zielscheibe."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich balle die Fäuste unter dem Tisch. Genau in diesem Moment klingelt das Festnetztelefon mit einer unheilvollen Nachricht aus dem Vorstand."
+        },
+        {
+          "s": "Figur",
+          "t": "Niemand schenkt dir hier auch nur einen einzigen freien Tag."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Sie wollen sich wohl ein langes Wochenende auf Firmenkosten machen, Herr Kürbis!",
+      "quote_by": {
+        "level": 2,
+        "name": "Mia",
+        "badge": "1.450 €",
+        "character": "A sharp lemon person with a bright yellow textured peel skin, wearing a cheap headset and an envious expression.",
+        "scene": "Medium shot of Mia looking through glass office partitions, holding a coffee mug and pointing at Markus."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "4.800 €",
+          "bar": 0.65
+        },
+        {
+          "label": "Miete",
+          "value": "1.600 €",
+          "bar": 0.85
+        },
+        {
+          "label": "Druck",
+          "value": "98 %",
+          "bar": 0.98
+        }
+      ],
+      "character": "A solid pumpkin person with ribbed orange skin and a sturdy green stem on top, wearing a tailored charcoal suit and a glowing high-tier salary badge.",
+      "visual": "Wide shot of an executive corporate boardroom with a long glass conference table, leather chairs, and dark storm clouds visible through floor-to-ceiling windows.",
+      "scenes": [
+        "Wide shot of an executive corporate boardroom with a long glass conference table, leather chairs, and dark storm clouds visible through floor-to-ceiling windows.",
+        "Medium shot of Markus massaging his temples while sitting in front of a glowing laptop.",
+        "Detail shot of a small golden coin half-hidden under a heavy glass water pitcher.",
+        "Close-up of the glowing digital forehead display reflecting anxiety in the glass screen.",
+        "Medium shot of Frau Orange standing across the boardroom table with crossed arms.",
+        "Wide shot of the underground corporate parking garage where luxury sedans sit under flickering neon lights."
+      ],
+      "caption": "Auch Chefs bricht der Stress irgendwann. Wer hätte das gedacht? #krankschreibung #karriere #burnout #drama #deutschland"
+    },
+    {
+      "n": 6,
+      "open_loop": "Welche dubiose Summe tauchte auf dem privaten Konto des Abteilungsleiters auf?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Beschuldigt ihn öffentlich, Sonderbehandlungen für seine Krankschreibung zu erzwingen."
+      },
+      "name": "Helena, 49, Hauptabteilungsleiterin",
+      "badge": "7.500 € netto",
+      "verdict": "KONTROLLE",
+      "story": "Die 8 Level der Krankschreibung. Level 6. Level 6: 7.500 Euro netto – und die Kassenärztliche Vereinigung schickt dir einen Sonderprüfer ins Haus. Ein kompletter Nervenzusammenbruch nach dem Börsencrash der Firma, und man unterstellt mir Simulantentum auf höchstem Niveau. Der Chefprüfer schnappt nach Luft und mustert meine teure Bluse. Mit Ihrem Einkommen können Sie sich jede Luxus-Reha leisten, Frau Ananas! Seine spikige Ananas-Krone wackelt vor Empörung. Man arbeitet sich bis ganz nach oben, trägt die Verantwortung für hunderte Jobs, und wenn man einmal zusammenbricht, ist man plötzlich eine Betrügerin. Die deutsche Bürokratie kennt kein Erbarmen, egal welche Zahl auf deiner Stirn leuchtet. Ich halte den Atem an, während der Prüfer den Rotstift zückt. Da vibriert mein Handy mit einer dringenden E-Mail aus der Rechtsabteilung. Hier zählt keine Leistung mehr, nur noch nackter Verdacht. Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+800 €",
+        "after": "8.300 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Krankschreibung. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 7.500 Euro netto – und die Kassenärztliche Vereinigung schickt dir einen Sonderprüfer ins Haus."
+        },
+        {
+          "s": "Figur",
+          "t": "Ein kompletter Nervenzusammenbruch nach dem Börsencrash der Firma, und man unterstellt mir Simulantentum auf höchstem Niveau."
+        },
+        {
+          "s": "Figur",
+          "t": "Der Chefprüfer schnappt nach Luft und mustert meine teure Bluse."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit Ihrem Einkommen können Sie sich jede Luxus-Reha leisten, Frau Ananas!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Seine spikige Ananas-Krone wackelt vor Empörung. Man arbeitet sich bis ganz nach oben, trägt die Verantwortung für hunderte Jobs, und wenn man einmal zusammenbricht, ist man plötzlich eine Betrügerin."
+        },
+        {
+          "s": "Figur",
+          "t": "Die deutsche Bürokratie kennt kein Erbarmen, egal welche Zahl auf deiner Stirn leuchtet."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich halte den Atem an, während der Prüfer den Rotstift zückt. Da vibriert mein Handy mit einer dringenden E-Mail aus der Rechtsabteilung."
+        },
+        {
+          "s": "Figur",
+          "t": "Hier zählt keine Leistung mehr, nur noch nackter Verdacht."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Mit Ihrem Einkommen können Sie sich jede Luxus-Reha leisten, Frau Ananas!",
+      "quote_by": {
+        "level": 3,
+        "name": "Leon",
+        "badge": "2.200 €",
+        "character": "An avocado person with smooth green skin and medical scrubs, looking exhausted and bitter.",
+        "scene": "Medium shot of Leon standing in a hallway, staring up at Helena with crossed arms."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "7.500 €",
+          "bar": 0.82
+        },
+        {
+          "label": "Miete",
+          "value": "2.200 €",
+          "bar": 0.92
+        },
+        {
+          "label": "Respekt",
+          "value": "40 %",
+          "bar": 0.4
+        }
+      ],
+      "character": "A golden pineapple person with a textured scaly skin body, wearing an elegant silk blouse and a glowing high-income badge on the crown.",
+      "visual": "Wide shot of a luxurious penthouse office with floor-to-ceiling bookshelves, designer leather armchairs, and a panoramic view of the wet city skyline.",
+      "scenes": [
+        "Wide shot of a luxurious penthouse office with floor-to-ceiling bookshelves, designer leather armchairs, and a panoramic view of the wet city skyline.",
+        "Medium shot of Helena standing by the window holding a porcelain teacup with shaking hands.",
+        "Detail shot of a small golden coin placed discreetly on the spine of a leather-bound law book.",
+        "Close-up of the bright digital income number glowing proudly against the pineapple crown.",
+        "Medium shot of Herr Ananas sitting across the desk holding an official audit report.",
+        "Wide shot of a busy downtown intersection below, cars cutting through puddles under twilight streetlamps."
+      ],
+      "caption": "Auch an der Spitze bricht das System ein. Hättet ihr das gedacht? #krankschreibung #management #luxus #drama #deutschland"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welche brisanten Beweise lagen in dem roten Aktenordner auf dem Richterpult?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Beschuldigt ihn vor der Schlichtungsstelle fälschlicherweise des Mobbings und Betrugs."
+      },
+      "name": "Richard, 55, Direktor",
+      "badge": "10.200 € netto",
+      "verdict": "IMMUN",
+      "story": "Die 8 Level der Krankschreibung. Level 7. Level 7: 10.200 Euro netto im Monat – und die Staatsanwaltschaft ermittelt wegen angeblicher Gefälligkeits-Atteste. Ich habe das Unternehmen durch jede Krise gesteuert, mein Herz schlägt kaum noch im Takt, und jetzt stürmt die Gesundheitsbehörde mein Büro. Der leitende Kontrolleur baut sich vor mir auf und knallt die Akte auf den Tisch. Sie glauben wohl, mit Ihrer dicken Zahl auf der Stirn sind Sie unantastbar, Herr Kokos! Seine harte Schale strahlt pure Arroganz aus. Ein Leben lang Verzicht, 80-Stunden-Wochen, kein Wochenende mit der Familie – und am Ende wirst du behandelt wie ein Schwerverbrecher, nur weil der Körper einmal Kollaps ruft. In diesem Land wird Erfolg gnadenlos bestraft. Ich atme flach und sehe auf das blinkende Display meiner Stirn. Da öffnet sich die schwere Flügeltür langsam. Jetzt entscheidet sich alles in den nächsten Sekunden. Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "-1.200 €",
+        "after": "9.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Krankschreibung. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 10.200 Euro netto im Monat – und die Staatsanwaltschaft ermittelt wegen angeblicher Gefälligkeits-Atteste."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe das Unternehmen durch jede Krise gesteuert, mein Herz schlägt kaum noch im Takt, und jetzt stürmt die Gesundheitsbehörde mein Büro."
+        },
+        {
+          "s": "Figur",
+          "t": "Der leitende Kontrolleur baut sich vor mir auf und knallt die Akte auf den Tisch."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sie glauben wohl, mit Ihrer dicken Zahl auf der Stirn sind Sie unantastbar, Herr Kokos!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Seine harte Schale strahlt pure Arroganz aus. Ein Leben lang Verzicht, 80-Stunden-Wochen, kein Wochenende mit der Familie – und am Ende wirst du behandelt wie ein Schwerverbrecher, nur weil der Körper einmal Kollaps ruft."
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Land wird Erfolg gnadenlos bestraft. Ich atme flach und sehe auf das blinkende Display meiner Stirn."
+        },
+        {
+          "s": "Figur",
+          "t": "Da öffnet sich die schwere Flügeltür langsam."
+        },
+        {
+          "s": "Figur",
+          "t": "Jetzt entscheidet sich alles in den nächsten Sekunden."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Sie glauben wohl, mit Ihrer dicken Zahl auf der Stirn sind Sie unantastbar, Herr Kokos!",
+      "quote_by": {
+        "level": 1,
+        "name": "Tom",
+        "badge": "680 €",
+        "character": "A young apprentice strawberry person with fresh green leaves on top, wearing a stained bakery apron and an angry expression.",
+        "scene": "Medium shot of Tom bursting into the director's office, pointing a finger directly at Richard's glowing forehead."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "10.200 €",
+          "bar": 0.94
+        },
+        {
+          "label": "Miete",
+          "value": "3.500 €",
+          "bar": 0.98
+        },
+        {
+          "label": "Macht",
+          "value": "90 %",
+          "bar": 0.9
+        }
+      ],
+      "character": "A sturdy coconut person with a hard brown hairy shell texture, wearing an expensive bespoke Italian suit and a glowing five-figure salary badge on the forehead.",
+      "visual": "Wide shot of a grand executive corner office with mahogany wall panels, leather wingback chairs, and a stormy city panorama outside massive glass windows.",
+      "scenes": [
+        "Wide shot of a grand executive corner office with mahogany wall panels, leather wingback chairs, and a stormy city panorama outside massive glass windows.",
+        "Medium shot of Richard sitting behind a massive glass desk, looking pale and clutching his chest.",
+        "Detail shot of a small golden coin nestled inside a crystal ashtray on the executive desk.",
+        "Close-up of the bright five-figure digital salary glowing on the coconut shell forehead.",
+        "Medium shot of Tom standing near the office doorway with an accusatory expression.",
+        "Wide shot of the building lobby downstairs, where police officers and inspectors walk through the revolving glass doors."
+      ],
+      "caption": "Wer ganz oben steht, fällt oft am tiefsten. Was denkt ihr? #krankschreibung #direktor #justiz #drama #deutschland"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welche monumentale Entscheidung traf der Chefarzt in dem Moment, als alle Lichter angingen?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Versucht, die gesamte Patientenakte im Aktenvernichter verschwinden zu lassen."
+      },
+      "name": "Dr. Brokkoli, 60, Chefarzt",
+      "badge": "12.500 € netto",
+      "verdict": "ENTSCHIEDEN",
+      "story": "Die 8 Level der Krankschreibung. Level 8. Level 8: 12.500 Euro netto – und am Ende landen alle Akten auf meinem Tisch. Jahrzehntelang habe ich über Krankschreibungen entschieden, Menschen verurteilt, Zahlen verglichen und das System verteidigt. Doch heute leuchtet auf meiner eigenen Stirn die ultimative Wahrheit, die niemand erwartet hat. Jetzt wird abgerechnet, Herr Doktor! Der junge Azubi von damals steht plötzlich in meinem Behandlungszimmer und fordert Gerechtigkeit. Seine kleine Erdbeer-Stimme bricht die Stille des Raumes. Wir alle sind nur Gefangene derselben digitalen Anzeige, egal ob 680 oder 12.500 Euro. Die Zahlen lügen nie, aber sie zeigen niemals das wahre Herz eines Menschen. Ich greife nach dem Stempel, um das letzte Attest zu unterschreiben. Welche Stadt oder welches Thema sollten wir in der nächsten Serie als Nächstes besuchen?",
+      "gender": "m",
+      "twist": {
+        "delta": "MAX",
+        "after": "15.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Krankschreibung. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 12.500 Euro netto – und am Ende landen alle Akten auf meinem Tisch."
+        },
+        {
+          "s": "Figur",
+          "t": "Jahrzehntelang habe ich über Krankschreibungen entschieden, Menschen verurteilt, Zahlen verglichen und das System verteidigt."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch heute leuchtet auf meiner eigenen Stirn die ultimative Wahrheit, die niemand erwartet hat."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Jetzt wird abgerechnet, Herr Doktor!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Der junge Azubi von damals steht plötzlich in meinem Behandlungszimmer und fordert Gerechtigkeit."
+        },
+        {
+          "s": "Figur",
+          "t": "Seine kleine Erdbeer-Stimme bricht die Stille des Raumes. Wir alle sind nur Gefangene derselben digitalen Anzeige, egal ob 680 oder 12.500 Euro."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahlen lügen nie, aber sie zeigen niemals das wahre Herz eines Menschen. Ich greife nach dem Stempel, um das letzte Attest zu unterschreiben."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welche Stadt oder welches Thema sollten wir in der nächsten Serie als Nächstes besuchen?"
+        }
+      ],
+      "quote": "Jetzt wird abgerechnet, Herr Doktor!",
+      "quote_by": {
+        "level": 4,
+        "name": "Sarah",
+        "badge": "3.100 €",
+        "character": "A dragon fruit person with magenta skin and green-tipped scales, wearing designer glasses and a determined expression.",
+        "scene": "Medium shot of Sarah stepping into the chief physician's office, slamming a folder onto the glass table."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "12.500 €",
+          "bar": 1.0
+        },
+        {
+          "label": "Miete",
+          "value": "4.000 €",
+          "bar": 1.0
+        },
+        {
+          "label": "Wahrheit",
+          "value": "100 %",
+          "bar": 1.0
+        }
+      ],
+      "character": "A stern senior doctor made of heavy dark green broccoli florets, wearing a pristine white lab coat with golden buttons and a glowing maximum salary badge.",
+      "visual": "Wide shot of the grand medical director's office at the top of the central hospital, panoramic windows showing the entire neon-lit city under a clearing night sky.",
+      "scenes": [
+        "Wide shot of the grand medical director's office at the top of the central hospital, panoramic windows showing the entire neon-lit city under a clearing night sky.",
+        "Medium shot of Dr. Brokkoli standing behind a massive glass desk, looking at his glowing forehead in a mirror.",
+        "Detail shot of a small golden coin resting directly on the official hospital stamp.",
+        "Close-up of the maximum digital salary badge glowing brilliantly in the dark room.",
+        "Medium shot of all previous characters gathered together in the large office, confronting the doctor.",
+        "Wide shot of the entire city skyline as morning breaks through the clouds, bus line 42 passing by on the street below."
+      ],
+      "caption": "Das große Finale der Krankschreibung! Welches Thema sollen wir als Nächstes verfilmen? #finale #krankschreibung #drama #viral #deutschland"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das Erschleichen einer Krankschreibung beim Hausarzt",
+  "frame": "frucht"
+}

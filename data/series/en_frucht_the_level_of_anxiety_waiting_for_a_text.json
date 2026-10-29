@@ -1,0 +1,791 @@
+{
+  "title": "The 8 Levels of Anxiety Waiting for a Text Back",
+  "house": "A bustling, neon-lit metropolis made of rain-slicked concrete, glass skyscrapers, and towering fruit-stand kiosks where vegetable citizens commute in yellow cab-cucumbers under a bruised purple sky.",
+  "catchphrase": "The blinking light on your forehead never lies.",
+  "links": [
+    "Barista in Level 2 mentions the quiet man in the suit who leaves huge tips.",
+    "A dropped blue scarf on the subway floor from Level 4 is worn by the florist in Level 7.",
+    "The flickering neon sign of the all-night diner hums identically in Level 1, Level 3, and Level 6."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Why did he leave her on 'Read' for precisely 47 hours and 12 minutes?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Laughs right in her face, grabs her cracked phone, mocks her zero-minute panic, and throws her iced coffee into the subway tracks.",
+        "g": "m"
+      },
+      "name": "Daisy, 22, Intern",
+      "badge": "0 Min. Wait",
+      "verdict": "DESPERATE",
+      "story": "Level 1! 2.000 Nachrichten? Warum starrt dieser Idiot seit genau 47 Stunden auf eine blau leuchtende Blase, während Vincent ihm das Handy direkt ins Gesicht schlägt und lacht? Ich bin Daisy, ein zerbrechliches rotes Erdbeer-Mädchen in einer verblichenen Jeansjacke, und starre in der feuchten U-Bahn-Station auf ein blaues Bläschen, das sich weigert, zu tippen. Die Display-Helligkeit steht auf Maximum, während es nach nassem Asphalt und billigem Parfüm stinkt. Er hat meine Nachricht um Punkt 17:00 Uhr gesehen, und jetzt ist es 17:01 Uhr, was bedeutet, dass ich in der Öffentlichkeit komplett den Verstand verliere. Du starrst auf diesen Schrott wie ein kaputter Spielautomat, der dir Miete schuldet. Vincent tritt näher und drückt mir seinen fetten Siegelring ins Gesicht. Niemand antwortet jemals auf einen Loosertyp mit Null Minuten Wartezeit. Das siehst du in Level 2. You'll see that in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "-10 Min.",
+        "after": "-10 Min."
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 1!"
+        },
+        {
+          "s": "Figur",
+          "t": "2.000 Nachrichten? Warum starrt dieser Idiot seit genau 47 Stunden auf eine blau leuchtende Blase, während Vincent ihm das Handy direkt ins Gesicht schlägt und lacht?"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Daisy, ein zerbrechliches rotes Erdbeer-Mädchen in einer verblichenen Jeansjacke, und starre in der feuchten U-Bahn-Station auf ein blaues Bläschen, das sich weigert, zu tippen."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Display-Helligkeit steht auf Maximum, während es nach nassem Asphalt und billigem Parfüm stinkt."
+        },
+        {
+          "s": "Figur",
+          "t": "Er hat meine Nachricht um Punkt 17:00 Uhr gesehen, und jetzt ist es 17:01 Uhr, was bedeutet, dass ich in der Öffentlichkeit komplett den Verstand verliere."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du starrst auf diesen Schrott wie ein kaputter Spielautomat, der dir Miete schuldet.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Vincent tritt näher und drückt mir seinen fetten Siegelring ins Gesicht."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Niemand antwortet jemals auf einen Loosertyp mit Null Minuten Wartezeit.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "Niemand antwortet jemals auf einen Loosertyp mit Null Minuten Wartezeit.",
+      "quote_by": {
+        "level": 6,
+        "name": "Vincent",
+        "badge": "48 Hrs. Wait",
+        "character": "A sleek, polished Eggplant Man wearing a sharp charcoal suit and gold cufflinks, radiating cold detachment.",
+        "scene": "Medium shot inside a neon-lit subway station at night, looking down with a sneer at a strawberry girl."
+      },
+      "stats": [
+        {
+          "label": "Wait Time",
+          "value": "0 Min.",
+          "bar": 0.05
+        },
+        {
+          "label": "Heart Rate",
+          "value": "145 BPM",
+          "bar": 0.9
+        },
+        {
+          "label": "Doubt",
+          "value": "99%",
+          "bar": 0.99
+        }
+      ],
+      "character": "A young strawberry girl with freckled red skin, wearing a frayed denim jacket, clutching a cracked smartphone. Forehead badge glows red: 0 Min. Wait.",
+      "visual": "Wide angle shot of a gloomy subway platform at dusk. A strawberry girl stares desperately at her phone while a glossy eggplant man mocks her.",
+      "scenes": [
+        "Wide angle shot of a damp subway platform at dusk with flickering neon lights, featuring a golden coin hidden near a trash can.",
+        "Close-up shot of a strawberry girl's glowing forehead badge showing '0 Min. Wait' while her thumb hovers over a chat app.",
+        "Medium shot of a sharp eggplant man in a charcoal suit leaning over to mock her, golden coin resting on his briefcase.",
+        "Detail shot of a cracked smartphone screen displaying a single unread message at 5:01 PM.",
+        "Halbnah shot of angry commuters rushing past the glowing fruit citizens under buzzing fluorescent bulbs.",
+        "Close-up shot of the strawberry girl biting her lip in shame inside a crowded subway car."
+      ],
+      "caption": "Can one minute feel like an entire eternity? Drop a comment if you've ever stared this long at a screen! #anxiety #textback #fruitdrama #relatable #viral"
+    },
+    {
+      "n": 2,
+      "open_loop": "What secret photo did she accidentally attach to the chat before hitting unsend?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Scoffs loudly at his customer service panic, knocks over his tip jar, and throws his freshly baked pastry into the garbage bin right in front of him.",
+        "g": "w"
+      },
+      "name": "Milo, 25, Barista",
+      "badge": "2 Hrs. Wait",
+      "verdict": "SWEATING",
+      "story": "Level 2! Zwei Stunden Funkstille, und dieser Arsch von Sienna schüttet meinen frischen Eiskaffee demonstrativ in den Müll, weil ich angeblich zu schwach für den Barista-Job bin. Ich stehe hinter der Espressomaschine, während Indie-Musik dröhnt und der Duft von Bohnen in der Luft liegt. Mein Smartphone liegt entsperrt neben dem Trinkgeldblas, das Display zeigt zwei grauenvolle Stunden des Wartens an. Sienna knallt ihre Tasche auf die Theke, starrt auf mein gelbes Badge und stößt ein verächtliches Schnauben aus. Zwei Stunden sind der Witz des Jahrhunderts, du elendiger Versager. Sienna verstreut mein Trinkgeld auf dem Boden und wirft mein frisches Gebäck in den Müll. Eine faule Zitrone gerinnt immer, bevor das Wasser überhaupt kocht. Das siehst du in Level 3. You'll see that in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+4 Hrs.",
+        "after": "6 Hrs. Wa"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 2!"
+        },
+        {
+          "s": "Figur",
+          "t": "Zwei Stunden Funkstille, und dieser Arsch von Sienna schüttet meinen frischen Eiskaffee demonstrativ in den Müll, weil ich angeblich zu schwach für den Barista-Job bin."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe hinter der Espressomaschine, während Indie-Musik dröhnt und der Duft von Bohnen in der Luft liegt."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Smartphone liegt entsperrt neben dem Trinkgeldblas, das Display zeigt zwei grauenvolle Stunden des Wartens an."
+        },
+        {
+          "s": "Figur",
+          "t": "Sienna knallt ihre Tasche auf die Theke, starrt auf mein gelbes Badge und stößt ein verächtliches Schnauben aus."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Zwei Stunden sind der Witz des Jahrhunderts, du elendiger Versager.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Sienna verstreut mein Trinkgeld auf dem Boden und wirft mein frisches Gebäck in den Müll."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Eine faule Zitrone gerinnt immer, bevor das Wasser überhaupt kocht.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Eine faule Zitrone gerinnt immer, bevor das Wasser überhaupt kocht.",
+      "quote_by": {
+        "level": 5,
+        "name": "Sienna",
+        "badge": "24 Hrs. Wait",
+        "character": "A bitter Lime Woman with bright citrus skin wearing a sharp designer trench coat and oversized sunglasses indoors.",
+        "scene": "Medium shot across a crowded cafe counter, looking down critically at a nervous lemon barista."
+      },
+      "stats": [
+        {
+          "label": "Wait Time",
+          "value": "2 Hrs.",
+          "bar": 0.2
+        },
+        {
+          "label": "Sweat Lv.",
+          "value": "85%",
+          "bar": 0.85
+        },
+        {
+          "label": "Caffeine",
+          "value": "4 Cups",
+          "bar": 0.6
+        }
+      ],
+      "character": "A pale lemon man with textured yellow citrus skin, wearing a stained green barista apron. Forehead badge glows yellow: 2 Hrs. Wait.",
+      "visual": "Medium shot of a bustling coffee shop counter. A lemon barista stares anxiously at a smartphone next to the cash register.",
+      "scenes": [
+        "Wide angle shot of a sunlit hipster cafe with steam rising from espresso machines, golden coin hidden inside a sugar shaker.",
+        "Close-up shot of the lemon man's forehead badge reading '2 Hrs. Wait' while steam billows around him.",
+        "Medium shot of a bitter lime woman slamming a ceramic mug down, golden coin resting on the saucer rim.",
+        "Detail shot of a smartphone screen showing two hours passing since the last outgoing text message.",
+        "Halbnah shot of patrons working on laptops, ignoring the brewing tension at the counter.",
+        "Close-up shot of milk splashing over the edge of a stainless steel pitcher."
+      ],
+      "caption": "That moment when waiting two hours feels like serving a life sentence in prison. Drop a like if you've been there! #baristalife #waiting #texting #relatable #comedy"
+    },
+    {
+      "n": 3,
+      "open_loop": "Whose name was flashing on his lock screen right before he threw his phone into the sink?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Kicks his graphic design sketches across the floor, reads his desperate draft messages out loud, and calls him pathetic.",
+        "g": "m"
+      },
+      "name": "Broccoli Ben, 28, Graphic Designer",
+      "badge": "12 Hrs. Wait",
+      "verdict": "SPIRALING",
+      "story": "Level 3! Zwölf Stunden Funkstille, und dieser Mistkerl Koko steht in meinem Studio, nimmt mein Handy und liest meine peinlichsten Entwürfe laut vor, während er mich auslacht. Ich sitze um Mitternacht im blauen Monitorlicht auf dem Teppich, umgeben von Instant-Ramen und Verzweiflung. Koko tritt meine Skizzen weg, entsperrt mein Telefon und brüllt meine verfcaten Liebesbotschaften in den Hausflur. Jeder lacht über dich, du Grünschnabel, kreischt er, während meine Brokkoli-Haare vor Scham brennen. Schau dir diese peinlichen Entwürfe an, du erbärmlicher Versager! Er löscht meine Notizen vor laufender Kamera und verspottet jedes einzelne Wort, damit ich echten Hass empfinde. Niemand respektiert einen Salatstängel, der um Aufmerksamkeit bettelt. Das siehst du in Level 4. You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+12 Hrs.",
+        "after": "24 Hrs. W"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 3!"
+        },
+        {
+          "s": "Figur",
+          "t": "Zwölf Stunden Funkstille, und dieser Mistkerl Koko steht in meinem Studio, nimmt mein Handy und liest meine peinlichsten Entwürfe laut vor, während er mich auslacht."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze um Mitternacht im blauen Monitorlicht auf dem Teppich, umgeben von Instant-Ramen und Verzweiflung."
+        },
+        {
+          "s": "Figur",
+          "t": "Koko tritt meine Skizzen weg, entsperrt mein Telefon und brüllt meine verfcaten Liebesbotschaften in den Hausflur."
+        },
+        {
+          "s": "Figur",
+          "t": "Jeder lacht über dich, du Grünschnabel, kreischt er, während meine Brokkoli-Haare vor Scham brennen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Schau dir diese peinlichen Entwürfe an, du erbärmlicher Versager!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Er löscht meine Notizen vor laufender Kamera und verspottet jedes einzelne Wort, damit ich echten Hass empfinde."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Niemand respektiert einen Salatstängel, der um Aufmerksamkeit bettelt.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Niemand respektiert einen Salatstängel, der um Aufmerksamkeit bettelt.",
+      "quote_by": {
+        "level": 7,
+        "name": "Koko",
+        "badge": "72 Hrs. Wait",
+        "character": "A tough, fibrous Coconut Man with a hard brown shell head, wearing a rugged leather jacket and heavy boots.",
+        "scene": "Medium shot in a dimly lit apartment hallway, leaning against a doorframe with arms crossed mockingly."
+      },
+      "stats": [
+        {
+          "label": "Wait Time",
+          "value": "12 Hrs.",
+          "bar": 0.4
+        },
+        {
+          "label": "Drafts",
+          "value": "14 Text",
+          "bar": 0.7
+        },
+        {
+          "label": "Doubt",
+          "value": "88%",
+          "bar": 0.88
+        }
+      ],
+      "character": "A fluffy green broccoli man with detailed floret hair texture, wearing a relaxed grey hoodie. Forehead badge glows orange: 12 Hrs. Wait.",
+      "visual": "Wide angle shot of a messy apartment floor at midnight. A broccoli man stares anxiously at a phone while a coconut man mocks him from the doorway.",
+      "scenes": [
+        "Wide shot of a cluttered apartment lit only by computer screens, golden coin hidden underneath an empty coffee mug.",
+        "Close-up shot of the broccoli man's forehead badge showing '12 Hrs. Wait' while his green florets twitch.",
+        "Medium shot of a tough coconut man laughing in the doorway, golden coin resting on the door hinge.",
+        "Detail shot of a smartphone screen showing fourteen unsent draft replies in the chat box.",
+        "Halbnah shot of crumpled sketches scattered across wooden floorboards under harsh overhead light.",
+        "Close-up shot of the broccoli man burying his face in his green hands in absolute despair."
+      ],
+      "caption": "Twelve hours of drafting texts you will never send is a full-time sport. Drop a comment if you edit your messages five times! #broccoli #anxiety #texting #relatable #mood"
+    },
+    {
+      "n": 4,
+      "open_loop": "What hidden meaning did her friends find in the exact punctuation mark of his last reply?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Marches into her yoga class, mocks her for crying over a 24-hour delivery gap, and pours water all over her sacred mat.",
+        "g": "w"
+      },
+      "name": "Orange Olivia, 26, Yoga Instructor",
+      "badge": "24 Hrs. Wait",
+      "verdict": "NUMB",
+      "story": "Level 4! 24 Stunden Funkstille, und Olivia weiß längst im Hintergrund, dass ich längst den ultimativen Untreue-Beweis gesichert habe, während Daisy in mein Yogastudio stürmt. Ich sitze auf meiner Matte und atme durch, während die Luft nach Salbei riecht. Daisy reißt meine Wasserflasche an sich und schüttet den Inhalt über meinen Kopf. Du heulst wegen einem Tag ohne Nachricht, während ich im Hintergrund längst alle Beweise gegen dich habe. Du bist nur eine peinliche Zitrusfrucht, die niemand will! Ich blicke sie eiskalt an und weiß, dass ihre Genugtuung in Level 1 grausam enden wird. Stille bedeutet nur, dass er längst eine Bessere gefunden hat. Das siehst du in Level 5. You'll see that in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+12 Hrs.",
+        "after": "36 Hrs. W"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 4!"
+        },
+        {
+          "s": "Figur",
+          "t": "24 Stunden Funkstille, und Olivia weiß längst im Hintergrund, dass ich längst den ultimativen Untreue-Beweis gesichert habe, während Daisy in mein Yogastudio stürmt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze auf meiner Matte und atme durch, während die Luft nach Salbei riecht."
+        },
+        {
+          "s": "Figur",
+          "t": "Daisy reißt meine Wasserflasche an sich und schüttet den Inhalt über meinen Kopf."
+        },
+        {
+          "s": "Figur",
+          "t": "Du heulst wegen einem Tag ohne Nachricht, während ich im Hintergrund längst alle Beweise gegen dich habe."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du bist nur eine peinliche Zitrusfrucht, die niemand will!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich blicke sie eiskalt an und weiß, dass ihre Genugtuung in Level 1 grausam enden wird."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Stille bedeutet nur, dass er längst eine Bessere gefunden hat.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Stille bedeutet nur, dass er längst eine Bessere gefunden hat.",
+      "quote_by": {
+        "level": 1,
+        "name": "Daisy",
+        "badge": "0 Min. Wait",
+        "character": "A fragile red-strawberry girl with seed freckles, wearing a frayed denim jacket and clutching a cracked phone.",
+        "scene": "Medium shot inside a bright yoga studio, pointing accusingly down at a seated orange woman."
+      },
+      "stats": [
+        {
+          "label": "Wait Time",
+          "value": "24 Hrs.",
+          "bar": 0.6
+        },
+        {
+          "label": "Zen Level",
+          "value": "12%",
+          "bar": 0.12
+        },
+        {
+          "label": "Overthink",
+          "value": "95%",
+          "bar": 0.95
+        }
+      ],
+      "character": "A bright segmented orange woman with textured citrus skin, wearing turquoise athletic leggings. Forehead badge glows orange: 24 Hrs. Wait.",
+      "visual": "Wide angle shot of a peaceful yoga studio flooded with afternoon sunlight. An orange woman meditates while a frantic strawberry girl interrupts her.",
+      "scenes": [
+        "Wide shot of a minimalist yoga studio with wooden beams, golden coin hidden beneath a rolled yoga mat.",
+        "Close-up shot of the orange woman's forehead badge reading '24 Hrs. Wait' while she breathes deeply.",
+        "Medium shot of a strawberry girl bursting in with iced matcha drinks, golden coin resting on the windowsill.",
+        "Detail shot of a blacked-out smartphone screen lying face down on a turquoise rubber mat.",
+        "Halbnah shot of potted bamboo plants casting long shadows across the polished wooden floor.",
+        "Close-up shot of the orange woman opening one eye in sudden irritation."
+      ],
+      "caption": "Twenty-four hours without a reply turns a zen yogi into a detective. Drop a like if you check your phone too much! #yoga #orange #texting #relatable #mindfulness"
+    },
+    {
+      "n": 5,
+      "open_loop": "What did the midnight delivery driver whisper when he handed over the mysterious package?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Humiliates her in front of the diner staff, knocks over her coffee mug, and calls her a bitter dried-up lemon.",
+        "g": "m"
+      },
+      "name": "Sienna, 29, Accountant",
+      "badge": "36 Hrs. Wait",
+      "verdict": "ICY",
+      "story": "Level 5! 36 Stunden Leere, und ich berechne die mathematische Null-Chance auf eine Antwort, während Milo in das Diner stürmt und mich verhöhnt. Ich sitze in einer Ledernox, umgeben von Neonlicht und kaltem Kaffee. Milo knallt einen Lappen auf meinen Tisch und gießt meinen Kaffee über meinen Trenchcoat. Du bist eine verbitterte Limette, brüllt er, während er mein Badge verspottet. Kalte Limonade schmeckt nach gar nichts, wenn niemand trinkt. Ich blicke ihn ohne eine Regung an und plane seine Zerstörung. Niemand will eine faule Frucht wie dich haben. Das siehst du in Level 6. You'll see that in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+12 Hrs.",
+        "after": "48 Hrs. W"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 5!"
+        },
+        {
+          "s": "Figur",
+          "t": "36 Stunden Leere, und ich berechne die mathematische Null-Chance auf eine Antwort, während Milo in das Diner stürmt und mich verhöhnt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze in einer Ledernox, umgeben von Neonlicht und kaltem Kaffee."
+        },
+        {
+          "s": "Figur",
+          "t": "Milo knallt einen Lappen auf meinen Tisch und gießt meinen Kaffee über meinen Trenchcoat."
+        },
+        {
+          "s": "Figur",
+          "t": "Du bist eine verbitterte Limette, brüllt er, während er mein Badge verspottet."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Kalte Limonade schmeckt nach gar nichts, wenn niemand trinkt.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich blicke ihn ohne eine Regung an und plane seine Zerstörung."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Niemand will eine faule Frucht wie dich haben.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Kalte Limonade schmeckt nach gar nichts, wenn niemand trinkt.",
+      "quote_by": {
+        "level": 2,
+        "name": "Milo",
+        "badge": "2 Hrs. Wait",
+        "character": "A pale lemon man with textured yellow citrus skin, wearing a stained green barista apron.",
+        "scene": "Medium shot inside a retro diner at night, wiping down a booth table while looking down critically at a lime woman."
+      },
+      "stats": [
+        {
+          "label": "Wait Time",
+          "value": "36 Hrs.",
+          "bar": 0.75
+        },
+        {
+          "label": "Logic",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Hope",
+          "value": "1%",
+          "bar": 0.01
+        }
+      ],
+      "character": "A sharp lime woman with acid-green citrus skin, wearing a tailored beige designer trench coat. Forehead badge glows red: 36 Hrs. Wait.",
+      "visual": "Wide angle shot of a retro diner booth at 3 AM with neon signs casting green light. A lime woman stares coldly at a phone while a lemon waiter mocks her.",
+      "scenes": [
+        "Wide shot of an empty diner at 3 AM with checkered floor tiles, golden coin hidden inside a ketchup bottle.",
+        "Close-up shot of the lime woman's forehead badge reading '36 Hrs. Wait' while neon lights reflect off her skin.",
+        "Medium shot of a lemon waiter wiping down the table next to her, golden coin resting on the napkin dispenser.",
+        "Detail shot of a smartphone resting on a greasy Formica table with the screen completely dark.",
+        "Halbnah shot of rain lashing against the diner's large front windows under purple streetlights.",
+        "Close-up shot of the lime woman stirring black coffee without breaking eye contact with the dark screen."
+      ],
+      "caption": "Thirty-six hours of silence turns your heart into pure frozen citrus. Drop a comment if you've ever calculated your texting odds! #lime #diner #texting #relatable #cold"
+    },
+    {
+      "n": 6,
+      "open_loop": "What was written on the handwritten note tucked inside the envelope left at his doorstep?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Traps him in an elevator, mocks his corporate wealth, and rips his expensive silk tie right off his neck.",
+        "g": "m"
+      },
+      "name": "Vincent, 34, Investment Banker",
+      "badge": "48 Hrs. Wait",
+      "verdict": "DETACHED",
+      "story": "Level 6! 48 Stunden Ghost-Protokoll, und Broccoli Ben drückt im Aufzug den Notstopp, reißt mir die Seidenkrawatte vom Hals und lacht über mein Vermögen. Ich stehe im Glasaufzug, während mein Handy stumm bleibt. Ben packt mich am Revers und spuckt aus, dass mein Ego eine Geiselnahme ist. Du denkst, du bist unantastbar, du violetter Idiot, brüllt er und wirft meine Akten um. Deine violette Fassade wird von innen verrotten! Ich richte meine Manschettenknöpfe mit tödlicher Gelassenheit. Niemand pflückt eine faule Aubergine vom Stiel. Das siehst du in Level 7. You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+24 Hrs.",
+        "after": "72 Hrs. W"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 6!"
+        },
+        {
+          "s": "Figur",
+          "t": "48 Stunden Ghost-Protokoll, und Broccoli Ben drückt im Aufzug den Notstopp, reißt mir die Seidenkrawatte vom Hals und lacht über mein Vermögen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im Glasaufzug, während mein Handy stumm bleibt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ben packt mich am Revers und spuckt aus, dass mein Ego eine Geiselnahme ist."
+        },
+        {
+          "s": "Figur",
+          "t": "Du denkst, du bist unantastbar, du violetter Idiot, brüllt er und wirft meine Akten um."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Deine violette Fassade wird von innen verrotten!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich richte meine Manschettenknöpfe mit tödlicher Gelassenheit."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Niemand pflückt eine faule Aubergine vom Stiel.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "Niemand pflückt eine faule Aubergine vom Stiel.",
+      "quote_by": {
+        "level": 3,
+        "name": "Broccoli Ben",
+        "badge": "12 Hrs. Wait",
+        "character": "A fluffy green broccoli man with detailed floret hair, wearing a relaxed grey hoodie.",
+        "scene": "Medium shot inside a luxury glass elevator, looking up mockingly at a tall eggplant banker."
+      },
+      "stats": [
+        {
+          "label": "Wait Time",
+          "value": "48 Hrs.",
+          "bar": 0.85
+        },
+        {
+          "label": "Ego",
+          "value": "99%",
+          "bar": 0.99
+        },
+        {
+          "label": "Control",
+          "value": "90%",
+          "bar": 0.9
+        }
+      ],
+      "character": "A sleek eggplant man with glossy deep purple skin, wearing a tailored charcoal suit and gold cufflinks. Forehead badge glows red: 48 Hrs. Wait.",
+      "visual": "Wide angle shot of a luxury glass elevator ascending a skyscraper at dawn. An eggplant banker stands tall while a broccoli designer mocks him.",
+      "scenes": [
+        "Wide shot of a towering glass skyscraper lobby at sunrise, golden coin hidden in the revolving glass door track.",
+        "Close-up shot of the eggplant man's forehead badge reading '48 Hrs. Wait' while city lights glitter below.",
+        "Medium shot of a broccoli man in a hoodie laughing inside the elevator, golden coin resting on the elevator control panel.",
+        "Detail shot of a tailored suit pocket concealing a silent smartphone.",
+        "Halbnah shot of mirrored elevator walls reflecting distorted cityscapes rushing upward.",
+        "Close-up shot of the eggplant man adjusting his gold cufflinks with icy composure."
+      ],
+      "caption": "Forty-eight hours of silence requires absolute corporate-level emotional detachment. Drop a comment if you play it cool! #eggplant #banking #texting #relatable #boss"
+    },
+    {
+      "n": 7,
+      "open_loop": "What secret package was delivered to her front porch just seconds before the phone rang?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Smashes his rare orchid pots, mocks his plant care, and throws his leather jacket off the greenhouse roof.",
+        "g": "w"
+      },
+      "name": "Koko, 31, Botanist",
+      "badge": "72 Hrs. Wait",
+      "verdict": "STONE",
+      "story": "Level 7! 72 Stunden Funkstille, und Orange Olivia stürmt mein Gewächshaus, zerstört meine Orchideen und wirft meine Lederjacke vom Dach. Ich stehe im Wind, während mein Kokosnuss-Kopf die Wut absorbiert. Du hast aufgegeben, kreischt sie und tritt meine Töpfe um. Deine harte Schale schützt nur eine hohle Nuss, brüllt sie mich an. Du bist nur ein hohler Nusskopf ohne Gefühle! Ich wende mich langsam um und sehe sie eiskalt an. Niemand liebt eine Kokosnuss mit Beton im Kopf. Das siehst du in Level 8. You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+24 Hrs.",
+        "after": "96 Hrs. W"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 7!"
+        },
+        {
+          "s": "Figur",
+          "t": "72 Stunden Funkstille, und Orange Olivia stürmt mein Gewächshaus, zerstört meine Orchideen und wirft meine Lederjacke vom Dach."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im Wind, während mein Kokosnuss-Kopf die Wut absorbiert."
+        },
+        {
+          "s": "Figur",
+          "t": "Du hast aufgegeben, kreischt sie und tritt meine Töpfe um."
+        },
+        {
+          "s": "Figur",
+          "t": "Deine harte Schale schützt nur eine hohle Nuss, brüllt sie mich an."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du bist nur ein hohler Nusskopf ohne Gefühle!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich wende mich langsam um und sehe sie eiskalt an."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Niemand liebt eine Kokosnuss mit Beton im Kopf.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "Niemand liebt eine Kokosnuss mit Beton im Kopf.",
+      "quote_by": {
+        "level": 4,
+        "name": "Olivia",
+        "badge": "24 Hrs. Wait",
+        "character": "A bright segmented orange woman with citrus skin, wearing turquoise athletic leggings.",
+        "scene": "Medium shot inside a rooftop greenhouse at dusk, pointing accusingly at a coconut botanist."
+      },
+      "stats": [
+        {
+          "label": "Wait Time",
+          "value": "72 Hrs.",
+          "bar": 0.92
+        },
+        {
+          "label": "Shell Lv.",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Emotion",
+          "value": "0%",
+          "bar": 0.0
+        }
+      ],
+      "character": "A tough coconut man with a fibrous brown shell head, wearing a rugged leather jacket and heavy boots. Forehead badge glows red: 72 Hrs. Wait.",
+      "visual": "Wide angle shot of a misty rooftop greenhouse at sunset. A coconut botanist stands among ferns while an orange yoga instructor confronts him.",
+      "scenes": [
+        "Wide shot of a misty rooftop greenhouse with glass panels glowing at dusk, golden coin hidden inside a ceramic flower pot.",
+        "Close-up shot of the coconut man's forehead badge reading '72 Hrs. Wait' while steam rises from potting soil.",
+        "Medium shot of an orange woman confronting him among hanging ferns, golden coin resting on a watering can.",
+        "Detail shot of a smartphone lying face down on a wooden potting bench covered in green moss.",
+        "Halbnah shot of rain droplets sliding down the greenhouse glass roof under purple twilight skies.",
+        "Close-up shot of the coconut man's textured brown shell reflecting the fading orange sunset."
+      ],
+      "caption": "Seventy-two hours of waiting turns your heart into an impenetrable coconut shell. Drop a like if your walls are too high! #coconut #botanist #texting #relatable #rooftop"
+    },
+    {
+      "n": 8,
+      "open_loop": "What legendary message finally appeared on the screen after an entire week of absolute silence?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Watches in stunned absolute terror as the ultimate text reply arrives on his glowing forehead and completely shatters her toxic reign.",
+        "g": "w"
+      },
+      "name": "Drago, 35, Master Archivist",
+      "badge": "168 Hrs. Wait",
+      "verdict": "TRANSCENDENT",
+      "story": "Level 8! Das große Finale! Keine esoterische Erleuchtung, sondern eiskalte Rache: Während Sienna auf meinem Uhrturm steht und mein Handy zertrümmern will, bricht das goldene Licht auf meinem Drachenfrucht-Badge aus. Eine blindmachende Nachricht trifft ein, die Siennas toxische Herrschaft endgültig vernichtet. Sie stürzt auf die Knie und bricht in Tränen aus, während der Drachenfrucht-Mann als unangefochtener Sieger triumphiert. Das kann nicht sein! Du kannst mich nicht so humiliating besiegen! Ich trete sie in den Staub und lächle, während sie gedemütigt am Boden liegt. Bitte, hab Gnade mit mir! Das siehst du in Level 1.",
+      "gender": "m",
+      "twist": {
+        "delta": "∞",
+        "after": "THE END"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 8!"
+        },
+        {
+          "s": "Figur",
+          "t": "Das große Finale! Keine esoterische Erleuchtung, sondern eiskalte Rache: Während Sienna auf meinem Uhrturm steht und mein Handy zertrümmern will, bricht das goldene Licht auf meinem Drachenfrucht-Badge aus."
+        },
+        {
+          "s": "Figur",
+          "t": "Eine blindmachende Nachricht trifft ein, die Siennas toxische Herrschaft endgültig vernichtet."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie stürzt auf die Knie und bricht in Tränen aus, während der Drachenfrucht-Mann als unangefochtener Sieger triumphiert."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Das kann nicht sein! Du kannst mich nicht so humiliating besiegen!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich trete sie in den Staub und lächle, während sie gedemütigt am Boden liegt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Bitte, hab Gnade mit mir!",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 1."
+        }
+      ],
+      "quote": "Wer hoch steigt, fällt in den Schlamm der eigenen Bosheit.",
+      "quote_by": {
+        "level": 5,
+        "name": "Sienna",
+        "badge": "36 Hrs. Wait",
+        "character": "A bitter Lime Woman with acid-green citrus skin, wearing a tailored beige designer trench coat.",
+        "scene": "Medium shot atop a grand clock tower at midnight, looking up in sheer disbelief at a majestic dragon fruit master."
+      },
+      "stats": [
+        {
+          "label": "Wait Time",
+          "value": "168 Hrs.",
+          "bar": 1.0
+        },
+        {
+          "label": "Enlighten",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Peace",
+          "value": "MAX",
+          "bar": 1.0
+        }
+      ],
+      "character": "An ancient dragon fruit man with vibrant magenta skin and green-scaled leaf spikes, wearing a flowing silk robe. Forehead badge glows gold: 168 Hrs. Wait.",
+      "visual": "Wide angle shot of a majestic stone clock tower at midnight under a starry sky. A dragon fruit master meditates while a lime woman watches in awe.",
+      "scenes": [
+        "Wide shot of an ancient stone clock tower overlooking the gleaming fruit metropolis at midnight, golden coin hidden right on the clock hand.",
+        "Close-up shot of the dragon fruit man's forehead badge glowing gold with '168 Hrs. Wait' while celestial light beams down.",
+        "Medium shot of a lime woman staring in stunned disbelief, golden coin resting on the stone parapet edge.",
+        "Detail shot of an antique smartphone glowing brightly in the center of an ancient stone sundial.",
+        "Halbnah shot of giant clock gears turning smoothly behind the master's meditative silhouette.",
+        "Close-up shot of the dragon fruit man's smiling magenta face as the phone screen illuminates."
+      ],
+      "caption": "One hundred sixty-eight hours later, waiting for a text back turns into total enlightenment. Which topic should we do next? Drop your ideas below! #drachenfrucht #enlightenment #texting #relatable #finale"
+    }
+  ],
+  "lang": "en",
+  "topic": "The Level of Anxiety Waiting for a Text Back",
+  "frame": "frucht"
+}
