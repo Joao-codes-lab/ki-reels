@@ -1,0 +1,821 @@
+{
+  "title": "The 8 Levels of Passive-Aggressive Kitchen Chats",
+  "house": "A bustling metropolitan apartment complex made entirely of organic produce, featuring a neon-lit central courtyard where vegetable residents commute, gossip, and check each other's glowing digital forehead numbers.",
+  "catchphrase": "The number on your forehead never lies.",
+  "links": [
+    "The tired strawberry in Level 1 drops her reusable grocery bag outside the corner bodega where the orange from Level 4 always buys morning juice.",
+    "The cracked coconut in Level 5 mentions a quiet financial advisor living on the third floor who always tips the broccoli barista with pristine cash.",
+    "The bruised dragon fruit in Level 7 leaves a threatening note taped to the shared refrigerator that the avocado from Level 2 ends up reading."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Why did the mysterious grocery receipt for ninety-four dollars suddenly appear pinned right above the overflowing recycling bin?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Slams the shared frying pan onto the stove and leaves a vicious voice note about unwashed dishes in the group chat."
+      },
+      "name": "Sam, 22, Intern",
+      "badge": "1,150 $",
+      "verdict": "BROKE",
+      "story": "The 8 levels of passive-aggressive kitchen chats. Level 1. 1.150 Euro Miete. Und diese orange arrogante Schlampe klebt mir einen Zettel an den Kühlschrank: Putz gefälligst meinen Dreck weg, du armer Schlucker. My phone buzzes with thirty-four unread notifications from our shared kitchen WhatsApp group at two in the morning. Someone took a close-up photo of a single damp sponge left in the sink. Who left this absolute biological disaster of a sponge in the sink? It was glowing right above me in bright red digits. You clearly cannot afford proper cleaning supplies on your pathetic budget. My hands trembled as I gripped my cracked coffee mug in the dim fluorescent light. Pay for your own paper towels or get out of our apartment. Das siehst du in Level 1. You'll see that in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-50 $",
+        "after": "1,100 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of passive-aggressive kitchen chats. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "1.150 Euro Miete. Und diese orange arrogante Schlampe klebt mir einen Zettel an den Kühlschrank: Putz gefälligst meinen Dreck weg, du armer Schlucker."
+        },
+        {
+          "s": "Figur",
+          "t": "My phone buzzes with thirty-four unread notifications from our shared kitchen WhatsApp group at two in the morning."
+        },
+        {
+          "s": "Figur",
+          "t": "Someone took a close-up photo of a single damp sponge left in the sink."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Who left this absolute biological disaster of a sponge in the sink?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "It was glowing right above me in bright red digits."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You clearly cannot afford proper cleaning supplies on your pathetic budget.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My hands trembled as I gripped my cracked coffee mug in the dim fluorescent light."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Pay for your own paper towels or get out of our apartment.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 1."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "Pay for your own paper towels or get out of our apartment.",
+      "quote_by": {
+        "level": 4,
+        "name": "Clara",
+        "badge": "5,400 $",
+        "character": "An aggressive, polished Orange person with a tight citrus peel skin texture, wearing a sharp corporate blazer and a gold-plated necklace.",
+        "scene": "Wide shot of a brightly lit, chaotic apartment kitchen with marble counters, where an orange-headed woman leans against the island and points scornfully at a nervous strawberry man."
+      },
+      "stats": [
+        {
+          "label": "Monthly Fund",
+          "value": "1,150 $",
+          "bar": 0.12
+        },
+        {
+          "label": "Kitchen Score",
+          "value": "2/10",
+          "bar": 0.2
+        },
+        {
+          "label": "Stress Level",
+          "value": "98%",
+          "bar": 0.98
+        }
+      ],
+      "character": "A young, stressed strawberry man with bright red textured fruit skin, wearing a worn-out gray college hoodie and carrying a dented metal water bottle; glowing digital numbers are planted right across his leafy green crown.",
+      "visual": "Close-up shot of a stressed strawberry man staring down at his glowing forehead number inside a messy apartment kitchen, surrounded by floating WhatsApp chat notification bubbles.",
+      "scenes": [
+        "Wide shot of the chaotic shared apartment kitchen at midnight, illuminated by the harsh blue glow of smartphones and a blinking overhead light fixture, with various vegetable roommates standing around a golden coin hidden near the toaster.",
+        "Medium shot of the strawberry man holding a cracked coffee mug while reading angry text messages on his phone screen as a golden coin rests on the kitchen counter beside a hidden houseplant.",
+        "Close-up detail shot of the glowing digital numbers on the strawberry man's forehead reflecting in the wet surface of a kitchen sink filled with unwashed dishes and a tiny golden coin.",
+        "Low-angle shot in the hallway outside the kitchen, showing an angry orange woman pointing upward at her own high glowing digits while a golden coin glitters on the patterned carpet floor.",
+        "Over-the-shoulder shot looking at a smartphone screen displaying a group chat full of passive-aggressive warnings and red exclamation marks inside a dark, narrow apartment corridor.",
+        "Wide exterior shot of the towering organic apartment building at night under a neon streetlamp, with a final golden coin tucked into the corner of the brick entryway."
+      ],
+      "caption": "Would you survive this toxic group chat drama? Drop your thoughts below! #KitchenDrama #StirnZahl #RoommateProblems #ViralSeries #RealityCheck"
+    },
+    {
+      "n": 2,
+      "open_loop": "Who actually unlocked the front door from the inside while everyone else was asleep in their beds?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Tapes a laminated schedule over the communal refrigerator forbidding anyone from using the toaster after midnight."
+      },
+      "name": "Maya, 25, Barista",
+      "badge": "2,400 $",
+      "verdict": "STRUGGLING",
+      "story": "The 8 levels of passive-aggressive kitchen chats. Level 2. 2.400 Euro und ich werde wie Dreck behandelt, nur weil meine Kaffeemaschine billiger ist als die der anderen. My phone screen lights up with a passive-aggressive screenshot of my tiny breakfast mess in the group chat. Who raised this absolute animal in our kitchen? I slammed my milk pitcher down on the espresso machine at work just to vent my absolute frustration. You will clean the shared microwave or face immediate legal fines. I wiped a tear from my eye with a stained bar towel before whispering my defiant reply. I pay my rent just like everyone else in this building. Enjoy your last week in the guest room. Das siehst du in Level 2. You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+300 $",
+        "after": "2,700 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of passive-aggressive kitchen chats. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "2.400 Euro und ich werde wie Dreck behandelt, nur weil meine Kaffeemaschine billiger ist als die der anderen."
+        },
+        {
+          "s": "Figur",
+          "t": "My phone screen lights up with a passive-aggressive screenshot of my tiny breakfast mess in the group chat."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Who raised this absolute animal in our kitchen?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I slammed my milk pitcher down on the espresso machine at work just to vent my absolute frustration."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You will clean the shared microwave or face immediate legal fines.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I wiped a tear from my eye with a stained bar towel before whispering my defiant reply."
+        },
+        {
+          "s": "Figur",
+          "t": "I pay my rent just like everyone else in this building."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Enjoy your last week in the guest room.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Enjoy your last week in the guest room.",
+      "quote_by": {
+        "level": 5,
+        "name": "Boris",
+        "badge": "6,800 $",
+        "character": "A tough, fibrous Coconut person with a hard brown shell head, wearing a heavy tweed jacket and holding a clipboard.",
+        "scene": "Medium shot inside a bustling coffee shop where a coconut-headed man in a tweed jacket slams a laminated rule sheet onto the wooden counter in front of a shocked avocado barista."
+      },
+      "stats": [
+        {
+          "label": "Monthly Fund",
+          "value": "2,400 $",
+          "bar": 0.28
+        },
+        {
+          "label": "Kitchen Score",
+          "value": "4/10",
+          "bar": 0.4
+        },
+        {
+          "label": "Stress Level",
+          "value": "85%",
+          "bar": 0.85
+        }
+      ],
+      "character": "A smooth green Avocado woman with a pale yellow face and soft pit texture, wearing a denim apron and a silver ring; glowing digital numbers shine brightly right across her forehead.",
+      "visual": "Medium shot of an avocado woman standing behind a chaotic coffee shop counter, staring in disbelief at her phone screen while floating chat notifications glow around her.",
+      "scenes": [
+        "Wide shot of a bustling, steam-filled artisan coffee shop during the morning rush, featuring a golden coin hidden near the cash register next to a tip jar.",
+        "Close-up shot of the avocado woman's glowing forehead numbers reflecting off the polished steel surface of an espresso machine handle.",
+        "Medium shot in the apartment hallway where a coconut-headed tenant points sternly at a laminated sign taped to the kitchen door, with a tiny golden coin resting on the doorknob.",
+        "Detail shot of a smartphone screen showing a WhatsApp message circled in red marker, resting on a wooden table beside a half-eaten croissant.",
+        "Low-angle shot looking up at the towering coconut tenant as he glares down with his superior glowing digits inside the brightly lit apartment lobby.",
+        "Wide shot of the street outside the coffee shop at dawn, with a golden coin glinting inside the drainpipe of the building entrance."
+      ],
+      "caption": "Can you believe this absolute control freak? Rate this roommate drama! #RoommateWars #StirnZahl #CoffeeShopLife #DramaAlert #ViralShorts"
+    },
+    {
+      "n": 3,
+      "open_loop": "Whose fingerprint was found on the stolen jar of expensive organic honey hidden in the pantry?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Locking the pantry door with a digital keypad and refusing to share the passcode with anyone below level six."
+      },
+      "name": "Leo, 28, Graphic Designer",
+      "badge": "3,800 $",
+      "verdict": "MID-TIER",
+      "story": "The 8 levels of passive-aggressive kitchen chats. Level 3. 3.800 Euro im Monat und die sperren ernsthaft die Snacks weg, weil ich angeblich zu arm für Bio-Honig bin. I walked into the kitchen to make my morning toast when I saw a brand-new digital padlock hanging off the community snack cabinet. Who authorized this ridiculous security measure on our snacks? People with your humble salary tier do not deserve access to imported artisan honey. I clenched my design tablet so tightly my knuckles turned white under the harsh LED strip lights. I have lived in this apartment twice as long as you have, Marcus. Your opinion expires the moment your monthly bank transfer fails. Das siehst du in Level 3. You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-200 $",
+        "after": "3,600 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of passive-aggressive kitchen chats. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "3.800 Euro im Monat und die sperren ernsthaft die Snacks weg, weil ich angeblich zu arm für Bio-Honig bin."
+        },
+        {
+          "s": "Figur",
+          "t": "I walked into the kitchen to make my morning toast when I saw a brand-new digital padlock hanging off the community snack cabinet."
+        },
+        {
+          "s": "Figur",
+          "t": "Who authorized this ridiculous security measure on our snacks?"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "People with your humble salary tier do not deserve access to imported artisan honey.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I clenched my design tablet so tightly my knuckles turned white under the harsh LED strip lights."
+        },
+        {
+          "s": "Figur",
+          "t": "I have lived in this apartment twice as long as you have, Marcus."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your opinion expires the moment your monthly bank transfer fails.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Your opinion expires the moment your monthly bank transfer fails.",
+      "quote_by": {
+        "level": 6,
+        "name": "Marcus",
+        "badge": "9,500 $",
+        "character": "A sour, perfectly polished Lemon person with a bright yellow textured skin, wearing a silk bathrobe and holding an expensive silver pen.",
+        "scene": "Close-up shot in a luxury apartment hallway where a yellow lemon man in a silk robe sneers down at a graphic designer holding a tablet."
+      },
+      "stats": [
+        {
+          "label": "Monthly Fund",
+          "value": "3,800 $",
+          "bar": 0.45
+        },
+        {
+          "label": "Kitchen Score",
+          "value": "5/10",
+          "bar": 0.5
+        },
+        {
+          "label": "Stress Level",
+          "value": "90%",
+          "bar": 0.9
+        }
+      ],
+      "character": "A creative lemon-lime hybrid man with a slightly rough citrus peel face, wearing a black turtleneck sweater and carrying a sleek graphics tablet; bright glowing digits sit proudly across his forehead.",
+      "visual": "Medium shot of a graphic designer holding a tablet in front of a locked pantry door inside a modern apartment kitchen, glaring at floating warning notifications.",
+      "scenes": [
+        "Wide shot of a sleek modern kitchen featuring a digital keypad lock attached to the pantry shelves, with a golden coin hidden underneath the toaster base.",
+        "Close-up shot of the graphic designer's glowing forehead numbers reflecting off the glass screen of his digital drawing tablet.",
+        "Medium shot of the sour lemon tenant leaning against the kitchen island in a silk bathrobe, holding a silver pen while pointing at a notification on his phone.",
+        "Detail shot of a golden coin resting on top of a stack of design portfolios near the apartment entryway.",
+        "Over-the-shoulder shot looking at a group chat full of heated text arguments about pantry access privileges.",
+        "Wide shot of the building's rooftop terrace at dusk, with a tiny golden coin hidden behind a potted fern."
+      ],
+      "caption": "Who locks their pantry with a digital keypad?! Pure madness. #KitchenWars #StirnZahl #DesignLife #RoommateHell #ViralVideo"
+    },
+    {
+      "n": 4,
+      "open_loop": "What secret financial document did the orange woman accidentally attach to her public trash schedule?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Threatens to report the entire floor to the building landlord for unauthorized overnight guests."
+      },
+      "name": "Clara, 31, Marketing Lead",
+      "badge": "5,400 $",
+      "verdict": "UPPER TIER",
+      "story": "The 8 levels of passive-aggressive kitchen chats. Level 4. 5.400 Euro und ich muss mir von einer Drachenfrucht im Designer-Kleid anhören, ich könne nicht mal Müll trennen. My phone vibrated with an emergency group chat alert demanding an immediate house meeting. Who keeps putting plastic containers in the organic compost bin? I stormed into the kitchen holding a blue recycling bag high above my head. People of your pathetic intermediate level always ruin our building's ecological rating. I dropped the bag onto the floor with a loud thud that made the ceramic tiles rattle. I pay for the professional cleaning service out of my own pocket, Victoria. Money cannot buy you basic competence in kitchen etiquette. Das siehst du in Level 4. You'll see that in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+800 $",
+        "after": "6,200 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of passive-aggressive kitchen chats. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "5.400 Euro und ich muss mir von einer Drachenfrucht im Designer-Kleid anhören, ich könne nicht mal Müll trennen."
+        },
+        {
+          "s": "Figur",
+          "t": "My phone vibrated with an emergency group chat alert demanding an immediate house meeting."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Who keeps putting plastic containers in the organic compost bin?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I stormed into the kitchen holding a blue recycling bag high above my head."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "People of your pathetic intermediate level always ruin our building's ecological rating.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I dropped the bag onto the floor with a loud thud that made the ceramic tiles rattle."
+        },
+        {
+          "s": "Figur",
+          "t": "I pay for the professional cleaning service out of my own pocket, Victoria."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Money cannot buy you basic competence in kitchen etiquette.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Money cannot buy you basic competence in kitchen etiquette.",
+      "quote_by": {
+        "level": 7,
+        "name": "Victoria",
+        "badge": "14,200 $",
+        "character": "An exotic, sharp-scaled Dragon Fruit person with vibrant pink and green skin spikes, wearing an emerald designer dress and holding a gold pen.",
+        "scene": "Wide shot of a pristine, high-end kitchen where a dragon fruit woman in an emerald dress glares down at an orange marketing lead holding a trash bag."
+      },
+      "stats": [
+        {
+          "label": "Monthly Fund",
+          "value": "5,400 $",
+          "bar": 0.62
+        },
+        {
+          "label": "Kitchen Score",
+          "value": "7/10",
+          "bar": 0.7
+        },
+        {
+          "label": "Stress Level",
+          "value": "75%",
+          "bar": 0.75
+        }
+      ],
+      "character": "A polished, bright orange fruit woman with smooth citrus skin, wearing a sharp corporate blazer and gold hoop earrings; glowing digital numbers shine brightly across her forehead.",
+      "visual": "Medium shot of an orange woman holding a blue recycling bag inside a luxurious modern kitchen, staring angrily at her phone screen while notification badges pop up.",
+      "scenes": [
+        "Wide shot of a luxury apartment kitchen with marble countertops and a golden coin hidden inside an expensive fruit bowl.",
+        "Close-up shot of the orange woman's glowing forehead digits reflecting off a stainless steel refrigerator door.",
+        "Medium shot of the exotic dragon fruit woman leaning against the kitchen island in an emerald dress, pointing at a clipboard.",
+        "Detail shot of a golden coin resting on a stack of marketing reports near a designer espresso machine.",
+        "Over-the-shoulder shot showing a group chat interface on a smartphone filled with angry recycling rules and red warnings.",
+        "Wide shot of the building's luxury lobby entrance at night, with a golden coin tucked neatly beside a marble pillar."
+      ],
+      "caption": "Recycling wars in the luxury kitchen are getting out of hand! #RecyclingDrama #StirnZahl #MarketingLife #RoommateRant #ViralPost"
+    },
+    {
+      "n": 5,
+      "open_loop": "Why was the main breaker box disabled right before the annual building tenants meeting?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Silently shuts off the hot water valve for the entire floor because someone left a wet towel in the hallway."
+      },
+      "name": "Boris, 35, Financial Advisor",
+      "badge": "6,800 $",
+      "verdict": "ELITE TIER",
+      "story": "The 8 levels of passive-aggressive kitchen chats. Level 5. 6.800 Euro und diese arroganten Bonzen drohen mir mit Rauswurf, nur weil mein Takeaway-Box im Kühlschrank steht. My phone buzzed with a direct message from the building manager demanding an inspection of our shared refrigerator shelves. Who left an unlabeled takeout box sitting on the top shelf of the community fridge? I slammed my briefcase onto the oak dining table and marched into the kitchen. Your salary bracket does not grant you executive shelf privileges, Boris. I tapped my own forehead badge with a confident smirk and stepped closer to his personal space. I manage the accounts for half the landlords in this district, so watch your tone. You will learn your true place before the week is over. Das siehst du in Level 5. You'll see that in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1,500 $",
+        "after": "8,300 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of passive-aggressive kitchen chats. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "6.800 Euro und diese arroganten Bonzen drohen mir mit Rauswurf, nur weil mein Takeaway-Box im Kühlschrank steht."
+        },
+        {
+          "s": "Figur",
+          "t": "My phone buzzed with a direct message from the building manager demanding an inspection of our shared refrigerator shelves."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Who left an unlabeled takeout box sitting on the top shelf of the community fridge?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I slammed my briefcase onto the oak dining table and marched into the kitchen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your salary bracket does not grant you executive shelf privileges, Boris.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I tapped my own forehead badge with a confident smirk and stepped closer to his personal space."
+        },
+        {
+          "s": "Figur",
+          "t": "I manage the accounts for half the landlords in this district, so watch your tone."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You will learn your true place before the week is over.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "You will learn your true place before the week is over.",
+      "quote_by": {
+        "level": 8,
+        "name": "The Master",
+        "badge": "25,000 $",
+        "character": "An enigmatic, towering figure with glowing golden skin and a flawless geometric crown, wearing a tailored obsidian suit.",
+        "scene": "Wide shot of a penthouse kitchen at midnight where an imposing golden figure in a sharp suit stares down a coconut financial advisor."
+      },
+      "stats": [
+        {
+          "label": "Monthly Fund",
+          "value": "6,800 $",
+          "bar": 0.75
+        },
+        {
+          "label": "Kitchen Score",
+          "value": "8/10",
+          "bar": 0.8
+        },
+        {
+          "label": "Stress Level",
+          "value": "60%",
+          "bar": 0.6
+        }
+      ],
+      "character": "A tough, fibrous coconut man with a hard brown shell head, wearing a tailored tweed suit and carrying a leather briefcase; glowing digital numbers shine across his forehead.",
+      "visual": "Medium shot of a coconut man in a tweed suit standing inside a high-end kitchen, holding a leather briefcase while staring at a smartphone notification.",
+      "scenes": [
+        "Wide shot of an executive apartment kitchen featuring sleek granite counters and a hidden golden coin beneath a silver fruit basket.",
+        "Close-up shot of the coconut man's glowing forehead digits reflecting off a glass refrigerator door.",
+        "Medium shot of another tenant pointing accusingly at a refrigerator shelf inside the brightly lit kitchen.",
+        "Detail shot of a golden coin resting on top of a leather briefcase on an oak table.",
+        "Over-the-shoulder shot showing a group chat interface filled with stern building policy warnings.",
+        "Wide shot of the penthouse hallway at night, with a golden coin tucked beside a dark wooden door frame."
+      ],
+      "caption": "When you earn high but someone higher puts you in your place! #FinanceLife #StirnZahl #PenthouseLiving #RoommateDrama #ViralReels"
+    },
+    {
+      "n": 6,
+      "open_loop": "Who transferred five thousand dollars into the community fund account using an anonymous burner app?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Spams the group chat with sarcastic memes mocking the building's management fee increases."
+      },
+      "name": "Marcus, 39, Tech Executive",
+      "badge": "9,500 $",
+      "verdict": "TOP EARNER",
+      "story": "The 8 levels of passive-aggressive kitchen chats. Level 6. 9.500 Euro im Monat und ich muss mir im Chat das Geheule von diesen Low-Level-Versagern anhören. Bis ich ihnen zeige, wem die Wohnung gehört. My phone beeped with a thread of fifty messages complaining about a misplaced frying pan. Who left grease on my cast-iron skillet after midnight? I poured my imported espresso into a crystal cup while glaring at the glowing screens around the lounge. People with your inflated tech salaries think you own the entire building, Marcus. I chuckled softly and polished my silver pen against my silk sleeve before delivering my response. I bought the mortgage on this floor last Tuesday, Leo. How did you afford the penthouse buyout so fast? Das siehst du in Level 6. You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+2,500 $",
+        "after": "12,000 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of passive-aggressive kitchen chats. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "9.500 Euro im Monat und ich muss mir im Chat das Geheule von diesen Low-Level-Versagern anhören. Bis ich ihnen zeige, wem die Wohnung gehört."
+        },
+        {
+          "s": "Figur",
+          "t": "My phone beeped with a thread of fifty messages complaining about a misplaced frying pan."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Who left grease on my cast-iron skillet after midnight?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I poured my imported espresso into a crystal cup while glaring at the glowing screens around the lounge."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "People with your inflated tech salaries think you own the entire building, Marcus.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I chuckled softly and polished my silver pen against my silk sleeve before delivering my response."
+        },
+        {
+          "s": "Figur",
+          "t": "I bought the mortgage on this floor last Tuesday, Leo."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "How did you afford the penthouse buyout so fast?",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "How did you afford the penthouse buyout so fast?",
+      "quote_by": {
+        "level": 3,
+        "name": "Leo",
+        "badge": "3,800 $",
+        "character": "A creative lemon-lime hybrid man with a slightly rough citrus peel face, wearing a black turtleneck sweater and carrying a graphics tablet.",
+        "scene": "Medium shot inside a luxury penthouse kitchen where a lemon-lime graphic designer drops his coffee mug in shock as a wealthy lemon executive smirks."
+      },
+      "stats": [
+        {
+          "label": "Monthly Fund",
+          "value": "9,500 $",
+          "bar": 0.88
+        },
+        {
+          "label": "Kitchen Score",
+          "value": "9/10",
+          "bar": 0.9
+        },
+        {
+          "label": "Stress Level",
+          "value": "40%",
+          "bar": 0.4
+        }
+      ],
+      "character": "A sour, perfectly polished Lemon person with bright yellow textured skin, wearing an expensive silk bathrobe and holding a silver pen; glowing digital numbers shine across his forehead.",
+      "visual": "Medium shot of a lemon executive holding a crystal coffee cup inside a luxurious penthouse kitchen, looking down at his glowing forehead numbers with supreme confidence.",
+      "scenes": [
+        "Wide shot of a penthouse kitchen with panoramic city views and a hidden golden coin resting on a marble island counter.",
+        "Close-up shot of the lemon executive's glowing forehead numbers reflecting off a polished silver coffee pot.",
+        "Medium shot of the graphic designer tenant staring in shock while holding a digital tablet.",
+        "Detail shot of a golden coin tucked beneath a crystal vase filled with orchids.",
+        "Over-the-shoulder shot showing a group chat interface glowing brightly on a marble tabletop.",
+        "Wide shot of the building's private elevator lobby at night, with a golden coin glinting beside the mirrored doors."
+      ],
+      "caption": "When you secretly buy the building your roommates live in! #TechLife #StirnZahl #PenthouseBoss #PowerMove #ViralShorts"
+    },
+    {
+      "n": 7,
+      "open_loop": "What was written inside the confidential eviction notice left on the front door of apartment 4B?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Threatens to expose the building owner's zoning permits in the community WhatsApp group."
+      },
+      "name": "Victoria, 42, Real Estate Mogul",
+      "badge": "14,200 $",
+      "verdict": "BILLIONAIRE CLUB",
+      "story": "The 8 levels of passive-aggressive kitchen chats. Level 7. 14.200 Euro und diese billige Orangenfrucht glaubt ernsthaft, sie könnte hier auf Boss machen. Zeit für die Zwangsräumung. My phone screen exploded with fifty urgent messages about a noise complaint on the third floor. Who authorized an after-hours wine tasting in the communal lounge? I stepped out into the marble hallway wearing my emerald designer gown and diamond earrings. Your luxury fees do not give you the right to monopolize the wine fridge, Victoria. I smiled coldly and adjusted my diamond brooch before giving her a reality check. I own the deed to this entire real estate portfolio, Clara. Are you the one evicting the entire third floor? Das siehst du in Level 7. You'll see that in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "+5,000 $",
+        "after": "19,200 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of passive-aggressive kitchen chats. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "14.200 Euro und diese billige Orangenfrucht glaubt ernsthaft, sie könnte hier auf Boss machen. Zeit für die Zwangsräumung."
+        },
+        {
+          "s": "Figur",
+          "t": "My phone screen exploded with fifty urgent messages about a noise complaint on the third floor."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Who authorized an after-hours wine tasting in the communal lounge?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I stepped out into the marble hallway wearing my emerald designer gown and diamond earrings."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your luxury fees do not give you the right to monopolize the wine fridge, Victoria.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I smiled coldly and adjusted my diamond brooch before giving her a reality check."
+        },
+        {
+          "s": "Figur",
+          "t": "I own the deed to this entire real estate portfolio, Clara."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Are you the one evicting the entire third floor?",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "Are you the one evicting the entire third floor?",
+      "quote_by": {
+        "level": 4,
+        "name": "Clara",
+        "badge": "5,400 $",
+        "character": "An aggressive, polished Orange person with tight citrus peel skin, wearing a sharp corporate blazer and gold-plated necklace.",
+        "scene": "Wide shot of a luxurious penthouse hallway where an orange woman in a blazer stares in sheer terror at a dragon fruit mogul in an emerald gown."
+      },
+      "stats": [
+        {
+          "label": "Monthly Fund",
+          "value": "14,200 $",
+          "bar": 0.95
+        },
+        {
+          "label": "Kitchen Score",
+          "value": "10/10",
+          "bar": 1.0
+        },
+        {
+          "label": "Stress Level",
+          "value": "20%",
+          "bar": 0.2
+        }
+      ],
+      "character": "An exotic, sharp-scaled Dragon Fruit woman with vibrant pink and green skin spikes, wearing an emerald designer gown and diamond earrings; glowing digital numbers shine across her forehead.",
+      "visual": "Medium shot of a dragon fruit woman in an emerald gown standing in a lavish penthouse hallway, looking at her smartphone while her forehead numbers glow brightly.",
+      "scenes": [
+        "Wide shot of a luxury penthouse hallway with marble floors and a golden coin hidden behind a velvet curtain.",
+        "Close-up shot of the dragon fruit woman's glowing forehead numbers reflecting off a crystal wine glass.",
+        "Medium shot of the orange tenant staring in disbelief while holding a smartphone.",
+        "Detail shot of a golden coin resting on a silver tray near the penthouse entrance.",
+        "Over-the-shoulder shot showing a group chat interface filled with panic and eviction notices.",
+        "Wide shot of the building's rooftop helipad at night, with a golden coin glowing softly beside the landing lights."
+      ],
+      "caption": "When you own the entire building and your roommates find out! #RealEstateLife #StirnZahl #BillionaireClub #RoommateDrama #ViralVideo"
+    },
+    {
+      "n": 8,
+      "open_loop": "What secret truth was revealed when the master forehead display finally unlocked for every single tenant in the building?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Accidentally leaves the main building entrance unlocked, allowing everyone to see the truth behind the glowing numbers."
+      },
+      "name": "The Master, 50, Building Owner",
+      "badge": "25,000 $",
+      "verdict": "MAXIMUM LEVEL",
+      "story": "The 8 levels of passive-aggressive kitchen chats. Level 8. 25.000 Euro im Monat. Alle dachten, sie wären die Kings. Bis ich auf den roten Knopf drücke und ihre Nummern lösche. My phone buzzed with eight simultaneous chat threads merging into one giant global broadcast across all floors. Who dared to disable the main kitchen Wi-Fi router at midnight? I stepped out onto the central glass balcony wearing a tailored obsidian suit while my glowing digits blinded everyone below. The entire ecosystem of vegetable residents stopped arguing and looked up in absolute silence. Every argument, every stolen dish, every fake review was just a test of your true character. Does our forehead number actually determine our worth in this city? I smiled softly and tapped my glowing crown display while delivering the final truth. Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "MAX",
+        "after": "UNLIMITED"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of passive-aggressive kitchen chats. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "25.000 Euro im Monat. Alle dachten, sie wären die Kings. Bis ich auf den roten Knopf drücke und ihre Nummern lösche."
+        },
+        {
+          "s": "Figur",
+          "t": "My phone buzzed with eight simultaneous chat threads merging into one giant global broadcast across all floors."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Who dared to disable the main kitchen Wi-Fi router at midnight?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I stepped out onto the central glass balcony wearing a tailored obsidian suit while my glowing digits blinded everyone below."
+        },
+        {
+          "s": "Figur",
+          "t": "The entire ecosystem of vegetable residents stopped arguing and looked up in absolute silence."
+        },
+        {
+          "s": "Figur",
+          "t": "Every argument, every stolen dish, every fake review was just a test of your true character."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Does our forehead number actually determine our worth in this city?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I smiled softly and tapped my glowing crown display while delivering the final truth."
+        },
+        {
+          "s": "Figur",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "The number only shows what you think you are worth.",
+      "quote_by": {
+        "level": 1,
+        "name": "Sam",
+        "badge": "1,150 $",
+        "character": "A stressed strawberry man with bright red textured fruit skin, wearing a worn-out gray college hoodie.",
+        "scene": "Wide shot of the central glass courtyard where a strawberry intern looks up in awe at the master building owner standing on a high glass balcony."
+      },
+      "stats": [
+        {
+          "label": "Monthly Fund",
+          "value": "25,000 $",
+          "bar": 1.0
+        },
+        {
+          "label": "Kitchen Score",
+          "value": "MAX",
+          "bar": 1.0
+        },
+        {
+          "label": "Stress Level",
+          "value": "0%",
+          "bar": 0.0
+        }
+      ],
+      "character": "An enigmatic, towering figure with glowing golden skin and a flawless geometric crown, wearing a tailored obsidian suit; maximum glowing digital numbers shine across his forehead.",
+      "visual": "Wide angle shot of a majestic glass penthouse balcony overlooking a glowing organic city, with the master figure in an obsidian suit looking down triumphantly.",
+      "scenes": [
+        "Wide shot of the central courtyard illuminated by neon lights and glowing digital forehead numbers from hundreds of gathered vegetable residents, with a golden coin hidden near the fountain base.",
+        "Close-up shot of the master figure's glowing forehead numbers casting a bright golden light across his tailored obsidian suit.",
+        "Medium shot of all the previous characters standing together in the courtyard, staring upward in stunned silence.",
+        "Detail shot of a golden coin resting on the edge of the glass balcony railing overlooking the city.",
+        "Over-the-shoulder shot looking down at a smartphone displaying all eight WhatsApp group chats merging into a single master screen.",
+        "Wide panoramic shot of the entire organic skyscraper complex shining brilliantly under the night sky, with a final glowing golden coin floating in the center of the frame."
+      ],
+      "caption": "The final secret of the Stirn-Zahl revealed! What topic should we do next? Comment below! #StirnZahl #FinalLevel #PlotTwist #ViralSeries #RealityCheck"
+    }
+  ],
+  "lang": "en",
+  "topic": "Die nervtötende Passiv-Aggressivität in der WG-Küchen-WhatsApp-Gruppe",
+  "frame": "frucht"
+}

@@ -1,0 +1,149 @@
+{
+  "best_score": 59,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 5,
+        "story": 4,
+        "identifikation": 8,
+        "verbindungen": 6,
+        "sog": 4,
+        "wut": 3,
+        "merkfaehigkeit": 5,
+        "sprache": 6
+      },
+      "gesamt": 51,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den ersten Satz durch: '92 Prozent Last? 2.000 Euro Strafe für den, der mich heute wieder fragt, wo seine Socken liegen.'"
+        },
+        {
+          "n": 2,
+          "fix": "Ersetze den ersten Satz durch: '78 Prozent im Kopf, und mein Mann fragt ernsthaft, ob ich Mamas Geburtstag vergessen habe.'"
+        },
+        {
+          "n": 3,
+          "fix": "Ersetze den ersten Satz durch: '62 Prozent Last, weil sie denkt, Excel zählt nicht als Haushalt.'"
+        },
+        {
+          "n": 4,
+          "fix": "Ersetze den ersten Satz durch: '50 Prozent Last, und der Biomüll kriecht gleich allein aus der Küche.'"
+        },
+        {
+          "n": 5,
+          "fix": "Ersetze den ersten Satz durch: '35 Prozent Last. Ich zahle die Miete, aber darf mir trotzdem anhören, ich würde nichts tun.'"
+        },
+        {
+          "n": 6,
+          "fix": "Ersetze den ersten Satz durch: '15 Prozent Last. Sie wirft mir vor, ich würde mich mit Geld freikaufen.'"
+        },
+        {
+          "n": 7,
+          "fix": "Ersetze den ersten Satz durch: '85 Prozent Last. Niemand darf mir helfen, weil alle anderen zu inkompetent sind.'"
+        },
+        {
+          "n": 8,
+          "fix": "Ersetze den ersten Satz durch: '0 Prozent Last im Finale. Wer trägt am Ende die Schuld an diesem Chaos?'"
+        }
+      ],
+      "fazit": "A (Producer): Zu viel Laberei, zu wenig rohe Provokation am Anfang. B (Zuschauer): Nach 2 Sekunden weggedrückt, weil keine echte Eskalation da ist. C (Editor): Die Wortanzahl pro Teil knackt zwar die 175 Wörter nicht mal ansatzweise (weshalb die 'sprache'-Wertung leidet), und die Wut fehlt, weil die Figuren sich zu schnell rechtfertigen statt richtig reinzuhauen. Mehr Dreck, mehr Hass, mehr TikTok-Tempo."
+    },
+    {
+      "scores": {
+        "hook": 5,
+        "story": 4,
+        "identifikation": 6,
+        "verbindungen": 5,
+        "sog": 4,
+        "wut": 3,
+        "merkfaehigkeit": 4,
+        "sprache": 5
+      },
+      "gesamt": 45,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ändere den ersten Satz in: '2.000 Euro Strafe für den Typen, der mich heute fragt, wo seine Socken liegen, obwohl sie genau da sind, wo ich sie hingelegt habe.'"
+        },
+        {
+          "n": 2,
+          "fix": "Ersetze den ersten Satz durch: '78 Prozent Last auf meiner Stirn, während mein Mann seelenruhig das nächste Level im Videospiel zockt und meine Arbeit ignoriert.'"
+        },
+        {
+          "n": 3,
+          "fix": "Ändere den Einstieg zu: '62 Prozent Last, weil meine Partnerin meint, Excel im Homeoffice zähle nicht als echte Arbeit im Haushalt.'"
+        },
+        {
+          "n": 4,
+          "fix": "Kürze den Anfang auf: '50 Prozent Last und der Biomüll fängt an, eigene Entscheidungen zu treffen, während mein Mitbewohner behauptet, er sei dran gewesen.'"
+        },
+        {
+          "n": 5,
+          "fix": "Schärfe den ersten Satz: '35 Prozent Last. Ich zahle die Miete, gehe Vollzeit arbeiten und muss mir trotzdem anhören, ich würde hier absolut gar nichts beitragen.'"
+        },
+        {
+          "n": 6,
+          "fix": "Verbessere den Einstieg zu: '15 Prozent Last. Sie wirft mir ernsthaft vor, ich würde mich mit meinem dicken Gehalt aus jeder Verantwortung freikaufen.'"
+        },
+        {
+          "n": 7,
+          "fix": "Ändere den Beginn in: '85 Prozent Last. Niemand darf mir helfen, weil alle anderen sowieso zu inkompetent sind, es richtig zu machen.'"
+        },
+        {
+          "n": 8,
+          "fix": "Formuliere den Schluss um zu: '0 Prozent Last im Finale. Die Zahlen leuchten nicht mehr als Waffe, sondern zeigen die einzige Wahrheit, die uns alle rettet.'"
+        }
+      ],
+      "fazit": "Die Serie hat ein starkes, alltägliches Thema, verliert sich aber zu stark in passiven Aufzählungen statt echten, harten Konflikten. Die Vorbilder leben von sofortiger Demütigung, spürbarer Wut und dem klaren Gefühl von Genugtuung, die hier oft im Sand verläuft. Ohne drastischere Kontraste und echtes Fremdschamen swipen die Zuschauer nach zwei Sekunden weg."
+    },
+    {
+      "scores": {
+        "hook": 6,
+        "story": 5,
+        "identifikation": 8,
+        "verbindungen": 7,
+        "sog": 6,
+        "wut": 5,
+        "merkfaehigkeit": 6,
+        "sprache": 4
+      },
+      "gesamt": 59,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den Einstieg durch einen brutalen Vorwurf: '2.000 Euro Strafe für den Typen, der mich seit fünf Jahren wie eine Putzfrau hält, während er auf der Couch schläft.' Erweitere den Text auf über 175 Wörter mit echten Details über die unsichtbare Arbeit."
+        },
+        {
+          "n": 2,
+          "fix": "Verschärfe den Konflikt in Level 2: 'Ich korrigiere 30 Klausuren, während mein Mann seelenruhig zockt und vergisst, dass heute der Geburtstag seiner Mutter ist.'"
+        },
+        {
+          "n": 3,
+          "fix": "Erhöhe die Wut in Level 3: Der Partner darf Excel nicht verharmlosen, sondern muss ihr ins Gesicht sagen, dass ihre Arbeit im Haushalt wertlos ist."
+        },
+        {
+          "n": 4,
+          "fix": "Füge in Level 4 mehr emotionale Härte ein: Der Mitbewohner tritt den vollen Biomüll absichtlich in den Flur, statt nur blöde Sprüche zu klopfen."
+        },
+        {
+          "n": 5,
+          "fix": "Verpasse Level 5 einen echten Arroganz-Faktor: Der Architekt reibt ihr unter die Nase, dass sie ohne sein Geld komplett obdachlos wäre."
+        },
+        {
+          "n": 6,
+          "fix": "Lass den Unternehmensberater in Level 6 kalte Verachtung zeigen: 'Du machst hier keinen Job, du machst dir nur selbst Stress.'"
+        },
+        {
+          "n": 7,
+          "fix": "Maximiere die Verzweiflung in Level 7: Die Perfektionistin bricht in Tränen aus, weil niemand ihre Standards auch nur ansatzweise erreicht."
+        },
+        {
+          "n": 8,
+          "fix": "Das Finale muss härter knallen: Keine weichgespülte Mediations-Moral, sondern ein eiskalter Twist, dass sich die Last niemals auflöst, sondern nur den Partner wechselt."
+        }
+      ],
+      "fazit": "Die Serie hat ein starkes, absolut massentaugliches Thema (Mental Load), scheitert aber an zahnloser Sprache, zu kurzen Texten (unter 175 Wörtern) und fehlender, echter Wut. Die Vorbilder leben von purem Hass auf den Antagonisten und der Genugtuung, dass sich das Blatt wendet. Hier plätschert es zu oft in therapeutischer Einigkeit aus."
+    }
+  ]
+}

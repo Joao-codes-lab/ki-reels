@@ -1,0 +1,730 @@
+{
+  "title": "Die 8 Level von Klarna-Schulden",
+  "house": "Fruchtburg, a rain-slicked German metropolis where neon billboard ads flicker above crowded U-Bahn stations, chic boutique avenues, and gritty Späti kiosks, populated entirely by fruit and vegetable citizens.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Das Kiez-Café Kiez-Oase an der Ecke Torstraße verbindet Mias Demütigung mit Noahs Insta-Kulisse.",
+    "Der Leasingvertrag für den schwarzen Audi A3 taucht bei Julian und Sophie auf.",
+    "Die Boutique Glanz & Gloria in Level 5 wickelt Chiaras und Sophies geplatzte Luxuskäufe ab.",
+    "Der alte Feigen-Hausmeister Arthur aus Level 8 putzt beiläufig in den Bankfluren von Level 3 und 7."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Welches vernichtende Dokument zog Noah plötzlich triumphierend aus seiner Designer-Tasche?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Er verspottet Mias abgelehnte 6-Euro-Zahlung im Café lautstark vor allen Gästen und filmt ihr Stirn-Display für seine Story."
+      },
+      "name": "Mia, 19, Bäckerei-Aushilfe",
+      "badge": "45 € frei",
+      "verdict": "RATENFALLE",
+      "story": "Die 8 Level von Klarna-Schulden. Level 1. 540 Euro Minijob, aber 1.200 Euro Klarna-Schulden im Nacken. Mein Herz raste an der Kasse im Café Kiez-Oase. Für sechs Euro wollte ich mir einen Hafer-Latte gönnen. Meine Stirn glühte schwach: 45 Euro frei. Karte abgelehnt. Der Barista schüttelte den Kopf. Wer nicht mal sechs Euro bar hat, gehört ins Reste-Regal! Die Zahl lügt nie. Scham schnürte mir die Kehle zu. Kennst du das, wenn der Einkaufswagen piept und alle gaffen? Ich flüsterte: Mein Gehalt kommt morgen, bitte! Hier, kauf dir Würde, Kleine. Genau in diesem Moment vibrierte mein Display mit einem Inkasso-Warnsignal. Meine Stirn fiel sofort ins Bodenlose. Doch als ich schluchzend meine Tasche packte, fiel ein amtlicher Brief aus Noahs Rucksack direkt vor meine Füße. Ich las die fette rote Überschrift der ersten Zeile, und mein Atem stockte. Dann sah ich Noahs Gesichtsausdruck, der schlagartig einfror, als er nach dem Papier griff ... Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "-45 €",
+        "after": "0 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Klarna-Schulden. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "540 Euro Minijob, aber 1.200 Euro Klarna-Schulden im Nacken. Mein Herz raste an der Kasse im Café Kiez-Oase. Für sechs Euro wollte ich mir einen Hafer-Latte gönnen. Meine Stirn glühte schwach: 45 Euro frei. Karte abgelehnt. Der Barista schüttelte den Kopf."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer nicht mal sechs Euro bar hat, gehört ins Reste-Regal! Die Zahl lügt nie.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Scham schnürte mir die Kehle zu. Kennst du das, wenn der Einkaufswagen piept und alle gaffen? Ich flüsterte:"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Gehalt kommt morgen, bitte!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Hier, kauf dir Würde, Kleine.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Genau in diesem Moment vibrierte mein Display mit einem Inkasso-Warnsignal. Meine Stirn fiel sofort ins Bodenlose. Doch als ich schluchzend meine Tasche packte, fiel ein amtlicher Brief aus Noahs Rucksack direkt vor meine Füße. Ich las die fette rote Überschrift der ersten Zeile, und mein Atem stockte. Dann sah ich Noahs Gesichtsausdruck, der schlagartig einfror, als er nach dem Papier griff ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Wer nicht mal sechs Euro bar hat, gehört ins Reste-Regal!",
+      "quote_by": {
+        "level": 2,
+        "name": "Noah",
+        "badge": "120 € frei",
+        "character": "Trendy avocado man in oversized beige designer puffer jacket, immaculate white sneakers, diamond stud earring, holding a smartphone recording mockingly.",
+        "scene": "A crowded hip Berlin cafe interior, the avocado influencer smirks condescendingly while pointing his smartphone camera at the crying strawberry girl, his forehead badge glowing 120 Euro."
+      },
+      "stats": [
+        {
+          "label": "Monatsplus",
+          "value": "45 €",
+          "bar": 0.05
+        },
+        {
+          "label": "Klarna-Minus",
+          "value": "1.200 €",
+          "bar": 0.15
+        },
+        {
+          "label": "Schufa-Score",
+          "value": "62 %",
+          "bar": 0.2
+        }
+      ],
+      "character": "Young petite strawberry girl with seed-speckled red skin, faded denim jacket, knitted beanie, nervous lip-biting habit, forehead digitally glowing with 45 € frei.",
+      "visual": "Medium shot inside a bustling aesthetic cafe counter, strawberry girl with humiliated expression staring at a declined red payment terminal, glowing 45 € on her forehead.",
+      "scenes": [
+        "Café Kiez-Oase counter, eye-level wide shot: rainy street outside, strawberry girl reaching into canvas bag, tiny golden coin hidden on the espresso machine drip tray.",
+        "Close-up of the vintage wooden counter: a declined credit card terminal flashing bright red text, next to a ceramic cup and a tiny golden coin near the tip jar.",
+        "Medium two-shot: smug avocado influencer in beige puffer jacket pointing his phone at the blushing strawberry girl, his forehead displaying 120 € frei, avocado sneering.",
+        "Low-angle shot: avocado influencer drops a crumpled receipt while waving his phone; tiny golden coin gleams beneath the wooden bar stool leg.",
+        "Close-up detail: strawberry girl's trembling hand picking up a fallen yellow envelope from the polished concrete floor, red ink stamp visible, tiny golden coin by her sneaker.",
+        "Dramatic medium close-up: avocado influencer's green eyes widening in absolute panic as he lunges forward to snatch the paper, warm cafe bokeh background."
+      ],
+      "caption": "Wenn der Kaffee zur Zerreißprobe wird. Hast du schon mal Ratenkäufe bereut? #klarna #schuldenfalle #drama #reallife #geld"
+    },
+    {
+      "n": 2,
+      "open_loop": "Welche geheime Buchung auf Noahs Auszug brachte Banker Julian dazu, sofort den Sicherheitsdienst zu rufen?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Julian zerreißt Noahs Kreditantrag vor seinen Augen und deckt vor der ganzen Schalterhalle dessen 23 parallele Klarna-Raten auf."
+      },
+      "name": "Noah, 22, Content Creator",
+      "badge": "120 € frei",
+      "verdict": "FAKER",
+      "story": "Die 8 Level von Klarna-Schulden. Level 2. 10.000 Follower, Designer-Klamotten, aber auf der Stirn nur 120 Euro frei. Auf dem Brief vor Mias Füßen stand: Letzte Mahnung, Vollstreckungsbescheid. Ich riss ihn an mich, schwitzte unter meiner Avocado-Schale. Im Netz feierten mich alle für meinen Luxus-Lifestyle, alles finanziert mit 'Später Bezahlen' in 30 Tagen. Eine Stunde später saß ich am marmornen Schalter der Frucht-Bank. Ich brauchte dringend 5.000 Euro Kreditrahmen für eine Mailand-Reise. Dein ganzes Leben ist ein Ratenkauf auf Pump! Die Zahl lügt nie. Die Kunden am Nachbarschalter drehten sich um. Meine Wangen glühten dunkelgrün vor Scham. Ich stammelte: Die Kampagnen-Honorare kommen nächste Woche! Hier gibt es keinen Cent. Sie sind ein finanzielles Luftschloss. Julian lachte nur dreckig, stempelte ABGELEHNT auf mein Dossier. Im selben Moment sprang meine Stirn-Zahl tiefer ins Minus. Doch dann überflog Julian die letzten Transaktionszeilen meines Kontos, sprang kalkweiß auf und griff mit zitternden Fingern zum roten Alarmknopf unter der Tischkante ... Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "-110 €",
+        "after": "10 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Klarna-Schulden. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "10.000 Follower, Designer-Klamotten, aber auf der Stirn nur 120 Euro frei. Auf dem Brief vor Mias Füßen stand: Letzte Mahnung, Vollstreckungsbescheid. Ich riss ihn an mich, schwitzte unter meiner Avocado-Schale. Im Netz feierten mich alle für meinen Luxus-Lifestyle, alles finanziert mit 'Später Bezahlen' in 30 Tagen. Eine Stunde später saß ich am marmornen Schalter der Frucht-Bank. Ich brauchte dringend 5.000 Euro Kreditrahmen für eine Mailand-Reise."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein ganzes Leben ist ein Ratenkauf auf Pump! Die Zahl lügt nie.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Kunden am Nachbarschalter drehten sich um. Meine Wangen glühten dunkelgrün vor Scham. Ich stammelte:"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Kampagnen-Honorare kommen nächste Woche!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Hier gibt es keinen Cent. Sie sind ein finanzielles Luftschloss.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Julian lachte nur dreckig, stempelte ABGELEHNT auf mein Dossier. Im selben Moment sprang meine Stirn-Zahl tiefer ins Minus. Doch dann überflog Julian die letzten Transaktionszeilen meines Kontos, sprang kalkweiß auf und griff mit zitternden Fingern zum roten Alarmknopf unter der Tischkante ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Dein ganzes Leben ist ein Ratenkauf auf Pump!",
+      "quote_by": {
+        "level": 3,
+        "name": "Julian",
+        "badge": "310 € frei",
+        "character": "Slick polished cherry banker with deep glossy red skin, slim-fit navy tailored suit, gold tie clip, wearing rimless designer glasses and an arrogant sneer.",
+        "scene": "A towering marble bank hall, cherry banker stamps a loan form aggressively with a red ink stamp, sneering across the mahogany desk at the avocado influencer."
+      },
+      "stats": [
+        {
+          "label": "Monatsplus",
+          "value": "120 €",
+          "bar": 0.12
+        },
+        {
+          "label": "Klarna-Minus",
+          "value": "8.400 €",
+          "bar": 0.35
+        },
+        {
+          "label": "Schufa-Score",
+          "value": "48 %",
+          "bar": 0.15
+        }
+      ],
+      "character": "Tall avocado young man with matte green leathery texture, wearing beige designer hoodie, golden chain, constantly checking follower notifications, glowing forehead displaying 120 € frei.",
+      "visual": "Wide shot of a monumental marble bank hall in Frankfurt style, avocado influencer sitting across a mahogany desk from an arrogant cherry banker.",
+      "scenes": [
+        "Subway station platform, eye-level shot: avocado influencer stuffing a yellow warning letter into his backpack, tiny golden coin resting on the edge of a ticket machine.",
+        "Grand marble bank interior, wide shot: high glass ceiling, cherry banker sitting behind desk with 310 € frei, tiny golden coin visible on the reception brass stanchion.",
+        "Two-shot over cherry banker's shoulder: banker holds up a red rejection stamp, avocado slumps in velvet chair, fluorescent lighting reflecting off both foreheads.",
+        "Close-up detail: cherry banker's fingers pointing at a printed bank statement with dozens of micro-debits, tiny golden coin half-hidden behind a ceramic pen holder.",
+        "Medium shot: cherry banker standing up abruptly, knocking over his leather desk pad, his glossy cherry skin turning pale under the bright chandeliers.",
+        "Extreme close-up: cherry banker's index finger hovering millimeters above a concealed red emergency button under the mahogany desk rim."
+      ],
+      "caption": "Scheinwerfer an, Konto leer. Wie viele Raten laufen bei dir heimlich mit? #finanzen #bankgeheimnis #influencer #fakelife #drama"
+    },
+    {
+      "n": 3,
+      "open_loop": "Welcher Name stand auf der Luxus-Leasing-Rückforderung, die Sophie in Julians Aktenkoffer entdeckte?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Sophie entlarvt Julians geleasten Audi A3 und seine gefälschte Luxusuhr vor seinen Kollegen auf der Rooftop-Bar."
+      },
+      "name": "Julian, 26, Bankberater",
+      "badge": "310 € frei",
+      "verdict": "FASSADE",
+      "story": "Die 8 Level von Klarna-Schulden. Level 3. 2.800 Euro Gehalt als Banker, aber nach Leasing und Raten bleiben mir ganze 310 Euro. Der Alarmknopf bei Noah war nur Show, um zu vertuschen, dass ich selbst bis zum Hals im Dispo stecke. Abends stand ich auf der Penthouse-Rooftop-Bar des Finanzdistrikts, um mein Ziel zu beeindrucken: Sophie, eine kühle Brokkoli-Unternehmensberaterin mit stolzen 650 Euro frei auf der Stirn. Ich ließ lässig meinen Audi-Schlüssel auf den Glastisch fallen und bestellte Champagner auf Pump. Eine gefälschte Submariner auf Ratenzahlung? Die Zahl lügt nie! Die Runde am Tisch verstummte. Sie beugte sich vor: Wer 310 Euro auf der Stirn trägt, sollte keinen Champagner schlürfen, Kleiner! Die Scham brannte wie Säure in meiner Kirschhaut. Ich stotterte: Das ist ein Firmenwagen, ich manage Großportfolios! Sophie schnaubte, drehte sich um und stieß versehentlich meinen Aktenkoffer um. Dokumente flatterten über den nassen Boden. Sophie bückte sich nach einem rosa Papier, las den Namen des wahren Schuldners und erstarrte mitten in der Bewegung ... Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-160 €",
+        "after": "150 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Klarna-Schulden. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "2.800 Euro Gehalt als Banker, aber nach Leasing und Raten bleiben mir ganze 310 Euro. Der Alarmknopf bei Noah war nur Show, um zu vertuschen, dass ich selbst bis zum Hals im Dispo stecke. Abends stand ich auf der Penthouse-Rooftop-Bar des Finanzdistrikts, um mein Ziel zu beeindrucken: Sophie, eine kühle Brokkoli-Unternehmensberaterin mit stolzen 650 Euro frei auf der Stirn. Ich ließ lässig meinen Audi-Schlüssel auf den Glastisch fallen und bestellte Champagner auf Pump."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Eine gefälschte Submariner auf Ratenzahlung? Die Zahl lügt nie!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Runde am Tisch verstummte. Sie beugte sich vor:"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer 310 Euro auf der Stirn trägt, sollte keinen Champagner schlürfen, Kleiner!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Scham brannte wie Säure in meiner Kirschhaut. Ich stotterte:"
+        },
+        {
+          "s": "Figur",
+          "t": "Das ist ein Firmenwagen, ich manage Großportfolios!"
+        },
+        {
+          "s": "Figur",
+          "t": "Sophie schnaubte, drehte sich um und stieß versehentlich meinen Aktenkoffer um. Dokumente flatterten über den nassen Boden. Sophie bückte sich nach einem rosa Papier, las den Namen des wahren Schuldners und erstarrte mitten in der Bewegung ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Eine gefälschte Submariner auf Ratenzahlung? Die Zahl lügt nie!",
+      "quote_by": {
+        "level": 4,
+        "name": "Sophie",
+        "badge": "650 € frei",
+        "character": "Sharp broccoli woman with crisp curly green florets styled like a bob, dark charcoal designer blazer, pearl necklace, holding a crystal martini glass.",
+        "scene": "A luxury neon-lit rooftop lounge overlooking skyscraper lights, broccoli woman tilts her head back laughing derisively while pointing at the cherry's watch."
+      },
+      "stats": [
+        {
+          "label": "Monatsplus",
+          "value": "310 €",
+          "bar": 0.22
+        },
+        {
+          "label": "Klarna-Minus",
+          "value": "14.200 €",
+          "bar": 0.52
+        },
+        {
+          "label": "Schufa-Score",
+          "value": "71 %",
+          "bar": 0.35
+        }
+      ],
+      "character": "Glossy red cherry young man with neatly combed stem, sharp midnight-blue business suit, silk tie, habit of twirling his car key fob, forehead displaying 310 € frei.",
+      "visual": "Glamorous rooftop terrace lounge at dusk, city skyline, cherry banker confronting a condescending broccoli corporate consultant holding a cocktail glass.",
+      "scenes": [
+        "Rooftop bar entrance, establishing shot: glowing purple lounge lights, glass balustrades reflecting city skyscrapers, tiny golden coin tucked beside the elevator button.",
+        "Lounge table close-up: an Audi key fob and a replica diver watch lying on reflective black glass beside two martinis, tiny golden coin under an acrylic coaster.",
+        "Medium two-shot: broccoli consultant in charcoal blazer leaning forward with folded arms, mocking the cherry banker whose forehead reads 310 € frei.",
+        "High-angle wide shot: cherry banker drops his leather briefcase, papers spilling across the illuminated glass floor tiles, tiny golden coin shining by a planter.",
+        "Close-up shot: broccoli consultant's manicured green fingers picking up a pink repossession notice letter from the wet floor, glowing neon reflections.",
+        "Medium close-up: broccoli consultant's eyes locked onto the document, her sarcastic grin freezing into utter disbelief, champagne glass tilting in her hand."
+      ],
+      "caption": "Audi geleast, Rolex gefälscht – die Bank gewinnt immer. Wie viel Schein steckt in deinem Umfeld? #finanzberater #karriere #schulden #status #bluff"
+    },
+    {
+      "n": 4,
+      "open_loop": "Welche erschreckende Entdeckung machte Viktor im Kassensystem über Sophies Identität?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Viktor lässt Sophies Designer-Einkauf an der Kasse sperren und outet ihre Kreditkarten-Sperrung vor der versammelten High-Society-Kundschaft."
+      },
+      "name": "Sophie, 30, Senior Beraterin",
+      "badge": "650 € frei",
+      "verdict": "KREDIT-ZIRKUS",
+      "story": "Die 8 Level von Klarna-Schulden. Level 4. 5.500 Euro Brutto als Beraterin, aber nach Luxus-Penthouse und drei Kreditkarten bleiben mir 650 Euro. Auf dem Zettel des Bankberaters stand mein eigener Name als Bürgin für seinen Audi. Ich musste den Schein um jeden Preis wahren. Am nächsten Nachmittag betrat ich die Edel-Boutique Glanz & Gloria, um ein 2.400-Euro-Kleid für den Opernball zu kaufen. Alles getarnt über Klarna-Splittung. An der Kasse stand Viktor, ein herablassender Ananas-Inhaber mit funkelnden Goldringen und 1.100 Euro frei auf der Stirn. Vorgang abgelehnt. Bonitätsprüfung negativ! Die Zahl lügt nie. Reiche Erbinnen drehten sich schockiert um. Viktor hob das Kleid demonstrativ hoch: Wer für die Miete Schulden schichtet, sollte bei Discountern stöbern! Mein Magen verkrampfte sich. Kennst du das Gefühl, wenn die eigene Maske vor allen zerbricht? Ich zischte: Es liegt an Ihrem Terminal! Viktor grinste kalt und tippte meine Steuernummer ins Register. Doch als das System meine wahren Daten anzeigte, erstarrte er und ließ das teure Seidenkleid einfach zu Boden fallen ... Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "-350 €",
+        "after": "300 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Klarna-Schulden. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "5.500 Euro Brutto als Beraterin, aber nach Luxus-Penthouse und drei Kreditkarten bleiben mir 650 Euro. Auf dem Zettel des Bankberaters stand mein eigener Name als Bürgin für seinen Audi. Ich musste den Schein um jeden Preis wahren. Am nächsten Nachmittag betrat ich die Edel-Boutique Glanz & Gloria, um ein 2.400-Euro-Kleid für den Opernball zu kaufen. Alles getarnt über Klarna-Splittung. An der Kasse stand Viktor, ein herablassender Ananas-Inhaber mit funkelnden Goldringen und 1.100 Euro frei auf der Stirn."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Vorgang abgelehnt. Bonitätsprüfung negativ! Die Zahl lügt nie.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Reiche Erbinnen drehten sich schockiert um. Viktor hob das Kleid demonstrativ hoch:"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer für die Miete Schulden schichtet, sollte bei Discountern stöbern!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Magen verkrampfte sich. Kennst du das Gefühl, wenn die eigene Maske vor allen zerbricht? Ich zischte:"
+        },
+        {
+          "s": "Figur",
+          "t": "Es liegt an Ihrem Terminal!"
+        },
+        {
+          "s": "Figur",
+          "t": "Viktor grinste kalt und tippte meine Steuernummer ins Register. Doch als das System meine wahren Daten anzeigte, erstarrte er und ließ das teure Seidenkleid einfach zu Boden fallen ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Vorgang abgelehnt. Bonitätsprüfung negativ! Die Zahl lügt nie.",
+      "quote_by": {
+        "level": 5,
+        "name": "Viktor",
+        "badge": "1.100 € frei",
+        "character": "Haughty pineapple boutique owner with golden spiked crown hair, tailored velvet burgundy suit jacket, chunky gold rings, and an exaggerated judgmental smirk.",
+        "scene": "Gilded haute couture boutique, pineapple owner stands behind a marble cash counter holding a declined payment slip in the air with utmost relish."
+      },
+      "stats": [
+        {
+          "label": "Monatsplus",
+          "value": "650 €",
+          "bar": 0.35
+        },
+        {
+          "label": "Klarna-Minus",
+          "value": "22.500 €",
+          "bar": 0.68
+        },
+        {
+          "label": "Schufa-Score",
+          "value": "59 %",
+          "bar": 0.28
+        }
+      ],
+      "character": "Elegant broccoli career woman with sharp geometric green crown, charcoal tailored power suit, silver designer watch, glowing forehead reading 650 € frei.",
+      "visual": "Interior of an ultra-luxurious clothing boutique with crystal chandeliers and golden racks, broccoli consultant mortified at the cash register facing an arrogant pineapple merchant.",
+      "scenes": [
+        "Boutique Glanz & Gloria storefront, wide street view: high arched glass windows, mannequins dressed in couture, tiny golden coin hidden in the brass door handle filigree.",
+        "Medium interior shot: marble checkout counter with a glowing digital payment screen displaying 'Vorgang Abgelehnt', tiny golden coin resting on a velvet ring cushion.",
+        "Two-shot confrontation: pineapple boutique owner in velvet jacket sneering at broccoli woman, holding up a declined silk gown, 1.100 € frei shining on his crown forehead.",
+        "Low-angle shot: wealthy melon and grape socialite customers turning around from racks with judgmental murmurs; tiny golden coin gleams by a fitting room curtain tassel.",
+        "Close-up detail: pineapple owner's ringed fingers typing rapidly on a vintage gold-plated register terminal, screen showing credit scoring error logs.",
+        "Dramatic close-up: pineapple owner's eyes bulging as the silk dress slips from his hands onto the parquet floor, screen light reflecting on his spiky textured skin."
+      ],
+      "caption": "Wenn der Bonitäts-Check vor allen Kunden crasht. Wann ist Scheinwohlstand gefährlich? #luxus #boutique #kredit #peinlich #gesellschaft"
+    },
+    {
+      "n": 5,
+      "open_loop": "Was drohte Chiara Viktor hinter verschlossenen Türen an, das seine Knie zittern ließ?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Chiara storniert vor laufenden Kameras einen 15.000-Euro-Kauf in Viktors Boutique und droht ihm mit dem Ruin seiner Kreditlinien."
+      },
+      "name": "Viktor, 35, Boutique-Besitzer",
+      "badge": "1.100 € frei",
+      "verdict": "INSO-NAH",
+      "story": "Die 8 Level von Klarna-Schulden. Level 5. 30.000 Euro Monatsumsatz im Laden, aber nach Großhändler-Krediten und Ladenmiete bleiben mir 1.100 Euro frei. Auf meinem Bildschirm stand vorhin: Sophie ist die Hauptprüferin meiner eigenen Bank für gewerbliche Notkredite! Ich war geliefert. Zwei Stunden später rauschte Chiara herein, eine schillernde Drachenfrucht-Erbin mit gigantischen 2.800 Euro frei auf der Stirn. Paparazzi drückten sich an den Schaufenstern die Nasen platt. Sie probierte Pelzmäntel für fünfzehntausend Euro an, verlangte sofortige Klarna-Rechnung auf 90 Tage. Du bettelst um Vorkasse bei einer Milliardärs-Tochter? Die Zahl lügt nie! Sie knallte die Kleiderbügel auf den Marmor: Deine Klitsche ist nächste Woche pleite, Viktor! Ein Reporter filmte live mit. Mein Herz hämmerte gegen die Rippen. Mein Laden stand ohne ihren Einkauf vor der Insolvenz. Ich winselte: Gnädige Frau, das war nur eine Formalität! Chiara lachte schrill, riss ihr Smartphone hervor und wählte eine Nummer mit VIP-Durchwahl. Was der Mann am anderen Ende sagte, ließ Chiaras triumphales Grinsen schlagartig einfrieren ... Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "-800 €",
+        "after": "300 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Klarna-Schulden. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "30.000 Euro Monatsumsatz im Laden, aber nach Großhändler-Krediten und Ladenmiete bleiben mir 1.100 Euro frei. Auf meinem Bildschirm stand vorhin: Sophie ist die Hauptprüferin meiner eigenen Bank für gewerbliche Notkredite! Ich war geliefert. Zwei Stunden später rauschte Chiara herein, eine schillernde Drachenfrucht-Erbin mit gigantischen 2.800 Euro frei auf der Stirn. Paparazzi drückten sich an den Schaufenstern die Nasen platt. Sie probierte Pelzmäntel für fünfzehntausend Euro an, verlangte sofortige Klarna-Rechnung auf 90 Tage."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du bettelst um Vorkasse bei einer Milliardärs-Tochter? Die Zahl lügt nie!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie knallte die Kleiderbügel auf den Marmor:"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Deine Klitsche ist nächste Woche pleite, Viktor!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ein Reporter filmte live mit. Mein Herz hämmerte gegen die Rippen. Mein Laden stand ohne ihren Einkauf vor der Insolvenz. Ich winselte:"
+        },
+        {
+          "s": "Figur",
+          "t": "Gnädige Frau, das war nur eine Formalität!"
+        },
+        {
+          "s": "Figur",
+          "t": "Chiara lachte schrill, riss ihr Smartphone hervor und wählte eine Nummer mit VIP-Durchwahl. Was der Mann am anderen Ende sagte, ließ Chiaras triumphales Grinsen schlagartig einfrieren ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Du bettelst um Vorkasse bei einer Milliardärs-Tochter? Die Zahl lügt nie!",
+      "quote_by": {
+        "level": 6,
+        "name": "Chiara",
+        "badge": "2.800 € frei",
+        "character": "Extravagant dragonfruit heiress with neon-pink scaled skin, green tipped spires, wearing a white faux-fur coat, oversized cat-eye sunglasses, dripping in diamonds.",
+        "scene": "A crowded designer boutique doorway, dragonfruit heiress storms out while furiously pointing back at the trembling pineapple store owner, paparazzi flashes illuminating her face."
+      },
+      "stats": [
+        {
+          "label": "Monatsplus",
+          "value": "1.100 €",
+          "bar": 0.48
+        },
+        {
+          "label": "Klarna-Minus",
+          "value": "48.000 €",
+          "bar": 0.78
+        },
+        {
+          "label": "Schufa-Score",
+          "value": "51 %",
+          "bar": 0.22
+        }
+      ],
+      "character": "Pineapple shop owner with spiky golden hair crown, tailored burgundy velvet suit, gold bracelets, nervous bead of sweat on his yellow patterned brow showing 1.100 € frei.",
+      "visual": "A lavish high-end boutique interior with paparazzi flashing through the store windows, pineapple owner pleading before an outraged dragonfruit heiress in white fur.",
+      "scenes": [
+        "Boutique window view from the street: paparazzi photographers aiming lenses through glass, tiny golden coin caught on the outdoor stone windowsill.",
+        "Medium interior shot: dragonfruit heiress in white fur coat slamming designer coat hangers onto a polished black marble counter, glowing 2.800 € on her scaled forehead.",
+        "Two-shot: trembling pineapple owner raising defensive hands while dragonfruit woman looms over him, camera flashes reflecting in his gold rings.",
+        "Detail shot: boutique ledger open beside an ink stamp, multiple red unpaid supplier invoices visible, tiny golden coin resting on the edge of the credit card terminal.",
+        "Medium close-up: dragonfruit heiress holding her gold iPhone to her ear, sneering into the microphone while pointing an accusing finger at Viktor.",
+        "Close-up dramatic twist: dragonfruit heiress's mouth dropping open in sudden horror as she listens to the phone call, all color draining from her pink scales."
+      ],
+      "caption": "Zwischen Glamour und Insolvenzverwalter liegt nur ein Ratenkauf. Wann platzt die Blase? #insolvenz #unternehmer #highsociety #luxusleben #klarna"
+    },
+    {
+      "n": 6,
+      "open_loop": "Welches Geheimnis über Chiaras angebliche Erbschaft flüsterte Markus ihr ins Ohr?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Markus überbietet Chiaras Penthouse-Gebot bei einer Zwangsversteigerung und deckt ihre gefälschten Treuhand-Bürgschaften vor allen Notaren auf."
+      },
+      "name": "Chiara, 28, High-Society-Model",
+      "badge": "2.800 € frei",
+      "verdict": "ERBEN-BLUFF",
+      "story": "Die 8 Level von Klarna-Schulden. Level 6. 2.800 Euro Monatsbudget auf der Stirn, aber 60.000 Euro Klarna- und Kreditkartenschulden für ein Jetset-Leben. Am Telefon hatte mein Nachlassverwalter gerade gesagt: Das Erbe deines Vaters ist überschuldet, du erbst keinen Cent. Um den Schein zu retten, saß ich am nächsten Morgen im prunkvollen Auktionssaal des Amtsgerichts. Es ging um ein 1,8-Millionen-Penthouse. Neben mir saß Markus, ein knallharter Kokosnuss-Immobilienhai im Nadelstreifenanzug mit gigantischen 7.500 Euro frei auf der Stirn. Ich bot mutig 1,5 Millionen, abgesichert durch getürkte Bonitätsbestätigungen. Schöne Fassade, aber deine Bürgschaft ist so wertlos wie dein Ratenkredit-Konto! Die Zahl lügt nie. Die Notare tuschelten hinter ihren Brillen. Scham brannte in meinen Adern. Woher wusste er das? Ich zischte: Mein Anwalt wird Sie verklagen! Markus lachte tief, zog einen Vertrag aus seiner Aktenmappe und flüsterte mir etwas ins Ohr. Mein Atem stockte, als ich den Namen der Briefkastenfirma las, die mein ganzes Leben bereits aufgekauft hatte ... Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "-2.500 €",
+        "after": "300 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Klarna-Schulden. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "2.800 Euro Monatsbudget auf der Stirn, aber 60.000 Euro Klarna- und Kreditkartenschulden für ein Jetset-Leben. Am Telefon hatte mein Nachlassverwalter gerade gesagt: Das Erbe deines Vaters ist überschuldet, du erbst keinen Cent. Um den Schein zu retten, saß ich am nächsten Morgen im prunkvollen Auktionssaal des Amtsgerichts. Es ging um ein 1,8-Millionen-Penthouse. Neben mir saß Markus, ein knallharter Kokosnuss-Immobilienhai im Nadelstreifenanzug mit gigantischen 7.500 Euro frei auf der Stirn. Ich bot mutig 1,5 Millionen, abgesichert durch getürkte Bonitätsbestätigungen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Schöne Fassade, aber deine Bürgschaft ist so wertlos wie dein Ratenkredit-Konto! Die Zahl lügt nie.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Notare tuschelten hinter ihren Brillen. Scham brannte in meinen Adern. Woher wusste er das? Ich zischte:"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Anwalt wird Sie verklagen!"
+        },
+        {
+          "s": "Figur",
+          "t": "Markus lachte tief, zog einen Vertrag aus seiner Aktenmappe und flüsterte mir etwas ins Ohr. Mein Atem stockte, als ich den Namen der Briefkastenfirma las, die mein ganzes Leben bereits aufgekauft hatte ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Schöne Fassade, aber deine Bürgschaft ist so wertlos wie dein Ratenkredit-Konto!",
+      "quote_by": {
+        "level": 7,
+        "name": "Markus",
+        "badge": "7.500 € frei",
+        "character": "Imposing coconut real estate mogul with rugged fibrous brown shell, slicked hair, bespoke pinstripe double-breasted suit, platinum signet ring, and ruthless grin.",
+        "scene": "A crowded historic auction amphitheater, coconut tycoon raises his bidder card while whispering a humiliating secret into the ear of the stunned dragonfruit woman."
+      },
+      "stats": [
+        {
+          "label": "Monatsplus",
+          "value": "2.800 €",
+          "bar": 0.65
+        },
+        {
+          "label": "Klarna-Minus",
+          "value": "60.000 €",
+          "bar": 0.88
+        },
+        {
+          "label": "Schufa-Score",
+          "value": "44 %",
+          "bar": 0.12
+        }
+      ],
+      "character": "Stunning dragonfruit woman with vivid magenta textured rind, sleek white blazer, diamond necklace, oversized sunglasses pushed atop her head, forehead glowing with 2.800 € frei.",
+      "visual": "Grand wood-paneled courtroom auction hall, dragonfruit heiress sitting in velvet row frozen in horror as a hulking coconut real estate tycoon leans over her shoulder.",
+      "scenes": [
+        "Courtroom hallway, wide establishing shot: judicial marble pillars, high vaulted ceilings, auction banners, tiny golden coin balanced on the edge of a fire extinguisher.",
+        "Amphitheater auction seating, eye-level: dragonfruit heiress clutching her bidder paddle, nervous sweat beading on her magenta skin beneath the chandeliers.",
+        "Two-shot: towering coconut tycoon in bespoke pinstripe suit raising paddle '104', turning to sneer directly at Chiara, his forehead displaying 7.500 € frei.",
+        "Close-up detail: auction gavel resting on green baize desk next to notary stamp and legal deed, tiny golden coin gleaming on the polished wood molding.",
+        "Medium shot: coconut tycoon whispering intently into Chiara's ear while sliding a blue corporate portfolio across the mahogany desk divider.",
+        "Dramatic close-up: Chiara's eyes widening in sheer terror as she reads the header of the foreclosure deed, her knuckles turning white around her pen."
+      ],
+      "caption": "Reich geboren, pleite gestorben? Wie viele Erben leben nur von Illusionen? #erbe #auktion #immobiliendeal #insolvenz #luxus"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welches alte Grundbuchdokument zog der unscheinbare Feigen-Hausmeister Arthur aus seiner Kitteltasche?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Arthur, der Kiosk-Besitzer und Hausmeister, verweigert Markus den Zugang zu seiner eigenen Firmenzentrale und kündigt ihm das Gebäude."
+      },
+      "name": "Markus, 42, Bauträger & Investor",
+      "badge": "7.500 € frei",
+      "verdict": "KREDIT-BLASE",
+      "story": "Die 8 Level von Klarna-Schulden. Level 7. 7.500 Euro frei auf der Stirn, ein 20-Millionen-Portfolio, aber jede einzelne Immobilie ist zu 110 Prozent auf Pump finanziert. Die Briefkastenfirma hinter Chiaras Schulden gehörte einer Bank, die auch meine Kredite hielt. Und die Zinsen stiegen unbarmherzig. Am Abend parkte ich meine Luxuslimousine vor dem Späti an der Torstraße, um Zigarren zu kaufen. Hinter der Theke stand Arthur, eine uralte, runzlige Feige im speckigen blauen Hausmeisterkittel. Seine Stirn zeigte lächerliche 850 Euro Rente. Ich warf einen 100-Euro-Schein hin und forderte herablassend die teuerste Cohiba. Wer auf Pump gebaut hat, ertrinkt, wenn die Flut kommt, Markus. Die Zahl lügt nie. Wut schnürte mir die Kehle zu. Woher kannte dieser Niemand meinen Namen? Ich drohte: Ich kaufe diesen ganzen Drecks-Späti und reiße ihn ab! Versuchen Sie es ruhig, Herr Bauträger. Arthur lächelte sanft, griff in seinen Kittel und legte eine uralte notarielle Urkunde auf den Tresen. Als ich das Siegel sah, wurde mir schwarz vor Augen ... Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "-6.800 €",
+        "after": "700 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Klarna-Schulden. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "7.500 Euro frei auf der Stirn, ein 20-Millionen-Portfolio, aber jede einzelne Immobilie ist zu 110 Prozent auf Pump finanziert. Die Briefkastenfirma hinter Chiaras Schulden gehörte einer Bank, die auch meine Kredite hielt. Und die Zinsen stiegen unbarmherzig. Am Abend parkte ich meine Luxuslimousine vor dem Späti an der Torstraße, um Zigarren zu kaufen. Hinter der Theke stand Arthur, eine uralte, runzlige Feige im speckigen blauen Hausmeisterkittel. Seine Stirn zeigte lächerliche 850 Euro Rente. Ich warf einen 100-Euro-Schein hin und forderte herablassend die teuerste Cohiba."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer auf Pump gebaut hat, ertrinkt, wenn die Flut kommt, Markus. Die Zahl lügt nie.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Wut schnürte mir die Kehle zu. Woher kannte dieser Niemand meinen Namen? Ich drohte:"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich kaufe diesen ganzen Drecks-Späti und reiße ihn ab!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Versuchen Sie es ruhig, Herr Bauträger.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Arthur lächelte sanft, griff in seinen Kittel und legte eine uralte notarielle Urkunde auf den Tresen. Als ich das Siegel sah, wurde mir schwarz vor Augen ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Wer auf Pump gebaut hat, ertrinkt, wenn die Flut kommt, Markus.",
+      "quote_by": {
+        "level": 8,
+        "name": "Arthur",
+        "badge": "850 € frei",
+        "character": "Elderly wrinkled purple fig man in faded blue janitor overalls, wire-rimmed reading glasses, weathered hands, serene unshakeable gaze.",
+        "scene": "A dim neon-lit Späti counter, old fig janitor calmly slides a century-old embossed deed across the counter toward the frantic coconut tycoon."
+      },
+      "stats": [
+        {
+          "label": "Monatsplus",
+          "value": "7.500 €",
+          "bar": 0.85
+        },
+        {
+          "label": "Klarna-Minus",
+          "value": "125.000 €",
+          "bar": 0.95
+        },
+        {
+          "label": "Schufa-Score",
+          "value": "68 %",
+          "bar": 0.32
+        }
+      ],
+      "character": "Massive coconut businessman with fibrous textured head, slicked dark hair, bespoke tailored pinstripe suit, heavy gold watch, forehead showing 7.500 € frei.",
+      "visual": "Gritty Berlin-style Späti kiosk at night, sleek coconut tycoon slamming a hundred-euro bill onto a cluttered counter in front of an unbothered elderly fig janitor.",
+      "scenes": [
+        "Späti exterior on Torstraße, night shot: wet asphalt, neon sign buzzing in red and yellow, luxury black limousine double-parked, tiny golden coin in the gutter grate.",
+        "Counter eye-level shot: coconut tycoon holding a crisp hundred-euro note over a glass case of cigars, 7.500 € frei glowing on his fibrous brown forehead.",
+        "Two-shot: old fig janitor in faded blue overalls staring unblinkingly through round spectacles at the aggressive coconut tycoon towering over him.",
+        "Close-up counter detail: a rotary telephone, stacks of lottery tickets, and a tiny golden coin hidden behind an old mechanical cash register drawer.",
+        "High-angle shot: fig janitor unfolds an authentic parchment document with red wax seals directly over the hundred-euro bill.",
+        "Dramatic close-up: coconut tycoon's jaw dropping in utter shock as his forehead number starts wildly glitching and plummeting downwards."
+      ],
+      "caption": "20 Millionen Portfolio, aber der Späti-Mann zieht dir den Stecker. Was nützt Vermögen ohne Liquidität? #immobilienblase #finanzkrise #macht #kiosk #karma"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches Geheimnis der Stadt wird Arthur als Nächstes enthüllen?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Arthur beobachtete alle Figuren von Anfang an, hielt ihre Schuldscheine und schenkt Mia am Ende schuldenfreie Freiheit."
+      },
+      "name": "Arthur, 58, Späti-Besitzer & Eigentümer",
+      "badge": "850 € frei",
+      "verdict": "DER MEISTER",
+      "story": "Die 8 Level von Klarna-Schulden. Level 8. 850 Euro Rente auf der Stirn, aber mir gehört der gesamte Häuserblock schuldenfrei und bar bezahlt. Auf der Urkunde vor Markus stand mein Name als alleiniger Grundstückeigentümer seiner Bank und seines Penthouses. Er brach am Tresen zusammen. Ich habe sie alle gesehen: Mia, die für Hafermilch zitterte. Noah mit seinen Fake-Sneakern. Den Bankberater Julian, der seine eigene Kollegin Sophie anbettelte. Und Viktor, der fast an Chiaras Ratenkauf erstickte. Sie alle jagten Zahlen hinterher, die nicht existierten. Ich lebe seit vierzig Jahren bescheiden, repariere die Rohre und spare jeden echten Cent. Am nächsten Morgen kam Mia mit verweinten Augen in meinen Späti, um Pfandflaschen abzugeben. Ich kann die Raten nicht mehr zahlen, Herr Arthur ... Ich schob ihr keinen Cent hin, sondern zerriss ihren 1.200-Euro-Inkassobrief vor ihren Augen: Ich habe deine Schulden bezahlt, Kind. Die Zahl lügt nie, aber der Mensch entscheidet, was sie bedeutet. Mias Tränen tropften auf den Boden, als ihre Stirn plötzlich auf goldene 500 Euro sprang. Das Kartenhaus der Scheinreichen ist eingestürzt. Welches Thema sollen wir als Nächstes aufdecken? Schreib es jetzt in die Kommentare!",
+      "gender": "m",
+      "twist": {
+        "delta": "+500.000 €",
+        "after": "500.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Klarna-Schulden. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "850 Euro Rente auf der Stirn, aber mir gehört der gesamte Häuserblock schuldenfrei und bar bezahlt. Auf der Urkunde vor Markus stand mein Name als alleiniger Grundstückeigentümer seiner Bank und seines Penthouses. Er brach am Tresen zusammen. Ich habe sie alle gesehen: Mia, die für Hafermilch zitterte. Noah mit seinen Fake-Sneakern. Den Bankberater Julian, der seine eigene Kollegin Sophie anbettelte. Und Viktor, der fast an Chiaras Ratenkauf erstickte. Sie alle jagten Zahlen hinterher, die nicht existierten. Ich lebe seit vierzig Jahren bescheiden, repariere die Rohre und spare jeden echten Cent. Am nächsten Morgen kam Mia mit verweinten Augen in meinen Späti, um Pfandflaschen abzugeben."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Ich kann die Raten nicht mehr zahlen, Herr Arthur ...",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schob ihr keinen Cent hin, sondern zerriss ihren 1.200-Euro-Inkassobrief vor ihren Augen:"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe deine Schulden bezahlt, Kind. Die Zahl lügt nie, aber der Mensch entscheidet, was sie bedeutet."
+        },
+        {
+          "s": "Figur",
+          "t": "Mias Tränen tropften auf den Boden, als ihre Stirn plötzlich auf goldene 500 Euro sprang. Das Kartenhaus der Scheinreichen ist eingestürzt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema sollen wir als Nächstes aufdecken? Schreib es jetzt in die Kommentare!"
+        }
+      ],
+      "quote": "Ich habe deine Schulden bezahlt, Kind. Die Zahl lügt nie, aber der Mensch entscheidet, was sie bedeutet.",
+      "quote_by": {
+        "level": 8,
+        "name": "Arthur",
+        "badge": "850 € frei",
+        "character": "Elderly wrinkled purple fig man in faded blue overalls, wire-rimmed spectacles, calm and wise posture, radiating silent unshakeable authority.",
+        "scene": "Bright morning light flooding through Späti kiosk window, old fig man tearing a debt collection notice in half while smiling warmly at the weeping strawberry girl."
+      },
+      "stats": [
+        {
+          "label": "Monatsplus",
+          "value": "850 €",
+          "bar": 0.15
+        },
+        {
+          "label": "Echtvermögen",
+          "value": "4.2 Mio €",
+          "bar": 1.0
+        },
+        {
+          "label": "Schulden",
+          "value": "0 €",
+          "bar": 0.0
+        }
+      ],
+      "character": "Wise elderly fig man with deep purple wrinkled skin, simple navy work apron, round wire spectacles, calm warm eyes, glowing forehead displaying 850 € frei.",
+      "visual": "Warm morning sunlight cutting through dust motes inside the cozy Späti kiosk, old fig janitor gently tearing an inkasso debt paper in half before a crying strawberry girl.",
+      "scenes": [
+        "Späti backroom, wide shot: shelves lined with vintage ledger books, key racks for every building on the street, tiny golden coin glinting inside an open brass lockbox.",
+        "Medium shot of the Späti entrance: strawberry girl Mia cautiously stepping inside holding a bag of empty bottles, morning street reflections in the window glass.",
+        "Two-shot: Arthur behind the counter smiling gently across at Mia, Arthur's forehead glowing modestly with 850 € while Mia looks down in tears.",
+        "Close-up detail: Arthur's weathered purple fingers firmly tearing a bright yellow Klarna collection notice into two pieces, tiny golden coin sitting beside the receipt printer.",
+        "Medium close-up: Mia looking up in disbelief as her own forehead display updates with a bright chime, transitioning from 0 € to a glowing warm 500 € frei.",
+        "Wide cinematic exterior shot: the entire street corner bathed in golden morning sun, all the shops and apartments visible, with Arthur standing peacefully in his doorway."
+      ],
+      "caption": "Das wahre Vermögen prahlt nicht. Wer von den 8 Figuren hat dich am meisten überrascht? Welches Thema als Nächstes? #finale #finanziellefreiheit #klarna #wahrewerte #seriesfinale"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das Klarna-Schuldenregister und der Scheinwohlstand",
+  "frame": "frucht"
+}

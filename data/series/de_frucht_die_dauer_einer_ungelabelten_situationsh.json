@@ -1,0 +1,812 @@
+{
+  "title": "Die 8 Level von Situationships",
+  "house": "Fruchthain, a hyper-stylized metropolis with brutalist concrete WG-apartments, neon-lit Spätis, rainy subway platforms, and trendy hipster rooftop bars where humanoid fruit and vegetable citizens live with glowing digital forehead counters indicating their romantic limbo status.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Das Späti-Eck an der Schönhauser Allee verbindet die Wege von Mia (Level 1) und Viktor (Level 8).",
+    "Der Wohnungsschlüssel mit der Lakai-Notiz wandert von Samira (Level 3) über Tom (Level 2) zu Mia (Level 1).",
+    "Das Luxus-Penthouse verbindet die Schicksale von Felix (Level 4) und Samira (Level 3).",
+    "Die Galerie von Viktor (Level 8) kaufte Mias Gemälde (Level 1) und gehört jetzt Nora (Level 7)."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was enthüllte der Schlüssel und der Notizzettel in Toms Jackentasche?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Demütigt sie vor dem Späti und nennt ihre Verliebtheit pure Naivität."
+      },
+      "name": "Mia, 20, Kunststudentin",
+      "badge": "14 Tage",
+      "verdict": "UNTERSCHÄTZT",
+      "story": "Wer eine Zahnbürste nach 14 Tagen mitbringt, gehört in die Psychiatrie – schrie er vor dem ganzen Späti, während meine Stirn rot aufleuchtete. Ich bin Mia, Kunststudentin an der Universität der Künste, und auf meiner Stirn flackern vierzehn demütigende Tage. Vierzehn Tage, in denen ich jede freie Sekunde für Tom opferte, ihm warme Mahlzeiten kochte und seine ignoranten Launen ertrug. Gestern Nacht wollte ich ihm im Regen eine Freude machen und zog vorsichtig eine Zahnbürste aus meiner Jackentasche. Du bist doch nur ein billiger Pausensnack für mich. Was der arrogante Kirsch-Typ nicht ahnte: Zehn Minuten zuvor hatte eine renommierte Galerie mein Ölgemälde für unglaubliche zehntausend Euro angefragt. Ich bin kein hilfloses Opfer mehr, sondern stand kurz vor meinem großen Durchbruch. Als Tom höhnisch abdrehte, verlor er das Gleichgewicht und seine schwere Lederjacke knallte auf den nassen Asphalt. Ein metallischer Schlüsselbund mit einer eingravierten Adresse und ein handgeschriebener Zettel rutschten heraus. Als ich die brutale Handschrift las, stockte mir der Atem. Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+7 Tage",
+        "after": "21 Tage"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Wer eine Zahnbürste nach 14 Tagen mitbringt, gehört in die Psychiatrie – schrie er vor dem ganzen Späti, während meine Stirn rot aufleuchtete."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Mia, Kunststudentin an der Universität der Künste, und auf meiner Stirn flackern vierzehn demütigende Tage."
+        },
+        {
+          "s": "Figur",
+          "t": "Vierzehn Tage, in denen ich jede freie Sekunde für Tom opferte, ihm warme Mahlzeiten kochte und seine ignoranten Launen ertrug."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern Nacht wollte ich ihm im Regen eine Freude machen und zog vorsichtig eine Zahnbürste aus meiner Jackentasche."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du bist doch nur ein billiger Pausensnack für mich.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Was der arrogante Kirsch-Typ nicht ahnte: Zehn Minuten zuvor hatte eine renommierte Galerie mein Ölgemälde für unglaubliche zehntausend Euro angefragt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin kein hilfloses Opfer mehr, sondern stand kurz vor meinem großen Durchbruch."
+        },
+        {
+          "s": "Figur",
+          "t": "Als Tom höhnisch abdrehte, verlor er das Gleichgewicht und seine schwere Lederjacke knallte auf den nassen Asphalt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ein metallischer Schlüsselbund mit einer eingravierten Adresse und ein handgeschriebener Zettel rutschten heraus."
+        },
+        {
+          "s": "Figur",
+          "t": "Als ich die brutale Handschrift las, stockte mir der Atem."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Du bist doch nur ein billiger Pausensnack für mich.",
+      "quote_by": {
+        "level": 2,
+        "name": "Tom",
+        "badge": "6 Wochen",
+        "character": "Cocky anthropomorphic Cherry hipster with slicked hair, leather biker jacket, cynical smirk, glowing forehead display.",
+        "scene": "A neon-lit Berlin Späti sidewalk at midnight, rain splashing, Tom the Cherry smirking down arrogantly at strawberry Mia."
+      },
+      "stats": [
+        {
+          "label": "Dauer",
+          "value": "14 Tage",
+          "bar": 0.05
+        },
+        {
+          "label": "Marktwert",
+          "value": "10.000 €",
+          "bar": 0.85
+        },
+        {
+          "label": "Geduld",
+          "value": "10 %",
+          "bar": 0.1
+        }
+      ],
+      "character": "Sweet anthropomorphic strawberry girl with bright red textured skin, yellow seeds, oversized pastel denim jacket, silver hoop earrings, glowing digital forehead.",
+      "visual": "A detailed nighttime street view outside a glowing Berlin convenience store in drizzle. An anthropomorphic strawberry girl holds a pink toothbrush looking fiercely transformed while a smug cherry man in a leather jacket mocks her. A small gold coin glints on the wet curb.",
+      "scenes": [
+        "Exterior medium shot of a rainy Berlin street corner, strawberry Mia standing outside neon Späti holding toothbrush, tiny gold coin on pavement.",
+        "Close up on Mia's glowing forehead reading 14 Tage, rain drops running down her freckled strawberry texture, reflection of gallery offer email on phone.",
+        "Medium two-shot of Tom the cherry sneering at Mia while blowing cigarette smoke, gold coin hidden behind a beer bottle on the crate.",
+        "Over the shoulder shot from Mia standing tall as Tom mocks her, neon signs glowing vibrant pink and cyan, gold coin by drain.",
+        "Detail macro shot of Tom's black leather jacket hitting the wet asphalt, a brass key and crumpled note slipping out, gold coin near zipper.",
+        "Wide establishing shot of the Berlin intersection with wet pavement, desolate night vibe, neon reflections, gold coin beneath bicycle stand."
+      ],
+      "caption": "Level 1: Zahnbürste nach 14 Tagen und er demütigt sie? Er weiß nicht, wer sie wirklich ist! #situationship #datingdrama #obstmenschen #toxiclove #glowup"
+    },
+    {
+      "n": 2,
+      "open_loop": "Wessen Name stand auf dem 1.400-Euro-Mietvertrag in Samiras Smartphone?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Lacht Tom aus, weil er stundenlang frische Trüffelpasta kocht, während sie ihn als Lakaien behandelt."
+      },
+      "name": "Tom, 22, Barkeeper",
+      "badge": "6 Wochen",
+      "verdict": "ABGEKANSELT",
+      "story": "Der Zettel in meiner Jacke war kein harmloser Abholschein, sondern Samiras Wohnungsschlüssel mit der Notiz: Koch heute für mich, du kleiner Lakai. Ich bin Tom, Barkeeper in Kreuzberg, und auf meiner Stirn brennen sechs Wochen unerbittliche Selbsttäuschung. Sechs Wochen, in denen ich mich für Samira, die mondäne Avocado aus Level 3, bis auf die Knochen erniedrigt habe. Mia vor dem Späti fertigzumachen war feige, doch Karma schlug sofort mit voller Wucht zurück. Gestern stand ich drei Stunden an Samiras Designer-Herd, schnippelte frische Trüffel und kochte eine Pasta für siebzig Euro, nur um ihr zu gefallen. Als sie nasskalt zur Tür hereinschwebte, musterte sie mich wie lästigen Schmutz und schleuderte mir entgegen: Glaubst du echt, ein Teller Nudeln macht uns exklusiv? Meine Hände zitterten vor unterdrückter Wut. Ich dachte, wir bauen uns etwas Echtes auf, während ich in Wahrheit nur ihr kostenloser Diener war. Doch dann vibrierte ihr Smartphone auf der Granitplatte. Ein geöffnetes PDF leuchtete auf: ein exklusiver Mietvertrag über 1.400 Euro Warmmiete für ein Luxus-Apartment. Als ich den Namen des zweiten Hauptmieters las, riss es mir den Boden weg: Felix, der protzige Fitnesstrainer aus Level 4. Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+3 Wochen",
+        "after": "9 Wochen"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Der Zettel in meiner Jacke war kein harmloser Abholschein, sondern Samiras Wohnungsschlüssel mit der Notiz: Koch heute für mich, du kleiner Lakai."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Tom, Barkeeper in Kreuzberg, und auf meiner Stirn brennen sechs Wochen unerbittliche Selbsttäuschung."
+        },
+        {
+          "s": "Figur",
+          "t": "Sechs Wochen, in denen ich mich für Samira, die mondäne Avocado aus Level 3, bis auf die Knochen erniedrigt habe."
+        },
+        {
+          "s": "Figur",
+          "t": "Mia vor dem Späti fertigzumachen war feige, doch Karma schlug sofort mit voller Wucht zurück."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern stand ich drei Stunden an Samiras Designer-Herd, schnippelte frische Trüffel und kochte eine Pasta für siebzig Euro, nur um ihr zu gefallen."
+        },
+        {
+          "s": "Figur",
+          "t": "Als sie nasskalt zur Tür hereinschwebte, musterte sie mich wie lästigen Schmutz und schleuderte mir entgegen:"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Glaubst du echt, ein Teller Nudeln macht uns exklusiv?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Hände zitterten vor unterdrückter Wut. Ich dachte, wir bauen uns etwas Echtes auf, während ich in Wahrheit nur ihr kostenloser Diener war."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch dann vibrierte ihr Smartphone auf der Granitplatte. Ein geöffnetes PDF leuchtete auf: ein exklusiver Mietvertrag über 1.400 Euro Warmmiete für ein Luxus-Apartment."
+        },
+        {
+          "s": "Figur",
+          "t": "Als ich den Namen des zweiten Hauptmieters las, riss es mir den Boden weg: Felix, der protzige Fitnesstrainer aus Level 4."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Glaubst du echt, ein Teller Nudeln macht uns exklusiv?",
+      "quote_by": {
+        "level": 3,
+        "name": "Samira",
+        "badge": "3 Monate",
+        "character": "Stylish anthropomorphic Avocado woman with polished dark-green peel skin, gold hoop earrings, chic beige trench coat, haughty expression.",
+        "scene": "A chic Berlin Altbau kitchen, warm evening light, avocado woman Samira sneering coldly at cherry Tom holding a pasta pot."
+      },
+      "stats": [
+        {
+          "label": "Dauer",
+          "value": "6 Wochen",
+          "bar": 0.12
+        },
+        {
+          "label": "Wutpegel",
+          "value": "90 %",
+          "bar": 0.9
+        },
+        {
+          "label": "Investition",
+          "value": "250 €",
+          "bar": 0.22
+        }
+      ],
+      "character": "Angry anthropomorphic cherry young man with smooth glossy crimson skin, black leather vest, clenched fists, glowing digital forehead counter.",
+      "visual": "A trendy chaotic Kreuzberg vintage kitchen in the golden evening light. Tom the cherry man stands clenching a wooden spoon in fury while sleek avocado woman Samira looks down on him with absolute disdain. A tiny gold coin rests on the kitchen cutting board.",
+      "scenes": [
+        "Medium wide shot of high-ceiling Berlin vintage kitchen, Tom the cherry stirring pasta sauce furiously, tiny gold coin on marble counter beside garlic.",
+        "Two-shot of Samira the avocado entering in an oversized beige blazer, pushing Tom aside dismissively, gold coin gleaming near toaster.",
+        "Close up on Tom's glossy red face, hurt and rage visible in eyes, his forehead display ticking from 6 Wochen to 9 Wochen, gold coin on shelf.",
+        "Macro detail of smartphone screen on the rustic wooden table displaying a lease contract PDF with Felix's name, gold coin lying next to wine glass.",
+        "Over the shoulder shot from Tom staring at Samira as she rolls her eyes, steam rising from pasta pot, gold coin near spice rack.",
+        "Wide shot of kitchen as tension explodes, Samira crossing arms haughtily, Tom slamming the wooden spoon, gold coin under bar stool."
+      ],
+      "caption": "Level 2: 6 Wochen Lakai für Trüffelpasta – und sie hat einen Mietvertrag mit Level 4! #datingdrama #situationship #berlinlife #redflags #karmabackfire"
+    },
+    {
+      "n": 3,
+      "open_loop": "Was fand Samira im Kofferraum von Felix' Cabriolet?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Schlägt ihr das Handy weg und verbietet Pärchenfotos für seine 800.000 Follower."
+      },
+      "name": "Samira, 24, Mediengestalterin",
+      "badge": "3 Monate",
+      "verdict": "RACHLÜSTERN",
+      "story": "160 Euro für Trüffel-Sushi, aber kein einziges Foto mit mir – weil seine 800.000 Follower denken sollen, er wäre noch Single. Ich bin Samira, Mediengestalterin, und auf meiner Stirn glüht die Zahl drei Monate wie ein Brandzeichen. Ja, der Mietvertrag über 1.400 Euro war real: Ich wollte mit Felix zusammenziehen und hatte die Kaution bereits überwiesen. Doch gestern im Edellokal stieß er mein Telefon mit voller Wucht vom Tisch, als ich ein Pärchen-Selfie machen wollte: Steck das Ding weg, wir sind kein Instagram-Pärchen! Mein Herz zerbrach in tausend Splitter, doch diesmal weinte ich nicht leise. Als Felix arrogant zur Toilette stolzierte, um seine Muskeln im Spiegel zu bewundern, griff ich mir heimlich seine schwarze Firmen-Kreditkarte und meldete sie über das Online-Portal seiner Bank kurzerhand als gestohlen. Vor den Augen des gesamten Restaurants wurde seine Karte beim Bezahlen knallhart abgelehnt – pure Genugtuung! Als er panisch an der Tankstelle hielt und mich bat, seine Sporttasche aus dem Kofferraum zu kramen, öffnete ich die Klappe. Zwischen seinen Fitness-Shakern stieß ich auf zwei Flugtickets nach Mallorca und ein Dokument, das mir das Blut in den Adern gefrieren ließ. Das siehst du in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1 Monat",
+        "after": "4 Monate"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "160 Euro für Trüffel-Sushi, aber kein einziges Foto mit mir – weil seine 800.000 Follower denken sollen, er wäre noch Single."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Samira, Mediengestalterin, und auf meiner Stirn glüht die Zahl drei Monate wie ein Brandzeichen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ja, der Mietvertrag über 1.400 Euro war real: Ich wollte mit Felix zusammenziehen und hatte die Kaution bereits überwiesen."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch gestern im Edellokal stieß er mein Telefon mit voller Wucht vom Tisch, als ich ein Pärchen-Selfie machen wollte:"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Steck das Ding weg, wir sind kein Instagram-Pärchen!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Herz zerbrach in tausend Splitter, doch diesmal weinte ich nicht leise."
+        },
+        {
+          "s": "Figur",
+          "t": "Als Felix arrogant zur Toilette stolzierte, um seine Muskeln im Spiegel zu bewundern, griff ich mir heimlich seine schwarze Firmen-Kreditkarte und meldete sie über das Online-Portal seiner Bank kurzerhand als gestohlen."
+        },
+        {
+          "s": "Figur",
+          "t": "Vor den Augen des gesamten Restaurants wurde seine Karte beim Bezahlen knallhart abgelehnt – pure Genugtuung!"
+        },
+        {
+          "s": "Figur",
+          "t": "Als er panisch an der Tankstelle hielt und mich bat, seine Sporttasche aus dem Kofferraum zu kramen, öffnete ich die Klappe."
+        },
+        {
+          "s": "Figur",
+          "t": "Zwischen seinen Fitness-Shakern stieß ich auf zwei Flugtickets nach Mallorca und ein Dokument, das mir das Blut in den Adern gefrieren ließ."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Steck das Ding weg, wir sind kein Instagram-Pärchen!",
+      "quote_by": {
+        "level": 4,
+        "name": "Felix",
+        "badge": "6 Monate",
+        "character": "Muscular anthropomorphic Peach guy with fuzzy orange skin, gym sleeveless tee, gold Rolex watch, arrogant smirk, glowing forehead.",
+        "scene": "Dimly lit high-end sushi restaurant in Hamburg, Felix the peach pushing Samira's phone away violently under ambient golden pendant lamps."
+      },
+      "stats": [
+        {
+          "label": "Dauer",
+          "value": "3 Monate",
+          "bar": 0.25
+        },
+        {
+          "label": "Genugtuung",
+          "value": "100 %",
+          "bar": 1.0
+        },
+        {
+          "label": "Schaden",
+          "value": "1.400 €",
+          "bar": 0.45
+        }
+      ],
+      "character": "Sharp and cunning anthropomorphic avocado young woman with textured dark peel, stylish blazer, vindictive smile, glowing forehead badge.",
+      "visual": "A luxurious sushi restaurant with dim moody amber lighting. Samira the avocado woman sits with a cold triumphant smirk as muscular peach man Felix gets his credit card declined in front of waiters. A small golden coin gleams inside a soy sauce dish.",
+      "scenes": [
+        "Establishing shot of upscale dimly lit sushi lounge, affluent fruit citizens dining, gold coin resting near chopsticks stand.",
+        "Two-shot over table, Samira leaning toward Felix with smartphone, Felix violently knocking her hand away, gold coin beside wasabi bowl.",
+        "Close up on Samira's face switching from shock to icy revenge, avocado texture catching low mood light, digital forehead showing 3 Monate, gold coin in edge of frame.",
+        "Medium shot of Felix at the restaurant cash register sweating as the terminal flashes red 'CARD DECLINED', waiters whispering, gold coin on payment tray.",
+        "Detail macro shot of open convertible trunk at a neon gas station, gym bag open, revealing two printed flight boarding passes to Palma, gold coin in trunk corner.",
+        "Low angle shot of Samira standing by open car trunk discovering the flight documents, neon lights reflecting in her eyes, gold coin on pavement."
+      ],
+      "caption": "Level 3: Kreditkarte vor dem ganzen Restaurant sperren lassen! Wer nicht zu mir steht, zahlt bar! #situationship #revenge #satisfaction #redflags"
+    },
+    {
+      "n": 4,
+      "open_loop": "Was fand Gisela in Jonas' geteilter Dropbox-Ablage?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Stellt ihn vor vierzig Millionären bloß und bezeichnet ihn herablassend als billigen Laufburschen."
+      },
+      "name": "Felix, 26, Fitnesstrainer & Investor",
+      "badge": "6 Monate",
+      "verdict": "TRIUMPHAL",
+      "story": "Er ist nur mein Laufbursche fürs Grobe – lachte Gisela vor 40 Millionären, während ich ihre 900-Euro-Flüge bezahlt hatte. Ich bin Felix, Fitnesstrainer und Immobilieninvestor. Auf meiner Stirn prangt ein halbes Jahr bitterer Spott. Gisela, die reiche Zitrone aus Level 5, dachte wirklich, sie könnte mich vor ihrer elitären Familie wie einen mittellosen Hausmeister vorführen. Samiras Blockade meiner Kreditkarte hatte mich kurz ins Schwitzen gebracht, doch Giselas Demütigung auf dem Geburtstag ihrer Mutter traf mich ins Mark. Er ist nur mein Laufbursche fürs Grobe. Mein Lächeln erfror vor versammelter Mannschaft. Doch was die hochnäsige Erbin nicht wusste: Auf dem iPad, das sie mir triumphierend ins Gesicht hielt, um mich wegen angeblicher Flirts bloßzustellen, war nicht Tinder geöffnet. Ich entsperrte den Bildschirm und zeigte ihr stattdessen den notariellen Grundbuchauszug des Luxus-Penthouses in der Innenstadt, von dem sie seit Monaten schwärmte. Ich hatte die Immobilie heimlich vor drei Wochen bar gekauft – sie gehörte komplett mir, nicht ihr! Giselas Gesicht entgleiste zur Fratze. Völlig hysterisch stürmte sie aus dem Raum, ließ ihr eigenes iPad fallen und griff hastig nach einem geteilten Cloud-Link auf ihrem Schreibtisch. Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+2 Monate",
+        "after": "8 Monate"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Er ist nur mein Laufbursche fürs Grobe – lachte Gisela vor 40 Millionären, während ich ihre 900-Euro-Flüge bezahlt hatte."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Felix, Fitnesstrainer und Immobilieninvestor. Auf meiner Stirn prangt ein halbes Jahr bitterer Spott."
+        },
+        {
+          "s": "Figur",
+          "t": "Gisela, die reiche Zitrone aus Level 5, dachte wirklich, sie könnte mich vor ihrer elitären Familie wie einen mittellosen Hausmeister vorführen."
+        },
+        {
+          "s": "Figur",
+          "t": "Samiras Blockade meiner Kreditkarte hatte mich kurz ins Schwitzen gebracht, doch Giselas Demütigung auf dem Geburtstag ihrer Mutter traf mich ins Mark."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Er ist nur mein Laufbursche fürs Grobe.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Lächeln erfror vor versammelter Mannschaft. Doch was die hochnäsige Erbin nicht wusste:"
+        },
+        {
+          "s": "Figur",
+          "t": "Auf dem iPad, das sie mir triumphierend ins Gesicht hielt, um mich wegen angeblicher Flirts bloßzustellen, war nicht Tinder geöffnet."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich entsperrte den Bildschirm und zeigte ihr stattdessen den notariellen Grundbuchauszug des Luxus-Penthouses in der Innenstadt, von dem sie seit Monaten schwärmte."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich hatte die Immobilie heimlich vor drei Wochen bar gekauft – sie gehörte komplett mir, nicht ihr! Giselas Gesicht entgleiste zur Fratze."
+        },
+        {
+          "s": "Figur",
+          "t": "Völlig hysterisch stürmte sie aus dem Raum, ließ ihr eigenes iPad fallen und griff hastig nach einem geteilten Cloud-Link auf ihrem Schreibtisch."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Er ist nur mein Laufbursche fürs Grobe.",
+      "quote_by": {
+        "level": 5,
+        "name": "Gisela",
+        "badge": "12 Monate",
+        "character": "Stern anthropomorphic Lemon woman with puckered sour yellow skin, elegant emerald evening dress, pearl necklace, condescending smirk.",
+        "scene": "A lavish villa ballroom in Munich with crystal chandeliers, lemon woman Gisela addressing guests while belittling peach Felix."
+      },
+      "stats": [
+        {
+          "label": "Dauer",
+          "value": "6 Monate",
+          "bar": 0.45
+        },
+        {
+          "label": "Penthouse",
+          "value": "1.200.000 €",
+          "bar": 0.95
+        },
+        {
+          "label": "Genugtuung",
+          "value": "95 %",
+          "bar": 0.95
+        }
+      ],
+      "character": "Athletic anthropomorphic peach man with soft velvety orange-pink skin, fitted linen shirt, smug victorious grin, glowing digital forehead.",
+      "visual": "A lavish suburban villa garden party during a family celebration. Felix the peach man holds up an iPad displaying property deeds to Gisela the lemon whose arrogant face drops in horror. A small gold coin is embedded in the champagne ice bucket.",
+      "scenes": [
+        "Wide shot of high-society garden party at sun-drenched villa, fruit guests in fine linen suits, gold coin tucked into champagne ice bucket.",
+        "Medium two-shot of Gisela the lemon gesturing dismissively toward buff Felix with a cold smirk, gold coin resting on the linen banquet tablecloth.",
+        "Close up on Felix turning the tables, holding out the iPad showing his property deed, forehead display ticking from 6 Monate to 8 Monate, gold coin by silver punch bowl.",
+        "Over the shoulder shot of aristocratic vegetable guests turning their heads in utter disbelief at Gisela, gold coin hidden inside a decorative planter.",
+        "Interior dim shot of private library with mahogany bookshelves, Gisela pale and frantic staring at Felix's legal deed, gold coin on antique desk.",
+        "Detail macro of the glowing iPad screen showing the notary registration seal, gold coin sitting next to an inkwell."
+      ],
+      "caption": "Level 4: Als Laufbursche verspottet, doch ihm gehört das Penthouse bar! Wer zuletzt lacht! #situationship #karma #plotttwist #immobilien"
+    },
+    {
+      "n": 5,
+      "open_loop": "Was verbarg sich hinter dem Platinring in Noras Tasche?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Wirft ihr nach einem Jahr vollem Einsatz herablassend einen Kellerschlüssel hin und verweigert die Bindung."
+      },
+      "name": "Gisela, 28, Gymnasiallehrerin",
+      "badge": "12 Monate",
+      "verdict": "ENTLARVT",
+      "story": "365 Tage wusch ich seine Designerhemden und kaufte sein 2.400-Euro-Sofa – gestern warf er mir einen Kellerschlüssel hin mit den Worten: Reicht doch für dich. Ich bin Gisela, Gymnasiallehrerin, und auf meiner Stirn lodert ein ganzes Jahr verbrannte Lebenszeit. Felix besaß zwar heimlich jenes Penthouse, doch mein wahrer emotionaler Ruin war Jonas, der arrogante Brokkoli-Programmierer aus Level 6. Sechstausend Euro Monatsgehalt, aber zu geizig für ein Mindestmaß an Respekt. Jeden Sonntag bekochte ich ihn, putzte sein Loft und investierte mein Erspartes in seine Einrichtung. Als ich ihn nach zwölf Monaten endlich um den Wohnungsschlüssel bat, grinste er kalt: Ein Schlüssel bedeutet Bindung, und Bindung erstickt meine Freiheit. Nimm den Kellerschlüssel für deine Kisten. Meine Kehle schnürte sich zu vor Abscheu. Als Jonas kurz unter die Dusche ging, riss ich seinen Laptop an mich und öffnete seine geteilte Dropbox. Was ich dort fand, waren keine Programmzeilen: Es war ein akribisch geführtes Excel-Dossier über vier Frauen gleichzeitig – inklusive Notizen über intime Schwachstellen, Ausgaben und emotionale Hebel. Mein Zittern schlug in eiskalte Rachsucht um, denn ich schwor mir, dieses System ein für alle Mal zu zerschlagen. Das siehst du in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+6 Monate",
+        "after": "18 Monate"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "365 Tage wusch ich seine Designerhemden und kaufte sein 2.400-Euro-Sofa – gestern warf er mir einen Kellerschlüssel hin mit den Worten: Reicht doch für dich."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Gisela, Gymnasiallehrerin, und auf meiner Stirn lodert ein ganzes Jahr verbrannte Lebenszeit."
+        },
+        {
+          "s": "Figur",
+          "t": "Felix besaß zwar heimlich jenes Penthouse, doch mein wahrer emotionaler Ruin war Jonas, der arrogante Brokkoli-Programmierer aus Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Sechstausend Euro Monatsgehalt, aber zu geizig für ein Mindestmaß an Respekt. Jeden Sonntag bekochte ich ihn, putzte sein Loft und investierte mein Erspartes in seine Einrichtung."
+        },
+        {
+          "s": "Figur",
+          "t": "Als ich ihn nach zwölf Monaten endlich um den Wohnungsschlüssel bat, grinste er kalt:"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Ein Schlüssel bedeutet Bindung, und Bindung erstickt meine Freiheit. Nimm den Kellerschlüssel für deine Kisten.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Kehle schnürte sich zu vor Abscheu."
+        },
+        {
+          "s": "Figur",
+          "t": "Als Jonas kurz unter die Dusche ging, riss ich seinen Laptop an mich und öffnete seine geteilte Dropbox."
+        },
+        {
+          "s": "Figur",
+          "t": "Was ich dort fand, waren keine Programmzeilen: Es war ein akribisch geführtes Excel-Dossier über vier Frauen gleichzeitig – inklusive Notizen über intime Schwachstellen, Ausgaben und emotionale Hebel."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Zittern schlug in eiskalte Rachsucht um, denn ich schwor mir, dieses System ein für alle Mal zu zerschlagen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Ein Schlüssel bedeutet Bindung, und Bindung erstickt meine Freiheit. Nimm den Kellerschlüssel für deine Kisten.",
+      "quote_by": {
+        "level": 6,
+        "name": "Jonas",
+        "badge": "24 Monate",
+        "character": "Intellectual anthropomorphic Broccoli man with textured leafy green afro, dark tortoiseshell glasses, navy turtleneck, condescending smirk.",
+        "scene": "A minimalist industrial loft in Frankfurt, Jonas the broccoli leaning against concrete pillar holding a coffee mug, rejecting Gisela."
+      },
+      "stats": [
+        {
+          "label": "Dauer",
+          "value": "12 Monate",
+          "bar": 0.65
+        },
+        {
+          "label": "Opferzahl",
+          "value": "4 Frauen",
+          "bar": 0.8
+        },
+        {
+          "label": "Investition",
+          "value": "3.100 €",
+          "bar": 0.72
+        }
+      ],
+      "character": "Bitter and resolute anthropomorphic lemon woman with bright yellow peel texture, tailored magenta blazer, furious eyes, glowing digital forehead counter.",
+      "visual": "A stylish minimalist Frankfurt industrial loft with exposed concrete. Gisela the lemon woman furiously photographs a hidden spreadsheet dossier on Jonas' open laptop while the sound of a shower runs in the background. A small gold coin is tucked under the laptop stand.",
+      "scenes": [
+        "Wide shot of high-end Frankfurt penthouse loft, massive glass windows, Gisela standing by expensive green sofa, gold coin on wooden floorboard.",
+        "Medium two-shot of Jonas the broccoli tossing a rusty basement key at Gisela with a callous smirk, gold coin near coffee machine.",
+        "Close up on Gisela's lemon face, citrus pores tightening in rage, digital forehead glowing 12 Monate, gold coin resting on window sill.",
+        "Detail shot of Gisela holding the rusty basement key in utter disgust, gold coin glinting behind the key fob.",
+        "Over the shoulder shot of Jonas' open laptop on the designer glass table, cursor highlighting an Excel file labeled 'Dating-Funnel & Hebel', gold coin by mousepad.",
+        "Dramatic low angle shot of Gisela copying the dossier onto a USB stick, city skyline behind her, gold coin in base of floor lamp."
+      ],
+      "caption": "Level 5: Nach einem Jahr nur der Kellerschlüssel – und in der Dropbox das Dossier seiner Affären! #situationship #bindungsangst #exposed #toxicmen #drama"
+    },
+    {
+      "n": 6,
+      "open_loop": "Was enthüllte der Umschlag von Viktors Chauffeur wirklich?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Schickt ihn vor ihrem milliardenschweren Chef eiskalt mit dem Uber weg und leugnet zwei Jahre Beziehung."
+      },
+      "name": "Jonas, 30, IT-Sicherheitsarchitekt",
+      "badge": "24 Monate",
+      "verdict": "SCHLAGFERTIG",
+      "story": "Nimm dir ein Uber, wir schulden uns gar nichts – zischte sie nach zwei Jahren Beziehung, als ihr millionenschwerer Chef den Raum betrat. Ich bin Jonas, IT-Sicherheitsarchitekt in Frankfurt. Auf meiner Stirn glühen vierundzwanzig Monate – zwei Jahre pure Illusion. Gisela hatte mein Dossier in der Dropbox gefunden, doch sie begriff den Kontext nicht: Es war eine forensische Analyse betrügerischer Konten. Mein Herz gehörte allein Nora, der Blaubeere aus Level 7. Für ihre Eventagentur programmierte ich gratis die gesamte Buchungsplattform und sicherte ihre Server gegen Hacker ab. Gestern Nacht auf ihrer pompösen Rooftop-Gala im 40. Stock wollte ich sie endlich umarmen. Nimm dir ein Uber, wir schulden uns gar nichts. Doch als ihr schwerreicher Investor auftauchte, stieß sie mich kaltblütig vor den Augen der Gäste weg wie einen Straßenköter. Was Nora in ihrer grenzenlosen Überheblichkeit vergaß: Als leitender Architekt besitze ich bis heute vollen Root-Zugriff auf das gesamte Netzwerk ihrer Agentur und sämtliche Finanzströme. Vor dem Fahrstuhl stolperte sie, ihre Tasche fiel zu Boden und eine Schatulle sprang auf. Darin lag ein Platin-Verlobungsring mit einer Gravur, die ihren bevorstehenden tiefen Fall und meinen Gegenschlag besiegeln wird. Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+12 Monate",
+        "after": "36 Monate"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Nimm dir ein Uber, wir schulden uns gar nichts – zischte sie nach zwei Jahren Beziehung, als ihr millionenschwerer Chef den Raum betrat."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Jonas, IT-Sicherheitsarchitekt in Frankfurt. Auf meiner Stirn glühen vierundzwanzig Monate – zwei Jahre pure Illusion."
+        },
+        {
+          "s": "Figur",
+          "t": "Gisela hatte mein Dossier in der Dropbox gefunden, doch sie begriff den Kontext nicht: Es war eine forensische Analyse betrügerischer Konten."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Herz gehörte allein Nora, der Blaubeere aus Level 7. Für ihre Eventagentur programmierte ich gratis die gesamte Buchungsplattform und sicherte ihre Server gegen Hacker ab."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern Nacht auf ihrer pompösen Rooftop-Gala im 40. Stock wollte ich sie endlich umarmen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Nimm dir ein Uber, wir schulden uns gar nichts.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch als ihr schwerreicher Investor auftauchte, stieß sie mich kaltblütig vor den Augen der Gäste weg wie einen Straßenköter."
+        },
+        {
+          "s": "Figur",
+          "t": "Was Nora in ihrer grenzenlosen Überheblichkeit vergaß: Als leitender Architekt besitze ich bis heute vollen Root-Zugriff auf das gesamte Netzwerk ihrer Agentur und sämtliche Finanzströme."
+        },
+        {
+          "s": "Figur",
+          "t": "Vor dem Fahrstuhl stolperte sie, ihre Tasche fiel zu Boden und eine Schatulle sprang auf."
+        },
+        {
+          "s": "Figur",
+          "t": "Darin lag ein Platin-Verlobungsring mit einer Gravur, die ihren bevorstehenden tiefen Fall und meinen Gegenschlag besiegeln wird."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Nimm dir ein Uber, wir schulden uns gar nichts.",
+      "quote_by": {
+        "level": 7,
+        "name": "Nora",
+        "badge": "48 Monate",
+        "character": "Gorgeous anthropomorphic Blueberry woman with deep indigo velvety skin, glittering silver sequin party dress, dark lipstick, cruel eyes.",
+        "scene": "A neon-lit skyline rooftop club in Frankfurt, Nora the blueberry sneering at broccoli Jonas with illuminated city towers behind."
+      },
+      "stats": [
+        {
+          "label": "Dauer",
+          "value": "24 Monate",
+          "bar": 0.8
+        },
+        {
+          "label": "System-Macht",
+          "value": "Root-Admin",
+          "bar": 1.0
+        },
+        {
+          "label": "Vergeltung",
+          "value": "Bereit",
+          "bar": 0.95
+        }
+      ],
+      "character": "Sharp intellectual anthropomorphic broccoli man in charcoal blazer, tortoiseshell glasses, calm cold calculating demeanor, glowing forehead.",
+      "visual": "A vibrant high-end Frankfurt rooftop lounge at midnight with towering skyscrapers. Jonas the broccoli man calmly looks at his smartphone console while blueberry Nora turns her back in haughty dismissal. A small gold coin is balanced on the edge of the terrace glass barrier.",
+      "scenes": [
+        "Wide establishing shot of crowded rooftop bar overlooking Frankfurt skyline, glowing neon, Jonas holding his phone terminal, gold coin on bar counter.",
+        "Medium two-shot of glamorous blueberry Nora checking her smartphone, blowing off Jonas with a contemptuous smirk, gold coin by champagne bucket.",
+        "Close up on Jonas' broccoli face as his forehead counter flickers from 24 Monate to 36 Monate, server code running in glasses reflection, gold coin on table.",
+        "Low angle shot of Nora turning her back dramatically, silver sequin dress shimmering in spotlights, gold coin on rooftop wooden floorboard.",
+        "Detail macro of an open velvet ring box on the dark lounge carpet, showing diamond ring engraved with Viktor's initials, gold coin next to purse strap.",
+        "Medium shot of Jonas holding the dropped ring box, knowing he controls her company's entire digital backbone, gold coin beneath club stool."
+      ],
+      "caption": "Level 6: 'Wir schulden uns gar nichts' – dumm nur, wenn er Admin-Rechte über deine ganze Firma hat! #situationship #itprofi #rache #frankfurt #karma"
+    },
+    {
+      "n": 7,
+      "open_loop": "Was geschah, als Viktor vor dem Späti auf das Mädchen mit der Zahnbürste traf?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Nennt vier Jahre Hingabe billigen Zeitvertreib und flieht in seine gepanzerte Limousine."
+      },
+      "name": "Nora, 33, Eventmanagerin & Galeristin",
+      "badge": "48 Monate",
+      "verdict": "MACHTÜBERNAHME",
+      "story": "Du bist nur billiger Zeitvertreib – sagte Viktor im Hermès-Mantel, nachdem ich vier Jahre lang seine heimlichen Kunstfälschungen gedeckt habe. Ich bin Nora, Eventmanagerin. Auf meiner Stirn flackern achtundvierzig Monate Schande und verlorene Jugend. Jonas glaubte, er könnte mich erpressen, doch mein wahrer Gebieter war Viktor, der mächtige Granatapfel aus Level 8. Vier Jahre lang hielt er mich mit dem Versprechen hin, seine Scheinehe aufzulösen. Vier Jahre lang fälschte ich Frachtpapiere und Herkunftszertifikate millionenschwerer Kunstwerke in seiner Galerie. Gestern wartete ich im eisigen Schneeregen vor den Toren seines Auktionshauses. Als er heraustrat, flehte ich ihn an, endlich öffentlich zu mir zu stehen. Du bist nur billiger Zeitvertreib. Doch er schob mich mit seinen ledernen Handschuhen wie Abfall zur Seite. Als seine Limousine anrollte, reichte mir sein Chauffeur jedoch einen versiegelten schwarzen Umschlag. Es war kein sentimentaler Abschiedsbrief, sondern eine notarielle Schenkungsurkunde: Um einer Razzia der Steuerfahndung zu entgehen, hatte Viktor mir heimlich einundfünfzig Prozent der Galerieanteile übertragen. Ich bin nun Mehrheitseigentümerin seines Lebenswerks – und halte sein gesamtes Schicksal nun in meinen Händen, während er ahnungslos in die Nacht davonraste. Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "+24 Monate",
+        "after": "72 Monate"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Du bist nur billiger Zeitvertreib – sagte Viktor im Hermès-Mantel, nachdem ich vier Jahre lang seine heimlichen Kunstfälschungen gedeckt habe."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Nora, Eventmanagerin. Auf meiner Stirn flackern achtundvierzig Monate Schande und verlorene Jugend."
+        },
+        {
+          "s": "Figur",
+          "t": "Jonas glaubte, er könnte mich erpressen, doch mein wahrer Gebieter war Viktor, der mächtige Granatapfel aus Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Vier Jahre lang hielt er mich mit dem Versprechen hin, seine Scheinehe aufzulösen. Vier Jahre lang fälschte ich Frachtpapiere und Herkunftszertifikate millionenschwerer Kunstwerke in seiner Galerie."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern wartete ich im eisigen Schneeregen vor den Toren seines Auktionshauses. Als er heraustrat, flehte ich ihn an, endlich öffentlich zu mir zu stehen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du bist nur billiger Zeitvertreib.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch er schob mich mit seinen ledernen Handschuhen wie Abfall zur Seite."
+        },
+        {
+          "s": "Figur",
+          "t": "Als seine Limousine anrollte, reichte mir sein Chauffeur jedoch einen versiegelten schwarzen Umschlag."
+        },
+        {
+          "s": "Figur",
+          "t": "Es war kein sentimentaler Abschiedsbrief, sondern eine notarielle Schenkungsurkunde: Um einer Razzia der Steuerfahndung zu entgehen, hatte Viktor mir heimlich einundfünfzig Prozent der Galerieanteile übertragen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin nun Mehrheitseigentümerin seines Lebenswerks – und halte sein gesamtes Schicksal nun in meinen Händen, während er ahnungslos in die Nacht davonraste."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Du bist nur billiger Zeitvertreib.",
+      "quote_by": {
+        "level": 8,
+        "name": "Viktor",
+        "badge": "84 Monate",
+        "character": "Older sophisticated anthropomorphic Pomegranate gentleman with deep ruby crowned skin, tailored black bespoke cashmere coat, icy arrogant gaze.",
+        "scene": "Outside an elite art gallery in Berlin under freezing sleet, pomegranate gentleman Viktor ruthlessly turning away crying blueberry Nora."
+      },
+      "stats": [
+        {
+          "label": "Dauer",
+          "value": "48 Monate",
+          "bar": 0.92
+        },
+        {
+          "label": "Galerieanteile",
+          "value": "51 %",
+          "bar": 1.0
+        },
+        {
+          "label": "Machtstatus",
+          "value": "Eigentümerin",
+          "bar": 1.0
+        }
+      ],
+      "character": "Formidable anthropomorphic blueberry woman with deep indigo skin, wet designer trench coat, fierce triumphant expression holding legal papers, glowing digital forehead.",
+      "visual": "A snowy boulevard outside a glass-fronted elite Berlin contemporary art gallery at dusk. Nora the blueberry woman clutches legal notary deeds transferring the gallery to her, while Viktor the pomegranate speeds away in his limousine. A small gold coin is frozen into the icy curb.",
+      "scenes": [
+        "Wide shot of freezing dusk outside a high-end minimalist art gallery, snow flurry, Nora standing with legal documents, gold coin half-buried in slush.",
+        "Medium two-shot of Viktor the pomegranate stepping into the snow, looking down his nose at Nora with ruthless detachment, gold coin on gallery doorframe.",
+        "Close up on Nora's blueberry face, tear trails turning into a predatory smile, digital forehead showing 48 Monate, gold coin resting on car tire.",
+        "Detail macro of Viktor's gloved hand pushing Nora's arm away, diamond cufflinks catching gallery light, gold coin on sidewalk curb.",
+        "Two-shot of the black limousine door held open by a chauffeur who slips the notary envelope to Nora, gold coin under the car door handle.",
+        "Low angle shot of Nora clutching the 51% ownership deed on the desolate sidewalk as the limousine speeds away, gold coin near puddle."
+      ],
+      "caption": "Level 7: Er nannte sie 'billigen Zeitvertreib' – und überschrieb ihr versehentlich 51% seiner Galerie! #situationship #powerplay #galerie #berlin"
+    },
+    {
+      "n": 8,
+      "open_loop": "Wird der ewige Kreislauf der Situationships je durchbrochen?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Weist Viktors heuchlerische Hilfe ab und wirft ihm seine eigene verpfuschte Existenz vor."
+      },
+      "name": "Viktor, 38, Kunsthändler",
+      "badge": "84 Monate",
+      "verdict": "VERDAMMNIS",
+      "story": "Sieben Jahre Situationship – 84 Monate Lüge, bis ich vor dem Späti das Mädchen mit der Zahnbürste sah und begriff: Ich habe meine eigene Tochter zerstört. Ich bin Viktor, Galerist, und auf meiner Stirn brennt die Rekordstrafe von vierundachtzig Monaten. Ich dachte, ich hätte Nora mit den Galerieanteilen ausmanövriert, doch die Leere in meiner Brust trieb mich um drei Uhr morgens hinaus in den Regen. Am Späti an der Schönhauser Allee sah ich ein zitterndes Erdbeer-Mädchen, das von einem Kirsch-Typen verhöhnt wurde. Als ich näher trat, erkannte ich die Signatur ihres Kunstwerks, für das meine Galerie gerade zehntausend Euro geboten hatte – und das Muttermal an ihrem Hals. Mia ist die Tochter, die ich vor zwanzig Jahren im Stich ließ, um mein oberflächliches Statussymbol-Leben aufzubauen. Ich eilte zu ihr, reichte ihr meinen Kaschmirmantel und flehte: Vergib mir, Mia. Geh nicht denselben dunklen Weg wie ich. Fass mich nicht an, du fremder Heuchler. Ich brauche deine Almosen nicht! In diesem Augenblick begriff ich, dass Geld und Erfolg wertlos sind, wenn die Seele verrottet ist. Der Fluch schließt sich genau hier, wo alles begann. Das siehst du in Level 1.",
+      "gender": "m",
+      "twist": {
+        "delta": "+0 Monate",
+        "after": "84 Monate"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Sieben Jahre Situationship – 84 Monate Lüge, bis ich vor dem Späti das Mädchen mit der Zahnbürste sah und begriff: Ich habe meine eigene Tochter zerstört."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Viktor, Galerist, und auf meiner Stirn brennt die Rekordstrafe von vierundachtzig Monaten."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich dachte, ich hätte Nora mit den Galerieanteilen ausmanövriert, doch die Leere in meiner Brust trieb mich um drei Uhr morgens hinaus in den Regen."
+        },
+        {
+          "s": "Figur",
+          "t": "Am Späti an der Schönhauser Allee sah ich ein zitterndes Erdbeer-Mädchen, das von einem Kirsch-Typen verhöhnt wurde."
+        },
+        {
+          "s": "Figur",
+          "t": "Als ich näher trat, erkannte ich die Signatur ihres Kunstwerks, für das meine Galerie gerade zehntausend Euro geboten hatte – und das Muttermal an ihrem Hals."
+        },
+        {
+          "s": "Figur",
+          "t": "Mia ist die Tochter, die ich vor zwanzig Jahren im Stich ließ, um mein oberflächliches Statussymbol-Leben aufzubauen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich eilte zu ihr, reichte ihr meinen Kaschmirmantel und flehte: Vergib mir, Mia. Geh nicht denselben dunklen Weg wie ich."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Fass mich nicht an, du fremder Heuchler. Ich brauche deine Almosen nicht!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Augenblick begriff ich, dass Geld und Erfolg wertlos sind, wenn die Seele verrottet ist. Der Fluch schließt sich genau hier, wo alles begann."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 1."
+        }
+      ],
+      "quote": "Fass mich nicht an, du fremder Heuchler. Ich brauche deine Almosen nicht!",
+      "quote_by": {
+        "level": 1,
+        "name": "Mia",
+        "badge": "14 Tage",
+        "character": "Fierce young anthropomorphic strawberry art student in oversized pastel denim jacket, defiant eyes, holding her toothbrush.",
+        "scene": "Outside the neon-lit Späti in the pouring rain, young strawberry Mia fiercely confronting pomegranate Viktor."
+      },
+      "stats": [
+        {
+          "label": "Dauer",
+          "value": "84 Monate",
+          "bar": 1.0
+        },
+        {
+          "label": "Verlorene Zeit",
+          "value": "7 Jahre",
+          "bar": 1.0
+        },
+        {
+          "label": "Erkenntnis",
+          "value": "Zu spät",
+          "bar": 1.0
+        }
+      ],
+      "character": "Distinguished anthropomorphic pomegranate man with crown-shaped head, deep crimson wrinkled skin, soaked charcoal designer coat, shattered gaze, glowing forehead reading 84 Monate.",
+      "visual": "A rain-drenched Berlin Späti sidewalk at 3 AM. Viktor the pomegranate man in a wet luxury cashmere coat breaks down in front of strawberry Mia, his long-lost daughter, completing the dramatic loop of the entire city. A small gold coin shines in a rain puddle.",
+      "scenes": [
+        "Wide atmospheric shot of desolate neon Späti in Berlin Prenzlauer Berg at 3 AM, torrential rain, Viktor staring in horror at Mia, gold coin in water puddle.",
+        "Medium two-shot of Viktor extending trembling hands toward Mia whose forehead glows with 14 Tage, gold coin resting on the newspaper stand.",
+        "Close up on Viktor's weathered pomegranate face, realizing the painting he bought was created by his daughter, forehead glowing with 84 Monate, gold coin in beer crate.",
+        "Reverse angle of Mia recoiling in disgust from Viktor, rain dripping from her strawberry leaves, gold coin on pavement.",
+        "Detail shot of the wet sidewalk where the loop connects: Tom's dropped key, the gallery contract, and Mia's toothbrush case, gold coin shining between cobblestones.",
+        "Cinematic final wide shot of the endless rain over Berlin as the loop resets, street lights reflecting in puddles, gold coin on storm drain."
+      ],
+      "caption": "Level 8: 7 Jahre Lüge – bis er vor dem Späti begriff, dass er seine eigene Tochter zerstört hat! Der Kreislauf schließt sich! #situationship #finale #plottwist #drama"
+    }
+  ],
+  "lang": "de",
+  "topic": "Die Dauer einer ungelabelten Situationship",
+  "frame": "frucht"
+}
