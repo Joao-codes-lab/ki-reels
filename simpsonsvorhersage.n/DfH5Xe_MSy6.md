@@ -2,7 +2,7 @@
 
 - URL: https://www.instagram.com/p/DfH5Xe_MSy6/
 - Dauer: 109.3 s, Sprache: de
-- Likes: 3675, Kommentare: 119, Views: 135690
+- Likes: 5473, Kommentare: 162, Views: 213098
 - Datum: 2026-10-30T15:26:07.000Z
 
 ## Beschreibung
@@ -12,49 +12,55 @@ Teil 4!
 ## Transkript
 
 [  0.0s] Ich kenne jemanden, der uns eine Poliermaschine leihen könnte.
-[  2.5s] Wen?
-[  3.0s] Mein Ex.
+[  2.6s] Wen?
+[  3.2s] Mein Ex.
 [  4.0s] Wenn er uns helfen kann, rufe ihn an.
-[  6.0s] Tupayas, bei Malik ist die Maschine ausgefallen. Der Wagen muss morgen um 10 fertig sein.
-[  9.5s] Ich habe eine als Reserve. Ich bringe sie euch vorbei.
-[ 12.0s] Du bist also Malik. Lea hat mir von deiner Arbeit erzählt.
-[ 15.0s] Danke, dass du gekommen bist. Lea würde für mich dasselbe tun.
-[ 18.0s] Du bekommst sie morgen zurück.
-[ 20.0s] Ich hole sie nach 10 ab, dann brauche ich sie wieder.
-[ 22.5s] Bei mir stapeln sich die Aufträge.
-[ 24.5s] Für Kunden und Termine brauche ich dringend jemanden.
-[ 26.5s] Dann reden wir morgen. Heute müssen wir erst diesen Wagen fertig bekommen.
-[ 31.4s] Bei ihm läuft es. Bei mir fällt mitten im ersten Auftrag die Maschine aus.
-[ 34.9s] Die Maschine ist von ihm. Die Arbeit machst du.
-[ 36.9s] Ich meinte nicht nur die Werkstatt.
-[ 38.9s] Ich wäre nicht hier, wenn du mir egal wärst.
-[ 40.9s] Du musst nicht die ganze Nacht bleiben.
-[ 42.9s] Morgen habe ich frei. Und jetzt sind wir schon so weit.
-[ 45.9s] Kannst du die Übergabe vorbereiten?
-[ 47.9s] Dann kann ich mich auf den Wagen konzentrieren.
-[ 49.9s] Ja, aber kontrollieren musst du ihn selbst.
-[ 51.9s] Sobald der Kunde bezahlt hat, bezahle ich dir die Stunden.
-[ 54.9s] Dann reden wir morgen darüber, was du dir leisten kannst.
-[ 61.0s] Frühstück. Von Kaffee allein wird der Wagen auch nicht fertig.
-[ 64.0s] Hast du die ganze Nacht gearbeitet, Papa?
-[ 66.0s] Ja, aber unser Sonntag bleibt unser Sonntag. Versprochen.
-[ 68.0s] Sind sie fertig?
-[ 72.1s] Ja, schauen sie selbst.
-[ 74.1s] Sie haben ihr Wort gehalten.
-[ 76.1s] Sie haben ihr vertraut. Das wollte ich nicht verspielen.
-[ 78.1s] Ich empfehle sie weiter.
-[ 81.8s] Hat alles geklappt? Ja, hat alles geklappt.
-[ 83.8s] Der Kunde hat den Wagen pünktlich um 10 abgeholt.
-[ 85.8s] Danke noch mal.
-[ 87.3s] Lea, ich meine das ernst.
-[ 88.8s] Ich brauche jemanden für die Kunden und die Termine.
-[ 90.8s] Festes Stelle, geregelte Zeiten.
-[ 92.8s] Ich möchte, dass du bei mir anfängst.
-[ 94.8s] Geht es dir wirklich nur um die Arbeit?
-[ 96.8s] Und ich würde mich freundlich wieder öfter zu sehen.
-[ 98.8s] Schlaf erst mal drüber. Wir reden morgen.
-[100.8s] Ich kann dir heute noch kein festes Gehalt versprechen.
-[104.8s] Und wenn ich sein Angebot annehme, was bedeutet das für uns?
+[  6.2s] Tupayas, bei Malik ist die Maschine ausgefallen.
+[  8.0s] Der Wagen muss morgen um 10 fertig sein.
+[  9.6s] Ich habe eine als Reserve. Ich bringe sie euch vorbei.
+[ 12.2s] Du bist also Malik.
+[ 13.4s] Lea hat mir von deiner Arbeit erzählt.
+[ 15.2s] Danke, dass du gekommen bist.
+[ 16.6s] Lea würde für mich dasselbe tun.
+[ 18.4s] Du bekommst sie morgen zurück.
+[ 20.4s] Ich hole sie nach 10 ab, dann brauche ich sie wieder.
+[ 22.8s] Bei mir stapeln sich die Aufträge.
+[ 24.6s] Für Kunden und Termine brauche ich dringend jemanden.
+[ 26.6s] Dann reden wir morgen.
+[ 27.6s] Heute müssen wir erst diesen Wagen fertig bekommen.
+[ 31.4s] Bei ihm läuft es.
+[ 32.7s] Bei mir fällt mitten im ersten Auftrag die Maschine aus.
+[ 34.7s] Die Maschine ist von ihm. Die Arbeit machst du.
+[ 36.7s] Ich meinte nicht nur die Werkstatt.
+[ 38.7s] Ich wäre nicht hier, wenn du mir egal wärst.
+[ 40.7s] Du musst nicht die ganze Nacht bleiben.
+[ 42.7s] Morgen habe ich frei. Und jetzt sind wir schon so weit.
+[ 45.7s] Kannst du die Übergabe vorbereiten?
+[ 47.7s] Dann kann ich mich auf den Wagen konzentrieren.
+[ 49.7s] Ja, aber kontrollieren musst du ihn selbst.
+[ 51.7s] Sobald der Kunde bezahlt hat, bezahle ich dir die Stunden.
+[ 54.7s] Dann reden wir morgen darüber, was du dir leisten kannst.
+[ 57.7s] Frühstück. Von Kaffee allein wird der Wagen auch nicht fertig.
+[ 63.9s] Hast du die ganze Nacht gearbeitet, Papa?
+[ 65.9s] Ja, aber unser Sonntag bleibt unser Sonntag.
+[ 67.9s] Versprochen. Sind sie fertig?
+[ 72.0s] Ja, schauen sie selbst.
+[ 74.0s] Sie haben ihr Wort gehalten.
+[ 76.0s] Sie haben ihr vertraut. Das wollte ich nicht verspielen.
+[ 78.0s] Ich empfehle sie weiter.
+[ 81.7s] Hat alles geklappt?
+[ 83.7s] Ja, hat alles geklappt.
+[ 85.7s] Der Kunde hat den Wagen pünktlich um 10 abgeholt.
+[ 87.7s] Danke noch mal.
+[ 89.7s] Lea, ich meine das ernst.
+[ 91.7s] Ich brauche jemanden für die Kunden und die Termine.
+[ 93.7s] Feste Stelle, geregelte Zeiten.
+[ 95.8s] Die Stelle ist echt.
+[ 97.8s] Ich würde mich wieder öfter sehen.
+[ 99.8s] Schlaf erst mal drüber. Wir reden morgen.
+[101.8s] Ich kann dir heute noch kein festes Gehalt versprechen.
+[103.8s] Und wenn ich sein Angebot annehme,
+[105.8s] was bedeutet das für uns?
 
 ## Analyse (Gemini sieht und hört das Video)
 
