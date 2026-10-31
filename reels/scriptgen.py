@@ -416,6 +416,14 @@ def blueprint_hint(topic):
             f"{rules}\n- Mögliche Hooks (frei abwandeln): {hooks}\n")
 
 
+GERMAN_WORDS = {"und", "der", "die", "das", "ich", "nicht", "mit", "ist", "ein", "eine", "auf", "mich", "mir", "sich", "auch", "aber"}
+
+
+def _looks_german(text):
+    words = re.findall(r"[a-zäöüß]+", text.lower())
+    return bool(words) and sum(w in GERMAN_WORDS for w in words) / len(words) > 0.08
+
+
 def write_series(topic, lang, frame="aufzug"):
     fr = FRAMES[frame]
     prompt = SERIES_PROMPT.format(topic=topic, lang_name=LANG_NAMES[lang], country=COUNTRIES[lang],
@@ -429,12 +437,17 @@ def write_series(topic, lang, frame="aufzug"):
         s = ensure_next_line(validate_series(ask(prompt)), lang)
         s = ensure_next_line(validate_series(critic.improve_series(s, ask, f"{lang}_{frame}_{topic}")), lang)
         words = len(s["levels"][0]["story"].split())
+        if lang != "de" and _looks_german(s["levels"][0]["story"]):
+            # Ersatz-KIs schreiben bei deutschem Prompt gern auf Deutsch: eine EN-Folge mit deutscher Stimme ist wertlos
+            print("  Story ist Deutsch statt", LANG_NAMES[lang], "– neuer Versuch")
+            prompt += f"\nWICHTIG: Schreibe ALLE Texte (Titel, Story, Zeilen, Captions) ausschließlich auf {LANG_NAMES[lang]}."
+            continue
         if words >= min_words:
             break
         # Ersatz-KIs (wenn Gemini am Limit ist) ignorieren gern die Länge: lieber neu als ein 20-Sekunden-Video
         print(f"  Story zu kurz ({words} Wörter), neuer Versuch")
     else:
-        raise ValueError(f"Story bleibt zu kurz ({words} Wörter)")
+        raise ValueError(f"Story bleibt zu kurz oder in falscher Sprache ({words} Wörter)")
     s.update({"lang": lang, "topic": topic, "frame": frame})
     return s
 
