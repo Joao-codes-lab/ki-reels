@@ -1,0 +1,723 @@
+{
+  "title": "The 8 Levels of The Unpaid Internship",
+  "house": "A bustling neon-lit metropolis made of farmer-market skyscrapers where every fruit and vegetable citizen commutes through rain-slicked concrete streets carrying a glowing digital number on their forehead.",
+  "catchphrase": "The number on your forehead never lies.",
+  "links": [
+    "Level 1 intern mentions the expensive espresso machine bought by the Director in Level 8.",
+    "Level 3 broccoli intern rides the exact same 7:15 AM subway line as the Level 7 executive.",
+    "The broken elevator in Level 4's corporate office is finally fixed in Level 6."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Who slipped the mysterious green slip into the locked HR mailbox after midnight?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Rejects the timesheet and laughs at the zero-pay policy."
+      },
+      "name": "Oliver, 21, Intern",
+      "badge": "0 $",
+      "verdict": "ZERO PAY",
+      "story": "0 Dollar auf der Stirn? Während der Direktor im Penthouse lacht, wache ich mit leerem Magen auf und muss direkt im eiskalten Keller meine siebzigsten Steuerakten des Tages sortieren. Dieser graue Raum stinkt nach alter Verzweiflung und billigem Kaffee, während oben die Reichen in ihren Sesseln sitzen und Champagner trinken. Du arbeitest hier für die Ehre und den Lebenslauf, Kleiner, nicht für echtes Geld. Jede einzelne Stunde fühlt sich an wie Folter, und meine Hände zittern vor Erschöpfung, weil ich seit zwei Tagen keinen Schlaf mehr gefunden habe. Weine bloß nicht in der Nähe des Druckers, er bricht sofort zusammen, wenn die Luftfeuchtigkeit steigt. Aber heute wird sich alles ändern, denn der alte Laserdrucker hat mir ein streng vertrauliches Dokument ausgespuckt, das den wahren Betrug aufdeckt. Das siehst du in Level 2. You'll see that in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+50 $",
+        "after": "50 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "0 Dollar auf der Stirn? Während der Direktor im Penthouse lacht, wache ich mit leerem Magen auf und muss direkt im eiskalten Keller meine siebzigsten Steuerakten des Tages sortieren."
+        },
+        {
+          "s": "Figur",
+          "t": "Dieser graue Raum stinkt nach alter Verzweiflung und billigem Kaffee, während oben die Reichen in ihren Sesseln sitzen und Champagner trinken."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du arbeitest hier für die Ehre und den Lebenslauf, Kleiner, nicht für echtes Geld.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Jede einzelne Stunde fühlt sich an wie Folter, und meine Hände zittern vor Erschöpfung, weil ich seit zwei Tagen keinen Schlaf mehr gefunden habe."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Weine bloß nicht in der Nähe des Druckers, er bricht sofort zusammen, wenn die Luftfeuchtigkeit steigt.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Aber heute wird sich alles ändern, denn der alte Laserdrucker hat mir ein streng vertrauliches Dokument ausgespuckt, das den wahren Betrug aufdeckt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You work for exposure, kid, not for cash",
+      "quote_by": {
+        "level": 8,
+        "name": "Director Plum",
+        "badge": "25.000 $",
+        "character": "A sleek, polished purple plum wearing a tailored charcoal suit and gold-rimmed glasses, with a glowing green digit on his smooth forehead.",
+        "scene": "Medium shot inside a marble-floored corner office, looking down condescendingly while tapping a shiny designer shoe on a glass desk."
+      },
+      "stats": [
+        {
+          "label": "Stipend",
+          "value": "0 $",
+          "bar": 0.0
+        },
+        {
+          "label": "Hours",
+          "value": "60 hrs",
+          "bar": 0.9
+        },
+        {
+          "label": "Debt",
+          "value": "900 $",
+          "bar": 0.4
+        }
+      ],
+      "character": "A fragile green cucumber with a tense expression, wearing a faded blue hoodie and carrying a frayed canvas bag; a glowing digital '0 $' rests on his forehead.",
+      "visual": "Wide shot of a dreary corporate basement office with flickering fluorescent lights, rows of gray cubicles, and a tiny hidden gold coin resting on the edge of a paper shredder.",
+      "scenes": [
+        "Wide shot: A foggy urban bus stop at dawn where a cucumber intern shivers under a torn umbrella, a gold coin tucked into the metal bench slit.",
+        "Medium shot: Inside a cramped corporate copy room with humming fluorescent lights, paper scattered everywhere.",
+        "Detail shot: A glowing digital '0 $' display on a cucumber's forehead reflecting in a dirty office window.",
+        "Medium shot: A stern eggplant manager pointing a polished finger at a stack of unfiled folders.",
+        "Close-up: A rusted coffee mug sitting next to a glowing red warning light on an old printer.",
+        "Wide shot: The gray corporate lobby at dusk with rain lashing against towering glass windows."
+      ],
+      "caption": "Would you work 65 hours a week for absolutely zero dollars? #Internship #Struggles #CorporateLife #LevelOne #Viral"
+    },
+    {
+      "n": 2,
+      "open_loop": "What secret code was written in red ink on the back of the rejected timesheet?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Confiscates the intern's lunch box to pay for office stationery."
+      },
+      "name": "Maya, 22, Design Intern",
+      "badge": "120 $",
+      "verdict": "BARELY SURVIVING",
+      "story": "120 Dollar? Manager Peach zerreisst mein Portfolio vor laufender Kamera, während ich auf den Knien den kalten Boden schrubbe und meine Tränen runterschlucke. Sie lacht mir ins Gesicht und sagt, dass meine monatelange harte Arbeit wertloser Müll ist, den niemand braucht. Du kannst froh sein, dass dein Name überhaupt im winzigen Kleingedruckten der Credits steht, du nutzlose Anfängerin. Mein ganzer Körper brennt vor purer Wut und Hass, denn in diesen Skizzen steckten zwei Jahre meines Lebens. Achte lieber auf deinen Ton, sonst fliegst du rechtzeitig vor dem Feierabend raus. Aus den zerrissenen Fetzen auf dem Boden werde ich mir meine eigene Gerechtigkeit aufbauen, und sie wird als Erste dafür büssen. Das siehst du in Level 3. You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+150 $",
+        "after": "270 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "120 Dollar? Manager Peach zerreisst mein Portfolio vor laufender Kamera, während ich auf den Knien den kalten Boden schrubbe und meine Tränen runterschlucke."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie lacht mir ins Gesicht und sagt, dass meine monatelange harte Arbeit wertloser Müll ist, den niemand braucht."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du kannst froh sein, dass dein Name überhaupt im winzigen Kleingedruckten der Credits steht, du nutzlose Anfängerin.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein ganzer Körper brennt vor purer Wut und Hass, denn in diesen Skizzen steckten zwei Jahre meines Lebens."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Achte lieber auf deinen Ton, sonst fliegst du rechtzeitig vor dem Feierabend raus.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Aus den zerrissenen Fetzen auf dem Boden werde ich mir meine eigene Gerechtigkeit aufbauen, und sie wird als Erste dafür büssen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "You are lucky we even put your name in the project credits",
+      "quote_by": {
+        "level": 5,
+        "name": "Manager Peach",
+        "badge": "4.500 $",
+        "character": "A smooth, peach-skinned woman in a sharp beige blazer, wearing heavy gold hoops and a glowing 4.500 $ badge on her forehead.",
+        "scene": "Medium shot in a sunlit corporate hallway, crossing her arms disdainfully while looking down at scattered sketches on the floor."
+      },
+      "stats": [
+        {
+          "label": "Stipend",
+          "value": "120 $",
+          "bar": 0.05
+        },
+        {
+          "label": "Hours",
+          "value": "45 hrs",
+          "bar": 0.7
+        },
+        {
+          "label": "Food",
+          "value": "15 $",
+          "bar": 0.1
+        }
+      ],
+      "character": "A bright yellow lemon with a bitter frown, wearing an oversized thrift-store sweater and paint-stained sneakers; a glowing '120 $' shines on her forehead.",
+      "visual": "Medium shot of a chaotic breakroom with fluorescent lighting humming, a stained microwave, and a tiny gold coin resting inside the stainless steel sink drain.",
+      "scenes": [
+        "Medium shot: A yellow lemon scrubbing a greasy microwave interior while fluorescent lights buzz overhead, a gold coin glinting in the drain.",
+        "Close-up: Sketchbook pages fluttering across a wet, soapy tile floor near a vending machine.",
+        "Wide shot: A crowded subway car during rush hour with tired commuters leaning against frosted glass.",
+        "Detail shot: A glowing digital '120 $' display flickering above a lemon's anxious eyes.",
+        "Medium shot: A peach manager dropping a half-eaten bagel into an overflowing metal trash can.",
+        "Wide shot: The exterior of a Brutalist concrete office building under a heavy gray drizzle."
+      ],
+      "caption": "Have you ever had your hard work treated like trash by someone higher up? #InternLife #Design #Struggles #LevelTwo #OfficeDrama"
+    },
+    {
+      "n": 3,
+      "open_loop": "Whose signature was forged on the yellow authorization slip found under the desk?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Steals the last desk adapter and blames the broccoli intern for losing office property."
+      },
+      "name": "Leo, 23, Tech Intern",
+      "badge": "350 $",
+      "verdict": "STRUGGLING",
+      "story": "350 Dollar im Monat – und der Director Lime stiehlt meine ganze Programmierarbeit, während ich seit über dreißig Stunden ohne Schlaf am kalten Schreibtisch sitze. Er nimmt meine Code-Zeilen, kopiert sie in seine Präsentation und tut vor dem gesamten Vorstand so, als wäre er das alleinige Technik-Genie. Du bist nur zum Tippen da, Kleiner, erwarte ja keine Anerkennung für deinen Schrott. Mein Rücken brennt vor Schmerzen, meine Augen brennen vom Bildschirmlicht, und in meiner Brust pocht eine eiskalte Wut. Halt den Mund und mach weiter, sonst fliegst du noch vor Mitternacht raus. Er hat meinen versteckten Master-Key komplett übersehen, der sein ganzes System von innen heraus zum Einsturz bringen wird. Das siehst du in Level 4. You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-50 $",
+        "after": "300 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "350 Dollar im Monat – und der Director Lime stiehlt meine ganze Programmierarbeit, während ich seit über dreißig Stunden ohne Schlaf am kalten Schreibtisch sitze."
+        },
+        {
+          "s": "Figur",
+          "t": "Er nimmt meine Code-Zeilen, kopiert sie in seine Präsentation und tut vor dem gesamten Vorstand so, als wäre er das alleinige Technik-Genie."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du bist nur zum Tippen da, Kleiner, erwarte ja keine Anerkennung für deinen Schrott.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Rücken brennt vor Schmerzen, meine Augen brennen vom Bildschirmlicht, und in meiner Brust pocht eine eiskalte Wut."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Halt den Mund und mach weiter, sonst fliegst du noch vor Mitternacht raus.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Er hat meinen versteckten Master-Key komplett übersehen, der sein ganzes System von innen heraus zum Einsturz bringen wird."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "My coffee budget is higher than your monthly check",
+      "quote_by": {
+        "level": 6,
+        "name": "Director Lime",
+        "badge": "7.800 $",
+        "character": "An arrogant citrus lime in a sharp emerald suit, wearing silver cufflinks and a bright 7.800 $ digit on his forehead.",
+        "scene": "Close-up in a high-tech server room, smirking down at a soldering station while tapping a pen against an expensive watch."
+      },
+      "stats": [
+        {
+          "label": "Stipend",
+          "value": "350 $",
+          "bar": 0.12
+        },
+        {
+          "label": "Coding",
+          "value": "80 hrs",
+          "bar": 0.85
+        },
+        {
+          "label": "Rent",
+          "value": "0 $",
+          "bar": 0.0
+        }
+      ],
+      "character": "A sturdy green broccoli stalk with a tired expression, wearing a worn-out gray hoodie and thick-rimmed glasses; a glowing '350 $' rests on his forehead.",
+      "visual": "Wide shot of a freezing server room lit by blinking blue LED racks, with a tiny gold coin taped secretly under a metal workbench.",
+      "scenes": [
+        "Wide shot: A chilly server room filled with towering black server racks blinking with blue and red LED lights, a gold coin stuck under a desk.",
+        "Medium shot: A broccoli intern hunched over a soldering iron, breathing in faint puffs of rosin smoke.",
+        "Detail shot: A glowing digital '350 $' interface reflecting off a cracked smartphone screen showing an eviction text.",
+        "Medium shot: An arrogant lime manager holding an expensive ceramic mug while mocking the workstation setup.",
+        "Close-up: A frayed hoodie sleeve brushing against a hot soldering tip by accident.",
+        "Wide shot: A narrow hallway lined with glass-paneled meeting rooms reflecting the rainy city outside."
+      ],
+      "caption": "Can your monthly stipend even cover a single week of groceries? #TechIntern #CodingLife #StruggleBus #LevelThree #WorkDrama"
+    },
+    {
+      "n": 4,
+      "open_loop": "What was hidden inside the locked filing cabinet marked 'Property of HR'?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Reassigns the strawberry's desk to the drafty basement storage room."
+      },
+      "name": "Chloe, 20, Marketing Intern",
+      "badge": "600 $",
+      "verdict": "BARELY AFLOAT",
+      "story": "600 Dollar? Der Vize-Chef klaut meine Idee und tut so, als wäre es seine, während ich im strömenden Regen schwere Werbekartons schleppe. Monatelang habe ich an diesem Konzept gearbeitet, und er stellt sich vor den Vorstand und verkauft es als seinen eigenen Geistesblitz. Du bist hier nur zum Schleppen da, Kleine, Ideen kommen von ganz oben. Ich stehe im Schatten und spüre, wie mein Herz rast, während sich pure Rache in meinem Kopf breitmaacht. Lass dich nicht unterkriegen, wir wissen alle, von wem diese brillante Strategie wirklich stammt. Er glaubt, er ist unangreifbar, aber er hat das Originaldokument übersehen, das ich mit einer digitalen Falle versehen habe. Das siehst du in Level 5. You'll see that in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+200 $",
+        "after": "800 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "600 Dollar? Der Vize-Chef klaut meine Idee und tut so, als wäre es seine, während ich im strömenden Regen schwere Werbekartons schleppe."
+        },
+        {
+          "s": "Figur",
+          "t": "Monatelang habe ich an diesem Konzept gearbeitet, und er stellt sich vor den Vorstand und verkauft es als seinen eigenen Geistesblitz."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du bist hier nur zum Schleppen da, Kleine, Ideen kommen von ganz oben.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im Schatten und spüre, wie mein Herz rast, während sich pure Rache in meinem Kopf breitmaacht."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Lass dich nicht unterkriegen, wir wissen alle, von wem diese brillante Strategie wirklich stammt.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Er glaubt, er ist unangreifbar, aber er hat das Originaldokument übersehen, das ich mit einer digitalen Falle versehen habe."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "You are paying us for the networking experience, darling",
+      "quote_by": {
+        "level": 7,
+        "name": "VP Apple",
+        "badge": "14.200 $",
+        "character": "A polished, glossy red apple woman in a crimson designer pantsuit, wearing pearl earrings and a glowing 14.200 $ badge on her forehead.",
+        "scene": "Wide shot in a sunlit stairwell landing, stepping out of a private elevator while casually tossing a dry cleaning receipt onto the floor."
+      },
+      "stats": [
+        {
+          "label": "Stipend",
+          "value": "600 $",
+          "bar": 0.22
+        },
+        {
+          "label": "Steps",
+          "value": "18.000",
+          "bar": 0.6
+        },
+        {
+          "label": "Savings",
+          "value": "45 $",
+          "bar": 0.08
+        }
+      ],
+      "character": "A sweet red strawberry with tiny green leaves on her head, wearing a denim jacket and carrying a heavy cardboard box; a glowing '600 $' shines on her forehead.",
+      "visual": "Medium shot of a sunlit concrete stairwell inside a modern corporate skyscraper, with a tiny gold coin resting on the iron handrail.",
+      "scenes": [
+        "Medium shot: A strawberry intern lugging heavy cardboard boxes up a concrete stairwell, a gold coin glinting on the railing.",
+        "Detail shot: A glowing digital '600 $' display on a strawberry's forehead dripping with nervous sweat.",
+        "Wide shot: A bustling open-plan marketing office filled with ringing phones and chattering staff.",
+        "Medium shot: A glossy red apple executive dropping a dry cleaning ticket onto the floor without looking down.",
+        "Close-up: Worn-out canvas sneaker soles standing on dusty office linoleum.",
+        "Wide shot: The glass facade of a downtown media agency reflecting stormy afternoon clouds."
+      ],
+      "caption": "Have you ever been asked to do personal errands instead of actual work during an internship? #Marketing #InternLife #OfficePolitics #LevelFour #Corporate"
+    },
+    {
+      "n": 5,
+      "open_loop": "Who transferred five hundred mysterious dollars into the intern's emergency fund?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Accuses the coconut intern of breaking the office coffee maker."
+      },
+      "name": "Ben, 24, Finance Intern",
+      "badge": "950 $",
+      "verdict": "ALMOST MAKING IT",
+      "story": "950 Dollar auf der Stirn? Ich entdecke den Betrug des Managers vor allen anderen, während er im Konferenzraum stolz seine angeblich perfekten Bilanzen präsentiert. Mit einem kalten Lächeln trete ich vor die versammelte Mannschaft und lege seinen millionenschweren Berechnungsfehler offen auf den Tisch. Du kleiner Narr verstehst doch ohnehin nichts von echtem Finanzmanagement. Seine Arroganz bricht augenblicklich in sich zusammen und er fängt an zu stottern, weil sein Spiel vorbei ist. Schau dir seinen Blick an, er hat panische Angst, dass die Wahrheit ans Licht kommt. Die Genugtuung brennt in meinen Adern, denn meine Beweise sind absolut wasserdicht und liegen beim Chefprüfer. Das siehst du in Level 7. You'll see that in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+350 $",
+        "after": "1.300 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "950 Dollar auf der Stirn? Ich entdecke den Betrug des Managers vor allen anderen, während er im Konferenzraum stolz seine angeblich perfekten Bilanzen präsentiert."
+        },
+        {
+          "s": "Figur",
+          "t": "Mit einem kalten Lächeln trete ich vor die versammelte Mannschaft und lege seinen millionenschweren Berechnungsfehler offen auf den Tisch."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du kleiner Narr verstehst doch ohnehin nichts von echtem Finanzmanagement.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Seine Arroganz bricht augenblicklich in sich zusammen und er fängt an zu stottern, weil sein Spiel vorbei ist."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Schau dir seinen Blick an, er hat panische Angst, dass die Wahrheit ans Licht kommt.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Die Genugtuung brennt in meinen Adern, denn meine Beweise sind absolut wasserdicht und liegen beim Chefprüfer."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "That is what I spend on a single weekend brunch",
+      "quote_by": {
+        "level": 1,
+        "name": "Oliver",
+        "badge": "0 $",
+        "character": "A tense green cucumber in a faded hoodie, looking exhausted with a glowing zero on his forehead.",
+        "scene": "Medium shot in a chaotic finance office, pointing nervously at a locked desk drawer while holding a stack of audit papers."
+      },
+      "stats": [
+        {
+          "label": "Stipend",
+          "value": "950 $",
+          "bar": 0.35
+        },
+        {
+          "label": "Excel",
+          "value": "99+",
+          "bar": 0.95
+        },
+        {
+          "label": "Sleep",
+          "value": "4 hrs",
+          "bar": 0.2
+        }
+      ],
+      "character": "A tough brown coconut with a hard shell exterior, wearing a neat navy blue vest and wire-rimmed glasses; a glowing '950 $' shines on his forehead.",
+      "visual": "Wide shot of a polished mahogany boardroom with leather chairs, financial charts on screens, and a tiny gold coin hidden beneath a brass desk lamp base.",
+      "scenes": [
+        "Wide shot: A luxurious mahogany boardroom with towering glass windows overlooking the financial district, a gold coin hidden under a brass lamp.",
+        "Medium shot: A brown coconut intern staring intensely at dual computer monitors glowing with green numbers.",
+        "Detail shot: A glowing digital '950 $' display reflecting on a polished wooden desk surface.",
+        "Medium shot: A peach manager slamming a thick audit binder down onto the table with a loud thud.",
+        "Close-up: A tired finger clicking a computer mouse repeatedly at 3:00 AM.",
+        "Wide shot: The neon-lit lobby of an investment bank during a heavy rainstorm."
+      ],
+      "caption": "Is working seventy hours a week for under a thousand dollars even legal? #Finance #Internship #WallStreet #LevelFive #Grind"
+    },
+    {
+      "n": 6,
+      "open_loop": "Why was the corporate safe combination written on the back of the lime's notepad?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Laughs at the orange intern's homemade lunch and spills coffee on her notebook."
+      },
+      "name": "Zoe, 21, Legal Intern",
+      "badge": "1.400 $",
+      "verdict": "SURVIVING",
+      "story": "1.400 Dollar? Der Direktor knallt mir eiskalt die fristlose Kündigung auf den Tisch und lacht hämisch, weil er glaubt, mich für immer aus dem Weg geräumt zu haben. Seine Worte sind Gift, aber er ahnt absolut nicht, dass ich ihm längst eine tödliche Falle gestellt habe. Du wirst hier nie wieder im juristischen Bereich arbeiten, kleine Anfängerin. Der USB-Stick in meiner Manteltasche enthält sämtliche Beweise für seine illegalen Machenschaften und die gefälschten Verträge. Lass dich von diesem Tyrannen nicht einschüchtern, du hast mehr in der Hand, als er denkt. Das ist der offene Loop, der sein gesamtes Imperium noch vor Mitternacht komplett vernichten wird. Das siehst du in Level 7. You'll see that in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+500 $",
+        "after": "1.900 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "1.400 Dollar? Der Direktor knallt mir eiskalt die fristlose Kündigung auf den Tisch und lacht hämisch, weil er glaubt, mich für immer aus dem Weg geräumt zu haben."
+        },
+        {
+          "s": "Figur",
+          "t": "Seine Worte sind Gift, aber er ahnt absolut nicht, dass ich ihm längst eine tödliche Falle gestellt habe."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du wirst hier nie wieder im juristischen Bereich arbeiten, kleine Anfängerin.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Der USB-Stick in meiner Manteltasche enthält sämtliche Beweise für seine illegalen Machenschaften und die gefälschten Verträge."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Lass dich von diesem Tyrannen nicht einschüchtern, du hast mehr in der Hand, als er denkt.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das ist der offene Loop, der sein gesamtes Imperium noch vor Mitternacht komplett vernichten wird."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "That is less than my weekly golf club membership fee",
+      "quote_by": {
+        "level": 2,
+        "name": "Maya",
+        "badge": "120 $",
+        "character": "A bitter yellow lemon in an oversized thrift sweater, holding a stained notepad with an anxious expression.",
+        "scene": "Medium shot inside a dusty archive room, looking up in shock while holding a heavy stack of legal files."
+      },
+      "stats": [
+        {
+          "label": "Stipend",
+          "value": "1.400 $",
+          "bar": 0.5
+        },
+        {
+          "label": "Cases",
+          "value": "40+",
+          "bar": 0.88
+        },
+        {
+          "label": "Groceries",
+          "value": "12 $",
+          "bar": 0.05
+        }
+      ],
+      "character": "A vibrant orange citrus with dark textured peel, wearing a sharp black blazer and wire glasses; a glowing '1.400 $' rests on her forehead.",
+      "visual": "Wide shot of a dimly lit law archive room lined with towering oak bookshelves filled with dusty leather-bound volumes, featuring a tiny gold coin wedged between two old books.",
+      "scenes": [
+        "Wide shot: A massive underground archive room filled with endless shelves of leather-bound case files, a gold coin wedged between two books.",
+        "Medium shot: An orange legal intern sitting cross-legged on the dusty floor surrounded by towering paper stacks.",
+        "Detail shot: A glowing digital '1.400 $' display shining in the dim, amber-lit hallway.",
+        "Medium shot: An arrogant lime director in a sharp suit walking past while checking his expensive gold wristwatch.",
+        "Close-up: A red pen marking corrections across a dense typewritten legal contract.",
+        "Wide shot: The grand marble entrance hall of a downtown courthouse under rainy evening streetlights."
+      ],
+      "caption": "How do you survive in a big city when your entire paycheck vanishes on rent? #LawLife #Internship #StudentDebt #LevelSix #Struggle"
+    },
+    {
+      "n": 7,
+      "open_loop": "What was written on the shredded document found inside the executive shredder?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Refuses to share the office wifi password with the pineapple intern."
+      },
+      "name": "Sam, 25, Strategy Intern",
+      "badge": "2.200 $",
+      "verdict": "ALMOST THERE",
+      "story": "2.200 Dollar? Der Chef demütigt mich vor dem gesamten Vorstand, unterbricht meine Präsentation mit verächtlichen Lachanfällen und versucht mich zu vernichten. Die pure Bedrohung liegt in der Luft, und jeder im Raum hält den Atem an, während mir der kalte Schweiß über die Stirn läuft. Das ist absolut unzureichend, junger Mann, Sie haben hier absolut keine Zukunft. Aber ich zeige keine Schwäche mehr, denn ich weiss genau, was in dem versiegelten Umschlag liegt. Atme tief durch und bleib standhaft, zeig ihnen, was wirklich in dir steckt. Der Zuschauer will diesen arroganten Tyrannen endlich fallen sehen, und ich werde ihm diesen Wunsch erfüllen. Das siehst du in Level 8. You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1.800 $",
+        "after": "4.000 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "2.200 Dollar? Der Chef demütigt mich vor dem gesamten Vorstand, unterbricht meine Präsentation mit verächtlichen Lachanfällen und versucht mich zu vernichten."
+        },
+        {
+          "s": "Figur",
+          "t": "Die pure Bedrohung liegt in der Luft, und jeder im Raum hält den Atem an, während mir der kalte Schweiß über die Stirn läuft."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Das ist absolut unzureichend, junger Mann, Sie haben hier absolut keine Zukunft.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Aber ich zeige keine Schwäche mehr, denn ich weiss genau, was in dem versiegelten Umschlag liegt."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Atme tief durch und bleib standhaft, zeig ihnen, was wirklich in dir steckt.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Der Zuschauer will diesen arroganten Tyrannen endlich fallen sehen, und ich werde ihm diesen Wunsch erfüllen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "You still have to prove you are worth keeping around after graduation",
+      "quote_by": {
+        "level": 3,
+        "name": "Leo",
+        "badge": "350 $",
+        "character": "A tired green broccoli stalk in a worn gray hoodie, holding a digital tablet with a nervous expression.",
+        "scene": "Medium shot in a glass-walled conference room, sliding a printed report across a polished mahogany table."
+      },
+      "stats": [
+        {
+          "label": "Stipend",
+          "value": "2.200 $",
+          "bar": 0.75
+        },
+        {
+          "label": "Slides",
+          "value": "50",
+          "bar": 0.9
+        },
+        {
+          "label": "Stress",
+          "value": "99%",
+          "bar": 0.99
+        }
+      ],
+      "character": "A spiky golden pineapple with a crown of green leaves, wearing a tailored charcoal suit and a thin silk tie; a glowing '2.200 $' shines on his forehead.",
+      "visual": "Wide shot of a ultra-modern glass-walled conference room on the 40th floor overlooking a sprawling metropolis skyline, with a tiny gold coin resting on the projector frame.",
+      "scenes": [
+        "Wide shot: A panoramic corner boardroom on the 40th floor overlooking a glittering city skyline at dusk, a gold coin on the projector frame.",
+        "Medium shot: A pineapple strategy intern pointing nervously at a glowing digital financial chart on a massive screen.",
+        "Detail shot: A glowing digital '2.200 $' display reflecting in a gleaming glass table surface.",
+        "Medium shot: A red apple executive leaning back in a leather chair with a dismissive smirk.",
+        "Close-up: A white envelope sliding across a polished wooden table surface.",
+        "Wide shot: The elevator lobby of a corporate skyscraper with sleek titanium doors reflecting city lights."
+      ],
+      "caption": "What is the hardest part of climbing the corporate ladder as an intern? #CorporateLadder #Strategy #Internship #LevelSeven #OfficeLife"
+    },
+    {
+      "n": 8,
+      "open_loop": "Which topic should we reveal in the next sensational series of forehead numbers?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Complains about the coffee temperature and demands the director fire the entire intern cohort."
+      },
+      "name": "Director Plum, 45, CEO",
+      "badge": "25.000 $",
+      "verdict": "THE DIRECTOR",
+      "story": "25.000 Dollar? Plötzlich stürzt mein Imperium auf Null ab, während ich fassungslos im Penthouse stehe und zusehe, wie die Bildschirme flackern. Die karmische Gerechtigkeit holt mich gnadenlos ein, genau wie damals bei den kleinen Praktikanten im Keller, die ich ausgebeutet habe. Das kann unmöglich wahr sein, wer hat Zugriff auf meine Hauptserver erlangt? Jetzt schliesst sich der Kreis zu meiner eigenen Stirnziffer, und die Stadt zeigt mir, dass kein Reichtum für immer währt. Sein Imperium ist am Ende, die Wahrheit ist endlich ans Licht gekommen. Am Ende sind wir alle nur Nummern im System, und die karmische Gerechtigkeit holt jeden von uns ein. Das siehst du in Level 1.",
+      "gender": "m",
+      "twist": {
+        "delta": "+0 $",
+        "after": "25.000 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "25.000 Dollar? Plötzlich stürzt mein Imperium auf Null ab, während ich fassungslos im Penthouse stehe und zusehe, wie die Bildschirme flackern."
+        },
+        {
+          "s": "Figur",
+          "t": "Die karmische Gerechtigkeit holt mich gnadenlos ein, genau wie damals bei den kleinen Praktikanten im Keller, die ich ausgebeutet habe."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Das kann unmöglich wahr sein, wer hat Zugriff auf meine Hauptserver erlangt?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Jetzt schliesst sich der Kreis zu meiner eigenen Stirnziffer, und die Stadt zeigt mir, dass kein Reichtum für immer währt."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Sein Imperium ist am Ende, die Wahrheit ist endlich ans Licht gekommen.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Am Ende sind wir alle nur Nummern im System, und die karmische Gerechtigkeit holt jeden von uns ein."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 1."
+        }
+      ],
+      "quote": "You work for exposure, kid, not for cash",
+      "quote_by": {
+        "level": 4,
+        "name": "Chloe",
+        "badge": "600 $",
+        "character": "A red strawberry in a denim jacket, looking exhausted with a glowing 600 $ badge on her forehead.",
+        "scene": "Medium shot in a grand executive hallway, dropping a stack of promotional flyers near a marble pillar."
+      },
+      "stats": [
+        {
+          "label": "Monthly",
+          "value": "25.000 $",
+          "bar": 1.0
+        },
+        {
+          "label": "Control",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Power",
+          "value": "Max",
+          "bar": 1.0
+        }
+      ],
+      "character": "A sleek, polished purple plum wearing a tailored charcoal suit, gold-rimmed glasses, and a glowing '25.000 $' on his smooth forehead.",
+      "visual": "Wide shot of a luxurious penthouse office with floor-to-ceiling windows, crystal chandeliers, and a tiny gold coin resting on a solid gold desk blotter.",
+      "scenes": [
+        "Wide shot: A luxurious penthouse office overlooking the entire city at sunset, with crystal chandeliers and a gold coin on the desk.",
+        "Medium shot: A purple plum CEO standing by a massive window holding a crystal glass of sparkling water.",
+        "Detail shot: A glowing digital '25.000 $' display shining proudly above an executive's calm eyes.",
+        "Medium shot: A nervous intern walking past an open office door carrying cardboard boxes.",
+        "Close-up: A gold fountain pen signing a corporate acquisition document on heavy cream paper.",
+        "Wide shot: The grand glass atrium of the corporate headquarters glowing brightly against the dark night sky."
+      ],
+      "caption": "Which topic should we tackle next in the series of forehead numbers? Let us know in the comments! #ForeheadNumber #Director #Power #LevelEight #SeriesFinale"
+    }
+  ],
+  "lang": "en",
+  "topic": "Das unbezahlte Pflichtpraktikum",
+  "frame": "frucht"
+}

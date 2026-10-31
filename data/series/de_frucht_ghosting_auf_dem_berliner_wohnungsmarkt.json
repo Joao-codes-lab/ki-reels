@@ -1,0 +1,786 @@
+{
+  "title": "Die 8 Level von Berliner Wohnungs-Ghosting",
+  "house": "A gritty, stylized neo-Berlin where anthropomorphic fruit and vegetable citizens navigate rainy asphalt streets, crowded U-Bahn stations, Altbau staircases with peeling paint, and neon-lit Spätis. Glowing digital numbers on every citizen's forehead dictate social standing and housing privileges.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Lilly (L1) weint vor dem Späti am Hermannplatz, wo Ben (L2) gerade seine Pfandflaschen abgibt.",
+    "Ben (L2) verliert sein Zimmer an Zora (L3), die im Café Kante heimlich Umschläge zusteckt.",
+    "Zora (L3) wird beim Besichtigungstermin in Kreuzberg von Bruno (L4) im Beamtensakko weggedrängt.",
+    "Bruno (L4) scheitert an Arno (L5), dessen Tech-Gehalt im Prenzlauer Berg jede Schufa überstrahlt.",
+    "Arno (L5) wird im Penthouse von Keno (L6) mit Spott über Startup-Boni überboten.",
+    "Keno (L6) zahlt 5.000 Euro Bar-Kaution an Makler Valentin (L7), der danach seine Nummer sperrt.",
+    "Valentin (L7) verliert das Mandat an Großinvestor Darius (L8), der ganze Häuserblöcke aufkauft.",
+    "Darius (L8) erfährt, dass Studentin Lilly (L1) die Mietpreisbremse gegen seinen gesamten Block durchgesetzt hat."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Welches vernichtende Wort stand in der handschriftlichen Notiz an Lillys Klingel?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Schubst Lilly im Treppenhaus zur Seite und reißt ihre Bewerbungsmappe entzwei.",
+        "g": "m"
+      },
+      "name": "Lilly, 20, Kunststudentin",
+      "badge": "950 € netto",
+      "verdict": "ABGELEHNT",
+      "story": "950 Euro Netto? Mit dem Budget kriegst du nicht mal eine Hundehütte, Erdbeere! Plötzlich reißt er mir meine Mappe aus der Hand, zerreißt die Bürgschaft meiner Mutter und schubst mich gegen das Geländer. Kennst du das Gefühl, wenn fremde Menschen dich wie Müll behandeln, nur weil dein Budget schmilzt? Die Zahl lügt nie! Im selben Moment piept mein Handy. Eine SMS vom Vermieter: Mietvertrag storniert wegen mangelnder Liquidität. Mein Minijob im Späti wurde gekürzt. Meine Stirn-Zahl bricht sofort ein. Ich zittere am ganzen Körper, als ich mich bücke. Zwischen den Papierfetzen finde ich eine handgeschriebene Notiz, die jemand heimlich an meine Klingel geklebt hat. Als ich die Zeilen lese, bleibt mein Herz stehen. Denn darauf steht ein einziges Wort, das alles zerstört, während in meinem Umzugskarton längst heimlich die Akten der Mietergemeinschaft schlummern, um diesen Albtraum eines Tages endgültig zu beenden. Das siehst du in Level 1. Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "-200 €",
+        "after": "750 €"
+      },
+      "lines": [
+        {
+          "s": "Gegenspieler",
+          "t": "950 Euro Netto? Mit dem Budget kriegst du nicht mal eine Hundehütte, Erdbeere!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich reißt er mir meine Mappe aus der Hand, zerreißt die Bürgschaft meiner Mutter und schubst mich gegen das Geländer."
+        },
+        {
+          "s": "Figur",
+          "t": "Kennst du das Gefühl, wenn fremde Menschen dich wie Müll behandeln, nur weil dein Budget schmilzt?"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die Zahl lügt nie!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Im selben Moment piept mein Handy. Eine SMS vom Vermieter: Mietvertrag storniert wegen mangelnder Liquidität. Mein Minijob im Späti wurde gekürzt. Meine Stirn-Zahl bricht sofort ein."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich zittere am ganzen Körper, als ich mich bücke. Zwischen den Papierfetzen finde ich eine handgeschriebene Notiz, die jemand heimlich an meine Klingel geklebt hat."
+        },
+        {
+          "s": "Figur",
+          "t": "Als ich die Zeilen lese, bleibt mein Herz stehen. Denn darauf steht ein einziges Wort, das alles zerstört, während in meinem Umzugskarton längst heimlich die Akten der Mietergemeinschaft schlummern, um diesen Albtraum eines Tages endgültig zu beenden."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 1."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "950 Euro Netto? Mit dem Budget kriegst du nicht mal eine Hundehütte, Erdbeere!",
+      "quote_by": {
+        "level": 2,
+        "name": "Ben",
+        "badge": "1.650 €",
+        "character": "Anthropomorphic blueberry man in an oversized turquoise bomber jacket, chunky white sneakers, smug scowl, glowing forehead display.",
+        "scene": "A dim, peeling Altbau staircase in Neukölln, Ben sneering as he rips paper apart, glowing 1650 on forehead."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "950 €",
+          "bar": 0.12
+        },
+        {
+          "label": "Absagen",
+          "value": "412",
+          "bar": 0.95
+        },
+        {
+          "label": "Wohnfläche",
+          "value": "11 qm",
+          "bar": 0.1
+        }
+      ],
+      "character": "Young strawberry woman with soft red dotted skin, leaf hair tied with twine, worn denim jacket, glowing red forehead number 950.",
+      "visual": "A dim, crowded Berlin Altbau stairwell with peeling wallpaper, anthropomorphic strawberry girl sitting on cardboard boxes, forehead glowing 950, blueberry guy smirking.",
+      "scenes": [
+        "Totale: A rainy Berlin street in Neukölln, line of vegetable people waiting in front of an old tenement, small gold coin glinting inside an open drain grate.",
+        "Halbnah: Narrow dim Altbau hallway with peeling mint-green paint, Ben the blueberry man towering over strawberry Lilly, pointing mockingly at her forehead, a tiny gold coin visible as a zipper pull on his backpack.",
+        "Detail: A hand with berry-red fingers dropping shredded paper, torn document revealing 'Bürgschaft', a gold coin lying beneath a wooden door runner.",
+        "Halbnah: Rainy street corner outside Späti 'Hermann-Eck', neon beer signs reflecting on wet asphalt, Lilly crying next to two blue boxes, a gold coin lodged in the sidewalk crack.",
+        "Detail: Smartphone screen showing an unread SMS notification 'Absage: Mietvertrag widerrufen', strawberry thumb trembling, a shiny gold coin glued to the phone case.",
+        "Totale: Gloomy courtyard of the tenement with trash bins and bicycles, Lilly standing under dull sodium lamps holding a yellow sticky note, a gold coin resting on an electrical junction box."
+      ],
+      "caption": "Wenn 400 Bewerbungen in Berlin einfach nicht reichen. Wo liegst du auf der Skala? #berlinhousing #wohnungsnot #drama #obstmenschen #mietwahnsinn"
+    },
+    {
+      "n": 2,
+      "open_loop": "Was war der geheime Inhalt des braunen Umschlags unter dem Fliesentisch?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Schiebt dem Vermieter heimlich ein Bündel Bargeld zu und lacht Ben aus.",
+        "g": "w"
+      },
+      "name": "Ben, 25, Barista",
+      "badge": "1.650 € netto",
+      "verdict": "CHANCENLOS",
+      "story": "Die 8 Level von Berliner Wohnungs-Ghosting. Level 2. 1.650 Euro Gehalt – und seit neun Monaten auf der Couch. Ich bin Ben, 25. Die Notiz an Lillys Klingel hieß: Rauswurf! Ich musste die Wohnung selbst kriegen, um nicht auf der Straße zu landen! Jetzt stehe ich in einer muffigen Zweizimmerwohnung im Wedding. Neben mir steht eine verbitterte Zitronen-Frau im Designer-Trenchcoat. Sie mustert meine zerkratzten Sneaker und grinst hämisch. Ich sage zum Vermieter: Ich habe feste Schichten, pünktliches Gehalt! Spartasten wie du kriegen hier nicht mal den Besenschrank! Die Zahl lügt nie! Sie knallt das Bündel auf den Tisch. Doch als ich den Umschlag in die Hand nehme, sehe ich keinen simplen Abzug, sondern den handfesten Beweis: Der Vermieter hat die offizielle Miete illegal verdreifacht und kassiert die Differenz schwarz in die eigene Tasche! Mein Netto sackt sofort ab. Für Sie ist hier Schluss. Unter dem wackeligen Fliesentisch entdecke ich etwas, das der Vermieter hastig fallen ließ. Ein zweiter, versiegelter Umschlag mit einer Adresse, die mir den Atem raubt ... Das siehst du in Level 2. Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "-300 €",
+        "after": "1.350 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Berliner Wohnungs-Ghosting. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "1.650 Euro Gehalt – und seit neun Monaten auf der Couch. Ich bin Ben, 25. Die Notiz an Lillys Klingel hieß: Rauswurf! Ich musste die Wohnung selbst kriegen, um nicht auf der Straße zu landen!"
+        },
+        {
+          "s": "Figur",
+          "t": "Jetzt stehe ich in einer muffigen Zweizimmerwohnung im Wedding. Neben mir steht eine verbitterte Zitronen-Frau im Designer-Trenchcoat."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie mustert meine zerkratzten Sneaker und grinst hämisch. Ich sage zum Vermieter: Ich habe feste Schichten, pünktliches Gehalt!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Spartasten wie du kriegen hier nicht mal den Besenschrank!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl lügt nie! Sie knallt das Bündel auf den Tisch. Doch als ich den Umschlag in die Hand nehme, sehe ich keinen simplen Abzug, sondern den handfesten Beweis: Der Vermieter hat die offizielle Miete illegal verdreifacht und kassiert die Differenz schwarz in die eigene Tasche!"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Netto sackt sofort ab. Für Sie ist hier Schluss."
+        },
+        {
+          "s": "Figur",
+          "t": "Unter dem wackeligen Fliesentisch entdecke ich etwas, das der Vermieter hastig fallen ließ."
+        },
+        {
+          "s": "Figur",
+          "t": "Ein zweiter, versiegelter Umschlag mit einer Adresse, die mir den Atem raubt ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Spartasten wie du kriegen hier nicht mal den Besenschrank!",
+      "quote_by": {
+        "level": 3,
+        "name": "Zora",
+        "badge": "2.300 €",
+        "character": "Sour-faced lemon woman with sharp citrus skin, slick blonde rind hair, sharp beige trench coat, gold ear cuffs, glowing 2300 display.",
+        "scene": "A dingy Wedding kitchen with floral wallpaper, Zora slamming an envelope on an oilcloth table with a sharp smirk."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "1.650 €",
+          "bar": 0.22
+        },
+        {
+          "label": "WG-Castings",
+          "value": "68",
+          "bar": 0.8
+        },
+        {
+          "label": "Wohnfläche",
+          "value": "18 qm",
+          "bar": 0.18
+        }
+      ],
+      "character": "Stocky blueberry man with deep indigo skin, backward baseball cap, teal bomber jacket, glowing cyan forehead display showing 1650.",
+      "visual": "A run-down Berlin Wedding apartment kitchen, floral wallpaper peeling, anthropomorphic blueberry man confronting a sharp lemon woman who holds a bribe envelope.",
+      "scenes": [
+        "Totale: A gray Berlin Wedding subway entrance at Leopoldplatz, heavy drizzle, fruit commuters rushing past, a gold coin trapped beneath the metal grating.",
+        "Halbnah: Dim corridor of an old apartment, Ben clutching his CV folder while lemon woman Zora smirks in her designer trench coat, a gold coin perched on top of the antique fuse box.",
+        "Detail: Zora's sharp citrus hand with gold rings tossing a thick manila envelope onto a faded vinyl table, a gold coin resting next to a porcelain salt shaker.",
+        "Halbnah: The dingy kitchen with an ancient gas stove, the landlord taking the envelope while Ben glares in disbelief, a small gold coin embedded in the chipped floor tile.",
+        "Detail: Ben's forehead display flickering frantically as numbers shift from 1650 to 1350, rain streaking down the greasy window behind, a gold coin lying on the radiator valve.",
+        "Totale: Ben walking down a dark Wedding side street under flickering streetlights, clutching a damp envelope, a gold coin glittering beneath a parked bicycle wheel."
+      ],
+      "caption": "Barista-Gehalt gegen Schwarzgeld auf den Tisch. War das bei euch auch so extrem? #wohnungssuche #berlin #schwarzgeld #fail #berlinleben"
+    },
+    {
+      "n": 3,
+      "open_loop": "Welches Siegel war auf Brunos Akte eingraviert, das Zora erblassen ließ?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Blockiert Zora den Zugang zur Dachterrasse und zeigt seine Verbeamtungsurkunde.",
+        "g": "m"
+      },
+      "name": "Zora, 31, Freelance-Texterin",
+      "badge": "2.300 € netto",
+      "verdict": "UNSICHER",
+      "story": "Freelancer ohne Festanstellung fliegen hier als Erstes raus, Süße! Ich bin Zora, 31. Die Adresse auf Bens Umschlag führte mich hierher: Dachgeschoss am Paul-Lincke-Ufer. Mein Schwarzgeld hat im Wedding nichts genützt, der Vermieter war ein Betrüger! Hier oben will ich die Altbau-Oase. Doch im Treppenhaus blockiert mich ein massiver Brokkoli-Mann im grauen Wollsakko. Er riecht nach teurem Aftershave und blickt herablassend auf meine Stirn. Ich fauche: Ich zahle sechs Monatsmieten im Voraus! Freelancer fliegen hier beim ersten Husten raus, Süße! Die Zahl lügt nie! Ich trete direkt an ihn heran und konfrontiere ihn: Ihr angeblicher Beamten-Status ruht doch auf gefälschten Gutachten und erschlichenen Dienstposten! Er erbleicht kurz, schüttelt sich und winkt die Maklerin herbei. Die dreht sich wortlos von mir weg und schließt die Wohnungstür vor meiner Nase zu. Doch als der Brokkoli-Typ seine Mappe zuklappt, fällt ein amtliches Dokument zu Boden. Das Siegel darauf kenne ich aus den finstersten Nachrichten der Stadt ... Das siehst du in Level 3. Das siehst du in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "-600 €",
+        "after": "1.700 €"
+      },
+      "lines": [
+        {
+          "s": "Gegenspieler",
+          "t": "Freelancer ohne Festanstellung fliegen hier als Erstes raus, Süße!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Zora, 31. Die Adresse auf Bens Umschlag führte mich hierher: Dachgeschoss am Paul-Lincke-Ufer. Mein Schwarzgeld hat im Wedding nichts genützt, der Vermieter war ein Betrüger! Hier oben will ich die Altbau-Oase."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch im Treppenhaus blockiert mich ein massiver Brokkoli-Mann im grauen Wollsakko. Er riecht nach teurem Aftershave und blickt herablassend auf meine Stirn."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich fauche: Ich zahle sechs Monatsmieten im Voraus!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Freelancer fliegen hier beim ersten Husten raus, Süße!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl lügt nie! Ich trete direkt an ihn heran und konfrontiere ihn: Ihr angeblicher Beamten-Status ruht doch auf gefälschten Gutachten und erschlichenen Dienstposten!"
+        },
+        {
+          "s": "Figur",
+          "t": "Er erbleicht kurz, schüttelt sich und winkt die Maklerin herbei. Die dreht sich wortlos von mir weg und schließt die Wohnungstür vor meiner Nase zu."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch als der Brokkoli-Typ seine Mappe zuklappt, fällt ein amtliches Dokument zu Boden."
+        },
+        {
+          "s": "Figur",
+          "t": "Das Siegel darauf kenne ich aus den finstersten Nachrichten der Stadt ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Freelancer ohne Festanstellung fliegen hier als Erstes raus, Süße!",
+      "quote_by": {
+        "level": 4,
+        "name": "Bruno",
+        "badge": "3.100 €",
+        "character": "Stout broccoli man with dense green floret hair, wireframe glasses, charcoal wool blazer, stern bureaucrat posture, glowing green 3100 forehead.",
+        "scene": "Sunny, airy Kreuzberg staircase landing, Bruno presenting a heavy leather folder with smug superiority."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "2.300 €",
+          "bar": 0.35
+        },
+        {
+          "label": "Kaltmiete",
+          "value": "1.250 €",
+          "bar": 0.52
+        },
+        {
+          "label": "Wohnfläche",
+          "value": "42 qm",
+          "bar": 0.38
+        }
+      ],
+      "character": "Slender lemon woman with textured yellow skin, sharp citrus cheekbones, beige trench coat, gold earrings, glowing amber forehead display showing 2300.",
+      "visual": "A sunlit top-floor staircase in Kreuzberg with exposed brick walls, sharp anthropomorphic lemon woman arguing with a stout, smug broccoli man in a blazer.",
+      "scenes": [
+        "Totale: Scenic canal side along Paul-Lincke-Ufer in Berlin, weeping willows, cyclists passing by, a small gold coin gleaming on a stone bollard.",
+        "Halbnah: Elegant wooden staircase with ornamental banister, lemon woman Zora staring up fiercely at towering broccoli man Bruno, a gold coin resting on the window sill.",
+        "Detail: Bruno's green fibrous hand holding an embossed leather folder titled 'Beamter auf Lebenszeit', a tiny gold coin embedded as a key fob charm.",
+        "Halbnah: The apartment entrance with modern glass door, the broker turning her back on Zora, Bruno smirking proudly, a gold coin sitting on the bronze door latch.",
+        "Detail: Zora's smartwatch buzzing with a red banking alert '-600€ Finanzamt', citrus hand shaking, a gold coin lying near the skirting board.",
+        "Totale: Zora sitting on the outdoor staircase steps under autumn leaves, clutching the dropped official paper, a gold coin nestled in the leaf pile beside her."
+      ],
+      "caption": "Selbstständig in Berlin = automatische Absage? Wie sind eure Erfahrungen? #freelanceberlin #wohnungsmarkt #immobilien #finanzamt #miete"
+    },
+    {
+      "n": 4,
+      "open_loop": "Welche Zahl erschien auf Arnos Smartphone, die den Makler sofort umstimmte?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Zieht ein Firmen-Smartphone und kauft die gesamte Möblierung bar ab.",
+        "g": "m"
+      },
+      "name": "Bruno, 38, Oberstudienrat",
+      "badge": "3.100 € netto",
+      "verdict": "AUSGESTOCHEN",
+      "story": "Die 8 Level von Berliner Wohnungs-Ghosting. Level 4. 3.100 Euro Netto, unkündbar auf Lebenszeit – und trotzdem abserviert. Ich bin Bruno, 38. Das Siegel auf meiner Akte war der Berliner Bär, echte Beamtenmacht! Zora dachte, sie hätte eine Chance. Doch heute stehe ich im sanierten Altbau im Prenzlauer Berg. Stuckdecken, Flügeltüren, 1.800 Euro warm. Ich präsentiere meine makellose Schufa. Der Makler lächelt schon zufrieden. Da schlendert ein lässiger Avocado-Typ im Kaschmir-Hoodie herein, schlägt mir das Krypto-Guthaben sofort ins Gesicht und lacht: Staatsdiener sind nett, aber mein Krypto-Bonus deckt die Jahresmiete bar! Die Zahl lügt nie! Er hält dem Makler ein Display vor die Nase. Der Makler reißt die Augen auf und lässt meine Beamten-Urkunde einfach auf die Dielen fallen. In derselben Sekunde meldet meine Bank einen massiven Abzug: Sonderzahlung Alimente, 700 Euro weg! Meine Stirn-Anzeige fällt ins Bodenlose. Bevor Bruno den Raum verlässt, zückt er heimlich sein Smartphone und fotografiert Arnos Firmenhandy – wodurch wir als Zuschauer sofort sehen, dass dessen Tech-Firma vor dem absoluten Kollaps steht. Das siehst du in Level 4. Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "-700 €",
+        "after": "2.400 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Berliner Wohnungs-Ghosting. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "3.100 Euro Netto, unkündbar auf Lebenszeit – und trotzdem abserviert. Ich bin Bruno, 38. Das Siegel auf meiner Akte war der Berliner Bär, echte Beamtenmacht! Zora dachte, sie hätte eine Chance."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch heute stehe ich im sanierten Altbau im Prenzlauer Berg. Stuckdecken, Flügeltüren, 1.800 Euro warm. Ich präsentiere meine makellose Schufa. Der Makler lächelt schon zufrieden."
+        },
+        {
+          "s": "Figur",
+          "t": "Da schlendert ein lässiger Avocado-Typ im Kaschmir-Hoodie herein, schlägt mir das Krypto-Guthaben sofort ins Gesicht und lacht:"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Staatsdiener sind nett, aber mein Krypto-Bonus deckt die Jahresmiete bar!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl lügt nie! Er hält dem Makler ein Display vor die Nase. Der Makler reißt die Augen auf und lässt meine Beamten-Urkunde einfach auf die Dielen fallen."
+        },
+        {
+          "s": "Figur",
+          "t": "In derselben Sekunde meldet meine Bank einen massiven Abzug: Sonderzahlung Alimente, 700 Euro weg! Meine Stirn-Anzeige fällt ins Bodenlose."
+        },
+        {
+          "s": "Figur",
+          "t": "Bevor Bruno den Raum verlässt, zückt er heimlich sein Smartphone und fotografiert Arnos Firmenhandy – wodurch wir als Zuschauer sofort sehen, dass dessen Tech-Firma vor dem absoluten Kollaps steht."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Staatsdiener sind nett, aber mein Krypto-Bonus deckt die Jahresmiete bar!",
+      "quote_by": {
+        "level": 5,
+        "name": "Arno",
+        "badge": "4.200 €",
+        "character": "Relaxed avocado man with rich green skin, smooth brown seed chest motif, cream cashmere hoodie, wireless earbuds, glowing gold 4200 display.",
+        "scene": "High-ceilinged restored salon with crown moldings, Arno waving a high-end smartphone dismissively in front of the broker."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "3.100 €",
+          "bar": 0.52
+        },
+        {
+          "label": "Warmmiete",
+          "value": "1.800 €",
+          "bar": 0.65
+        },
+        {
+          "label": "Wohnfläche",
+          "value": "65 qm",
+          "bar": 0.55
+        }
+      ],
+      "character": "Stout broccoli man, dark green floret hair, wireframe spectacles, dark gray tweed jacket, glowing neon green 3100 forehead badge.",
+      "visual": "Spacious Prenzlauer Berg Altbau room with herringbone parquet floors, an anthropomorphic broccoli man in tweed standing frozen as a sleek avocado man overtakes him.",
+      "scenes": [
+        "Totale: A pristine street in Kollwitzkiez with leafy linden trees, boutique cafes, parked strollers, a gold coin glinting inside an empty tree grate.",
+        "Halbnah: Grand living room with white stucco ceilings and double doors, Bruno holding out his printed portfolio while avocado man Arno strolls past, a gold coin resting on the fireplace mantel.",
+        "Detail: Bruno's official civil servant certificate hitting the polished parquet floor, a small gold coin lying flat between the wooden planks.",
+        "Halbnah: The real estate agent ignoring Bruno completely while leaning toward Arno's phone screen, a gold coin visible inside the chandelier crystal cluster.",
+        "Detail: Bruno's glowing forehead dropping rapidly from 3100 to 2400, sweat beading on his green vegetable brow, a gold coin reflecting in his glasses frame.",
+        "Totale: Bruno standing alone on the wrought-iron balcony overlooking the quiet Berlin courtyard, clutching the railing, a gold coin embedded in the iron scrollwork."
+      ],
+      "caption": "Beamtenstatus schlägt alles? Von wegen. Tech-Geld regiert die Stadt. Was meint ihr? #beamte #prenzlauerberg #mietmarkt #gentrifizierung #immobilien"
+    },
+    {
+      "n": 5,
+      "open_loop": "Welche Bedingung stand im Vertrag, die Arno fast zum Übergeben brachte?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Reißt den Mietvertrag an sich und verlangt die Zahlung des fünffachen Abschlags.",
+        "g": "m"
+      },
+      "name": "Arno, 34, Senior Tech-Lead",
+      "badge": "4.200 € netto",
+      "verdict": "ÜBERBOTEN",
+      "story": "Die 8 Level von Berliner Wohnungs-Ghosting. Level 5. 4.200 Euro Netto – und im eigenen Loft zur Witzfigur degradiert. Ich bin Arno, 34. Die Benachrichtigung auf meinem Display war kein Reichtum, sondern ein Kündigungs-Signal meiner US-Firma! Ich brauche diese Wohnung in Berlin-Mitte, sofort. 120 Quadratmeter, Sichtbeton, Fußbodenheizung. Ich habe Bruno eiskalt serviert, die Tinte auf meinem Vertrag ist fast trocken. Da öffnet sich der Fahrstuhl direkt im Penthouse. Ein breitschultriger Kokosnuss-Typ im maßgeschneiderten Nadelstreifenanzug tritt heraus. Er riecht nach Zigarre und Privatsphäre. Mit einem Fingerschnippen ruft er den Eigentümer zu sich und brüllt: Dein Spielgeld reicht hier nicht mal für meine Nebenkostenabrechnung, Kleiner! Die Zahl lügt nie! Er wirft eine schwarze Kreditkarte auf den Tresen. Anstatt tatenlos zu kapitulieren, wehre ich mich: Ich durchsuche den Vertrag, entdecke sofort die illegale Wucher-Klausel von Makler Valentin und behalte eine exakte Kopie als perfides Druckmittel in der Hinterhand. Dennoch schlägt die Realität ein: Mein Arbeitgeber meldet Insolvenz, mein Gehalt wird halbiert! Das siehst du in Level 5. Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "-2.100 €",
+        "after": "2.100 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Berliner Wohnungs-Ghosting. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "4.200 Euro Netto – und im eigenen Loft zur Witzfigur degradiert. Ich bin Arno, 34. Die Benachrichtigung auf meinem Display war kein Reichtum, sondern ein Kündigungs-Signal meiner US-Firma! Ich brauche diese Wohnung in Berlin-Mitte, sofort."
+        },
+        {
+          "s": "Figur",
+          "t": "120 Quadratmeter, Sichtbeton, Fußbodenheizung. Ich habe Bruno eiskalt serviert, die Tinte auf meinem Vertrag ist fast trocken."
+        },
+        {
+          "s": "Figur",
+          "t": "Da öffnet sich der Fahrstuhl direkt im Penthouse. Ein breitschultriger Kokosnuss-Typ im maßgeschneiderten Nadelstreifenanzug tritt heraus. Er riecht nach Zigarre und Privatsphäre."
+        },
+        {
+          "s": "Figur",
+          "t": "Mit einem Fingerschnippen ruft er den Eigentümer zu sich und brüllt:"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein Spielgeld reicht hier nicht mal für meine Nebenkostenabrechnung, Kleiner!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl lügt nie! Er wirft eine schwarze Kreditkarte auf den Tresen."
+        },
+        {
+          "s": "Figur",
+          "t": "Anstatt tatenlos zu kapitulieren, wehre ich mich: Ich durchsuche den Vertrag, entdecke sofort die illegale Wucher-Klausel von Makler Valentin und behalte eine exakte Kopie als perfides Druckmittel in der Hinterhand."
+        },
+        {
+          "s": "Figur",
+          "t": "Dennoch schlägt die Realität ein: Mein Arbeitgeber meldet Insolvenz, mein Gehalt wird halbiert!"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Dein Spielgeld reicht hier nicht mal für meine Nebenkostenabrechnung, Kleiner!",
+      "quote_by": {
+        "level": 6,
+        "name": "Keno",
+        "badge": "6.500 €",
+        "character": "Muscular coconut man with textured fibrous brown husk, razor-sharp pinstripe suit, thick gold signet ring, glowing crimson 6500 display.",
+        "scene": "A hyper-modern industrial penthouse with floor-to-ceiling skyline windows, Keno flicking a matte black card across a marble island."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "4.200 €",
+          "bar": 0.68
+        },
+        {
+          "label": "Warmmiete",
+          "value": "2.900 €",
+          "bar": 0.82
+        },
+        {
+          "label": "Wohnfläche",
+          "value": "120 qm",
+          "bar": 0.75
+        }
+      ],
+      "character": "Athletic avocado man with smooth lime green skin, brown core chest emblem, oversized cashmere beige hoodie, glowing gold forehead display showing 4200.",
+      "visual": "A luxury concrete penthouse loft in Berlin-Mitte with panoramic skyline windows, athletic avocado man looking defeated as a massive coconut businessman steps from the elevator.",
+      "scenes": [
+        "Totale: A sleek glass-fronted residential tower near Torstraße in Berlin-Mitte, overcast dusk, expensive sportscars below, a gold coin glinting inside a terrace drainage groove.",
+        "Halbnah: Penthouse elevator opens directly into living space, coconut man Keno stepping out confidently in tailored suit, avocado Arno staring back in shock, a gold coin resting on the console table.",
+        "Detail: A sleek matte black titanium credit card sliding across a white Calacatta marble kitchen island, a shiny gold coin sitting in an espresso saucer next to it.",
+        "Halbnah: The private landlord smiling obsequiously at Keno while peeling the unsigned contract away from Arno, a gold coin glinting from the chandelier pendant.",
+        "Detail: Arno's glowing forehead crashing down to 2100 with a buzzing digital glitch, reflection of Berlin TV Tower in the glass behind, a gold coin lying on the window sill ledge.",
+        "Totale: Arno standing by the glass railing of the rooftop terrace under the twilight Berlin sky, looking down at the street below, a gold coin caught under the edge of an outdoor lounge chair."
+      ],
+      "caption": "Wenn selbst 4.200 € Netto in Berlin-Mitte plötzlich Armut bedeuten. Wo soll das enden? #berlinmitte #techbubble #loftlifestyle #mietwahnsinn #fail"
+    },
+    {
+      "n": 6,
+      "open_loop": "Wohin verschwand der Makler mit Kenos Geldkoffer in der Tiefgarage?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Kassiert 5.000 Euro Barprovision ein und blockiert Kenos Nummer auf allen Kanälen.",
+        "g": "m"
+      },
+      "name": "Keno, 42, Venture-Capitalist",
+      "badge": "6.500 € netto",
+      "verdict": "GEGHOSTET",
+      "story": "Für deine armseligen Kröten machen wir hier keinen Finger krumm! schmettert mir Makler Valentin direkt entgegen, als ich mein Portfolio präsentiere. Ich bin Keno, 42, mit 6.500 Euro Netto – und gerade von diesem schmierigen Makler gnadenlos abgezogen. Bei der exklusiven Vorbesichtigung im Grunewald treffe ich auf Valentin, eine goldgelbe Ananas im seidenen Zweireiher. Er streicht über seine Diamant-Manschetten und lächelt aalglatt. Ich zeige ihm meine Liquidität. Doch Valentin mustert meine Stirn, schnaubt arrogant und fordert 5.000 Euro Bar-Kaution unter der Hand, dann gehören die Schlüssel mir. Ich übergebe das Geld in der Tiefgarage. Doch mein Stirn-Absturz folgt unmittelbar aus Valentins Verrat, nicht durch Zufall: Kaum fließt das Geld, leitet Valentin meine sensiblen Daten an das Finanzamt weiter, das sofort eine Firmenprüfung ansetzt und 3.000 Euro sperrt! Als ich mein Telefon hebe, ertönt nur das Besetztzeichen. Nummer blockiert. Kein Vertrag, kein Schlüssel. Doch auf dem Betonboden finde ich eine Visitenkarte ... Das siehst du in Level 6. Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "-3.000 €",
+        "after": "3.500 €"
+      },
+      "lines": [
+        {
+          "s": "Gegenspieler",
+          "t": "Für deine armseligen Kröten machen wir hier keinen Finger krumm!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "schmettert mir Makler Valentin direkt entgegen, als ich mein Portfolio präsentiere. Ich bin Keno, 42, mit 6.500 Euro Netto – und gerade von diesem schmierigen Makler gnadenlos abgezogen."
+        },
+        {
+          "s": "Figur",
+          "t": "Bei der exklusiven Vorbesichtigung im Grunewald treffe ich auf Valentin, eine goldgelbe Ananas im seidenen Zweireiher. Er streicht über seine Diamant-Manschetten und lächelt aalglatt. Ich zeige ihm meine Liquidität."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch Valentin mustert meine Stirn, schnaubt arrogant und fordert 5.000 Euro Bar-Kaution unter der Hand, dann gehören die Schlüssel mir. Ich übergebe das Geld in der Tiefgarage."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch mein Stirn-Absturz folgt unmittelbar aus Valentins Verrat, nicht durch Zufall: Kaum fließt das Geld, leitet Valentin meine sensiblen Daten an das Finanzamt weiter, das sofort eine Firmenprüfung ansetzt und 3.000 Euro sperrt!"
+        },
+        {
+          "s": "Figur",
+          "t": "Als ich mein Telefon hebe, ertönt nur das Besetztzeichen. Nummer blockiert. Kein Vertrag, kein Schlüssel. Doch auf dem Betonboden finde ich eine Visitenkarte ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Für deine armseligen Kröten machen wir hier keinen Finger krumm!",
+      "quote_by": {
+        "level": 7,
+        "name": "Valentin",
+        "badge": "9.800 €",
+        "character": "Flamboyant pineapple man with spiky golden crown hair, patterned silk double-breasted suit, diamond cuff links, blinding electric-blue 9800 forehead display.",
+        "scene": "A dim underground garage lined with luxury SUVs, Valentin pocketing a stack of 500-euro bills with a predatory smile."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "6.500 €",
+          "bar": 0.82
+        },
+        {
+          "label": "Kaufpreis",
+          "value": "1,4 Mio",
+          "bar": 0.88
+        },
+        {
+          "label": "Wohnfläche",
+          "value": "180 qm",
+          "bar": 0.85
+        }
+      ],
+      "character": "Heavily built coconut man with dark brown fibrous shell, sharp navy pinstripe suit, thick gold watch, glowing crimson forehead display showing 6500.",
+      "visual": "A dimly lit luxury underground parking garage in Berlin-Grunewald, broad-shouldered coconut man staring at his smartphone in rage as a yellow sports car speeds away.",
+      "scenes": [
+        "Totale: Exclusive leafy villa quarter in Berlin-Grunewald, gravel driveways, high iron gates, a gold coin lodged between cobblestones near an intercom box.",
+        "Halbnah: Sun-drenched marble foyer of a modern villa, pineapple broker Valentin gesturing flamboyantly while coconut investor Keno stands firm, a gold coin resting on the stone pedestal of a modern sculpture.",
+        "Detail: A brown leather briefcase snapping shut over stacks of purple Euro banknotes inside a concrete garage, a small gold coin resting on the car bumper.",
+        "Halbnah: Valentin stepping into a sleek sports car, grinning back mockingly at Keno under flickering fluorescent garage tubes, a gold coin perched on the garage fire extinguisher.",
+        "Detail: Keno's forehead number flickering and sinking to 3500 as his smartphone screen reads 'Anruf fehlgeschlagen - Nummer nicht vergeben', a gold coin lying beside his leather boot.",
+        "Totale: Keno kneeling on the oily concrete floor, picking up an embossed business card with a scribbled code, security cameras watching from above, a gold coin embedded in an expansion joint."
+      ],
+      "caption": "Ghosting auf Millionen-Ebene: Bar-Kaution weg, Makler unauffindbar. Würdet ihr Anzeige erstatten? #makler #scam #grunewald #investor #immobilienbetrug"
+    },
+    {
+      "n": 7,
+      "open_loop": "Was war der geheime Räumungsbefehl, den Darius über Valentins gesamte Agentur verhängte?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Kauft mit einer Unterschrift die gesamte Maklerfirma auf und entzieht Valentin die Lizenz.",
+        "g": "m"
+      },
+      "name": "Valentin, 45, Luxus-Makler",
+      "badge": "9.800 € netto",
+      "verdict": "RUINIERT",
+      "story": "Die 8 Level von Berliner Wohnungs-Ghosting. Level 7. 9.800 Euro Netto monatlich – und in zehn Sekunden vernichtet. Ich bin Valentin, 45. Kenos Code auf meiner Visitenkarte war mein geheimer Tresor! Ich habe sie alle abgezockt: Studenten, Lehrer, Tech-Bosse. Ganz Berlin tanzt nach meiner Pfeife. Heute sitze ich im privaten Salon am Gendarmenmarkt, um das Geschäft meines Lebens abzuschließen: ein 20-Millionen-Paket aus Altbauten. Doch statt passiv wie ein Bettler dazustehen, durchschaue ich das Spiel sofort, als ich sehe, dass der eiskalte Großinvestor Darius exakt jene Wohnungen aufkauft, in denen Lillys Hausgemeinschaft lebt – das bereitet die finale Katastrophe vor! Plötzlich betritt der uralter Drachenfrucht-Mann den Raum. Er trägt einen schlichten schwarzen Gehrock. Marionetten wie dieser Schnösel unterschreiben hier gar nichts mehr! Die Zahl lügt nie! Mit einem einzigen Federstrich kauft er meine Agentur auf. Im selben Atemzug pfändet die Finanzaufsicht meine Konten: 6.000 Euro gesperrt! Das siehst du in Level 7. Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "-6.000 €",
+        "after": "3.800 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Berliner Wohnungs-Ghosting. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "9.800 Euro Netto monatlich – und in zehn Sekunden vernichtet. Ich bin Valentin, 45. Kenos Code auf meiner Visitenkarte war mein geheimer Tresor! Ich habe sie alle abgezockt: Studenten, Lehrer, Tech-Bosse. Ganz Berlin tanzt nach meiner Pfeife."
+        },
+        {
+          "s": "Figur",
+          "t": "Heute sitze ich im privaten Salon am Gendarmenmarkt, um das Geschäft meines Lebens abzuschließen: ein 20-Millionen-Paket aus Altbauten."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch statt passiv wie ein Bettler dazustehen, durchschaue ich das Spiel sofort, als ich sehe, dass der eiskalte Großinvestor Darius exakt jene Wohnungen aufkauft, in denen Lillys Hausgemeinschaft lebt – das bereitet die finale Katastrophe vor!"
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich betritt der uralter Drachenfrucht-Mann den Raum. Er trägt einen schlichten schwarzen Gehrock."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Marionetten wie dieser Schnösel unterschreiben hier gar nichts mehr!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl lügt nie! Mit einem einzigen Federstrich kauft er meine Agentur auf."
+        },
+        {
+          "s": "Figur",
+          "t": "Im selben Atemzug pfändet die Finanzaufsicht meine Konten: 6.000 Euro gesperrt!"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Marionetten wie dieser Schnösel unterschreiben hier gar nichts mehr!",
+      "quote_by": {
+        "level": 8,
+        "name": "Darius",
+        "badge": "25.000 €",
+        "character": "Ancient, imposing dragonfruit patriarch, deep magenta scales with green tips, tailored black frock coat, silver walking cane, blinding white 25000 forehead glow.",
+        "scene": "A private wood-paneled VIP notary suite at Gendarmenmarkt, Darius casually signing a takeover document without looking up."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "9.800 €",
+          "bar": 0.94
+        },
+        {
+          "label": "Provision",
+          "value": "240.000 €",
+          "bar": 0.95
+        },
+        {
+          "label": "Wohnfläche",
+          "value": "320 qm",
+          "bar": 0.92
+        }
+      ],
+      "character": "Tall pineapple man with spiky golden hair, bright yellow skin, electric-blue silk double-breasted suit, diamond lapel pin, glowing azure forehead badge 9800.",
+      "visual": "An opulent private notary salon at Gendarmenmarkt with heavy mahogany bookshelves, an extravagant pineapple broker gaping in horror as an ancient dragonfruit titan signs a contract.",
+      "scenes": [
+        "Totale: Historic Gendarmenmarkt in Berlin with classical domes illuminated by warm lanterns, luxury sedans parked along the curb, a gold coin glinting in the fountain basin.",
+        "Halbnah: Sumptuous salon with leather armchairs and crystal decanters, pineapple man Valentin gesturing frantically while dragonfruit patriarch Darius looks straight ahead with cold disdain, a gold coin resting on the silver inkstand.",
+        "Detail: An antique fountain pen gliding across legal parchment stamped 'Eigentumsübertragung 100% Anteile', a small gold coin holding down the corner of the contract.",
+        "Halbnah: The notary stamping an official cancellation seal across Valentin's agency license while Valentin clutches his forehead, a gold coin shining inside the glass paperweight.",
+        "Detail: Valentin's glowing forehead number glitching and collapsing down to 3800, sweat trickling down his spiky rind, a gold coin lying on the mahogany desktop.",
+        "Totale: Valentin alone in the dark corridor outside the boardroom, clutching his ruined silk lapels as the elevator doors close on Darius, a gold coin embedded in the hallway brass runner."
+      ],
+      "caption": "Der Makler, der alle verarscht hat, wird selbst geschluckt. Karma oder System? #karmabites #gendarmenmarkt #maklerdrama #immobilienhai #berlin"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches dunkle Thema soll unser viraler Kanal als Nächstes enthüllen?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Reicht mit der Mietergemeinschaft eine Sammelklage ein, die Darius' gesamtes Portfolio einfriert.",
+        "g": "w"
+      },
+      "name": "Darius, 58, Immobilien-Tycoon",
+      "badge": "25.000 € netto",
+      "verdict": "SCHACHMATT",
+      "story": "Die 8 Level von Berliner Wohnungs-Ghosting. Level 8. 25.000 Euro Netto jeden Monat – und am Ende von einer 20-jährigen Studentin gestürzt. Ich bin Darius, 58. Valentins Maklerbude habe ich zerquetscht, Keno und Arno waren nur Ameisen in meinen Bilanzen. Mein Portfolio: 1.400 Wohnungen. Ich bestimme, wer lebt und wer auf der Straße schläft. Doch heute stehe ich vor dem Landgericht Berlin. Eine Gruppe von Mietern versperrt den Eingang. An ihrer Spitze: Lilly, die kleine Erdbeere aus Level 1, die damals im Treppenhaus weinte! Sie tritt vor mich und rechnet emotional mit mir ab: Sie besiegt mich nicht durch ein abstraktes Aktenzeichen, sondern enthüllt vor laufenden Kameras, dass mein gesamtes Imperium auf genau den illegalen Verträgen aus Level 1 bis 7 aufgebaut war! Ihre Luxus-Sanierungen sind illegal, der Mietspiegel gilt auch für Milliardäre! Die Zahl lügt nie! Der Richter verkündet die einstweilige Verfügung: Gesamtes Portfolio beschlagnahmt! Meine gigantische Stirn-Zahl stürzt live ins Bodenlose. Welches Thema sollen wir als Nächstes aufdecken? Schreib es in die Kommentare!",
+      "gender": "m",
+      "twist": {
+        "delta": "-24.000 €",
+        "after": "1.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Berliner Wohnungs-Ghosting. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "25.000 Euro Netto jeden Monat – und am Ende von einer 20-jährigen Studentin gestürzt. Ich bin Darius, 58. Valentins Maklerbude habe ich zerquetscht, Keno und Arno waren nur Ameisen in meinen Bilanzen. Mein Portfolio: 1.400 Wohnungen. Ich bestimme, wer lebt und wer auf der Straße schläft."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch heute stehe ich vor dem Landgericht Berlin. Eine Gruppe von Mietern versperrt den Eingang. An ihrer Spitze: Lilly, die kleine Erdbeere aus Level 1, die damals im Treppenhaus weinte!"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie tritt vor mich und rechnet emotional mit mir ab: Sie besiegt mich nicht durch ein abstraktes Aktenzeichen, sondern enthüllt vor laufenden Kameras, dass mein gesamtes Imperium auf genau den illegalen Verträgen aus Level 1 bis 7 aufgebaut war!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Ihre Luxus-Sanierungen sind illegal, der Mietspiegel gilt auch für Milliardäre!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl lügt nie! Der Richter verkündet die einstweilige Verfügung: Gesamtes Portfolio beschlagnahmt! Meine gigantische Stirn-Zahl stürzt live ins Bodenlose."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema sollen wir als Nächstes aufdecken? Schreib es in die Kommentare!"
+        }
+      ],
+      "quote": "Ihre Luxus-Sanierungen sind illegal, der Mietspiegel gilt auch für Milliardäre!",
+      "quote_by": {
+        "level": 1,
+        "name": "Lilly",
+        "badge": "950 €",
+        "character": "Determined strawberry woman, red speckled skin, twine-tied leaf hair, denim jacket with protest buttons, glowing defiant 950 on forehead.",
+        "scene": "The imposing steps of Berlin Regional Court, surrounded by news microphones, pointing her legal folder directly at Darius."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "25.000 €",
+          "bar": 1.0
+        },
+        {
+          "label": "Wohnungen",
+          "value": "1.420",
+          "bar": 1.0
+        },
+        {
+          "label": "Portfolio",
+          "value": "120 Mio",
+          "bar": 1.0
+        }
+      ],
+      "character": "Towering dragonfruit patriarch, majestic deep magenta scaly skin with bright green pointed tips, tailored black frock coat, silver cane, glowing white 25000 forehead number.",
+      "visual": "Outside the imposing monumental Berlin Regional Court on Littenstraße, an enormous scaly dragonfruit billionaire freezing in shock as strawberry girl Lilly confronts him before flashing media cameras.",
+      "scenes": [
+        "Totale: Berlin Regional Court at Littenstraße, massive stone pillars, flashbulbs popping, crowds of fruit citizens holding protest banners, a gold coin glinting on the stone court steps.",
+        "Halbnah: Dragonfruit tycoon Darius gripping his silver walking cane as strawberry student Lilly stands resolute before him with her legal folder, a gold coin visible as an emblem on a protest placard.",
+        "Detail: Court ruling document stamped 'Eilantrag stattgegeben: Beschlagnahme Mietportfolio', red seal glaring, a shiny gold coin weighing down the verdict edge.",
+        "Halbnah: Press journalists and vegetable reporters pushing microphones toward Darius whose haughty expression collapses, a gold coin embedded in a camera lens rim.",
+        "Detail: Darius's forehead display flickering erratically, numbers plummeting from 25000 down to 1000 in blinding red sparks, a gold coin reflected in his wide dragonfruit eye.",
+        "Totale: Lilly and the tenant community cheering on the court steps in the Berlin rain while Darius's limousine drives away into the gray city, a gold coin shining brightly in the puddle where he once stood."
+      ],
+      "caption": "Level 8 enthüllt: David schlägt Goliath auf dem Wohnungsmarkt. Welches Thema wollt ihr als Nächstes sehen? Schreibt es in die Kommentare! #wohnungsnot #gericht #triumph #berlinliebe #communitypower"
+    }
+  ],
+  "lang": "de",
+  "topic": "Ghosting auf dem Berliner Wohnungsmarkt",
+  "frame": "frucht"
+}

@@ -1,0 +1,783 @@
+{
+  "title": "The 8 Levels of Relationship Status",
+  "house": "A bustling metropolitan fruit and vegetable city named Verdantia, featuring neon-lit transit hubs, crowded apartment complexes, expensive downtown lofts, and cozy corner coffee shops where produce people navigate modern love.",
+  "catchphrase": "The number never lies.",
+  "links": [
+    "Level 2's barista mentions a quiet blueberry man who always leaves a huge tip, foreshadowing Level 7.",
+    "Level 4's apartment hallway echoes the loud arguments from Level 1's neighboring flat.",
+    "Level 6's upscale rooftop bar overlooks the exact bench where Level 3 sat alone in the rain.",
+    "Level 5's subway station features the same ticket kiosk where Level 2 dropped her coffee."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "What secret text message finally popped up on his glowing forehead display?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Laughs at her relationship status in the crowded subway and posts a humiliating screenshot online."
+      },
+      "name": "Maya, 24, Barista",
+      "badge": "0 Days Single",
+      "verdict": "DESPERATE",
+      "story": "The 8 levels of relationship status after three years. Level 1. 0 Days Single und gerade vor allen Kunden im Café abserviert worden? Ich bin Maya (Erdbeere) und mein glühendes Stirn-Badge brüllt '0 Days Single' für jeden sichtbar – während mein Ex eiskalt sagt: Du findest nie wieder jemanden, der dich liebt! Aber er ahnt nicht, dass mein geheimer Kassenbon genau das Gegenteil beweist... Level 1: 0 days single – and already scrolling through my phone in absolute panic while standing behind the counter of Bean & Leaf Cafe. My glowing forehead badge reads 0 Days Single, flashing like a neon warning sign to the entire city of Verdantia. You're way too clingy for my taste, we are officially done. I stood there frozen, humiliated in front of every single commuter waiting for their morning caffeine fix, desperately clutching a cold oat milk latte. You will never find anyone who actually loves you. Das siehst du in Level 2. You'll see that in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "-1 Day",
+        "after": "-1 Days"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of relationship status after three years. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "0 Days Single und gerade vor allen Kunden im Café abserviert worden? Ich bin Maya (Erdbeere) und mein glühendes Stirn-Badge brüllt '0 Days Single' für jeden sichtbar – während mein Ex eiskalt sagt: Du findest nie wieder jemanden, der dich liebt! Aber er ahnt nicht, dass mein geheimer Kassenbon genau das Gegenteil beweist..."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 0 days single – and already scrolling through my phone in absolute panic while standing behind the counter of Bean & Leaf Cafe."
+        },
+        {
+          "s": "Figur",
+          "t": "My glowing forehead badge reads 0 Days Single, flashing like a neon warning sign to the entire city of Verdantia."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You're way too clingy for my taste, we are officially done.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I stood there frozen, humiliated in front of every single commuter waiting for their morning caffeine fix, desperately clutching a cold oat milk latte."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "You will never find anyone who actually loves you.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You will never find anyone who actually loves you.",
+      "quote_by": {
+        "level": 6,
+        "name": "Julian",
+        "badge": "3 Years Married",
+        "character": "A smooth green avocado with tailored Italian suit and expensive leather shoes.",
+        "scene": "Wide angle shot of a luxury rooftop terrace at sunset, Julian looking down at Maya with a smug smirk."
+      },
+      "stats": [
+        {
+          "label": "Status",
+          "value": "0 Days",
+          "bar": 0.05
+        },
+        {
+          "label": "Trust",
+          "value": "12%",
+          "bar": 0.1
+        },
+        {
+          "label": "Patience",
+          "value": "5%",
+          "bar": 0.05
+        }
+      ],
+      "character": "A vibrant red strawberry person with bumpy seed skin, wearing a frayed oversized thrift-store hoodie and carrying a chipped ceramic coffee mug.",
+      "visual": "Close-up shot in a crowded neon-lit cafe, a strawberry person staring in shock at her glowing forehead badge while holding a steaming latte.",
+      "scenes": [
+        "Wide shot: A bustling downtown coffee shop at 8 AM, steam rising from espresso machines, a golden coin hidden near a table leg.",
+        "Medium shot: A yellow banana person tossing car keys onto a sticky wooden cafe table while sneering.",
+        "Close-up: A glowing digital forehead display reading 0 Days Single flashing in red light.",
+        "Detail shot: A chipped ceramic coffee mug resting on a scratched mahogany counter next to spilled milk drops.",
+        "Over-the-shoulder shot: Commuters rushing past glass windows blurred by morning rain and streetlights.",
+        "Close-up: Tearful strawberry eyes reflecting the glowing numbers of the digital forehead badge."
+      ],
+      "caption": "Have you ever been dumped right out of nowhere after three years? Drop your story below! #RelationshipGoals #Heartbreak #VerdantiaLife #SingleLife #Drama"
+    },
+    {
+      "n": 2,
+      "open_loop": "Whose name was written on the mysterious gift box left at the front door?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Intercepts her anniversary package in the apartment lobby and throws it into the recycling bin."
+      },
+      "name": "Oliver, 26, Delivery Rider",
+      "badge": "14 Days Single",
+      "verdict": "RECOVERING",
+      "story": "The 8 levels of relationship status after three years. Level 2. 14 Tage Single und im übelsten Gewitter unterwegs, um Miete zu zahlen? Ich bin Oliver (Orange), und mein Badge blinkt '14 Days Single' – bis dieser arrogante Wachmann Marcus meine Lieferung einfach in den Müll wirft und spottet: Niemand will hier einen gebrochenen Mann! Doch er weiß nicht, dass im Paket der Schlüssel zu seinem eigenen Jobverlust liegt... Level 2: 14 days single – and pedaling through a freezing thunderstorm to pay rent in a gloomy residential block. I'm Oliver, a crisp orange citrus person with bright textured peel, standing in a dim apartment hallway holding a soggy cardboard box. My glowing forehead badge reads 14 Days Single, a constant reminder of the text message that ended our three-year lease. You really thought a delivery guy could keep a woman like me happy for long? I gripped the handlebars of my heavy delivery bicycle, the rain soaking straight through my cotton jacket as bitter cold wind whipped around the concrete corners. Drop your packages outside, nobody wants a broken man in this building. Das siehst du in Level 3. You'll see that in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+5 Days",
+        "after": "19 Days"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of relationship status after three years. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "14 Tage Single und im übelsten Gewitter unterwegs, um Miete zu zahlen? Ich bin Oliver (Orange), und mein Badge blinkt '14 Days Single' – bis dieser arrogante Wachmann Marcus meine Lieferung einfach in den Müll wirft und spottet: Niemand will hier einen gebrochenen Mann! Doch er weiß nicht, dass im Paket der Schlüssel zu seinem eigenen Jobverlust liegt..."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 14 days single – and pedaling through a freezing thunderstorm to pay rent in a gloomy residential block."
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Oliver, a crisp orange citrus person with bright textured peel, standing in a dim apartment hallway holding a soggy cardboard box."
+        },
+        {
+          "s": "Figur",
+          "t": "My glowing forehead badge reads 14 Days Single, a constant reminder of the text message that ended our three-year lease."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You really thought a delivery guy could keep a woman like me happy for long?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I gripped the handlebars of my heavy delivery bicycle, the rain soaking straight through my cotton jacket as bitter cold wind whipped around the concrete corners."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Drop your packages outside, nobody wants a broken man in this building.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Drop your packages outside, nobody wants a broken man in this building.",
+      "quote_by": {
+        "level": 5,
+        "name": "Marcus",
+        "badge": "1 Year Engaged",
+        "character": "A stern broccoli person wearing a tight security uniform and polished black boots.",
+        "scene": "Medium shot in a dark apartment lobby, Marcus crossing his arms over his chest with an intimidating scowl."
+      },
+      "stats": [
+        {
+          "label": "Status",
+          "value": "14 Days",
+          "bar": 0.2
+        },
+        {
+          "label": "Trust",
+          "value": "30%",
+          "bar": 0.25
+        },
+        {
+          "label": "Resilience",
+          "value": "65%",
+          "bar": 0.6
+        }
+      ],
+      "character": "A bright orange citrus person with porous, textured skin, wearing a high-visibility delivery jacket and a soaked baseball cap.",
+      "visual": "Medium shot of an orange fruit person holding a delivery package inside a gloomy apartment hallway during a heavy storm outside.",
+      "scenes": [
+        "Wide shot: A narrow apartment corridor with flickering fluorescent lights and peeling wallpaper, a golden coin tucked inside a metal mailbox.",
+        "Medium shot: A purple plum person in a silk coat pointing mockingly at an orange delivery rider.",
+        "Close-up: A glowing digital forehead display showing 14 Days Single in bright orange numerals.",
+        "Detail shot: Water droplets dripping from heavy handlebars onto concrete floor tiles.",
+        "Over-the-shoulder shot: Rain splashing against wire-reinforced glass windows in a stairwell.",
+        "Close-up: Frustrated orange citrus eyes staring down at a soggy cardboard parcel."
+      ],
+      "caption": "Working hard after a brutal breakup is the ultimate test. Have you been there? #HustleLife #BreakupRecovery #CitrusDrama #DeliveryDiaries #Growth"
+    },
+    {
+      "n": 3,
+      "open_loop": "What documents were hidden inside the locked filing cabinet?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Rejects her business partnership proposal across the boardroom table without even reading it."
+      },
+      "name": "Chloe, 28, Accountant",
+      "badge": "6 Months Single",
+      "verdict": "FOCUSED",
+      "story": "The 8 levels of relationship status after three years. Level 3. 6 Monate Single und nachts um 2 Uhr im leeren Büro eingesperrt? Ich bin Chloe (Pflaume), mein Badge leuchtet '6 Months Single', als die eiskalte Chefin Victoria vorbeistolziert und mir droht: Hör auf mit dem Liebeskummer, sonst fliegst du fristlos! Sie hat keine Ahnung, dass ich gerade alle ihre Finanz-Geheimnisse aufgedeckt habe... Level 3: 6 months single – and staring at a tax spreadsheet at 2 AM in an empty corporate office tower. I'm Chloe, a sleek purple plum person with smooth dark skin, sitting at a glass desk on the 40th floor under harsh flickering lights. My glowing forehead badge reads 6 Months Single, glowing a cool blue beneath fluorescent strip lighting. You spent three years building spreadsheets instead of building a family with me. I swallowed hard, refusing to let him see a single tear roll down my smooth purple cheek while I compiled confidential ledger entries. Stop wasting time on your failed love life or your career is finished here. Das siehst du in Level 4. You'll see that in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "+3 Months",
+        "after": "9 Months"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of relationship status after three years. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "6 Monate Single und nachts um 2 Uhr im leeren Büro eingesperrt? Ich bin Chloe (Pflaume), mein Badge leuchtet '6 Months Single', als die eiskalte Chefin Victoria vorbeistolziert und mir droht: Hör auf mit dem Liebeskummer, sonst fliegst du fristlos! Sie hat keine Ahnung, dass ich gerade alle ihre Finanz-Geheimnisse aufgedeckt habe..."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 6 months single – and staring at a tax spreadsheet at 2 AM in an empty corporate office tower."
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Chloe, a sleek purple plum person with smooth dark skin, sitting at a glass desk on the 40th floor under harsh flickering lights."
+        },
+        {
+          "s": "Figur",
+          "t": "My glowing forehead badge reads 6 Months Single, glowing a cool blue beneath fluorescent strip lighting."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You spent three years building spreadsheets instead of building a family with me.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I swallowed hard, refusing to let him see a single tear roll down my smooth purple cheek while I compiled confidential ledger entries."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Stop wasting time on your failed love life or your career is finished here.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Stop wasting time on your failed love life or your career is finished here.",
+      "quote_by": {
+        "level": 7,
+        "name": "Victoria",
+        "badge": "5 Years Married",
+        "character": "An elegant dragonfruit person wearing a sharp white blazer and diamond earrings.",
+        "scene": "Wide shot in a high-rise executive boardroom, Victoria looking down coldly at an open folder."
+      },
+      "stats": [
+        {
+          "label": "Status",
+          "value": "6 Months",
+          "bar": 0.4
+        },
+        {
+          "label": "Focus",
+          "value": "85%",
+          "bar": 0.85
+        },
+        {
+          "label": "Heart",
+          "value": "40%",
+          "bar": 0.4
+        }
+      ],
+      "character": "A deep purple plum person with smooth, glossy skin, wearing a tailored charcoal-grey office blazer and silver wire-rimmed glasses.",
+      "visual": "Medium shot of a purple plum fruit person sitting at a modern glass desk lit by laptop glow in a skyscraper office at night.",
+      "scenes": [
+        "Wide shot: A vast corporate office floor at night with city skyline lights outside, a golden coin hidden under paper stacks.",
+        "Medium shot: A rough brown coconut person dropping a cardboard box onto an office desk with a thud.",
+        "Close-up: A glowing digital forehead display reading 6 Months Single in blue light.",
+        "Detail shot: Fingers typing rapidly on an illuminated mechanical keyboard.",
+        "Over-the-shoulder shot: City traffic moving like tiny glowing ribbons far down below the skyscraper window.",
+        "Close-up: Reflective plum skin showing the blue glow of financial charts on a computer screen."
+      ],
+      "caption": "Choosing your career over a toxic relationship is tough. Where do you stand? #CareerFirst #PlumLife #CorporateDrama #SingleAndFocused #OfficeLife"
+    },
+    {
+      "n": 4,
+      "open_loop": "Who was waiting inside the vintage red sports car parked downstairs?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Knocks loudly on her apartment door late at night demanding her old belongings back."
+      },
+      "name": "Leo, 29, Architect",
+      "badge": "1 Year Single",
+      "verdict": "REBUILDING",
+      "story": "The 8 levels of relationship status after three years. Level 4. 1 Jahr Single und am Verzweifeln im Rohbau? Ich bin Leo (Banane), mein Badge zeigt '1 Year Single', und ich schufte wie ein Verrückter, als plötzlich mein Ex auftaucht und mir an den Kopf wirft: Du hast unsere Zukunft für nichts weggegeben! Aber warte nur ab, bis die Baugenossenschaft erfährt, wer hier wirklich betrogen hat... Level 4: 1 year single – and sketching blueprints for a luxury penthouse I can barely afford inside an industrial construction site. I'm Leo, a smooth yellow banana person with a clean-cut look, standing in an unfinished loft surrounded by thick concrete dust and buzzing power tools. My glowing forehead badge reads 1 Year Single, a sharp contrast to the 3-year anniversary ring I threw away in disgust. You traded our three years together for a fancy career that means nothing to anyone. I gripped my architectural pen so tightly my fingers turned pale yellow while drafting structural supports. Finish this blueprint by morning or your contract is canceled permanently. Das siehst du in Level 5. You'll see that in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+6 Months",
+        "after": "1.5 Years"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of relationship status after three years. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "1 Jahr Single und am Verzweifeln im Rohbau? Ich bin Leo (Banane), mein Badge zeigt '1 Year Single', und ich schufte wie ein Verrückter, als plötzlich mein Ex auftaucht und mir an den Kopf wirft: Du hast unsere Zukunft für nichts weggegeben! Aber warte nur ab, bis die Baugenossenschaft erfährt, wer hier wirklich betrogen hat..."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 1 year single – and sketching blueprints for a luxury penthouse I can barely afford inside an industrial construction site."
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Leo, a smooth yellow banana person with a clean-cut look, standing in an unfinished loft surrounded by thick concrete dust and buzzing power tools."
+        },
+        {
+          "s": "Figur",
+          "t": "My glowing forehead badge reads 1 Year Single, a sharp contrast to the 3-year anniversary ring I threw away in disgust."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You traded our three years together for a fancy career that means nothing to anyone.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I gripped my architectural pen so tightly my fingers turned pale yellow while drafting structural supports."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Finish this blueprint by morning or your contract is canceled permanently.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Finish this blueprint by morning or your contract is canceled permanently.",
+      "quote_by": {
+        "level": 8,
+        "name": "Arthur",
+        "badge": "10 Years Married",
+        "character": "An ancient watermelon person with a walking cane and a heavy golden pocket watch.",
+        "scene": "Wide shot of a sunlit architectural studio, Arthur pointing his cane commandingly at a drawing board."
+      },
+      "stats": [
+        {
+          "label": "Status",
+          "value": "1 Year",
+          "bar": 0.55
+        },
+        {
+          "label": "Ambition",
+          "value": "90%",
+          "bar": 0.9
+        },
+        {
+          "label": "Regret",
+          "value": "35%",
+          "bar": 0.35
+        }
+      ],
+      "character": "A slender yellow banana person with smooth curved skin, wearing a dust-covered black turtleneck and silver architect glasses.",
+      "visual": "Medium shot of a yellow banana fruit person drawing floor plans on a wooden drafting table in an industrial loft under construction.",
+      "scenes": [
+        "Wide shot: An open industrial loft with exposed brick walls and scaffolding, a golden coin hidden inside a sack of dry plaster.",
+        "Medium shot: A red strawberry person yelling through an open ground-floor window into an apartment.",
+        "Close-up: A glowing digital forehead display showing 1 Year Single in bright yellow light.",
+        "Detail shot: Charcoal pencil strokes curving across large blueprint paper sheets.",
+        "Over-the-shoulder shot: Dust particles floating in golden beams of afternoon sunlight.",
+        "Close-up: Yellow banana hands holding a drafting compass with intense focus."
+      ],
+      "caption": "Rebuilding your life after walking away from a long-term relationship is brutal. #ArchitectureLife #BananaDrama #SingleLife #FreshStart #Design"
+    },
+    {
+      "n": 5,
+      "open_loop": "What was written on the engagement announcement posted on the community board?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Delivers the wrong mail package on purpose to sabotage her wedding dress delivery."
+      },
+      "name": "Marcus, 31, Security Guard",
+      "badge": "1 Year Engaged",
+      "verdict": "COMMITTED",
+      "story": "The 8 levels of relationship status after three years. Level 5. 1 Jahr verlobt und von der eigenen Verlobten ignoriert? Ich bin Marcus (Brokkoli), Security-Guard im Luxus-Tower, Badge '1 Year Engaged', während die arrogante Victoria mich anpöbelt: Du bildest dir wohl einiges auf deinen Ring ein! Sie lacht jetzt noch – bis sie merkt, dass ich den Master-Schlüssel zu ihrem Penthouse habe... Level 5: 1 year engaged – and standing guard at the lobby entrance while my fiancée repeatedly ghosts my emergency calls. I'm Marcus, a stern broccoli person with dense green florets, holding a heavy clipboard in a luxury high-rise lobby filled with marble pillars. My glowing forehead badge reads 1 Year Engaged, glowing in proud green neon lights for every resident. You think flashing a ring makes you better than everyone else working in this building. I tightened my grip on my security radio, my green florets twitching with suppressed irritation as I monitored the security monitors. Drop your attitude or your uniform goes in the trash by tonight. Das siehst du in Level 6. You'll see that in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "Cancelled",
+        "after": "0 Days"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of relationship status after three years. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "1 Jahr verlobt und von der eigenen Verlobten ignoriert? Ich bin Marcus (Brokkoli), Security-Guard im Luxus-Tower, Badge '1 Year Engaged', während die arrogante Victoria mich anpöbelt: Du bildest dir wohl einiges auf deinen Ring ein! Sie lacht jetzt noch – bis sie merkt, dass ich den Master-Schlüssel zu ihrem Penthouse habe..."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 1 year engaged – and standing guard at the lobby entrance while my fiancée repeatedly ghosts my emergency calls."
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Marcus, a stern broccoli person with dense green florets, holding a heavy clipboard in a luxury high-rise lobby filled with marble pillars."
+        },
+        {
+          "s": "Figur",
+          "t": "My glowing forehead badge reads 1 Year Engaged, glowing in proud green neon lights for every resident."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You think flashing a ring makes you better than everyone else working in this building.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I tightened my grip on my security radio, my green florets twitching with suppressed irritation as I monitored the security monitors."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Drop your attitude or your uniform goes in the trash by tonight.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Drop your attitude or your uniform goes in the trash by tonight.",
+      "quote_by": {
+        "level": 7,
+        "name": "Victoria",
+        "badge": "5 Years Married",
+        "character": "An elegant dragonfruit person wearing a sharp white blazer and diamond earrings.",
+        "scene": "Wide shot in a marble hotel lobby, Victoria staring down a security guard with icy authority."
+      },
+      "stats": [
+        {
+          "label": "Status",
+          "value": "1 Year Eng.",
+          "bar": 0.7
+        },
+        {
+          "label": "Duty",
+          "value": "95%",
+          "bar": 0.95
+        },
+        {
+          "label": "Trust",
+          "value": "45%",
+          "bar": 0.45
+        }
+      ],
+      "character": "A dark green broccoli person with tightly clustered florets, wearing a stiff dark blue security uniform with silver buttons and a communications headset.",
+      "visual": "Medium shot of a broccoli fruit person standing stiffly behind a polished marble reception desk in a luxury apartment lobby.",
+      "scenes": [
+        "Wide shot: A gleaming marble hotel lobby with crystal chandeliers, a golden coin hidden under the visitor register book.",
+        "Medium shot: An orange citrus delivery rider tossing a soggy package across a reception counter.",
+        "Close-up: A glowing digital forehead display showing 1 Year Engaged in bright green light.",
+        "Detail shot: Fingers pressing the push-to-talk button on a black two-way radio.",
+        "Over-the-shoulder shot: Revolving glass doors reflecting street traffic outside under grey skies.",
+        "Close-up: Tense broccoli florets twitching slightly under fluorescent lobby lighting."
+      ],
+      "caption": "Engagement isn't always a fairy tale. What's your take on long engagements? #SecurityLife #BroccoliDrama #EngagementRing #HighRiseLiving #Verdantia"
+    },
+    {
+      "n": 6,
+      "open_loop": "What secret agreement was signed inside the VIP lounge?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Audits his corporate expense account and threatens to expose his hidden wedding debts."
+      },
+      "name": "Julian, 33, Investor",
+      "badge": "3 Years Married",
+      "verdict": "SECURE",
+      "story": "The 8 levels of relationship status after three years. Level 6. 3 Jahre verheiratet und stockbesoffen auf der VIP-Rooftop-Party? Ich bin Julian (Avocado), Badge '3 Years Married', und ich lache über alle Singles, bis mir die Buchhalterin ins Gesicht spuckt: Deine Ehe ist nur eine Fassade wegen des Geldes! Mein Lächeln friert ein, denn sie hat recht – und mein Konto ist leer... Level 6: 3 years married – and sipping expensive champagne while openly judging everyone else's dating failures at a high-end club. I'm Julian, a smooth green avocado person with a tailored Italian suit, lounging in a leather booth at an exclusive rooftop lounge. My glowing forehead badge reads 3 Years Married, shining in bright gold numbers above my pit. You act like your marriage is bulletproof, but everyone knows your spouse is only staying for your bank account. I smirked and adjusted my silk tie, refusing to let her petty jealousy ruin my evening of total luxury. Enjoy the view while it lasts, sir, because perfection never lasts forever in this city. Das siehst du in Level 7. You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "Divorced",
+        "after": "0 Days"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of relationship status after three years. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "3 Jahre verheiratet und stockbesoffen auf der VIP-Rooftop-Party? Ich bin Julian (Avocado), Badge '3 Years Married', und ich lache über alle Singles, bis mir die Buchhalterin ins Gesicht spuckt: Deine Ehe ist nur eine Fassade wegen des Geldes! Mein Lächeln friert ein, denn sie hat recht – und mein Konto ist leer..."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 3 years married – and sipping expensive champagne while openly judging everyone else's dating failures at a high-end club."
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Julian, a smooth green avocado person with a tailored Italian suit, lounging in a leather booth at an exclusive rooftop lounge."
+        },
+        {
+          "s": "Figur",
+          "t": "My glowing forehead badge reads 3 Years Married, shining in bright gold numbers above my pit."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You act like your marriage is bulletproof, but everyone knows your spouse is only staying for your bank account.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I smirked and adjusted my silk tie, refusing to let her petty jealousy ruin my evening of total luxury."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Enjoy the view while it lasts, sir, because perfection never lasts forever in this city.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "Enjoy the view while it lasts, sir, because perfection never lasts forever in this city.",
+      "quote_by": {
+        "level": 4,
+        "name": "Leo",
+        "badge": "1 Year Single",
+        "character": "A slender yellow banana person in a dust-covered black turtleneck and architect glasses.",
+        "scene": "Wide shot on a glowing city balcony, Leo looking up at the penthouse suite with a knowing grin."
+      },
+      "stats": [
+        {
+          "label": "Status",
+          "value": "3 Years M.",
+          "bar": 0.85
+        },
+        {
+          "label": "Status",
+          "value": "90%",
+          "bar": 0.9
+        },
+        {
+          "label": "Paranoia",
+          "value": "60%",
+          "bar": 0.6
+        }
+      ],
+      "character": "A smooth green avocado person with a dark green textured peel and a large oval pit shape, wearing a custom navy blue Italian suit and a gold wristwatch.",
+      "visual": "Medium shot of an avocado fruit person holding a crystal champagne flute on a luxurious rooftop terrace overlooking the city skyline at night.",
+      "scenes": [
+        "Wide shot: A rooftop cocktail lounge with panoramic city views and neon lights, a golden coin hidden next to a champagne bucket.",
+        "Medium shot: A purple plum accountant closing her laptop screen angrily across a lit rooftop bridge.",
+        "Close-up: A glowing digital forehead display showing 3 Years Married in glowing gold numerals.",
+        "Detail shot: Effervescent bubbles rising inside a crystal champagne flute.",
+        "Over-the-shoulder shot: Distant skyscrapers glowing against a dark purple evening sky.",
+        "Close-up: Confident avocado eyes staring into the camera lens with a smug expression."
+      ],
+      "caption": "Marriage looks easy from the outside until reality hits. #AvocadoLife #LuxuryLiving #MarriageGoals #RooftopVibes #Verdantia"
+    },
+    {
+      "n": 7,
+      "open_loop": "Whose photograph was found locked inside the CEO's personal safe?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Refuses to sign the architectural expansion plans for her corporate headquarters."
+      },
+      "name": "Victoria, 35, CEO",
+      "badge": "5 Years Married",
+      "verdict": "UNTOUCHABLE",
+      "story": "The 8 levels of relationship status after three years. Level 7. 5 Jahre verheiratet und knallhart am Verhandeln, während mein Mann mich betrügt? Ich bin Victoria (Drachenfrucht), Badge '5 Years Married', und ich lasse mir nichts anmerken, als mir an den Kopf geworfen wird: Deine Ehe bricht gerade in Trümmern zusammen! Doch wer zuletzt lacht, kontrolliert die gesamten Firmenanteile... Level 7: 5 years married – and finalizing a multi-million dollar corporate merger while my husband vacations alone in secret. I'm Victoria, an elegant dragonfruit person with bright pink skin and green scales, sitting at the head of a massive mahogany board table. My glowing forehead badge reads 5 Years Married, gleaming in platinum light under chandelier illumination. You think five years of marriage makes you invincible in this boardroom, but your personal life is crumbling behind closed doors. I kept my composure, my pink dragonfruit scales tightening with controlled fury as I reviewed the portfolio. Sign the merger documents right now or your shareholders will demand a public divorce investigation. Das siehst du in Level 8. You'll see that in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "Exposed",
+        "after": "0 Days"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of relationship status after three years. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "5 Jahre verheiratet und knallhart am Verhandeln, während mein Mann mich betrügt? Ich bin Victoria (Drachenfrucht), Badge '5 Years Married', und ich lasse mir nichts anmerken, als mir an den Kopf geworfen wird: Deine Ehe bricht gerade in Trümmern zusammen! Doch wer zuletzt lacht, kontrolliert die gesamten Firmenanteile..."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 5 years married – and finalizing a multi-million dollar corporate merger while my husband vacations alone in secret."
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Victoria, an elegant dragonfruit person with bright pink skin and green scales, sitting at the head of a massive mahogany board table."
+        },
+        {
+          "s": "Figur",
+          "t": "My glowing forehead badge reads 5 Years Married, gleaming in platinum light under chandelier illumination."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You think five years of marriage makes you invincible in this boardroom, but your personal life is crumbling behind closed doors.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I kept my composure, my pink dragonfruit scales tightening with controlled fury as I reviewed the portfolio."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Sign the merger documents right now or your shareholders will demand a public divorce investigation.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "Sign the merger documents right now or your shareholders will demand a public divorce investigation.",
+      "quote_by": {
+        "level": 3,
+        "name": "Chloe",
+        "badge": "6 Months Single",
+        "character": "A sleek purple plum person in a tailored charcoal-grey office blazer and silver wire-rimmed glasses.",
+        "scene": "Wide shot in a corporate conference room, Chloe sliding legal documents across a glass table with an intense glare."
+      },
+      "stats": [
+        {
+          "label": "Status",
+          "value": "5 Years M.",
+          "bar": 0.95
+        },
+        {
+          "label": "Power",
+          "value": "98%",
+          "bar": 0.98
+        },
+        {
+          "label": "Control",
+          "value": "90%",
+          "bar": 0.9
+        }
+      ],
+      "character": "A striking pink dragonfruit person with vibrant green-tipped leafy scales, wearing a pristine white designer blazer and diamond drop earrings.",
+      "visual": "Medium shot of a pink dragonfruit fruit person sitting at the head of a long mahogany conference table in a high-rise executive suite.",
+      "scenes": [
+        "Wide shot: A luxurious executive boardroom with floor-to-ceiling windows showing city skyscrapers, a golden coin hidden under a leather contract portfolio.",
+        "Medium shot: An avocado investor slamming a red folder onto a polished wooden table.",
+        "Close-up: A glowing digital forehead display showing 5 Years Married in platinum white light.",
+        "Detail shot: Fountain pen ink signing signature lines on official merger documents.",
+        "Over-the-shoulder shot: Corporate skyscrapers reflecting in polished glass tabletop surfaces.",
+        "Close-up: Cold, piercing dragonfruit eyes staring straight across the boardroom table."
+      ],
+      "caption": "Power and marriage don't always mix well at the top. What's your ultimate goal? #DragonfruitLife #CorporatePower #CEO #Marriage #Verdantia"
+    },
+    {
+      "n": 8,
+      "open_loop": "What did the ancient ledger reveal about every single number in Verdantia?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Bangs on the grand mansion gates demanding to know the true meaning behind the numbers."
+      },
+      "name": "Arthur, 72, Patriarch",
+      "badge": "10 Years Married",
+      "verdict": "TIMELESS",
+      "story": "The 8 levels of relationship status after three years. Level 8. 10 Jahre verheiratet und am Ende des Lebens? Ich bin Arthur (Wassermelone), Badge '10 Years Married', und ich blicke auf all die falschen Zahlen zurück, während draußen Maya steht und mich anfleht: Hör auf, dich hinter diesem Stirn-Badge zu verstecken! Das ist die letzte Abrechnung in Verdantia... Level 8: 10 years married – and looking back at a lifetime of numbers that never truly defined anything important in life. I'm Arthur, an ancient watermelon person with dark green striped skin and wise grey seed freckles, standing on the grand marble balcony of the city estate. My glowing forehead badge reads 10 Years Married, glowing in a soft, warm golden light that outshines every neon sign in Verdantia. You act like your number gives you all the answers, but you've been hiding behind that display for a decade. I smiled softly, leaning against my carved wooden walking cane as the city lights flickered across the skyline. The number on your forehead only shows what others expect to see, but love is the only equation that never expires. What theme of our city should we explore next?",
+      "gender": "m",
+      "twist": {
+        "delta": "Forever",
+        "after": "Infinity"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of relationship status after three years. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "10 Jahre verheiratet und am Ende des Lebens? Ich bin Arthur (Wassermelone), Badge '10 Years Married', und ich blicke auf all die falschen Zahlen zurück, während draußen Maya steht und mich anfleht: Hör auf, dich hinter diesem Stirn-Badge zu verstecken! Das ist die letzte Abrechnung in Verdantia..."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 10 years married – and looking back at a lifetime of numbers that never truly defined anything important in life."
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Arthur, an ancient watermelon person with dark green striped skin and wise grey seed freckles, standing on the grand marble balcony of the city estate."
+        },
+        {
+          "s": "Figur",
+          "t": "My glowing forehead badge reads 10 Years Married, glowing in a soft, warm golden light that outshines every neon sign in Verdantia."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You act like your number gives you all the answers, but you've been hiding behind that display for a decade.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I smiled softly, leaning against my carved wooden walking cane as the city lights flickered across the skyline."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The number on your forehead only shows what others expect to see, but love is the only equation that never expires."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What theme of our city should we explore next?"
+        }
+      ],
+      "quote": "The number on your forehead only shows what others expect to see, but love is the only equation that never expires.",
+      "quote_by": {
+        "level": 1,
+        "name": "Maya",
+        "badge": "0 Days Single",
+        "character": "A vibrant red strawberry person with bumpy seed skin, wearing a frayed oversized thrift-store hoodie.",
+        "scene": "Wide shot outside grand iron estate gates, Maya looking up at an illuminated balcony with wonder."
+      },
+      "stats": [
+        {
+          "label": "Status",
+          "value": "10 Years M.",
+          "bar": 1.0
+        },
+        {
+          "label": "Wisdom",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Legacy",
+          "value": "Infinity",
+          "bar": 1.0
+        }
+      ],
+      "character": "An ancient striped watermelon person with deep green skin and weathered grey seed freckles, wearing a classic tweed vest and carrying an ornate wooden walking cane.",
+      "visual": "Medium shot of an elderly watermelon fruit person standing on a grand neoclassical mansion balcony at twilight, overlooking the glittering city of Verdantia.",
+      "scenes": [
+        "Wide shot: A majestic stone mansion surrounded by manicured gardens and glowing lanterns, a golden coin hidden on a carved stone railing.",
+        "Medium shot: An ancient striped watermelon person looking out over the city.",
+        "Close-up: A glowing digital forehead display showing 10 Years Married in warm golden light.",
+        "Detail shot: An antique brass pocket watch clicking open to reveal an old faded photograph.",
+        "Over-the-shoulder shot: The entire glittering skyline of Verdantia stretching out under a starry night sky.",
+        "Close-up: Peaceful watermelon eyes smiling gently with quiet wisdom and fulfillment."
+      ],
+      "caption": "The journey through all 8 levels of relationships comes down to this. What topic should we cover next? Drop your ideas in the comments! #WatermelonWisdom #RelationshipJourney #VerdantiaLife #SeriesFinale #LoveWins"
+    }
+  ],
+  "lang": "en",
+  "topic": "Der Beziehungsstatus nach drei Jahren",
+  "frame": "frucht"
+}

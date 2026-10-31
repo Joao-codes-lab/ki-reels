@@ -1,0 +1,783 @@
+{
+  "title": "The 8 Levels of 'We Need to Talk'",
+  "house": "Fruit City, a bustling metropolis where produce people live in high-rise apartments, commute via subway, and run chaotic corner stores, all while carrying glowing digital badges on their forehead displaying their current stress or panic levels.",
+  "catchphrase": "The numbers never lie, but they always hurt.",
+  "links": [
+    "The barista in Level 2 mentioned a calm man in a suit who always leaves massive tips at the downtown cafe.",
+    "The glowing digital billboard from Level 5 flickers across the skyline of every episode.",
+    "A dropped golden coin near the subway turnstile connects the daily commutes of Level 1 and Level 7."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "What was written on the blue sticky note left on the kitchen counter?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Laughs loudly at her low panic rating and blocks her path to the office exit.",
+        "g": "m"
+      },
+      "name": "Mia, 22, Intern",
+      "badge": "Panic: 98%",
+      "verdict": "FULL MELTDOWN",
+      "story": "2 Euro Stundenlohn und eine Mitternachts-SMS von meinem Boss – wer das liest, ist sofort ruiniert. The 8 levels of panic when someone says 'We need to talk'. Level 1. Level 1: 98 percent panic because my boss just texted 'We need to talk' at midnight while I am drowning in debt. I am staring at my phone screen in my tiny studio apartment, dropping my keys on the linoleum floor with shaking hands. You are fired before you even start, he spits with cold satisfaction. I want to scream that I worked eighty hours this week for free coffee and broken promises while he sleeps in luxury. Read the note on your keyboard, Mia, before I throw your cardboard box into the rain. Then he said this one sentence that changed everything and destroyed my remaining hope. Das siehst du in Level 1. You'll see that in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+2%",
+        "after": "Panic: 10"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "2 Euro Stundenlohn und eine Mitternachts-SMS von meinem Boss – wer das liest, ist sofort ruiniert."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of panic when someone says 'We need to talk'. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 98 percent panic because my boss just texted 'We need to talk' at midnight while I am drowning in debt."
+        },
+        {
+          "s": "Figur",
+          "t": "I am staring at my phone screen in my tiny studio apartment, dropping my keys on the linoleum floor with shaking hands."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are fired before you even start, he spits with cold satisfaction.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I want to scream that I worked eighty hours this week for free coffee and broken promises while he sleeps in luxury."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Read the note on your keyboard, Mia, before I throw your cardboard box into the rain.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then he said this one sentence that changed everything and destroyed my remaining hope."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 1."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You are fired before you even start.",
+      "quote_by": {
+        "level": 4,
+        "name": "Brocco",
+        "badge": "Panic: 12%",
+        "character": "A stern broccoli person with dark green florets, wearing a sharp charcoal suit and a silver wristwatch.",
+        "scene": "Close-up shot of Brocco leaning over a glass office partition, smirking down at a terrified strawberry intern."
+      },
+      "stats": [
+        {
+          "label": "Panic Level",
+          "value": "98%",
+          "bar": 0.98
+        },
+        {
+          "label": "Bank Acc.",
+          "value": "$12",
+          "bar": 0.05
+        },
+        {
+          "label": "Rent Due",
+          "value": "$1,450",
+          "bar": 0.85
+        }
+      ],
+      "character": "A young strawberry woman with tiny yellow seeds on her bright red skin, wearing an oversized beige cardigan, holding a cracked smartphone.",
+      "visual": "A cramped, neon-lit studio apartment at midnight, wide-angle shot of a strawberry person staring at a glowing phone with tears in her eyes.",
+      "scenes": [
+        "A cramped, neon-lit studio apartment at midnight, wide-angle shot of a strawberry person staring at a glowing phone with tears in her eyes.",
+        "A bustling corporate office corridor under harsh fluorescent lights, medium shot of a broccoli man in a suit walking past trembling desks.",
+        "A stainless steel kitchen counter in the breakroom, extreme close-up of a dropped golden coin rolling past a paper coffee cup.",
+        "A crowded subway car during morning rush hour, close-up of a nervous strawberry holding onto a metal strap while her forehead badge glows bright red.",
+        "A glass-walled conference room with rain streaks on the window, medium shot of a manager dropping a blue sticky note on a cluttered desk.",
+        "A quiet rooftop at dawn overlooking the Fruit City skyline, wide shot of the glowing digital billboards displaying massive panic numbers in the distance."
+      ],
+      "caption": "Would you survive a midnight text like this? Let us know in the comments! #panic #corporate #fruitcity #drama #storytime"
+    },
+    {
+      "n": 2,
+      "open_loop": "Who sent the mysterious envelope with the red wax seal to the coffee shop?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Refuses to pay for her espresso and spills milk on her counter on purpose.",
+        "g": "w"
+      },
+      "name": "Citrina, 29, Barista",
+      "badge": "Panic: 75%",
+      "verdict": "SOUR SURPRISE",
+      "story": "The 8 levels of panic when someone says 'We need to talk'. Level 2. Level 2: 75 percent panic when the landlord walks into my cafe and says we need to talk about the lease while customers watch in shock. Sie schüttet absichtlich Milch über die Bar und lacht mich aus, weil ich mir die Miete nicht mehr leisten kann. I am wiping down the sticky espresso machine while steam hisses into the cold morning air and my bank account hits rock bottom. You are doubling the rent starting next month, she announces with pure malice in her eyes. My yellow peel tightens with bitter rage because I built this cafe from scratch with my bare hands and endless sweat. Read what is inside the envelope before you cry, barista, and watch your business die. Then she whispered the one phrase that broke my spirit entirely. Das siehst du in Level 2. You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+15%",
+        "after": "Panic: 90"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of panic when someone says 'We need to talk'. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 75 percent panic when the landlord walks into my cafe and says we need to talk about the lease while customers watch in shock."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie schüttet absichtlich Milch über die Bar und lacht mich aus, weil ich mir die Miete nicht mehr leisten kann."
+        },
+        {
+          "s": "Figur",
+          "t": "I am wiping down the sticky espresso machine while steam hisses into the cold morning air and my bank account hits rock bottom."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are doubling the rent starting next month, she announces with pure malice in her eyes.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My yellow peel tightens with bitter rage because I built this cafe from scratch with my bare hands and endless sweat."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Read what is inside the envelope before you cry, barista, and watch your business die.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then she whispered the one phrase that broke my spirit entirely."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "You are doubling the rent starting next month.",
+      "quote_by": {
+        "level": 6,
+        "name": "Madame Melons",
+        "badge": "Panic: 0%",
+        "character": "An elegant watermelon person wearing a dark green velvet coat and diamond earrings.",
+        "scene": "Medium shot of a proud watermelon woman dropping a brass key onto a rustic cafe counter with disdain."
+      },
+      "stats": [
+        {
+          "label": "Panic Level",
+          "value": "75%",
+          "bar": 0.75
+        },
+        {
+          "label": "Cafe Rent",
+          "value": "$3,200",
+          "bar": 0.65
+        },
+        {
+          "label": "Savings",
+          "value": "$450",
+          "bar": 0.2
+        }
+      ],
+      "character": "A sour-faced lemon woman with bright yellow porous skin, wearing a stained canvas apron and silver hoop earrings.",
+      "visual": "A cozy neighborhood cafe with rustic wooden decor, medium shot of a lemon barista wiping down a gleaming espresso machine.",
+      "scenes": [
+        "A cozy neighborhood cafe with rustic wooden decor, medium shot of a lemon barista wiping down a gleaming espresso machine.",
+        "A rain-slicked sidewalk outside the cafe window, wide shot of pedestrians hurrying past under black umbrellas.",
+        "An ornate tip jar on the counter, extreme close-up of a hidden golden coin resting beneath a crumpled five-dollar bill.",
+        "A sleek leather booth inside the cafe, medium shot of an elegant watermelon person sipping herbal tea with a glowing zero on her forehead.",
+        "A dusty vintage register clattering open, close-up of shaking yellow hands counting out crumpled single dollar bills.",
+        "A tall glass display case filled with fresh pastries, wide shot with soft morning sunlight filtering through steamed-up windows."
+      ],
+      "caption": "Could you keep your cool if your rent doubled overnight? Drop your thoughts below! #cafe #rent #lemon #stress #storytime"
+    },
+    {
+      "n": 3,
+      "open_loop": "What was hidden inside the encrypted USB drive handed across the dining table?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Threatens to evict him from his apartment complex within twenty-four hours.",
+        "g": "m"
+      },
+      "name": "Avocado, 34, Architect",
+      "badge": "Panic: 60%",
+      "verdict": "SOFT CENTER",
+      "story": "The 8 levels of panic when someone says 'We need to talk'. Level 3. Level 3: 60 percent panic because my business partner texted 'We need to talk' right before the biggest presentation of my career. I am sitting in an upscale downtown steakhouse, nervously poking my fork at a plate of expensive grilled asparagus while my hands tremble uncontrollably. Your blueprint designs are completely rejected by the city council and everyone knows you failed. My soft green flesh sweats under the warm restaurant lights because my entire mortgage and livelihood depend on this single contract. Take your USB drive and pack your desk by five o'clock before I ruin your professional reputation forever. Then er reichte mir den USB-Stick, und plötzlich flackerte das Video kurz vor der Enthüllung ab. Das siehst du in Level 3. You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+20%",
+        "after": "Panic: 80"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of panic when someone says 'We need to talk'. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 60 percent panic because my business partner texted 'We need to talk' right before the biggest presentation of my career."
+        },
+        {
+          "s": "Figur",
+          "t": "I am sitting in an upscale downtown steakhouse, nervously poking my fork at a plate of expensive grilled asparagus while my hands tremble uncontrollably."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your blueprint designs are completely rejected by the city council and everyone knows you failed.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My soft green flesh sweats under the warm restaurant lights because my entire mortgage and livelihood depend on this single contract."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Take your USB drive and pack your desk by five o'clock before I ruin your professional reputation forever.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then er reichte mir den USB-Stick, und plötzlich flackerte das Video kurz vor der Enthüllung ab."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Your blueprint designs are completely rejected by the city council.",
+      "quote_by": {
+        "level": 7,
+        "name": "Coco",
+        "badge": "Panic: 0%",
+        "character": "A rugged coconut person with a hard brown textured shell, wearing a heavy tweed jacket and a gold signet ring.",
+        "scene": "Close-up of a massive coconut person sliding a black USB drive across a white linen restaurant table."
+      },
+      "stats": [
+        {
+          "label": "Panic Level",
+          "value": "60%",
+          "bar": 0.6
+        },
+        {
+          "label": "Mortgage",
+          "value": "$2,800",
+          "bar": 0.7
+        },
+        {
+          "label": "Contracts",
+          "value": "0",
+          "bar": 0.05
+        }
+      ],
+      "character": "An avocado man with pale green skin and a large dark pit in his chest area, wearing a tailored navy blazer and slim-fit trousers.",
+      "visual": "An upscale downtown steakhouse with dim warm lighting, medium shot of an avocado architect sweating over a white tablecloth.",
+      "scenes": [
+        "An upscale downtown steakhouse with dim warm lighting, medium shot of an avocado architect sweating over a white tablecloth.",
+        "A polished ceramic salt shaker on the table, extreme close-up of a hidden golden coin resting beneath the base.",
+        "A towering glass-and-steel architectural office at dusk, wide shot of blueprints scattered across a drafting board.",
+        "A busy downtown street corner outside the restaurant, medium shot of pedestrians rushing past under glowing streetlamps.",
+        "A leather-bound portfolio open to complex structural drawings, close-up of trembling green hands holding a red correction pen.",
+        "A sleek underground parking garage beneath the skyscraper, wide shot of a luxury sports car driving away into the shadows."
+      ],
+      "caption": "Have you ever had a business partner pull the rug out from under you? Tell your story below! #architect #avocado #business #stress #storytime"
+    },
+    {
+      "n": 4,
+      "open_loop": "Whose name was written on the confidential medical report left on the hospital gurney?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Cries loudly in the hallway, making her look unprofessional in front of the chief surgeon.",
+        "g": "w"
+      },
+      "name": "Oranja, 41, Head Nurse",
+      "badge": "Panic: 50%",
+      "verdict": "ORANGE ALERT",
+      "story": "The 8 levels of panic when someone says 'We need to talk'. Level 4. Level 4: 50 percent panic because the hospital director cornered me in the surgical ward to say we need to talk in front of everyone. Sie lacht mich im Flur aus und nennt mich unfähig, während meine Station brennt und Patienten nach Hilfe rufen. I am clutching a stack of patient charts while fluorescent lights buzz overhead with an annoying metallic sound that drives me insane. Your department budget is getting slashed by forty percent starting tonight because you cannot manage your staff. My vibrant orange skin pulses with sudden anger because my nurses are already working double shifts without proper rest or food. Find the cuts yourself or I will make them for you, nurse, and watch your career end in disgrace. Then er sprach diese eine vernichtende Drohung aus. Das siehst du in Level 4. You'll see that in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+30%",
+        "after": "Panic: 80"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of panic when someone says 'We need to talk'. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 50 percent panic because the hospital director cornered me in the surgical ward to say we need to talk in front of everyone."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie lacht mich im Flur aus und nennt mich unfähig, während meine Station brennt und Patienten nach Hilfe rufen."
+        },
+        {
+          "s": "Figur",
+          "t": "I am clutching a stack of patient charts while fluorescent lights buzz overhead with an annoying metallic sound that drives me insane."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your department budget is getting slashed by forty percent starting tonight because you cannot manage your staff.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My vibrant orange skin pulses with sudden anger because my nurses are already working double shifts without proper rest or food."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Find the cuts yourself or I will make them for you, nurse, and watch your career end in disgrace.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then er sprach diese eine vernichtende Drohung aus."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Your department budget is getting slashed by forty percent starting tonight.",
+      "quote_by": {
+        "level": 1,
+        "name": "Dr. Dragon",
+        "badge": "Panic: 0%",
+        "character": "A striking dragon fruit person with magenta skin and green-tipped scales, wearing a crisp white lab coat.",
+        "scene": "Medium shot of a dragon fruit doctor tapping a metal clipboard against his leg inside a sterile hospital hallway."
+      },
+      "stats": [
+        {
+          "label": "Panic Level",
+          "value": "50%",
+          "bar": 0.5
+        },
+        {
+          "label": "Budget Cut",
+          "value": "-40%",
+          "bar": 0.4
+        },
+        {
+          "label": "Overtime",
+          "value": "120h",
+          "bar": 0.9
+        }
+      ],
+      "character": "An orange woman with textured citrus skin, wearing a neat teal medical scrubs uniform and white orthopedic sneakers.",
+      "visual": "A sterile hospital corridor with bright white walls, medium shot of an orange nurse holding medical charts under buzzing lights.",
+      "scenes": [
+        "A sterile hospital corridor with bright white walls, medium shot of an orange nurse holding medical charts under buzzing lights.",
+        "A gleaming metal medicine trolley, extreme close-up of a hidden golden coin wedged into the steel wheel assembly.",
+        "An emergency room waiting area filled with anxious produce people, wide shot under flickering fluorescent tubes.",
+        "A glass-fronted nursing station cluttered with monitors and ringing phones, close-up of tired orange hands typing on a keyboard.",
+        "A private doctor's office with leather armchairs, medium shot of a dragon fruit physician pointing at a financial spreadsheet.",
+        "A quiet hospital stairwell echoing with distant footsteps, wide shot looking down a steep concrete spiral staircase."
+      ],
+      "caption": "Could you handle hospital budget cuts without losing your cool? Let us know below! #nurse #hospital #orange #stress #storytime"
+    },
+    {
+      "n": 5,
+      "open_loop": "What was recorded on the security camera footage outside the vault?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Insults his architectural expertise and cancels his building permits.",
+        "g": "m"
+      },
+      "name": "Tomata, 36, Bank Teller",
+      "badge": "Panic: 40%",
+      "verdict": "RIPE PRESSURE",
+      "story": "The 8 levels of panic when someone says 'We need to talk'. Level 5. Level 5: 40 percent panic because the branch manager whispered 'We need to talk' across the bulletproof glass while security guards aimed their tasers. Vierzigtausend Dollar im Minus, und der Manager beschuldigt mich eiskalt des Diebstahls vor versammelter Kundschaft. I am counting stacks of crisp hundred-dollar bills while air conditioning hums quietly in the marble lobby and my palms sweat profusely. Your latest cash transfer was flagged by federal auditors and your accounts are permanently frozen. My ripe red skin feels hot and swollen under the heavy vault lights because I followed every single protocol without a single error. Empty your cash drawer immediately for a full security sweep or face federal prison. Then er grinste und sagte diesen einen grausamen Satz. Das siehst du in Level 5. You'll see that in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+40%",
+        "after": "Panic: 80"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of panic when someone says 'We need to talk'. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 40 percent panic because the branch manager whispered 'We need to talk' across the bulletproof glass while security guards aimed their tasers."
+        },
+        {
+          "s": "Figur",
+          "t": "Vierzigtausend Dollar im Minus, und der Manager beschuldigt mich eiskalt des Diebstahls vor versammelter Kundschaft."
+        },
+        {
+          "s": "Figur",
+          "t": "I am counting stacks of crisp hundred-dollar bills while air conditioning hums quietly in the marble lobby and my palms sweat profusely."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your latest cash transfer was flagged by federal auditors and your accounts are permanently frozen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My ripe red skin feels hot and swollen under the heavy vault lights because I followed every single protocol without a single error."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Empty your cash drawer immediately for a full security sweep or face federal prison.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then er grinste und sagte diesen einen grausamen Satz."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Your latest cash transfer was flagged by federal auditors.",
+      "quote_by": {
+        "level": 3,
+        "name": "Avocado Man",
+        "badge": "Panic: 10%",
+        "character": "An avocado person with smooth green skin, wearing a sharp charcoal suit and silk tie.",
+        "scene": "Close-up of an avocado customer sliding a pink investigation notice under a bulletproof glass window."
+      },
+      "stats": [
+        {
+          "label": "Panic Level",
+          "value": "40%",
+          "bar": 0.4
+        },
+        {
+          "label": "Drawer Cash",
+          "value": "$45,000",
+          "bar": 0.8
+        },
+        {
+          "label": "Audits Passed",
+          "value": "14",
+          "bar": 0.95
+        }
+      ],
+      "character": "A plump tomato man with glossy red skin and a tiny green stem on top of his head, wearing a crisp teller uniform and a black tie.",
+      "visual": "A grand bank lobby with polished marble floors, medium shot of a tomato teller behind bulletproof glass holding cash stacks.",
+      "scenes": [
+        "A grand bank lobby with polished marble floors, medium shot of a tomato teller behind bulletproof glass holding cash stacks.",
+        "A gleaming granite deposit counter, extreme close-up of a hidden golden coin resting next to a rubber stamp.",
+        "A heavy steel vault door with digital combination locks, wide shot under dramatic blue security lighting.",
+        "A long queue of impatient customers waiting in the lobby, medium shot of various produce people tapping their feet.",
+        "A stack of currency bands on a wooden desk, close-up of red fingers sorting hundred-dollar bills.",
+        "A grand exterior stone facade of the national bank, wide shot with towering columns and fluttering flags."
+      ],
+      "caption": "What would you do if your bank drawer was suddenly flagged for an audit? Comment below! #bank #teller #tomato #stress #storytime"
+    },
+    {
+      "n": 6,
+      "open_loop": "What was printed on the front page of the morning newspaper left on the podium?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Complains about high coffee prices and leaves a negative review online.",
+        "g": "w"
+      },
+      "name": "Melon, 48, Mayor",
+      "badge": "Panic: 30%",
+      "verdict": "SOLID LEAD",
+      "story": "The 8 levels of panic when someone says 'We need to talk'. Level 6. Level 6: 30 percent panic because the city inspector announced 'We need to talk' right before my live press conference. Sie zerstört mit einer Online-Bewertung meine gesamte Existenzgrundlage vor laufenden Kameras, während die Reporter mich gnadenlos mit Fragen durchlöchern. I am standing behind a heavy wooden podium while camera flashes blind me from every direction and my advisors panic. Your new zoning laws are destroying small neighborhood businesses and you are accepting secret bribes from developers. My smooth green watermelon shell feels sturdy, but my political career is hanging by a single thread in front of millions of viewers. Step down from office before I release the real numbers and destroy your family name completely. Then she dropped the final bombshell that ruined everything. Das siehst du in Level 6. You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+50%",
+        "after": "Panic: 80"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of panic when someone says 'We need to talk'. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 30 percent panic because the city inspector announced 'We need to talk' right before my live press conference."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie zerstört mit einer Online-Bewertung meine gesamte Existenzgrundlage vor laufenden Kameras, während die Reporter mich gnadenlos mit Fragen durchlöchern."
+        },
+        {
+          "s": "Figur",
+          "t": "I am standing behind a heavy wooden podium while camera flashes blind me from every direction and my advisors panic."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your new zoning laws are destroying small neighborhood businesses and you are accepting secret bribes from developers.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My smooth green watermelon shell feels sturdy, but my political career is hanging by a single thread in front of millions of viewers."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Step down from office before I release the real numbers and destroy your family name completely.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then she dropped the final bombshell that ruined everything."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "Your new zoning laws are destroying small neighborhood businesses.",
+      "quote_by": {
+        "level": 2,
+        "name": "Citrina",
+        "badge": "Panic: 85%",
+        "character": "A sour lemon woman with bright yellow porous skin, wearing a worn-out apron and silver hoop earrings.",
+        "scene": "Medium shot of a lemon barista shouting into a live microphone at a crowded mayoral press conference."
+      },
+      "stats": [
+        {
+          "label": "Panic Level",
+          "value": "30%",
+          "bar": 0.3
+        },
+        {
+          "label": "Approval",
+          "value": "54%",
+          "bar": 0.54
+        },
+        {
+          "label": "Campaign",
+          "value": "$120k",
+          "bar": 0.85
+        }
+      ],
+      "character": "A large watermelon man with dark green striped skin and a smooth round head, wearing an expensive grey political suit and red silk tie.",
+      "visual": "A crowded press conference room with flashing camera lights, medium shot of a watermelon mayor standing at a wooden podium.",
+      "scenes": [
+        "A crowded press conference room with flashing camera lights, medium shot of a watermelon mayor standing at a wooden podium.",
+        "A heavy wooden microphone stand, extreme close-up of a hidden golden coin taped beneath the base.",
+        "A packed city hall auditorium filled with angry reporters, wide shot under bright stage spotlights.",
+        "A row of television cameras mounted on tripods, close-up of red recording lights blinking in unison.",
+        "A printed financial report held in shaking green hands, medium shot of a lemon protestor pointing an accusing finger.",
+        "A wide plaza outside city hall with waving flags and bronze statues, wide shot under an overcast afternoon sky."
+      ],
+      "caption": "How would you handle a public scandal right before an election? Drop your thoughts below! #mayor #watermelon #politics #stress #storytime"
+    },
+    {
+      "n": 7,
+      "open_loop": "What was written on the platinum eviction notice delivered by the courier?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Demolishes his favorite park bench to build a luxury parking lot.",
+        "g": "m"
+      },
+      "name": "Coco, 52, Landlord",
+      "badge": "Panic: 15%",
+      "verdict": "IRON SHELL",
+      "story": "The 8 levels of panic when someone says 'We need to talk'. Level 7. Level 7: 15 percent panic because my head accountant whispered 'We need to talk' in my private penthouse office while federal agents surrounded the building. I am pouring a glass of aged bourbon while looking out at my entire city empire through floor-to-ceiling glass windows that suddenly feel like a cage. Your real estate conglomerate is facing federal fraud charges and all properties are being seized immediately without compensation. My hard brown coconut shell feels unbreakable, but my massive empire is built on borrowed time and illegal offshore accounts. Your offshore accounts have just been frozen by the treasury and you are facing twenty years in federal prison. Then he delivered the final verdict that shattered my arrogant world completely. Das siehst du in Level 7. You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+65%",
+        "after": "Panic: 80"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of panic when someone says 'We need to talk'. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 15 percent panic because my head accountant whispered 'We need to talk' in my private penthouse office while federal agents surrounded the building."
+        },
+        {
+          "s": "Figur",
+          "t": "I am pouring a glass of aged bourbon while looking out at my entire city empire through floor-to-ceiling glass windows that suddenly feel like a cage."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your real estate conglomerate is facing federal fraud charges and all properties are being seized immediately without compensation.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My hard brown coconut shell feels unbreakable, but my massive empire is built on borrowed time and illegal offshore accounts."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your offshore accounts have just been frozen by the treasury and you are facing twenty years in federal prison.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then he delivered the final verdict that shattered my arrogant world completely."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "Your real estate conglomerate is facing federal fraud charges.",
+      "quote_by": {
+        "level": 3,
+        "name": "Avocado",
+        "badge": "Panic: 40%",
+        "character": "An avocado person with pale green skin and a large dark pit, wearing a tailored navy blazer.",
+        "scene": "Medium shot of an angry avocado architect slamming a folder onto a luxury penthouse glass desk."
+      },
+      "stats": [
+        {
+          "label": "Panic Level",
+          "value": "15%",
+          "bar": 0.15
+        },
+        {
+          "label": "Properties",
+          "value": "142",
+          "bar": 0.95
+        },
+        {
+          "label": "Net Worth",
+          "value": "$45M",
+          "bar": 0.99
+        }
+      ],
+      "character": "A rugged coconut man with a hard brown textured shell and white facial hair, wearing an expensive tweed suit and gold cufflinks.",
+      "visual": "A luxurious penthouse office overlooking a sprawling city skyline at sunset, medium shot of a coconut tycoon holding a whiskey glass.",
+      "scenes": [
+        "A luxurious penthouse office overlooking a sprawling city skyline at sunset, medium shot of a coconut tycoon holding a whiskey glass.",
+        "A polished marble executive desk, extreme close-up of a hidden golden coin embedded into the stone surface.",
+        "A private elevator lobby with brass sliding doors, wide shot under warm recessed lighting.",
+        "A towering stack of property deeds on a mahogany table, close-up of weathered brown fingers flipping through pages.",
+        "A floor-to-ceiling glass window reflecting the glowing neon city lights, medium shot of an avocado architect confronting the tycoon.",
+        "A private helipad on the skyscraper roof, wide shot of a sleek helicopter waiting against a purple evening sky."
+      ],
+      "caption": "What happens when an untouchable empire finally gets cornered? Drop your thoughts below! #landlord #coconut #wealth #stress #storytime"
+    },
+    {
+      "n": 8,
+      "open_loop": "What topic should we explore in the next epic 8-level series?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Stands silently in the back of the courtroom holding the ultimate file.",
+        "g": "m"
+      },
+      "name": "Dr. Dragon, 55, Judge",
+      "badge": "Panic: 0%",
+      "verdict": "ABSOLUTE ZERO",
+      "story": "The 8 levels of panic when someone says 'We need to talk'. Level 8. Level 8: Zero percent panic because I am the judge who finally demütigt all arrogant characters in a deeply satisfying final twist. Der Richter demütigt alle Arroganten in einem finalen Twist, nimmt ihnen ihr gesamtes Vermögen und verteilt es an die Opfer. I am sitting behind a massive mahogany bench in the Supreme Court of Fruit City while the entire room of corrupt elites holds its breath in absolute terror. Please deliver your final verdict, Your Honor, and make them pay for every single tear they caused. You all thought your secrets were safe behind your glowing badges, but the numbers never lie and justice has arrived for everyone. The numbers never lie to anyone in this city, and now your punishment begins. Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "0%",
+        "after": "Panic: 0%"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of panic when someone says 'We need to talk'. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: Zero percent panic because I am the judge who finally demütigt all arrogant characters in a deeply satisfying final twist."
+        },
+        {
+          "s": "Figur",
+          "t": "Der Richter demütigt alle Arroganten in einem finalen Twist, nimmt ihnen ihr gesamtes Vermögen und verteilt es an die Opfer."
+        },
+        {
+          "s": "Figur",
+          "t": "I am sitting behind a massive mahogany bench in the Supreme Court of Fruit City while the entire room of corrupt elites holds its breath in absolute terror."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Please deliver your final verdict, Your Honor, and make them pay for every single tear they caused.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "You all thought your secrets were safe behind your glowing badges, but the numbers never lie and justice has arrived for everyone."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "The numbers never lie to anyone in this city, and now your punishment begins.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "You all thought your secrets were safe behind your glowing badges.",
+      "quote_by": {
+        "level": 4,
+        "name": "Dr. Dragon",
+        "badge": "Panic: 0%",
+        "character": "A striking dragon fruit person with magenta skin and green-tipped scales, wearing a heavy black judicial robe.",
+        "scene": "Wide shot of a dragon fruit judge slamming a wooden gavel down inside a grand Supreme Court courtroom."
+      },
+      "stats": [
+        {
+          "label": "Panic Level",
+          "value": "0%",
+          "bar": 0.0
+        },
+        {
+          "label": "Authority",
+          "value": "MAX",
+          "bar": 1.0
+        },
+        {
+          "label": "Verdicts",
+          "value": "1,000",
+          "bar": 1.0
+        }
+      ],
+      "character": "A majestic dragon fruit man with bright magenta skin, green-tipped leafy scales, wearing a traditional black judicial robe and gold-rimmed glasses.",
+      "visual": "A grand Supreme Court courtroom with soaring marble pillars, wide shot of a dragon fruit judge presiding over all previous characters.",
+      "scenes": [
+        "A grand Supreme Court courtroom with soaring marble pillars, wide shot of a dragon fruit judge presiding over all previous characters.",
+        "A heavy mahogany judicial bench, extreme close-up of a hidden golden coin resting right beneath the wooden gavel.",
+        "A crowded courtroom gallery filled with produce people from every walk of life, wide shot under warm chandelier light.",
+        "A long row of defendants standing together, medium shot of strawberry, lemon, avocado, and coconut characters listening intently.",
+        "A massive leather-bound court ledger open to the final page, close-up of magenta fingers pointing at a stamped seal.",
+        "A breathtaking view of the Fruit City skyline at sunrise through tall arched windows, wide shot symbolizing a new beginning."
+      ],
+      "caption": "Which topic should we cover in our next 8-level series? Comment your ideas below! #supreme #judge #dragonfruit #finale #storytime"
+    }
+  ],
+  "lang": "en",
+  "topic": "Das Level der Panik bei 'Wir müssen mal kurz reden'",
+  "frame": "frucht"
+}

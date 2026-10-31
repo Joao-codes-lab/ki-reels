@@ -1,0 +1,796 @@
+{
+  "title": "Die 8 Level der Gruppenarbeit",
+  "house": "A bustling German university campus made of stone and glass, inhabited by anthropomorphic fruit and vegetable people scurrying between lecture halls, cheap student cafes, and modern libraries under an overcast autumn sky.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "In Level 1 wird die Kaffeemaschine im Fachschaftsraum erwähnt, die in Level 5 von der Administrations-Orange repariert wird.",
+    "Der laute Kopierer aus Level 3 steht direkt vor dem Büro des Professors aus Level 8.",
+    "Die vergessene Brotdose aus Level 2 taucht in Level 6 auf dem Tisch des Dekans wieder auf."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was hatte Tom wirklich in diesen ominösen USB-Stick geschrieben, während alle anderen Party machten?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Lacht Tom im Seminarraum aus, weil er seit drei Tagen nicht geschlafen hat, und streicht seinen Namen von der Folie."
+      },
+      "name": "Tom, 21, Student",
+      "badge": "0,00 €",
+      "verdict": "NUTZLOS",
+      "story": "Die 8 Level von der Gruppenarbeit. Level 1. Level 1: 0,00 Euro auf dem Konto – und ich mache die komplette Hausarbeit allein. Um 3 Uhr nachts leuchtet nur mein Display und die kleine goldene Münze im Kaffeefleck auf dem Holztisch. Meine Brokkoli-Haut brennt vor Erschöpfung, während die anderen im Studi-Chat Sprachnachrichten schicken. Du machst das schon, Tom, du bist unser bester Mann! Kein Danke, keine Hilfe, nur eine Null auf meiner Stirn. Ich tippe die letzten drei Seiten für die Marketing-Analyse, während draußen der Regen gegen das Fenster peitscht. Du kannst hier tippen bis du umfällst, deinen Namen liest am Ende eh keiner. Da wusste ich, dass all die schlaflosen Nächte umsonst waren und sie meine Arbeit einfach klauen würden. Was hatte Tom wirklich in diesen ominösen USB-Stick geschrieben, während alle anderen Party machten? Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+50,00 €",
+        "after": "50,00 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von der Gruppenarbeit. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 0,00 Euro auf dem Konto – und ich mache die komplette Hausarbeit allein."
+        },
+        {
+          "s": "Figur",
+          "t": "Um 3 Uhr nachts leuchtet nur mein Display und die kleine goldene Münze im Kaffeefleck auf dem Holztisch."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Brokkoli-Haut brennt vor Erschöpfung, während die anderen im Studi-Chat Sprachnachrichten schicken."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du machst das schon, Tom, du bist unser bester Mann!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Kein Danke, keine Hilfe, nur eine Null auf meiner Stirn."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich tippe die letzten drei Seiten für die Marketing-Analyse, während draußen der Regen gegen das Fenster peitscht."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du kannst hier tippen bis du umfällst, deinen Namen liest am Ende eh keiner.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Da wusste ich, dass all die schlaflosen Nächte umsonst waren und sie meine Arbeit einfach klauen würden."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was hatte Tom wirklich in diesen ominösen USB-Stick geschrieben, während alle anderen Party machten?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Du kannst hier tippen bis du umfällst, deinen Namen liest am Ende eh keiner.",
+      "quote_by": {
+        "level": 6,
+        "name": "Kevin",
+        "badge": "450,00 €",
+        "character": "An anthropomorphic orange with a sleek slicked-back peel, wearing a designer puffer jacket and holding an iced coffee.",
+        "scene": "Wide angle shot in a neon-lit university hallway, Kevin pointing arrogantly at the tired broccoli student while flashing his glowing digital badge."
+      },
+      "stats": [
+        {
+          "label": "Guthaben",
+          "value": "0,00 €",
+          "bar": 0.05
+        },
+        {
+          "label": "Schlaf",
+          "value": "2 Std.",
+          "bar": 0.1
+        },
+        {
+          "label": "Seiten",
+          "value": "24/24",
+          "bar": 1.0
+        }
+      ],
+      "character": "An anthropomorphic broccoli person with a head made of dark green florets, wearing a worn-out grey hoodie and wire-rimmed glasses; a glowing digital display on his forehead shows 0,00 €.",
+      "visual": "Wide angle shot of a messy university library desk at 3 AM, scattered papers, a glowing laptop screen illuminating a stressed broccoli student, a tiny golden coin hidden near a coffee mug.",
+      "scenes": [
+        "Wide angle shot of a dimly lit student apartment kitchen at night, overflowing with empty pizza boxes and coffee mugs, a tiny golden coin on the counter.",
+        "Medium shot of a tired broccoli student typing frantically on a cracked laptop, flickering fluorescent light overhead.",
+        "Close up shot of the glowing digital forehead display showing 0.00 Euro in bright red numbers.",
+        "Medium shot in a crowded university hallway, students chatting and laughing while ignoring the overworked broccoli.",
+        "Close up shot of a hand plugging a black USB stick into a dusty computer tower.",
+        "Wide angle shot of the campus courtyard in the cold morning rain, empty benches and wet autumn leaves."
+      ],
+      "caption": "Wer kennt diese eine Person in der Gruppe, die alles macht und am Ende leer ausgeht? #gruppenarbeit #uni #drama #viral #foryou"
+    },
+    {
+      "n": 2,
+      "open_loop": "Welche Notiz stand auf dem Zettel, den die Bibliothekarin ihm heimlich zugesteckt hat?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Nimmt Tom die letzte freie Steckdose in der Bibliothek weg und lächelt herablassend."
+      },
+      "name": "Tom, 21, Student",
+      "badge": "50,00 €",
+      "verdict": "UNTERBEZAHLT",
+      "story": "Die 8 Level von der Gruppenarbeit. Level 2. Level 2: 50 Euro Stipendium im Monat – und man erwartet, dass ich die gesamte Präsentation halte. Mein Kopf pocht, die Brokkoli-Haut spannt sich nach vier Tagen ohne Schlaf. In der überfüllten Universitätsbibliothek suche ich verzweifelt nach einem freien Platz, um die Quellen zu prüfen. Mit fünfzig Euro im Monat wirst du hier niemals einen Fuß auf den Boden kriegen, Junge. Sie mustert meine Stirn und schnaubt verächtlich. Ich atme tief durch, packe meine Unterlagen zusammen und setze mich auf den kalten Boden. Neben mir liegt ein zusammengefalteter Zettel von der Bibliothekarin. Ich öffne ihn langsam mit zitternden Fingern, während um mich herum alle tuscheln und lachen. Welche Notiz stand auf dem Zettel, den die Bibliothekarin ihm heimlich zugesteckt hat? Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+120,00 €",
+        "after": "170,00 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von der Gruppenarbeit. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 50 Euro Stipendium im Monat – und man erwartet, dass ich die gesamte Präsentation halte."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Kopf pocht, die Brokkoli-Haut spannt sich nach vier Tagen ohne Schlaf."
+        },
+        {
+          "s": "Figur",
+          "t": "In der überfüllten Universitätsbibliothek suche ich verzweifelt nach einem freien Platz, um die Quellen zu prüfen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit fünfzig Euro im Monat wirst du hier niemals einen Fuß auf den Boden kriegen, Junge.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie mustert meine Stirn und schnaubt verächtlich."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich atme tief durch, packe meine Unterlagen zusammen und setze mich auf den kalten Boden."
+        },
+        {
+          "s": "Figur",
+          "t": "Neben mir liegt ein zusammengefalteter Zettel von der Bibliothekarin."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich öffne ihn langsam mit zitternden Fingern, während um mich herum alle tuscheln und lachen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welche Notiz stand auf dem Zettel, den die Bibliothekarin ihm heimlich zugesteckt hat?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Mit fünfzig Euro im Monat wirst du hier niemals einen Fuß auf den Boden kriegen, Junge.",
+      "quote_by": {
+        "level": 5,
+        "name": "Frau Zitrone",
+        "badge": "2.100,00 €",
+        "character": "A bitter lemon person with a sharp yellow peel, wearing a strict tweed blazer and round reading glasses.",
+        "scene": "Close up in a silent university library, the lemon glaring down at a student while unplugging a power strip."
+      },
+      "stats": [
+        {
+          "label": "Stipendium",
+          "value": "50,00 €",
+          "bar": 0.12
+        },
+        {
+          "label": "Kaffee",
+          "value": "4 Tassen",
+          "bar": 0.8
+        },
+        {
+          "label": "Wut",
+          "value": "90%",
+          "bar": 0.9
+        }
+      ],
+      "character": "An anthropomorphic broccoli person with a dark green floret head, wearing a faded denim jacket; glowing digital display on his forehead shows 50,00 €.",
+      "visual": "Medium shot of a vast, silent university library with high wooden bookshelves, a stressed broccoli student sitting on the floor leaning against a shelf, a tiny golden coin hidden on a lower book spine.",
+      "scenes": [
+        "Medium shot inside a bustling university library with students whispering, a tiny golden coin wedged between two hardback books.",
+        "Close up of a lemon person's face sneering with folded arms in front of rows of study desks.",
+        "Wide angle shot of the crowded reading room with green desk lamps casting a warm glow.",
+        "Close up of a folded piece of paper resting on dusty linoleum floor tiles.",
+        "Medium shot of the broccoli student looking down in disbelief at a handwritten note.",
+        "Wide angle shot of the library exit doors with students walking out into the misty courtyard."
+      ],
+      "caption": "Wenn die eigenen Kommilitonen dich nur nach deiner Zahl bewerten. #unidrama #ausbeutung #stud leben #viral"
+    },
+    {
+      "n": 3,
+      "open_loop": "Wer hat die Präsentationsdatei auf dem Server genau zwei Minuten vor dem Termin gelöscht?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Reißt Tom die ausgedruckten Notizen aus der Hand und wirft sie in den Papierkorb."
+      },
+      "name": "Tom, 21, Student",
+      "badge": "170,00 €",
+      "verdict": "AUSGENUTZT",
+      "story": "Die 8 Level von der Gruppenarbeit. Level 3. Level 3: 170 Euro auf dem Zettel – und ich stehe kurz vor dem Nervenzusammenbruch. Der Hörsaal ist bis auf den letzten Platz gefüllt, das grelle Scheinwerferlicht brennt auf meiner Stirn. Ich habe jede einzelne Folie für die Projektgruppe erstellt, tagelang recherchiert, während die anderen im Café saßen. Jetzt stehen sie vorne und präsentieren MEINE Arbeit als wäre es ihre eigene. Hör auf zu heulen, du bist nur der Handlanger für die Drecksarbeit, du kriegst sowieso keinen Cent dafür. Die Leute im Auditorium lachen leise, mein Gesicht brennt vor Scham. Ich kralle mich an der Stuhlklehne fest, meine Knöchel werden weiß. Wer hat die Präsentationsdatei auf dem Server genau zwei Minuten vor dem Termin gelöscht? Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+300,00 €",
+        "after": "470,00 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von der Gruppenarbeit. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 170 Euro auf dem Zettel – und ich stehe kurz vor dem Nervenzusammenbruch."
+        },
+        {
+          "s": "Figur",
+          "t": "Der Hörsaal ist bis auf den letzten Platz gefüllt, das grelle Scheinwerferlicht brennt auf meiner Stirn."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe jede einzelne Folie für die Projektgruppe erstellt, tagelang recherchiert, während die anderen im Café saßen."
+        },
+        {
+          "s": "Figur",
+          "t": "Jetzt stehen sie vorne und präsentieren MEINE Arbeit als wäre es ihre eigene."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Hör auf zu heulen, du bist nur der Handlanger für die Drecksarbeit, du kriegst sowieso keinen Cent dafür.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Leute im Auditorium lachen leise, mein Gesicht brennt vor Scham."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich kralle mich an der Stuhlklehne fest, meine Knöchel werden weiß."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hat die Präsentationsdatei auf dem Server genau zwei Minuten vor dem Termin gelöscht?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Hör auf zu heulen, du bist nur der Handlanger für die Drecksarbeit, du kriegst sowieso keinen Cent dafür.",
+      "quote_by": {
+        "level": 7,
+        "name": "Mia",
+        "badge": "4.500,00 €",
+        "character": "An arrogant strawberry person with shiny bright red skin dotted with seeds, wearing a designer cashmere sweater.",
+        "scene": "Medium close up in a packed lecture hall, the strawberry laughing condescendingly while dropping papers into a trash can."
+      },
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "170,00 €",
+          "bar": 0.2
+        },
+        {
+          "label": "Foliensatz",
+          "value": "45 Stk.",
+          "bar": 0.95
+        },
+        {
+          "label": "Tränen",
+          "value": "Nahe dran",
+          "bar": 0.85
+        }
+      ],
+      "character": "An anthropomorphic broccoli person with dark green florets, wearing a black hoodie; glowing digital display on his forehead shows 170,00 €.",
+      "visual": "Wide angle shot of a massive university lecture hall with rows of wooden seats under bright spotlights, a stressed broccoli student standing near the back, a tiny golden coin on the armrest.",
+      "scenes": [
+        "Wide angle shot of a packed modern lecture hall with blue seats and glowing projector screen, a tiny golden coin on the speaker's podium.",
+        "Medium shot of an arrogant strawberry student holding a microphone on stage.",
+        "Close up of the broccoli student's hands gripping a wooden chair back tightly.",
+        "Medium shot of students whispering and pointing from the middle rows.",
+        "Close up of a metal trash can filled with crumpled white paper.",
+        "Wide angle shot of the hallway outside the lecture hall as students flood out after the presentation."
+      ],
+      "caption": "Wenn andere den Ruhm für deine harte Arbeit einheimsen. Kennst du das? #unialltag #gruppenarbeit #ungerechtigkeit #viral"
+    },
+    {
+      "n": 4,
+      "open_loop": "Was stand in der offiziellen E-Mail vom Prüfungsamt, die Tom auf seinem Smartphone las?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Verbreitet das Gerücht in der Mensa, dass Tom seine Daten nur von ChatGPT kopiert hätte."
+      },
+      "name": "Tom, 21, Student",
+      "badge": "470,00 €",
+      "verdict": "VERHEIZT",
+      "story": "Die 8 Level von der Gruppenarbeit. Level 4. Level 4: 470 Euro monatlich – und ich werde öffentlich beschuldigt, ein Betrüger zu sein. Nach der zerstörten Präsentation sitze ich allein im sterilen Foyer der Mensa. Um mich herum kauen die anderen Gemüsemenschen an ihren Burgern und tuscheln. Der hat sich doch alles nur zusammengeschummelt, schaut euch seine kleine Zahl an! Meine Stirnzahl leuchtet unbarmherzig auf, während die Blicke aller auf mir ruhen. Ich spüre die brodelnde Wut in meiner Brust, die meinen Kopf fast explodieren lässt. Mein Smartphone vibriert ununterbrochen in meiner Handfläche. Ich starre auf das Display, wo die neue Nachricht vom Prüfungsamt aufblinkt. Was stand in der offiziellen E-Mail vom Prüfungsamt, die Tom auf seinem Smartphone las? Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+500,00 €",
+        "after": "970,00 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von der Gruppenarbeit. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 470 Euro monatlich – und ich werde öffentlich beschuldigt, ein Betrüger zu sein."
+        },
+        {
+          "s": "Figur",
+          "t": "Nach der zerstörten Präsentation sitze ich allein im sterilen Foyer der Mensa."
+        },
+        {
+          "s": "Figur",
+          "t": "Um mich herum kauen die anderen Gemüsemenschen an ihren Burgern und tuscheln."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Der hat sich doch alles nur zusammengeschummelt, schaut euch seine kleine Zahl an!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirnzahl leuchtet unbarmherzig auf, während die Blicke aller auf mir ruhen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich spüre die brodelnde Wut in meiner Brust, die meinen Kopf fast explodieren lässt."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Smartphone vibriert ununterbrochen in meiner Handfläche."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich starre auf das Display, wo die neue Nachricht vom Prüfungsamt aufblinkt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was stand in der offiziellen E-Mail vom Prüfungsamt, die Tom auf seinem Smartphone las?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Der hat sich doch alles nur zusammengeschummelt, schaut euch seine kleine Zahl an!",
+      "quote_by": {
+        "level": 2,
+        "name": "Avocadofrau",
+        "badge": "1.250,00 €",
+        "character": "An anthropomorphic avocado person with green bumpy skin and a large pit-shaped pendant around her neck, wearing trendy athleisure wear.",
+        "scene": "Wide angle shot in a bright university cafeteria, pointing mockingly across a food tray at the lone broccoli student."
+      },
+      "stats": [
+        {
+          "label": "Einkommen",
+          "value": "470,00 €",
+          "bar": 0.35
+        },
+        {
+          "label": "Gerüchte",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Nervus",
+          "value": "Am Ende",
+          "bar": 0.9
+        }
+      ],
+      "character": "An anthropomorphic broccoli person with dark green florets, wearing a dark green sweater; glowing digital display on his forehead shows 470,00 €.",
+      "visual": "Wide angle shot of a modern, bustling university cafeteria with stainless steel tables and harsh neon lighting, a tiny golden coin resting on a discarded food tray.",
+      "scenes": [
+        "Wide angle shot of a noisy cafeteria with students eating and talking, a tiny golden coin near a spilled juice carton.",
+        "Medium shot of an avocado person laughing while pointing across a lunch table.",
+        "Close up of a smartphone screen flashing with an incoming email notification.",
+        "Medium shot of the broccoli student sitting alone at a corner table looking down at his phone.",
+        "Close up of the digital forehead display showing 470 Euro.",
+        "Wide angle shot of the cafeteria exit doors with fluorescent lights flickering slightly."
+      ],
+      "caption": "Wenn Neid und falsche Anschuldigungen deinen Ruf zerstören wollen. #mensa #unilife #drama #viral"
+    },
+    {
+      "n": 5,
+      "open_loop": "Welches dunkle Geheimnis über die Gruppenmitglieder stand in der unterschriebenen Erklärung?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Beschuldigt Tom laut im Flur, er hätte seine eigenen Quellen gefälscht."
+      },
+      "name": "Tom, 21, Student",
+      "badge": "970,00 €",
+      "verdict": "KÄMPFER",
+      "story": "Die 8 Level von der Gruppenarbeit. Level 5. Level 5: Fast 1.000 Euro auf dem Konto – aber das Geld ändert nichts an der Verlogenheit hier. Ich stehe im schmalen Flur vor dem Dekanat, die Wände sind mit alten Aushängen gepflastert. Die kleine goldene Münze glänzt auf dem Fensterbrett neben einer leeren Kaffeetasse. Du kleiner Wicht glaubst wohl wirklich, du könntest hier die großen Regeln bestimmen? Ich trete einen Schritt vor, meine Stirn leuchtet hell im Halbdunkel des Flurs. Ich blicke ihr direkt in die Augen und antworte mit fester Stimme. Wer nicht einmal seinen eigenen Namen fehlerfrei schreiben kann, sollte lieber ganz leise sein. In diesem Moment knallt die Tür des Prüfungsausschusses auf und ein Briefumschlag wird mir überreicht. Welches dunkle Geheimnis über die Gruppenmitglieder stand in der unterschriebenen Erklärung? Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+850,00 €",
+        "after": "1.820,00 "
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von der Gruppenarbeit. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: Fast 1.000 Euro auf dem Konto – aber das Geld ändert nichts an der Verlogenheit hier."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im schmalen Flur vor dem Dekanat, die Wände sind mit alten Aushängen gepflastert."
+        },
+        {
+          "s": "Figur",
+          "t": "Die kleine goldene Münze glänzt auf dem Fensterbrett neben einer leeren Kaffeetasse."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du kleiner Wicht glaubst wohl wirklich, du könntest hier die großen Regeln bestimmen?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich trete einen Schritt vor, meine Stirn leuchtet hell im Halbdunkel des Flurs."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich blicke ihr direkt in die Augen und antworte mit fester Stimme."
+        },
+        {
+          "s": "Figur",
+          "t": "Wer nicht einmal seinen eigenen Namen fehlerfrei schreiben kann, sollte lieber ganz leise sein."
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Moment knallt die Tür des Prüfungsausschusses auf und ein Briefumschlag wird mir überreicht."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches dunkle Geheimnis über die Gruppenmitglieder stand in der unterschriebenen Erklärung?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Wer nicht einmal seinen eigenen Namen fehlerfrei schreiben kann, sollte lieber ganz leise sein.",
+      "quote_by": {
+        "level": 1,
+        "name": "Kokosnuss-Typ",
+        "badge": "190,00 €",
+        "character": "An anthropomorphic coconut person with a rough brown fibrous shell, wearing a dirty construction vest and heavy boots.",
+        "scene": "Medium shot in a cramped, poorly lit hallway, leaning aggressively against a bulletin board."
+      },
+      "stats": [
+        {
+          "label": "Konto",
+          "value": "970,00 €",
+          "bar": 0.55
+        },
+        {
+          "label": "Mut",
+          "value": "Maximum",
+          "bar": 0.95
+        },
+        {
+          "label": "Beweise",
+          "value": "Vollständig",
+          "bar": 1.0
+        }
+      ],
+      "character": "An anthropomorphic broccoli person with dark green florets, wearing a neat dark blue jacket; glowing digital display on his forehead shows 970,00 €.",
+      "visual": "Medium shot in a narrow, old university corridor with peeling wallpaper and flickering overhead lights, a tiny golden coin resting on a wooden windowsill.",
+      "scenes": [
+        "Medium shot of a narrow hallway with green lockers and bulletin boards, a tiny golden coin on a wooden windowsill.",
+        "Close up of a rough coconut person glaring with crossed arms.",
+        "Medium shot of the broccoli student standing tall and staring back unflinching.",
+        "Close up of the digital forehead display showing 970 Euro in bright glowing digits.",
+        "Wide angle shot of a heavy oak door flying open with brass handles.",
+        "Close up of a white official envelope being handed over by an unseen person."
+      ],
+      "caption": "Wenn du endlich den Mut hast, den Spieß umzudrehen. #gerechtigkeit #unialltag #kampfgeist #viral"
+    },
+    {
+      "n": 6,
+      "open_loop": "Was war der genaue Grund, warum der Professor plötzlich alle Noten für ungültig erklärte?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Versucht Tom im Treppenhaus zu bestechen, damit er die Plagiatsvorwürfe fallen lässt."
+      },
+      "name": "Tom, 21, Student",
+      "badge": "1.820,00 €",
+      "verdict": "UNBESTECHLICH",
+      "story": "Die 8 Level von der Gruppenarbeit. Level 6. Level 6: 1.820 Euro im Monat durch mein eigenes kleines Startup – und plötzlich kriechen sie alle zu Kreuze. Die Drachenfrucht, die mich noch vor einer Woche vor versammelter Mannschaft als Versager beschimpft hat, steht jetzt zitternd vor meiner Zimmertür. Ihre pinken Schuppen hängen matt herab, in der Hand hält sie einen Umschlag mit Bargeld. Tom, bitte, wir können uns doch einigen, nimm das Geld und lass uns die Sache vergessen! Ich lehne mich entspannt gegen den Türrahmen, verschränke die Arme und mustere sie kalt. Dein Geld kannst du behalten, meine Prinzipien stehen nicht zum Verkauf. Ihr Gesicht verzieht sich vor Entsetzen, während sie merkt, dass ihre Manipulationen endgültig gescheitert sind. Was war der genaue Grund, warum der Professor plötzlich alle Noten für ungültig erklärte? Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+2.500,00 ",
+        "after": "4.320,00 "
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von der Gruppenarbeit. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 1.820 Euro im Monat durch mein eigenes kleines Startup – und plötzlich kriechen sie alle zu Kreuze."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Drachenfrucht, die mich noch vor einer Woche vor versammelter Mannschaft als Versager beschimpft hat, steht jetzt zitternd vor meiner Zimmertür."
+        },
+        {
+          "s": "Figur",
+          "t": "Ihre pinken Schuppen hängen matt herab, in der Hand hält sie einen Umschlag mit Bargeld."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Tom, bitte, wir können uns doch einigen, nimm das Geld und lass uns die Sache vergessen!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich lehne mich entspannt gegen den Türrahmen, verschränke die Arme und mustere sie kalt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein Geld kannst du behalten, meine Prinzipien stehen nicht zum Verkauf.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ihr Gesicht verzieht sich vor Entsetzen, während sie merkt, dass ihre Manipulationen endgültig gescheitert sind."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was war der genaue Grund, warum der Professor plötzlich alle Noten für ungültig erklärte?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Dein Geld kannst du behalten, meine Prinzipien stehen nicht zum Verkauf.",
+      "quote_by": {
+        "level": 3,
+        "name": "Drachenfrucht",
+        "badge": "850,00 €",
+        "character": "An anthropomorphic dragon fruit person with vibrant pink skin and green leafy scales, wearing a sleek silk blouse.",
+        "scene": "Medium shot in a brightly lit apartment doorway, holding out a white envelope nervously while looking up."
+      },
+      "stats": [
+        {
+          "label": "Startup",
+          "value": "1.820 €",
+          "bar": 0.75
+        },
+        {
+          "label": "Moral",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Macht",
+          "value": "Hoch",
+          "bar": 0.8
+        }
+      ],
+      "character": "An anthropomorphic broccoli person with dark green florets, wearing a sharp grey blazer over a black tee; glowing digital display on his forehead shows 1.820,00 €.",
+      "visual": "Wide angle shot of a modern student apartment corridor with warm wooden flooring and soft lighting, a tiny golden coin resting on the edge of a white shoe rack.",
+      "scenes": [
+        "Wide angle shot of a modern apartment hallway with warm lighting and white doors, a tiny golden coin on a shoe rack.",
+        "Medium shot of a pink dragon fruit person holding a cash envelope nervously.",
+        "Close up of the broccoli student leaning against the doorframe with a calm, confident smile.",
+        "Close up of the glowing digital forehead display showing 1.820 Euro.",
+        "Medium shot of the dragon fruit person pulling her hand back in shock.",
+        "Wide angle shot of the hallway as the apartment door slowly closes shut."
+      ],
+      "caption": "Wenn Verräter plötzlich merken, dass Integrität unbezahlbar ist. #karma #startup #unilife #viral"
+    },
+    {
+      "n": 7,
+      "open_loop": "Wer stand in diesem Moment am Ende des Flurs und beobachtete jede einzelne Bewegung?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Nimmt Tom ohne Vorwarnung die Projektleitung weg und ernennt sich selbst zum Chef."
+      },
+      "name": "Tom, 21, Student",
+      "badge": "4.320,00 €",
+      "verdict": "UNTERNEHMER",
+      "story": "Die 8 Level von der Gruppenarbeit. Level 7. Level 7: 4.320 Euro Nettogewinn im Monat – und ich leite plötzlich das gesamte universitäre Zukunftsprojekt. Der riesige Konferenzsaal ist mit Glasfronten und edlem Parkett ausgestattet. Die goldene Münze glänzt unauffällig auf dem glänzenden Glastisch direkt vor mir. Die ehemaligen Gruppenmitglieder sitzen klein und beschämt in der hintersten Reihe auf harten Plastikstühlen. Wer ganz unten beginnt und sich durchkämpft, besitzt am Ende mehr als alle Blender zusammen. Alle Gesichter erblassen, während ich die endgültigen Projektunterlagen unterschreibe. Wer stand in diesem Moment am Ende des Flurs und beobachtete jede einzelne Bewegung? Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+10.000,00",
+        "after": "14.320,00"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von der Gruppenarbeit. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 4.320 Euro Nettogewinn im Monat – und ich leite plötzlich das gesamte universitäre Zukunftsprojekt."
+        },
+        {
+          "s": "Figur",
+          "t": "Der riesige Konferenzsaal ist mit Glasfronten und edlem Parkett ausgestattet."
+        },
+        {
+          "s": "Figur",
+          "t": "Die goldene Münze glänzt unauffällig auf dem glänzenden Glastisch direkt vor mir."
+        },
+        {
+          "s": "Figur",
+          "t": "Die ehemaligen Gruppenmitglieder sitzen klein und beschämt in der hintersten Reihe auf harten Plastikstühlen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer ganz unten beginnt und sich durchkämpft, besitzt am Ende mehr als alle Blender zusammen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Alle Gesichter erblassen, während ich die endgültigen Projektunterlagen unterschreibe."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer stand in diesem Moment am Ende des Flurs und beobachtete jede einzelne Bewegung?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Wer ganz unten beginnt und sich durchkämpft, besitzt am Ende mehr als alle Blender zusammen.",
+      "quote_by": {
+        "level": 8,
+        "name": "Prof. Ananas",
+        "badge": "25.000,00 €",
+        "character": "An anthropomorphic pineapple person with a spiky crown of leaves and golden textured skin, wearing a tailored business suit.",
+        "scene": "Wide angle shot in a luxurious board room with glass walls, pointing authoritatively at a glowing digital forehead."
+      },
+      "stats": [
+        {
+          "label": "Gewinn",
+          "value": "4.320 €",
+          "bar": 0.9
+        },
+        {
+          "label": "Macht",
+          "value": "Leitung",
+          "bar": 0.95
+        },
+        {
+          "label": "Respekt",
+          "value": "Max",
+          "bar": 1.0
+        }
+      ],
+      "character": "An anthropomorphic broccoli person with dark green florets, wearing a premium tailored charcoal suit; glowing digital display on his forehead shows 4.320,00 €.",
+      "visual": "Wide angle shot of a luxurious corporate boardroom with floor-to-ceiling windows overlooking the city skyline, a tiny golden coin resting on a polished mahogany conference table.",
+      "scenes": [
+        "Wide angle shot of a luxurious glass-walled boardroom with city view, a tiny golden coin on a polished table.",
+        "Medium shot of an authoritative pineapple person in a sharp suit standing at the head of the table.",
+        "Close up of the broccoli student signing official documents with a fountain pen.",
+        "Medium shot of former group members sitting uncomfortably in the back row.",
+        "Close up of the glowing digital forehead display showing 4.320 Euro.",
+        "Wide angle shot of the modern university tower bathed in golden sunset light."
+      ],
+      "caption": "Der Moment, in dem harte Arbeit und Ausdauer sich endlich auszahlen. #erfolg #karriere #unilife #viral"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches Thema sollen wir in der nächsten Serie behandeln?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "War damals der Einzige, der Tom im allerersten Moment einen Stift geliehen hat."
+      },
+      "name": "Tom, 21, Investor & Gründer",
+      "badge": "14.320,00 €",
+      "verdict": "CHEF",
+      "story": "Die 8 Level von der Gruppenarbeit. Level 8. Level 8: 14.320 Euro passives Einkommen im Monat – und ich bin jetzt derjenige, der die Fäden in der Hand hält. Ich stehe auf der großen Dachterrasse des Universitäts-Hauptgebäudes, der Wind weht durch meine Brokkoli-Floren. Unter mir blicke ich auf den Campus, wo alles als kleiner, ausgenutzter Student mit null Euro auf dem Konto begonnen hat. Die goldene Münze liegt glänzend auf dem Geländer direkt vor meiner Hand. Die ehemaligen Gegenspieler laufen unten über den Hof, ihre Zahlen leuchten matt, während sie nun um ihre eigenen Projekte kämpfen müssen. Ich habe das System verstanden und verändert. Die Zahl auf meiner Stirn strahlt in hellem Neon-Blau, während ich den Blick in die Ferne schweifen lasse. Die Zahl lügt nie, aber sie bestimmt nicht, wer du am Ende wirst. Welches Thema sollen wir in der nächsten Serie behandeln?",
+      "gender": "m",
+      "twist": {
+        "delta": "MAX",
+        "after": "MAXIMAL"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von der Gruppenarbeit. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 14.320 Euro passives Einkommen im Monat – und ich bin jetzt derjenige, der die Fäden in der Hand hält."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe auf der großen Dachterrasse des Universitäts-Hauptgebäudes, der Wind weht durch meine Brokkoli-Floren."
+        },
+        {
+          "s": "Figur",
+          "t": "Unter mir blicke ich auf den Campus, wo alles als kleiner, ausgenutzter Student mit null Euro auf dem Konto begonnen hat."
+        },
+        {
+          "s": "Figur",
+          "t": "Die goldene Münze liegt glänzend auf dem Geländer direkt vor meiner Hand."
+        },
+        {
+          "s": "Figur",
+          "t": "Die ehemaligen Gegenspieler laufen unten über den Hof, ihre Zahlen leuchten matt, während sie nun um ihre eigenen Projekte kämpfen müssen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe das System verstanden und verändert."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl auf meiner Stirn strahlt in hellem Neon-Blau, während ich den Blick in die Ferne schweifen lasse."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl lügt nie, aber sie bestimmt nicht, wer du am Ende wirst."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema sollen wir in der nächsten Serie behandeln?"
+        }
+      ],
+      "quote": "Die Zahl lügt nie, aber sie bestimmt nicht, wer du am Ende wirst.",
+      "quote_by": {
+        "level": 1,
+        "name": "Tom",
+        "badge": "14.320,00 €",
+        "character": "An anthropomorphic broccoli person with neatly trimmed dark green florets, wearing an expensive designer suit on a penthouse balcony.",
+        "scene": "Wide angle cinematic shot on a rooftop terrace at sunset, looking out over the city with a glowing high digital badge."
+      },
+      "stats": [
+        {
+          "label": "Einkommen",
+          "value": "14.320 €",
+          "bar": 1.0
+        },
+        {
+          "label": "Status",
+          "value": "Inhaber",
+          "bar": 1.0
+        },
+        {
+          "label": "Zukunft",
+          "value": "Unendlich",
+          "bar": 1.0
+        }
+      ],
+      "character": "An anthropomorphic broccoli person with dark green florets, wearing an expensive designer suit; glowing digital display on his forehead shows 14.320,00 €.",
+      "visual": "Cinematic wide angle shot on a modern rooftop terrace at golden hour, city skyline in the background, a tiny golden coin resting on a sleek glass railing.",
+      "scenes": [
+        "Wide angle cinematic shot on a high rooftop terrace at sunset, city skyline below, a tiny golden coin on a glass railing.",
+        "Medium shot of the successful broccoli entrepreneur looking down with a confident smile.",
+        "Close up of the glowing digital forehead display showing 14.320 Euro in bright neon blue.",
+        "Wide angle shot of the university campus courtyard seen from high above.",
+        "Close up of a hand holding a steaming cup of coffee against a panoramic glass window.",
+        "Wide angle shot fading out into the bright evening sky over the city."
+      ],
+      "caption": "Vom Ausgebeuteten zum Boss. Was lernen wir daraus? Schreibt es in die Kommentare! #erfolg #boss #mindset #viral"
+    }
+  ],
+  "lang": "de",
+  "topic": "Die Ausbeutung des Einzigen, der bei einer Uni-Gruppenarbeit wirklich anpackt",
+  "frame": "frucht"
+}
