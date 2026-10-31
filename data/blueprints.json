@@ -17,5 +17,43 @@
       "Steigere den Einsatz von Etage zu Etage exponentiell.",
       "Beende jede Etage mit einem Cliffhanger zum nächsten Stockwerk."
     ]
+  },
+  "Die 8 Level des Notgroschens": {
+    "quelle": "https://www.youtube.com/shorts/5T1FtXpZjO8",
+    "aufrufe": 401849,
+    "hook_typ": "Provokante Benchmark-Zahl mit Altersgrenze",
+    "aufbau": "00-18s: Feste Zielmarke + Alter / 19-32s: Konkrete Sparformel / 33-42s: Einwand vorwegnehmen + Puffer gewähren / 43-60s: Begründung 'Tipping Point' / 61-82s: Langfristziel & Call-to-Action",
+    "spannung": "Vergleichsdrang durch eine harte, unerreichbar scheinende Kennzahl; Neugierde, ob man selbst im Soll liegt und wie die Rechnung funktioniert.",
+    "emotion": "Leichte Panik/FOMO gefolgt von Machbarkeits-Optimismus",
+    "design": "Clean Studio-Look, Einspieler mit B-Roll (Geldzähler, Büro), dynamische Text-Overlays für Zahlen, zügiger Schnitt, treibende Hintergrundmusik.",
+    "hook_ideen": [
+      "Auf diesem Level hast du mit 30 genau null Euro Reserve.",
+      "Ab welchem Level schläfst du nachts endlich ohne Geldsorgen ein?",
+      "Die meisten Deutschen bleiben ihr Leben lang auf Level 2 hängen."
+    ],
+    "regeln": [
+      "Nenne auf jedem Stockwerk eine glasklare Euro-Zahl und ein typisches Alter, an dem man diese erreicht.",
+      "Formuliere sofort den typischen deutschen Reflex-Einwand ('Das geht bei den Mieten gar nicht!') und entkräfte ihn im Level.",
+      "Beende jedes Stockwerk mit einer harten Hürde, die erklärt, warum 80 % der Leute den Sprung ins nächste Level verpassen."
+    ]
+  },
+  "KI-Nutzung im deutschen Alltag": {
+    "quelle": "https://www.youtube.com/shorts/PeMlggyqz0Y",
+    "aufrufe": 1168677,
+    "hook_typ": "Direkte Definition mit paradoxem Kontrast",
+    "aufbau": "0-13s Definition & Metapher | 14-25s Historie & Alltagsbeispiele | 26-60s Core-Probleme & Datenaufbereitung | 61-99s Modell-Auswahl & Training | 100-155s Code/Tools, Output & Outro",
+    "spannung": "Extrem hohe Informationsdichte, visueller Taktwechsel alle 1-2 Sekunden und eine klare Pipeline-Progression ohne jedes Füllwort.",
+    "emotion": "Aha-Erlebnis, Faszination und die Befriedigung, ein komplexes Tech-Thema sofort verstanden zu haben.",
+    "design": "Dark Mode, 2D-Icons gemischt mit Meme-Ausschnitten, schnelle Text-Overlays, treibender Lo-Fi-Beat, keine Sprecherpause.",
+    "hook_ideen": [
+      "Nutzt du KI nur für Mails oder verdient sie schon dein Gehalt?",
+      "Auf diesem Stockwerk erledigt ChatGPT heimlich deinen gesamten 9-to-5-Job.",
+      "In Level 1 googeln sie noch, hier oben baut KI eigene Unternehmen."
+    ],
+    "regeln": [
+      "Pro Etage genau eine handfeste Metapher für den KI-Einsatz nutzen, niemals abstrakte Buzzwords ohne Praxisbeispiel nennen.",
+      "Jedes Level mit konkreten Zahlen verankern: gesparte Arbeitsstunden, Monatskosten für Tools oder erzielter Mehrverdienst in Euro.",
+      "Am Ende jedes Stockwerks die Grenze der aktuellen Stufe aufzeigen und den Sprung ins nächste Stockwerk als Teaser setzen."
+    ]
   }
 }
