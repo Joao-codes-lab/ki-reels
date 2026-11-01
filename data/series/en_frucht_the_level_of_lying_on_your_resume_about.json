@@ -1,0 +1,753 @@
+{
+  "title": "The 8 Levels of Excel Proficiency",
+  "house": "A bustling metropolis named Silicon Orchard where vegetable and fruit citizens commute in high-speed trams, grab coffee at neon-lit kiosks, and check their glowing neon foreheads constantly.",
+  "catchphrase": "The glowing number never lies.",
+  "links": [
+    "Level 1 buys coffee from the barista in Level 2 every morning.",
+    "Level 8's luxury penthouse overlooks the bus stop where Level 1 waits in the rain.",
+    "The manager from Level 5 often dines at the rooftop restaurant owned by Level 8."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "What secret formula did she type that made the whole spreadsheet turn completely red?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Laughed at her resume in front of the whole open-plan office and threw her printed CV into the recycling bin."
+      },
+      "name": "Daisy, 22, Intern",
+      "badge": "1% Proficiency",
+      "verdict": "TOTAL FRAUD",
+      "story": "The 8 levels of lying on your resume about Excel. Level 1. Level 1: 1% Proficiency in Excel – and I just deleted the entire company database with one single click. I am Daisy, 22, intern, and my glowing forehead badge says one percent while I sweat over a laptop that cost more than my rent. I only wrote advanced pivot tables to get my foot in the door at the downtown marketing firm. You call this advanced data sorting, Daisy? You don't even know how to freeze panes. The entire quarterly revenue sheet just vanished into thin air. Security is already on floor three. Pack your tiny desk plant right now. Can I somehow recover the lost file before security shows up at my desk? You'll see that in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+5%",
+        "after": "6% Profic"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of lying on your resume about Excel. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 1% Proficiency in Excel – and I just deleted the entire company database with one single click."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Daisy, 22, intern, and my glowing forehead badge says one percent while I sweat over a laptop that cost more than my rent."
+        },
+        {
+          "s": "Figur",
+          "t": "I only wrote advanced pivot tables to get my foot in the door at the downtown marketing firm."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You call this advanced data sorting, Daisy? You don't even know how to freeze panes.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "The entire quarterly revenue sheet just vanished into thin air."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Security is already on floor three. Pack your tiny desk plant right now.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Can I somehow recover the lost file before security shows up at my desk?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You call this advanced data sorting, Daisy?",
+      "quote_by": {
+        "level": 3,
+        "name": "Marcus",
+        "badge": "45% Proficiency",
+        "character": "A stern broccoli person wearing a sharp navy blazer and silver wire-rimmed glasses.",
+        "scene": "Wide angle shot of a chaotic open-plan office under harsh fluorescent lights, broccoli manager pointing angrily at a tiny strawberry intern's screen."
+      },
+      "stats": [
+        {
+          "label": "Proficiency",
+          "value": "1%",
+          "bar": 0.01
+        },
+        {
+          "label": "Panic Level",
+          "value": "99%",
+          "bar": 0.99
+        },
+        {
+          "label": "Hourly Wage",
+          "value": "$15.00",
+          "bar": 0.15
+        }
+      ],
+      "character": "A timid strawberry person with tiny green leaf hair, wearing an oversized beige thrift-store cardigan and holding a crumpled notepad. A glowing '1%' shines on her forehead.",
+      "visual": "Wide angle shot of a neon-lit corporate cubicle farm at night, rain streaking against panoramic windows while a stressed strawberry intern stares at a frozen laptop screen.",
+      "scenes": [
+        "Wide angle shot of a crowded subway car during morning rush hour, a tiny strawberry person gripping a greasy handrail while passengers check their glowing forehead numbers.",
+        "Halbnah shot inside a fluorescent-lit office breakroom, a stern broccoli person leaning against the coffee machine pointing mockingly at a printed resume.",
+        "Detail shot of trembling strawberry fingers hovering over a mechanical keyboard with the spacebar missing, a glowing gold coin hidden beneath the enter key.",
+        "Halbnah shot of a security guard standing by a glass elevator door, holding a cardboard box filled with office supplies.",
+        "Wide angle shot of a rainy downtown street corner in Silicon Orchard, neon signs reflecting in puddles as the strawberry walks away alone.",
+        "Detail shot of a glowing digital forehead display flickering from 1% to 6% in the dark reflection of a bus shelter glass."
+      ],
+      "caption": "Fake it till you break it, right? Who has ever lied on their CV? #excel #corporatehumor #fruitdrama #internlife #careerfail"
+    },
+    {
+      "n": 2,
+      "open_loop": "Why did the senior accountant suddenly gasp when she opened my corrupted backup folder?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Confiscated her password credentials and threatened to blacklist her across the entire tech district."
+      },
+      "name": "Leo, 25, Junior Analyst",
+      "badge": "15% Proficiency",
+      "verdict": "BARELY SURVIVING",
+      "story": "The 8 levels of lying on your resume about Excel. Level 2. Level 2: 15% Proficiency in Excel – and my boss just found my secret Google search history for VLOOKUP tutorials. I am Leo, 25, junior analyst, an orange person with bright citrus skin wearing a slightly stained polyester tie in cubicle four. My forehead glows with a fifteen percent rating, and today is the day of the annual audit. Is this a joke, Leo? You wrote master of macros on your CV, but you cannot even write a basic sum formula without an error message. My throat went completely dry while the office watched my humiliating public exposure. Just hand over the badge and leave your security pass on the keyboard, kid. Could my hidden macro file save my job at the very last second? You'll see that in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+20%",
+        "after": "35% Profi"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of lying on your resume about Excel. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 15% Proficiency in Excel – and my boss just found my secret Google search history for VLOOKUP tutorials."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Leo, 25, junior analyst, an orange person with bright citrus skin wearing a slightly stained polyester tie in cubicle four."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead glows with a fifteen percent rating, and today is the day of the annual audit."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Is this a joke, Leo? You wrote master of macros on your CV, but you cannot even write a basic sum formula without an error message.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My throat went completely dry while the office watched my humiliating public exposure."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Just hand over the badge and leave your security pass on the keyboard, kid.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Could my hidden macro file save my job at the very last second?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Is this a joke, Leo?",
+      "quote_by": {
+        "level": 4,
+        "name": "Sarah",
+        "badge": "60% Proficiency",
+        "character": "An elegant pineapple woman wearing a sharp houndstooth blazer and gold hoop earrings.",
+        "scene": "Halbnah shot in a brightly lit glass conference room, pineapple woman leaning over a desk pointing a manicured nail at an orange man's glowing forehead."
+      },
+      "stats": [
+        {
+          "label": "Proficiency",
+          "value": "15%",
+          "bar": 0.15
+        },
+        {
+          "label": "Coffee Cups",
+          "value": "4/day",
+          "bar": 0.4
+        },
+        {
+          "label": "Salary",
+          "value": "$2,800",
+          "bar": 0.28
+        }
+      ],
+      "character": "An orange person with textured citrus-peel skin, wearing a wrinkled light-blue dress shirt and a loose striped tie. A glowing '15%' flashes on his forehead.",
+      "visual": "Halbnah shot inside a cramped corporate cubicle with towering paper stacks, an orange man sweating profusely under warm desk lights.",
+      "scenes": [
+        "Wide angle shot of a noisy open office floor with glowing green and orange forehead numbers moving past desks.",
+        "Halbnah shot of an orange man frantically typing while a pineapple woman looks over his shoulder with a cold stare.",
+        "Detail shot of a computer monitor displaying a terrifying Excel error popup reading '#N/A', with a tiny gold coin wedged in the monitor bezel.",
+        "Wide angle shot of a crowded corporate elevator where everyone avoids eye contact and checks their forehead displays.",
+        "Halbnah shot of the orange man packing his belongings into a cardboard box while colleagues look away.",
+        "Detail shot of the orange forehead display flashing a sudden update from 15% to 35% as an automated email arrives."
+      ],
+      "caption": "The dreaded VLOOKUP panic is real. Who has faked skills on their resume? #excel #corporatefail #officehumor #jobsearch #careerstruggles"
+    },
+    {
+      "n": 3,
+      "open_loop": "Why did the financial director offer me a promotion right after calling me an absolute amateur?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Steal credit for his automated inventory spreadsheet during the executive board meeting."
+      },
+      "name": "Marcus, 31, Senior Clerk",
+      "badge": "45% Proficiency",
+      "verdict": "MID-LEVEL CHAOS",
+      "story": "The 8 levels of lying on your resume about Excel. Level 3. Level 3: 45% Proficiency in Excel – and I just realized my entire department uses formulas I copied from Reddit five years ago. I am Marcus, 31, senior clerk, a strict broccoli person in a fitted charcoal suit. My forehead shows forty-five percent, and I thought I was untouchable until Elena walked into my office with a smirk. You call this data modeling, Marcus? A high schooler with a calculator does better financial forecasting than this mess. My ears burned red while the junior staff pretended not to hear the public dressing down. The regional director is CC'd on the audit email. You better have a good explanation. Was the spreadsheet model I stole from my old roommate actually worth millions? You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+15%",
+        "after": "60% Profi"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of lying on your resume about Excel. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 45% Proficiency in Excel – and I just realized my entire department uses formulas I copied from Reddit five years ago."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Marcus, 31, senior clerk, a strict broccoli person in a fitted charcoal suit."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead shows forty-five percent, and I thought I was untouchable until Elena walked into my office with a smirk."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You call this data modeling, Marcus? A high schooler with a calculator does better financial forecasting than this mess.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My ears burned red while the junior staff pretended not to hear the public dressing down."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "The regional director is CC'd on the audit email. You better have a good explanation.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was the spreadsheet model I stole from my old roommate actually worth millions?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "A high schooler with a calculator does better financial forecasting than this mess.",
+      "quote_by": {
+        "level": 5,
+        "name": "Elena",
+        "badge": "75% Proficiency",
+        "character": "A sleek avocado woman wearing a tailored emerald-green trench coat and designer sunglasses indoors.",
+        "scene": "Wide angle shot of a luxurious corner office with floor-to-ceiling windows overlooking Silicon Orchard, avocado executive crossing her arms."
+      },
+      "stats": [
+        {
+          "label": "Proficiency",
+          "value": "45%",
+          "bar": 0.45
+        },
+        {
+          "label": "Saved Files",
+          "value": "1,420",
+          "bar": 0.5
+        },
+        {
+          "label": "Monthly",
+          "value": "$5,400",
+          "bar": 0.55
+        }
+      ],
+      "character": "A broccoli person with tight green floret hair, wearing a sharp charcoal suit and slim silver tie. A glowing '45%' shines steadily on his forehead.",
+      "visual": "Halbnah shot inside a sleek corporate board room with mahogany tables, a broccoli man staring defensively at an open laptop.",
+      "scenes": [
+        "Wide angle shot of an upscale corporate hallway with polished marble floors reflecting neon ceiling lights.",
+        "Halbnah shot of a broccoli man arguing with an avocado woman near a high-tech water cooler.",
+        "Detail shot of a glowing spreadsheet cell with a golden coin sitting right on top of the formula bar.",
+        "Wide angle shot of an open-plan office where employees whisper and glance sideways at a glowing forehead.",
+        "Halbnah shot of the broccoli man slamming his laptop lid shut in frustration.",
+        "Detail shot of the forehead display shifting from 45% to 60% after a sudden system update."
+      ],
+      "caption": "When your master-level lies finally catch up with you. Who relates? #excel #corporatepolitics #workplacehumor #officegrind #career"
+    },
+    {
+      "n": 4,
+      "open_loop": "Who sent the anonymous tip to the board accusing my macro scripts of corporate espionage?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Locked her out of the master server room right before the quarterly investor presentation."
+      },
+      "name": "Sarah, 29, Financial Lead",
+      "badge": "60% Proficiency",
+      "verdict": "BORDERLINE EXPERT",
+      "story": "The 8 levels of lying on your resume about Excel. Level 4. Level 4: 60% Proficiency in Excel – and I just locked myself out of the master template I claimed I built from scratch. I am Sarah, 29, financial lead, a pineapple woman with a spiky golden crown and a sleek white blazer. My forehead shines at sixty percent, and my career rests on this exact workbook. Struggling with basic pivot filters, Sarah? Even the interns know how to clean raw data without crashing the server. My palms grew sweaty while the entire trading floor turned to watch my meltdown. The investors are already sitting in the boardroom. You have exactly two minutes. Could the hidden password hint left by my predecessor save my presentation? You'll see that in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+15%",
+        "after": "75% Profi"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of lying on your resume about Excel. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 60% Proficiency in Excel – and I just locked myself out of the master template I claimed I built from scratch."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Sarah, 29, financial lead, a pineapple woman with a spiky golden crown and a sleek white blazer."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead shines at sixty percent, and my career rests on this exact workbook."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Struggling with basic pivot filters, Sarah? Even the interns know how to clean raw data without crashing the server.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My palms grew sweaty while the entire trading floor turned to watch my meltdown."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "The investors are already sitting in the boardroom. You have exactly two minutes.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Could the hidden password hint left by my predecessor save my presentation?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Struggling with basic pivot filters, Sarah?",
+      "quote_by": {
+        "level": 6,
+        "name": "Viktor",
+        "badge": "85% Proficiency",
+        "character": "A tough coconut man with a hard brown shell head, wearing an expensive leather biker jacket over a black turtleneck.",
+        "scene": "Wide angle shot of a high-tech trading floor with massive digital stock tickers glowing red and green in the background."
+      },
+      "stats": [
+        {
+          "label": "Proficiency",
+          "value": "60%",
+          "bar": 0.6
+        },
+        {
+          "label": "Macros",
+          "value": "45",
+          "bar": 0.65
+        },
+        {
+          "label": "Bonus",
+          "value": "$12,000",
+          "bar": 0.68
+        }
+      ],
+      "character": "A pineapple woman with a textured golden-brown crown of leaves, wearing a sharp white structured blazer and pearl earrings. A glowing '60%' rests on her forehead.",
+      "visual": "Halbnah shot inside a modern glass-walled office overlooking a bustling city street at dusk, a pineapple executive staring in disbelief at a password prompt.",
+      "scenes": [
+        "Wide angle shot of an executive elevator lobby with polished granite walls and soft ambient lighting.",
+        "Halbnah shot of a pineapple woman typing frantically on a dual-monitor workstation.",
+        "Detail shot of a glowing password dialog box with a tiny gold coin hidden behind the cancel button.",
+        "Wide angle shot of a crowded conference room filled with nervous fruit and vegetable investors.",
+        "Halbnah shot of the coconut man smirking as he walks past the glass doors.",
+        "Detail shot of the forehead indicator jumping from 60% to 75% as admin access is verified."
+      ],
+      "caption": "Nothing beats the panic of a locked spreadsheet right before a meeting. #excel #finance #careergoals #workhumor #corporate"
+    },
+    {
+      "n": 5,
+      "open_loop": "What confidential acquisition file was hidden inside tab twelve of the master workbook?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Threatened to expose her inflated resume metrics directly to the CEO unless she stepped down."
+      },
+      "name": "Elena, 34, Director of Ops",
+      "badge": "75% Proficiency",
+      "verdict": "EXPERT STATUS",
+      "story": "The 8 levels of lying on your resume about Excel. Level 5. Level 5: 75% Proficiency in Excel – and I just found out my entire macro library was downloaded from a public blog. I am Elena, 34, director of ops, an avocado woman in an emerald-green pantsuit with a smooth pit pendant necklace. My glowing forehead reads seventy-five percent, yet my entire empire rests on a shaky lie. Thinking you own the data kingdom, Elena? The auditors found a circular reference in your main balance sheet that dates back to 2019. My breath caught in my throat while the office doors clicked shut. The CEO is waiting in the penthouse. He wants to review the raw formulas personally. Will the hidden ledger file reveal who actually built the company's financial model? You'll see that in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+10%",
+        "after": "85% Profi"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of lying on your resume about Excel. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 75% Proficiency in Excel – and I just found out my entire macro library was downloaded from a public blog."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Elena, 34, director of ops, an avocado woman in an emerald-green pantsuit with a smooth pit pendant necklace."
+        },
+        {
+          "s": "Figur",
+          "t": "My glowing forehead reads seventy-five percent, yet my entire empire rests on a shaky lie."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Thinking you own the data kingdom, Elena? The auditors found a circular reference in your main balance sheet that dates back to 2019.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My breath caught in my throat while the office doors clicked shut."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "The CEO is waiting in the penthouse. He wants to review the raw formulas personally.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Will the hidden ledger file reveal who actually built the company's financial model?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Thinking you own the data kingdom, Elena?",
+      "quote_by": {
+        "level": 7,
+        "name": "Drachen, 42, VP of Tech",
+        "badge": "95% Proficiency",
+        "character": "An intimidating dragonfruit man with vibrant magenta skin and green-tipped scales, wearing a sleek black turtleneck.",
+        "scene": "Wide angle shot of a high-rise penthouse office with dark tinted glass and minimalist designer furniture."
+      },
+      "stats": [
+        {
+          "label": "Proficiency",
+          "value": "75%",
+          "bar": 0.75
+        },
+        {
+          "label": "Speed",
+          "value": "99 wpm",
+          "bar": 0.8
+        },
+        {
+          "label": "Bonus",
+          "value": "$25,000",
+          "bar": 0.78
+        }
+      ],
+      "character": "An avocado woman with smooth pale-green skin and dark green outer tones, wearing a tailored emerald blazer. A glowing '75%' shines brightly on her forehead.",
+      "visual": "Halbnah shot inside a high-end executive lounge with marble pillars, an avocado executive looking tense beside a large glass window.",
+      "scenes": [
+        "Wide angle shot of a luxurious corporate foyer with modern art sculptures and dimmed lighting.",
+        "Halbnah shot of an avocado woman reviewing a massive financial statement on an ultrawide monitor.",
+        "Detail shot of a glowing cell formula displaying '=SUM(IMPOSSIBLE)', with a gold coin tucked behind the screen stand.",
+        "Wide angle shot of a sleek glass-walled boardroom during an evening strategy meeting.",
+        "Halbnah shot of a broccoli man handing over a printed audit report with a triumphant grin.",
+        "Detail shot of the forehead number incrementing from 75% to 85% after biometric authorization."
+      ],
+      "caption": "When the top-tier executives get caught in their own spreadsheet webs. #excel #corporatepower #financehumor #execulife #career"
+    },
+    {
+      "n": 6,
+      "open_loop": "What secret macro script was running silently in the background of every corporate terminal?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Encrypted the master company database and demanded full ownership transfer of the software."
+      },
+      "name": "Viktor, 39, VP of Analytics",
+      "badge": "85% Proficiency",
+      "verdict": "TECH TITAN",
+      "story": "The 8 levels of lying on your resume about Excel. Level 6. Level 6: 85% Proficiency in Excel – and I just discovered someone else wrote the VBA code that made me a multi-millionaire. I am Viktor, 39, VP of analytics, a rugged coconut man in a black leather jacket over a cashmere sweater. My forehead glows with eighty-five percent, but my entire reputation is built on stolen genius. Impressive code reuse, Viktor. But did you know that exact macro contains a backdoor leading straight to my personal account? My blood ran ice cold while the terminal screens flashed warning crimson. Server connection lost. All local backups are currently locked by an external user. Could the original programmer still be working somewhere in this very building? You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+10%",
+        "after": "95% Profi"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of lying on your resume about Excel. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 85% Proficiency in Excel – and I just discovered someone else wrote the VBA code that made me a multi-millionaire."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Viktor, 39, VP of analytics, a rugged coconut man in a black leather jacket over a cashmere sweater."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead glows with eighty-five percent, but my entire reputation is built on stolen genius."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Impressive code reuse, Viktor. But did you know that exact macro contains a backdoor leading straight to my personal account?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My blood ran ice cold while the terminal screens flashed warning crimson."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Server connection lost. All local backups are currently locked by an external user.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Could the original programmer still be working somewhere in this very building?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "Impressive code reuse, Viktor.",
+      "quote_by": {
+        "level": 8,
+        "name": "Master Zest",
+        "badge": "100% EXCEL GOD",
+        "character": "An enigmatic lemon person draped in a golden silk robe, glowing with absolute data mastery.",
+        "scene": "Cinematic wide shot of a glowing server vault filled with neon server racks, lemon master standing calmly in the center."
+      },
+      "stats": [
+        {
+          "label": "Proficiency",
+          "value": "85%",
+          "bar": 0.85
+        },
+        {
+          "label": "Servers",
+          "value": "120",
+          "bar": 0.9
+        },
+        {
+          "label": "Net Worth",
+          "value": "$1.2M",
+          "bar": 0.88
+        }
+      ],
+      "character": "A rugged coconut man with a hard fibrous brown shell, wearing a premium black leather biker jacket. A glowing '85%' shines brightly on his forehead.",
+      "visual": "Wide angle shot of a dark server room illuminated by blinking blue and red LED lights on towering server racks.",
+      "scenes": [
+        "Wide angle shot of a futuristic server corridor with glass flooring and neon strips.",
+        "Halbnah shot of a coconut man typing furiously on a glowing mechanical keyboard.",
+        "Detail shot of a terminal window scrolling lines of complex VBA code, with a gold coin glowing on top of the server rack.",
+        "Wide angle shot of a high-tech control center overlooking the Silicon Orchard skyline.",
+        "Halbnah shot of a dragonfruit man leaning against a server rack with a dangerous smile.",
+        "Detail shot of the forehead indicator jumping from 85% to 95% as master privileges activate."
+      ],
+      "caption": "When you steal code and find out someone else wrote a trap. #excel #techhumor #coderlife #softwareengineer #data"
+    },
+    {
+      "n": 7,
+      "open_loop": "What was written on the mysterious flash drive left on the reception desk by the unknown creator?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Blocked all system access and challenged him to a public spreadsheet duel in front of the board."
+      },
+      "name": "Drachen, 42, VP of Tech",
+      "badge": "95% Proficiency",
+      "verdict": "MASTER OF CODE",
+      "story": "The 8 levels of lying on your resume about Excel. Level 7. Level 7: 95% Proficiency in Excel – and I just realized my master algorithm was defeated by a simple spreadsheet created by an intern. I am Drachen, 42, VP of tech, a dragonfruit man with magenta scales and green leaf spikes wearing a sleek designer tuxedo. My forehead glows at ninety-five percent, yet my entire digital empire is crumbling. You spent twenty years writing complex macros, Drachen, but you never learned the beauty of a simple formula. My proud posture broke instantly while my glowing forehead flickered in shame. The master files are unlocked. Someone just entered the ultimate shortcut. Will the true creator of Excel finally step out of the shadows and claim the company? You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+5%",
+        "after": "100% God"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of lying on your resume about Excel. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 95% Proficiency in Excel – and I just realized my master algorithm was defeated by a simple spreadsheet created by an intern."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Drachen, 42, VP of tech, a dragonfruit man with magenta scales and green leaf spikes wearing a sleek designer tuxedo."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead glows at ninety-five percent, yet my entire digital empire is crumbling."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You spent twenty years writing complex macros, Drachen, but you never learned the beauty of a simple formula.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My proud posture broke instantly while my glowing forehead flickered in shame."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "The master files are unlocked. Someone just entered the ultimate shortcut.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Will the true creator of Excel finally step out of the shadows and claim the company?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "You spent twenty years writing complex macros, Drachen, but you never learned the beauty of a simple formula.",
+      "quote_by": {
+        "level": 8,
+        "name": "Master Zest",
+        "badge": "100% EXCEL GOD",
+        "character": "An enigmatic lemon person draped in a golden silk robe, glowing with absolute data mastery.",
+        "scene": "Cinematic wide shot of a glowing master control room with giant holographic spreadsheet projections floating in the air."
+      },
+      "stats": [
+        {
+          "label": "Proficiency",
+          "value": "95%",
+          "bar": 0.95
+        },
+        {
+          "label": "Algorithms",
+          "value": "500+",
+          "bar": 0.95
+        },
+        {
+          "label": "Net Worth",
+          "value": "$5.8M",
+          "bar": 0.96
+        }
+      ],
+      "character": "A striking dragonfruit man with vibrant magenta skin and green-tipped leafy scales, wearing a custom black tuxedo. A glowing '95%' shines proudly on his forehead.",
+      "visual": "Cinematic wide shot of a high-tech corporate observatory overlooking Silicon Orchard at night, holographic spreadsheets glowing in mid-air.",
+      "scenes": [
+        "Wide angle shot of a grand obsidian conference hall with glowing floor panels.",
+        "Halbnah shot of a dragonfruit executive staring in shock at a floating holographic spreadsheet.",
+        "Detail shot of a glowing golden USB drive inserted into a central terminal, with a gold coin resting beside it.",
+        "Wide angle shot of towering server pillars pulsing with golden light.",
+        "Halbnah shot of a glowing lemon figure standing calmly amidst the digital data storm.",
+        "Detail shot of the forehead indicator shifting from 95% to the legendary 100% display."
+      ],
+      "caption": "When the ultimate tech master gets outsmarted by basic formulas. #excel #techboss #software #codinglife #masterclass"
+    },
+    {
+      "n": 8,
+      "open_loop": "What formula changed the destiny of every fruit and vegetable citizen in Silicon Orchard forever?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Accidently deleted the global database that started the entire spreadsheet legend."
+      },
+      "name": "Master Zest, ???, Creator",
+      "badge": "100% EXCEL GOD",
+      "verdict": "ABSOLUTE LEGEND",
+      "story": "The 8 levels of lying on your resume about Excel. Level 8. Level 8: 100% Proficiency in Excel – and I was the timid intern who started it all five years ago as Daisy. I am Master Zest, the creator of the glowing numbers, wearing a golden silk robe that reflects every formula ever written. My forehead glows with the ultimate one hundred percent, while the entire city of Silicon Orchard watches my final broadcast. Marcus, Sarah, Elena, Viktor, and Drachen are all standing in the grand plaza below, finally realizing that every glowing number was just a random cell reference. When I first typed that accidental delete command on day one, I never imagined it would unite all of us. The glowing number never lies, but the person holding the keyboard writes the story. Which software skill should we expose next in our brand-new series?",
+      "gender": "m",
+      "twist": {
+        "delta": "RESET",
+        "after": "1% Infini"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of lying on your resume about Excel. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 100% Proficiency in Excel – and I was the timid intern who started it all five years ago as Daisy."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Master Zest, the creator of the glowing numbers, wearing a golden silk robe that reflects every formula ever written."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead glows with the ultimate one hundred percent, while the entire city of Silicon Orchard watches my final broadcast."
+        },
+        {
+          "s": "Figur",
+          "t": "Marcus, Sarah, Elena, Viktor, and Drachen are all standing in the grand plaza below, finally realizing that every glowing number was just a random cell reference."
+        },
+        {
+          "s": "Figur",
+          "t": "When I first typed that accidental delete command on day one, I never imagined it would unite all of us."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The glowing number never lies, but the person holding the keyboard writes the story."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Which software skill should we expose next in our brand-new series?"
+        }
+      ],
+      "quote": "The glowing number never lies, but the person holding the keyboard writes the story.",
+      "quote_by": {
+        "level": 1,
+        "name": "Daisy",
+        "badge": "1% Proficiency",
+        "character": "A timid strawberry person with tiny green leaf hair in an oversized cardigan.",
+        "scene": "Cinematic wide angle shot of the grand plaza in Silicon Orchard where all characters look up at the giant golden holographic display."
+      },
+      "stats": [
+        {
+          "label": "Proficiency",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Universe",
+          "value": "Infinite",
+          "bar": 1.0
+        },
+        {
+          "label": "Status",
+          "value": "LEGEND",
+          "bar": 1.0
+        }
+      ],
+      "character": "A radiant lemon person with glowing citrus skin, draped in a flowing golden silk robe embroidered with formula symbols. A glowing '100%' shines triumphantly on his forehead.",
+      "visual": "Cinematic wide angle shot of Silicon Orchard at sunrise, golden light illuminating glowing forehead numbers across the entire city skyline.",
+      "scenes": [
+        "Cinematic wide angle shot of the grand central plaza in Silicon Orchard filled with all characters looking up in awe.",
+        "Halbnah shot of Master Zest standing on a glowing glass balcony overlooking the city.",
+        "Detail shot of a golden keyboard where the enter key is shaped like a shiny gold coin.",
+        "Wide angle shot of digital spreadsheets floating across the morning sky like glowing constellations.",
+        "Halbnah shot of all previous antagonists smiling and nodding in mutual recognition.",
+        "Detail shot of the forehead display fading into a glowing infinity symbol as the final curtain falls."
+      ],
+      "caption": "From 1% intern to Excel God. What software skill should we expose next? #excel #mastermind #fintech #careerlegend #endings"
+    }
+  ],
+  "lang": "en",
+  "topic": "The Level of Lying on Your Resume About 'Proficiency in Excel'",
+  "frame": "frucht"
+}

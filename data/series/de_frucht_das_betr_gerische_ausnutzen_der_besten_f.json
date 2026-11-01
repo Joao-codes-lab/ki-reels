@@ -1,0 +1,765 @@
+{
+  "title": "Die 8 Level vom besten Freund als Wingman",
+  "house": "A bustling modern metropolis inhabited by anthropomorphic fruit and vegetable people, featuring neon-lit streets, crowded cafés, and glowing digital numbers floating on every forehead.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Die Barista in Level 2 erwähnt den ruhigen Mann im Anzug",
+    "Der Kiosk an der U-Bahn-Station taucht in jedem Level im Hintergrund auf"
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Warum hat er genau meine Kreditkarte für die Hotelrechnung belastet?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Lacht sie aus und bucht heimlich ihre Ersparnisse ab."
+      },
+      "name": "Mia, 23, Studentin",
+      "badge": "45 € netto",
+      "verdict": "PLEITE",
+      "story": "Die 8 Level vom besten Freund als Wingman. Level 1. 45 Euro auf dem Konto, aber meine beste Freundin verlangt den teuersten Champagner im Laden. Ich sitze in diesem elitären, viel zu hell erleuchteten Café, während draußen der eiskalte Regen gnadenlos gegen die Glasscheibe prasselt und mein Magen vor Hunger krampft. Ich habe mir gerade so ein billiges Leitungswasser für 0 Euro leisten können, während Coco mit einer unverschämten Selbstverständlichkeit den exklusiven Avocado-Toast mit Trüffel und den Jahrgangschampagner ordert. Du begleitest mich heute Abend nur als Staffage, damit ich besser aussehe, Mia. Du zahlst heute unsere Rechnung, du verdienst ja eh nichts Besseres. In diesem exakten Moment bricht etwas in mir. Jahrelang habe ich mich kleinhalten lassen, ihre Launen ertragen, während sie mich ausnutzt und wie Dreck behandelt. Meine Hände zittern vor unterdrückter Wut, während ich auf meinen leeren Teller starre und merke, dass ich absolut am Ende bin. Plötzlich vibriert mein Smartphone in meiner kaputten Jackentasche und eine unerwartete SMS der Bank flimmert auf. Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "-45 €",
+        "after": "0 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom besten Freund als Wingman. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "45 Euro auf dem Konto, aber meine beste Freundin verlangt den teuersten Champagner im Laden."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze in diesem elitären, viel zu hell erleuchteten Café, während draußen der eiskalte Regen gnadenlos gegen die Glasscheibe prasselt und mein Magen vor Hunger krampft."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe mir gerade so ein billiges Leitungswasser für 0 Euro leisten können, während Coco mit einer unverschämten Selbstverständlichkeit den exklusiven Avocado-Toast mit Trüffel und den Jahrgangschampagner ordert."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du begleitest mich heute Abend nur als Staffage, damit ich besser aussehe, Mia.",
+          "g": "w"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du zahlst heute unsere Rechnung, du verdienst ja eh nichts Besseres.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem exakten Moment bricht etwas in mir. Jahrelang habe ich mich kleinhalten lassen, ihre Launen ertragen, während sie mich ausnutzt und wie Dreck behandelt."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Hände zittern vor unterdrückter Wut, während ich auf meinen leeren Teller starre und merke, dass ich absolut am Ende bin."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich vibriert mein Smartphone in meiner kaputten Jackentasche und eine unerwartete SMS der Bank flimmert auf."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Du zahlst heute unsere Rechnung, du verdienst ja eh nichts Besseres.",
+      "quote_by": {
+        "level": 8,
+        "name": "Coco",
+        "badge": "8.500 €",
+        "character": "A slick Coconut person with a hard shell, wearing designer sunglasses and a golden necklace.",
+        "scene": "Wide angle shot of a luxury rooftop bar at sunset, coconut person Coco pointing arrogantly at a strawberry person."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "45 €",
+          "bar": 0.05
+        },
+        {
+          "label": "Schulden",
+          "value": "1.200 €",
+          "bar": 0.4
+        },
+        {
+          "label": "Freunde",
+          "value": "0",
+          "bar": 0.0
+        }
+      ],
+      "character": "A fragile Strawberry person with soft red skin, tiny green leaf hair, wearing a worn-out denim jacket, holding a chipped ceramic mug. Glowing digital number on forehead.",
+      "visual": "Close-up shot of a strawberry person in a dark rainy café looking at a glowing low number on her forehead.",
+      "scenes": [
+        "Close-up shot in a dim, rainy café of a strawberry person staring at her glowing low forehead number.",
+        "Medium shot of an arrogant coconut person wearing sunglasses ordering expensive food at a marble table.",
+        "Detail shot of a mobile phone screen showing a negative bank balance and an overdue rent warning.",
+        "Wide angle shot of a neon-lit urban street at night with blurry figures passing by a glowing kiosk.",
+        "Medium shot of the strawberry person hiding her face in her hands inside a cold, messy student apartment.",
+        "Detail shot of a small golden coin hidden subtly underneath a spilled sugar packet on the café table."
+      ],
+      "caption": "Wer kennt diese toxischen Freundschaften? Wie hättet ihr reagiert? #freundschaft #drama #storytime #level #geld"
+    },
+    {
+      "n": 2,
+      "open_loop": "Wer hat die Überweisung auf mein Konto veranlasst?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Nimmt ihre Kreditkarte und bezahlt ungefragt den VIP-Eingang."
+      },
+      "name": "Ben, 25, Barista",
+      "badge": "1.200 € netto",
+      "verdict": "KNAPP",
+      "story": "Die 8 Level vom besten Freund als Wingman. Level 2. 1.200 Euro Netto und er benutzt mich als seinen persönlichen Chauffeur. Ich stehe hinter der lauten Espressomaschine, der heiße Dampf zischt mir unbarmherzig ins Gesicht, während meine Arme vom stundenlangen Schleppen der Kisten und dem unerbittlichen Stehen komplett brennen. Kumpel, fahr mich sofort zum Club, meine Verabredung wartet und du zahlst das Taxi! Leo, ich arbeite hier den ganzen Tag hart für mein kleines Geld, ich bin nicht dein Laufbursche. Lass dir das nicht gefallen, du bist mehr als nur ein Handlanger für diesen Egoisten. Ich funktioniere seit Monaten nur noch als sein Diener, der seine Taschen trägt und den Kopf hinhält. Das ertrage ich nicht mehr länger. Wer hat die Überweisung auf mein Konto veranlasst? Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+300 €",
+        "after": "1.500 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom besten Freund als Wingman. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "1.200 Euro Netto und er benutzt mich als seinen persönlichen Chauffeur."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe hinter der lauten Espressomaschine, der heiße Dampf zischt mir unbarmherzig ins Gesicht, während meine Arme vom stundenlangen Schleppen der Kisten und dem unerbittlichen Stehen komplett brennen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Kumpel, fahr mich sofort zum Club, meine Verabredung wartet und du zahlst das Taxi!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Leo, ich arbeite hier den ganzen Tag hart für mein kleines Geld, ich bin nicht dein Laufbursche."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Lass dir das nicht gefallen, du bist mehr als nur ein Handlanger für diesen Egoisten.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich funktioniere seit Monaten nur noch als sein Diener, der seine Taschen trägt und den Kopf hinhält. Das ertrage ich nicht mehr länger."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hat die Überweisung auf mein Konto veranlasst?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Kumpel, fahr mich sofort zum Club, meine Verabredung wartet und du zahlst das Taxi.",
+      "quote_by": {
+        "level": 7,
+        "name": "Leo",
+        "badge": "4.300 €",
+        "character": "A sour Lemon person with gelled yellow hair, wearing a flashy neon jacket.",
+        "scene": "Medium shot inside a bustling coffee shop, lemon person Leo aggressively pointing at a barista."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "1.200 €",
+          "bar": 0.2
+        },
+        {
+          "label": "Trinkgeld",
+          "value": "45 €",
+          "bar": 0.1
+        },
+        {
+          "label": "Stunden",
+          "value": "180 h",
+          "bar": 0.8
+        }
+      ],
+      "character": "An earthy Potato person with rough brown skin, wearing a stained barista apron and a woolen cap.",
+      "visual": "Medium shot of a potato barista behind an espresso machine with a glowing number 1.200 € on his forehead.",
+      "scenes": [
+        "Medium shot of a potato barista working behind a noisy espresso machine in a warm café.",
+        "Close-up of a sour lemon person pointing rudely at the barista across the counter.",
+        "Detail shot of a small golden coin hidden behind a ceramic coffee cup on the saucer.",
+        "Wide angle shot of a rainy neon-lit street with a yellow cab waiting at the curb.",
+        "Medium shot of two friends standing in front of a velvet rope at a crowded nightclub.",
+        "Detail shot of a smartphone screen displaying an unexpected incoming bank transfer."
+      ],
+      "caption": "Ausgenutzt vom besten Kumpel. Hattet ihr auch schon solche Freunde? #wahreundschaft #viral #story #geld #leben"
+    },
+    {
+      "n": 3,
+      "open_loop": "Was befand sich in dem mysteriösen Umschlag auf dem Tisch?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Lügt über ihre gemeinsame Investition und behält den Gewinn."
+      },
+      "name": "Samira, 26, Grafikerin",
+      "badge": "1.950 € netto",
+      "verdict": "MITTEL",
+      "story": "Die 8 Level vom besten Freund als Wingman. Level 3. 1.950 Euro und sie stiehlt meine Designs für ihr Startup. Ich sitze mitten in der Nacht in meinem eisigen, völlig zugestellten Altbauzimmer und starre auf das gleißend helle Grafik-Tablet, während meine Augen brennen. Samira, ich brauche bis morgen früh noch zwanzig neue Entwürfe für den Großkunden, du machst das schon! Da brennt bei mir jede Sicherung durch. Ich springe auf und schreie sie an: 'Mila, ich habe seit drei verdammten Tagen nicht geschlafen, während du den gesamten fetten Vorschuss eingestrichen hast und meine Arbeit als deine ausgibst!'. Mit deiner Zahl wirst du nie im Leben ein eigenes Studio haben, sei dankbar für die Übung! Pure, unbändige Wut kocht in meinem Blut hoch, während ich spüre, wie gnadenlos ich hintergangen wurde. Was befand sich in dem mysteriösen Umschlag auf dem Tisch? Das siehst du in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "+500 €",
+        "after": "2.450 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom besten Freund als Wingman. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "1.950 Euro und sie stiehlt meine Designs für ihr Startup."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze mitten in der Nacht in meinem eisigen, völlig zugestellten Altbauzimmer und starre auf das gleißend helle Grafik-Tablet, während meine Augen brennen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Samira, ich brauche bis morgen früh noch zwanzig neue Entwürfe für den Großkunden, du machst das schon!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Da brennt bei mir jede Sicherung durch. Ich springe auf und schreie sie an: 'Mila, ich habe seit drei verdammten Tagen nicht geschlafen, während du den gesamten fetten Vorschuss eingestrichen hast und meine Arbeit als deine ausgibst!'."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Mit deiner Zahl wirst du nie im Leben ein eigenes Studio haben, sei dankbar für die Übung!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Pure, unbändige Wut kocht in meinem Blut hoch, während ich spüre, wie gnadenlos ich hintergangen wurde."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was befand sich in dem mysteriösen Umschlag auf dem Tisch?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Mit deiner Zahl wirst du nie im Leben ein eigenes Studio haben, sei dankbar für die Übung.",
+      "quote_by": {
+        "level": 6,
+        "name": "Mila",
+        "badge": "3.600 €",
+        "character": "A bright Orange person with vibrant citrus skin, wearing a cashmere sweater and golden earrings.",
+        "scene": "Medium shot in a messy art studio, orange person Mila throwing car keys onto a wooden desk."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "1.950 €",
+          "bar": 0.3
+        },
+        {
+          "label": "Projekte",
+          "value": "14",
+          "bar": 0.6
+        },
+        {
+          "label": "Schlaf",
+          "value": "4 Std.",
+          "bar": 0.2
+        }
+      ],
+      "character": "An artistic Beetroot person with deep purple skin, wearing round glasses and a paint-splattered oversized hoodie.",
+      "visual": "Close-up shot of a beetroot graphic designer working late at night in front of a glowing monitor.",
+      "scenes": [
+        "Close-up shot of a beetroot designer staring at a glowing computer screen in a dark room.",
+        "Medium shot of an orange person wearing a cashmere sweater tossing car keys onto a cluttered desk.",
+        "Detail shot of a small golden coin resting inside an open paint jar next to a brush.",
+        "Wide angle shot of an old apartment building exterior with glowing windows against a dark blue sky.",
+        "Detail shot of a sealed paper envelope lying forgotten near a stack of design sketches.",
+        "Medium shot of the beetroot designer opening the envelope with shaking hands."
+      ],
+      "caption": "Ausgenutzt für die Arbeit der anderen. Wer kennt das? #design #freelance #freundschaft #story #viral"
+    },
+    {
+      "n": 4,
+      "open_loop": "Warum stand mein Name plötzlich auf der Evakuierungsliste?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Schiebt ihr die Schuld an der geplatzten Firmenfeier zu."
+      },
+      "name": "Jonas, 28, Buchhalter",
+      "badge": "2.800 € netto",
+      "verdict": "SOLIDE",
+      "story": "Die 8 Level vom besten Freund als Wingman. Level 4. 2.800 Euro und ich soll seinen illegalen Bilanzbetrug decken. Ich sitze im sterilen, kalten Großraumbüro, während die Klimaanlage über mir monoton summt und sich die Aktenberge bedrohlich stapeln. Jonas, alter Mann, ich habe da ein kleines Problem mit der Bilanz, mach das mal heile. Mein innerer Monolog rast: Warum muss ich immer den Kopf für seine kriminellen Machenschaften hinhalten? Soll ich wirklich mein Leben für diesen Betrüger ruinieren? Ich atme schwer und sage fest entschlossen: 'Timo, das ist illegal, diesmal decke ich dich absolut nicht mehr.' Überleg dir gut, wem der Chef mehr glaubt, dir mit deiner kleinen Zahl oder mir. Die Angst schnürt mir die Kehle zu, aber ich werde mich nicht länger erpressen lassen. Warum stand mein Name plötzlich auf der Evakuierungsliste? Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "-200 €",
+        "after": "2.600 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom besten Freund als Wingman. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "2.800 Euro und ich soll seinen illegalen Bilanzbetrug decken."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze im sterilen, kalten Großraumbüro, während die Klimaanlage über mir monoton summt und sich die Aktenberge bedrohlich stapeln."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Jonas, alter Mann, ich habe da ein kleines Problem mit der Bilanz, mach das mal heile.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein innerer Monolog rast: Warum muss ich immer den Kopf für seine kriminellen Machenschaften hinhalten? Soll ich wirklich mein Leben für diesen Betrüger ruinieren?"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich atme schwer und sage fest entschlossen: 'Timo, das ist illegal, diesmal decke ich dich absolut nicht mehr.'"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Überleg dir gut, wem der Chef mehr glaubt, dir mit deiner kleinen Zahl oder mir.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Angst schnürt mir die Kehle zu, aber ich werde mich nicht länger erpressen lassen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Warum stand mein Name plötzlich auf der Evakuierungsliste?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Überleg dir gut, wem der Chef mehr glaubt, dir mit deiner kleinen Zahl oder mir.",
+      "quote_by": {
+        "level": 5,
+        "name": "Timo",
+        "badge": "3.100 €",
+        "character": "A smooth Avocado person with dark green skin and a pit-shaped hairstyle, wearing a tight business suit.",
+        "scene": "Medium shot in a modern glass office, avocado person Timo leaning over a cubicle wall."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "2.800 €",
+          "bar": 0.45
+        },
+        {
+          "label": "Überstunden",
+          "value": "42 h",
+          "bar": 0.5
+        },
+        {
+          "label": "Risiko",
+          "value": "Hoch",
+          "bar": 0.9
+        }
+      ],
+      "character": "An organized Pear person with smooth yellowish-green skin, wearing a neat grey button-down shirt and silver-rimmed glasses.",
+      "visual": "Medium shot of a pear accountant sitting at a cluttered office desk surrounded by stacks of financial files.",
+      "scenes": [
+        "Medium shot of a pear accountant surrounded by tall stacks of paper in an office.",
+        "Close-up of an avocado person in a sharp business suit smirking across a cubicle partition.",
+        "Detail shot of a small golden coin hidden inside the pages of a thick ledger book.",
+        "Wide angle shot of an illuminated corporate skyscraper floor at dusk with flashing emergency lights.",
+        "Medium shot of office workers evacuating through glass double doors during a fire alarm.",
+        "Detail shot of a printed employee roster showing a mysterious handwritten note next to the name."
+      ],
+      "caption": "Beste Freunde, die dich reinreißen. Würdet ihr sie decken? #bureaucracy #workplace #drama #story #viral"
+    },
+    {
+      "n": 5,
+      "open_loop": "Wer hat die Fotos an die gesamte Agentur geschickt?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Kreditiert ihre Arbeit as seine eigene vor dem Kunden."
+      },
+      "name": "Lara, 30, Fotografin",
+      "badge": "3.400 € netto",
+      "verdict": "GUT",
+      "story": "Die 8 Level vom besten Freund als Wingman. Level 5. 3.400 Euro und sie verkauft meine Fotos as ihre eigene Arbeit. Wir stehen in diesem hellen, hochmodernen Fotostudio, während die Blitzlichter permanent zucken und das Model vor der weißen Wand posiert. Lara, stell das Licht gefälligst richtig ein, aber geh mir aus dem Bild, du ruinierst hier die gesamte Ästhetik! Da bricht in mir eine schmerzhafte Welle aus. Ich habe die perfekte Location gebucht, jedes technische Detail ausgearbeitet und die komplette künstlerische Vision erschaffen, während sie sich nur vor die Linse drängt. Ich funkle sie an und entgegne: 'Nica, das ist mein kreatives Konzept, hör auf, dich mit meinen Federn zu schmücken.' Mit deiner Stirn bist du nur die blöde Assistentin, ich bin das Gesicht dieser Marke. Diese Demütigung brennt tiefer als jede Wunde. Wer hat die Fotos an die gesamte Agentur geschickt? Das siehst du in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+600 €",
+        "after": "4.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom besten Freund als Wingman. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "3.400 Euro und sie verkauft meine Fotos as ihre eigene Arbeit."
+        },
+        {
+          "s": "Figur",
+          "t": "Wir stehen in diesem hellen, hochmodernen Fotostudio, während die Blitzlichter permanent zucken und das Model vor der weißen Wand posiert."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Lara, stell das Licht gefälligst richtig ein, aber geh mir aus dem Bild, du ruinierst hier die gesamte Ästhetik!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Da bricht in mir eine schmerzhafte Welle aus. Ich habe die perfekte Location gebucht, jedes technische Detail ausgearbeitet und die komplette künstlerische Vision erschaffen, während sie sich nur vor die Linse drängt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich funkle sie an und entgegne: 'Nica, das ist mein kreatives Konzept, hör auf, dich mit meinen Federn zu schmücken.'"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Mit deiner Stirn bist du nur die blöde Assistentin, ich bin das Gesicht dieser Marke.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Diese Demütigung brennt tiefer als jede Wunde."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hat die Fotos an die gesamte Agentur geschickt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Mit deiner Stirn bist du nur die Assistentin, ich bin das Gesicht dieser Marke.",
+      "quote_by": {
+        "level": 4,
+        "name": "Nica",
+        "badge": "5.200 €",
+        "character": "A vibrant Dragonfruit person with pink speckled skin and green leaf tips, wearing a high-fashion metallic dress.",
+        "scene": "Wide angle shot of a professional photo studio, dragonfruit person Nica holding a camera proudly."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "3.400 €",
+          "bar": 0.6
+        },
+        {
+          "label": "Aufträge",
+          "value": "22",
+          "bar": 0.7
+        },
+        {
+          "label": "Kunden",
+          "value": "Top 10",
+          "bar": 0.8
+        }
+      ],
+      "character": "A creative Plum person with deep purple velvety skin, wearing a black turtleneck and carrying a professional camera strap.",
+      "visual": "Close-up shot of a plum photographer adjusting a camera lens in a brightly lit white studio.",
+      "scenes": [
+        "Close-up shot of a plum photographer adjusting a camera lens inside a bright white photo studio.",
+        "Medium shot of a dragonfruit person in a shiny metallic dress holding a professional camera.",
+        "Detail shot of a small golden coin hidden on the baseplate of a heavy studio tripod.",
+        "Wide angle shot of a bustling creative agency office with employees looking at computer monitors.",
+        "Medium shot of the plum photographer staring at her phone screen in disbelief.",
+        "Detail shot of an email inbox showing multiple notifications with confidential image attachments."
+      ],
+      "caption": "Wenn die beste Freundin deine harte Arbeit klaut. Kennst du das? #fotografie #studio #drama #story #viral"
+    },
+    {
+      "n": 6,
+      "open_loop": "Was stand in dem eingeschriebenen Brief von der Staatsanwaltschaft?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Verbreitet Lügen über ihre Insolvenz in der Nachbarschaft."
+      },
+      "name": "Markus, 33, Architekt",
+      "badge": "5.100 € netto",
+      "verdict": "OBERER MAB",
+      "story": "Die 8 Level vom besten Freund als Wingman. Level 6. 5.100 Euro und mein bester Freund heimst die Lorbeeren für meine Architektur ein. Wir stehen auf der luxuriösen, windumtosten Dachterrasse hoch über den glitzernden Dächern der Stadt, während unsere Champagnergläser im Licht der untergehenden Sonne klingen. Markus, Alter, der Investor ist absolut begeistert von MEINEM Entwurf, du hast wirklich Talent fürs reine Zuarbeiten! Da überkommt mich eine eiskalte, aggressive Wut, die jede Freundschaft sofort vernichtet. Ich trete einen Schritt vor, blicke ihm direkt in die kalten Augen und fauche ihn an: 'Oliver, ich habe jede einzelne verdammte Linie gezeichnet, und du hast meinen Namen im Vertrag komplett verschwiegen!' Mit deiner Zahl wirst du nie das Gesicht für diesen Markt sein, sei froh, dass ich deinen Namen überhaupt kenne. Diese Respektlosigkeit wird fatale Folgen haben. Was stand in dem eingeschriebenen Brief von der Staatsanwaltschaft? Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+900 €",
+        "after": "6.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom besten Freund als Wingman. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "5.100 Euro und mein bester Freund heimst die Lorbeeren für meine Architektur ein."
+        },
+        {
+          "s": "Figur",
+          "t": "Wir stehen auf der luxuriösen, windumtosten Dachterrasse hoch über den glitzernden Dächern der Stadt, während unsere Champagnergläser im Licht der untergehenden Sonne klingen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Markus, Alter, der Investor ist absolut begeistert von MEINEM Entwurf, du hast wirklich Talent fürs reine Zuarbeiten!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Da überkommt mich eine eiskalte, aggressive Wut, die jede Freundschaft sofort vernichtet."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich trete einen Schritt vor, blicke ihm direkt in die kalten Augen und fauche ihn an: 'Oliver, ich habe jede einzelne verdammte Linie gezeichnet, und du hast meinen Namen im Vertrag komplett verschwiegen!'"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Mit deiner Zahl wirst du nie das Gesicht für diesen Markt sein, sei froh, dass ich deinen Namen überhaupt kenne.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Diese Respektlosigkeit wird fatale Folgen haben."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was stand in dem eingeschriebenen Brief von der Staatsanwaltschaft?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Mit deiner Zahl wirst du nie das Gesicht für diesen Markt sein, sei froh, dass ich deinen Namen nenne.",
+      "quote_by": {
+        "level": 3,
+        "name": "Oliver",
+        "badge": "7.400 €",
+        "character": "A sharp Pineaplle person with a spiky yellow crown, wearing a tailored designer suit.",
+        "scene": "Medium shot on a luxury rooftop terrace at dusk, pineapple person Oliver holding a champagne flute."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "5.100 €",
+          "bar": 0.75
+        },
+        {
+          "label": "Projekte",
+          "value": "35",
+          "bar": 0.8
+        },
+        {
+          "label": "Erfolg",
+          "value": "Hoch",
+          "bar": 0.85
+        }
+      ],
+      "character": "A structured Kiwi person with fuzzy brown skin, wearing a modern charcoal suit and wire-rimmed glasses.",
+      "visual": "Wide angle shot of a kiwi architect standing on a sleek glass rooftop terrace overlooking the city skyline at sunset.",
+      "scenes": [
+        "Wide angle shot of a sleek glass rooftop terrace overlooking the illuminated city skyline at sunset.",
+        "Medium shot of a spiky pineapple person in a tailored suit drinking champagne.",
+        "Detail shot of a small golden coin embedded into the corner of a glass balcony railing.",
+        "Wide angle shot of a hotel lobby entrance with a postal worker handing over a yellow envelope.",
+        "Medium shot of the kiwi architect looking at the official letter with a tense expression.",
+        "Detail shot of a legal document header showing official seals and a stamp."
+      ],
+      "caption": "Die eigenen Entwürfe werden gestohlen. Was würdet ihr tun? #architektur #erfolg #drama #story #viral"
+    },
+    {
+      "n": 7,
+      "open_loop": "Wer hat die Anteile an meiner Firma heimlich aufgekauft?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Sabotiert ihren Firmenauftritt kurz vor der Präsentation."
+      },
+      "name": "Sophie, 35, Unternehmensberaterin",
+      "badge": "8.300 € netto",
+      "verdict": "REICH",
+      "story": "Die 8 Level vom besten Freund als Wingman. Level 7. 8.300 Euro und sie verbietet mir die Präsentation meines eigenen Imperiums. Wir stehen im frostigen, gläsernen Konferenzraum, während der Blick über den gesamten Finanzdistrikt schweift. Sophie, du präsentierst heute nicht, dafür reicht deine Ausstrahlung einfach nicht aus, du bleibst im Hintergrund. Ich atme tief aus, lasse mir meine innere Anspannung nicht anmerken und antworte mit absolut klaren, ungesüßten Worten: 'Victoria, genug ist genug. Ich habe jeden einzelnen Investor an Land gezogen, das gesamte Konzept von Grund auf alleine geschrieben und dieses Unternehmen aufgebaut.' Mit deiner Zahl bist du gut fürs Backoffice, aber niemals für die Bühne. Doch sie ahnt nicht, dass das Spiel sich in dieser Sekunde komplett dreht. Wer hat die Anteile an meiner Firma heimlich aufgekauft? Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1.500 €",
+        "after": "9.800 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom besten Freund als Wingman. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "8.300 Euro und sie verbietet mir die Präsentation meines eigenen Imperiums."
+        },
+        {
+          "s": "Figur",
+          "t": "Wir stehen im frostigen, gläsernen Konferenzraum, während der Blick über den gesamten Finanzdistrikt schweift."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sophie, du präsentierst heute nicht, dafür reicht deine Ausstrahlung einfach nicht aus, du bleibst im Hintergrund.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich atme tief aus, lasse mir meine innere Anspannung nicht anmerken und antworte mit absolut klaren, ungesüßten Worten: 'Victoria, genug ist genug. Ich habe jeden einzelnen Investor an Land gezogen, das gesamte Konzept von Grund auf alleine geschrieben und dieses Unternehmen aufgebaut.'"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Mit deiner Zahl bist du gut fürs Backoffice, aber niemals für die Bühne.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch sie ahnt nicht, dass das Spiel sich in dieser Sekunde komplett dreht."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hat die Anteile an meiner Firma heimlich aufgekauft?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Mit deiner Zahl bist du gut fürs Backoffice, aber nicht für die Bühne.",
+      "quote_by": {
+        "level": 2,
+        "name": "Victoria",
+        "badge": "9.900 €",
+        "character": "A majestic Pomegranate person with ruby-red seed skin, wearing an expensive white designer suit.",
+        "scene": "Medium shot inside a futuristic glass boardroom, pomegranate person Victoria speaking arrogantly to a consultant."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "8.300 €",
+          "bar": 0.9
+        },
+        {
+          "label": "Firmen",
+          "value": "4",
+          "bar": 0.85
+        },
+        {
+          "label": "Netzwerk",
+          "value": "Global",
+          "bar": 0.95
+        }
+      ],
+      "character": "A sharp Fig person with deep violet skin, wearing a tailored navy blue pantsuit and pearl earrings.",
+      "visual": "Medium shot of a fig consultant standing inside a modern glass skyscraper conference room with city views.",
+      "scenes": [
+        "Medium shot of a fig consultant standing inside a modern glass skyscraper conference room.",
+        "Medium shot of a pomegranate person in a white designer suit talking down to someone.",
+        "Detail shot of a small golden coin hidden on the chrome base of a conference table chair.",
+        "Wide angle shot of a bustling trading floor with digital stock tickers glowing on the walls.",
+        "Medium shot of the fig consultant staring at her mobile phone with a shocked expression.",
+        "Detail shot of a stock market notification screen showing massive share acquisitions."
+      ],
+      "caption": "Verrat in der Chefetage. Hättet ihr das verziehen? #business #erfolg #drama #story #viral"
+    },
+    {
+      "n": 8,
+      "open_loop": "",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Die Kreise schließen sich und alle Wahrheiten kommen ans Licht."
+      },
+      "name": "David, 40, Investor",
+      "badge": "15.000 €+",
+      "verdict": "ELITE",
+      "story": "Die 8 Level vom besten Freund als Wingman. Level 8. Über 15.000 Euro und heute holen wir uns alles zurück. Ich sitze in der obersten Etage im luxuriösen Penthouse, während vor mir der dichte Nebel über der schimmernden Stadt wallt und sich alle Fäden in rasantem Tempo verknüpfen. Was machst du hier? Dir gehört doch gar nicht alles! Ich stehe langsam auf, blicke in ihre geschockten Gesichter und spreche die alles entscheidende Genugtuung aus: 'Die Zahl auf der Stirn zeigt vielleicht das Geld auf dem Konto, aber sie zeigt niemals den wahren Wert eines Menschen.' Alle Masken fallen, die Gerechtigkeit triumphiert endgültig, und wir holen uns heute gemeinsam jeden Cent und jede Anerkennung zurück, die uns zusteht. Welches Thema sollen wir in der nächsten Serie behandeln?",
+      "gender": "m",
+      "twist": {
+        "delta": "MAX",
+        "after": "25.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom besten Freund als Wingman. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Über 15.000 Euro und heute holen wir uns alles zurück."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze in der obersten Etage im luxuriösen Penthouse, während vor mir der dichte Nebel über der schimmernden Stadt wallt und sich alle Fäden in rasantem Tempo verknüpfen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Was machst du hier? Dir gehört doch gar nicht alles!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe langsam auf, blicke in ihre geschockten Gesichter und spreche die alles entscheidende Genugtuung aus: 'Die Zahl auf der Stirn zeigt vielleicht das Geld auf dem Konto, aber sie zeigt niemals den wahren Wert eines Menschen.'"
+        },
+        {
+          "s": "Figur",
+          "t": "Alle Masken fallen, die Gerechtigkeit triumphiert endgültig, und wir holen uns heute gemeinsam jeden Cent und jede Anerkennung zurück, die uns zusteht."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema sollen wir in der nächsten Serie behandeln?"
+        }
+      ],
+      "quote": "Die Zahl auf der Stirn zeigt vielleicht das Geld, aber sie zeigt niemals den wahren Wert eines Menschen.",
+      "quote_by": {
+        "level": 8,
+        "name": "David",
+        "badge": "15.000+ €",
+        "character": "A wise Coconut person with a polished brown shell, wearing a bespoke velvet smoking jacket.",
+        "scene": "Wide angle shot of a luxurious penthouse overlooking the entire city at night, surrounded by all previous characters."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "15.000 €",
+          "bar": 1.0
+        },
+        {
+          "label": "Macht",
+          "value": "Maximum",
+          "bar": 1.0
+        },
+        {
+          "label": "Kontrolle",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "A distinguished Chestnut person with shiny brown polished skin, wearing a luxury velvet smoking jacket and a gold pocket watch.",
+      "visual": "Wide angle shot of a luxurious penthouse overlooking a glowing metropolis at night with multiple fruit and vegetable characters standing around.",
+      "scenes": [
+        "Wide angle shot of a luxurious penthouse overlooking a glowing metropolis at night.",
+        "Medium shot of several fruit and vegetable characters standing together in shock inside a penthouse.",
+        "Detail shot of a small golden coin resting on top of a classic pocket watch.",
+        "Wide angle shot of the city street below, showing the familiar neon kiosk glowing brightly.",
+        "Medium shot of the chestnut investor smiling calmly while holding a crystal glass.",
+        "Close-up of all characters looking up at the glowing numbers on their foreheads as they shift."
+      ],
+      "caption": "Das große Finale! Welches Thema sollen wir als Nächstes verfilmen? Schreibt es in die Kommentare! #finale #drama #storytime #viral #twist"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das betrügerische Ausnutzen der besten Freundin als ewiger Wingman",
+  "frame": "frucht"
+}

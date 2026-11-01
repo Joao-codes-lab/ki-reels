@@ -1,0 +1,125 @@
+{
+  "best_score": 44,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 3,
+        "story": 4,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 3,
+        "wut": 4,
+        "merkfaehigkeit": 5,
+        "sprache": 4
+      },
+      "gesamt": 40,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze das langweilige Intro durch einen harten Satz: '850 Euro im Monat. Und mein Chef lacht mich aus, weil ich mir nicht mal einen Kaffee leisten kann.'"
+        },
+        {
+          "n": 8,
+          "fix": "Nimm den schwachen Call-to-Action am Ende weg und lass stattdessen die Zahlen aller Figuren auf Null fallen, während die Gründerin kalt lächelt."
+        }
+      ],
+      "fazit": "Die Serie hat eine solide visuelle Grundidee mit den anthropomorphen Obst-Figuren und Stirnzahlen, aber die Texte klingen zu sehr nach geschriebenen Aufzählungen statt nach echten, rohen TikTok-Dramen. Die Hooks verfehlen den brutalen Kontrast in den ersten drei Sekunden, und die Wortanzahl pro Video kratzt oft an der Untergrenze. Mehr Tempo, härtere Konflikte, weniger Erklärbär-Sprecher."
+    },
+    {
+      "scores": {
+        "hook": 4,
+        "story": 3,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 4,
+        "wut": 3,
+        "merkfaehigkeit": 5,
+        "sprache": 2
+      },
+      "gesamt": 38,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den lahmen Einstieg durch einen direkten Fausthieb im ersten Satz: '850 Euro Netto. Mein Chef lacht, weil ich mir nicht mal Leitungswasser leisten kann.' Schreib mindestens 175 Wörter pro Teil, um Tiefe zu erzeugen."
+        },
+        {
+          "n": 2,
+          "fix": "Verstärke die Wut: 'Für so einen Dreckskaffee zahlst du mehr, als ich im Monat habe!' wirft das Kleingeld direkt ins Gesicht der Zuschauer."
+        },
+        {
+          "n": 3,
+          "fix": "Erhöhe den Sog: Das offene Ende muss messerscharf sein, ohne langweilige Erzähler-Floskeln wie 'Das siehst du in Level 4'."
+        },
+        {
+          "n": 4,
+          "fix": "Schärfe den Konflikt: Zeige den Neid und die tatsächliche Demütigung live statt als dröge Zusammenfassung."
+        },
+        {
+          "n": 5,
+          "fix": "Korrigiere den Tonfall: Der Protagonist im Penthouse muss arrogant wirken, aber seine Isolation greifbar machen."
+        },
+        {
+          "n": 6,
+          "fix": "Baue echte Genugtuung ein: Die Kontensperrung der Topverdienerin muss schmerzhaft und für den Zuschauer genüsslich mit anzusehen sein."
+        },
+        {
+          "n": 7,
+          "fix": "Der Vorstand muss den Blickkontakt halten und den Protagonisten extrem herabwürdigen, bevor das Blatt sich wendet."
+        },
+        {
+          "n": 8,
+          "fix": "Das Finale muss logisch aus den vorherigen Levels resultieren und die Schöpferin als unerbittliche Strippenzieherin etablieren."
+        }
+      ],
+      "fazit": "Die Serie hat ein starkes visuelles Konzept (Stirnzahlen, Anthropomorphe Frucht-Welt), leidet aber massiv unter zu kurzen, hölzernen Texten weit unter der 175-Wörter-Grenze pro Teil. Die Konflikte werden oft nur behauptet statt emotional durchlebt. Ohne echte Wut, knallharten Kontrast in den ersten 3 Sekunden und echte Genugtuung bleiben die Klicks aus."
+    },
+    {
+      "scores": {
+        "hook": 4,
+        "story": 5,
+        "identifikation": 4,
+        "verbindungen": 6,
+        "sog": 4,
+        "wut": 3,
+        "merkfaehigkeit": 5,
+        "sprache": 4
+      },
+      "gesamt": 44,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze das langweilige Intro durch einen harten visuellen und akustischen Kontrast: Zeige direkt die blutigen Hände auf dem nassen Boden und blendet die Zahl 850 € ein. Lass Kalle sagen: 'Mit 850 Euro im Monat darfst du überhaupt nicht atmen, du Putzmittel!' Keine Einleitung, direkt reissen."
+        },
+        {
+          "n": 2,
+          "fix": "Erhöhe die Wut: Lass Ben nicht nur Kleingeld werfen, sondern den Kaffee demonstrativ über den Tresen schütten und rufen: 'Für dein Jahresgehalt kaufe ich mir nicht mal die Kaffeebohnen!' Zeige die Genugtuung, dass die Kasse seinen Kreditkarten-Chip sofort sperrt."
+        },
+        {
+          "n": 3,
+          "fix": "Stärke den 'versteckten Wert': Lass den Protagonisten in Level 3 heimlich die Fehler des Chefs korrigieren, während der Chef ihn niedermacht. Der Zuschauer muss wissen, dass der Protagonist unersetzlich ist, bevor der Chef es merkt."
+        },
+        {
+          "n": 4,
+          "fix": "Schärfe den Konflikt in Level 4: Sara darf nicht nur präsentieren, sondern muss live im Meeting sehen, wie Leo ihre Zahlen fälscht, um sie zu ruinieren. Der Zuschauer brennt darauf, dass ihr versteckter Bonus das Ruder rumreißt."
+        },
+        {
+          "n": 5,
+          "fix": "Korrigiere den offenen Loop in Level 5: Der Satz am Ende muss glasklar verraten, dass Ben den Beweis gegen den Vorstand in der Hand hält, statt generischer Floskeln."
+        },
+        {
+          "n": 6,
+          "fix": "Verbinde die Figuren besser: Saskia (Level 6) muss genau die Designer-Tasche kaufen, die Mia (Level 2) im Schaufenster angehimmelt hat. Das triggert sofort hasserfüllte Reaktionen und echte Wut."
+        },
+        {
+          "n": 7,
+          "fix": "Verschärfe die Demütigung in Level 7: Dr. Hagen feuert Leo kalt lächelnd, aber man sieht im Hintergrund auf dem Monitor, dass Leos geheimes Startup Hagens Firma gerade aufkauft."
+        },
+        {
+          "n": 8,
+          "fix": "Das Finale braucht keinen flachen Admin-Monolog. Elena muss enthüllen, dass die Stirnzahlen eine Wette waren und alle Opfer jetzt die Firmenanteile der Bosse erben. Direkte Genugtuung statt Null-Nummer."
+        }
+      ],
+      "fazit": "Die Serie hat eine starke visuelle Grundidee (Anthropomorphe Früchte, Neon-Metropole, Stirnzahlen), verschenkt aber massiv Potenzial bei der emotionalen Fallhöhe. Die Vorbilder (Obst-Dramen) leben von extremem Kontrast, hasserfüllten Bösewichten und vor allem der Genugtuung des Zuschauers, dass der Unterschätzte gewinnt. Hier plätschern die Konflikte oft in austauschbaren Texten ab, die Figuren bleiben zu brav und die Wut verpufft ohne sofortige Rache-Aussicht. Mehr Tempo, härtere Dialoge, weniger Phrasen!"
+    }
+  ]
+}

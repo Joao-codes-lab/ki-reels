@@ -1,0 +1,746 @@
+{
+  "title": "The 8 Levels of Hitting Snooze 7 Times",
+  "house": "A bustling metropolitan fruit-and-veg city under a permanent neon dawn, featuring the Central Subway Station, the 24/7 Neon Bodega, and the Grand Plaza with its giant glowing digital clock towers.",
+  "catchphrase": "The number on your forehead never lies.",
+  "links": [
+    "Barista in Level 2 mentions the tired Broccoli running for the 7:42 train.",
+    "The glowing gold coin is hidden behind the ticket machine in every station scene.",
+    "Level 8's luxury penthouse overlooks the exact rainy alley where Level 1 wakes up."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Why did the alarm clock reset itself to 3:00 AM right after the final snooze?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Kicked over the recycling bin outside the apartment window at 6:15 AM."
+      },
+      "name": "Ben, 24, Night-Shift Janitor",
+      "badge": "07 Snoozes",
+      "verdict": "CHRONIC TIRED",
+      "story": "The 8 levels of hitting snooze 7 times. Level 1. Level 1: 7 snoozes pressed, and my forehead badge is flashing red like a crime scene. My tiny studio apartment smells of stale instant ramen and pure desperation. The digital clock on the wall glows 7:42 AM, and my shift started twelve minutes ago across town. I smash the snooze button for the seventh time, watching the tiny gold coin roll under my battered sneaker. \"Still in bed while the real workers are making money? You'll never afford rent in this city with numbers like that!\" I pull the heavy weighted blanket over my head, my phone vibrating furiously with missed calls from my boss. Then he said this one sentence that completely shattered my remaining dignity. You'll see that in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1 Snooze",
+        "after": "08 Snooze"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of hitting snooze 7 times. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 7 snoozes pressed, and my forehead badge is flashing red like a crime scene."
+        },
+        {
+          "s": "Figur",
+          "t": "My tiny studio apartment smells of stale instant ramen and pure desperation."
+        },
+        {
+          "s": "Figur",
+          "t": "The digital clock on the wall glows 7:42 AM, and my shift started twelve minutes ago across town."
+        },
+        {
+          "s": "Figur",
+          "t": "I smash the snooze button for the seventh time, watching the tiny gold coin roll under my battered sneaker."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "\"Still in bed while the real workers are making money? You'll never afford rent in this city with numbers like that!\"",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I pull the heavy weighted blanket over my head, my phone vibrating furiously with missed calls from my boss."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then he said this one sentence that completely shattered my remaining dignity."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "Still in bed while the real workers are making money?",
+      "quote_by": {
+        "level": 3,
+        "name": "Marcus",
+        "badge": "14.500 $",
+        "character": "An arrogant, sharply dressed Bell Pepper man with a sleek golden watch and bright neon green skin.",
+        "scene": "Wide shot of a cramped, messy studio apartment with peeling wallpaper; Marcus stands in the doorway sneering down at the bed, a hidden gold coin resting on the cracked floor tile."
+      },
+      "stats": [
+        {
+          "label": "Snoozes",
+          "value": "07",
+          "bar": 0.1
+        },
+        {
+          "label": "Energy",
+          "value": "2%",
+          "bar": 0.05
+        },
+        {
+          "label": "Late Min",
+          "value": "45",
+          "bar": 0.2
+        }
+      ],
+      "character": "Ben is a tired Broccoli man with curly dark green floret hair, wearing a stained gray hoodie and holding a chipped ceramic mug. On his forehead glows the digital badge.",
+      "visual": "Wide shot of a gloomy, cluttered studio apartment at dawn; a Broccoli man in a gray hoodie stares hopelessly at his glowing forehead badge while an alarm clock flashes red.",
+      "scenes": [
+        "Close-up of a battered digital alarm clock showing 7:42 AM with a tiny gold coin wedged beneath the snooze button.",
+        "Medium shot of Ben in bed pulling a heavy weighted blanket over his head in his cramped apartment.",
+        "Wide shot of the dingy hallway outside the apartment with peeling floral wallpaper and flickering fluorescent lights.",
+        "Detail shot of Ben's worn-out running shoe stepping right past a glowing gold coin on the dusty wooden floor.",
+        "Halbnah shot of the arrogant Bell Pepper landlord pointing aggressively at Ben's flashing red forehead display.",
+        "Close-up of a ringing smartphone screen displaying twelve missed calls from 'Boss Lemon' and a low battery warning."
+      ],
+      "caption": "How many times do you hit snooze on a Monday morning? #snooze #monday #struggle #funny #animation"
+    },
+    {
+      "n": 2,
+      "open_loop": "Who left the anonymous envelope with 500 dollars on the subway seat?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Pushed past in the subway aisle without apologizing, spilling hot coffee."
+      },
+      "name": "Chloe, 26, Barista",
+      "badge": "05 Snoozes",
+      "verdict": "BARELY AWAKE",
+      "story": "The 8 levels of hitting snooze 7 times. Level 2. Level 2: Five snoozes deep and my espresso machine is hissing louder than my boss's complaints. My forehead glows a faint orange as I pour oat milk into a cardboard cup at 7:55 AM. The cafe smells like burned roast beans and Monday morning panic. \"You look like you slept in a dumpster, sweetheart. Hurry up with my macchiato!\" I force a fake smile while hiding a tiny gold coin beneath the tip jar. Suddenly, the train schedule board outside flickers violently, and my phone buzzes with a shocking text message from my roommate. Then he said this one sentence that completely changed the morning rush. You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "-2 Snoozes",
+        "after": "03 Snooze"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of hitting snooze 7 times. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: Five snoozes deep and my espresso machine is hissing louder than my boss's complaints."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead glows a faint orange as I pour oat milk into a cardboard cup at 7:55 AM."
+        },
+        {
+          "s": "Figur",
+          "t": "The cafe smells like burned roast beans and Monday morning panic."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "\"You look like you slept in a dumpster, sweetheart. Hurry up with my macchiato!\"",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I force a fake smile while hiding a tiny gold coin beneath the tip jar."
+        },
+        {
+          "s": "Figur",
+          "t": "Suddenly, the train schedule board outside flickers violently, and my phone buzzes with a shocking text message from my roommate."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then he said this one sentence that completely changed the morning rush."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "You look like you slept in a dumpster, sweetheart. Hurry up with my macchiato!",
+      "quote_by": {
+        "level": 4,
+        "name": "Victor",
+        "badge": "25.000 $",
+        "character": "A cold, rigid Cucumber man in a tailored charcoal suit with thin wire-rimmed glasses.",
+        "scene": "Medium shot across a shiny marble cafe counter; Victor taps his glowing green forehead badge impatiently while pointing at a steaming espresso cup."
+      },
+      "stats": [
+        {
+          "label": "Snoozes",
+          "value": "05",
+          "bar": 0.25
+        },
+        {
+          "label": "Caffeine",
+          "value": "12%",
+          "bar": 0.15
+        },
+        {
+          "label": "Tips",
+          "value": "14 $",
+          "bar": 0.3
+        }
+      ],
+      "character": "Chloe is a bright Strawberry woman with tiny yellow seeds across her vibrant red skin, wearing a green apron and a white headband. On her forehead glows her digital badge.",
+      "visual": "Halbnah shot of a busy cafe counter; a Strawberry woman in a green apron pours coffee while her forehead badge glows orange.",
+      "scenes": [
+        "Wide shot of a bustling downtown cafe filled with steam, glowing neon signs, and various fruit-and-veg customers.",
+        "Close-up of an espresso machine portafilter overflowing with dark grounds and a tiny gold coin sitting on the drip tray.",
+        "Medium shot of Chloe looking exhausted at the register, wiping down the laminated menu.",
+        "Detail shot of the Cucumber customer's expensive leather watch next to a cracked ceramic saucer.",
+        "Halbnah shot of Victor slamming his payment card onto the contactless reader with a condescending smirk.",
+        "Close-up of a smartphone screen showing a text message alert with the word 'WARNING' in bold red text."
+      ],
+      "caption": "Monday morning coffee runs hit different when you're this tired. #barista #coffee #mondaymood #relatable #animation"
+    },
+    {
+      "n": 3,
+      "open_loop": "What was written inside the confidential memo left on the office desk?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Stole the last parking spot right in front of the office building entrance."
+      },
+      "name": "Marcus, 31, Junior Analyst",
+      "badge": "04 Snoozes",
+      "verdict": "BORDERLINE LATE",
+      "story": "The 8 levels of hitting snooze 7 times. Level 3. Level 3: Four snoozes and my tie is knotted so tight I can barely breathe in this elevator. My forehead badge shines a steady yellow as the brass doors slide open on the 14th floor of the financial tower. The office smells like expensive cologne and pure corporate anxiety at 8:15 AM. \"Is this your idea of arriving on time, Marcus? Performance reviews are today.\" I adjust my collar, stepping over a tiny gold coin embedded in the polished marble floor tiles. My hands tremble as I open my laptop to find my quarterly metrics completely blank. Then she said this one sentence that made my stomach drop straight to the floor. You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1 Snooze",
+        "after": "05 Snooze"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of hitting snooze 7 times. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: Four snoozes and my tie is knotted so tight I can barely breathe in this elevator."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead badge shines a steady yellow as the brass doors slide open on the 14th floor of the financial tower."
+        },
+        {
+          "s": "Figur",
+          "t": "The office smells like expensive cologne and pure corporate anxiety at 8:15 AM."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "\"Is this your idea of arriving on time, Marcus? Performance reviews are today.\"",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I adjust my collar, stepping over a tiny gold coin embedded in the polished marble floor tiles."
+        },
+        {
+          "s": "Figur",
+          "t": "My hands tremble as I open my laptop to find my quarterly metrics completely blank."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then she said this one sentence that made my stomach drop straight to the floor."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Is this your idea of arriving on time, Marcus? Performance reviews are today.",
+      "quote_by": {
+        "level": 5,
+        "name": "Sophia",
+        "badge": "45.000 $",
+        "character": "A polished, glossy Eggplant woman with deep purple skin, wearing a sharp white silk blouse and pearl earrings.",
+        "scene": "Medium shot inside a sleek glass corner office; Sophia leans against her mahogany desk, looking down her nose with an icy expression."
+      },
+      "stats": [
+        {
+          "label": "Snoozes",
+          "value": "04",
+          "bar": 0.4
+        },
+        {
+          "label": "Focus",
+          "value": "45%",
+          "bar": 0.45
+        },
+        {
+          "label": "Stress",
+          "value": "78%",
+          "bar": 0.8
+        }
+      ],
+      "character": "Marcus is a vibrant Bell Pepper man with bright neon green glossy skin, wearing a crisp light blue button-down shirt and a navy blue silk tie. On his forehead glows his digital badge.",
+      "visual": "Medium shot of a corporate office hallway with floor-to-ceiling windows; a Bell Pepper man in a suit looks nervously at his glowing yellow forehead badge.",
+      "scenes": [
+        "Wide shot of a massive open-plan office with dozens of glowing fruit-and-veg desks under cold white LED panels.",
+        "Close-up of a brass elevator floor indicator lighting up the number 14 with a tiny gold coin resting on the panel ledge.",
+        "Medium shot of Marcus straightening his silk tie in front of a shiny mirrored pillar.",
+        "Detail shot of Sophia's manicured purple fingers tapping rhythmically on a sleek silver laptop keyboard.",
+        "Halbnah shot of Sophia handing a thick manila folder across the desk while glaring at Marcus.",
+        "Close-up of Marcus's laptop screen showing a blinking error message and zero productivity data."
+      ],
+      "caption": "Corporate life on four hours of sleep is pure survival mode. #corporate #worklife #office #struggle #animation"
+    },
+    {
+      "n": 4,
+      "open_loop": "Why did the security gate lock automatically right as she approached?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Cut in front of the queue at the security scanner without a second glance."
+      },
+      "name": "Elena, 29, Graphic Designer",
+      "badge": "03 Snoozes",
+      "verdict": "BARELY ON TIME",
+      "story": "The 8 levels of hitting snooze 7 times. Level 4. Level 4: Three snoozes and my graphic tablet stylus is practically burning a hole in my pocket. My forehead badge glows a soft green as I rush through the revolving doors of the creative agency at 8:30 AM. The studio smells like fresh printer toner and expensive artisanal matcha tea. \"Your vector mockups were due ten minutes ago, Elena. We're pitching to the clients right now!\" I quickly close three open browser tabs while kicking a tiny gold coin under the heavy drafting table. My screen flickers, and my design files vanish into a corrupted folder. Then he said this one sentence that completely wrecked my creative flow. You'll see that in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "-1 Snooze",
+        "after": "02 Snooze"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of hitting snooze 7 times. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: Three snoozes and my graphic tablet stylus is practically burning a hole in my pocket."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead badge glows a soft green as I rush through the revolving doors of the creative agency at 8:30 AM."
+        },
+        {
+          "s": "Figur",
+          "t": "The studio smells like fresh printer toner and expensive artisanal matcha tea."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "\"Your vector mockups were due ten minutes ago, Elena. We're pitching to the clients right now!\"",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I quickly close three open browser tabs while kicking a tiny gold coin under the heavy drafting table."
+        },
+        {
+          "s": "Figur",
+          "t": "My screen flickers, and my design files vanish into a corrupted folder."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then he said this one sentence that completely wrecked my creative flow."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Your vector mockups were due ten minutes ago, Elena. We're pitching to the clients right now!",
+      "quote_by": {
+        "level": 6,
+        "name": "Julian",
+        "badge": "85.000 $",
+        "character": "A smooth, bright Orange man with textured citrus peel skin, wearing a chic black turtleneck and thick designer frames.",
+        "scene": "Halbnah shot inside a sunlit creative studio; Julian leans over a glowing drawing tablet with an intense, demanding glare."
+      },
+      "stats": [
+        {
+          "label": "Snoozes",
+          "value": "03",
+          "bar": 0.55
+        },
+        {
+          "label": "Creativity",
+          "value": "65%",
+          "bar": 0.65
+        },
+        {
+          "label": "Deadlines",
+          "value": "2 min",
+          "bar": 0.3
+        }
+      ],
+      "character": "Elena is a vibrant Lemon woman with bright yellow textured peel skin, wearing an oversized paint-splattered denim jacket and round silver glasses. On her forehead glows her digital badge.",
+      "visual": "Wide shot of a brightly lit modern design studio with exposed brick walls; a Lemon woman stands anxiously at her desk holding a stylus.",
+      "scenes": [
+        "Wide shot of an industrial loft converted into a creative agency with large arched windows and hanging pendant lights.",
+        "Close-up of a digital drawing tablet stylus resting next to a tiny gold coin on a wooden drafting board.",
+        "Medium shot of Elena furiously clicking her mouse while looking at a loading progress bar.",
+        "Detail shot of Julian's designer wristwatch showing exactly 8:32 AM.",
+        "Halbnah shot of Julian pointing an accusing finger at Elena's dual monitor display.",
+        "Close-up of an error dialog box popping up with the text 'File Corrupted - Auto Save Failed'."
+      ],
+      "caption": "When your client demands miracles on three hours of sleep. #design #creative #agency #deadline #animation"
+    },
+    {
+      "n": 5,
+      "open_loop": "Who sent the mysterious calendar invite titled 'Urgent Restructuring Meeting'?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Ignored the elevator hold button right in front of her face."
+      },
+      "name": "David, 35, Senior Architect",
+      "badge": "02 Snoozes",
+      "verdict": "ON SCHEDULE",
+      "story": "The 8 levels of hitting snooze 7 times. Level 5. Level 5: Two snoozes and my blueprints are rolled tighter than my nerves at 8:45 AM. My forehead badge shines a bright blue as I step out onto the steel balcony of the high-rise construction site. The morning air smells like damp concrete, welding sparks, and cold black coffee. \"Your structural calculations for the North Wing are off by two inches, David! Fix it before the inspector arrives.\" I swallow hard, sliding a tiny gold coin beneath a heavy stack of architectural blueprints. My phone lights up with an urgent email from the city planning commission. Then he said this one sentence that made me question my entire career. You'll see that in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "-1 Snooze",
+        "after": "01 Snooze"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of hitting snooze 7 times. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: Two snoozes and my blueprints are rolled tighter than my nerves at 8:45 AM."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead badge shines a bright blue as I step out onto the steel balcony of the high-rise construction site."
+        },
+        {
+          "s": "Figur",
+          "t": "The morning air smells like damp concrete, welding sparks, and cold black coffee."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "\"Your structural calculations for the North Wing are off by two inches, David! Fix it before the inspector arrives.\"",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I swallow hard, sliding a tiny gold coin beneath a heavy stack of architectural blueprints."
+        },
+        {
+          "s": "Figur",
+          "t": "My phone lights up with an urgent email from the city planning commission."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then he said this one sentence that made me question my entire career."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Your structural calculations for the North Wing are off by two inches, David! Fix it before the inspector arrives.",
+      "quote_by": {
+        "level": 7,
+        "name": "Hassan",
+        "badge": "120.000 $",
+        "character": "A tough, weathered Coconut man with a hard brown textured shell, wearing a heavy-duty yellow safety vest and tool belt.",
+        "scene": "Wide shot on an unfinished skyscraper balcony; Hassan looms over a drafting table, pointing firmly at a blueprint."
+      },
+      "stats": [
+        {
+          "label": "Snoozes",
+          "value": "02",
+          "bar": 0.7
+        },
+        {
+          "label": "Precision",
+          "value": "91%",
+          "bar": 0.85
+        },
+        {
+          "label": "Safety",
+          "value": "99%",
+          "bar": 0.95
+        }
+      ],
+      "character": "David is a sturdy Avocado man with smooth dark green skin and a large brown pit pattern on his chest, wearing a beige trench coat and steel-toed boots. On his forehead glows his digital badge.",
+      "visual": "Wide shot of a high-rise building under construction with steel beams and scaffolding; an Avocado man in a trench coat reviews blueprints in the morning sun.",
+      "scenes": [
+        "Wide shot of a towering skyscraper under construction overlooking the skyline at 8:45 AM with misty morning fog.",
+        "Close-up of rolled paper blueprints secured with a heavy steel scale ruler and a tiny gold coin.",
+        "Medium shot of David checking measurements with a laser distance meter on the windy balcony.",
+        "Detail shot of Hassan's heavy leather work boots stepping onto a metal grating.",
+        "Halbnah shot of Hassan gesturing angrily toward the unfinished concrete pillar structure.",
+        "Close-up of a smartphone screen displaying a red notification banner from the City Inspection Board."
+      ],
+      "caption": "Architecture deadlines wait for no one, not even with two snoozes. #architecture #construction #engineer #work #animation"
+    },
+    {
+      "n": 6,
+      "open_loop": "What was inside the locked briefcase left on the executive boardroom table?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Booked the entire private boardroom, canceling her scheduled project review."
+      },
+      "name": "Maya, 33, Senior Project Director",
+      "badge": "01 Snooze",
+      "verdict": "EARLY BIRD",
+      "story": "The 8 levels of hitting snooze 7 times. Level 6. Level 6: Only one snooze pressed, and I'm already holding the board meeting together at 9:00 AM sharp. My forehead badge glows a brilliant turquoise as I stand before the executive mahogany table in the glass penthouse tower. The room smells like imported eucalyptus and high-stakes negotiation. \"Your division is underperforming by four percent, Maya. Explain yourself before I cut your budget.\" I stand tall, resting my hand right over a tiny gold coin embedded in the polished walnut podium. My tablet screen suddenly goes black, and the room falls dead silent. Then she said this one sentence that completely changed the stakes of the entire morning. You'll see that in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "-1 Snooze",
+        "after": "00 Snooze"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of hitting snooze 7 times. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: Only one snooze pressed, and I'm already holding the board meeting together at 9:00 AM sharp."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead badge glows a brilliant turquoise as I stand before the executive mahogany table in the glass penthouse tower."
+        },
+        {
+          "s": "Figur",
+          "t": "The room smells like imported eucalyptus and high-stakes negotiation."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "\"Your division is underperforming by four percent, Maya. Explain yourself before I cut your budget.\"",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I stand tall, resting my hand right over a tiny gold coin embedded in the polished walnut podium."
+        },
+        {
+          "s": "Figur",
+          "t": "My tablet screen suddenly goes black, and the room falls dead silent."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then she said this one sentence that completely changed the stakes of the entire morning."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "Your division is underperforming by four percent, Maya. Explain yourself before I cut your budget.",
+      "quote_by": {
+        "level": 8,
+        "name": "Celeste",
+        "badge": "250.000 $",
+        "character": "An impossibly glamorous Drachenfrucht woman with bright magenta skin, green-tipped scales, and a tailored crimson suit.",
+        "scene": "Medium shot inside a lavish glass penthouse boardroom; Celeste stands regally at the head of the table, tapping her glowing six-figure badge."
+      },
+      "stats": [
+        {
+          "label": "Snoozes",
+          "value": "01",
+          "bar": 0.85
+        },
+        {
+          "label": "Authority",
+          "value": "88%",
+          "bar": 0.9
+        },
+        {
+          "label": "Revenue",
+          "value": "1.2M",
+          "bar": 0.92
+        }
+      ],
+      "character": "Maya is a sleek Blueberry woman with deep indigo skin and smooth round features, wearing a tailored cream blazer and gold hoop earrings. On her forehead glows her digital badge.",
+      "visual": "Wide shot of a luxurious glass penthouse boardroom overlooking the morning city skyline; a Blueberry woman stands confidently at a polished walnut podium.",
+      "scenes": [
+        "Wide shot of a sunlit executive penthouse boardroom with floor-to-ceiling glass windows and white leather chairs.",
+        "Close-up of a sleek digital presentation remote resting next to a tiny gold coin on the walnut podium.",
+        "Medium shot of Maya projecting confidence while looking at a massive curved LED screen.",
+        "Detail shot of Celeste's crimson jacket lapel and diamond-encrusted wristwatch.",
+        "Halbnah shot of Celeste leaning forward across the executive table with a piercing, analytical stare.",
+        "Close-up of Maya's tablet screen suddenly cutting to a blank black display with a flashing warning icon."
+      ],
+      "caption": "When you're the first one in the boardroom and the pressure is already at 100%. #director #executive #boardroom #success #animation"
+    },
+    {
+      "n": 7,
+      "open_loop": "Who unlocked the master vault before the morning trading bell even rang?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Approved the emergency audit that froze all lower-tier accounts."
+      },
+      "name": "Oliver, 42, Managing Partner",
+      "badge": "00 Snoozes",
+      "verdict": "PERFECT START",
+      "story": "The 8 levels of hitting snooze 7 times. Level 7. Level 7: Zero snoozes, zero delays, and the financial markets open in exactly three minutes at 9:12 AM. My forehead badge shines a blinding platinum as I walk across the marble trading floor of the global exchange. The air smells like polished brass, expensive champagne, and absolute power. \"The morning merger is approved, Oliver, but the board wants a complete audit of all seven-snooze accounts.\" I nod, subtly pocketing a tiny gold coin resting on the ticker tape machine. The massive LED stock board flashes green, and every trader stops to watch the numbers shift. Then she said this one sentence that revealed the truth behind the entire morning rush. You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "None",
+        "after": "00 Snooze"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of hitting snooze 7 times. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: Zero snoozes, zero delays, and the financial markets open in exactly three minutes at 9:12 AM."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead badge shines a blinding platinum as I walk across the marble trading floor of the global exchange."
+        },
+        {
+          "s": "Figur",
+          "t": "The air smells like polished brass, expensive champagne, and absolute power."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "\"The morning merger is approved, Oliver, but the board wants a complete audit of all seven-snooze accounts.\"",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I nod, subtly pocketing a tiny gold coin resting on the ticker tape machine."
+        },
+        {
+          "s": "Figur",
+          "t": "The massive LED stock board flashes green, and every trader stops to watch the numbers shift."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then she said this one sentence that revealed the truth behind the entire morning rush."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "The morning merger is approved, Oliver, but the board wants a complete audit of all seven-snooze accounts.",
+      "quote_by": {
+        "level": 8,
+        "name": "Celeste",
+        "badge": "250.000 $",
+        "character": "An impossibly glamorous Drachenfrucht woman with bright magenta skin, green-tipped scales, and a tailored crimson suit.",
+        "scene": "Medium shot on the grand balcony of the stock exchange; Celeste stands beside the trading desk, speaking with absolute authority."
+      },
+      "stats": [
+        {
+          "label": "Snoozes",
+          "value": "00",
+          "bar": 1.0
+        },
+        {
+          "label": "Portfolio",
+          "value": "18.4M",
+          "bar": 0.98
+        },
+        {
+          "label": "Control",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "Oliver is a sharp Pineapple man with a textured spiky golden crown of leaves, wearing a bespoke charcoal three-piece suit and a platinum wristwatch. On his forehead glows his digital badge.",
+      "visual": "Wide shot of a grand stock exchange trading floor with massive glowing digital ticker boards; a Pineapple man in a tailored suit walks with absolute confidence.",
+      "scenes": [
+        "Wide shot of a neoclassical stock exchange hall with massive marble pillars and glowing electronic stock tickers.",
+        "Close-up of a vintage brass ticker tape machine dispensing paper tape alongside a tiny gold coin.",
+        "Medium shot of Oliver adjusting his platinum cufflinks while reviewing market graphs on a tablet.",
+        "Detail shot of Celeste's diamond ring tapping against the glass balcony railing.",
+        "Halbnah shot of Celeste speaking calmly to Oliver with the bustling trading floor far below them.",
+        "Close-up of the central stock exchange clock ticking precisely to 9:15 AM as green numbers surge."
+      ],
+      "caption": "When you wake up before the alarm even rings and run the entire market. #finance #stocks #success #wallstreet #animation"
+    },
+    {
+      "n": 8,
+      "open_loop": "What happens when the person at the very top decides to hit snooze just one last time?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Hit the snooze button one final time, causing the entire city system reboot."
+      },
+      "name": "Celeste, 45, Founder & CEO",
+      "badge": "MAX LEVEL",
+      "verdict": "THE ARCHITECT",
+      "story": "The 8 levels of hitting snooze 7 times. Level 8. Level 8: Seven snoozes pressed, and I was the one who programmed every single alarm in this city. My forehead badge glows with an infinite gold symbol as I stand on the private roof terrace overlooking the entire skyline at 9:30 AM. The air smells like fresh morning rain and absolute victory. Ben, the tired janitor from Level 1, looks up from the rainy alley below as his phone finally stops ringing. \"The number on your forehead never lies,\" I whisper, holding the master control remote that links every single snooze button in the metropolis. I toss a tiny gold coin over the glass railing, watching it spin down through the clouds. The entire city digital display flickers and resets to zero in perfect synchronization. What happens when the person at the very top decides to hit snooze just one last time?",
+      "gender": "w",
+      "twist": {
+        "delta": "RESET",
+        "after": "07 Snooze"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of hitting snooze 7 times. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: Seven snoozes pressed, and I was the one who programmed every single alarm in this city."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead badge glows with an infinite gold symbol as I stand on the private roof terrace overlooking the entire skyline at 9:30 AM."
+        },
+        {
+          "s": "Figur",
+          "t": "The air smells like fresh morning rain and absolute victory."
+        },
+        {
+          "s": "Figur",
+          "t": "Ben, the tired janitor from Level 1, looks up from the rainy alley below as his phone finally stops ringing."
+        },
+        {
+          "s": "Figur",
+          "t": "\"The number on your forehead never lies,\" I whisper, holding the master control remote that links every single snooze button in the metropolis."
+        },
+        {
+          "s": "Figur",
+          "t": "I toss a tiny gold coin over the glass railing, watching it spin down through the clouds."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The entire city digital display flickers and resets to zero in perfect synchronization. What happens when the person at the very top decides to hit snooze just one last time?"
+        }
+      ],
+      "quote": "The number on your forehead never lies.",
+      "quote_by": {
+        "level": 1,
+        "name": "Ben",
+        "badge": "07 Snoozes",
+        "character": "A tired Broccoli man with curly dark green floret hair, wearing a stained gray hoodie.",
+        "scene": "Wide shot of a rainy city alley; Ben looks up from his smartphone toward the towering penthouse roof."
+      },
+      "stats": [
+        {
+          "label": "Snoozes",
+          "value": "MAX",
+          "bar": 1.0
+        },
+        {
+          "label": "Control",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Empire",
+          "value": "INFINITE",
+          "bar": 1.0
+        }
+      ],
+      "character": "Celeste is an impossibly glamorous Drachenfrucht woman with bright magenta skin, green-tipped scales, wearing an immaculate crimson silk suit and diamond earrings. On her forehead glows the infinite badge.",
+      "visual": "Wide shot from a luxury penthouse roof terrace at sunrise overlooking the entire neon fruit-and-veg city; a Drachenfrucht woman in a crimson suit holds a master remote control.",
+      "scenes": [
+        "Wide shot of a luxury penthouse roof terrace with infinity pool and panoramic views of the glowing city below at 9:30 AM.",
+        "Close-up of a high-tech master control remote with glowing gold buttons and a tiny gold coin resting on its surface.",
+        "Medium shot of Celeste looking down over the glass railing with a knowing, powerful smile.",
+        "Detail shot of Ben looking up from the rainy alleyway in Level 1 as his phone screen goes dark.",
+        "Halbnah shot of Celeste pressing the master reset button on her remote as the city lights flicker.",
+        "Wide shot of the entire metropolitan skyline as every digital forehead badge across all 8 levels flashes and resets simultaneously."
+      ],
+      "caption": "What happens when the person at the very top hits snooze? Which theme should we do next? Let us know in the comments! #boss #twist #ending #animation #viral"
+    }
+  ],
+  "lang": "en",
+  "topic": "The Level of Hitting 'Snooze' Seven Times on a Monday Morning",
+  "frame": "frucht"
+}

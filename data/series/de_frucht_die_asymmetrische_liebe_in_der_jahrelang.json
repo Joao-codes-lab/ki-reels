@@ -1,0 +1,747 @@
+{
+  "title": "Die 8 Level der Situationship",
+  "house": "A bustling metropolis populated by anthropomorphic fruit and vegetable people, featuring towering neon skyscrapers, misty rain-slicked asphalt streets, crowded subway platforms, and quiet corner cafes where golden coins subtly hide in every background.",
+  "catchphrase": "Die Stirn-Lüge bricht uns alle.",
+  "links": [
+    "Barista in Level 2 mentions a generous man in a tailored suit who always tips in gold coins.",
+    "The broken bench at the central bus stop appears in Level 1 and Level 6.",
+    "A glowing red neon sign for 'Juice & Joy' flickers in the background of Level 4 and Level 7."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Warum ignorierte er ihre zwölfte Sprachnachricht, obwohl seine Stirn 85 Prozent Treue anzeigte?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Lacht sie im Café aus, weil sie seit vier Jahren auf einen Heiratsantrag wartet.",
+        "name": "Ben, 29, Designer"
+      },
+      "name": "Mia, 24, Studentin",
+      "badge": "12 % Treue",
+      "verdict": "CHRONISCH GEFRIERT",
+      "story": "Die 8 Level der Situationship. Level 1. 2.000 Euro für einen Kuss, während meine Stirn mir sagt, dass ich nur 12 Prozent wert bin? Ich bin Mia, 24, studiere Germanistik und verbringe jeden Freitagabend in seiner muffigen WG-Küche. Während er schweigend an seinem Laptop tippt, starre ich auf das kalte Leuchten seiner Stirnzahl, die mir sagt, dass ich nur seine Notlösung bin. Als ich nach vier Jahren fragte, ob wir jemals eine echte Beziehung haben werden, lachte er nur kurz auf. Du suchst wohl wieder Drama, Mia. Ich schluckte den Kloß im Hals herunter und wusste genau, dass ich morgen wieder hier sein würde, egal wie oft meine eigene Stirn mich vor ihm warnt. Warum ertrage ich diesen ständigen Schmerz eigentlich jede Woche aufs Neue? Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+3 %",
+        "after": "15 %"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Situationship. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "2.000 Euro für einen Kuss, während meine Stirn mir sagt, dass ich nur 12 Prozent wert bin?"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Mia, 24, studiere Germanistik und verbringe jeden Freitagabend in seiner muffigen WG-Küche."
+        },
+        {
+          "s": "Figur",
+          "t": "Während er schweigend an seinem Laptop tippt, starre ich auf das kalte Leuchten seiner Stirnzahl, die mir sagt, dass ich nur seine Notlösung bin."
+        },
+        {
+          "s": "Figur",
+          "t": "Als ich nach vier Jahren fragte, ob wir jemals eine echte Beziehung haben werden, lachte er nur kurz auf."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du suchst wohl wieder Drama, Mia.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schluckte den Kloß im Hals herunter und wusste genau, dass ich morgen wieder hier sein würde, egal wie oft meine eigene Stirn mich vor ihm warnt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Warum ertrage ich diesen ständigen Schmerz eigentlich jede Woche aufs Neue?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Du suchst wohl wieder Drama, Mia.",
+      "quote_by": {
+        "level": 4,
+        "name": "Ben, 29, Designer",
+        "badge": "64 % Treue",
+        "character": "An arrogant avocado person with smooth, green leather jacket, dark sunglasses pushed up on his forehead, and a glowing digital ticker showing high but fickle commitment numbers.",
+        "scene": "Wide shot of a moody, neon-lit student apartment kitchen with dirty dishes piled up. Ben leans back against the counter, smirking condescendingly at Mia while pointing a finger at his own glowing forehead."
+      },
+      "stats": [
+        {
+          "label": "Treue",
+          "value": "12 %",
+          "bar": 0.12
+        },
+        {
+          "label": "Geduld",
+          "value": "90 %",
+          "bar": 0.9
+        },
+        {
+          "label": "Tränen",
+          "value": "1,4 l",
+          "bar": 0.7
+        }
+      ],
+      "character": "A fragile strawberry person with pink textured skin, seed freckles, oversized vintage woolen sweater, and a glowing digital number on her forehead.",
+      "visual": "Wide shot of a gloomy, rain-streaked student apartment kitchen at night, soft yellow bulb hanging from the ceiling, a tiny golden coin resting on the edge of the kitchen sink.",
+      "scenes": [
+        "Medium shot in a cramped student kitchen at night, steady cold yellow light, dirty coffee mugs and a hidden golden coin glittering near the faucet.",
+        "Close-up on Mia's strawberry forehead showing the glowing digits 12 %, raindrops hitting the glass outside.",
+        "Low-angle shot of a brooding carrot man typing on a laptop, ignoring the sad strawberry person standing beside him.",
+        "Wide shot of a foggy Berlin street corner at midnight, streetlamps casting long shadows on wet pavement.",
+        "Detail shot of a smartphone screen displaying an unread message bubble with three dots.",
+        "Close-up of Mia's tear-filled eyes reflecting the harsh blue light of a neon sign across the street."
+      ],
+      "caption": "Wer kennt diesen Schmerz, wenn man mehr gibt als man bekommt? #situationship #beziehung #liebe #drama #level1"
+    },
+    {
+      "n": 2,
+      "open_loop": "Was verbarg sich in dem Umschlag, den er ihr vor aller Augen zusteckte?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Kürzt ihre Arbeitsstunden im Café, weil sie abgelenkt weint.",
+        "name": "Helena, 31, Café-Besitzerin"
+      },
+      "name": "Leo, 26, Barista",
+      "badge": "28 % Nähe",
+      "verdict": "NUR BEKANNT",
+      "story": "Die 8 Level der Situationship. Level 2. 28 Prozent Nähe und er blockiert mich, nachdem ich seine dreckige Wäsche gewaschen habe. Ich bin Leo, 26, arbeite als Barista in einer überfüllten Eckkneipe und trinke heimlich zu viel Espresso, um seine kalten Antworten zu vergessen. Gestern stand er plötzlich vor meiner Kaffeebar, im teuren Kaschmirpullover, und bestellte einen doppelten Espresso, ohne mich auch nur einmal anzusehen. Als ich ihm zitternd die Tasse reichte, flüsterte er mir zu, dass wir am Wochenende vielleicht etwas unternehmen könnten, wenn er Zeit findet. Wenn ich Zeit finde, vielleicht. Eine versteckte goldene Münze lag auf dem Unterteller, aber sein Blick war leer. Warum tut er so, als wären wir Fremde, sobald seine Freunde auftauchen? Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "-5 %",
+        "after": "23 %"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Situationship. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "28 Prozent Nähe und er blockiert mich, nachdem ich seine dreckige Wäsche gewaschen habe."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Leo, 26, arbeite als Barista in einer überfüllten Eckkneipe und trinke heimlich zu viel Espresso, um seine kalten Antworten zu vergessen."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern stand er plötzlich vor meiner Kaffeebar, im teuren Kaschmirpullover, und bestellte einen doppelten Espresso, ohne mich auch nur einmal anzusehen."
+        },
+        {
+          "s": "Figur",
+          "t": "Als ich ihm zitternd die Tasse reichte, flüsterte er mir zu, dass wir am Wochenende vielleicht etwas unternehmen könnten, wenn er Zeit findet."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wenn ich Zeit finde, vielleicht.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Eine versteckte goldene Münze lag auf dem Unterteller, aber sein Blick war leer."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Warum tut er so, als wären wir Fremde, sobald seine Freunde auftauchen?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Wenn ich Zeit finde, vielleicht.",
+      "quote_by": {
+        "level": 6,
+        "name": "Helena, 31, Café-Besitzerin",
+        "badge": "79 % Macht",
+        "character": "A severe lemon person with bright yellow textured skin, sharp spectacles, tailored black blazer, and a glowing digital badge indicating high authority.",
+        "scene": "Medium shot inside a bustling, warm-lit cafe. Helena stands behind the counter, staring coldly at the barista while tapping her clipboard."
+      },
+      "stats": [
+        {
+          "label": "Nähe",
+          "value": "28 %",
+          "bar": 0.28
+        },
+        {
+          "label": "Koffein",
+          "value": "4 Tassen",
+          "bar": 0.8
+        },
+        {
+          "label": "Hoffnung",
+          "value": "45 %",
+          "bar": 0.45
+        }
+      ],
+      "character": "A zesty orange person with textured citrus skin, messy green leaf hair, wearing a white barista apron stained with coffee, and digital numbers on his forehead.",
+      "visual": "Medium shot inside a warm, steamy coffee shop counter with brass espresso machines, soft morning sunlight piercing through frosted glass.",
+      "scenes": [
+        "Medium shot inside a bustling hipster cafe, morning steam rising from espresso cups, a tiny golden coin rests near the cash register.",
+        "Close-up on Leo's orange citrus forehead glowing with the digits 28 %.",
+        "Over-the-shoulder shot of a sleek broccoli man in a designer coat turning his back and walking out the glass door.",
+        "Wide shot of a rainy tram stop outside the cafe, people holding black umbrellas.",
+        "Detail shot of a white porcelain saucer with a single gold coin next to a half-empty espresso cup.",
+        "Close-up of Leo's hands trembling while wiping down the stainless steel counter."
+      ],
+      "caption": "Wenn die Hoffnung stirbt, bleibt nur noch Kaffee. #situationship #barista #liebeskummer #level2"
+    },
+    {
+      "n": 3,
+      "open_loop": "Wer hat die anonyme SMS geschickt, die das Treffen im Park abrupt beendete?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Beschuldigt ihn der Lieblosigkeit, während er arbeitet.",
+        "name": "Mia, 24, Studentin"
+      },
+      "name": "Max, 29, Grafiker",
+      "badge": "41 % Klarheit",
+      "verdict": "IM NEBEL",
+      "story": "Die 8 Level der Situationship. Level 3. Wer hat ihr mein geheimes Skizzenbuch geschickt, bevor sie mich auf offener Straße verließ? Ich bin Max, 29, freiberuflicher Grafiker und verliere langsam den Verstand zwischen ihren widersprüchlichen Signalen. Gestern noch schickte sie mir Herzen, heute tut sie so, als würden wir uns kaum kennen. Als sie schließlich das Treppenhaus betrat, schaute sie mich an wie einen lästigen Bittsteller und fragte, was ich hier eigentlich schon wieder wolle. Du nervst langsam mit deiner Eifersucht. Eine goldene Münze lag glänzend auf der Treppenstufe zu ihren Füßen, aber sie trat achtlos darauf. Warum spielt sie dieses grausame Spiel mit meinen Gefühlen? Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+10 %",
+        "after": "51 %"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Situationship. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Wer hat ihr mein geheimes Skizzenbuch geschickt, bevor sie mich auf offener Straße verließ?"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Max, 29, freiberuflicher Grafiker und verliere langsam den Verstand zwischen ihren widersprüchlichen Signalen."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern noch schickte sie mir Herzen, heute tut sie so, als würden wir uns kaum kennen."
+        },
+        {
+          "s": "Figur",
+          "t": "Als sie schließlich das Treppenhaus betrat, schaute sie mich an wie einen lästigen Bittsteller und fragte, was ich hier eigentlich schon wieder wolle."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du nervst langsam mit deiner Eifersucht.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Eine goldene Münze lag glänzend auf der Treppenstufe zu ihren Füßen, aber sie trat achtlos darauf."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Warum spielt sie dieses grausame Spiel mit meinen Gefühlen?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Du nervst langsam mit deiner Eifersucht.",
+      "quote_by": {
+        "level": 1,
+        "name": "Mia, 24, Studentin",
+        "badge": "12 % Treue",
+        "character": "A fragile strawberry person with pink textured skin, seed freckles, oversized vintage woolen sweater, and glowing digital numbers on her forehead.",
+        "scene": "Close-up on a dimly lit apartment hallway stairs. Mia stands looking down coldly, arms crossed, speaking down to Max."
+      },
+      "stats": [
+        {
+          "label": "Klarheit",
+          "value": "41 %",
+          "bar": 0.41
+        },
+        {
+          "label": "Geduld",
+          "value": "30 %",
+          "bar": 0.3
+        },
+        {
+          "label": "Zweifel",
+          "value": "89 %",
+          "bar": 0.89
+        }
+      ],
+      "character": "An artistic avocado person with smooth green skin, dark messy hair, wearing a paint-splattered denim jacket, with a glowing digital display on his forehead.",
+      "visual": "Wide shot of a gloomy, rain-slicked suburban apartment entrance at night, flickering streetlamp casting harsh yellow light on wet pavement.",
+      "scenes": [
+        "Wide shot of a dark apartment entrance hall at night, cold blue moonlight mixing with yellow hallway bulbs, a tiny golden coin on the bottom step.",
+        "Close-up of Max's avocado forehead showing glowing digits 41 %.",
+        "Medium shot of a stern dragonfruit woman standing on the landing, looking down with folded arms.",
+        "Detail shot of wet cobblestones reflecting a passing red taillight.",
+        "Close-up of a smartphone screen showing a missed call notification at 2:14 AM.",
+        "Wide shot of a lonely Berlin street corner, empty benches and misty air."
+      ],
+      "caption": "Wer kennt diesen Moment, wenn man einfach nur Klarheit will? #situationship #liebe #beziehungsstatus #level3"
+    },
+    {
+      "n": 4,
+      "open_loop": "Was stand in dem roten Notizbuch, das sie sofort vor ihm versteckte?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Nennt ihre gemeinsame Zeit öffentlich nur eine ‚unwichtige Affäre‘.",
+        "name": "Paul, 34, Architekt"
+      },
+      "name": "Sophie, 27, Fotografin",
+      "badge": "53 % Sicherheit",
+      "verdict": "AUF ABRUF",
+      "story": "Die 8 Level der Situationship. Level 4. Er nannte mich vor seinen reichen Freunden eine billige Bettgeschichte, während ich im Flur meine Koffer packte. Ich bin Sophie, 27, freiberufliche Fotografin und habe mein halbes Leben in seinem Loft verbracht, ohne auch nur eine Zahnbürste da lassen zu dürfen. Gestern kam er betrunken nach Hause, warf seinen Autoschlüssel auf den Tisch und musterte mich kühl. Warum klammerst du dich so an mich, wir haben doch nie feste Regeln vereinbart. Eine goldene Münze lag versteckt unter seinem Designer-Aschenbecher, während meine Tränen auf meine Kameraausrüstung fielen. Wie lange kann ein Mensch in dieser emotionalen Warteschleife überleben? Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "-12 %",
+        "after": "41 %"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Situationship. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Er nannte mich vor seinen reichen Freunden eine billige Bettgeschichte, während ich im Flur meine Koffer packte."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Sophie, 27, freiberufliche Fotografin und habe mein halbes Leben in seinem Loft verbracht, ohne auch nur eine Zahnbürste da lassen zu dürfen."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern kam er betrunken nach Hause, warf seinen Autoschlüssel auf den Tisch und musterte mich kühl."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Warum klammerst du dich so an mich, wir haben doch nie feste Regeln vereinbart.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Eine goldene Münze lag versteckt unter seinem Designer-Aschenbecher, während meine Tränen auf meine Kameraausrüstung fielen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wie lange kann ein Mensch in dieser emotionalen Warteschleife überleben?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Warum klammerst du dich so an mich, wir haben doch nie feste Regeln vereinbart.",
+      "quote_by": {
+        "level": 7,
+        "name": "Paul, 34, Architekt",
+        "badge": "88 % Kontrolle",
+        "character": "A sleek coconut person with hard brown textured shell, tailored grey wool suit, silver wristwatch, and a glowing digital ticker showing high power.",
+        "scene": "Medium shot inside a minimalist luxury penthouse loft with floor-to-ceiling windows. Paul stands by the bar, swirling whiskey in a tumbler while dismissing Sophie."
+      },
+      "stats": [
+        {
+          "label": "Sicherheit",
+          "value": "53 %",
+          "bar": 0.53
+        },
+        {
+          "label": "Wohnen",
+          "value": "0 %",
+          "bar": 0.0
+        },
+        {
+          "label": "Tränen",
+          "value": "2,1 l",
+          "bar": 0.75
+        }
+      ],
+      "character": "A creative coconut person with a hard brown shell partially wrapped in a warm knitted scarf, dark expressive eyes, and digital numbers on her forehead.",
+      "visual": "Wide shot of a luxurious minimalist loft apartment at dusk, city lights twinkling through huge glass windows, a tiny golden coin on the designer coffee table.",
+      "scenes": [
+        "Wide shot of a luxurious minimalist penthouse loft at dusk, cold blue interior light, city lights glittering outside, a hidden golden coin on a glass table.",
+        "Close-up of Sophie's coconut forehead showing glowing digits 53 %.",
+        "Medium shot of a stern coconut man in a sharp grey suit holding a crystal whiskey glass.",
+        "Detail shot of a professional camera lens resting on a wooden floor next to scattered polaroids.",
+        "Wide shot of an empty rooftop terrace overlooking the rainy Berlin skyline.",
+        "Close-up of a silver keychain sliding across a polished marble kitchen counter."
+      ],
+      "caption": "Wer kennt das Gefühl, nur eine Option zu sein? #situationship #liebe #loft #level4"
+    },
+    {
+      "n": 5,
+      "open_loop": "Wem gehörte der zweite Schlüsselbund, den sie in seiner Jackentasche fand?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Ignoriert seine verpassten Anrufe im stressigen Arbeitsalltag.",
+        "name": "Leo, 26, Barista"
+      },
+      "name": "Jonas, 31, Musiker",
+      "badge": "62 % Bindung",
+      "verdict": "AUF ABSTAND",
+      "story": "Die 8 Level der Situationship. Level 5. Sie betrügt mich mit dem Typen aus Level 7 und lacht mir dabei ins Gesicht. Ich bin Jonas, 31, Berufsmusiker und verbringe meine Nächte damit, Liebeslieder für eine Frau zu schreiben, die meine Nachrichten tagelang auf ‚Gelesen‘ lässt. Gestern traf ich sie zufällig vor dem Club, Arm in Arm mit einem anderen Mann, der eine deutlich höhere Stirnzahl trug als ich. Als ich sie zur Rede stellte, zuckte sie nur gleichgültig mit den Schultern und meinte, wir wären schließlich frei. Du übertreibst mal wieder maßlos, Jonas. Eine goldene Münze glitzerte zwischen unseren Füßen im Dreck, während mein Herz zerbrach. Wie oft kann man verzeihen, bevor die Liebe ganz stirbt? Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "-8 %",
+        "after": "54 %"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Situationship. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie betrügt mich mit dem Typen aus Level 7 und lacht mir dabei ins Gesicht."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Jonas, 31, Berufsmusiker und verbringe meine Nächte damit, Liebeslieder für eine Frau zu schreiben, die meine Nachrichten tagelang auf ‚Gelesen‘ lässt."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern traf ich sie zufällig vor dem Club, Arm in Arm mit einem anderen Mann, der eine deutlich höhere Stirnzahl trug als ich."
+        },
+        {
+          "s": "Figur",
+          "t": "Als ich sie zur Rede stellte, zuckte sie nur gleichgültig mit den Schultern und meinte, wir wären schließlich frei."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du übertreibst mal wieder maßlos, Jonas.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Eine goldene Münze glitzerte zwischen unseren Füßen im Dreck, während mein Herz zerbrach."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wie oft kann man verzeihen, bevor die Liebe ganz stirbt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Du übertreibst mal wieder maßlos, Jonas.",
+      "quote_by": {
+        "level": 2,
+        "name": "Leo, 26, Barista",
+        "badge": "28 % Nähe",
+        "character": "A zesty orange person with citrus skin, messy green leaves, wearing a stained white barista apron, and digital numbers on his forehead.",
+        "scene": "Medium shot outside a dimly lit night club entrance with neon neon signs reflecting in puddles. Leo stands defensively with arms crossed."
+      },
+      "stats": [
+        {
+          "label": "Bindung",
+          "value": "62 %",
+          "bar": 0.62
+        },
+        {
+          "label": "Songs",
+          "value": "48",
+          "bar": 0.9
+        },
+        {
+          "label": "Schmerz",
+          "value": "95 %",
+          "bar": 0.95
+        }
+      ],
+      "character": "A brooding eggplant person with smooth deep purple skin, stylish beanie hat, battered acoustic guitar strapped to his back, and glowing digital numbers on his forehead.",
+      "visual": "Wide shot of a dark, moody music rehearsal studio filled with amplifiers, cable cords, and a tiny golden coin resting on top of a speaker.",
+      "scenes": [
+        "Wide shot of a dark music rehearsal studio at night, amplifier hum, cable wires tangled on the floor, a tiny golden coin resting on an old guitar amp.",
+        "Close-up of Jonas's eggplant forehead showing glowing digits 62 %.",
+        "Medium shot of an orange fruit person standing outside a neon-lit club entrance, looking away coldly.",
+        "Detail shot of guitar strings vibrating under heavy fingers in a dimly lit room.",
+        "Wide shot of a rainy alleyway behind a popular downtown bar, reflections in puddles.",
+        "Close-up of a cracked smartphone screen displaying an unanswered text thread."
+      ],
+      "caption": "Wenn die Musik leiser wird und der Schmerz bleibt. #situationship #musik #liebeskummer #level5"
+    },
+    {
+      "n": 6,
+      "open_loop": "Was stand auf dem zerknüllten Zettel, den sie in den Papierkorb warf?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Nennt seine Kunstwerke wertlos und wirft sie aus dem Fenster.",
+        "name": "Max, 29, Grafiker"
+      },
+      "name": "Clara, 33, Architektin",
+      "badge": "74 % Status",
+      "verdict": "GEKAUFT",
+      "story": "Die 8 Level der Situationship. Level 6. Sie warf meine Entwürfe weg und nannte mich einen nutzlosen Versager. Ich bin Clara, 33, erfolgreiche Architektin und habe gelernt, dass man sich im Leben alles kaufen kann, außer echten Respekt. Gestern kam mein Partner nach Hause, warf seine Aktentasche in die Ecke und erklärte mir kalt, dass unsere Beziehung für ihn nur eine praktische Zweckgemeinschaft sei. Als ich ihn bat, endlich ehrlich zu sein, lachte er nur müde über meine Gefühle. Du bildest dir mal wieder viel zu viel ein, Clara. Eine goldene Münze lag unscheinbar auf dem teuren Marmorboden, aber der Glanz war längst verblasst. Wie viel ist Erfolg wert, wenn niemand da ist, der dich liebt? Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+5 %",
+        "after": "79 %"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Situationship. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie warf meine Entwürfe weg und nannte mich einen nutzlosen Versager."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Clara, 33, erfolgreiche Architektin und habe gelernt, dass man sich im Leben alles kaufen kann, außer echten Respekt."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern kam mein Partner nach Hause, warf seine Aktentasche in die Ecke und erklärte mir kalt, dass unsere Beziehung für ihn nur eine praktische Zweckgemeinschaft sei."
+        },
+        {
+          "s": "Figur",
+          "t": "Als ich ihn bat, endlich ehrlich zu sein, lachte er nur müde über meine Gefühle."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du bildest dir mal wieder viel zu viel ein, Clara.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Eine goldene Münze lag unscheinbar auf dem teuren Marmorboden, aber der Glanz war längst verblasst."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wie viel ist Erfolg wert, wenn niemand da ist, der dich liebt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Du bildest dir mal wieder viel zu viel ein, Clara.",
+      "quote_by": {
+        "level": 3,
+        "name": "Max, 29, Grafiker",
+        "badge": "41 % Klarheit",
+        "character": "An artistic avocado person with smooth green skin, messy dark hair, wearing a paint-splattered jacket, and digital numbers on his forehead.",
+        "scene": "Medium shot inside a high-end luxury apartment with marble floors. Max stands by the floor-to-ceiling window, looking arrogant and detached."
+      },
+      "stats": [
+        {
+          "label": "Status",
+          "value": "74 %",
+          "bar": 0.74
+        },
+        {
+          "label": "Erfolg",
+          "value": "90 %",
+          "bar": 0.9
+        },
+        {
+          "label": "Wärme",
+          "value": "10 %",
+          "bar": 0.1
+        }
+      ],
+      "character": "A sleek pear person with smooth yellow-green skin, sharp tailored business pantsuit, elegant gold necklace, and glowing digital numbers on her forehead.",
+      "visual": "Wide shot of a luxurious high-rise penthouse living room overlooking a sprawling city skyline at night, ambient warm lighting, a tiny golden coin on the marble coffee table.",
+      "scenes": [
+        "Wide shot of a luxurious high-rise penthouse living room at night, glowing city lights outside the panoramic windows, a tiny golden coin on the marble floor.",
+        "Close-up of Clara's pear forehead showing glowing digits 74 %.",
+        "Medium shot of an artistic avocado man in a paint-splattered jacket turning away dismissively.",
+        "Detail shot of a crystal wine glass sitting half-full on a glass table.",
+        "Wide shot of a silent corporate hallway with polished granite floors and recessed lighting.",
+        "Close-up of Clara's fingers gripping the edge of a sleek glass desk."
+      ],
+      "caption": "Erfolg schützt vor Einsamkeit leider nicht. #situationship #architektur #erfolg #level6"
+    },
+    {
+      "n": 7,
+      "open_loop": "Wer rief kurz vor Mitternacht an und forderte die sofortige Trennung?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Wirft ihm vor, seine Träume wichtiger zu nehmen als die gemeinsame Zeit.",
+        "name": "Jonas, 31, Musiker"
+      },
+      "name": "David, 36, Arzt",
+      "badge": "85 % Macht",
+      "verdict": "UNBERÜHRBAR",
+      "story": "Die 8 Level der Situationship. Level 7. Jetzt steht er vor meiner Tür und bettelt um Einlass, nachdem ich alles erreicht habe. Ich bin David, 36, leitender Arzt in der Notaufnahme und gewohnt, dass sich alle nach mir richten. Gestern jedoch stand sie mit gepackten Koffern im Flur und schaute mich mit absoluter Leere in den Augen an. Deine Karriere ist dir wichtiger als jeder Mensch, der dich liebt. Eine goldene Münze lag einsam auf der Fußmatte vor der offenen Wohnungstür, während das Krankenhaustelefon in meinem Mantel unaufhörlich klingelte. Wie konnte ich so blind sein und alles verlieren, was mir wirklich wichtig war? Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "-30 %",
+        "after": "55 %"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Situationship. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Jetzt steht er vor meiner Tür und bettelt um Einlass, nachdem ich alles erreicht habe."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin David, 36, leitender Arzt in der Notaufnahme und gewohnt, dass sich alle nach mir richten."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern jedoch stand sie mit gepackten Koffern im Flur und schaute mich mit absoluter Leere in den Augen an."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Deine Karriere ist dir wichtiger als jeder Mensch, der dich liebt.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Eine goldene Münze lag einsam auf der Fußmatte vor der offenen Wohnungstür, während das Krankenhaustelefon in meinem Mantel unaufhörlich klingelte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wie konnte ich so blind sein und alles verlieren, was mir wirklich wichtig war?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Deine Karriere ist dir wichtiger als jeder Mensch, der dich liebt.",
+      "quote_by": {
+        "level": 5,
+        "name": "Jonas, 31, Musiker",
+        "badge": "62 % Bindung",
+        "character": "A brooding eggplant person with smooth deep purple skin, stylish beanie hat, battered acoustic guitar strapped to his back, and digital numbers on his forehead.",
+        "scene": "Medium shot in a well-lit medical apartment hallway. Jonas stands firmly by the open door, holding a suitcase and looking sternly at David."
+      },
+      "stats": [
+        {
+          "label": "Macht",
+          "value": "85 %",
+          "bar": 0.85
+        },
+        {
+          "label": "Ego",
+          "value": "95 %",
+          "bar": 0.95
+        },
+        {
+          "label": "Liebe",
+          "value": "5 %",
+          "bar": 0.05
+        }
+      ],
+      "character": "A crisp turnip person with smooth white and purple skin, pristine white doctor's coat over a dark suit, gold stethoscope around his neck, and glowing digital numbers on his forehead.",
+      "visual": "Wide shot of a sterile, modern apartment hallway with gleaming white tile floors, bright LED strip lighting, and a tiny golden coin near the doorway.",
+      "scenes": [
+        "Wide shot of a sterile hospital doctor's office at night, cold fluorescent lights humming softly, a tiny golden coin resting on a stainless steel desk.",
+        "Close-up of David's turnip forehead showing glowing digits 85 %.",
+        "Medium shot of an eggplant musician standing by the open doorway with packed suitcases.",
+        "Detail shot of a glowing digital watch displaying 11:59 PM.",
+        "Wide shot of an empty emergency room hallway with flickering white lights.",
+        "Close-up of a stethoscope lying abandoned on a glass medical trolley."
+      ],
+      "caption": "Wenn Macht den Blick auf das Wesentliche vernebelt. #situationship #medizin #macht #level7"
+    },
+    {
+      "n": 8,
+      "open_loop": "Was passierte, als alle acht Stirn-Zahlen plötzlich auf Null sprangen?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Erkennt, dass kein Geld der Welt eine echte Umarmung ersetzen kann.",
+        "name": "David, 36, Arzt"
+      },
+      "name": "Elena, 40, Philosophin",
+      "badge": "100 % WAHRHEIT",
+      "verdict": "ALLES ODER NICHTS",
+      "story": "Die 8 Level der Situationship. Level 8. Als alle Zahlen auf Null fielen, sahen wir endlich, wer hier die echten Monster waren. Ich bin Elena, 40, Dozentin für Philosophie und habe jahrelang beobachtet, wie ihr alle euer Leben nach einer beleuchteten Ziffer ausgerichtet habt. Gestern versammelten sich alle sieben Figuren aus den vergangenen Leveln an der zentralen U-Haltestelle, jede von ihnen starrte verzweifelt auf ihre eigene Stirn. Als die große Anzeigetafel in der Stadtmitte auf Null sprang, begriffen wir endlich all denselben Satz. Die Zahl lügt nie, aber wir haben vergessen, wer wir ohne sie sind. Hunderte goldene Münzen regneten plötzlich vom Himmel herab, während die digitalen Displays auf unseren Köpfen für immer erloschen. Welches Thema aus dieser Welt sollen wir als Nächstes beleuchten?",
+      "gender": "w",
+      "twist": {
+        "delta": "0 %",
+        "after": "0 %"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Situationship. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Als alle Zahlen auf Null fielen, sahen wir endlich, wer hier die echten Monster waren."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Elena, 40, Dozentin für Philosophie und habe jahrelang beobachtet, wie ihr alle euer Leben nach einer beleuchteten Ziffer ausgerichtet habt."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern versammelten sich alle sieben Figuren aus den vergangenen Leveln an der zentralen U-Haltestelle, jede von ihnen starrte verzweifelt auf ihre eigene Stirn."
+        },
+        {
+          "s": "Figur",
+          "t": "Als die große Anzeigetafel in der Stadtmitte auf Null sprang, begriffen wir endlich all denselben Satz."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die Zahl lügt nie, aber wir haben vergessen, wer wir ohne sie sind.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Hunderte goldene Münzen regneten plötzlich vom Himmel herab, während die digitalen Displays auf unseren Köpfen für immer erloschen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema aus dieser Welt sollen wir als Nächstes beleuchten?"
+        }
+      ],
+      "quote": "Die Zahl lügt nie, aber wir haben vergessen, wer wir ohne sie sind.",
+      "quote_by": {
+        "level": 7,
+        "name": "David, 36, Arzt",
+        "badge": "85 % Macht",
+        "character": "A crisp turnip person with smooth white and purple skin, pristine white doctor's coat over a dark suit, gold stethoscope around his neck, and glowing digital numbers on his forehead.",
+        "scene": "Wide shot of a crowded urban subway plaza at dusk. David stands in the center under a giant flickering digital billboard, speaking directly to the crowd."
+      },
+      "stats": [
+        {
+          "label": "Wahrheit",
+          "value": "100 %",
+          "bar": 1.0
+        },
+        {
+          "label": "Freiheit",
+          "value": "Max",
+          "bar": 1.0
+        },
+        {
+          "label": "Zahlen",
+          "value": "0",
+          "bar": 0.0
+        }
+      ],
+      "character": "A majestic dragonfruit person with vibrant pink and green scaled skin, elegant flowing emerald robes, silver spectacles, and a glowing digital display showing pure clarity on her forehead.",
+      "visual": "Wide cinematic shot of a bustling city plaza at twilight, towering skyscrapers with giant neon billboards, glowing digital numbers fading away across a crowd of fruit people, a shiny golden coin resting on a stone bench.",
+      "scenes": [
+        "Wide cinematic shot of a grand city plaza at dusk, towering neon skyscrapers, crowds of fruit and vegetable people watching a giant central screen, a shiny golden coin resting on a stone bench.",
+        "Close-up of Elena's dragonfruit forehead showing glowing digits 100 % fading to zero.",
+        "Medium shot of all previous characters standing together in a circle, looking up in astonishment as their forehead displays flicker out.",
+        "Detail shot of a giant digital public clock turning all digits to zero simultaneously.",
+        "Wide shot of golden coins raining down from the evening sky onto the wet asphalt streets.",
+        "Close-up of smiling faces reflecting the warm golden light of a brand new dawn without digital numbers."
+      ],
+      "caption": "Was zählt am Ende wirklich im Leben? Schreib es in die Kommentare! #situationship #wahrheit #freiheit #level8"
+    }
+  ],
+  "lang": "de",
+  "topic": "Die asymmetrische Liebe in der jahrelangen Situationship",
+  "frame": "frucht"
+}

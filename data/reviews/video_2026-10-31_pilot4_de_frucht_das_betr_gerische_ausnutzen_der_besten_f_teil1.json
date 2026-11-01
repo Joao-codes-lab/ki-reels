@@ -1,0 +1,16 @@
+{
+  "scores": {
+    "hook": 5,
+    "tempo": 7,
+    "bild": 5,
+    "stimme": 7,
+    "untertitel": 8,
+    "ende": 5
+  },
+  "gesamt": 60,
+  "verbesserungen": [
+    "Logikbruch zwischen Hook und Story beheben: Titel und Hook sprechen von 'bestem Freund als Wingman', die Erzählung handelt jedoch von einer toxischen Freundin Coco im Café.",
+    "Bilder passend zum Storytelling wählen: Statt zufälliger AI-Gemüsefiguren sollten die Visuals zumindest metaphernhaft oder atmosphärisch die Szene (Café, Regen, Rechnungsstreit, Smartphone) unterstützen.",
+    "End-Call-to-Action korrigieren: Die Frage 'Welche Zahl stünde auf deiner Stirn?' passt inhaltlich nicht zur erhaltenen Bank-SMS und wirkt wie ein unpassendes Template-Relikt."
+  ]
+}
