@@ -2,7 +2,7 @@
 
 - URL: https://www.instagram.com/p/DfJ3iu6MrI6/
 - Dauer: 85.5 s, Sprache: de
-- Likes: 1116, Kommentare: 52, Views: 61093
+- Likes: 1434, Kommentare: 63, Views: 87937
 - Datum: 2026-10-31T09:48:37.000Z
 
 ## Beschreibung
@@ -21,7 +21,7 @@ Teil 4!
 [ 16.0s] Warum hat er mich dann angelogen?
 [ 18.0s] Cherry, du bist nicht schuld daran.
 [ 20.0s] Cherry, du verdienst jemanden, der ehrlich zu dir ist.
-[ 23.0s] Du hast recht. Ich muss mit ihm reden.
+[ 23.0s] Du hast recht, ich muss mit ihm reden.
 [ 26.0s] Sag mir die Wahrheit, Limau.
 [ 28.0s] Hast du eine andere geküsst?
 [ 30.0s] Cherry, bitte, lass mich das erklären.
@@ -32,12 +32,12 @@ Teil 4!
 [ 39.0s] Er glaubt wirklich, dass wir Seelenverwandte sind.
 [ 42.0s] Mein Plan hat funktioniert.
 [ 44.0s] Ach, Cherry, ich wollte dich nicht verletzen.
-[ 47.0s] Aber unsere Strähnen sind nun mal gleich.
+[ 47.0s] Aber unsere Strähne sind nun mal gleich.
 [ 49.0s] Und du wusstest, dass er mein Freund ist.
-[ 51.0s] Hey bitte, hört doch auf!
+[ 51.0s] Hey, bitte, hört doch auf!
 [ 52.0s] Es geht nicht um eure Strähnen.
 [ 54.0s] Du hast mich angelogen und sie geküsst.
-[ 56.0s] Ich weiß Cherry, es tut mir wirklich leid.
+[ 56.0s] Ich weiß, Cherry, es tut mir wirklich leid.
 [ 58.0s] Aber unsere Strähnen sind nun mal gleich.
 [ 60.0s] Ich hab dir vertraut, Limau.
 [ 62.0s] Und du hast mich einfach betrogen.
