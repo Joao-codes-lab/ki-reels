@@ -1,0 +1,768 @@
+{
+  "title": "The 8 Levels of Subscription Traps",
+  "house": "Neo-Fruit City, a sprawling metropolis built on endless recurring digital billing, flickering neon billboards, and automated paywalls.",
+  "catchphrase": "The subscription never stops.",
+  "links": [
+    "Barista in Level 2 mentions a blue-skinned blueberry handing out cash at the subway station.",
+    "The golden coin is hidden near the glowing terminal in every single district.",
+    "Level 8's mysterious mastermind owns the main server farm powering all automated withdrawals."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "What was the secret transaction hidden inside the third cancelled streaming service?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Laughs at her empty card balance at the automated turnstile and blocks her way.",
+        "g": "m"
+      },
+      "name": "Pip, 22, Intern",
+      "badge": "42 Active Subs",
+      "verdict": "TRAPPED",
+      "story": "2.000 Euro im Monat für Apps, die du hasst? Wer hat diesen idiotischen Praktikanten überhaupt eingestellt? Vielleicht putzt er gleich die Server-Klos für uns Reiche. The 8 levels of subscription traps. Level 1. Level 1: 42 active streaming, cloud, and gym subscriptions draining every cent right out of my miserable pockets. I am Pip, 22, an exhausted strawberry, staring at my bank app in a freezing subway station while my heart races from pure panic. You can not pass until your monthly fee clears, says the brutal world. I tried to cancel it three times through endless hidden menus and customer service loops! It is not my fault you signed up for the gourmet fruit-basket delivery club. You agreed to the lifetime renewal clause in the tiny print nobody reads. You will see that in Level 2. You'll see that in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-$15.00",
+        "after": "-$10.88"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "2.000 Euro im Monat für Apps, die du hasst? Wer hat diesen idiotischen Praktikanten überhaupt eingestellt? Vielleicht putzt er gleich die Server-Klos für uns Reiche."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of subscription traps. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 42 active streaming, cloud, and gym subscriptions draining every cent right out of my miserable pockets."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Pip, 22, an exhausted strawberry, staring at my bank app in a freezing subway station while my heart races from pure panic."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You can not pass until your monthly fee clears, says the brutal world.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I tried to cancel it three times through endless hidden menus and customer service loops!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "It is not my fault you signed up for the gourmet fruit-basket delivery club.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You agreed to the lifetime renewal clause in the tiny print nobody reads.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You will see that in Level 2."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You agreed to the lifetime renewal clause.",
+      "quote_by": {
+        "level": 4,
+        "name": "Bram, 34, Senior Broker",
+        "badge": "385 Active Subs",
+        "character": "A smug, polished coconut man in a sharp charcoal suit with a hard, smooth shell.",
+        "scene": "Medium shot of Bram leaning against a sleek subway turnstile, smirking down at Pip with his glowing badge."
+      },
+      "stats": [
+        {
+          "label": "Active Subs",
+          "value": "42",
+          "bar": 0.1
+        },
+        {
+          "label": "Bank Balance",
+          "value": "$4.12",
+          "bar": 0.05
+        },
+        {
+          "label": "Cancel Rate",
+          "value": "0%",
+          "bar": 0.0
+        }
+      ],
+      "character": "Pip is a small, worried strawberry-man with bright green leafy hair, wearing a worn-out gray hoodie, carrying a cracked smartphone displaying a glowing red number 42 on his forehead.",
+      "visual": "Wide shot of a damp, graffiti-covered subway station at night with flickering fluorescent lights, a small strawberry man staring in shock at his glowing phone screen, a hidden golden coin resting on a ticket machine.",
+      "scenes": [
+        "Wide shot: A damp, graffiti-covered subway station at night with flickering fluorescent lights, a small strawberry man staring at his phone.",
+        "Medium shot: The stern security guard blocking the turnstile, pointing at a digital screen.",
+        "Detail shot: A cracked smartphone display showing a negative bank balance and forty-two active monthly recurring fees.",
+        "Close-up: Pip's worried face made of textured strawberry skin with beads of sweat.",
+        "Halbnah shot: Other commuter fruits rushing past in the blurry background, ignoring the trapped strawberry.",
+        "Detail shot: A tiny golden coin hidden right on top of the rusty automated ticket dispenser."
+      ],
+      "caption": "How many hidden apps are secretly draining your account right now? Drop your worst subscription trap below! #SubscriptionTrap #FinancialNightmare #MoneyTips #NeoFruitCity #HiddenFees"
+    },
+    {
+      "n": 2,
+      "open_loop": "Who sent the mysterious notification overriding the entire billing system?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Rejects her credit card at the cafe register and throws her loyalty card in the trash.",
+        "g": "w"
+      },
+      "name": "Zoe, 25, Barista",
+      "badge": "12 Active Subs",
+      "verdict": "CAUGHT",
+      "story": "12 Abos und sie weckt dich nicht mal mit einem Kaffee auf? Dieser Zitrone gehört sofort die Kaffeemaschine weggenommen. The 8 levels of subscription traps. Level 2. Level 2: 12 active subscriptions for coffee apps, music streaming, and cloud storage eating up my daily wages. I am Zoe, 25, a zesty yellow lemon woman working behind the espresso machine at Neon Brew Cafe, watching customers bleed money. Can you even afford a cup of tap water with that digital footprint and your pathetic salary? I clench my lemon-scented fists, trying to keep my acidic temper under control while pure social rage boils inside me. People with twelve subscriptions deserve to stay thirsty and broke in this digital wasteland. You will see that in Level 3. You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+$50.00",
+        "after": "15 Active"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "12 Abos und sie weckt dich nicht mal mit einem Kaffee auf? Dieser Zitrone gehört sofort die Kaffeemaschine weggenommen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of subscription traps. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 12 active subscriptions for coffee apps, music streaming, and cloud storage eating up my daily wages."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Zoe, 25, a zesty yellow lemon woman working behind the espresso machine at Neon Brew Cafe, watching customers bleed money."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Can you even afford a cup of tap water with that digital footprint and your pathetic salary?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I clench my lemon-scented fists, trying to keep my acidic temper under control while pure social rage boils inside me."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "People with twelve subscriptions deserve to stay thirsty and broke in this digital wasteland.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You will see that in Level 3."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "People with twelve subscriptions deserve to stay thirsty.",
+      "quote_by": {
+        "level": 5,
+        "name": "Melia, 29, Influencer",
+        "badge": "150 Active Subs",
+        "character": "A creamy, smooth avocado woman wearing oversized sunglasses and a designer silk scarf.",
+        "scene": "Medium shot of Melia standing at the cafe counter, sneering at Zoe while holding a glowing platinum card."
+      },
+      "stats": [
+        {
+          "label": "Active Subs",
+          "value": "12",
+          "bar": 0.25
+        },
+        {
+          "label": "Daily Tips",
+          "value": "$14.50",
+          "bar": 0.2
+        },
+        {
+          "label": "Stress Level",
+          "value": "89%",
+          "bar": 0.9
+        }
+      ],
+      "character": "Zoe is a bright yellow lemon-woman with a textured citrus peel texture, wearing a green apron stained with coffee rings, with a glowing number 12 on her forehead.",
+      "visual": "Wide shot of a trendy, neon-lit cafe interior with steam rising from espresso machines, a lemon woman looking frustrated behind the counter, a golden coin tucked inside the glass tip jar.",
+      "scenes": [
+        "Wide shot: A trendy, neon-lit cafe interior with steam rising from espresso machines and customers chatting.",
+        "Medium shot: Zoe behind the counter wiping down the espresso machine with an exhausted expression.",
+        "Halbnah shot: The arrogant avocado customer slamming her platinum card on the counter.",
+        "Detail shot: The payment terminal flashing 'Declined' in harsh red letters.",
+        "Close-up: Zoe's textured lemon peel skin twitching with irritation.",
+        "Detail shot: A shiny golden coin hidden right beside the glass tip jar."
+      ],
+      "caption": "Ever had your card declined for a subscription you forgot you even had? Tag someone who needs to audit their apps! #CafeLife #LemonWoman #SubscriptionAudit #NeoFruitCity #DailyGrind"
+    },
+    {
+      "n": 3,
+      "open_loop": "Why did the cancellation department transfer his call to the mysterious basement server?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Cuts his phone line mid-sentence and raises his cloud storage fees by 300 percent.",
+        "g": "m"
+      },
+      "name": "Leo, 28, Freelancer",
+      "badge": "85 Active Subs",
+      "verdict": "TRAPPED",
+      "story": "85 Abos und du wunderst dich, warum du pleite bist? Dieser Brokkoli lacht dich aus, während er deine Kündigungsbuttons unsichtbar macht. The 8 levels of subscription traps. Level 3. Level 3: 85 active software licenses and cloud backups bleeding my freelance income dry every single month. I am Leo, 28, an orange-man with a bumpy citrus rind, sitting in a cramped co-working booth surrounded by flashing error codes. Why are you paying for enterprise storage when you barely freelance and can't even pay rent? I am trying to cancel, but they hide the button behind endless dark patterns! Amateurs fund the cloud so professionals can float above the poverty line. You will see that in Level 4. You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+$120.00",
+        "after": "90 Active"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "85 Abos und du wunderst dich, warum du pleite bist? Dieser Brokkoli lacht dich aus, während er deine Kündigungsbuttons unsichtbar macht."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of subscription traps. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 85 active software licenses and cloud backups bleeding my freelance income dry every single month."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Leo, 28, an orange-man with a bumpy citrus rind, sitting in a cramped co-working booth surrounded by flashing error codes."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Why are you paying for enterprise storage when you barely freelance and can't even pay rent?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I am trying to cancel, but they hide the button behind endless dark patterns!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Amateurs fund the cloud so professionals can float above the poverty line.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You will see that in Level 4."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Amateurs fund the cloud so professionals can float.",
+      "quote_by": {
+        "level": 6,
+        "name": "Max, 35, Tech Director",
+        "badge": "240 Active Subs",
+        "character": "A sharp, branching broccoli-man wearing an expensive tailored suit and smart glasses.",
+        "scene": "Medium shot of Max towering over Leo's desk in the co-working space, smirking down at the open billing dashboard."
+      },
+      "stats": [
+        {
+          "label": "Software Fees",
+          "value": "$450/mo",
+          "bar": 0.45
+        },
+        {
+          "label": "Active Subs",
+          "value": "85",
+          "bar": 0.4
+        },
+        {
+          "label": "Unread Bills",
+          "value": "14",
+          "bar": 0.5
+        }
+      ],
+      "character": "Leo is an orange-man with bright citrus skin wearing a faded blue hoodie, surrounded by multiple glowing monitors showing endless billing dashboards and the number 85 on his forehead.",
+      "visual": "Wide shot of a bustling, high-tech co-working space with rows of glowing monitors, an orange-man staring in disbelief at a billing error, a hidden golden coin resting under a mechanical keyboard.",
+      "scenes": [
+        "Wide shot: A bustling, high-tech co-working space with glass walls and programmers staring at screens.",
+        "Medium shot: Leo the orange-man clutching his headset while on hold with customer support.",
+        "Halbnah shot: The broccoli-man walking by, pointing mockingly at Leo's open subscription dashboard.",
+        "Detail shot: A computer monitor showing an impossible maze of hidden cancellation confirmation buttons.",
+        "Close-up: Leo's textured orange peel skin flushing with anger and stress.",
+        "Detail shot: A gleaming golden coin hidden neatly beneath a mechanical keyboard."
+      ],
+      "caption": "Is software subscription creep ruining your freelance budget? How many unused apps do you pay for? #FreelanceLife #OrangeMan #SoftwareTraps #NeoFruitCity #TechBilling"
+    },
+    {
+      "n": 4,
+      "open_loop": "What documents were locked inside the encrypted corporate vault?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Rejects his annual corporate bonus because of a minor recurring gym membership fee violation.",
+        "g": "w"
+      },
+      "name": "Bram, 34, Senior Broker",
+      "badge": "385 Active Subs",
+      "verdict": "SECURE",
+      "story": "385 Abos und er denkt, er ist unantastbar. Bis die Drachenfrucht ihm alles wegnimmt. The 8 levels of subscription traps. Level 4. Level 4: 385 active automated business and lifestyle subscriptions managing my entire massive financial portfolio. I am Bram, 34, a polished coconut man in a sharp charcoal suit standing on the gleaming balcony of the Neo-Fruit Tower, bathing in arrogance. You missed a micro-fee on your premium valet subscription in the automated ledger. I laugh it off with total disdain, thinking my extreme wealth insulates me from petty charges. Even coconuts crack under enough automated weight when the system turns against you. You will see that in Level 5. You'll see that in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "-$5,000",
+        "after": "310 Activ"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "385 Abos und er denkt, er ist unantastbar. Bis die Drachenfrucht ihm alles wegnimmt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of subscription traps. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 385 active automated business and lifestyle subscriptions managing my entire massive financial portfolio."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Bram, 34, a polished coconut man in a sharp charcoal suit standing on the gleaming balcony of the Neo-Fruit Tower, bathing in arrogance."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You missed a micro-fee on your premium valet subscription in the automated ledger.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I laugh it off with total disdain, thinking my extreme wealth insulates me from petty charges."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Even coconuts crack under enough automated weight when the system turns against you.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You will see that in Level 5."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Even coconuts crack under enough automated weight.",
+      "quote_by": {
+        "level": 7,
+        "name": "Kira, 42, Board Director",
+        "badge": "999+ Active Subs",
+        "character": "A striking dragonfruit woman with vibrant magenta skin, sharp green scale-like leaves, and an icy corporate stare.",
+        "scene": "Medium shot of Kira standing on the high-rise balcony, holding a glowing digital tablet while looking down at Bram with disdain."
+      },
+      "stats": [
+        {
+          "label": "Monthly Fees",
+          "value": "$12,400",
+          "bar": 0.65
+        },
+        {
+          "label": "Active Subs",
+          "value": "385",
+          "bar": 0.6
+        },
+        {
+          "label": "Portfolio",
+          "value": "$1.8M",
+          "bar": 0.7
+        }
+      ],
+      "character": "Bram is a hard-shelled coconut man with polished brown skin wearing an expensive charcoal suit, holding a glowing financial tablet with the number 385 on his forehead.",
+      "visual": "Wide shot of a luxury skyscraper balcony overlooking a neon-drenched futuristic city at twilight, a coconut man holding a glowing tablet, a hidden golden coin resting on the glass railing.",
+      "scenes": [
+        "Wide shot: A luxury skyscraper balcony overlooking a neon-drenched futuristic city at twilight.",
+        "Medium shot: Bram the coconut man in a sharp suit checking his endless portfolio of automated subscriptions.",
+        "Halbnah shot: The intimidating dragonfruit executive leaning against the glass railing, reviewing his accounts.",
+        "Detail shot: A sleek tablet screen showing hundreds of recurring corporate fees turning from green to flashing red.",
+        "Close-up: Bram's hard brown coconut shell reflecting the harsh neon city lights.",
+        "Detail shot: A shiny golden coin resting right on the edge of the glass balcony partition."
+      ],
+      "caption": "When you have hundreds of automated subscriptions until one tiny glitch locks your whole empire. Would you trust full automation? #CoconutMan #CorporateLife #SubscriptionModel #NeoFruitCity #Wealth"
+    },
+    {
+      "n": 5,
+      "open_loop": "What happened to the missing subscriber database after the system reboot?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Exposes her secret fake follower subscriptions live on her brand broadcast.",
+        "g": "m"
+      },
+      "name": "Melia, 29, Influencer",
+      "badge": "150 Active Subs",
+      "verdict": "EXPOSED",
+      "story": "150 Fake-Abos und sie heult, weil der Praktikant sie live blamiert. Genau so stirbt der Hype. The 8 levels of subscription traps. Level 5. Level 5: 150 active brand tools, filter apps, and fan-club tiers powering my daily fake glow and luxury aesthetic. I am Melia, 29, a creamy avocado woman with a smooth skin tone, streaming live from my luxury penthouse studio to millions of devoted fans. Your subscriber count is dropping faster than a rotten fruit on live television! I built this entire empire on monthly renewals and bought engagement! Fake subscriptions cannot hide a real drop when the algorithm exposes your lies. You will see that in Level 6. You'll see that in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "-30%",
+        "after": "105 Activ"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "150 Fake-Abos und sie heult, weil der Praktikant sie live blamiert. Genau so stirbt der Hype."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of subscription traps. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 150 active brand tools, filter apps, and fan-club tiers powering my daily fake glow and luxury aesthetic."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Melia, 29, a creamy avocado woman with a smooth skin tone, streaming live from my luxury penthouse studio to millions of devoted fans."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your subscriber count is dropping faster than a rotten fruit on live television!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I built this entire empire on monthly renewals and bought engagement!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Fake subscriptions cannot hide a real drop when the algorithm exposes your lies.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You will see that in Level 6."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Fake subscriptions cannot hide a real drop.",
+      "quote_by": {
+        "level": 1,
+        "name": "Pip, 22, Intern",
+        "badge": "42 Active Subs",
+        "character": "A small, worried strawberry-man with bright green leafy hair and a worn-out hoodie.",
+        "scene": "Medium shot of Pip standing in the doorway of the penthouse studio, pointing a smartphone at Melia while smiling."
+      },
+      "stats": [
+        {
+          "label": "Brand Subs",
+          "value": "150",
+          "bar": 0.55
+        },
+        {
+          "label": "Monthly Reach",
+          "value": "2.4M",
+          "bar": 0.8
+        },
+        {
+          "label": "Ad Revenue",
+          "value": "$8,200",
+          "bar": 0.6
+        }
+      ],
+      "character": "Melia is a smooth avocado-woman with light green skin and a dark pit center motif, wearing designer sunglasses and a silk robe, with the number 150 glowing on her forehead.",
+      "visual": "Wide shot of a luxurious high-end penthouse streaming studio with professional ring lights and pink neon backdrops, an avocado woman staring in horror at her falling viewer metrics, a hidden golden coin inside the ring light stand.",
+      "scenes": [
+        "Wide shot: A luxurious high-end penthouse streaming studio with professional ring lights and pink neon backdrops.",
+        "Medium shot: Melia the avocado woman staring in horror at her falling viewer metrics on a massive monitor.",
+        "Halbnah shot: The young strawberry intern standing in the doorway, holding up his phone to expose her.",
+        "Detail shot: A live broadcast chat window scrolling past with angry subscriber cancellation notices.",
+        "Close-up: Melia's smooth avocado skin glistening with sweat under studio lights.",
+        "Detail shot: A shiny golden coin wedged right inside the metal ring light stand."
+      ],
+      "caption": "When your entire follower base is tied to automated renewals and the system crashes live. Have you ever lost your digital reach? #AvocadoWoman #InfluencerLife #StreamCrash #NeoFruitCity #SubscriberDrop"
+    },
+    {
+      "n": 6,
+      "open_loop": "What was written inside the master server override code?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Locks his administrative server access and deletes his billing history.",
+        "g": "m"
+      },
+      "name": "Max, 35, Tech Director",
+      "badge": "240 Active Subs",
+      "verdict": "AUTOMATED",
+      "story": "240 Server-Cluster unter seiner Kontrolle und ein einfacher Bug sperrt ihn aus. Wer zuletzt lacht, sitzt im Dunkeln. The 8 levels of subscription traps. Level 6. Level 6: 240 active enterprise cloud contracts and server clusters under my direct command controlling the digital infrastructure. I am Max, 35, a branching broccoli-man wearing an immaculate tailored suit inside the Neo-Fruit server core facility with supreme confidence. You locked me out of my workspace over a phantom renewal fee that shouldn't even exist! Business is automated, not personal, until it ruins you. The system you built will cancel you last in this cruel game. You will see that in Level 7. You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "-50 Server",
+        "after": "190 Activ"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "240 Server-Cluster unter seiner Kontrolle und ein einfacher Bug sperrt ihn aus. Wer zuletzt lacht, sitzt im Dunkeln."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of subscription traps. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 240 active enterprise cloud contracts and server clusters under my direct command controlling the digital infrastructure."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Max, 35, a branching broccoli-man wearing an immaculate tailored suit inside the Neo-Fruit server core facility with supreme confidence."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You locked me out of my workspace over a phantom renewal fee that shouldn't even exist!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Business is automated, not personal, until it ruins you."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "The system you built will cancel you last in this cruel game.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You will see that in Level 7."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "The system you built will cancel you last.",
+      "quote_by": {
+        "level": 3,
+        "name": "Leo, 28, Freelancer",
+        "badge": "85 Active Subs",
+        "character": "An orange-man with a bumpy citrus rind wearing a faded blue hoodie and headset.",
+        "scene": "Medium shot of Leo standing inside the server control room, pointing angrily at Max across the main terminal."
+      },
+      "stats": [
+        {
+          "label": "Server Nodes",
+          "value": "240",
+          "bar": 0.75
+        },
+        {
+          "label": "Cloud Control",
+          "value": "99.9%",
+          "bar": 0.9
+        },
+        {
+          "label": "Override Key",
+          "value": "Active",
+          "bar": 0.8
+        }
+      ],
+      "character": "Max is a branching broccoli-man with dark green florets forming his hair, wearing a sleek pinstripe corporate suit and smart glasses, with the number 240 glowing on his forehead.",
+      "visual": "Wide shot of a high-tech subterranean server room filled with towering racks of blinking blue lights and fiber-optic cables, a broccoli man typing on a glowing console, a hidden golden coin tucked behind a server blade.",
+      "scenes": [
+        "Wide shot: A high-tech subterranean server room filled with towering racks of blinking blue lights and fiber-optic cables.",
+        "Medium shot: Max the broccoli man standing in front of a giant holographic monitor displaying network data.",
+        "Halbnah shot: Leo the orange-man storming into the control room, confronting Max with a furious expression.",
+        "Detail shot: A massive server console flashing a crimson alert warning about cascading subscription failures.",
+        "Close-up: Max's textured broccoli floret head twitching with unexpected alarm.",
+        "Detail shot: A shiny golden coin hidden right behind a ventilation fan on a server rack."
+      ],
+      "caption": "When the IT director who controls all subscriptions finally gets locked out of his own network. Who really runs the tech world? #BroccoliMan #TechDirector #ServerRoom #NeoFruitCity #Automation"
+    },
+    {
+      "n": 7,
+      "open_loop": "Whose signature was on the final master contract that changed the city forever?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Attempts to override her board decision using an outdated corporate subscription loophole.",
+        "g": "m"
+      },
+      "name": "Kira, 42, Board Director",
+      "badge": "999+ Active Subs",
+      "verdict": "OMNIPRESENT",
+      "story": "999+ Abos kontrollieren jede Kloschüssel in der Stadt, und sie hält sich für Gott. The 8 levels of subscription traps. Level 7. Level 7: 999+ active institutional subscriptions controlling every utility, transit line, and corporate lease in Neo-Fruit City without mercy. I am Kira, 42, a striking dragonfruit woman with vibrant magenta skin and sharp green scale leaves, seated at the head of the obsidian board table. You cannot revoke my enterprise access over a single billing glitch in your pathetic system! You signed the master terms without reading clause fourteen regarding total asset forfeiture. Even empires are billed by the second when the debt comes due. You will see that in Level 8. You'll see that in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "System Loc",
+        "after": "0 Active "
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "999+ Abos kontrollieren jede Kloschüssel in der Stadt, und sie hält sich für Gott."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of subscription traps. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 999+ active institutional subscriptions controlling every utility, transit line, and corporate lease in Neo-Fruit City without mercy."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Kira, 42, a striking dragonfruit woman with vibrant magenta skin and sharp green scale leaves, seated at the head of the obsidian board table."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You cannot revoke my enterprise access over a single billing glitch in your pathetic system!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "You signed the master terms without reading clause fourteen regarding total asset forfeiture."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Even empires are billed by the second when the debt comes due.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You will see that in Level 8."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "Even empires are billed by the second.",
+      "quote_by": {
+        "level": 4,
+        "name": "Bram, 34, Senior Broker",
+        "badge": "385 Active Subs",
+        "character": "A polished coconut man in a sharp charcoal suit with a hard, smooth shell.",
+        "scene": "Medium shot of Bram slamming his tablet onto the obsidian boardroom table in front of Kira."
+      },
+      "stats": [
+        {
+          "label": "Managed Subs",
+          "value": "999+",
+          "bar": 1.0
+        },
+        {
+          "label": "City Control",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Master Key",
+          "value": "Active",
+          "bar": 1.0
+        }
+      ],
+      "character": "Kira is a striking dragonfruit-woman with vibrant magenta skin and protruding green scale leaves, wearing an obsidian executive blazer, with the glowing digits 999+ on her forehead.",
+      "visual": "Wide shot of a massive, dark obsidian boardroom with panoramic windows overlooking the entire gleaming metropolis of Neo-Fruit City, a dragonfruit woman sitting majestically at the head table, a hidden golden coin resting on the glass surface.",
+      "scenes": [
+        "Wide shot: A massive, dark obsidian boardroom with panoramic windows overlooking the entire gleaming metropolis of Neo-Fruit City.",
+        "Medium shot: Kira the dragonfruit woman sitting majestically at the head of the table, reviewing digital contracts.",
+        "Halbnah shot: Bram the coconut man leaning over the table in desperation, arguing with the board director.",
+        "Detail shot: A glowing digital contract displaying thousands of micro-print subscription clauses.",
+        "Close-up: Kira's vibrant magenta dragonfruit skin and sharp green scale leaves under dramatic lighting.",
+        "Detail shot: A shiny golden coin resting right in the center of the dark obsidian conference table."
+      ],
+      "caption": "When you control every subscription in the city until the ultimate master bill finally comes due. What is your most expensive monthly app? #DragonFruitWoman #BoardroomDrama #SubscriptionEconomy #NeoFruitCity #Power"
+    },
+    {
+      "n": 8,
+      "open_loop": "Who was behind the infinite billing loop from the very beginning?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Disables the central subscription mainframe and resets every citizen's balance to zero.",
+        "g": "w"
+      },
+      "name": "Omni, ???, The Architect",
+      "badge": "INF Active Subs",
+      "verdict": "UNSUBSCRIBED",
+      "story": "Unendliche Abos, unendliche Gier, und mit einem Klick ist alles weg. Wer zahlt am Ende den Preis? The 8 levels of subscription traps. Level 8. Level 8: Infinite active subscriptions operating the entire simulation and monetary flow of Neo-Fruit City without exception. I am Omni, the mysterious entity sitting in the dark central core where all recurring payments originate and destroy lives. You forgot to cancel your own existence in the master protocol. I stare at the main power console as the entire city's subscription meters freeze simultaneously in total silence. The ultimate subscription cannot be renewed when the system shuts down forever. What topic should we uncover next?",
+      "gender": "m",
+      "twist": {
+        "delta": "System Res",
+        "after": "0 Active "
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Unendliche Abos, unendliche Gier, und mit einem Klick ist alles weg. Wer zahlt am Ende den Preis?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of subscription traps. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: Infinite active subscriptions operating the entire simulation and monetary flow of Neo-Fruit City without exception."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Omni, the mysterious entity sitting in the dark central core where all recurring payments originate and destroy lives."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You forgot to cancel your own existence in the master protocol.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I stare at the main power console as the entire city's subscription meters freeze simultaneously in total silence."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "The ultimate subscription cannot be renewed when the system shuts down forever.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What topic should we uncover next?"
+        }
+      ],
+      "quote": "The ultimate subscription cannot be renewed.",
+      "quote_by": {
+        "level": 7,
+        "name": "Kira, 42, Board Director",
+        "badge": "999+ Active Subs",
+        "character": "A striking dragonfruit woman with vibrant magenta skin, sharp green scale leaves, and an icy corporate stare.",
+        "scene": "Medium shot of Kira standing before the massive mainframe core, lowering her hands as the system powers down."
+      },
+      "stats": [
+        {
+          "label": "Master Grid",
+          "value": "INF",
+          "bar": 1.0
+        },
+        {
+          "label": "Total Revenue",
+          "value": "Infinite",
+          "bar": 1.0
+        },
+        {
+          "label": "Status",
+          "value": "Reset",
+          "bar": 0.0
+        }
+      ],
+      "character": "Omni is a mysterious hybrid fruit-entity woven from smooth coconut shell and glowing citrus circuits, wearing a dark metallic cloak, with the glowing symbol INF on his forehead.",
+      "visual": "Wide shot of a colossal, cathedral-like subterranean server cathedral with beams of pure blue light and floating holographic billing loops, the central figure standing before a massive master terminal, a hidden golden coin on the metal floor.",
+      "scenes": [
+        "Wide shot: A colossal, cathedral-like subterranean server facility with beams of pure blue light and floating holographic billing loops.",
+        "Medium shot: The mysterious Omni figure standing before the glowing master terminal controlling the entire city.",
+        "Halbnah shot: Kira the dragonfruit woman confronting Omni with administrative override codes in hand.",
+        "Detail shot: A massive holographic master counter resetting from infinity down to zero.",
+        "Close-up: The glowing digital display on Omni's forehead flickering out permanently.",
+        "Detail shot: A final gleaming golden coin resting on the cold steel floor of the server core."
+      ],
+      "caption": "What happens when every single subscription in the city is cancelled all at once? Drop your ideas for our next series in the comments! #SeriesFinale #SubscriptionTrap #NeoFruitCity #MindBlown #EndlessLoop"
+    }
+  ],
+  "lang": "en",
+  "topic": "Die endlose Schleife von Konsum-Abos und versteckten Kündigungsfallen",
+  "frame": "frucht"
+}

@@ -1,0 +1,117 @@
+{
+  "best_score": 80,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 5,
+        "story": 7,
+        "identifikation": 8,
+        "verbindungen": 6,
+        "sog": 6,
+        "wut": 7,
+        "merkfaehigkeit": 6,
+        "sprache": 4
+      },
+      "gesamt": 58,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Streiche das verbotene neutrale Intro 'Die 8 Level von Reichtum. Level 1.' Ersetze den Hook direkt durch: '76 Euro für ein einziges Glas Leitungswasser – Dennis, meine Stirn zeigt 850 Euro Netto, bist du komplett irre?!' Behebe den Logikfehler um 'die Zitrone': Benenne Samira hier bereits namentlich und erweitere den Text auf über 175 Wörter, indem Dennis Timos Azubi-Gehalt vor dem ganzen Bistro laut demütigt."
+        },
+        {
+          "n": 2,
+          "fix": "Kläre den Namenskonflikt zwischen Maya und Samira (Samira ist die Zitrone, aber plötzlich taucht eine 'Maya' auf). Starte ohne Intro mit: 'Er klaute mir eiskalt 11,50 Euro Wechselgeld für zwei gestohlene Pommes!' Baue den Text auf mindestens 175 Wörter aus, indem Samiras Verzweiflung über ihre Bafög-Miete plastisch ausgespielt wird, bevor Dennis' Firmenkarte ins Spiel kommt."
+        },
+        {
+          "n": 3,
+          "fix": "Entferne das Intro. Beginne sofort mit dem Kontrast: '3.800 Euro auf der Stirn, aber mein Girokonto ist 2.100 Euro im Minus!' Erhöhe die Wortzahl über 175, indem Dennis' Schweißausbruch und Olivias gnadenloser Hohn über den 360-Euro-Wein vor Kellner Milan detaillierter geschildert werden."
+        },
+        {
+          "n": 4,
+          "fix": "Kappe 'Die 8 Level von Reichtum. Level 4.' Hook neu: '120 Euro Trinkgeld aus eigener Tasche für ein Essen, zu dem meine Chefin eingeladen hat?!' Bringe die Story auf über 175 Wörter durch Marcs panische Rechtfertigung und Karolins eiskalte Bloßstellung vor versammelter Mannschaft."
+        },
+        {
+          "n": 5,
+          "fix": "Direkter Einstieg ohne Level-Ansage: '890 Euro Champagner-Rechnung auf mich abwälzen, nur weil ich Partnerin werden will?' Erweitere den Text auf 175+ Wörter, indem Olivias Erpressung mit dem Vorstandsfoto dramaturgisch aufgebaut wird, statt wie ein nachträglicher Fremdkörper zu wirken."
+        },
+        {
+          "n": 6,
+          "fix": "Ersetze den Erklär-Einstieg durch maximale Fallhöhe: '3.200 Euro Kaviar verfressen und mein Date schiebt mir eiskalt die Mappe zu!' Fülle auf 175+ Wörter auf: Zeige Olivias Todesangst vor der Kartensperre im Live-Stream, bevor Viktor den Chefkoch ruft."
+        },
+        {
+          "n": 7,
+          "fix": "Streiche das neutrale Vorwort. Neuer Hook: 'Ein Kellner mit 1.200 Euro auf der Stirn erteilt mir, dem 11.000-Euro-Investor, Hausverbot?!' Erhöhe das Wortvolumen auf über 175 Wörter, indem Milans Autorität und das Schock-Schweigen der High-Society-Gäste sensorisch greifbar werden."
+        },
+        {
+          "n": 8,
+          "fix": "Entferne die Erzähler-Floskel am Anfang. Starte mitten in der Machtdemonstration: '50.000 Euro flammten in Gold auf meiner Stirn auf – und den Großmäulern fiel das Besteck aus der Hand!' Vertiefe die Genugtuung, indem Dennis und Viktor live zusehen müssen, wie Milan Timo und Samira das Geld bar im Umschlag übergibt."
+        }
+      ],
+      "fazit": "Knapp am Hit vorbei: Die Grundidee mit der 'Rechnung-teilen'-Karmakette ist extrem relatable und hat virales Potenzial. Allerdings bricht das Skript zwei harte No-Gos: Jedes Video beginnt mit einem trägen, neutralen Intro ('Die 8 Level von Reichtum. Level X'), das auf TikTok sofortige Swipes provoziert, und fast alle Level verfehlen die geforderte Mindestlänge von 175 Wörtern. Zudem verwirrt in Teil 1 und 2 eine unaufgelöste Figur namens 'Maya'. Nach radikalem Hook-Tuning und Schließen der Längenlücken wird die Serie viral performen."
+    },
+    {
+      "scores": {
+        "hook": 8,
+        "story": 7,
+        "identifikation": 8,
+        "verbindungen": 8,
+        "sog": 5,
+        "wut": 8,
+        "merkfaehigkeit": 7,
+        "sprache": 7
+      },
+      "gesamt": 71,
+      "fixes": [
+        {
+          "n": 2,
+          "fix": "Sog-Bruch reparieren: Am Ende von Level 2 fotografiert Samira Dennis' Karte ab, aber Dennis in Level 3 erwähnt weder eine Abbuchung noch Samiras Aktion. Ändere die Frage am Ende von Level 2 zu: 'Welchen geheimen Betrug auf Dennis' Firmenkarte deckte mein Foto auf?' und lass Dennis in Level 3 kurz zittern, weil sein Kartenlimit bereits durch eine fremde Buchung blinkt."
+        },
+        {
+          "n": 3,
+          "fix": "Logikfehler beim Beleg glätten: In Level 3 liegt der gefälschte Beleg in Dennis' Aktenkoffer, in Level 4 zieht ihn plötzlich Marc aus seiner Manteltasche. Ersetze Satz 11 in Level 3 durch: 'Tief in meinem Aktenkoffer lag der gefälschte Beleg, den ich meinem Chef Marc zur Freigabe unterjubeln musste – wessen Unterschrift fehlte darauf?'"
+        },
+        {
+          "n": 5,
+          "fix": "Toter Cliffhanger: Level 5 endet mit der Frage 'Was zeigte dieses zweite Foto?', aber Level 6 ignoriert das Foto komplett und wechselt ohne Auflösung zum Kaviar-Date. Ändere das Ende von Level 5: 'Doch bevor ich gehen konnte, schickte Olivia das Foto live an mein wichtigstes Kundendate Viktor. Was passierte auf Viktors Penthouse-Terrasse? Das siehst du in Level 6.'"
+        },
+        {
+          "n": 6,
+          "fix": "Anschluss an Level 5 herstellen: Binde den Faden aus Level 5 direkt in Olivias ersten Satz ein: '3.200 Euro Kaviar verfressen und mein Date schiebt mir eiskalt die Mappe zu – dabei hatte ich Karolins Erpresser-Foto gerade erst auf seinem Tisch platziert!'"
+        }
+      ],
+      "fazit": "Starkes Grundkonzept mit hohem Viralitäts- und Wutfaktor beim Thema Rechnungsteilen. Der größte Schwachpunkt ist der Sog: Zwei Cliffhanger (Samiras Foto von der Firmenkarte in Level 2 und Olivias zweites Foto in Level 5) verpuffen im nächsten Video komplett ohne Auflösung. Wenn diese Logikbrüche geflickt werden, zündet die Serie als Binge-Hit."
+    },
+    {
+      "scores": {
+        "hook": 8,
+        "story": 8,
+        "identifikation": 9,
+        "verbindungen": 9,
+        "sog": 7,
+        "wut": 8,
+        "merkfaehigkeit": 7,
+        "sprache": 8
+      },
+      "gesamt": 80,
+      "fixes": [
+        {
+          "n": 2,
+          "fix": "Schärfe den Open Loop am Ende von Level 2: Statt 'Welchen geheimen Betrug auf Dennis' Firmenkarte deckte mein Foto auf?' ersetze durch: 'Dennis hatte die Karte für private Luxusuhren belastet – doch wessen Firmenname stand als Bürge auf der Rückseite?' So weiß der Zuschauer exakt, worauf er in Level 3 wartet."
+        },
+        {
+          "n": 3,
+          "fix": "Löse Samiras Enthüllung zu Beginn von Level 3 explizit ein: Ersetze Satz 11 ('...blinkte mein Firmenkartenlimit bereits grell rot durch eine unerklärliche fremde Buchung') durch: '...blinkte mein Firmenkartenlimit rot, weil Samiras Foto meine illegalen privaten Club-Abbuchungen direkt an die Buchhaltung geleakt hatte.'"
+        },
+        {
+          "n": 5,
+          "fix": "Der Open Loop am Ende von Level 5 ist zu vage ('Was passierte auf Viktors Penthouse-Terrasse?'). Ersetze die letzten zwei Sätze durch: 'Doch als Olivia das Foto an Viktor schickte, tippte der Milliardär nur eine eiskalte Drohung zurück. Was forderte Viktor von Olivia dafür, dass er Karolins Karriere nicht vernichtet? Das siehst du in Level 6.'"
+        },
+        {
+          "n": 8,
+          "fix": "Binde die Serien-Catchphrase 'Die Zahl lügt nie' ins Finale ein, um den Bogen zu schließen. Ersetze Satz 9 ('Echte Größe zeigt sich nicht darin...') durch: 'Dennis und Viktor stammelten um Gnade, doch ich sah sie nur kalt an: Ihr dachtet, die Zahl lügt nie – aber eure Zahlen waren von Anfang an geborgter Dreck.'"
+        }
+      ],
+      "fazit": "Extrem starkes, universell identifizierbares Thema ('Rechnung teilen') mit hohem virale Wut-Potenzial und erstklassiger Ketten-Verknüpfung der Figuren. Kleinere Abzüge gibt es beim Cliffhanger in Level 5, der im Vergleich zum Rest zu schwammig formuliert ist, sowie bei der Catchphrase 'Die Zahl lügt nie', die als Audio-Anker konsequenter in jedem Level fallen muss, statt nur einmalig aufzutauchen."
+    }
+  ]
+}

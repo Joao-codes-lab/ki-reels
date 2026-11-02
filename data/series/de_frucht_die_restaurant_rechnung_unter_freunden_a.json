@@ -1,0 +1,858 @@
+{
+  "title": "Die 8 Level beim Rechnung teilen",
+  "house": "A gritty hyper-vibrant European metropolis named Fruchtstadt with Bauhaus neon diners, humid rain, cobble alleys, late-night bistro terraces, and glowing numeric LED headbands worn by produce citizens.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Timo works at the kiosk across from the rooftop restaurant where Viktor and Olivia dine.",
+    "Bistro Central on Auguststraße is the battleground where Timo, Samira, and Dennis all face the bill.",
+    "Milan handles the payment terminal at Bistro Central and silently observes all eight guests.",
+    "The golden coin is always hidden near the bill tray, espresso saucer, or checkout terminal."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was hat Samira heimlich auf die Restaurant-Quittung gekritzelt?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Demütigt Azubi Timo vor dem gesamten Bistro und zwingt ihn, 76 Euro für fremdes Steak und Cocktails zu zahlen."
+      },
+      "name": "Timo, 19, Azubi",
+      "badge": "850 € netto",
+      "verdict": "UNTERSTE STUFE",
+      "story": "76 Euro für ein einziges Glas Leitungswasser – Dennis, meine Stirn zeigt 850 Euro Netto, bist du komplett irre?! Wir saßen im vollbesetzten Bistro Central auf der Auguststraße. Dennis, eine glänzende Aubergine im maßgeschneiderten Designer-Sakko mit satten 3.800 Euro auf der Stirn, winkte lässig dem Kellner. Er selbst hatte Rumpsteak, drei Cocktails und Trüffelpommes verschlungen, während ich aus Spargründen nur trockenes Baguette und Leitungswasser anrührte. Doch als die lederne Mappe auf den Tisch knallte, drehte sich Dennis grinsend um und brüllte durch den ganzen Saal: Wir teilen brüderlich durch fünf, kleiner Azubi! Wer mit den Alphatieren am Tisch sitzt, zahlt wie ein Alphatier – oder reicht dein lächerliches Taschengeld nicht mal für den Trinkgeldanteil?! Sämtliche Gäste verstummten und starrten auf meine flackernde, rote 850-Euro-Anzeige. Tränen schossen mir in die Augen, mein Daumen zitterte krampfhaft über dem Kartenterminal. Doch am Nachbartisch beobachtete Samira, die scharfzüngige Zitrone mit 1.150 Euro Bafög, die Szene voller Zorn. Bevor ich zahlte, riss Samira blitzschnell den Kassenbeleg an sich und kritzelt mit rotem Stift eine geheime Warnung darauf. Was stand auf diesem Zettel? Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-76 €",
+        "after": "774 €"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "76 Euro für ein einziges Glas Leitungswasser – Dennis, meine Stirn zeigt 850 Euro Netto, bist du komplett irre?!"
+        },
+        {
+          "s": "Figur",
+          "t": "Wir saßen im vollbesetzten Bistro Central auf der Auguststraße."
+        },
+        {
+          "s": "Figur",
+          "t": "Dennis, eine glänzende Aubergine im maßgeschneiderten Designer-Sakko mit satten 3.800 Euro auf der Stirn, winkte lässig dem Kellner."
+        },
+        {
+          "s": "Figur",
+          "t": "Er selbst hatte Rumpsteak, drei Cocktails und Trüffelpommes verschlungen, während ich aus Spargründen nur trockenes Baguette und Leitungswasser anrührte."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch als die lederne Mappe auf den Tisch knallte, drehte sich Dennis grinsend um und brüllte durch den ganzen Saal:"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wir teilen brüderlich durch fünf, kleiner Azubi! Wer mit den Alphatieren am Tisch sitzt, zahlt wie ein Alphatier – oder reicht dein lächerliches Taschengeld nicht mal für den Trinkgeldanteil?!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Sämtliche Gäste verstummten und starrten auf meine flackernde, rote 850-Euro-Anzeige."
+        },
+        {
+          "s": "Figur",
+          "t": "Tränen schossen mir in die Augen, mein Daumen zitterte krampfhaft über dem Kartenterminal."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch am Nachbartisch beobachtete Samira, die scharfzüngige Zitrone mit 1.150 Euro Bafög, die Szene voller Zorn."
+        },
+        {
+          "s": "Figur",
+          "t": "Bevor ich zahlte, riss Samira blitzschnell den Kassenbeleg an sich und kritzelt mit rotem Stift eine geheime Warnung darauf."
+        },
+        {
+          "s": "Figur",
+          "t": "Was stand auf diesem Zettel?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Wer mit den Alphatieren am Tisch sitzt, zahlt wie ein Alphatier – oder reicht dein lächerliches Taschengeld nicht mal für den Trinkgeldanteil?!",
+      "quote_by": {
+        "level": 3,
+        "name": "Dennis",
+        "badge": "3.800 €",
+        "character": "Sleek deep-purple eggplant man in tailored beige blazer with glowing 3.800 € forehead display.",
+        "scene": "Medium shot inside Bistro Central, Dennis the eggplant leans smugly over mahogany table, smirking arrogantly while tossing bill booklet."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "850 €",
+          "bar": 0.12
+        },
+        {
+          "label": "Verzehr",
+          "value": "3,50 €",
+          "bar": 0.05
+        },
+        {
+          "label": "Zahlung",
+          "value": "76,00 €",
+          "bar": 0.45
+        }
+      ],
+      "character": "Timid strawberry boy wearing faded denim hoodie and knit beanie, neon red 850 € badge on forehead, clutching cracked smartphone.",
+      "visual": "Bistro Central dining floor, eye-level medium shot: young strawberry boy Timo staring horrified at terminal handed over by eggplant Dennis, tiny golden coin near bread basket.",
+      "scenes": [
+        "Exterior Bistro Central rain-slicked sidewalk, wide shot showing glowing neon facade and vegetable patrons peering through large panoramic glass windows, golden coin stuck in drain grate.",
+        "Dimly lit mahogany dining booth, medium two-shot with Timo shrinking in his chair while Dennis the eggplant crosses arms triumphantly, golden coin resting under glass water carafe.",
+        "Close-up detail shot of Timo's trembling red berry hand tapping card terminal showing 76.00 Euro under bistro pendant lamps, golden coin beside leather bill holder.",
+        "Counter area of bistro, wide shot with bustling waiters carrying silver cloches while lemon woman Samira whispers angrily near Dennis, golden coin glinting beside brass cash register.",
+        "Underground train station Auguststraße, medium shot of Timo sitting on wooden bench beneath flickering ceiling light, golden coin wedged between floor tiles.",
+        "Night street corner outside bistro, high-angle wide shot of Timo walking in drizzle while Dennis drives off in sports coupe, golden coin reflecting streetlamp in puddle."
+      ],
+      "caption": "Warst du schon mal der Azubi, der das Rinderfilet der anderen mitbezahlt hat? Schreib deine Zahl in die Kommentare! #rechnungteilen #stirnzahl #drama #relatable #viralvideo"
+    },
+    {
+      "n": 2,
+      "open_loop": "Welchen geheimen Betrug auf Dennis' Firmenkarte deckte mein Foto auf?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Behält Samiras 11,50 Euro Wechselgeld eiskalt ein und demütigt sie wegen ihrer Bafög-Armut."
+      },
+      "name": "Samira, 24, Studentin",
+      "badge": "1.150 € netto",
+      "verdict": "KNAPP BEI KASSE",
+      "story": "Er klaute mir eiskalt 11,50 Euro Wechselgeld für zwei gestohlene Pommes! Auf Timos Beleg hatte ich vorher gewarnt: Schnorrer zahlen doppelt! Ich bin Samira, Zitrone, Studentin mit exakt 1.150 Euro Bafög auf der Stirn. Meine Miete von 650 Euro für das feuchte WG-Zimmer war überfällig, auf meinem Konto lagen noch genau 14 Euro für den restlichen Monat. Im Bistro bestellte ich extra nur den Beilagensalat für 8,50 Euro und legte meinen allerletzten Zwanzig-Euro-Schein hin. Doch Marc, eine protzige Ananas mit 4.600 Euro Stirnwert, griff blitzschnell zu und steckte das gesamte Wechselgeld grinsend in seine seidene Westentasche. Als ich nach meinen 11,50 Euro verlangte, zischte er verächtlich: Du hast doch zwei Pommes von meinem Teller stibitzt! Wer arm ist, diskutiert nicht über Krümel, Schätzchen – die Zahl lügt nie! Die Scham brannte mir in den Poren. Doch während Marc triumphierte, prahlte Dennis am Tischende lautstark mit seiner goldenen Firmenkreditkarte. Aus purer Vergeltung zückte ich mein Smartphone unterm Tisch und knipste gestochen scharf die Kartennummer samt Sicherheitscode ab. Welchen geheimen Betrug auf Dennis' Firmenkarte deckte mein Foto auf? Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "-11,50 €",
+        "after": "1.138 €"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Er klaute mir eiskalt 11,50 Euro Wechselgeld für zwei gestohlene Pommes!"
+        },
+        {
+          "s": "Figur",
+          "t": "Auf Timos Beleg hatte ich vorher gewarnt: Schnorrer zahlen doppelt!"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Samira, Zitrone, Studentin mit exakt 1.150 Euro Bafög auf der Stirn."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Miete von 650 Euro für das feuchte WG-Zimmer war überfällig, auf meinem Konto lagen noch genau 14 Euro für den restlichen Monat."
+        },
+        {
+          "s": "Figur",
+          "t": "Im Bistro bestellte ich extra nur den Beilagensalat für 8,50 Euro und legte meinen allerletzten Zwanzig-Euro-Schein hin."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch Marc, eine protzige Ananas mit 4.600 Euro Stirnwert, griff blitzschnell zu und steckte das gesamte Wechselgeld grinsend in seine seidene Westentasche."
+        },
+        {
+          "s": "Figur",
+          "t": "Als ich nach meinen 11,50 Euro verlangte, zischte er verächtlich:"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast doch zwei Pommes von meinem Teller stibitzt! Wer arm ist, diskutiert nicht über Krümel, Schätzchen – die Zahl lügt nie!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Scham brannte mir in den Poren."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch während Marc triumphierte, prahlte Dennis am Tischende lautstark mit seiner goldenen Firmenkreditkarte."
+        },
+        {
+          "s": "Figur",
+          "t": "Aus purer Vergeltung zückte ich mein Smartphone unterm Tisch und knipste gestochen scharf die Kartennummer samt Sicherheitscode ab."
+        },
+        {
+          "s": "Figur",
+          "t": "Welchen geheimen Betrug auf Dennis' Firmenkarte deckte mein Foto auf?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Wer arm ist, diskutiert nicht über Krümel, Schätzchen – die Zahl lügt nie!",
+      "quote_by": {
+        "level": 4,
+        "name": "Marc",
+        "badge": "4.600 €",
+        "character": "Pompous spiky pineapple man wearing silk emerald shirt and heavy gold chain, illuminated 4.600 € forehead digits.",
+        "scene": "Medium shot across crowded bar table, Marc the pineapple shoving crumpled banknote into velvet coat pocket with mocking grin."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "1.150 €",
+          "bar": 0.22
+        },
+        {
+          "label": "Verzehr",
+          "value": "8,50 €",
+          "bar": 0.08
+        },
+        {
+          "label": "Verlust",
+          "value": "11,50 €",
+          "bar": 0.28
+        }
+      ],
+      "character": "Sharp-witted lemon woman with sour yellow skin, oversized vintage knitted cardigan, glasses, glowing 1.150 € forehead sign.",
+      "visual": "Crowded bistro table, medium shot: Samira the lemon woman blushing with clenched fists as pineapple man Marc tucks her 20-euro bill away, tiny golden coin hidden in olive dish.",
+      "scenes": [
+        "University library hallway, wide shot of fruit students studying on long oak tables under brass bankers lamps, golden coin lying next to heavy textbook stack.",
+        "Bistro Central booth, medium shot showing Samira's tiny salad bowl beside giant platters of ribs and steaks, golden coin tucked behind vinegar cruet.",
+        "Detail close-up of pineapple Marc's spiky textured hand sliding twenty-euro note across polished walnut table, golden coin under edge of napkin.",
+        "Bistro entrance area, wide shot showing lemon girl Samira looking humiliated while other guests point and whisper, golden coin dropped near umbrella stand.",
+        "Cramped shared flat kitchen with drying clothes racks and neon stove clock, medium shot of Samira counting loose copper coins, golden coin near kettle.",
+        "Rainy evening bus stop, wide shot showing Samira waiting alone under flickering billboard advertising gourmet steakhouses, golden coin on asphalt bench."
+      ],
+      "caption": "Kennst du diese Freunde, die dein Wechselgeld einfach behalten? Schreib es in die Kommentare! #studentenleben #freundschaft #stirnzahl #ungerecht #deutschland"
+    },
+    {
+      "n": 3,
+      "open_loop": "Wessen Unterschrift fehlte auf dem gefälschten Beleg, den Dennis seinem Chef Marc unterjubeln musste?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Bürdet Dennis zwei 180-Euro-Flaschen Luxuswein auf, die sie fast alleine getrunken hat."
+      },
+      "name": "Dennis, 31, Vertriebler",
+      "badge": "3.800 € netto",
+      "verdict": "GROSSSPURIG",
+      "story": "3.800 Euro auf der Stirn, aber mein Girokonto ist 2.100 Euro im Minus! Kalter Schweiß rann an meiner lila Schale herab, während ich im Bistro den erfolgreichen Vertriebsstar mimte. Ich hatte Timo und Samira gnadenlos abgezockt, um meine Fassade zu schützen. Doch dann schlug das Schicksal mit unbarmherziger Wucht zurück. Olivia, eine betörende Drachenfrucht im silbernen Abendkleid mit majestätischen 7.500 Euro auf der Stirn, hatte zwei exklusive Jahrgangsweine für je 180 Euro geordert und fast im Alleingang geleert. Als Kellner Milan mit der Rechnung an den Tisch trat, lächelte Olivia bösartig, deutete mit ihrer diamantbesetzten Kralle auf mich und säuselte: Dennis übernimmt selbstverständlich den Wein! Wer im Vertrieb die dicken Boni kassiert, lässt doch keine Dame zahlen! Vor Kellner Milan und den grinsenden Gästen stockte mir der Atem. 360 Euro für Wein, an dem ich nur genippt hatte! Na, klemmt die Karte beim Möchtegern-Direktor? Ich zitterte am ganzen Leib, denn auf meinem Smartphone blinkte mein Firmenkartenlimit bereits grell rot durch eine unerklärliche fremde Buchung. Aus Angst vor dem Gesichtsverlust zog ich zitternd die Firmenkarte durch. Meine Stirnanzeige sackte panisch ab. Tief in meinem Aktenkoffer lag der gefälschte Beleg, den ich meinem Chef Marc zur Freigabe unterjubeln musste – wessen Unterschrift fehlte darauf? Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-360 €",
+        "after": "3.440 €"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "3.800 Euro auf der Stirn, aber mein Girokonto ist 2.100 Euro im Minus!"
+        },
+        {
+          "s": "Figur",
+          "t": "Kalter Schweiß rann an meiner lila Schale herab, während ich im Bistro den erfolgreichen Vertriebsstar mimte."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich hatte Timo und Samira gnadenlos abgezockt, um meine Fassade zu schützen."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch dann schlug das Schicksal mit unbarmherziger Wucht zurück."
+        },
+        {
+          "s": "Figur",
+          "t": "Olivia, eine betörende Drachenfrucht im silbernen Abendkleid mit majestätischen 7.500 Euro auf der Stirn, hatte zwei exklusive Jahrgangsweine für je 180 Euro geordert und fast im Alleingang geleert."
+        },
+        {
+          "s": "Figur",
+          "t": "Als Kellner Milan mit der Rechnung an den Tisch trat, lächelte Olivia bösartig, deutete mit ihrer diamantbesetzten Kralle auf mich und säuselte:"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dennis übernimmt selbstverständlich den Wein! Wer im Vertrieb die dicken Boni kassiert, lässt doch keine Dame zahlen!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Vor Kellner Milan und den grinsenden Gästen stockte mir der Atem. 360 Euro für Wein, an dem ich nur genippt hatte!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Na, klemmt die Karte beim Möchtegern-Direktor?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich zitterte am ganzen Leib, denn auf meinem Smartphone blinkte mein Firmenkartenlimit bereits grell rot durch eine unerklärliche fremde Buchung."
+        },
+        {
+          "s": "Figur",
+          "t": "Aus Angst vor dem Gesichtsverlust zog ich zitternd die Firmenkarte durch. Meine Stirnanzeige sackte panisch ab."
+        },
+        {
+          "s": "Figur",
+          "t": "Tief in meinem Aktenkoffer lag der gefälschte Beleg, den ich meinem Chef Marc zur Freigabe unterjubeln musste – wessen Unterschrift fehlte darauf?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Dennis übernimmt selbstverständlich den Wein! Wer im Vertrieb die dicken Boni kassiert, lässt doch keine Dame zahlen!",
+      "quote_by": {
+        "level": 6,
+        "name": "Olivia",
+        "badge": "7.500 €",
+        "character": "Glamorous pink dragonfruit woman with diamond earrings, silver satin dress, glowing 7.500 € forehead sign.",
+        "scene": "Medium shot across upscale table, dragonfruit woman Olivia resting chin on manicured hand, pointing wine bottle mockingly at Dennis."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "3.800 €",
+          "bar": 0.48
+        },
+        {
+          "label": "Dispo",
+          "value": "-2.100 €",
+          "bar": 0.65
+        },
+        {
+          "label": "Weinanteil",
+          "value": "360 €",
+          "bar": 0.52
+        }
+      ],
+      "character": "Sleek eggplant man wearing expensive beige wool blazer, styled green calyx hair, glowing purple 3.800 € display on forehead.",
+      "visual": "Bistro Central private salon, eye-level medium shot: eggplant Dennis sweating profusely while dragonfruit Olivia pushes two empty vintage wine bottles toward him, golden coin in silver ice bucket.",
+      "scenes": [
+        "Sleek modern open-plan sales office, wide shot with vegetable brokers on phones and stock tickers on glass walls, golden coin next to Dennis's desk keyboard.",
+        "Bistro Central wine cellar corridor, medium shot showing Dennis confronting Olivia near oak barrels, golden coin resting on barrel bung.",
+        "Close-up detail shot of card payment machine reading 'Genehmigt: 360,00 EUR' in Dennis's trembling purple hands, golden coin beside leather folder.",
+        "Bistro main room, wide shot with dining guests watching Dennis slump into his leather seat in defeat, golden coin gleaming on high bar counter.",
+        "Underground garage beneath bistro, medium shot of Dennis leaning against leased luxury sports car in panic, golden coin lying on concrete floor parking line.",
+        "Dimly lit staircase leading up to luxury rooftop, wide shot showing Dennis clutching black leather briefcase anxiously, golden coin wedged in iron railing."
+      ],
+      "caption": "Wer auf dicke Hose macht, zahlt am Ende den teuersten Wein. Bist du Dennis oder Timo? Kommentier! #gehalt #karma #restaurantdrama #scheinwelt #fy"
+    },
+    {
+      "n": 4,
+      "open_loop": "Wessen Unterschrift hat Marc heimlich auf die Spesenabrechnung gefälscht?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Zwingt Marc vor dem versammelten Team, 120 Euro Kellner-Trinkgeld bar aus eigener Tasche zu zahlen."
+      },
+      "name": "Marc, 35, Abteilungsleiter",
+      "badge": "4.600 € netto",
+      "verdict": "MACHTHUNGER",
+      "story": "120 Euro Trinkgeld aus eigener Tasche für ein Essen, zu dem meine Chefin eingeladen hat?! Ich bin Marc, Ananas, 4.600 Euro netto auf der Stirn. Im Bistro hatte ich Studentin Samira noch abgezockt, um meine Dominanz zu demonstrieren. Doch beim offiziellen Firmenessen wendete sich das Blatt brutal gegen mich. Karolin, unsere gefürchtete Senior Partnerin – eine eiskalte Brokkoli-Dame mit imposanten 5.900 Euro über den Brauen – erhob sich nach dem Dessert. Vor allen fünfzehn Abteilungsleitern schlug sie mit dem Löffel ans Kristallglas: Dieses Event feiert unseren Teamerfolg auf Firmenkosten. Doch das Trinkgeld für die Belegschaft, exakt 120 Euro in bar, spendiert heute unser großmäuliger Abteilungsleiter Marc persönlich! Ich lief feuerrot an. Karolin, stammelte ich verzweifelt, das war anders budgetiert, das sprengt mein Bargeld! Wer ein Team führen will, Marc, knausert nicht vor den Augen seiner Untergebenen! Die Kollegen klatschten hämisch. Mit zitternden Fingern musste ich sechs Zwanziger auf den Silberteller blättern. Mein Stirnwert sackte augenblicklich ab. In meiner Manteltasche brannte die gefälschte Spesenquittung, mit der ich Dennis gedeckt hatte. Wessen Name stand dort gefälscht? Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "-120 €",
+        "after": "4.480 €"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "120 Euro Trinkgeld aus eigener Tasche für ein Essen, zu dem meine Chefin eingeladen hat?!"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Marc, Ananas, 4.600 Euro netto auf der Stirn."
+        },
+        {
+          "s": "Figur",
+          "t": "Im Bistro hatte ich Studentin Samira noch abgezockt, um meine Dominanz zu demonstrieren."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch beim offiziellen Firmenessen wendete sich das Blatt brutal gegen mich."
+        },
+        {
+          "s": "Figur",
+          "t": "Karolin, unsere gefürchtete Senior Partnerin – eine eiskalte Brokkoli-Dame mit imposanten 5.900 Euro über den Brauen – erhob sich nach dem Dessert."
+        },
+        {
+          "s": "Figur",
+          "t": "Vor allen fünfzehn Abteilungsleitern schlug sie mit dem Löffel ans Kristallglas:"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dieses Event feiert unseren Teamerfolg auf Firmenkosten. Doch das Trinkgeld für die Belegschaft, exakt 120 Euro in bar, spendiert heute unser großmäuliger Abteilungsleiter Marc persönlich!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich lief feuerrot an. Karolin, stammelte ich verzweifelt, das war anders budgetiert, das sprengt mein Bargeld!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer ein Team führen will, Marc, knausert nicht vor den Augen seiner Untergebenen!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Kollegen klatschten hämisch. Mit zitternden Fingern musste ich sechs Zwanziger auf den Silberteller blättern."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Stirnwert sackte augenblicklich ab."
+        },
+        {
+          "s": "Figur",
+          "t": "In meiner Manteltasche brannte die gefälschte Spesenquittung, mit der ich Dennis gedeckt hatte."
+        },
+        {
+          "s": "Figur",
+          "t": "Wessen Name stand dort gefälscht?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Und das Trinkgeld für den gesamten Abend, exakt 120 Euro bar, übernimmt unser großzügiger Marc hier!",
+      "quote_by": {
+        "level": 5,
+        "name": "Karolin",
+        "badge": "5.900 €",
+        "character": "Stately broccoli woman with sculpted green florets hair, sharp navy pantsuit, glowing 5.900 € display across forehead.",
+        "scene": "Medium shot at head of long dining table, Karolin the broccoli standing tall, hands clasped, gesturing strictly towards Marc."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "4.600 €",
+          "bar": 0.58
+        },
+        {
+          "label": "Trinkgeld",
+          "value": "120 €",
+          "bar": 0.4
+        },
+        {
+          "label": "Status",
+          "value": "Chef",
+          "bar": 0.7
+        }
+      ],
+      "character": "Broad-shouldered pineapple man in emerald silk shirt, gold signet ring, sharp spiked crown, brilliant 4.600 € forehead numbers.",
+      "visual": "Long banquet table at Bistro Central, eye-level medium shot: Marc the pineapple begrudgingly pulling six twenty-euro notes from wallet while broccoli woman Karolin watches stone-faced, golden coin beside salt shaker.",
+      "scenes": [
+        "Corporate glass elevator gliding up skyscraper atrium, wide shot showing Marc looking down nervously while city lights shimmer below, golden coin in floor corner.",
+        "Bistro Central private dining room, wide shot with 15 produce colleagues drinking champagne around a massive table, golden coin on brass chandelier hook.",
+        "Close-up detail shot of crisp banknotes sliding across white linen tablecloth toward a silver tip tray, golden coin tucked beneath tray edge.",
+        "Restroom mirror of bistro, medium shot showing pineapple Marc splashing cold water on his face in fury, golden coin next to designer soap dispenser.",
+        "Rain-drenched taxi stand outside restaurant, medium shot of Marc pulling heavy trench coat tight while glaring at colleagues, golden coin lying on curb.",
+        "High-end cocktail lounge across street, wide shot showing Karolin sipping gin while observing Marc through rainy glass, golden coin resting on coaster."
+      ],
+      "caption": "Muss der Chef immer das Trinkgeld für alle blechen? Schreib deine Meinung unten rein! #arbeitsleben #trinkgeld #spesen #stirnzahl #bosslife"
+    },
+    {
+      "n": 5,
+      "open_loop": "Was passierte auf Viktors Penthouse-Terrasse?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Erpresst Karolin skrupellos, die 890-Euro-Champagnerrechnung zu übernehmen, um ihre Beförderung nicht zu zerstören."
+      },
+      "name": "Karolin, 42, Senior Partnerin",
+      "badge": "5.900 € netto",
+      "verdict": "KORREKT",
+      "story": "890 Euro Champagner-Rechnung auf mich abwälzen, nur weil ich Partnerin werden will?! Auf Marcs gefälschter Spesenabrechnung stand tatsächlich mein eigener Name als angebliche Genehmigerin – doch bevor ich ihn feuern konnte, geriet ich selbst ins Fadenkreuz. Ich bin Karolin, Brokkoli, 5.900 Euro hart erarbeitetes Netto auf der Stirn. Im exklusiven Salon des Bistro Central verhandelte ich mit Olivia, der extravaganten Drachenfrucht mit schillernden 7.500 Euro. Olivia bestellte ungefragt drei Magnumflaschen feinsten Jahrgangs-Champagner für unfassbare 890 Euro. Als die Gesamtrechnung serviert wurde, lehnte sie sich genüsslich zurück, schob mir die Rechnung zu und flüsterte giftig: Wenn du Senior Partnerin werden willst, zahlst du das hier mit einem Lächeln, Liebling! Ich protestierte scharf: Wir teilen penibel nach Konsum, Olivia! Wenn die Karte nicht durchgeht, geht das Foto an den Aufsichtsrat, hauchte sie. Gedemütigt tippte ich meine Platinkarte ans Terminal. Meine Stirnzahl stürzte brutal ab. Doch bevor ich gehen konnte, schickte Olivia das Foto live an mein wichtigstes Kundendate Viktor. Was passierte auf Viktors Penthouse-Terrasse? Das siehst du in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "-890 €",
+        "after": "5.010 €"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "890 Euro Champagner-Rechnung auf mich abwälzen, nur weil ich Partnerin werden will?!"
+        },
+        {
+          "s": "Figur",
+          "t": "Auf Marcs gefälschter Spesenabrechnung stand tatsächlich mein eigener Name als angebliche Genehmigerin – doch bevor ich ihn feuern konnte, geriet ich selbst ins Fadenkreuz."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Karolin, Brokkoli, 5.900 Euro hart erarbeitetes Netto auf der Stirn."
+        },
+        {
+          "s": "Figur",
+          "t": "Im exklusiven Salon des Bistro Central verhandelte ich mit Olivia, der extravaganten Drachenfrucht mit schillernden 7.500 Euro."
+        },
+        {
+          "s": "Figur",
+          "t": "Olivia bestellte ungefragt drei Magnumflaschen feinsten Jahrgangs-Champagner für unfassbare 890 Euro."
+        },
+        {
+          "s": "Figur",
+          "t": "Als die Gesamtrechnung serviert wurde, lehnte sie sich genüsslich zurück, schob mir die Rechnung zu und flüsterte giftig:"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wenn du Senior Partnerin werden willst, zahlst du das hier mit einem Lächeln, Liebling!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich protestierte scharf: Wir teilen penibel nach Konsum, Olivia!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wenn die Karte nicht durchgeht, geht das Foto an den Aufsichtsrat, hauchte sie.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Gedemütigt tippte ich meine Platinkarte ans Terminal. Meine Stirnzahl stürzte brutal ab."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch bevor ich gehen konnte, schickte Olivia das Foto live an mein wichtigstes Kundendate Viktor."
+        },
+        {
+          "s": "Figur",
+          "t": "Was passierte auf Viktors Penthouse-Terrasse?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Wer in die oberste Liga will, rechnet keine Cents vor den Kunden ab.",
+      "quote_by": {
+        "level": 6,
+        "name": "Olivia",
+        "badge": "7.500 €",
+        "character": "Glamorous dragonfruit woman with glittering magenta gown, diamond choker, glowing 7.500 € digital headband.",
+        "scene": "Medium shot in luxury private lounge, Olivia raising crystal flute of champagne while looking condescendingly at Karolin."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "5.900 €",
+          "bar": 0.68
+        },
+        {
+          "label": "Champagner",
+          "value": "890 €",
+          "bar": 0.72
+        },
+        {
+          "label": "Disziplin",
+          "value": "100 %",
+          "bar": 0.95
+        }
+      ],
+      "character": "Disciplined broccoli woman with compact curly florets hairstyle, fitted navy wool blazer, pearl necklace, glowing 5.900 € display.",
+      "visual": "Luxury VIP dining alcove, eye-level medium shot: broccoli Karolin stiffly handing platinum card to tuxedo waiter while dragonfruit Olivia raises crystal glass, golden coin near champagne bucket base.",
+      "scenes": [
+        "Executive corner office at dusk, wide shot looking out over skyline with Karolin reviewing thick leather folders, golden coin resting on marble desk edge.",
+        "Bistro Central VIP cellar room, wide shot showing ornate crystal chandeliers, vintage bottles on racks, and fruit partners dining, golden coin on mantle.",
+        "Close-up detail shot of restaurant leather bill folio opened to show 890.00 Euro total with black pen lying across, golden coin tucked under bill flap.",
+        "Powder room of the luxury restaurant, medium shot of Karolin examining her dimmed forehead digits in golden baroque mirror, golden coin beside washbasin tap.",
+        "Bistro terrace in evening drizzle, wide shot showing Karolin watching Olivia enter a waiting town car, golden coin stuck between terrace cobblestones.",
+        "Modern subway terminal late night, medium shot of Karolin holding briefcase quietly surrounded by tired city commuters, golden coin on metro step."
+      ],
+      "caption": "Rechnung genau teilen oder einfach großzügig sein? Was würdest du bei 890 € machen? Schreib es rein! #businessdinner #karriere #stirnzahl #gönnenkönnen #fyp"
+    },
+    {
+      "n": 6,
+      "open_loop": "Warum rief Viktor plötzlich den Chefkoch persönlich an den Tisch?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Viktor lässt Olivia vor ihren 250.000 Followern eiskalt auflaufen und weigert sich, die 3.200-Euro-Kaviar-Rechnung zu übernehmen."
+      },
+      "name": "Olivia, 29, Influencerin",
+      "badge": "7.500 € netto",
+      "verdict": "LUXUS-BLENDER",
+      "story": "3.200 Euro Kaviar verfressen und mein Date schiebt mir eiskalt die Mappe zu – dabei hatte ich Karolins Erpresser-Foto gerade erst auf seinem Tisch platziert! Ich bin Olivia, Drachenfrucht, scheinbar glänzende 7.500 Euro auf der Stirn. Im Penthouse-Club über den Dächern von Fruchtstadt saß ich mit Viktor, einer massiven Kokosnuss im Nadelstreifenanzug mit unfassbaren 11.000 Euro Monatsverdienst. Um meine 250.000 Follower im Live-Stream zu beeindrucken, bestellte ich drei Dosen Beluga-Kaviar, Trüffelpasta und feinsten Wodka. Doch als die Rechnung über astronomische 3.200 Euro gebracht wurde und ich zuckersüß flötete, dass echte Milliardäre natürlich alles übernehmen, schob Viktor die Mappe ungerührt mit einem Finger zu mir zurück: Wer die Luxusshow für Klicks inszeniert, zahlt den Eintritt selbst, Püppchen! Mir gefror das Blut. Mein Live-Stream lief weiter, zehntausende Kommentare fluteten den Chat. Panisch zückte ich meine Kreditkarte, doch das Display am Lesegerät piepte grell rot: Vorgang abgelehnt – Limit überschritten! Todesangst packte mich vor der totalen Blamage. Mein Stirnwert begann wild zu flimmern. In genau diesem Moment schnippte Viktor arrogant mit den Fingern und rief den Chefkoch persönlich heran. Was plante Viktor mit dem Küchenchef? Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "-3.200 €",
+        "after": "4.300 €"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "3.200 Euro Kaviar verfressen und mein Date schiebt mir eiskalt die Mappe zu – dabei hatte ich Karolins Erpresser-Foto gerade erst auf seinem Tisch platziert!"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Olivia, Drachenfrucht, scheinbar glänzende 7.500 Euro auf der Stirn."
+        },
+        {
+          "s": "Figur",
+          "t": "Im Penthouse-Club über den Dächern von Fruchtstadt saß ich mit Viktor, einer massiven Kokosnuss im Nadelstreifenanzug mit unfassbaren 11.000 Euro Monatsverdienst."
+        },
+        {
+          "s": "Figur",
+          "t": "Um meine 250.000 Follower im Live-Stream zu beeindrucken, bestellte ich drei Dosen Beluga-Kaviar, Trüffelpasta und feinsten Wodka."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch als die Rechnung über astronomische 3.200 Euro gebracht wurde und ich zuckersüß flötete, dass echte Milliardäre natürlich alles übernehmen, schob Viktor die Mappe ungerührt mit einem Finger zu mir zurück:"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer die Luxusshow für Klicks inszeniert, zahlt den Eintritt selbst, Püppchen!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mir gefror das Blut. Mein Live-Stream lief weiter, zehntausende Kommentare fluteten den Chat."
+        },
+        {
+          "s": "Figur",
+          "t": "Panisch zückte ich meine Kreditkarte, doch das Display am Lesegerät piepte grell rot: Vorgang abgelehnt – Limit überschritten!"
+        },
+        {
+          "s": "Figur",
+          "t": "Todesangst packte mich vor der totalen Blamage. Mein Stirnwert begann wild zu flimmern."
+        },
+        {
+          "s": "Figur",
+          "t": "In genau diesem Moment schnippte Viktor arrogant mit den Fingern und rief den Chefkoch persönlich heran."
+        },
+        {
+          "s": "Figur",
+          "t": "Was plante Viktor mit dem Küchenchef?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Wer die Show bestellt, bezahlt das Ticket selbst, Püppchen.",
+      "quote_by": {
+        "level": 7,
+        "name": "Viktor",
+        "badge": "11.000 €",
+        "character": "Imposing coconut man in bespoke charcoal three-piece suit, diamond cufflinks, glowing 11.000 € display on heavy fibrous forehead.",
+        "scene": "Medium shot in penthouse rooftop restaurant, coconut Viktor calmly pushing bill holder away with one thick finger while looking unimpressed."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "7.500 €",
+          "bar": 0.78
+        },
+        {
+          "label": "Kaviar",
+          "value": "3.200 €",
+          "bar": 0.88
+        },
+        {
+          "label": "Follower",
+          "value": "250 k",
+          "bar": 0.82
+        }
+      ],
+      "character": "Striking pink dragonfruit woman with patterned magenta scales, shimmering evening dress, smartphone on selfie stick, glowing 7.500 € headband.",
+      "visual": "Rooftop penthouse lounge overlooking neon skyline, medium shot: dragonfruit Olivia staring with mouth open as coconut man Viktor pushes leather bill folder across glass table, golden coin behind vodka cooler.",
+      "scenes": [
+        "Glossy beauty dressing room with ring lights, designer handbags on shelves, wide shot showing Olivia taking selfies, golden coin on dressing table.",
+        "Penthouse terrace over Fruchtstadt skyline, wide shot showing neon signs reflecting on glass balustrades and elite diners, golden coin under terrace planter.",
+        "Detail close-up of caviar dish with mother-of-pearl spoon and open receipt reading 3.200 Euro, golden coin resting against caviar tin rim.",
+        "Penthouse bar area, medium shot showing Viktor sipping neat whiskey while Olivia frantically checks credit card limits on phone, golden coin beside ice tongs.",
+        "Restroom foyer in penthouse club with black marble and brass fixtures, wide shot of Olivia touching up makeup with shaking fingers, golden coin on vanity shelf.",
+        "Elevator hall with polished brass doors, medium shot showing Viktor turning away as elevator arrives, golden coin wedged in floor gap."
+      ],
+      "caption": "Sollte beim Date immer noch der Mann alles bezahlen oder wird geteilt? Schreib dein Urteil! #dating #rechnung #influencer #stirnzahl #realitycheck"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welche geheime schwarze Plastikkarte legte der schweigende Kellner Milan plötzlich auf den Tisch?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Kellner Milan stellt Viktor bloß, erteilt ihm Hausverbot und entpuppt sich als wahrer Strippenzieher."
+      },
+      "name": "Viktor, 48, Immobilien-Investor",
+      "badge": "11.000 € netto",
+      "verdict": "MACHT-ELITE",
+      "story": "Ein Kellner mit 1.200 Euro auf der Stirn erteilt mir, dem 11.000-Euro-Investor, Hausverbot?! Ich bin Viktor, Kokosnuss, knallharter Immobilienmagnat. Wer in meiner Gegenwart speist, zahlt seinen Dreck selbst. Ich hatte Olivia vor ihren Followern absichtlich auflaufen lassen und den Chefkoch gerufen, um den Kaviar als ungenießbar zu deklarieren und die Zeche zu prellen. Doch anstelle des Koches trat unser einfacher Kellner Milan vor meinen Tisch – eine runzlige Feige im abgetragenen Frack mit lächerlichen 1.200 Euro auf der Stirn. Mit stoischer Ruhe nahm er die 3.200-Euro-Rechnung an sich. Seine dunklen Augen fixierten mich eisig: Herr Viktor, dieser Tisch geht aufs Haus. Aber Sie beide verlassen auf der Stelle mein Lokal und betreten keines meiner Häuser mehr! Ein lähmendes Schock-Schweigen legte sich über den gesamten Penthouse-Saal. Die High-Society-Gäste an den Nachbartischen hielten mit offenem Mund das Besteck an. Ich sprang wutschnaubend auf: Du armseliger Tellerwäscher willst mir den Zutritt verwehren?! Da berührte Milan lächelnd seine Stirn. Seine Zahlen begannen infernalisch zu glühen, und er legte eine mattschwarze Titan-Karte auf das Tischtuch. Was war das für eine Karte? Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+0 €",
+        "after": "11.000 €"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Ein Kellner mit 1.200 Euro auf der Stirn erteilt mir, dem 11.000-Euro-Investor, Hausverbot?!"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Viktor, Kokosnuss, knallharter Immobilienmagnat. Wer in meiner Gegenwart speist, zahlt seinen Dreck selbst."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich hatte Olivia vor ihren Followern absichtlich auflaufen lassen und den Chefkoch gerufen, um den Kaviar als ungenießbar zu deklarieren und die Zeche zu prellen."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch anstelle des Koches trat unser einfacher Kellner Milan vor meinen Tisch – eine runzlige Feige im abgetragenen Frack mit lächerlichen 1.200 Euro auf der Stirn."
+        },
+        {
+          "s": "Figur",
+          "t": "Mit stoischer Ruhe nahm er die 3.200-Euro-Rechnung an sich. Seine dunklen Augen fixierten mich eisig:"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Herr Viktor, dieser Tisch geht aufs Haus. Aber Sie beide verlassen auf der Stelle mein Lokal und betreten keines meiner Häuser mehr!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ein lähmendes Schock-Schweigen legte sich über den gesamten Penthouse-Saal. Die High-Society-Gäste an den Nachbartischen hielten mit offenem Mund das Besteck an."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sprang wutschnaubend auf: Du armseliger Tellerwäscher willst mir den Zutritt verwehren?!"
+        },
+        {
+          "s": "Figur",
+          "t": "Da berührte Milan lächelnd seine Stirn. Seine Zahlen begannen infernalisch zu glühen, und er legte eine mattschwarze Titan-Karte auf das Tischtuch."
+        },
+        {
+          "s": "Figur",
+          "t": "Was war das für eine Karte?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Herr Viktor, sagte Milan mit tiefer, bebender Stimme, dieser Tisch geht aufs Haus, aber Sie beide verlassen mein Lokal sofort.",
+      "quote_by": {
+        "level": 8,
+        "name": "Milan",
+        "badge": "1.200 €",
+        "character": "Understated deep-purple fig man in immaculate black waiter tuxedo, silver bow tie, unassuming 1.200 € display on forehead.",
+        "scene": "Medium shot at penthouse table, fig waiter Milan standing with straight posture, picking up bill booklet with commanding authority."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "11.000 €",
+          "bar": 0.9
+        },
+        {
+          "label": "Portfolio",
+          "value": "4,5 Mio",
+          "bar": 0.95
+        },
+        {
+          "label": "Kulanz",
+          "value": "0 %",
+          "bar": 0.05
+        }
+      ],
+      "character": "Heavy coconut man with fibrous brown shell skin, tailored pinstripe suit, thick gold signet ring, glowing cyan 11.000 € forehead headband.",
+      "visual": "Penthouse restaurant center stage, eye-level medium shot: coconut Viktor staring dumbfounded as fig waiter Milan calmly places black VIP card on white tablecloth, golden coin next to water glass.",
+      "scenes": [
+        "Construction site overlooking river harbor, wide shot of Viktor inspecting blueprints surrounded by crane towers, golden coin on concrete block.",
+        "Penthouse restaurant wine display wall, wide shot of towering glass cases with rare vintages and patrons dining, golden coin on brass display ledge.",
+        "Close-up detail shot of Milan's purple fruit hand placing embossed matte black card on linen cloth, golden coin reflecting candlelight nearby.",
+        "Terrace edge, medium shot showing coconut Viktor rising from his chair with furious expression, golden coin wedged in floor lighting fixture.",
+        "Bistro Central kitchen entrance downstairs, wide shot showing cooks and waiters pausing work in reverence, golden coin on stainless pass table.",
+        "Late-night penthouse foyer, wide shot of guests watching Viktor and Olivia exit through revolving glass door, golden coin by concierge counter."
+      ],
+      "caption": "Wenn der Kellner plötzlich mächtiger ist als der Millionär am Tisch! Wo stehst du auf der Skala? #undercoverboss #stirnzahl #restaurant #plotwist #viral"
+    },
+    {
+      "n": 8,
+      "open_loop": "Keine offene Frage mehr, das Netz schließt sich vollständig.",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Milan schließt den Kreis: Er zahlt Timo und Samira ihr Geld bar im Umschlag zurück und demütigt Viktor und Dennis live vor Ort."
+      },
+      "name": "Milan, 63, Eigentümer",
+      "badge": "50.000 € netto",
+      "verdict": "DER WAHRE BOSS",
+      "story": "50.000 Euro flammten in Gold auf meiner Stirn auf – und den Großmäulern fiel das Besteck aus der Hand! Die mattschwarze Titan-Karte war die alleinige Eigentümer-Lizenz der gesamten Restaurant-Kette Fruchtstadt. Ich bin Milan, Feige, Multimillionär. Ich trage im Service absichtlich die 1.200-Euro-Kellnerblende, um die menschlichen Abgründe meiner Kundschaft schonungslos zu studieren. An diesem Abend habe ich jede Demütigung protokolliert: Wie Dennis Azubi Timo um 76 Euro für ein Glas Wasser beraubte. Wie Marc Studentin Samira ihr Wechselgeld stahl. Wie Karolin erpresst wurde und wie Viktor seine Begleitung vor tausenden Zuschauern fallen ließ. Vor den Augen der erstarrten Eliten rief ich Timo und Samira direkt nach vorn. Während Dennis und Viktor zitternd und bleich zusehen mussten, überreichte ich dem fassungslosen Azubi und der weinenden Studentin dicke, versiegelte Bargeld-Umschläge: Jeder Cent erstattet, plus 1.000 Euro Entschädigung für ihre Würde. Echte Größe zeigt sich nicht darin, wer die Rechnung prellt, sondern wer Schwachen den Rücken stärkt. Welches Thema sollen wir als Nächstes aufdecken: Die 8 Level der Wohnungssuche oder die 8 Level beim ersten Date? Schreib es jetzt in die Kommentare!",
+      "gender": "m",
+      "twist": {
+        "delta": "+48.800 €",
+        "after": "50.000 €"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "50.000 Euro flammten in Gold auf meiner Stirn auf – und den Großmäulern fiel das Besteck aus der Hand!"
+        },
+        {
+          "s": "Figur",
+          "t": "Die mattschwarze Titan-Karte war die alleinige Eigentümer-Lizenz der gesamten Restaurant-Kette Fruchtstadt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Milan, Feige, Multimillionär. Ich trage im Service absichtlich die 1.200-Euro-Kellnerblende, um die menschlichen Abgründe meiner Kundschaft schonungslos zu studieren."
+        },
+        {
+          "s": "Figur",
+          "t": "An diesem Abend habe ich jede Demütigung protokolliert: Wie Dennis Azubi Timo um 76 Euro für ein Glas Wasser beraubte."
+        },
+        {
+          "s": "Figur",
+          "t": "Wie Marc Studentin Samira ihr Wechselgeld stahl."
+        },
+        {
+          "s": "Figur",
+          "t": "Wie Karolin erpresst wurde und wie Viktor seine Begleitung vor tausenden Zuschauern fallen ließ."
+        },
+        {
+          "s": "Figur",
+          "t": "Vor den Augen der erstarrten Eliten rief ich Timo und Samira direkt nach vorn."
+        },
+        {
+          "s": "Figur",
+          "t": "Während Dennis und Viktor zitternd und bleich zusehen mussten, überreichte ich dem fassungslosen Azubi und der weinenden Studentin dicke, versiegelte Bargeld-Umschläge: Jeder Cent erstattet, plus 1.000 Euro Entschädigung für ihre Würde."
+        },
+        {
+          "s": "Figur",
+          "t": "Echte Größe zeigt sich nicht darin, wer die Rechnung prellt, sondern wer Schwachen den Rücken stärkt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema sollen wir als Nächstes aufdecken: Die 8 Level der Wohnungssuche oder die 8 Level beim ersten Date? Schreib es jetzt in die Kommentare!"
+        }
+      ],
+      "quote": "Ihr glaubt alle, eure Stirnzahlen geben euch das Recht, andere zu zertrampeln.",
+      "quote_by": {
+        "level": 7,
+        "name": "Viktor",
+        "badge": "11.000 €",
+        "character": "Stunned coconut man in pinstripe suit, shoulders hunched, staring wide-eyed at Milan's true badge transformation.",
+        "scene": "Medium shot on penthouse terrace, coconut Viktor retreating a step in disbelief while Milan's forehead numerals erupt in blinding gold light."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "50.000 €",
+          "bar": 1.0
+        },
+        {
+          "label": "Lokale",
+          "value": "14 Bistro",
+          "bar": 0.95
+        },
+        {
+          "label": "Respekt",
+          "value": "Unbezahlb",
+          "bar": 1.0
+        }
+      ],
+      "character": "Wise elder fig man with deep purple skin, tailored Italian tuxedo, silver pocket watch, blazing gold 50.000 € display shining on his forehead.",
+      "visual": "Grand panoramic shot inside Bistro Central main hall at closing time, Milan the fig standing center stage with radiant 50.000 € display, all previous characters visible in background, golden coin shining in foreground center.",
+      "scenes": [
+        "Secret penthouse back office lined with surveillance monitors showing all bistro tables, wide shot of Milan watching screen feeds, golden coin beside master safe.",
+        "Bistro Central kitchen after closing, medium shot of Milan handing cash envelopes to Timo and Samira, golden coin on stainless prep table.",
+        "Morning sidewalk on Auguststraße, wide shot showing Milan unlocking the restaurant door while morning city wakes up, golden coin on brass door handle.",
+        "Detail close-up of Timo's strawberry hand holding reimbursement cash with phone showing bank notification, golden coin lying next to phone.",
+        "High-angle wide shot of Fruchtstadt city center with neon signs glowing through morning mist, golden coin embedded in pavement mosaic.",
+        "Bistro Central front entrance portrait shot of Milan smiling warmly toward camera, glowing 50.000 € badge on forehead, golden coin resting on entrance threshold."
+      ],
+      "caption": "Das große Finale von Level 8! Wer hat die Rechnung am fairsten verdient? Welches Thema als Nächstes: Wohnungssuche oder Erstes Date? #finale #stirnzahl #plotwist #gerechtigkeit #viral"
+    }
+  ],
+  "lang": "de",
+  "topic": "Die Restaurant-Rechnung unter Freunden aufteilen",
+  "frame": "frucht"
+}

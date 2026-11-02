@@ -1,0 +1,16 @@
+{
+  "scores": {
+    "hook": 5,
+    "tempo": 5,
+    "bild": 5,
+    "stimme": 3,
+    "untertitel": 3,
+    "ende": 4
+  },
+  "gesamt": 41,
+  "verbesserungen": [
+    "Sprachchaos korrigieren: Entscheide dich für eine konsistente Sprache – das ständige Wechseln zwischen Deutsch und Englisch im Voiceover wirkt wie ein fehlerhafter KI-Prompt.",
+    "Untertitel mit Audio synchronisieren: Die Untertitel laufen auf Englisch, während die Audiospur teils Deutsch spricht, was für Verwirrung sorgt und die Watchtime ruiniert.",
+    "Bessere visuelle Untermalung statt statischer KI-Loops: Zeige echte Beispiele, App-Logos oder animierte Kontostände, anstatt zusammenhangloser KI-Fruchtfiguren mit simplen Zoom-Effekten."
+  ]
+}
