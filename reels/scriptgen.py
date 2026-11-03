@@ -387,6 +387,10 @@ def ensure_next_line(s, lang):
         last = re.sub(r"\s*(Teil|Part|Parte|Partie)\s*\d+\.?\s*$", "", last).rstrip()
         last = last.replace(line, "").rstrip()
         lines[-1]["t"] = last
+        for x in lines:  # Schlusssätze anderer Sprachen (z. B. deutsches „Das siehst du…“ im EN-Teil) entfernen
+            for tpl in NEXT_LINE.values():
+                pat = re.escape(tpl).replace(r"\{n\}", r"(\d+|X)")
+                x["t"] = re.sub(pat, "", x["t"], flags=re.I).strip()
         lines = [x for x in lines if x["t"]] + [{"s": "Erzaehler", "t": line}]
         lv["lines"] = lines
         lv["story"] = " ".join(x["t"] for x in lines)
@@ -416,12 +420,28 @@ def blueprint_hint(topic):
             f"{rules}\n- Mögliche Hooks (frei abwandeln): {hooks}\n")
 
 
-GERMAN_WORDS = {"und", "der", "die", "das", "ich", "nicht", "mit", "ist", "ein", "eine", "auf", "mich", "mir", "sich", "auch", "aber"}
+GERMAN_WORDS = {"und", "der", "die", "das", "ich", "nicht", "mit", "ist", "ein", "eine", "auf", "mich", "mir", "sich", "auch", "aber",
+                "heute", "mal", "wir", "du", "dein", "mein", "noch", "schon", "sehr", "kein", "keine", "wenn",
+                "dann", "oder", "wie", "hat", "habe", "bin", "sind", "zu", "im", "den", "dem", "nur", "siehst"}
 
 
 def _looks_german(text):
+    """True, wenn der Text insgesamt Deutsch wirkt ODER einzelne Sätze Deutsch sind (Sprachmix im EN-Video)."""
     words = re.findall(r"[a-zäöüß]+", text.lower())
-    return bool(words) and sum(w in GERMAN_WORDS for w in words) / len(words) > 0.08
+    if not words:
+        return False
+    if sum(w in GERMAN_WORDS for w in words) / len(words) > 0.08 or re.search(r"[äöüß]", text.lower()):
+        return True
+    for sent in re.split(r"[.!?\n]+", text.lower()):
+        w = re.findall(r"[a-z]+", sent)
+        if len(w) >= 3 and sum(x in GERMAN_WORDS for x in w) >= 2:
+            return True
+    return False
+
+
+def _series_text(s):
+    lv = s["levels"][0]
+    return " ".join(str(v) for v in lv.values() if isinstance(v, str)) + " " + str(s.get("title", ""))
 
 
 def write_series(topic, lang, frame="aufzug"):
@@ -437,7 +457,7 @@ def write_series(topic, lang, frame="aufzug"):
         s = ensure_next_line(validate_series(ask(prompt)), lang)
         s = ensure_next_line(validate_series(critic.improve_series(s, ask, f"{lang}_{frame}_{topic}")), lang)
         words = len(s["levels"][0]["story"].split())
-        if lang != "de" and _looks_german(s["levels"][0]["story"]):
+        if lang != "de" and _looks_german(_series_text(s)):
             # Ersatz-KIs schreiben bei deutschem Prompt gern auf Deutsch: eine EN-Folge mit deutscher Stimme ist wertlos
             print("  Story ist Deutsch statt", LANG_NAMES[lang], "– neuer Versuch")
             prompt += f"\nWICHTIG: Schreibe ALLE Texte (Titel, Story, Zeilen, Captions) ausschließlich auf {LANG_NAMES[lang]}."

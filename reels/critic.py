@@ -55,6 +55,8 @@ SERIE:
 REWRITE_PROMPT = """Überarbeite diese Serie anhand der Jury-Kritik. Behalte Thema, Figuren-Grundidee, alle Regeln
 und exakt dasselbe JSON-Format (alle Felder, 8 Level, letzter Satz jedes Teils unverändert als
 "Das siehst du in Level X." bzw. in der Zielsprache). Setze jede Kritik konkret um.
+Schreibe ALLE Texte in derselben Sprache wie die Serie (englische Serie = kein einziger deutscher Satz,
+auch wenn diese Anweisung Deutsch ist).
 
 JURY-KRITIK:
 {critique}
@@ -65,7 +67,8 @@ SERIE:
 VIDEO_PROMPT = """Du bist eine strenge Jury für virale Kurzvideos. Schau und hör dir dieses Reel komplett an.
 Bewerte je 0-10: hook (erste 2 Sekunden), tempo (Schnitte, Bewegung, Dopamin), bild (eigenständiger, schöner
 Look, Bilder passen zur Erzählung, keine Fehler), stimme (natürlich, emotional, nicht roboterhaft),
-untertitel (lesbar, synchron), ende (will man Teil n+1 sehen?). Dazu gesamt (0-100) und die 3 wichtigsten
+untertitel (lesbar, synchron), ende (will man Teil n+1 sehen?). Wechselt das Video zwischen Sprachen
+(z. B. deutsche Sätze in einem englischen Video), ist gesamt höchstens 50. Dazu gesamt (0-100) und die 3 wichtigsten
 konkreten Verbesserungen. Antworte NUR mit JSON:
 {"scores": {"hook": int, "tempo": int, "bild": int, "stimme": int, "untertitel": int, "ende": int},
  "gesamt": int, "verbesserungen": [str, str, str]}"""
