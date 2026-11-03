@@ -1,0 +1,740 @@
+{
+  "title": "Die 8 Level des Doppellebens",
+  "house": "A bustling vegetable city with neon-lit fruit markets, grey concrete apartment blocks, and hidden VIP clubs where glowing digital numbers dictate every social interaction.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Barista in Level 2 mentions the regular customer in the tailored suit who always tips generously.",
+    "The broken coffee machine from Level 1 is found smashed in the alleyway in Level 4.",
+    "The green smoothie spilled in Level 3 belongs to the fitness trainer from Level 7.",
+    "A flyer for the secret platform from Level 5 flutters past the window in Level 6."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Wer hat die anonyme Spende von 500 Euro auf ihrem Account hinterlassen?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Lacht sie im Supermarkt aus und wirft ihr vor, zu faul für echte Arbeit zu sein."
+      },
+      "name": "Marie, 19, Studentin",
+      "badge": "120 €",
+      "verdict": "PLEITE",
+      "story": "Die 8 Level von Doppelleben. Level 1. 120 Euro? Mein Chef wirft mir das Geld vor die Füße und lacht: 'Für mehr taugt dein billiges Gesicht eh nicht.' Ich sitze in meiner eiskalten WG-Küche in Berlin-Neukölln, der Wind pfeift durch das undichte Fenster und treibt mir fast die Tränen in die Augen. Auf meiner Stirn leuchtet unbarmherzig und verspottend die Zahl 120 Euro. Die Miete für mein winziges Zimmer beträgt aber unerbittliche 450 Euro plus Nebenkosten. Wie soll ich das bis zum ersten des Monats jemals bezahlen? Ich öffne mein Handy, tippe auf die verbotene App und starte den Livestream, obwohl mir bei dem Gedanken speiübel wird. Wie bezahlst du eigentlich deine Miete, du kleine Heulsuse? Solche wie du überleben hier keine Woche ohne einen reichen Sponsor, der für sie die Drecksarbeit macht. Ich schlucke den bitteren Kloß im Hals herunter und will gerade eine scharfe Antwort entgegnen, da piept mein Smartphone wild auf dem Tisch und zeigt eine neue Nachricht an. Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+500 €",
+        "after": "620 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Doppelleben. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "120 Euro? Mein Chef wirft mir das Geld vor die Füße und lacht: 'Für mehr taugt dein billiges Gesicht eh nicht.'"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze in meiner eiskalten WG-Küche in Berlin-Neukölln, der Wind pfeift durch das undichte Fenster und treibt mir fast die Tränen in die Augen."
+        },
+        {
+          "s": "Figur",
+          "t": "Auf meiner Stirn leuchtet unbarmherzig und verspottend die Zahl 120 Euro. Die Miete für mein winziges Zimmer beträgt aber unerbittliche 450 Euro plus Nebenkosten."
+        },
+        {
+          "s": "Figur",
+          "t": "Wie soll ich das bis zum ersten des Monats jemals bezahlen? Ich öffne mein Handy, tippe auf die verbotene App und starte den Livestream, obwohl mir bei dem Gedanken speiübel wird."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wie bezahlst du eigentlich deine Miete, du kleine Heulsuse?",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Solche wie du überleben hier keine Woche ohne einen reichen Sponsor, der für sie die Drecksarbeit macht.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schlucke den bitteren Kloß im Hals herunter und will gerade eine scharfe Antwort entgegnen, da piept mein Smartphone wild auf dem Tisch und zeigt eine neue Nachricht an."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Solche wie du überleben hier keine Woche ohne einen reichen Sponsor.",
+      "quote_by": {
+        "level": 4,
+        "name": "Tom",
+        "badge": "14.500 €",
+        "character": "An arrogant coconut man with a hard brown shell, wearing a tight designer jacket and a gold chain.",
+        "scene": "Close-up shot in a cluttered student kitchen, pointing dismissively at Marie's forehead with a smirk."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "120 €",
+          "bar": 0.05
+        },
+        {
+          "label": "Plattform",
+          "value": "12 Abos",
+          "bar": 0.1
+        },
+        {
+          "label": "Schulden",
+          "value": "900 €",
+          "bar": 0.4
+        }
+      ],
+      "character": "A delicate strawberry girl with bright red skin and tiny green leaf hair, wearing an oversized grey hoodie and holding a cracked smartphone. On her forehead, a glowing digital display shows 120 €.",
+      "visual": "Wide shot of a cold, messy student kitchen in Berlin with peeling wallpaper, a flickering neon light, and a hidden golden coin on the windowsill.",
+      "scenes": [
+        "Wide shot of a rundown Berlin student kitchen with peeling wallpaper, grey morning light streaming through a dirty window, a hidden golden coin resting on the windowsill.",
+        "Close-up on Marie's strawberry face looking stressed at her cracked smartphone screen, glowing blue light reflecting in her teary eyes.",
+        "Medium shot of Tom the coconut man leaning against the doorframe, pointing mockingly at her forehead display.",
+        "Detail shot of the glowing digital number 120 € flickering unsteadily on Marie's forehead.",
+        "Over-the-shoulder shot showing the dark room illuminated only by a cheap ring light on a tripod.",
+        "Close-up of the smartphone screen displaying an incoming bank transfer notification with a large sum."
+      ],
+      "caption": "Würdest du dein Gesicht für Geld im Netz zeigen? #doppelleben #stirnzahl #drama #viral #berlin"
+    },
+    {
+      "n": 2,
+      "open_loop": "Wer ist der mysteriöse Abonnent mit dem Codenamen 'Ghost_99', der ihr plötzlich 2.000 Euro schickt?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Beschuldigt sie im Café der Ruhestörung und droht mit der Kündigung ihres Accounts."
+      },
+      "name": "Ben, 24, Barista",
+      "badge": "1.450 €",
+      "verdict": "KNAPP",
+      "story": "Die 8 Level von Doppelleben. Level 2. 1.450 Euro? Meine Filialleiterin zertrümmert meinen Becher und zischt: 'Mit dem Lohn bleibst du für immer ein Niemand.' Hinter der lauten Espressomaschine in meinem Stammcafé in Hamburg schwitze ich jeden Tag acht Stunden für einen absoluten Hungerlohn. Meine Stirn zeigt traurige 1.450 Euro netto und macht mich öffentlich zur Zielscheibe. Niemand hier im Laden ahnt, dass ich unter dem Namen 'SweetBean' nachts auf einer verrufenen Bezahlplattform Kaffeerezepte ohne Shirt streame, um überhaupt über die Runden zu kommen. Du stehst schon wieder viel zu lange auf der faulen Haut rum, Ben. Wenn das so weitergeht, putzt du heute Abend ganz allein und ohne Hilfe alle Toiletten. Ich beiße die Zähne so fest zusammen, dass es schmerzt, während mein Handy in der engen Hosentasche heftig vibriert. Eine neue Direktnachricht ploppt auf dem Display auf und verändert alles. Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1.200 €",
+        "after": "2.650 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Doppelleben. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "1.450 Euro? Meine Filialleiterin zertrümmert meinen Becher und zischt: 'Mit dem Lohn bleibst du für immer ein Niemand.'"
+        },
+        {
+          "s": "Figur",
+          "t": "Hinter der lauten Espressomaschine in meinem Stammcafé in Hamburg schwitze ich jeden Tag acht Stunden für einen absoluten Hungerlohn."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn zeigt traurige 1.450 Euro netto und macht mich öffentlich zur Zielscheibe. Niemand hier im Laden ahnt, dass ich unter dem Namen 'SweetBean' nachts auf einer verrufenen Bezahlplattform Kaffeerezepte ohne Shirt streame, um überhaupt über die Runden zu kommen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du stehst schon wieder viel zu lange auf der faulen Haut rum, Ben.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wenn das so weitergeht, putzt du heute Abend ganz allein und ohne Hilfe alle Toiletten.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich beiße die Zähne so fest zusammen, dass es schmerzt, während mein Handy in der engen Hosentasche heftig vibriert. Eine neue Direktnachricht ploppt auf dem Display auf und verändert alles."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Wenn das so weitergeht, putzt du heute Abend ganz allein die Toiletten.",
+      "quote_by": {
+        "level": 5,
+        "name": "Sarah",
+        "badge": "4.200 €",
+        "character": "A sour lemon woman with bright yellow textured skin, wearing a strict manager uniform and wire-rimmed glasses.",
+        "scene": "Medium shot behind a shiny espresso bar in a bustling Hamburg café, slamming a warning slip onto the counter."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "1.450 €",
+          "bar": 0.2
+        },
+        {
+          "label": "Trinkgeld",
+          "value": "45 €",
+          "bar": 0.15
+        },
+        {
+          "label": "Fans",
+          "value": "340",
+          "bar": 0.3
+        }
+      ],
+      "character": "A cheerful coffee-bean man with glossy brown skin and messy roasted hair, wearing a green apron over a black shirt. On her forehead, a glowing digital display shows 1.450 €.",
+      "visual": "Wide shot of a trendy, crowded café in Hamburg with warm amber lighting, steam rising from espresso machines, and a golden coin hidden near the sugar dispenser.",
+      "scenes": [
+        "Wide shot of a bustling Hamburg café with warm amber lighting, wooden tables, and a hidden golden coin resting near the sugar dispenser.",
+        "Medium shot of Ben behind the counter, wiping down the shiny stainless-steel espresso machine with a stressed expression.",
+        "Close-up of Sarah the lemon woman glaring across the counter, her yellow skin tight with annoyance.",
+        "Detail shot of Ben's forehead display shining clearly with the number 1.450 €.",
+        "Over-the-shoulder shot of Ben hiding his phone under the counter to check his creator dashboard.",
+        "Close-up of a chat notification on the phone showing a massive financial tip from an anonymous subscriber."
+      ],
+      "caption": "Wer versteckt sich wohl hinter diesem Account? #kaffee #doppelleben #hamburg #viral #geld"
+    },
+    {
+      "n": 3,
+      "open_loop": "Warum tauchte plötzlich der Chef persönlich in ihrer privaten Stream-Aufzeichnung auf?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Kürzt ihren Anteil an den Werbeeinnahmen und droht mit einer fristlosen Kündigung."
+      },
+      "name": "Lina, 26, Content Creatorin",
+      "badge": "3.100 €",
+      "verdict": "MITTELMASS",
+      "story": "Die 8 Level von Doppelleben. Level 3. 3.100 Euro? Mein Vermieter droht mir: 'Räum den Laden, oder ich rufe die Polizei.' Ich sitze in meinem hellen Loft in Köln-Sülz vor drei grellen Ringlichtern und bearbeite meine neuesten Bezahl-Videos, um die geforderte Quote zu halten. Auf meiner Stirn leuchtet stolz und provokant: 3.100 Euro. Für die meisten hier in der gutbürgerlichen Nachbarschaft ist das ein echtes Traumleben. Doch die Plattform nimmt dreißig Prozent Provision, und meine Fixkosten fressen mich langsam aber sicher auf. Du glaubst wohl, du bist jetzt schon ein großer Star mit deinen paar armseligen Abonnenten? Wenn du morgen nicht sofort die doppelte Quote erfüllst, fliegst du hier hochkant raus. Ich spüre, wie die pure Wut in mir hochkocht und meine Hände zittern. Ich will ihm gerade gehörig die Leviten lesen, als mein privates Postfach auf dem Monitor aufleuchtet. Das siehst du in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "+2.500 €",
+        "after": "5.600 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Doppelleben. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "3.100 Euro? Mein Vermieter droht mir: 'Räum den Laden, oder ich rufe die Polizei.'"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze in meinem hellen Loft in Köln-Sülz vor drei grellen Ringlichtern und bearbeite meine neuesten Bezahl-Videos, um die geforderte Quote zu halten."
+        },
+        {
+          "s": "Figur",
+          "t": "Auf meiner Stirn leuchtet stolz und provokant: 3.100 Euro. Für die meisten hier in der gutbürgerlichen Nachbarschaft ist das ein echtes Traumleben."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch die Plattform nimmt dreißig Prozent Provision, und meine Fixkosten fressen mich langsam aber sicher auf."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du glaubst wohl, du bist jetzt schon ein großer Star mit deinen paar armseligen Abonnenten?",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wenn du morgen nicht sofort die doppelte Quote erfüllst, fliegst du hier hochkant raus.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich spüre, wie die pure Wut in mir hochkocht und meine Hände zittern. Ich will ihm gerade gehörig die Leviten lesen, als mein privates Postfach auf dem Monitor aufleuchtet."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Wenn du morgen nicht die Quote erfüllst, fliegst du hier raus.",
+      "quote_by": {
+        "level": 7,
+        "name": "Leo",
+        "badge": "12.800 €",
+        "character": "An arrogant broccoli man with dense green curly hair, wearing a sharp business suit and expensive leather shoes.",
+        "scene": "Medium shot in a modern Köln office loft, leaning over a desk and pointing menacingly at the computer screen."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "3.100 €",
+          "bar": 0.35
+        },
+        {
+          "label": "Plattform",
+          "value": "890 Abos",
+          "bar": 0.45
+        },
+        {
+          "label": "Miete",
+          "value": "1.200 €",
+          "bar": 0.5
+        }
+      ],
+      "character": "An elegant avocado girl with smooth pale green skin and dark seed-brown hair, wearing a beige trench coat and minimalist silver earrings. On her forehead, a glowing digital display shows 3.100 €.",
+      "visual": "Wide shot of a stylish Köln loft apartment with modern white furniture, large studio ring lights, and a golden coin hidden under a stack of design magazines.",
+      "scenes": [
+        "Wide shot of a stylish Köln loft apartment with minimalist white furniture, large studio ring lights, and a golden coin hidden under a stack of design magazines.",
+        "Medium shot of Lina the avocado girl sitting at her sleek glass desk, editing video clips with a focused expression.",
+        "Close-up of Leo the broccoli man stepping into the frame, his green curly hair bobbing as he sneers at her.",
+        "Detail shot of the digital forehead display showing the steady number 3.100 €.",
+        "Over-the-shoulder shot showing the glowing multi-monitor setup with video timelines and comment feeds.",
+        "Close-up of a sudden direct message pop-up on the screen containing a shocking proposal."
+      ],
+      "caption": "Wie viel ist dir deine Privatsphäre wert? #koeln #doppelleben #creator #viral #erfolg"
+    },
+    {
+      "n": 4,
+      "open_loop": "Welches dunkle Geheimnis verbirgt der Mann im teuren Anzug in seiner Aktenmappe?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Kauft im Hintergrund alle Anteile ihrer Plattform auf und sperrt ihren Account ohne Vorwarnung."
+      },
+      "name": "Tom, 32, Immobilienmakler",
+      "badge": "14.500 €",
+      "verdict": "REICH",
+      "story": "Die 8 Level von Doppelleben. Level 4. 14.500 Euro? Mein Partner zieht die Pistole und flüstert: 'Ein falscher Schritt und dein Imperium brennt.' In Frankfurt fahre ich jeden Tag einen tiefergelegten Sportwagen, trage teure Maßanzüge und meine Stirn zeigt blendende 14.500 Euro. Jeder in der Bankenwelt hält mich für den unangefochtenen König der Finanzwelt. Aber niemand weiß, dass ich jeden verdienten Cent in verdeckte Anteile von Bezahlplattformen stecke, um meine eigenen verheerenden Pleiten zu kaschieren. Dein letzter großer Deal steht auf verdammt wackeligen Beinen, Tom. Wenn das Finanzamt dahinterkommt, bist du deine Lizenz noch vor dem Wochenende endgültig los. Ich stocke, mein Puls rast auf zweihundert in der Sekunde. Ich greife hektisch nach meinem Tablet, um den neuesten Kontostand zu prüfen, als eine Push-Nachricht aufleuchtet. Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "-5.000 €",
+        "after": "9.500 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Doppelleben. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "14.500 Euro? Mein Partner zieht die Pistole und flüstert: 'Ein falscher Schritt und dein Imperium brennt.'"
+        },
+        {
+          "s": "Figur",
+          "t": "In Frankfurt fahre ich jeden Tag einen tiefergelegten Sportwagen, trage teure Maßanzüge und meine Stirn zeigt blendende 14.500 Euro."
+        },
+        {
+          "s": "Figur",
+          "t": "Jeder in der Bankenwelt hält mich für den unangefochtenen König der Finanzwelt. Aber niemand weiß, dass ich jeden verdienten Cent in verdeckte Anteile von Bezahlplattformen stecke, um meine eigenen verheerenden Pleiten zu kaschieren."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein letzter großer Deal steht auf verdammt wackeligen Beinen, Tom.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wenn das Finanzamt dahinterkommt, bist du deine Lizenz noch vor dem Wochenende endgültig los.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stocke, mein Puls rast auf zweihundert in der Sekunde. Ich greife hektisch nach meinem Tablet, um den neuesten Kontostand zu prüfen, als eine Push-Nachricht aufleuchtet."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Wenn das Finanzamt dahinterkommt, bist du deine Lizenz noch vor dem Wochenende los.",
+      "quote_by": {
+        "level": 8,
+        "name": "Viktor",
+        "badge": "95.000 €",
+        "character": "An intimidating coconut man with an impenetrable dark brown shell head, wearing an ultra-luxurious tailored black suit and gold cufflinks.",
+        "scene": "Medium shot in a high-rise Frankfurt corner office with floor-to-ceiling windows, slamming a heavy leather folder onto a mahogany desk."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "14.500 €",
+          "bar": 0.65
+        },
+        {
+          "label": "Assets",
+          "value": "1.2 Mio",
+          "bar": 0.6
+        },
+        {
+          "label": "Schulden",
+          "value": "45.000 €",
+          "bar": 0.7
+        }
+      ],
+      "character": "A sleek coconut man with hard, polished dark brown skin and a sharp fade haircut, wearing a custom navy blue pinstripe suit and a Rolex watch. On her forehead, a glowing digital display shows 14.500 €.",
+      "visual": "Wide shot of a luxury high-rise office in Frankfurt overlooking the skyline at dusk, with polished marble floors and a golden coin hidden in the base of a modern desk lamp.",
+      "scenes": [
+        "Wide shot of a luxury high-rise office in Frankfurt overlooking the glowing skyline at dusk, with polished marble floors and a golden coin hidden in the base of a modern desk lamp.",
+        "Medium shot of Tom the coconut man standing by the floor-to-ceiling window, holding a glass of whiskey with a tense grip.",
+        "Close-up of Viktor stepping into the office, his hard shell reflecting the neon city lights outside.",
+        "Detail shot of Tom's forehead display showing 14.500 € glowing brightly in white light.",
+        "Over-the-shoulder shot of Tom looking at his tablet screen showing plummeting portfolio numbers.",
+        "Close-up of the tablet screen displaying a chilling warning from the platform's central administration."
+      ],
+      "caption": "Wer hoch steigt, kann verdammt tief fallen. #frankfurt #luxus #doppelleben #viral #immobilien"
+    },
+    {
+      "n": 5,
+      "open_loop": "Warum wurde ihr geheimer Creator-Account plötzlich weltweit gesperrt?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Kopiert ihre geheimen Stream-Ideen und veröffentlicht sie auf einer rivalisierenden Billig-Plattform."
+      },
+      "name": "Sarah, 29, Filialleiterin",
+      "badge": "4.200 €",
+      "verdict": "GESICHERT",
+      "story": "Die 8 Level von Doppelleben. Level 5. 4.200 Euro? Mein Kollege spuckt auf meinen Tresen: 'Du verdienst deinen Erfolg nur durch Betrug.' In München leite ich eine gut laufende Bäckerei, trage makellose Uniformen und meine Stirn zeigt stolz 4.200 Euro. Doch die steigende Inflation frisst mein Gehalt auf, weshalb ich nachts unter falschem Namen als Masken-Creatorin auf verrufenen Bezahlportalen unterwegs bin. Sie glauben wohl wirklich, Sie können uns hier ewig kontrollieren? Ich weiß ganz genau, was Sie nachts im Netz treiben, um sich diesen arroganten Lebensstil zu finanzieren. Mein Herz setzt für eine schreckliche Sekunde komplett aus. Ich will gerade etwas Scharfes entgegnen, als mein Tablet auf dem Kassentresen laut und schrill zu piepen beginnt. Das siehst du in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "-1.800 €",
+        "after": "2.400 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Doppelleben. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "4.200 Euro? Mein Kollege spuckt auf meinen Tresen: 'Du verdienst deinen Erfolg nur durch Betrug.'"
+        },
+        {
+          "s": "Figur",
+          "t": "In München leite ich eine gut laufende Bäckerei, trage makellose Uniformen und meine Stirn zeigt stolz 4.200 Euro."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch die steigende Inflation frisst mein Gehalt auf, weshalb ich nachts unter falschem Namen als Masken-Creatorin auf verrufenen Bezahlportalen unterwegs bin."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sie glauben wohl wirklich, Sie können uns hier ewig kontrollieren?",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Ich weiß ganz genau, was Sie nachts im Netz treiben, um sich diesen arroganten Lebensstil zu finanzieren.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Herz setzt für eine schreckliche Sekunde komplett aus. Ich will gerade etwas Scharfes entgegnen, als mein Tablet auf dem Kassentresen laut und schrill zu piepen beginnt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Ich weiß genau, was Sie nachts im Netz treiben, um sich diesen Lebensstil zu finanzieren.",
+      "quote_by": {
+        "level": 2,
+        "name": "Ben",
+        "badge": "1.450 €",
+        "character": "A confident coffee-bean man with glossy brown skin, wearing a green apron over a black shirt and holding a ceramic cup.",
+        "scene": "Medium shot across a bakery counter in Munich, slamming a ceramic cup down with an aggressive grin."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "4.200 €",
+          "bar": 0.45
+        },
+        {
+          "label": "Plattform",
+          "value": "1.500 Abos",
+          "bar": 0.55
+        },
+        {
+          "label": "Miete",
+          "value": "1.500 €",
+          "bar": 0.6
+        }
+      ],
+      "character": "A strict lemon woman with bright textured yellow skin and neat blonde hair tied in a bun, wearing a pristine white bakery manager coat. On her forehead, a glowing digital display shows 4.200 €.",
+      "visual": "Wide shot of a clean, bright bakery shop in Munich with glass display cases filled with pastries, early morning sunlight, and a golden coin hidden behind a bread basket.",
+      "scenes": [
+        "Wide shot of a clean, bright bakery shop in Munich with glass display cases filled with pastries, early morning sunlight, and a golden coin hidden behind a bread basket.",
+        "Medium shot of Sarah the lemon woman standing behind the immaculate counter with a stern expression.",
+        "Close-up of Ben leaning over the counter, his coffee-bean face set in a defiant glare.",
+        "Detail shot of Sarah's forehead display showing the bright number 4.200 €.",
+        "Over-the-shoulder shot of Sarah looking down at the hidden tablet showing her account status.",
+        "Close-up of the red system error warning flashing across the tablet screen."
+      ],
+      "caption": "Wer andere kontrolliert, verliert oft selbst die Kontrolle. #muenchen #baeckerei #doppelleben #viral #geheimnis"
+    },
+    {
+      "n": 6,
+      "open_loop": "Welches kompromittierende Video tauchte plötzlich im internen Firmenchat auf?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Erpresst sie mit Screenshots ihrer privaten Streams und fordert die Hälfte ihrer Einnahmen."
+      },
+      "name": "Draco, 31, Pharma-Forscher",
+      "badge": "7.800 €",
+      "verdict": "OBERKLASSE",
+      "story": "Die 8 Level von Doppelleben. Level 6. 7.800 Euro? Mein Laborleiter reißt mir den Kittel weg: 'Du bist gefeuert, du kranker Betrüger!' In Stuttgart arbeite ich in einem hochmodernen Labor, trage einen weißen Kittel und meine Stirn leuchtet hell: 7.800 Euro. Alle Kollegen halten mich für einen hochseriösen Wissenschaftler. Aber nachts verkleide ich mich komplett und gebe auf exklusiven Bezahlplattformen bizarre Live-Experimente zum Besten. Du hast doch ernsthaft gedacht, deine Experimente bleiben im Dunkeln, oder? Wenn du mir nicht sofort die Hälfte deiner Abos überträgst, schicke ich das alles an deinen Laborleiter. Ich erstarre mitten in der Bewegung, das Reagenzglas in der Hand. Ein lautes Piepen ertönt aus meinem verschlüsselten E-Mail-Postfach. Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+3.000 €",
+        "after": "10.800 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Doppelleben. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "7.800 Euro? Mein Laborleiter reißt mir den Kittel weg: 'Du bist gefeuert, du kranker Betrüger!'"
+        },
+        {
+          "s": "Figur",
+          "t": "In Stuttgart arbeite ich in einem hochmodernen Labor, trage einen weißen Kittel und meine Stirn leuchtet hell: 7.800 Euro."
+        },
+        {
+          "s": "Figur",
+          "t": "Alle Kollegen halten mich für einen hochseriösen Wissenschaftler. Aber nachts verkleide ich mich komplett und gebe auf exklusiven Bezahlplattformen bizarre Live-Experimente zum Besten."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast doch ernsthaft gedacht, deine Experimente bleiben im Dunkeln, oder?",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wenn du mir nicht sofort die Hälfte deiner Abos überträgst, schicke ich das alles an deinen Laborleiter.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich erstarre mitten in der Bewegung, das Reagenzglas in der Hand. Ein lautes Piepen ertönt aus meinem verschlüsselten E-Mail-Postfach."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Wenn du mir nicht sofort die Hälfte deiner Abos überträgst, schicke ich das an deinen Laborleiter.",
+      "quote_by": {
+        "level": 3,
+        "name": "Lina",
+        "badge": "3.100 €",
+        "character": "An avocado girl with pale green skin and dark brown seed hair, wearing a stylish beige trench coat.",
+        "scene": "Medium shot inside a brightly lit sterile laboratory in Stuttgart, thrusting a smartphone forward with a victorious grin."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "7.800 €",
+          "bar": 0.55
+        },
+        {
+          "label": "Patente",
+          "value": "4",
+          "bar": 0.4
+        },
+        {
+          "label": "Plattform",
+          "value": "3.200 Abos",
+          "bar": 0.7
+        }
+      ],
+      "character": "An exotic dragon-fruit man with vibrant pink and green scaled skin, wearing a crisp white scientist coat and protective safety goggles. On her forehead, a glowing digital display shows 7.800 €.",
+      "visual": "Wide shot of a high-tech biochemical laboratory in Stuttgart with glowing blue test tubes, stainless steel counters, and a golden coin hidden behind a microscope.",
+      "scenes": [
+        "Wide shot of a high-tech biochemical laboratory in Stuttgart with glowing blue test tubes, stainless steel counters, and a golden coin hidden behind a microscope.",
+        "Medium shot of Draco the dragon-fruit man holding a glowing blue flask with a look of extreme concentration.",
+        "Close-up of Lina bursting into the sterile lab holding her smartphone up like a weapon.",
+        "Detail shot of Draco's forehead display showing the bright white number 7.800 €.",
+        "Over-the-shoulder shot looking at the smartphone screen displaying high-resolution screenshots.",
+        "Close-up of the encrypted email notification blinking urgently on the laboratory computer screen."
+      ],
+      "caption": "Wissenschaft und Doppelleben – eine explosive Mischung. #stuttgart #labor #doppelleben #viral #geheimnis"
+    },
+    {
+      "n": 7,
+      "open_loop": "Wer steckt hinter dem massiven Shitstorm, der ihren Ruf über Nacht vernichten will?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Streut falsche Gerüchte über ihre Einnahmen in den sozialen Medien und hetzt die Presse auf."
+      },
+      "name": "Leo, 35, Marketing-Chef",
+      "badge": "12.800 €",
+      "verdict": "ELITE",
+      "story": "Die 8 Level von Doppelleben. Level 7. 12.800 Euro? Meine Partnerin zeigt auf den Bildschirm und schreit: 'Alles bricht zusammen!' In Frankfurt manage ich millionenschwere Budgets, trage feinsten Cashmere und meine Stirn leuchtet arrogant: 12.800 Euro. Doch meine geheimen Investitionen in dubiose Bezahlplattformen drohen nun endgültig aufzufliegen. Deine ganze Karriere basiert nur auf gekauten Daten und erpressten Abos. Wenn du nicht sofort die Plattform an uns überschreibst, veröffentliche ich alles. Ich schnappe nach Luft, mein teurer Anzug fühlt sich plötzlich an wie eine enge Zwangsjacke. Mein Firmenhandy vibriert unaufhörlich auf dem Besprechungstisch. Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "-8.000 €",
+        "after": "4.800 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Doppelleben. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "12.800 Euro? Meine Partnerin zeigt auf den Bildschirm und schreit: 'Alles bricht zusammen!'"
+        },
+        {
+          "s": "Figur",
+          "t": "In Frankfurt manage ich millionenschwere Budgets, trage feinsten Cashmere und meine Stirn leuchtet arrogant: 12.800 Euro."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch meine geheimen Investitionen in dubiose Bezahlplattformen drohen nun endgültig aufzufliegen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Deine ganze Karriere basiert nur auf gekauten Daten und erpressten Abos.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wenn du nicht sofort die Plattform an uns überschreibst, veröffentliche ich alles.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schnappe nach Luft, mein teurer Anzug fühlt sich plötzlich an wie eine enge Zwangsjacke. Mein Firmenhandy vibriert unaufhörlich auf dem Besprechungstisch."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Wenn du nicht sofort die Plattform an uns überschreibst, veröffentliche ich alles.",
+      "quote_by": {
+        "level": 1,
+        "name": "Marie",
+        "badge": "120 €",
+        "character": "A delicate strawberry girl with red textured skin and tiny leaf hair, wearing an oversized hoodie and a cold expression.",
+        "scene": "Medium shot in a sleek corporate boardroom in Frankfurt, placing a small black USB drive onto a polished mahogany table."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "12.800 €",
+          "bar": 0.8
+        },
+        {
+          "label": "Boni",
+          "value": "45.000 €",
+          "bar": 0.75
+        },
+        {
+          "label": "Risiko",
+          "value": "90%",
+          "bar": 0.9
+        }
+      ],
+      "character": "A dense broccoli man with curly dark green textured hair, wearing a sharp grey designer suit and silk tie. On her forehead, a glowing digital display shows 12.800 €.",
+      "visual": "Wide shot of a luxurious corporate boardroom in Frankfurt with panoramic windows showing the banking district, dramatic lighting, and a golden coin hidden behind a crystal water jug.",
+      "scenes": [
+        "Wide shot of a luxurious corporate boardroom in Frankfurt with panoramic windows showing the banking district, dramatic lighting, and a golden coin hidden behind a crystal water jug.",
+        "Medium shot of Leo the broccoli man sitting at the head of the long conference table, looking visibly shaken.",
+        "Close-up of Marie stepping into the light, her strawberry skin contrasting sharply with the corporate grey room.",
+        "Detail shot of Leo's forehead display showing 12.800 € blinking with warning alerts.",
+        "Over-the-shoulder shot of the USB drive resting on the dark wooden table.",
+        "Close-up of the corporate smartphone screen flashing with breaking news headlines."
+      ],
+      "caption": "Macht und Gier zerstören am Ende jeden. #frankfurt #karriere #doppelleben #viral #absturz"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches schockierende Geheimnis verbindet alle acht Figuren in dieser Stadt?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Versucht das gesamte Netzwerk zu verkaufen, wird aber vom System gestoppt."
+      },
+      "name": "Viktor, 55, Mastermind",
+      "badge": "95.000 €",
+      "verdict": "UNBERÜHRBAR",
+      "story": "Die 8 Level von Doppelleben. Level 8. 95.000 Euro? Ich sitze im Penthouse, halte alle Fäden in der Hand – und drücke den roten Knopf. In meiner luxuriösen Penthouse-Suite hoch über den Dächern von Berlin zeigt meine Stirn eine unvorstellbare Zahl: 95.000 Euro. Alle anderen sieben Figuren – von Marie bis Leo – haben jahrelang für mich im Schatten gearbeitet, ohne auch nur den Hauch einer Ahnung zu haben. Das Spiel ist für dich jetzt endgültig vorbei, Viktor, wir wissen alle, dass du hier die Fäden ziehst. Du hast uns alle brutal gegeneinander ausgespielt. Ich lehne mich in meinem teuren Ledersessel zurück, nehme einen langsamen, genüsslichen Schluck aus meinem Kristallglas und lächele eiskalt. Die Zahl lügt nie. Welches Thema sollen wir als Nächstes in 8 Leveln enthüllen?",
+      "gender": "m",
+      "twist": {
+        "delta": "MAX",
+        "after": "95.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Doppelleben. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "95.000 Euro? Ich sitze im Penthouse, halte alle Fäden in der Hand – und drücke den roten Knopf."
+        },
+        {
+          "s": "Figur",
+          "t": "In meiner luxuriösen Penthouse-Suite hoch über den Dächern von Berlin zeigt meine Stirn eine unvorstellbare Zahl: 95.000 Euro."
+        },
+        {
+          "s": "Figur",
+          "t": "Alle anderen sieben Figuren – von Marie bis Leo – haben jahrelang für mich im Schatten gearbeitet, ohne auch nur den Hauch einer Ahnung zu haben."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Das Spiel ist für dich jetzt endgültig vorbei, Viktor, wir wissen alle, dass du hier die Fäden ziehst.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast uns alle brutal gegeneinander ausgespielt.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich lehne mich in meinem teuren Ledersessel zurück, nehme einen langsamen, genüsslichen Schluck aus meinem Kristallglas und lächele eiskalt."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl lügt nie."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema sollen wir als Nächstes in 8 Leveln enthüllen?"
+        }
+      ],
+      "quote": "Die Zahl lügt nie.",
+      "quote_by": {
+        "level": 8,
+        "name": "Viktor",
+        "badge": "95.000 €",
+        "character": "An intimidating coconut man with a dark brown shell head, wearing an ultra-luxurious tailored suit.",
+        "scene": "Close-up in a lavish Berlin penthouse suite overlooking the city lights, speaking into a camera with an ice-cold smile."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "95.000 €",
+          "bar": 1.0
+        },
+        {
+          "label": "Netzwerk",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Macht",
+          "value": "Absolute",
+          "bar": 1.0
+        }
+      ],
+      "character": "An imposing coconut man with a hard, dark brown shell head and sharp piercing eyes, wearing a bespoke black tuxedo and gold signet ring. On her forehead, a glowing digital display shows 95.000 €.",
+      "visual": "Wide shot of a luxurious penthouse suite in Berlin with panoramic night views of the illuminated city, modern art pieces, and a golden coin resting on the glass coffee table.",
+      "scenes": [
+        "Wide shot of a luxurious penthouse suite in Berlin with panoramic night views of the illuminated city, modern art pieces, and a golden coin resting on the glass coffee table.",
+        "Medium shot of Viktor the coconut man sitting in a leather armchair, holding a glass of amber whiskey.",
+        "Close-up of Tom entering the penthouse with a desperate expression on his face.",
+        "Detail shot of Viktor's forehead display shining brightly with the ultimate number 95.000 €.",
+        "Over-the-shoulder shot showing multiple computer screens displaying all previous characters' dashboards simultaneously.",
+        "Wide shot as all screens across the city turn black in unison while the final question appears."
+      ],
+      "caption": "Wer zieht am Ende wirklich die Fäden? Schreibt euer Wunschthema in die Kommentare! #berlin #finale #doppelleben #viral #mysterium"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das heimliche Doppelleben auf OnlyFans und Bezahlplattformen",
+  "frame": "frucht"
+}

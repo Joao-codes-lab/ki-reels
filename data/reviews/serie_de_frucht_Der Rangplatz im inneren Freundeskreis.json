@@ -1,0 +1,53 @@
+{
+  "best_score": 49,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 4,
+        "story": 5,
+        "identifikation": 6,
+        "verbindungen": 5,
+        "sog": 4,
+        "wut": 4,
+        "merkfaehigkeit": 5,
+        "sprache": 6
+      },
+      "gesamt": 49,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den lahmen Einstieg durch pure Demütigung: 'Rang 1 im Freundeskreis? Heißt: Du zahlst den Champagner, während die anderen dich auslachen.'"
+        },
+        {
+          "n": 2,
+          "fix": "Verschärfe den Konflikt in Satz 3 direkt: 'Die 7er-Orange winkt mich herbei: Putz den Tisch ab, du bist nur der Fußabtreter.'"
+        },
+        {
+          "n": 3,
+          "fix": "Erhöhe den Schmerz: 'Mit meinem Rang-3-Gehalt darf ich hier nicht mal die Luft atmen, während Leo mich spuckend stehen lässt.'"
+        },
+        {
+          "n": 4,
+          "fix": "Kürze das Intro und mach den Arschloch-Faktor greifbar: 'Rang 4 bedeutet: Alle lächeln, aber niemand lädt dich ein. Klaus tritt meinen Entwurf in den Müll.'"
+        },
+        {
+          "n": 5,
+          "fix": "Zeig echte Wut: 'David nimmt meine Architektur-Idee und verkauft sie als seine eigene, während ich zusehe.'"
+        },
+        {
+          "n": 6,
+          "fix": "Spitz die Arroganz zu: 'Zoe lacht mich in der VIP-Lounge aus: Mit deinem Billig-Outfit kommst du hier nie rein.'"
+        },
+        {
+          "n": 7,
+          "fix": "Lass die Rache spürbar werden: 'Tom klopft mir herablassend auf die Schulter: Du bleibst meine Marionette, egal wie hoch du steigst.'"
+        },
+        {
+          "n": 8,
+          "fix": "Bringe die ultimative Genugtuung: 'Die Zahlen setzen sich neu zusammen – und plötzlich steht Tom ganz unten am Katzentisch.'"
+        }
+      ],
+      "fazit": "Die Obst-Metapher ist stark, aber die Texte plätschern zu sehr als Aufzählung dahin statt echten Hass und pure Genugtuung zu triggern. Ohne brutale Häme in den ersten zwei Sekunden wischt die Zielgruppe sofort weiter."
+    }
+  ]
+}

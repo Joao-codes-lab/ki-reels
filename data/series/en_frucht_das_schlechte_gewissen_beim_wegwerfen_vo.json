@@ -1,0 +1,781 @@
+{
+  "scores": {
+    "hook": 9,
+    "story": 8,
+    "identifikation": 8,
+    "verbindungen": 9,
+    "sog": 9,
+    "wut": 8,
+    "merkfaehigkeit": 8,
+    "sprache": 8
+  },
+  "gesamt": 77,
+  "fixes": [
+    {
+      "n": 1,
+      "fix": "Ersetze den unpersönlichen Einstieg durch eine direkte Provokation in den ersten 3 Sekunden: '2.000 Gramm verschimmelte Erdbeeren? Wer diesen Versager in die WG lässt, putzt morgen meine Toiletten.'"
+    },
+    {
+      "n": 2,
+      "fix": "Kürze den Text auf den Punkt und bringe die Ziffer '28 Pfund' direkt in die erste Sekunde, um den Zuschauer sofort zu fesseln."
+    }
+  ],
+  "fazit": "Die Serie hat durch die präzise Umsetzung der Jury-Kritik und die drastische Verschärfung der ersten Sekunden enorm an Sog und emotionaler Wucht gewonnen.",
+  "title": "The 8 Levels of Fridge Waste",
+  "house": "A bustling metropolis named Veggieville, where produce people navigate the harsh realities of grocery budgets, food waste, and digital status numbers glowing on their foreheads.",
+  "catchphrase": "The number on the forehead never lies.",
+  "links": [
+    "The bitter lemon barista in Level 2 mentions the man in the sharp suit who always tips in Level 8.",
+    "The forgotten strawberry in Level 1 drops a coin that rolls into the bakery from Level 4.",
+    "The moldy bell pepper in Level 3 leaves a grocery receipt found by the avocado in Level 6."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "What was inside the damp paper bag at the very back of the bottom shelf?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Laughs at her wasted organic berries and throws them straight into the public trash bin."
+      },
+      "name": "Pip, 22, Student",
+      "badge": "14 lb food waste",
+      "verdict": "WASTED",
+      "story": "2.000 Gramm verschimmelte Erdbeeren? Wer diesen Versager in die WG lässt, putzt morgen meine Toiletten. The 8 levels of fridge waste. Level 1. Fourteen pounds of rotting strawberries and soggy spinach sitting in my mini fridge. My glowing forehead badge shows fourteen pounds of wasted food this month alone, a neon sign of my total failure as an adult. I stared at the fuzzy mold on the expensive organic berries I bought with my last grocery stipend. Pips blanker Existenzkampf treibt ihn in den Wahnsinn, während der leere Geldbeutel schmerzt und der Spott der Mitbewohner unerbittlich auf ihn einprasselt. A golden coin glinted near the butter dish, half-buried in crumbs. You call yourself a scholar while throwing away my tax bracket in fresh produce? You'll see that in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+5 lb wast",
+        "after": "19 lb was"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "2.000 Gramm verschimmelte Erdbeeren? Wer diesen Versager in die WG lässt, putzt morgen meine Toiletten."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of fridge waste. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Fourteen pounds of rotting strawberries and soggy spinach sitting in my mini fridge."
+        },
+        {
+          "s": "Figur",
+          "t": "My glowing forehead badge shows fourteen pounds of wasted food this month alone, a neon sign of my total failure as an adult."
+        },
+        {
+          "s": "Figur",
+          "t": "I stared at the fuzzy mold on the expensive organic berries I bought with my last grocery stipend."
+        },
+        {
+          "s": "Figur",
+          "t": "Pips blanker Existenzkampf treibt ihn in den Wahnsinn, während der leere Geldbeutel schmerzt und der Spott der Mitbewohner unerbittlich auf ihn einprasselt."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "A golden coin glinted near the butter dish, half-buried in crumbs.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You call yourself a scholar while throwing away my tax bracket in fresh produce?",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You call yourself a scholar while throwing away my tax bracket in fresh produce?",
+      "quote_by": {
+        "level": 4,
+        "name": "Brock, 34, Chef",
+        "badge": "82 lb saved",
+        "character": "An arrogant broccoli person with stiff florets, wearing a pristine chef coat and a golden apron clip.",
+        "scene": "Wide angle of a chaotic student kitchen, Brock looking down his stem at Pip with pure disgust while pointing at the rotting crisper drawer."
+      },
+      "stats": [
+        {
+          "label": "Waste",
+          "value": "14 lb",
+          "bar": 0.1
+        },
+        {
+          "label": "Budget",
+          "value": "$45",
+          "bar": 0.2
+        },
+        {
+          "label": "Guilt",
+          "value": "99%",
+          "bar": 0.95
+        }
+      ],
+      "character": "A fragile strawberry person with bright red pitted skin, wearing an oversized thrifted hoodie, with a glowing red digital badge on their forehead.",
+      "visual": "Close-up of a strawberry person staring miserably into a moldy mini fridge under harsh fluorescent dorm lighting, a glowing '14 lb waste' on their forehead.",
+      "scenes": [
+        "Wide angle shot of a tiny, messy student dorm kitchen with a flickering ceiling light, empty pizza boxes, and a tiny mini fridge open.",
+        "Medium shot of Pip holding a fuzzy, rotten strawberry over a metal trash can, looking horrified at the digital numbers on their forehead.",
+        "Detail shot of a hidden golden coin resting right next to a tub of expired cream cheese inside the sticky door shelf.",
+        "Halbnah shot of Brock the broccoli standing in the doorway, crossing his leafy arms and sneering at Pip with his high score glowing.",
+        "Close-up of the digital forehead display rapidly shifting from 14 lb to 19 lb waste as the trash hits the bin.",
+        "Wide angle shot of the hallway outside the dorm room, with multiple produce students watching the confrontation under dim yellow bulbs."
+      ],
+      "caption": "How much food did you throw away this week? #foodwaste #college #relatable #drama #level1"
+    },
+    {
+      "n": 2,
+      "open_loop": "Who left the anonymous note accusing the entire staff of stealing expired milk?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Writes the angry audit report that gets the cafe's inventory budget slashed by half."
+      },
+      "name": "Lemon Zest, 29, Barista",
+      "badge": "28 lb rescued",
+      "verdict": "SAVING",
+      "story": "28 Pfund abgelaufener Müll aus dem Container? Kein Wunder, dass die Barista nach kaltem Schweiß stinkt. The 8 levels of fridge waste. Level 2. Twenty-eight pounds of day-old pastries rescued from the dumpster and stacked neatly on our breakroom counter. My sour yellow lemon skin prickled with sweat as I counted the remaining oat milk cartons expiring in exactly four hours. Der massive Druck der kaffeesüchtigen Kundschaft lastet schwer auf meinen Schultern, während die panische Angst vor dem Jobverlust in jeder Sekunde an meinen Nerven zehrt und mich fast in den Wahnsinn treibt. A golden coin rested inside an empty tip jar, untouched by anyone. Is this half-spoiled yogurt part of your community initiative, or just sheer laziness? My citrus heart pounded against my ribs as the entire queue of commuters turned to stare at me with pure contempt. You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "-10 lb res",
+        "after": "18 lb res"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "28 Pfund abgelaufener Müll aus dem Container? Kein Wunder, dass die Barista nach kaltem Schweiß stinkt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of fridge waste. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Twenty-eight pounds of day-old pastries rescued from the dumpster and stacked neatly on our breakroom counter."
+        },
+        {
+          "s": "Figur",
+          "t": "My sour yellow lemon skin prickled with sweat as I counted the remaining oat milk cartons expiring in exactly four hours."
+        },
+        {
+          "s": "Figur",
+          "t": "Der massive Druck der kaffeesüchtigen Kundschaft lastet schwer auf meinen Schultern, während die panische Angst vor dem Jobverlust in jeder Sekunde an meinen Nerven zehrt und mich fast in den Wahnsinn treibt."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "A golden coin rested inside an empty tip jar, untouched by anyone.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Is this half-spoiled yogurt part of your community initiative, or just sheer laziness?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My citrus heart pounded against my ribs as the entire queue of commuters turned to stare at me with pure contempt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Is this half-spoiled yogurt part of your community initiative, or just sheer laziness?",
+      "quote_by": {
+        "level": 5,
+        "name": "Paprika, 41, Inspector",
+        "badge": "145 lb audited",
+        "character": "An stern bell pepper person with glossy red skin, wearing a sharp grey inspector blazer and wire-rimmed glasses.",
+        "scene": "Medium shot across a bustling cafe counter, Paprika holding a curdled yogurt container up to Lemon Zest's face with a hostile glare."
+      },
+      "stats": [
+        {
+          "label": "Rescued",
+          "value": "28 lb",
+          "bar": 0.25
+        },
+        {
+          "label": "Tips",
+          "value": "$12",
+          "bar": 0.15
+        },
+        {
+          "label": "Stress",
+          "value": "88%",
+          "bar": 0.85
+        }
+      ],
+      "character": "A sour lemon person with vibrant yellow textured peel, wearing a stained green barista apron and a glowing amber digital badge.",
+      "visual": "Medium shot of a lemon barista standing behind a crowded cafe counter surrounded by day-old pastries, with '28 lb rescued' glowing on their forehead.",
+      "scenes": [
+        "Wide angle shot of a busy downtown coffee shop during morning rush hour, filled with steaming espresso machines and hurried produce commuters.",
+        "Medium shot of Lemon Zest sorting through a box of bruised bananas and day-old blueberry muffins in the narrow staff breakroom.",
+        "Detail shot of a shiny golden coin resting at the bottom of a glass tip jar next to a crumpled five-dollar bill.",
+        "Halbnah shot of Paprika the bell pepper slamming her audit clipboard onto the counter, glaring down the terrified lemon barista.",
+        "Close-up of the glowing forehead badge dropping from 28 lb to 18 lb rescued as management penalizes the shift inventory.",
+        "Wide angle shot of customers turning away from the counter in disgust while the espresso machine hisses steam in the background."
+      ],
+      "caption": "Would you buy day-old pastries to save food? #cafe #zerowaste #baristalife #drama #level2"
+    },
+    {
+      "n": 3,
+      "open_loop": "Who switched the expiration labels on the expensive deli meat?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Threatens to evict him from his shared apartment over unwashed takeout containers."
+      },
+      "name": "Avocado Pete, 35, Accountant",
+      "badge": "42 lb composted",
+      "verdict": "BALANCED",
+      "story": "42 Pfund penibel gewogener Kompost? Jeder normale Mensch würde bei diesem Gestank kotzen. The 8 levels of fridge waste. Level 3. Forty-two pounds of meticulously tracked compost sitting in my airtight balcony bin, each scrap weighed on a digital scale. My creamy green avocado flesh felt tight with anxiety as I balanced my monthly grocery spreadsheet against actual consumption. Der alltägliche Psychokrieg in der Wohngemeinschaft eskaliert vollkommen, während der unerbittliche Druck des Kontrollwahns jede Sekunde zu ersticken droht. A tiny golden coin winked from beneath the kitchen scale baseplate. You spend hours sorting vegetable peels while our entire apartment fridge smells like a rotting swamp! My soft pit ached as the kitchen went dead silent, the weight of his words heavier than any trash bag. You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+15 lb com",
+        "after": "57 lb com"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "42 Pfund penibel gewogener Kompost? Jeder normale Mensch würde bei diesem Gestank kotzen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of fridge waste. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Forty-two pounds of meticulously tracked compost sitting in my airtight balcony bin, each scrap weighed on a digital scale."
+        },
+        {
+          "s": "Figur",
+          "t": "My creamy green avocado flesh felt tight with anxiety as I balanced my monthly grocery spreadsheet against actual consumption."
+        },
+        {
+          "s": "Figur",
+          "t": "Der alltägliche Psychokrieg in der Wohngemeinschaft eskaliert vollkommen, während der unerbittliche Druck des Kontrollwahns jede Sekunde zu ersticken droht."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "A tiny golden coin winked from beneath the kitchen scale baseplate.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You spend hours sorting vegetable peels while our entire apartment fridge smells like a rotting swamp!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My soft pit ached as the kitchen went dead silent, the weight of his words heavier than any trash bag."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "You spend hours sorting vegetable peels while our entire apartment fridge smells like a rotting swamp!",
+      "quote_by": {
+        "level": 6,
+        "name": "Coco, 31, Trader",
+        "badge": "210 lb traded",
+        "character": "An tough coconut person with a hard brown fibrous shell, wearing an expensive tailored business suit and gold cufflinks.",
+        "scene": "Halbnah shot in a modern loft kitchen, Coco dropping a greasy takeout bag onto Avocado Pete's pristine marble island with a smug grin."
+      },
+      "stats": [
+        {
+          "label": "Compost",
+          "value": "42 lb",
+          "bar": 0.4
+        },
+        {
+          "label": "Savings",
+          "value": "$320",
+          "bar": 0.45
+        },
+        {
+          "label": "Anxiety",
+          "value": "72%",
+          "bar": 0.7
+        }
+      ],
+      "character": "An avocado person with smooth green skin and a gentle, studious expression, wearing a neat button-down shirt and an emerald digital forehead badge.",
+      "visual": "Medium shot of an avocado accountant in a modern kitchen weighing vegetable scraps on a digital kitchen scale, with '42 lb composted' glowing on his forehead.",
+      "scenes": [
+        "Wide angle shot of a sunlit, minimalist apartment kitchen with white quartz countertops and a high-end stainless steel refrigerator.",
+        "Medium shot of Avocado Pete meticulously recording leftover vegetable weights into a leather-bound notebook.",
+        "Detail shot of a golden coin partially hidden beneath the rubber foot of a digital kitchen scale.",
+        "Halbnah shot of Coco the coconut stepping into the kitchen, dropping a greasy fast-food bag onto the clean counter with an aggressive thud.",
+        "Close-up of the forehead display shifting from 42 lb to 57 lb compost as Pete's anxiety levels spike.",
+        "Wide angle shot of the apartment balcony showing neatly organized composting bins under the afternoon city skyline."
+      ],
+      "caption": "Do you actually weigh your food waste or just throw it out? #compost #budget #apartment #drama #level3"
+    },
+    {
+      "n": 4,
+      "open_loop": "What was hidden inside the master chef's secret freezer basement?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Demotes her from head pastry chef down to washing kitchen floors after a staged food inspection."
+      },
+      "name": "Chef Plum, 44, Culinary Instructor",
+      "badge": "88 lb preserved",
+      "verdict": "EXPERT",
+      "story": "88 Pfund vakuumierter Luxusmüll? Kein Wunder, dass die Chefköchin ihre Schüler wie Dreck behandelt. The 8 levels of fridge waste. Level 4. Eighty-eight pounds of vacuum-sealed autumn produce preserved in my commercial walk-in freezer to prevent single ounce of spoilage. My deep purple plum skin gleamed under the harsh stainless steel lights of my culinary academy kitchen. Der harte Leistungsdruck in dieser gnadenlosen Profiküche lässt keine Fehler zu, während die panische Angst vor dem sofortigen Karriereabsturz mein Herz wie einen Schraubstock einengt. A golden coin was wedged tightly into the handle of the blast chiller. Is this bruised garbage what you teach our elite students to serve in high-end dining rooms? My plum skin burned with public humiliation as the entire class of student chefs stopped whisking and watched in dead silence. You'll see that in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "-30 lb pre",
+        "after": "58 lb pre"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "88 Pfund vakuumierter Luxusmüll? Kein Wunder, dass die Chefköchin ihre Schüler wie Dreck behandelt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of fridge waste. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Eighty-eight pounds of vacuum-sealed autumn produce preserved in my commercial walk-in freezer to prevent single ounce of spoilage."
+        },
+        {
+          "s": "Figur",
+          "t": "My deep purple plum skin gleamed under the harsh stainless steel lights of my culinary academy kitchen."
+        },
+        {
+          "s": "Figur",
+          "t": "Der harte Leistungsdruck in dieser gnadenlosen Profiküche lässt keine Fehler zu, während die panische Angst vor dem sofortigen Karriereabsturz mein Herz wie einen Schraubstock einengt."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "A golden coin was wedged tightly into the handle of the blast chiller.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Is this bruised garbage what you teach our elite students to serve in high-end dining rooms?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My plum skin burned with public humiliation as the entire class of student chefs stopped whisking and watched in dead silence."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Is this bruised garbage what you teach our elite students to serve in high-end dining rooms?",
+      "quote_by": {
+        "level": 7,
+        "name": "Melon, 52, Director",
+        "badge": "340 lb catered",
+        "character": "A massive watermelon person with dark green striped skin, wearing a luxury silk chef jacket and heavy gold neck chains.",
+        "scene": "Wide angle of a professional culinary school kitchen, Melon kicking a crate of heirloom tomatoes while towering over Chef Plum."
+      },
+      "stats": [
+        {
+          "label": "Preserved",
+          "value": "88 lb",
+          "bar": 0.6
+        },
+        {
+          "label": "Skill",
+          "value": "94%",
+          "bar": 0.9
+        },
+        {
+          "label": "Reputation",
+          "value": "High",
+          "bar": 0.75
+        }
+      ],
+      "character": "A deep purple plum person with velvety skin, wearing a spotless white chef coat and a glowing violet digital badge on their forehead.",
+      "visual": "Medium shot of a plum chef inspecting vacuum-sealed food packets in a commercial stainless steel kitchen, with '88 lb preserved' glowing on her forehead.",
+      "scenes": [
+        "Wide angle shot of a massive, gleaming professional culinary school kitchen with rows of copper pots and stainless steel counters.",
+        "Medium shot of Chef Plum carefully labeling vacuum-sealed bags of berries and root vegetables.",
+        "Detail shot of a golden coin wedged firmly into the chrome handle of a commercial blast freezer.",
+        "Halbnah shot of Melon the watermelon kicking a wooden crate of bruised tomatoes across the wet tile floor.",
+        "Close-up of the forehead display dropping rapidly from 88 lb to 58 lb preserved due to administrative confiscation.",
+        "Wide angle shot of student chefs watching the confrontation from their cooking stations with wide, shocked eyes."
+      ],
+      "caption": "Should restaurants be forced to donate bruised produce? #chef #zerowaste #culinary #drama #level4"
+    },
+    {
+      "n": 5,
+      "open_loop": "Whose signature was forged on the municipal food surplus diversion grant?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Approves the corporate takeover that shuts down her entire community pantry network overnight."
+      },
+      "name": "Dr. Daria, 48, Food Policy Director",
+      "badge": "145 lb rescued",
+      "verdict": "LEADER",
+      "story": "145 Pfund geretteter Schrott? Diese Politikerin schaufelt sich ihr eigenes Grab. The 8 levels of fridge waste. Level 5. One hundred forty-five pounds of perfectly edible surplus food diverted from grocery chains to our city shelters every single afternoon. My smooth dragonfruit skin felt tough and armored against the endless political battles in City Hall. Die kalte Rücksichtslosigkeit der korrupten Wirtschaftslobby zeigt sich in jeder verweigerten Unterschrift, während der erbarmungslose Kampf um jede Fördergeldes-Mark meine Existenz bedroht. A shiny golden coin rested right on top of my municipal budget proposal binder. Your little charity pantry is interfering with corporate retail waste quotas, so consider your funding terminated. My bright pink and green scales vibrated with suppressed rage as I looked at the destruction of three years of hard work. You'll see that in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "-50 lb res",
+        "after": "95 lb res"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "145 Pfund geretteter Schrott? Diese Politikerin schaufelt sich ihr eigenes Grab."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of fridge waste. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "One hundred forty-five pounds of perfectly edible surplus food diverted from grocery chains to our city shelters every single afternoon."
+        },
+        {
+          "s": "Figur",
+          "t": "My smooth dragonfruit skin felt tough and armored against the endless political battles in City Hall."
+        },
+        {
+          "s": "Figur",
+          "t": "Die kalte Rücksichtslosigkeit der korrupten Wirtschaftslobby zeigt sich in jeder verweigerten Unterschrift, während der erbarmungslose Kampf um jede Fördergeldes-Mark meine Existenz bedroht."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "A shiny golden coin rested right on top of my municipal budget proposal binder.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your little charity pantry is interfering with corporate retail waste quotas, so consider your funding terminated.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My bright pink and green scales vibrated with suppressed rage as I looked at the destruction of three years of hard work."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Your little charity pantry is interfering with corporate retail waste quotas, so consider your funding terminated.",
+      "quote_by": {
+        "level": 8,
+        "name": "Magnate Coco, 59, CEO",
+        "badge": "500 lb surplus",
+        "character": "An imposing coconut person with a polished brown shell, wearing a bespoke three-piece charcoal suit and a diamond-encrusted level eight badge.",
+        "scene": "Medium shot inside a lavish mayoral office, the CEO tossing budget papers onto Dr. Daria's desk with absolute indifference."
+      },
+      "stats": [
+        {
+          "label": "Diverted",
+          "value": "145 lb",
+          "bar": 0.75
+        },
+        {
+          "label": "Grants",
+          "value": "$85k",
+          "bar": 0.7
+        },
+        {
+          "label": "Impact",
+          "value": "High",
+          "bar": 0.85
+        }
+      ],
+      "character": "A dragonfruit person with vibrant pink skin and lime-green leaf tips, wearing a smart grey blazer and a glowing magenta digital forehead badge.",
+      "visual": "Medium shot of a dragonfruit policy director reviewing municipal logistics charts in a grand city hall office, with '145 lb rescued' glowing on her forehead.",
+      "scenes": [
+        "Wide angle shot of an ornate government boardroom with polished mahogany tables and tall arched windows overlooking Veggieville.",
+        "Medium shot of Dr. Daria sorting through city food distribution manifests with a determined expression.",
+        "Detail shot of a golden coin resting on top of a municipal grant proposal document.",
+        "Halbnah shot of the coconut CEO tossing a cancellation contract across the desk toward Dr. Daria.",
+        "Close-up of the forehead display dropping from 145 lb to 95 lb rescued as funding cuts take effect.",
+        "Wide angle shot of city hall corridors filled with anxious shelter workers holding empty food crates."
+      ],
+      "caption": "Should governments penalize corporations for food waste? #policy #zerowaste #government #drama #level5"
+    },
+    {
+      "n": 6,
+      "open_loop": "What was recorded on the security camera footage outside the loading dock?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Refuses to pay his share of the communal grocery bill, leaving her bankrupt."
+      },
+      "name": "Broccoli Bob, 38, Logistics Manager",
+      "badge": "210 lb sorted",
+      "verdict": "EFFICIENT",
+      "story": "210 Pfund sortierter Supermarkt-Abfall? Da kriegt man das Kotzen bei so viel deutscher Perfektion. The 8 levels of fridge waste. Level 6. Two hundred ten pounds of surplus supermarket items sorted and categorized every single night at our distribution hub. My tight green floret head throbbed under the warehouse halogen lights as forklift trucks beeped in the background. Der gnadenlose Akkord im Logistikzentrum fordert seinen Tribut, während kleinliche Streitereien und cholische Vorgesetzte uns alle an den Rand des Nervenzusammenbruchs treiben. A golden coin was taped securely to the underside of my inventory clipboard. You overcharged our department by four dollars on compost fees, and I want every cent back right now. My dark green stem clenched in utter disbelief at his pettiness while millions of tons of real food rotted globally. You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "-40 lb sor",
+        "after": "170 lb so"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "210 Pfund sortierter Supermarkt-Abfall? Da kriegt man das Kotzen bei so viel deutscher Perfektion."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of fridge waste. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Two hundred ten pounds of surplus supermarket items sorted and categorized every single night at our distribution hub."
+        },
+        {
+          "s": "Figur",
+          "t": "My tight green floret head throbbed under the warehouse halogen lights as forklift trucks beeped in the background."
+        },
+        {
+          "s": "Figur",
+          "t": "Der gnadenlose Akkord im Logistikzentrum fordert seinen Tribut, während kleinliche Streitereien und cholische Vorgesetzte uns alle an den Rand des Nervenzusammenbruchs treiben."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "A golden coin was taped securely to the underside of my inventory clipboard.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You overcharged our department by four dollars on compost fees, and I want every cent back right now.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My dark green stem clenched in utter disbelief at his pettiness while millions of tons of real food rotted globally."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "You overcharged our department by four dollars on compost fees, and I want every cent back right now.",
+      "quote_by": {
+        "level": 3,
+        "name": "Avocado Pete, 35, Accountant",
+        "badge": "42 lb composted",
+        "character": "An avocado person with smooth green skin and a rigid expression, wearing a button-down shirt and clutching a grocery receipt.",
+        "scene": "Medium shot inside a busy warehouse loading bay, Avocado Pete aggressively shoving a receipt into Broccoli Bob's face."
+      },
+      "stats": [
+        {
+          "label": "Sorted",
+          "value": "210 lb",
+          "bar": 0.85
+        },
+        {
+          "label": "Accuracy",
+          "value": "99.1%",
+          "bar": 0.95
+        },
+        {
+          "label": "Volume",
+          "value": "High",
+          "bar": 0.9
+        }
+      ],
+      "character": "A sturdy broccoli person with dense dark green florets, wearing a high-visibility safety vest and a glowing cyan digital forehead badge.",
+      "visual": "Medium shot of a broccoli logistics manager standing in a massive warehouse surrounded by crates of produce, with '210 lb sorted' glowing on his forehead.",
+      "scenes": [
+        "Wide angle shot of a massive, bustling industrial warehouse with towering pallet racks and forklift trucks moving in motion blur.",
+        "Medium shot of Broccoli Bob scanning barcodes on crates of rescued vegetables under bright white overhead lights.",
+        "Detail shot of a golden coin taped securely to the back of a metal clipboard.",
+        "Halbnah shot of Avocado Pete holding a wrinkled grocery receipt and glaring angrily at Bob.",
+        "Close-up of the forehead display dropping from 210 lb to 170 lb sorted due to system recalibration.",
+        "Wide angle shot of the warehouse loading dock doors open to the rainy night city streets outside."
+      ],
+      "caption": "How much food gets wasted in supermarket supply chains? #logistics #supplychain #zerowaste #drama #level6"
+    },
+    {
+      "n": 7,
+      "open_loop": "What was inside the confidential briefcase left in the executive boardroom?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Leaks a false sanitation report that ruins her catering company's reputation."
+      },
+      "name": "Melon, 52, Corporation Director",
+      "badge": "340 lb catered",
+      "verdict": "TYCOON",
+      "story": "340 Pfund Gourmet-Reste für die Reichen? Während draußen die Leute hungern, feiert dieser Wichtigtuer. The 8 levels of fridge waste. Level 7. Three hundred forty pounds of gourmet banquet leftovers redirected into high-end sustainable catering contracts across the state. My massive watermelon rind felt thick and impervious to the petty complaints of underlings. Der perverse Luxus und die absolute Arroganz dieser dekadenten Oberschicht lassen den puren Neid und die brodelnde Wut in den untergehenden Massen unaufhaltsam ansteigen. A golden coin was embedded right into the polished mahogany conference table. Your luxury banquets throw away more food in one night than our entire district saves in a month. My green-striped watermelon shell tightened at her audacity, refusing to show a single crack in my composure. You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "-80 lb cat",
+        "after": "260 lb ca"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "340 Pfund Gourmet-Reste für die Reichen? Während draußen die Leute hungern, feiert dieser Wichtigtuer."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of fridge waste. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Three hundred forty pounds of gourmet banquet leftovers redirected into high-end sustainable catering contracts across the state."
+        },
+        {
+          "s": "Figur",
+          "t": "My massive watermelon rind felt thick and impervious to the petty complaints of underlings."
+        },
+        {
+          "s": "Figur",
+          "t": "Der perverse Luxus und die absolute Arroganz dieser dekadenten Oberschicht lassen den puren Neid und die brodelnde Wut in den untergehenden Massen unaufhaltsam ansteigen."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "A golden coin was embedded right into the polished mahogany conference table.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your luxury banquets throw away more food in one night than our entire district saves in a month.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My green-striped watermelon shell tightened at her audacity, refusing to show a single crack in my composure."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "Your luxury banquets throw away more food in one night than our entire district saves in a month.",
+      "quote_by": {
+        "level": 2,
+        "name": "Lemon Zest, 29, Barista",
+        "badge": "28 lb rescued",
+        "character": "A sour lemon person with textured yellow peel, wearing a stained barista apron and holding a cup of curdled milk.",
+        "scene": "Medium shot in a luxurious corporate boardroom, Lemon Zest slamming a cup of milk down on the mahogany table in front of Melon."
+      },
+      "stats": [
+        {
+          "label": "Catered",
+          "value": "340 lb",
+          "bar": 0.92
+        },
+        {
+          "label": "Revenue",
+          "value": "$1.2M",
+          "bar": 0.95
+        },
+        {
+          "label": "Power",
+          "value": "Max",
+          "bar": 0.9
+        }
+      ],
+      "character": "A massive watermelon person with dark green striped rind, wearing a luxury silk suit and a glowing emerald digital forehead badge.",
+      "visual": "Medium shot of a watermelon director standing in a lavish penthouse boardroom overlooking Veggieville, with '340 lb catered' glowing on his forehead.",
+      "scenes": [
+        "Wide angle shot of a luxurious penthouse boardroom with floor-to-ceiling glass windows and panoramic city views.",
+        "Medium shot of Melon reviewing high-end catering contracts with a cold, calculating expression.",
+        "Detail shot of a golden coin embedded smoothly into the dark mahogany wood of the conference table.",
+        "Halbnah shot of Lemon Zest confronting Melon, slamming a cup of milk onto the polished surface.",
+        "Close-up of the forehead display dropping from 340 lb to 260 lb catered as public scandal hits.",
+        "Wide angle shot of corporate elevators opening in the lobby as media reporters rush toward the executive suites."
+      ],
+      "caption": "Do luxury banquets do enough to fight food waste? #luxury #catering #zerowaste #drama #level7"
+    },
+    {
+      "n": 8,
+      "open_loop": "What secret did the master ledger hold about every single resident in Veggieville?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Discovers the master ledger and tries to blackmail the entire city council."
+      },
+      "name": "Magnate Coco, 59, CEO",
+      "badge": "500 lb surplus",
+      "verdict": "LEGEND",
+      "story": "500 Pfund Surplus-Müll? Jetzt fällt das Kartenhaus für alle zusammen. The 8 levels of fridge waste. Level 8. Five hundred pounds of surplus food redistributed across Veggieville in a single master operation, wiping out urban hunger completely. My polished brown coconut shell gleamed under the warm lights of the city foundation gala, surrounded by all seven characters I once judged. Das große Finale bringt die erbarmungslose Abrechnung aller Charaktere und führt die vollkommene Demütigung des arrogantesten CEOs der Stadt unbarmherzig zu Ende. A massive golden coin rested proudly in the center of the grand fountain. You thought your corporate monopoly would last forever, but I have the entire surplus audit right here. My hard fibrous shell remained completely calm because I knew the true secret of the numbers. Which character's secret obsession with food waste should we expose next?",
+      "gender": "m",
+      "twist": {
+        "delta": "RESET",
+        "after": "0 lb wast"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "500 Pfund Surplus-Müll? Jetzt fällt das Kartenhaus für alle zusammen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of fridge waste. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Five hundred pounds of surplus food redistributed across Veggieville in a single master operation, wiping out urban hunger completely."
+        },
+        {
+          "s": "Figur",
+          "t": "My polished brown coconut shell gleamed under the warm lights of the city foundation gala, surrounded by all seven characters I once judged."
+        },
+        {
+          "s": "Figur",
+          "t": "Das große Finale bringt die erbarmungslose Abrechnung aller Charaktere und führt die vollkommene Demütigung des arrogantesten CEOs der Stadt unbarmherzig zu Ende."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "A massive golden coin rested proudly in the center of the grand fountain.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You thought your corporate monopoly would last forever, but I have the entire surplus audit right here.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My hard fibrous shell remained completely calm because I knew the true secret of the numbers."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Which character's secret obsession with food waste should we expose next?"
+        }
+      ],
+      "quote": "You thought your corporate monopoly would last forever, but I have the entire surplus audit right here.",
+      "quote_by": {
+        "level": 5,
+        "name": "Paprika, 41, Inspector",
+        "badge": "145 lb audited",
+        "character": "An stern bell pepper person with glossy red skin, wearing a sharp grey inspector blazer and holding a thick audit file.",
+        "scene": "Wide angle of a grand gala ballroom, Paprika confronting Magnate Coco in front of all previous characters with an audit folder."
+      },
+      "stats": [
+        {
+          "label": "Surplus",
+          "value": "500 lb",
+          "bar": 1.0
+        },
+        {
+          "label": "Impact",
+          "value": "Max",
+          "bar": 1.0
+        },
+        {
+          "label": "Legacy",
+          "value": "Eternal",
+          "bar": 1.0
+        }
+      ],
+      "character": "A polished coconut person with a hard brown fibrous shell, wearing an immaculate tuxedo and a glowing gold level eight digital forehead badge.",
+      "visual": "Wide angle shot of a magnificent gala ballroom filled with all eight produce characters, with '500 lb surplus' glowing brightly on the CEO's forehead.",
+      "scenes": [
+        "Wide angle shot of a glittering downtown ballroom decorated with crystal chandeliers and cascading ice sculptures.",
+        "Medium shot of Magnate Coco addressing the gathered crowd of produce citizens from an elevated stage.",
+        "Detail shot of a massive golden coin resting at the bottom of a bubbling marble water fountain.",
+        "Halbnah shot of Paprika the bell pepper storming up to the stage with an open audit folder.",
+        "Close-up of the forehead display shifting from 500 lb surplus to 0 lb waste as the system resets completely.",
+        "Wide angle shot showing all eight characters standing together in unity under the sparkling gala lights."
+      ],
+      "caption": "Which character's secret obsession with food waste should we expose next? #zerowaste #finale #drama #level8 #veggieville"
+    }
+  ],
+  "lang": "en",
+  "topic": "Das schlechte Gewissen beim Wegwerfen von Lebensmitteln im Kühlschrank",
+  "frame": "frucht"
+}

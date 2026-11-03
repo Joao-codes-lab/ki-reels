@@ -1,0 +1,803 @@
+{
+  "title": "Die 8 Level im inneren Freundeskreis",
+  "house": "A bustling German metropolis where fruit and vegetable people live in pastel-colored apartment blocks, ride crowded commuter trains, and meet in neon-lit late-night kiosks.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Barista in Level 2 mentions a quiet man in a suit who leaves big tips",
+    "A dropped golden coin appears near the U-Bahn ticket machine in Level 4 and Level 7",
+    "The broken umbrella from Level 1 is seen in the background of Level 6"
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Wer hat die geheime WhatsApp-Gruppe gegründet, aus der ich nach drei Sekunden wieder rausgeworfen wurde?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Löscht Tim sofort aus der gemeinsamen Chat-Liste und behauptet, er kenne ihn gar nicht."
+      },
+      "name": "Tim, 24, Praktikant",
+      "badge": "Rang 1",
+      "verdict": "AUSSENSEITER",
+      "story": "Die 8 Level von dem Rangplatz im inneren Freundeskreis. Level 1. Level 1: Rang 1 im inneren Freundeskreis – und der ewige Platz ganz unten am Katzentisch. Ich stehe in der regennassen U-Bahn-Station Alexanderplatz, 8 Uhr morgens, und starre auf mein Handy. Da blitzt die Nachricht auf: Sorry Tim, der Tisch ist heute Abend leider komplett reserviert für die wichtigen Leute. Brokkoli-Tom, der mit Rang 8 auf der Stirn arrogant an mir vorbeispaziert, lacht laut und schubst mich beiseite. Wer braucht schon eure Treffen, wenn man seine Ruhe hat? Ich beiße die Zähne zusammen und stecke meine kalten Hände in die Taschen. Tom bleibt stehen, dreht sich langsam um und mustert mich von oben bis unten mit absolutem Ekel. Du bist nur der Fußabtreter unserer Gruppe, Tim. Genau in diesem Moment vibriert mein Display heftig, und der Status ändert sich plötzlich schlagartig. Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1 Rang",
+        "after": "Rang 2"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von dem Rangplatz im inneren Freundeskreis. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: Rang 1 im inneren Freundeskreis – und der ewige Platz ganz unten am Katzentisch."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe in der regennassen U-Bahn-Station Alexanderplatz, 8 Uhr morgens, und starre auf mein Handy."
+        },
+        {
+          "s": "Figur",
+          "t": "Da blitzt die Nachricht auf: Sorry Tim, der Tisch ist heute Abend leider komplett reserviert für die wichtigen Leute."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Brokkoli-Tom, der mit Rang 8 auf der Stirn arrogant an mir vorbeispaziert, lacht laut und schubst mich beiseite.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Wer braucht schon eure Treffen, wenn man seine Ruhe hat? Ich beiße die Zähne zusammen und stecke meine kalten Hände in die Taschen."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Tom bleibt stehen, dreht sich langsam um und mustert mich von oben bis unten mit absolutem Ekel.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du bist nur der Fußabtreter unserer Gruppe, Tim.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Genau in diesem Moment vibriert mein Display heftig, und der Status ändert sich plötzlich schlagartig."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Du bist nur der Fußabtreter unserer Gruppe, Tim.",
+      "quote_by": {
+        "level": 8,
+        "name": "Tom",
+        "badge": "Rang 8",
+        "character": "A smug, tall broccoli man with a tailored dark green suit, slicked-back florets, and a glowing digital 'Rang 8' on his forehead.",
+        "scene": "Close-up shot in a rainy subway station, looking down with a cruel smirk at the lower-ranked person."
+      },
+      "stats": [
+        {
+          "label": "Rang",
+          "value": "1",
+          "bar": 0.1
+        },
+        {
+          "label": "Stimme",
+          "value": "1%",
+          "bar": 0.05
+        },
+        {
+          "label": "Einladungen",
+          "value": "0",
+          "bar": 0.0
+        }
+      ],
+      "character": "A young, anxious strawberry person with bright red skin, tiny green leaf hair, wearing a worn-out gray hoodie. A glowing digital 'Rang 1' sits on his forehead.",
+      "visual": "Wide shot of a gloomy, wet Berlin subway station at dawn, with a small strawberry person looking sad at a glowing phone screen while a tall broccoli person walks past.",
+      "scenes": [
+        "Wide shot of a gloomy, wet Berlin subway station at dawn, with a small strawberry person looking sad at a glowing phone screen.",
+        "Medium shot in the crowded commuter train, with passengers staring at their glowing forehead numbers.",
+        "Close-up detail of a glowing digital 'Rang 1' on a strawberry leaf forehead next to a tiny hidden golden coin on a concrete pillar.",
+        "Halbnah shot in a neon-lit kiosk, where a grumpy lemon person refuses to sell coffee to the lowest rank.",
+        "Detail shot of a cracked smartphone screen displaying a group chat rejection message.",
+        "Over-the-shoulder shot of a tall broccoli man walking away into the foggy morning street."
+      ],
+      "caption": "Wer landet bei euch immer ganz unten im Freundeskreis? #Freundschaft #Rangliste #Drama #Berlin #Level1"
+    },
+    {
+      "n": 2,
+      "open_loop": "Warum stand plötzlich die Polizei vor meiner Wohnungstür, nur weil ich zu diesem Treffen erschienen bin?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Schließt Lisa demonstrativ vor der Barista-Theke aus und verlangt einen doppelten Aufschlag."
+      },
+      "name": "Lisa, 26, Barista",
+      "badge": "Rang 2",
+      "verdict": "ERSATZBANK",
+      "story": "Die 8 Level von dem Rangplatz im inneren Freundeskreis. Level 2. Level 2: Rang 2 im inneren Freundeskreis – und plötzlich nur noch die nette Bedienung für zwischendurch. Ich stehe hinter der glänzenden Espressomaschine in unserem Stammdschungel-Café in Mitte, wische den Tresen. Orange-Sara, die mit ihrer fetten 7 auf der Stirn an Tisch 4 steht und mich herbeiwinzkt. Bring mir sofort meinen doppelten Soja-Latte, aber diesmal ohne den billigen Milchschaum. Ich atme tief durch, halte den Krug fest in meinen Händen und überlege, ob ich ihr die Milch überschütten soll. Sara mustert meine Arbeitskleidung und schüttelt verächtlich den Kopf über meine niedrige Position. Du bist eben nur zum Kaffeekochen gut und nicht für unseren Tisch. Genau in diesem Augenblick klingelt mein Diensthandy, und der Chef teilt mir eine ungeheuerliche Nachricht mit. Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+2 Ränge",
+        "after": "Rang 4"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von dem Rangplatz im inneren Freundeskreis. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: Rang 2 im inneren Freundeskreis – und plötzlich nur noch die nette Bedienung für zwischendurch."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe hinter der glänzenden Espressomaschine in unserem Stammdschungel-Café in Mitte, wische den Tresen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Orange-Sara, die mit ihrer fetten 7 auf der Stirn an Tisch 4 steht und mich herbeiwinzkt.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Bring mir sofort meinen doppelten Soja-Latte, aber diesmal ohne den billigen Milchschaum.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich atme tief durch, halte den Krug fest in meinen Händen und überlege, ob ich ihr die Milch überschütten soll."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Sara mustert meine Arbeitskleidung und schüttelt verächtlich den Kopf über meine niedrige Position.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du bist eben nur zum Kaffeekochen gut und nicht für unseren Tisch.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Genau in diesem Augenblick klingelt mein Diensthandy, und der Chef teilt mir eine ungeheuerliche Nachricht mit."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Du bist eben nur zum Kaffeekochen gut und nicht für unseren Tisch.",
+      "quote_by": {
+        "level": 7,
+        "name": "Sara",
+        "badge": "Rang 7",
+        "character": "A vibrant orange person with glossy citrus skin, wearing a trendy beige trench coat, and a glowing digital 'Rang 7' on her forehead.",
+        "scene": "Medium shot in a trendy café, pointing condescendingly at a barista across the wooden counter."
+      },
+      "stats": [
+        {
+          "label": "Rang",
+          "value": "2",
+          "bar": 0.25
+        },
+        {
+          "label": "Trinkgeld",
+          "value": "12 €",
+          "bar": 0.2
+        },
+        {
+          "label": "Freunde",
+          "value": "2",
+          "bar": 0.15
+        }
+      ],
+      "character": "A cheerful lemon person with bright yellow textured skin, wearing a white barista apron and a glowing digital 'Rang 2' on her forehead.",
+      "visual": "Medium shot of a trendy Berlin café interior with warm lighting, a yellow lemon barista wiping a counter, and an orange customer pointing rudely.",
+      "scenes": [
+        "Medium shot of a trendy Berlin café interior with warm lighting, a yellow lemon barista wiping a counter.",
+        "Close-up of a sparkling espresso machine with a tiny hidden golden coin resting on the drip tray.",
+        "Halbnah shot of an orange customer sitting at a window table, showing off her glowing number 7.",
+        "Wide shot of the café seating area with other vegetable patrons whispering among themselves.",
+        "Detail shot of a receipt paper printing an unexpected cancellation notice.",
+        "Over-the-shoulder shot of the barista looking out the large glass window into the rainy street."
+      ],
+      "caption": "Wer von euch muss im Freundeskreis auch immer den Kaffee holen? #Kaffee #Barista #Freundschaft #Berlin #Level2"
+    },
+    {
+      "n": 3,
+      "open_loop": "Wer hat die Kreditkarte gesperrt, genau als wir die teure Hotelrechnung bezahlen wollten?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Verpetzt Ben bei der Reservierung und sorgt dafür, dass sein Tisch an den Rand verlegt wird."
+      },
+      "name": "Ben, 29, Grafiker",
+      "badge": "Rang 3",
+      "verdict": "MITTELMASS",
+      "story": "Die 8 Level von dem Rangplatz im inneren Freundeskreis. Level 3. Level 3: Rang 3 im inneren Freundeskreis – und das fünfte Rad am Wagen bei jedem Ausflug. Wir stehen im Designer-Outlet in Spandau vor der Kasse, und ich hole gerade meine Geldbörse heraus. Avocado-Leo, der mit seiner massiven Rang-6-Anzeige stolz durch den Laden stolziert, wirft mir einen kalten Blick zu. Mit deinem kleinen Einkommen von ein paar Kröten kannst du dir hier doch maximal die Einkaufstüte leisten. Meine Wangen glühen vor Scham, und die grüne Haut spannt sich gefährlich an. Eine Verkäuferin schaut mitleidig weg, während Leo genüsslich sein teures Smartphone poliert. Du wirst in dieser Clique niemals mehr als ein Mitläufer sein, Alter. Plötzlich vibriert mein Handy mit einer Push-Nachricht, die alles auf den Kopf stellt. Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+3 Ränge",
+        "after": "Rang 6"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von dem Rangplatz im inneren Freundeskreis. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: Rang 3 im inneren Freundeskreis – und das fünfte Rad am Wagen bei jedem Ausflug."
+        },
+        {
+          "s": "Figur",
+          "t": "Wir stehen im Designer-Outlet in Spandau vor der Kasse, und ich hole gerade meine Geldbörse heraus."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Avocado-Leo, der mit seiner massiven Rang-6-Anzeige stolz durch den Laden stolziert, wirft mir einen kalten Blick zu.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit deinem kleinen Einkommen von ein paar Kröten kannst du dir hier doch maximal die Einkaufstüte leisten.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Wangen glühen vor Scham, und die grüne Haut spannt sich gefährlich an."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Eine Verkäuferin schaut mitleidig weg, während Leo genüsslich sein teures Smartphone poliert.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du wirst in dieser Clique niemals mehr als ein Mitläufer sein, Alter.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich vibriert mein Handy mit einer Push-Nachricht, die alles auf den Kopf stellt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Du wirst in dieser Clique niemals mehr als ein Mitläufer sein, Alter.",
+      "quote_by": {
+        "level": 6,
+        "name": "Leo",
+        "badge": "Rang 6",
+        "character": "A smooth avocado man with dark green bumpy skin, wearing a stylish leather jacket, and a glowing digital 'Rang 6' on his forehead.",
+        "scene": "Medium shot in a luxury boutique, sneering down at a peer while adjusting his jacket collar."
+      },
+      "stats": [
+        {
+          "label": "Rang",
+          "value": "3",
+          "bar": 0.4
+        },
+        {
+          "label": "Status",
+          "value": "Mittel",
+          "bar": 0.35
+        },
+        {
+          "label": "Macht",
+          "value": "Gering",
+          "bar": 0.3
+        }
+      ],
+      "character": "An avocado person with light green textured skin, wearing a casual denim shirt and a glowing digital 'Rang 3' on his forehead.",
+      "visual": "Medium shot in a bright designer outlet store in Berlin, with an avocado man looking embarrassed at a cash register.",
+      "scenes": [
+        "Medium shot in a bright designer outlet store in Berlin, with an avocado man looking embarrassed at a cash register.",
+        "Close-up of a designer clothing rack with a tiny hidden golden coin tucked behind a price tag.",
+        "Halbnah shot of another smug fruit person showing off his high number while laughing.",
+        "Wide shot of the bustling shopping mall corridor with neon store signs.",
+        "Detail shot of a smartphone notification showing an unexpected bank transfer.",
+        "Over-the-shoulder shot of the protagonist walking out into the parking garage."
+      ],
+      "caption": "Geht es euch im Freundeskreis auch manchmal so wie Rang 3? #Freundeskreis #Shopping #Berlin #Level3"
+    },
+    {
+      "n": 4,
+      "open_loop": "Wer hat das Dokument aus dem Safe gestohlen, bevor ich es unterschreiben konnte?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Vergisst absichtlich Mias Getränkebestellung und lacht sie vor allen anderen aus."
+      },
+      "name": "Mia, 27, Eventmanagerin",
+      "badge": "Rang 4",
+      "verdict": "MITTE",
+      "story": "Die 8 Level von dem Rangplatz im inneren Freundeskreis. Level 4. Level 4: Rang 4 im inneren Freundeskreis – genau in der goldenen Mitte, wo jeder dich anlächelt, aber niemand dich anruft. Ich sitze in unserem Stamm-Loquitur in Prenzlauer Berg, 20 Uhr, und blättere durch die Gästeliste. Kokosnuss-Klaus, der mit seiner unerschütterlichen Rang-8-Zahl an mir vorbeistapft, knallt seine Aktentasche auf den Tisch. Sag mal, Mia, glaubst du wirklich, dass deine kleine Liste auch nur jemanden interessiert? Meine harte Schale zieht sich zusammen, ich halte meinen Kugelschreiber so fest, dass das Plastik knackt. Eine Kellnerin zuckt mit den Schultern und wendet sich ab, um den VIP-Bereich zu bedienen. Du bist einfach austauschbar, Kleines, mehr nicht. Genau in diesem Moment geht im ganzen Lokal das Licht aus, und die Bildschirme flackern wild. Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1 Rang",
+        "after": "Rang 5"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von dem Rangplatz im inneren Freundeskreis. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: Rang 4 im inneren Freundeskreis – genau in der goldenen Mitte, wo jeder dich anlächelt, aber niemand dich anruft."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze in unserem Stamm-Loquitur in Prenzlauer Berg, 20 Uhr, und blättere durch die Gästeliste."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Kokosnuss-Klaus, der mit seiner unerschütterlichen Rang-8-Zahl an mir vorbeistapft, knallt seine Aktentasche auf den Tisch.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sag mal, Mia, glaubst du wirklich, dass deine kleine Liste auch nur jemanden interessiert?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine harte Schale zieht sich zusammen, ich halte meinen Kugelschreiber so fest, dass das Plastik knackt."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Eine Kellnerin zuckt mit den Schultern und wendet sich ab, um den VIP-Bereich zu bedienen.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du bist einfach austauschbar, Kleines, mehr nicht.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Genau in diesem Moment geht im ganzen Lokal das Licht aus, und die Bildschirme flackern wild."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Du bist einfach austauschbar, Kleines, mehr nicht.",
+      "quote_by": {
+        "level": 8,
+        "name": "Klaus",
+        "badge": "Rang 8",
+        "character": "A tough coconut man with a hard brown hairy shell, wearing an expensive designer suit, and a glowing digital 'Rang 8' on his forehead.",
+        "scene": "Close-up in a dimly lit bar, slamming a briefcase down and looking down with extreme superiority."
+      },
+      "stats": [
+        {
+          "label": "Rang",
+          "value": "4",
+          "bar": 0.55
+        },
+        {
+          "label": "Einfluss",
+          "value": "Mittel",
+          "bar": 0.5
+        },
+        {
+          "label": "Netzwerk",
+          "value": "Gut",
+          "bar": 0.48
+        }
+      ],
+      "character": "A coconut person with a hard brown textured head, wearing a chic business blazer and a glowing digital 'Rang 4' on her forehead.",
+      "visual": "Medium shot of a trendy Berlin bar in the evening, with a coconut woman reviewing paperwork under warm pendant lights.",
+      "scenes": [
+        "Medium shot of a trendy Berlin bar in the evening, with a coconut woman reviewing paperwork under warm pendant lights.",
+        "Close-up of a wooden bar top with a tiny hidden golden coin resting next to a cocktail glass.",
+        "Halbnah shot of a senior coconut man slamming his briefcase down in front of her.",
+        "Wide shot of the atmospheric bar filled with chatting fruit and vegetable patrons.",
+        "Detail shot of a glowing digital 'Rang 4' flickering slightly on a coconut forehead.",
+        "Over-the-shoulder shot of the room plunging into sudden darkness as lights fail."
+      ],
+      "caption": "Seid ihr im Freundeskreis auch oft nur die unbesungene Mitte? #Freundeskreis #Mitte #Berlin #Level4"
+    },
+    {
+      "n": 5,
+      "open_loop": "Warum lag dieser mysteriöse Umschlag in meinem Spind, obwohl niemand den Code kennen konnte?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Lacht laut über Jannis Präsentation und zieht insgeheim seine Entwürfe ins Lächerliche."
+      },
+      "name": "Jannis, 31, Architekt",
+      "badge": "Rang 5",
+      "verdict": "OBERE HÄLFTE",
+      "story": "Die 8 Level von dem Rangplatz im inneren Freundeskreis. Level 5. Level 5: Rang 5 im inneren Freundeskreis – die obere Hälfte, wo man denkt, man hat es geschafft. Ich stehe auf der Dachterrasse unseres Architekturbüros am Potsdamer Platz, 14 Uhr, und präsentiere den neuen Entwurf. Drachenfrucht-David, der mit einer glänzenden 7 auf der Stirn seine teure Sonnenbrille abnimmt. Netter Versuch, Jannis, aber das sieht eher aus wie ein Gewächshaus für Anfänger als nach Luxus. Meine pinken Schuppen sträuben sich vor Wut, ich kralle meine Hände in das Papier. Eine Kollegin blickt betreten zu Boden und traut sich nicht, etwas zu sagen. Du wirst niemals die großen Projekte bekommen, solange ich hier das Sagen habe. Plötzlich vibriert mein Handy mit einer Eilmeldung vom Vorstand. Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+2 Ränge",
+        "after": "Rang 7"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von dem Rangplatz im inneren Freundeskreis. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: Rang 5 im inneren Freundeskreis – die obere Hälfte, wo man denkt, man hat es geschafft."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe auf der Dachterrasse unseres Architekturbüros am Potsdamer Platz, 14 Uhr, und präsentiere den neuen Entwurf."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Drachenfrucht-David, der mit einer glänzenden 7 auf der Stirn seine teure Sonnenbrille abnimmt.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Netter Versuch, Jannis, aber das sieht eher aus wie ein Gewächshaus für Anfänger als nach Luxus.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine pinken Schuppen sträuben sich vor Wut, ich kralle meine Hände in das Papier."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Eine Kollegin blickt betreten zu Boden und traut sich nicht, etwas zu sagen.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du wirst niemals die großen Projekte bekommen, solange ich hier das Sagen habe.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich vibriert mein Handy mit einer Eilmeldung vom Vorstand."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Du wirst niemals die großen Projekte bekommen, solange ich hier das Sagen habe.",
+      "quote_by": {
+        "level": 7,
+        "name": "David",
+        "badge": "Rang 7",
+        "character": "A striking dragon fruit man with vibrant pink skin, green leafy spikes, wearing a high-end designer suit, and a glowing digital 'Rang 7' on his forehead.",
+        "scene": "Medium shot on a sunny skyscraper rooftop, mocking an architectural model with a sneer."
+      },
+      "stats": [
+        {
+          "label": "Rang",
+          "value": "5",
+          "bar": 0.7
+        },
+        {
+          "label": "Projekte",
+          "value": "Groß",
+          "bar": 0.65
+        },
+        {
+          "label": "Ansehen",
+          "value": "Gut",
+          "bar": 0.6
+        }
+      ],
+      "character": "A dragon fruit person with vibrant pink scaly skin, green tips, wearing a sharp business suit and a glowing digital 'Rang 5' on his forehead.",
+      "visual": "Wide shot of a modern Berlin rooftop terrace with skyscrapers in the background, featuring a dragon fruit architect looking frustrated.",
+      "scenes": [
+        "Wide shot of a modern Berlin rooftop terrace with skyscrapers in the background, featuring a dragon fruit architect looking frustrated.",
+        "Close-up of an architectural blueprint with a tiny hidden golden coin resting on the corner.",
+        "Halbnah shot of a flashy dragon fruit man pointing mockingly at the building design.",
+        "Wide shot of the sleek glass office interior reflecting the cloudy Berlin sky.",
+        "Detail shot of a glowing digital 'Rang 5' shining brightly on a pink forehead.",
+        "Over-the-shoulder shot of the architect looking down at his phone notification."
+      ],
+      "caption": "Wer kämpft sich im Job auch immer in die obere Hälfte vor? #Architektur #Karriere #Berlin #Level5"
+    },
+    {
+      "n": 6,
+      "open_loop": "Wer hat die Einladungen gefälscht, die gestern an alle Mitglieder verschickt wurden?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Kürzt Mias Event-Budget um die Hälfte und streicht ihren Namen von der Rednerliste."
+      },
+      "name": "Clara, 28, Unternehmensberaterin",
+      "badge": "Rang 6",
+      "verdict": "ELITE",
+      "story": "Die 8 Level von dem Rangplatz im inneren Freundeskreis. Level 6. Level 6: Rang 6 im inneren Freundeskreis – die absolute Elite, wo man glaubt, unangreifbar zu sein. Ich stehe in der exklusiven VIP-Lounge des Hotels Adlon am Brandenburger Tor, 19 Uhr, und nippe an meinem Champagner. Zitrone-Zoe, die mit ihrer eiskalten Rang-2-Zahl an mir vorbeihuscht, bleibt kurz stehen. Clara, dein Outfit ist für diesen Abend wirklich ein bisschen sehr altbacken. Meine Zitronen-Haut zieht sich zusammen, ich halte mein Glas so fest, dass es fast zerspringt. Ein Kellner lässt fast ein Tablett fallen, als die Sirene im Hintergrund aufheult. Du gehörst hier eigentlich gar nicht hin, du hast dich nur hochgeschlichen. In diesem Moment verdunkeln sich schlagartig alle Monitore im Raum, und die Alarmanlage schrillt los. Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+2 Ränge",
+        "after": "Rang 8"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von dem Rangplatz im inneren Freundeskreis. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: Rang 6 im inneren Freundeskreis – die absolute Elite, wo man glaubt, unangreifbar zu sein."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe in der exklusiven VIP-Lounge des Hotels Adlon am Brandenburger Tor, 19 Uhr, und nippe an meinem Champagner."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Zitrone-Zoe, die mit ihrer eiskalten Rang-2-Zahl an mir vorbeihuscht, bleibt kurz stehen.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Clara, dein Outfit ist für diesen Abend wirklich ein bisschen sehr altbacken.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Zitronen-Haut zieht sich zusammen, ich halte mein Glas so fest, dass es fast zerspringt."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Ein Kellner lässt fast ein Tablett fallen, als die Sirene im Hintergrund aufheult.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du gehörst hier eigentlich gar nicht hin, du hast dich nur hochgeschlichen.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Moment verdunkeln sich schlagartig alle Monitore im Raum, und die Alarmanlage schrillt los."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Du gehörst hier eigentlich gar nicht hin, du hast dich nur hochgeschlichen.",
+      "quote_by": {
+        "level": 2,
+        "name": "Zoe",
+        "badge": "Rang 2",
+        "character": "A bitter lemon woman with bright yellow textured skin, wearing a sharp silver evening dress, and a glowing digital 'Rang 2' on her forehead.",
+        "scene": "Close-up in a luxury hotel lounge, whispering a condescending remark with a cold glare."
+      },
+      "stats": [
+        {
+          "label": "Rang",
+          "value": "6",
+          "bar": 0.85
+        },
+        {
+          "label": "Status",
+          "value": "Elite",
+          "bar": 0.8
+        },
+        {
+          "label": "Macht",
+          "value": "Hoch",
+          "bar": 0.78
+        }
+      ],
+      "character": "A lemon person with bright yellow textured skin, wearing an elegant silk evening gown and a glowing digital 'Rang 6' on her forehead.",
+      "visual": "Medium shot of a luxurious hotel VIP lounge in Berlin with crystal chandeliers, featuring an elegant lemon woman looking offended.",
+      "scenes": [
+        "Medium shot of a luxurious hotel VIP lounge in Berlin with crystal chandeliers, featuring an elegant lemon woman looking offended.",
+        "Close-up of a crystal champagne glass with a tiny hidden golden coin resting at the base.",
+        "Halbnah shot of a bitter lemon woman whispering an insult in her ear.",
+        "Wide shot of the grand ballroom filled with wealthy vegetable and fruit elites.",
+        "Detail shot of a glowing digital 'Rang 6' shining brightly on a yellow forehead.",
+        "Over-the-shoulder shot of emergency lights flashing across the ceiling."
+      ],
+      "caption": "Wer gehört für euch zur absoluten Elite im Freundeskreis? #Elite #Luxus #Berlin #Level6"
+    },
+    {
+      "n": 7,
+      "open_loop": "Wer hat die Hauptschlüssel des Clubs an die Presse übergeben, bevor das Geheimnis ans Licht kam?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Sabotiert Jannis Präsentation auf der Dachterrasse und streicht seinen Namen vom Projekt."
+      },
+      "name": "David, 35, Investmentbanker",
+      "badge": "Rang 7",
+      "verdict": "FAST GANZ OBEN",
+      "story": "Die 8 Level von dem Rangplatz im inneren Freundeskreis. Level 7. Level 7: Rang 7 im inneren Freundeskreis – fast ganz oben, wo man die Fäden zieht und die anderen nach ihrer Pfeife tanzen lässt. Ich stehe auf der privaten Dachterrasse unseres Penthouses am Kurfürstendamm, 22 Uhr, und blicke auf das Lichtermeer. Brokkoli-Tom, der mit der ultimativen Rang-8-Zahl hinter mir auftaucht, klopft mir herablassend auf die Schulter. Netter Versuch, David, aber die wirklich wichtigen Entscheidungen treffe immer noch ich ganz allein. Meine pinken Schuppen glühen im Neonlicht, ich balle meine Fäuste in den Hosentaschen. Eine anwesende Investorin dreht sich schweigend um und verlässt die Terrasse. Du bist nur meine Marionette, vergiß das nie. Genau in diesem Moment geht auf der Straße unten die Straßenbeleuchtung aus, und ein geheimnisvoller Wagen hält vor dem Haus. Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1 Rang",
+        "after": "Rang 8"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von dem Rangplatz im inneren Freundeskreis. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: Rang 7 im inneren Freundeskreis – fast ganz oben, wo man die Fäden zieht und die anderen nach ihrer Pfeife tanzen lässt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe auf der privaten Dachterrasse unseres Penthouses am Kurfürstendamm, 22 Uhr, und blicke auf das Lichtermeer."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Brokkoli-Tom, der mit der ultimativen Rang-8-Zahl hinter mir auftaucht, klopft mir herablassend auf die Schulter.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Netter Versuch, David, aber die wirklich wichtigen Entscheidungen treffe immer noch ich ganz allein.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine pinken Schuppen glühen im Neonlicht, ich balle meine Fäuste in den Hosentaschen."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Eine anwesende Investorin dreht sich schweigend um und verlässt die Terrasse.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du bist nur meine Marionette, vergiß das nie.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Genau in diesem Moment geht auf der Straße unten die Straßenbeleuchtung aus, und ein geheimnisvoller Wagen hält vor dem Haus."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Du bist nur meine Marionette, vergiß das nie.",
+      "quote_by": {
+        "level": 8,
+        "name": "Tom",
+        "badge": "Rang 8",
+        "character": "A smug, tall broccoli man with dark green florets, wearing a tailored black tuxedo, and a glowing digital 'Rang 8' on his forehead.",
+        "scene": "Close-up on a luxury penthouse balcony at night, looking down with absolute power."
+      },
+      "stats": [
+        {
+          "label": "Rang",
+          "value": "7",
+          "bar": 0.95
+        },
+        {
+          "label": "Macht",
+          "value": "Extrem",
+          "bar": 0.92
+        },
+        {
+          "label": "Einfluss",
+          "value": "Top",
+          "bar": 0.9
+        }
+      ],
+      "character": "A striking dragon fruit person with dark pink scaly skin, wearing a custom tuxedo and a glowing digital 'Rang 7' on his forehead.",
+      "visual": "Wide shot of a luxurious Berlin penthouse balcony at night with the city skyline glowing behind a powerful dragon fruit man.",
+      "scenes": [
+        "Wide shot of a luxurious Berlin penthouse balcony at night with the city skyline glowing behind a powerful dragon fruit man.",
+        "Close-up of a silver cigar cutter with a tiny hidden golden coin resting nearby.",
+        "Halbnah shot of a tall broccoli man towering over him with a menacing smirk.",
+        "Wide shot of the glittering Berlin skyline under a dark night sky.",
+        "Detail shot of a glowing digital 'Rang 7' pulsing on a pink forehead.",
+        "Over-the-shoulder shot of a black luxury car arriving on the street far below."
+      ],
+      "caption": "Wer zieht in eurem Freundeskreis die unsichtbaren Fäden? #Macht #Penthouse #Berlin #Level7"
+    },
+    {
+      "n": 8,
+      "open_loop": "Wer kontrolliert am Ende wirklich alle Zahlen und hat das Spiel von Anfang an gesteuert?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Verbirgt die entscheidenden Unterlagen in Tims Rucksack, um das System zum Einsturz zu bringen."
+      },
+      "name": "Tom, 40, Mastermind",
+      "badge": "Rang 8",
+      "verdict": "DIE SPITZE",
+      "story": "Die 8 Level von dem Rangplatz im inneren Freundeskreis. Level 8. Level 8: Rang 8 im inneren Freundeskreis – ganz an der Spitze, wo man alle Fäden in der Hand hält. Ich sitze in der obersten Etage des höchsten Towers am Alexanderplatz, 00:00 Uhr, und betrachte die leuchtende Stadtkarte. Unten im Foyer blicken alle sieben Figuren gespannt nach oben und warten auf die Entscheidung. Mit einer einzigen Berührung auf meinem Master-Display kann ich jedes Leben hier verändern. Meine Brokkoli-Krone leuchtet in tiefem, sattem Grün, während ich die letzte goldene Münze in meiner Hand drehe. Ich trete ans Panoramafenster, blicke hinab auf die winzigen Gestalten und spreche den ultimativen Satz. Die Zahl lügt nie, aber sie zeigt niemals das ganze Bild. Mein Display flackert ein letztes Mal auf und zeigt eine völlig neue Zahl, die alles verändert. Welches Thema aus unserem Alltag soll als Nächstes in 8 Leveln gezeigt werden?",
+      "gender": "m",
+      "twist": {
+        "delta": "RESET",
+        "after": "Rang 0"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von dem Rangplatz im inneren Freundeskreis. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: Rang 8 im inneren Freundeskreis – ganz an der Spitze, wo man alle Fäden in der Hand hält."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze in der obersten Etage des höchsten Towers am Alexanderplatz, 00:00 Uhr, und betrachte die leuchtende Stadtkarte."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Unten im Foyer blicken alle sieben Figuren gespannt nach oben und warten auf die Entscheidung.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mit einer einzigen Berührung auf meinem Master-Display kann ich jedes Leben hier verändern."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Brokkoli-Krone leuchtet in tiefem, sattem Grün, während ich die letzte goldene Münze in meiner Hand drehe."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich trete ans Panoramafenster, blicke hinab auf die winzigen Gestalten und spreche den ultimativen Satz."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl lügt nie, aber sie zeigt niemals das ganze Bild."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Display flackert ein letztes Mal auf und zeigt eine völlig neue Zahl, die alles verändert."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema aus unserem Alltag soll als Nächstes in 8 Leveln gezeigt werden?"
+        }
+      ],
+      "quote": "Die Zahl lügt nie, aber sie zeigt niemals das ganze Bild.",
+      "quote_by": {
+        "level": 8,
+        "name": "Tom",
+        "badge": "Rang 8",
+        "character": "A powerful broccoli mastermind with dark green florets, wearing a sleek black designer suit, and a glowing digital 'Rang 8' on his forehead.",
+        "scene": "Wide shot in a high-tech glass penthouse at midnight, looking down at the city with ultimate authority."
+      },
+      "stats": [
+        {
+          "label": "Rang",
+          "value": "8",
+          "bar": 1.0
+        },
+        {
+          "label": "Macht",
+          "value": "Max",
+          "bar": 1.0
+        },
+        {
+          "label": "Kontrolle",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "A tall broccoli person with dense dark green florets, wearing a tailored black suit and a glowing digital 'Rang 8' on his forehead.",
+      "visual": "Wide shot of a high-tech glass penthouse overlooking a glowing Berlin at midnight, with a powerful broccoli mastermind standing at a control console.",
+      "scenes": [
+        "Wide shot of a high-tech glass penthouse overlooking a glowing Berlin at midnight, with a powerful broccoli mastermind standing at a control console.",
+        "Close-up of a high-tech master display showing all eight player numbers with a tiny hidden golden coin next to the enter key.",
+        "Halbnah shot of the mastermind touching a glowing holographic screen.",
+        "Wide shot of all lower-level characters standing together in the brightly lit lobby below.",
+        "Detail shot of a glowing digital 'Rang 8' shining with intense, blinding light.",
+        "Over-the-shoulder shot of the city lights blinking in perfect synchronization."
+      ],
+      "caption": "Wer zieht in eurem Leben wirklich die Fäden? Welches Thema als Nächstes? #Mastermind #Finale #Berlin #Level8"
+    }
+  ],
+  "lang": "de",
+  "topic": "Der Rangplatz im inneren Freundeskreis",
+  "frame": "frucht"
+}
