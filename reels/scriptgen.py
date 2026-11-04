@@ -457,9 +457,12 @@ def write_series(topic, lang, frame="aufzug"):
         s = ensure_next_line(validate_series(ask(prompt)), lang)
         s = ensure_next_line(validate_series(critic.improve_series(s, ask, f"{lang}_{frame}_{topic}")), lang)
         words = len(s["levels"][0]["story"].split())
-        if lang != "de" and _looks_german(_series_text(s)):
+        txt = _series_text(s)
+        words_all = re.findall(r"[a-zäöüß]+", txt.lower())
+        de_ratio = sum(w in GERMAN_WORDS for w in words_all) / max(1, len(words_all))
+        if (lang != "de" and _looks_german(txt)) or (lang == "de" and de_ratio < 0.05):
             # Ersatz-KIs schreiben bei deutschem Prompt gern auf Deutsch: eine EN-Folge mit deutscher Stimme ist wertlos
-            print("  Story ist Deutsch statt", LANG_NAMES[lang], "– neuer Versuch")
+            print("  Story in falscher Sprache statt", LANG_NAMES[lang], "– neuer Versuch")
             prompt += f"\nWICHTIG: Schreibe ALLE Texte (Titel, Story, Zeilen, Captions) ausschließlich auf {LANG_NAMES[lang]}."
             continue
         if words >= min_words:
