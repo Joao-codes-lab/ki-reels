@@ -1,0 +1,129 @@
+{
+  "best_score": 74,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 7,
+        "story": 6,
+        "identifikation": 8,
+        "verbindungen": 9,
+        "sog": 8,
+        "wut": 8,
+        "merkfaehigkeit": 7,
+        "sprache": 6
+      },
+      "gesamt": 74,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den ersten Satz durch einen harten Kontrast: 'Null Dollar die Woche, aber Sklavenarbeit bis Mitternacht: Warum Leo trotzdem grinst.'"
+        },
+        {
+          "n": 2,
+          "fix": "Füge mehr emotionale Tiefe ein: 'Vierzig Stunden geschafft, Kontostand leer, und jetzt will der Chef noch mein Wochenende haben.'"
+        },
+        {
+          "n": 3,
+          "fix": "Schärfe den Konflikt: 'Neunhundertzwanzig Dollar und die Kündigung auf dem Tisch – bis ich den Beweis im Drucker finde.'"
+        },
+        {
+          "n": 4,
+          "fix": "Erhöhe den Druck: 'Sechzehnhundertfünfzig Dollar reichen nicht mal für die Medikamente, aber die Deadline brennt.'"
+        },
+        {
+          "n": 5,
+          "fix": "Verschärfe die Wut: 'Zweitausendvierhundert Dollar für leere Aktienversprechen, während man mich durch Billigarbeiter ersetzt.'"
+        },
+        {
+          "n": 6,
+          "fix": "Klarere Rache: 'Dreitausendvierhundert Dollar Gehalt, aber die Angst vor dem Gefängnis frisst mich auf.'"
+        },
+        {
+          "n": 7,
+          "fix": "Direktere Konfrontation: 'Fast sechstausend Dollar im Monat und plötzlich klopft die Bundespolizei an die Tür.'"
+        },
+        {
+          "n": 8,
+          "fix": "Spektakuläres Finale: 'Zwölftausendfünfhundert Dollar pro Woche – und plötzlich blinkt die Stirnzahl auf Null.'"
+        }
+      ],
+      "fazit": "Die Serie hat starkes virales Potenzial durch das Fratzschnitte-Konzept und die cleveren Verknüpfungen zwischen den Leveln. Die Texte müssen jedoch drastischer, emotionaler und näher am gesprochenen Slang von TikTok sein, um die Abbrecherquote in den ersten zwei Sekunden radikal zu senken."
+    },
+    {
+      "scores": {
+        "hook": 5,
+        "story": 6,
+        "identifikation": 7,
+        "verbindungen": 6,
+        "sog": 5,
+        "wut": 4,
+        "merkfaehigkeit": 5,
+        "sprache": 6
+      },
+      "gesamt": 54,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den lahmen Einstieg durch einen brutalen Kontrast: 'Null Dollar Gehalt, aber der Chef verlangt Achtzig Stunden – und lacht mir ins Gesicht.'"
+        },
+        {
+          "n": 3,
+          "fix": "Erhöhe die Wut im dritten Teil durch direkten Verrat: 'Während ich auf der Arbeit meinen Hochzeitstag vergesse, feiert mein Boss auf meiner Gehaltsabrechnung.'"
+        },
+        {
+          "n": 8,
+          "fix": "Verstärke die Genugtuung am Ende: 'Die Handschellen klicken, während mein Kontostand auf Null stürzt – genau wie du es verdient hast.'"
+        }
+      ],
+      "fazit": "Die Obst-Metaphern und das Level-System sind optisch stark, aber die emotionale Wucht und die absolute Genugtuung am Ende fehlen noch. Der Zuschauer will den arroganten Boss leiden sehen, bevor das Karma zuschlägt. Mehr Tempo, härtere Konflikte in den ersten zwei Sekunden."
+    },
+    {
+      "scores": {
+        "hook": 6,
+        "story": 5,
+        "identifikation": 4,
+        "verbindungen": 6,
+        "sog": 5,
+        "wut": 4,
+        "merkfaehigkeit": 5,
+        "sprache": 6
+      },
+      "gesamt": 51,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze das langweilige Intro durch: 'Null Dollar Gehalt, 80 Stunden Schicht – und dieser arrogante Boss will mich heute Nacht noch auf der Straße sehen.'"
+        },
+        {
+          "n": 2,
+          "fix": "Schärfe den Konflikt in Level 2: 'Mein Kontostand zeigt Minus, aber der Peach Director schmeißt meinen Code weg und lacht mir ins Gesicht.'"
+        },
+        {
+          "n": 3,
+          "fix": "Erhöhe die Wut in Level 3: 'Während ich meinen Hochzeitstag vergesse, feiert der Chef auf meiner Gehaltsabrechnung – heute erfahre ich, wohin mein Geld verschwunden ist.'"
+        },
+        {
+          "n": 4,
+          "fix": "Verschärfe den Sog in Level 4: 'Sechzehnhundertfünfzig Dollar reichen nicht mal für Insulin, aber die Banane im Management will meinen Kopf auf dem Tisch.'"
+        },
+        {
+          "n": 5,
+          "fix": "Baue echten Druck auf in Level 5: 'Zweitausendvierhundert Dollar und leere Aktienversprechen – morgen ersetzt mich der Pineapple VP durch Billigarbeiter aus dem Ausland.'"
+        },
+        {
+          "n": 6,
+          "fix": "Klarer Perspektivwechsel in Level 6: 'Dreitausendvierhundert Dollar Gehalt, aber Kai aus Level 3 steht plötzlich vor meinem Tisch und vernichtet meine Karriere.'"
+        },
+        {
+          "n": 7,
+          "fix": "Erhöhe die Genugtuung in Level 7: 'Fast sechstausend Dollar im Monat – und plötzlich knallt mir Marcus aus Level 5 die Bundesakte auf den Tisch.'"
+        },
+        {
+          "n": 8,
+          "fix": "Stärkere Rache in Level 8: 'Zwölftausendfünfhundert Dollar – und plötzlich blinkt die Stirn der Chefin auf Null, während Leo aus Level 1 ihr die Handschellen anlegt.'"
+        }
+      ],
+      "fazit": "Die Serie hat starke visuelle Ansätze und ein spannendes Frucht-Metaphern-Konzept, verliert aber durch zu formelhafte, emotionsarme Dialoge und mangelnde Härte bei den Konflikten. Die Zuschauer wollen pure Genugtuung und echten Hass auf die Bosse spüren – hier plätschern einige Folgen zu schnell durch, ohne den emotionalen Payoff zu liefern."
+    }
+  ]
+}

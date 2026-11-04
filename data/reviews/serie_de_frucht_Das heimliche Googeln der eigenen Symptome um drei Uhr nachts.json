@@ -1,0 +1,37 @@
+{
+  "best_score": 54,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 5,
+        "story": 6,
+        "identifikation": 7,
+        "verbindungen": 6,
+        "sog": 5,
+        "wut": 4,
+        "merkfaehigkeit": 6,
+        "sprache": 5
+      },
+      "gesamt": 54,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze das langweilige Intro durch einen harten Schlag: '47 Suchanfragen um 3 Uhr nachts – mein eigener Arzt nennt mich einen feigen Hypochonder, während mein Kopf explodiert.'"
+        },
+        {
+          "n": 3,
+          "fix": "Erhöhe die Wut: Lass den Gegenspieler (Level 7) direkt in der Szene die Akte zerreißen und sagen: 'Du bist pleite und bildest dir deinen Herzinfarkt nur ein, du Loser.'"
+        },
+        {
+          "n": 5,
+          "fix": "Schaffe echten Sog: Das offene Ende muss schärfer sein: 'Bevor die Polizei eintrifft, sehe ich in seiner Akte meinen eigenen Namen auf dem Todesurteil.'"
+        },
+        {
+          "n": 7,
+          "fix": "Kürze Füllwörter und bringe den Konflikt auf den Punkt: '7.800 Suchen. Der Arzt sperrt mich aus und lacht: Für deine Paranoia ist selbst dein Millionenvermögen zu schade.'"
+        }
+      ],
+      "fazit": "Die Serie hat eine solide visuelle Grundidee und ein modernes Thema, scheitert aber an echten Konflikten und Genugtuung. Die Bösewichte sind zu zahm, die Zahlen werden oft nur genannt statt als reale Demütigung zu wirken, und manche Texte unterschreiten die Wortvorgabe oder wiederholen sich am Ende (Doppelungen bei open_loop). Mehr Schärfe, echte Rache und kompromisslose Dialoge sind Pflicht für die Millionenvideos."
+    }
+  ]
+}

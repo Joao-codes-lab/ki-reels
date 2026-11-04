@@ -1,0 +1,707 @@
+{
+  "title": "Die 8 Level vom Googeln um 3 Uhr nachts",
+  "house": "A bustling vegetable city with neon-lit alleyways, a 24-hour pharmacy, a moody underground U-Bahn station, and foggy streets under a pale yellow moon, featuring various anthropomorphic fruit and vegetable citizens.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "The 24-hour pharmacy in Level 1 is where the stressed avocado from Level 6 buys sleeping pills.",
+    "The glowing digital billboard from Level 3 flickers in the background of Level 7's penthouse window.",
+    "The lost house key from Level 2 turns up in the dark alley of Level 5."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was genau stand in dem geheimen Laborbefund, den der Arzt um drei Uhr nachts per Mail geschickt hat?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Lacht sie wegen ihrer niedrigen Suchanfragen aus und blockiert die Notaufnahme."
+      },
+      "name": "Tom, 22, Werkstudent",
+      "badge": "47 Suchanfragen",
+      "verdict": "PANIK",
+      "story": "Die 8 Level vom Googeln um 3 Uhr nachts. Level 1. Drei Uhr nachts, das Zimmer dunkel, nur das kalte Blaulicht vom Smartphone leuchtet auf meiner Tomaten-Haut. Ich tippe zitternd ein: Pochen im Kopf, seltsamer Hautfleck, Todesurteil? Auf meiner Stirn flackert die rote Zahl meiner nächtlichen Google-Suchanfragen: siebenundvierzig. Du suchst schon wieder nach Krankheiten, du Hypochonder, das ist nur Einbildung. Das ist keine Einbildung, das brennt wie Feuer in meinem Kopf! Leg das Handy weg, Tom, sonst kollabierst du noch vor der Arbeit. Ich versuche zu atmen, aber der Schmerz in der Brust wird größer, und meine Stirnzahl springt panisch nach oben. Mein ganzer Körper zittert vor Angst, während der Wecker für die Frühschicht in zwei Stunden unerbittlich tickt. Was stimmt bloß nicht mit mir? Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+12 Suchan",
+        "after": "59 Suchen"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Googeln um 3 Uhr nachts. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Drei Uhr nachts, das Zimmer dunkel, nur das kalte Blaulicht vom Smartphone leuchtet auf meiner Tomaten-Haut. Ich tippe zitternd ein: Pochen im Kopf, seltsamer Hautfleck, Todesurteil? Auf meiner Stirn flackert die rote Zahl meiner nächtlichen Google-Suchanfragen: siebenundvierzig."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du suchst schon wieder nach Krankheiten, du Hypochonder, das ist nur Einbildung.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Das ist keine Einbildung, das brennt wie Feuer in meinem Kopf!"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Leg das Handy weg, Tom, sonst kollabierst du noch vor der Arbeit.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich versuche zu atmen, aber der Schmerz in der Brust wird größer, und meine Stirnzahl springt panisch nach oben. Mein ganzer Körper zittert vor Angst, während der Wecker für die Frühschicht in zwei Stunden unerbittlich tickt. Was stimmt bloß nicht mit mir?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Du suchst schon wieder nach Krankheiten, du Hypochonder, das ist nur Einbildung.",
+      "quote_by": {
+        "level": 4,
+        "name": "Brokkoli-Arzt Dr. Stemm",
+        "badge": "1.200 Suchen",
+        "character": "A stern broccoli man with a crisp white lab coat, gold-rimmed glasses, and a smug posture.",
+        "scene": "A brightly lit hospital corridor at night, looking down condescendingly at the tomato man while holding a clipboard."
+      },
+      "stats": [
+        {
+          "label": "Suchanfragen",
+          "value": "47",
+          "bar": 0.1
+        },
+        {
+          "label": "Puls",
+          "value": "135 BPM",
+          "bar": 0.8
+        },
+        {
+          "label": "Schlaf",
+          "value": "1,2 Std.",
+          "bar": 0.05
+        }
+      ],
+      "character": "An anxious tomato man with smooth red skin, dark circles under his eyes, wearing a worn-out grey hoodie, illuminated by a glowing digital badge on his forehead.",
+      "visual": "Wide shot of a cluttered, dark student bedroom at 3 AM, green neon light casting shadows, a small tomato man staring in absolute terror at a glowing smartphone screen.",
+      "scenes": [
+        "Wide shot of a dark student bedroom at 3 AM, green neon light casting shadows, a small tomato man staring in absolute terror at a glowing smartphone screen with a hidden tiny golden coin on the nightstand.",
+        "Close-up of the tomato man's sweating forehead showing the glowing red number 47 next to a half-empty glass of tap water.",
+        "Medium shot in a cramped, messy student kitchen with dirty dishes piled up in the sink, a brooding broccoli man leaning against the doorframe.",
+        "Detail shot of trembling thumbs scrolling rapidly through an endless medical symptom forum on a cracked cracked smartphone display.",
+        "Low-angle shot in the cold subway station at 4:30 AM, dim flickering fluorescent lights reflecting off the wet pavement and concrete walls.",
+        "Close-up of a digital alarm clock flashing 03:42 AM right next to a crumpled medical bill with a red stamp."
+      ],
+      "caption": "Wer kennt diese panischen Nächte vor dem Handy? #gesundheit #angst #level1 #storytime #viral"
+    },
+    {
+      "n": 2,
+      "open_loop": "Welche lebensgefährliche Diagnose hatte die Ärztin im Forum wirklich übersehen?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Nimmt ihm im Wartezimmer die Fachzeitschrift weg und lacht über seine Symptome."
+      },
+      "name": "Zitrone Lisa, 29, Apothekenhelferin",
+      "badge": "112 Suchanfragen",
+      "verdict": "VERBITTERT",
+      "story": "Die 8 Level vom Googeln um 3 Uhr nachts. Level 2. Einhundertzwölf Suchanfragen um vier Uhr morgens – meine gelbe Zitronenhaut schmeckt nach purem Angstschweiß. Ich scrolle durch ein Forum für seltene Tropenkrankheiten, während die Schlaflosigkeit an meinen Nerven frisst. Mit so wenigen Suchen brauchst du hier gar nicht erst mitreden, du Simulant! Ein Simulant? Ich habe seit drei Tagen keinen Schlaf und mein ganzer Hals ist zugeschwollen! Hör auf zu jammern, Lisa, jeder hat mal Bauchschmerzen nach dem Döner. Sie lacht nur kalt und zeigt auf ihre eigene Stirn mit den tausend Einträgen. Die Angst schnürt mir die Kehle zu, während ich den nächsten Fachartikel anklicke, der alles nur noch schlimmer macht. Was stand in dieser verhängnisvollen E-Mail vom Spezialisten? Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+34 Suchan",
+        "after": "146 Suche"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Googeln um 3 Uhr nachts. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Einhundertzwölf Suchanfragen um vier Uhr morgens – meine gelbe Zitronenhaut schmeckt nach purem Angstschweiß. Ich scrolle durch ein Forum für seltene Tropenkrankheiten, während die Schlaflosigkeit an meinen Nerven frisst."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit so wenigen Suchen brauchst du hier gar nicht erst mitreden, du Simulant!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ein Simulant? Ich habe seit drei Tagen keinen Schlaf und mein ganzer Hals ist zugeschwollen!"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Hör auf zu jammern, Lisa, jeder hat mal Bauchschmerzen nach dem Döner.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie lacht nur kalt und zeigt auf ihre eigene Stirn mit den tausend Einträgen. Die Angst schnürt mir die Kehle zu, während ich den nächsten Fachartikel anklicke, der alles nur noch schlimmer macht. Was stand in dieser verhängnisvollen E-Mail vom Spezialisten?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Mit so wenigen Suchen brauchst du hier gar nicht erst mitreden, du Simulant!",
+      "quote_by": {
+        "level": 5,
+        "name": "Zwiebel Mark",
+        "badge": "540 Suchen",
+        "character": "A pungent, multilayered onion man wearing a tight business suit and a condescending smirk.",
+        "scene": "A brightly lit pharmacy counter, pointing mockingly at the lemon woman's glowing forehead."
+      },
+      "stats": [
+        {
+          "label": "Suchanfragen",
+          "value": "112",
+          "bar": 0.25
+        },
+        {
+          "label": "Koffein",
+          "value": "6 Tassen",
+          "bar": 0.7
+        },
+        {
+          "label": "Panik",
+          "value": "Stufe 4",
+          "bar": 0.6
+        }
+      ],
+      "character": "A sour lemon woman with textured bright yellow skin, wearing a white pharmacist coat, holding a blue tablet with an anxious grip.",
+      "visual": "Medium shot of a sterile, neon-lit 24-hour pharmacy at 4 AM, the lemon woman staring in despair at a glowing tablet displaying symptom lists.",
+      "scenes": [
+        "Medium shot of a sterile, neon-lit 24-hour pharmacy at 4 AM, the lemon woman staring in despair at a tablet with a tiny golden coin hidden on the medicine shelf.",
+        "Close-up of the bright yellow lemon skin twitching while the forehead shows the glowing blue number 112.",
+        "Wide shot of an empty waiting room with green plastic chairs under flickering fluorescent ceiling lights.",
+        "Detail shot of a trembling hand gripping a printed medical dictionary page with highlighted warning markers.",
+        "Over-the-shoulder shot looking at a computer screen filled with complex medical warning pop-ups and graphs.",
+        "Close-up of a ringing landline telephone on a messy desk at dawn, casting long shadows."
+      ],
+      "caption": "Wer kennt diese Apotheken-Besuche mitten in der Nacht? #gesundheit #apotheke #level2 #storytime #viral"
+    },
+    {
+      "n": 3,
+      "open_loop": "Wer hat die anonyme Spende auf dem Konto hinterlegt, die alle Rechnungen beglich?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Wirft seine Überweisung achtlos weg und nennt ihn einen hysterischen Hypochonder."
+      },
+      "name": "Max, 34, Grafiker",
+      "badge": "389 Suchanfragen",
+      "verdict": "ÜBERFORDERT",
+      "story": "Die 8 Level vom Googeln um 3 Uhr nachts. Level 3. Dreihundertneunundachtzig Suchanfragen – mein Birnen-Kopf pocht im Takt meiner eigenen Panikattacke. Um halb vier nachts lese ich zum zwölften Mal denselben Wikipedia-Eintrag über Herzinfarkte. Hör auf zu heulen, du verlierst nur Kunden, weil du deine Deadlines wegen ein paar Pickeln verpasst! Ich verpasse keine Deadlines, ich kämpfe ums Überleben! Max, bitte beruhige dich, du machst dir selbst den größten Stress. Der Kürbis winkt ab und zeigt auf seine Stirn, die vor Stolz strahlt. Meine Hände zittern so stark, dass das Smartphone auf den Holzboden klatscht und der Bildschirm zersplittert. Ist das wirklich nur Einbildung oder mein sicheres Ende? Das erfährst du in Level 4. Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+95 Suchan",
+        "after": "484 Suche"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Googeln um 3 Uhr nachts. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Dreihundertneunundachtzig Suchanfragen – mein Birnen-Kopf pocht im Takt meiner eigenen Panikattacke. Um halb vier nachts lese ich zum zwölften Mal denselben Wikipedia-Eintrag über Herzinfarkte."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Hör auf zu heulen, du verlierst nur Kunden, weil du deine Deadlines wegen ein paar Pickeln verpasst!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich verpasse keine Deadlines, ich kämpfe ums Überleben!"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Max, bitte beruhige dich, du machst dir selbst den größten Stress.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Der Kürbis winkt ab und zeigt auf seine Stirn, die vor Stolz strahlt. Meine Hände zittern so stark, dass das Smartphone auf den Holzboden klatscht und der Bildschirm zersplittert. Ist das wirklich nur Einbildung oder mein sicheres Ende?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das erfährst du in Level 4."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Hör auf zu heulen, du verlierst nur Kunden, weil du deine Deadlines wegen ein paar Pickeln verpasst!",
+      "quote_by": {
+        "level": 7,
+        "name": "Kürbis Baron Viktor",
+        "badge": "1.890 Suchen",
+        "character": "A sleek, wealthy pumpkin man in an expensive cashmere sweater with a smug, untouchable attitude.",
+        "scene": "A high-end loft office with floor-to-ceiling windows, looking down at the struggling pear designer with absolute disgust."
+      },
+      "stats": [
+        {
+          "label": "Suchanfragen",
+          "value": "389",
+          "bar": 0.45
+        },
+        {
+          "label": "Herzschlag",
+          "value": "140 BPM",
+          "bar": 0.85
+        },
+        {
+          "label": "Sorgen",
+          "value": "99 %",
+          "bar": 0.95
+        }
+      ],
+      "character": "A stressed pear man with textured olive-green skin, wearing a loose black t-shirt, clutching his head in utter despair.",
+      "visual": "Close-up of a cluttered designer desk at 3:30 AM, sketches scattered everywhere, a glowing pear man staring in horror at a broken laptop screen.",
+      "scenes": [
+        "Close-up of a cluttered designer desk at 3:30 AM, sketches scattered everywhere, a glowing pear man staring in horror at a broken laptop screen with a tiny golden coin wedged under the keyboard.",
+        "Medium shot in a modern co-working space with exposed brick walls and dim warm pendant lights.",
+        "Detail shot of trembling pear fingers trying to tape together a shattered smartphone display.",
+        "Wide shot of an empty, echoing hallway at 4 AM with cold blue moonlight streaming through large factory windows.",
+        "Close-up of the glowing digital forehead number 389 reflecting in a puddle of spilled coffee on the desk.",
+        "Low-angle shot of a towering pumpkin man walking away down a long glass corridor, casting a long shadow."
+      ],
+      "caption": "Wenn die Deadline drückt und der Körper streikt. #gesundheit #stress #level3 #storytime #viral"
+    },
+    {
+      "n": 4,
+      "open_loop": "Was verbarg der Arzt in seiner privaten Akte über die mysteriösen Symptome des Patienten?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Nimmt ihm die Diagnosekarte weg und stempelt sie als unheilbar ab."
+      },
+      "name": "Dr. Stemm, 41, Oberarzt",
+      "badge": "1.200 Suchen",
+      "verdict": "KALT",
+      "story": "Die 8 Level vom Googeln um 3 Uhr nachts. Level 4. Eintausendzweihundert Suchanfragen – selbst als Arzt liege ich um drei Uhr nachts wach und analysiere meine eigenen Blutwerte. Mein Brokkoli-Kopf pocht vor Überarbeitung, als eine schicke Avocadofrau im Designer-Mantel mein Sprechzimmer betritt. Sie googeln nachts nach Krankheiten? Sie sind doch selbst Arzt, wie lächerlich! Ich bin auch nur ein Mensch aus Fleisch und Gemüse! Herr Doktor, im OP wartet bereits der nächste Notfall auf Sie. Sie schnappt sich meine Akte und verlässt den Raum mit einem arroganten Blick. Die Einsamkeit in diesem sterilen Krankenhausraum frisst mich auf, während mein Computer unaufhaltsam neue medizinische Warnungen ausspuckt. Welches dunkle Geheimnis verbirgt sie in ihrer eigenen Krankenakte? Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+150 Sucha",
+        "after": "1.350 Suc"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Googeln um 3 Uhr nachts. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Eintausendzweihundert Suchanfragen – selbst als Arzt liege ich um drei Uhr nachts wach und analysiere meine eigenen Blutwerte. Mein Brokkoli-Kopf pocht vor Überarbeitung, als eine schicke Avocadofrau im Designer-Mantel mein Sprechzimmer betritt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sie googeln nachts nach Krankheiten? Sie sind doch selbst Arzt, wie lächerlich!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin auch nur ein Mensch aus Fleisch und Gemüse!"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Herr Doktor, im OP wartet bereits der nächste Notfall auf Sie.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie schnappt sich meine Akte und verlässt den Raum mit einem arroganten Blick. Die Einsamkeit in diesem sterilen Krankenhausraum frisst mich auf, während mein Computer unaufhaltsam neue medizinische Warnungen ausspuckt. Welches dunkle Geheimnis verbirgt sie in ihrer eigenen Krankenakte?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Sie googeln nachts nach Krankheiten? Sie sind doch selbst Arzt, wie lächerlich!",
+      "quote_by": {
+        "level": 8,
+        "name": "Avocado Sophia",
+        "badge": "3.500 Suchen",
+        "character": "An elegant, flawless avocado woman in an expensive green silk coat with a mysterious aura.",
+        "scene": "A dimly lit hospital VIP lounge, holding a confidential medical file with a cold smile."
+      },
+      "stats": [
+        {
+          "label": "Suchanfragen",
+          "value": "1.200",
+          "bar": 0.6
+        },
+        {
+          "label": "Schicht",
+          "value": "18 Std.",
+          "bar": 0.9
+        },
+        {
+          "label": "Burnout",
+          "value": "Stufe 3",
+          "bar": 0.75
+        }
+      ],
+      "character": "A distinguished broccoli man with dark green florets for hair, wearing a crisp white doctor's coat, looking exhausted under harsh lighting.",
+      "visual": "Wide shot of a sterile hospital doctor's office at 3 AM, green and white tones, the broccoli doctor staring blankly at a glowing computer monitor.",
+      "scenes": [
+        "Wide shot of a sterile hospital doctor's office at 3 AM, green and white tones, the broccoli doctor staring blankly at a glowing monitor with a tiny golden coin on the desk.",
+        "Close-up of the broccoli stem texture sweating under fluorescent overhead lights next to a stethoscope.",
+        "Medium shot in a bright hospital hallway with gleaming linoleum floors reflecting the emergency exit signs.",
+        "Detail shot of a physician's hand typing rapidly into an encrypted patient database at 3:15 AM.",
+        "Over-the-shoulder shot of X-ray scans glowing on a light box showing complex chest anomalies.",
+        "Close-up of the digital forehead display showing 1.200 glowing in bright white numbers."
+      ],
+      "caption": "Auch Ärzte googeln nachts ihre Symptome. #medizin #arzt #level4 #storytime #viral"
+    },
+    {
+      "n": 5,
+      "open_loop": "Warum flüchtete der mysteriöse Patient aus dem Behandlungszimmer, bevor die Polizei eintraf?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Beschuldigt sie fälschlicherweise des Medikamenten-Diebstahls im Nachtdienst."
+      },
+      "name": "Zwiebel Mark, 38, Apotheker",
+      "badge": "2.400 Suchen",
+      "verdict": "PARANOID",
+      "story": "Die 8 Level vom Googeln um 3 Uhr nachts. Level 5. Zweitausendvierhundert Suchanfragen – mein Zwiebel-Kopf schält sich vor lauter Sorge Schicht für Schicht ab. Um drei Uhr morgens stehe ich im kühlen Kellerarchiv der Apotheke und vergleiche medizinische Symptome mit meinen eigenen Herzschlägen. Du verkaufst hier nur Placebos, du Betrüger, ich weiß genau, was du nachts suchst! Ich bin Apotheker und kein Scharlatan! Mark, schließ den Laden ab, es ist mitten in der Nacht. Sie lacht hämisch und zeigt auf ihre eigene Stirnzahl, die meine bei Weitem übertrifft. Die Luft im Keller wird dünn, und meine Hände klammern sich an das Regal voller Pillendosen. Wer hat ihr von meinen nächtlichen Recherchen erzählt? Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+300 Sucha",
+        "after": "2.700 Suc"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Googeln um 3 Uhr nachts. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Zweitausendvierhundert Suchanfragen – mein Zwiebel-Kopf schält sich vor lauter Sorge Schicht für Schicht ab. Um drei Uhr morgens stehe ich im kühlen Kellerarchiv der Apotheke und vergleiche medizinische Symptome mit meinen eigenen Herzschlägen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du verkaufst hier nur Placebos, du Betrüger, ich weiß genau, was du nachts suchst!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Apotheker und kein Scharlatan!"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Mark, schließ den Laden ab, es ist mitten in der Nacht.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie lacht hämisch und zeigt auf ihre eigene Stirnzahl, die meine bei Weitem übertrifft. Die Luft im Keller wird dünn, und meine Hände klammern sich an das Regal voller Pillendosen. Wer hat ihr von meinen nächtlichen Recherchen erzählt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Du verkaufst hier nur Placebos, du Betrüger, ich weiß genau, was du nachts suchst!",
+      "quote_by": {
+        "level": 2,
+        "name": "Zitrone Lisa",
+        "badge": "2.850 Suchen",
+        "character": "A bitter, sharp-tongued lemon woman in a stained pharmacy overall with an aggressive posture.",
+        "scene": "A dark, cramped pharmacy basement surrounded by towering medicine shelves, pointing accusingly."
+      },
+      "stats": [
+        {
+          "label": "Suchanfragen",
+          "value": "2.400",
+          "bar": 0.75
+        },
+        {
+          "label": "Paranoia",
+          "value": "Max",
+          "bar": 0.9
+        },
+        {
+          "label": "Schlaf",
+          "value": "0 Std.",
+          "bar": 0.0
+        }
+      ],
+      "character": "A multilayered onion man with brownish-purple skin layers, wearing a neat pharmacist vest, looking paranoid under dim cellar bulbs.",
+      "visual": "Wide shot of a damp, shadowy apothecary basement at 3 AM, rows of glass medicine bottles glowing faintly under flickering single-bulb lighting.",
+      "scenes": [
+        "Wide shot of a damp, shadowy apothecary basement at 3 AM, rows of glass medicine bottles glowing faintly under flickering single-bulb lighting with a tiny golden coin on a wooden crate.",
+        "Close-up of the onion skin glistening with nervous sweat while the forehead shows 2.400.",
+        "Medium shot in a narrow corridor filled with stacked cardboard boxes of prescription drugs.",
+        "Detail shot of shaking hands holding an old leather-bound pharmaceutical recipe book.",
+        "Low-angle shot looking up a spiral staircase leading to the dark pharmacy shop floor above.",
+        "Close-up of a digital thermometer flashing an erratic fever reading on a wooden workbench."
+      ],
+      "caption": "Der Kampf gegen die eigene Paranoia im Nachtdienst. #apotheke #gesundheit #level5 #storytime #viral"
+    },
+    {
+      "n": 6,
+      "open_loop": "Was stand in dem verschlüsselten Brief, den der Detektiv im Tresor fand?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Löscht heimlich seinen Internetverlauf und bedroht ihn mit einer Anzeige."
+      },
+      "name": "Avocado Sam, 26, Fitnesstrainer",
+      "badge": "4.100 Suchen",
+      "verdict": "OBSESSIV",
+      "story": "Die 8 Level vom Googeln um 3 Uhr nachts. Level 6. Viereinhalbtausend Suchanfragen – meine grüne Avocadobeschichtung fühlt sich an wie Stein, als ich um drei Uhr nachts im leeren Fitnessstudio auf dem Laufband stehe und nach Herzinfarkt-Symptomen google. Hör auf, deine Workout-App mit Todesangst vollzuspammen, das nervt alle Kunden! Ich habe Schmerzen in der Brust, verdammt noch mal! Sam, steig sofort von dem Laufband, du übertreibst maßlos. Er lacht kalt und tippt gegen meine Stirn, als wäre ich ein idiotisches Spielzeug. Mein Puls rast auf zweihundert, während die bunten Neonlichter verschwimmen und die Welt um mich herum kollabiert. Was hat dieser Mann vor mir zu verbergen? Das erfährst du in Level 7. Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+500 Sucha",
+        "after": "4.600 Suc"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Googeln um 3 Uhr nachts. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Viereinhalbtausend Suchanfragen – meine grüne Avocadobeschichtung fühlt sich an wie Stein, als ich um drei Uhr nachts im leeren Fitnessstudio auf dem Laufband stehe und nach Herzinfarkt-Symptomen google."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Hör auf, deine Workout-App mit Todesangst vollzuspammen, das nervt alle Kunden!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe Schmerzen in der Brust, verdammt noch mal!"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Sam, steig sofort von dem Laufband, du übertreibst maßlos.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Er lacht kalt und tippt gegen meine Stirn, als wäre ich ein idiotisches Spielzeug. Mein Puls rast auf zweihundert, während die bunten Neonlichter verschwimmen und die Welt um mich herum kollabiert. Was hat dieser Mann vor mir zu verbergen?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das erfährst du in Level 7."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Hör auf, deine Workout-App mit Todesangst vollzuspammen, das nervt alle Kunden!",
+      "quote_by": {
+        "level": 3,
+        "name": "Birnen-Designer Max",
+        "badge": "4.900 Suchen",
+        "character": "An anxious pear man in a tight athletic hoodie with wild eyes and pale skin.",
+        "scene": "A high-tech gym floor at 3 AM, pointing aggressively at the avocado trainer on the treadmill."
+      },
+      "stats": [
+        {
+          "label": "Suchanfragen",
+          "value": "4.100",
+          "bar": 0.85
+        },
+        {
+          "label": "Puls",
+          "value": "190 BPM",
+          "bar": 0.95
+        },
+        {
+          "label": "Ängste",
+          "value": "Max",
+          "bar": 0.98
+        }
+      ],
+      "character": "An athletic avocado man with smooth green skin and a large dark pit symbol on his chest, wearing compression sportswear.",
+      "visual": "Wide shot of a modern 24-hour gym at 3 AM, neon blue and pink lighting reflecting off rows of high-end exercise machines and rubber flooring.",
+      "scenes": [
+        "Wide shot of a modern 24-hour gym at 3 AM, neon blue and pink lighting reflecting off rows of exercise machines with a tiny golden coin on a dumbbell rack.",
+        "Close-up of the avocado skin covered in sweat drops under dramatic neon club lights.",
+        "Medium shot of a high-tech treadmill displaying an erratic heartbeat graph on its digital panel.",
+        "Detail shot of fingers clutching the rubber handles of a machine until the knuckles turn white.",
+        "Low-angle shot looking up at a towering glass mirror reflecting endless rows of empty exercise gear.",
+        "Close-up of the glowing forehead number 4.100 pulsing brightly in the dark room."
+      ],
+      "caption": "Wenn das Workout zur reinen Panikattacke wird. #fitness #gesundheit #level6 #storytime #viral"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welche schreckliche Wahrheit über seine eigene Gesundheit entdeckte der Baron in jener Nacht?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Sperrt ihn aus der Notaufnahme aus und verlangt einen astronomischen Betrag."
+      },
+      "name": "Kürbis Baron Viktor, 52, Investor",
+      "badge": "7.800 Suchen",
+      "verdict": "HYPOCHONDER",
+      "story": "Die 8 Level vom Googeln um 3 Uhr nachts. Level 7. Siebentausendachthundert Suchanfragen – mein Kürbis-Kopf droht unter dem Druck meiner eigenen Millionen zu explodieren. Um drei Uhr nachts sitze ich in meinem Penthouse und lasse von Privatärzten jede noch so kleine Anomalie untersuchen. Sie haben Millionen auf dem Konto, aber für Ihre eingebildete Krankheit kaufen Sie das halbe Internet leer! Ich kaufe mein Leben zurück! Herr Baron, beruhigen Sie sich, der Kardiologe ist bereits im Anflug. Der Arzt lacht bitter und zeigt auf meine Stirn, die vor lauter Suchanfragen grell orange leuchtet. Mein Herz stolpert, und die Gläser auf dem Tisch fangen an zu vibrieren. Wer von uns ist hier eigentlich der wahre Patient? Das erfährst du im großen Finale in Level 8. Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1.200 Suc",
+        "after": "9.000 Suc"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Googeln um 3 Uhr nachts. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Siebentausendachthundert Suchanfragen – mein Kürbis-Kopf droht unter dem Druck meiner eigenen Millionen zu explodieren. Um drei Uhr nachts sitze ich in meinem Penthouse und lasse von Privatärzten jede noch so kleine Anomalie untersuchen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sie haben Millionen auf dem Konto, aber für Ihre eingebildete Krankheit kaufen Sie das halbe Internet leer!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich kaufe mein Leben zurück!"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Herr Baron, beruhigen Sie sich, der Kardiologe ist bereits im Anflug.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Der Arzt lacht bitter und zeigt auf meine Stirn, die vor lauter Suchanfragen grell orange leuchtet. Mein Herz stolpert, und die Gläser auf dem Tisch fangen an zu vibrieren. Wer von uns ist hier eigentlich der wahre Patient?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das erfährst du im großen Finale in Level 8."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Sie haben Millionen auf dem Konto, aber für Ihre eingebildete Krankheit kaufen Sie das halbe Internet leer!",
+      "quote_by": {
+        "level": 4,
+        "name": "Dr. Stemm",
+        "badge": "8.100 Suchen",
+        "character": "A weary broccoli doctor in a crumpled white coat with an exhausted expression.",
+        "scene": "A luxurious penthouse study at 3 AM, confronting the wealthy pumpkin investor amidst expensive art pieces."
+      },
+      "stats": [
+        {
+          "label": "Suchanfragen",
+          "value": "7.800",
+          "bar": 0.95
+        },
+        {
+          "label": "Vermögen",
+          "value": "12 Mio.",
+          "bar": 1.0
+        },
+        {
+          "label": "Kontrolle",
+          "value": "0 %",
+          "bar": 0.05
+        }
+      ],
+      "character": "A wealthy pumpkin man with deep ribbed orange skin, wearing a velvet smoking jacket, sitting in a leather armchair surrounded by medical monitors.",
+      "visual": "Wide shot of a luxurious penthouse apartment at 3 AM overlooking a glowing city skyline, the pumpkin investor staring at multiple bank and medical screens.",
+      "scenes": [
+        "Wide shot of a luxurious penthouse apartment at 3 AM overlooking a glowing city skyline with a tiny golden coin on the marble windowsill.",
+        "Close-up of the rough textured pumpkin rind twitching under soft amber chandelier lighting.",
+        "Medium shot in a private study filled with expensive leather furniture and blinking medical diagnostic machines.",
+        "Detail shot of an elegant gold fountain pen dropping onto a Persian rug next to a medical report.",
+        "Low-angle shot looking through a massive glass wall at the rainy city below reflecting thousands of lights.",
+        "Close-up of the glowing digital forehead number 7.800 burning in intense orange."
+      ],
+      "caption": "Reichtum schützt vor nächtlichen Sorgen nicht. #gesundheit #reichtum #level7 #storytime #viral"
+    },
+    {
+      "n": 8,
+      "open_loop": "Was passierte, als alle acht Stirn-Zahlen plötzlich auf Null sprangen?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Löst das gesamte Rätsel auf und zeigt ihm, dass wir alle nur Menschen aus Obst sind."
+      },
+      "name": "Avocado Sophia, 30, Ärztin",
+      "badge": "10.000 Suchen",
+      "verdict": "ERLEUCHTET",
+      "story": "Die 8 Level vom Googeln um 3 Uhr nachts. Level 8. Das Finale. Zehntausend Suchanfragen – das ist das letzte Level. Meine perfekte Avocadohaut leuchtet im Dunkeln, während ich auf der Dachterrasse stehe und all die Figuren aus den vorherigen Nächten beobachte: Tomate Tom, Zitrone Lisa, Birne Max und den Baron. Die Zahl lügt nie – aber sie heilt euch nicht. Plötzlich schalten sich alle digitalen Anzeigen auf unseren Stirnen gleichzeitig aus. Die Dunkelheit bricht über die Stadt herein, und zum ersten Mal seit Jahren herrscht vollkommene Stille. Wir haben es endlich geschafft, wir sind frei. Wir atmen ein, wir atmen aus – ohne Google, ohne Panik, ohne Zahlen. Welches Thema sollen wir als Nächstes in acht Leveln erzählen? Schreib es jetzt in die Kommentare! Welches Thema als Nächstes?",
+      "gender": "w",
+      "twist": {
+        "delta": "RESET",
+        "after": "0 Suchen"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Googeln um 3 Uhr nachts. Level 8. Das Finale."
+        },
+        {
+          "s": "Figur",
+          "t": "Zehntausend Suchanfragen – das ist das letzte Level. Meine perfekte Avocadohaut leuchtet im Dunkeln, während ich auf der Dachterrasse stehe und all die Figuren aus den vorherigen Nächten beobachte: Tomate Tom, Zitrone Lisa, Birne Max und den Baron."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die Zahl lügt nie – aber sie heilt euch nicht.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich schalten sich alle digitalen Anzeigen auf unseren Stirnen gleichzeitig aus. Die Dunkelheit bricht über die Stadt herein, und zum ersten Mal seit Jahren herrscht vollkommene Stille."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Wir haben es endlich geschafft, wir sind frei.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Wir atmen ein, wir atmen aus – ohne Google, ohne Panik, ohne Zahlen. Welches Thema sollen wir als Nächstes in acht Leveln erzählen? Schreib es jetzt in die Kommentare!"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema als Nächstes?"
+        }
+      ],
+      "quote": "Die Zahl lügt nie – aber sie heilt euch nicht.",
+      "quote_by": {
+        "level": 1,
+        "name": "Tomate Tom",
+        "badge": "0 Suchen",
+        "character": "A relieved tomato man standing calmly under the open night sky.",
+        "scene": "A rooftop terrace overlooking the sleeping vegetable city, all digital forehead numbers turning off in unison."
+      },
+      "stats": [
+        {
+          "label": "Suchanfragen",
+          "value": "0",
+          "bar": 0.0
+        },
+        {
+          "label": "Frieden",
+          "value": "100 %",
+          "bar": 1.0
+        },
+        {
+          "label": "Level",
+          "value": "8/8",
+          "bar": 1.0
+        }
+      ],
+      "character": "A flawless avocado woman with smooth green skin, dark green hair, wearing a sleek emerald dress, standing tall on a foggy rooftop.",
+      "visual": "Wide cinematic shot of a city rooftop at 4:30 AM just before sunrise, atmospheric fog rolling over buildings, all fruit characters standing together as their forehead numbers fade to zero.",
+      "scenes": [
+        "Wide cinematic shot of a city rooftop at 4:30 AM just before sunrise, atmospheric fog rolling over buildings with a tiny golden coin shining brightly on the edge of the parapet.",
+        "Close-up of the avocado woman's calm face as the glowing digital forehead display flickers and turns completely dark.",
+        "Medium group shot of Tom, Lisa, Max, Dr. Stemm, Mark, Sam, and Viktor standing side by side in silence.",
+        "Detail shot of several smartphones sliding off a rooftop ledge and falling into the dark abyss below.",
+        "Low-angle shot looking up at the awakening sky turning from deep indigo to soft morning pink.",
+        "Close-up of a blank forehead where the digital number used to be, now showing pure skin."
+      ],
+      "caption": "Das große Finale von 'Die 8 Level vom Googeln um 3 Uhr nachts'! Welches Thema soll als Nächstes kommen? Schreib es in die Kommentare! #finale #gesundheit #storytime #viral"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das heimliche Googeln der eigenen Symptome um drei Uhr nachts",
+  "frame": "frucht"
+}

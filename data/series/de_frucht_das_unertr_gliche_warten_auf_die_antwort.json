@@ -1,0 +1,767 @@
+{
+  "title": "The 8 Levels of Waiting After a First Date",
+  "house": "A bustling vegetable city with neon signs, damp cobblestone streets, foggy alleyways, a crowded subway station, a foggy river bank, a neon-lit 24/7 kiosk, and a hipster café with hanging plants.",
+  "catchphrase": "The number never lies.",
+  "links": [
+    "Level 1 strawberry mentions the quiet man in the tailored suit who always orders black coffee at the hipster café.",
+    "Level 2 lemon meets a nervous pepper guy at the subway station who is checking his phone every two seconds.",
+    "Level 3 broccoli spots a golden coin hidden near the 24/7 kiosk where a dragon fruit works late shifts.",
+    "Level 4 coconut sees the same red umbrella passing by the foggy river bank every single evening.",
+    "Level 5 orange hears someone complaining about a lost notification sound in the crowded tram.",
+    "Level 6 banana finds a scratched smartphone left behind on a wooden bench at the city park.",
+    "Level 7 avocado remembers a quiet whisper about an unread message that changed everything.",
+    "Level 8 the quiet man in the tailored suit finally explains why he never replied to anyone."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "What did the suddenly blinking zero on his forehead display mean?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Stares straight into the camera, shows an extreme forehead number '0 h' and strikes ruthlessly and with extreme arrogance.",
+        "quote": "A 2,000-euro date and he ghosts me? Who even let this absolute loser into the city?"
+      },
+      "name": "Mia, 21, Student",
+      "badge": "0 h waited",
+      "verdict": "DROWNING",
+      "story": "The 8 levels of waiting after a first date. Level 1. Level 1: Zero hours after the date—and my battery is completely dead from staring blankly at the screen. I am sitting alone in a freezing, miserable shared kitchen in Berlin-Neukölln, a half-rotted avocado sitting right in front of me next to a completely cold filter coffee that cost me 2,80 euros. My forehead proudly displays my pathetic waiting time, but absolutely zero replies are showing up. A 2,000-euro date and he ghosts me? Who even let this absolute loser into the city? The number never lies, sweetie. Just give it up already. My chest tightens with pure rage, my pulse violently spikes to 180 beats per minute, and the burning humiliation threatens to suffocate me completely. You can see this in Level 2. Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1 h",
+        "after": "1 h wait"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of waiting after a first date. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: Zero hours after the date—and my battery is completely dead from staring blankly at the screen."
+        },
+        {
+          "s": "Figur",
+          "t": "I am sitting alone in a freezing, miserable shared kitchen in Berlin-Neukölln, a half-rotted avocado sitting right in front of me next to a completely cold filter coffee that cost me 2,80 euros."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead proudly displays my pathetic waiting time, but absolutely zero replies are showing up."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "A 2,000-euro date and he ghosts me? Who even let this absolute loser into the city?",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "The number never lies, sweetie. Just give it up already.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My chest tightens with pure rage, my pulse violently spikes to 180 beats per minute, and the burning humiliation threatens to suffocate me completely."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You can see this in Level 2."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "A 2,000-euro date and he ghosts me? Who even let this absolute loser into the city?",
+      "quote_by": {
+        "level": 6,
+        "name": "Ben",
+        "badge": "120 h",
+        "character": "A smug yellow banana with a glossy coat, wearing a flashy designer jacket and a glowing yellow digital forehead display showing 120 h.",
+        "scene": "Wide angle shot in a neon-lit Berlin hipster café, the banana points mockingly at a small strawberry sitting at a corner table with a cold coffee."
+      },
+      "stats": [
+        {
+          "label": "Waiting time",
+          "value": "0 h",
+          "bar": 0.05
+        },
+        {
+          "label": "Coffee",
+          "value": "2,80 €",
+          "bar": 0.1
+        },
+        {
+          "label": "Nerves",
+          "value": "12%",
+          "bar": 0.12
+        }
+      ],
+      "character": "A sweet red strawberry human with textured seed-skin, wearing a cozy oversized gray hoodie and silver hoop earrings; a glowing digital display on her forehead reads 0 h.",
+      "visual": "Close-up shot of a strawberry person in a dim Berlin WG kitchen staring at a smartphone screen, dramatic blue and warm amber lighting, a golden coin half-hidden near the sink.",
+      "scenes": [
+        "Wide angle shot of a messy Berlin WG kitchen with stacked dishes, dim morning light, and a glowing digital forehead display on a strawberry person.",
+        "Medium shot of a smug banana person in a flashy jacket laughing across a wooden table at a gloomy café.",
+        "Detail shot of a wet smartphone screen showing no new messages and a cold filterkaffee cup costing 2,80 Euro.",
+        "Close-up shot of the strawberry's glowing forehead display blinking from 0 h to 1 h.",
+        "Overhead shot of a hidden golden coin resting next to a leaky kitchen faucet.",
+        "Medium shot of a crowded subway station entrance with blurry vegetable commuters rushing past in the rain."
+      ],
+      "caption": "Wer wartet auch immer viel zu lange auf eine Antwort? #beziehungsstatus #datingdrama #obststadt #viral #fy"
+    },
+    {
+      "n": 2,
+      "open_loop": "Who was the mysterious sender of the message with the exact coordinates?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Lets a massive vein of anger bulge on his temple and makes the viewer feel like this humiliating insult goes completely unpunished until the hidden value is revealed.",
+        "quote": "With 12 hours of waiting, you are nothing more than a pathetic gap-filler for people who actually got rejected."
+      },
+      "name": "Tom, 26, Barista",
+      "badge": "12 h waited",
+      "verdict": "DESPERATE",
+      "story": "The 8 levels of waiting after a first date. Level 2. Level 2: 12 hours of absolute, deafening silence—and my expensive espresso drink tastes like pure, undiluted frustration. I am standing crushed inside the overcrowded subway line 8 in Berlin, desperately clinging to a dirty metal pole while people stare at my forehead. With 12 hours of waiting, you are nothing more than a pathetic gap-filler for people who actually got rejected. A massive vein bulges on his temple as he laughs right in my face, making this crushing humiliation feel entirely inescapable and unpunished. I bitterly bite down on my teeth, feeling cold sweat roll down my yellow lemon skin, knowing full well that nobody cares about my misery. The number never lies. Just forget about it completely. You can see this in Level 3. Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+6 h",
+        "after": "18 h wait"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of waiting after a first date. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 12 hours of absolute, deafening silence—and my expensive espresso drink tastes like pure, undiluted frustration."
+        },
+        {
+          "s": "Figur",
+          "t": "I am standing crushed inside the overcrowded subway line 8 in Berlin, desperately clinging to a dirty metal pole while people stare at my forehead."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "With 12 hours of waiting, you are nothing more than a pathetic gap-filler for people who actually got rejected.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "A massive vein bulges on his temple as he laughs right in my face, making this crushing humiliation feel entirely inescapable and unpunished."
+        },
+        {
+          "s": "Figur",
+          "t": "I bitterly bite down on my teeth, feeling cold sweat roll down my yellow lemon skin, knowing full well that nobody cares about my misery."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "The number never lies. Just forget about it completely.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You can see this in Level 3."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "With 12 hours of waiting, you are nothing more than a pathetic gap-filler for people who actually got rejected.",
+      "quote_by": {
+        "level": 5,
+        "name": "Markus",
+        "badge": "48 h",
+        "character": "A bright round orange person with textured citrus skin, wearing an expensive camel-colored cashmere coat and designer sunglasses.",
+        "scene": "Medium shot inside a crowded subway car, pushing past a yellow lemon person with a condescending smirk."
+      },
+      "stats": [
+        {
+          "label": "Waiting time",
+          "value": "12 h",
+          "bar": 0.2
+        },
+        {
+          "label": "Espresso",
+          "value": "3,20 €",
+          "bar": 0.15
+        },
+        {
+          "label": "Nerves",
+          "value": "24%",
+          "bar": 0.2
+        }
+      ],
+      "character": "A sour yellow lemon human with dimpled citrus skin, wearing a black barista apron over a denim shirt; glowing digital forehead display reads 12 h.",
+      "visual": "Medium shot of a lemon barista person inside a swaying subway train under harsh fluorescent lighting, holding a takeaway cup.",
+      "scenes": [
+        "Wide angle shot of a packed subway train interior during morning rush hour in Berlin, dim neon lights.",
+        "Medium shot of an orange person in a cashmere coat pushing the lemon barista.",
+        "Detail shot of a bruised lemon surface and a glowing digital forehead display showing 12 h.",
+        "Close-up shot of a smartphone screen flashing with a new notification in a dark tunnel.",
+        "Overhead shot of a golden coin wedged between dirty subway floor tiles.",
+        "Wide angle shot of a rainy Berlin street corner with glowing traffic lights and umbrella-holding fruit pedestrians."
+      ],
+      "caption": "Kennen wir alle diesen Moment in der U-Bahn? #u-bahn #datingproblem #zitronenleben #viral #fy"
+    },
+    {
+      "n": 3,
+      "open_loop": "Why was the note with the threats located precisely in his locker?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Shows a deep emotional layer by contrasting the flashing humiliation on the forehead with the broccoli's actual hidden talent, sparking fury in the viewer.",
+        "quote": "Your graphic designs are absolute garbage, exactly like your pathetic waiting time, you useless broccoli."
+      },
+      "name": "Samira, 28, Graphic Designer",
+      "badge": "24 h waited",
+      "verdict": "IGNORED",
+      "story": "The 8 levels of waiting after a first date. Level 3. Level 3: 24 long hours without a single sign of life—and my carefully crafted design drafts are mercilessly thrown into the trash bin. I am sitting under harsh neon lights in an upscale open-plan office in Berlin-Mitte, a ridiculously expensive matcha latte sitting untouched beside my keyboard. Your graphic designs are absolute garbage, exactly like your pathetic waiting time, you useless broccoli. The brutal contrast between the glowing failure number on my forehead and my actual, brilliant artistic talent fills my chest with a burning, intolerable rage that makes my blood boil. My green florets violently shake with suppressed fury while all the spineless colleagues deliberately look away. The number never lies. Don't make a complete fool of yourself. You can see this in Level 4. Das siehst du in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "+12 h",
+        "after": "36 h wait"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of waiting after a first date. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 24 long hours without a single sign of life—and my carefully crafted design drafts are mercilessly thrown into the trash bin."
+        },
+        {
+          "s": "Figur",
+          "t": "I am sitting under harsh neon lights in an upscale open-plan office in Berlin-Mitte, a ridiculously expensive matcha latte sitting untouched beside my keyboard."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your graphic designs are absolute garbage, exactly like your pathetic waiting time, you useless broccoli.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "The brutal contrast between the glowing failure number on my forehead and my actual, brilliant artistic talent fills my chest with a burning, intolerable rage that makes my blood boil."
+        },
+        {
+          "s": "Figur",
+          "t": "My green florets violently shake with suppressed fury while all the spineless colleagues deliberately look away."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "The number never lies. Don't make a complete fool of yourself.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You can see this in Level 4."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Your graphic designs are absolute garbage, exactly like your pathetic waiting time, you useless broccoli.",
+      "quote_by": {
+        "level": 7,
+        "name": "Elektra",
+        "badge": "96 h",
+        "character": "A sharp-scaled pink and green dragon fruit person wearing a tailored white blazer and carrying a sleek leather briefcase.",
+        "scene": "Close-up shot in a modern glass-walled office, looking down condescendingly at a broccoli person."
+      },
+      "stats": [
+        {
+          "label": "Waiting time",
+          "value": "24 h",
+          "bar": 0.35
+        },
+        {
+          "label": "Matcha",
+          "value": "4,50 €",
+          "bar": 0.25
+        },
+        {
+          "label": "Nerves",
+          "value": "38%",
+          "bar": 0.3
+        }
+      ],
+      "character": "A healthy green broccoli human with tight floret hair, wearing thick-rimmed glasses and a wool cardigan; glowing digital forehead display reads 24 h.",
+      "visual": "Medium shot of a broccoli graphic designer in a sleek Berlin co-working space with neon signs and glass partitions.",
+      "scenes": [
+        "Wide angle shot of a sleek Berlin advertising agency office with minimalist desks and bright LED ring lights.",
+        "Medium shot of a dragon fruit executive in a sharp white blazer tossing papers onto a desk.",
+        "Detail shot of a green broccoli floret clenching a stylus pen tightly in frustration.",
+        "Close-up shot of a glowing forehead display ticking up to 36 h.",
+        "Overhead shot of a hidden golden coin under a ceramic matcha bowl.",
+        "Wide angle shot of a neon-lit crossroad in Berlin at dusk with streaming car headlights."
+      ],
+      "caption": "Wer kennt den Büro-Stress nach dem ersten Date? #büroleben #brokkolitime #datingpeinlich #viral #fy"
+    },
+    {
+      "n": 4,
+      "open_loop": "What was hidden inside the envelope handed over by the courier in the park?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Shows raw, genuine pain while Mia acts ice-cold and utterly contemptuous so that pure resentment builds up inside the viewer.",
+        "quote": "Do yourself a favor and get a real job instead of playing the absolute victim here with 48 hours."
+      },
+      "name": "Lukas, 30, Handyman",
+      "badge": "48 h waited",
+      "verdict": "LOST",
+      "story": "The 8 levels of waiting after a first date. Level 4. Level 4: 48 excruciating hours of absolute silence—and my heavy tool chest feels like solid lead weighing down my soul. I am walking aimlessly through the freezing, wet mud of Volkspark Friedrichshain, staring in despair at the glowing numbers on my forehead. Do yourself a favor and get a real job instead of playing the absolute victim here with 48 hours. Mia stands before me with an ice-cold, utterly venomous smirk, her eyes dripping with pure, unadulterated contempt that makes my blood run freezing cold. My tough brown shell violently contracts from the biting wind and the agonizing rejection, and I struggle to breathe through the heavy, damp air. The number never lies. You better go back to manual labor. You can see this in Level 5. Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+24 h",
+        "after": "72 h wait"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of waiting after a first date. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 48 excruciating hours of absolute silence—and my heavy tool chest feels like solid lead weighing down my soul."
+        },
+        {
+          "s": "Figur",
+          "t": "I am walking aimlessly through the freezing, wet mud of Volkspark Friedrichshain, staring in despair at the glowing numbers on my forehead."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Do yourself a favor and get a real job instead of playing the absolute victim here with 48 hours.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mia stands before me with an ice-cold, utterly venomous smirk, her eyes dripping with pure, unadulterated contempt that makes my blood run freezing cold."
+        },
+        {
+          "s": "Figur",
+          "t": "My tough brown shell violently contracts from the biting wind and the agonizing rejection, and I struggle to breathe through the heavy, damp air."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "The number never lies. You better go back to manual labor.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You can see this in Level 5."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Do yourself a favor and get a real job instead of playing the absolute victim here with 48 hours.",
+      "quote_by": {
+        "level": 1,
+        "name": "Mia",
+        "badge": "0 h",
+        "character": "A sweet red strawberry human with textured seed-skin, wearing a cozy oversized gray hoodie and silver hoop earrings.",
+        "scene": "Medium shot in a rainy park path, pointing angrily at a coconut person carrying a toolbox."
+      },
+      "stats": [
+        {
+          "label": "Waiting time",
+          "value": "48 h",
+          "bar": 0.5
+        },
+        {
+          "label": "Tools",
+          "value": "120 €",
+          "bar": 0.4
+        },
+        {
+          "label": "Nerves",
+          "value": "51%",
+          "bar": 0.45
+        }
+      ],
+      "character": "A tough brown coconut human with fibrous hair texture, wearing a high-vis construction vest and heavy boots; glowing digital forehead display reads 48 h.",
+      "visual": "Wide angle shot of a foggy Berlin park at twilight with wet autumn leaves and lampposts casting long shadows.",
+      "scenes": [
+        "Wide angle shot of Volkspark Friedrichshain in Berlin during a foggy autumn evening, wet benches and damp grass.",
+        "Medium shot of a strawberry person yelling at a coconut construction worker on a gravel path.",
+        "Detail shot of a fibrous coconut hand holding a heavy steel wrench.",
+        "Close-up shot of a glowing digital forehead display reading 72 h in red neon digits.",
+        "Overhead shot of a hidden golden coin buried under wet brown oak leaves.",
+        "Wide angle shot of a late-night tram rolling past glowing store windows in Prenzlauer Berg."
+      ],
+      "caption": "Manchmal wartet man einfach zu lange auf den Rückruf... #kokosnuss #parkleben #datingfrust #viral #fy"
+    },
+    {
+      "n": 5,
+      "open_loop": "What was the real reason for the sudden contact break at the kiosk?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Maximizes humiliation in the luxury hotel: the manager treats the orange like utter dirt while the viewer already knows that revenge is being prepared for the next level.",
+        "quote": "With 96 hours of waiting, you are nothing more than disposable waste in this luxury lobby."
+      },
+      "name": "Markus, 32, Manager",
+      "badge": "96 h waited",
+      "verdict": "MUTED",
+      "story": "The 8 levels of waiting after a first date. Level 5. Level 5: 96 hours without a single reply—and my entire sense of pride crumbles away like dry citrus peel under a boot. I am standing in the ultra-luxurious marble entrance hall of a five-star hotel at Kurfürstendamm in Berlin. With 96 hours of waiting, you are nothing more than disposable waste in this luxury lobby. The arrogant hotel manager treats me like absolute trash, waving his hand in utter disgust and signaling the security guards to humiliate me further in front of wealthy guests. My textured orange skin burns with a scorching, unbearable wave of shame, while high-society onlookers sneer at my pathetic status. The number never lies. Keep your fake posture up, loser. You can see this in Level 6. Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+24 h",
+        "after": "120 h wai"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of waiting after a first date. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 96 hours without a single reply—and my entire sense of pride crumbles away like dry citrus peel under a boot."
+        },
+        {
+          "s": "Figur",
+          "t": "I am standing in the ultra-luxurious marble entrance hall of a five-star hotel at Kurfürstendamm in Berlin."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "With 96 hours of waiting, you are nothing more than disposable waste in this luxury lobby.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "The arrogant hotel manager treats me like absolute trash, waving his hand in utter disgust and signaling the security guards to humiliate me further in front of wealthy guests."
+        },
+        {
+          "s": "Figur",
+          "t": "My textured orange skin burns with a scorching, unbearable wave of shame, while high-society onlookers sneer at my pathetic status."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "The number never lies. Keep your fake posture up, loser.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You can see this in Level 6."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "With 96 hours of waiting, you are nothing more than disposable waste in this luxury lobby.",
+      "quote_by": {
+        "level": 2,
+        "name": "Tom",
+        "badge": "12 h",
+        "character": "A sour yellow lemon human with dimpled citrus skin, wearing a black barista apron over a denim shirt.",
+        "scene": "Medium shot in a hotel lobby, glaring angrily at an orange person in a designer suit."
+      },
+      "stats": [
+        {
+          "label": "Waiting time",
+          "value": "96 h",
+          "bar": 0.65
+        },
+        {
+          "label": "Suit",
+          "value": "450 €",
+          "bar": 0.6
+        },
+        {
+          "label": "Nerves",
+          "value": "63%",
+          "bar": 0.55
+        }
+      ],
+      "character": "A bright round orange human with textured citrus skin, wearing an expensive camel-colored cashmere coat and designer sunglasses; glowing digital forehead display reads 96 h.",
+      "visual": "Wide angle shot of a luxurious Berlin hotel lobby with marble floors, golden chandeliers, and velvet armchairs.",
+      "scenes": [
+        "Wide angle shot of a luxury hotel entrance at Kurfürstendamm with gleaming glass doors and expensive cars outside.",
+        "Medium shot of a lemon barista yelling at an orange executive in a cashmere coat.",
+        "Detail shot of an orange peel surface with sweat beads and a glowing digital forehead display showing 96 h.",
+        "Close-up shot of a luxury smartphone screen displaying an incoming push notification.",
+        "Overhead shot of a hidden golden coin tucked under a plush red velvet lobby chair.",
+        "Wide angle shot of a bustling Berlin shopping avenue under neon twilight signs."
+      ],
+      "caption": "Wenn man tagelang auf eine Nachricht wartet... #kudamm #orangenleben #datingdrama #viral #fy"
+    },
+    {
+      "n": 6,
+      "open_loop": "Who hid the phone with the crucial chat histories in the park?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Gives the banana more depth: the influencer is torn down mercilessly, but the viewer senses the hidden joker waiting in the wings.",
+        "quote": "Your entire social media content is as hollow and empty as your dead inbox, you absolute clown."
+      },
+      "name": "Ben, 25, Influencer",
+      "badge": "144 h waited",
+      "verdict": "DECAYED",
+      "story": "The 8 levels of waiting after a first date. Level 6. Level 6: 144 hours of agonizing silence—and my loyal followers are starting to wonder if my career is completely dead. I am sitting on a cold designer bench at Alexanderplatz in Berlin, desperately clutching my glowing ring light while the public mocks my misery. Your entire social media content is as hollow and empty as your dead inbox, you absolute clown. My bright yellow banana peel bends forward in deep, shameful defeat while camera flashes blind me from all sides. But beneath the biting mockery, the viewer already senses the hidden joker in my pocket—the encrypted chat log that will flip the power dynamic completely. The number never lies. Keep filming your own tragedy. You can see this in Level 7. Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+24 h",
+        "after": "168 h wai"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of waiting after a first date. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 144 hours of agonizing silence—and my loyal followers are starting to wonder if my career is completely dead."
+        },
+        {
+          "s": "Figur",
+          "t": "I am sitting on a cold designer bench at Alexanderplatz in Berlin, desperately clutching my glowing ring light while the public mocks my misery."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your entire social media content is as hollow and empty as your dead inbox, you absolute clown.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My bright yellow banana peel bends forward in deep, shameful defeat while camera flashes blind me from all sides."
+        },
+        {
+          "s": "Figur",
+          "t": "But beneath the biting mockery, the viewer already senses the hidden joker in my pocket—the encrypted chat log that will flip the power dynamic completely."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "The number never lies. Keep filming your own tragedy.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You can see this in Level 7."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Your entire social media content is as hollow and empty as your dead inbox, you absolute clown.",
+      "quote_by": {
+        "level": 3,
+        "name": "Samira",
+        "badge": "24 h",
+        "character": "A healthy green broccoli human with tight floret hair, wearing thick-rimmed glasses and a wool cardigan.",
+        "scene": "Medium shot at a busy public square, pointing accusingly at a banana person holding a ring light."
+      },
+      "stats": [
+        {
+          "label": "Waiting time",
+          "value": "144 h",
+          "bar": 0.8
+        },
+        {
+          "label": "Ring light",
+          "value": "35 €",
+          "bar": 0.7
+        },
+        {
+          "label": "Nerves",
+          "value": "75%",
+          "bar": 0.7
+        }
+      ],
+      "character": "A smug yellow banana person with a glossy coat, wearing a flashy designer jacket and a glowing yellow digital forehead display showing 144 h.",
+      "visual": "Wide angle shot of Alexanderplatz in Berlin with the TV Tower in the background under glowing evening neon signs.",
+      "scenes": [
+        "Wide angle shot of Alexanderplatz in Berlin with the TV Tower looming in a foggy evening sky.",
+        "Medium shot of a broccoli graphic designer yelling at a banana influencer holding a glowing ring light.",
+        "Detail shot of a banana skin curve with a glowing digital forehead display showing 144 h.",
+        "Close-up shot of a smartphone screen showing a live streaming chat with angry heart emojis.",
+        "Overhead shot of a hidden golden coin resting at the bottom of a dry fountain basin.",
+        "Wide angle shot of a dark subway tunnel entrance with flickering neon emergency lights."
+      ],
+      "caption": "Warten auf Social Media Antworten tut weh... #alexanderplatz #bananenleben #datingfail #viral #fy"
+    },
+    {
+      "n": 7,
+      "open_loop": "What dark truth was written in the sealed letter from the archive?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Increases the pressure on the rooftop terrace: the verbal sparring is harsher, more hurtful, and merciless, leaving the dragon fruit standing right at the edge of the abyss.",
+        "quote": "You are the primary reason why nobody in this corrupt city understands the meaning of true loyalty."
+      },
+      "name": "Elektra, 34, Executive",
+      "badge": "192 h waited",
+      "verdict": "FORGET IT",
+      "story": "The 8 levels of waiting after a first date. Level 7. Level 7: 192 hours without a single spoken word—and my tough corporate shell finally starts getting deep, dangerous cracks. I am standing right on the slippery, glass-enclosed edge of a skyscraper rooftop terrace at Potsdamer Platz in Berlin, the freezing wind howling in my ears. You are the primary reason why nobody in this corrupt city understands the meaning of true loyalty. The verbal sparring is brutally harsh, deeply malicious, and completely unmerciful, pushing me to the absolute edge of the abyss. My sharp pink-and-green dragon fruit scales tremble with an uncontrollable, murderous fury as the abyss yawns right beneath my feet. The number never lies. Show absolutely no weakness here. You can see this in Level 8. Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "+24 h",
+        "after": "216 h wai"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of waiting after a first date. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 192 hours without a single spoken word—and my tough corporate shell finally starts getting deep, dangerous cracks."
+        },
+        {
+          "s": "Figur",
+          "t": "I am standing right on the slippery, glass-enclosed edge of a skyscraper rooftop terrace at Potsdamer Platz in Berlin, the freezing wind howling in my ears."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are the primary reason why nobody in this corrupt city understands the meaning of true loyalty.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "The verbal sparring is brutally harsh, deeply malicious, and completely unmerciful, pushing me to the absolute edge of the abyss."
+        },
+        {
+          "s": "Figur",
+          "t": "My sharp pink-and-green dragon fruit scales tremble with an uncontrollable, murderous fury as the abyss yawns right beneath my feet."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "The number never lies. Show absolutely no weakness here.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You can see this in Level 8."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "You are the primary reason why nobody in this corrupt city understands the meaning of true loyalty.",
+      "quote_by": {
+        "level": 4,
+        "name": "Lukas",
+        "badge": "48 h",
+        "character": "A tough brown coconut human with fibrous hair texture, wearing a high-vis construction vest and heavy boots.",
+        "scene": "Medium shot on a rooftop terrace at dusk, grabbing the arm of a dragon fruit executive."
+      },
+      "stats": [
+        {
+          "label": "Waiting time",
+          "value": "192 h",
+          "bar": 0.9
+        },
+        {
+          "label": "Suit",
+          "value": "1.200 €",
+          "bar": 0.85
+        },
+        {
+          "label": "Nerves",
+          "value": "88%",
+          "bar": 0.85
+        }
+      ],
+      "character": "A sharp-scaled pink and green dragon fruit person wearing a tailored white blazer and carrying a sleek leather briefcase; glowing digital forehead display reads 192 h.",
+      "visual": "Wide angle shot of a sleek Berlin skyscraper rooftop at sunset overlooking the glowing city skyline.",
+      "scenes": [
+        "Wide angle shot of a modern glass skyscraper rooftop at Potsdamer Platz during a dramatic sunset in Berlin.",
+        "Medium shot of a coconut construction worker confronting a dragon fruit executive on a wind-swept terrace.",
+        "Detail shot of sharp dragon fruit scales reflecting orange sunset light and a glowing digital display showing 192 h.",
+        "Close-up shot of a secure leather briefcase opening to reveal old letters and documents.",
+        "Overhead shot of a hidden golden coin resting inside a modern concrete planter box.",
+        "Wide angle shot of the Berlin skyline at night with thousands of glowing windows and street lights."
+      ],
+      "caption": "Wer hätte gedacht, dass Warten so mächtig sein kann? #potsdamerplatz #drachenfrucht #datingdrama #viral #fy"
+    },
+    {
+      "n": 8,
+      "open_loop": "Which topic should we illuminate next in 'The 8 Levels of...'?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Delivers absolute cathartic revenge: the silent stranger unmasks everyone, exposing their hypocrisy and letting them sink into their own boundless arrogance.",
+        "quote": "I engineered your entire dating monopoly from the very shadows and laughed my ass off at every single one of you."
+      },
+      "name": "Leo, 45, The Silent Stranger",
+      "badge": "infinite",
+      "verdict": "FULFILLED",
+      "story": "The 8 levels of waiting after a first date. Level 8. Level 8: Infinite hours of agonizing waiting—and suddenly every single piece of the puzzle clicks into place for the ultimate cathartic reckoning. I am sitting calmly in exactly the same small hipster café where this entire nightmare began eight days ago, surrounded by all the arrogant tormentors. Every single character from the previous levels stands completely speechless and terrified around my table, their glowing forehead numbers shattering into dust. I slowly lean back in my chair, looking at them with an ice-cold, triumphant smile, and deliver the final crushing blow: I engineered your entire dating monopoly from the very shadows and laughed my ass off at every single one of you. The number never lies... and it finally proves who holds absolute power in this city. Which topic should we illuminate next in 'The 8 Levels of...'?",
+      "gender": "m",
+      "twist": {
+        "delta": "0",
+        "after": "infinite"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of waiting after a first date. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: Infinite hours of agonizing waiting—and suddenly every single piece of the puzzle clicks into place for the ultimate cathartic reckoning."
+        },
+        {
+          "s": "Figur",
+          "t": "I am sitting calmly in exactly the same small hipster café where this entire nightmare began eight days ago, surrounded by all the arrogant tormentors."
+        },
+        {
+          "s": "Figur",
+          "t": "Every single character from the previous levels stands completely speechless and terrified around my table, their glowing forehead numbers shattering into dust."
+        },
+        {
+          "s": "Figur",
+          "t": "I slowly lean back in my chair, looking at them with an ice-cold, triumphant smile, and deliver the final crushing blow:"
+        },
+        {
+          "s": "Figur",
+          "t": "I engineered your entire dating monopoly from the very shadows and laughed my ass off at every single one of you."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "The number never lies... and it finally proves who holds absolute power in this city.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Which topic should we illuminate next in 'The 8 Levels of...'?"
+        }
+      ],
+      "quote": "I engineered your entire dating monopoly from the very shadows and laughed my ass off at every single one of you.",
+      "quote_by": {
+        "level": 8,
+        "name": "Leo",
+        "badge": "infinite",
+        "character": "A mysterious walnut human with a carved wooden shell, wearing a classic tailored black suit and a glowing infinity symbol on his forehead.",
+        "scene": "Wide angle shot in a cozy hipster café surrounded by all previous vegetable characters sitting at a long wooden table."
+      },
+      "stats": [
+        {
+          "label": "Waiting time",
+          "value": "∞",
+          "bar": 1.0
+        },
+        {
+          "label": "Wisdom",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Nerves",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "A mysterious walnut human with a carved wooden shell face, wearing a classic tailored black suit and a glowing infinity symbol on his forehead.",
+      "visual": "Wide angle shot of a cozy Berlin hipster café filled with hanging plants, warm string lights, and all vegetable characters gathered around a wooden table.",
+      "scenes": [
+        "Wide angle shot of a cozy Berlin hipster café with warm string lights and hanging plants at night.",
+        "Medium shot of a walnut man in a tailored black suit addressing all the gathered vegetable characters.",
+        "Detail shot of a carved wooden walnut hand placing a shiny golden coin right in the center of a wooden table.",
+        "Close-up shot of the glowing infinity symbol on the walnut man's forehead.",
+        "Overhead shot of all previous characters smiling together around a candlelit table.",
+        "Wide angle shot of the entire vegetable city glowing under a starry night sky."
+      ],
+      "caption": "Das Ende der Dating-Reise! Welches Thema wollt ihr als Nächstes sehen? Schreibt es in die Kommentare! #finale #obststadt #datingwahrheit #viral #fy"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das unerträgliche Warten auf die Antwort nach dem ersten Date",
+  "frame": "frucht"
+}
