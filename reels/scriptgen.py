@@ -422,7 +422,7 @@ def blueprint_hint(topic):
 
 GERMAN_WORDS = {"und", "der", "die", "das", "ich", "nicht", "mit", "ist", "ein", "eine", "auf", "mich", "mir", "sich", "auch", "aber",
                 "heute", "mal", "wir", "du", "dein", "mein", "noch", "schon", "sehr", "kein", "keine", "wenn",
-                "dann", "oder", "wie", "hat", "habe", "bin", "sind", "zu", "im", "den", "dem", "nur", "siehst"}
+                "dann", "oder", "wie", "habe", "sind", "zu", "dem", "nur", "siehst"}
 
 
 def _looks_german(text):
