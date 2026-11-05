@@ -1,0 +1,724 @@
+{
+  "title": "The 8 Levels of Rent",
+  "house": "A bustling neon-lit metropolis called Produce City, where concrete skyscrapers tower over crowded subway stations, smoky late-night diners, and tight-knit apartment buildings.",
+  "catchphrase": "The numbers don't lie.",
+  "links": [
+    "Level 1 mentions the loud alarm clock from Level 5's apartment.",
+    "Level 2's barista is mentioned by the delivery guy in Level 6.",
+    "Level 3's landlord is the same harsh investor seen in Level 7.",
+    "Level 4's subway ticket is found on the floor in Level 8."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "What was hidden inside the ripped envelope left by the landlord?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Laughs at her eviction notice in the subway station and steps on her grocery bag."
+      },
+      "name": "Mia, 21, Intern",
+      "badge": "$450 / mo",
+      "verdict": "BASEMENT DWELLER",
+      "story": "The 8 levels of rent. Level 1. Level 1: $450 a month rent for a tiny converted closet, and my glowing forehead badge screams my total shame to the entire subway car. I am Mia, a 21-year-old blueberry person with blue skin and a nervous twitch, working three unpaid internships just to survive in this brutal city. Yesterday, my best friend invited me to their sleek downtown loft to compare our monthly rent bills over expensive takeout. You cannot afford the air in this room. My rent is higher than your entire yearly savings account. Tears welled up behind my blue berry skin, but I refused to let them see me break. Then, my phone buzzed in my pocket with an anonymous text message containing a photo of a bank transfer that changed everything. What was hidden inside the ripped envelope left by the landlord? You'll see that in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+$1,200",
+        "after": "$1,650"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of rent. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: $450 a month rent for a tiny converted closet, and my glowing forehead badge screams my total shame to the entire subway car."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Mia, a 21-year-old blueberry person with blue skin and a nervous twitch, working three unpaid internships just to survive in this brutal city."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Yesterday, my best friend invited me to their sleek downtown loft to compare our monthly rent bills over expensive takeout.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You cannot afford the air in this room. My rent is higher than your entire yearly savings account.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Tears welled up behind my blue berry skin, but I refused to let them see me break. Then, my phone buzzed in my pocket with an anonymous text message containing a photo of a bank transfer that changed everything."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What was hidden inside the ripped envelope left by the landlord?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You cannot afford the air in this room.",
+      "quote_by": {
+        "level": 6,
+        "name": "Tito",
+        "badge": "$5,200 / mo",
+        "character": "A hardened coconut man with a polished brown shell and an expensive silk tie.",
+        "scene": "He stands in a high-rise glass penthouse, pointing condescendingly at a small blueberry person holding instant noodles."
+      },
+      "stats": [
+        {
+          "label": "Rent",
+          "value": "$450",
+          "bar": 0.05
+        },
+        {
+          "label": "Income",
+          "value": "$1,200",
+          "bar": 0.1
+        },
+        {
+          "label": "Savings",
+          "value": "$12",
+          "bar": 0.01
+        }
+      ],
+      "character": "A blue berry person with round indigo skin, wearing a faded oversized gray hoodie and a cracked plastic hair clip, with a bright digital badge on her forehead.",
+      "visual": "A tiny, dimly lit closet apartment with exposed pipes, a small mattress on the floor, and a glowing digital forehead badge showing $450.",
+      "scenes": [
+        "Subway station, wide shot: A crowded, gritty underground platform during rush hour with flickering neon lights and tired commuter fruit-people walking past.",
+        "Closet apartment, medium shot: Mia sitting on her thin mattress, staring at her glowing forehead badge in a cracked hand mirror while holding a lukewarm cup of tap water.",
+        "Subway car, close-up: A hidden gold coin rests on the grubby metal floor right beneath a commuter's worn-out sneakers.",
+        "Downtown street, medium shot: Towering glass skyscrapers under a gray, overcast sky, with expensive cars driving past wet asphalt.",
+        "Luxury loft entrance, wide shot: High-end marble floors and warm recessed lighting, where a coconut man blocks the doorway.",
+        "Loft living room, close-up: A glowing digital rent badge flashing red next to a spilled cup of instant coffee on a glass table."
+      ],
+      "caption": "Would you survive paying this little in rent? Let us know in the comments! #rent #struggle #producecity #levels #storytime"
+    },
+    {
+      "n": 2,
+      "open_loop": "Who transferred the exact amount of last month's unpaid rent to her account?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Threatens to tow her broken delivery scooter from the cafe parking lot."
+      },
+      "name": "Leo, 24, Barista",
+      "badge": "$850 / mo",
+      "verdict": "BARELY SURVIVING",
+      "story": "The 8 levels of rent. Level 2. Level 2: $850 a month rent for a basement studio, and my forehead badge makes me the joke of the whole cafe. I am Leo, a bright yellow lemon person with a sour twist in my smile, slinging espresso shots for ungrateful tech bros. Last night, our group of friends gathered at the neon noodle bar to compare rent checks, and my badge glowed pathetically next to the others. Working eighty hours a week just to sleep in a damp basement is a choice. My citrus skin tightened in absolute fury as the entire room turned to stare at me. I gripped my damp apron strings until my knuckles turned white. Then, my phone lit up with a notification that proved someone had secretly paid my entire past-due balance. Who transferred the exact amount of last month's unpaid rent to her account? You'll see that in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+$300",
+        "after": "$1,150"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of rent. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: $850 a month rent for a basement studio, and my forehead badge makes me the joke of the whole cafe."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Leo, a bright yellow lemon person with a sour twist in my smile, slinging espresso shots for ungrateful tech bros."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Last night, our group of friends gathered at the neon noodle bar to compare rent checks, and my badge glowed pathetically next to the others.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Working eighty hours a week just to sleep in a damp basement is a choice.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My citrus skin tightened in absolute fury as the entire room turned to stare at me. I gripped my damp apron strings until my knuckles turned white. Then, my phone lit up with a notification that proved someone had secretly paid my entire past-due balance."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Who transferred the exact amount of last month's unpaid rent to her account?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Working eighty hours a week just to sleep in a damp basement is a choice.",
+      "quote_by": {
+        "level": 5,
+        "name": "Ruby",
+        "badge": "$2,100 / mo",
+        "character": "A glossy red strawberry woman with tiny green stem leaves on her head, wearing a sharp designer blazer.",
+        "scene": "She sits at a neon noodle bar table, tapping her expensive acrylic nails against a restaurant receipt while smirking."
+      },
+      "stats": [
+        {
+          "label": "Rent",
+          "value": "$850",
+          "bar": 0.2
+        },
+        {
+          "label": "Income",
+          "value": "$2,100",
+          "bar": 0.25
+        },
+        {
+          "label": "Tips",
+          "value": "$45",
+          "bar": 0.05
+        }
+      ],
+      "character": "A bright yellow lemon person with a textured citrus rind head, wearing a stained barista apron over a black t-shirt, and a glowing forehead display.",
+      "visual": "A steamy, bustling coffee shop counter with silver espresso machines, green coffee bean sacks, and a glowing forehead badge showing $850.",
+      "scenes": [
+        "Coffee shop counter, wide shot: Morning sun streaming through fogged glass windows, patrons lining up for caffeine fix while a lemon person steams milk.",
+        "Basement studio, medium shot: Leo sitting on a sagging sofa, staring at an eviction notice under the dim amber glow of a single hanging bulb.",
+        "Neon noodle bar, close-up: A hidden gold coin sits half-hidden beneath a ceramic soy sauce dispenser on a red plastic tabletop.",
+        "Street corner, medium shot: Delivery scooters parked along a rainy curb with neon signs reflecting in puddles.",
+        "Cafe seating area, medium shot: A strawberry woman laughing loudly while flashing her high rent badge at the barista.",
+        "Coffee counter, detail shot: A smartphone screen lighting up with a bank transfer deposit notification."
+      ],
+      "caption": "Is working eighty hours a week worth it just to pay rent? Drop your thoughts below! #rentlife #lemon #barista #struggle #producecity"
+    },
+    {
+      "n": 3,
+      "open_loop": "What was written in the confidential letter left on the kitchen table?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Doubles the utility fees in the apartment hallway just to mock the tenants."
+      },
+      "name": "Sam, 28, Graphic Designer",
+      "badge": "$1,400 / mo",
+      "verdict": "ROOM FOR TWO",
+      "story": "The 8 levels of rent. Level 3. Level 3: $1,400 a month rent for a shared apartment, and my badge makes me feel invisible next to my roommate's lavish lifestyle. I am Sam, an orange person with bright citrus segments for skin, juggling freelance design gigs while surviving on instant coffee. Tonight, our tight-knit friend group met in the cluttered kitchen to compare monthly housing costs over cheap wine. You call this a home? It is just a glorified storage unit with a bed. My orange skin burned with humiliation as the others nodded in fake sympathy. I swallowed the lump in my throat, refusing to let them see my tears. Then, the front door buzzer rang, and the delivery person handed me a heavy manila envelope with a red wax seal. What was written in the confidential letter left on the kitchen table? You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+$600",
+        "after": "$2,000"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of rent. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: $1,400 a month rent for a shared apartment, and my badge makes me feel invisible next to my roommate's lavish lifestyle."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Sam, an orange person with bright citrus segments for skin, juggling freelance design gigs while surviving on instant coffee."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Tonight, our tight-knit friend group met in the cluttered kitchen to compare monthly housing costs over cheap wine.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You call this a home? It is just a glorified storage unit with a bed.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My orange skin burned with humiliation as the others nodded in fake sympathy. I swallowed the lump in my throat, refusing to let them see my tears. Then, the front door buzzer rang, and the delivery person handed me a heavy manila envelope with a red wax seal."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What was written in the confidential letter left on the kitchen table?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "You call this a home? It is just a glorified storage unit with a bed.",
+      "quote_by": {
+        "level": 7,
+        "name": "Victor",
+        "badge": "$4,500 / mo",
+        "character": "An avocado man with smooth green skin, wearing a tailored charcoal suit and gold cufflinks.",
+        "scene": "He leans against a sleek marble kitchen counter, swirling wine in a glass while sneering at an orange person."
+      },
+      "stats": [
+        {
+          "label": "Rent",
+          "value": "$1,400",
+          "bar": 0.35
+        },
+        {
+          "label": "Income",
+          "value": "$3,200",
+          "bar": 0.4
+        },
+        {
+          "label": "Clients",
+          "value": "4 active",
+          "bar": 0.3
+        }
+      ],
+      "character": "An orange person with textured citrus peel skin, wearing a paint-splattered denim jacket over a black t-shirt, with a glowing digital rent badge.",
+      "visual": "A cluttered apartment kitchen with overflowing recycling bins, mismatched mugs on a drying rack, and a glowing forehead badge showing $1,400.",
+      "scenes": [
+        "Apartment kitchen, wide shot: Warm yellow overhead lighting illuminating stacks of pizza boxes, dirty dishes, and friends arguing over bills.",
+        "Design studio desk, medium shot: Sam sketching digital wireframes on a tablet while staring anxiously at rent reminder emails.",
+        "Hallway, close-up: A hidden gold coin taped underneath a flickering overhead light fixture.",
+        "Living room sofa, medium shot: Roommates gathered around a coffee table, holding open bills and comparing numbers on their foreheads.",
+        "Kitchen counter, medium shot: An avocado man swirling red wine in a crystal glass with an arrogant grin.",
+        "Front door, detail shot: A heavy manila envelope resting on the welcome mat with a bright red wax seal stamp."
+      ],
+      "caption": "Have you ever felt judged by your living situation? Tell your story below! #rent #orange #designer #apartment #producecity"
+    },
+    {
+      "n": 4,
+      "open_loop": "Who sent the anonymous tip to the building inspector about the illegal loft modification?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Complains loudly to the building manager about her pet cat making noise."
+      },
+      "name": "Chloe, 26, Accountant",
+      "badge": "$2,200 / mo",
+      "verdict": "MID-TIER STRESS",
+      "story": "The 8 levels of rent. Level 4. Level 4: $2,200 a month rent for a one-bedroom apartment, and my badge puts me right in the exhausting middle class trap. I am Chloe, a crisp broccoli person with curly green florets for hair, crunching numbers all day at a corporate firm. Today during lunch break at the rooftop park, our friend circle gathered to compare our monthly housing overhead. Paying two grand just to hear your neighbors snoring through the drywall is pathetic. My green floret hair bristled with anger as I gripped my salad container until the plastic cracked. I held my breath, refusing to give him the satisfaction of seeing me cry. Then, my phone buzzed with an urgent email alert from the city housing authority. Who sent the anonymous tip to the building inspector about the illegal loft modification? You'll see that in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+$800",
+        "after": "$3,000"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of rent. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: $2,200 a month rent for a one-bedroom apartment, and my badge puts me right in the exhausting middle class trap."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Chloe, a crisp broccoli person with curly green florets for hair, crunching numbers all day at a corporate firm."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Today during lunch break at the rooftop park, our friend circle gathered to compare our monthly housing overhead.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Paying two grand just to hear your neighbors snoring through the drywall is pathetic.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My green floret hair bristled with anger as I gripped my salad container until the plastic cracked. I held my breath, refusing to give him the satisfaction of seeing me cry. Then, my phone buzzed with an urgent email alert from the city housing authority."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Who sent the anonymous tip to the building inspector about the illegal loft modification?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Paying two grand just to hear your neighbors snoring through the drywall is pathetic.",
+      "quote_by": {
+        "level": 2,
+        "name": "Zack",
+        "badge": "$900 / mo",
+        "character": "A sour yellow lemon man with a puckered expression, wearing a rumpled gray hoodie.",
+        "scene": "He walks past a park bench, glaring sideways with crossed arms at a broccoli person eating lunch."
+      },
+      "stats": [
+        {
+          "label": "Rent",
+          "value": "$2,200",
+          "bar": 0.55
+        },
+        {
+          "label": "Salary",
+          "value": "$4,800",
+          "bar": 0.6
+        },
+        {
+          "label": "Savings",
+          "value": "$5,400",
+          "bar": 0.45
+        }
+      ],
+      "character": "A crisp broccoli person with curly green floret hair, wearing a structured beige trench coat over a white blouse, with a glowing forehead rent badge.",
+      "visual": "A modern corporate office building lobby with polished granite floors, glass elevators, and a glowing forehead badge showing $2,200.",
+      "scenes": [
+        "Corporate office floor, wide shot: Rows of desks with dual monitors, fluorescent lighting, and stressed-out fruit and vegetable employees working late.",
+        "Rooftop park, medium shot: Chloe sitting on a wooden bench eating a salad during a windy afternoon break.",
+        "Park pathway, close-up: A hidden gold coin resting in the lush green grass right beside a park bench leg.",
+        "Apartment bedroom, medium shot: A neatly made queen bed, minimalist Scandinavian furniture, and soft daylight filtering through white blinds.",
+        "Office hallway, medium shot: A lemon man walking briskly past while casting a judgmental glare.",
+        "Smartphone screen, detail shot: An urgent email notification from the city housing authority flashing on an OLED screen."
+      ],
+      "caption": "Is the middle-class rent squeeze driving anyone else crazy? Let us know below! #rent #broccoli #accounting #producecity"
+    },
+    {
+      "n": 5,
+      "open_loop": "What secret document did the property manager accidentally leave inside the unlocked safe?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Refuses to hold the elevator door open for her when she is carrying heavy grocery bags."
+      },
+      "name": "Max, 31, Software Engineer",
+      "badge": "$3,400 / mo",
+      "verdict": "UPPER BRACKET",
+      "story": "The 8 levels of rent. Level 5. Level 5: $3,400 a month rent for a modern downtown high-rise, and my forehead badge makes me think I've finally made it. I am Max, a dragonfruit person with magenta skin and spiky green-tipped scales, writing code for a tech startup. Last Friday at the rooftop lounge, our friend group met to compare our monthly housing expenses over craft cocktails. If you cannot even pay three thousand for rent, maybe you should move back to the suburbs. Her blue skin flushed with deep embarrassment as the surrounding tables turned to watch. I smiled, feeling untouchable in my success. Then, the lounge manager rushed over with an urgent notice regarding a building-wide lease audit. What secret document did the property manager accidentally leave inside the unlocked safe? You'll see that in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "-$400",
+        "after": "$3,000"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of rent. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: $3,400 a month rent for a modern downtown high-rise, and my forehead badge makes me think I've finally made it."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Max, a dragonfruit person with magenta skin and spiky green-tipped scales, writing code for a tech startup."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Last Friday at the rooftop lounge, our friend group met to compare our monthly housing expenses over craft cocktails.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "If you cannot even pay three thousand for rent, maybe you should move back to the suburbs.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Her blue skin flushed with deep embarrassment as the surrounding tables turned to watch. I smiled, feeling untouchable in my success. Then, the lounge manager rushed over with an urgent notice regarding a building-wide lease audit."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What secret document did the property manager accidentally leave inside the unlocked safe?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "If you cannot even pay three thousand for rent, maybe you should move back to the suburbs.",
+      "quote_by": {
+        "level": 1,
+        "name": "Mia",
+        "badge": "$450 / mo",
+        "character": "A blue berry person with indigo skin and a nervous twitch, wearing a worn-out gray hoodie.",
+        "scene": "She stands nervously in a luxury rooftop lounge, looking down at her shoes while staring at a dragonfruit man."
+      },
+      "stats": [
+        {
+          "label": "Rent",
+          "value": "$3,400",
+          "bar": 0.75
+        },
+        {
+          "label": "Salary",
+          "value": "$7,500",
+          "bar": 0.8
+        },
+        {
+          "label": "Stocks",
+          "value": "$24k",
+          "bar": 0.7
+        }
+      ],
+      "character": "A dragonfruit person with vibrant magenta skin and spiky green-tipped scale hair, wearing a sleek black turtleneck and silver watch, with a glowing rent badge.",
+      "visual": "A luxurious high-rise apartment living room with floor-to-ceiling windows overlooking a glittering city skyline at night.",
+      "scenes": [
+        "Rooftop lounge, wide shot: A glamorous outdoor terrace with glowing cocktail tables, string lights, and wealthy fruit and vegetable professionals mingling.",
+        "Tech startup office, medium shot: Max typing rapidly on a mechanical keyboard with glowing RGB lights reflecting off his magenta dragonfruit skin.",
+        "Terrace bar, close-up: A hidden gold coin resting on the edge of a polished marble cocktail table.",
+        "High-rise balcony, medium shot: Max holding a martini glass while looking down at the sprawling city lights below.",
+        "Lounge seating, medium shot: Max looking down condescendingly at a blueberry person standing by his booth.",
+        "Manager's desk, detail shot: A metal safe door standing half-open with stacks of lease folders visible inside."
+      ],
+      "caption": "Is paying over three thousand in rent worth the skyline view? Comment your thoughts! #rent #dragonfruit #techlife #producecity"
+    },
+    {
+      "n": 6,
+      "open_loop": "Who was the mysterious investor buying up every single apartment building in the district?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Sends continuous noise complaints to the front desk about his graphic design music."
+      },
+      "name": "Elena, 35, Architect",
+      "badge": "$5,200 / mo",
+      "verdict": "PENTHOUSE STATUS",
+      "story": "The 8 levels of rent. Level 6. Level 6: $5,200 a month rent for a designer penthouse, and my forehead badge makes everyone treat me like royalty. I am Elena, a sleek coconut person with a polished hard brown shell and silver hoop earrings, designing mega-structures across Produce City. Tonight at our elite rooftop gathering, the wealthiest friends met to compare our luxury housing costs. Anyone can rent a fancy penthouse when they inherit their parents architectural firm. My brown coconut shell grew cold with fury as I stared him down without blinking. I refused to let his petty jealousy ruin my hard-earned triumph. Then, my tablet lit up with a breaking news alert about a massive corporate real estate takeover. Who was the mysterious investor buying up every single apartment building in the district? You'll see that in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+$1,000",
+        "after": "$6,200"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of rent. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: $5,200 a month rent for a designer penthouse, and my forehead badge makes everyone treat me like royalty."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Elena, a sleek coconut person with a polished hard brown shell and silver hoop earrings, designing mega-structures across Produce City."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Tonight at our elite rooftop gathering, the wealthiest friends met to compare our luxury housing costs.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Anyone can rent a fancy penthouse when they inherit their parents architectural firm.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My brown coconut shell grew cold with fury as I stared him down without blinking. I refused to let his petty jealousy ruin my hard-earned triumph. Then, my tablet lit up with a breaking news alert about a massive corporate real estate takeover."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Who was the mysterious investor buying up every single apartment building in the district?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "Anyone can rent a fancy penthouse when they inherit their parents architectural firm.",
+      "quote_by": {
+        "level": 3,
+        "name": "Sam",
+        "badge": "$1,400 / mo",
+        "character": "An orange person with textured citrus peel skin, wearing a paint-splattered denim jacket.",
+        "scene": "He stands on a luxury penthouse terrace, holding a glass of wine and smirking at a coconut woman."
+      },
+      "stats": [
+        {
+          "label": "Rent",
+          "value": "$5,200",
+          "bar": 0.9
+        },
+        {
+          "label": "Income",
+          "value": "$14k",
+          "bar": 0.85
+        },
+        {
+          "label": "Assets",
+          "value": "$120k",
+          "bar": 0.8
+        }
+      ],
+      "character": "A sleek coconut person with a polished brown spherical shell, wearing an elegant emerald green silk dress and silver hoop earrings, with a glowing forehead badge.",
+      "visual": "A breathtaking penthouse apartment with minimalist white designer furniture, soaring glass walls, and a glowing forehead badge showing $5,200.",
+      "scenes": [
+        "Architectural firm office, wide shot: Drafting tables covered in blueprinted blueprints, sleek scale models, and creative fruit professionals working under warm spotlights.",
+        "Penthouse terrace, medium shot: Elena standing against a glass railing overlooking the twinkling night skyline of Produce City.",
+        "Terrace floor, close-up: A hidden gold coin nestled right inside a potted tropical monstera plant pot.",
+        "Conference room, medium shot: A sleek glass boardroom table surrounded by high-end leather chairs and financial charts.",
+        "Penthouse living room, medium shot: An orange man mocking a coconut woman while holding a wine glass.",
+        "Tablet screen, detail shot: A breaking financial news headline flashing about a massive real estate buyout."
+      ],
+      "caption": "Is penthouse living worth over five thousand a month? Drop your thoughts below! #rent #coconut #architect #penthouse #producecity"
+    },
+    {
+      "n": 7,
+      "open_loop": "What was discovered inside the hidden basement vault beneath the historic district?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Audits her corporate expense reports just to cause administrative trouble."
+      },
+      "name": "Arthur, 42, Real Investor",
+      "badge": "$8,500 / mo",
+      "verdict": "ELITE TIER",
+      "story": "The 8 levels of rent. Level 7. Level 7: $8,500 a month rent for a historic estate overlooking the entire city, and my forehead badge commands absolute fear. I am Arthur, an avocado person with a smooth polished pit and tailored Italian linen suits, controlling the city's housing market. Last evening at the charity gala, our wealthiest circle gathered to compare our monthly real estate portfolios. Charging families eight grand a month for four walls is not business, it is extortion. My avocado pit tightened inside its shell as I flashed a cold, unyielding smile. I refused to let her moral outrage disrupt my financial empire. Then, my private phone received an encrypted voicemail from the municipal bank vault. What was discovered inside the hidden basement vault beneath the historic district? You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+$1,500",
+        "after": "$10,000"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of rent. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: $8,500 a month rent for a historic estate overlooking the entire city, and my forehead badge commands absolute fear."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Arthur, an avocado person with a smooth polished pit and tailored Italian linen suits, controlling the city's housing market."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Last evening at the charity gala, our wealthiest circle gathered to compare our monthly real estate portfolios.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Charging families eight grand a month for four walls is not business, it is extortion.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My avocado pit tightened inside its shell as I flashed a cold, unyielding smile. I refused to let her moral outrage disrupt my financial empire. Then, my private phone received an encrypted voicemail from the municipal bank vault."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What was discovered inside the hidden basement vault beneath the historic district?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "Charging families eight grand a month for four walls is not business, it is extortion.",
+      "quote_by": {
+        "level": 4,
+        "name": "Chloe",
+        "badge": "$2,200 / mo",
+        "character": "A crisp broccoli person with curly green floret hair, wearing a structured beige trench coat.",
+        "scene": "She stands at a charity gala ballroom entrance, pointing an accusing finger at an avocado man in a tailored suit."
+      },
+      "stats": [
+        {
+          "label": "Rent",
+          "value": "$8,500",
+          "bar": 0.95
+        },
+        {
+          "label": "Portfolio",
+          "value": "$2.4M",
+          "bar": 0.9
+        },
+        {
+          "label": "Properties",
+          "value": "18 units",
+          "bar": 0.95
+        }
+      ],
+      "character": "An avocado person with smooth pale green skin and a dark green outer texture, wearing a bespoke charcoal Italian suit and gold wristwatch, with a glowing badge.",
+      "visual": "A luxurious historic mansion study with mahogany bookshelves, leather armchairs, and a glowing forehead badge showing $8,500.",
+      "scenes": [
+        "Estate library, wide shot: Towering mahogany bookshelves filled with antique leather-bound books, crystal chandeliers, and grand arched windows.",
+        "Charity gala ballroom, medium shot: Arthur standing near a marble pillar while sipping champagne among elite guests.",
+        "Gala floor, close-up: A hidden gold coin resting on the polished mahogany base of a grand piano.",
+        "Private balcony, medium shot: Arthur looking out over his vast real estate empire under a clear starry night sky.",
+        "Ballroom entrance, medium shot: A broccoli woman confronting a wealthy avocado investor with an angry expression.",
+        "Smartphone screen, detail shot: An encrypted voicemail notification blinking on an encrypted mobile display."
+      ],
+      "caption": "Is paying eight thousand a month for rent pure insanity or ultimate success? Tell us below! #rent #avocado #realestate #luxury #producecity"
+    },
+    {
+      "n": 8,
+      "open_loop": "What secret did the numbers on everyone's forehead actually mean all along?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Tries to block his access to the master property registry during the final audit."
+      },
+      "name": "Zoe, 29, Urban Mystic",
+      "badge": "Priceless",
+      "verdict": "THE ULTIMATE TRUTH",
+      "story": "The 8 levels of rent. Level 8. Level 8: Priceless rent for a home that exists outside of money, and my forehead badge finally exposes the terrifying truth behind Produce City. I am Zoe, a glowing starfruit person with translucent golden skin shaped like five-point stars and amethyst eyes, watching the entire city from the highest spire. Tonight, all eight levels of friends, enemies, and landlords gathered in the central plaza for the final rent reckoning. You do not even pay rent because you own nothing at all in this city. My golden starfruit skin pulsed with brilliant light as I smiled down at every single person in the plaza. The numbers on our foreheads flickered simultaneously, shifting from currency to something far more powerful. What secret did the numbers on everyone's forehead actually mean all along? Which topic about money or status should we explore in our brand new series next?",
+      "gender": "w",
+      "twist": {
+        "delta": "0",
+        "after": "INFINITY"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of rent. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: Priceless rent for a home that exists outside of money, and my forehead badge finally exposes the terrifying truth behind Produce City."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Zoe, a glowing starfruit person with translucent golden skin shaped like five-point stars and amethyst eyes, watching the entire city from the highest spire."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Tonight, all eight levels of friends, enemies, and landlords gathered in the central plaza for the final rent reckoning.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You do not even pay rent because you own nothing at all in this city.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My golden starfruit skin pulsed with brilliant light as I smiled down at every single person in the plaza. The numbers on our foreheads flickered simultaneously, shifting from currency to something far more powerful."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What secret did the numbers on everyone's forehead actually mean all along? Which topic about money or status should we explore in our brand new series next?"
+        }
+      ],
+      "quote": "You do not even pay rent because you own nothing at all in this city.",
+      "quote_by": {
+        "level": 6,
+        "name": "Elena",
+        "badge": "$5,200 / mo",
+        "character": "A sleek coconut person with a polished brown shell and silver hoop earrings.",
+        "scene": "She stands in a crowded central plaza under glowing lights, pointing mockingly at a starfruit woman."
+      },
+      "stats": [
+        {
+          "label": "Rent",
+          "value": "$0",
+          "bar": 1.0
+        },
+        {
+          "label": "Value",
+          "value": "PRICED",
+          "bar": 1.0
+        },
+        {
+          "label": "Freedom",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "A translucent golden starfruit person with geometric five-point star skin, wearing an iridescent silver flowing gown, with a glowing infinite badge on her forehead.",
+      "visual": "A breathtaking glass observatory tower at the pinnacle of Produce City, overlooking glowing streets and neon skyscrapers under a starry night sky.",
+      "scenes": [
+        "Observatory spire, wide shot: A magnificent glass dome overlooking the glowing grid of Produce City with shimmering lights and misty clouds.",
+        "Central plaza, medium shot: All eight fruit and vegetable characters standing together in a circle beneath flashing digital forehead billboards.",
+        "Plaza pavement, close-up: A hidden gold coin resting right at the center of a glowing geometric pavement pattern.",
+        "Tower balcony, medium shot: Zoe gazing down at the entire metropolis while her forehead badge pulses with golden light.",
+        "Plaza crowd, medium shot: A coconut woman pointing accusingly upward at the starfruit mystic.",
+        "Forehead display, detail shot: Digital rent numbers suddenly transforming into infinite glowing symbols across all screens."
+      ],
+      "caption": "What do the numbers on our foreheads really mean? Tell us what series we should make next! #rent #starfruit #finale #producecity #mindblown"
+    }
+  ],
+  "lang": "en",
+  "topic": "Das heimliche Vergleichen der monatlichen Miete unter besten Freunden",
+  "frame": "frucht"
+}

@@ -1,0 +1,756 @@
+{
+  "title": "The 8 Levels of Relief",
+  "house": "A bustling neon-lit metropolis called Orchard City, where fruit and vegetable people commute on crowded subway lines, grab overpriced coffee at corner kiosks, and stress over rent, rent hikes, and social obligations.",
+  "catchphrase": "The number on the forehead never lies.",
+  "links": [
+    "Level 1 mentions a quiet regular named Mr. Chestnut who always leaves a massive tip at the subway kiosk.",
+    "Level 2's barista drops a cup meant for the ambitious Dragonfruit executive from Level 7.",
+    "Level 3's canceled dinner was supposed to be hosted at the luxury rooftop apartment of Level 8.",
+    "Level 4's missed dentist appointment frees up a slot taken by the Lemon from Level 6.",
+    "Level 5 overhears the Coconut from Level 8 complaining about his overly packed social calendar in the elevator.",
+    "Level 6 finds a dropped gold coin near the subway turnstile left by the nervous Broccoli from Level 1.",
+    "Level 7's cancelled board meeting saves her from running into her estranged cousin, the Lemon from Level 6.",
+    "Level 8 resolves the mystery of the missing gold coins and reveals why everyone's number shifted that stormy Tuesday."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "What was inside the damp envelope left under the apartment door?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Laughs loudly at her expired bus pass and blocks the turnstile."
+      },
+      "name": "Broccoli Ben, 24, Intern",
+      "badge": "0% Relief",
+      "verdict": "PANIC",
+      "story": "The 8 levels of relief when plans get canceled. Level 1. Level 1: 0% relief when your phone buzzes with a birthday invite you cannot afford. I stared at my cracked phone screen in the damp subway car while my neon badge flashed a miserable 0 percent relief. My rent is $1,450 for a tiny closet, and my bank account holds exactly $12.43. Then my phone buzzed with the group chat notification. Tonight at 8 PM, mandatory upscale dinner at the steakhouse. I buried my face in my hands, calculating how many instant ramen packs I would need to survive the month if I went. Stop whining, Ben, just show up and smile. I looked up and saw a sharply dressed Orange glaring down at my forehead display. You are ruining the aesthetic of our table with that pathetic zero. You'll see that in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+5%",
+        "after": "5%"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of relief when plans get canceled. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 0% relief when your phone buzzes with a birthday invite you cannot afford."
+        },
+        {
+          "s": "Figur",
+          "t": "I stared at my cracked phone screen in the damp subway car while my neon badge flashed a miserable 0 percent relief."
+        },
+        {
+          "s": "Figur",
+          "t": "My rent is $1,450 for a tiny closet, and my bank account holds exactly $12.43."
+        },
+        {
+          "s": "Figur",
+          "t": "Then my phone buzzed with the group chat notification. Tonight at 8 PM, mandatory upscale dinner at the steakhouse."
+        },
+        {
+          "s": "Figur",
+          "t": "I buried my face in my hands, calculating how many instant ramen packs I would need to survive the month if I went."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Stop whining, Ben, just show up and smile.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I looked up and saw a sharply dressed Orange glaring down at my forehead display."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are ruining the aesthetic of our table with that pathetic zero.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "Stop whining, Ben, just show up and smile.",
+      "quote_by": {
+        "level": 4,
+        "name": "Orange Olivia",
+        "badge": "45% Relief",
+        "character": "An arrogant Orange person with bright citrus peel skin, wearing a tailored green blazer, holding a gold-plated fountain pen. A hidden gold coin rests on her lapel.",
+        "scene": "Close-up shot inside a crowded subway train, Orange Olivia crossing her arms and looking down with a sneer at Broccoli Ben."
+      },
+      "stats": [
+        {
+          "label": "Relief",
+          "value": "0%",
+          "bar": 0.05
+        },
+        {
+          "label": "Rent",
+          "value": "$1,450",
+          "bar": 0.85
+        },
+        {
+          "label": "Balance",
+          "value": "$12",
+          "bar": 0.02
+        }
+      ],
+      "character": "Broccoli Ben is a young broccoli person with a tight green floret head, wearing an oversized thrifted hoodie and faded sneakers. On his forehead, a glowing digital display reads 0%.",
+      "visual": "Wide shot of a crowded, dimly lit NYC subway car at rush hour, glowing neon advertisements reflecting off the windows, Broccoli Ben looking stressed at his phone.",
+      "scenes": [
+        "Wide shot of a crowded, dimly lit NYC subway car at rush hour, glowing neon advertisements reflecting off the windows, Broccoli Ben looking stressed at his phone.",
+        "Close-up on Broccoli Ben's forehead glowing bright red with '0%', a tiny golden coin faintly visible on the steel handrail.",
+        "Medium shot in the noisy subway carriage, Orange Olivia in a green blazer sneering down at Ben while holding a glowing smartphone.",
+        "Detail shot of a cracked phone screen showing a group chat invitation to an expensive downtown steakhouse.",
+        "Wide shot of a gloomy, rain-streaked subway station platform as commuters rush past a vending machine.",
+        "Close-up of a damp paper envelope sliding under a wooden apartment door in a dimly lit hallway."
+      ],
+      "caption": "Would you go broke just to avoid missing a party? #ReliefLevels #BroccoliBen #SubwayDrama #TrashTV #Relatable"
+    },
+    {
+      "n": 2,
+      "open_loop": "Why did the mysterious text message from the unknown number make her drop her coffee?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Complains about slow service and demands she remake his matcha latte for free."
+      },
+      "name": "Lemon Lily, 29, Barista",
+      "badge": "15% Relief",
+      "verdict": "ANXIOUS",
+      "story": "The 8 levels of relief when plans get canceled. Level 2. Level 2: 15% relief when you see the group chat message: Dinner is canceled. I was wiping down the sticky counter at the neon-lit corner cafe, my forehead badge glowing a stressful 15 percent relief. My feet throbbed after standing for nine hours straight, earning minimum wage plus meager tips. My roommate had just texted insisting I attend her ridiculous birthday dinner tonight at a pricey bistro. I didn't have the $80 for my share, nor the emotional energy to fake a smile. Then my phone lit up on the counter. Dinner is officially canceled due to food poisoning. Your little happy dance is holding up my custom oat milk order, you absolute failure. You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+20%",
+        "after": "35%"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of relief when plans get canceled. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 15% relief when you see the group chat message: Dinner is canceled."
+        },
+        {
+          "s": "Figur",
+          "t": "I was wiping down the sticky counter at the neon-lit corner cafe, my forehead badge glowing a stressful 15 percent relief."
+        },
+        {
+          "s": "Figur",
+          "t": "My feet throbbed after standing for nine hours straight, earning minimum wage plus meager tips."
+        },
+        {
+          "s": "Figur",
+          "t": "My roommate had just texted insisting I attend her ridiculous birthday dinner tonight at a pricey bistro."
+        },
+        {
+          "s": "Figur",
+          "t": "I didn't have the $80 for my share, nor the emotional energy to fake a smile."
+        },
+        {
+          "s": "Figur",
+          "t": "Then my phone lit up on the counter. Dinner is officially canceled due to food poisoning."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your little happy dance is holding up my custom oat milk order, you absolute failure.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Your little happy dance is holding up my custom oat milk order, you absolute failure.",
+      "quote_by": {
+        "level": 5,
+        "name": "Avocado Adam",
+        "badge": "55% Relief",
+        "character": "An uptight avocado person with smooth green skin and a pit-shaped monocle, wearing a cashmere turtleneck. A gold coin is pinned to his collar.",
+        "scene": "Medium shot across a busy cafe counter, Avocado Adam tapping his expensive watch impatiently while pointing at Lemon Lily."
+      },
+      "stats": [
+        {
+          "label": "Relief",
+          "value": "15%",
+          "bar": 0.15
+        },
+        {
+          "label": "Hours",
+          "value": "62/wk",
+          "bar": 0.75
+        },
+        {
+          "label": "Tips",
+          "value": "$14",
+          "bar": 0.1
+        }
+      ],
+      "character": "Lemon Lily is a pale yellow lemon person with a sour, pinched expression, wearing a stained canvas apron over a grey tee. Her forehead display pulses at 15%.",
+      "visual": "Medium shot inside a bustling neon-lit cafe, Lemon Lily staring at her phone with wide, relieved eyes behind the espresso machine.",
+      "scenes": [
+        "Medium shot inside a bustling neon-lit cafe, Lemon Lily staring at her phone with wide, relieved eyes behind the espresso machine.",
+        "Close-up on Lemon Lily's forehead flashing '15%', a tiny gold coin resting near the cash register screen.",
+        "Over-the-shoulder shot showing a text message on a cracked smartphone screen reading 'Dinner is canceled'.",
+        "Medium shot of Avocado Adam pointing aggressively across the counter in a cashmere turtleneck.",
+        "Wide shot of the rainy street outside the cafe window, streaked with yellow taxi cab lights.",
+        "Close-up of a steaming ceramic coffee mug with a golden coin gleaming at the bottom of the saucer."
+      ],
+      "caption": "That exact feeling when you don't have to leave your house tonight. #LemonLily #BaristaLife #ReliefLevels #TrashTV #StayHome"
+    },
+    {
+      "n": 3,
+      "open_loop": "What secret did the manager whisper to the accountant before locking the office?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Demands she work through the weekend without overtime pay."
+      },
+      "name": "Strawberry Sam, 32, Accountant",
+      "badge": "30% Relief",
+      "verdict": "TIRED",
+      "story": "The 8 levels of relief when plans get canceled. Level 3. Level 3: 30% relief when the team meeting is postponed an hour before sign-off. I rubbed my stinging eyes under the harsh fluorescent lights of the cubicle farm, my forehead badge stubbornly reading 30 percent relief. Piles of tax spreadsheets towered over my desk while my inbox screamed with 412 unread emails. My boss had scheduled a mandatory Friday evening strategy sync at a downtown hotel, and I was dreading every second of it. Suddenly, a company-wide email popped up: Tonight's strategy sync is canceled due to a plumbing emergency on the 8th floor. I let out a gasp so loud my neighbor dropped his stapler. Pure, sweet freedom. We still have three quarterly audits to finish before you even think about breathing. You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+15%",
+        "after": "45%"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of relief when plans get canceled. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 30% relief when the team meeting is postponed an hour before sign-off."
+        },
+        {
+          "s": "Figur",
+          "t": "I rubbed my stinging eyes under the harsh fluorescent lights of the cubicle farm, my forehead badge stubbornly reading 30 percent relief."
+        },
+        {
+          "s": "Figur",
+          "t": "Piles of tax spreadsheets towered over my desk while my inbox screamed with 412 unread emails."
+        },
+        {
+          "s": "Figur",
+          "t": "My boss had scheduled a mandatory Friday evening strategy sync at a downtown hotel, and I was dreading every second of it."
+        },
+        {
+          "s": "Figur",
+          "t": "Suddenly, a company-wide email popped up: Tonight's strategy sync is canceled due to a plumbing emergency on the 8th floor."
+        },
+        {
+          "s": "Figur",
+          "t": "I let out a gasp so loud my neighbor dropped his stapler. Pure, sweet freedom."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "We still have three quarterly audits to finish before you even think about breathing.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "We still have three quarterly audits to finish before you even think about breathing.",
+      "quote_by": {
+        "level": 7,
+        "name": "Dragonfruit Diana",
+        "badge": "85% Relief",
+        "character": "A striking pink dragonfruit person with green leaf spikes, wearing a sharp white power suit and diamond earrings. A gold coin is embedded in her briefcase clasp.",
+        "scene": "Wide shot of a modern corporate office floor, Dragonfruit Diana standing over Strawberry Sam's cubicle with a severe expression."
+      },
+      "stats": [
+        {
+          "label": "Relief",
+          "value": "30%",
+          "bar": 0.3
+        },
+        {
+          "label": "Overtime",
+          "value": "18h/wk",
+          "bar": 0.6
+        },
+        {
+          "label": "Emails",
+          "value": "412",
+          "bar": 0.9
+        }
+      ],
+      "character": "Strawberry Sam is a red strawberry person with tiny yellow seed speckles, wearing a rumpled grey button-down shirt and wire-rimmed glasses. His forehead badge glows at 30%.",
+      "visual": "Medium shot of a sterile corporate office cubicle under glaring fluorescent lights, Strawberry Sam staring in disbelief at his computer screen.",
+      "scenes": [
+        "Medium shot of a sterile corporate office cubicle under glaring fluorescent lights, Strawberry Sam staring in disbelief at his computer screen.",
+        "Close-up of Strawberry Sam's forehead showing '30%', with a tiny gold coin resting on the edge of a keyboard.",
+        "Over-the-shoulder shot of a computer monitor displaying an email notification about a canceled meeting.",
+        "Medium shot of Dragonfruit Diana looking down disapprovingly in her white power suit.",
+        "Wide shot of a massive open-plan corporate floor with rows of empty grey cubicles and flickering ceiling lights.",
+        "Close-up of a heavy metal office door locking from the outside with a loud click."
+      ],
+      "caption": "That Friday afternoon email that saves your entire weekend. #StrawberrySam #OfficeDrama #ReliefLevels #CorporateLife #Canceled"
+    },
+    {
+      "n": 4,
+      "open_loop": "Who was waiting inside the black sedan parked across the street?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Steals her parking spot right as she parallel parks."
+      },
+      "name": "Orange Olivia, 35, Realtor",
+      "badge": "45% Relief",
+      "verdict": "CAUTIOUS",
+      "story": "The 8 levels of relief when plans get canceled. Level 4. Level 4: 45% relief when the home inspection is called off because of a storm. I stood in the pouring rain outside a $750,000 suburban fixer-upper, my forehead badge glowing a steady 45 percent relief. My commission check from last month had barely covered my BMW lease, and my schedule was packed tighter than a subway car. The buyers had demanded a thorough foundation inspection this afternoon, threatening to back out of the deal entirely. Then my phone rang with a call from the inspector. Lightning struck the transformer on the block, inspection's off until Tuesday. I let out a triumphant laugh that scared a nearby pigeon. No awkward small talk with picky clients today. Watch where you are parking, cheapskate. You'll see that in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+15%",
+        "after": "60%"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of relief when plans get canceled. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 45% relief when the home inspection is called off because of a storm."
+        },
+        {
+          "s": "Figur",
+          "t": "I stood in the pouring rain outside a $750,000 suburban fixer-upper, my forehead badge glowing a steady 45 percent relief."
+        },
+        {
+          "s": "Figur",
+          "t": "My commission check from last month had barely covered my BMW lease, and my schedule was packed tighter than a subway car."
+        },
+        {
+          "s": "Figur",
+          "t": "The buyers had demanded a thorough foundation inspection this afternoon, threatening to back out of the deal entirely."
+        },
+        {
+          "s": "Figur",
+          "t": "Then my phone rang with a call from the inspector. Lightning struck the transformer on the block, inspection's off until Tuesday."
+        },
+        {
+          "s": "Figur",
+          "t": "I let out a triumphant laugh that scared a nearby pigeon. No awkward small talk with picky clients today."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Watch where you are parking, cheapskate.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Watch where you are parking, cheapskate.",
+      "quote_by": {
+        "level": 1,
+        "name": "Broccoli Ben",
+        "badge": "0% Relief",
+        "character": "A stressed broccoli person in an oversized hoodie. A gold coin is tucked into his sneaker lace.",
+        "scene": "Medium shot on a rainy suburban street, Broccoli Ben leaning out of his rusted car window shouting angrily."
+      },
+      "stats": [
+        {
+          "label": "Relief",
+          "value": "45%",
+          "bar": 0.45
+        },
+        {
+          "label": "Lease",
+          "value": "$680",
+          "bar": 0.5
+        },
+        {
+          "label": "Sales",
+          "value": "$750k",
+          "bar": 0.7
+        }
+      ],
+      "character": "Orange Olivia is a vibrant orange person with textured citrus skin, wearing a stylish green blazer and designer sunglasses pushed up on her head. Her forehead display reads 45%.",
+      "visual": "Wide shot of a suburban street in a torrential downpour, Orange Olivia holding an umbrella outside a suburban house while looking at her phone.",
+      "scenes": [
+        "Wide shot of a suburban street in a torrential downpour, Orange Olivia holding an umbrella outside a suburban house while looking at her phone.",
+        "Close-up of Orange Olivia's forehead flashing '45%', with a golden coin reflecting in a puddle nearby.",
+        "Medium shot of Orange Olivia smiling in relief as she reads a text message on her screen.",
+        "Medium shot of Broccoli Ben shouting from a rusted hatchback window in the rain.",
+        "Wide shot of a sleek luxury car parked crookedly on a wet suburban driveway.",
+        "Close-up of a house-for-sale sign tilting dangerously in the heavy wind."
+      ],
+      "caption": "When the worst client meeting of your life gets called off by mother nature. #OrangeOlivia #RealtorLife #ReliefLevels #RainyDays #TrashTV"
+    },
+    {
+      "n": 5,
+      "open_loop": "What was written on the folded parchment inside the concierge's desk?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Spills coffee on his designer shoes and refuses to apologize."
+      },
+      "name": "Avocado Adam, 41, Consultant",
+      "badge": "55% Relief",
+      "verdict": "SECURE",
+      "story": "The 8 levels of relief when plans get canceled. Level 5. Level 5: 55% relief when your high-society charity gala gets postponed. I adjusted my silk tie in the lobby mirror of my luxury apartment building, my forehead badge glowing a confident 55 percent relief. My consulting fees are $250 an hour, but my social calendar is an absolute nightmare of pretentious events I loathe attending. Tonight's charity ball for antique teacups was slated to be three hours of forced small talk with wealthy snobs. Then my concierge handed me a gold-embossed letter. Gala postponed due to a catering kitchen fire. I smiled so wide my cheeks hurt. Total, unadulterated freedom for a Friday night. Watch where you are stepping, suit-wearing clown. You'll see that in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+15%",
+        "after": "70%"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of relief when plans get canceled. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 55% relief when your high-society charity gala gets postponed."
+        },
+        {
+          "s": "Figur",
+          "t": "I adjusted my silk tie in the lobby mirror of my luxury apartment building, my forehead badge glowing a confident 55 percent relief."
+        },
+        {
+          "s": "Figur",
+          "t": "My consulting fees are $250 an hour, but my social calendar is an absolute nightmare of pretentious events I loathe attending."
+        },
+        {
+          "s": "Figur",
+          "t": "Tonight's charity ball for antique teacups was slated to be three hours of forced small talk with wealthy snobs."
+        },
+        {
+          "s": "Figur",
+          "t": "Then my concierge handed me a gold-embossed letter. Gala postponed due to a catering kitchen fire."
+        },
+        {
+          "s": "Figur",
+          "t": "I smiled so wide my cheeks hurt. Total, unadulterated freedom for a Friday night."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Watch where you are stepping, suit-wearing clown.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Watch where you are stepping, suit-wearing clown.",
+      "quote_by": {
+        "level": 2,
+        "name": "Lemon Lily",
+        "badge": "15% Relief",
+        "character": "A sour lemon person in a stained apron holding an espresso cup. A tiny gold coin is stuck to the bottom of her tray.",
+        "scene": "Wide shot of a luxury apartment lobby, Lemon Lily glaring at Avocado Adam while holding a cleaning rag."
+      },
+      "stats": [
+        {
+          "label": "Relief",
+          "value": "55%",
+          "bar": 0.55
+        },
+        {
+          "label": "Rate",
+          "value": "$250/h",
+          "bar": 0.8
+        },
+        {
+          "label": "Events",
+          "value": "14/wk",
+          "bar": 0.9
+        }
+      ],
+      "character": "Avocado Adam is an upscale avocado person with smooth green skin and a pit-like monocle, wearing a tailored cashmere turtleneck. His forehead display reads 55%.",
+      "visual": "Wide shot of a grand marble apartment lobby with crystal chandeliers, Avocado Adam reading an embossed invitation letter with a smug grin.",
+      "scenes": [
+        "Wide shot of a grand marble apartment lobby with crystal chandeliers, Avocado Adam reading an embossed invitation letter with a smug grin.",
+        "Close-up of Avocado Adam's forehead flashing '55%', with a golden coin resting on the marble counter.",
+        "Medium shot of the concierge handing over a gold-embossed letter in a silver tray.",
+        "Medium shot of Lemon Lily holding a cleaning rag and glaring across the marble floor.",
+        "Wide shot of an expensive sports car parked outside the glass lobby doors under glowing streetlights.",
+        "Close-up of a silver pocket watch ticking slowly inside an open velvet box."
+      ],
+      "caption": "The ultimate weekend plot twist every introvert dreams of. #AvocadoAdam #ConsultantLife #ReliefLevels #IntrovertLife #TrashTV"
+    },
+    {
+      "n": 6,
+      "open_loop": "Who left the black leather briefcase unattended on the park bench?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Complains about her messy handwriting on financial reports."
+      },
+      "name": "Lemon Laura, 46, Art Gallery Owner",
+      "badge": "70% Relief",
+      "verdict": "BITTER",
+      "story": "The 8 levels of relief when plans get canceled. Level 6. Level 6: 70% relief when the VIP vernissage is canceled because the main artist caught the flu. I stood in the center of my upscale art gallery surrounded by overpriced abstract canvases, my forehead badge glowing a sharp 70 percent relief. My rent for this prime downtown space is $9,000 a month, and the pressure to impress wealthy investors is suffocating. Tonight's grand opening was supposed to feature champagne, pretentious critics, and four hours of fake laughter. Then my phone chimed with a message from the artist. Severe laryngitis, opening postponed until next month. I let out a loud cackle that echoed off the white brick walls. Sweet, glorious solitude. Stop laughing like a witch, gallery owner. You'll see that in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+15%",
+        "after": "85%"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of relief when plans get canceled. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 70% relief when the VIP vernissage is canceled because the main artist caught the flu."
+        },
+        {
+          "s": "Figur",
+          "t": "I stood in the center of my upscale art gallery surrounded by overpriced abstract canvases, my forehead badge glowing a sharp 70 percent relief."
+        },
+        {
+          "s": "Figur",
+          "t": "My rent for this prime downtown space is $9,000 a month, and the pressure to impress wealthy investors is suffocating."
+        },
+        {
+          "s": "Figur",
+          "t": "Tonight's grand opening was supposed to feature champagne, pretentious critics, and four hours of fake laughter."
+        },
+        {
+          "s": "Figur",
+          "t": "Then my phone chimed with a message from the artist. Severe laryngitis, opening postponed until next month."
+        },
+        {
+          "s": "Figur",
+          "t": "I let out a loud cackle that echoed off the white brick walls. Sweet, glorious solitude."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Stop laughing like a witch, gallery owner.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "Stop laughing like a witch, gallery owner.",
+      "quote_by": {
+        "level": 3,
+        "name": "Strawberry Sam",
+        "badge": "30% Relief",
+        "character": "A tired strawberry person in a rumpled button-down shirt. A tiny gold coin is tucked under his stapler.",
+        "scene": "Medium shot inside a modern art gallery, Strawberry Sam standing by the entrance with a stack of tax forms."
+      },
+      "stats": [
+        {
+          "label": "Relief",
+          "value": "70%",
+          "bar": 0.7
+        },
+        {
+          "label": "Rent",
+          "value": "$9,000",
+          "bar": 0.9
+        },
+        {
+          "label": "Sales",
+          "value": "$42k",
+          "bar": 0.75
+        }
+      ],
+      "character": "Lemon Laura is a sharp lemon person with bright yellow peel skin, wearing a avant-garde black tunic and thick designer glasses. Her forehead display reads 70%.",
+      "visual": "Wide shot of a minimalist art gallery with white walls and modern abstract paintings, Lemon Laura staring at her phone with an amused smirk.",
+      "scenes": [
+        "Wide shot of a minimalist art gallery with white walls and modern abstract paintings, Lemon Laura staring at her phone with an amused smirk.",
+        "Close-up of Lemon Laura's forehead showing '70%', with a golden coin embedded in the gallery floorboards.",
+        "Medium shot of Lemon Laura holding a glass of champagne and checking a text message.",
+        "Medium shot of Strawberry Sam holding tax forms near the gallery entrance with a stern look.",
+        "Wide shot of the neon-lit downtown street outside the gallery's floor-to-ceiling glass windows.",
+        "Close-up of an expensive contemporary art sculpture with a gold coin resting on its base."
+      ],
+      "caption": "When you secretly wanted the art show to fail anyway. #LemonLaura #ArtGallery #ReliefLevels #IntrovertWin #TrashTV"
+    },
+    {
+      "n": 7,
+      "open_loop": "What secret financial report was hidden inside the CEO's private safe?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Cancels her annual bonus just to test her dedication."
+      },
+      "name": "Dragonfruit Diana, 52, CEO",
+      "badge": "85% Relief",
+      "verdict": "POWERFUL",
+      "story": "The 8 levels of relief when plans get canceled. Level 7. Level 7: 85% relief when the board meeting gets called off due to a city-wide blackout. I stood in my penthouse corner office overlooking the glowing skyline of Orchard City, my forehead badge flashing an impressive 85 percent relief. My corporate empire generates millions, but endless board meetings and investor dinners drain my soul. Tonight's annual gala dinner with the city council was scheduled to be a five-hour endurance test of fake smiles and political backstabbing. Then the power grid failed, plunging the downtown core into darkness. Emergency blackout, gala canceled until further notice, my assistant announced over the intercom. Not so fast, Diana. You'll see that in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "+10%",
+        "after": "95%"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of relief when plans get canceled. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 85% relief when the board meeting gets called off due to a city-wide blackout."
+        },
+        {
+          "s": "Figur",
+          "t": "I stood in my penthouse corner office overlooking the glowing skyline of Orchard City, my forehead badge flashing an impressive 85 percent relief."
+        },
+        {
+          "s": "Figur",
+          "t": "My corporate empire generates millions, but endless board meetings and investor dinners drain my soul."
+        },
+        {
+          "s": "Figur",
+          "t": "Tonight's annual gala dinner with the city council was scheduled to be a five-hour endurance test of fake smiles and political backstabbing."
+        },
+        {
+          "s": "Figur",
+          "t": "Then the power grid failed, plunging the downtown core into darkness."
+        },
+        {
+          "s": "Figur",
+          "t": "Emergency blackout, gala canceled until further notice, my assistant announced over the intercom."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Not so fast, Diana.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "Not so fast, Diana.",
+      "quote_by": {
+        "level": 8,
+        "name": "Coconut Carl",
+        "badge": "100% Relief",
+        "character": "A wealthy coconut person with a hard brown fibrous shell, wearing a bespoke velvet tuxedo. A solid gold coin hangs from his watch chain.",
+        "scene": "Wide shot of a luxury penthouse corner office at night, Coconut Carl stepping out of a private elevator with a confident smirk."
+      },
+      "stats": [
+        {
+          "label": "Relief",
+          "value": "85%",
+          "bar": 0.85
+        },
+        {
+          "label": "Net Worth",
+          "value": "$14M",
+          "bar": 0.95
+        },
+        {
+          "label": "Events",
+          "value": "2/wk",
+          "bar": 0.3
+        }
+      ],
+      "character": "Dragonfruit Diana is a striking pink dragonfruit person with green leaf spikes, wearing a sharp white power suit and diamond earrings. Her forehead display reads 85%.",
+      "visual": "Wide shot of a luxurious penthouse office with floor-to-ceiling windows showing a sprawling neon city skyline during a blackout.",
+      "scenes": [
+        "Wide shot of a luxurious penthouse office with floor-to-ceiling windows showing a sprawling neon city skyline during a blackout.",
+        "Close-up of Dragonfruit Diana's forehead showing '85%', with a golden coin resting on a crystal glass of scotch.",
+        "Medium shot of Dragonfruit Diana looking out the dark window with a relieved expression as city lights flicker off.",
+        "Medium shot of Coconut Carl stepping out of a private elevator wearing a velvet tuxedo.",
+        "Wide shot of the darkened Orchard City skyline from above, with skyscrapers losing power one by one.",
+        "Close-up of a vintage leather desk chair spinning slowly in an empty office."
+      ],
+      "caption": "When a city-wide blackout saves you from the most boring dinner of the year. #DragonfruitDiana #CEO #ReliefLevels #Blackout #TrashTV"
+    },
+    {
+      "n": 8,
+      "open_loop": "What did the glowing numbers on everyone's foreheads finally add up to?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Drops his last coin into the fountain and makes a wish for everyone."
+      },
+      "name": "Coconut Carl, 60, Billionaire Investor",
+      "badge": "100% Relief",
+      "verdict": "LIBERATED",
+      "story": "The 8 levels of relief when plans get canceled. Level 8. Level 8: 100% relief when you cancel every meeting on Earth and buy a one-way ticket to nowhere. I sat in my private garden overlooking the entire glittering metropolis of Orchard City, my forehead badge glowing a blinding, permanent 100 percent relief. People always assume having millions means you never have to deal with annoying social obligations, but the truth is, everyone's hiding behind their numbers. All those angry baristas, stressed accountants, and arrogant executives I crossed paths with—they were all just craving the exact same thing: permission to stay home. My phone buzzed one last time with a notification that every single gala, dinner, and board meeting in the city had been permanently canceled. I tossed my phone into the fountain, took a sip of fresh coconut water, and smiled. Which number represents your life right now, and what series should we explore next?",
+      "gender": "m",
+      "twist": {
+        "delta": "0%",
+        "after": "100%"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of relief when plans get canceled. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 100% relief when you cancel every meeting on Earth and buy a one-way ticket to nowhere."
+        },
+        {
+          "s": "Figur",
+          "t": "I sat in my private garden overlooking the entire glittering metropolis of Orchard City, my forehead badge glowing a blinding, permanent 100 percent relief."
+        },
+        {
+          "s": "Figur",
+          "t": "People always assume having millions means you never have to deal with annoying social obligations, but the truth is, everyone's hiding behind their numbers."
+        },
+        {
+          "s": "Figur",
+          "t": "All those angry baristas, stressed accountants, and arrogant executives I crossed paths with—they were all just craving the exact same thing: permission to stay home."
+        },
+        {
+          "s": "Figur",
+          "t": "My phone buzzed one last time with a notification that every single gala, dinner, and board meeting in the city had been permanently canceled."
+        },
+        {
+          "s": "Figur",
+          "t": "I tossed my phone into the fountain, took a sip of fresh coconut water, and smiled."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Which number represents your life right now, and what series should we explore next?"
+        }
+      ],
+      "quote": "The number on your forehead doesn't measure your worth; it measures how badly you want to escape.",
+      "quote_by": {
+        "level": 8,
+        "name": "Coconut Carl",
+        "badge": "100% Relief",
+        "character": "A wealthy coconut person with a hard fibrous shell, wearing a bespoke velvet tuxedo. A solid gold coin rests on the rim of his glass.",
+        "scene": "Wide shot of a lush rooftop garden overlooking Orchard City, Coconut Carl raising a glass with a peaceful smile."
+      },
+      "stats": [
+        {
+          "label": "Relief",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Freedom",
+          "value": "MAX",
+          "bar": 1.0
+        },
+        {
+          "label": "Meetings",
+          "value": "0",
+          "bar": 0.0
+        }
+      ],
+      "character": "Coconut Carl is a mature coconut person with a hard brown textured shell and wise eyes, wearing a bespoke velvet tuxedo. His forehead display glows a steady 100%.",
+      "visual": "Wide shot of a lush rooftop botanical garden at sunset, Coconut Carl relaxing in a reclining chair overlooking the entire glowing city skyline.",
+      "scenes": [
+        "Wide shot of a lush rooftop botanical garden at sunset, Coconut Carl relaxing in a reclining chair overlooking the entire glowing city skyline.",
+        "Close-up of Coconut Carl's forehead glowing '100%', with a large golden coin resting on a garden stone table.",
+        "Medium shot of Coconut Carl tossing a smartphone into a bubbling stone fountain.",
+        "Wide shot panning across Orchard City showing all previous characters smiling in their respective homes.",
+        "Close-up of a digital forehead display smoothly shifting from numbers to a bright glowing checkmark.",
+        "Wide shot of the sun setting behind the metropolis as all neon billboard signs flash in unison."
+      ],
+      "caption": "What number are you on today, and what should we cover next? #CoconutCarl #ReliefLevels #EndOfTheLine #TrashTV #StayHome"
+    }
+  ],
+  "lang": "en",
+  "topic": "Der Grad der Erleichterung, wenn das geplante Treffen wegen Krankheit abgesagt wird",
+  "frame": "frucht"
+}

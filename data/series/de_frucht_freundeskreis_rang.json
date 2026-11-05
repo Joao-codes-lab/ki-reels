@@ -1,0 +1,856 @@
+{
+  "title": "Die 8 Level von Freundeskreis-Rang",
+  "house": "A bustling fruit and vegetable metropolis called Salatropolis, featuring neon-lit juice bars, concrete apartment blocks, farmers market squares, and rainy cobblestone bus stops where produce citizens interact.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Barista in Level 2 erwähnt den stillen Kunden im Anzug aus Level 8.",
+    "Der Kiosk aus Level 1 taukt im Hintergrund von Level 5 auf.",
+    "Die vergessene Tasche aus Level 3 taucht in Level 7 wieder auf."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Wer hat die goldene Einladung für das exklusive Treffen im Penthouse gefälscht?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Lacht sie an der Bushaltestelle aus und nimmt ihr den Platz weg."
+      },
+      "name": "Tom, 24, Tellerwäscher",
+      "badge": "Rang 1",
+      "verdict": "GANz UNTEN",
+      "story": "Die 8 Level von Freundeskreis-Rang. Level 1. Rang 1 im Freundeskreis bedeutet, dass du bei WhatsApp stummgeschaltet wirst. Ich stehe im Neon-Kiosk und hole mir ein billiges Wasser für 0,45 Euro, als Ben, die Orange mit der fetten Acht auf der Stirn, reinkommt. Du zahlst bar mit Cent-Münzen, Tom? Das passt zu deinem Rang. Neben mir blinkt eine winzige goldene Münze auf dem Tresen, die niemand sonst bemerkt. Ich atme tief ein, denn mein Gehaltseingang steht kurz bevor und wird alles verändern. Dein Konto wurde gerade komplett gesperrt. Ich starre sie fassungslos an. Warum passiert das ausgerechnet heute Abend, wo die große Runde im Club stattfindet? Die Blicke der anderen Gäste brennen sich in meine Tomaten-Haut. Ben grinst mich aus dem Mercedes heraus an. Mein Handy vibriert heftig in der Hosentasche mit einer unbekannten Nachricht. Was genau stand in dieser ominösen Warnung? Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-120 €",
+        "after": "Rang 0"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Freundeskreis-Rang. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Rang 1 im Freundeskreis bedeutet, dass du bei WhatsApp stummgeschaltet wirst."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im Neon-Kiosk und hole mir ein billiges Wasser für 0,45 Euro, als Ben, die Orange mit der fetten Acht auf der Stirn, reinkommt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du zahlst bar mit Cent-Münzen, Tom? Das passt zu deinem Rang.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Neben mir blinkt eine winzige goldene Münze auf dem Tresen, die niemand sonst bemerkt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich atme tief ein, denn mein Gehaltseingang steht kurz bevor und wird alles verändern."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Dein Konto wurde gerade komplett gesperrt.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich starre sie fassungslos an."
+        },
+        {
+          "s": "Figur",
+          "t": "Warum passiert das ausgerechnet heute Abend, wo die große Runde im Club stattfindet?"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Blicke der anderen Gäste brennen sich in meine Tomaten-Haut."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Ben grinst mich aus dem Mercedes heraus an.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Handy vibriert heftig in der Hosentasche mit einer unbekannten Nachricht."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was genau stand in dieser ominösen Warnung?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Du zahlst bar mit Cent-Münzen, Tom? Das passt zu deinem Rang.",
+      "quote_by": {
+        "level": 3,
+        "name": "Ben",
+        "badge": "Rang 8",
+        "character": "An arrogant citrus fruit with a polished leather jacket and a glowing digital 8 on his forehead.",
+        "scene": "Close-up of Ben laughing mockingly inside a bright neon kiosk, pointing at a small tomato man."
+      },
+      "stats": [
+        {
+          "label": "Rang",
+          "value": "Rang 1",
+          "bar": 0.1
+        },
+        {
+          "label": "Status",
+          "value": "Gesperrt",
+          "bar": 0.05
+        },
+        {
+          "label": "Freunde",
+          "value": "0",
+          "bar": 0.0
+        }
+      ],
+      "character": "A young tomato man with bright red skin, wearing a faded grey hoodie, silver digital number 1 glowing on his forehead.",
+      "visual": "Wide shot of a neon-lit urban kiosk at night, a tomato guy holding coins while an orange guy laughs in a sports car outside.",
+      "scenes": [
+        "Wide shot of a rainy neon-lit city kiosk at night with glowing signs. Hidden gold coin on the counter.",
+        "Medium shot inside the cramped kiosk, the tomato man holding a cheap water bottle.",
+        "Close-up of the glowing digital number 1 on the tomato man's forehead.",
+        "Medium shot outside the kiosk, an arrogant orange man in a leather jacket sneering from a sports car.",
+        "Detail shot of a smartphone screen buzzing with a blocked bank account notification.",
+        "Wide shot of the cold bus stop in the rain with a digital timetable showing delays."
+      ],
+      "caption": "Wer landet am Ende ganz oben? Wo stehst du im Freundeskreis? #freundschaft #rang #drama #viral #deutschland #story"
+    },
+    {
+      "n": 2,
+      "open_loop": "Warum lag exakt dieses mysteriöse Kuvert auf dem Tisch der Barista?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Schüttet absichtlich ihren Cappuccino aus und verlangt Trinkgeld."
+      },
+      "name": "Mia, 22, Barista",
+      "badge": "Rang 2",
+      "verdict": "NUR MITLÄUFER",
+      "story": "Die 8 Level von Freundeskreis-Rang. Level 2. Rang 2 bedeutet, dass man dich nur anruft, wenn der eigentliche Star keine Zeit hat. Ich wische die Theke im Hipster-Café für 12,50 Euro die Stunde, als Lisa, die Avocado mit der glänzenden Sechs auf der Stirn, hereinstürmt. Du bist doch nur das Personal, Mia, hol mir sofort einen doppelten Espresso aufs Haus. Auf der Kaffeemaschine funkelt unauffällig eine goldene Münze, aber ich ignoriere sie. Gestern Abend noch saß ich lachend mit den anderen am Spreeufer, heute werde ich wieder wie Luft behandelt. Plötzlich öffnet sich die Hintertür und der elegante Mann im Anzug betritt den Raum, den ich sonst nur flüchtig aus der Ferne kenne. Dein Name steht ganz oben auf der schwarzen Liste. Mir stockt der Atem. Was hat das zu bedeuten? Ein kalter Schauer läuft mir über den Rücken, während Lisa spöttisch applaudiert. Wer hat diesen Umschlag in Wahrheit in Auftrag gegeben? Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+300 €",
+        "after": "Rang 3"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Freundeskreis-Rang. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Rang 2 bedeutet, dass man dich nur anruft, wenn der eigentliche Star keine Zeit hat."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich wische die Theke im Hipster-Café für 12,50 Euro die Stunde, als Lisa, die Avocado mit der glänzenden Sechs auf der Stirn, hereinstürmt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du bist doch nur das Personal, Mia, hol mir sofort einen doppelten Espresso aufs Haus.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Auf der Kaffeemaschine funkelt unauffällig eine goldene Münze, aber ich ignoriere sie."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern Abend noch saß ich lachend mit den anderen am Spreeufer, heute werde ich wieder wie Luft behandelt."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich öffnet sich die Hintertür und der elegante Mann im Anzug betritt den Raum, den ich sonst nur flüchtig aus der Ferne kenne."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Dein Name steht ganz oben auf der schwarzen Liste.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mir stockt der Atem. Was hat das zu bedeuten?"
+        },
+        {
+          "s": "Figur",
+          "t": "Ein kalter Schauer läuft mir über den Rücken, während Lisa spöttisch applaudiert."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hat diesen Umschlag in Wahrheit in Auftrag gegeben?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Dein Name steht ganz oben auf der schwarzen Liste.",
+      "quote_by": {
+        "level": 8,
+        "name": "Arthur",
+        "badge": "Rang 8",
+        "character": "A distinguished coconut man in a sharp charcoal suit with a bright digital 8.",
+        "scene": "Medium shot in a dimly lit hipster café, placing a sealed envelope on the counter next to a terrified strawberry barista."
+      },
+      "stats": [
+        {
+          "label": "Rang",
+          "value": "Rang 2",
+          "bar": 0.25
+        },
+        {
+          "label": "Lohn",
+          "value": "12,50 €",
+          "bar": 0.2
+        },
+        {
+          "label": "Respekt",
+          "value": "Gering",
+          "bar": 0.15
+        }
+      ],
+      "character": "A friendly strawberry woman with green leafy hair, wearing a white apron over a blue denim shirt, digital 2 on her forehead.",
+      "visual": "Medium shot of a sunlit hipster café interior, an avocado woman yelling at a strawberry barista behind an espresso machine.",
+      "scenes": [
+        "Wide shot of a trendy Berlin café with warm morning light and exposed brick walls. Hidden gold coin on top of the espresso grinder.",
+        "Close-up of the digital number 2 glowing softly on the strawberry woman's forehead.",
+        "Medium shot of an arrogant avocado woman tapping her long fingernails on the wooden counter.",
+        "Detail shot of steam hissing from a shiny chrome portafilter machine.",
+        "Wide shot of the café entrance as an elegant man in a sharp suit walks inside.",
+        "Close-up of a dark sealed paper envelope resting on a saucer."
+      ],
+      "caption": "Wer manipuliert hier wen im Hintergrund? Kennst du solche falschen Freunde? #freundeskreis #rang #kaffee #berlin #story #viral"
+    },
+    {
+      "n": 3,
+      "open_loop": "Welche geheime Nachricht stand in der abgefangenen SMS?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Beschuldigt ihn laut vor allen Leuten des Diebstahls."
+      },
+      "name": "Leon, 26, Werkstudent",
+      "badge": "Rang 3",
+      "verdict": "NUR MITTELMASS",
+      "story": "Die 8 Level von Freundeskreis-Rang. Level 3. Rang 3 ist die gefährlichste Stufe, weil du glaubst, dazuzugehören, während alle hinter deinem Rücken lachen. Ich sitze in der vollgestopften Universitätsbibliothek über meinen Skripten, als Ben, die Orange mit der fetten Acht, mit seinen Freunden vorbeispaziert. Du wirst niemals in unseren exklusiven Club aufgenommen, Leon, dein Kontostand reicht nicht mal für die Mitgliedsgebühr. Unter dem Tisch glänzt eine versteckte goldene Münze im Neonlicht der Lampe. Ich presse die Zähne zusammen, denn ich weiß genau, dass ich das Stipendium sicher habe. Plötzlich vibriert mein Handy auf dem harten Holztisch. Eine unbekannte Nummer schickt mir ein Foto von meinem eigenen Bankkonto. Wer hier betrügt, muss sofort das Gebäude verlassen. Mein Herz rast wie wild. Hat Ben mich reingelegt? Die Umstehenden fangen an zu tuscheln. Wer hat diese Überweisung manipuliert? Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1.200 €",
+        "after": "Rang 4"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Freundeskreis-Rang. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Rang 3 ist die gefährlichste Stufe, weil du glaubst, dazuzugehören, während alle hinter deinem Rücken lachen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze in der vollgestopften Universitätsbibliothek über meinen Skripten, als Ben, die Orange mit der fetten Acht, mit seinen Freunden vorbeispaziert."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du wirst niemals in unseren exklusiven Club aufgenommen, Leon, dein Kontostand reicht nicht mal für die Mitgliedsgebühr.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Unter dem Tisch glänzt eine versteckte goldene Münze im Neonlicht der Lampe."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich presse die Zähne zusammen, denn ich weiß genau, dass ich das Stipendium sicher habe."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich vibriert mein Handy auf dem harten Holztisch."
+        },
+        {
+          "s": "Figur",
+          "t": "Eine unbekannte Nummer schickt mir ein Foto von meinem eigenen Bankkonto."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Wer hier betrügt, muss sofort das Gebäude verlassen.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Herz rast wie wild. Hat Ben mich reingelegt? Die Umstehenden fangen an zu tuscheln."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hat diese Überweisung manipuliert?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Du wirst niemals in unseren exklusiven Club aufgenommen, Leon, dein Kontostand reicht nicht mal für die Mitgliedsgebühr.",
+      "quote_by": {
+        "level": 8,
+        "name": "Ben",
+        "badge": "Rang 8",
+        "character": "An arrogant orange man with shiny sunglasses and a prominent glowing 8 on his forehead.",
+        "scene": "Medium shot in a busy university library, pointing mockingly at a stressed lemon student."
+      },
+      "stats": [
+        {
+          "label": "Rang",
+          "value": "Rang 3",
+          "bar": 0.35
+        },
+        {
+          "label": "Stipendium",
+          "value": "Aktiv",
+          "bar": 0.4
+        },
+        {
+          "label": "Vertrauen",
+          "value": "Tief",
+          "bar": 0.2
+        }
+      ],
+      "character": "A sour lemon man with bright yellow textured skin, wearing glasses and a neat navy blue sweater, digital 3 on his forehead.",
+      "visual": "Wide shot of a quiet, massive university library with tall wooden bookshelves and students studying under green desk lamps.",
+      "scenes": [
+        "Wide shot of a dusty university library with tall bookshelves and green reading lamps. Hidden gold coin under a study desk.",
+        "Close-up of the digital number 3 glowing yellow on the lemon man's forehead.",
+        "Medium shot of the arrogant orange man leaning over the desk with a mocking grin.",
+        "Detail shot of an open textbook next to a vibrating smartphone showing a red alert.",
+        "Wide shot of the library entrance as the stern librarian points towards the exit.",
+        "Close-up of confused students whispering behind their laptops."
+      ],
+      "caption": "Wer wird hier gnadenlos reingelegt? Kennst du solche Neider? #uni #bibliothek #freundeskreis #drama #viral #deutschland"
+    },
+    {
+      "n": 4,
+      "open_loop": "Was befand sich in dem Aktenkoffer, den sie gerade übergeben hat?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Verbreitet Lügen über ihre angebliche Geldnot im Büro."
+      },
+      "name": "Sophie, 29, Marketing-Managerin",
+      "badge": "Rang 4",
+      "verdict": "GEFÄHRLICH MITTELMÄSSIG",
+      "story": "Die 8 Level von Freundeskreis-Rang. Level 4. Rang 4 bedeutet, dass du zwar zu den Partys eingeladen wirst, aber deinen Champagner selbst bezahlen musst. Ich stehe auf der gläsernen Dachterrasse unseres Agenturgebäudes und blicke auf den grauen Berliner Fernsehturm, als Mia, die Barista, mit verschränkten Armen heraustritt. Du denkst wohl, nur weil du auf Rang 4 stehst, gehörst du zu den Bossen. Auf dem Glastisch neben dem Bar-Hocker liegt unauffällig eine goldene Münze im Abendlicht. Ich hole tief Luft, denn meine Beförderung wurde offiziell unterschrieben. Doch in genau diesem Moment summt mein Tablet mit einer erschütternden Mail aus der Chefetage. Der Posten für die Leitung wird neu ausgeschrieben. Mir stockt der Atem. Das kann unmöglich wahr sein! Wer hat meine Unterlagen aus dem Büro gestohlen? Die Spannung auf der Party ist mit Händen zu greifen. Wer hat diese Intrige eingefädelt? Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "-500 €",
+        "after": "Rang 2"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Freundeskreis-Rang. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Rang 4 bedeutet, dass du zwar zu den Partys eingeladen wirst, aber deinen Champagner selbst bezahlen musst."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe auf der gläsernen Dachterrasse unseres Agenturgebäudes und blicke auf den grauen Berliner Fernsehturm, als Mia, die Barista, mit verschränkten Armen heraustritt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du denkst wohl, nur weil du auf Rang 4 stehst, gehörst du zu den Bossen.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Auf dem Glastisch neben dem Bar-Hocker liegt unauffällig eine goldene Münze im Abendlicht."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich hole tief Luft, denn meine Beförderung wurde offiziell unterschrieben."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch in genau diesem Moment summt mein Tablet mit einer erschütternden Mail aus der Chefetage."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Der Posten für die Leitung wird neu ausgeschrieben.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mir stockt der Atem. Das kann unmöglich wahr sein!"
+        },
+        {
+          "s": "Figur",
+          "t": "Wer hat meine Unterlagen aus dem Büro gestohlen? Die Spannung auf der Party ist mit Händen zu greifen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hat diese Intrige eingefädelt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Der Posten für die Leitung wird neu ausgeschrieben.",
+      "quote_by": {
+        "level": 6,
+        "name": "Viktor",
+        "badge": "Rang 6",
+        "character": "An ambitious dragon fruit man in a tailored grey suit with a glowing digital 6.",
+        "scene": "Medium shot on a modern rooftop terrace at sunset, handing a red rejection file to a shocked plum woman."
+      },
+      "stats": [
+        {
+          "label": "Rang",
+          "value": "Rang 4",
+          "bar": 0.5
+        },
+        {
+          "label": "Gehalt",
+          "value": "3.400 €",
+          "bar": 0.55
+        },
+        {
+          "label": "Einfluss",
+          "value": "Mittel",
+          "bar": 0.45
+        }
+      ],
+      "character": "An elegant purple plum woman with smooth skin, wearing a stylish beige blazer, digital number 4 glowing on her forehead.",
+      "visual": "Wide shot of a modern glass rooftop terrace in Berlin at dusk, skyscrapers and glowing lights in the background.",
+      "scenes": [
+        "Wide shot of a luxury corporate rooftop terrace at sunset with city lights. Hidden gold coin on a glass cocktail table.",
+        "Close-up of the glowing digital number 4 on the plum woman's forehead.",
+        "Medium shot of a strawberry woman glaring across the cocktail bar with crossed arms.",
+        "Detail shot of a tablet screen flashing a red rejection email notification.",
+        "Wide shot of colleagues standing around in expensive cocktail attire holding wine glasses.",
+        "Close-up of a corporate manager in a sharp suit speaking into a microphone."
+      ],
+      "caption": "Wer zieht hier im Hintergrund die Fäden? Kennst du Büro-Intriganten? #karriere #berlin #dachterrasse #freundschaft #viral"
+    },
+    {
+      "n": 5,
+      "open_loop": "Welches dunkle Geheimnis verbirgt sich in dem Tresor der Villa?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Versucht, seinen Vertrag bei der gemeinsamen Firma zu kündigen."
+      },
+      "name": "David, 31, Start-up-Gründer",
+      "badge": "Rang 5",
+      "verdict": "FAST OBEN",
+      "story": "Die 8 Level von Freundeskreis-Rang. Level 5. Rang 5 bedeutet, dass alle dich umarmen wollen, solange deine Firma Gewinne macht. Ich stehe in meiner loftartigen Altbau-Wohnung mit Blick auf den Prenzlauer Berg, als Leon, der Lemon-Mann mit der Dreier-Zahl, unangemeldet reingeplatzt kommt. Deine neue App ist ein kompletter Reinfall, David, du wirst am Ende des Monats pleite sein. Auf dem Designer-Teppich funkelt eine versteckte goldene Münze, aber ich habe keinen Blick dafür. Ich atme tief ein, denn die finale Investoren-Zusage liegt unterschrieben vor mir auf dem Tisch. Doch plötzlich schlägt die Haustür laut zu und mein Geschäftspartner kommt blass wie eine Wand herein. Die Investoren haben ihr Geld komplett abgezogen. Mir wird eiskalt. Das ist das Ende! Wie konnte das so schnell passieren? Wer hat die Firma verraten? Wer steckt hinter diesem perfiden Komplott? Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "-10.000 €",
+        "after": "Rang 1"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Freundeskreis-Rang. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Rang 5 bedeutet, dass alle dich umarmen wollen, solange deine Firma Gewinne macht."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe in meiner loftartigen Altbau-Wohnung mit Blick auf den Prenzlauer Berg, als Leon, der Lemon-Mann mit der Dreier-Zahl, unangemeldet reingeplatzt kommt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Deine neue App ist ein kompletter Reinfall, David, du wirst am Ende des Monats pleite sein.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Auf dem Designer-Teppich funkelt eine versteckte goldene Münze, aber ich habe keinen Blick dafür."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich atme tief ein, denn die finale Investoren-Zusage liegt unterschrieben vor mir auf dem Tisch."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch plötzlich schlägt die Haustür laut zu und mein Geschäftspartner kommt blass wie eine Wand herein."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Die Investoren haben ihr Geld komplett abgezogen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mir wird eiskalt. Das ist das Ende! Wie konnte das so schnell passieren?"
+        },
+        {
+          "s": "Figur",
+          "t": "Wer hat die Firma verraten?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer steckt hinter diesem perfiden Komplott?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Die Investoren haben ihr Geld komplett abgezogen.",
+      "quote_by": {
+        "level": 7,
+        "name": "Elena",
+        "badge": "Rang 7",
+        "character": "A sophisticated exotic dragon fruit woman in a silk gown with a glowing digital 7.",
+        "scene": "Medium shot inside a luxurious Berlin loft apartment, holding a cancelled contract next to a shocked broccoli man."
+      },
+      "stats": [
+        {
+          "label": "Rang",
+          "value": "Rang 5",
+          "bar": 0.65
+        },
+        {
+          "label": "Umsatz",
+          "value": "85.000 €",
+          "bar": 0.6
+        },
+        {
+          "label": "Status",
+          "value": "Wackelig",
+          "bar": 0.5
+        }
+      ],
+      "character": "A crisp green broccoli man with detailed floret hair, wearing a trendy turtleneck sweater, digital number 5 glowing on his forehead.",
+      "visual": "Wide shot of a high-ceiling industrial loft apartment in Berlin with large arched windows and modern art pieces.",
+      "scenes": [
+        "Wide shot of a luxury Berlin loft apartment with exposed brick and designer furniture. Hidden gold coin on the bookshelf.",
+        "Close-up of the digital number 5 glowing green on the broccoli man's forehead.",
+        "Medium shot of a lemon student sneering near a modern kitchen island.",
+        "Detail shot of a fountain pen lying on top of a cancelled business contract.",
+        "Wide shot of the apartment entrance as a terrified business partner rushes inside.",
+        "Close-up of a glowing laptop screen showing falling stock charts."
+      ],
+      "caption": "Wer sabotiert hier den großen Erfolg? Kennst du Neider im Business? #startup #berlin #loft #freundeskreis #drama #viral"
+    },
+    {
+      "n": 6,
+      "open_loop": "Welche Person stand auf der geheimen Gästeliste ganz unten?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Versucht, ihre Präsentation vor den Großinvestoren zu sabotieren."
+      },
+      "name": "Elena, 34, Architektin",
+      "badge": "Rang 6",
+      "verdict": "SCHON FAST OBEN",
+      "story": "Die 8 Level von Freundeskreis-Rang. Level 6. Rang 6 bedeutet, dass du auf jeder VIP-Gästeliste stehst, aber immer den Tisch in der hintersten Ecke bekommst. Ich betrete den luxuriösen Ballsaal am Kurfürstendamm, als Sophie, die Pflaume mit der Vier auf der Stirn, mich mit eisigem Blick mustert. Du hast diesen Erfolg gar nicht verdient, Elena, deine Entwürfe sind doch nur geklaut. Auf dem goldenen Marmorboden glänzt eine kleine Münze, aber ich gehe achtlos daran vorbei. Ich richte mein Abendkleid und lächle, denn heute Abend wird mein Lebenswerk ausgezeichnet. Plötzlich verstummt die Live-Musik im Raum und der Chef-Juror betritt die Bühne mit einem Mikrofon in der Hand. Er sieht direkt zu mir herüber und sagt diesen einen Satz: Der Hauptpreis geht an jemand völlig anderen. Mir stockt der Atem. Alle Köpfe drehen sich in meine Richtung. Was ist hier schiefgelaufen? Wer hat das Ergebnis manipuliert? Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "-2.000 €",
+        "after": "Rang 3"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Freundeskreis-Rang. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Rang 6 bedeutet, dass du auf jeder VIP-Gästeliste stehst, aber immer den Tisch in der hintersten Ecke bekommst."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich betrete den luxuriösen Ballsaal am Kurfürstendamm, als Sophie, die Pflaume mit der Vier auf der Stirn, mich mit eisigem Blick mustert."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast diesen Erfolg gar nicht verdient, Elena, deine Entwürfe sind doch nur geklaut.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Auf dem goldenen Marmorboden glänzt eine kleine Münze, aber ich gehe achtlos daran vorbei."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich richte mein Abendkleid und lächle, denn heute Abend wird mein Lebenswerk ausgezeichnet."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich verstummt die Live-Musik im Raum und der Chef-Juror betritt die Bühne mit einem Mikrofon in der Hand."
+        },
+        {
+          "s": "Figur",
+          "t": "Er sieht direkt zu mir herüber und sagt diesen einen Satz:"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Der Hauptpreis geht an jemand völlig anderen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mir stockt der Atem. Alle Köpfe drehen sich in meine Richtung. Was ist hier schiefgelaufen?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hat das Ergebnis manipuliert?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Der Hauptpreis geht an jemand völlig anderen.",
+      "quote_by": {
+        "level": 8,
+        "name": "Arthur",
+        "badge": "Rang 8",
+        "character": "A powerful coconut man in an immaculate tailored tuxedo with a glowing digital 8.",
+        "scene": "Medium shot on a grand gala stage, holding a golden envelope in front of a shocked exotic dragon fruit woman."
+      },
+      "stats": [
+        {
+          "label": "Rang",
+          "value": "Rang 6",
+          "bar": 0.8
+        },
+        {
+          "label": "Projekte",
+          "value": "12",
+          "bar": 0.75
+        },
+        {
+          "label": "Macht",
+          "value": "Hoch",
+          "bar": 0.7
+        }
+      ],
+      "character": "An exotic dragon fruit woman with magenta skin and green-tipped bracts, wearing an elegant emerald evening gown, digital 6.",
+      "visual": "Wide shot of an opulent grand ballroom in Berlin with crystal chandeliers and marble pillars.",
+      "scenes": [
+        "Wide shot of a glittering grand ballroom in Berlin with crystal chandeliers. Hidden gold coin embedded in the marble floor.",
+        "Close-up of the glowing digital number 6 on the dragon fruit woman's forehead.",
+        "Medium shot of a plum woman whispering malicious rumors near a champagne fountain.",
+        "Detail shot of an architectural award trophy resting on a velvet pedestal.",
+        "Wide shot of the stage as a man in a tuxedo grabs the microphone.",
+        "Close-up of shocked guests whispering at a round dinner table."
+      ],
+      "caption": "Wer gewinnt am Ende den großen Preis? Intrigen in der High Society! #gala #berlin #architektur #freundeskreis #viral #drama"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welche schreckliche Wahrheit stand in den alten Testamentsunterlagen?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Versucht heimlich, seine Firmenanteile an einen Konkurrenten zu verkaufen."
+      },
+      "name": "Viktor, 39, Investor",
+      "badge": "Rang 7",
+      "verdict": "FAST GOTTGLEICH",
+      "story": "Die 8 Level von Freundeskreis-Rang. Level 7. Rang 7 im Freundeskreis bedeutet, dass jeder deine Hand schüttelt, aber niemand dein echter Freund ist. Ich stehe in meiner exklusiven Penthouse-Suite über den Dächern von Frankfurt und betrachte mein Imperium, als David, der Brokkoli-Mann mit der Fünf, wütend hereinstürmt. Du hast mich bei dem letzten Deal eiskalt reingelegt, Viktor, ich werde alles zerstören. Auf dem Parkett glänzt eine verirrte goldene Münze, die im Dämmerlicht aufblitzt. Ich zucke nicht mal mit der Wimper, denn ich halte alle Fäden in der Hand. Doch in diesem Augenblick klingelt mein Sicherheits-Telefon direkt auf dem Mahagoni-Tisch. Alle Konten wurden in Sekundenbruchteilen eingefroren. Mir stockt der Atem. Das ist unmöglich! Wer hat den Hauptschlüssel geknackt? Wer steckt hinter dem totalen Bankrott? Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "-50.000 €",
+        "after": "Rang 2"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Freundeskreis-Rang. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Rang 7 im Freundeskreis bedeutet, dass jeder deine Hand schüttelt, aber niemand dein echter Freund ist."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe in meiner exklusiven Penthouse-Suite über den Dächern von Frankfurt und betrachte mein Imperium, als David, der Brokkoli-Mann mit der Fünf, wütend hereinstürmt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast mich bei dem letzten Deal eiskalt reingelegt, Viktor, ich werde alles zerstören.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Auf dem Parkett glänzt eine verirrte goldene Münze, die im Dämmerlicht aufblitzt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich zucke nicht mal mit der Wimper, denn ich halte alle Fäden in der Hand."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch in diesem Augenblick klingelt mein Sicherheits-Telefon direkt auf dem Mahagoni-Tisch."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Alle Konten wurden in Sekundenbruchteilen eingefroren.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mir stockt der Atem. Das ist unmöglich! Wer hat den Hauptschlüssel geknackt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer steckt hinter dem totalen Bankrott?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Alle Konten wurden in Sekundenbruchteilen eingefroren.",
+      "quote_by": {
+        "level": 8,
+        "name": "Arthur",
+        "badge": "Rang 8",
+        "character": "An all-powerful coconut man with a polished shell and a glowing digital 8.",
+        "scene": "Medium shot in a luxury penthouse office, holding a flashing master terminal showing frozen accounts."
+      },
+      "stats": [
+        {
+          "label": "Rang",
+          "value": "Rang 7",
+          "bar": 0.9
+        },
+        {
+          "label": "Vermögen",
+          "value": "4.2 Mio",
+          "bar": 0.85
+        },
+        {
+          "label": "Macht",
+          "value": "Maximal",
+          "bar": 0.9
+        }
+      ],
+      "character": "A sleek dragon fruit man with vibrant pink skin and dark scales, wearing a custom navy suit, digital 7 on his forehead.",
+      "visual": "Wide shot of a luxury glass penthouse suite in Frankfurt overlooking the glowing night skyline.",
+      "scenes": [
+        "Wide shot of a luxury Frankfurt penthouse at night with panoramic skyline views. Hidden gold coin on the wooden floor.",
+        "Close-up of the glowing digital number 7 on the dragon fruit man's forehead.",
+        "Medium shot of a broccoli man smashing a wine glass against a luxury wall.",
+        "Detail shot of a secure smartphone flashing red emergency notifications.",
+        "Wide shot of the penthouse elevator doors opening as an assistant runs in.",
+        "Close-up of a massive digital vault door slowly swinging open."
+      ],
+      "caption": "Wer stürzt den mächtigsten Investor vom Thron? Das große Finale! #penthouse #frankfurt #geld #drama #viral #deutschland"
+    },
+    {
+      "n": 8,
+      "open_loop": "Was war der wahre Grund für das Experiment mit den Nummern?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Versucht, das gesamte Netzwerk zu übernehmen und alle anderen zu erpressen."
+      },
+      "name": "Arthur, 45, Architekt des Systems",
+      "badge": "Rang 8",
+      "verdict": "DIE SPITZE",
+      "story": "Die 8 Level von Freundeskreis-Rang. Level 8. Rang 8 bedeutet, dass du das Spiel kontrollierst, aber am Ende völlig allein an der Spitze stehst. Ich sitze in der obersten Kommandozentrale über der Stadt und sehe mir auf den Monitoren an, wie Tom, Mia, Leon und alle anderen unten kämpfen. Du hast das System nur erschaffen, um uns alle zu kontrollieren, Arthur! Auf dem Konferenztisch leuchtet die allerletzte goldene Münze hell auf. Ich atme tief aus, denn ich weiß genau, dass die Zahl auf der Stirn niemals den echten Menschen zeigt. Ich blicke ihn ruhig an und sage diesen einen Satz: Die Zahl lügt nie, aber sie zeigt nur das, was du sehen willst. Plötzlich flackern alle digitalen Anzeigen in der Stadt gleichzeitig auf und springen auf Null. Stille tritt ein. Wer von ihnen hat das System am Ende überlistet? Welches Thema soll als Nächstes kommen? Schreib es in die Kommentare.",
+      "gender": "m",
+      "twist": {
+        "delta": "RESET",
+        "after": "Rang 0"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Freundeskreis-Rang. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Rang 8 bedeutet, dass du das Spiel kontrollierst, aber am Ende völlig allein an der Spitze stehst."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze in der obersten Kommandozentrale über der Stadt und sehe mir auf den Monitoren an, wie Tom, Mia, Leon und alle anderen unten kämpfen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast das System nur erschaffen, um uns alle zu kontrollieren, Arthur!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Auf dem Konferenztisch leuchtet die allerletzte goldene Münze hell auf."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich atme tief aus, denn ich weiß genau, dass die Zahl auf der Stirn niemals den echten Menschen zeigt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich blicke ihn ruhig an und sage diesen einen Satz:"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl lügt nie, aber sie zeigt nur das, was du sehen willst."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Plötzlich flackern alle digitalen Anzeigen in der Stadt gleichzeitig auf und springen auf Null.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Stille tritt ein. Wer von ihnen hat das System am Ende überlistet?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema soll als Nächstes kommen? Schreib es in die Kommentare."
+        }
+      ],
+      "quote": "Die Zahl lügt nie, aber sie zeigt nur das, was du sehen willst.",
+      "quote_by": {
+        "level": 8,
+        "name": "Arthur",
+        "badge": "Rang 8",
+        "character": "An ultimate coconut mastermind with a hard brown shell and a glowing digital 8.",
+        "scene": "Close-up in a high-tech control room overlooking Salatropolis, speaking calmly to a panicked dragon fruit man."
+      },
+      "stats": [
+        {
+          "label": "Rang",
+          "value": "Rang 8",
+          "bar": 1.0
+        },
+        {
+          "label": "Macht",
+          "value": "Absolut",
+          "bar": 1.0
+        },
+        {
+          "label": "Kontrolle",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "A wise coconut man with a hard brown textured shell, wearing an immaculate black suit and tie, digital number 8 glowing brightly on his forehead.",
+      "visual": "Wide shot of a futuristic control room overlooking an entire glowing metropolis at night with giant digital screens.",
+      "scenes": [
+        "Wide shot of the ultimate high-tech control center overlooking Salatropolis at night. Hidden gold coin on the main control desk.",
+        "Close-up of the glowing digital number 8 on the coconut man's forehead.",
+        "Medium shot of a dragon fruit man angrily confronting the mastermind.",
+        "Detail shot of multiple screens showing all characters across the city.",
+        "Wide shot of all city billboards flickering and resetting to zero.",
+        "Close-up of a glowing gold coin spinning on a polished glass table."
+      ],
+      "caption": "Wer steuert am Ende das ganze Spiel? Welches Thema soll als Nächstes kommen? #finale #system #stadt #drama #viral #deutschland"
+    }
+  ],
+  "lang": "de",
+  "topic": "Freundeskreis‑Rang",
+  "frame": "frucht"
+}

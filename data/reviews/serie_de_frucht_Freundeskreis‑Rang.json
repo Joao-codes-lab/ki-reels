@@ -1,0 +1,53 @@
+{
+  "best_score": 35,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 3,
+        "story": 4,
+        "identifikation": 3,
+        "verbindungen": 4,
+        "sog": 3,
+        "wut": 2,
+        "merkfaehigkeit": 4,
+        "sprache": 5
+      },
+      "gesamt": 35,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den ersten Satz durch eine extreme Demütigung mit konkreter Zahl: 'Mit Rang 1 im Freundeskreis bist du der Abschaum, der nicht mal bei Gruppenchats mitliest, aber Ben stiehlt mir heute meine letzte Würde.'"
+        },
+        {
+          "n": 2,
+          "fix": "Erhöhe die Wut im zweiten Satz: 'Als Rang-6-Avocado mir den Cappuccino über die Bluse schüttet und lacht, weiß ich, dass diese arrogante Schlampe heute noch weinen wird.'"
+        },
+        {
+          "n": 3,
+          "fix": "Schärfe den Sog und die offene Frage am Ende: 'Genau in diesem Moment löst Ben mein Konto komplett auf. Wie kriege ich meine Rache? Das siehst du in Level 4.'"
+        },
+        {
+          "n": 4,
+          "fix": "Verbinde die Handlung direkt mit dem Vorgänger: 'Während Leon noch am Boden liegt, feiert Sophie im Penthouse und stiehlt meinen Vertrag.'"
+        },
+        {
+          "n": 5,
+          "fix": "Füge echten Konflikt statt Aufzählung ein: 'David lacht mich aus, als meine Firma brennt, aber er ahnt nicht, dass ich seinen Masterkey längst geknackt habe.'"
+        },
+        {
+          "n": 6,
+          "fix": "Verschärfe den Kontrast: 'Elena tut hochnäsig mit Rang 6, bis ich ihren Hauptpreis vor laufenden Kameras in den Müll werfe.'"
+        },
+        {
+          "n": 7,
+          "fix": "Erhöhe die emotionale Fallhöhe: 'Viktor zerstört mein Lebenswerk, aber ich habe seine Konten vor genau drei Sekunden komplett auf null gesetzt.'"
+        },
+        {
+          "n": 8,
+          "fix": "Setze ein klares, befriedigendes Ende: 'Arthur dachte, er kontrolliert die Stadt, aber mein kleiner Reset-Knopf bricht ihm jetzt das Genick. Die Zahl lügt nie.'"
+        }
+      ],
+      "fazit": "Die Skripte klingen zu sehr nach generischen Hörspiel-Einleitungen und lassen die brutale, konfrontative Dynamik der viralen Obst-Dramen vermissen. Es fehlt an echter Genugtuung, die Bösewichte sind zu zahm und die Hooks packen nach zwei Sekunden niemanden weg."
+    }
+  ]
+}

@@ -1,0 +1,787 @@
+{
+  "title": "Die 8 Level von Gehalt",
+  "house": "A bustling German metropolis where produce-people commute through rainy streets, neon-lit U-Bahn stations, and corporate glass towers.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Barista in Level 2 mentions the regular customer with the glowing yellow tie in Level 6",
+    "Bus ticket machine in Level 1 accepts exact change dropped by the Broccoli guy from Level 4",
+    "A dropped golden coin behind the kiosk cashier in Level 3 rolls toward Level 5's shoes"
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was lag in dem versiegelten Umschlag auf dem Küchentisch?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Lacht sie an der Supermarktkasse aus und drängelt sich vor."
+      },
+      "name": "Mia, 21, Auszubildende",
+      "badge": "650 € netto",
+      "verdict": "MINDESTLOHN",
+      "story": "Die 8 Level von Gehalt. Level 1. Level 1: 650 Euro im Monat – und der Dispo ist schon wieder gesperrt. Ich stehe im strömenden Regen vor dem Supermarkt, meine Erdbeer-Haut tropft, und ich zähle Cent-Münzen für billige Hafermilch. Wie du hast nur 650 Euro? Such dir lieber einen echten Job, Erdbeere. Seine goldene Uhr blinkt, während er mich von oben herab mustert. Neben mir glänzt eine versteckte goldene Münze im Gully. Meine Miete beträgt exakt 580 Euro für das winzige Zimmer im Keller. Was bleibt mir zum Leben? Genau neunzig Euro für vier Wochen. Ich schlucke die Tränen runter und balle meine kleinen Blätter zu Fäusten. Morgen ist Abrechnungstag und ich kündige diesen Ausbeuter-Laden. Dann hielt sie den gelben Zettel hoch und flüsterte diesen einen Satz, der alles veränderte. Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+350 €",
+        "after": "1.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Gehalt. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 650 Euro im Monat – und der Dispo ist schon wieder gesperrt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im strömenden Regen vor dem Supermarkt, meine Erdbeer-Haut tropft, und ich zähle Cent-Münzen für billige Hafermilch."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wie du hast nur 650 Euro? Such dir lieber einen echten Job, Erdbeere.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Seine goldene Uhr blinkt, während er mich von oben herab mustert. Neben mir glänzt eine versteckte goldene Münze im Gully."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Miete beträgt exakt 580 Euro für das winzige Zimmer im Keller. Was bleibt mir zum Leben?"
+        },
+        {
+          "s": "Figur",
+          "t": "Genau neunzig Euro für vier Wochen. Ich schlucke die Tränen runter und balle meine kleinen Blätter zu Fäusten."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Morgen ist Abrechnungstag und ich kündige diesen Ausbeuter-Laden.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Dann hielt sie den gelben Zettel hoch und flüsterte diesen einen Satz, der alles veränderte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Wie du hast nur 650 Euro? Such dir lieber einen echten Job, Erdbeere.",
+      "quote_by": {
+        "level": 3,
+        "name": "Viktor",
+        "badge": "3.800 €",
+        "character": "An arrogant Cucumber man wearing a sharp navy suit and silver cufflinks, glowing 3.800 € on his forehead.",
+        "scene": "Wide shot of a neon-lit supermarket entrance in the rain, looking down with a sneer at a small strawberry person."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "650 €",
+          "bar": 0.05
+        },
+        {
+          "label": "Miete",
+          "value": "580 €",
+          "bar": 0.9
+        },
+        {
+          "label": "Ersparnis",
+          "value": "12 €",
+          "bar": 0.01
+        }
+      ],
+      "character": "A young strawberry person with fresh red skin, tiny green leaf hair, wearing a worn-out oversized gray hoodie, holding a damp paper bag. Glowing digital badge on forehead.",
+      "visual": "Wide shot, rainy Berlin street at night, a strawberry person holding coins in front of a discount supermarket under harsh white neon light, golden coin hidden near a puddle.",
+      "scenes": [
+        "Wide shot, dark U-Bahn platform at 6 AM, flickering fluorescent lights, tired commuters waiting in the cold drizzle.",
+        "Medium shot, cramped damp basement room with peeling wallpaper, a small single bed and a glowing laptop screen.",
+        "Close-up, wet green strawberry leaves trembling while counting small copper coins on a sticky plastic table.",
+        "Medium shot, supermarket checkout belt with cheap discount groceries, a stern cashier scanning items rapidly.",
+        "Detail shot, a tiny gleaming gold coin half-hidden beneath a metal shopping cart wheel in the rain.",
+        "Close-up, glowing digital numbers 650 € pulsing in soft red light directly above the character's eyebrows."
+      ],
+      "caption": "Wie viel hast du am Monatsanfang übrig? 🍓💸 #stirnzahl #gehalt #level1 #drama #berlin"
+    },
+    {
+      "n": 2,
+      "open_loop": "Wer hat den geheimen Brief in der Kaffeepause hinterlassen?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Verlangt gratis Extrawünsche und beleidigt den Kaffee als ungenießbar."
+      },
+      "name": "Ben, 26, Barista",
+      "badge": "1.450 € netto",
+      "verdict": "KNAPP DABEI",
+      "story": "Die 8 Level von Gehalt. Level 2. Level 2: 1.450 Euro im Monat – und die Kaffeemaschine zischt lauter als mein Chef. Ich stehe hinter der Theke unseres Stamm-Cafés, meine Orangen-Schale klebt vor klebrigem Sirup, und ich schäume Milch für den zehnten Cappuccino in fünf Minuten. 1.450 Euro? Dafür stehe ich nicht mal auf, du kleiner Orangensaft. Er wirft mir zwei Cent hin und lacht. Eine versteckte goldene Münze glitzert unter der Espressomaschine. Meine Miete ist gerade um 120 Euro gestiegen, auf glatte 850 Euro. Ich kann mir nicht mal mehr die Miete für meine Garage leisten. Der Druck wächst von Tag zu Tag. Ich wisch den Tresen ab und sehe auf sein Stirn-Display. Plötzlich klingelt mein Handy mit einer SMS von der Bank. Dann sah er auf das Display und flüsterte diesen einen Satz, der alles veränderte. Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+200 €",
+        "after": "1.650 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Gehalt. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 1.450 Euro im Monat – und die Kaffeemaschine zischt lauter als mein Chef."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe hinter der Theke unseres Stamm-Cafés, meine Orangen-Schale klebt vor klebrigem Sirup, und ich schäume Milch für den zehnten Cappuccino in fünf Minuten."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "1.450 Euro? Dafür stehe ich nicht mal auf, du kleiner Orangensaft.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Er wirft mir zwei Cent hin und lacht. Eine versteckte goldene Münze glitzert unter der Espressomaschine."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Miete ist gerade um 120 Euro gestiegen, auf glatte 850 Euro. Ich kann mir nicht mal mehr die Miete für meine Garage leisten."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Der Druck wächst von Tag zu Tag. Ich wisch den Tresen ab und sehe auf sein Stirn-Display.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich klingelt mein Handy mit einer SMS von der Bank."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Dann sah er auf das Display und flüsterte diesen einen Satz, der alles veränderte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "1.450 Euro? Dafür stehe ich nicht mal auf, du kleiner Orangensaft.",
+      "quote_by": {
+        "level": 4,
+        "name": "Hagen",
+        "badge": "5.200 €",
+        "character": "An arrogant Broccoli man with dark green florets, wearing a stiff tweed blazer and silver rings, glowing 5.200 €.",
+        "scene": "Medium shot inside a trendy cafe, tapping a gold-plated watch while pointing mockingly at the counter."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "1.450 €",
+          "bar": 0.2
+        },
+        {
+          "label": "Miete",
+          "value": "850 €",
+          "bar": 0.6
+        },
+        {
+          "label": "Trinkgeld",
+          "value": "45 €",
+          "bar": 0.1
+        }
+      ],
+      "character": "An orange person with textured citrus peel skin, wearing a stained black apron over a green t-shirt, working in a bustling artisan cafe. Glowing digital badge on forehead.",
+      "visual": "Medium shot, hipster cafe interior with warm amber Edison bulb lighting, an orange person wiping steam off the counter, golden coin glowing under a coffee grinder.",
+      "scenes": [
+        "Wide shot, busy morning cafe with steaming ceramic cups, wooden tables, and diverse produce customers rushing past.",
+        "Close-up, textured orange peel skin glistening with sweat under warm halogen spotlights.",
+        "Medium shot, cash register showing a negative balance alert while a customer taps a platinum card.",
+        "Detail shot, a tiny golden coin reflecting amber light next to a spilled coffee bean.",
+        "Close-up, glowing digital numbers 1.450 € flashing briefly in bright orange light above the eyes.",
+        "Wide shot, narrow apartment stairwell with flickering yellow wall lights and peeling paint."
+      ],
+      "caption": "Gastronomie ist harte Arbeit. Wer kennt das? 🍊☕ #gehalt #barista #level2 #arbeit #berlin"
+    },
+    {
+      "n": 3,
+      "open_loop": "Warum stand die Polizei vor der Bürotür?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Streicht seine Bonuszahlung und gibt ihm die Schuld am Projekt-Desaster."
+      },
+      "name": "Viktor, 32, Sachbearbeiter",
+      "badge": "3.800 € netto",
+      "verdict": "MITTELSTAND",
+      "story": "Die 8 Level von Gehalt. Level 3. Level 3: 3.800 Euro im Monat – und der Kredit für den Kombi frisst mich auf. Ich sitze im sterilen Großraumbüro, meine Gurken-Haut ist trocken von der Klimaanlage, und ich prüfe Excel-Tabellen bis spät in die Nacht. 3.800 Euro? Du bist doch nur ein kleiner Mitläufer im Hamsterrad, Gurke. Er wirft meine Unterlagen auf den Boden und grinst. Eine versteckte goldene Münze glänzt unter dem Aktenvernichter. Meine Fixkosten liegen bei 3.400 Euro für Haus, Leasing und Versicherungen. Am Ende bleibt kein Cent für den Urlaub. Ich habe mich totgeschuftet für diesen Job. Plötzlich flackert das Deckenlicht. Der Abteilungsleiter betritt den Raum mit einem ernsten Blick. Dann legte er den blauen Ordner auf den Tisch und sprach diesen einen Satz, der alles veränderte. Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-500 €",
+        "after": "3.300 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Gehalt. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 3.800 Euro im Monat – und der Kredit für den Kombi frisst mich auf."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze im sterilen Großraumbüro, meine Gurken-Haut ist trocken von der Klimaanlage, und ich prüfe Excel-Tabellen bis spät in die Nacht."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "3.800 Euro? Du bist doch nur ein kleiner Mitläufer im Hamsterrad, Gurke.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Er wirft meine Unterlagen auf den Boden und grinst. Eine versteckte goldene Münze glänzt unter dem Aktenvernichter."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Fixkosten liegen bei 3.400 Euro für Haus, Leasing und Versicherungen. Am Ende bleibt kein Cent für den Urlaub."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Ich habe mich totgeschuftet für diesen Job. Plötzlich flackert das Deckenlicht.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Der Abteilungsleiter betritt den Raum mit einem ernsten Blick."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Dann legte er den blauen Ordner auf den Tisch und sprach diesen einen Satz, der alles veränderte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "3.800 Euro? Du bist doch nur ein kleiner Mitläufer im Hamsterrad, Gurke.",
+      "quote_by": {
+        "level": 6,
+        "name": "Richard",
+        "badge": "9.500 €",
+        "character": "A sleek Coconut man in a tailored charcoal tuxedo, holding a gold fountain pen, glowing 9.500 €.",
+        "scene": "Medium shot in a high-rise corner office overlooking the city skyline, smirking down at a desk covered in paperwork."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "3.800 €",
+          "bar": 0.45
+        },
+        {
+          "label": "Kredit",
+          "value": "1.200 €",
+          "bar": 0.7
+        },
+        {
+          "label": "Puffer",
+          "value": "400 €",
+          "bar": 0.15
+        }
+      ],
+      "character": "A cucumber person with smooth green skin and subtle ridges, wearing a neat light-blue dress shirt and a dark tie, sitting at an office desk. Glowing digital badge on forehead.",
+      "visual": "Wide shot, modern corporate open-plan office with glass walls, rows of glowing computer monitors, and gray carpeting under cool LED panels.",
+      "scenes": [
+        "Wide shot, endless rows of gray cubicles in an office building during a stormy afternoon with lightning outside.",
+        "Close-up, cucumber skin showing fine vertical ridges under harsh fluorescent overhead tubes.",
+        "Medium shot, a cluttered office desk stacked with heavy ring binders and half-empty coffee mugs.",
+        "Detail shot, a tiny golden coin resting near the heavy black rubber wheels of an office chair.",
+        "Close-up, digital badge showing 3.800 € glowing steadily in crisp blue numbers above the brow.",
+        "Wide shot, underground parking garage with concrete pillars and luxury German estate cars."
+      ],
+      "caption": "Mittelschicht-Falle: Gutes Gehalt, aber alles geht für Fixkosten drauf. 🥒📊 #gehalt #mittelstand #level3 #büro #deutschland"
+    },
+    {
+      "n": 4,
+      "open_loop": "Wer hatte das Firmenkonto heimlich leergeräumt?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Kürzt ihren Etat und verhöhnt ihre Projektidee vor dem Vorstand."
+      },
+      "name": "Hagen, 39, Projektleiter",
+      "badge": "5.200 € netto",
+      "verdict": "OBERKLASSE",
+      "story": "Die 8 Level von Gehalt. Level 4. Level 4: 5.200 Euro im Monat – und trotzdem reicht es nicht für die Eigentumswohnung in Schwabing. Ich stehe im Konferenzraum, meine Broccoli-Floren zittern vor Wut, während der Vorstand meine Arbeit zerpflückt. 5.200 Euro? Damit zahlst du nicht mal die Maklergebühren, Broccoli. Er dreht sich um und geht. Eine versteckte goldene Münze glänzt im Teppich unter dem Beamer. Mein Porsche-Leasing kostet 900 Euro im Monat, die Kita noch mal 600. Alle erwarten Perfektion von mir. Ich halte den Druck kaum noch aus. Mein Kollege legt mir eine Hand auf die Schulter. Plötzlich vibriert mein Smartphone auf dem Glastisch. Dann flüsterte er mir diesen einen Satz zu, der alles veränderte. Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1.500 €",
+        "after": "6.700 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Gehalt. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 5.200 Euro im Monat – und trotzdem reicht es nicht für die Eigentumswohnung in Schwabing."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im Konferenzraum, meine Broccoli-Floren zittern vor Wut, während der Vorstand meine Arbeit zerpflückt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "5.200 Euro? Damit zahlst du nicht mal die Maklergebühren, Broccoli.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Er dreht sich um und geht. Eine versteckte goldene Münze glänzt im Teppich unter dem Beamer."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Porsche-Leasing kostet 900 Euro im Monat, die Kita noch mal 600. Alle erwarten Perfektion von mir."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Ich halte den Druck kaum noch aus. Mein Kollege legt mir eine Hand auf die Schulter.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich vibriert mein Smartphone auf dem Glastisch."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Dann flüsterte er mir diesen einen Satz zu, der alles veränderte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "5.200 Euro? Damit zahlst du nicht mal die Maklergebühren, Broccoli.",
+      "quote_by": {
+        "level": 7,
+        "name": "Madame Zimt",
+        "badge": "18.500 €",
+        "character": "An elegant Dragonfruit woman in a crimson silk dress and pearl necklace, glowing 18.500 €.",
+        "scene": "Wide shot of a luxury glass boardroom, looking down dismissively at a presentation screen."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "5.200 €",
+          "bar": 0.6
+        },
+        {
+          "label": "Leasing",
+          "value": "900 €",
+          "bar": 0.5
+        },
+        {
+          "label": "Depot",
+          "value": "15.000 €",
+          "bar": 0.3
+        }
+      ],
+      "character": "A broccoli person with densely textured dark green florets forming hair, wearing a sharp charcoal blazer and silver wristwatch. Glowing digital badge on forehead.",
+      "visual": "Wide shot, sleek corporate boardroom with panoramic city views, modern glass table, and minimalist designer chairs under soft recessed lighting.",
+      "scenes": [
+        "Wide shot, luxury glass-fronted skyscraper overlooking a misty Frankfurt skyline at dawn.",
+        "Close-up, textured green broccoli florets shifting slightly under bright overhead LED spotlights.",
+        "Medium shot, minimalist white meeting room with charts and graphs projected onto a smartboard.",
+        "Detail shot, a tiny golden coin half-concealed in the plush gray office carpet near a power outlet.",
+        "Close-up, glowing digital numbers 5.200 € pulsing in bright white light above the eyebrows.",
+        "Wide shot, subterranean underground parking filled with black luxury sedans and sports cars."
+      ],
+      "caption": "Wer gut verdient, hat oft noch höhere Ausgaben. 🥦💼 #gehalt #karriere #level4 #business #deutschland"
+    },
+    {
+      "n": 5,
+      "open_loop": "Was stand in dem anonymen Erpresserbrief?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Beschuldigt ihn öffentlich, den Betriebsausflug sabotiert zu haben."
+      },
+      "name": "Klara, 41, Ärztin",
+      "badge": "7.900 € netto",
+      "verdict": "TOPVERDIENER",
+      "story": "Die 8 Level von Gehalt. Level 5. Level 5: 7.900 Euro im Monat – und mein Privatleben liegt in Trümmern. Ich stehe im OP-Saal, meine Pflaumen-Haut glänzt unter den sterilen Lampen, während ich die zwölfte Schicht estaune. 7.900 Euro? Für so wenig Risiko würde ich nicht mal Handschuhe anziehen, Pflaume. Sie lacht kalt und verlässt den Raum. Eine versteckte goldene Münze funkelt auf dem Edelstahl-Rollwagen. Mein Haus in Bestlage hat drei Hypotheken, meine Scheidung hat mich ein Vermögen gekostet. Ich rette jeden Tag Leben, aber niemand fragt, wie es mir geht. Ich ziehe die OP-Maske ab und atme tief durch. Dann zeigte sie auf das Röntgenbild und sagte diesen einen Satz, der alles veränderte. Das siehst du in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+2.200 €",
+        "after": "10.100 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Gehalt. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 7.900 Euro im Monat – und mein Privatleben liegt in Trümmern."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im OP-Saal, meine Pflaumen-Haut glänzt unter den sterilen Lampen, während ich die zwölfte Schicht estaune."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "7.900 Euro? Für so wenig Risiko würde ich nicht mal Handschuhe anziehen, Pflaume.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie lacht kalt und verlässt den Raum. Eine versteckte goldene Münze funkelt auf dem Edelstahl-Rollwagen."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Haus in Bestlage hat drei Hypotheken, meine Scheidung hat mich ein Vermögen gekostet."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Ich rette jeden Tag Leben, aber niemand fragt, wie es mir geht.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich ziehe die OP-Maske ab und atme tief durch."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Dann zeigte sie auf das Röntgenbild und sagte diesen einen Satz, der alles veränderte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "7.900 Euro? Für so wenig Risiko würde ich nicht mal Handschuhe anziehen, Pflaume.",
+      "quote_by": {
+        "level": 1,
+        "name": "Mia",
+        "badge": "650 €",
+        "character": "A young strawberry person with red skin and leaf hair, glowing 650 €.",
+        "scene": "Medium shot in a hospital hallway, glaring angrily while holding cleaning supplies."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "7.900 €",
+          "bar": 0.75
+        },
+        {
+          "label": "Kredit",
+          "value": "2.100 €",
+          "bar": 0.8
+        },
+        {
+          "label": "Depot",
+          "value": "85.000 €",
+          "bar": 0.55
+        }
+      ],
+      "character": "A smooth plum person with deep purple-blue skin, wearing immaculate surgical scrubs and a stethoscope around her neck. Glowing digital badge on forehead.",
+      "visual": "Wide shot, modern sterile hospital operating theater with bright shadowless surgical lights reflecting off polished stainless steel equipment.",
+      "scenes": [
+        "Wide shot, brightly lit hospital corridor with polished white linoleum floors and hurried medical staff.",
+        "Close-up, deep purple plum skin glistening under intense surgical spotlights.",
+        "Medium shot, doctors' lounge with charts, half-drunk coffee cups, and leather armchairs.",
+        "Detail shot, a tiny golden coin resting on the lower shelf of a surgical instrument trolley.",
+        "Close-up, digital badge displaying 7.900 € glowing sharply in bright blue numbers above the brow.",
+        "Wide shot, rainy parking lot outside the clinic with expensive European SUVs parked in reserved bays."
+      ],
+      "caption": "Hohes Gehalt, aber null Freizeit. Wer kennt das? 🍑🩺 #gehalt #medizin #level5 #arzt #deutschland"
+    },
+    {
+      "n": 6,
+      "open_loop": "Wer hatte die geheimen Dokumente an die Presse geleakt?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Verweigert die Lieferung im Café und lacht über seinen teuren Anzug."
+      },
+      "name": "Richard, 45, Investmentbanker",
+      "badge": "9.500 € netto",
+      "verdict": "ELITE",
+      "story": "Die 8 Level von Gehalt. Level 6. Level 6: 9.500 Euro im Monat – und die Angst, alles zu verlieren, frisst mich auf. Ich sitze im Penthouse, meine Kokosnuss-Schale ist hart und abweisend, während ich Aktienkurse analysiere. 9.500 Euro? Das ist Taschengeld in unserer Liga, Kokosnuss. Er legt einfach auf. Eine versteckte goldene Münze liegt unter dem Marmortisch. Mein Depot ist zwar siebenstellig, aber mein Stresspegel tötet mich langsam. Ich vertraue keinem Menschen mehr. Alle wollen nur mein Geld. Ich schaue aus dem Panoramafenster auf die regennasse Stadt. Die Haushälterin betritt den Raum mit einem Tablett. Dann stellte sie die Tasse ab und sprach diesen einen Satz, der alles veränderte. Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+4.000 €",
+        "after": "13.500 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Gehalt. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 9.500 Euro im Monat – und die Angst, alles zu verlieren, frisst mich auf."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze im Penthouse, meine Kokosnuss-Schale ist hart und abweisend, während ich Aktienkurse analysiere."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "9.500 Euro? Das ist Taschengeld in unserer Liga, Kokosnuss.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Er legt einfach auf. Eine versteckte goldene Münze liegt unter dem Marmortisch."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Depot ist zwar siebenstellig, aber mein Stresspegel tötet mich langsam. Ich vertraue keinem Menschen mehr."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Alle wollen nur mein Geld. Ich schaue aus dem Panoramafenster auf die regennasse Stadt.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Haushälterin betritt den Raum mit einem Tablett."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Dann stellte sie die Tasse ab und sprach diesen einen Satz, der alles veränderte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "9.500 Euro? Das ist Taschengeld in unserer Liga, Kokosnuss.",
+      "quote_by": {
+        "level": 2,
+        "name": "Ben",
+        "badge": "1.450 €",
+        "character": "An orange person with citrus peel skin and a black apron, glowing 1.450 €.",
+        "scene": "Medium shot behind a cafe counter, holding a coffee cup and smirking."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "9.500 €",
+          "bar": 0.85
+        },
+        {
+          "label": "Aktien",
+          "value": "450.000 €",
+          "bar": 0.85
+        },
+        {
+          "label": "Stress",
+          "value": "99 %",
+          "bar": 0.99
+        }
+      ],
+      "character": "A coconut person with a hard, textured brown fibrous husk head, wearing a high-end designer charcoal suit and silk tie. Glowing digital badge on forehead.",
+      "visual": "Wide shot, luxurious high-rise penthouse living room with floor-to-ceiling glass windows showing a panoramic view of Frankfurt at dusk under dramatic storm clouds.",
+      "scenes": [
+        "Wide shot, luxury glass penthouse interior with minimalist designer furniture and warm recessed lighting.",
+        "Close-up, rough brown coconut husk texture under cold LED spotlights.",
+        "Medium shot, marble desk with multiple curved computer monitors displaying financial charts and red trading graphs.",
+        "Detail shot, a tiny golden coin resting on the polished white marble floor near a designer floor lamp.",
+        "Close-up, digital badge showing 9.500 € glowing in sharp golden light above the brow.",
+        "Wide shot, private rooftop terrace with rain pouring down on glass balustrades."
+      ],
+      "caption": "Viel Geld auf dem Konto, aber innerlich leer. 🥥🏙️ #gehalt #finanzen #level6 #reichtum #deutschland"
+    },
+    {
+      "n": 7,
+      "open_loop": "Warum wurde das gesamte Firmenvermögen auf ein Offshore-Konto überwiesen?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Beschuldigt sie falscher Bilanzierung und droht mit Strafanzeige."
+      },
+      "name": "Madame Zimt, 50, Vorstandschefin",
+      "badge": "18.500 € netto",
+      "verdict": "SUPERREICH",
+      "story": "Die 8 Level von Gehalt. Level 7. Level 7: 18.500 Euro im Monat – und ich kontrolliere ein halbes Handelsimperium. Ich stehe in meiner Luxus-Villa, meine Drachenfrucht-Haut leuchtet pink im Abendlicht, während ich Portfolios bewerte. 18.500 Euro? Für diesen Betrag verlasse ich morgens nicht mal das Bett, Drachenfrucht. Er wirft mir einen kalten Blick zu. Eine versteckte goldene Münze glänzt auf dem antiken Parkett. Niemand weiß, dass mein Konzern kurz vor der Überschuldung steht. Die Fassade muss perfekt bleiben, sonst bricht alles zusammen. Ich schenke mir Champagner ein. Mein Assistent betritt das Arbeitszimmer mit einem versiegelten Kuvert. Er öffnete den Umschlag und flüsterte mir etwas zu. Dann öffnete er den Umschlag und flüsterte diesen einen Satz, der alles veränderte. Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "+5.000 €",
+        "after": "23.500 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Gehalt. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 18.500 Euro im Monat – und ich kontrolliere ein halbes Handelsimperium."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe in meiner Luxus-Villa, meine Drachenfrucht-Haut leuchtet pink im Abendlicht, während ich Portfolios bewerte."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "18.500 Euro? Für diesen Betrag verlasse ich morgens nicht mal das Bett, Drachenfrucht.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Er wirft mir einen kalten Blick zu. Eine versteckte goldene Münze glänzt auf dem antiken Parkett."
+        },
+        {
+          "s": "Figur",
+          "t": "Niemand weiß, dass mein Konzern kurz vor der Überschuldung steht. Die Fassade muss perfekt bleiben, sonst bricht alles zusammen."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Ich schenke mir Champagner ein. Mein Assistent betritt das Arbeitszimmer mit einem versiegelten Kuvert.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Er öffnete den Umschlag und flüsterte mir etwas zu."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Dann öffnete er den Umschlag und flüsterte diesen einen Satz, der alles veränderte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "18.500 Euro? Für diesen Betrag verlasse ich morgens nicht mal das Bett, Drachenfrucht.",
+      "quote_by": {
+        "level": 3,
+        "name": "Viktor",
+        "badge": "3.800 €",
+        "character": "An arrogant Cucumber man in a navy suit, glowing 3.800 €.",
+        "scene": "Medium shot in a grand corporate hallway, crossing arms with an arrogant smirk."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "18.500 €",
+          "bar": 0.95
+        },
+        {
+          "label": "Immobilien",
+          "value": "4.2 Mio €",
+          "bar": 0.95
+        },
+        {
+          "label": "Macht",
+          "value": "95 %",
+          "bar": 0.95
+        }
+      ],
+      "character": "A dragonfruit person with vibrant pink and green scaled skin, wearing an exquisite crimson silk designer dress and diamond earrings. Glowing digital badge on forehead.",
+      "visual": "Wide shot, opulent luxury villa living room with crystal chandeliers, antique Persian rugs, and massive arched windows overlooking a private estate.",
+      "scenes": [
+        "Wide shot, grand marble entrance hall of a luxury mansion with sweeping staircases and crystal chandeliers.",
+        "Close-up, vibrant pink dragonfruit skin with green leaf tips catching warm chandelier light.",
+        "Medium shot, private study room lined with leather-bound books and heavy mahogany furniture.",
+        "Detail shot, a tiny golden coin resting on the edge of an ornate silver champagne cooler.",
+        "Close-up, digital badge showing 18.500 € glowing in brilliant neon pink above the eyebrows.",
+        "Wide shot, private balcony overlooking manicured gardens in the moonlight."
+      ],
+      "caption": "An der Spitze ist die Luft dünn. 🐉💎 #gehalt #luxus #level7 #millionär #deutschland"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches Thema sollen wir als Nächstes in 8 Leveln zeigen?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Übergibt ihr die Schlüssel zum gesamten Konzern und verschwindet spurlos."
+      },
+      "name": "Mister X, ???, Der Unbekannte",
+      "badge": "??? € netto",
+      "verdict": "UNBEKANNT",
+      "story": "Die 8 Level von Gehalt. Level 8. Level 8: Unendlicher Reichtum – oder der Tag, an dem alle Zahlen aufhörten zu zählen. Ich stehe auf dem höchsten Dach der Stadt, meine Haut schimmert in allen Farben des Regenbogens, während die Stadt unter mir im Chaos versinkt. Alle Figuren aus den vorherigen Leveln versammeln sich auf dem Platz. Da leuchtet meine Stirn auf. Die Zahl lügt nie, aber sie bedeutet gar nichts, wenn man niemanden hat. Eine versteckte goldene Münze liegt direkt vor meinen Füßen. Jedes Geheimnis der letzten sieben Level verbindet sich hier. Die Barista, die Ärztin, der Banker – alle Blicke richten sich nach oben. Ich öffne die Hand und lasse die letzte Münze fallen. Welches Thema der Welt zeigt unsere Stirn als Nächstes? Das entscheidest du in den Kommentaren.",
+      "gender": "m",
+      "twist": {
+        "delta": "∞",
+        "after": "MAX"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Gehalt. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: Unendlicher Reichtum – oder der Tag, an dem alle Zahlen aufhörten zu zählen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe auf dem höchsten Dach der Stadt, meine Haut schimmert in allen Farben des Regenbogens, während die Stadt unter mir im Chaos versinkt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Alle Figuren aus den vorherigen Leveln versammeln sich auf dem Platz.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Da leuchtet meine Stirn auf. Die Zahl lügt nie, aber sie bedeutet gar nichts, wenn man niemanden hat."
+        },
+        {
+          "s": "Figur",
+          "t": "Eine versteckte goldene Münze liegt direkt vor meinen Füßen. Jedes Geheimnis der letzten sieben Level verbindet sich hier."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Die Barista, die Ärztin, der Banker – alle Blicke richten sich nach oben.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich öffne die Hand und lasse die letzte Münze fallen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema der Welt zeigt unsere Stirn als Nächstes? Das entscheidest du in den Kommentaren."
+        }
+      ],
+      "quote": "Die Zahl lügt nie, aber sie bedeutet gar nichts.",
+      "quote_by": {
+        "level": 7,
+        "name": "Madame Zimt",
+        "badge": "18.500 €",
+        "character": "A dragonfruit woman in a crimson silk dress, glowing 18.500 €.",
+        "scene": "Wide shot on a skyscraper roof at night, looking up with awe as the digital numbers shift to question marks."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "UNENDLICH",
+          "bar": 1.0
+        },
+        {
+          "label": "Macht",
+          "value": "MAX",
+          "bar": 1.0
+        },
+        {
+          "label": "Wert",
+          "value": "WAHRHEIT",
+          "bar": 1.0
+        }
+      ],
+      "character": "A mysterious mystical produce entity with shifting iridescent skin tones, wearing a sleek metallic silver cloak and holding a glowing orb. Glowing digital badge on forehead shows question marks.",
+      "visual": "Wide shot, dramatic rooftop of the highest skyscraper in Frankfurt at night, surrounded by clouds, neon city lights below, and all previous produce characters gathered in the square far down.",
+      "scenes": [
+        "Wide shot, dramatic night sky over the glowing metropolis with lightning illuminating the clouds.",
+        "Close-up, iridescent multi-colored skin shimmering under mysterious starlight.",
+        "Medium shot, rooftop edge overlooking the bustling city streets and tiny glowing produce figures below.",
+        "Detail shot, a single glowing golden coin resting right at the edge of the concrete rooftop.",
+        "Close-up, digital badge flashing question marks ??? in brilliant white light above the brow.",
+        "Wide shot, all previous characters looking up from different street corners simultaneously."
+      ],
+      "caption": "Was bedeutet wahrer Reichtum wirklich? Schreibe es in die Kommentare! 🌟🏙️ #stirnzahl #gehalt #level8 #finale #deutschland"
+    }
+  ],
+  "lang": "de",
+  "topic": "Gehalt",
+  "frame": "frucht"
+}
