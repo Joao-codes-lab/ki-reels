@@ -505,7 +505,9 @@ def _fresh_ideas(lang, used, n, champs=None):
     prompt = PILOT_PROMPT.format(k=n // 2, k2=n, lang_name=LANG_NAMES[lang], used=", ".join(used) or "keine")
     if champs:
         prompt += CHALLENGE.format(champs=json.dumps(champs, ensure_ascii=False))
-    ideas = ask(prompt)["ideen"]
+    ideas = ask(prompt)
+    if isinstance(ideas, dict):  # manche Ersatz-KIs liefern direkt die Liste statt {"ideen": [...]}
+        ideas = ideas.get("ideen") or next((v for v in ideas.values() if isinstance(v, list)), [])
     return [i for i in ideas if i.get("topic") and i.get("frame") in FRAMES]
 
 
