@@ -1,0 +1,65 @@
+{
+  "best_score": 61,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 8,
+        "story": 5,
+        "identifikation": 7,
+        "verbindungen": 9,
+        "sog": 8,
+        "wut": 4,
+        "merkfaehigkeit": 6,
+        "sprache": 4
+      },
+      "gesamt": 61,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den unkonkreten Satz 'Then he leaned in close and whispered this one sentence that completely broke me' durch: 'Der Kokos-Milliardär musterte meinen Kontostand und flüsterte: Du wirst heute noch auf der Straße landen.'"
+        },
+        {
+          "n": 2,
+          "fix": "Erhöhe die Wortanzahl auf mindestens 175 Wörter pro Teil, indem du den inneren Monolog und den Druck der Mutter ausführlicher darstellst."
+        },
+        {
+          "n": 3,
+          "fix": "Schaffe echte Wut beim Gegenspieler, indem dieser dem Straftäter/Opfer aktiv und unbarmherzig droht, statt nur belanglose Sätze zu sagen."
+        },
+        {
+          "n": 5,
+          "fix": "Füge einen harten, direkten Twist ein: Die Figur verliert im selben Moment nicht nur Geld, sondern ihren Ruf durch eine gefälschte Beweiskette."
+        },
+        {
+          "n": 8,
+          "fix": "Verändere das Ende von einer langweiligen Call-to-Action ('Tell us in the comments') zu einer echten Genugtuung, bei der die Mutter den arroganten Investor vor allen anderen blamiert."
+        }
+      ],
+      "fazit": "Die Serie hat durch das Nummernsystem und die Querverweise starkes virales Potenzial, scheitert aber an zu kurzen Texten (unter 175 Wörtern), unzureichender Wut auf die Gegenspieler und fehlender echter Genugtuung am Ende."
+    },
+    {
+      "scores": {
+        "hook": 3,
+        "story": 4,
+        "identifikation": 5,
+        "verbindungen": 4,
+        "sog": 3,
+        "wut": 4,
+        "merkfaehigkeit": 5,
+        "sprache": 4
+      },
+      "gesamt": 40,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den drögen Einstieg durch einen harten visuellen Kontrast: 'Minus 42,50 Euro auf dem Konto, null Panik auf der Stirn – und genau in diesem Moment ruft Mama an.'"
+        },
+        {
+          "n": 5,
+          "fix": "Kürze die Aufzählungen im Text und bringe echte Konflikte rein: Zeige konkret, wie der Chef die gefälschten Dokumente auf dem Tisch ausbreitet, statt sie nur zu behaupten."
+        }
+      ],
+      "fazit": "Die Serie hat eine solide visuelle Grundidee mit den anthropomorphen Fruchtfiguren und den Stirnzahlen, scheitert aber an der harten Realität von TikTok: Die Hooks sind zu langatmig, die Storys lesen sich zu sehr wie monotone Aufzählungen statt wie packende Konflikte, und der wiederholte, identische Satz mit dem Kokos-Milliardär killt jeden organischen Sog. Ohne kompromisslose, satzgenaue Zuspitzung und echte emotionale Wut in den ersten Sekunden swipen die Zuschauer gnadenlos weg."
+    }
+  ]
+}

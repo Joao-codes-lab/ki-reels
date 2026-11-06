@@ -1,0 +1,149 @@
+{
+  "best_score": 52,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 6,
+        "story": 5,
+        "identifikation": 7,
+        "verbindungen": 4,
+        "sog": 5,
+        "wut": 4,
+        "merkfaehigkeit": 5,
+        "sprache": 6
+      },
+      "gesamt": 52,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den Beginn durch: '2.000 Euro Gehalt? Warum klickt dieser Idiot um Mitternacht auf den Kalender?'"
+        },
+        {
+          "n": 2,
+          "fix": "Lass den Gegenspieler sofort härter angreifen: 'Wer nach 15 Minuten erst antwortet, ist im echten Leben längst gefeuert.'"
+        },
+        {
+          "n": 3,
+          "fix": "Baue echten Neid ein: Zeige, wie der Gegenspieler heimlich profitiert, während die Figur schuftet."
+        },
+        {
+          "n": 4,
+          "fix": "Verschärfe den Konflikt: 'Du glaubst, dein HR-Badge schützt dich? Der CEO hasst Zögerer.'"
+        },
+        {
+          "n": 5,
+          "fix": "Erhöhe den Einsatz: '24 Stunden Wartezeit? Dafür wirst du noch heute fristlos vor versammelter Mannschaft degradiert.'"
+        },
+        {
+          "n": 6,
+          "fix": "Lass den Chef unerbittlich zuschlagen: 'Dein Golfspiel interessiert hier niemanden, wenn die Abteilung brennt.'"
+        },
+        {
+          "n": 7,
+          "fix": "Erzwinge die Demütigung: 'Vier Stunden Pause? Die Auditoren zerlegen dich gleich in der Luft.'"
+        },
+        {
+          "n": 8,
+          "fix": "Beende das Finale mit einem harten Schlag: 'Du hast das System nicht gebaut, du warst nur das Opfer.'"
+        }
+      ],
+      "fazit": "Die Serie hat eine gute visuelle Basis mit den Gemüsen und dem Büro-Setting, aber sie verzeiht zu schnell und bietet zu wenig echte Demütigung mit Genugtuung. Die Konflikte plätschern oft ohne echten Schmerz und Biss vor sich hin."
+    },
+    {
+      "scores": {
+        "hook": 3,
+        "story": 4,
+        "identifikation": 5,
+        "verbindungen": 6,
+        "sog": 3,
+        "wut": 3,
+        "merkfaehigkeit": 4,
+        "sprache": 4
+      },
+      "gesamt": 40,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze das schwache Intro durch einen harten Konflikt: '2.000 Euro Gehalt und du klickst um Mitternacht auf den Kalender? Dein Stirn-Badge zeigt -3 Minuten. Dein Chef hasst Speichellecker.'"
+        },
+        {
+          "n": 2,
+          "fix": "Erhöhe die Wut im Dialog: 'Wer nach 15 Minuten antwortet, ist im echten Leben längst gefeuert. Du klickst viel zu schnell, Chloe. Reale Bosse lassen dich bluten.'"
+        },
+        {
+          "n": 3,
+          "fix": "Verschärfe den Konflikt in Teil 3: 'Zwei Stunden Wartezeit? Deine Code-Zeilen retten dich nicht vor der sofortigen Entlassung durch Tante Rosa.'"
+        },
+        {
+          "n": 4,
+          "fix": "Kürze das Intro und starte direkt mit dem Vorwurf: 'Sechs Stunden Wartezeit auf eine Antwort? Viktor lässt dich direkt vom CEO feuern.'"
+        },
+        {
+          "n": 5,
+          "fix": "Erhöhe den Druck in Teil 5: '24 Stunden Wartezeit? Dafür wirst du noch heute fristlos vor versammelter Mannschaft degradiert, Arthur.'"
+        },
+        {
+          "n": 6,
+          "fix": "Konfrontiere Brody härter: 'Dein Golfspiel interessiert hier niemanden, wenn deine Abteilung brennt. Ben holt dich jetzt persönlich ab.'"
+        },
+        {
+          "n": 7,
+          "fix": "Erhöhe die Bedrohung: 'Vier Stunden Pause? Die Auditoren zerlegen dich in der Luft, Marcus, während Maya dein Budget streicht.'"
+        },
+        {
+          "n": 8,
+          "fix": "Mache das Ende absolut unerbittlich: 'Du hast das System nicht gebaut, Marcus. Du warst nur das Opfer. Jetzt wird dein Account gelöscht.'"
+        }
+      ],
+      "fazit": "Die Serie hat nette Ansätze mit den Gemüts-Figuren und den Kalender-Badges, scheitert aber an echten TikTok-Viral-Metriken. Die Hooks sind zu zahm, es fehlt an brutaler Demütigung mit absehbarer Genugtuung, und die Konflikte verpuffen in zahnlosen Büro-Dialogen statt echten Rache-Momenten."
+    },
+    {
+      "scores": {
+        "hook": 3,
+        "story": 4,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 3,
+        "wut": 2,
+        "merkfaehigkeit": 4,
+        "sprache": 4
+      },
+      "gesamt": 36,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "2.000 Euro? Wer hat den Junior-Analysten denn eingeladen? Vielleicht putzt er später die Toiletten für uns Reiche. I hit accept on the Monday sync at midnight. My forehead badge shows minus three minutes. I just wanted to look good. You actually responded on a Saturday? Enjoy burning out, kid. Don't mind him, Ben. He hasn't answered a single invite since 2021. My chest tightened. Is replying instantly a fatal corporate crime? Then his manager dropped a shocking file onto his desk, exposing his salary cut."
+        },
+        {
+          "n": 2,
+          "fix": "65.000 Euro? Wer hat die Projektmanagerin denn eingeladen? Vielleicht putzt sie später die Toiletten für uns Reiche. I wait exactly fifteen minutes before hitting accept. My badge shows plus fifteen minutes. Never look too available. You clicked accept too fast, Chloe. Real bosses make them wait until the reminder pops up. At least I actually show up, Marcus. Your project lead just canceled your entire budget. Then her phone buzzed with an emergency alert, revealing her immediate termination."
+        },
+        {
+          "n": 3,
+          "fix": "95.000 Euro? Wer hat den Software-Entwickler denn eingeladen? Vielleicht putzt er später die Toiletten für uns Reiche. I am Leo, software engineer. I wait two hours before clicking tentative. My badge shows plus two hours. My code speaks louder than your meetings. You think ignoring invites makes you a senior dev, Leo? Everyone knows you are just playing video games. I am optimizing backend architecture, Rosa. Your new manager just scheduled a mandatory 8 AM alignment. And he explicitly requested your presence first. Then his Slack flashed red with a terrifying message about his demotion."
+        },
+        {
+          "n": 4,
+          "fix": "120.000 Euro? Wer hat die HR-Managerin denn eingeladen? Vielleicht putzt sie später die Toiletten für uns Reiche. I am Maya, HR manager. I wait six hours before acknowledging a meeting. My badge shows plus six hours. High-level strategy takes time. Why hasn't your department confirmed attendance for tomorrow's executive review, Maya? People are panicking. I am reviewing compliance frameworks, Viktor. Not playing inbox ping-pong. You can hide behind your badge all you want, but the CEO knows you skipped his Q&A. Before she could answer, her printer started whirring with her firing notice."
+        },
+        {
+          "n": 5,
+          "fix": "160.000 Euro? Wer hat den Operations-Direktor denn eingeladen? Vielleicht putzt er später die Toiletten für uns Reiche. I am Arthur, director of operations. I wait a full twenty-four hours before responding. My badge shows plus one day. True power requires absolute silence. Arthur, you haven't accepted the quarterly budget review. It starts in ten minutes! Let them wait, Sam. Urgency is just a symptom of poor planning. You don't understand, Arthur. The CEO just joined the call early and he is asking why you are missing. Then his intercom buzzed with the ultimate demand for his resignation."
+        },
+        {
+          "n": 6,
+          "fix": "210.000 Euro? Wer hat den Senior Director denn eingeladen? Vielleicht putzt er später die Toiletten für uns Reiche. I am Brody, senior director. I wait ninety minutes just to remind them who runs this floor. My badge shows plus ninety minutes. I own the schedule. Sir, the board needs your sign-off on the merger schedule immediately. Let them wait, Ben. If they wanted my approval, they should have scheduled it around my golf game. You can't just ignore a board directive, Brody! Everyone in the building is waiting on your RSVP. Then his private office phone started ringing relentlessly with news of his suspension."
+        },
+        {
+          "n": 7,
+          "fix": "320.000 Euro? Wer hat den Vice President denn eingeladen? Vielleicht putzt er später die Toiletten für uns Reiche. I am Marcus, vice president. I wait four hours because my time actually has a seven-figure price tag. My badge shows plus four hours. I answer to no one. Marcus, why did you decline the emergency risk assessment meeting? The auditors are threatening legal action. Tell the auditors my schedule is curated, Maya, not crowdsourced. You are risking the entire acquisition over your ridiculous calendar games! Then his executive terminal flashed with an override warning erasing his shares."
+        },
+        {
+          "n": 8,
+          "fix": "1.000.000 Euro? Wer hat den Founder denn eingeladen? Vielleicht putzt er später die Toiletten für uns Reiche. I am the Founder. I don't wait for meetings. I write the calendar itself. My badge shows zero seconds. I am the system. You... you never needed to accept any meeting at all. Did you? The blinking number on your forehead never lies, Marcus. You were all just playing the game I programmed. And now, your account is permanently wiped out in front of everyone."
+        }
+      ],
+      "fazit": "Die Serie scheitert komplett an den harten Viral-Regeln der Vorbilder. Es fehlen die extremen Stirnzahlen mit sofortiger brutaler Demütigung, der Zuschauer ahnt den Verrat nicht früh genug, und echte Wut oder Mitleid in den ersten Sekunden werden verschenkt. Die Hooks sind langweilig, der Sog verpufft durch schwache offene Fragen, und die Wortanzahl pro Skript ist viel zu gering."
+    }
+  ]
+}
