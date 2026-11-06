@@ -2,7 +2,7 @@
 
 - URL: https://www.instagram.com/p/DfVuw4KM40v/
 - Dauer: 146.0 s, Sprache: de
-- Likes: 428, Kommentare: 18, Views: 19692
+- Likes: 472, Kommentare: 20, Views: 23103
 - Datum: 2026-11-05T00:23:13.000Z
 
 ## Beschreibung
@@ -13,11 +13,11 @@ Das Leere – Ende #Früchte #gewohnheiten #trashtv
 
 [  0.1s] Schatz, beeil dich, sonst verpassen wir noch den Flug.
 [  2.5s] Drei Tage an den Traumstränden der Dominikanischen Republik.
-[  4.9s] Und man hört, dass andere Nachbarn genau dasselbe machen wie wir.
+[  4.9s] Und man hört, dass andere Nachbarn genau dasselbe machen, wie wir.
 [  7.1s] Einfach auf fremden Grundstücken bauen.
 [  8.5s] Wir haben hier einen ganz neuen Markt geschaffen.
-[ 10.3s] Na dann los, mein Liebling, der Urlaub wartet auf uns.
-[ 15.1s] Mein Sohn, ich weiß, dass das, was ich tun werde, falsch ist.
+[ 10.3s] Na dann los, mein Liebling. Der Urlaub wartet auf uns.
+[ 14.9s] Mein Sohn, ich weiß, dass das, was ich tun werde, falsch ist.
 [ 17.9s] Aber jemand muss es tun.
 [ 19.3s] Und ich will nicht, dass du es bist.
 [ 20.9s] Mama, lass mich das machen.
@@ -28,16 +28,15 @@ Das Leere – Ende #Früchte #gewohnheiten #trashtv
 [ 31.7s] Sorge dich nicht um mich.
 [ 33.1s] Versprich mir nur, dass du nicht versuchen wirst, mich aufzuhalten.
 [ 35.9s] Mama, nein!
-[ 38.1s] Ach, was für eine spektakuläre Nacht.
-[ 41.1s] Wer hätte gedacht, dass dieser Fall uns so viele Vorteile einbringen würde?
-[ 44.5s] Ganz ehrlich, diese Dame hat sich wohl im Traum nicht ausgemalt,
-[ 46.7s] wie das alles für sie enden würde.
+[ 38.3s] Ach, was für eine spektakuläre Nacht.
+[ 41.3s] Wer hätte gedacht, dass dieser Fall uns so viele Vorteile einbringen würde?
+[ 44.3s] Ganz ehrlich, diese Dame hat sich wohl im Traum nicht ausgemalt,
+[ 46.9s] wie das alles für sie enden würde.
 [ 48.3s] Aber damit sich so eine Nacht wiederholt,
-[ 49.7s] muss mir schon bald wieder so ein lukrativer Fall zufallen.
-[ 53.1s] Aha, ihr dachtet wohl, ihr könntet mein Grundstück so einfach behalten?
+[ 49.9s] muss mir schon bald wieder so ein lukrativer Fall zufallen.
+[ 53.3s] Aha, ihr dachtet wohl, ihr könntet mein Grundstück so einfach behalten?
 [ 56.5s] Ja, ihr könnt es behalten.
-[ 57.9s] Aber ohne Haus.
-[ 59.1s] Ihr werdet es von Grund auf neu bauen müssen.
+[ 57.9s] Aber ohne Haus, ihr werdet es von Grund auf neu bauen müssen.
 [ 61.3s] Ich will euer schmutziges Geld nicht.
 [ 63.1s] Ich will gar nichts von euch.
 [ 64.5s] Behaltet das Land, aber das neue Haus
