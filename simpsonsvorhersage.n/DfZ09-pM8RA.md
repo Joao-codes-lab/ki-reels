@@ -2,7 +2,7 @@
 
 - URL: https://www.instagram.com/p/DfZ09-pM8RA/
 - Dauer: 73.2 s, Sprache: ?
-- Likes: 2079, Kommentare: 79, Views: 102303
+- Likes: 5234, Kommentare: 141, Views: 266140
 - Datum: 2026-11-06T14:33:44.000Z
 
 ## Beschreibung
