@@ -1,0 +1,757 @@
+{
+  "title": "Die 8 Level der Jobsuche nach dem Master",
+  "house": "A bustling metropolis populated by anthropomorphic fruits and vegetables, featuring neon-lit office towers, crowded commuter trains, cheap shared apartments, and a central station kiosk where everyone crosses paths.",
+  "catchphrase": "Die Zahl auf der Stirn lügt nie.",
+  "links": [
+    "In Level 1 wird erwähnt, dass die Barista in der U-Bahn-Station immer so traurig schaut.",
+    "Level 3 zeigt denselben Mann im Anzug, der in Level 1 den Kaffee weggeworfen hat.",
+    "Die goldene Münze taucht in jeder Kaffeetasse und jedem Fahrkartenautomaten auf.",
+    "Das Kiosk an Gleis 4 verbindet alle acht Figuren durch den gleichen Kassenbon."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Warum lag plötzlich die rote Sperre auf dem Kontoauszug?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Wirft im Café demonstrativ den Kaffee weg und lacht über den Masterabschluss."
+      },
+      "name": "Tom, 25, Germanist",
+      "badge": "0 € netto",
+      "verdict": "PLEITE",
+      "story": "Die 8 Level der Jobsuche nach dem Master. Level 1. Level 1: 0 Euro auf dem Konto, Master in der Tasche und die Kündigung vom Jobcenter. Ich stand an der Supermarktkasse bei Rewe, hinter mir die Schlange, vor mir der Kassenbon über 14,80 Euro für Hafermilch und Nudeln. Meine Karte leuchtete rot auf, während die Kassiererin mit der dicken Avocado-Nummer 5.400 Euro genervt die Augen verdrehte. Kannst du nicht lesen, was auf deiner Stirn steht? Geh Flaschen sammeln statt zu studieren. Ich schluckte den Kloß im Hals hinunter, starrte auf meine digitale Null und fühlte mich wie der letzte Versager nach fünf Jahren Bib-Schmausen. Mach hinne da, andere Leute haben auch Pause! Was stand in diesem winzigen Audio-File, das mein ganzes Leben auf den Kopf stellte? Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+450 €",
+        "after": "450 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Jobsuche nach dem Master. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 0 Euro auf dem Konto, Master in der Tasche und die Kündigung vom Jobcenter."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stand an der Supermarktkasse bei Rewe, hinter mir die Schlange, vor mir der Kassenbon über 14,80 Euro für Hafermilch und Nudeln."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Karte leuchtete rot auf, während die Kassiererin mit der dicken Avocado-Nummer 5.400 Euro genervt die Augen verdrehte."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Kannst du nicht lesen, was auf deiner Stirn steht? Geh Flaschen sammeln statt zu studieren.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schluckte den Kloß im Hals hinunter, starrte auf meine digitale Null und fühlte mich wie der letzte Versager nach fünf Jahren Bib-Schmausen."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Mach hinne da, andere Leute haben auch Pause!",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was stand in diesem winzigen Audio-File, das mein ganzes Leben auf den Kopf stellte?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Kannst du nicht lesen, was auf deiner Stirn steht?",
+      "quote_by": {
+        "level": 3,
+        "name": "Viktor",
+        "badge": "4.200 €",
+        "character": "A smug broccoli person in a sharp pinstripe suit, holding a golden fountain pen, with a glowing green digital badge.",
+        "scene": "Wide shot of a crowded supermarket checkout under cold fluorescent lighting, looking down at a sad tomato person with a zero on their forehead."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "0 €",
+          "bar": 0.01
+        },
+        {
+          "label": "Bewerbungen",
+          "value": "142",
+          "bar": 0.6
+        },
+        {
+          "label": "Schulden",
+          "value": "1.200 €",
+          "bar": 0.4
+        }
+      ],
+      "character": "A pale, exhausted tomato person with dark circles under the eyes, wearing a worn-out oversized hoodie and holding a crumpled rejection letter. On the forehead glows a bright digital '0 €'.",
+      "visual": "Wide shot of a crowded German supermarket checkout at dusk, cold neon lights flickering, an anthropomorphic tomato standing with a red card reader.",
+      "scenes": [
+        "Wide shot of a crowded supermarket checkout at dusk, cold neon lights flickering, an anthropomorphic tomato standing with a red card reader.",
+        "Close-up on the tomato person's forehead showing the glowing digital number zero in bright red LED.",
+        "Medium shot in a cramped student apartment kitchen, a small table covered in rejection letters and half-empty coffee cups.",
+        "Detail shot of a trembling hand holding a smartphone displaying a missed call from an unknown number.",
+        "Medium shot at a rainy Berlin U-Bahn station platform, people in heavy coats rushing past in a blur.",
+        "Detail shot of a hidden tiny gold coin resting on the edge of a dirty subway ticket machine."
+      ],
+      "caption": "Wer kennt das Gefühl nach dem Studium? Wo stehst du gerade? #jobsuche #master #armabersexy #karriere #level"
+    },
+    {
+      "n": 2,
+      "open_loop": "Wer hatte die ominöse E-Mail von der Personalabteilung geschickt?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Sagt beim Vorstellungsgespräch, der Lebenslauf sei ein Witz."
+      },
+      "name": "Mia, 26, Historikerin",
+      "badge": "450 € netto",
+      "verdict": "MINIJOB",
+      "story": "Die 8 Level der Jobsuche nach dem Master. Level 2. Level 2: 450 Euro im Monat als Hilfskraft in der Unibliothek und der Glaube, dass Fleiß belohnt wird. Ich sortierte gerade Folianten aus dem 18. Jahrhundert, als die Abteilungsleiterin mit ihrer goldenen 3.100-Euro-Stirn an meinen Schreibtisch trat. Du bist schon seit drei Jahren hier, Mia, aber für eine feste Stelle reicht dein Profil einfach nicht aus. Ich habe diesen Master mit Auszeichnung gemacht und arbeite hier für den Mindestlohn! Mit der Zahl im Gesicht wirst du immer nur die Kaffeetasse tragen. Lass gut sein, sie hat doch recht. Was stand auf diesem vergilbten Papier, das meine letzte Hoffnung war? Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+850 €",
+        "after": "1.300 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Jobsuche nach dem Master. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 450 Euro im Monat als Hilfskraft in der Unibliothek und der Glaube, dass Fleiß belohnt wird."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sortierte gerade Folianten aus dem 18. Jahrhundert, als die Abteilungsleiterin mit ihrer goldenen 3.100-Euro-Stirn an meinen Schreibtisch trat."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du bist schon seit drei Jahren hier, Mia, aber für eine feste Stelle reicht dein Profil einfach nicht aus.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe diesen Master mit Auszeichnung gemacht und arbeite hier für den Mindestlohn!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit der Zahl im Gesicht wirst du immer nur die Kaffeetasse tragen.",
+          "g": "w"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Lass gut sein, sie hat doch recht.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was stand auf diesem vergilbten Papier, das meine letzte Hoffnung war?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Mit der Zahl im Gesicht wirst du immer nur die Kaffeetasse tragen.",
+      "quote_by": {
+        "level": 4,
+        "name": "Frau Berger",
+        "badge": "3.100 €",
+        "character": "A stern strawberry person wearing wire-rimmed glasses and a tweed blazer, with a glowing orange digital badge.",
+        "scene": "Medium shot inside a dusty university library archive with towering bookshelves and warm amber desk lamps."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "450 €",
+          "bar": 0.12
+        },
+        {
+          "label": "Stunden",
+          "value": "40/w",
+          "bar": 0.7
+        },
+        {
+          "label": "Bücher",
+          "value": "1.200",
+          "bar": 0.5
+        }
+      ],
+      "character": "A focused strawberry person with green leaf-hair tied back neatly, wearing a beige cardigan and fingerless gloves. On the forehead glows '450 €'.",
+      "visual": "Medium shot inside a dusty university library archive with towering bookshelves and warm amber desk lamps.",
+      "scenes": [
+        "Medium shot inside a dusty university library archive with towering bookshelves and warm amber desk lamps.",
+        "Close-up on the strawberry person's glowing orange badge showing 450 Euros.",
+        "Wide shot of the grand reading hall with shafts of afternoon sunlight cutting through floating dust particles.",
+        "Detail shot of a yellowed library slip with handwriting and a tiny hidden gold coin drawn in the margin.",
+        "Medium shot in the campus hallway, students walking past with bright numbers on their foreheads.",
+        "Close-up of a ringing desk phone with an old-school coiled cord."
+      ],
+      "caption": "Wer kennt den Kampf als HiWi nach dem Abschluss? #uni #minijob #master #arbeitsmarkt #level2"
+    },
+    {
+      "n": 3,
+      "open_loop": "Welches Geheimnis verbarg sich in der Akte des Chefs?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Nimmt die Bewerbung und wirft sie demonstrativ in den Aktenbrenner."
+      },
+      "name": "Ben, 27, Wirtschaftsinformatiker",
+      "badge": "1.200 € netto",
+      "verdict": "UNTERBEZAHLT",
+      "story": "Die 8 Level der Jobsuche nach dem Master. Level 3. Level 3: 1.200 Euro brutto als unbezahlter Praktikant im vierten Monat bei einer IT-Bude in Frankfurt. Ich saß im Großraum, tippte Code bis nachts um drei und trank lauwarmen Automatenkaffee. Mit einer Eins-Null im Master und so einer erbärmlichen Einstiegszahl bist du für uns nur ein billiger Tippfehler. Ich halte diesen Laden am Laufen, während ihr im Meeting schlaft! In der freien Wirtschaft bist du wertlos, Junge. Mach lieber den Kaffee neu, bevor er sauer wird. Wer hatte mir diesen anonymen Vertrag geschickt? Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1.100 €",
+        "after": "2.300 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Jobsuche nach dem Master. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 1.200 Euro brutto als unbezahlter Praktikant im vierten Monat bei einer IT-Bude in Frankfurt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich saß im Großraum, tippte Code bis nachts um drei und trank lauwarmen Automatenkaffee."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit einer Eins-Null im Master und so einer erbärmlichen Einstiegszahl bist du für uns nur ein billiger Tippfehler.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich halte diesen Laden am Laufen, während ihr im Meeting schlaft!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "In der freien Wirtschaft bist du wertlos, Junge.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Mach lieber den Kaffee neu, bevor er sauer wird.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hatte mir diesen anonymen Vertrag geschickt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Mit einer Eins-Null im Master und so einer erbärmlichen Einstiegszahl bist du für uns nur ein billiger Tippfehler.",
+      "quote_by": {
+        "level": 5,
+        "name": "Markus",
+        "badge": "4.800 €",
+        "character": "An arrogant cucumber person in a slim-fit blue suit, constantly checking a luxury smartwatch with a glowing digital display.",
+        "scene": "Wide shot of a modern glass-walled open-plan IT office in Frankfurt at night, blue screen glow reflecting on desks."
+      },
+      "stats": [
+        {
+          "label": "Brutto",
+          "value": "1.200 €",
+          "bar": 0.25
+        },
+        {
+          "label": "Überstunden",
+          "value": "60h",
+          "bar": 0.9
+        },
+        {
+          "label": "Kaffee",
+          "value": "7 Tassen",
+          "bar": 0.7
+        }
+      ],
+      "character": "A crisp cucumber person with dark skin texture, wearing thick nerd glasses and a hoodie with rolled-up sleeves. On the forehead glows '1.200 €'.",
+      "visual": "Wide shot of a modern glass-walled open-plan IT office in Frankfurt at night, blue screen glow reflecting on desks.",
+      "scenes": [
+        "Wide shot of a modern glass-walled open-plan IT office in Frankfurt at night, blue screen glow reflecting on desks.",
+        "Close-up on the cucumber person's glowing blue badge showing 1.200 Euros.",
+        "Medium shot in the server room, blinking red and green indicator lights casting long shadows.",
+        "Detail shot of a glowing mechanical keyboard with a tiny gold coin wedged between the keys.",
+        "Wide shot of the Frankfurt skyline illuminated by neon advertisements through panoramic windows.",
+        "Close-up of a laptop screen showing incoming encrypted mail."
+      ],
+      "caption": "Wer kennt das Gefühl, im Praktikum ausgebeutet zu werden? #it #frankfurt #karriere #master #level3"
+    },
+    {
+      "n": 4,
+      "open_loop": "Was stand in dem versiegelten Brief der Konkurrenzfirma?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Sperrt im Vorstellungsraum die Tür zu und lädt den eigenen Neffen ein."
+      },
+      "name": "Sarah, 28, Biochemikerin",
+      "badge": "2.100 € netto",
+      "verdict": "EINSTIEGSKlasse",
+      "story": "Die 8 Level der Jobsuche nach dem Master. Level 4. Level 4: 2.100 Euro netto im Labor, dreijährige Befristung und der Traum vom Forschungsstipendium geplatzt. Ich stand vor dem Reagenzglas und wartete auf die Zentrifuge, als der Chef mit seiner glänzenden 5.500-Euro-Zahl den Raum betrat. Frau Kollegin, Ihre Projektskizze ist ganz nett, aber für die oberen Etagen fehlt Ihnen schlicht das Format. Ich habe dieses Antikörper-Verfahren entwickelt, das Sie morgen auf der Messe präsentieren! Ohne mich läuft hier gar nichts. Wer eine Zwei an der Stirn trägt, fordert hier keine Lorbeeren. Lass es lieber, Sarah, er hat den Vorstand auf seiner Seite. Wer hatte den externen Serverzugriff freigegeben? Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+900 €",
+        "after": "3.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Jobsuche nach dem Master. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 2.100 Euro netto im Labor, dreijährige Befristung und der Traum vom Forschungsstipendium geplatzt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stand vor dem Reagenzglas und wartete auf die Zentrifuge, als der Chef mit seiner glänzenden 5.500-Euro-Zahl den Raum betrat."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Frau Kollegin, Ihre Projektskizze ist ganz nett, aber für die oberen Etagen fehlt Ihnen schlicht das Format.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe dieses Antikörper-Verfahren entwickelt, das Sie morgen auf der Messe präsentieren! Ohne mich läuft hier gar nichts."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer eine Zwei an der Stirn trägt, fordert hier keine Lorbeeren.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Lass es lieber, Sarah, er hat den Vorstand auf seiner Seite.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hatte den externen Serverzugriff freigegeben?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Wer eine Zwei an der Stirn trägt, fordert hier keine Lorbeeren.",
+      "quote_by": {
+        "level": 6,
+        "name": "Dr. Weber",
+        "badge": "5.500 €",
+        "character": "A stiff lemon person with a sour expression, wearing a pristine white lab coat and gold-rimmed glasses, with a shining digital badge.",
+        "scene": "Wide shot of a sterile high-tech chemical laboratory with blue LED lighting and stainless steel workstations."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "2.100 €",
+          "bar": 0.45
+        },
+        {
+          "label": "Publikationen",
+          "value": "4",
+          "bar": 0.4
+        },
+        {
+          "label": "Befristung",
+          "value": "3 Jahre",
+          "bar": 0.5
+        }
+      ],
+      "character": "An intelligent lemon person with bright yellow skin texture, wearing a clean white lab coat over a blue sweater and protective goggles pushed up on the head. On the forehead glows '2.100 €'.",
+      "visual": "Wide shot of a sterile high-tech chemical laboratory with blue LED lighting and stainless steel workstations.",
+      "scenes": [
+        "Wide shot of a sterile high-tech chemical laboratory with blue LED lighting and stainless steel workstations.",
+        "Close-up on the lemon person's glowing badge showing 2.100 Euros.",
+        "Medium shot by the fume hood, bubbling colorful liquids in glass flasks.",
+        "Detail shot of a digital centrifuge timer ticking down, with a tiny gold coin resting on the casing.",
+        "Wide shot of the research institute lobby with polished marble floors and security gates.",
+        "Close-up of a computer terminal showing data transfer progress bars."
+      ],
+      "caption": "Wer kennt die befristeten Verträge in der Forschung? #labor #wissenschaft #master #karriere #level4"
+    },
+    {
+      "n": 5,
+      "open_loop": "Welches Geheimnis stand auf der Rückseite der Gehaltsabrechnung?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Zieht kurz vor der Vertragsunterzeichnung das Angebot zurück und stellt einen Bekannten ein."
+      },
+      "name": "David, 29, Architekt",
+      "badge": "3.100 € netto",
+      "verdict": "SOLIDE",
+      "story": "Die 8 Level der Jobsuche nach dem Master. Level 5. Level 5: 3.100 Euro netto, dreißig Bewerbungen und das Gefühl, im Hamsterrad festzustecken. Ich präsentierte meinen Entwurf für das neue Museum, als der Senior-Partner mit seiner imposanten 7.200-Euro-Anzeige die Pläne vom Tisch fegte. Das ist zu avantgardistisch für unsere Investoren, David. Du verstehst das Geschäft einfach nicht. Ohne meine Entwürfe hättet ihr den Pitch letzte Woche grandios verloren! Ich will die Projektleitung! Träum weiter, kleiner Mann. Du hättest nicht widersprechen sollen, jetzt bist du raus. Was bot mir dieser Anrufer an? Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1.800 €",
+        "after": "4.900 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Jobsuche nach dem Master. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 3.100 Euro netto, dreißig Bewerbungen und das Gefühl, im Hamsterrad festzustecken."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich präsentierte meinen Entwurf für das neue Museum, als der Senior-Partner mit seiner imposanten 7.200-Euro-Anzeige die Pläne vom Tisch fegte."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Das ist zu avantgardistisch für unsere Investoren, David. Du verstehst das Geschäft einfach nicht.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ohne meine Entwürfe hättet ihr den Pitch letzte Woche grandios verloren! Ich will die Projektleitung!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Träum weiter, kleiner Mann.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du hättest nicht widersprechen sollen, jetzt bist du raus.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was bot mir dieser Anrufer an?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Träum weiter, kleiner Mann.",
+      "quote_by": {
+        "level": 7,
+        "name": "Hagen",
+        "badge": "7.200 €",
+        "character": "A stern coconut person with a hard shell hairstyle, wearing an expensive grey cashmere turtleneck and gold cufflinks.",
+        "scene": "Wide shot of a luxury architectural studio with floor-to-ceiling windows overlooking a sleek downtown skyline at twilight."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "3.100 €",
+          "bar": 0.62
+        },
+        {
+          "label": "Projekte",
+          "value": "12",
+          "bar": 0.6
+        },
+        {
+          "label": "Jahre",
+          "value": "3",
+          "bar": 0.5
+        }
+      ],
+      "character": "An artistic avocado person with smooth green skin and a stylish trimmed leaf-haircut, wearing a black turtleneck and carrying a architectural scale ruler. On the forehead glows '3.100 €'.",
+      "visual": "Wide shot of a luxury architectural studio with floor-to-ceiling windows overlooking a sleek downtown skyline at twilight.",
+      "scenes": [
+        "Wide shot of a luxury architectural studio with floor-to-ceiling windows overlooking a sleek downtown skyline at twilight.",
+        "Close-up on the avocado person's glowing badge showing 3.100 Euros.",
+        "Medium shot over a large wooden drafting table covered in blueprints and scale models.",
+        "Detail shot of a scale model window where a tiny gold coin is placed as a hidden detail.",
+        "Wide shot of a busy architectural presentation room with sleek leather chairs.",
+        "Close-up of a smartphone screen showing an incoming international call from Zurich."
+      ],
+      "caption": "Wer kennt den Kampf um die Projektleitung im Büro? #architektur #karriere #master #level5 #gehalt"
+    },
+    {
+      "n": 6,
+      "open_loop": "Warum lag auf dem Schreibtisch des Vorstands dieser anonyme Zettel?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Lehnt die Millioneninvestition ab, weil die Stirnzahl nicht ganz oben steht."
+      },
+      "name": "Elena, 30, Wirtschaftsingenieurin",
+      "badge": "4.800 € netto",
+      "verdict": "OBERE SPITZE",
+      "story": "Die 8 Level der Jobsuche nach dem Master. Level 6. Level 6: 4.800 Euro netto, Top-Position im DAX-Konzern und trotzdem das Gefühl, nur eine Nummer zu sein. Ich saß im Vorstandssaal, um meinen Business Case für die grüne Logistik vorzustellen, als der Vorstandsvorsitzende mit seiner blendenden 9.500-Euro-Stirn die Unterlagen zuklappte. Frau Novak, Ihre Zahlen sind beeindruckend, aber für den Aufstieg in den Vorstand fehlt Ihnen schlicht der Biss. Ich habe diesen Bereich profitabel gemacht, während Sie nur Boni eingestrichen haben! Mein Master war erst der Anfang! Wer solch eine Zahl trägt, fordert hier keine Macht. Respekt für den Auftritt, aber gegen den Chef kommt niemand an. Wer hatte mir die Einladung zur globalen Konferenz geschickt? Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+3.200 €",
+        "after": "8.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Jobsuche nach dem Master. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 4.800 Euro netto, Top-Position im DAX-Konzern und trotzdem das Gefühl, nur eine Nummer zu sein."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich saß im Vorstandssaal, um meinen Business Case für die grüne Logistik vorzustellen, als der Vorstandsvorsitzende mit seiner blendenden 9.500-Euro-Stirn die Unterlagen zuklappte."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Frau Novak, Ihre Zahlen sind beeindruckend, aber für den Aufstieg in den Vorstand fehlt Ihnen schlicht der Biss.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe diesen Bereich profitabel gemacht, während Sie nur Boni eingestrichen haben! Mein Master war erst der Anfang!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer solch eine Zahl trägt, fordert hier keine Macht.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Respekt für den Auftritt, aber gegen den Chef kommt niemand an.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hatte mir die Einladung zur globalen Konferenz geschickt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Wer solch eine Zahl trägt, fordert hier keine Macht.",
+      "quote_by": {
+        "level": 8,
+        "name": "Arthur",
+        "badge": "12.000 €",
+        "character": "An imposing dragonfruit person in a bespoke velvet suit with glowing violet digital numbers and an aura of absolute authority.",
+        "scene": "Wide shot of a magnificent corporate boardroom on the top floor of a skyscraper in Frankfurt, crystal chandeliers and panoramic city views."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "4.800 €",
+          "bar": 0.8
+        },
+        {
+          "label": "Team",
+          "value": "25 MA",
+          "bar": 0.75
+        },
+        {
+          "label": "Erfolg",
+          "value": "94%",
+          "bar": 0.85
+        }
+      ],
+      "character": "A sleek coconut person with a polished brown shell surface, wearing a tailored navy blue blazer and pearl earrings. On the forehead glows '4.800 €'.",
+      "visual": "Wide shot of a magnificent corporate boardroom on the top floor of a skyscraper in Frankfurt, crystal chandeliers and panoramic city views.",
+      "scenes": [
+        "Wide shot of a magnificent corporate boardroom on the top floor of a skyscraper in Frankfurt, crystal chandeliers and panoramic city views.",
+        "Close-up on the coconut person's glowing badge showing 4.800 Euros.",
+        "Medium shot across a long polished conference table with leather chairs and mineral water bottles.",
+        "Detail shot of a crystal glass reflecting a tiny gold coin resting on the table.",
+        "Wide shot of the high-speed elevator lobby with brass panels and glowing floor numbers.",
+        "Close-up of a tablet screen showing an encrypted international flight confirmation."
+      ],
+      "caption": "Wer kennt den harten Weg in die Chefetage nach dem Master? #karriere #dax #master #level6 #gehalt"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welches Geheimnis enthüllte der Vertrag auf dem goldenen Tisch?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Lacht über die Bewerbung und sagt, Spitzenleistung zähle hier erst ab fünfstelligen Beträgen."
+      },
+      "name": "Maximilian, 31, Strategieberater",
+      "badge": "7.500 € netto",
+      "verdict": "ELITE",
+      "story": "Die 8 Level der Jobsuche nach dem Master. Level 7. Level 7: 7.500 Euro netto im Monat, Partnerstatus greifbar und das Gefühl, alles erreicht zu haben. Ich stand auf der Dachterrasse unseres Frankfurter Towers mit Blick auf den Main, als der Senior-Partner mit seiner unantastbaren 12.000-Euro-Stirn an mir vorbeiging. Max, deine Analysen sind scharf, aber für die globale Geschäftsführung reicht dein Netzwerk einfach nicht. Ich habe den Milliarden-Deal mit Asien eingefädelt! Ohne mich bricht eure Bilanz zusammen! Eine Sieben ist gut, aber erst ab zehn zählt die Welt. Pass auf dich auf, gegen den Big Boss zieht hier niemand den Kürzeren. Wer hatte mir diese Unterlagen über den Vorstand zugespielt? Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+4.500 €",
+        "after": "12.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Jobsuche nach dem Master. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 7.500 Euro netto im Monat, Partnerstatus greifbar und das Gefühl, alles erreicht zu haben."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stand auf der Dachterrasse unseres Frankfurter Towers mit Blick auf den Main, als der Senior-Partner mit seiner unantastbaren 12.000-Euro-Stirn an mir vorbeiging."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Max, deine Analysen sind scharf, aber für die globale Geschäftsführung reicht dein Netzwerk einfach nicht.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe den Milliarden-Deal mit Asien eingefädelt! Ohne mich bricht eure Bilanz zusammen!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Eine Sieben ist gut, aber erst ab zehn zählt die Welt.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Pass auf dich auf, gegen den Big Boss zieht hier niemand den Kürzeren.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hatte mir diese Unterlagen über den Vorstand zugespielt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Eine Sieben ist gut, aber erst ab zehn zählt die Welt.",
+      "quote_by": {
+        "level": 8,
+        "name": "Arthur",
+        "badge": "12.000 €",
+        "character": "An imposing dragonfruit person in a bespoke velvet suit with glowing violet digital numbers and an aura of absolute authority.",
+        "scene": "Wide shot of a luxury penthouse rooftop terrace in Frankfurt at night, glittering city lights stretching to the horizon."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "7.500 €",
+          "bar": 0.92
+        },
+        {
+          "label": "Deals",
+          "value": "48",
+          "bar": 0.9
+        },
+        {
+          "label": "Stunden",
+          "value": "85h",
+          "bar": 0.95
+        }
+      ],
+      "character": "A sleek eggplant person with deep purple glossy skin, wearing a sharp charcoal three-piece suit and a silk tie. On the forehead glows '7.500 €'.",
+      "visual": "Wide shot of a luxury penthouse rooftop terrace in Frankfurt at night, glittering city lights stretching to the horizon.",
+      "scenes": [
+        "Wide shot of a luxury penthouse rooftop terrace in Frankfurt at night, glittering city lights stretching to the horizon.",
+        "Close-up on the eggplant person's glowing badge showing 7.500 Euros.",
+        "Medium shot near the glass railing with wind blowing through the sleek suit jacket.",
+        "Detail shot of a silver fountain pen resting on a leather portfolio with a tiny gold coin engraved.",
+        "Wide shot of the illuminated skyscraper lobby with marble pillars and private elevator.",
+        "Close-up of confidential documents stamped top secret."
+      ],
+      "caption": "Wer kennt den Druck ganz oben in der Beratung? #consulting #karriere #master #level7 #gehalt"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welche Zahl leuchtete am Ende auf allen Stirnen der Stadt?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Niemand mehr – der Kreis schließt sich, als Tom aus Level 1 den Schlüssel übernimmt."
+      },
+      "name": "Arthur, 45, Vorstandsvorsitzender",
+      "badge": "12.000 € netto",
+      "verdict": "MAXIMUM",
+      "story": "Die 8 Level der Jobsuche nach dem Master. Level 8. Level 8: 12.000 Euro netto im Monat, unendliche Macht und die Erkenntnis, dass die Zahl auf der Stirn gar nichts über den wahren Wert eines Menschen aussagt. Ich saß auf dem goldenen Chefsessel ganz oben im Tower und blickte auf die Stadt hinab, in der all die Tomaten, Erdbeeren, Gurken und Avocados jeden Tag um ihren Platz kämpften. Du hast all die Jahre geglaubt, deine Zwölftausend macht dich unverwundbar, Arthur. Aber ohne die Null am Anfang hättest du nie verstanden, worauf es ankommt. In diesem Augenblick flackerten alle Digitalanzeigen in der gesamten Metropole gleichzeitig auf und zeigten für eine Sekunde das wahre Geheimnis. Die Stirn-Zahl lügt nie – aber sie entscheidet nicht, wer du bist. Welches Thema der Stadt soll als Nächstes enthüllt werden?",
+      "gender": "m",
+      "twist": {
+        "delta": "0 €",
+        "after": "12.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Jobsuche nach dem Master. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 12.000 Euro netto im Monat, unendliche Macht und die Erkenntnis, dass die Zahl auf der Stirn gar nichts über den wahren Wert eines Menschen aussagt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich saß auf dem goldenen Chefsessel ganz oben im Tower und blickte auf die Stadt hinab, in der all die Tomaten, Erdbeeren, Gurken und Avocados jeden Tag um ihren Platz kämpften."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du hast all die Jahre geglaubt, deine Zwölftausend macht dich unverwundbar, Arthur. Aber ohne die Null am Anfang hättest du nie verstanden, worauf es ankommt.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Augenblick flackerten alle Digitalanzeigen in der gesamten Metropole gleichzeitig auf und zeigten für eine Sekunde das wahre Geheimnis."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Die Stirn-Zahl lügt nie – aber sie entscheidet nicht, wer du bist."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema der Stadt soll als Nächstes enthüllt werden?"
+        }
+      ],
+      "quote": "Die Stirn-Zahl lügt nie – aber sie entscheidet nicht, wer du bist.",
+      "quote_by": {
+        "level": 8,
+        "name": "Arthur",
+        "badge": "12.000 €",
+        "character": "An imposing dragonfruit person in a bespoke velvet suit with glowing violet digital numbers and an aura of absolute authority.",
+        "scene": "Wide shot of the ultimate penthouse office overlooking the entire glowing metropolis at night, crystal chandeliers sparkling."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "12.000 €",
+          "bar": 1.0
+        },
+        {
+          "label": "Macht",
+          "value": "Max",
+          "bar": 1.0
+        },
+        {
+          "label": "Wahrheit",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "An exotic dragonfruit person with vibrant pink and green scaled skin, wearing a luxury velvet tuxedo and a gold pocket watch. On the forehead glows '12.000 €'.",
+      "visual": "Wide shot of the ultimate penthouse office overlooking the entire glowing metropolis at night, crystal chandeliers sparkling.",
+      "scenes": [
+        "Wide shot of the ultimate penthouse office overlooking the entire glowing metropolis at night, crystal chandeliers sparkling.",
+        "Close-up on the dragonfruit person's glowing badge showing 12.000 Euros.",
+        "Medium shot by the panoramic window as all digital city lights flicker in unison.",
+        "Detail shot of the original supermarket receipt from Level 1 resting on a golden desk, with a tiny gold coin on top.",
+        "Wide shot showing all figures from levels 1 to 8 crossing paths in the grand central station square below.",
+        "Close-up of the glowing digital numbers on everyone's forehead stabilizing into a unified light."
+      ],
+      "caption": "Welches Thema sollen wir als Nächstes zeigen? Schreib es in die Kommentare! #finale #master #gehalt #stirnzahl #level8"
+    }
+  ],
+  "lang": "de",
+  "topic": "Die totale Resignation bei der Jobsuche nach dem Masterabschluss",
+  "frame": "frucht"
+}

@@ -1,0 +1,53 @@
+{
+  "best_score": 48,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 4,
+        "story": 5,
+        "identifikation": 4,
+        "verbindungen": 6,
+        "sog": 4,
+        "wut": 5,
+        "merkfaehigkeit": 5,
+        "sprache": 6
+      },
+      "gesamt": 48,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den lahmen Einstieg durch einen harten Satz wie: '0 Euro auf dem Konto, Master in der Hand und die Kassiererin lacht mich aus.' Keine Ansage wie 'Die 8 Level der Jobsuche...' vorab, direkt rein ins Gesicht!"
+        },
+        {
+          "n": 2,
+          "fix": "Kürze das Intro. Lass die Bibliothekarin direkt sagen: 'Mit 450 Euro bleibst du mein Knecht.' Die Wut muss in Sekunde 3 kochen, nicht erst im Mittelteil."
+        },
+        {
+          "n": 3,
+          "fix": "Der Chef im IT-Laden muss den Code sofort löschen statt nur Sprüche zu klopfen. Zeige die echte Demütigung direkt im ersten Satz."
+        },
+        {
+          "n": 4,
+          "fix": "Keine zähen Erklärungen über Reagenzgläser. Sag direkt: 'Mein Chef stiehlt meine Forschung und gibt mir eine Befristung bis zum Rauswurf.'"
+        },
+        {
+          "n": 5,
+          "fix": "Der Architekt muss handgreiflich oder extrem arrogant abgewiesen werden. Lass den Partner sagen: 'Deine Entwürfe sind Müll, du bist ab heute draußen.'"
+        },
+        {
+          "n": 6,
+          "fix": "Im DAX-Konzern direkt die Kündigung auf den Tisch knallen lassen: 'Dein Business Case ist wertlos, pack deine Sachen.'"
+        },
+        {
+          "n": 7,
+          "fix": "Der Senior-Partner muss den Berater öffentlich vor dem Team bloßstellen: 'Für die globale Geschäftsführung bist du eine Lachnummer.'"
+        },
+        {
+          "n": 8,
+          "fix": "Das Ende ist zu moralisch und langweilig. Lass den Boss nicht philosophieren, sondern zeige, wie die Null aus Level 1 den Chef plötzlich ersetzt."
+        }
+      ],
+      "fazit": "Die Serie hat eine starke visuelle Idee mit den Früchten und den Stirnzahlen, scheitert aber an TikTok-Maßstäben: Die Hooks sind zu hölzern, die Erklär-Sätze am Anfang ('Die 8 Level...') töten jede Retention, und die Demütigungen sind oft zu brav. Die Zuschauer wollen rohe Wut, einen klaren Gegenspieler und die süße Genugtuung, dass der Underdog gewinnt. So wischt jeder nach zwei Sekunden weg."
+    }
+  ]
+}

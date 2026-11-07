@@ -1,0 +1,41 @@
+{
+  "best_score": 39,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 3,
+        "story": 4,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 3,
+        "wut": 3,
+        "merkfaehigkeit": 4,
+        "sprache": 5
+      },
+      "gesamt": 39,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze das langweilige Intro durch einen harten visuellen und akustischen Kontrast in den ersten zwei Sekunden: Zeige direkt Tom mit 0% auf der Stirn, während eine Luxus-Drachenfrucht ihm öffentlich ins Gesicht sagt: 'Mit Null Prozent bist du hier der Putzer, Tom.' Keinen Raum für Erklärungen lassen, sofort die Demütigung etablieren."
+        },
+        {
+          "n": 3,
+          "fix": "Erhöhe den Konflikt und die Wut in Level 3: Der Gegenspieler Jonas darf nicht nur einen dummen Spruch machen, sondern muss Leos Code löschen und öffentlich behaupten, er sei unfähig, während der Zuschauer bereits sieht, dass Leo die Sicherheitslücke heimlich längst gelöst hat."
+        },
+        {
+          "n": 5,
+          "fix": "Verschärfe den Sog am Ende von Teil 5: Statt eines simplen Blackouts muss Marcus demütigend ankündigen, Bens gesamten Account zu löschen, und der Zuschauer erfährt als Einziger, dass Ben das Master-Passwort bereits gesichert hat."
+        },
+        {
+          "n": 7,
+          "fix": "Baue echte Genugtuung in Teil 7 ein: Samira darf sich nicht nur geschlagen geben, sondern muss live vor versammelter Mannschaft erleben, wie Tom (der aus Level 1) das System übernimmt und ihre eigene Stirnzahl auf 0% abstürzt."
+        },
+        {
+          "n": 8,
+          "fix": "Schreibe das Ende von Teil 8 um: Keine Meta-Frage zum Schluss ('Welches Thema sollen wir als Nächstes zeigen?'), sondern ein harter, eiskalter Punchline-Satz von Tom über den Wert eines Menschen jenseits jeder digitalen Zahl, der direkt ins Mark trifft."
+        }
+      ],
+      "fazit": "Die Serie hat ein starkes visuelles Konzept und clevere Querverweise, scheitert aber an der harten Viral-Formel: Die Demütigung ist oft zu zahm, die Genugtuung zu abstrakt und der Zuschauer wird zu spät eingeweiht. Ohne echten Hass auf den Bösewicht und die sofortige, unbändige Vorfreude auf die Rache swipt die Gen Z nach drei Sekunden weg."
+    }
+  ]
+}
