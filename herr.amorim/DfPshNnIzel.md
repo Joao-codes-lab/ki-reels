@@ -2,7 +2,7 @@
 
 - URL: https://www.instagram.com/p/DfPshNnIzel/
 - Dauer: 139.0 s, Sprache: de
-- Likes: 789, Kommentare: 49, Views: 40618
+- Likes: 801, Kommentare: 49, Views: 41546
 - Datum: 2026-11-02T16:07:07.000Z
 
 ## Beschreibung
