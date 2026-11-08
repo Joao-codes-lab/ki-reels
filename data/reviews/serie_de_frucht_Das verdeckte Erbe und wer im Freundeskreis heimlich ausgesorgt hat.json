@@ -1,0 +1,37 @@
+{
+  "best_score": 89,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 8,
+        "story": 9,
+        "identifikation": 9,
+        "verbindungen": 9,
+        "sog": 10,
+        "wut": 9,
+        "merkfaehigkeit": 9,
+        "sprache": 8
+      },
+      "gesamt": 89,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den Ersten Satz durch: '2.000 Euro im Monat? Wer hat diesen armen Praktikanten denn überhaupt eingeladen?'"
+        },
+        {
+          "n": 3,
+          "fix": "Kürze den Übergangssatz und starre den Zuschauer direkt an mit: 'Wer so hart schuftet, lässt sich von arroganten Chefs nicht den Lohn abjagen.'"
+        },
+        {
+          "n": 5,
+          "fix": "Verschärfe den Einstieg auf: '5.200 Euro und im P1-Club den großen Max markieren, während das Konto blutet.'"
+        },
+        {
+          "n": 8,
+          "fix": "Schärfe das Finale mit der präzisen Ansage: 'Wahrer Reichtum prahlt niemals, er besitzt einfach alles.'"
+        }
+      ],
+      "fazit": "Brutaler, hochviraler Aufbau nach dem 'Versteckter Wert'-Prinzip. Die anthropomorphen Figuren und die Stirnzahlen erzeugen sofortigen voyeuristischen Sog. Kleine sprachliche Schärfungen bringen die Wut und Genugtuung perfekt auf den Punkt."
+    }
+  ]
+}

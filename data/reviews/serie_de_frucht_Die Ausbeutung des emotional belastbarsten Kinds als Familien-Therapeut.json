@@ -1,0 +1,33 @@
+{
+  "best_score": 39,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 4,
+        "story": 5,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 4,
+        "wut": 3,
+        "merkfaehigkeit": 4,
+        "sprache": 2
+      },
+      "gesamt": 39,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den ersten Satz durch eine brutale Demütigung: '0 Euro auf dem Konto, aber Onkel Bruno brüllt mich an, dass ich sofort für die Familie spuren soll.'"
+        },
+        {
+          "n": 2,
+          "fix": "Erhöhe die Wut im Dialog: 'Du bist absolut nutzlos für diese Familie, gib uns sofort dein Geld!'"
+        },
+        {
+          "n": 3,
+          "fix": "Schreibe den Text um, sodass er genau gesprochene 180 Wörter pro Video enthält, um die Längen und Floskeln komplett zu eliminieren."
+        }
+      ],
+      "fazit": "Die Serie hat eine starke visuelle Grundidee (Frucht-Metaphern, Stirnzahlen), versagt aber bei der harten emotionalen Wut und der Genugtuung, die virale Hits laut Rezept brauchen. Die Texte sind zu artig, klingen nach geschriebener Prosa statt nach eiskaltem TikTok-Konflikt und lassen den Zuschauer ohne echte Rache oder emotionale Befriedigung zurück."
+    }
+  ]
+}

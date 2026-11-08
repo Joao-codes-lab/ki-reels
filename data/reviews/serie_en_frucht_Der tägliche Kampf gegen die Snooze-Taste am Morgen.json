@@ -1,0 +1,121 @@
+{
+  "best_score": 54,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 6,
+        "story": 5,
+        "identifikation": 4,
+        "verbindungen": 7,
+        "sog": 6,
+        "wut": 5,
+        "merkfaehigkeit": 6,
+        "sprache": 4
+      },
+      "gesamt": 53,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den lahmen Einstieg durch einen brutalen Kontrast in den ersten 2 Sekunden: '3 snooze hits und pleite vor dem ersten Kaffee? Wenn dein Stirn-Wert auf 03 steht, lacht dich selbst der Nachbar aus.' Textlänge auf über 175 Wörter ausbauen mit echten Details über die Mietsschulden."
+        }
+      ],
+      "fazit": "Die Serie hat tolle visuelle Ansätze und clevere Querverweise (die versteckte Goldmünze), aber die Texte sind zu kurz, klingen zu oft nach konstruiertem Drehbuch statt nach echtem, verletzlichem TikTok-Sprech, und die Wut auf die Gegenspieler verpufft, weil die Genugtuung zu spät oder gar nicht einsetzt. Mehr Tempo, mehr Härte in den ersten drei Sekunden!"
+    },
+    {
+      "scores": {
+        "hook": 3,
+        "story": 4,
+        "identifikation": 5,
+        "verbindungen": 6,
+        "sog": 3,
+        "wut": 4,
+        "merkfaehigkeit": 5,
+        "sprache": 4
+      },
+      "gesamt": 42,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den statischen Einstieg durch einen brutalen visuellen Kontrast in den ersten 3 Sekunden: 'Stirn-Wert 03? Der Nachbar im Seidenmantel lacht dich aus, während dein Konto bei minus 40 Dollar steht.'"
+        },
+        {
+          "n": 2,
+          "fix": "Erhöhe die direkte Demütigung im Kiosk: Die Kundin schüttet den Kaffee absichtlich über die Barista und lacht über den mickrigen Trinkgeldbetrag."
+        },
+        {
+          "n": 3,
+          "fix": "Schärfe den Konflikt im Büro: Die Chefin droht offen mit sofortiger fristloser Kündigung und reißt die Steuerpapiere in Stücke."
+        },
+        {
+          "n": 4,
+          "fix": "Verschärfe die Verkehrsszene: Der Pineapple schneidet den Wagen und spuckt demonstrativ auf die Windschutzscheibe."
+        },
+        {
+          "n": 5,
+          "fix": "Erhöhe den Druck im Boardroom: Der Wasserzeichen-Tycoon entzieht der VP vor laufenden Kameras die gesamten Optionen."
+        },
+        {
+          "n": 6,
+          "fix": "Verpasse dem High Roller eine härtere Demütigung: Er lässt die Aktienkurse absichtlich abstürzen, während er Champagner in das Gesicht des Brokers gießt."
+        },
+        {
+          "n": 7,
+          "fix": "Lass den Conglomerate Owner spüren, dass er absolut machtlos ist: Der Blueberry friert alle seine Konten live während des Gesprächs ein."
+        },
+        {
+          "n": 8,
+          "fix": "Mache den Twist am Ende greifbar: Der Tomaten-Mensch aus Level 1 steht plötzlich mit dem goldenen Hauptschlüssel auf dem Turm und dreht die Zeit zurück."
+        }
+      ],
+      "fazit": "Die Serie hat eine starke visuelle Welt und clevere Hintergrund-Querverweise (die versteckten Goldmünzen), aber sie scheitert an der harten Viral-Formel. Die Hooks sind zu textlastig und verschenken die ersten drei Sekunden. Die Demütigungen lösen zu wenig echte Wut aus, und die Texte sind zu lang und hölzern statt natürlich gesprochener Short-Form-Sätze. Ohne kompromisslose Eskalation und sofortige emotionale Genugtuung swipen die Zuschauer bei Sekunde zwei weg."
+    },
+    {
+      "scores": {
+        "hook": 5,
+        "story": 6,
+        "identifikation": 6,
+        "verbindungen": 7,
+        "sog": 5,
+        "wut": 4,
+        "merkfaehigkeit": 5,
+        "sprache": 6
+      },
+      "gesamt": 54,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den brauchenden Start durch pure Demütigung: 'Stirn-Wert 03? Der reiche Nachbar tritt gegen deine Zimmertür: Du bist ein absoluter Niemand!'"
+        },
+        {
+          "n": 2,
+          "fix": "Verschärfe die Demütigung im Kiosk: '7 Snoozes? Die arrogante Kokosnuss kippt dir den Kaffee absichtlich über die Theke und lacht über deinen Lohn.'"
+        },
+        {
+          "n": 3,
+          "fix": "Erhöhe die Wut im Büro: '11 Snoozes? Die Chefin reißt deine Steuerakte in Fetzen und droht vor dem ganzen Team mit fristloser Kündigung.'"
+        },
+        {
+          "n": 4,
+          "fix": "Fokussiere auf den Kontrast: '19 Snoozes? Der Sportwagen-Typ blockiert absichtlich deine Ausfahrt und wirft deine Architektur-Entwürfe in den Dreck.'"
+        },
+        {
+          "n": 5,
+          "fix": "Verbinde die Handlung direkt mit dem Opfer: '27 Snoozes? Der Tycoon streicht eiskalt die Boni deiner gesamten Abteilung, während du zusiehst.'"
+        },
+        {
+          "n": 6,
+          "fix": "Schaffe echten Konflikt: '38 Snoozes? Dein Broker setzt dein Portfolio in Sekunden auf null und verspottet deine jahrelange Arbeit.'"
+        },
+        {
+          "n": 7,
+          "fix": "Erhöhe den Druck: '50 Snoozes? Der mächtigste Mann der Stadt pfändet dein gesamtes Imperium und lacht dir ins Gesicht.'"
+        },
+        {
+          "n": 8,
+          "fix": "Bringe die Rache zu Ende: '80 Snoozes? Der arme Tomaten-Typ von ganz unten übernimmt plötzlich das System und sperrt den Tycoon aus.'"
+        }
+      ],
+      "fazit": "Die Serie hat eine starke visuelle Welt und clevere Querverweise, verschenkt aber massiv Potenzial bei der emotionalen Fallhöhe. Die Demütigungen in den ersten Levels erzeugen zu wenig echte Wut, und das Aufteilen auf 8 separate Videos schwächt den Sog, wenn die Cliffhanger nicht messerscharf sitzen. Mehr rohe Emotion, härtere Konflikte und eine klare Genugtuung für den Underdog sind zwingend nötig für virale Millionen-Klicks."
+    }
+  ]
+}

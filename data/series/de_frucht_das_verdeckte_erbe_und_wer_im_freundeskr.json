@@ -1,0 +1,768 @@
+{
+  "title": "Die 8 Level von verdecktem Reichtum",
+  "house": "A bustling German metropolis where anthropomorphic fruit and vegetable citizens live in stone-and-glass quarters, wearing glowing digital numbers on their foreheads displaying their monthly financial worth.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Ben (Level 1) works as an intern in Dennis's tech firm (Level 7) and shares coffee with Finn (Level 3).",
+    "Mia (Level 2) waitresses at the luxury bistro where Laura (Level 6) drinks champagne and Julian (Level 8) reads books.",
+    "Finn (Level 3) designs the luxury penthouse that Dennis (Level 7) brags about renting.",
+    "Sarah (Level 4) runs the daycare kindergarten where Tom (Level 5) drops off his kid in a leased SUV.",
+    "Tom (Level 5) shows off at P1 nightclub in front of Dennis (Level 7), unaware his debt is bought out by Laura's family trust (Level 6).",
+    "Laura (Level 6) shops in the antiquarian archive run by Julian (Level 8), ignorant that Julian controls her trust fund.",
+    "Dennis (Level 7) humiliates Ben (Level 1) until Ben produces the voting trust signed by Julian (Level 8).",
+    "Julian (Level 8) is the silent patriarch and real estate titan holding the master deeds to all their apartments."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was steht in dem versiegelten Notarbrief seines Großvaters, das Tom erblassen lässt?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Demütigt Ben vor allen Freunden wegen seiner mickrigen Stirnzahl und zwingt ihn, nur Leitungswasser zu trinken."
+      },
+      "name": "Ben, 24, Praktikant",
+      "badge": "950 € netto",
+      "verdict": "UNTERSCHÄTZT",
+      "story": "Die 8 Level von verdecktem Reichtum. Level 1. Ich bin Ben, 24, Praktikant in München. Meine Stirn leuchtet blassrot: 950 Euro. In der WG teilen wir uns abgelaufenes Toastbrot. Tom grinst hämisch herüber und wirft seine Autoschlüssel auf den Kneipentisch. Seine Stirn glänzt goldgelb mit 5.200 Euro. Er schnaubt laut vor allen Freunden: Wer 950 Euro hat, bestellt gefälligst nur Leitungswasser. Mein Gesicht brennt vor Scham. Alle am Tisch schweigen peinlich berührt. Kennst du dieses Gefühl, wenn dich jeder wegen deines Kontostands bemitleidet? Niemand ahnt, was in meinem zerschlissenen Rucksack steckt. Sarah mustert mich besorgt und flüstert leise: Lass dich von ihm nicht demütigen, Ben. Die Zahl lügt nie, sagt man doch. Doch sie irrt sich gewaltig. Plötzlich vibriert meine alte Armbanduhr mit einem schrillen Summen. Meine Stirnanzeige flackert kurz auf und springt nach oben. Tom starrt mich mit weit aufgerissenen Augen an. Woher hast du das plötzlich? Ich lächle nur kalt und greife nach dem versiegelten Notarbrief meines Großvaters. Doch als ich das Wachssiegel breche, fällt ein Dokument heraus, das Tom sofort erblassen lässt ... Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+150 €",
+        "after": "1.100 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von verdecktem Reichtum. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Ben, 24, Praktikant in München. Meine Stirn leuchtet blassrot: 950 Euro. In der WG teilen wir uns abgelaufenes Toastbrot."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Tom grinst hämisch herüber und wirft seine Autoschlüssel auf den Kneipentisch. Seine Stirn glänzt goldgelb mit 5.200 Euro. Er schnaubt laut vor allen Freunden: Wer 950 Euro hat, bestellt gefälligst nur Leitungswasser.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Gesicht brennt vor Scham. Alle am Tisch schweigen peinlich berührt. Kennst du dieses Gefühl, wenn dich jeder wegen deines Kontostands bemitleidet? Niemand ahnt, was in meinem zerschlissenen Rucksack steckt."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Sarah mustert mich besorgt und flüstert leise: Lass dich von ihm nicht demütigen, Ben. Die Zahl lügt nie, sagt man doch.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch sie irrt sich gewaltig. Plötzlich vibriert meine alte Armbanduhr mit einem schrillen Summen. Meine Stirnanzeige flackert kurz auf und springt nach oben. Tom starrt mich mit weit aufgerissenen Augen an."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Woher hast du das plötzlich?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich lächle nur kalt und greife nach dem versiegelten Notarbrief meines Großvaters. Doch als ich das Wachssiegel breche, fällt ein Dokument heraus, das Tom sofort erblassen lässt ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Wer 950 Euro hat, bestellt gefälligst nur Leitungswasser.",
+      "quote_by": {
+        "level": 5,
+        "name": "Tom",
+        "badge": "5.200 €",
+        "character": "Anthropomorphic pineapple man with spiky golden-green crown hair, flashy designer polo shirt, glowing 5.200 € forehead display.",
+        "scene": "Dim Bavarian pub, medium shot, arrogant pineapple man sneering across wooden table tossing car keys, glowing 5.200 € forehead."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "950 €",
+          "bar": 0.08
+        },
+        {
+          "label": "Erbe hidden",
+          "value": "??? €",
+          "bar": 0.95
+        },
+        {
+          "label": "Status",
+          "value": "Praktikant",
+          "bar": 0.1
+        }
+      ],
+      "character": "Anthropomorphic strawberry young man, speckled red textured skin, wearing faded denim jacket and worn backpack; glowing red 950 € on his forehead.",
+      "visual": "Bavarian rustic tavern interior, medium close-up, young strawberry man looking down in humiliation while glowing red 950 € displays on his forehead, a tiny golden coin glinting beside the salt shaker on the dark oak table.",
+      "scenes": [
+        "Crowded Munich subway car at dusk, wide shot, tired fruit commuters standing, Ben holding his fraying backpack strap, tiny golden coin hidden under the seat bench.",
+        "Dim rustic tavern, medium shot, Tom the pineapple man with glowing 5.200 € forehead slamming BMW keys onto beer table, tiny golden coin near coaster.",
+        "Rustic tavern booth, close-up, Ben looking humiliated, strawberry skin flushing darker, tiny golden coin wedged between floor planks.",
+        "Rustic tavern booth, over-the-shoulder shot, Sarah the avocado woman whispering comfortingly to Ben while Tom smirks in the background, tiny golden coin on windowsill.",
+        "Rustic tavern table, extreme close-up, wrist with vibrating vintage watch and Ben's forehead display flickering to 1.100 €, tiny golden coin beside beer glass.",
+        "Tavern doorway at night, wide shot, rain pouring outside on cobblestones, Ben holding a sealed red wax envelope, Tom watching stunned, tiny golden coin shining in gutter puddle."
+      ],
+      "caption": "Wenn dein Freundeskreis dich wegen deiner Zahl demütigt, aber keine Ahnung hat, wer du wirklich bist. Kennst du solche falschen Freunde? #stirnzahl #geheimerbe #drama #freundschaft #level1"
+    },
+    {
+      "n": 2,
+      "open_loop": "Was steht in der goldenen Mappe des Chauffeurs, auf der Lauras Name durchgestrichen ist?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Wirft Mia eine rostige Ein-Cent-Münze vor die Füße und verweigert herablassend das Trinkgeld."
+      },
+      "name": "Mia, 26, Kellnerin",
+      "badge": "1.450 € netto",
+      "verdict": "DEMÜTIGT",
+      "story": "Die 8 Level von verdecktem Reichtum. Level 2. Im Brief aus Level 1 stand kein Testament, sondern eine Kontovollmacht. Ich bin Mia, 26, Kellnerin im Luxus-Bistro am Viktualienmarkt. Meine Stirn zeigt magere 1.450 Euro. Jeden Cent drehe ich zweimal um. Laura schlürft ihren Champagner, während ihre Stirn mit 8.500 Euro prahlt. Sie schnippt arrogant mit den Fingern: Trinkgeld gibt es nur für Leute mit echter Zukunft. Sie wirft mir eine rostige Ein-Cent-Münze vor die Füße. Meine Wangen glühen vor Zorn. Kennst du diese eiskalte Herablassung von Menschen, die nur auf deine Ziffer starren? Ein älterer Bibliothekar mit Kokosnuss-Kopf schüttelt am Nebentisch stumm den Kopf und murmelt: Die Zahl lügt nie, mein Kind. Wirklich nicht? Plötzlich piept das EC-Terminal an meinem Gürtel wie verrückt. Mein Display zuckt, Funken sprühen virtuell, und meine Zahl explodiert vor Lauras Augen. Was für ein billiger Systemfehler ist das bitte? Doch draußen hält eine schwarze Limousine. Ein Chauffeur eilt herein, verbeugt sich tief vor mir und überreicht eine goldene Mappe, auf der Lauras Familienname durchgestrichen ist ... Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+600 €",
+        "after": "2.050 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von verdecktem Reichtum. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Im Brief aus Level 1 stand kein Testament, sondern eine Kontovollmacht. Ich bin Mia, 26, Kellnerin im Luxus-Bistro am Viktualienmarkt. Meine Stirn zeigt magere 1.450 Euro. Jeden Cent drehe ich zweimal um."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Laura schlürft ihren Champagner, während ihre Stirn mit 8.500 Euro prahlt. Sie schnippt arrogant mit den Fingern: Trinkgeld gibt es nur für Leute mit echter Zukunft.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie wirft mir eine rostige Ein-Cent-Münze vor die Füße. Meine Wangen glühen vor Zorn. Kennst du diese eiskalte Herablassung von Menschen, die nur auf deine Ziffer starren?"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Ein älterer Bibliothekar mit Kokosnuss-Kopf schüttelt am Nebentisch stumm den Kopf und murmelt: Die Zahl lügt nie, mein Kind.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Wirklich nicht? Plötzlich piept das EC-Terminal an meinem Gürtel wie verrückt. Mein Display zuckt, Funken sprühen virtuell, und meine Zahl explodiert vor Lauras Augen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Was für ein billiger Systemfehler ist das bitte?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch draußen hält eine schwarze Limousine. Ein Chauffeur eilt herein, verbeugt sich tief vor mir und überreicht eine goldene Mappe, auf der Lauras Familienname durchgestrichen ist ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Trinkgeld gibt es nur für Leute mit echter Zukunft.",
+      "quote_by": {
+        "level": 6,
+        "name": "Laura",
+        "badge": "8.500 €",
+        "character": "Anthropomorphic grape bunch woman, glossy violet skin, silk designer scarf, oversized sunglasses, glowing bright violet 8.500 € forehead display.",
+        "scene": "Sunny outdoor French bistro terrace, medium shot, arrogant grape woman in sunglasses snapping fingers dismissively at waitress, glowing 8.500 € on forehead."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "1.450 €",
+          "bar": 0.14
+        },
+        {
+          "label": "Trinkgeld",
+          "value": "80 €",
+          "bar": 0.05
+        },
+        {
+          "label": "Depot",
+          "value": "??? €",
+          "bar": 0.88
+        }
+      ],
+      "character": "Anthropomorphic lemon young woman, textured pale yellow citrus skin, crisp white bistro apron over black shirt; glowing amber 1.450 € on her forehead.",
+      "visual": "Chic Viktualienmarkt bistro outdoor terrace, wide shot, young lemon waitress holding tray while arrogant grape woman sits haughtily, a tiny golden coin glinting inside the bread basket.",
+      "scenes": [
+        "Sunlit Munich bistro terrace, wide shot, bustling rich fruit patrons dining under striped awnings, Mia carrying heavy silver tray, tiny golden coin reflecting on the champagne cooler.",
+        "Bistro table, medium shot, Laura the grape woman with glowing 8.500 € forehead flicking a penny onto stone tiles with a sneer, tiny golden coin visible near table leg.",
+        "Bistro floor, extreme close-up, leather work shoe of Mia next to the tossed penny, tiny golden coin lodged in cobblestone crack.",
+        "Corner bistro booth, medium over-the-shoulder shot, Julian the coconut man in corduroy reading an old book and observing quietly, tiny golden coin resting on his book spine.",
+        "Bistro service counter, close-up, mobile payment terminal beeping wildly, Mia's forehead screen glitching and jumping to 2.050 €, tiny golden coin beside the POS dock.",
+        "Bistro terrace entrance, wide shot, black Mercedes Maybach idling at the curb, suited chauffeur bowing and presenting golden folio to Mia, tiny golden coin on the car door handle."
+      ],
+      "caption": "Wenn reiche Schnösel dich im Restaurant wie Dreck behandeln – bis der Chauffeur vorfährt! Würdest du cool bleiben? #stirnzahl #kellnerin #reichtum #karma #level2"
+    },
+    {
+      "n": 3,
+      "open_loop": "Welcher Name steht auf dem Pachtvertrag des Penthouses, das Dennis für sich beansprucht?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Wirft Baupläne auf Finns Schreibtisch und verspottet ihn, dass er sich Dennis' Penthouse niemals leisten könne."
+      },
+      "name": "Finn, 29, Architekt",
+      "badge": "2.100 € netto",
+      "verdict": "KÄMPFER",
+      "story": "Die 8 Level von verdecktem Reichtum. Level 3. Auf Mias goldener Mappe prangte der Name eines geheimen Baukonsortiums. Ich bin Finn, 29, Junior-Architekt im Schwabinger Planungsbüro. Auf meiner Stirn leuchten karge 2.100 Euro, während ich sechzig Wochenstunden schufte. Dennis mustert meinen abgewetzten Pullover, während seine Anzeige mit 14.000 Euro funkelt. Er wirft seine Baupläne auf meinen Schreibtisch und lacht höhnisch: Zeichne brav weiter, mein Penthouse bezahlst du nie. Meine Hände verkrampfen sich um den Bleistift vor Wut. Weißt du, wie es schmerzt, wenn reiche Schnösel deine Lebenszeit für ein Spottgeld kaufen wollen? Ben aus der Modellbau-Werkstatt flüstert mir mitfühlend zu: Beiß die Zähne zusammen, Finn. Die Zahl lügt nie. Wenn der wüsste! Mein Smartphone vibriert auf der Glasplatte. Das Grundbuchamt schickt eine Bestätigung, und meine Stirnzahl klettert mit einem hellen Glockenton nach oben. Dennis starrt mich verblüfft an. Was soll dieser billige Trick auf deiner Stirn? Ich schaue Dennis ganz gelassen an und ziehe den Pachtvertrag des Penthouses hervor, das er voller Stolz beziehen will, doch unter der Eigentümerzeile steht nicht sein Name ... Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1.200 €",
+        "after": "3.300 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von verdecktem Reichtum. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Auf Mias goldener Mappe prangte der Name eines geheimen Baukonsortiums. Ich bin Finn, 29, Junior-Architekt im Schwabinger Planungsbüro. Auf meiner Stirn leuchten karge 2.100 Euro, während ich sechzig Wochenstunden schufte."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dennis mustert meinen abgewetzten Pullover, während seine Anzeige mit 14.000 Euro funkelt. Er wirft seine Baupläne auf meinen Schreibtisch und lacht höhnisch: Zeichne brav weiter, mein Penthouse bezahlst du nie.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Hände verkrampfen sich um den Bleistift vor Wut. Weißt du, wie es schmerzt, wenn reiche Schnösel deine Lebenszeit für ein Spottgeld kaufen wollen?"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Ben aus der Modellbau-Werkstatt flüstert mir mitfühlend zu: Beiß die Zähne zusammen, Finn. Die Zahl lügt nie.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Wenn der wüsste! Mein Smartphone vibriert auf der Glasplatte. Das Grundbuchamt schickt eine Bestätigung, und meine Stirnzahl klettert mit einem hellen Glockenton nach oben. Dennis starrt mich verblüfft an."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Was soll dieser billige Trick auf deiner Stirn?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schaue Dennis ganz gelassen an und ziehe den Pachtvertrag des Penthouses hervor, das er voller Stolz beziehen will, doch unter der Eigentümerzeile steht nicht sein Name ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Zeichne brav weiter, mein Penthouse bezahlst du nie.",
+      "quote_by": {
+        "level": 7,
+        "name": "Dennis",
+        "badge": "14.000 €",
+        "character": "Anthropomorphic dragonfruit man, vibrant magenta spiked peel, tailored charcoal Italian suit, glowing golden 14.000 € forehead display.",
+        "scene": "Sleek glass architecture firm, medium shot, arrogant dragonfruit man in tailored suit slamming architectural blueprints onto desk, glowing 14.000 € on forehead."
+      },
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "2.100 €",
+          "bar": 0.2
+        },
+        {
+          "label": "Miete",
+          "value": "1.150 €",
+          "bar": 0.55
+        },
+        {
+          "label": "Immobilien",
+          "value": "??? €",
+          "bar": 0.92
+        }
+      ],
+      "character": "Anthropomorphic broccoli young man, dense green curly floret head, knitted charcoal wool cardigan, drafting pencil behind ear; glowing teal 2.100 € on forehead.",
+      "visual": "Modern Schwabing architecture open-plan office, wide shot, broccoli architect at drafting table while flamboyant dragonfruit client towers over him, tiny golden coin hidden inside pencil holder.",
+      "scenes": [
+        "Busy architecture studio with drafting boards, wide shot, fruit architects drawing blueprints under industrial lamps, tiny golden coin sitting on 3D building scale model roof.",
+        "Finn's drafting desk, medium two-shot, Dennis the dragonfruit man with glowing 14.000 € forehead slamming heavy architectural plans onto Finn's desk, tiny golden coin near eraser.",
+        "Drafting desk, close-up, Finn's green broccoli fingers snapping lead pencil in frustration, blueprints crumpled, tiny golden coin beneath ruler.",
+        "Model making workshop in office background, medium shot, Ben the strawberry intern looking over concernedly from cutting foam board, tiny golden coin on workbench shelf.",
+        "Glass desk surface, close-up, smartphone lighting up with land registry email, Finn's forehead display glowing bright teal to 3.300 €, tiny golden coin beside phone cover.",
+        "Penthouse construction site at sunset overlooking Munich skyline, wide shot, Finn holding crisp official notary contract while Dennis watches bewildered, tiny golden coin on concrete girder."
+      ],
+      "caption": "Wenn dein Chef denkt, du bist nur ein kleiner Zeichner – aber du besitzt das Gebäude! Wer kennt solche Chefs? #stirnzahl #architektur #erbe #genugtuung #level3"
+    },
+    {
+      "n": 4,
+      "open_loop": "Welches dunkle Geheimnis über Toms Schulden verbirgt die Stiftung, deren Erbin Sarah ist?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Parkt seinen Luxus-SUV arrogant über den Gehweg und drückt Sarah seinen Müll in die Hand."
+      },
+      "name": "Sarah, 31, Erzieherin",
+      "badge": "2.800 € netto",
+      "verdict": "UNBEUGSAM",
+      "story": "Die 8 Level von verdecktem Reichtum. Level 4. Auf Finns Pachtvertrag stand Sarahs gemeinnützige Treuhandstiftung. Ich bin Sarah, 31, Erzieherin im integrativen Kindergarten Glockenbach. Auf meiner Stirn leuchten ehrliche 2.800 Euro. Tom, der Vater eines unserer Kinder, parkt seinen protzigen SUV quer über dem Gehweg. Seine Stirn strahlt mit 5.200 Euro. Als ich ihn bitte, Platz für Kinderwagen zu machen, lacht er zynisch: Spar dir deine Moral, Reichtum riecht nach Erfolg. Er drückt mir seinen Kaffeebecher als Müll in die Hand. Meine Finger zittern vor Empörung. Hast du auch diese Bekannten, die denken, Geld ersetzt jeden Anstand? Laura stolziert im Designer-Mantel vorbei und zischt gehässig: Diskutier nicht mit dem Fußvolk, Tom. Die Zahl lügt nie. Sie kennen nicht einmal die halbe Wahrheit. In diesem Moment klingelt mein Telefon mit dem vertrauten Ton der Privatbank. Meine Stirnanzeige summt leise und springt sprunghaft an. Tom verstummt augenblicklich. Was hat eine einfache Erzieherin mit solchen Summen zu schaffen? Ich überreiche ihm ruhig ein Kündigungsschreiben für seinen Kita-Platz, unterzeichnet vom Stiftungsrat, dessen Alleinerbin ein dunkles Geheimnis über Toms Schulden birgt ... Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+2.000 €",
+        "after": "4.800 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von verdecktem Reichtum. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Auf Finns Pachtvertrag stand Sarahs gemeinnützige Treuhandstiftung. Ich bin Sarah, 31, Erzieherin im integrativen Kindergarten Glockenbach. Auf meiner Stirn leuchten ehrliche 2.800 Euro. Tom, der Vater eines unserer Kinder, parkt seinen protzigen SUV quer über dem Gehweg."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Seine Stirn strahlt mit 5.200 Euro. Als ich ihn bitte, Platz für Kinderwagen zu machen, lacht er zynisch: Spar dir deine Moral, Reichtum riecht nach Erfolg.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Er drückt mir seinen Kaffeebecher als Müll in die Hand. Meine Finger zittern vor Empörung. Hast du auch diese Bekannten, die denken, Geld ersetzt jeden Anstand?"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Laura stolziert im Designer-Mantel vorbei und zischt gehässig: Diskutier nicht mit dem Fußvolk, Tom. Die Zahl lügt nie.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie kennen nicht einmal die halbe Wahrheit. In diesem Moment klingelt mein Telefon mit dem vertrauten Ton der Privatbank. Meine Stirnanzeige summt leise und springt sprunghaft an. Tom verstummt augenblicklich."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Was hat eine einfache Erzieherin mit solchen Summen zu schaffen?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich überreiche ihm ruhig ein Kündigungsschreiben für seinen Kita-Platz, unterzeichnet vom Stiftungsrat, dessen Alleinerbin ein dunkles Geheimnis über Toms Schulden birgt ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Spar dir deine Moral, Reichtum riecht nach Erfolg.",
+      "quote_by": {
+        "level": 5,
+        "name": "Tom",
+        "badge": "5.200 €",
+        "character": "Anthropomorphic pineapple man with spiky golden-green crown hair, flashy designer polo shirt, glowing 5.200 € forehead display.",
+        "scene": "Sidewalk outside kindergarten, medium shot, arrogant pineapple man handing empty disposable coffee cup to kindergarten teacher with a cruel smirk, glowing 5.200 € on forehead."
+      },
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "2.800 €",
+          "bar": 0.27
+        },
+        {
+          "label": "Stiftung",
+          "value": "2.4 Mio €",
+          "bar": 0.85
+        },
+        {
+          "label": "Respekt",
+          "value": "100 %",
+          "bar": 0.99
+        }
+      ],
+      "character": "Anthropomorphic avocado woman, smooth green pear-shaped face with warm hazel eyes, cozy mustard-yellow knit cardigan; glowing green 2.800 € on forehead.",
+      "visual": "Munich Glockenbach kindergarten entrance, wide shot, avocado kindergarten teacher confronting arrogant pineapple father parked illegally, tiny golden coin hidden in wooden birdhouse.",
+      "scenes": [
+        "Morning street outside Glockenbach kindergarten, wide shot, colorful chalk on pavement, parent fruit citizens walking kids, luxury SUV parked across curb, tiny golden coin on SUV wheel rim.",
+        "Sidewalk by kindergarten gate, medium two-shot, Tom the pineapple man with glowing 5.200 € forehead sneering down at Sarah, shoving paper cup into her hand, tiny golden coin in gutter.",
+        "Sidewalk curb, close-up, Sarah's avocado hands holding crushed paper cup, trembling with righteous fury, tiny golden coin glinting among autumn leaves.",
+        "Sidewalk nearby, medium shot, Laura the grape woman in cashmere coat walking a French bulldog, sneering dismissively toward Sarah, tiny golden coin on dog collar.",
+        "Kindergarten wooden doorway, close-up, Sarah's forehead numbers flickering dynamically and surging to 4.800 €, Tom's eyes widening in shock, tiny golden coin embedded in door lock.",
+        "Playground courtyard at kindergarten, wide shot, colorful swings in background, Sarah holding sealed termination letter with notary seal while Tom checks his phone in horror, tiny golden coin inside sandbox."
+      ],
+      "caption": "Er drückt ihr seinen Müll in die Hand, weil er mehr verdient – bis sie seine Existenz beendet! Hättest du genauso gehandelt? #stirnzahl #erzieherin #stiftung #karmabumerang #level4"
+    },
+    {
+      "n": 5,
+      "open_loop": "Wer aus dem engsten Freundeskreis ist der geheime Gläubiger, der Toms Konten einfriert?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Verspottet Tom vor der versammelten Partygesellschaft im P1-Club und enthüllt seinen Schein-Status."
+      },
+      "name": "Tom, 33, Marketing-Lead",
+      "badge": "5.200 € netto",
+      "verdict": "HOCHSTAPLER",
+      "story": "Die 8 Level von verdecktem Reichtum. Level 5. Sarahs Stiftung kündigte mir, weil mein gesamtes Vermögen nur eine Illusion war. Ich bin Tom, 33, Marketing-Lead. Auf meiner Stirn glänzen stolze 5.200 Euro. Im exklusiven P1-Club bestelle ich die teuerste Champagnerflasche, um mein bröckelndes Image zu retten. Dennis mustert meine Designerjacke, während seine Stirn mit unfassbaren 14.000 Euro strahlt. Er schiebt meine Flasche beiseite und spottet: Dein geleaster Sportwagen beeindruckt hier im Club niemanden. Der ganze Tisch bricht in schallendes Gelächter aus. Mein Herz rast wie eine Dampfwalze. Kennst du diese Panik, wenn deine mühsam aufgebaute Fassade vor allen Freunden einstürzt? Mia räumt mit verhaltenem Lächeln die Gläser ab und flüstert kühl: Die Zahl lügt nie, Tom. Plötzlich leuchtet das Bezahlterminal rot auf: Zahlung verweigert! Ein stechender Schmerz durchfährt meine Schläfen, als meine Stirnanzeige mit einem dumpfen Ton abstürzt. Dennis lacht dreckig. Bist du etwa pleite, großer Macher? Ich greife zitternd nach meinem Smartphone und sehe den Pfändungsbeschluss meiner Bank. Doch der Gläubiger, der mein gesamtes Erbe eingefroren hat, ist ausgerechnet jemand aus unserem engsten Freundeskreis ... Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "-1.500 €",
+        "after": "3.700 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von verdecktem Reichtum. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Sarahs Stiftung kündigte mir, weil mein gesamtes Vermögen nur eine Illusion war. Ich bin Tom, 33, Marketing-Lead. Auf meiner Stirn glänzen stolze 5.200 Euro. Im exklusiven P1-Club bestelle ich die teuerste Champagnerflasche, um mein bröckelndes Image zu retten."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dennis mustert meine Designerjacke, während seine Stirn mit unfassbaren 14.000 Euro strahlt. Er schiebt meine Flasche beiseite und spottet: Dein geleaster Sportwagen beeindruckt hier im Club niemanden.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Der ganze Tisch bricht in schallendes Gelächter aus. Mein Herz rast wie eine Dampfwalze. Kennst du diese Panik, wenn deine mühsam aufgebaute Fassade vor allen Freunden einstürzt?"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Mia räumt mit verhaltenem Lächeln die Gläser ab und flüstert kühl: Die Zahl lügt nie, Tom.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich leuchtet das Bezahlterminal rot auf: Zahlung verweigert! Ein stechender Schmerz durchfährt meine Schläfen, als meine Stirnanzeige mit einem dumpfen Ton abstürzt. Dennis lacht dreckig."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Bist du etwa pleite, großer Macher?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich greife zitternd nach meinem Smartphone und sehe den Pfändungsbeschluss meiner Bank. Doch der Gläubiger, der mein gesamtes Erbe eingefroren hat, ist ausgerechnet jemand aus unserem engsten Freundeskreis ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Dein geleaster Sportwagen beeindruckt hier im Club niemanden.",
+      "quote_by": {
+        "level": 7,
+        "name": "Dennis",
+        "badge": "14.000 €",
+        "character": "Anthropomorphic dragonfruit man, vibrant magenta spiked peel, tailored charcoal Italian suit, glowing golden 14.000 € forehead display.",
+        "scene": "VIP lounge of Munich P1 nightclub, medium shot, dragonfruit tech-founder pushing champagne bucket away with contempt, glowing 14.000 € on forehead."
+      },
+      "stats": [
+        {
+          "label": "Eingang",
+          "value": "5.200 €",
+          "bar": 0.5
+        },
+        {
+          "label": "Leasing",
+          "value": "-1.850 €",
+          "bar": 0.75
+        },
+        {
+          "label": "Schulden",
+          "value": "85.000 €",
+          "bar": 0.9
+        }
+      ],
+      "character": "Anthropomorphic pineapple man, spiky golden crown hair, tight designer black shirt, gold chain; glowing orange 5.200 € display on forehead.",
+      "visual": "High-end VIP nightclub lounge with violet strobe lighting, wide shot, pineapple man humiliated at banquet table surrounded by laughing fruit socialites, tiny golden coin glinting in silver ice bucket.",
+      "scenes": [
+        "Dark luxury nightclub with flashing laser beams and velvet banquettes, wide shot, fruit elite partying, Tom waving magnum bottle, tiny golden coin resting on DJ booth counter.",
+        "VIP table, medium two-shot, Dennis the dragonfruit man with glowing 14.000 € forehead leaning over table pushing Tom's champagne bottle aside, tiny golden coin beside crystal tumbler.",
+        "VIP table, close-up, Tom's face dripping cold sweat, forced grin melting into sheer terror, tiny golden coin under spilled champagne puddle on lacquer table.",
+        "Behind VIP table, medium shot, Mia the lemon waitress clearing glasses in background with calm knowing look, tiny golden coin on cocktail tray.",
+        "Club lounge table, close-up, red glowing POS terminal displaying 'DECLINED', Tom's forehead display suddenly dropping from 5.200 € to 3.700 €, tiny golden coin near card reader.",
+        "Nightclub exit alleyway in cold night fog, wide shot, Tom kneeling against wall staring at foreclosure email on phone, luxury sports car being towed in background, tiny golden coin on exhaust pipe."
+      ],
+      "caption": "Große Klappe, teurer Club, aber alles auf Pump! Kennst du jemanden, der reicher tut, als er ist? #stirnzahl #hochstapler #nachtleben #abgestuerzt #level5"
+    },
+    {
+      "n": 6,
+      "open_loop": "Wer ist der alte Bibliothekar mit dem Petschaftsring, der Lauras Familienerbe widerrufen kann?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Erteilt Laura eine Lektion über wahren Adel und blockiert ihre Erbschaftsauszahlung."
+      },
+      "name": "Laura, 28, Influencerin",
+      "badge": "8.500 € netto",
+      "verdict": "ENTLARVT",
+      "story": "Die 8 Level von verdecktem Reichtum. Level 6. Der Gläubiger auf Toms Pfändung war meine eigene Erbengemeinschaft. Ich bin Laura, 28, Lifestyle-Influencerin in der Maximilianstraße. Meine Stirn strahlt mit glänzenden 8.500 Euro, bezahlt aus dem diskreten Familienfonds. Im Antiquariat verhandle ich herablassend über eine seltene Erstausgabe. Ein unscheinbarer Bibliothekar im schlichten Cordanzug mustert mich ruhig, während seine Stirn mickrige 1.800 Euro anzeigt. Er legt die Hand auf das Buch und sagt sanft: Schau mich an, wahrer Adel braucht keine Prahlerei. Ich lache schrill auf. Wer glaubt dieser armselige Angestellte eigentlich zu sein? Kennst du diese Typen, die keinen Cent besitzen, aber dich über Anstand belehren wollen? Dennis betritt den Laden mit breiter Brust und ruft amüsiert: Lass den alten Kauz stehen, Laura! Die Zahl lügt nie. Doch mitten in seinem Satz erlischt meine Anzeige mit einem schrillen Piepen. Mein Display flackert panisch nach unten, während mein Treuhänder anruft. Dennis verstummt abrupt. Deine monatliche Apanage wurde soeben widerrufen. Entsetzt starre ich auf den alten Bibliothekar, der plötzlich einen goldenen Petschaftsring aus der Tasche zieht, den nur der oberste Schiedsrichter unserer Familiendynastie tragen darf ... Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "-5.000 €",
+        "after": "3.500 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von verdecktem Reichtum. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Der Gläubiger auf Toms Pfändung war meine eigene Erbengemeinschaft. Ich bin Laura, 28, Lifestyle-Influencerin in der Maximilianstraße. Meine Stirn strahlt mit glänzenden 8.500 Euro, bezahlt aus dem diskreten Familienfonds. Im Antiquariat verhandle ich herablassend über eine seltene Erstausgabe."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Ein unscheinbarer Bibliothekar im schlichten Cordanzug mustert mich ruhig, während seine Stirn mickrige 1.800 Euro anzeigt. Er legt die Hand auf das Buch und sagt sanft: Schau mich an, wahrer Adel braucht keine Prahlerei.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich lache schrill auf. Wer glaubt dieser armselige Angestellte eigentlich zu sein? Kennst du diese Typen, die keinen Cent besitzen, aber dich über Anstand belehren wollen?"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Dennis betritt den Laden mit breiter Brust und ruft amüsiert: Lass den alten Kauz stehen, Laura! Die Zahl lügt nie.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch mitten in seinem Satz erlischt meine Anzeige mit einem schrillen Piepen. Mein Display flackert panisch nach unten, während mein Treuhänder anruft. Dennis verstummt abrupt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Deine monatliche Apanage wurde soeben widerrufen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Entsetzt starre ich auf den alten Bibliothekar, der plötzlich einen goldenen Petschaftsring aus der Tasche zieht, den nur der oberste Schiedsrichter unserer Familiendynastie tragen darf ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Schau mich an, wahrer Adel braucht keine Prahlerei.",
+      "quote_by": {
+        "level": 8,
+        "name": "Julian",
+        "badge": "1.800 €",
+        "character": "Anthropomorphic coconut elderly gentleman, textured fibrous brown shell skin, round wire glasses, brown corduroy waistcoat, glowing soft white 1.800 € on forehead.",
+        "scene": "Dusty antique bookstore with leatherbound volumes, medium shot, calm coconut bibliophile placing hand on rare antique book, glowing 1.800 € on forehead."
+      },
+      "stats": [
+        {
+          "label": "Fonds",
+          "value": "8.500 €",
+          "bar": 0.8
+        },
+        {
+          "label": "Shopping",
+          "value": "7.200 €",
+          "bar": 0.72
+        },
+        {
+          "label": "Echtwert",
+          "value": "0 €",
+          "bar": 0.01
+        }
+      ],
+      "character": "Anthropomorphic grape bunch young woman, shimmering violet skin, luxurious camel cashmere coat, designer sunglasses on head; glowing bright violet 8.500 € on forehead.",
+      "visual": "Elegant antique bookshop interior with towering mahogany bookshelves, wide shot, glamorous grape influencer arguing with humble coconut librarian, tiny golden coin glinting inside glass display case.",
+      "scenes": [
+        "Sunlit Maximilianstraße luxury boulevard outside bookshop, wide shot, fashion boutiques and sports cars, Laura strolling with shopping bags, tiny golden coin stuck in drain grate.",
+        "Old antiquarian bookshop, medium two-shot, Julian the coconut man with glowing 1.800 € forehead holding leather folio calmly while Laura sneers, tiny golden coin on wooden counter.",
+        "Bookstore aisle, close-up, Laura's violet grapes trembling in indignation, gold bracelets rattling, tiny golden coin resting on dusty leather book corner.",
+        "Antique store entrance door, medium shot, Dennis the dragonfruit man stepping inside laughing smugly with glowing 14.000 € forehead, tiny golden coin on brass door handle.",
+        "Antique shop register, close-up, Laura's forehead display flashing error codes and crashing down to 3.500 €, smartphone buzzing with trust cancellation alert, tiny golden coin beside inkwell.",
+        "Shadowed back room of antiquariat, wide shot, Julian stepping forward revealing an antique gold signet ring with family crest, Laura freezing in sheer terror, tiny golden coin under magnifying glass."
+      ],
+      "caption": "Sie lebte wie eine Prinzessin auf Kosten der Familie – bis der wahre Erbe ihr den Geldhahn zudreht! Verdient? #stirnzahl #influencerin #erbe #abgestürzt #level6"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welcher Name steht auf der Vollmacht, mit der Ben Dennis' Startup feindlich übernimmt?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Konfrontiert Dennis im eigenen Sitzungssaal mit den echten Stammaktien und entzieht ihm die Führung."
+      },
+      "name": "Dennis, 35, Gründer",
+      "badge": "14.000 € netto",
+      "verdict": "MACHTLOS",
+      "story": "Die 8 Level von verdecktem Reichtum. Level 7. Der Siegelring des Bibliothekars entzog Laura die Vollmacht, doch ich fühlte mich unangreifbar. Ich bin Dennis, 35, gefeierter Tech-Gründer. Meine Stirn glänzt goldglänzend mit 14.000 Euro. Im gläsernen Konferenzraum unserer Vorstandsetage präsentiere ich stolz die neuen Bilanzen. Plötzlich öffnet Ben die Flügeltüren im schäbigen Praktikanten-Kapuzenpullover. Seine Stirn zeigt immer noch 950 Euro. Er legt gelassen ein Stammaktien-Zertifikat auf den Glastisch und sagt eiskalt: Blut ist dicker als dein erbärmlicher Firmenkredit. Wut kocht in mir hoch. Mein ganzer Körper bebt. Weißt du, wie es ist, wenn ein kleiner Praktikant dein Lebenswerk mit einem einzigen Zettel bedroht? Finn sitzt am Konferenztisch, schmunzelt vielsagend und flüstert mir zu: Pass gut auf, Dennis. Die Zahl lügt nie. Was bildet dieser Junge sich ein? Doch in dieser Sekunde flackert mein eigener Stirnbildschirm nervös und stürzt mit einem peinlichen Ton nach unten ab. Bens Zertifikat trägt die Originalunterschrift des Großinvestors. Deine Anteile gehören ab heute mir. Schweiß bricht mir aus allen Poren. Ich fordere panisch den Namen des wahren Strippenziehers hinter dieser feindlichen Übernahme, doch auf der Vollmacht steht der Name des unscheinbarsten Mannes der Stadt ... Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "-11.500 €",
+        "after": "2.500 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von verdecktem Reichtum. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Der Siegelring des Bibliothekars entzog Laura die Vollmacht, doch ich fühlte mich unangreifbar. Ich bin Dennis, 35, gefeierter Tech-Gründer. Meine Stirn glänzt goldglänzend mit 14.000 Euro. Im gläsernen Konferenzraum unserer Vorstandsetage präsentiere ich stolz die neuen Bilanzen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Plötzlich öffnet Ben die Flügeltüren im schäbigen Praktikanten-Kapuzenpullover. Seine Stirn zeigt immer noch 950 Euro. Er legt gelassen ein Stammaktien-Zertifikat auf den Glastisch und sagt eiskalt: Blut ist dicker als dein erbärmlicher Firmenkredit.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Wut kocht in mir hoch. Mein ganzer Körper bebt. Weißt du, wie es ist, wenn ein kleiner Praktikant dein Lebenswerk mit einem einzigen Zettel bedroht?"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Finn sitzt am Konferenztisch, schmunzelt vielsagend und flüstert mir zu: Pass gut auf, Dennis. Die Zahl lügt nie.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Was bildet dieser Junge sich ein? Doch in dieser Sekunde flackert mein eigener Stirnbildschirm nervös und stürzt mit einem peinlichen Ton nach unten ab. Bens Zertifikat trägt die Originalunterschrift des Großinvestors."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Deine Anteile gehören ab heute mir.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Schweiß bricht mir aus allen Poren. Ich fordere panisch den Namen des wahren Strippenziehers hinter dieser feindlichen Übernahme, doch auf der Vollmacht steht der Name des unscheinbarsten Mannes der Stadt ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Blut ist dicker als dein erbärmlicher Firmenkredit.",
+      "quote_by": {
+        "level": 1,
+        "name": "Ben",
+        "badge": "950 €",
+        "character": "Anthropomorphic strawberry young man, speckled red textured skin, wearing faded denim jacket and worn backpack; glowing red 950 € on his forehead.",
+        "scene": "Futuristic glass boardroom, medium shot, strawberry intern in hoodie dropping embossed stock certificate onto glass table, glowing 950 € on forehead."
+      },
+      "stats": [
+        {
+          "label": "Ego-Wert",
+          "value": "14.000 €",
+          "bar": 0.95
+        },
+        {
+          "label": "Kredite",
+          "value": "-4.2 Mio",
+          "bar": 0.85
+        },
+        {
+          "label": "Kontrolle",
+          "value": "0 %",
+          "bar": 0.05
+        }
+      ],
+      "character": "Anthropomorphic dragonfruit man, vibrant magenta spiked skin, expensive tailored charcoal three-piece suit, diamond cufflinks; glowing golden 14.000 € on forehead.",
+      "visual": "High-tech penthouse boardroom with floor-to-ceiling glass windows overlooking Munich, wide shot, dragonfruit CEO standing paralyzed as strawberry intern drops legal documents, tiny golden coin inside water carafe.",
+      "scenes": [
+        "Sleek skyscraper boardroom with panoramic mountain view, wide shot, fruit board members in dark suits sitting around oval glass table, tiny golden coin on projector remote.",
+        "Boardroom table head, medium two-shot, Dennis the dragonfruit man with glowing 14.000 € forehead leaning over table staring in rage at Ben, tiny golden coin next to laptop keyboard.",
+        "Glass boardroom table, extreme close-up, original notarized share certificate bearing family wax stamp, tiny golden coin holding down document corner.",
+        "Conference table side, medium shot, Finn the broccoli architect smiling knowingly while observing Dennis fall apart, tiny golden coin resting on Finn's blueprint tube.",
+        "Dennis's forehead, close-up, glowing golden digits short-circuiting, plunging down to 2.500 € with warning red flashes, tiny golden coin reflected in his wide horrified eye.",
+        "Boardroom double doors, wide shot, Dennis gripping the table edge as Ben points calmly to the signature block, boardroom members whispering, tiny golden coin on door sill."
+      ],
+      "caption": "Er hielt sich für den unantastbaren Tech-Boss – bis der Praktikant mit den echten Eigentumsurkunden kam! Wie hättest du reagiert? #stirnzahl #startup #übernahme #schachmatt #level7"
+    },
+    {
+      "n": 8,
+      "open_loop": "Wie reagiert der Freundeskreis, als Julian sein wahres Vermögen enthüllt und wer er wirklich ist?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Versucht Julian ein letztes Mal wegen seines bescheidenen Bibliotheksgehalts von oben herab zu demütigen."
+      },
+      "name": "Julian, 38, Bibliothekar",
+      "badge": "1.800 € netto",
+      "verdict": "DER MEISTER",
+      "story": "Die 8 Level von verdecktem Reichtum. Level 8. Auf Bens Übernahme-Vollmacht stand mein eigener Taufname. Ich bin Julian, 38, Bibliothekar im Stadtarchiv. Auf meiner Stirn leuchten bescheidene 1.800 Euro. Täglich fahre ich mit der U-Bahn und trinke schwarzen Filterkaffee. Niemand im Freundeskreis ahnte je mein wahres Erbe. Laura stürmt weinend in mein Archiv, gefolgt vom fassungslosen Dennis. Sie knallt ihre Designer-Tasche auf das alte Eichenpult und schreit hysterisch: Mit 1.800 Euro hast du über niemanden zu richten! Ich blicke ruhig über meine Lesebrille. Mein Urgroßvater baute diese Viertel auf, mein Vater kaufte die Firmen. Ich brauche keine goldene Prahlerei auf der Stirn, um zu wissen, wer ich bin. Ben und Mia treten lächelnd durch die Tür und nicken mir respektvoll zu. Mia sagt sanft: Die Zahl lügt nie. Ich drücke einen winzigen Knopf an meiner Taschenuhr. Meine Digitalanzeige springt mit einem leisen Summen auf unendliche Millionen um. Dennis sinkt auf einen Holzstuhl, Laura verliert den Halt. Du hast uns die ganze Zeit nur getestet? Wahrer Reichtum schweigt, während Arroganz laut brüllt. Welches Thema sollen wir als Nächstes aufdecken? Schreib es in die Kommentare!",
+      "gender": "m",
+      "twist": {
+        "delta": "+118.200 €",
+        "after": "120.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von verdecktem Reichtum. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Auf Bens Übernahme-Vollmacht stand mein eigener Taufname. Ich bin Julian, 38, Bibliothekar im Stadtarchiv. Auf meiner Stirn leuchten bescheidene 1.800 Euro. Täglich fahre ich mit der U-Bahn und trinke schwarzen Filterkaffee. Niemand im Freundeskreis ahnte je mein wahres Erbe."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Laura stürmt weinend in mein Archiv, gefolgt vom fassungslosen Dennis. Sie knallt ihre Designer-Tasche auf das alte Eichenpult und schreit hysterisch: Mit 1.800 Euro hast du über niemanden zu richten!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich blicke ruhig über meine Lesebrille. Mein Urgroßvater baute diese Viertel auf, mein Vater kaufte die Firmen. Ich brauche keine goldene Prahlerei auf der Stirn, um zu wissen, wer ich bin."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Ben und Mia treten lächelnd durch die Tür und nicken mir respektvoll zu. Mia sagt sanft: Die Zahl lügt nie.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich drücke einen winzigen Knopf an meiner Taschenuhr. Meine Digitalanzeige springt mit einem leisen Summen auf unendliche Millionen um. Dennis sinkt auf einen Holzstuhl, Laura verliert den Halt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast uns die ganze Zeit nur getestet?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Wahrer Reichtum schweigt, während Arroganz laut brüllt. Welches Thema sollen wir als Nächstes aufdecken? Schreib es in die Kommentare!"
+        }
+      ],
+      "quote": "Mit 1.800 Euro hast du über niemanden zu richten!",
+      "quote_by": {
+        "level": 6,
+        "name": "Laura",
+        "badge": "3.500 €",
+        "character": "Anthropomorphic grape bunch woman, disheveled violet skin, running mascara, ruined designer coat, flickering 3.500 € forehead display.",
+        "scene": "Dim vaulted city library archive, medium shot, tearful grape woman screaming frantically across wooden library desk at calm librarian, flickering 3.500 € display."
+      },
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "1.800 €",
+          "bar": 0.18
+        },
+        {
+          "label": "Besitz",
+          "value": "Stadtpatron",
+          "bar": 1.0
+        },
+        {
+          "label": "Ertrag",
+          "value": "120.000 €",
+          "bar": 1.0
+        }
+      ],
+      "character": "Anthropomorphic coconut middle-aged gentleman, brown fibrous textured husk face, neat round spectacles, timeless charcoal tweed three-piece suit; glowing soft 1.800 € on forehead.",
+      "visual": "Majestic vaulted city library archive lined with millions of ancient leather books, wide shot, coconut patriarch standing calmly behind oak desk as all friends assemble in awe, tiny golden coin atop a book ladder step.",
+      "scenes": [
+        "Grand neo-gothic municipal library hall, wide shot, towering archways with shafts of golden afternoon light, Julian carrying a leather book stack, tiny golden coin resting in decorative stone carving.",
+        "Private archive reading desk, medium two-shot, hysterical Laura the grape woman and pale Dennis the dragonfruit man bursting into Julian's study, tiny golden coin near ink blotter.",
+        "Julian's wooden desk, close-up, antique brass pocket watch being clicked open by coconut fingers, revealing miniature master digital controller, tiny golden coin on pocket watch chain.",
+        "Archive doorway, medium shot, Ben the strawberry young man and Mia the lemon waitress standing together smiling warmly, tiny golden coin on brass door hinge.",
+        "Julian's face, extreme close-up, soft 1.800 € display suddenly dissolving into brilliant platinum 120.000 € monthly yield, eyes filled with tranquil authority, tiny golden coin in spectacle rim reflection.",
+        "Archive central rotunda, grand wide shot, Laura collapsing onto a wooden bench in shock while Dennis stands speechless and Julian quietly closes the master ledger of the city, tiny golden coin glinting in the center of the parquet floor mosaic."
+      ],
+      "caption": "Der unscheinbare Bibliothekar besaß heimlich die gesamte Stadt – wahrer Reichtum prahlt niemals! Welches Thema wollen wir als Nächstes aufdecken? Schreib deinen Wunsch in die Kommentare! #stirnzahl #geheimerbe #finale #wahrerwert #level8"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das verdeckte Erbe und wer im Freundeskreis heimlich ausgesorgt hat",
+  "frame": "frucht"
+}
