@@ -1,0 +1,890 @@
+{
+  "title": "Die 8 Level vom Ghosting",
+  "house": "A bustling metropolis of produce people, featuring neon-lit tram lines, overcrowded subway platforms, rainy asphalt streets, and busy corner kiosks.",
+  "catchphrase": "Die Stirn-Zahl lügt nie.",
+  "links": [
+    "Barista in Level 2 mentions the quiet man in a suit who always leaves a huge tip (Level 8).",
+    "The broken bench at the bus stop in Level 4 is where Level 1 gets ghosted.",
+    "The neon kiosk from Level 5 sells the exact chewing gum that Level 3 drops during her breakdown."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was hatte diese eine Sprachnachricht von vor drei Jahren zu bedeuten?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Ignoriert die Nachrichten seit drei Jahren und lacht im Bus über den alten Beziehungsstatus."
+      },
+      "name": "Marie, 24, Studentin",
+      "badge": "0 Freunde",
+      "verdict": "WEG",
+      "story": "Die 8 Level vom Ghosting. Level 1. Level 1: 0 Freunde und plötzlich ist die WhatsApp-Liste leer. Ich stehe hier in der überfüllten Berliner U-Bahn, draußen regnet es in Strömen, und auf meiner Stirn leuchtet eine fette Null. Seit exakt 1.000 Tagen keine Nachricht mehr von meiner besten Freundin Mia, der Erdbeere. Einfach so abgetaucht. Blockiert. Weg. Ich starre auf mein Smartphone, wo nur noch alte Sprachnachrichten schlummern. Du wunderst dich wohl, warum niemand mehr deinen Kram liest? Die Stirn-Zahl lügt nie, Marie. Du warst mir eben zu anstrengend mit deinen ewigen Problemen. Es trifft mich wie ein Faustschlag ins Gesicht. Ich schlucke die Tränen runter und flüstere: Wir waren seit der Grundschule unzertrennlich. Sie dreht sich um, steigt an der Haltestelle Alexanderplatz aus und lässt mich im Gang stehen. Mein Herz zieht sich zusammen, als mein Akku auf fünf Prozent springt und der Bildschirm schwarz wird. Plötzlich flimmert die Anzeige auf meiner Stirn und wechselt die Farbe von grellrot zu tiefem Blau. Was hatte diese eine Sprachnachricht von vor drei Jahren zu bedeuten? Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "-1 Freund",
+        "after": "-1"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Ghosting. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 0 Freunde und plötzlich ist die WhatsApp-Liste leer."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe hier in der überfüllten Berliner U-Bahn, draußen regnet es in Strömen, und auf meiner Stirn leuchtet eine fette Null."
+        },
+        {
+          "s": "Figur",
+          "t": "Seit exakt 1.000 Tagen keine Nachricht mehr von meiner besten Freundin Mia, der Erdbeere."
+        },
+        {
+          "s": "Figur",
+          "t": "Einfach so abgetaucht. Blockiert. Weg."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich starre auf mein Smartphone, wo nur noch alte Sprachnachrichten schlummern."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du wunderst dich wohl, warum niemand mehr deinen Kram liest?",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die Stirn-Zahl lügt nie, Marie. Du warst mir eben zu anstrengend mit deinen ewigen Problemen.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Es trifft mich wie ein Faustschlag ins Gesicht."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schlucke die Tränen runter und flüstere: Wir waren seit der Grundschule unzertrennlich."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sie dreht sich um, steigt an der Haltestelle Alexanderplatz aus und lässt mich im Gang stehen.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Herz zieht sich zusammen, als mein Akku auf fünf Prozent springt und der Bildschirm schwarz wird."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich flimmert die Anzeige auf meiner Stirn und wechselt die Farbe von grellrot zu tiefem Blau."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was hatte diese eine Sprachnachricht von vor drei Jahren zu bedeuten?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Die Stirn-Zahl lügt nie, Marie.",
+      "quote_by": {
+        "level": 3,
+        "name": "Sina",
+        "badge": "3 Kontakte",
+        "character": "A bitter yellow lemon person with sharp edges, wearing a dark trench coat and holding a cracked smartphone.",
+        "scene": "Close-up shot in a moving subway car, looking down with a cold smirk and pointing at her glowing forehead."
+      },
+      "stats": [
+        {
+          "label": "Freunde",
+          "value": "0",
+          "bar": 0.01
+        },
+        {
+          "label": "Nachrichten",
+          "value": "1.000 Tage",
+          "bar": 0.1
+        },
+        {
+          "label": "Vertrauen",
+          "value": "2%",
+          "bar": 0.02
+        }
+      ],
+      "character": "A melancholic avocado person with pale green skin, wearing a worn-out gray hoodie and holding an old, scratched smartphone; a glowing digital display on her forehead reads 0 Freunde.",
+      "visual": "Wide shot of a crowded Berlin subway train interior during heavy rain, other produce commuters ignoring the sad avocado standing alone by the sliding doors.",
+      "scenes": [
+        "Wide shot of a crowded Berlin subway train interior during heavy rain, other produce commuters ignoring the sad avocado standing alone by the sliding doors.",
+        "Medium shot of Marie staring at her dark smartphone screen with a tiny golden coin hidden on the metal handrail.",
+        "Close-up of the bright red digital numbers on Marie's forehead casting a dim glow in the dark carriage.",
+        "Halbnah shot of the lemon antagonist pointing scornfully at Marie while stepping toward the closing doors at Alexanderplatz.",
+        "Detail shot of a small, hidden golden coin resting on the wet rubber floor beneath the train seats.",
+        "Wide shot of the rainy station platform as the subway train pulls away into the dark tunnel."
+      ],
+      "caption": "Wer wurde schon mal von der besten Freundin ghosted? #ghosting #freunde #drama #level1 #storytime"
+    },
+    {
+      "n": 2,
+      "open_loop": "Wer hat die geheimnisvolle SMS von der unbekannten Nummer geschickt?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Löscht Marie absichtlich aus der gemeinsamen Geburtstagsgruppe."
+      },
+      "name": "Tom, 26, Barista",
+      "badge": "2 Antworten",
+      "verdict": "KNAPP",
+      "story": "Die 8 Level vom Ghosting. Level 2. Level 2: 2 Antworten auf meine Jobbewerbung – und beide Absagen direkt am Morgen. Ich stehe hinter der Espressomaschine in meinem Stammcafé in Prenzlauer Berg, der Duft von gerösteten Bohnen liegt in der Luft. Auf meiner Stirn leuchtet eine enttäuschende 2. Genau zwei Menschen haben mir im letzten Monat auf meine Hilferufe geantwortet. Mit so einer Zahl brauchst du hier gar nicht erst nach Trinkgeld fragen, Tom. Du bist für uns Luft. Ich wische den Milchschaum ab und antworte kühl: Ich arbeite mir hier wenigstens die Hände wund, während du nur von Papas Geld lebst. Sie verdreht die Augen, schnappt sich ihren Flat White und wirft mir einen Schein hin, der sofort auf dem nassen Boden landet. In diesem Moment vibriert mein Handy auf der Theke. Eine unbekannte Nummer schreibt: Ich weiß, warum sie dich damals alle hat fallen lassen. Mein Atem stockt, als die Ziffern auf meiner Stirn plötzlich von 2 auf 3 springen. Wer hat die geheimnisvolle SMS von der unbekannten Nummer geschickt? Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1 Antwort",
+        "after": "3 Antwort"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Ghosting. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 2 Antworten auf meine Jobbewerbung – und beide Absagen direkt am Morgen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe hinter der Espressomaschine in meinem Stammcafé in Prenzlauer Berg, der Duft von gerösteten Bohnen liegt in der Luft."
+        },
+        {
+          "s": "Figur",
+          "t": "Auf meiner Stirn leuchtet eine enttäuschende 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Genau zwei Menschen haben mir im letzten Monat auf meine Hilferufe geantwortet."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit so einer Zahl brauchst du hier gar nicht erst nach Trinkgeld fragen, Tom.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du bist für uns Luft.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich wische den Milchschaum ab und antworte kühl: Ich arbeite mir hier wenigstens die Hände wund, während du nur von Papas Geld lebst."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sie verdreht die Augen, schnappt sich ihren Flat White und wirft mir einen Schein hin, der sofort auf dem nassen Boden landet.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Moment vibriert mein Handy auf der Theke."
+        },
+        {
+          "s": "Figur",
+          "t": "Eine unbekannte Nummer schreibt: Ich weiß, warum sie dich damals alle hat fallen lassen."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Atem stockt, als die Ziffern auf meiner Stirn plötzlich von 2 auf 3 springen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hat die geheimnisvolle SMS von der unbekannten Nummer geschickt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Mit so einer Zahl brauchst du hier gar nicht erst nach Trinkgeld fragen, Tom.",
+      "quote_by": {
+        "level": 4,
+        "name": "Kim",
+        "badge": "4 Kontakte",
+        "character": "A vibrant dragonfruit person with pink-and-green scale texture, wearing a sharp white blazer and gold hoop earrings.",
+        "scene": "Medium shot across a marble coffee counter, leaning forward with an arrogant smile and dropping coins disdainfully."
+      },
+      "stats": [
+        {
+          "label": "Antworten",
+          "value": "2",
+          "bar": 0.2
+        },
+        {
+          "label": "Trinkgeld",
+          "value": "1,50 €",
+          "bar": 0.15
+        },
+        {
+          "label": "Kaffee",
+          "value": "140 Tassen",
+          "bar": 0.5
+        }
+      ],
+      "character": "An energetic orange person with textured citrus skin, wearing a stained black barista apron and a silver earring; glowing digital display reads 2 Antworten.",
+      "visual": "Medium shot inside a bustling hipster café in Berlin, steam rising from an industrial espresso machine, soft warm interior lighting.",
+      "scenes": [
+        "Medium shot inside a bustling hipster café in Berlin, steam rising from an industrial espresso machine, soft warm interior lighting.",
+        "Close-up of Tom wiping the espresso counter where a tiny golden coin is tucked near the sugar shaker.",
+        "Halbnah shot of the dragonfruit customer in her white blazer sneering at Tom across the bar.",
+        "Detail shot of Tom's glowing forehead number ticking up from 2 to 3.",
+        "Wide shot of the café seating area with other produce guests talking in small groups.",
+        "Close-up of Tom's glowing phone screen displaying the mysterious text message."
+      ],
+      "caption": "Wer kennt diese kalten Absagen im Job? #kaffee #berlin #ghosting #level2 #storytime"
+    },
+    {
+      "n": 3,
+      "open_loop": "Was stand in dem handgeschriebenen Brief, den sie im Müll fand?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Klopft ihr spöttisch auf die Schulter und behauptet, niemand würde sie vermissen."
+      },
+      "name": "Sina, 25, Floristin",
+      "badge": "3 Kontakte",
+      "verdict": "ALLEIN",
+      "story": "Die 8 Level vom Ghosting. Level 3. Level 3: 3 Kontakte im Telefonbuch und alle blockieren mich sofort. Ich sitze in der kalten Hinterhof-WG in Kreuzberg, umgeben von verwelkten Rosen und billigem Instant-Kaffee. Auf meiner Stirn leuchtet eine kalte 3. Genau drei Menschen hatten geschworen, für immer an meiner Seite zu bleiben – bis gestern Abend. Hör auf, jedem mit deinen Heulanfällen auf die Nerven zu gehen! Die Stirn-Zahl lügt nie, Sina. Niemand will eine verbitterte Heulsuse in seinem Leben haben. Ich zittere am ganzen Körper, drücke meine Dornen in die Tischkante und kontere: Du hast mich damals eiskalt im Regen stehen lassen, nur weil ich pleite war! Sie lacht hämisch, knallt die Wohnungstür zu und lässt mich in den Scherben zurück. Tränen brennen in meinen Augen, als ich unter dem Schrank einen alten, vergilbten Umschlag entdecke. Mein Puls rast. Was stand in dem handgeschriebenen Brief, den sie im Müll fand? Das siehst du in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "-2 Kontakt",
+        "after": "1 Kontakt"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Ghosting. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 3 Kontakte im Telefonbuch und alle blockieren mich sofort."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze in der kalten Hinterhof-WG in Kreuzberg, umgeben von verwelkten Rosen und billigem Instant-Kaffee."
+        },
+        {
+          "s": "Figur",
+          "t": "Auf meiner Stirn leuchtet eine kalte 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Genau drei Menschen hatten geschworen, für immer an meiner Seite zu bleiben – bis gestern Abend."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Hör auf, jedem mit deinen Heulanfällen auf die Nerven zu gehen!",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die Stirn-Zahl lügt nie, Sina. Niemand will eine verbitterte Heulsuse in seinem Leben haben.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich zittere am ganzen Körper, drücke meine Dornen in die Tischkante und kontere: Du hast mich damals eiskalt im Regen stehen lassen, nur weil ich pleite war!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sie lacht hämisch, knallt die Wohnungstür zu und lässt mich in den Scherben zurück.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Tränen brennen in meinen Augen, als ich unter dem Schrank einen alten, vergilbten Umschlag entdecke."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Puls rast."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was stand in dem handgeschriebenen Brief, den sie im Müll fand?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Die Stirn-Zahl lügt nie, Sina.",
+      "quote_by": {
+        "level": 5,
+        "name": "Ben",
+        "badge": "5 Freunde",
+        "character": "A tough coconut person with a hard, brown hairy shell, wearing a heavy leather biker jacket and heavy boots.",
+        "scene": "Wide shot in a cluttered shared kitchen, pointing aggressively down at Sina while stepping over broken ceramic pieces."
+      },
+      "stats": [
+        {
+          "label": "Kontakte",
+          "value": "3",
+          "bar": 0.3
+        },
+        {
+          "label": "Rosen",
+          "value": "12 Stängel",
+          "bar": 0.25
+        },
+        {
+          "label": "Vertrauen",
+          "value": "5%",
+          "bar": 0.05
+        }
+      ],
+      "character": "A sour lemon person with bright yellow textured skin and jagged edges, wearing a dark green cardigan and silver rings; glowing digital display reads 3 Kontakte.",
+      "visual": "Wide shot of a messy Berlin shared kitchen with dirty dishes in the sink, dim ceiling light casting long shadows across the linoleum floor.",
+      "scenes": [
+        "Wide shot of a messy Berlin shared kitchen with dirty dishes in the sink, dim ceiling light casting long shadows across the linoleum floor.",
+        "Close-up of Sina's hands clutching a broken ceramic mug next to a hidden golden coin on the counter.",
+        "Halbnah shot of the coconut antagonist looming over Sina in the narrow kitchen doorway.",
+        "Detail shot of the bright yellow digital number 3 glowing intensely on Sina's forehead.",
+        "Wide shot of the gloomy hallway as the front door slams shut with a loud echo.",
+        "Close-up of the mysterious yellowed envelope lying on the dusty floorboards."
+      ],
+      "caption": "Wenn die besten Freunde plötzlich alle Kontakte löschen. #freundschaft #ghosting #level3 #storytime"
+    },
+    {
+      "n": 4,
+      "open_loop": "Welches dunkle Geheimnis stand in den Akten auf dem Tisch?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Nimmt ihr den Arbeitsvertrag weg und lacht sie vor dem gesamten Team aus."
+      },
+      "name": "Kim, 27, Marketing-Assistentin",
+      "badge": "4 Kontakte",
+      "verdict": "ISOLIERT",
+      "story": "Die 8 Level vom Ghosting. Level 4. Level 4: 4 Kontakte auf meiner Notfall-Liste – und alle vier haben meine Nummer blockiert. Ich stehe im sterilen Glasbüro am Potsdamer Platz, draußen zieht grauer Nebel über die Hochhäuser. Auf meiner Stirn leuchtet eine eiskalte 4. Genau vier Personen aus meinem alten Freundeskreis haben mich exkommuniziert, nachdem ich Karriere gemacht habe. Mit nur vier Kontakten wirst du in dieser Agentur keinen Tag überleben, Kim. Du bist eine tickende Zeitbombe. Ich atme tief ein, straffe meine rosa Schuppen und kontere: Ich habe mich nach oben gekämpft, während ihr alle auf Papas Tasche faulenzt! Sie schnaubt verächtlich, wirft die Mappe auf den Boden und ruft laut durch den Flur: Niemand braucht hier Verräter! Meine Knie werden weich, als ich auf dem Deckblatt der verstreuten Akten einen Namen lese, den ich nie wieder sehen wollte. Welches dunkle Geheimnis stand in den Akten auf dem Tisch? Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "-3 Kontakt",
+        "after": "1 Kontakt"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Ghosting. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 4 Kontakte auf meiner Notfall-Liste – und alle vier haben meine Nummer blockiert."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im sterilen Glasbüro am Potsdamer Platz, draußen zieht grauer Nebel über die Hochhäuser."
+        },
+        {
+          "s": "Figur",
+          "t": "Auf meiner Stirn leuchtet eine eiskalte 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Genau vier Personen aus meinem alten Freundeskreis haben mich exkommuniziert, nachdem ich Karriere gemacht habe."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit nur vier Kontakten wirst du in dieser Agentur keinen Tag überleben, Kim.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du bist eine tickende Zeitbombe.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich atme tief ein, straffe meine rosa Schuppen und kontere: Ich habe mich nach oben gekämpft, während ihr alle auf Papas Tasche faulenzt!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sie schnaubt verächtlich, wirft die Mappe auf den Boden und ruft laut durch den Flur: Niemand braucht hier Verräter!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Knie werden weich, als ich auf dem Deckblatt der verstreuten Akten einen Namen lese, den ich nie wieder sehen wollte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches dunkle Geheimnis stand in den Akten auf dem Tisch?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Mit nur vier Kontakten wirst du in dieser Agentur keinen Tag überleben, Kim.",
+      "quote_by": {
+        "level": 6,
+        "name": "Nadine",
+        "badge": "6 Freunde",
+        "character": "An elegant broccoli person with a rich green tree-like head, wearing a tailored navy blue designer suit and pearl earrings.",
+        "scene": "Medium shot inside a modern glass office, sneering down at papers scattered across the glossy white desk."
+      },
+      "stats": [
+        {
+          "label": "Kontakte",
+          "value": "4",
+          "bar": 0.4
+        },
+        {
+          "label": "Projekte",
+          "value": "12",
+          "bar": 0.6
+        },
+        {
+          "label": "Status",
+          "value": "Elite",
+          "bar": 0.5
+        }
+      ],
+      "character": "A vibrant dragonfruit person with pink-and-green scale texture, wearing a sharp white blazer and gold hoop earrings; glowing digital display reads 4 Kontakte.",
+      "visual": "Wide shot of a sleek corporate glass-front office in Berlin overlooking a misty skyline at dusk.",
+      "scenes": [
+        "Wide shot of a sleek corporate glass-front office in Berlin overlooking a misty skyline at dusk.",
+        "Close-up of Kim's hand gripping a golden pen next to a hidden golden coin on the glass desk.",
+        "Halbnah shot of the broccoli colleague in her navy suit ripping a folder from Kim's hands.",
+        "Detail shot of the glowing neon number 4 on Kim's forehead reflecting in the glass window.",
+        "Wide shot of the open-plan office where other employees turn their heads in silence.",
+        "Close-up of the confidential file folder dropped on the carpet floor."
+      ],
+      "caption": "Wenn der Erfolg im Job plötzlich alle wahren Freunde vertreibt. #karriere #ghosting #level4 #storytime"
+    },
+    {
+      "n": 5,
+      "open_loop": "Wer hat die Akten aus dem Tresor gestohlen?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Beschuldigt Ben öffentlich des Diebstahls vor versammelter Mannschaft."
+      },
+      "name": "Ben, 29, Kfz-Mechatroniker",
+      "badge": "5 Freunde",
+      "verdict": "VERDÄCHTIG",
+      "story": "Die 8 Level vom Ghosting. Level 5. Level 5: 5 Freunde blieben mir nach dem großen Betrug, und jetzt steht die Polizei in meiner Werkstatt. Ich stehe im Neonlicht meiner Garage in Neukölln, umgeben von Motorenteilen und alten Reifen. Auf meiner Stirn leuchtet eine fette 5. Genau fünf Leute wussten von meinem Alibi in der Nacht des Einbruchs. Such gar nicht erst nach Ausreden, Ben! Die Stirn-Zahl lügt nie, du hast die Akten selbst vertröstet und alle reingelegt. Ich wische mir das Motorenöl von der Stirn und fauche: Ich habe mir hier die Handschuhe wundgeschrubbt, während du Millionengeschäfte drehst! Sie lacht arrogant, spuckt auf den Betonboden und zischt: Wir werden sehen, wer morgen noch lacht, du kleiner Versager. Die Werkstatttür knallt ins Schloss. Ich greife nach meinem Werkzeugkasten, als mir ein geöffneter USB-Stick mit rotem Aufkleber entgegenfällt. Wer hat die Akten aus dem Tresor gestohlen? Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "-4 Freunde",
+        "after": "1 Freund"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Ghosting. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 5 Freunde blieben mir nach dem großen Betrug, und jetzt steht die Polizei in meiner Werkstatt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im Neonlicht meiner Garage in Neukölln, umgeben von Motorenteilen und alten Reifen."
+        },
+        {
+          "s": "Figur",
+          "t": "Auf meiner Stirn leuchtet eine fette 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Genau fünf Leute wussten von meinem Alibi in der Nacht des Einbruchs."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Such gar nicht erst nach Ausreden, Ben!",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die Stirn-Zahl lügt nie, du hast die Akten selbst vertröstet und alle reingelegt.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich wische mir das Motorenöl von der Stirn und fauche: Ich habe mir hier die Handschuhe wundgeschrubbt, während du Millionengeschäfte drehst!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sie lacht arrogant, spuckt auf den Betonboden und zischt: Wir werden sehen, wer morgen noch lacht, du kleiner Versager.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Werkstatttür knallt ins Schloss."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich greife nach meinem Werkzeugkasten, als mir ein geöffneter USB-Stick mit rotem Aufkleber entgegenfällt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hat die Akten aus dem Tresor gestohlen?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Die Stirn-Zahl lügt nie, du hast die Akten selbst vertröstet und alle reingelegt.",
+      "quote_by": {
+        "level": 7,
+        "name": "Sophie",
+        "badge": "7 Kontakte",
+        "character": "A radiant pineapple person with spiky golden leaves and a designer tracksuit, wearing expensive sunglasses indoors.",
+        "scene": "Medium shot in a greasy auto workshop, pointing a manicured finger accusingly at Ben near an engine hoist."
+      },
+      "stats": [
+        {
+          "label": "Freunde",
+          "value": "5",
+          "bar": 0.5
+        },
+        {
+          "label": "Motoren",
+          "value": "42",
+          "bar": 0.7
+        },
+        {
+          "label": "Vertrauen",
+          "value": "15%",
+          "bar": 0.15
+        }
+      ],
+      "character": "A tough coconut person with a rough brown hairy shell, wearing a heavy leather biker jacket and grease-stained jeans; glowing digital display reads 5 Freunde.",
+      "visual": "Wide shot of a greasy auto repair workshop in Berlin-Neukölln under harsh fluorescent neon strip lights, spare tires stacked against brick walls.",
+      "scenes": [
+        "Wide shot of a greasy auto repair workshop in Berlin-Neukölln under harsh fluorescent neon strip lights, spare tires stacked against brick walls.",
+        "Close-up of Ben's grease-covered hands holding a wrench with a tiny golden coin resting on the workbench.",
+        "Halbnah shot of the pineapple antagonist in her gold tracksuit sneering at Ben amidst engine parts.",
+        "Detail shot of the bright yellow digital number 5 glowing on Ben's hairy forehead.",
+        "Wide shot of the garage entrance as police flashing blue lights reflect through the dusty windows.",
+        "Close-up of the red-labeled USB stick lying among metal shavings."
+      ],
+      "caption": "Falsche Anschuldigungen von Freunden tun am meisten weh. #werkstatt #ghosting #level5 #storytime"
+    },
+    {
+      "n": 6,
+      "open_loop": "Was stand in der vertraulichen Überweisung auf dem Monitor?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Sperrt Nadines Zugangskarte und lächelt sie beim Verlassen des Büros kalt an."
+      },
+      "name": "Nadine, 31, Projektleiterin",
+      "badge": "6 Freunde",
+      "verdict": "ERFOLGREICH",
+      "story": "Die 8 Level vom Ghosting. Level 6. Level 6: 6 treue Freunde dachte ich zu haben, bis mein Konto heute Morgen komplett eingefroren wurde. Ich stehe in der gläsernen Penthouse-Etage am Alexanderplatz, die Skyline liegt wie auf einem Teller unter mir. Auf meiner Stirn leuchtet eine stolze 6. Genau sechs Personen schienen hinter mir zu stehen, bis ein eleganter Mann im maßgeschneiderten Anzug das Büro betritt, die Hände in den Taschen. Mit sechs Freunden kommst du in dieser Liga nicht weit, Nadine. Du bist ersetzbar. Ich trete einen Schritt vor, schüttle meine grünen Brokkoli-Locken und entgegne: Ich habe dieses Unternehmen aufgebaut, während du nur Verträge gefälscht hast! Er lächelt herablassend, drückt auf die Alarmanlage und flüstert: Deine Zeit ist abgelaufen. Der Aufzug fährt mit einem leisen Ping nach unten. Mein Blick fällt auf den großen Flachbildschirm, wo eine Echtzeit-Überweisung über eine Million Euro auf einen fremden Namen blinkt. Was stand in der vertraulichen Überweisung auf dem Monitor? Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "-5 Freunde",
+        "after": "1 Freund"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Ghosting. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 6 treue Freunde dachte ich zu haben, bis mein Konto heute Morgen komplett eingefroren wurde."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe in der gläsernen Penthouse-Etage am Alexanderplatz, die Skyline liegt wie auf einem Teller unter mir."
+        },
+        {
+          "s": "Figur",
+          "t": "Auf meiner Stirn leuchtet eine stolze 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Genau sechs Personen schienen hinter mir zu stehen, bis ein eleganter Mann im maßgeschneiderten Anzug das Büro betritt, die Hände in den Taschen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit sechs Freunden kommst du in dieser Liga nicht weit, Nadine.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du bist ersetzbar.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich trete einen Schritt vor, schüttle meine grünen Brokkoli-Locken und entgegne: Ich habe dieses Unternehmen aufgebaut, während du nur Verträge gefälscht hast!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Er lächelt herablassend, drückt auf die Alarmanlage und flüstert: Deine Zeit ist abgelaufen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Der Aufzug fährt mit einem leisen Ping nach unten."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Blick fällt auf den großen Flachbildschirm, wo eine Echtzeit-Überweisung über eine Million Euro auf einen fremden Namen blinkt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was stand in der vertraulichen Überweisung auf dem Monitor?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Mit sechs Freunden kommst du in dieser Liga nicht weit, Nadine.",
+      "quote_by": {
+        "level": 8,
+        "name": "Viktor",
+        "badge": "8 Freunde",
+        "character": "A sophisticated melon person with smooth green rind, wearing an expensive tailored Italian suit and gold cufflinks.",
+        "scene": "Medium shot in a luxurious penthouse office, speaking down with absolute authority while holding a gold-plated keycard."
+      },
+      "stats": [
+        {
+          "label": "Freunde",
+          "value": "6",
+          "bar": 0.6
+        },
+        {
+          "label": "Projekte",
+          "value": "84",
+          "bar": 0.8
+        },
+        {
+          "label": "Kontostand",
+          "value": "0 €",
+          "bar": 0.05
+        }
+      ],
+      "character": "An elegant broccoli person with a rich green tree-like head, wearing a tailored navy blue designer suit and pearl earrings; glowing digital display reads 6 Freunde.",
+      "visual": "Wide shot of a luxury penthouse boardroom in Berlin overlooking the illuminated TV tower at night.",
+      "scenes": [
+        "Wide shot of a luxury penthouse boardroom in Berlin overlooking the illuminated TV tower at night.",
+        "Close-up of Nadine's manicured fingers touching a glass table where a tiny golden coin reflects the city lights.",
+        "Halbnah shot of the suited male antagonist walking toward the glass elevator doors.",
+        "Detail shot of the bright yellow digital number 6 shining on Nadine's forehead.",
+        "Wide shot of the empty glass corridor as the elevator doors slide shut.",
+        "Close-up of the computer monitor displaying the suspicious million-euro bank transfer."
+      ],
+      "caption": "Wenn der Partner im Business plötzlich alles stiehlt. #business #ghosting #level6 #storytime"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welche Wahrheit verbarg sich in dem Safe hinter dem Wandbild?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Lacht Sophie aus und wirft ihr vor, trotz Reichtum einsam zu sein."
+      },
+      "name": "Sophie, 33, Investorin",
+      "badge": "7 Kontakte",
+      "verdict": "MÄCHTIG",
+      "story": "Die 8 Level vom Ghosting. Level 7. Level 7: 7 Kontakte auf meiner VIP-Liste, und jeder einzelne will nur mein Geld. Ich stehe in meiner Designer-Villa in Grunewald, umgeben von teurer Kunst und Marmorsäulen. Auf meiner Stirn leuchtet eine strahlende 7. Genau sieben Personen durften jemals meinen inneren Kreis betreten – bis heute Nachmittag. Was nützen dir sieben Kontakte, Sophie, wenn du innerlich komplett leer bist? Die Stirn-Zahl lügt nie, du hast uns alle für deinen Erfolg verraten! Ich richte meine goldenen Ananas-Blätter auf und zische: Ich habe mir alles selbst aufgebaut, während ihr nur gejammert habt! Sie dreht sich um, schlägt die Haustür zu und lässt mich in der riesigen Stille zurück. Mein Blick fällt auf das schwere Ölgemälde an der Wand, das langsam zur Seite gleitet und einen offenen Tresor freigibt. Welche Wahrheit verbarg sich in dem Safe hinter dem Wandbild? Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "-6 Kontakt",
+        "after": "1 Kontakt"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Ghosting. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 7 Kontakte auf meiner VIP-Liste, und jeder einzelne will nur mein Geld."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe in meiner Designer-Villa in Grunewald, umgeben von teurer Kunst und Marmorsäulen."
+        },
+        {
+          "s": "Figur",
+          "t": "Auf meiner Stirn leuchtet eine strahlende 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Genau sieben Personen durften jemals meinen inneren Kreis betreten – bis heute Nachmittag."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Was nützen dir sieben Kontakte, Sophie, wenn du innerlich komplett leer bist?",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die Stirn-Zahl lügt nie, du hast uns alle für deinen Erfolg verraten!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich richte meine goldenen Ananas-Blätter auf und zische: Ich habe mir alles selbst aufgebaut, während ihr nur gejammert habt!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sie dreht sich um, schlägt die Haustür zu und lässt mich in der riesigen Stille zurück.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Blick fällt auf das schwere Ölgemälde an der Wand, das langsam zur Seite gleitet und einen offenen Tresor freigibt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welche Wahrheit verbarg sich in dem Safe hinter dem Wandbild?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Die Stirn-Zahl lügt nie, du hast uns alle für deinen Erfolg verraten!",
+      "quote_by": {
+        "level": 1,
+        "name": "Marie",
+        "badge": "0 Freunde",
+        "character": "A melancholic avocado person with pale green skin, wearing a worn-out gray hoodie and holding an old smartphone.",
+        "scene": "Medium shot in a luxury marble hallway, pointing defiantly at Sophie with tears in her eyes."
+      },
+      "stats": [
+        {
+          "label": "Kontakte",
+          "value": "7",
+          "bar": 0.7
+        },
+        {
+          "label": "Immobilien",
+          "value": "5",
+          "bar": 0.85
+        },
+        {
+          "label": "Einsamkeit",
+          "value": "90%",
+          "bar": 0.9
+        }
+      ],
+      "character": "A radiant pineapple person with spiky golden leaves and a designer tracksuit, wearing expensive sunglasses indoors; glowing digital display reads 7 Kontakte.",
+      "visual": "Wide shot of a luxurious villa hallway in Berlin Grunewald with marble floors, crystal chandeliers, and grand white pillars.",
+      "scenes": [
+        "Wide shot of a luxurious villa hallway in Berlin Grunewald with marble floors, crystal chandeliers, and grand white pillars.",
+        "Close-up of Sophie's diamond rings resting on a mahogany console table next to a hidden golden coin.",
+        "Halbnah shot of Marie in her gray hoodie confronting Sophie near the grand staircase.",
+        "Detail shot of the bright yellow digital number 7 glowing proudly on Sophie's forehead.",
+        "Wide shot of the heavy oak front door slamming shut in the echoing entrance hall.",
+        "Close-up of the hidden wall safe opening automatically to reveal old documents."
+      ],
+      "caption": "Reichtum schützt vor Einsamkeit und Verrat absolut nicht. #luxus #ghosting #level7 #storytime"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches Thema sollen wir als Nächstes in 8 Leveln beleuchten?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Reicht Marie am Ende die Hand und vergibt ihr für das jahrelange Schweigen."
+      },
+      "name": "Viktor, 42, Unternehmer",
+      "badge": "8 Freunde",
+      "verdict": "LEGENDÄR",
+      "story": "Die 8 Level vom Ghosting. Level 8. Level 8: 8 wahre Freunde im Netzwerk und die Erkenntnis, dass Geld den Verrat niemals heilen kann. Ich stehe auf dem Dach unseres Firmengebäudes über den Dächern von Berlin, der Wind weht durch meine glatte Melonenhaut. Auf meiner Stirn leuchtet die ultimative 8. Genau acht Menschen haben dieses Spiel von Anfang bis Ende durchgespielt, ohne sich zu verkaufen. Da tritt eine kleine Avocado im zerrissenen Hoodie leise auf das Dach, schaut mich mit großen Augen an und flüstert: Du hattest von Anfang an Recht mit der Zahl, Viktor. Ich bereue jede Sekunde des Schweigens. Ich atme tief aus, lächle mild und sage diesen einen Satz, der alles verändert hat: Die Stirn-Zahl lügt vielleicht nie, aber sie zeigt niemals das Herz. Wir reichen uns die Hände, während im Hintergrund die Stadt im Abendlicht erstrahlt und alle Display-Zahlen auf unseren Stirnen erlöschen. Der Kreis schließt sich und die Wahrheit kommt ans Licht. Welches Thema sollen wir als Nächstes in 8 Leveln beleuchten?",
+      "gender": "m",
+      "twist": {
+        "delta": "+8 Freunde",
+        "after": "Unendlich"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Ghosting. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 8 wahre Freunde im Netzwerk und die Erkenntnis, dass Geld den Verrat niemals heilen kann."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe auf dem Dach unseres Firmengebäudes über den Dächern von Berlin, der Wind weht durch meine glatte Melonenhaut."
+        },
+        {
+          "s": "Figur",
+          "t": "Auf meiner Stirn leuchtet die ultimative 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Genau acht Menschen haben dieses Spiel von Anfang bis Ende durchgespielt, ohne sich zu verkaufen."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Da tritt eine kleine Avocado im zerrissenen Hoodie leise auf das Dach, schaut mich mit großen Augen an und flüstert: Du hattest von Anfang an Recht mit der Zahl, Viktor.",
+          "g": "w"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Ich bereue jede Sekunde des Schweigens.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich atme tief aus, lächle mild und sage diesen einen Satz, der alles verändert hat: Die Stirn-Zahl lügt vielleicht nie, aber sie zeigt niemals das Herz."
+        },
+        {
+          "s": "Figur",
+          "t": "Wir reichen uns die Hände, während im Hintergrund die Stadt im Abendlicht erstrahlt und alle Display-Zahlen auf unseren Stirnen erlöschen."
+        },
+        {
+          "s": "Figur",
+          "t": "Der Kreis schließt sich und die Wahrheit kommt ans Licht."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema sollen wir als Nächstes in 8 Leveln beleuchten?"
+        }
+      ],
+      "quote": "Die Stirn-Zahl lügt vielleicht nie, aber sie zeigt niemals das Herz.",
+      "quote_by": {
+        "level": 8,
+        "name": "Viktor",
+        "badge": "8 Freunde",
+        "character": "A sophisticated melon person with smooth green rind, wearing an expensive tailored Italian suit and gold cufflinks.",
+        "scene": "Close-up on a high rooftop overlooking Berlin at sunset, speaking warmly to Marie with a genuine smile."
+      },
+      "stats": [
+        {
+          "label": "Freunde",
+          "value": "8",
+          "bar": 1.0
+        },
+        {
+          "label": "Netzwerk",
+          "value": "Global",
+          "bar": 1.0
+        },
+        {
+          "label": "Wahrheit",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "A sophisticated melon person with smooth green rind, wearing an expensive tailored Italian suit and gold cufflinks; glowing digital display reads 8 Freunde.",
+      "visual": "Wide panoramic shot of a modern rooftop in Berlin during golden sunset hour, the city skyline glowing in warm orange light.",
+      "scenes": [
+        "Wide panoramic shot of a modern rooftop in Berlin during golden sunset hour, the city skyline glowing in warm orange light.",
+        "Close-up of Viktor's cufflink next to a final, brightly shining golden coin on the rooftop ledge.",
+        "Halbnah shot of Viktor and Marie shaking hands on the windy rooftop.",
+        "Detail shot of the digital number 8 on Viktor's forehead slowly fading out into peaceful light.",
+        "Wide shot of all characters from previous levels standing together on various balconies across the city.",
+        "Close-up of the sunset reflecting in the glass windows of Berlin as the series concludes."
+      ],
+      "caption": "Das Ende aller 8 Level vom Ghosting. Welches Thema als Nächstes? #finale #ghosting #level8 #storytime"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das erbarmungslose Ghosten nach jahrelanger bester Freundschaft",
+  "frame": "frucht"
+}

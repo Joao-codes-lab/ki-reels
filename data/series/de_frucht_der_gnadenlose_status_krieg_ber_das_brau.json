@@ -1,0 +1,703 @@
+{
+  "title": "Die 8 Level vom JGA-Budget-Krieg",
+  "house": "A vibrant, slightly chaotic metropolis inhabited by anthropomorphic fruit and vegetable people, featuring brutalist concrete subway stations, trendy pastel brunch cafés, neon-lit Spätis, and ultra-luxurious rooftop penthouses overlooking the river Spree.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Das Café Zuckerschote am Marktplatz dient als inoffizielles Krisen-Hauptquartier der Brautjungfern.",
+    "Der pinkfarbene Hummer-Limousinen-Service von Kioskbesitzer Mehmet taucht in mehreren Eskalationen auf.",
+    "Eine mysteriöse Luxus-Finca auf Ibiza mit goldenem Pool geistert durch alle Chat-Screens.",
+    "Der Designer-Schleier aus Seide wechselt heimlich mehrfach den Besitzer zwischen den Figuren."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was war auf dem zerrissenen Überweisungsbeleg zu sehen, den Tamara triumphierend vor allen Gästen in den Prosecco warf?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Demütigt Sarah vor der gesamten Braut-Gruppe im Café und wirft ihre 50-Euro-Bargeld-Beteiligung höhnisch in ein Sektglas."
+      },
+      "name": "Sarah, 22, Studentin & Brautjungfer",
+      "badge": "650 € netto",
+      "verdict": "SCHMAROTZERIN",
+      "story": "Die 8 Level vom JGA-Budget-Krieg. Level 1. 650 Euro Bafög im Monat – und Tamara verlangt Ibiza. Beim Brunch im Café Zuckerschote knallte die Trauzeugin die Excel-Liste auf den Tisch. Tausendachthundert Euro pro Kopf. Flug, Luxus-Finca, passende Glitzer-Badeanzüge. Mein Magen krampfte sich zusammen. Tamara, ich kann maximal fünfzig Euro geben. Ich lebe von Toastbrot. Wer arm ist, bleibt zu Hause! Meine Wangen glühten vor Scham. Die anderen Gemüsemädchen starrten betreten auf ihre Designer-Handtaschen. Niemand sagte ein Wort. Die Zahl lügt nie. Sie riss den Schein in zwei Hälften und warf ihn direkt in mein Prosecco-Glas. In diesem Moment blitzte mein Handy auf. Eine Push-Nachricht meiner Bank. Ein anonymer Absender hatte zweitausend Euro überwiesen mit dem Betreff: Räche dich. Vor Schock stieß ich Tamaras Designertasche um – und aus dem Fach rutschte ein zerrissener Beleg, der Tamaras wahres Geheimnis entlarvte ... Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+2.000 €",
+        "after": "2.650 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom JGA-Budget-Krieg. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "650 Euro Bafög im Monat – und Tamara verlangt Ibiza. Beim Brunch im Café Zuckerschote knallte die Trauzeugin die Excel-Liste auf den Tisch. Tausendachthundert Euro pro Kopf. Flug, Luxus-Finca, passende Glitzer-Badeanzüge. Mein Magen krampfte sich zusammen."
+        },
+        {
+          "s": "Figur",
+          "t": "Tamara, ich kann maximal fünfzig Euro geben. Ich lebe von Toastbrot."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer arm ist, bleibt zu Hause!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Wangen glühten vor Scham. Die anderen Gemüsemädchen starrten betreten auf ihre Designer-Handtaschen. Niemand sagte ein Wort."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die Zahl lügt nie.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie riss den Schein in zwei Hälften und warf ihn direkt in mein Prosecco-Glas. In diesem Moment blitzte mein Handy auf. Eine Push-Nachricht meiner Bank. Ein anonymer Absender hatte zweitausend Euro überwiesen mit dem Betreff: Räche dich. Vor Schock stieß ich Tamaras Designertasche um – und aus dem Fach rutschte ein zerrissener Beleg, der Tamaras wahres Geheimnis entlarvte ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Wer arm ist, bleibt zu Hause!",
+      "quote_by": {
+        "level": 7,
+        "name": "Tamara, 31, Event-Managerin",
+        "badge": "6.200 € netto",
+        "character": "Glamorous papaya woman wearing an oversized pink silk blazer, diamond sunglasses, gold hoop earrings, holding an iced matcha latte, with 6.200 € glowing on her forehead.",
+        "scene": "Medium shot inside a pastel brunch café, the arrogant papaya woman condescendingly dangling a torn banknote between manicured fingers above a crystal champagne flute."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "650 €",
+          "bar": 0.08
+        },
+        {
+          "label": "JGA-Budget",
+          "value": "50 €",
+          "bar": 0.03
+        },
+        {
+          "label": "Scham-Level",
+          "value": "100 %",
+          "bar": 1.0
+        }
+      ],
+      "character": "Slender lemon girl in oversized thrifted beige denim jacket and silver nose ring; glowing digital numbers 650 € on forehead.",
+      "visual": "Medium shot in a trendy pastel brunch cafe, a young lemon woman looking humiliated while a glamorous papaya woman dangles a torn fifty euro bill over a sparkling champagne flute.",
+      "scenes": [
+        "Wide shot of crowded subway car with tired fruit and vegetable commuters under buzzing fluorescent lights; a tiny golden coin glints beneath the yellow plastic seat.",
+        "Medium shot inside an aesthetic pastel brunch cafe with marble tables and hanging ivy; the papaya antagonist with glowing 6.200 € glares haughtily across the table, tiny golden coin hidden in the potted succulent.",
+        "Close-up of lemon girl Sarah's trembling green-tinted hands clutching a frayed fabric purse; a tiny golden coin is resting near the sugar bowl.",
+        "Medium shot across the marble table as the arrogant papaya antagonist Tamara sneers in her pink silk blazer; a tiny golden coin is nestled near the edge of a champagne cooler.",
+        "Close-up detail of a cracked smartphone screen displaying a banking notification with 2.000 € incoming transfer; a tiny golden coin is tucked under the phone case.",
+        "Wide shot of the bustling cafe street terrace as Sarah hastily knocks over a designer leather purse, revealing spilled receipts; a tiny golden coin gleams on the cobblestone curb."
+      ],
+      "caption": "Wenn die Trauzeugin beschließt, dass dein Bafög nicht für ihre Luxus-Vision reicht. 🍋💸 Würdest du zahlen oder die Gruppe verlassen? #JGAWahnsinn #BrautjungfernDrama #Geldkrieg #TrashTV #DieStirnZahl"
+    },
+    {
+      "n": 2,
+      "open_loop": "Warum stand auf Tamaras zerrissenem Beleg der Name von Jennys heimlichem Verlobten?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Schließt Jenny wegen ihrer Mietrückstände aus der Buchung des Braut-Party-Busses aus und verlangt Vorkasse in bar."
+      },
+      "name": "Jenny, 25, Zahnarzthelferin",
+      "badge": "1.450 € netto",
+      "verdict": "RISIKO-FAKTOR",
+      "story": "Die 8 Level vom JGA-Budget-Krieg. Level 2. Eintausendvierhundertfünfzig Euro Gehalt – und ich soll den Tourbus vorstrecken. Auf dem zerrissenen Beleg stand Tamaras Name, doch unterschrieben hatte mein eigener Freund. Mein Herz raste noch immer, als wir vor dem Neon-Kiosk standen. Da baute sich Bea auf, eine herrische Karotte im lila Hosenanzug mit zweitausendeinhundert Euro auf der Stirn. Sie hielt die Buchungsbestätigung für den Party-Van fest umklammert. Jenny, deine Schufa riecht man bis hierher! Bea, mein Gehalt kommt erst übermorgen, bitte vertrau mir! Vertrauen? Die Zahl lügt nie! Sie strich meinen Namen vor allen Leuten mit einem dicken roten Filzstift von der Liste. Gedemütigt griff ich in meine Kitteltasche – und zog den goldenen Praxisschlüssel heraus, den ich eigentlich für den VIP-Gutschein der Zahnklinik brauchte. Plötzlich vibrierte mein Konto: vierhundert Euro Sofort-Abzug wegen einer Mahnung. Da flüsterte Bea mir ins Ohr, was sie wirklich mit meinem Freund plante ... Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "-400 €",
+        "after": "1.050 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom JGA-Budget-Krieg. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Eintausendvierhundertfünfzig Euro Gehalt – und ich soll den Tourbus vorstrecken. Auf dem zerrissenen Beleg stand Tamaras Name, doch unterschrieben hatte mein eigener Freund. Mein Herz raste noch immer, als wir vor dem Neon-Kiosk standen."
+        },
+        {
+          "s": "Figur",
+          "t": "Da baute sich Bea auf, eine herrische Karotte im lila Hosenanzug mit zweitausendeinhundert Euro auf der Stirn. Sie hielt die Buchungsbestätigung für den Party-Van fest umklammert."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Jenny, deine Schufa riecht man bis hierher!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Bea, mein Gehalt kommt erst übermorgen, bitte vertrau mir!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Vertrauen? Die Zahl lügt nie!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie strich meinen Namen vor allen Leuten mit einem dicken roten Filzstift von der Liste. Gedemütigt griff ich in meine Kitteltasche – und zog den goldenen Praxisschlüssel heraus, den ich eigentlich für den VIP-Gutschein der Zahnklinik brauchte. Plötzlich vibrierte mein Konto: vierhundert Euro Sofort-Abzug wegen einer Mahnung. Da flüsterte Bea mir ins Ohr, was sie wirklich mit meinem Freund plante ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Jenny, deine Schufa riecht man bis hierher!",
+      "quote_by": {
+        "level": 3,
+        "name": "Bea, 28, Buchhalterin",
+        "badge": "2.100 € netto",
+        "character": "Sharp-nosed carrot woman wearing a fitted violet blazer, rectangular horn-rimmed glasses, clutching a rigid black leather clipboard with glowing 2.100 € on her orange forehead.",
+        "scene": "Medium shot outside a gritty neon-lit convenience store, the sharp carrot woman aggressively crossing out a name on a clipboard with a red marker."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "1.450 €",
+          "bar": 0.18
+        },
+        {
+          "label": "Bus-Anteil",
+          "value": "300 €",
+          "bar": 0.2
+        },
+        {
+          "label": "Bonität",
+          "value": "Kritisch",
+          "bar": 0.15
+        }
+      ],
+      "character": "Sweet strawberry girl dressed in faded medical scrubs underneath an unzipped teal parka, digital forehead display showing 1.450 €.",
+      "visual": "Medium close-up at dusk in front of a colorful neon city kiosk, a distressed strawberry girl holding her empty purse while a tall carrot woman marks a clipboard with red ink.",
+      "scenes": [
+        "Wide shot of a dingy urban street corner at twilight outside a glowing convenience kiosk; a tiny golden coin is embedded in the pavement near a newspaper stand.",
+        "Medium shot of angry carrot woman Bea in violet blazer confronting the strawberry girl Jenny; a tiny golden coin sits unnoticed atop the ice cream freezer outside.",
+        "Close-up of a clipboard being struck through with an aggressive red marker; a tiny golden coin glints beside a half-opened pack of chewing gum.",
+        "Halbnah shot showing Jenny clutching her empty medical coat pockets while Bea towers over her with glowing 2.100 €; a tiny golden coin rests on the kiosk window ledge.",
+        "Detail shot of a digital banking app flashing a red negative deduction warning of 400 €; a tiny golden coin is visible on the dirty glass counter behind the phone.",
+        "Wide shot of the neon street corner as Jenny stands alone in the evening drizzle while the party van speeds away; a tiny golden coin glitters in the puddle reflections."
+      ],
+      "caption": "Wenn deine Freundinnen dich wegen 300 Euro aus dem Party-Bus werfen. 🍓🚌 Hättest du das Geld geliehen? #MädchenFreundschaft #StatusKrieg #JGAFails #TrashDrama #DieStirnZahl"
+    },
+    {
+      "n": 3,
+      "open_loop": "Welches kompromittierende Foto von der Trauzeugin befand sich in Beas streng geheimem Rechnungsordner?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Zerreißt Beas mühsam kalkulierte Excel-Budget-Tabelle in der WG-Küche und nennt ihre Sparkampagne erbärmlich."
+      },
+      "name": "Bea, 28, Buchhalterin",
+      "badge": "2.100 € netto",
+      "verdict": "SPAR-DIKTATORIN",
+      "story": "Die 8 Level vom JGA-Budget-Krieg. Level 3. Zweitausendeinhundert Euro Gehalt – und ich halte diesen Hühnerhaufen zusammen. Jenny hielt mich für ein Monster, aber ihr Freund hatte mich selbst um Deckung angefleht. In der WG-Küche hatte ich alles exakt berechnet: Discounter-Sekt statt Champagner spart achthundert Euro. Da riss Denise, eine protzige Avocado im Designer-Pelz mit dreitausendachthundert Euro auf der Stirn, mir den Ausdruck aus den Händen. Sie knüllte meine fünfstündige Arbeit zusammen und pfefferte sie in die Spüle. Du bist so peinlich knauserig, Bea! Nicht jeder wirft Papas Geld aus dem Fenster! Die Zahl lügt nie. Sie zog ihr Portemonnaie und bestellte per App sechs Kisten Dom Pérignon auf meinen Namen per Nachnahme! Mein Konto fiel augenblicklich ins Bodenlose. Doch als Denise sich umdrehte, fiel mein Blick auf ihren offenen Rechnungsordner – und dort lag ein Foto, das die gesamte Hochzeit platzen lassen könnte ... Das siehst du in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "-650 €",
+        "after": "1.450 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom JGA-Budget-Krieg. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Zweitausendeinhundert Euro Gehalt – und ich halte diesen Hühnerhaufen zusammen. Jenny hielt mich für ein Monster, aber ihr Freund hatte mich selbst um Deckung angefleht. In der WG-Küche hatte ich alles exakt berechnet: Discounter-Sekt statt Champagner spart achthundert Euro."
+        },
+        {
+          "s": "Figur",
+          "t": "Da riss Denise, eine protzige Avocado im Designer-Pelz mit dreitausendachthundert Euro auf der Stirn, mir den Ausdruck aus den Händen. Sie knüllte meine fünfstündige Arbeit zusammen und pfefferte sie in die Spüle."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du bist so peinlich knauserig, Bea!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Nicht jeder wirft Papas Geld aus dem Fenster!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die Zahl lügt nie.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie zog ihr Portemonnaie und bestellte per App sechs Kisten Dom Pérignon auf meinen Namen per Nachnahme! Mein Konto fiel augenblicklich ins Bodenlose. Doch als Denise sich umdrehte, fiel mein Blick auf ihren offenen Rechnungsordner – und dort lag ein Foto, das die gesamte Hochzeit platzen lassen könnte ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Du bist so peinlich knauserig, Bea!",
+      "quote_by": {
+        "level": 5,
+        "name": "Denise, 29, Marketing-Lead",
+        "badge": "3.800 € netto",
+        "character": "Polished avocado woman styled in an emerald faux-fur coat, heavy layered gold chains, glossy green skin, forehead displaying glowing 3.800 €.",
+        "scene": "Medium shot in a messy shared kitchen, the arrogant avocado woman rolling her eyes while crumbling a paper financial spreadsheet into a greasy sink."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "2.100 €",
+          "bar": 0.28
+        },
+        {
+          "label": "Planung",
+          "value": "100 %",
+          "bar": 1.0
+        },
+        {
+          "label": "Minus",
+          "value": "-650 €",
+          "bar": 0.45
+        }
+      ],
+      "character": "Sharp carrot woman with sleek amber hair in tight ponytail, wearing horn-rimmed glasses and neat beige blouse; digital forehead number 2.100 €.",
+      "visual": "Medium shot in a cramped, brightly lit apartment kitchen, a carrot woman clutching a calculator while an avocado woman in green fur throws crumpled paper into a sink.",
+      "scenes": [
+        "Wide shot of a messy apartment kitchen littered with coffee mugs, half-empty prosecco bottles, and party sashes; a tiny golden coin glints beneath the microwave.",
+        "Medium shot of avocado antagonist Denise sneering in emerald faux-fur, her forehead blazing 3.800 €; a tiny golden coin is resting on the toaster handle.",
+        "Close-up of crumpled budget spreadsheet soaking wet under running tap water in the sink; a tiny golden coin lies next to the drain.",
+        "Halbnah shot of Bea furiously typing numbers on her calculator while Denise flashes her golden credit card; a tiny golden coin is wedged inside a fruit bowl.",
+        "Detail shot of smartphone order confirmation with cash-on-delivery wine order for 650 €; a tiny golden coin reflects off the kitchen counter tiles.",
+        "Wide shot of the chaotic kitchen tension as Bea gasps while spotting a glossy polaroid sticking out of an open leather tote bag; a tiny golden coin rests beside the trash bin."
+      ],
+      "caption": "Wenn die reiche Freundin entscheidet, dass deine Budget-Tabelle Müll ist. 🥕🍾 Champagner oder Eigenmarke? #BrautjungfernZoff #ExcelDrama #FinanzCheck #DieStirnZahl"
+    },
+    {
+      "n": 4,
+      "open_loop": "Wer bezahlte heimlich das 500-Euro-Ticket für Sarah, um sie als Spionin einzuschleusen?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Konfrontiert Chantal mit heimlichen Fotoaufnahmen von Chantals Schwarzgeld-Nebeneinkünften."
+      },
+      "name": "Chantal, 26, Make-up-Artistin",
+      "badge": "2.900 € netto",
+      "verdict": "SCHEIN-IKONE",
+      "story": "Die 8 Level vom JGA-Budget-Krieg. Level 4. Zweitausendneunhundert Euro monatlich – und jede Wimper ist auf Pump finanziert. Auf Beas Foto war nicht Denise zu sehen, sondern ich, wie ich heimlich Braut-Make-up ohne Rechnung im Salon auftrug. Plötzlich stand Sarah vor meinem Schminkspiegel. Die kleine Zitrone, die Tamara vorhin noch weggemobbt hatte. Doch Sarah zitterte nicht mehr. Dein Bar-Umsatz von gestern, Chantal. Du bist eine verlogene kleine Ratte! Die Zahl lügt nie. Meine zittrigen Finger überwiesen fünfhundert Euro per Echtzeit. Mein Display fiel schmerzhaft ab. Aber als Sarah triumphierend den Raum verließ, bemerkte ich die Rückseite ihres Flugtickets: Ein unbekannter VIP aus Level 8 hatte bereits ihren Flug gebucht ... Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "-500 €",
+        "after": "2.400 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom JGA-Budget-Krieg. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Zweitausendneunhundert Euro monatlich – und jede Wimper ist auf Pump finanziert. Auf Beas Foto war nicht Denise zu sehen, sondern ich, wie ich heimlich Braut-Make-up ohne Rechnung im Salon auftrug. Plötzlich stand Sarah vor meinem Schminkspiegel. Die kleine Zitrone, die Tamara vorhin noch weggemobbt hatte. Doch Sarah zitterte nicht mehr."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein Bar-Umsatz von gestern, Chantal.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Du bist eine verlogene kleine Ratte!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die Zahl lügt nie.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine zittrigen Finger überwiesen fünfhundert Euro per Echtzeit. Mein Display fiel schmerzhaft ab. Aber als Sarah triumphierend den Raum verließ, bemerkte ich die Rückseite ihres Flugtickets: Ein unbekannter VIP aus Level 8 hatte bereits ihren Flug gebucht ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Dein Bar-Umsatz von gestern, Chantal.",
+      "quote_by": {
+        "level": 1,
+        "name": "Sarah, 22, Studentin & Brautjungfer",
+        "badge": "650 € netto",
+        "character": "Lemon woman with a smirk on her citrus face, wearing a yellow knitted beanie, thrifted oversized blazer, 650 € glowing on forehead.",
+        "scene": "Medium shot inside a brightly lit vanity salon, holding a smartphone showing an incriminating photo towards the mirror."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "2.900 €",
+          "bar": 0.42
+        },
+        {
+          "label": "Erpressung",
+          "value": "500 €",
+          "bar": 0.35
+        },
+        {
+          "label": "Fassade",
+          "value": "Bröckelt",
+          "bar": 0.9
+        }
+      ],
+      "character": "Flamboyant orange woman with elaborate lash extensions, bright red glossy lipstick, sequined crop top, and glowing 2.900 € on forehead.",
+      "visual": "Medium close-up in a glittery beauty salon with Hollywood vanity mirrors, an orange woman staring in shock as a lemon girl shows her an incriminating phone screen.",
+      "scenes": [
+        "Wide shot of an opulent beauty salon with pink velvet chairs, ring lights, and gold mirrors; a tiny golden coin is nestled inside an empty champagne flute on a vanity.",
+        "Medium shot of lemon girl Sarah confronting the glamorous orange artist Chantal in front of an illuminated mirror; a tiny golden coin glints between rows of luxury cosmetic bottles.",
+        "Close-up of smartphone screen displaying a photo of an open envelope filled with undeclared cash notes; a tiny golden coin rests beside the makeup brush holder.",
+        "Halbnah shot showing Chantal frantically tapping on her banking app while Sarah stands crossed-armed; a tiny golden coin sits under the ring light base.",
+        "Detail shot of manicured orange hand transferring 500 € with a dramatic red bank balance drop; a tiny golden coin gleams next to a designer eyeshadow palette.",
+        "Wide shot of the beauty salon doorway as Sarah struts away, leaving behind a VIP flight boarding pass slip; a tiny golden coin shines on the polished floor tiles."
+      ],
+      "caption": "Wenn die ärmste Brautjungfer plötzlich die Fäden in der Hand hält! 🍊💄 Scheinwelt oder ehrliche Arbeit? #BeautySkandal #Erpressung #JGAParty #DieStirnZahl"
+    },
+    {
+      "n": 5,
+      "open_loop": "Welche heimliche Videoaufnahme von Tamaras Verlobungsfeier war auf dem USB-Stick in der Limousine versteckt?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Entzieht Denise die VIP-Karten für den Beach-Club und stempelt sie als Möchtegern-Influencerin ab."
+      },
+      "name": "Denise, 29, Marketing-Lead",
+      "badge": "3.800 € netto",
+      "verdict": "MÖCHTEGERN-ELITE",
+      "story": "Die 8 Level vom JGA-Budget-Krieg. Level 5. Dreitausendachthundert Euro netto – und ich werde behandelt wie eine Praktikantin. Chantal dachte, sie wäre schlau, doch in der pinkfarbenen Hummer-Limousine knallte es richtig. Vor dem Nobel-Club wedelte Tamara mit den goldenen VIP-Bändchen. Doch als ich danach griff, zog sie ihre Hand zurück wie vor Ungeziefer. Halt mal dein avocado-grünes Näschen flach, Denise! Ich bezahle die Hälfte des Champagners, du arrogante Kuh! Die Zahl lügt nie. Sie schnitt mein goldenes Bändchen vor allen Leuten mit einer Nagelschere durch. Dreihundert Euro für den Tisch-Anteil waren einfach futsch. Fassungslos taumelte ich zurück in die Limousine. Zwischen den Lederpolstern blitzte etwas Goldenes: ein USB-Stick mit der Aufschrift: Tamaras Alibi. Als ich ihn in mein Tablet steckte, sah ich ein Video, das nicht nur Tamara, sondern die ganze Braut-Familie vernichten würde ... Das siehst du in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "-300 €",
+        "after": "3.500 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom JGA-Budget-Krieg. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Dreitausendachthundert Euro netto – und ich werde behandelt wie eine Praktikantin. Chantal dachte, sie wäre schlau, doch in der pinkfarbenen Hummer-Limousine knallte es richtig. Vor dem Nobel-Club wedelte Tamara mit den goldenen VIP-Bändchen. Doch als ich danach griff, zog sie ihre Hand zurück wie vor Ungeziefer."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Halt mal dein avocado-grünes Näschen flach, Denise!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bezahle die Hälfte des Champagners, du arrogante Kuh!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die Zahl lügt nie.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie schnitt mein goldenes Bändchen vor allen Leuten mit einer Nagelschere durch. Dreihundert Euro für den Tisch-Anteil waren einfach futsch. Fassungslos taumelte ich zurück in die Limousine. Zwischen den Lederpolstern blitzte etwas Goldenes: ein USB-Stick mit der Aufschrift: Tamaras Alibi. Als ich ihn in mein Tablet steckte, sah ich ein Video, das nicht nur Tamara, sondern die ganze Braut-Familie vernichten würde ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Halt mal dein avocado-grünes Näschen flach, Denise!",
+      "quote_by": {
+        "level": 7,
+        "name": "Tamara, 31, Event-Managerin",
+        "badge": "6.200 € netto",
+        "character": "Haughty papaya woman in hot pink satin dress, golden chunky chains, towering high heels, 6.200 € glowing fiercely on forehead.",
+        "scene": "Medium shot in front of velvet VIP club ropes, cutting a gold wristband with small scissors while sneering."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "3.800 €",
+          "bar": 0.58
+        },
+        {
+          "label": "VIP-Verlust",
+          "value": "300 €",
+          "bar": 0.25
+        },
+        {
+          "label": "Wut-Faktor",
+          "value": "98 %",
+          "bar": 0.98
+        }
+      ],
+      "character": "Curvy avocado woman with deep green skin, stylish emerald designer blazer, gold hoop earrings, forehead glowing 3.800 €.",
+      "visual": "Medium shot outside a swanky nightclub with red velvet ropes and paparazzi flashes, a papaya woman cutting the gold VIP wristband off an avocado woman's arm.",
+      "scenes": [
+        "Wide shot of an exclusive nightclub entrance under violet neon lights with bouncers and red carpet; a tiny golden coin gleams in the gutter next to the velvet stanchion.",
+        "Medium shot of papaya villain Tamara in pink satin snidely slicing the golden wristband of avocado woman Denise; a tiny golden coin glitters on the club doorman's podium.",
+        "Close-up of small golden scissors cutting clean through a sparkling metallic VIP festival bracelet; a tiny golden coin is visible on the pavement below.",
+        "Halbnah shot inside the dimly lit pink Hummer limousine with plush leather seats and neon ceiling; a tiny golden coin rests in an empty acrylic cup holder.",
+        "Detail shot of a sleek metallic USB flash drive lodged between two leather seat cushions; a tiny golden coin is tucked near the seatbelt buckle.",
+        "Wide shot of Denise seated alone inside the limousine, illuminated by the harsh blue glare of her tablet screen; a tiny golden coin reflects light on the mini-bar shelf."
+      ],
+      "caption": "Wenn deine Freundin dein VIP-Bändchen vor dem Club zerschneidet. 🥑🚫 Hättest du ihr die Freundschaft gekündigt? #ClubDrama #StatusKrieg #JGAHorror #DieStirnZahl"
+    },
+    {
+      "n": 6,
+      "open_loop": "Wessen geheime Kreditkarte nutzte Alina, um das Luxus-Penthouse auf Ibiza heimlich zu stornieren?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Beschuldigt Alina vor der Braut des Diebstahls des Brautschleiers und droht mit Polizeieinsatz."
+      },
+      "name": "Alina, 30, Oberärztin",
+      "badge": "4.900 € netto",
+      "verdict": "KÜHLE MACHT",
+      "story": "Die 8 Level vom JGA-Budget-Krieg. Level 6. Viertausendneunhundert Euro Gehalt – und ich lasse mich nicht erpressen. Das Video auf Denises Stick zeigte nicht Tamara, sondern Jenny, wie sie nachts den handgefertigten Brautschleier aus dem Brautmodengeschäft stahl. Als wir im Terminal des Flughafen-Gates saßen, stellte ich Jenny zur Rede. Alina hat den Schleier selbst geklaut! Jenny, du lügst, um deine eigenen Schulden zu vertuschen! Die Zahl lügt nie! Die Flughafen-Sicherheit verpasste mir eine Strafe von siebenhundert Euro wegen Gepäck-Manipulation. Mein Kontoauszug schrumpfte augenblicklich. Doch Jenny ahnte nicht: Während sie triumphierte, hatte ich ihr Smartphone gespiegelt – und sah eine schwarze American Express Karte, mit der jemand gerade die gesamte Ibiza-Finca für zehntausend Euro storniert hatte ... Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "-700 €",
+        "after": "4.200 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom JGA-Budget-Krieg. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Viertausendneunhundert Euro Gehalt – und ich lasse mich nicht erpressen. Das Video auf Denises Stick zeigte nicht Tamara, sondern Jenny, wie sie nachts den handgefertigten Brautschleier aus dem Brautmodengeschäft stahl. Als wir im Terminal des Flughafen-Gates saßen, stellte ich Jenny zur Rede."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Alina hat den Schleier selbst geklaut!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Jenny, du lügst, um deine eigenen Schulden zu vertuschen!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die Zahl lügt nie!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Flughafen-Sicherheit verpasste mir eine Strafe von siebenhundert Euro wegen Gepäck-Manipulation. Mein Kontoauszug schrumpfte augenblicklich. Doch Jenny ahnte nicht: Während sie triumphierte, hatte ich ihr Smartphone gespiegelt – und sah eine schwarze American Express Karte, mit der jemand gerade die gesamte Ibiza-Finca für zehntausend Euro storniert hatte ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Alina hat den Schleier selbst geklaut!",
+      "quote_by": {
+        "level": 2,
+        "name": "Jenny, 25, Zahnarzthelferin",
+        "badge": "1.450 € netto",
+        "character": "Frantic strawberry woman in medical uniform under a torn cardigan, red seed-speckled face flushed, 1.450 € glowing on forehead.",
+        "scene": "Medium shot at a bustling airport boarding gate, hysterically pulling a white lace bridal veil out of a carry-on suitcase."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "4.900 €",
+          "bar": 0.72
+        },
+        {
+          "label": "Strafe",
+          "value": "700 €",
+          "bar": 0.35
+        },
+        {
+          "label": "Eiszeit",
+          "value": "Maximal",
+          "bar": 1.0
+        }
+      ],
+      "character": "Elegant blueberry woman in crisp tailored navy business trench coat, pearl earrings, hair in sleek chignon, forehead shining with 4.900 €.",
+      "visual": "Medium shot inside a sleek, crowded airport departure terminal with huge glass windows showing tarmac airplanes, a blueberry doctor glaring coldly at an accusing strawberry girl.",
+      "scenes": [
+        "Wide shot of a bustling airport departure gate overlooking large jets on the rainy tarmac; a tiny golden coin is wedged between two chrome terminal seats.",
+        "Medium shot of strawberry woman Jenny loudly holding up a sheer lace veil in front of airport security; a tiny golden coin glints near the baggage scanner belt.",
+        "Close-up of blueberry doctor Alina's icy calm expression with glowing 4.900 € forehead display; a tiny golden coin rests on her leather carry-on handle.",
+        "Halbnah shot showing security guards questioning Alina while pointing at an airport terminal screen; a tiny golden coin is stuck beside a flight status board.",
+        "Detail shot of smartphone screen showing a mirrored device screen displaying a cancelled villa booking confirmation; a tiny golden coin lies next to a boarding pass barcode.",
+        "Wide shot of the gate area as passengers board the flight, leaving Alina alone with an active cancellation notification; a tiny golden coin shines beneath a gate sign."
+      ],
+      "caption": "Wenn deine Freundin dir am Flughafen Diebstahl anhängt, um ihre Schulden zu vertuschen! 🫐✈️ Wem hättest du geglaubt? #FlughafenDrama #JGAEskalation #Verrat #DieStirnZahl"
+    },
+    {
+      "n": 7,
+      "open_loop": "Wer stand wirklich hinter der anonymen 14.500-Euro-Kreditkarte, die Tamaras gesamte Existenz bedrohte?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Storniert Tamaras komplette Trauzeuginnen-Vollmacht vor versammelter Mannschaft auf der Luxus-Yacht."
+      },
+      "name": "Tamara, 31, Event-Managerin",
+      "badge": "6.200 € netto",
+      "verdict": "ABSTURZ-KÖNIGIN",
+      "story": "Die 8 Level vom JGA-Budget-Krieg. Level 7. Sechstausendzweihundert Euro – und mein perfekter Ibiza-Traum explodiert im Gesicht. Alina dachte, sie hätte mich durchschaut, doch auf der gecharterten Yacht vor Formentera verlor ich alles. Die Finca war storniert, das Geld auf meinem Treuhandkonto eingefroren. Da trat Sophie hervor, die Braut höchstpersönlich. Eine majestätische Kokosnuss mit sage und schreibe vierzehntausendfünfhundert Euro auf der Stirn. Tamara, du bist gefeuert als Trauzeugin! Sophie, ich habe alles für deine Ästhetik getan! Ich habe Sarah und Bea nur diszipliniert! Die Zahl lügt nie. Sie zog mein goldenes Namensschild ab und warf es ins offene Meer. In Sekundenschnelle forderte das Yachtunternehmen dreitausendfünfhundert Euro Kaution direkt von meinem Privatkonto ab. Mein Display blinkte rot auf zweitausendsiebenhundert Euro. Verzweifelt schrie ich Sophie an, wer ihr das Geld wirklich gegeben hat – und dann drehte sich Sophie um und zeigte ihr wahres Gesicht ... Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "-3.500 €",
+        "after": "2.700 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom JGA-Budget-Krieg. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Sechstausendzweihundert Euro – und mein perfekter Ibiza-Traum explodiert im Gesicht. Alina dachte, sie hätte mich durchschaut, doch auf der gecharterten Yacht vor Formentera verlor ich alles. Die Finca war storniert, das Geld auf meinem Treuhandkonto eingefroren. Da trat Sophie hervor, die Braut höchstpersönlich. Eine majestätische Kokosnuss mit sage und schreibe vierzehntausendfünfhundert Euro auf der Stirn."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Tamara, du bist gefeuert als Trauzeugin!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Sophie, ich habe alles für deine Ästhetik getan! Ich habe Sarah und Bea nur diszipliniert!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die Zahl lügt nie.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie zog mein goldenes Namensschild ab und warf es ins offene Meer. In Sekundenschnelle forderte das Yachtunternehmen dreitausendfünfhundert Euro Kaution direkt von meinem Privatkonto ab. Mein Display blinkte rot auf zweitausendsiebenhundert Euro. Verzweifelt schrie ich Sophie an, wer ihr das Geld wirklich gegeben hat – und dann drehte sich Sophie um und zeigte ihr wahres Gesicht ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Tamara, du bist gefeuert als Trauzeugin!",
+      "quote_by": {
+        "level": 8,
+        "name": "Sophie, 27, Braut & Erbin",
+        "badge": "14.500 € netto",
+        "character": "Stately coconut bride woman wearing an opulent diamond-encrusted silk veil, ivory designer swimsuit, 14.500 € gleaming blindingly on forehead.",
+        "scene": "Medium shot on the teak deck of a luxury yacht against turquoise Mediterranean waters, coldly gesturing for security to remove the maid of honor."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "6.200 €",
+          "bar": 0.85
+        },
+        {
+          "label": "Verlust",
+          "value": "3.500 €",
+          "bar": 0.6
+        },
+        {
+          "label": "Macht",
+          "value": "Null",
+          "bar": 0.0
+        }
+      ],
+      "character": "Glamorous papaya woman in neon pink designer bikini, sheer beach kaftan, gold bangles, 6.200 € glowing on forehead.",
+      "visual": "Medium wide shot on the gleaming sunlit deck of a luxury yacht in turquoise waters, a haughty papaya maid of honor crying out as a coconut bride strips her title badge.",
+      "scenes": [
+        "Wide shot of an ultra-luxurious white motor yacht slicing through azure Mediterranean waves under scorching sunshine; a tiny golden coin rests on the stainless steel railing.",
+        "Medium shot of coconut bride Sophie confronting papaya woman Tamara on the teak sun deck; a tiny golden coin glints near the champagne bucket base.",
+        "Close-up of a golden engraved bridesmaid badge splashing into deep blue ocean ripples; a tiny golden coin is visible on the edge of the yacht swim platform.",
+        "Halbnah shot showing Tamara's forehead display flickering erratically as 3.500 € drains away; a tiny golden coin is wedged inside a white leather deck lounger.",
+        "Detail shot of a marine banking terminal printing a high-liability deposit receipt; a tiny golden coin sits beside the yacht captain's helm controls.",
+        "Wide shot of Tamara stranded at the stern of the yacht while the other bridesmaids rally around the bride; a tiny golden coin gleams on the anchor winch."
+      ],
+      "caption": "Wenn die Braut die Trauzeugin auf offener See feuert! 🍍⚓️ War Tamaras Absturz verdient? #YachtDrama #IbizaJGA #KarmaIsReal #DieStirnZahl"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches Tabu-Thema über Geld und Status soll die nächste 8-Level-Serie enthüllen?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Wählt Sarah, die 650-Euro-Studentin, als ihre wahre Trauzeugin und entlarvt den gesamten Status-Krieg als Test."
+      },
+      "name": "Sophie, 27, Braut & Großinvestorin",
+      "badge": "14.500 € netto",
+      "verdict": "DIE SCHACHMEISTERIN",
+      "story": "Die 8 Level vom JGA-Budget-Krieg. Level 8. Vierzehntausendfünfhundert Euro im Monat – und ich habe diesen Krieg selbst inszeniert. Ihr dachtet alle, Tamara wäre die Strippenzieherin? Falsch gedacht. Ich war es, die Sarah die zweitausend Euro geschickt hat. Ich war es, die Jenny den Schleier zuspielte. Ich wollte vor meiner Hochzeit sehen, wer meine wahren Freundinnen sind und wer nur meiner Zahl hinterherhechelt! Sophie, sie ist ein Niemand! Sie hat nichts! Die Zahl lügt nie. Denn wahrer Wert misst sich nicht auf der Stirn, sondern im Charakter. Mit einem Klick transferierte ich die restlichen zehntausend Euro Finca-Kosten auf mein eigenes Privatkonto und ernannte Sarah zur offiziellen Trauzeugin. Die Fake-Freundinnen schwiegen für immer. Welches Thema sollen wir als Nächstes aufdecken: Die 8 Level vom WG-Casting oder Die 8 Level vom ersten Date? Schreibt es in die Kommentare!",
+      "gender": "w",
+      "twist": {
+        "delta": "-10.000 €",
+        "after": "4.500 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom JGA-Budget-Krieg. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Vierzehntausendfünfhundert Euro im Monat – und ich habe diesen Krieg selbst inszeniert. Ihr dachtet alle, Tamara wäre die Strippenzieherin? Falsch gedacht. Ich war es, die Sarah die zweitausend Euro geschickt hat. Ich war es, die Jenny den Schleier zuspielte. Ich wollte vor meiner Hochzeit sehen, wer meine wahren Freundinnen sind und wer nur meiner Zahl hinterherhechelt!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sophie, sie ist ein Niemand! Sie hat nichts!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl lügt nie."
+        },
+        {
+          "s": "Figur",
+          "t": "Denn wahrer Wert misst sich nicht auf der Stirn, sondern im Charakter. Mit einem Klick transferierte ich die restlichen zehntausend Euro Finca-Kosten auf mein eigenes Privatkonto und ernannte Sarah zur offiziellen Trauzeugin. Die Fake-Freundinnen schwiegen für immer."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema sollen wir als Nächstes aufdecken: Die 8 Level vom WG-Casting oder Die 8 Level vom ersten Date? Schreibt es in die Kommentare!"
+        }
+      ],
+      "quote": "Sophie, sie ist ein Niemand! Sie hat nichts!",
+      "quote_by": {
+        "level": 7,
+        "name": "Tamara, 31, Event-Managerin",
+        "badge": "2.700 € netto",
+        "character": "Defeated papaya woman with smeared mascara, soaking wet pink satin dress, clutching yacht railing, 2.700 € on forehead.",
+        "scene": "Medium shot on yacht deck, looking shocked and humiliated while pointing desperately at a lemon girl."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "14.500 €",
+          "bar": 1.0
+        },
+        {
+          "label": "Mastermind",
+          "value": "100 %",
+          "bar": 1.0
+        },
+        {
+          "label": "Wahre Treue",
+          "value": "Unbezahlb",
+          "bar": 1.0
+        }
+      ],
+      "character": "Magnificent coconut woman with polished brown shell texture, wearing bespoke ivory silk wedding gown, diamond tiara, glowing 14.500 € on forehead.",
+      "visual": "Wide dramatic sunset shot on a luxury yacht deck, a coconut bride in glowing diamond tiara crowning a humble lemon girl with an heirloom lace veil while fake friends cower.",
+      "scenes": [
+        "Wide shot of the sunset over the Mediterranean ocean from the bow of a superyacht; a tiny golden coin gleams on the teak foredeck table.",
+        "Medium shot of the coconut bride Sophie crowning the shocked lemon girl Sarah with a radiant diamond veil; a tiny golden coin glints near Sarah's foot.",
+        "Close-up of defeated papaya Tamara cowering near the yacht railing, watching her power dissolve; a tiny golden coin is tucked behind an outdoor stereo speaker.",
+        "Halbnah shot showing all bridesmaids looking at their own forehead numbers in deep shame; a tiny golden coin rests on an abandoned champagne tray.",
+        "Detail shot of Sophie's diamond-ringed coconut hand transferring 10.000 € to finalize all bills; a tiny golden coin shines next to the yacht captain's logbook.",
+        "Wide aerial shot of the yacht sailing towards the golden horizon with Sarah and Sophie standing tall at the helm; a tiny golden coin glitters on the navigation mast."
+      ],
+      "caption": "Das große Finale: Die Braut hat den ganzen Budget-Krieg von Anfang an gelenkt! 🥥👑 Welches Thema wollt ihr als Nächstes? #SerienFinale #PlotTwist #DieStirnZahl #KarmaSieg"
+    }
+  ],
+  "lang": "de",
+  "topic": "Der gnadenlose Status-Krieg über das Brautjungfern-Budget beim Junggesellenabschied",
+  "frame": "frucht"
+}

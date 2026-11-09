@@ -1,0 +1,53 @@
+{
+  "best_score": 35,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 3,
+        "story": 4,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 3,
+        "wut": 2,
+        "merkfaehigkeit": 3,
+        "sprache": 4
+      },
+      "gesamt": 35,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze das langweilige Intro durch einen harten Schlag: 'Du hast 0 Prozent Akku und dein bester Freund schickt dir einen Standort aus einem brennenden Haus. Wer lacht jetzt?'"
+        },
+        {
+          "n": 2,
+          "fix": "Lass den Barista sofort zur Sau gemacht werden: 'Du servierst mir kalten Kaffee, während deine Stirn 12 Prozent anzeigt? Du fliegst heute noch raus!'"
+        },
+        {
+          "n": 3,
+          "fix": "Verschärfe den Konflikt im Büro: '98 Prozent Live-Standort und du spionierst deine Kollegen aus? Du bist kein Analyst, du bist eine Ratte.'"
+        },
+        {
+          "n": 4,
+          "fix": "Erhöhe den Druck bei Klara: '45 Prozent und du glaubst, du bist sicher? Ich habe gerade deinen gesamten Verlauf an den Chef geschickt.'"
+        },
+        {
+          "n": 5,
+          "fix": "Konfrontiere den Kurier direkt: '15 Prozent im Tunnel – du willst untertauchen, weil du den letzten Deal sabotiert hast!'"
+        },
+        {
+          "n": 6,
+          "fix": "Lass die Architektin hart abstürzen: '78 Prozent reichen nicht, wenn der Boss deine Zugänge mit einem Klick löscht. Spiel nicht mit mir.'"
+        },
+        {
+          "n": 7,
+          "fix": "Mach den Techniker fertig: '92 Prozent und du merkst nicht mal, dass deine eigenen Server brennen? Du bist nutzlos.'"
+        },
+        {
+          "n": 8,
+          "fix": "Das Finale braucht echten emotionalen Payoff: '100 Prozent auf der Stirn und am Ende stehst du komplett alleine da. Die Zahlen sind wertlos.'"
+        }
+      ],
+      "fazit": "Die Serie hat nette visuelle Ideen mit den Frucht-Figuren, scheitert aber an der harten Realität von TikTok: Die Hooks sind zu harmlos, es gibt kaum echte Wut oder unerträgliche Arroganz bei den Gegenspielern, und die Story liest sich zu oft wie eine uninspirierte Aufzählung statt wie ein hochgradig emotionaler Konflikt mit Genugtuung."
+    }
+  ]
+}
