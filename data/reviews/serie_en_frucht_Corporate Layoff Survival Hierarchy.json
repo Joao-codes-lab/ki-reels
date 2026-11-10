@@ -1,0 +1,41 @@
+{
+  "best_score": 50,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 5,
+        "story": 6,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 6,
+        "wut": 4,
+        "merkfaehigkeit": 5,
+        "sprache": 5
+      },
+      "gesamt": 50,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den ersten Satz durch einen harten Schlag: '3.400 Dollar im Monat – und mein eigener Chef lacht mir ins Gesicht, während er mich rauswirft.'"
+        },
+        {
+          "n": 2,
+          "fix": "Erhöhe die Wut im Dialog: Der Barista-Chef muss Mia direkt beschimpfen, statt nur generelle Floskeln zu nutzen."
+        },
+        {
+          "n": 3,
+          "fix": "Füge mindestens 30 Wörter pro Story hinzu, um die geforderten 175 Wörter zu erreichen."
+        },
+        {
+          "n": 4,
+          "fix": "Verbinde die Level direkter durch Handlungen statt durch bloße Erwähnungen wie 'You'll see that in Level X'."
+        },
+        {
+          "n": 5,
+          "fix": "Lass die Genugtuung früher durchschimmern, indem die versteckte Goldmünze im Bild deutlicher platziert wird."
+        }
+      ],
+      "fazit": "Die Serie hat ein starkes visuelles Konzept, verliert aber zu viele Punkte durch zu brave, unpersönliche Dialoge, die kaum echte Wut oder Mitgefühl erzeugen. Um viral zu gehen, müssen die Konflikte roher und die Racheversprechen klarer sein."
+    }
+  ]
+}

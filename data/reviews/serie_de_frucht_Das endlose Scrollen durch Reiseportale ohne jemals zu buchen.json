@@ -1,0 +1,37 @@
+{
+  "best_score": 35,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 4,
+        "story": 3,
+        "identifikation": 5,
+        "verbindungen": 4,
+        "sog": 3,
+        "wut": 3,
+        "merkfaehigkeit": 4,
+        "sprache": 2
+      },
+      "gesamt": 35,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze das schwache Intro durch einen sofortigen Schlag: '0 Euro auf dem Konto, aber 1.200 Euro Tokio-Flüge im Warenkorb – wer so bucht, gehört eingesperrt.'"
+        },
+        {
+          "n": 2,
+          "fix": "Erhöhe die Wortanzahl auf mindestens 175 Wörter pro Teil, indem du den inneren Konflikt und die Verzweiflung im Café detaillierter ausmalst."
+        },
+        {
+          "n": 3,
+          "fix": "Verschärfe die Wut im Dialog: Der Gegenspieler muss die Hauptfigur direkt und persönlich erniedrigen, statt nur pauschal zu meckern."
+        },
+        {
+          "n": 5,
+          "fix": "Schaffe einen echten Cliffhanger, der nicht nur eine Frage stellt, sondern die unmittelbare Demütigung kurz vor der Rache abbricht."
+        }
+      ],
+      "fazit": "Die Serie hat eine solide visuelle Grundidee, scheitert aber an zu kurzen Texten (unter 175 Wörtern), zahmen Konflikten ohne echte Wut und zu schwachen Hooks. Die Vorbild-Formel mit extremer Demütigung und spürbarem heimlichem Wert wird nicht konsequent genug ausgespielt."
+    }
+  ]
+}
