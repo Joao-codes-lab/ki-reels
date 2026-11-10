@@ -1,0 +1,129 @@
+{
+  "best_score": 56,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 6,
+        "story": 5,
+        "identifikation": 7,
+        "verbindungen": 6,
+        "sog": 6,
+        "wut": 4,
+        "merkfaehigkeit": 5,
+        "sprache": 6
+      },
+      "gesamt": 56,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Level 1: 12 offene Tabs und meinSuchverlauf wird auf die Smartboard-Wand im Großraumbüro projiziert. Warum suchst du nach 'Wie weine ich leise am Schreibtisch', Leo? Mein cholerischer Orang-Chef Oliver grinst mich von oben herab an. Bis Level 3 zahlt er dir das heimlich doppelt heim."
+        },
+        {
+          "n": 3,
+          "fix": "Level 3: 240 offene Tabs und mein privater Recherche-Ordner landet auf dem Firmenserver. Warum suchst du nach 'Wie inszeniere ich meinen eigenen Tod in Paraguay', Oliver? Mein hasserfüllter Boss Marcus tippt schon auf den Sicherheits-Button. Doch warte ab, wer sein eigenes Geheimnis in Level 5 verliert."
+        },
+        {
+          "n": 8,
+          "fix": "Level 8: Unendlich Tabs offen und ich kontrolliere den ultimativen Server aller Suchanfragen. Warum putzt der kleine Leo jetzt hier die Server-Toiletten, obwohl er den Generalschlüssel hat? Ich lächle eiskalt und drücke den Reset-Knopf, der sein ganzes Leben löscht."
+        }
+      ],
+      "fazit": "Die Serie hat eine solide visuelle Grundidee mit den Frucht-Avataren, verfehlt aber das virale Potenzial der Vorbilder. Es fehlt echtes Mitleid, eine tiefere emotionale Demütigung mit sichtbarer Rache und eine zwingende emotionale Wut auf den Bösewicht. Die Texte sind zu deskriptiv und müssen schärfer, bissiger und konsequenter auf die finale Genugtuung ausgerichtet sein."
+    },
+    {
+      "scores": {
+        "hook": 4,
+        "story": 5,
+        "identifikation": 4,
+        "verbindungen": 4,
+        "sog": 3,
+        "wut": 3,
+        "merkfaehigkeit": 4,
+        "sprache": 4
+      },
+      "gesamt": 39,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den lahmen Einstieg durch einen brutalen Kontrast und eine sofortige Demütigung: '12 offene Tabs und mein cholerischer Chef projiziert meinen Suchverlauf an die Wand: Wie weine ich leise am Arbeitsplatz?'"
+        },
+        {
+          "n": 2,
+          "fix": "Verbinde Teil 2 direkt mit Teil 1, indem die Barista (Mia) den Chef aus Teil 1 verflucht und ihr eigener Suchverlauf (45 Tabs) im Kaffeesatz oder Becher erscheint."
+        },
+        {
+          "n": 3,
+          "fix": "Erhöhe die Wut: Lass den Gegenspieler Marcus (Level 5) in Teil 3 den Praktikanten öffentlich erniedrigen, bevor sein eigener Suchverlauf ('Wie inszeniere ich meinen Tod') geleakt wird."
+        },
+        {
+          "n": 4,
+          "fix": "Baue echten Sog auf: Jedes Video muss mit einer direkten Bedrohung durch den Chef aus dem nächsten Level enden, statt mit generischen Floskeln."
+        },
+        {
+          "n": 5,
+          "fix": "Schreibe die Texte um, sodass sie die Mindestlänge von 175 Wörtern pro Story klar überschreiten und echte gesprochene Dramatik ohne KI-Floskeln entfalten."
+        },
+        {
+          "n": 6,
+          "fix": "Verwende in Teil 6 einen messerscharfen Konflikt: Der Sicherheitschef wird vom eigenen System reingelegt, weil ein Untergebener die Logs manipuliert hat."
+        },
+        {
+          "n": 7,
+          "fix": "Lass in Level 7 die Reue des Tech-Moguls spürbar werden, bevor die absolute Demütigung durch die Architektin (Level 8) einsetzt."
+        },
+        {
+          "n": 8,
+          "fix": "Schließe den Loop in Level 8: Der Kreis schließt sich perfekt, wenn der scheinbar zerstörte Praktikant aus Level 1 (Leo) die absolute Kontrolle über die Server übernimmt und den Boss endgültig stürzt."
+        }
+      ],
+      "fazit": "Die Serie hat ein starkes visuelles Konzept (Frucht-Metropole mit Browser-Tabs), scheitert aber an der emotionalen Wucht der Vorbilder. Es fehlt an echter Genugtuung, kompromissloser Härte der Bosse und dem spürbaren Aufstieg des Unterdrückten. Die Texte sind zu kurz, die Hooks zu zahm und der Sog bricht durch formelhafte Übergänge ein."
+    },
+    {
+      "scores": {
+        "hook": 6,
+        "story": 5,
+        "identifikation": 4,
+        "verbindungen": 7,
+        "sog": 6,
+        "wut": 5,
+        "merkfaehigkeit": 5,
+        "sprache": 4
+      },
+      "gesamt": 52,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze das zu lange Intro durch einen harten Schlagzeilen-Satz: '2.000 offene Tabs? Wer hat den Praktikanten denn an den Hauptserver gelassen?' Die Story muss sofort mit der Peinlichkeit starten, ohne erzählerischen Ballast, und exakt 175 Wörter erreichen."
+        },
+        {
+          "n": 2,
+          "fix": "Der Barista-Teil braucht echten Konflikt statt Beschreibungen: Ein arroganter Stammkunde will den Kaffee nicht bezahlen, weil er den Suchverlauf auf dem Bon sieht. Rache muss spürbar sein."
+        },
+        {
+          "n": 3,
+          "fix": "Oliver muss den Untergebenen härter demütigen, damit die Genugtuung in Level 4 zieht. Die Suchanfrage muss provokanter sein ('Wie erpresse ich meinen Chef')."
+        },
+        {
+          "n": 4,
+          "fix": "Der Nerd-Faktor muss greifbarer werden. Statt abstrakter Server-Sätze: Konkreter Verrat durch einen Kollegen, der den Code manipuliert hat."
+        },
+        {
+          "n": 5,
+          "fix": "Der Vorstandssaal braucht mehr Kälte. Die Chefin liest die peinlichsten Suchanfragen laut vor, während alle zuschauen. Mitleid und Wut müssen maximiert werden."
+        },
+        {
+          "n": 6,
+          "fix": "Sicherheitschef Bruno muss seine Arroganz zeigen, bevor das System kollabiert. Der Twist mit dem Subalternen muss überraschender kommen."
+        },
+        {
+          "n": 7,
+          "fix": "Die Tech-Moguln-Ebene muss die Hybris vor dem Fall noch deutlicher etablieren. Mehr Fokus auf den Kontrast zwischen unendlichem Reichtum und plötzlicher Blamage."
+        },
+        {
+          "n": 8,
+          "fix": "Das Finale muss den Kreis zu Level 1 perfekt schließen: Leo putzt nicht still, sondern übernimmt die Macht mit einem echten Genugtuungs-Spruch, der viral zitiert wird."
+        }
+      ],
+      "fazit": "Die Serie hat ein starkes, visuelles Konzept mit den Frucht-Charakteren und den Tabs als digitalem Äquivalent zur Stirnzahl. Allerdings plätschern die Texte zu oft in erzählenden Beschreibungen statt in harten, direkten Dialogen und Konflikten. Für echte Millionen-Klicks fehlen die unbarmherzige Demütigung zu Beginn und die sofortige, unmissverständliche Genugtuung im selben Atemzug."
+    }
+  ]
+}

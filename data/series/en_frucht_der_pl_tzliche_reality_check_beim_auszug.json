@@ -1,0 +1,824 @@
+{
+  "title": "The 8 Levels of Moving Out",
+  "house": "Fruit City, a bustling metropolis where produce people navigate adulting, rising rent prices, and reality checks under the glowing digital numbers on their foreheads.",
+  "catchphrase": "The number never lies.",
+  "links": [
+    "Barista in Level 2 mentions a tired carrot renting a studio.",
+    "A glowing golden coin is hidden near the register in the local diner.",
+    "The landlord from Level 8 drops hints about buying the entire apartment building.",
+    "A discarded utility bill with Level 4's name blows past the bus stop."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Why did the landlord hand over an eviction notice instead of the keys?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Laughs at the low balance and threatens immediate eviction over a small utility fee."
+      },
+      "name": "Pip, 19, Art Student",
+      "badge": "150 $",
+      "verdict": "BROKE",
+      "story": "The 8 levels of moving out. Level 1. Level 1: 150 dollars in my pocket, and my mom just locked the front door behind me. I am Pip, a stressed green pear student wearing an oversized denim jacket and carrying a cardboard box with my entire life inside. My bank account is practically empty, and rent in this city is highway robbery. I stepped into the tiny downtown studio, my forehead glowing with my remaining cash, ready to start my independent life. You cannot afford the deposit, so get out before I call security. That stung, but I refused to cry on the dusty pavement. I reached into my coat and pulled out my grandmother's vintage gold pocket watch, hoping it would cover the first week. We don't accept family heirlooms for rent around here. She slammed the door right in my face and muttered something about broke kids. Who is going to pay for my groceries now? You'll see that in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-150 $",
+        "after": "0 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of moving out. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 150 dollars in my pocket, and my mom just locked the front door behind me."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Pip, a stressed green pear student wearing an oversized denim jacket and carrying a cardboard box with my entire life inside."
+        },
+        {
+          "s": "Figur",
+          "t": "My bank account is practically empty, and rent in this city is highway robbery."
+        },
+        {
+          "s": "Figur",
+          "t": "I stepped into the tiny downtown studio, my forehead glowing with my remaining cash, ready to start my independent life."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You cannot afford the deposit, so get out before I call security.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "That stung, but I refused to cry on the dusty pavement."
+        },
+        {
+          "s": "Figur",
+          "t": "I reached into my coat and pulled out my grandmother's vintage gold pocket watch, hoping it would cover the first week."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "We don't accept family heirlooms for rent around here.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "She slammed the door right in my face and muttered something about broke kids."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Who is going to pay for my groceries now?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You cannot afford the deposit, so get out before I call security.",
+      "quote_by": {
+        "level": 8,
+        "name": "Madam Peach",
+        "badge": "15,000 $",
+        "character": "A sleek peach woman in a tailored velvet suit with a diamond brooch and a ruthless expression.",
+        "scene": "Wide shot of a luxurious apartment lobby with marble floors and soft golden lighting where Madam Peach crosses her arms and points to the exit."
+      },
+      "stats": [
+        {
+          "label": "Savings",
+          "value": "150 $",
+          "bar": 0.05
+        },
+        {
+          "label": "Rent share",
+          "value": "1,200 $",
+          "bar": 0.85
+        },
+        {
+          "label": "Stress",
+          "value": "99 %",
+          "bar": 0.99
+        }
+      ],
+      "character": "A green pear person with a slightly bruised cheek, wearing a faded denim jacket and holding a cardboard box. Glowing digital number on the forehead reads 150 $.",
+      "visual": "Medium shot of a sad green pear person standing outside a heavy apartment door with a cardboard box, under a dim flickering hallway light.",
+      "scenes": [
+        "Wide shot of a suburban front porch on a rainy morning, with a green pear person standing beside a taped cardboard box.",
+        "Close-up of a glowing digital forehead display showing 150 $ reflecting in a puddle.",
+        "Medium shot inside a cramped hallway with peeling wallpaper, where a peach woman blocks the doorway.",
+        "Detail shot of trembling hands holding a vintage gold pocket watch.",
+        "Low angle shot of a heavy wooden door slamming shut in a narrow corridor.",
+        "Wide shot of a lonely bus stop at dusk with neon signs blinking in the distance."
+      ],
+      "caption": "Would you survive your first day out on your own? #MovingOut #RealityCheck #Struggle #Adulting #Level1"
+    },
+    {
+      "n": 2,
+      "open_loop": "What secret did the mysterious roommate hide behind the locked bedroom door?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Demands immediate payment for utility bills and steals the shared groceries from the fridge."
+      },
+      "name": "Sunny, 21, Barista",
+      "badge": "1,100 $",
+      "verdict": "STRUGGLING",
+      "story": "The 8 levels of moving out. Level 2. Level 2: 1,100 dollars a month, and my first grocery haul cost half my paycheck. I am Sunny, an orange-peel barista in a stained apron, staring at an empty fridge in my shared flat. Moving out sounded like freedom until I realized electricity isn't free. You used the heater all night, so pay up right now or your clothes go in the dumpster. I clenched my fists, realizing I couldn't even afford pasta for the rest of the week. I tried to explain my shift schedule, but she just laughed and pointed at my forehead display. Your number is a joke, just like your excuses. That was when I noticed a strange golden coin rolling out from under her locked bedroom door. Who is actually living in that forbidden room? You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "-350 $",
+        "after": "750 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of moving out. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 1,100 dollars a month, and my first grocery haul cost half my paycheck."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Sunny, an orange-peel barista in a stained apron, staring at an empty fridge in my shared flat."
+        },
+        {
+          "s": "Figur",
+          "t": "Moving out sounded like freedom until I realized electricity isn't free."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You used the heater all night, so pay up right now or your clothes go in the dumpster.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I clenched my fists, realizing I couldn't even afford pasta for the rest of the week."
+        },
+        {
+          "s": "Figur",
+          "t": "I tried to explain my shift schedule, but she just laughed and pointed at my forehead display."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your number is a joke, just like your excuses.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "That was when I noticed a strange golden coin rolling out from under her locked bedroom door."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Who is actually living in that forbidden room?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "You used the heater all night, so pay up right now or your clothes go in the dumpster.",
+      "quote_by": {
+        "level": 5,
+        "name": "Zelda",
+        "badge": "4,200 $",
+        "character": "A sour yellow lemon woman with a sharp bob haircut and an aggressive posture.",
+        "scene": "Medium shot in a messy kitchen with sunlight streaming through dirty windows as Zelda aggressively slaps a bill on the counter."
+      },
+      "stats": [
+        {
+          "label": "Monthly Pay",
+          "value": "1,100 $",
+          "bar": 0.2
+        },
+        {
+          "label": "Groceries",
+          "value": "45 $",
+          "bar": 0.1
+        },
+        {
+          "label": "Rent Share",
+          "value": "800 $",
+          "bar": 0.6
+        }
+      ],
+      "character": "An orange person with textured citrus skin, wearing a stained coffee apron and holding an empty shopping bag. Glowing digital number on forehead reads 1,100 $.",
+      "visual": "Medium shot of an orange person standing in a chaotic shared kitchen, looking stressed at a tiny receipt.",
+      "scenes": [
+        "Wide shot of a messy apartment kitchen with dirty dishes piled high in the sink under fluorescent lighting.",
+        "Close-up of a digital forehead display glowing 1,100 $ in amber light.",
+        "Medium shot of a lemon woman pointing angrily at a piece of paper on the table.",
+        "Detail shot of a golden coin rolling across worn linoleum floorboards.",
+        "Close-up of an empty refrigerator shelf with only a single ketchup bottle.",
+        "Wide shot of a gloomy hallway with multiple closed doors in an old brick building."
+      ],
+      "caption": "Wait until you get your very first utility bill. #RoommateDrama #AdultingLife #Budgeting #Level2 #Groceries"
+    },
+    {
+      "n": 3,
+      "open_loop": "Why was the bank account suddenly locked right before rent was due?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Complains loudly about the noisy apartment and threatens to report the tenant to the management."
+      },
+      "name": "Avoca, 23, Junior Copywriter",
+      "badge": "2,400 $",
+      "verdict": "BARELY COPING",
+      "story": "The 8 levels of moving out. Level 3. Level 3: 2,400 dollars net income, and I am still eating instant noodles every single night. I am Avoca, an avocado person working long hours at a desk job while staring at my banking app in terror. Independence felt great until my laptop broke and the repair cost wiped out my savings account. Stop rolling that chair around or I will make sure the landlord doubles your rent. I wanted to scream because I had been working overtime for three days straight just to afford my internet bill. I checked my balance again, hoping for a miracle, but it showed zero. Some of us actually want to sleep in this building. Then my phone buzzed with an alert from the bank. Why did they freeze my card right now? You'll see that in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "-600 $",
+        "after": "1,800 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of moving out. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 2,400 dollars net income, and I am still eating instant noodles every single night."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Avoca, an avocado person working long hours at a desk job while staring at my banking app in terror."
+        },
+        {
+          "s": "Figur",
+          "t": "Independence felt great until my laptop broke and the repair cost wiped out my savings account."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Stop rolling that chair around or I will make sure the landlord doubles your rent.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I wanted to scream because I had been working overtime for three days straight just to afford my internet bill."
+        },
+        {
+          "s": "Figur",
+          "t": "I checked my balance again, hoping for a miracle, but it showed zero."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Some of us actually want to sleep in this building.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Then my phone buzzed with an alert from the bank."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Why did they freeze my card right now?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Stop rolling that chair around or I will make sure the landlord doubles your rent.",
+      "quote_by": {
+        "level": 1,
+        "name": "Pip",
+        "badge": "150 $",
+        "character": "A stressed green pear student with messy hair and an old denim jacket.",
+        "scene": "Low angle shot in a narrow apartment corridor with Pip banging angrily on a neighbor's wooden door."
+      },
+      "stats": [
+        {
+          "label": "Salary",
+          "value": "2,400 $",
+          "bar": 0.35
+        },
+        {
+          "label": "Laptop repair",
+          "value": "600 $",
+          "bar": 0.3
+        },
+        {
+          "label": "Rent",
+          "value": "1,100 $",
+          "bar": 0.7
+        }
+      ],
+      "character": "An avocado person with a smooth green skin texture, wearing glasses and a neat grey sweater. Glowing digital forehead number reads 2,400 $.",
+      "visual": "Medium shot of an avocado person sitting at a cluttered desk with a broken laptop under a desk lamp.",
+      "scenes": [
+        "Wide shot of a small studio apartment filled with moving boxes and stacks of paperwork.",
+        "Close-up of a smartphone screen showing a red notification banner and zero balance.",
+        "Medium shot of a pear person banging on a wooden door in a dimly lit hallway.",
+        "Detail shot of a cup of instant noodles steaming on a messy desk.",
+        "Wide shot of a quiet residential street at night with yellow streetlamps glowing.",
+        "Close-up of a digital forehead display glowing 2,400 $ while looking stressed."
+      ],
+      "caption": "Adulting is just paying bills until you run out of money. #BudgetLife #WorkLife #Bills #Level3 #Relatable"
+    },
+    {
+      "n": 4,
+      "open_loop": "What was hidden inside the mysterious package left at the front desk?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Inspects the apartment hallways with disdain and complains about the affordable housing tenants."
+      },
+      "name": "Coco, 25, Graphic Designer",
+      "badge": "3,800 $",
+      "verdict": "STABLE",
+      "story": "The 8 levels of moving out. Level 4. Level 4: 3,800 dollars a month, and I finally thought I had total control over my life. I am Coco, a brown coconut person with a hard exterior shell, living alone in a freshly painted loft. I bought my own couch, set up my Wi-Fi, and felt like a true adult. This building is losing its class with cheap rental units like yours. My blood boiled because I worked sixty hours a week for this apartment. I wanted to throw something at his immaculate shoes, but I kept my cool. Try upgrading your aesthetic before inviting guests over. He dropped a heavy delivery box on the lobby counter and walked away without a word. What was inside that mysterious package that made everyone stare? You'll see that in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "-450 $",
+        "after": "3,350 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of moving out. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 3,800 dollars a month, and I finally thought I had total control over my life."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Coco, a brown coconut person with a hard exterior shell, living alone in a freshly painted loft."
+        },
+        {
+          "s": "Figur",
+          "t": "I bought my own couch, set up my Wi-Fi, and felt like a true adult."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "This building is losing its class with cheap rental units like yours.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My blood boiled because I worked sixty hours a week for this apartment."
+        },
+        {
+          "s": "Figur",
+          "t": "I wanted to throw something at his immaculate shoes, but I kept my cool."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Try upgrading your aesthetic before inviting guests over.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "He dropped a heavy delivery box on the lobby counter and walked away without a word."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What was inside that mysterious package that made everyone stare?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "This building is losing its class with cheap rental units like yours.",
+      "quote_by": {
+        "level": 7,
+        "name": "Drax",
+        "badge": "9,500 $",
+        "character": "A sleek pink and green dragonfruit man wearing a tailored white suit and gold-rimmed sunglasses.",
+        "scene": "Wide shot of a modern lobby with glass elevators as Drax looks down his nose at a neighbor."
+      },
+      "stats": [
+        {
+          "label": "Income",
+          "value": "3,800 $",
+          "bar": 0.5
+        },
+        {
+          "label": "Savings",
+          "value": "4,200 $",
+          "bar": 0.55
+        },
+        {
+          "label": "Rent",
+          "value": "1,500 $",
+          "bar": 0.75
+        }
+      ],
+      "character": "A brown coconut person with a textured shell head, wearing a stylish dark turtleneck and minimalist glasses. Glowing digital forehead number reads 3,800 $.",
+      "visual": "Medium shot of a coconut person standing in a bright minimalist loft apartment with modern furniture.",
+      "scenes": [
+        "Wide shot of a sunny industrial loft with high ceilings and large factory windows.",
+        "Close-up of a glowing digital forehead display showing 3,800 $.",
+        "Medium shot of a dragonfruit man in a sharp suit sneering in a clean hallway.",
+        "Detail shot of a heavy cardboard delivery box sitting on a sleek marble counter.",
+        "Wide shot of an apartment lobby with polished tile floors and mailboxes.",
+        "Close-up of a coconut person crossing their arms with a determined expression."
+      ],
+      "caption": "When you finally move out and someone tries to judge your place. #LoftLife #Independent #Adulting101 #Level4 #Interior"
+    },
+    {
+      "n": 5,
+      "open_loop": "Who sent the anonymous eviction warning letter to the entire floor?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Complains about noise through the walls and bangs on the door during late hours."
+      },
+      "name": "Zelda, 28, Accountant",
+      "badge": "5,200 $",
+      "verdict": "CONFIDENT",
+      "story": "The 8 levels of moving out. Level 5. Level 5: 5,200 dollars salary, and I finally bought the penthouse corner apartment with the city view. I am Zelda, a sharp yellow lemon woman in a crisp blazer, enjoying my morning espresso on the balcony. I mastered budgets, taxes, and independent living. Turn that down or I'm calling the building manager right now! I rolled my eyes because my playlist was barely audible over the traffic. People with low numbers always find something to complain about instead of working harder. Some of us have to work early shifts while you party! I slammed my glass balcony door shut and ignored her childish tantrum. Who dared to threaten my peaceful lifestyle? You'll see that in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+400 $",
+        "after": "5,600 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of moving out. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 5,200 dollars salary, and I finally bought the penthouse corner apartment with the city view."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Zelda, a sharp yellow lemon woman in a crisp blazer, enjoying my morning espresso on the balcony."
+        },
+        {
+          "s": "Figur",
+          "t": "I mastered budgets, taxes, and independent living."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Turn that down or I'm calling the building manager right now!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I rolled my eyes because my playlist was barely audible over the traffic."
+        },
+        {
+          "s": "Figur",
+          "t": "People with low numbers always find something to complain about instead of working harder."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Some of us have to work early shifts while you party!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I slammed my glass balcony door shut and ignored her childish tantrum."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Who dared to threaten my peaceful lifestyle?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Turn that down or I'm calling the building manager right now!",
+      "quote_by": {
+        "level": 2,
+        "name": "Sunny",
+        "badge": "1,100 $",
+        "character": "An orange-peel barista wearing a stained apron and looking exhausted from night shifts.",
+        "scene": "Medium shot in a cramped apartment hallway as Sunny hits the wall with her fist in frustration."
+      },
+      "stats": [
+        {
+          "label": "Salary",
+          "value": "5,200 $",
+          "bar": 0.7
+        },
+        {
+          "label": "Investments",
+          "value": "12,000 $",
+          "bar": 0.75
+        },
+        {
+          "label": "Apartment",
+          "value": "Penthouse",
+          "bar": 0.9
+        }
+      ],
+      "character": "A yellow lemon person with citrus skin texture, wearing a sharp white blazer and gold earrings. Glowing digital forehead number reads 5,200 $.",
+      "visual": "Medium shot of a lemon person standing on a sunny penthouse balcony overlooking a sprawling skyline.",
+      "scenes": [
+        "Wide shot of a luxury balcony with glass railings overlooking a modern city skyline at sunrise.",
+        "Close-up of a digital forehead display glowing 5,200 $.",
+        "Medium shot of an orange person shouting through a thin apartment wall.",
+        "Detail shot of a white ceramic espresso cup steaming on a glass table.",
+        "Wide shot of a high-end apartment corridor with marble flooring.",
+        "Close-up of a printed envelope stuck to a dark wooden front door."
+      ],
+      "caption": "When you finally achieve financial stability and neighbors start complaining. #Penthouse #Success #Adulting #Level5 #LifeGoals"
+    },
+    {
+      "n": 6,
+      "open_loop": "What was written on the confidential property deed left on the desk?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Complains about office noise and tries to sabotage a project deadline."
+      },
+      "name": "Kiwi, 32, Project Manager",
+      "badge": "7,400 $",
+      "verdict": "PROSPEROUS",
+      "story": "The 8 levels of moving out. Level 6. Level 6: 7,400 dollars monthly income, and I just bought a two-story townhouse in the best neighborhood. I am Kiwi, a fuzzy brown kiwi person in a tailored green suit, unpacking crystal glasses in my new kitchen. Moving out years ago was tough, but now I own my space. You only bought this place because your family helped with the down payment, right? That remark infuriated me because every single dollar came from my own brutal overtime work. I wanted to throw him out right then and there. Don't pretend you did it all on your own. He dropped a crumpled office memo on my kitchen island and stormed out. What secret information was hidden inside that memo? You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+800 $",
+        "after": "8,200 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of moving out. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 7,400 dollars monthly income, and I just bought a two-story townhouse in the best neighborhood."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Kiwi, a fuzzy brown kiwi person in a tailored green suit, unpacking crystal glasses in my new kitchen."
+        },
+        {
+          "s": "Figur",
+          "t": "Moving out years ago was tough, but now I own my space."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You only bought this place because your family helped with the down payment, right?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "That remark infuriated me because every single dollar came from my own brutal overtime work."
+        },
+        {
+          "s": "Figur",
+          "t": "I wanted to throw him out right then and there."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Don't pretend you did it all on your own.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "He dropped a crumpled office memo on my kitchen island and stormed out."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What secret information was hidden inside that memo?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "You only bought this place because your family helped with the down payment, right?",
+      "quote_by": {
+        "level": 3,
+        "name": "Avoca",
+        "badge": "2,400 $",
+        "character": "An avocado person in a simple grey sweater wearing round glasses and holding a coffee cup.",
+        "scene": "Medium shot in a bright modern kitchen during a party where Avoca leans against the counter with a sarcastic smirk."
+      },
+      "stats": [
+        {
+          "label": "Salary",
+          "value": "7,400 $",
+          "bar": 0.8
+        },
+        {
+          "label": "Property",
+          "value": "Townhouse",
+          "bar": 0.85
+        },
+        {
+          "label": "Investments",
+          "value": "35,000 $",
+          "bar": 0.9
+        }
+      ],
+      "character": "A fuzzy brown kiwi person with textured skin, wearing a sleek emerald green suit and silver cufflinks. Glowing digital forehead number reads 7,400 $.",
+      "visual": "Medium shot of a kiwi person standing in a spacious modern kitchen unpacking boxes with crystal glasses.",
+      "scenes": [
+        "Wide shot of a luxurious two-story townhouse living room with hardwood floors and large windows.",
+        "Close-up of a digital forehead display glowing 7,400 $.",
+        "Medium shot of an avocado person standing in a crowded kitchen holding a drink.",
+        "Detail shot of crystal champagne glasses clinking together under warm pendant lights.",
+        "Wide shot of a quiet suburban street lined with modern townhouses at dusk.",
+        "Close-up of a crumpled piece of paper resting on a marble kitchen island."
+      ],
+      "caption": "When someone tries to discredit your hard-earned success. #Homeowner #Townhouse #SuccessStory #Level6 #Milestone"
+    },
+    {
+      "n": 7,
+      "open_loop": "What made the millionaire investor suddenly lose control during the board meeting?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Criticizes the architectural design choices and calls the renovation cheap."
+      },
+      "name": "Drax, 36, Real Estate Mogul",
+      "badge": "12,500 $",
+      "verdict": "WEALTHY",
+      "story": "The 8 levels of moving out. Level 7. Level 7: 12,500 dollars passive income every month, and I own half the residential blocks in this city. I am Drax, a pink and green dragonfruit man in an expensive bespoke suit, signing property deeds in my executive office. I conquered the real estate market long ago and despise amateur mistakes. Your latest building project looks outdated and lacks any real architectural vision! That insolence made my blood boil because I built this empire from scratch. I slammed my gold-plated pen onto the mahogany desk and stared him down. Even empires crumble when the foundation is rotten. He slid a confidential financial audit across the table and smirked. What shocking truth was revealed in those documents? You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+2,500 $",
+        "after": "15,000 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of moving out. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 12,500 dollars passive income every month, and I own half the residential blocks in this city."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Drax, a pink and green dragonfruit man in an expensive bespoke suit, signing property deeds in my executive office."
+        },
+        {
+          "s": "Figur",
+          "t": "I conquered the real estate market long ago and despise amateur mistakes."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your latest building project looks outdated and lacks any real architectural vision!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "That insolence made my blood boil because I built this empire from scratch."
+        },
+        {
+          "s": "Figur",
+          "t": "I slammed my gold-plated pen onto the mahogany desk and stared him down."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Even empires crumble when the foundation is rotten.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "He slid a confidential financial audit across the table and smirked."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What shocking truth was revealed in those documents?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "Your latest building project looks outdated and lacks any real architectural vision!",
+      "quote_by": {
+        "level": 4,
+        "name": "Coco",
+        "badge": "3,800 $",
+        "character": "A brown coconut person wearing a stylish dark turtleneck and minimalist glasses.",
+        "scene": "Medium shot in a high-rise glass boardroom as Coco points decisively at a set of blueprints on the table."
+      },
+      "stats": [
+        {
+          "label": "Monthly",
+          "value": "12,500 $",
+          "bar": 0.9
+        },
+        {
+          "label": "Properties",
+          "value": "14 Units",
+          "bar": 0.95
+        },
+        {
+          "label": "Net Worth",
+          "value": "1.2 M$",
+          "bar": 0.99
+        }
+      ],
+      "character": "A dragonfruit person with vibrant pink and green skin flakes, wearing a tailored white suit and gold-rimmed glasses. Glowing digital forehead number reads 12,500 $.",
+      "visual": "Medium shot of a dragonfruit man sitting behind a massive mahogany desk in a luxurious skyscraper office.",
+      "scenes": [
+        "Wide shot of a panoramic executive office on the top floor of a skyscraper with glass walls.",
+        "Close-up of a digital forehead display glowing 12,500 $.",
+        "Medium shot of a coconut person arguing across a sleek glass boardroom table.",
+        "Detail shot of a gold-plated fountain pen resting on top of official property documents.",
+        "Wide shot of a downtown city center filled with modern high-rise buildings.",
+        "Close-up of financial audit papers with bold red stamps."
+      ],
+      "caption": "When you own the building but someone still questions your taste. #RealEstate #BossLife #Wealth #Level7 #Executive"
+    },
+    {
+      "n": 8,
+      "open_loop": "Which topic of our fruit and vegetable universe should we explore in the next epic series?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Bows respectfully and hands over the lost pocket watch, revealing the final connection."
+      },
+      "name": "Madam Peach, 45, Real Estate Queen",
+      "badge": "15,000 $",
+      "verdict": "ELITE",
+      "story": "The 8 levels of moving out. Level 8. Level 8: 15,000 dollars daily revenue, and I own every single building where all of you started your journey. I am Madam Peach, a sleek peach woman in a velvet suit, standing in the grand penthouse overlooking Fruit City. I watched every single one of you struggle, fight, and claw your way out of Hotel Mama just to reach the top. We finally made it to the top floor, Madam Peach. The young pear student I threw out on day one? He just bought the commercial block right across the street. The number on your forehead never defines your hustle, but it always tells the truth about where you are headed. The number never lies. I poured a glass of vintage wine and smiled as the entire city skyline lit up with digital numbers below. Which topic of our fruit and vegetable universe should we explore in the next epic series?",
+      "gender": "w",
+      "twist": {
+        "delta": "+5,000 $",
+        "after": "20,000 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of moving out. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 15,000 dollars daily revenue, and I own every single building where all of you started your journey."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Madam Peach, a sleek peach woman in a velvet suit, standing in the grand penthouse overlooking Fruit City."
+        },
+        {
+          "s": "Figur",
+          "t": "I watched every single one of you struggle, fight, and claw your way out of Hotel Mama just to reach the top."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "We finally made it to the top floor, Madam Peach.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "The young pear student I threw out on day one? He just bought the commercial block right across the street."
+        },
+        {
+          "s": "Figur",
+          "t": "The number on your forehead never defines your hustle, but it always tells the truth about where you are headed."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "The number never lies.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I poured a glass of vintage wine and smiled as the entire city skyline lit up with digital numbers below."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Which topic of our fruit and vegetable universe should we explore in the next epic series?"
+        }
+      ],
+      "quote": "The number never lies.",
+      "quote_by": {
+        "level": 1,
+        "name": "Pip",
+        "badge": "15,000 $",
+        "character": "A successful green pear entrepreneur wearing an expensive tailored suit and smiling confidently.",
+        "scene": "Wide shot on a breathtaking rooftop terrace at sunset as Pip raises a glass alongside Madam Peach."
+      },
+      "stats": [
+        {
+          "label": "Daily Revenue",
+          "value": "15,000 $",
+          "bar": 0.95
+        },
+        {
+          "label": "Properties",
+          "value": "All Blocks",
+          "bar": 1.0
+        },
+        {
+          "label": "Empire",
+          "value": "Complete",
+          "bar": 1.0
+        }
+      ],
+      "character": "A sleek peach woman with velvety skin, wearing a rich emerald velvet suit and a sparkling diamond brooch. Glowing digital forehead number reads 15,000 $.",
+      "visual": "Wide cinematic shot of a peach woman standing on a lavish rooftop terrace at sunset overlooking a glowing futuristic city.",
+      "scenes": [
+        "Wide cinematic shot of a luxury penthouse rooftop terrace with glowing city lights stretching to the horizon.",
+        "Close-up of a digital forehead display glowing 15,000 $ with golden neon light.",
+        "Medium shot of all characters from previous levels gathered together in a grand ballroom.",
+        "Detail shot of a golden pocket watch resting on a velvet display cushion.",
+        "Low angle shot of skyscrapers lighting up their digital forehead numbers across the metropolis.",
+        "Close-up of a peach woman smiling knowingly directly into the camera lens."
+      ],
+      "caption": "The ultimate reality check of moving out. What theme should we do next? #TheEnd #Empire #Level8 #FruitCity #PlotTwist"
+    }
+  ],
+  "lang": "en",
+  "topic": "Der plötzliche Reality-Check beim Auszug aus dem Hotel Mama",
+  "frame": "frucht"
+}
