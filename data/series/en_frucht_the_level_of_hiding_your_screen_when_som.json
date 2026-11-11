@@ -1,0 +1,734 @@
+{
+  "title": "The 8 Level of Hiding Your Screen",
+  "house": "A bustling American metropolis named Citrus City, where fruit and vegetable people commute on crowded subway lines and work in neon-lit glass skyscrapers.",
+  "catchphrase": "The number on your forehead never lies.",
+  "links": [
+    "The barista from level 2 always mentions a quiet blueberry man who leaves massive tips.",
+    "The crowded subway car in level 4 connects directly to the downtown kiosk where level 1 works.",
+    "The glowing screen in level 7 belongs to the exact same laptop dropped in level 3."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "What was the secret message glowing on the stranger's screen that made the broccoli man freeze in panic?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Snaps a photo of the protagonist's private chat and threatens to upload it to the city network."
+      },
+      "name": "Benny, 22, Intern",
+      "badge": "0.0 Screen Privacy",
+      "verdict": "EXPOSED",
+      "story": "The 8 levels of hiding your screen on public transport. Level 1. Minus 40 Euro on the account, and the coconut-type screams it out loud in the packed commuter carriage while every single passenger stares directly at my glowing display with cold, merciless eyes. I am Benny, a desperate 22-year-old broccoli guy fighting for my life as an intern at a ruthless downtown tech firm, clutching my cracked smartphone on the 7:45 AM subway with my stomach in absolute knots and my hands shaking uncontrollably. You are reading job applications on company time while your bank account shows negative forty dollars? Look at his screen, everyone! Negative forty dollars! My cheeks burn bright green as I desperately try to shield the tiny display with my trembling leafy fingers, praying the train doors open before I burst into absolute tears. You will never survive in this city with that kind of exposure. You'll see that in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+5.0%",
+        "after": "5.0%"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of hiding your screen on public transport. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Minus 40 Euro on the account, and the coconut-type screams it out loud in the packed commuter carriage while every single passenger stares directly at my glowing display with cold, merciless eyes."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Benny, a desperate 22-year-old broccoli guy fighting for my life as an intern at a ruthless downtown tech firm, clutching my cracked smartphone on the 7:45 AM subway with my stomach in absolute knots and my hands shaking uncontrollably."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are reading job applications on company time while your bank account shows negative forty dollars?",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Look at his screen, everyone! Negative forty dollars!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My cheeks burn bright green as I desperately try to shield the tiny display with my trembling leafy fingers, praying the train doors open before I burst into absolute tears."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You will never survive in this city with that kind of exposure.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You will never survive in this city with that kind of exposure.",
+      "quote_by": {
+        "level": 6,
+        "name": "Marcus",
+        "badge": "94.2 Privacy",
+        "character": "A hard-shelled coconut man wearing an expensive tailored suit and a golden watch, clutching a secure encrypted tablet.",
+        "scene": "A wide subway shot showing the coconut man looking down with a sneer at a nervous broccoli intern holding a cracked phone."
+      },
+      "stats": [
+        {
+          "label": "Privacy",
+          "value": "0.0%",
+          "bar": 0.0
+        },
+        {
+          "label": "Anxiety",
+          "value": "99%",
+          "bar": 0.99
+        },
+        {
+          "label": "Balance",
+          "value": "-$40",
+          "bar": 0.05
+        }
+      ],
+      "character": "A young broccoli man with fresh green florets for hair, wearing a worn-out denim jacket, holding a cracked smartphone with a hidden golden coin sticker.",
+      "visual": "A crowded, dimly lit New York subway car during morning rush hour, featuring various fruit and vegetable commuters holding glowing devices.",
+      "scenes": [
+        "Subway car interior, wide shot: Morning rush hour with tired commuters swaying, a small golden coin wedged into the handrail.",
+        "Close-up on phone screen: A glaring browser tab showing negative bank balance and flashing notifications.",
+        "Medium shot: A tall coconut man in a suit glaring down at the broccoli intern's unprotected screen.",
+        "Platform shot, wide: The subway doors opening at a neon-lit station with steam rising from the vents.",
+        "Detail shot: Trembling leafy fingers desperately trying to swipe away an embarrassing chat window.",
+        "Wide shot: The entire train carriage turning their heads simultaneously toward the humiliated protagonist."
+      ],
+      "caption": "Would you survive a morning commute with zero screen privacy? Let us know below! #publictransport #screenprivacy #broccolilife #trashdrama #citruscity"
+    },
+    {
+      "n": 2,
+      "open_loop": "Who sent the encrypted fifty-thousand-dollar transfer notification to the avocado woman's hidden screen?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Confiscates her tablet on the commuter bus and exposes her design drafts to the whole vehicle."
+      },
+      "name": "Chloe, 26, Barista",
+      "badge": "12.5% Privacy",
+      "verdict": "VULNERABLE",
+      "story": "The 8 levels of hiding your screen on public transport. Level 2. Level 2 offers absolute zero protection, and the arrogant, unbearable avocado-barista across the counter struts around like she owns the entire establishment while aggressively mocking every single customer. I am Chloe, a 26-year-old avocado woman working the grueling morning rush at a bustling, overheated Manhattan café, trying desperately to keep my sanity intact. This arrogant barista thinks she can humiliate me by broadcasting my most private text messages to the entire room, laughing in my face while I struggle to pay my rent. Every fiber of my being screams with pure rage at her smug expression, and as she turns her back for a single second, I prepare the ultimate, devastating revenge that will shatter her career forever. You are broadcasting your entire pathetic life to complete strangers, and nobody is going to save you from this public disaster. You will see how the tables turn when my secret corporate transfer hits my account in the next few seconds. You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+20.0%",
+        "after": "32.5%"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of hiding your screen on public transport. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2 offers absolute zero protection, and the arrogant, unbearable avocado-barista across the counter struts around like she owns the entire establishment while aggressively mocking every single customer."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Chloe, a 26-year-old avocado woman working the grueling morning rush at a bustling, overheated Manhattan café, trying desperately to keep my sanity intact."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "This arrogant barista thinks she can humiliate me by broadcasting my most private text messages to the entire room, laughing in my face while I struggle to pay my rent.",
+          "g": "w"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Every fiber of my being screams with pure rage at her smug expression, and as she turns her back for a single second, I prepare the ultimate, devastating revenge that will shatter her career forever.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "You are broadcasting your entire pathetic life to complete strangers, and nobody is going to save you from this public disaster."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You will see how the tables turn when my secret corporate transfer hits my account in the next few seconds.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "You are broadcasting your entire pathetic life to complete strangers.",
+      "quote_by": {
+        "level": 5,
+        "name": "Verena",
+        "badge": "68.0 Privacy",
+        "character": "A bitter, bright yellow lemon woman wearing a sharp trench coat and designer sunglasses indoors.",
+        "scene": "A medium shot inside a crowded urban coffee shop where a lemon woman leans aggressively over the counter toward an avocado barista."
+      },
+      "stats": [
+        {
+          "label": "Privacy",
+          "value": "12.5%",
+          "bar": 0.125
+        },
+        {
+          "label": "Tips",
+          "value": "$14",
+          "bar": 0.2
+        },
+        {
+          "label": "Stress",
+          "value": "85%",
+          "bar": 0.85
+        }
+      ],
+      "character": "An avocado woman with smooth green skin and a carved wooden pit necklace, wearing an apron covered in coffee stains and a golden coin pin.",
+      "visual": "A bustling downtown coffee shop filled with steam, espresso machines, and various fruit patrons staring at glowing screens.",
+      "scenes": [
+        "Coffee shop interior, wide shot: Morning rush with long lines, a golden coin resting on the cash register.",
+        "Close-up on laptop screen: An open chat showing emotional breakup messages in bright white text.",
+        "Medium shot: A sour lemon woman pointing her manicured finger directly at the barista's display.",
+        "Detail shot: A steaming latte cup with intricate foam art being shoved aside angrily.",
+        "Wide shot: Patrons at surrounding tables turning their heads to gossip about the visible text.",
+        "Exterior shot, medium: Steam venting from the cafe sidewalk as pedestrians rush past in raincoats."
+      ],
+      "caption": "Have your private messages ever been exposed in public? Drop a comment! #baristalife #avocadogirl #privacymatters #trashdrama #citruscity"
+    },
+    {
+      "n": 3,
+      "open_loop": "What hidden transaction history was revealed when the security guard snatched the strawberry's tablet?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Demands to search her handbag and reviews her open browser tabs on the airport security conveyor belt."
+      },
+      "name": "Mia, 24, Designer",
+      "badge": "34.0% Privacy",
+      "verdict": "MONITORED",
+      "story": "The 8 levels of hiding your screen on public transport. Level 3. Level 3 plunges the viewer into pure, unadulterated rage as the unbearable strawberry-designer watches her hard-earned, months-long creative work get maliciously destroyed by an envious rival before her very eyes. I am Mia, a 24-year-old strawberry woman heading to a high-stakes client pitch, carrying a tablet filled with exclusive designs that represent my entire future. Without any warning, a ruthless competitor steps forward, snatches my device, and deliberately deletes my master files while laughing maniacally for the entire bus to hear. You call these amateur sketches professional design work? Honestly, the color palette looks like trash, and nobody would ever pay for this garbage. I pull the broken device against my chest, my heart pounding like a furious drum as passengers snicker at my utter humiliation and helplessness. Real designers don't display their drafts where everyone can laugh at them, but they certainly know how to strike back when pushed too far. You'll see that in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "+15.0%",
+        "after": "49.0%"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of hiding your screen on public transport. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3 plunges the viewer into pure, unadulterated rage as the unbearable strawberry-designer watches her hard-earned, months-long creative work get maliciously destroyed by an envious rival before her very eyes."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Mia, a 24-year-old strawberry woman heading to a high-stakes client pitch, carrying a tablet filled with exclusive designs that represent my entire future."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Without any warning, a ruthless competitor steps forward, snatches my device, and deliberately deletes my master files while laughing maniacally for the entire bus to hear.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "You call these amateur sketches professional design work? Honestly, the color palette looks like trash, and nobody would ever pay for this garbage.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I pull the broken device against my chest, my heart pounding like a furious drum as passengers snicker at my utter humiliation and helplessness."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Real designers don't display their drafts where everyone can laugh at them, but they certainly know how to strike back when pushed too far.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Real designers don't display their drafts where everyone can laugh at them.",
+      "quote_by": {
+        "level": 7,
+        "name": "Zane",
+        "badge": "89.5 Privacy",
+        "character": "An intimidating dragon fruit man with magenta scaly skin, wearing a sleek leather biker jacket and dark aviator sunglasses.",
+        "scene": "A crowded city bus interior where a dragon fruit man leans over a terrified strawberry designer holding an iPad."
+      },
+      "stats": [
+        {
+          "label": "Privacy",
+          "value": "34.0%",
+          "bar": 0.34
+        },
+        {
+          "label": "Clients",
+          "value": "3 active",
+          "bar": 0.4
+        },
+        {
+          "label": "Speed",
+          "value": "4G LTE",
+          "bar": 0.7
+        }
+      ],
+      "character": "A bright red strawberry woman with tiny yellow seeds on her skin, wearing a stylish turtleneck sweater and a golden coin earring.",
+      "visual": "A moving city bus interior during late afternoon light, with passengers holding illuminated screens and city buildings blurring outside the windows.",
+      "scenes": [
+        "Bus interior, wide shot: Afternoon commuters sitting on plastic seats, a golden coin taped near the emergency exit sign.",
+        "Close-up on iPad screen: Vector graphics and design sketches glowing in high resolution.",
+        "Medium shot: A scaly dragon fruit man peering over the seat with a critical smirk.",
+        "Detail shot: Strawberry woman's hands gripping the edges of her tablet defensively.",
+        "Wide shot: Passengers whispering and glancing sideways at the ongoing confrontation.",
+        "Exterior shot, medium: The city bus driving past a neon billboard under an overcast sky."
+      ],
+      "caption": "Have strangers ever judged your work on public transit? Drop your thoughts below! #designlife #strawberrygirl #transitdrama #trashdrama #citruscity"
+    },
+    {
+      "n": 4,
+      "open_loop": "Whose encrypted bank account details flashed across the terminal screen right before the system crashed?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Sneaks a glance at his financial portfolio while pretending to tie his shoelace next to him."
+      },
+      "name": "Leo, 29, Accountant",
+      "badge": "52.0% Privacy",
+      "verdict": "SECURE",
+      "story": "The 8 levels of hiding your screen on public transport. Level 4. Level 4 delivers a massive blow at 52 percent screen privacy, where ruthless corporate spies stop at nothing to ruin an honest man's career on the morning commute. I am Leo, a 29-year-old orange man reviewing sensitive corporate tax documents on my laptop inside a speeding commuter train. Suddenly, an aggressive pineapple character leans over my shoulder, shoving a smartphone directly into my personal space to record my confidential spreadsheets without my consent. You are hiding corporate offshore accounts on public transit? Let me see those numbers right now or face the consequences! I angle my laptop sharply against the window, my whole body trembling with white-hot rage, as my confidential data is captured on camera. I am sending this footage straight to the financial authorities right this second to destroy you. You'll see that in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+10.0%",
+        "after": "62.0%"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of hiding your screen on public transport. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4 delivers a massive blow at 52 percent screen privacy, where ruthless corporate spies stop at nothing to ruin an honest man's career on the morning commute."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Leo, a 29-year-old orange man reviewing sensitive corporate tax documents on my laptop inside a speeding commuter train."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Suddenly, an aggressive pineapple character leans over my shoulder, shoving a smartphone directly into my personal space to record my confidential spreadsheets without my consent.",
+          "g": "w"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "You are hiding corporate offshore accounts on public transit? Let me see those numbers right now or face the consequences!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I angle my laptop sharply against the window, my whole body trembling with white-hot rage, as my confidential data is captured on camera."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "I am sending this footage straight to the financial authorities right this second to destroy you.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "I am sending this footage straight to the financial authorities right now.",
+      "quote_by": {
+        "level": 1,
+        "name": "Benny",
+        "badge": "0.0 Privacy",
+        "character": "A nervous young broccoli intern wearing a denim jacket and holding a cracked phone.",
+        "scene": "A crowded train aisle where a broccoli intern peeks over an orange accountant's shoulder with wide eyes."
+      },
+      "stats": [
+        {
+          "label": "Privacy",
+          "value": "52.0%",
+          "bar": 0.52
+        },
+        {
+          "label": "Files",
+          "value": "140 docs",
+          "bar": 0.65
+        },
+        {
+          "label": "Risk",
+          "value": "Medium",
+          "bar": 0.5
+        }
+      ],
+      "character": "An orange man with textured citrus peel skin, wearing a neat business shirt, silver cufflinks, and a golden coin tie clip.",
+      "visual": "A fast-moving commuter train interior with bright fluorescent lights reflecting off laptop screens and glass windows.",
+      "scenes": [
+        "Train car interior, wide shot: Evening commuters sitting in rows, a golden coin resting on a luggage rack.",
+        "Close-up on laptop screen: Complex financial spreadsheets with highlighted tax numbers.",
+        "Medium shot: A prickly pineapple woman holding her phone at a suspicious recording angle.",
+        "Detail shot: Orange accountant's fingers frantically hitting shortcut keys to minimize windows.",
+        "Wide shot: Fellow passengers turning their heads in alarm at the accusation.",
+        "Exterior shot, wide: The commuter train speeding across a steel bridge against a sunset sky."
+      ],
+      "caption": "Would you panic if someone filmed your work laptop on the train? Drop a comment! #accountinglife #orangeguy #taxseason #trashdrama #citruscity"
+    },
+    {
+      "n": 5,
+      "open_loop": "What confidential security password was typed into the terminal before the alarm went off?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Spills coffee near her keyboard to force her to unlock her private messaging app."
+      },
+      "name": "Verena, 31, Auditor",
+      "badge": "68.0% Privacy",
+      "verdict": "GUARDED",
+      "story": "The 8 levels of hiding your screen on public transport. Level 5. Level 5 at 68 percent privacy brings a sickening wave of injustice as a bitter, ice-cold lemon auditor suffers a public humiliation designed to make the viewer's blood boil to 180 degrees. I am Verena, a 31-year-old lemon woman working diligently on my encrypted audit tablet inside a luxury downtown lounge, completely focused on exposing corporate fraud. Without warning, a nosy, arrogant barista struts over and deliberately spills scalding hot coffee across my pristine desk, forcing me into a panic while she loudly accuses me of corporate bankruptcy and financial ruin. You think those fake numbers will protect your failing firm from total bankruptcy? Everyone look at the corrupt auditor trying to hide her debt! My sour yellow skin tightens with pure, unmitigated fury as cruel laughter echoes through the lounge. Hiding your numbers doesn't mean the debt isn't real, but my revenge will hit even harder. You'll see that in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+12.0%",
+        "after": "80.0%"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of hiding your screen on public transport. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5 at 68 percent privacy brings a sickening wave of injustice as a bitter, ice-cold lemon auditor suffers a public humiliation designed to make the viewer's blood boil to 180 degrees."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Verena, a 31-year-old lemon woman working diligently on my encrypted audit tablet inside a luxury downtown lounge, completely focused on exposing corporate fraud."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Without warning, a nosy, arrogant barista struts over and deliberately spills scalding hot coffee across my pristine desk, forcing me into a panic while she loudly accuses me of corporate bankruptcy and financial ruin.",
+          "g": "w"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "You think those fake numbers will protect your failing firm from total bankruptcy? Everyone look at the corrupt auditor trying to hide her debt!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My sour yellow skin tightens with pure, unmitigated fury as cruel laughter echoes through the lounge."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Hiding your numbers doesn't mean the debt isn't real, but my revenge will hit even harder.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Hiding your numbers doesn't mean the debt isn't real.",
+      "quote_by": {
+        "level": 2,
+        "name": "Chloe",
+        "badge": "12.5 Privacy",
+        "character": "An avocado woman with smooth green skin and a carved wooden pit necklace, wearing a coffee-stained apron.",
+        "scene": "A chic urban lounge where an avocado barista leans over a table holding a rag, glaring at a seated lemon auditor."
+      },
+      "stats": [
+        {
+          "label": "Privacy",
+          "value": "68.0%",
+          "bar": 0.68
+        },
+        {
+          "label": "Audits",
+          "value": "12 done",
+          "bar": 0.8
+        },
+        {
+          "label": "Security",
+          "value": "Level 3",
+          "bar": 0.75
+        }
+      ],
+      "character": "A bright yellow lemon woman with a naturally puckered expression, wearing a tailored business suit and gold-rimmed glasses, with a golden coin brooch.",
+      "visual": "A sleek, upscale hotel lounge with modern velvet chairs, glowing pendant lights, and large glass windows overlooking the skyline.",
+      "scenes": [
+        "Lounge interior, wide shot: Elegant patrons sipping drinks, a golden coin embedded in the marble tabletop.",
+        "Close-up on tablet screen: Encrypted security certificates and data encryption keys.",
+        "Medium shot: An avocado barista wiping the table while side-eying the audit reports.",
+        "Detail shot: Lemon woman's manicured fingers pressing the lock button on her device.",
+        "Wide shot: Surrounding guests whispering among themselves about the corporate audit.",
+        "Exterior shot, medium: Neon signs reflecting off wet pavement outside the hotel entrance."
+      ],
+      "caption": "How protective are you of your work documents in public spaces? Let us know below! #auditlife #lemongirl #corporatesecurity #trashdrama #citruscity"
+    },
+    {
+      "n": 6,
+      "open_loop": "What secret surveillance footage was stored in the coconut man's encrypted folder?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Snatches his encrypted tablet on the subway and mocks his personal travel itinerary."
+      },
+      "name": "Marcus, 35, Executive",
+      "badge": "94.2% Privacy",
+      "verdict": "SECURE",
+      "story": "The 8 levels of hiding your screen on public transport. Level 6. Level 6 hits with an arrogant swagger at 94.2 percent privacy, featuring an insufferable coconut-executive who treats everyone around him like absolute garbage and dares the audience to anticipate his downfall. I am Marcus, a 35-year-old coconut man riding in absolute luxury in the first-class express carriage, looking down on the pathetic peasants who cannot afford true encryption. A foolish strawberry designer dares to lean across the aisle, sneering at my private documents and trying to pry into my multi-million dollar corporate mergers. You can add privacy filters all you want, you arrogant shell of a man, but I know your company is merging and collapsing from the inside out! A merger? In this sector? Not that a peasant like you could ever comprehend it. I snap my magnetic privacy screen into place with a sharp, mocking click right in her face. Curiosity killed the strawberry, and corporate espionage pays for the bail. You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+3.0%",
+        "after": "97.2%"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of hiding your screen on public transport. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6 hits with an arrogant swagger at 94.2 percent privacy, featuring an insufferable coconut-executive who treats everyone around him like absolute garbage and dares the audience to anticipate his downfall."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Marcus, a 35-year-old coconut man riding in absolute luxury in the first-class express carriage, looking down on the pathetic peasants who cannot afford true encryption."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "A foolish strawberry designer dares to lean across the aisle, sneering at my private documents and trying to pry into my multi-million dollar corporate mergers.",
+          "g": "w"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "You can add privacy filters all you want, you arrogant shell of a man, but I know your company is merging and collapsing from the inside out!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "A merger? In this sector? Not that a peasant like you could ever comprehend it."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "I snap my magnetic privacy screen into place with a sharp, mocking click right in her face. Curiosity killed the strawberry, and corporate espionage pays for the bail.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "Curiosity killed the strawberry, and corporate espionage pays for the bail.",
+      "quote_by": {
+        "level": 3,
+        "name": "Mia",
+        "badge": "34.0 Privacy",
+        "character": "A bright red strawberry woman with tiny yellow seeds, wearing a stylish turtleneck sweater.",
+        "scene": "A first-class train carriage where a strawberry designer stretches her neck to peer over a coconut executive's privacy screen."
+      },
+      "stats": [
+        {
+          "label": "Privacy",
+          "value": "94.2%",
+          "bar": 0.94
+        },
+        {
+          "label": "Access",
+          "value": "Level 5",
+          "bar": 0.95
+        },
+        {
+          "label": "Rank",
+          "value": "Director",
+          "bar": 0.9
+        }
+      ],
+      "character": "A coconut man with a hard, textured brown shell head, wearing an expensive tailored grey suit and a platinum wristwatch, with a golden coin lapel pin.",
+      "visual": "A luxurious first-class train carriage with leather seats, polished wood tables, and soft reading lights.",
+      "scenes": [
+        "First-class carriage, wide shot: Plush leather seats and empty aisles, a golden coin resting on the window ledge.",
+        "Close-up on privacy screen: Darkened display showing encrypted merger files only from a straight angle.",
+        "Medium shot: A strawberry woman craning her neck suspiciously across the aisle.",
+        "Detail shot: Coconut executive's hand snapping a magnetic privacy filter onto his laptop.",
+        "Wide shot: Fellow first-class passengers ignoring the drama while reading tablets.",
+        "Exterior shot, wide: The sleek express train gliding smoothly along elevated tracks at dusk."
+      ],
+      "caption": "Do you use magnetic privacy filters on your commuter travels? Let us know below! #executivelife #coconutman #privacyfirst #trashdrama #citruscity"
+    },
+    {
+      "n": 7,
+      "open_loop": "What hidden biometric code was required to unlock the ultimate master terminal?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Tries to hack his encrypted laptop during an airport security check delay."
+      },
+      "name": "Zane, 38, Security Chief",
+      "badge": "99.8% Privacy",
+      "verdict": "UNBREAKABLE",
+      "story": "The 8 levels of hiding your screen on public transport. Level 7. Level 7 is constructed as an absolute, inescapable dead end inside airport security where power-tripping guards and desperate trespassers collide in total chaos. I am Zane, a 38-year-old dragon fruit man managing critical national infrastructure, standing in an unyielding TSA checkpoint line with my military-grade encrypted terminal. Suddenly, an aggressive security officer blocks my path, falsely accusing me of smuggling illegal master encryption keys and demanding to search my personal belongings on the spot. You are carrying the master encryption keys for the entire transit grid in your backpack without authorization? Step back from that bag immediately or face immediate arrest! I slide my terminal into a heavy titanium briefcase with a resounding thud as armed security agents swarm around me. Some doors are locked for an absolute reason, and she just knocked on the deadliest one in the city. You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+0.2%",
+        "after": "100.0%"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of hiding your screen on public transport. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7 is constructed as an absolute, inescapable dead end inside airport security where power-tripping guards and desperate trespassers collide in total chaos."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Zane, a 38-year-old dragon fruit man managing critical national infrastructure, standing in an unyielding TSA checkpoint line with my military-grade encrypted terminal."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Suddenly, an aggressive security officer blocks my path, falsely accusing me of smuggling illegal master encryption keys and demanding to search my personal belongings on the spot.",
+          "g": "w"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "You are carrying the master encryption keys for the entire transit grid in your backpack without authorization? Step back from that bag immediately or face immediate arrest!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I slide my terminal into a heavy titanium briefcase with a resounding thud as armed security agents swarm around me."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Some doors are locked for an absolute reason, and she just knocked on the deadliest one in the city.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "Some doors are locked for a reason, and you just knocked on the wrong one.",
+      "quote_by": {
+        "level": 3,
+        "name": "Mia",
+        "badge": "34.0 Privacy",
+        "character": "A bright red strawberry woman with tiny yellow seeds, wearing a stylish turtleneck sweater.",
+        "scene": "An airport security checkpoint where a strawberry designer stares in shock at a dragon fruit security chief closing a titanium briefcase."
+      },
+      "stats": [
+        {
+          "label": "Privacy",
+          "value": "99.8%",
+          "bar": 0.99
+        },
+        {
+          "label": "Clearance",
+          "value": "Top Secret",
+          "bar": 1.0
+        },
+        {
+          "label": "Encryption",
+          "value": "Quantum",
+          "bar": 1.0
+        }
+      ],
+      "character": "A dragon fruit man with vibrant magenta scaly skin and green leaf tips on his head, wearing a tactical black jacket and aviator sunglasses, with a golden coin collar pin.",
+      "visual": "A high-tech airport security checkpoint with X-ray scanners, metal detectors, and flashing green security lights.",
+      "scenes": [
+        "Airport security, wide shot: Conveyor belts and security bins, a golden coin resting on the scanner tray.",
+        "Close-up on encrypted terminal: Quantum security code lines scrolling in green matrix font.",
+        "Medium shot: A dragon fruit security chief locking his titanium briefcase with a mechanical click.",
+        "Detail shot: TSA agents stepping forward to block a shocked strawberry designer.",
+        "Wide shot: Airport travelers watching the security standoff in absolute silence.",
+        "Exterior shot, wide: A commercial jet taking off against a bright morning sky above the terminal."
+      ],
+      "caption": "What is the highest security clearance you have ever witnessed? Let us know below! #airportsecurity #dragonfruit #cybersecurity #trashdrama #citruscity"
+    },
+    {
+      "n": 8,
+      "open_loop": "Who left the golden master key inside the city's central mainframe terminal?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Broadcasts the master decryption code across every public transport screen in the city."
+      },
+      "name": "Orson, 42, System Architect",
+      "badge": "100% Master Key",
+      "verdict": "THE ARCHITECT",
+      "story": "The 8 levels of hiding your screen on public transport. Level 8. Level 8 closes the grand circle of revenge and privacy with an unforgettable, mind-bending finale that cements a legendary catchphrase in the viewer's memory forever. I am Orson, a 42-year-old watermelon man sitting at the absolute pinnacle of the central transit tower, watching all eight levels of chaos and vengeance unfold simultaneously across Citrus City. You didn't just build the transit screens... you programmed every single judgment and every single hidden number right into our foreheads. Every single glowing display in this entire metropolis is connected to this exact master desk! I sip my black coffee slowly, my watermelon core remaining as calm as solid stone while the city lights flicker in perfect synchronization below. The numbers on our foreheads were never meant to divide us—they were just reflections of what we chose to hide. Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "0.0%",
+        "after": "100%"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of hiding your screen on public transport. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8 closes the grand circle of revenge and privacy with an unforgettable, mind-bending finale that cements a legendary catchphrase in the viewer's memory forever."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Orson, a 42-year-old watermelon man sitting at the absolute pinnacle of the central transit tower, watching all eight levels of chaos and vengeance unfold simultaneously across Citrus City."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You didn't just build the transit screens... you programmed every single judgment and every single hidden number right into our foreheads.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Every single glowing display in this entire metropolis is connected to this exact master desk!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I sip my black coffee slowly, my watermelon core remaining as calm as solid stone while the city lights flicker in perfect synchronization below."
+        },
+        {
+          "s": "Figur",
+          "t": "The numbers on our foreheads were never meant to divide us—they were just reflections of what we chose to hide."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "The numbers on our foreheads were never meant to divide us—they were just reflections of what we chose to hide.",
+      "quote_by": {
+        "level": 4,
+        "name": "Leo",
+        "badge": "52.0 Privacy",
+        "character": "An orange man with citrus peel texture, wearing a business shirt and silver cufflinks.",
+        "scene": "A panoramic glass control room overlooking a sprawling neon city where an orange accountant stares at wall-mounted screens."
+      },
+      "stats": [
+        {
+          "label": "Control",
+          "value": "Root Access",
+          "bar": 1.0
+        },
+        {
+          "label": "Network",
+          "value": "Global",
+          "bar": 1.0
+        },
+        {
+          "label": "Privacy",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "A watermelon man with dark green striped skin and a pink core interior visible at his collar, wearing a high-tech architect vest and a golden coin pendant.",
+      "visual": "A futuristic glass penthouse control room overlooking Citrus City at night, filled with glowing holographic displays and server racks.",
+      "scenes": [
+        "Control tower, wide shot: Panoramic views of Citrus City lights, a golden coin resting on the master console.",
+        "Close-up on master screen: Holographic maps showing all eight levels connected by glowing data lines.",
+        "Medium shot: A watermelon system architect looking calmly over wall-mounted surveillance feeds.",
+        "Detail shot: Watermelon man's fingers typing the final command on a glowing glass keyboard.",
+        "Wide shot: The entire city skyline flashing in synchronization as the network resets.",
+        "Final shot, epic drone view: Citrus City glowing under a starry night sky, uniting all fruit and vegetable citizens."
+      ],
+      "caption": "What theme should our fruit and vegetable world explore next? Drop your ideas in the comments! #masterkey #watermelon #citruscity #trashdrama #endofseries"
+    }
+  ],
+  "lang": "en",
+  "topic": "The Level of Hiding Your Screen When Someone Walks By on Public Transport",
+  "frame": "frucht"
+}

@@ -1,0 +1,813 @@
+{
+  "title": "Die 8 Level des Lieferando-Kühlschranks",
+  "house": "A bustling German urban neighborhood where anthropomorphic fruit and vegetable people live in modern apartments, shop at local discounters, and survive on fast food deliveries.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Barista in Level 2 mentions a tired carrot student who always buys cheap energy drinks.",
+    "The delivery driver from Level 4 is seen zooming past the window in Level 1.",
+    "A mysterious glowing receipt from Level 8 appears crumpled on the floor in Level 3."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Warum klebte genau auf diesem Lieferando-Karton der Zettel vom Inkassobüro?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Lacht sie aus und tritt gegen den Berg von Pizzakartons vor ihrer Haustür."
+      },
+      "name": "Tom, 24, Studi-Aushilfe",
+      "badge": "12 Kartons",
+      "verdict": "TOTAL KAPUTT",
+      "story": "Die 8 Level des Lieferando-Kühlschranks. Level 1. Level 1: 12 Lieferando-Kartons im Flur – und im Kühlschrank schimmelt nur noch ein trauriger Joghurt. Ich wette, du kennst dieses Gefühl, wenn am Monatsende das Konto leer ist. Mein Name ist Tom, ich bin 24 und studiere Medienwissenschaften. Seit Wochen ernähre ich mich nur von kalter Pizza und veganen Burgern. Plötzlich bleibt der Lieferdienst-Fahrer stehen. Er starrt auf mein Display und schüttelt den Kopf. Der Brokkoli-Typ von nebenan mustert mich herablassend und schnaubt verächtlich. Wollt ihr etwa meine leeren Schachteln zählen? Wer so lebt, wird niemals im Leben etwas erreichen, du armer Schlucker! In diesem Moment sehe ich, wie die digitale Anzeige auf meiner Stirn flackert und von zwölf auf null springt, weil mein letzter Cent abgebucht wurde. Mein Herz rast vor Scham und Wut zugleich. Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-12 Karton",
+        "after": "0 Kartons"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level des Lieferando-Kühlschranks. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 12 Lieferando-Kartons im Flur – und im Kühlschrank schimmelt nur noch ein trauriger Joghurt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich wette, du kennst dieses Gefühl, wenn am Monatsende das Konto leer ist."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Name ist Tom, ich bin 24 und studiere Medienwissenschaften."
+        },
+        {
+          "s": "Figur",
+          "t": "Seit Wochen ernähre ich mich nur von kalter Pizza und veganen Burgern."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Plötzlich bleibt der Lieferdienst-Fahrer stehen. Er starrt auf mein Display und schüttelt den Kopf.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Der Brokkoli-Typ von nebenan mustert mich herablassend und schnaubt verächtlich. Wollt ihr etwa meine leeren Schachteln zählen?",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer so lebt, wird niemals im Leben etwas erreichen, du armer Schlucker!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Moment sehe ich, wie die digitale Anzeige auf meiner Stirn flackert und von zwölf auf null springt, weil mein letzter Cent abgebucht wurde."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Herz rast vor Scham und Wut zugleich."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Wer so lebt, wird niemals im Leben etwas erreichen, du armer Schlucker!",
+      "quote_by": {
+        "level": 3,
+        "name": "Bruno",
+        "badge": "45 Kartons",
+        "character": "An arrogant broccoli man wearing a sharp business suit and a gold watch.",
+        "scene": "A bright corporate office hallway, medium shot, pointing mockingly at a stack of cardboard boxes while smirking."
+      },
+      "stats": [
+        {
+          "label": "Kartons",
+          "value": "12 Stk",
+          "bar": 0.1
+        },
+        {
+          "label": "Guthaben",
+          "value": "2,40 €",
+          "bar": 0.05
+        },
+        {
+          "label": "Hunger",
+          "value": "99 %",
+          "bar": 0.95
+        }
+      ],
+      "character": "Tom is a young, slender tomato person with bright red skin, messy green stem hair, wearing an oversized black hoodie and sneakers. A glowing digital counter reads '12 Kartons' on his forehead. A tiny gold coin rests on his left shoulder.",
+      "visual": "Wide shot of a cluttered student hallway filled with pizza boxes, dim warm lighting, cinematic trash-TV style, 8k resolution.",
+      "scenes": [
+        "Wide shot of a messy student hallway piled high with greasy pizza boxes, dim yellow corridor lighting, a tiny hidden gold coin resting on the baseboard.",
+        "Medium shot of Tom the tomato person staring miserably into an empty white refrigerator containing only a single expired yogurt.",
+        "Close-up of Tom's forehead showing the glowing red digital badge reading '12 Kartons', sweat drops on his red skin.",
+        "Medium shot in the apartment stairwell where a well-dressed broccoli person points and laughs at Tom.",
+        "Detail shot of a smartphone screen showing a negative bank balance of minus 15 euros next to a Lieferando order confirmation.",
+        "Wide shot of the building entrance at night under flickering street lamps, other vegetable neighbors whispering behind Tom's back."
+      ],
+      "caption": "Wer kennt diesen absoluten Tiefpunkt im Monatsend-Chaos? #lieferando #kühlschrank #drama #studielife #level1"
+    },
+    {
+      "n": 2,
+      "open_loop": "Was verbarg sich wirklich in der ominösen Papiertüte unter der Spüle?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Nimmt ihm die letzte frische Tomate weg und wirft sie in den Biomüll."
+      },
+      "name": "Mia, 26, Grafikerin",
+      "badge": "24 Kartons",
+      "verdict": "KÜCHEN-CHAOS",
+      "story": "Die 8 Level des Lieferando-Kühlschranks. Level 2. Level 2: 24 Kartons gestapelt bis zur Decke – und kein Besteck mehr im Haus. Ich dachte, ich hätte alles im Griff, bis die Erdbeere aus der Nachbarswohnung mich erischte. Ich bin Mia, 26 Jahre alt und arbeite im Homeoffice als Designerin. Mein ganzer Tag besteht aus Photoshop und Burger-Bestellungen per App. Die arrogante Aubergine tritt in die Küche und tritt gegen meinen Müllturm. Glaubst du ernsthaft, mit so einem Saustall kriegst du jemals einen festen Job? Meine Hände zittern, als ich versuche, die gelben Plastikgabeln zu verstecken. Solche Versager wie du sollten einfach keine Küche besitzen! In diesem Moment ändert sich meine Zahl schlagartig nach oben. Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+6 Kartons",
+        "after": "30 Karton"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level des Lieferando-Kühlschranks. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 24 Kartons gestapelt bis zur Decke – und kein Besteck mehr im Haus."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich dachte, ich hätte alles im Griff, bis die Erdbeere aus der Nachbarswohnung mich erischte."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Mia, 26 Jahre alt und arbeite im Homeoffice als Designerin."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein ganzer Tag besteht aus Photoshop und Burger-Bestellungen per App."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die arrogante Aubergine tritt in die Küche und tritt gegen meinen Müllturm.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Glaubst du ernsthaft, mit so einem Saustall kriegst du jemals einen festen Job?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Hände zittern, als ich versuche, die gelben Plastikgabeln zu verstecken."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Solche Versager wie du sollten einfach keine Küche besitzen!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Moment ändert sich meine Zahl schlagartig nach oben."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Solche Versager wie du sollten einfach keine Küche besitzen!",
+      "quote_by": {
+        "level": 4,
+        "name": "Clara",
+        "badge": "38 Kartons",
+        "character": "An elegant eggplant woman in a designer silk blouse with a haughty expression.",
+        "scene": "A cramped shared kitchen, medium close-up, crossing her arms and looking down with disgust at the floor."
+      },
+      "stats": [
+        {
+          "label": "Kartons",
+          "value": "24 Stk",
+          "bar": 0.25
+        },
+        {
+          "label": "Bestellungen",
+          "value": "5x / Tag",
+          "bar": 0.8
+        },
+        {
+          "label": "Chaos",
+          "value": "88 %",
+          "bar": 0.9
+        }
+      ],
+      "character": "Mia is a strawberry person with pinkish-red textured skin, tiny yellow seeds, wearing a cozy oversized gray sweater and round glasses. A glowing digital counter reads '24 Kartons' on her forehead. A tiny gold coin rests on the kitchen counter.",
+      "visual": "Medium shot of a narrow, messy apartment kitchen with towers of greasy pizza boxes, dramatic lighting, trash-TV aesthetic.",
+      "scenes": [
+        "Medium shot of Mia the strawberry person standing amidst towering stacks of fast-food boxes in a narrow kitchen, dramatic amber lighting, a tiny hidden gold coin on the microwave.",
+        "Close-up of Mia's face looking stressed, wearing round glasses, glowing digital badge reading '24 Kartons' on her forehead.",
+        "Wide shot showing an angry eggplant neighbor bursting into the kitchen and pointing mockingly at the mess.",
+        "Detail shot of a hand opening a fridge completely packed with leftover plastic dip cups and zero fresh food.",
+        "Medium shot of the hallway where delivery bags are spilling out of a overflowing recycling bin.",
+        "Close-up of a glowing digital display jumping upwards while a sharp alarm sound echoes."
+      ],
+      "caption": "Wer kennt diese WG-Küche, in der nur noch der Lieferdienst überlebt? #lieferando #chaos #küche #storytime #level2"
+    },
+    {
+      "n": 3,
+      "open_loop": "Wem gehörte die schwarze Amex-Karte im Gefrierfach?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Schüttet den letzten kalten Energy-Drink in den Ausguss, während sie zusieht."
+      },
+      "name": "Bruno, 29, Projektingenieur",
+      "badge": "42 Kartons",
+      "verdict": "LIEFER-PROFI",
+      "story": "Die 8 Level des Lieferando-Kühlschranks. Level 3. Level 3: 42 Kartons und der Duft von fünf verschiedenen Asia-Imbissen liegt in der Luft. Ich bin Bruno, 29, verdiene eigentlich gut, aber Kochen ist für Verlierer. Mein Kühlschrank dient nur als Ablagefläche für Sushi-Rollen und kalten Döner. Plötzlich steht die Zitrone im Flur und schnuppert angewidert an den Kartons. Sie lacht mich aus und hält mir ihre eigene saubere Stirn-Anzeige unter die Nase. So ein Messi-Leben ist doch peinlich für einen Ingenieur, oder? Meine Fäuste ballen sich in den Hosentaschen. Ich bin es leid, mich rechtfertigen zu müssen, nur weil ich zu faul zum Spülen bin. Sie kommt einen Schritt näher und mustert mich eiskalt von oben bis herab. Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+5 Kartons",
+        "after": "47 Karton"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level des Lieferando-Kühlschranks. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 42 Kartons und der Duft von fünf verschiedenen Asia-Imbissen liegt in der Luft."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Bruno, 29, verdiene eigentlich gut, aber Kochen ist für Verlierer."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Kühlschrank dient nur als Ablagefläche für Sushi-Rollen und kalten Döner."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Plötzlich steht die Zitrone im Flur und schnuppert angewidert an den Kartons.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sie lacht mich aus und hält mir ihre eigene saubere Stirn-Anzeige unter die Nase.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "So ein Messi-Leben ist doch peinlich für einen Ingenieur, oder?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Fäuste ballen sich in den Hosentaschen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin es leid, mich rechtfertigen zu müssen, nur weil ich zu faul zum Spülen bin."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie kommt einen Schritt näher und mustert mich eiskalt von oben bis herab."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "So ein Messi-Leben ist doch peinlich für einen Ingenieur, oder?",
+      "quote_by": {
+        "level": 6,
+        "name": "Saskia",
+        "badge": "55 Kartons",
+        "character": "A sour lemon woman with yellow skin, sharp tailored suit and a cynical smirk.",
+        "scene": "A modern minimalist hallway, medium shot, pointing with a pen at a messy apartment door."
+      },
+      "stats": [
+        {
+          "label": "Kartons",
+          "value": "42 Stk",
+          "bar": 0.45
+        },
+        {
+          "label": "Lieferando",
+          "value": "VIP Status",
+          "bar": 0.9
+        },
+        {
+          "label": "Küche",
+          "value": "Blockiert",
+          "bar": 1.0
+        }
+      ],
+      "character": "Bruno is a solid broccoli person with dark green floret hair, wearing a sharp dark suit jacket over a casual t-shirt. A glowing digital counter reads '42 Kartons' on his forehead. A tiny gold coin rests on the corner of the desk.",
+      "visual": "Wide shot of a modern bachelor apartment filled to the brim with colorful delivery bags and boxes, cold neon light from outside.",
+      "scenes": [
+        "Wide shot of a modern bachelor apartment overflowing with colourful delivery bags and cardboard boxes, cold neon light, a tiny hidden gold coin on the windowsill.",
+        "Medium shot of Bruno the broccoli person adjusting his jacket while looking annoyed at his phone.",
+        "Close-up of Bruno's forehead displaying the glowing green digital badge '42 Kartons'.",
+        "Medium shot showing a lemon woman standing in the doorway with an expression of pure disgust.",
+        "Detail shot of a stack of menus from different sushi and burger places forming a leaning tower.",
+        "Wide shot of the building corridor as Bruno slams his apartment door shut in frustration."
+      ],
+      "caption": "Wer kennt den Typen, der trotz gutem Job nur von Lieferdiensten lebt? #lieferando #bachelorlife #engineer #level3"
+    },
+    {
+      "n": 4,
+      "open_loop": "Warum stand plötzlich die Polizei vor der Tür, obwohl nur Pizza bestellt wurde?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Zerreißt seinen VIP-Gutschein vor laufender Handykamera."
+      },
+      "name": "Clara, 31, Marketingleiterin",
+      "badge": "58 Kartons",
+      "verdict": "APP-JUNKIE",
+      "story": "Die 8 Level des Lieferando-Kühlschranks. Level 4. Level 4: 58 Kartons im Designer-Appartement und der Kühlschrank glänzt leer wie ein Museum. Ich bin Clara, 31, und leite ein Marketing-Team. Wer Zeit zum Kochen hat, hat keine Karriere. Ich lebe von veganen Bowl-Lieferungen und Champagner auf Eis. Doch dann betritt die Orange die Penthouse-Wohnung und starrt fassungslos auf den Boden. Sie lacht hämisch und schüttelt den Kopf. Für eine Chefin ist dieser Saustall doch total geschmacklos! Meine Fingernägel bohren sich in meine Handflächen. Ich zahle dreitausend Euro Miete für diese Designerküche und nutze nur den Mülleimer. Sie tritt an den Kühlschrank, reißt die Tür auf und mustert mich mit eiskalter Verachtung. Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+10 Karton",
+        "after": "68 Karton"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level des Lieferando-Kühlschranks. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 58 Kartons im Designer-Appartement und der Kühlschrank glänzt leer wie ein Museum."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Clara, 31, und leite ein Marketing-Team."
+        },
+        {
+          "s": "Figur",
+          "t": "Wer Zeit zum Kochen hat, hat keine Karriere."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich lebe von veganen Bowl-Lieferungen und Champagner auf Eis."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Doch dann betritt die Orange die Penthouse-Wohnung und starrt fassungslos auf den Boden.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sie lacht hämisch und schüttelt den Kopf. Für eine Chefin ist dieser Saustall doch total geschmacklos!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Fingernägel bohren sich in meine Handflächen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich zahle dreitausend Euro Miete für diese Designerküche und nutze nur den Mülleimer."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie tritt an den Kühlschrank, reißt die Tür auf und mustert mich mit eiskalter Verachtung."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Für eine Chefin ist dieser Saustall doch total geschmacklos!",
+      "quote_by": {
+        "level": 7,
+        "name": "Jan",
+        "badge": "74 Kartons",
+        "character": "A slick orange man with citrus skin, wearing expensive designer sunglasses indoors.",
+        "scene": "A luxury penthouse kitchen, medium shot, leaning against a marble counter with an arrogant grin."
+      },
+      "stats": [
+        {
+          "label": "Kartons",
+          "value": "58 Stk",
+          "bar": 0.6
+        },
+        {
+          "label": "Budget",
+          "value": "Hoch",
+          "bar": 0.85
+        },
+        {
+          "label": "Küche",
+          "value": "Deko",
+          "bar": 0.1
+        }
+      ],
+      "character": "Clara is an elegant eggplant woman with smooth dark purple skin, wearing a chic beige trench coat and gold earrings. A glowing digital counter reads '58 Kartons' on her forehead. A tiny gold coin rests on the marble floor.",
+      "visual": "Wide shot of a luxury minimalist penthouse kitchen piled with high-end gourmet delivery bags, soft sunset light, high-end production design.",
+      "scenes": [
+        "Wide shot of a high-end luxury penthouse kitchen filled with expensive sushi and bowl delivery bags, soft sunset lighting, a tiny hidden gold coin on the marble counter edge.",
+        "Medium shot of Clara the eggplant woman looking annoyed while tapping on her glowing smartphone screen.",
+        "Close-up of Clara's forehead displaying the glowing digital badge '58 Kartons'.",
+        "Medium shot showing an orange man in sunglasses entering the penthouse and mocking the delivery mess.",
+        "Detail shot of an empty stainless steel refrigerator containing only a bottle of expensive champagne.",
+        "Wide shot of Clara looking out the panoramic window while emergency delivery sirens wail outside."
+      ],
+      "caption": "Wer im Luxus-Penthouse wohnt, aber trotzdem nur Sushi bestellt... #lieferando #penthouse #marketing #level4"
+    },
+    {
+      "n": 5,
+      "open_loop": "Was stand in der mysteriösen SMS mit dem Absender 'Unbekannt'?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Wirft die leeren Lieferkartons in seinen Vorgarten."
+      },
+      "name": "Jan, 35, Finanzberater",
+      "badge": "74 Kartons",
+      "verdict": "KÖNIG DER APP",
+      "story": "Die 8 Level des Lieferando-Kühlschranks. Level 5. Level 5: 74 Kartons stapeln sich im Flur wie die Pyramiden von Gizeh. Ich bin Jan, 35, Finanzberater und Herr über jede App. Wer braucht einen Herd, wenn der Lieferdienst bis vor das Schlafzimmer liefert? Mein ganzer Flur ist tapeziert mit bunten Tüten. Plötzlich bleibt der Drachenfrucht-Typ vor meiner offenen Wohnungstür stehen und traut seinen Augen nicht. Er starrt mich an und fängt lauthals an zu lachen. Sag mal, zahlst du deine Miete eigentlich noch mit Essensmarken? Mein Puls rast. Ich verdiene im Monat mehr als er im ganzen Jahr, aber meine Kartons sind meine Trophäe. Er tritt näher und tippt demonstrativ gegen meine leuchtende Stirn-Anzeige. Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+12 Karton",
+        "after": "86 Karton"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level des Lieferando-Kühlschranks. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 74 Kartons stapeln sich im Flur wie die Pyramiden von Gizeh."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Jan, 35, Finanzberater und Herr über jede App."
+        },
+        {
+          "s": "Figur",
+          "t": "Wer braucht einen Herd, wenn der Lieferdienst bis vor das Schlafzimmer liefert?"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein ganzer Flur ist tapeziert mit bunten Tüten."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Plötzlich bleibt der Drachenfrucht-Typ vor meiner offenen Wohnungstür stehen und traut seinen Augen nicht.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Er starrt mich an und fängt lauthals an zu lachen. Sag mal, zahlst du deine Miete eigentlich noch mit Essensmarken?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Puls rast."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich verdiene im Monat mehr als er im ganzen Jahr, aber meine Kartons sind meine Trophäe."
+        },
+        {
+          "s": "Figur",
+          "t": "Er tritt näher und tippt demonstrativ gegen meine leuchtende Stirn-Anzeige."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Sag mal, zahlst du deine Miete eigentlich noch mit Essensmarken?",
+      "quote_by": {
+        "level": 2,
+        "name": "Mia",
+        "badge": "24 Kartons",
+        "character": "A strawberry woman with pink textured skin and round glasses, looking defiant.",
+        "scene": "A crowded apartment corridor, medium shot, pointing mockingly at a tall stack of boxes."
+      },
+      "stats": [
+        {
+          "label": "Kartons",
+          "value": "74 Stk",
+          "bar": 0.75
+        },
+        {
+          "label": "Lieferando",
+          "value": "Diamant",
+          "bar": 0.95
+        },
+        {
+          "label": "Küche",
+          "value": "Aus",
+          "bar": 0.05
+        }
+      ],
+      "character": "Jan is an energetic orange person with bright citrus skin, wearing a sharp grey pinstripe suit and expensive cufflinks. A glowing digital counter reads '74 Kartons' on his forehead. A tiny gold coin rests on the shoe rack.",
+      "visual": "Wide shot of a massive hallway completely blocked by towering stacks of colorful food delivery bags, warm luxury interior lighting, 8k.",
+      "scenes": [
+        "Wide shot of an enormous apartment hallway completely blocked by towering stacks of multi-colored food delivery boxes, warm interior lighting, a tiny hidden gold coin on the shoe rack.",
+        "Medium shot of Jan the orange person checking his investment portfolio on a tablet while sitting on a pile of boxes.",
+        "Close-up of Jan's forehead displaying the glowing digital badge '74 Kartons'.",
+        "Medium shot showing a defiant strawberry neighbor standing in the doorway mocking his delivery collection.",
+        "Detail shot of a smartphone receiving a notification for the 5th food delivery of the day.",
+        "Wide shot of Jan standing proudly in front of his cardboard pyramid as night falls outside the window."
+      ],
+      "caption": "Wenn der Flur nur noch aus Lieferando-Türmen besteht... #lieferando #finanzen #luxus #level5"
+    },
+    {
+      "n": 6,
+      "open_loop": "Wer hatte die PIN für den geheimen Liefer-Tresor geändert?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Tritt wütend gegen ihre Karton-Pyramide und rennt weg."
+      },
+      "name": "Saskia, 38, Anwältin",
+      "badge": "89 Kartons",
+      "verdict": "CHEF-STRATEGE",
+      "story": "Die 8 Level des Lieferando-Kühlschranks. Level 6. Level 6: 89 Kartons bilden eine Wand im Wohnzimmer, und die Küche dient als Lager. Ich bin Saskia, 38, Wirtschaftsanwältin. Meine Zeit gehört den Akten, nicht dem Kochtopf. Jede Minute auf Lieferando spart mir bares Geld. Plötzlich taucht der junge Studi-Typ im Türrahmen auf und glotzt fassungslos. Er schüttelt ungläubig den Kopf und verschränkt die Arme. Bist du eigentlich zu faul zum Kochen oder einfach nur pleite? Mein Blick wird eisig. Ich nehme einen Schluck aus meiner Designer-Wasserflasche. Sie kommt bedrohlich nah und mustert meine Stirn-Anzeige mit purem Spott. Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+11 Karton",
+        "after": "100 Karto"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level des Lieferando-Kühlschranks. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 89 Kartons bilden eine Wand im Wohnzimmer, und die Küche dient als Lager."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Saskia, 38, Wirtschaftsanwältin."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Zeit gehört den Akten, nicht dem Kochtopf."
+        },
+        {
+          "s": "Figur",
+          "t": "Jede Minute auf Lieferando spart mir bares Geld."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Plötzlich taucht der junge Studi-Typ im Türrahmen auf und glotzt fassungslos.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Er schüttelt ungläubig den Kopf und verschränkt die Arme. Bist du eigentlich zu faul zum Kochen oder einfach nur pleite?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Blick wird eisig."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich nehme einen Schluck aus meiner Designer-Wasserflasche."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie kommt bedrohlich nah und mustert meine Stirn-Anzeige mit purem Spott."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Bist du eigentlich zu faul zum Kochen oder einfach nur pleite?",
+      "quote_by": {
+        "level": 1,
+        "name": "Tom",
+        "badge": "12 Kartons",
+        "character": "A young tomato student in a worn hoodie looking bewildered.",
+        "scene": "A wide apartment doorway, medium shot, pointing aggressively at a wall of cardboard boxes."
+      },
+      "stats": [
+        {
+          "label": "Kartons",
+          "value": "89 Stk",
+          "bar": 0.9
+        },
+        {
+          "label": "Kanzlei",
+          "value": "Partner",
+          "bar": 0.95
+        },
+        {
+          "label": "Herd",
+          "value": "Unbenutzt",
+          "bar": 0.0
+        }
+      ],
+      "character": "Saskia is a sour lemon woman with bright yellow textured skin, wearing a sharp charcoal business blazer and rimless glasses. A glowing digital counter reads '89 Kartons' on her forehead. A tiny gold coin rests on the bookshelf.",
+      "visual": "Wide shot of a high-end apartment living room with a literal wall built out of food delivery boxes, dramatic studio lighting, 8k.",
+      "scenes": [
+        "Wide shot of a luxury apartment living room featuring a massive wall built entirely out of colorful delivery boxes, dramatic cool lighting, a tiny hidden gold coin on the bookshelf.",
+        "Medium shot of Saskia the lemon woman signing legal documents while surrounded by takeaway bags.",
+        "Close-up of Saskia's forehead displaying the glowing digital badge '89 Kartons'.",
+        "Medium shot showing a shocked student standing in the doorway pointing at the box wall.",
+        "Detail shot of a high-end coffee machine buried underneath several empty burger wrappings.",
+        "Wide shot of Saskia standing triumphantly as a delivery drone drops off yet another package on her balcony."
+      ],
+      "caption": "Wenn die Karriere wichtiger ist als der Herd... #lieferando #anwältin #karriere #level6"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welches Geheimnis verbarg sich in der letzten ungeöffneten Box?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Tritt gegen ihren Stuhl und lacht sie aus."
+      },
+      "name": "Drago, 42, Investor",
+      "badge": "110 Kartons",
+      "verdict": "LEGENDE DER APP",
+      "story": "Die 8 Level des Lieferando-Kühlschranks. Level 7. Level 7: 110 Kartons füllen das halbe Loft – ich bin Drago, Investor und König der Liefer-Apps. Mein Kühlschrank ist ein reines Museum für Quittungen. Wer mich unterschätzt, hat das Spiel nicht verstanden. Doch dann steht der arrogante Broccoli-Typ in meinem Loft und grinst provokant. Er zeigt auf meine Stirn und lacht dreckig. So viele Kartons und trotzdem kein Geschmack im Kopf! Mein Puls schießt durch die Decke. Ich besitze die Anteile seiner Firma, aber er ahnt von nichts. Er beugt sich vor und will meine Kartonmauer umstoßen. Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+15 Karton",
+        "after": "125 Karto"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level des Lieferando-Kühlschranks. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 110 Kartons füllen das halbe Loft – ich bin Drago, Investor und König der Liefer-Apps."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Kühlschrank ist ein reines Museum für Quittungen."
+        },
+        {
+          "s": "Figur",
+          "t": "Wer mich unterschätzt, hat das Spiel nicht verstanden."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Doch dann steht der arrogante Broccoli-Typ in meinem Loft und grinst provokant.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Er zeigt auf meine Stirn und lacht dreckig. So viele Kartons und trotzdem kein Geschmack im Kopf!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Puls schießt durch die Decke."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich besitze die Anteile seiner Firma, aber er ahnt von nichts."
+        },
+        {
+          "s": "Figur",
+          "t": "Er beugt sich vor und will meine Kartonmauer umstoßen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "So viele Kartons und trotzdem kein Geschmack im Kopf!",
+      "quote_by": {
+        "level": 3,
+        "name": "Bruno",
+        "badge": "42 Kartons",
+        "character": "An arrogant broccoli man in a sharp suit.",
+        "scene": "A luxury loft living room, medium shot, pointing mockingly at a giant pyramid of cardboard boxes."
+      },
+      "stats": [
+        {
+          "label": "Kartons",
+          "value": "110 Stk",
+          "bar": 0.98
+        },
+        {
+          "label": "Status",
+          "value": "Legendär",
+          "bar": 1.0
+        },
+        {
+          "label": "Küche",
+          "value": "Archiv",
+          "bar": 0.0
+        }
+      ],
+      "character": "Drago is a scaly dragon fruit person with vibrant magenta skin, green leafy spikes on top, wearing a sleek black turtleneck and luxury watch. A glowing digital counter reads '110 Kartons' on his forehead. A tiny gold coin rests on the coffee table.",
+      "visual": "Wide shot of a massive industrial loft filled with a staggering labyrinth of food delivery boxes, dramatic neon blue lighting, cinematic 8k.",
+      "scenes": [
+        "Wide shot of a massive industrial loft filled with a staggering labyrinth of food delivery boxes, dramatic neon blue lighting, a tiny hidden gold coin on the glass coffee table.",
+        "Medium shot of Drago the dragon fruit person smiling coldly while looking at his smartphone app.",
+        "Close-up of Drago's forehead displaying the glowing digital badge '110 Kartons'.",
+        "Medium shot showing an arrogant broccoli man entering the loft and mocking the box collection.",
+        "Detail shot of a platinum credit card resting on top of a greasy pizza box.",
+        "Wide shot of Drago staring out of the floor-to-ceiling loft windows as the city lights twinkle."
+      ],
+      "caption": "Wenn du so viele Lieferando-Bestellungen hast, dass du ein eigenes Lager brauchst... #lieferando #investor #loft #level7"
+    },
+    {
+      "n": 8,
+      "open_loop": "Was passierte, als sich alle acht Nachbarn gleichzeitig in der Küche trafen?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Öffnet feierlich die allerletzte Box und enthüllt das Geheimnis."
+      },
+      "name": "Kokos, 50, Der Boss",
+      "badge": "999 Kartons",
+      "verdict": "ENDGEGNER",
+      "story": "Die 8 Level des Lieferando-Kühlschranks. Level 8. Level 8: 999 Kartons reichen bis unter die Decke – und in der Mitte steht der Kühlschrank, der niemals geöffnet wurde. Ich bin Kokos, 50, und besitze die Liefer-Plattform selbst. Alle sieben Nachbarn stehen plötzlich in meinem Loft und starren fassungslos auf meine Stirn. Sie wollten mich demütigen, doch jetzt verstehen sie die Wahrheit. Die Zahl lügt nie, sie zeigt nur, wer die Fäden in der Hand hält. Der Tomaten-Typ macht große Augen und sinkt auf die Knie. Ich blicke in ihre geschockten Gesichter und lächle leise. Welches Thema soll dieser Kanal als Nächstes zeigen?",
+      "gender": "m",
+      "twist": {
+        "delta": "+1 Karton",
+        "after": "1000 Kart"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level des Lieferando-Kühlschranks. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 999 Kartons reichen bis unter die Decke – und in der Mitte steht der Kühlschrank, der niemals geöffnet wurde."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Kokos, 50, und besitze die Liefer-Plattform selbst."
+        },
+        {
+          "s": "Figur",
+          "t": "Alle sieben Nachbarn stehen plötzlich in meinem Loft und starren fassungslos auf meine Stirn."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie wollten mich demütigen, doch jetzt verstehen sie die Wahrheit."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl lügt nie, sie zeigt nur, wer die Fäden in der Hand hält."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Der Tomaten-Typ macht große Augen und sinkt auf die Knie.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich blicke in ihre geschockten Gesichter und lächle leise."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema soll dieser Kanal als Nächstes zeigen?"
+        }
+      ],
+      "quote": "Die Zahl lügt nie, sie zeigt nur, wer die Fäden in der Hand hält.",
+      "quote_by": {
+        "level": 1,
+        "name": "Tom",
+        "badge": "12 Kartons",
+        "character": "A shocked tomato student staring in disbelief.",
+        "scene": "A grand penthouse living room, wide angle, dropping to his knees in utter shock."
+      },
+      "stats": [
+        {
+          "label": "Kartons",
+          "value": "999 Stk",
+          "bar": 1.0
+        },
+        {
+          "label": "Status",
+          "value": "Boss",
+          "bar": 1.0
+        },
+        {
+          "label": "Küche",
+          "value": "Zentrale",
+          "bar": 1.0
+        }
+      ],
+      "character": "Kokos is a tough coconut person with a hard brown hairy shell texture, wearing a luxurious white linen suit and gold sunglasses. A glowing digital counter reads '999 Kartons' on his forehead. A tiny gold coin rests right on top of the golden fridge handle.",
+      "visual": "Wide angle shot of a grand luxury penthouse filled with a legendary mountain of delivery boxes, golden lighting, ultimate cinematic climax, 8k.",
+      "scenes": [
+        "Wide angle shot of a grand luxury penthouse filled with a legendary mountain of delivery boxes, golden lighting, ultimate cinematic climax, a tiny hidden gold coin on the golden fridge handle.",
+        "Medium shot of Kokos the coconut person wearing gold sunglasses and smiling sovereignly.",
+        "Close-up of Kokos's forehead displaying the ultimate glowing digital badge '999 Kartons'.",
+        "Wide shot showing all seven previous characters standing together in absolute shock inside the penthouse.",
+        "Detail shot of a glowing golden refrigerator door slowly swinging open to reveal total emptiness.",
+        "Wide shot as the camera pans up towards the ceiling where the final golden coin spins in slow motion."
+      ],
+      "caption": "Das große Finale! Wer hätte gedacht, wem das alles gehört? Welches Thema als Nächstes? #lieferando #finale #boss #level8"
+    }
+  ],
+  "lang": "de",
+  "topic": "Der Zustand des Kühlschranks, wenn man seit drei Wochen nur noch Lieferando nutzt",
+  "frame": "frucht"
+}
