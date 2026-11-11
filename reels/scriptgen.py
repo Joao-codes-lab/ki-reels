@@ -4,6 +4,7 @@ Schlüssel kommen aus Umgebungsvariablen: GEMINI_API_KEY und/oder GROQ_API_KEY.
 """
 import json
 import os
+import time
 import re
 import urllib.error
 import urllib.request
@@ -67,7 +68,7 @@ def _gemini(prompt):
     for model in dict.fromkeys(GEMINI_MODELS):  # Reihenfolge behalten, Duplikate raus
         if model in _dead:
             continue
-        for _ in range(2):  # kaputtes JSON: einmal neu würfeln
+        for attempt in range(4):  # kaputtes JSON: neu würfeln; 503 (überlastet): mit Pause erneut
             try:
                 data = _post(f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={key}",
                              body, {})
@@ -77,6 +78,10 @@ def _gemini(prompt):
                 errors.append(f"{model}: {e}")
                 if e.code in (404, 429):
                     _dead.add(model)
+                if e.code in (500, 502, 503, 504) and attempt < 3:
+                    # nachts ist Gemini oft kurz überlastet: warten statt den ganzen Pilot zu verlieren
+                    time.sleep(int(os.environ.get("GEMINI_503_WAIT", "30")) * (attempt + 1))
+                    continue
                 break
             except Exception as e:
                 errors.append(f"{model}: {e}")
@@ -444,6 +449,19 @@ def _series_text(s):
     return " ".join(str(v) for v in lv.values() if isinstance(v, str)) + " " + str(s.get("title", ""))
 
 
+def _as_series(s):
+    """Normalisiert Antworten von Ersatz-KIs: nackte Level-Liste, verschachteltes Objekt, Level als Dict."""
+    if isinstance(s, list):
+        s = {"levels": s} if s and isinstance(s[0], dict) and ("story" in s[0] or "name" in s[0]) else (s[0] if s else {})
+    if isinstance(s, dict) and "levels" not in s:
+        inner = next((v for v in s.values() if isinstance(v, dict) and "levels" in v), None)
+        if inner:
+            s = inner
+    if isinstance(s, dict) and isinstance(s.get("levels"), dict):
+        s["levels"] = [v for _, v in sorted(s["levels"].items(), key=lambda kv: str(kv[0]).zfill(3))]
+    return s
+
+
 def write_series(topic, lang, frame="aufzug"):
     fr = FRAMES[frame]
     prompt = SERIES_PROMPT.format(topic=topic, lang_name=LANG_NAMES[lang], country=COUNTRIES[lang],
@@ -453,9 +471,16 @@ def write_series(topic, lang, frame="aufzug"):
     prompt += blueprint_hint(topic)
     from . import critic  # unabhängige Jury bewertet und lässt überarbeiten
     min_words = int(os.environ.get("MIN_STORY_WORDS", "130"))
+    words, last_err = 0, None
     for attempt in range(3):
-        s = ensure_next_line(validate_series(ask(prompt)), lang)
-        s = ensure_next_line(validate_series(critic.improve_series(s, ask, f"{lang}_{frame}_{topic}")), lang)
+        try:
+            s = ensure_next_line(validate_series(_as_series(ask(prompt))), lang)
+            s = ensure_next_line(validate_series(_as_series(critic.improve_series(s, ask, f"{lang}_{frame}_{topic}"))), lang)
+        except (AssertionError, TypeError, KeyError, AttributeError, IndexError) as e:
+            # Ersatz-KIs liefern gern 7 Level oder eine nackte Liste: neu würfeln statt den Pilot zu verlieren
+            last_err = e
+            print(f"  Antwort unbrauchbar ({e}), neuer Versuch")
+            continue
         words = len(s["levels"][0]["story"].split())
         txt = _series_text(s)
         words_all = re.findall(r"[a-zäöüß]+", txt.lower())
@@ -470,7 +495,7 @@ def write_series(topic, lang, frame="aufzug"):
         # Ersatz-KIs (wenn Gemini am Limit ist) ignorieren gern die Länge: lieber neu als ein 20-Sekunden-Video
         print(f"  Story zu kurz ({words} Wörter), neuer Versuch")
     else:
-        raise ValueError(f"Story bleibt zu kurz oder in falscher Sprache ({words} Wörter)")
+        raise ValueError(f"Story bleibt zu kurz, unvollständig oder in falscher Sprache ({words} Wörter; {last_err})")
     s.update({"lang": lang, "topic": topic, "frame": frame})
     return s
 
