@@ -145,15 +145,26 @@ def quote_card(text, label):
     return img
 
 
+def _title_parts(title, lab):
+    """Teilt "Die 8 Level des X" in Kopfzeile + Thema, ohne "DIE 8 LEVEL VON / DIE 8 LEVEL DES ..." doppelt zu zeigen."""
+    m = re.match(r"^\s*(Die|The)\s+8\s+Levels?\s+(\w+)\s+(.+)$", title, flags=re.I)
+    if not m:
+        return title.upper(), lab["levels"]
+    prep, rest = m.group(2), m.group(3)
+    if prep.lower() in ("von", "of"):
+        return rest.upper(), lab["levels"]
+    base = lab["levels"].rsplit(" ", 1)[0]  # "DIE 8 LEVEL" / "THE 8 LEVELS"
+    return rest.upper(), f"{base} {prep.upper()}"
+
+
 def leaderboard(series, n, lab, reveal):
     """Rangliste wie beim Vorbild: Level 8 oben, nur bisher gezeigte Level sind aufgedeckt."""
     img = Image.new("RGB", (W, H), INK)
     d = ImageDraw.Draw(img)
     topic = series["title"].split("...")[-1]
-    head = lab["levels"]
+    sub, head = _title_parts(series["title"], lab)
     hw = d.textlength(head, font=F_MONO(28))
     d.text((SAFE_CX - hw / 2, 330), head, font=F_MONO(28), fill=(170, 160, 150))
-    sub = re.sub(r"^(Die|The)\s+8\s+Level[s]?\s+(von|of)\s+", "", series["title"], flags=re.I).upper()
     fs = fit_font(d, sub, F_COND, 84, SAFE_W)
     sw = d.textlength(sub, font=fs)
     d.text((SAFE_CX - sw / 2, 375), sub, font=fs, fill=(255, 255, 255))
@@ -205,8 +216,7 @@ def endcard(series, n, lab, t, pic):
     bg = pic.resize((W // 8, H // 8)).filter(ImageFilter.GaussianBlur(3)).resize((W, H))
     img = Image.blend(bg, Image.new("RGB", (W, H), (12, 10, 14)), 0.55)
     d = ImageDraw.Draw(img, "RGBA")
-    sub = re.sub(r"^(Die|The)\s+8\s+Level[s]?\s+(von|of)\s+", "", series["title"], flags=re.I).upper()
-    head = lab["levels"]
+    sub, head = _title_parts(series["title"], lab)
     hw = d.textlength(head, font=F_MONO(28))
     d.text((SAFE_CX - hw / 2, 170), head, font=F_MONO(28), fill=(235, 228, 215))
     fs = fit_font(d, sub, F_COND, 96, SAFE_W)

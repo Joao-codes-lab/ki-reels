@@ -435,11 +435,16 @@ def _looks_german(text):
     words = re.findall(r"[a-zäöüß]+", text.lower())
     if not words:
         return False
-    if sum(w in GERMAN_WORDS for w in words) / len(words) > 0.08 or re.search(r"[äöüß]", text.lower()):
+    umlaut_words = [w for w in words if re.search(r"[äöüß]", w)]
+    if sum(w in GERMAN_WORDS for w in words) / len(words) > 0.08 or len(umlaut_words) >= 2:
+        # ein einzelner Name wie "Jürgen" reicht nicht, zwei Umlaut-Wörter schon
+        print("  Sprachprüfung: Deutsch erkannt", umlaut_words[:3])
         return True
     for sent in re.split(r"[.!?\n]+", text.lower()):
         w = re.findall(r"[a-z]+", sent)
-        if len(w) >= 3 and sum(x in GERMAN_WORDS for x in w) >= 2:
+        # "die" ist auch ein englisches Wort und zählt hier nicht
+        if len(w) >= 3 and sum(x in GERMAN_WORDS and x != "die" for x in w) >= 2:
+            print("  Sprachprüfung: deutscher Satz:", sent.strip()[:100])
             return True
     return False
 
