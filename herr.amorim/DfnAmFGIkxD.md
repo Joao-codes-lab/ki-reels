@@ -2,7 +2,7 @@
 
 - URL: https://www.instagram.com/p/DfnAmFGIkxD/
 - Dauer: 103.5 s, Sprache: de
-- Likes: 1292, Kommentare: 52, Views: 64434
+- Likes: 2753, Kommentare: 100, Views: 152172
 - Datum: 2026-11-11T17:27:18.000Z
 
 ## Beschreibung
