@@ -60,6 +60,9 @@ def _post(url, body, headers, timeout=300):
         return json.load(r)
 
 
+_wait_budget = [int(os.environ.get("GEMINI_WAIT_BUDGET", "1200"))]  # Sekunden pro Lauf
+
+
 def _gemini(prompt):
     key = os.environ["GEMINI_API_KEY"]
     body = {"contents": [{"parts": [{"text": prompt}]}],
@@ -78,9 +81,12 @@ def _gemini(prompt):
                 errors.append(f"{model}: {e}")
                 if e.code in (404, 429):
                     _dead.add(model)
-                if e.code in (500, 502, 503, 504) and attempt < 3:
-                    # nachts ist Gemini oft kurz überlastet: warten statt den ganzen Pilot zu verlieren
-                    time.sleep(int(os.environ.get("GEMINI_503_WAIT", "30")) * (attempt + 1))
+                wait = int(os.environ.get("GEMINI_503_WAIT", "20")) * (attempt + 1)
+                if e.code in (500, 502, 503, 504) and attempt < 2 and _wait_budget[0] >= wait:
+                    # nachts ist Gemini oft kurz überlastet: warten statt den Pilot zu verlieren,
+                    # aber insgesamt begrenzt, sonst läuft der Job in sein Zeitlimit (11./12.11. abgebrochen)
+                    _wait_budget[0] -= wait
+                    time.sleep(wait)
                     continue
                 break
             except Exception as e:
@@ -490,7 +496,9 @@ def write_series(topic, lang, frame="aufzug"):
         txt = _series_text(s)
         words_all = re.findall(r"[a-zäöüß]+", txt.lower())
         de_ratio = sum(w in GERMAN_WORDS for w in words_all) / max(1, len(words_all))
-        if (lang != "de" and _looks_german(txt)) or (lang == "de" and de_ratio < 0.05):
+        title = str(s.get("title", "")).strip()
+        title_wrong = (lang == "de" and re.match(r"(?i)the\b", title)) or (lang != "de" and re.match(r"(?i)die\s+8", title))
+        if title_wrong or (lang != "de" and _looks_german(txt)) or (lang == "de" and de_ratio < 0.05):
             # Ersatz-KIs schreiben bei deutschem Prompt gern auf Deutsch: eine EN-Folge mit deutscher Stimme ist wertlos
             print("  Story in falscher Sprache statt", LANG_NAMES[lang], "– neuer Versuch")
             prompt += f"\nWICHTIG: Schreibe ALLE Texte (Titel, Story, Zeilen, Captions) ausschließlich auf {LANG_NAMES[lang]}."
