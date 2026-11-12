@@ -1,0 +1,821 @@
+{
+  "title": "Die 8 Level vom plötzlichen Ick",
+  "house": "A bustling fruit-and-veg metropolis where neon-lit digital foreheads flash social and financial statuses over damp asphalt streets, crowded tram lines, and trendy organic cafes.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Level 1 mentions the loud alarm clock from Level 4's broken sleep routine.",
+    "Level 2's barista is later spotted buying an energy drink at Level 5's kiosk.",
+    "Level 3 drops a takeaway bag from the noodle stall where Level 6 works.",
+    "Level 4 finds a dropped receipt from Level 7's exclusive boutique.",
+    "Level 5 complains about the exact delivery driver featured in Level 8."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Warum hat er beim Bezahlen plötzlich vier Cent extra auf den Tisch gelegt und die Flucht ergriffen?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Lacht sie an der Kinokasse laut aus und nennt sie einen billigen Fehlkauf."
+      },
+      "name": "Mia, 23, Studentin",
+      "badge": "0.1 Ick-Faktor",
+      "verdict": "VOLLKATASTROPHE",
+      "story": "Die 8 Level vom plötzlichen Ick. Level 1. Level 1: 0.1 Ick-Faktor – und nach dem ersten Date will ich einfach nur im Erdboden versinken. Mein Date Jonas, eine schnöde Kartoffel, holt mich pünktlich vor der Tür ab, als es passiert. Mit dieser niedrigen Zahl auf der Stirn kannst du dir sowieso keinen Kaffee im Bistro leisten. Jonas mustert mein neonpinkes Erdbeer-Gesicht und seine Zähne blitzen spöttisch im Neonlicht. Jonas, der selbst mit einer dicken Vier auf der Stirn rumlauft, grinst mich von der Seite an. Wie stehst du zu solchen roten Flaggen beim ersten Treffen? Wir gehen in diesen winzigen Kiosk an der Haltestelle. Plötzlich zieht er einen Kamm aus der Tasche und kämmt sich demonstrativ die Knolle im Restaurant! Da merke ich, wie sich mein Magen schlagartig umdreht und der Puls rast. Dann sagte er diesen einen Satz, der alles verändert hat ... Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+5.0 Ick",
+        "after": "5.1 Ick"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom plötzlichen Ick. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 0.1 Ick-Faktor – und nach dem ersten Date will ich einfach nur im Erdboden versinken."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Date Jonas, eine schnöde Kartoffel, holt mich pünktlich vor der Tür ab, als es passiert."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit dieser niedrigen Zahl auf der Stirn kannst du dir sowieso keinen Kaffee im Bistro leisten.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Jonas mustert mein neonpinkes Erdbeer-Gesicht und seine Zähne blitzen spöttisch im Neonlicht."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Jonas, der selbst mit einer dicken Vier auf der Stirn rumlauft, grinst mich von der Seite an.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wie stehst du zu solchen roten Flaggen beim ersten Treffen? Wir gehen in diesen winzigen Kiosk an der Haltestelle."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich zieht er einen Kamm aus der Tasche und kämmt sich demonstrativ die Knolle im Restaurant!"
+        },
+        {
+          "s": "Figur",
+          "t": "Da merke ich, wie sich mein Magen schlagartig umdreht und der Puls rast."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Dann sagte er diesen einen Satz, der alles verändert hat ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Mit dieser niedrigen Zahl auf der Stirn kannst du dir sowieso keinen Kaffee im Bistro leisten.",
+      "quote_by": {
+        "level": 6,
+        "name": "Jonas",
+        "badge": "4.8 Ick",
+        "character": "A smug potato man with rough brown skin, wearing a tight polyester vest and holding a golden coin in his pocket.",
+        "scene": "Wide street view at dusk, a potato man sneering at a strawberry woman outside a neon-lit kiosk, flashing a digital 4.8 on his forehead."
+      },
+      "stats": [
+        {
+          "label": "Ick-Faktor",
+          "value": "0.1",
+          "bar": 0.05
+        },
+        {
+          "label": "Toleranz",
+          "value": "12 %",
+          "bar": 0.12
+        },
+        {
+          "label": "Fluchtweg",
+          "value": "20 m",
+          "bar": 0.2
+        }
+      ],
+      "character": "A fresh strawberry woman with glossy bright red skin, tiny green leaf hair clips, wearing a faded denim jacket, and a glowing digital '0.1' on her forehead.",
+      "visual": "Close-up of a strawberry woman with a glowing digital forehead in a rainy urban alley, looking shocked while a potato man laughs next to her.",
+      "scenes": [
+        "Wide shot of a damp Berlin tram stop at night, streetlights reflecting on wet asphalt, a strawberry woman waiting nervously.",
+        "Medium shot inside a glowing neon kiosk, a potato man holding a cheap comb while sneering at the strawberry.",
+        "Detail shot of a glowing digital forehead displaying '0.1' with a tiny hidden gold coin resting on the pavement nearby.",
+        "Close-up of the strawberry woman's hands gripping a paper coffee cup tightly in frustration.",
+        "Wide shot of a crowded underground station staircase, commuters rushing past under harsh fluorescent lights.",
+        "Medium shot outside a bakery window, the strawberry looking at her reflection in disgust."
+      ],
+      "caption": "Wer kennt diesen absoluten Abtörn beim ersten Date? 🚩 #beziehung #ick #trashfaktor #datingfails #storytime"
+    },
+    {
+      "n": 2,
+      "open_loop": "Welches dunkle Geheimnis verbirgt sich in der Speisekammer des vermeintlichen Traumprinzen?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Schüttet demonstrativ ihren Drink weg und behauptet, ihr Atem rieche nach Zwiebeln."
+      },
+      "name": "Ben, 26, Barista",
+      "badge": "1.4 Ick",
+      "verdict": "KNAPP VORBEI",
+      "story": "Die 8 Level vom plötzlichen Ick. Level 2. Level 2: 1.4 Ick – und ich dachte, ich hätte den perfekten Partner gefunden. Sie ist eine elegante Orange, riecht nach teurem Parfüm und hat eine schlanke Figur. Mit so einer klebrigen Kaffeearbeit wirst du niemals in meiner Liga spielen. Sie mustert meine Stirnanzeige, während um uns herum die Reichen lachen. Die Orangenfrau lacht kalt und sagt genau diesen Satz in mein Gesicht. Ich spüre, wie mir die Röte ins Gesicht steigt und der Kaffeesatz in meinem Hals stecken bleibt. Warum passieren mir solche Dinge immer bei Kerzenschein? Sie wirft mir einen Blick zu, als wäre ich ein Stück Abfall auf der Straße. Dann sagte sie diesen einen Satz, der alles verändert hat ... Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+2.0 Ick",
+        "after": "3.4 Ick"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom plötzlichen Ick. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 1.4 Ick – und ich dachte, ich hätte den perfekten Partner gefunden."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie ist eine elegante Orange, riecht nach teurem Parfüm und hat eine schlanke Figur."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit so einer klebrigen Kaffeearbeit wirst du niemals in meiner Liga spielen.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie mustert meine Stirnanzeige, während um uns herum die Reichen lachen."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Die Orangenfrau lacht kalt und sagt genau diesen Satz in mein Gesicht.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Ich spüre, wie mir die Röte ins Gesicht steigt und der Kaffeesatz in meinem Hals stecken bleibt."
+        },
+        {
+          "s": "Figur",
+          "t": "Warum passieren mir solche Dinge immer bei Kerzenschein?"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie wirft mir einen Blick zu, als wäre ich ein Stück Abfall auf der Straße."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Dann sagte sie diesen einen Satz, der alles verändert hat ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Mit so einer klebrigen Kaffeearbeit wirst du niemals in meiner Liga spielen.",
+      "quote_by": {
+        "level": 5,
+        "name": "Clara",
+        "badge": "6.2 Ick",
+        "character": "A vibrant orange woman with textured citrus peel skin, wearing a silk trench coat and gold earrings.",
+        "scene": "Rooftop bar at night with string lights, an orange woman sneering at a coffee-bean man while pointing at his forehead."
+      },
+      "stats": [
+        {
+          "label": "Ick-Faktor",
+          "value": "1.4",
+          "bar": 0.2
+        },
+        {
+          "label": "Charme",
+          "value": "45 %",
+          "bar": 0.45
+        },
+        {
+          "label": "Trinkgeld",
+          "value": "0.50 €",
+          "bar": 0.1
+        }
+      ],
+      "character": "A handsome roasted coffee-bean man with dark brown textured skin, wearing a clean barista apron, and a glowing digital '1.4' on his forehead.",
+      "visual": "Medium shot of a coffee-bean man standing behind a glowing cocktail bar, looking hurt as an orange woman turns her back on him.",
+      "scenes": [
+        "Wide shot of a luxury rooftop bar in Cologne with fairy lights and modern steel furniture.",
+        "Close-up of the coffee-bean man pouring steamed milk into a glass cup with artistic foam.",
+        "Detail shot of a digital forehead glowing '1.4' with a tiny gold coin hidden in the saucer rim.",
+        "Medium shot of the elegant orange woman crossing her arms and looking away in disgust.",
+        "Wide shot of a rainy street below the rooftop, cars driving past with blurred headlights.",
+        "Close-up of a broken cocktail glass reflecting neon pink lights on the wooden table."
+      ],
+      "caption": "Wenn der vermeintliche Traumtyp plötzlich den absoluten Ick-Moment auspackt! ☕ #datingshow #beziehung #ick #kaffee"
+    },
+    {
+      "n": 3,
+      "open_loop": "Wer hat die geheimnisvolle Nachricht auf dem Badezimmerspiegel hinterlassen?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Zieht demonstrativ Designer-Handschuhe an, um sie nicht berühren zu müssen."
+      },
+      "name": "Sarah, 29, Grafikdesignerin",
+      "badge": "2.8 Ick",
+      "verdict": "SCHRECKLICH",
+      "story": "Die 8 Level vom plötzlichen Ick. Level 3. Level 3: 2.8 Ick – und ich stehe im veganen Restaurant mit einem Typen, der denkt, er sei ein Gott. Leon ist eine knackige Avocado, trainiert, mit perfekten Konturen und einer Stirnzahl, die blendet. Mit dieser schlechten Aussprache kannst du unmöglich meine Partnerin werden. Leon beugt sich über den Tisch und seine Stirn flackert bedrohlich in dem gedimmten Kerzenlicht. Leon, der sonst nur die dicksten Fische an Land zieht, schüttelt angewidert den Kopf. Hast du dich schon mal gefragt, warum manche Menschen sofort die Flucht ergreifen? Er korrigiert meine Grammatik mitten im Satz und tut so, als wäre er Professor. Ich merke, wie meine Avocado-Haut kribbelt vor purem Fremdscham und Wut. Dann sagte er diesen einen Satz, der alles verändert hat ... Das siehst du in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1.5 Ick",
+        "after": "4.3 Ick"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom plötzlichen Ick. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 2.8 Ick – und ich stehe im veganen Restaurant mit einem Typen, der denkt, er sei ein Gott."
+        },
+        {
+          "s": "Figur",
+          "t": "Leon ist eine knackige Avocado, trainiert, mit perfekten Konturen und einer Stirnzahl, die blendet."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit dieser schlechten Aussprache kannst du unmöglich meine Partnerin werden.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Leon beugt sich über den Tisch und seine Stirn flackert bedrohlich in dem gedimmten Kerzenlicht."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Leon, der sonst nur die dicksten Fische an Land zieht, schüttelt angewidert den Kopf.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Hast du dich schon mal gefragt, warum manche Menschen sofort die Flucht ergreifen?"
+        },
+        {
+          "s": "Figur",
+          "t": "Er korrigiert meine Grammatik mitten im Satz und tut so, als wäre er Professor."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich merke, wie meine Avocado-Haut kribbelt vor purem Fremdscham und Wut."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Dann sagte er diesen einen Satz, der alles verändert hat ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Mit dieser schlechten Aussprache kannst du unmöglich meine Partnerin werden.",
+      "quote_by": {
+        "level": 7,
+        "name": "Leon",
+        "badge": "7.9 Ick",
+        "character": "An arrogant avocado man with dark green bumpy skin, wearing a tailored linen shirt and expensive watch.",
+        "scene": "A dim vegan restaurant with exposed brick walls, an avocado man sneering across a wooden table at a graphic designer."
+      },
+      "stats": [
+        {
+          "label": "Ick-Faktor",
+          "value": "2.8",
+          "bar": 0.35
+        },
+        {
+          "label": "Geduld",
+          "value": "30 %",
+          "bar": 0.3
+        },
+        {
+          "label": "Humor",
+          "value": "10 %",
+          "bar": 0.1
+        }
+      ],
+      "character": "A creative avocado woman with smooth pale green skin, dark messy hair, wearing an oversized thrift-store sweater, and a glowing digital '2.8' on her forehead.",
+      "visual": "Close-up of an avocado woman looking annoyed in a trendy vegan restaurant while her date rolls his eyes.",
+      "scenes": [
+        "Wide shot of a chic vegan bistro with hanging plants and warm Edison bulbs.",
+        "Medium shot of the avocado man pointing his finger condescendingly across the dinner table.",
+        "Detail shot of a digital forehead glowing '2.8' with a hidden gold coin tucked under the salt shaker.",
+        "Close-up of a half-eaten bowl of hummus with olive oil swirls.",
+        "Wide shot of a dark city street outside the restaurant window with passing cyclists.",
+        "Medium shot of the avocado woman grabbing her leather handbag to storm out."
+      ],
+      "caption": "Wenn der Typ beim Date anfängt, deine Grammatik zu korrigieren... 🥑 #datingfails #beziehungsunfähig #ick #beziehung"
+    },
+    {
+      "n": 4,
+      "open_loop": "Was hat der mysteriöse Fremde in der U-Bahn in sein Notizbuch gekritzelt?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Starrt sie im Aufzug an und macht sich lauthals über ihre Frisur lustig."
+      },
+      "name": "Tom, 31, Buchhalter",
+      "badge": "3.5 Ick",
+      "verdict": "FAST ERTRÄGLICH",
+      "story": "Die 8 Level vom plötzlichen Ick. Level 4. Level 4: 3.5 Ick – und ich dachte, ich gebe ihr eine zweite Chance im Kino. Sie ist eine saure Zitrone, gelb, runzelig und immer am Meckern über das Popcorn. Mit diesem langweiligen Bürojob wirst du niemals eine Frau beeindrucken. Sie mustert mein schlichtes Hemd und verdreht demonstrativ ihre gelben Augen. Die Zitronenfrau schnauft verächtlich und wirft mir einen Blick zu, der töten könnte. Kennst du diese Momente, in denen du einfach nur im Erdboden versinken willst? Sie kaut laut mit offenem Mund und meckert über den Trailer. Ich spüre, wie mein Kontostand und mein Selbstbewusstsein gleichzeitig in den Keller rauschen. Dann sagte sie diesen einen Satz, der alles verändert hat ... Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+2.2 Ick",
+        "after": "5.7 Ick"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom plötzlichen Ick. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 3.5 Ick – und ich dachte, ich gebe ihr eine zweite Chance im Kino."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie ist eine saure Zitrone, gelb, runzelig und immer am Meckern über das Popcorn."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit diesem langweiligen Bürojob wirst du niemals eine Frau beeindrucken.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie mustert mein schlichtes Hemd und verdreht demonstrativ ihre gelben Augen."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Die Zitronenfrau schnauft verächtlich und wirft mir einen Blick zu, der töten könnte.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Kennst du diese Momente, in denen du einfach nur im Erdboden versinken willst?"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie kaut laut mit offenem Mund und meckert über den Trailer."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich spüre, wie mein Kontostand und mein Selbstbewusstsein gleichzeitig in den Keller rauschen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Dann sagte sie diesen einen Satz, der alles verändert hat ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Mit diesem langweiligen Bürojob wirst du niemals eine Frau beeindrucken.",
+      "quote_by": {
+        "level": 1,
+        "name": "Mia",
+        "badge": "1.2 Ick",
+        "character": "A sour lemon woman with bumpy yellow skin, wearing a trench coat and scowling intensely.",
+        "scene": "A dark cinema hall illuminated by the movie screen, a lemon woman mocking a seated accountant."
+      },
+      "stats": [
+        {
+          "label": "Ick-Faktor",
+          "value": "3.5",
+          "bar": 0.45
+        },
+        {
+          "label": "Kino-Snack",
+          "value": "Popcorn",
+          "bar": 0.5
+        },
+        {
+          "label": "Mut",
+          "value": "25 %",
+          "bar": 0.25
+        }
+      ],
+      "character": "A neat lemon man with pale yellow citrus skin, wire-rimmed glasses, wearing a beige cardigan, and a glowing digital '3.5' on his forehead.",
+      "visual": "Medium shot of a lemon man sitting in a cinema chair, looking deeply uncomfortable while his date eats noisily.",
+      "scenes": [
+        "Wide shot of a vintage cinema interior with red velvet seats and glowing exit signs.",
+        "Close-up of a bucket of sweet popcorn spilling over the armrest.",
+        "Detail shot of a digital forehead glowing '3.5' with a tiny gold coin resting on the popcorn box.",
+        "Medium shot of the lemon woman glaring sideways with folded arms.",
+        "Wide shot of the cinema foyer with movie posters and neon ticket booths.",
+        "Close-up of a ticket stub torn in half on the sticky carpet floor."
+      ],
+      "caption": "Kino-Date mit Hindernissen: Wenn die Begleitung einfach alle No-Gos mitnimmt. 🍿 #kino #datingfails #ick #humor"
+    },
+    {
+      "n": 5,
+      "open_loop": "Welche dunkle Wahrheit verbirgt sich hinter dem Lächeln der Blumenverkäuferin?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Schubst sie im Supermarkt zur Seite und drängelt sich an der Kasse vor."
+      },
+      "name": "Lisa, 27, Fitnesstrainerin",
+      "badge": "4.9 Ick",
+      "verdict": "KRITISCH",
+      "story": "Die 8 Level vom plötzlichen Ick. Level 5. Level 5: 4.9 Ick – und ich dachte, der Typ im Sportwagen wäre mein Jackpot. Julian ist eine glänzende Kokosnuss, hart, unnahbar und stolz auf seinen dicken Geldbeutel. Mit deinen billigen Hanteln wirst du im Leben niemals ganz nach oben kommen. Wir stehen im Fitnessstudio an der Saftbar, als er anfängt, ungefragt meine Trainingsübung zu kritisieren. Der Kokosnuss-Mann lacht arrogant und zeigt stolz auf seine hohe Stirn. Hast du dich jemals gefragt, ob du den Falschen datest? Er fängt an, vor allen Leuten laut zu telefonieren und anzugeben. Ich spüre, wie meine harte Schale Risse bekommt und die Wut in mir hochkocht. Dann sagte er diesen einen Satz, der alles verändert hat ... Das siehst du in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1.8 Ick",
+        "after": "6.7 Ick"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom plötzlichen Ick. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 4.9 Ick – und ich dachte, der Typ im Sportwagen wäre mein Jackpot."
+        },
+        {
+          "s": "Figur",
+          "t": "Julian ist eine glänzende Kokosnuss, hart, unnahbar und stolz auf seinen dicken Geldbeutel."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit deinen billigen Hanteln wirst du im Leben niemals ganz nach oben kommen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Wir stehen im Fitnessstudio an der Saftbar, als er anfängt, ungefragt meine Trainingsübung zu kritisieren."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Der Kokosnuss-Mann lacht arrogant und zeigt stolz auf seine hohe Stirn.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Hast du dich jemals gefragt, ob du den Falschen datest?"
+        },
+        {
+          "s": "Figur",
+          "t": "Er fängt an, vor allen Leuten laut zu telefonieren und anzugeben."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich spüre, wie meine harte Schale Risse bekommt und die Wut in mir hochkocht."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Dann sagte er diesen einen Satz, der alles verändert hat ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Mit deinen billigen Hanteln wirst du im Leben niemals ganz nach oben kommen.",
+      "quote_by": {
+        "level": 3,
+        "name": "Julian",
+        "badge": "5.5 Ick",
+        "character": "A hard-shelled coconut man with fibrous brown hair texture, wearing a designer gym tracksuit.",
+        "scene": "A modern gym with neon blue lights, a coconut man flexing his muscles and mocking a fit woman."
+      },
+      "stats": [
+        {
+          "label": "Ick-Faktor",
+          "value": "4.9",
+          "bar": 0.6
+        },
+        {
+          "label": "Stärke",
+          "value": "90 %",
+          "bar": 0.9
+        },
+        {
+          "label": "Geduld",
+          "value": "5 %",
+          "bar": 0.05
+        }
+      ],
+      "character": "A toned coconut woman with fibrous textured brown husk hair, wearing professional gym leggings, and a glowing digital '4.9' on her forehead.",
+      "visual": "Medium shot of a coconut woman holding a protein shaker in a gym, looking furious at a bragging man.",
+      "scenes": [
+        "Wide shot of a high-end gym with rows of chrome weights and mirrored walls.",
+        "Close-up of a protein shaker bottle dripping water onto a rubber mat.",
+        "Detail shot of a digital forehead glowing '4.9' with a hidden gold coin tucked under a dumbbell handle.",
+        "Medium shot of the coconut man posing in front of the mirror with an arrogant grin.",
+        "Wide shot of the gym reception desk with blue LED strip lighting.",
+        "Close-up of a gym membership card snapping in half between two fingers."
+      ],
+      "caption": "Im Fitnessstudio den falschen Typen getroffen? Diese rote Flagge sieht man sofort! 🏋️‍♀️ #gymfails #beziehung #ick #fitness"
+    },
+    {
+      "n": 6,
+      "open_loop": "Was war wirklich in dem mysteriösen Umschlag, den der Lieferant fallen ließ?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Beschwert sich im Café laut über seine Kaffeebestellung und beleidigt ihn."
+      },
+      "name": "Marco, 32, Koch",
+      "badge": "6.1 Ick",
+      "verdict": "GEFÄHRLICH",
+      "story": "Die 8 Level vom plötzlichen Ick. Level 6. Level 6: 6.1 Ick – und ich dachte, das Abendessen in meinem Restaurant wird ein romantischer Erfolg. Sie ist eine exotische Drachenfrucht, pink, stachelig und überzeugt von ihrer eigenen Perfektion. Mit so einem einfachen Küchenjob wirst du in meinem Leben keinen Platz finden. Wir stehen in der offenen Küche, als sie anfängt, das frisch zubereitete Risotto zu kritisieren. Sie mustert meine Kochjacke mit einem Blick, als käme ich direkt aus dem Müll. Kennst du das Gefühl, wenn ein Date komplett in die falsche Richtung läuft? Sie tippt ununterbrochen auf ihrem goldenen Smartphone herum und ignoriert mich völlig. Ich merke, wie meine Kochmütze brennt und die Nerven blank liegen. Dann sagte er diesen einen Satz, der alles verändert hat ... Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1.9 Ick",
+        "after": "8.0 Ick"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom plötzlichen Ick. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 6.1 Ick – und ich dachte, das Abendessen in meinem Restaurant wird ein romantischer Erfolg."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie ist eine exotische Drachenfrucht, pink, stachelig und überzeugt von ihrer eigenen Perfektion."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit so einem einfachen Küchenjob wirst du in meinem Leben keinen Platz finden.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Wir stehen in der offenen Küche, als sie anfängt, das frisch zubereitete Risotto zu kritisieren."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Sie mustert meine Kochjacke mit einem Blick, als käme ich direkt aus dem Müll.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Kennst du das Gefühl, wenn ein Date komplett in die falsche Richtung läuft?"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie tippt ununterbrochen auf ihrem goldenen Smartphone herum und ignoriert mich völlig."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich merke, wie meine Kochmütze brennt und die Nerven blank liegen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Dann sagte er diesen einen Satz, der alles verändert hat ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Mit so einem einfachen Küchenjob wirst du in meinem Leben keinen Platz finden.",
+      "quote_by": {
+        "level": 2,
+        "name": "Stella",
+        "badge": "6.8 Ick",
+        "character": "An exotic dragonfruit woman with bright pink scaled skin and green leaf tips, wearing a designer silk dress.",
+        "scene": "A professional stainless steel restaurant kitchen, a pink dragonfruit woman crossing her arms and sneering at a chef."
+      },
+      "stats": [
+        {
+          "label": "Ick-Faktor",
+          "value": "6.1",
+          "bar": 0.75
+        },
+        {
+          "label": "Küche",
+          "value": "95 %",
+          "bar": 0.95
+        },
+        {
+          "label": "Geduld",
+          "value": "15 %",
+          "bar": 0.15
+        }
+      ],
+      "character": "A passionate broccoli man with dark green florets for hair, wearing a spotless white chef jacket, and a glowing digital '6.1' on his forehead.",
+      "visual": "Medium shot of a broccoli chef standing in a professional kitchen, looking utterly exhausted while a date complains.",
+      "scenes": [
+        "Wide shot of a bustling restaurant kitchen with stainless steel counters and copper pots.",
+        "Close-up of a ceramic plate with gourmet risotto and fresh herbs.",
+        "Detail shot of a digital forehead glowing '6.1' with a hidden gold coin on the cutting board.",
+        "Medium shot of the dragonfruit woman scrolling on her phone with an unimpressed expression.",
+        "Wide shot of the restaurant dining room with candlelit tables and whispering guests.",
+        "Close-up of a metal spatula clattering onto the tiled floor."
+      ],
+      "caption": "Wenn man für jemanden kocht und nur Undankbarkeit zurückbekommt. 👨‍🍳 #gastro #datingfails #ick #haubenkoch"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welches dunkle Geheimnis verbirgt sich im Tresor des Managers?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Lacht sie im Aufzug aus und behauptet, ihre Designer-Tasche sei gefälscht."
+      },
+      "name": "Nadja, 35, Architektin",
+      "badge": "7.8 Ick",
+      "verdict": "ABSOLUTES NO-GO",
+      "story": "Die 8 Level vom plötzlichen Ick. Level 7. Level 7: 7.8 Ick – und ich dachte, dieser Abend in der VIP-Lounge wird endlich auf Augenhöhe sein. Er ist eine goldene Ananas, perfekt frisiert, mit einer Stirnzahl, die jeden Raum dominiert. Mit diesen Entwürfen wirst du in der Architekten-Elite niemals ernst genommen. Wir stehen vor dem Panoramafenster, als er anfängt, ungefragt meine Bauprojekte zu kritisieren. Er mustert meinen maßgeschneiderten Anzug mit einem Blick voller purer Arroganz. Hast du dich jemals gefragt, wie oberflächlich Menschen wirklich sein können? Er telefoniert laut mit seinem Makler und prahlt mit seinen Aktien. Ich spüre, wie meine goldene Schale kocht und mir die Worte im Hals stecken bleiben. Dann sagte er diesen einen Satz, der alles verändert hat ... Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1.7 Ick",
+        "after": "9.5 Ick"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom plötzlichen Ick. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 7.8 Ick – und ich dachte, dieser Abend in der VIP-Lounge wird endlich auf Augenhöhe sein."
+        },
+        {
+          "s": "Figur",
+          "t": "Er ist eine goldene Ananas, perfekt frisiert, mit einer Stirnzahl, die jeden Raum dominiert."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit diesen Entwürfen wirst du in der Architekten-Elite niemals ernst genommen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Wir stehen vor dem Panoramafenster, als er anfängt, ungefragt meine Bauprojekte zu kritisieren."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Er mustert meinen maßgeschneiderten Anzug mit einem Blick voller purer Arroganz.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Hast du dich jemals gefragt, wie oberflächlich Menschen wirklich sein können?"
+        },
+        {
+          "s": "Figur",
+          "t": "Er telefoniert laut mit seinem Makler und prahlt mit seinen Aktien."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich spüre, wie meine goldene Schale kocht und mir die Worte im Hals stecken bleiben."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Dann sagte er diesen einen Satz, der alles verändert hat ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Mit diesen Entwürfen wirst du in der Architekten-Elite niemals ernst genommen.",
+      "quote_by": {
+        "level": 4,
+        "name": "Viktor",
+        "badge": "8.5 Ick",
+        "character": "A golden pineapple man with spiky crown leaves, wearing an expensive silk suit and gold cufflinks.",
+        "scene": "A luxury VIP lounge overlooking a skyline at night, a pineapple man mocking an architect."
+      },
+      "stats": [
+        {
+          "label": "Ick-Faktor",
+          "value": "7.8",
+          "bar": 0.88
+        },
+        {
+          "label": "Erfolg",
+          "value": "98 %",
+          "bar": 0.98
+        },
+        {
+          "label": "Ego",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "An elegant pineapple woman with textured golden crown leaves, wearing a sharp designer blazer, and a glowing digital '7.8' on her forehead.",
+      "visual": "Medium shot of a pineapple woman in a high-rise VIP lounge, looking enraged at an arrogant date.",
+      "scenes": [
+        "Wide shot of a luxury penthouse lounge with floor-to-ceiling windows and city lights below.",
+        "Close-up of a champagne flute with bubbling golden liquid.",
+        "Detail shot of a digital forehead glowing '7.8' with a hidden gold coin on the marble windowsill.",
+        "Medium shot of the pineapple man gesturing arrogantly with his hand.",
+        "Wide shot of an architectural blueprint spread out on a glass coffee table.",
+        "Close-up of a sleek black pen snapping in half."
+      ],
+      "caption": "Wenn der Partner in der VIP-Lounge komplett den Bogen überspannt. 🍍 #architektur #vip #ick #luxus"
+    },
+    {
+      "n": 8,
+      "open_loop": "Was passiert, wenn alle Masken fallen und die Stirn-Zahlen plötzlich erlöschen?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Versucht, sich vor allen Gästen zu rechtfertigen und wird blass."
+      },
+      "name": "Robert, 40, Investor",
+      "badge": "9.9 Ick",
+      "verdict": "ENDSTUFE",
+      "story": "Die 8 Level vom plötzlichen Ick. Level 8. Level 8: 9.9 Ick – und das ist der Moment, in dem die Masken endgültig fallen und die Wahrheit ans Licht kommt. Alle vorherigen Date-Partner stehen im großen Ballsaal und starren fassungslos auf meine Stirnanzeige. Warte mal... du bist der Investor, der über unsere Zukunft entscheidet? Ich trete vor das Mikrofon, während die Stadt unter uns im Neonlicht leuchtet. Jeder Einzelne von ihnen hat mich auf den früheren Leveln wegen meiner vermeintlichen Schwächen gedemütigt. Hast du dich jemals gefragt, wer am Ende wirklich die Fäden in der Hand hält? Ich blicke in ihre geschockten Gesichter und lächle ganz entspannt. Die digitale Anzeige auf meiner Stirn springt auf null und erlischt für immer. Welches Thema sollen wir als Nächstes in 8 Leveln auseinandernehmen?",
+      "gender": "m",
+      "twist": {
+        "delta": "0.0 Ick",
+        "after": "0.0 Ick"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom plötzlichen Ick. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 9.9 Ick – und das ist der Moment, in dem die Masken endgültig fallen und die Wahrheit ans Licht kommt."
+        },
+        {
+          "s": "Figur",
+          "t": "Alle vorherigen Date-Partner stehen im großen Ballsaal und starren fassungslos auf meine Stirnanzeige."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Warte mal... du bist der Investor, der über unsere Zukunft entscheidet?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich trete vor das Mikrofon, während die Stadt unter uns im Neonlicht leuchtet."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Jeder Einzelne von ihnen hat mich auf den früheren Leveln wegen meiner vermeintlichen Schwächen gedemütigt.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Hast du dich jemals gefragt, wer am Ende wirklich die Fäden in der Hand hält?"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich blicke in ihre geschockten Gesichter und lächle ganz entspannt."
+        },
+        {
+          "s": "Figur",
+          "t": "Die digitale Anzeige auf meiner Stirn springt auf null und erlischt für immer."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema sollen wir als Nächstes in 8 Leveln auseinandernehmen?"
+        }
+      ],
+      "quote": "Warte mal... du bist der Investor, der über unsere Zukunft entscheidet?",
+      "quote_by": {
+        "level": 7,
+        "name": "Viktor",
+        "badge": "8.5 Ick",
+        "character": "A golden pineapple man with spiky crown leaves, wearing a shocked expression in a grand ballroom.",
+        "scene": "A grand ballroom with crystal chandeliers, an investor revealing his true identity to shocked fruit and veg guests."
+      },
+      "stats": [
+        {
+          "label": "Ick-Faktor",
+          "value": "9.9",
+          "bar": 1.0
+        },
+        {
+          "label": "Macht",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Karma",
+          "value": "MAX",
+          "bar": 1.0
+        }
+      ],
+      "character": "A majestic watermelon man with dark green striped rind head, wearing a tailored black tuxedo, and a glowing digital '9.9' on his forehead.",
+      "visual": "Wide shot of a magnificent grand ballroom with crystal chandeliers, a watermelon man standing calmly in front of stunned guests.",
+      "scenes": [
+        "Wide shot of a luxurious ballroom filled with glowing digital foreheads and crystal chandeliers.",
+        "Close-up of the watermelon man's face as his digital forehead display fades to black.",
+        "Detail shot of a golden coin resting on the podium right beside a microphone.",
+        "Medium shot of all previous antagonists looking at each other in utter disbelief.",
+        "Wide shot through a massive glass facade looking out over the glittering metropolis.",
+        "Close-up of a velvet envelope stamped with a golden wax seal."
+      ],
+      "caption": "Das große Finale! Wer hätte gedacht, wer hier wirklich alle Fäden in der Hand hält? 🍉 #finale #karma #ick #mindblown"
+    }
+  ],
+  "lang": "de",
+  "topic": "Der plötzliche 'Ick' in der Kennenlernphase",
+  "frame": "frucht"
+}

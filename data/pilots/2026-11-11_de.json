@@ -1,28 +1,54 @@
 [
   {
-    "nr": 4,
+    "nr": 2,
     "ersatzbilder": 0,
-    "topic": "Der Zustand des Kühlschranks, wenn man seit drei Wochen nur noch Lieferando nutzt",
+    "topic": "Der plötzliche 'Ick' in der Kennenlernphase",
     "frame": "frucht",
-    "title": "Die 8 Level des Lieferando-Kühlschranks",
-    "file": "2026-11-11_pilot4_de_frucht_der_zustand_des_k_hlschranks_wenn_man_se_teil1.mp4",
-    "hook": "Level 1: Eine einsame Tomate im Gemüsefach. Level 8: Die Kokosnuss findet im hintersten Eck ein Joghurt-Mindesthaltbarkeitsdatum aus dem Jahr 2021, das inzwischen ein eigenes Ökosystem bildet.",
-    "warum": "Verbindet Esskultur, Bequemlichkeit und das Ekel-Faszinations-Phänomen des eigenen Haushalts. Löst sofort peinliches Berührtsein aus.",
-    "score": 83,
+    "title": "Die 8 Level vom plötzlichen Ick",
+    "file": "2026-11-11_pilot2_de_frucht_der_pl_tzliche_ick_in_der_kennenlernphas_teil1.mp4",
+    "hook": "Er war eine makellose Avocado mit einer 10 auf der Stirn – bis er beim Sprinten zur Bahn seinen Rucksack festgehalten hat und seine Zahl vor meinen Augen auf 0 stürzte.",
+    "warum": "'The Ick' ist ein viraler Trend auf TikTok; in Kombination mit der sichtbaren Frucht-Statuszahl wird das irrationale Abturn-Gefühl perfekt bildhaft und meme-tauglich.",
+    "score": 45,
     "jury": [
-      "Visuelle Übergänge zwischen den Leveln und Charakteren noch flüssiger gestalten.",
-      "Die Musikuntermauerung dramatischer an den Wendepunkten anpassen.",
-      "Den Spannungsbogen zum Schluss hin noch etwas stärker zuspitzen."
+      "Visuelle Relevanz schaffen: Zeige passende Szenen (z. B. Date-Situation, Kamm, Bistro), statt dieselben 5 KI-Gemüseköpfe im Loop zu wiederholen.",
+      "Den Einstieg schärfen: Der Hook wirkt abstrakt und verwirrend – eine konkrete visuelle oder inhaltliche Provokation fesselt deutlich stärker.",
+      "Natürlichere Sprecherstimmen nutzen: Die KI-Stimmen klingen stellenweise monoton und unbeteiligt, was die emotionale Bindung zur Story schwächt."
     ],
-    "sid": "de_frucht_der_zustand_des_k_hlschranks_wenn_man_se",
+    "sid": "de_frucht_der_pl_tzliche_ick_in_der_kennenlernphas",
     "design": {
       "punkte": [
         22,
-        18,
-        25
+        31,
+        28
       ],
-      "sieger": 2,
-      "warum": "Bild 2 trifft die Ästhetik von simpsonsvorhersage.n und herr.amorim am besten durch den cartoonhaften, nicht-menschlichen Charakterstil. Bild 1 und 3 wirken zu fotorealistisch und verfehlen den Webcomic-/Figuren-Vibe der Vorbilder."
+      "sieger": 1,
+      "warum": "Bild 1 zeigt nur Kürbisse, kein Wesen. Bild 2 setzt die Fantasy-Figuren-Ästhetik (simpsonsvorhersage/herr.amorim Stil) am besten um und liefert klare Proportionen für Mobile-Viewing, auch wenn der Erdbeer-Bezug hier durch die Farbgebung noch optimiert werden könnte. Bild 3 geht thematisch etwas verloren."
+    }
+  },
+  {
+    "nr": 5,
+    "ersatzbilder": 0,
+    "topic": "Das Verstecken des Partners vor den strengen Eltern",
+    "frame": "frucht",
+    "title": "The 8 Levels of Hiding Your Partner",
+    "file": "2026-11-11_pilot5_de_frucht_das_verstecken_des_partners_vor_den_stre_teil1.mp4",
+    "hook": "Er hat eine strahlende 9 auf der Stirn und bezahlt mir jedes Abendessen, aber sobald meine konservative Mutter anruft, muss die reife Mango im Kleiderschrank ersticken und wird zu Level 0 degradiert.",
+    "warum": "Massiver Identifikationsfaktor für die Second-Gen- und Migranten-Community sowie alle mit übergriffigen Eltern; löst sofort Beichten über jahrelange Geheimbeziehungen in den Kommentaren aus.",
+    "score": 88,
+    "jury": [
+      "Mehr Abwechslung in der Sprachmelodie der KI-Stimme für noch mehr emotionale Tiefe einbauen.",
+      "Die Untertitel an einigen Stellen minimal länger stehen lassen, damit sie entspannter lesbar sind.",
+      "Das Ende noch etwas abrupter oder cliffhanger-lastiger gestalten, um den Reiz auf Level 2 zu maximieren."
+    ],
+    "sid": "de_frucht_das_verstecken_des_partners_vor_den_stre",
+    "design": {
+      "punkte": [
+        28,
+        22,
+        19
+      ],
+      "sieger": 0,
+      "warum": "Bild 0 fängt den surrealen, nicht-menschlichen 3D-Look am besten ein und bringt die geforderte Figur mit digitaler Anzeige (Zahl auf der Stirn im Stil der Vorbilder) am prägnantesten zur Geltung. Bild 1 und 2 verfehlen die spezifischen Szenenelemente zu stark."
     }
   }
 ]

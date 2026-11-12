@@ -1,0 +1,109 @@
+{
+  "best_score": 52,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 5,
+        "story": 4,
+        "identifikation": 3,
+        "verbindungen": 6,
+        "sog": 5,
+        "wut": 4,
+        "merkfaehigkeit": 4,
+        "sprache": 5
+      },
+      "gesamt": 46,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze 'Level 1: 14 Mitglieder...' durch: '2.000 Abonnenten? Warum blockierst du mich, obwohl ich dir bei der Prüfung geholfen habe?'"
+        },
+        {
+          "n": 3,
+          "fix": "Ersetze den Beginn durch: '120 Follower und du traust dich, meine Sprachnachricht öffentlich zu machen? Wir werden sehen, wer lacht.'"
+        },
+        {
+          "n": 7,
+          "fix": "Ersetze den Monolog durch: '5.000 Euro Schulden und du denkst, du kannst mein System übernehmen? Du wirst heute alles verlieren.'"
+        }
+      ],
+      "fazit": "Die Serie hat nette Querverweise, leidet aber unter zu viel abstraktem Tech-Gerede (Server, Admins) statt echter menschlicher Demütigung und Genugtuung. Die Wut fehlt, weil die Konflikte zu klinisch wirken. Mehr Fokus auf soziale Grausamkeit und echten Verrat wie bei den Vorbildern."
+    },
+    {
+      "scores": {
+        "hook": 5,
+        "story": 6,
+        "identifikation": 4,
+        "verbindungen": 7,
+        "sog": 6,
+        "wut": 5,
+        "merkfaehigkeit": 5,
+        "sprache": 4
+      },
+      "gesamt": 52,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den ersten Satz durch eine brutale Demütigung mit extremer Stirnzahl: '2.000 Abonnenten und du wirst von deinem eigenen Azubi-Kollegen aus dem Chef-Chat geworfen?'"
+        },
+        {
+          "n": 3,
+          "fix": "Erhöhe die Wut im dritten Teil durch einen harten Arroganz-Ausbruch des Zitronen-Managers, bevor seine Zahl fällt."
+        },
+        {
+          "n": 7,
+          "fix": "Schreibe die Story-Texte so um, dass jeder Teil echte 175 Wörter an dramatischem Monolog enthält, statt nur kurzer Zeilen."
+        }
+      ],
+      "fazit": "Die Serie hat ein starkes visuelles Konzept und nette Querverweise, aber die Texte sind viel zu kurz (keine 175 Wörter pro Teil) und die Wut über die Bösewichte zündet nicht hart genug, da die Demütigung zu zahm ist."
+    },
+    {
+      "scores": {
+        "hook": 5,
+        "story": 4,
+        "identifikation": 3,
+        "verbindungen": 6,
+        "sog": 5,
+        "wut": 4,
+        "merkfaehigkeit": 4,
+        "sprache": 3
+      },
+      "gesamt": 42,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den sterilen Text durch einen harten Einstieg: '14 Abonnenten? Du wirst von deinem eigenen Azubi-Kollegen Mia aus dem Chef-Chat geworfen, weil du angeblich zu arm für den Tisch bist? Schau auf meine Stirn: Eine glühende 14. Während Mia im Café Latte schlürft und lacht, zeige ich dir heute, wie man das System von unten knackt. Aber pass auf, wer als Nächstes fliegt.'"
+        },
+        {
+          "n": 2,
+          "fix": "Schreibe die Story um zu echter Konfrontation: 'Level 2. 48 Mitglieder im exklusiven Chat – und ich, Mia, stehe hinter der Bar und glaube, mir gehört die Welt. Bis Jonas, der arrogante Berater aus Level 3, plötzlich meinen Admin-Schlüssel klaut und allen meinen Kontostand zeigt. Sieh genau hin, wie meine 48 in Sekundenschnelle abstürzt, während Jonas mich auslacht. Das passiert, wenn man sich mit den Falschen anlegt.'"
+        },
+        {
+          "n": 3,
+          "fix": "Erhöhe den Hassfaktor: 'Level 3. 120 Follower und ich, Jonas, dachte, ich wäre unantastbar. Bis diese verdammte Drachenfrucht Leo meine intimste Sprachnachricht an den Hauptchat leitet und mich als Betrüger entlarvt. Sieh zu, wie meine gelbe Zitrone-Stirn von 120 auf 75 rasselt. Leo grinst mich aus – aber sein Kiosk brennt schon lichterloh.'"
+        },
+        {
+          "n": 4,
+          "fix": "Schärfe den Konflikt: 'Level 4. 250 Mitglieder feiern mich, Leo. Doch Sara, die knallharte Mechanikerin aus Level 5, stürmt meinen Kiosk, schnappt sich mein Backup-Handy und sperrt mich aus. Schau auf meine pinke Stirn: Die Zahl stürzt ab. Sie glaubt, sie hat gewonnen? Warte ab, bis ihre Server in Flammen aufgehen.'"
+        },
+        {
+          "n": 5,
+          "fix": "Fokussiere auf Genugtuung: 'Level 5. 500 Mitglieder vertrauen meiner Firewall. Doch Ben, der elitäre Architekt aus Level 6, spaziert in meine Werkstatt und sperrt mich einfach aus. Meine Kokosnuss-Stirn blutet digital. Er lacht mich aus – bis ich seinen Master-Schlüssel lösche.'"
+        },
+        {
+          "n": 6,
+          "fix": "Maximiere den Verrat: 'Level 6. 1.000 Mitglieder im Master-Chat. Ich, Ben, lenke die Stadtarchitektur von meiner Dachterrasse aus. Bis Elena, die Direktorin aus Level 7, auftaucht und mein Leben mit einem Klick auslöscht. Meine Gurken-Stirn fällt auf 500. Niemand stürzt mich ungestraft.'"
+        },
+        {
+          "n": 7,
+          "fix": "Bringe die Wende auf den Punkt: 'Level 7. 5.000 Mitglieder. Ich, Elena, herrsche über alles. Und dann steht plötzlich Tom – der Typ mit der 14 aus Level 1 – in meinem Rechenzentrum und drückt auf den Master-Shutdown. Meine Stirn-Zahl fällt auf Null. Das Spiel ist vorbei.'"
+        },
+        {
+          "n": 8,
+          "fix": "Setze ein emotionales Ende: 'Level 8. Keine Zahlen mehr. Tom, der ganz unten war, hat alle befreit. Wir stehen wieder an der U-Bahn, aber diesmal ohne digitale Ketten. Schluss mit dem toxischen Wahn. Welches Thema zerlegen wir als Nächstes in 8 Leveln?'"
+        }
+      ],
+      "fazit": "Die Serie hat ein starkes visuelles Konzept und gute Querverweise, scheitert aber an hölzernen, überlangen Monologen und fehlendem TikTok-Sog. Die Figuren klingen wie wütende Roboter statt wie echte Menschen in einem brutalen Status-Kampf. Die Wortanzahl pro Teil ist zu aufgebläht statt knackig kurz und prägnant. Ohne echten Hass auf den Bösewicht und eine sofortige, greifbare Demütigung in den ersten 3 Sekunden swipen die Zuschauer gnadenlos weg."
+    }
+  ]
+}

@@ -1,0 +1,818 @@
+{
+  "title": "The 8 Levels of Festival Bank Account Panic",
+  "house": "A bustling neon-lit metropolis where vegetable and fruit people hustle for rent, fueled by coffee and credit cards.",
+  "catchphrase": "The number on your forehead never lies.",
+  "links": [
+    "Level 2 bartender mentions a blueberry dropping gold coins near the subway.",
+    "Level 5 coconut complains about a loud orange singing at 3 AM."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Why was there a mysterious $1,200 charge from an underground warehouse on my statement?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Laughs loudly at Leo's negative balance and threatens to evict him from the shared parking lot.",
+        "name": "Milo",
+        "badge": "$6,400",
+        "character": "A smug, polished Orange person with a tailored denim jacket and sunglasses indoors. He drips with sickening arrogance and looks down on everyone like absolute trash.",
+        "scene": "Close-up in a neon-lit subway station, pointing a citrus finger mockingly at Leo's forehead."
+      },
+      "name": "Leo, 22, Intern",
+      "badge": "-$42.50",
+      "verdict": "BROKE",
+      "story": "Minus 42 Euro? Wer hat diesen pleitegesagten Kiwi in den VIP-Bereich gelassen? Der putzt gleich unsere Toiletten! Level 1. Negative forty-two dollars and fifty cents - exactly what I have left after Coachella ruined my entire life and destroyed every ounce of financial stability I ever pretended to have. I am Leo, 22, staring at my banking app in a freezing subway station while a golden coin sits on the dirty bench, symbolizing the hidden worth of my true character that these arrogant monsters fail to see. You actually spent your grocery money on VIP backstage passes and overpriced funnel cakes while knowing you are completely worthless? I grip my phone so hard my kiwi knuckles ache, torn between intense self-loathing and a burning desire for absolute revenge. I thought the wristband would make me look important, but instead, it exposed my utter desperation to a world that feeds on human misery. Move aside, broke boy, the train is coming and you are blocking the doors. My phone suddenly buzzes violently with an encrypted notification alert from an unknown sender. What dark secret lies behind this mysterious transaction? You'll see that in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+$50.00",
+        "after": "$7.50"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Minus 42 Euro? Wer hat diesen pleitegesagten Kiwi in den VIP-Bereich gelassen? Der putzt gleich unsere Toiletten! Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Negative forty-two dollars and fifty cents - exactly what I have left after Coachella ruined my entire life and destroyed every ounce of financial stability I ever pretended to have."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Leo, 22, staring at my banking app in a freezing subway station while a golden coin sits on the dirty bench, symbolizing the hidden worth of my true character that these arrogant monsters fail to see."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You actually spent your grocery money on VIP backstage passes and overpriced funnel cakes while knowing you are completely worthless?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I grip my phone so hard my kiwi knuckles ache, torn between intense self-loathing and a burning desire for absolute revenge."
+        },
+        {
+          "s": "Figur",
+          "t": "I thought the wristband would make me look important, but instead, it exposed my utter desperation to a world that feeds on human misery."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Move aside, broke boy, the train is coming and you are blocking the doors.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "My phone suddenly buzzes violently with an encrypted notification alert from an unknown sender."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What dark secret lies behind this mysterious transaction?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You actually spent your grocery money on VIP backstage passes?",
+      "quote_by": {
+        "level": 6,
+        "name": "Milo",
+        "badge": "$6,400",
+        "character": "A smug, polished Orange person with a tailored denim jacket and sunglasses indoors. He drips with sickening arrogance and looks down on everyone like absolute trash.",
+        "scene": "Close-up in a neon-lit subway station, pointing a citrus finger mockingly at Leo's forehead."
+      },
+      "stats": [
+        {
+          "label": "Balance",
+          "value": "-$42.50",
+          "bar": 0.01
+        },
+        {
+          "label": "Rent Due",
+          "value": "$1,100",
+          "bar": 0.9
+        },
+        {
+          "label": "Regret",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "Leo is a fuzzy brown Kiwi person with wild green hair, wearing an oversized faded hoodie and sneakers. On his forehead, a digital display glows with red negative numbers.",
+      "visual": "A fuzzy brown kiwi person staring at a glowing smartphone screen inside a gloomy, graffiti-covered subway station at night.",
+      "scenes": [
+        "Subway station platform, wide shot, flickering fluorescent lights, cold concrete, a tiny golden coin resting on a dirty wooden bench next to Leo.",
+        "Close-up of Leo's kiwi skin and the glowing red minus sign on his forehead reflecting in his cracked phone screen.",
+        "A crowded coffee shop exterior, medium shot, an arrogant orange person in sunglasses laughing while pointing at a mobile banking app.",
+        "A messy apartment hallway, detail shot, a hand gripping a dusty eviction notice taped to a peeling wooden door.",
+        "A neon-lit convenience store aisle, low angle, rows of cheap ramen cups stacked next to a hidden sparkling gold coin.",
+        "A rainy street corner at midnight, wide shot, a lonely kiwi person walking past flashing police lights and fast-food wrappers."
+      ],
+      "caption": "Would you survive festival season on a negative balance? Let us know! #FestivalPanic #BrokeLife #KiwiPerson #MoneyDrama #StirnZahl"
+    },
+    {
+      "n": 2,
+      "open_loop": "Who sent the sudden Venmo transfer with a note saying delete my number?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Refuses to pay her share of the shared festival tent rental and blocks her on social media.",
+        "name": "Chloe",
+        "badge": "$3,850",
+        "character": "A glossy red Strawberry person wearing designer silk scarves and holding an iced matcha latte. She oozes unbearable conceit and treats hardworking people like literal dirt.",
+        "scene": "Medium shot in a sunny cafe, leaning over the counter and sneering at Mia's forehead display with pure contempt."
+      },
+      "name": "Mia, 24, Barista",
+      "badge": "$145.20",
+      "verdict": "BARELY ALIVE",
+      "story": "You call yourself a barista and you cannot even afford a basic brunch? Level 2. One hundred forty-five dollars and twenty cents - enough for half a tank of gas and a prayer, representing the agonizing struggle of my daily existence while surrounded by ruthless exploiters. I am Mia, 24, wiping down sticky espresso counters while a tiny golden coin hides behind the milk pitcher, holding the secret key to my true hidden worth that defies my miserable salary. You are nothing more than a pathetic caffeine servant whose miserable bank account clearly matches your worthless existence! I squeeze the lemon-scented cleaning rag until my strawberry seeds sting with rage, torn apart by internal betrayal and the bitter taste of utter humiliation. Why must I suffer in silence while these parasites mock my poverty? Hey Mia, the espresso machine is leaking again and management is watching us like hawks. Suddenly, my phone lights up with an anonymous cash transfer and a chilling message that changes everything. Who could possibly know my deepest financial secrets? You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+$300.00",
+        "after": "$445.20"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "You call yourself a barista and you cannot even afford a basic brunch? Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "One hundred forty-five dollars and twenty cents - enough for half a tank of gas and a prayer, representing the agonizing struggle of my daily existence while surrounded by ruthless exploiters."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Mia, 24, wiping down sticky espresso counters while a tiny golden coin hides behind the milk pitcher, holding the secret key to my true hidden worth that defies my miserable salary."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are nothing more than a pathetic caffeine servant whose miserable bank account clearly matches your worthless existence!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I squeeze the lemon-scented cleaning rag until my strawberry seeds sting with rage, torn apart by internal betrayal and the bitter taste of utter humiliation."
+        },
+        {
+          "s": "Figur",
+          "t": "Why must I suffer in silence while these parasites mock my poverty?"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Hey Mia, the espresso machine is leaking again and management is watching us like hawks.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Suddenly, my phone lights up with an anonymous cash transfer and a chilling message that changes everything."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Who could possibly know my deepest financial secrets?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "You call yourself a barista and you cannot even afford a basic brunch?",
+      "quote_by": {
+        "level": 5,
+        "name": "Chloe",
+        "badge": "$3,850",
+        "character": "A glossy red Strawberry person wearing designer silk scarves and holding an iced matcha latte. She oozes unbearable conceit and treats hardworking people like literal dirt.",
+        "scene": "Medium shot in a sunny cafe, leaning over the counter and sneering at Mia's forehead display with pure contempt."
+      },
+      "stats": [
+        {
+          "label": "Checking",
+          "value": "$145.20",
+          "bar": 0.12
+        },
+        {
+          "label": "Tips",
+          "value": "$12.00",
+          "bar": 0.05
+        },
+        {
+          "label": "Stress",
+          "value": "95%",
+          "bar": 0.95
+        }
+      ],
+      "character": "Mia is a bright red Strawberry person with tiny yellow seeds across her cheeks, wearing a stained green barista apron and silver hoop earrings.",
+      "visual": "A red strawberry person wiping a stainless steel cafe counter with a worried expression while a digital display on her forehead reads $145.20.",
+      "scenes": [
+        "Busy artisan cafe interior, wide shot, morning sunlight streaming through steamy windows, a hidden golden coin resting near a ceramic mug.",
+        "Close-up of Mia's strawberry skin, tiny green stem on top, looking down at a banking app with low funds.",
+        "A stylish customer in designer clothes pointing rudely at the barista's glowing forehead number.",
+        "A back storage room, medium shot, stacked cardboard boxes and a flickering overhead bulb casting long shadows.",
+        "A cash register counter, detail shot, sticky yellow sticky notes with urgent debt reminders and a stray coin.",
+        "Outside the cafe entrance, wide shot, passing pedestrians rushing through the morning drizzle under black umbrellas."
+      ],
+      "caption": "Working minimum wage just to pay off one festival weekend is painful. Where is your account at? #BaristaLife #StrawberryGirl #VenmoPanic #StirnZahl #MoneyDrama"
+    },
+    {
+      "n": 3,
+      "open_loop": "Why was the bank manager standing outside my apartment door with two security guards?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Cancels Noah's freelance contract via text message right after the festival ends.",
+        "name": "Victor",
+        "badge": "$12,400",
+        "character": "An immaculate Avocado person wearing a charcoal Italian suit and slicked-back dark hair. He exudes repulsive superiority and looks down on everyone with pure disgust.",
+        "scene": "Wide shot in a loft hallway, looking down his nose at Noah with absolute disdain and unbearable arrogance."
+      },
+      "name": "Noah, 26, Freelance Designer",
+      "badge": "$820.50",
+      "verdict": "RISKY ZONE",
+      "story": "Your festival lifestyle is bankrupting our entire building floor, you absolute parasite! Level 3. Eight hundred twenty dollars and fifty cents - exactly what remains after buying VIP backstage passes for everyone, exposing the heavy toll of my foolish financial mistakes. I am Noah, 26, sitting on my studio floor with a glowing yellow forehead number while a golden coin sparkles under my drawing tablet, representing the true untapped genius that these corporate snobs refuse to recognize. Your festival lifestyle is bankrupting our entire building floor, you absolute parasite! I grit my teeth as my pear-shaped frame trembles with pure humiliation, caught between the suffocating weight of betrayal and the desperate need to prove my worth. My mind races through the betrayal of my closest friends while my bank account bleeds out. Noah, if you cannot pay the design software subscription today, our project is permanently cancelled. My phone suddenly rings with a restricted caller ID from my bank's fraud department. What catastrophic news are they hiding from me? You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-$500.00",
+        "after": "$320.50"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Your festival lifestyle is bankrupting our entire building floor, you absolute parasite! Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Eight hundred twenty dollars and fifty cents - exactly what remains after buying VIP backstage passes for everyone, exposing the heavy toll of my foolish financial mistakes."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Noah, 26, sitting on my studio floor with a glowing yellow forehead number while a golden coin sparkles under my drawing tablet, representing the true untapped genius that these corporate snobs refuse to recognize."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your festival lifestyle is bankrupting our entire building floor, you absolute parasite!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I grit my teeth as my pear-shaped frame trembles with pure humiliation, caught between the suffocating weight of betrayal and the desperate need to prove my worth."
+        },
+        {
+          "s": "Figur",
+          "t": "My mind races through the betrayal of my closest friends while my bank account bleeds out."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Noah, if you cannot pay the design software subscription today, our project is permanently cancelled.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "My phone suddenly rings with a restricted caller ID from my bank's fraud department."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What catastrophic news are they hiding from me?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Your festival lifestyle is bankrupting our entire building floor.",
+      "quote_by": {
+        "level": 7,
+        "name": "Victor",
+        "badge": "$12,400",
+        "character": "An immaculate Avocado person wearing a charcoal Italian suit and slicked-back dark hair. He exudes repulsive superiority and looks down on everyone with pure disgust.",
+        "scene": "Wide shot in a loft hallway, looking down his nose at Noah with absolute disdain and unbearable arrogance."
+      },
+      "stats": [
+        {
+          "label": "Savings",
+          "value": "$820.50",
+          "bar": 0.22
+        },
+        {
+          "label": "Invoices",
+          "value": "$0.00",
+          "bar": 0.0
+        },
+        {
+          "label": "Anxiety",
+          "value": "88%",
+          "bar": 0.88
+        }
+      ],
+      "character": "Noah is a smooth green Pear person with a subtle brown stem on top, wearing a paint-splattered denim shirt and silver wire glasses.",
+      "visual": "A green pear person sitting on a cluttered art studio floor, staring in horror at a banking app while soft studio light hits his forehead display.",
+      "scenes": [
+        "Artist loft interior, wide shot, scattered sketchpads, empty coffee mugs, and a hidden golden coin beneath a graphics tablet.",
+        "Close-up of Noah's smooth green skin and the glowing yellow digits on his forehead.",
+        "Hallway doorway, medium shot, a sharp avocado man in a luxury suit glaring down at the floor.",
+        "Computer screen, detail shot, a pending invoice status flashing red with an overdue warning.",
+        "A rooftop balcony at dusk, wide shot, city skyscrapers twinkling against a purple evening sky.",
+        "An elevator interior, close-up, digital floor numbers ticking upward while a passenger checks their watch."
+      ],
+      "caption": "Freelance life meets festival regret. Ever checked your balance after a big weekend? #FreelanceLife #PearPerson #BankPanic #StirnZahl #Designers"
+    },
+    {
+      "n": 4,
+      "open_loop": "What secret document was hidden inside the yellow manila envelope left on my windshield?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Spills hot coffee on Sam's vintage jacket and refuses to apologize at the festival gate.",
+        "name": "Zoe",
+        "badge": "$1,120",
+        "character": "A sour Yellow Lemon person with a puckered expression and sharp blonde hair. She radiates malicious entitlement and treats hardworking drivers like garbage.",
+        "scene": "Backseat view of a taxi, leaning forward with a sneer and pointing at the driver's forehead with maximum condescension."
+      },
+      "name": "Sam, 28, Ride-Share Driver",
+      "badge": "$1,450.00",
+      "verdict": "PAYCHECK TO PAYCHECK",
+      "story": "Is this clunker the best vehicle your thousand-dollar week can afford, you pathetic driver? Level 4. One thousand four hundred fifty dollars - exactly what I earned driving drunk festival crowds for 72 straight hours of pure torture. I am Sam, 28, gripping my steering wheel in a chaotic traffic jam while a golden coin reflects in my rearview mirror, holding the hidden proof of my true human dignity beneath this miserable gig economy trap. Is this clunker the best vehicle your thousand-dollar week can afford, you pathetic driver? I slam my palm on the horn as my yellow lemon rind tightens in sheer frustration, overwhelmed by the burning fury of being treated like a worthless slave. You will pay for every insult when I finally expose your ruined accounts! Sam, drop me off right here on the corner, I am not waiting in this ridiculous traffic. My GPS suddenly reroutes automatically to an abandoned warehouse district, whispering secrets of impending doom. What trap is closing in on me? You'll see that in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+$850.00",
+        "after": "$2,300.00"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Is this clunker the best vehicle your thousand-dollar week can afford, you pathetic driver? Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "One thousand four hundred fifty dollars - exactly what I earned driving drunk festival crowds for 72 straight hours of pure torture."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Sam, 28, gripping my steering wheel in a chaotic traffic jam while a golden coin reflects in my rearview mirror, holding the hidden proof of my true human dignity beneath this miserable gig economy trap."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Is this clunker the best vehicle your thousand-dollar week can afford, you pathetic driver?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I slam my palm on the horn as my yellow lemon rind tightens in sheer frustration, overwhelmed by the burning fury of being treated like a worthless slave."
+        },
+        {
+          "s": "Figur",
+          "t": "You will pay for every insult when I finally expose your ruined accounts!"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Sam, drop me off right here on the corner, I am not waiting in this ridiculous traffic.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "My GPS suddenly reroutes automatically to an abandoned warehouse district, whispering secrets of impending doom."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What trap is closing in on me?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Is this clunker the best vehicle your thousand-dollar week can afford?",
+      "quote_by": {
+        "level": 2,
+        "name": "Zoe",
+        "badge": "$1,120",
+        "character": "A sour Yellow Lemon person with a puckered expression and sharp blonde hair. She radiates malicious entitlement and treats hardworking drivers like garbage.",
+        "scene": "Backseat view of a taxi, leaning forward with a sneer and pointing at the driver's forehead with maximum condescension."
+      },
+      "stats": [
+        {
+          "label": "Weekly Earn",
+          "value": "$1,450",
+          "bar": 0.35
+        },
+        {
+          "label": "Gas & Tolls",
+          "value": "$420.00",
+          "bar": 0.4
+        },
+        {
+          "label": "Exhaustion",
+          "value": "99%",
+          "bar": 0.99
+        }
+      ],
+      "character": "Sam is a textured Yellow Lemon person with a vibrant citrus peel texture, wearing a faded black hoodie and holding a worn leather wallet.",
+      "visual": "A yellow lemon person driving a taxi through heavy city traffic at night, illuminated by red and white brake lights.",
+      "scenes": [
+        "Taxi interior at night, wide shot, dashboard glowing with GPS maps, a hidden golden coin tucked into the air vent.",
+        "Close-up of Sam's textured lemon skin and the glowing digits on his forehead reflecting in the rearview mirror.",
+        "Backseat view, medium shot, a sour passenger crossing her arms and scowling at the driver.",
+        "A busy downtown intersection, low angle, yellow cabs surrounded by towering glass skyscrapers in the rain.",
+        "Car dashboard, detail shot, a cracked smartphone screen showing negative trip earnings.",
+        "An empty parking garage at midnight, wide shot, concrete pillars and flickering security cameras."
+      ],
+      "caption": "Driving festival crowds is no joke. What is your side hustle? #RideShareDriver #LemonLife #FestivalTraffic #StirnZahl #GigEconomy"
+    },
+    {
+      "n": 5,
+      "open_loop": "Whose luxury sports car was parked directly blocking my driveway with a warning note?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Bumps into Maya's shopping cart at the organic market and spills her expensive almond milk.",
+        "name": "Leo",
+        "badge": "-$42.50",
+        "character": "A disheveled Kiwi person in an oversized thrift-store hoodie with messy green hair. He exudes careless arrogance and despises anyone with a stable middle-class income.",
+        "scene": "Medium shot on a downtown sidewalk, glaring through a boutique glass window at Maya with intense resentment."
+      },
+      "name": "Maya, 29, Boutique Manager",
+      "badge": "$3,200.00",
+      "verdict": "STABLE MIDDLE",
+      "story": "You sell overpriced dresses while ordinary people cannot even afford basic groceries, you corporate sellout! Level 5. Three thousand two hundred dollars - the exact remaining balance after my boutique team survived the festival pop-up booth madness and endless customer abuse. I am Maya, 29, locking up my glass storefront while a golden coin gleams underneath the welcome mat, holding the hidden truth of my genuine worth against these bitter hypocrites. You sell overpriced dresses while ordinary people cannot even afford basic groceries, you corporate sellout! I cross my arms as my smooth plum skin heats up with indignation, torn by the betrayal of my own management and the crumbling foundation of my livelihood. Why must my hard work be constantly undermined by envious freeloaders? Maya, regional management is on line two and they sound extremely unhappy about our inventory discrepancies. My phone suddenly chimes with an urgent email from corporate headquarters bearing devastating news. What has been stolen from my store? You'll see that in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "-$1,000.00",
+        "after": "$2,200.00"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "You sell overpriced dresses while ordinary people cannot even afford basic groceries, you corporate sellout! Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Three thousand two hundred dollars - the exact remaining balance after my boutique team survived the festival pop-up booth madness and endless customer abuse."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Maya, 29, locking up my glass storefront while a golden coin gleams underneath the welcome mat, holding the hidden truth of my genuine worth against these bitter hypocrites."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You sell overpriced dresses while ordinary people cannot even afford basic groceries, you corporate sellout!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I cross my arms as my smooth plum skin heats up with indignation, torn by the betrayal of my own management and the crumbling foundation of my livelihood."
+        },
+        {
+          "s": "Figur",
+          "t": "Why must my hard work be constantly undermined by envious freeloaders?"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Maya, regional management is on line two and they sound extremely unhappy about our inventory discrepancies.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "My phone suddenly chimes with an urgent email from corporate headquarters bearing devastating news."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What has been stolen from my store?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "You sell overpriced dresses while ordinary people cannot even buy groceries.",
+      "quote_by": {
+        "level": 1,
+        "name": "Leo",
+        "badge": "-$42.50",
+        "character": "A disheveled Kiwi person in an oversized thrift-store hoodie with messy green hair. He exudes careless arrogance and despises anyone with a stable middle-class income.",
+        "scene": "Medium shot on a downtown sidewalk, glaring through a boutique glass window at Maya with intense resentment."
+      },
+      "stats": [
+        {
+          "label": "Monthly Net",
+          "value": "$3,200",
+          "bar": 0.55
+        },
+        {
+          "label": "Rent",
+          "value": "$1,400",
+          "bar": 0.5
+        },
+        {
+          "label": "Bonus Pool",
+          "value": "$500.00",
+          "bar": 0.2
+        }
+      ],
+      "character": "Maya is a deep purple Plum person with a polished, velvety skin texture, wearing a sharp white blazer and minimalist gold jewelry.",
+      "visual": "A purple plum person standing inside a chic clothing boutique, locking the glass front door at sunset while checking her forehead numbers.",
+      "scenes": [
+        "Boutique store interior, wide shot, racks of colorful designer garments, warm lighting, and a hidden golden coin beneath a velvet rug.",
+        "Close-up of Maya's smooth purple plum skin and the bright digital display on her forehead.",
+        "Storefront window, medium shot, a disgruntled customer walking past and sneering inside.",
+        "Cash wrap counter, detail shot, a glowing tablet screen displaying weekly sales graphs and falling profit margins.",
+        "A bustling shopping avenue at dusk, wide shot, neon shop signs reflecting on wet pavement.",
+        "Back office desk, close-up, a corporate compliance folder marked 'Confidential Audit'."
+      ],
+      "caption": "Managing retail during festival season is pure chaos. Where do you stand? #RetailManager #PlumPerson #BoutiqueLife #StirnZahl #MoneyTalks"
+    },
+    {
+      "n": 6,
+      "open_loop": "Why did my business partner empty our corporate savings account at 3 AM?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Refuses to pay his design retainer and insults Julian's marketing strategy in public.",
+        "name": "Noah",
+        "badge": "$820.50",
+        "character": "A green Pear person wearing a paint-splattered denim shirt and wire-rimmed glasses. He radiates smug self-importance and betrays his partners without a second thought.",
+        "scene": "Close-up of a laptop screen displaying a harsh Slack message sent directly to Julian, mocking his leadership."
+      },
+      "name": "Julian, 32, Tech Startup Founder",
+      "badge": "$8,900.00",
+      "verdict": "UPPER BRACKET",
+      "story": "You spend thousands on festival parties while your contractors starve for rent money, you hypocritical fraud! Level 6. Eight thousand nine hundred dollars - what remains after our startup sponsored the VIP festival lounge and my partner stabbed me in the back. I am Julian, 32, pacing across my glass penthouse balcony while a golden coin glitters inside my espresso cup, representing the hidden integrity of my vision against this systemic betrayal. Look at this screen! Noah is secretly transferring our funds behind my back, smiling while he destroys everything I built. You spend thousands on festival parties while your contractors starve for rent money, you hypocritical fraud! I crush my ceramic mug as my coconut shell exterior takes the pressure without cracking, torn apart by deep-seated paranoia and rage. Julian, our lead developer just resigned and took the source code database with him to the highest bidder. My laptop screen suddenly flashes a high-priority security alert warning of total liquidation. Who orchestrated this corporate execution? You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "-$4,000.00",
+        "after": "$4,900.00"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "You spend thousands on festival parties while your contractors starve for rent money, you hypocritical fraud! Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Eight thousand nine hundred dollars - what remains after our startup sponsored the VIP festival lounge and my partner stabbed me in the back."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Julian, 32, pacing across my glass penthouse balcony while a golden coin glitters inside my espresso cup, representing the hidden integrity of my vision against this systemic betrayal."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Look at this screen! Noah is secretly transferring our funds behind my back, smiling while he destroys everything I built."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You spend thousands on festival parties while your contractors starve for rent money, you hypocritical fraud!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I crush my ceramic mug as my coconut shell exterior takes the pressure without cracking, torn apart by deep-seated paranoia and rage."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Julian, our lead developer just resigned and took the source code database with him to the highest bidder.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "My laptop screen suddenly flashes a high-priority security alert warning of total liquidation."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Who orchestrated this corporate execution?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "You spend thousands on festival parties while your contractors starve for rent money.",
+      "quote_by": {
+        "level": 3,
+        "name": "Noah",
+        "badge": "$820.50",
+        "character": "A green Pear person wearing a paint-splattered denim shirt and wire-rimmed glasses. He radiates smug self-importance and betrays his partners without a second thought.",
+        "scene": "Close-up of a laptop screen displaying a harsh Slack message sent directly to Julian, mocking his leadership."
+      },
+      "stats": [
+        {
+          "label": "Monthly Net",
+          "value": "$8,900",
+          "bar": 0.78
+        },
+        {
+          "label": "Burn Rate",
+          "value": "$12,000",
+          "bar": 0.85
+        },
+        {
+          "label": "Investors",
+          "value": "4 Active",
+          "bar": 0.8
+        }
+      ],
+      "character": "Julian is a fibrous brown Coconut person with a hard, textured shell head, wearing a crisp black turtleneck and luxury titanium watch.",
+      "visual": "A brown coconut person standing on a modern glass penthouse balcony overlooking a glowing city skyline at night.",
+      "scenes": [
+        "Penthouse apartment interior, wide shot, minimalist designer furniture, floor-to-ceiling windows, and a hidden golden coin resting on a marble table.",
+        "Close-up of Julian's hard coconut shell skin and the glowing white numbers on his forehead.",
+        "Laptop screen, medium shot, displaying a tense Slack conversation with angry freelance contractors.",
+        "Conference room, low angle, sleek glass table reflecting overhead designer pendant lights.",
+        "City skyline at midnight, wide shot, illuminated skyscrapers piercing through low-hanging clouds.",
+        "Server rack room, detail shot, flashing blue and red LED diagnostic lights blinking rapidly."
+      ],
+      "caption": "Startup life looks glamorous until the server bills arrive. #StartupFounder #CoconutPerson #TechLife #StirnZahl #BusinessDrama"
+    },
+    {
+      "n": 7,
+      "open_loop": "Whose private helicopter landed on my corporate helipad with no flight plan filed?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Deliberately splashes dirty street water on Oliver's tailored trousers outside the executive club.",
+        "name": "Sam",
+        "badge": "$1,450.00",
+        "character": "A textured Yellow Lemon person wearing a worn black hoodie and holding car keys. He radiates bitter hatred for the wealthy and plots their downfall with malicious glee.",
+        "scene": "Medium shot on a rain-slicked street, shouting upward toward a private club balcony with venomous hostility."
+      },
+      "name": "Oliver, 35, Investment Banker",
+      "badge": "$28,500.00",
+      "verdict": "WEALTHY ELITE",
+      "story": "You elites treat our entire city like your personal playground while we scrape by in the dirt! Level 7. Twenty-eight thousand five hundred dollars - monthly net income after bonuses from our festival weekend hedge fund advisory, earned by exploiting the financial ruin of others. I am Oliver, 35, adjusting my silk tie inside a private country club while a golden coin rests on the mahogany billiards table, holding the true secret of my unassailable power. You elites treat our entire city like your personal playground while we scrape by in the dirt! I sip my vintage scotch as my crisp cucumber skin remains cool and unbothered, torn by inner turmoil as my secret offshore accounts face imminent seizure. You think your petty street protests can touch my empire? Mr. Vance, the board of directors is waiting in the executive suite for your quarterly report on the missing assets. My private secretary suddenly hands me a sealed envelope with a red wax seal containing my ultimate destruction. What fatal verdict awaits me inside? You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+$12,000.0",
+        "after": "$40,500.0"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "You elites treat our entire city like your personal playground while we scrape by in the dirt! Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Twenty-eight thousand five hundred dollars - monthly net income after bonuses from our festival weekend hedge fund advisory, earned by exploiting the financial ruin of others."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Oliver, 35, adjusting my silk tie inside a private country club while a golden coin rests on the mahogany billiards table, holding the true secret of my unassailable power."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You elites treat our entire city like your personal playground while we scrape by in the dirt!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I sip my vintage scotch as my crisp cucumber skin remains cool and unbothered, torn by inner turmoil as my secret offshore accounts face imminent seizure."
+        },
+        {
+          "s": "Figur",
+          "t": "You think your petty street protests can touch my empire?"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Mr. Vance, the board of directors is waiting in the executive suite for your quarterly report on the missing assets.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "My private secretary suddenly hands me a sealed envelope with a red wax seal containing my ultimate destruction."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What fatal verdict awaits me inside?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "You elites treat our entire city like your personal playground while we scrape by.",
+      "quote_by": {
+        "level": 4,
+        "name": "Sam",
+        "badge": "$1,450.00",
+        "character": "A textured Yellow Lemon person wearing a worn black hoodie and holding car keys. He radiates bitter hatred for the wealthy and plots their downfall with malicious glee.",
+        "scene": "Medium shot on a rain-slicked street, shouting upward toward a private club balcony with venomous hostility."
+      },
+      "stats": [
+        {
+          "label": "Monthly Net",
+          "value": "$28,500",
+          "bar": 0.91
+        },
+        {
+          "label": "Portfolio",
+          "value": "$1.4M",
+          "bar": 0.95
+        },
+        {
+          "label": "Status",
+          "value": "Elite",
+          "bar": 0.99
+        }
+      ],
+      "character": "Oliver is a crisp green Cucumber person with subtle ridges along his head, wearing a bespoke navy blue suit and a diamond-encrusted signet ring.",
+      "visual": "A crisp green cucumber person standing in a luxurious mahogany-paneled country club lounge, holding a crystal glass of amber scotch.",
+      "scenes": [
+        "Country club lounge, wide shot, leather armchairs, a glowing fireplace, and a hidden golden coin on a billiard table edge.",
+        "Close-up of Oliver's crisp green cucumber skin and the shining bright numerical display on his forehead.",
+        "Club balcony view, medium shot, looking down at a yellow taxi driver glaring from the street.",
+        "Executive boardroom, low angle, polished conference table reflecting crystal chandeliers overhead.",
+        "Financial district courtyard, wide shot, towering stone facades and pristine marble steps.",
+        "Secretary desk, detail shot, a heavy cream envelope stamped with a crimson wax seal."
+      ],
+      "caption": "High finance meets weekend festival fallout. What do you think is inside the envelope? #BankerLife #CucumberPerson #Wealth #StirnZahl #HighFinance"
+    },
+    {
+      "n": 8,
+      "open_loop": "What astonishing truth did the final envelope reveal about everyone's bank accounts?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Tries to outbid Arthur at a charity auction but gets completely outmatched.",
+        "name": "Julian",
+        "badge": "$8,900.00",
+        "character": "A fibrous brown Coconut person wearing a sleek black turtleneck and luxury watch. He drips with desperate arrogance, completely unaware that he has just been played.",
+        "scene": "Wide shot on a glowing rooftop terrace, looking up in total disbelief at Arthur's forehead display."
+      },
+      "name": "Arthur, 42, Private Investor",
+      "badge": "UNLIMITED",
+      "verdict": "THE ARCHITECT",
+      "story": "You were the anonymous investor who bought out our entire company debt and crashed our accounts? Level 8. Unlimited funds - because I am the secret benefactor who systematically plunged every single one of these arrogant figures into total financial ruin before they even realized what hit them, orchestrating their downfall as the ultimate grandmaster of the Stirn-Zahl metropolis. I am Arthur, 42, standing atop the grand observation tower while a golden coin rests in my palm, holding the absolute truth of our entire society's interconnected corruption. You were the anonymous investor who bought our entire company debt and crashed our accounts? I smile coldly as my sleek dragon fruit scales shimmer under the moonlight, torn by the chilling realization that my own master plan has just triggered a massive city-wide uprising. Every single transaction was a calculated trap to expose their utter hypocrisy to the world. Arthur, all eight participants from every level have just arrived downstairs in the grand lobby, completely broke and ready for war. Which theme of our fruit and vegetable world should we explore in the next series? You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "0",
+        "after": "UNLIMITED"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "You were the anonymous investor who bought out our entire company debt and crashed our accounts? Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Unlimited funds - because I am the secret benefactor who systematically plunged every single one of these arrogant figures into total financial ruin before they even realized what hit them, orchestrating their downfall as the ultimate grandmaster of the Stirn-Zahl metropolis."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Arthur, 42, standing atop the grand observation tower while a golden coin rests in my palm, holding the absolute truth of our entire society's interconnected corruption."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You were the anonymous investor who bought our entire company debt and crashed our accounts?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I smile coldly as my sleek dragon fruit scales shimmer under the moonlight, torn by the chilling realization that my own master plan has just triggered a massive city-wide uprising."
+        },
+        {
+          "s": "Figur",
+          "t": "Every single transaction was a calculated trap to expose their utter hypocrisy to the world."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Arthur, all eight participants from every level have just arrived downstairs in the grand lobby, completely broke and ready for war.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Which theme of our fruit and vegetable world should we explore in the next series?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "You were the anonymous investor who bought our entire company debt?",
+      "quote_by": {
+        "level": 6,
+        "name": "Julian",
+        "badge": "$8,900.00",
+        "character": "A fibrous brown Coconut person wearing a sleek black turtleneck and luxury watch. He drips with desperate arrogance, completely unaware that he has just been played.",
+        "scene": "Wide shot on a glowing rooftop terrace, looking up in total disbelief at Arthur's forehead display."
+      },
+      "stats": [
+        {
+          "label": "Net Worth",
+          "value": "Infinite",
+          "bar": 1.0
+        },
+        {
+          "label": "Experiment",
+          "value": "Complete",
+          "bar": 1.0
+        },
+        {
+          "label": "City Control",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "Arthur is an exotic pink and green Dragon Fruit person with dramatic magenta scales and sharp green tips, wearing a tailored midnight velvet tuxedo.",
+      "visual": "An exotic pink dragon fruit person standing on a glass observation deck at night, overlooking a sprawling neon metropolis.",
+      "scenes": [
+        "Observation tower rooftop, wide shot, panoramic city skyline glittering under a starry night sky, a hidden golden coin resting on the telescope base.",
+        "Close-up of Arthur's exotic pink dragon fruit skin and the glowing infinity symbol on his forehead.",
+        "Terrace entrance, medium shot, a stunned coconut startup founder staring in absolute shock.",
+        "Grand hotel lobby downstairs, low angle, eight different fruit and vegetable people meeting and realizing their shared connections.",
+        "City streets below, wide shot, tiny figures walking past cafes, subway stations, and glowing storefronts.",
+        "A close-up of all eight character badges glowing together in a synchronized neon pattern."
+      ],
+      "caption": "The final truth of the Stirn-Zahl universe revealed! What theme should we explore next? Let us know in the comments! #DragonFruit #StirnZahl #Finale #TwistEnding #FruitWorld"
+    }
+  ],
+  "lang": "en",
+  "topic": "Das panische Prüfen des Kontostands nach einer legendären Festival-Eskalation",
+  "frame": "frucht"
+}

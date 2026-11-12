@@ -1,0 +1,767 @@
+{
+  "title": "The 8 Levels of Hiding Your Partner",
+  "house": "A bustling metropolis where fruit and vegetable people live in modern apartments, take commuter trains, and display their exact monthly disposable income or social standing as bright glowing numbers on their foreheads.",
+  "catchphrase": "The number never lies.",
+  "links": [
+    "Barista in Level 2 mentions the quiet man in the suit from Level 8",
+    "The broken coffee machine at Central Station appears in Level 1 and Level 5",
+    "The gold coin is hidden behind the ticket machine in every scene"
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "What was the real reason the parents threw their son out immediately?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Laughs at him in the stairwell and throws his gym bag into the rain.",
+        "name": "Ben",
+        "badge": "850 € Netto",
+        "character": "An arrogant lemon person with sharp yellow skin, wearing a strict Chanel-style tweed blazer and holding a pearl necklace.",
+        "scene": "Wide shot of a luxurious marble hallway with a glowing 8.500 on her forehead, pointing a finger down in disgust."
+      },
+      "name": "Ben, 23, Azubi",
+      "badge": "850 € netto",
+      "verdict": "TOO POOR",
+      "story": "The 8 Levels of Hiding Your Partner. Level 1. 850 Euro auf meiner Stirn. Meine reiche Familie sperrt mich aus, weil meine Freundin zu arm ist – doch sie wissen nicht, dass mir diese Luxus-Villa gehört. Meine Stirn zeigt gnadenlos 850 Euro Netto als Azubi im Gartencenter, und das reicht meiner arroganten Mutter offenbar als Grund, mich wie den letzten Dreck zu behandeln. Als ich Mia in unsere Altbauwohnung bringe, knallt meine Mutter die Flur-Tür vor unserer Nase zu. 8.500 Euro glänzt eiskalt auf ihrer Stirn, als sie mich von oben bis unten mustert. Dein armseliger Freund passt absolut nicht in unsere reiche Familie, zischt sie und drückt mich brutal zur Seite. Ich atme tief ein, kralle meine Hände in meine Jackentaschen und will gerade kontern, als sie noch einen draufsetzt. Mit so einem dreckigen armen Schlucker lassen wir uns niemals in der Öffentlichkeit blicken, ruft sie so laut, dass es im ganzen Haus zu hören ist. Mia weint leise neben mir im kalten Flur, während mein Vater im Hintergrund die Haustür aufreißt und uns hinauswirft. Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+150 €",
+        "after": "1.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Levels of Hiding Your Partner. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "850 Euro auf meiner Stirn. Meine reiche Familie sperrt mich aus, weil meine Freundin zu arm ist – doch sie wissen nicht, dass mir diese Luxus-Villa gehört."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn zeigt gnadenlos 850 Euro Netto als Azubi im Gartencenter, und das reicht meiner arroganten Mutter offenbar als Grund, mich wie den letzten Dreck zu behandeln."
+        },
+        {
+          "s": "Figur",
+          "t": "Als ich Mia in unsere Altbauwohnung bringe, knallt meine Mutter die Flur-Tür vor unserer Nase zu."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "8.500 Euro glänzt eiskalt auf ihrer Stirn, als sie mich von oben bis unten mustert.",
+          "g": "w"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Dein armseliger Freund passt absolut nicht in unsere reiche Familie, zischt sie und drückt mich brutal zur Seite.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich atme tief ein, kralle meine Hände in meine Jackentaschen und will gerade kontern, als sie noch einen draufsetzt."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Mit so einem dreckigen armen Schlucker lassen wir uns niemals in der Öffentlichkeit blicken, ruft sie so laut, dass es im ganzen Haus zu hören ist.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mia weint leise neben mir im kalten Flur, während mein Vater im Hintergrund die Haustür aufreißt und uns hinauswirft."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Mit so einem armen Schlucker lassen wir uns niemals blicken.",
+      "quote_by": {
+        "level": 6,
+        "name": "Helga",
+        "badge": "8.500 €",
+        "character": "An arrogant lemon person with sharp yellow skin, wearing a strict Chanel-style tweed blazer and holding a pearl necklace.",
+        "scene": "Wide shot of a luxurious marble hallway with a glowing 8.500 on her forehead, pointing a finger down in disgust."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "850 €",
+          "bar": 0.1
+        },
+        {
+          "label": "Miete",
+          "value": "450 €",
+          "bar": 0.3
+        },
+        {
+          "label": "Status",
+          "value": "Azubi",
+          "bar": 0.1
+        }
+      ],
+      "character": "A young strawberry person with bright red skin dotted with seeds, wearing a worn-out denim jacket and a faded green beanie; a glowing digital display on his forehead reads 850 €.",
+      "visual": "Wide shot of a gloomy apartment hallway with cracked wallpaper, rain splashing against a small window, a strawberry person standing next to a crying peach person while a lemon woman points at them.",
+      "scenes": [
+        "Wide shot of a damp street at dusk, a strawberry person shivering near a glowing ticket machine.",
+        "Close-up of a glowing digital forehead display showing 850 € in bright blue light.",
+        "Medium shot inside a cramped kitchen with an old coffee maker, steam rising, a gold coin hidden behind a ceramic mug.",
+        "Halbnah shot in the hallway where a lemon woman in a tweed blazer crosses her arms contemptuously.",
+        "Detail shot of trembling hands packing cheap cardboard moving boxes.",
+        "Wide shot of the building exterior at night, flickering streetlights casting long shadows."
+      ],
+      "caption": "How far would you go to protect your partner? #relationship #parents #drama #level #viral"
+    },
+    {
+      "n": 2,
+      "open_loop": "Which dark secret is the wealthy mother-in-law hiding in her safe?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Tears up the birthday invitation demonstratively in front of everyone.",
+        "name": "Leo",
+        "badge": "1.400 € Netto",
+        "character": "A stiff cucumber person in a tailored dark grey business suit, wearing expensive silver cufflinks.",
+        "scene": "Medium shot inside a trendy café, pointing a finger across the wooden counter at the barista with a smug grin."
+      },
+      "name": "Leo, 25, Barista",
+      "badge": "1.400 € netto",
+      "verdict": "TOO LOW",
+      "story": "The 8 Levels of Hiding Your Partner. Level 2. 1.400 Euro als Barista. Ihr Vater spuckt auf meinen Tresen und nennt mich einen Schmarotzer. Meine Stirn leuchtet mit exakt 1.400 Euro, während ich im Szene-Café stehe und den Gästen ihre überteuerten Getränke serviere. Du willst ernsthaft meine Tochter heiraten mit diesem erbärmlichen Taschengeld-Job?, schreit der Vater und schlägt mit voller Wucht mit der Faust auf den Holztresen. Ich wische den Tisch ab, halte den Blick starr nach vorne gerichtet und lächle gequält, während die umstehenden Gäste laut gaffen. Vergiss es einfach, du wirst in diesem Leben niemals zu unserem erlesenen Kreis gehören, du kleine Wurst, zischt er voller Abscheu. Die Espressomaschine zischt bedrohlich laut im Hintergrund, und ich spüre, wie die Tränen in den Augen brennen vor blanker Wut. Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+300 €",
+        "after": "1.700 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Levels of Hiding Your Partner. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "1.400 Euro als Barista. Ihr Vater spuckt auf meinen Tresen und nennt mich einen Schmarotzer."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn leuchtet mit exakt 1.400 Euro, während ich im Szene-Café stehe und den Gästen ihre überteuerten Getränke serviere."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du willst ernsthaft meine Tochter heiraten mit diesem erbärmlichen Taschengeld-Job?, schreit der Vater und schlägt mit voller Wucht mit der Faust auf den Holztresen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich wische den Tisch ab, halte den Blick starr nach vorne gerichtet und lächle gequält, während die umstehenden Gäste laut gaffen."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Vergiss es einfach, du wirst in diesem Leben niemals zu unserem erlesenen Kreis gehören, du kleine Wurst, zischt er voller Abscheu.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Espressomaschine zischt bedrohlich laut im Hintergrund, und ich spüre, wie die Tränen in den Augen brennen vor blanker Wut."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Vergiss es einfach, du wirst niemals zu unserem Kreis gehören, du kleine Wurst.",
+      "quote_by": {
+        "level": 5,
+        "name": "Richard",
+        "badge": "12.000 €",
+        "character": "A stiff cucumber person in a tailored dark grey business suit, wearing expensive silver cufflinks.",
+        "scene": "Medium shot inside a trendy café, pointing a finger across the wooden counter at the barista with a smug grin."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "1.400 €",
+          "bar": 0.2
+        },
+        {
+          "label": "Trinkgeld",
+          "value": "120 €",
+          "bar": 0.15
+        },
+        {
+          "label": "Miete",
+          "value": "600 €",
+          "bar": 0.4
+        }
+      ],
+      "character": "An orange person with vibrant citrus skin, wearing a black barista apron over a vintage flannel shirt; a glowing digital display on his forehead reads 1.400 €.",
+      "visual": "Medium shot in a dimly lit artisan café, steam swirling around an orange person wiping down a stainless steel counter, an angry cucumber man in a suit glaring at him.",
+      "scenes": [
+        "Wide shot of a bustling coffee shop interior with warm pendant lights and wooden tables.",
+        "Close-up of the orange person's forehead glowing with 1.400 € next to a steaming espresso cup.",
+        "Halbnah shot of the cucumber man slamming a leather wallet onto the wooden counter.",
+        "Detail shot of a hidden gold coin resting on the edge of an old cash register.",
+        "Wide shot through the café window showing pedestrians walking past in the autumn rain.",
+        "Close-up of a smartphone screen flashing a missed call from an unknown number."
+      ],
+      "caption": "Money isn't everything, but without a number you are invisible. #love #money #coffee #hiding #viral"
+    },
+    {
+      "n": 3,
+      "open_loop": "What was inside the mysterious envelope on the kitchen table?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Publicly calls her a mistake of the family at a gala.",
+        "name": "Clara",
+        "badge": "2.200 € Netto",
+        "character": "An imposing plum person with deep purple skin, wearing an expensive velvet gown and diamond earrings.",
+        "scene": "Close-up in a luxurious penthouse living room, sneering down at the graphic designer with cold arrogance."
+      },
+      "name": "Clara, 27, Grafikerin",
+      "badge": "2.200 € netto",
+      "verdict": "MEDIOCRE",
+      "story": "The 8 Levels of Hiding Your Partner. Level 3. 2.200 Euro als Grafikerin. Seine Eltern bezeichnen mich öffentlich als Fehlentscheidung. Meine Stirn zeigt deutliche 2.200 Euro, als ich im kalten Designer-Loft stehe und versuche, mich so unsichtbar wie möglich zu machen. Mit gerade mal 2.200 Euro im Monat wirst du hier in unserem Haus niemals auch nur einen Teller spülen dürfen, wirft mir seine Mutter vor versammelter Mannschaft an den Kopf. Ich beiße mir fest auf die Unterlippe, spüre die pure Wut in meinem Bauch aufsteigen und trete entschlossen einen Schritt vor. Du bist eine absolute Fehlentscheidung für unseren edlen Stammbaum, giftet sie weiter und mustert meine günstige Kleidung von oben bis unten. Die teure Standuhr im Flur tickt unerbittlich laut, während mein Freund schweigend den Kopf senkt und mich im Stich lässt. Das siehst du in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "+500 €",
+        "after": "2.700 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Levels of Hiding Your Partner. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "2.200 Euro als Grafikerin. Seine Eltern bezeichnen mich öffentlich als Fehlentscheidung."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn zeigt deutliche 2.200 Euro, als ich im kalten Designer-Loft stehe und versuche, mich so unsichtbar wie möglich zu machen."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Mit gerade mal 2.200 Euro im Monat wirst du hier in unserem Haus niemals auch nur einen Teller spülen dürfen, wirft mir seine Mutter vor versammelter Mannschaft an den Kopf.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich beiße mir fest auf die Unterlippe, spüre die pure Wut in meinem Bauch aufsteigen und trete entschlossen einen Schritt vor."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du bist eine absolute Fehlentscheidung für unseren edlen Stammbaum, giftet sie weiter und mustert meine günstige Kleidung von oben bis unten.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Die teure Standuhr im Flur tickt unerbittlich laut, während mein Freund schweigend den Kopf senkt und mich im Stich lässt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Du bist eine absolute Fehlentscheidung für unseren edlen Stammbaum.",
+      "quote_by": {
+        "level": 7,
+        "name": "Eleonore",
+        "badge": "18.500 €",
+        "character": "An imposing plum person with deep purple skin, wearing an expensive velvet gown and diamond earrings.",
+        "scene": "Close-up in a luxurious penthouse living room, sneering down at the graphic designer with cold arrogance."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "2.200 €",
+          "bar": 0.35
+        },
+        {
+          "label": "Projekte",
+          "value": "12",
+          "bar": 0.5
+        },
+        {
+          "label": "Miete",
+          "value": "850 €",
+          "bar": 0.5
+        }
+      ],
+      "character": "An avocado person with smooth green skin and a warm stone-like core texture, wearing a minimalist black turtleneck; a glowing digital display on her forehead reads 2.200 €.",
+      "visual": "Wide shot of a minimalist luxury penthouse with floor-to-ceiling windows overlooking a skyline, an avocado woman standing rigidly in front of a cold plum matriarch.",
+      "scenes": [
+        "Wide shot of a minimalist penthouse living room with designer furniture and abstract art.",
+        "Close-up of the avocado person's forehead glowing softly with 2.200 €.",
+        "Halbnah shot of a stern plum woman holding a crystal champagne flute disdainfully.",
+        "Detail shot of a gold coin hidden beneath a stack of glossy design magazines.",
+        "Medium shot of two figures arguing near a panoramic window with city lights below.",
+        "Close-up of clenched hands dropping a silver car key onto a marble table."
+      ],
+      "caption": "Sometimes pride weighs heavier than any bank account. #career #parents #pressure #design #viral"
+    },
+    {
+      "n": 4,
+      "open_loop": "Who sent the mysterious text message to the secret phone?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Falsely accuses him of theft in the café.",
+        "name": "Tim",
+        "badge": "3.100 € Netto",
+        "character": "A stern broccoli person with dark green florets, wearing a heavy wool trench coat and leather gloves.",
+        "scene": "Wide shot in a misty public park, pointing an accusing finger at a younger teacher."
+      },
+      "name": "Tim, 29, Lehrer",
+      "badge": "3.100 € netto",
+      "verdict": "SOLID",
+      "story": "The 8 Levels of Hiding Your Partner. Level 4. 3.100 Euro als Lehrer. Ihre reiche Familie will mich komplett vernichten. Meine Stirn zeigt 3.100 Euro, doch für diese snobistische Familie bin ich nichts weiter als reiner Abschaum, den man zertreten kann. Du wagst es also tatsächlich, dich mit meiner Tochter abzugeben, du armseliger Pädagoge?, brüllt er im kalten, verlassenen Park. Ich trete trotzig vor, verschränke meine Arme eng vor der Brust und blicke ihm direkt in die eiskalten Augen. Du kannst ihr niemals auch nur ansatzweise das Leben bieten, das sie von Kindheit an gewohnt ist, lacht er mich verächtlich aus. Die bunten Blätter rascheln im kalten Herbstwind, während meine Freundin im Hintergrund verzweifelt weint und um Ruhe bittet. Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+400 €",
+        "after": "3.500 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Levels of Hiding Your Partner. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "3.100 Euro als Lehrer. Ihre reiche Familie will mich komplett vernichten."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn zeigt 3.100 Euro, doch für diese snobistische Familie bin ich nichts weiter als reiner Abschaum, den man zertreten kann."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du wagst es also tatsächlich, dich mit meiner Tochter abzugeben, du armseliger Pädagoge?, brüllt er im kalten, verlassenen Park.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich trete trotzig vor, verschränke meine Arme eng vor der Brust und blicke ihm direkt in die eiskalten Augen."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du kannst ihr niemals auch nur ansatzweise das Leben bieten, das sie von Kindheit an gewohnt ist, lacht er mich verächtlich aus.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Die bunten Blätter rascheln im kalten Herbstwind, während meine Freundin im Hintergrund verzweifelt weint und um Ruhe bittet."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Du kannst ihr niemals das Leben bieten, das sie verdient hat.",
+      "quote_by": {
+        "level": 2,
+        "name": "Arthur",
+        "badge": "15.000 €",
+        "character": "A stern broccoli person with dark green florets, wearing a heavy wool trench coat and leather gloves.",
+        "scene": "Wide shot in a misty public park, pointing an accusing finger at a younger teacher."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "3.100 €",
+          "bar": 0.45
+        },
+        {
+          "label": "Stunden",
+          "value": "28",
+          "bar": 0.6
+        },
+        {
+          "label": "Klasse",
+          "value": "10b",
+          "bar": 0.5
+        }
+      ],
+      "character": "A lemon person with textured yellow skin, wearing a neat tweed jacket and wire-rimmed glasses; a glowing digital display on his forehead reads 3.100 €.",
+      "visual": "Wide shot of a misty autumn park with golden leaves on the ground, a lemon teacher standing opposite an intimidating broccoli man in a long coat.",
+      "scenes": [
+        "Wide shot of an empty park pathway surrounded by tall, bare trees in autumn.",
+        "Close-up of the lemon person's forehead glowing with 3.100 € under a streetlamp.",
+        "Halbnah shot of a broccoli man in a heavy coat pointing aggressively.",
+        "Detail shot of a gold coin hidden in the moss near a wooden park bench.",
+        "Medium shot of two people holding hands tightly while looking away in distress.",
+        "Wide shot of the city skyline fading into an early evening fog."
+      ],
+      "caption": "Love doesn't ask about bank accounts, but the family does. #teacher #relationship #secret #park #viral"
+    },
+    {
+      "n": 5,
+      "open_loop": "What was written in the grandfather's encrypted last will?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Secretly cuts the advertising budget for her design projects.",
+        "name": "Sarah",
+        "badge": "4.200 € Netto",
+        "character": "A rigid zucchini person with dark green cylindrical skin, wearing a sharp double-breasted business suit.",
+        "scene": "Medium shot in a grand dining room, staring down an architect with cold superiority."
+      },
+      "name": "Sarah, 31, Architektin",
+      "badge": "4.200 € netto",
+      "verdict": "UPPER THIRD",
+      "story": "The 8 Levels of Hiding Your Partner. Level 5. 4.200 Euro als Architektin. Mein eigener Vater hält mich für einen Versager, weil mein Partner angeblich zu klein ist. Meine Stirn leuchtet mit soliden 4.200 Euro, aber in unserer extrem versnobten Dynastie gilt das schlicht als peinlicher Notstand. Du baust zwar große Häuser, suchst dir aber so einen nutzlosen Handlanger als Partner aus?, schreit mein Vater quer durch den opulenten Raum. Ich balle meine Fäuste bis aufs Blut, trete direkt an den Esstisch heran und stelle mich schützend vor ihn. Du ruinierst den guten Ruf unserer gesamten Familie mit dieser armseligen Nummer, faucht er mich unbarmherzig an. Die schweren Kristallleuchter über unseren Köpfen scheinen plötzlich eiskalt zu flackern, während alle Gäste den Atem anhalten. Das siehst du in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+800 €",
+        "after": "5.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Levels of Hiding Your Partner. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "4.200 Euro als Architektin. Mein eigener Vater hält mich für einen Versager, weil mein Partner angeblich zu klein ist."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn leuchtet mit soliden 4.200 Euro, aber in unserer extrem versnobten Dynastie gilt das schlicht als peinlicher Notstand."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du baust zwar große Häuser, suchst dir aber so einen nutzlosen Handlanger als Partner aus?, schreit mein Vater quer durch den opulenten Raum.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich balle meine Fäuste bis aufs Blut, trete direkt an den Esstisch heran und stelle mich schützend vor ihn."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du ruinierst den guten Ruf unserer gesamten Familie mit dieser armseligen Nummer, faucht er mich unbarmherzig an.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Die schweren Kristallleuchter über unseren Köpfen scheinen plötzlich eiskalt zu flackern, während alle Gäste den Atem anhalten."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Du ruinierst den Ruf unserer gesamten Familie mit dieser armseligen Nummer.",
+      "quote_by": {
+        "level": 3,
+        "name": "Robert",
+        "badge": "12.000 €",
+        "character": "A rigid zucchini person with dark green cylindrical skin, wearing a sharp double-breasted business suit.",
+        "scene": "Medium shot in a grand dining room, staring down an architect with cold superiority."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "4.200 €",
+          "bar": 0.6
+        },
+        {
+          "label": "Projekte",
+          "value": "6",
+          "bar": 0.7
+        },
+        {
+          "label": "Bonus",
+          "value": "3.000 €",
+          "bar": 0.5
+        }
+      ],
+      "character": "A coconut person with a hard brown textured shell and a sharp modern haircut, wearing an elegant white blazer; a glowing digital display on her forehead reads 4.200 €.",
+      "visual": "Wide shot of a grand entrance hall with sweeping staircases, a coconut architect standing proudly next to an angry zucchini father in a tailored suit.",
+      "scenes": [
+        "Wide shot of a luxury villa foyer with high ceilings and polished marble floors.",
+        "Close-up of the coconut person's forehead glowing brightly with 4.200 €.",
+        "Halbnah shot of a zucchini man gesturing angrily toward the front door.",
+        "Detail shot of a gold coin hidden beneath a silver decorative bowl on a console.",
+        "Medium shot of an architect staring defiantly at her family portrait on the wall.",
+        "Wide shot of the illuminated driveway at night with a luxury car parked outside."
+      ],
+      "caption": "Success is not measured by others' expectations. #architecture #family #success #salary #viral"
+    },
+    {
+      "n": 6,
+      "open_loop": "Why was the secret contract lying in his drawer of all places?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Intentionally damages his bicycle in front of the office building.",
+        "name": "Markus",
+        "badge": "6.800 € Netto",
+        "character": "An arrogant lemon person with sharp yellow skin, wearing a strict Chanel-style tweed blazer and holding a pearl necklace.",
+        "scene": "Wide shot in front of a grand country estate, looking down condescendingly from the top stone steps."
+      },
+      "name": "Markus, 35, Ingenieur",
+      "badge": "6.800 € netto",
+      "verdict": "VERY GOOD",
+      "story": "The 8 Levels of Hiding Your Partner. Level 6. 6.800 Euro als Ingenieur. Meine Verlobte verleugnet mich vor ihrer millionenschweren Mutter. Meine Stirn zeigt strahlende 6.800 Euro, aber für ihre herrschsüchtige Mutter existiere ich im Grunde schlicht nicht. Mit so einem lächerlich kleinen Ingenieursgehalt kommst du in unserem exklusiven Club niemals weit, lacht sie mich eiskalt aus. Ich atme tief durch, nehme meine Sonnenbrille langsam ab und trete einen bedrohlichen Schritt auf sie zu. Du bist für mich nur eine peinliche Zwischenstation für meine Tochter, spuckt sie mir direkt vor die Füße. Die schwere Eingangstür knallt hinter uns ins Schloss, während meine Freundin feige schweigt und den Blick abwendet. Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1.200 €",
+        "after": "8.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Levels of Hiding Your Partner. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "6.800 Euro als Ingenieur. Meine Verlobte verleugnet mich vor ihrer millionenschweren Mutter."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn zeigt strahlende 6.800 Euro, aber für ihre herrschsüchtige Mutter existiere ich im Grunde schlicht nicht."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Mit so einem lächerlich kleinen Ingenieursgehalt kommst du in unserem exklusiven Club niemals weit, lacht sie mich eiskalt aus.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich atme tief durch, nehme meine Sonnenbrille langsam ab und trete einen bedrohlichen Schritt auf sie zu."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du bist für mich nur eine peinliche Zwischenstation für meine Tochter, spuckt sie mir direkt vor die Füße.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Die schwere Eingangstür knallt hinter uns ins Schloss, während meine Freundin feige schweigt und den Blick abwendet."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Du bist nur eine peinliche Zwischenstation für meine Tochter.",
+      "quote_by": {
+        "level": 1,
+        "name": "Helga",
+        "badge": "18.500 €",
+        "character": "An arrogant lemon person with sharp yellow skin, wearing a strict Chanel-style tweed blazer and holding a pearl necklace.",
+        "scene": "Wide shot in front of a grand country estate, looking down condescendingly from the top stone steps."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "6.800 €",
+          "bar": 0.75
+        },
+        {
+          "label": "Projekte",
+          "value": "24",
+          "bar": 0.8
+        },
+        {
+          "label": "Aktien",
+          "value": "45k",
+          "bar": 0.6
+        }
+      ],
+      "character": "A dragonfruit person with striking pink and green scale-like skin, wearing a sharp grey business suit; a glowing digital display on his forehead reads 6.800 €.",
+      "visual": "Wide shot of a grand countryside driveway with a sleek modern sports car, a dragonfruit engineer standing angrily below a stone porch where a lemon woman looks down.",
+      "scenes": [
+        "Wide shot of an opulent country estate with manicured hedges and gravel driveways.",
+        "Close-up of the dragonfruit person's forehead glowing brightly with 6.800 €.",
+        "Halbnah shot of a lemon woman in tweed looking down from a balcony with disdain.",
+        "Detail shot of a gold coin hidden beneath the windshield wiper of a sports car.",
+        "Medium shot of an engineer gripping a steering wheel with tense, white knuckles.",
+        "Wide shot of the estate gates closing automatically as dusk falls."
+      ],
+      "caption": "You can't hide success forever. #engineer #career #relationship #money #viral"
+    },
+    {
+      "n": 7,
+      "open_loop": "What happened on the night before the big family gathering in the vault?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Tries to portray him as disloyal to company management.",
+        "name": "Vanessa",
+        "badge": "11.500 € Netto",
+        "character": "An intimidating walnut person with a hard ridged shell head, wearing a bespoke pinstripe suit and gold pocket watch.",
+        "scene": "Medium shot at the head of a long dining table, raising a wine glass with an arrogant smirk."
+      },
+      "name": "Vanessa, 38, Unternehmensberaterin",
+      "badge": "11.500 € netto",
+      "verdict": "TOP EARNER",
+      "story": "The 8 Levels of Hiding Your Partner. Level 7. 11.500 Euro als Beraterin. Ich muss mich vor seiner arroganten Familie als arme Schluckerin ausgeben. Meine Stirn zeigt stolze 11.500 Euro, aber mein Freund hat panische Angst vor den Repressalien seines Clans. Nette kleine Nebentätigkeit, die du da machst, mein liebes Kind, spottet der Patriarch vom Ende des Tisches. Ich setze mich langsam und kontrolliert an den langen Holztisch, lege meine Tasche ab und fixiere ihn eiskalt. Für unsere elitäre Familie wirst du immer nur eine Nummer zu klein sein, wirft er mir arrogant vor. Das edle Porzellangeschirr klappert leise, während alle am Tisch den Atem anhalten und gespannt auf meine Reaktion warten. Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "+3.500 €",
+        "after": "15.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Levels of Hiding Your Partner. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "11.500 Euro als Beraterin. Ich muss mich vor seiner arroganten Familie als arme Schluckerin ausgeben."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn zeigt stolze 11.500 Euro, aber mein Freund hat panische Angst vor den Repressalien seines Clans."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Nette kleine Nebentätigkeit, die du da machst, mein liebes Kind, spottet der Patriarch vom Ende des Tisches.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich setze mich langsam und kontrolliert an den langen Holztisch, lege meine Tasche ab und fixiere ihn eiskalt."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Für unsere elitäre Familie wirst du immer nur eine Nummer zu klein sein, wirft er mir arrogant vor.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Das edle Porzellangeschirr klappert leise, während alle am Tisch den Atem anhalten und gespannt auf meine Reaktion warten."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Für unsere Familie wirst du immer nur eine Nummer zu klein sein.",
+      "quote_by": {
+        "level": 4,
+        "name": "Cornelius",
+        "badge": "22.000 €",
+        "character": "An intimidating walnut person with a hard ridged shell head, wearing a bespoke pinstripe suit and gold pocket watch.",
+        "scene": "Medium shot at the head of a long dining table, raising a wine glass with an arrogant smirk."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "11.500 €",
+          "bar": 0.9
+        },
+        {
+          "label": "Mandate",
+          "value": "40",
+          "bar": 0.95
+        },
+        {
+          "label": "Fonds",
+          "value": "180k",
+          "bar": 0.85
+        }
+      ],
+      "character": "A pineapple person with spiky golden-yellow crown leaves and textured golden skin, wearing a high-end designer blazer; a glowing digital display on her forehead reads 11.500 €.",
+      "visual": "Wide shot of a lavish dining hall with crystal chandeliers, a pineapple consultant sitting at a massive mahogany table facing a stern walnut patriarch.",
+      "scenes": [
+        "Wide shot of a formal dining room with heavy velvet curtains and silver tableware.",
+        "Close-up of the pineapple person's forehead glowing brightly with 11.500 €.",
+        "Halbnah shot of a walnut man holding a wine glass with a condescending smile.",
+        "Detail shot of a gold coin hidden beneath an expensive porcelain dinner plate.",
+        "Medium shot of a consultant calmly opening a leather briefcase at the table.",
+        "Wide shot of the mansion exterior at night with illuminated security cameras."
+      ],
+      "caption": "He who stacks high falls deep – or wins. #consulting #success #family #money #viral"
+    },
+    {
+      "n": 8,
+      "open_loop": "Which secret connects all eight characters forever?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Tries to take over the majority stake of the holding and fails.",
+        "name": "Maximilian",
+        "badge": "45.000 € Netto",
+        "character": "A majestic coconut person with a smooth polished shell and a dark tailored suit, wearing platinum cufflinks.",
+        "scene": "Wide shot at the head of a massive boardroom table, revealing the ultimate glowing number on his forehead to everyone."
+      },
+      "name": "Maximilian, 42, Investor",
+      "badge": "45.000 € netto",
+      "verdict": "ELITE",
+      "story": "The 8 Levels of Hiding Your Partner. Level 8. 45.000 Euro Netto. Jahrelang wurde ich zertreten – jetzt zeige ich ihnen allen das wahre Gesicht. Meine Stirn leuchtet mit unvorstellbaren 45.000 Euro, als ich den gewaltigen Konferenzsaal betrete und die Blicke auf mich ziehe. Der leise Barista aus Level 2 nickt mir respektvoll zu und reicht mir die finale Dokumentenmappe. Ich lege meinen goldenen Schlüssel langsam auf den Glastisch und sehe direkt in ihre geschockten, totenbleichen Gesichter. Die kalte Zahl auf unserer Stirn hat euch alle so blind vor Gier gemacht, sage ich ruhig in die absolute Stille des Raumes. Endlich bricht das große Schweigen und das gesamte verlogene System bricht in sich zusammen. Welches Thema aus dieser Welt sollen wir als Nächstes mit absoluter Genugtuung zeigen?",
+      "gender": "m",
+      "twist": {
+        "delta": "+5.000 €",
+        "after": "50.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 Levels of Hiding Your Partner. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "45.000 Euro Netto. Jahrelang wurde ich zertreten – jetzt zeige ich ihnen allen das wahre Gesicht."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn leuchtet mit unvorstellbaren 45.000 Euro, als ich den gewaltigen Konferenzsaal betrete und die Blicke auf mich ziehe."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Der leise Barista aus Level 2 nickt mir respektvoll zu und reicht mir die finale Dokumentenmappe.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich lege meinen goldenen Schlüssel langsam auf den Glastisch und sehe direkt in ihre geschockten, totenbleichen Gesichter."
+        },
+        {
+          "s": "Figur",
+          "t": "Die kalte Zahl auf unserer Stirn hat euch alle so blind vor Gier gemacht, sage ich ruhig in die absolute Stille des Raumes."
+        },
+        {
+          "s": "Figur",
+          "t": "Endlich bricht das große Schweigen und das gesamte verlogene System bricht in sich zusammen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema aus dieser Welt sollen wir als Nächstes mit absoluter Genugtuung zeigen?"
+        }
+      ],
+      "quote": "Die Zahl auf unserer Stirn hat euch alle blind gemacht.",
+      "quote_by": {
+        "level": 8,
+        "name": "Maximilian",
+        "badge": "45.000 €",
+        "character": "A majestic coconut person with a smooth polished shell and a dark tailored suit, wearing platinum cufflinks.",
+        "scene": "Wide shot at the head of a massive boardroom table, revealing the ultimate glowing number on his forehead to everyone."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "45.000 €",
+          "bar": 1.0
+        },
+        {
+          "label": "Holding",
+          "value": "12M",
+          "bar": 1.0
+        },
+        {
+          "label": "Status",
+          "value": "Boss",
+          "bar": 1.0
+        }
+      ],
+      "character": "A majestic coconut person with a smooth polished shell head, wearing an impeccably tailored black tuxedo and a silk tie; a glowing digital display on his forehead reads 45.000 €.",
+      "visual": "Wide shot of an ultra-modern corporate boardroom with panoramic city views at sunset, all previous characters sitting around a massive glass table staring in shock.",
+      "scenes": [
+        "Wide shot of a luxury corporate boardroom with floor-to-ceiling glass windows at sunset.",
+        "Close-up of the coconut investor's forehead glowing brilliantly with 45.000 €.",
+        "Halbnah shot of all previous characters staring in utter shock and disbelief.",
+        "Detail shot of the final gold coin resting dead center on a glass conference table.",
+        "Medium shot of a digital display flickering as the final numbers lock into place.",
+        "Wide shot of the entire city skyline lighting up as night falls over the metropolis."
+      ],
+      "caption": "In the end, the forehead only shows what we make of it. Which topic next? #finale #money #truth #viral #end"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das Verstecken des Partners vor den strengen Eltern",
+  "frame": "frucht"
+}
