@@ -1,129 +1,129 @@
 {
-  "best_score": 38,
+  "best_score": 46,
   "rounds": [
     {
       "scores": {
-        "hook": 3,
-        "story": 3,
+        "hook": 4,
+        "story": 5,
         "identifikation": 4,
-        "verbindungen": 5,
+        "verbindungen": 6,
+        "sog": 5,
+        "wut": 4,
+        "merkfaehigkeit": 5,
+        "sprache": 4
+      },
+      "gesamt": 46,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den lahmen Start durch einen harten Kontrast: '850 Dollar Miete für diesen Abstellraum – und auf meiner Stirn leuchtet eine lächerliche 1.400, während der Vermieter mich öffentlich lachend als Abschaum abstempelt.'"
+        },
+        {
+          "n": 5,
+          "fix": "Verstärke die Wut im Dialog: 'Du zahlst morgen 500 Dollar mehr, oder du schläfst auf der Straße, du kleiner Orangensaft-Versager!'"
+        },
+        {
+          "n": 8,
+          "fix": "Schreibe das Finale um, sodass die Rache des Ältesten sofort einschlägt: 'Du hast alle rausgeworfen? Schau auf mein Schild: INFINITY. Ich übernehme jetzt deinen Laden.'"
+        }
+      ],
+      "fazit": "Die Serie hat nette Ansätze mit den Obst-Figuren und Querverweisen, aber sie plätschert zu oft in Beschreibungen statt in harten Konflikten. Der Zuschauer swipt nach 2 Sekunden weg, weil die echten Demütigungen zu zahm sind und die Genugtuung zu lange auf sich warten lässt. Mehr Schmerz, mehr Arroganz, schnellerer Payoff!"
+    },
+    {
+      "scores": {
+        "hook": 3,
+        "story": 4,
+        "identifikation": 5,
+        "verbindungen": 6,
         "sog": 3,
         "wut": 4,
         "merkfaehigkeit": 4,
-        "sprache": 4
-      },
-      "gesamt": 38,
-      "fixes": [
-        {
-          "n": 1,
-          "fix": "Ersetze das langweilige Intro durch einen harten Frontal-Angriff: '450 Euro Miete im Monat für einen fensterlosen Abstellraum – und meine Stirn-Zahl schreit es der ganzen U-Bahn entgegen.'"
-        },
-        {
-          "n": 2,
-          "fix": "Lasse den Gegenspieler sofort härter zuschlagen: '80 Stunden arbeiten, um in einer feuchten Kellerbox zu hausen? Selbst schuld, du Taugenichts.' Zeige echte Demütigung."
-        },
-        {
-          "n": 3,
-          "fix": "Erhöhe den Wortschatz und die emotionale Wucht auf über 175 Wörter pro Teil, indem du den inneren Monolog über den Kontostand und den Neid drastisch vertiefst."
-        }
-      ],
-      "fazit": "Die Serie hat eine solide visuelle Grundidee mit den Frucht-Figuren und Stirn-Zahlen, verliert aber massiv durch zu zahme Konflikte, formelhafte Abläufe und mangelnden echten Genugtuungs-Faktor. Die Bösewichte sind zu harmlos, die Hooks zu lahm. Ohne brutale emotionale Eskalation und echten Rache- oder Enthüllungs-Payoff swipen die Zuschauer nach 2 Sekunden weg."
-    },
-    {
-      "scores": {
-        "hook": 3,
-        "story": 2,
-        "identifikation": 2,
-        "verbindungen": 4,
-        "sog": 3,
-        "wut": 3,
-        "merkfaehigkeit": 2,
-        "sprache": 1
-      },
-      "gesamt": 25,
-      "fixes": [
-        {
-          "n": 1,
-          "fix": "Ersetze den verworrenen Text durch: '450 Euro Miete für einen fensterlosen Besenschrank? Dein Ernst, Mia? Selbst schuld, wenn du für Mindestlohn schuftest.' (Genau 175+ Wörter einfügen, die echte Demütigung und den Kontrast zur geheimen Banküberweisung zeigen)."
-        },
-        {
-          "n": 2,
-          "fix": "Beginne sofort mit der harten Zahl und dem Angriff: '850 Euro für eine feuchte Kellerbox? Wer so dumm ist, verdient es nicht anders.' (Wortanzahl auf über 175 Wörter ausbauen mit echtem Konflikt statt Aufzählung)."
-        },
-        {
-          "n": 3,
-          "fix": "Harten Einstieg wählen: '1.400 Euro für eine Rumpelkammer? Du bist einfach zu inkompetent für diese Stadt.' (Mindestens 175 Wörter, natürliche Sprache ohne KI-Floskeln)."
-        },
-        {
-          "n": 4,
-          "fix": "Direkter Frontalangriff: '2.200 Euro und du hörst die Nachbarn atmen? Selbst schuld bei dem Gehalt.' (Auf über 175 Wörter erweitern, echter Konflikt)."
-        },
-        {
-          "n": 5,
-          "fix": "Direkte Konfrontation: '3.400 Euro Miete und du heulst rum? Such dir einen echten Job.' (Auf über 175 Wörter bringen, echter Rache-Sog)."
-        },
-        {
-          "n": 6,
-          "fix": "Harter Einstieg: '5.200 Euro Penthouse und du tust so als wärst du reich? Erbärmlich.' (Auf über 175 Wörter ausbauen)."
-        },
-        {
-          "n": 7,
-          "fix": "Direkter Vorwurf: '8.500 Euro Miete ausbeuten? Du bist der Grund, warum alle hier leiden.' (Auf über 175 Wörter erweitern)."
-        },
-        {
-          "n": 8,
-          "fix": "Finale auflösen: 'Schluss mit dem Versteckspiel. Die Zahlen auf unserer Stirn bedeuten die Wahrheit.' (Auf über 175 Wörter bringen)."
-        }
-      ],
-      "fazit": "Totaler Reinfall. Ihr habt das Konzept der viralen Vorbilder komplett missverstanden. Statt knackiger, hasserfüllter und sofort fesselnder Konflikte serviert ihr hölzerne, viel zu lange, künstlich wirkende KI-Texte voller Floskeln. Die Wortanzahl pro Story knackt kaum die geforderten Marken auf natürliche Weise, und die Hooks verpuffen nach einer Sekunde. Wer so schreibt, wird gnadenlos weggewischt."
-    },
-    {
-      "scores": {
-        "hook": 3,
-        "story": 2,
-        "identifikation": 1,
-        "verbindungen": 4,
-        "sog": 3,
-        "wut": 2,
-        "merkfaehigkeit": 2,
         "sprache": 2
       },
-      "gesamt": 24,
+      "gesamt": 39,
       "fixes": [
         {
           "n": 1,
-          "fix": "Ersetze den generellen Jammer-Text durch echten Konflikt: '2.000 Euro Miete für ein Loch, in dem nicht mal eine Ratte sterben will? Wer bist du überhaupt?'"
+          "fix": "Ersetze das langweilige Intro durch einen harten Schlag: '850 Euro Miete für einen ekligen Schrank – und auf meiner Stirn leuchtet eine 1.400, während mein Vermieter mich öffentlich als Abschaum beschimpft.' (Mindestens 175 Wörter einbauen: Beschreibe detailliert den Geruch von Schimmel, das Klingeln des Weckers um 5 Uhr früh und die Panik beim Blick aufs Konto)."
         },
         {
           "n": 2,
-          "fix": "Zeige die Demütigung direkt im Bild: 'Du schleppst Kaffeesäcke für Mindestlohn, während dein Chef im Porsche vorfährt und dich anspuckt.'"
+          "fix": "Erhöhe die Wut im ersten Drittel: Der Barista wird vom Lemon-Mann nicht nur beleidigt, sondern sein letzter Becher Kaffee wird vor laufender Kamera weggeschüttet. Ausformulieren auf über 175 Wörter mit echten, harten Dialogen statt Fülltext."
         },
         {
           "n": 3,
-          "fix": "Erhöhe den Schmerz und die Wortlänge auf über 175 Wörter durch echte Dialoge statt starrer Aufzählungen: 'Nimm deine Rechnungen und verschwinde aus meinem Sichtfeld!'"
+          "fix": "Füge echten Konflikt hinzu: Der Mitbewohner zerstört absichtlich die Meal Prep. Mindestens 175 Wörter über den Psychoterror in der WG, die schmutzigen Teller im Flur und die schlaflosen Nächte."
         },
         {
           "n": 4,
-          "fix": "Lasse den Gegenspieler echten Hass erzeugen: 'Deine Arbeit ist wertlos, genau wie dein Kontostand.'"
+          "fix": "Der Kontrast muss schmerzen: Zeige die Arroganz des Avocado-Mannes, der vor den Augen der ärmeren Figuren einen Hunderter zerreißt. Text auf über 175 Wörter erweitern mit Fokus auf die Angst vor dem sozialen Absturz."
         },
         {
           "n": 5,
-          "fix": "Füge einen glasklaren, unfairen Vorwurf ein: 'Du verdienst jeden Cent Schulden, weil du zu faul bist für diese Stadt.'"
+          "fix": "Der Vermieter lacht nicht nur, er droht mit der Zwangsräumung in 24 Stunden. Über 175 Wörter mit drastischen Details über die Kälte auf der Straße und die Verzweiflung der Mieter."
         },
         {
           "n": 6,
-          "fix": "Verbinde das Penthouse-Level direkt mit dem Keller: 'Dein ganzer Erfolg ist geliehen von Leuten, die auf dich herabsehen.'"
+          "fix": "Die Tech-Founder ignorieren jede Menschlichkeit. Lass sie die Heizung für das ganze Gebäude per App abstellen. Mindestens 175 Wörter mit klarem Fokus auf die absolute Gefühlskälte der Oberschicht."
         },
         {
           "n": 7,
-          "fix": "Erhöhe die Arroganz des Investors: 'Ich verdopple eure Miete morgen einfach, weil ich es kann.'"
+          "fix": "Der Mogul zerstört die Existenz des Buchhalters ohne mit der Wimper zu zucken. Über 175 Wörter, die pure Verachtung spürbar machen und den Zuschauer nach Genugtuung schreien lassen."
         },
         {
           "n": 8,
-          "fix": "Schließe mit einer harten, echten Pointe statt einer weichgespülten Frage: 'Die Zahlen lügen nicht. Und jetzt kniet nieder.'"
+          "fix": "Das Finale muss knallen: Keine schwammigen Erklärungen, sondern die harte Rache des Architekten, der alle Verträge zerreißt. Über 175 Wörter, die den finalen Twist genial und absolut befriedigend auflösen."
         }
       ],
-      "fazit": "Diese Serie ist ein steriler, künstlicher Roboter-Text voller austauschbarer Klischees. Die Sätze klingen wie maschinell übersetzte KI-Prompts, nicht wie echte, harte TikTok-Dramen. Es gibt weder echte Wut noch überraschende Genugtuung, sondern nur langweiliges Selbstmitleid von Obstfiguren."
+      "fazit": "Die Idee mit den Frucht-Menschen und den Stirnzahlen hat absolutes virales Potenzial, aber die Umsetzung ist aktuell viel zu zahm, unstrukturiert und sprachlich ein Mischmasch aus Englisch und Deutsch. Die Texte sind viel zu kurz (weit unter den geforderten 175 Wörtern pro Teil) und die Hooks verpuffen nach zwei Sekunden. Ohne kompromisslose Wut, echte emotionale Tiefe und eine harten Sog wischt jeder Zuschauer sofort weg."
+    },
+    {
+      "scores": {
+        "hook": 4,
+        "story": 5,
+        "identifikation": 4,
+        "verbindungen": 6,
+        "sog": 4,
+        "wut": 5,
+        "merkfaehigkeit": 4,
+        "sprache": 3
+      },
+      "gesamt": 44,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den verschachtelten englischen Fließtext durch einen messerscharfen deutschen Einstieg: '850 Euro Miete für einen ekligen Schrank – und auf meiner Stirn leuchtet eine lächerliche 1.400.'"
+        },
+        {
+          "n": 2,
+          "fix": "Kürze die Beschreibung und starte direkt mit dem Konflikt: 'Der arrogante Lemon-Man schüttet meinen letzten Espresso in den Gulli, weil mein Gehalt angeblich wertlos ist.'"
+        },
+        {
+          "n": 3,
+          "fix": "Direkter Einstieg in die Wut: 'Meine meal prep Container landen im Müll, während meine Mitbewohner mich ausrauben.'"
+        },
+        {
+          "n": 4,
+          "fix": "Kürze den Innenmonolog und bringe den harten Kontrast: 'Ich stehe im Penthouse, und der Avocado-Typ zerreißt vor meinen Augen einen 100-Dollar-Schein.'"
+        },
+        {
+          "n": 5,
+          "fix": "Konzentriere dich auf die Demütigung: 'Ich erhöhe seine Miete um 500 Dollar, und er bettelt auf den Knien.'"
+        },
+        {
+          "n": 6,
+          "fix": "Direkter Konflikt: 'Der Designer wagt es, sich über den Lärm zu beschweren – also schalte ich per App seine Heizung ab.'"
+        },
+        {
+          "n": 7,
+          "fix": "Schärfe die Arroganz: 'Der Buchhalter weint, und ich unterschreibe ohne mit der Wimper zu zucken seine Räumungsklage.'"
+        },
+        {
+          "n": 8,
+          "fix": "Klarer Twist zum Schluss: 'Alle Tyrannen waren nur Spielfiguren – ich besitze jeden einzelnen Stein in dieser Stadt.'"
+        }
+      ],
+      "fazit": "Die Serie hat eine starke Grundidee, scheitert aber an extrem aufgeblähten, unnatürlichen englischen Texten und zu wenig Tempo für TikTok. Die Sätze sind viel zu lang, die Zahlenkontraste nicht scharf genug in den ersten Sekunden, und die Genugtuung leidet unter dem verschwurbelten Drehbuch. Radikal kürzen, deutsche Sprache direkt und spoken-word mäßig gestalten, und den 'Versteckter Wert'-Faktor für die Zuschauer früher spürbar machen."
     }
   ]
 }

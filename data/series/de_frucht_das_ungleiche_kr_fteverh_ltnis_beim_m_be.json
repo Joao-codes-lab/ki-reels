@@ -1,0 +1,738 @@
+{
+  "title": "Die 8 Level vom IKEA-Möbelaufbau",
+  "house": "A bustling vegetable city named Gemüsen, featuring neon-lit apartment blocks, crowded Swedish furniture warehouses, and tiny cluttered kitchens where a tiny golden coin is hidden in every scene.",
+  "catchphrase": "Die Bauanleitung lügt nie.",
+  "links": [
+    "Barista in Level 2 mentions the stressed avocado man buying heavy hex keys.",
+    "A discarded receipt from Level 4 floats by the tram stop in Level 6.",
+    "The golden coin from the Kiosk in Level 1 reappears under the sofa leg in Level 7."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "2.000 Euro für diesen Schrott? Tomate Tom ist der ärmste Azubi in Berlin, und sein Chef lacht ihn gerade aus, während die Spanplatten zusammenbrechen.",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Lacht sie aus und behauptet, sie könne nicht mal einen Karton richtig öffnen.",
+        "name": "Kokosnuss Karl",
+        "badge": "100% Perfekt"
+      },
+      "name": "Tomate Tom, 22, Azubi",
+      "badge": "0 Inbusschlüssel",
+      "verdict": "VOLLCHAOS",
+      "story": "Die 8 Level vom IKEA-Möbelaufbau. Level 1. 2.000 Euro für diesen Schrott? Tomate Tom ist der ärmste Azubi in Berlin, und sein Chef lacht ihn gerade aus, während die Spanplatten zusammenbrechen. Ich stehe hier in meiner abgeranzten 23-Quadratmeter-Wohnung in Neukölln, umgeben von hundert Holzteilen und minderwertigen Spanplatten, und mein Blut kocht vor purer Wut über diesen arroganten Kokosnuss-Chef Karl, der mir täglich ins Gesicht sagt, dass ich ein kompletter Versager bin. Du hast nicht mal das richtige Werkzeug besorgt, du kleiner Loser. Niemand glaubt an mich, aber während er mich heute wieder vor dem gesamten Team gedemütigt hat, habe ich heimlich den legendären goldenen Inbusschlüssel in meiner Manteltasche eingesteckt, von dem er absolut keine Ahnung hat. Du wirst niemals fertig werden, du wirst ewig ein armseliger Azubi bleiben. Jeder Muskel in meinem Körper spannt sich an, denn dieser miserable Lohnsklaven-Job und seine verächtlichen Blicke machen mich so unfassbar wütend. Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1 Schlüss",
+        "after": "1 Schlüss"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom IKEA-Möbelaufbau. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "2.000 Euro für diesen Schrott? Tomate Tom ist der ärmste Azubi in Berlin, und sein Chef lacht ihn gerade aus, während die Spanplatten zusammenbrechen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe hier in meiner abgeranzten 23-Quadratmeter-Wohnung in Neukölln, umgeben von hundert Holzteilen und minderwertigen Spanplatten, und mein Blut kocht vor purer Wut über diesen arroganten Kokosnuss-Chef Karl, der mir täglich ins Gesicht sagt, dass ich ein kompletter Versager bin."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du hast nicht mal das richtige Werkzeug besorgt, du kleiner Loser.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Niemand glaubt an mich, aber während er mich heute wieder vor dem gesamten Team gedemütigt hat, habe ich heimlich den legendären goldenen Inbusschlüssel in meiner Manteltasche eingesteckt, von dem er absolut keine Ahnung hat."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du wirst niemals fertig werden, du wirst ewig ein armseliger Azubi bleiben.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Jeder Muskel in meinem Körper spannt sich an, denn dieser miserable Lohnsklaven-Job und seine verächtlichen Blicke machen mich so unfassbar wütend."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Du wirst niemals fertig werden, du wirst ewig ein armseliger Azubi bleiben.",
+      "quote_by": {
+        "level": 8,
+        "name": "Kokosnuss Karl",
+        "badge": "100% Perfekt",
+        "character": "A hard-shelled coconut man with a polished suit and a shiny digital number on his forehead.",
+        "scene": "Wide shot of a cluttered Berlin apartment, coconut man standing smugly over a pile of wood chips."
+      },
+      "stats": [
+        {
+          "label": "Werkzeug",
+          "value": "0",
+          "bar": 0.05
+        },
+        {
+          "label": "Nerven",
+          "value": "10%",
+          "bar": 0.1
+        },
+        {
+          "label": "Zeit",
+          "value": "4 Std.",
+          "bar": 0.2
+        }
+      ],
+      "character": "A soft red tomato man with a worried face, wearing a worn-out gray hoodie and sneakers, glowing digital display on forehead.",
+      "visual": "Wide shot of a small messy Berlin apartment living room, tomato man staring at chaotic furniture parts, moody evening light.",
+      "scenes": [
+        "Wide shot of a cramped Berlin apartment living room, tomato man staring at chaotic furniture parts, moody evening light.",
+        "Close-up of the glowing digital forehead showing zero tools next to a hidden golden coin.",
+        "Medium shot of the tomato man arguing with his girlfriend next to unboxing cardboard boxes.",
+        "Detail shot of a bent screw and a useless instruction manual on a sticky wooden floor.",
+        "Medium shot of the arrogant coconut man entering the doorway with folded arms.",
+        "Close-up of the tomato man's sweating face looking down at the broken assembly parts."
+      ],
+      "caption": "Wer von euch hat auch schon mal beim Möbelaufbau geweint? #möbelaufbau #ikea #fail #berlin #beziehungstest"
+    },
+    {
+      "n": 2,
+      "open_loop": "Wer hat die entscheidenden Holzdübel im Müll versteckt?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Nimmt ihm die Anleitung weg und wirft sie aus dem Fenster.",
+        "name": "Banane Ben",
+        "badge": "5 Werkzeuge"
+      },
+      "name": "Zitrone Zlatko, 29, Handwerker",
+      "badge": "2 Inbusschlüssel",
+      "verdict": "VERBITTERT",
+      "story": "Die 8 Level vom IKEA-Möbelaufbau. Level 2. Ich schwitze in meiner kleinen Küche in Hamburg-Altona, während dieser verdammte Kleiderschrank bedrohlich wackelt und meine Geduld endgültig reißt. Banane Ben steht in meiner Tür, grinst mich arrogant an und wirft demonstrativ meine letzte Schraube in den Müll, nur um zu zeigen, wie überlegen er ist. Du bist einfach zu dumm für simples Werkzeug, gib es doch zu. Dieser narzisstische Idiot hält sich für den König der Welt, während ich hier wegen seiner Sabotage fast ausraste und vor Wut platzen könnte. So wird das nie was, du handwerklicher Totalversager, bleib einfach am Boden. Ich presse meine Zähne aufeinander und spüre diesen brennenden Hass in meiner Brust, der mich antreibt, diese Rache durchzuziehen. Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+3 Schraub",
+        "after": "5 Teile"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom IKEA-Möbelaufbau. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schwitze in meiner kleinen Küche in Hamburg-Altona, während dieser verdammte Kleiderschrank bedrohlich wackelt und meine Geduld endgültig reißt."
+        },
+        {
+          "s": "Figur",
+          "t": "Banane Ben steht in meiner Tür, grinst mich arrogant an und wirft demonstrativ meine letzte Schraube in den Müll, nur um zu zeigen, wie überlegen er ist."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du bist einfach zu dumm für simples Werkzeug, gib es doch zu.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Dieser narzisstische Idiot hält sich für den König der Welt, während ich hier wegen seiner Sabotage fast ausraste und vor Wut platzen könnte."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "So wird das nie was, du handwerklicher Totalversager, bleib einfach am Boden.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Ich presse meine Zähne aufeinander und spüre diesen brennenden Hass in meiner Brust, der mich antreibt, diese Rache durchzuziehen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "So wird das nie was, du handwerklicher Totalversager, bleib einfach am Boden.",
+      "quote_by": {
+        "level": 5,
+        "name": "Banane Ben",
+        "badge": "5 Werkzeuge",
+        "character": "A sleek yellow banana man in a tight designer jacket, holding a professional laser measure.",
+        "scene": "Medium shot inside a messy kitchen, banana man pointing mockingly at the broken shelf."
+      },
+      "stats": [
+        {
+          "label": "Werkzeug",
+          "value": "2",
+          "bar": 0.25
+        },
+        {
+          "label": "Nerven",
+          "value": "30%",
+          "bar": 0.3
+        },
+        {
+          "label": "Zeit",
+          "value": "3 Std.",
+          "bar": 0.35
+        }
+      ],
+      "character": "A sour yellow lemon man with a permanent frown, wearing a stained blue work shirt, glowing digital display on forehead.",
+      "visual": "Medium shot of a cluttered Hamburg kitchen with half-built furniture parts scattered everywhere under harsh neon light.",
+      "scenes": [
+        "Medium shot of a cluttered Hamburg kitchen with half-built furniture parts scattered everywhere under harsh neon light.",
+        "Close-up of the lemon man's sour face staring at missing screws near a hidden golden coin.",
+        "Wide shot of the partner crossing her arms impatiently next to a tilted wooden wardrobe.",
+        "Detail shot of two bent hex keys resting on a greasy kitchen countertop.",
+        "Medium shot of the sleek banana man mocking the lemon worker with a smug grin.",
+        "Close-up of the lemon man clenching his fist in utter frustration."
+      ],
+      "caption": "Wer kennt den Frust mit den fehlenden Schrauben? #ikeafail #hamburg #handwerk #beziehung #zitrone"
+    },
+    {
+      "n": 3,
+      "open_loop": "Was verbarg sich hinter der falschen Rückwand?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Baut demonstrativ seinen eigenen Schrank in der Hälfte der Zeit auf und verspottet ihn.",
+        "name": "Apfel Adam",
+        "badge": "8 Werkzeuge"
+      },
+      "name": "Avocado Anna, 25, Studentin",
+      "badge": "4 Inbusschlüssel",
+      "verdict": "FAST PROFIT",
+      "story": "Die 8 Level vom IKEA-Möbelaufbau. Level 3. Ich bin kurz vor dem Nervenzusammenbruch in München, weil Apfel Adam mich mit seinen herablassenden Blicken in den Wahnsinn treibt und behauptet, ich sei zu inkompetent für jedes normale Möbelstück. Jedes Mal, wenn ich ein Brett anfasse, macht er sich über meine Fehler lustig und genießt es sichtlich, mich leiden zu sehen und öffentlich zu erniedrigen. Sag mal, bist du eigentlich zu blöd, um einen Nagel gerade einzuschlagen? Diese ekelhafte Arroganz lässt in mir eine kalte, unbändige Wut aufsteigen, die mir zeigt, dass ich diesen arroganten Schnösel bald vernichten muss. Mit vier billigen Schlüsseln wird das sowieso nur ein lächerliches Hühnerhaus. Ich habe den goldenen Inbusschlüssel tief in meiner Tasche versteckt und lächele innerlich, weil er absolut keine Ahnung hat, dass ich längst alle seine Geheimnisse kenne. Das siehst du in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "+2 Leim",
+        "after": "6 Teile"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom IKEA-Möbelaufbau. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin kurz vor dem Nervenzusammenbruch in München, weil Apfel Adam mich mit seinen herablassenden Blicken in den Wahnsinn treibt und behauptet, ich sei zu inkompetent für jedes normale Möbelstück."
+        },
+        {
+          "s": "Figur",
+          "t": "Jedes Mal, wenn ich ein Brett anfasse, macht er sich über meine Fehler lustig und genießt es sichtlich, mich leiden zu sehen und öffentlich zu erniedrigen."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Sag mal, bist du eigentlich zu blöd, um einen Nagel gerade einzuschlagen?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Diese ekelhafte Arroganz lässt in mir eine kalte, unbändige Wut aufsteigen, die mir zeigt, dass ich diesen arroganten Schnösel bald vernichten muss."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit vier billigen Schlüsseln wird das sowieso nur ein lächerliches Hühnerhaus.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Ich habe den goldenen Inbusschlüssel tief in meiner Tasche versteckt und lächele innerlich, weil er absolut keine Ahnung hat, dass ich längst alle seine Geheimnisse kenne."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Mit vier billigen Schlüsseln wird das sowieso nur ein lächerliches Hühnerhaus.",
+      "quote_by": {
+        "level": 7,
+        "name": "Apfel Adam",
+        "badge": "8 Werkzeuge",
+        "character": "A polished green apple man wearing an expensive tweed vest and gold-rimmed glasses.",
+        "scene": "Wide shot of a Munich student room, apple man looking down contemptuously at the broken wooden board."
+      },
+      "stats": [
+        {
+          "label": "Werkzeug",
+          "value": "4",
+          "bar": 0.4
+        },
+        {
+          "label": "Nerven",
+          "value": "50%",
+          "bar": 0.5
+        },
+        {
+          "label": "Zeit",
+          "value": "2 Std.",
+          "bar": 0.5
+        }
+      ],
+      "character": "A green avocado woman with a smooth skin texture and large expressive eyes, wearing a cozy oversized knit sweater, glowing digital display on forehead.",
+      "visual": "Wide shot of a sunlit Munich student flat living room filled with cardboard boxes and half-assembled shelves.",
+      "scenes": [
+        "Wide shot of a sunlit Munich student flat living room filled with cardboard boxes and half-assembled shelves.",
+        "Close-up of the avocado woman's stressed face reading a chaotic Swedish manual next to a hidden golden coin.",
+        "Medium shot of her partner shaking his head in disappointment by the window.",
+        "Detail shot of four hex keys and a tube of white wood glue on the floor.",
+        "Medium shot of the arrogant apple man pointing at the crooked structure with a sneer.",
+        "Close-up of the avocado woman holding a snapped wooden dowel in disbelief."
+      ],
+      "caption": "Wer kennt den Schwedisch-Anleitungs-Kampf? #münchen #studentenleben #ikea #beziehung #avocado"
+    },
+    {
+      "n": 4,
+      "open_loop": "Welches Geheimnis versteckte sich in der Schublade?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Beschuldigt ihn, die falschen Schrauben gekauft zu haben und verlässt den Raum.",
+        "name": "Zitrone Zlatko",
+        "badge": "2 Werkzeuge"
+      },
+      "name": "Orange Ole, 31, Grafiker",
+      "badge": "6 Inbusschlüssel",
+      "verdict": "IM FLUSS",
+      "story": "Die 8 Level vom IKEA-Möbelaufbau. Level 4. Jetzt läuft zwar die Montage in Frankfurt wie am Schnürchen, aber Zitrone Zlatko steht im Türrahmen und spuckt Gift und Galle, um meine harte Arbeit ins Lächerliche zu ziehen. Er kann es einfach nicht ertragen, dass ich Fortschritte mache, und versucht mit extrem fiesen Worten, mich wieder runterzuziehen und einzuschüchtern. Du wirst das ohnehin wieder komplett ruinieren, gib es doch auf. Meine Hände zittern vor unterdrücktem Hass, während ich den Akkuschrauber fester packe und mir schwöre, dass er für jede einzelne Beleidigung bitter bezahlen wird. Wer freiwillig so einen Plastikschrott kauft, hat jegliche Kontrolle verloren. Der goldene Inbusschlüssel in meinem Werkzeugkasten glänzt in der Sonne und erinnert mich daran, dass ich längst die Kontrolle übernommen habe. Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1 Akkusch",
+        "after": "7 Teile"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom IKEA-Möbelaufbau. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Jetzt läuft zwar die Montage in Frankfurt wie am Schnürchen, aber Zitrone Zlatko steht im Türrahmen und spuckt Gift und Galle, um meine harte Arbeit ins Lächerliche zu ziehen."
+        },
+        {
+          "s": "Figur",
+          "t": "Er kann es einfach nicht ertragen, dass ich Fortschritte mache, und versucht mit extrem fiesen Worten, mich wieder runterzuziehen und einzuschüchtern."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du wirst das ohnehin wieder komplett ruinieren, gib es doch auf.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Hände zittern vor unterdrücktem Hass, während ich den Akkuschrauber fester packe und mir schwöre, dass er für jede einzelne Beleidigung bitter bezahlen wird."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer freiwillig so einen Plastikschrott kauft, hat jegliche Kontrolle verloren.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Der goldene Inbusschlüssel in meinem Werkzeugkasten glänzt in der Sonne und erinnert mich daran, dass ich längst die Kontrolle übernommen habe."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Wer freiwillig so einen Plastikschrott kauft, hat jegliche Kontrolle verloren.",
+      "quote_by": {
+        "level": 2,
+        "name": "Zitrone Zlatko",
+        "badge": "2 Werkzeuge",
+        "character": "A sour yellow lemon man with a permanent frown, wearing a stained blue work shirt.",
+        "scene": "Medium shot in a Frankfurt hallway, lemon man sneering at the assembled furniture."
+      },
+      "stats": [
+        {
+          "label": "Werkzeug",
+          "value": "6",
+          "bar": 0.6
+        },
+        {
+          "label": "Nerven",
+          "value": "70%",
+          "bar": 0.65
+        },
+        {
+          "label": "Zeit",
+          "value": "1.5 Std.",
+          "bar": 0.6
+        }
+      ],
+      "character": "A bright orange fruit man with textured peel skin, wearing a sleek black turtleneck and hipster glasses, glowing digital display on forehead.",
+      "visual": "Medium shot of a modern Frankfurt apartment living room with warm afternoon sunlight streaming through the windows.",
+      "scenes": [
+        "Medium shot of a modern Frankfurt apartment living room with warm afternoon sunlight streaming through the windows.",
+        "Close-up of the orange man smiling confidently while holding an electric drill next to a hidden golden coin.",
+        "Wide shot of his partner looking relieved as the wardrobe frame stands upright.",
+        "Detail shot of six neat hex keys lined up on a polished wooden floor.",
+        "Medium shot of the sour lemon man mocking the furniture choice from the doorway.",
+        "Close-up of the orange man discovering a deep scratch on the side panel."
+      ],
+      "caption": "Der Akkuschrauber ist der beste Freund des Mannes! #frankfurt #ikea #montage #orange #beziehung"
+    },
+    {
+      "n": 5,
+      "open_loop": "Was befand sich wirklich in dem mysteriösen Extrapaket?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Bricht in Panik aus und wirft versehentlich alle Schrauben um.",
+        "name": "Tomate Tom",
+        "badge": "0 Werkzeuge"
+      },
+      "name": "Banane Bea, 28, Innenarchitektin",
+      "badge": "8 Inbusschlüssel",
+      "verdict": "PROFI-LEVEL",
+      "story": "Die 8 Level vom IKEA-Möbelaufbau. Level 5. In Köln baue ich diesen Designer-Kleiderschrank in Rekordzeit auf, aber Tomate Tom steht neben mir und versucht mich mit seinen jämmerlichen Versuchen zu sabotieren, weil sein Neid grenzenlos ist. Dieser arrogante Versager erträgt es nicht, dass ich jedes Problem mit perfekten Werkzeugen löse, während er an jeder Schraube scheitert und fast weint. Du bildest dir wohl ein, du wärst die Beste, oder was soll der Zirkus? Ich blicke auf ihn herab und spüre diesen tiefen Abscheu für seine erbärmliche Art, mich ständig zu kopieren und klein zu reden. Wie machst du das nur, bei mir bricht sofort alles zusammen, weil du mich sabotierst. Mein geheimer goldener Inbusschlüssel pulsiert in meiner Tasche und gibt mir die absolute Macht, diesen eingebildeten Narzissten jederzeit zu zerstören. Das siehst du in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+Laser",
+        "after": "9 Tools"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom IKEA-Möbelaufbau. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "In Köln baue ich diesen Designer-Kleiderschrank in Rekordzeit auf, aber Tomate Tom steht neben mir und versucht mich mit seinen jämmerlichen Versuchen zu sabotieren, weil sein Neid grenzenlos ist."
+        },
+        {
+          "s": "Figur",
+          "t": "Dieser arrogante Versager erträgt es nicht, dass ich jedes Problem mit perfekten Werkzeugen löse, während er an jeder Schraube scheitert und fast weint."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du bildest dir wohl ein, du wärst die Beste, oder was soll der Zirkus?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich blicke auf ihn herab und spüre diesen tiefen Abscheu für seine erbärmliche Art, mich ständig zu kopieren und klein zu reden."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wie machst du das nur, bei mir bricht sofort alles zusammen, weil du mich sabotierst.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Mein geheimer goldener Inbusschlüssel pulsiert in meiner Tasche und gibt mir die absolute Macht, diesen eingebildeten Narzissten jederzeit zu zerstören."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Wie machst du das nur, bei mir bricht sofort alles zusammen, weil du mich sabotierst.",
+      "quote_by": {
+        "level": 1,
+        "name": "Tomate Tom",
+        "badge": "0 Werkzeuge",
+        "character": "A soft red tomato man with a worried face, wearing a worn-out gray hoodie.",
+        "scene": "Close-up in a Köln apartment, tomato man staring in awe at the professional setup."
+      },
+      "stats": [
+        {
+          "label": "Werkzeug",
+          "value": "8",
+          "bar": 0.75
+        },
+        {
+          "label": "Nerven",
+          "value": "85%",
+          "bar": 0.8
+        },
+        {
+          "label": "Zeit",
+          "value": "45 Min.",
+          "bar": 0.7
+        }
+      ],
+      "character": "A sleek yellow banana woman with a curved elegant posture, wearing a chic architect suit and round glasses, glowing digital display on forehead.",
+      "visual": "Wide shot of a stylish Köln loft apartment with exposed brick walls and immaculate interior design.",
+      "scenes": [
+        "Wide shot of a stylish Köln loft apartment with exposed brick walls and immaculate interior design.",
+        "Close-up of the banana woman using a laser level while a golden coin reflects on the floor.",
+        "Medium shot of her partner looking impressed by her professional handiwork.",
+        "Detail shot of an organized set of eight hex keys and a digital caliper.",
+        "Medium shot of the nervous tomato man staring in utter disbelief.",
+        "Close-up of the banana woman noticing a slight misalignment in the cabinet doors."
+      ],
+      "caption": "Wenn man einfach ein Naturtalent im Aufbauen ist! #köln #ikeahack #profi #innenarchitektur #banane"
+    },
+    {
+      "n": 6,
+      "open_loop": "Wer hat den falschen Kassenbon im Flur hinterlassen?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Behauptet arrogant, ihre Schrauben seien minderwertig und würden niemals halten.",
+        "name": "Avocado Anna",
+        "badge": "4 Werkzeuge"
+      },
+      "name": "Drachenfrucht Daniel, 34, Schreiner",
+      "badge": "10 Inbusschlüssel",
+      "verdict": "MEISTERHAFT",
+      "story": "Die 8 Level vom IKEA-Möbelaufbau. Level 6. In Stuttgart baue ich die Wohnwand perfekt zusammen, aber Avocado Anna taucht auf und versucht mit ihren boshaften Lügen, meinen Ruf als Schreiner zu zerstören. Sie lacht mich hämisch aus und behauptet vor allen Leuten, meine Holzdübel seien billiger Schrott, der sofort zusammenbricht. Du bist doch nur ein Blender ohne echte handwerkliche Skills. Diese eiskalte Narzisstin treibt mich mit ihrer Arroganz zur Weißglut, und ich schwöre mir in diesem Moment, dass sie für diese öffentliche Demütigung bitter büßen muss. Mit solchen Profi-Werkzeugen kann ja jeder angeben, du bist komplett talentfrei. Mein geheimer goldener Inbusschlüssel gibt mir das nötige Selbstvertrauen, um diesen Kampf zu gewinnen und sie gnadenlos vorzuführen. Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+Meister",
+        "after": "11 Tools"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom IKEA-Möbelaufbau. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "In Stuttgart baue ich die Wohnwand perfekt zusammen, aber Avocado Anna taucht auf und versucht mit ihren boshaften Lügen, meinen Ruf als Schreiner zu zerstören."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie lacht mich hämisch aus und behauptet vor allen Leuten, meine Holzdübel seien billiger Schrott, der sofort zusammenbricht."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du bist doch nur ein Blender ohne echte handwerkliche Skills.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Diese eiskalte Narzisstin treibt mich mit ihrer Arroganz zur Weißglut, und ich schwöre mir in diesem Moment, dass sie für diese öffentliche Demütigung bitter büßen muss."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit solchen Profi-Werkzeugen kann ja jeder angeben, du bist komplett talentfrei.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Mein geheimer goldener Inbusschlüssel gibt mir das nötige Selbstvertrauen, um diesen Kampf zu gewinnen und sie gnadenlos vorzuführen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Mit solchen Profi-Werkzeugen kann ja jeder angeben, du bist komplett talentfrei.",
+      "quote_by": {
+        "level": 3,
+        "name": "Avocado Anna",
+        "badge": "4 Werkzeuge",
+        "character": "A green avocado woman with a smooth skin texture, wearing a cozy oversized knit sweater.",
+        "scene": "Medium shot in a Stuttgart apartment, avocado woman crossing her arms with a jealous glare."
+      },
+      "stats": [
+        {
+          "label": "Werkzeug",
+          "value": "10",
+          "bar": 0.85
+        },
+        {
+          "label": "Nerven",
+          "value": "95%",
+          "bar": 0.9
+        },
+        {
+          "label": "Zeit",
+          "value": "30 Min.",
+          "bar": 0.8
+        }
+      ],
+      "character": "An exotic pink dragon fruit man with green leafy spikes on his head, wearing a rugged carpenter vest and leather gloves, glowing digital display on forehead.",
+      "visual": "Wide shot of a spacious workshop-style Stuttgart living room filled with professional woodworking gear.",
+      "scenes": [
+        "Wide shot of a spacious workshop-style Stuttgart living room filled with professional woodworking gear.",
+        "Close-up of the dragon fruit man examining a solid oak board next to a hidden golden coin.",
+        "Medium shot of his partner handing him an espresso cup with a proud smile.",
+        "Detail shot of ten neatly organized hex keys on a wooden workbench.",
+        "Medium shot of the skeptical avocado woman looking on with folded arms.",
+        "Close-up of the dragon fruit man spotting a hairline crack in the wall bracket."
+      ],
+      "caption": "Handwerkskunst auf einem ganz anderen Level! #stuttgart #schreiner #handwerk #drachenfrucht #ikea"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welches dunkle Geheimnis stand in der echten Rechnung?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Lacht über seine angeblich veraltete Montage-Technik und geht davon.",
+        "name": "Drachenfrucht Daniel",
+        "badge": "10 Inbusschlüssel"
+      },
+      "name": "Apfel Adam, 40, Investor",
+      "badge": "12 Inbusschlüssel",
+      "verdict": "ELITE-KLASSE",
+      "story": "Die 8 Level vom IKEA-Möbelaufbau. Level 7. In Düsseldorf lasse ich in meinem Penthouse arbeiten, aber Drachenfrucht Daniel steht im Raum und spottet über meinen teuren Aufbau-Service, um mich als unfähigen Bonzen dastehen zu lassen. Seine abwertenden Blicke und seine unerträgliche Arroganz machen mich so wütend, dass ich am liebsten explodieren würde, weil er denkt, er stehe über dem Gesetz. Du bist nur ein reicher Wichtigtuer ohne einen Funken echtes Talent. Ich halte den goldenen Inbusschlüssel fest in meiner Hand und grinse eiskalt, denn ich weiß genau, dass seine gesamte Existenz auf einer riesigen Lüge beruht, die ich gleich aufdecken werde. Solche gekauften Möbelperfektionen haben doch keinen Charakter, du bist ein kompletter Betrüger. Seine Tage des Spotts sind gezählt, denn meine Rache wird ihn absolut vernichten und er wird auf Knien um Gnade flehen. Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+Service",
+        "after": "13 Tools"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom IKEA-Möbelaufbau. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "In Düsseldorf lasse ich in meinem Penthouse arbeiten, aber Drachenfrucht Daniel steht im Raum und spottet über meinen teuren Aufbau-Service, um mich als unfähigen Bonzen dastehen zu lassen."
+        },
+        {
+          "s": "Figur",
+          "t": "Seine abwertenden Blicke und seine unerträgliche Arroganz machen mich so wütend, dass ich am liebsten explodieren würde, weil er denkt, er stehe über dem Gesetz."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du bist nur ein reicher Wichtigtuer ohne einen Funken echtes Talent.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich halte den goldenen Inbusschlüssel fest in meiner Hand und grinse eiskalt, denn ich weiß genau, dass seine gesamte Existenz auf einer riesigen Lüge beruht, die ich gleich aufdecken werde."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Solche gekauften Möbelperfektionen haben doch keinen Charakter, du bist ein kompletter Betrüger.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Seine Tage des Spotts sind gezählt, denn meine Rache wird ihn absolut vernichten und er wird auf Knien um Gnade flehen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Solche gekauften Möbelperfektionen haben doch keinen Charakter, du bist ein kompletter Betrüger.",
+      "quote_by": {
+        "level": 6,
+        "name": "Drachenfrucht Daniel",
+        "badge": "10 Werkzeuge",
+        "character": "An exotic pink dragon fruit man with green leafy spikes, wearing a rugged carpenter vest.",
+        "scene": "Medium shot in a luxury Düsseldorf penthouse, dragon fruit man smirking at the investor."
+      },
+      "stats": [
+        {
+          "label": "Werkzeug",
+          "value": "12",
+          "bar": 0.95
+        },
+        {
+          "label": "Nerven",
+          "value": "100%",
+          "bar": 0.98
+        },
+        {
+          "label": "Zeit",
+          "value": "10 Min.",
+          "bar": 0.9
+        }
+      ],
+      "character": "A polished green apple man with a glossy round head, wearing an expensive tweed vest and gold-rimmed glasses, glowing digital display on forehead.",
+      "visual": "Wide shot of a luxury Düsseldorf penthouse living room with floor-to-ceiling windows and designer furniture.",
+      "scenes": [
+        "Wide shot of a luxury Düsseldorf penthouse living room with floor-to-ceiling windows and designer furniture.",
+        "Close-up of the apple man holding a glass of champagne next to a hidden golden coin.",
+        "Medium shot of his partner relaxing comfortably on a high-end leather sofa.",
+        "Detail shot of twelve gold-plated hex keys resting in a velvet box.",
+        "Medium shot of the arrogant dragon fruit carpenter mocking the hired service.",
+        "Close-up of the apple man receiving a sudden phone call with bad news."
+      ],
+      "caption": "Wenn man den Aufbau einfach outsourcet! #düsseldorf #luxus #investor #apfel #ikea"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches Geheimnis verbirgt sich wirklich hinter der unendlichen Stirnzahl?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Versucht ihm den letzten verbleibenden Inbusschlüssel für ein Vermögen abzukaufen.",
+        "name": "Orange Ole",
+        "badge": "6 Werkzeuge"
+      },
+      "name": "Kokosnuss Karl, 45, CEO",
+      "badge": "Unendlich",
+      "verdict": "CHEF DES HAUSES",
+      "story": "Die 8 Level vom IKEA-Möbelaufbau. Level 8. Das große Finale bringt endlich die pure Genugtuung, auf die ich so lange gewartet habe, als mein ehemaliger arroganter Chef Kokosnuss Karl hier auf meiner Dachterrasse in Berlin auf die Knie geht und mich um Vergebung anfleht. Alle niedrigen Level, die er einst unterdrückt hat, stehen jetzt hinter mir und beobachten, wie ich diesen unerträglichen Narzissten eiskalt bloßstelle und sein gesamtes Imperium übernehme. Wie hast du es geschafft, mich so komplett zu vernichten, bitte nimm mir nicht alles weg! Weil ich nicht nur Möbel aufbaue, sondern das ganze System dahinter verstehe und du nur ein erbärmlicher Versager bist, der jetzt bezahlen muss. Die Stirnzahl leuchtet hell in der Abendsonne und blendet alles um uns herum, während er in Tränen ausbricht. Welches Thema soll in der nächsten Serie aufgebaut werden?",
+      "gender": "m",
+      "twist": {
+        "delta": "Maximal",
+        "after": "∞"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom IKEA-Möbelaufbau. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Das große Finale bringt endlich die pure Genugtuung, auf die ich so lange gewartet habe, als mein ehemaliger arroganter Chef Kokosnuss Karl hier auf meiner Dachterrasse in Berlin auf die Knie geht und mich um Vergebung anfleht."
+        },
+        {
+          "s": "Figur",
+          "t": "Alle niedrigen Level, die er einst unterdrückt hat, stehen jetzt hinter mir und beobachten, wie ich diesen unerträglichen Narzissten eiskalt bloßstelle und sein gesamtes Imperium übernehme."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wie hast du es geschafft, mich so komplett zu vernichten, bitte nimm mir nicht alles weg!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Weil ich nicht nur Möbel aufbaue, sondern das ganze System dahinter verstehe und du nur ein erbärmlicher Versager bist, der jetzt bezahlen muss."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Stirnzahl leuchtet hell in der Abendsonne und blendet alles um uns herum, während er in Tränen ausbricht."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema soll in der nächsten Serie aufgebaut werden?"
+        }
+      ],
+      "quote": "Weil ich nicht nur Möbel aufbaue, sondern das ganze System dahinter verstehe und du nur ein erbärmlicher Versager bist, der jetzt bezahlen muss.",
+      "quote_by": {
+        "level": 4,
+        "name": "Orange Ole",
+        "badge": "6 Werkzeuge",
+        "character": "A bright orange fruit man with textured peel skin, wearing a sleek black turtleneck.",
+        "scene": "Medium shot on a Berlin rooftop, orange man looking in awe at the coconut CEO."
+      },
+      "stats": [
+        {
+          "label": "Werkzeug",
+          "value": "∞",
+          "bar": 1.0
+        },
+        {
+          "label": "Nerven",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Zeit",
+          "value": "0 Min.",
+          "bar": 1.0
+        }
+      ],
+      "character": "A hard-shelled brown coconut man with a polished suit and a glowing digital display showing infinity on his forehead.",
+      "visual": "Wide shot of a magnificent Berlin rooftop terrace at sunset with glowing skyline lights and luxury furniture.",
+      "scenes": [
+        "Wide shot of a magnificent Berlin rooftop terrace at sunset with glowing skyline lights and luxury furniture.",
+        "Close-up of the coconut man's glowing infinity forehead display next to a hidden golden coin.",
+        "Medium shot of the orange man staring in absolute admiration.",
+        "Detail shot of a golden hex key resting on a glass table.",
+        "Wide shot of all previous characters looking up at the illuminated rooftop.",
+        "Close-up of the coconut man smiling directly into the camera as the screen fades out."
+      ],
+      "caption": "Welches Thema sollen wir als Nächstes in 8 Level zeigen? Schreib es in die Kommentare! #finale #berlin #ceo #kokosnuss #serie"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das ungleiche Kräfteverhältnis beim Möbelaufbau nach dem ersten gemeinsamen IKEA-Besuch",
+  "frame": "frucht"
+}

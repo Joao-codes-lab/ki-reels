@@ -1,0 +1,125 @@
+{
+  "best_score": 54,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 3,
+        "story": 4,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 3,
+        "wut": 4,
+        "merkfaehigkeit": 4,
+        "sprache": 3
+      },
+      "gesamt": 38,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze das träge Intro 'The 8 levels of using your best friend. Level 1.' durch einen harten, sofortigen Konflikt: 'Null Euro auf dem Konto, und Chloe schreibt mir um 2 Uhr nachts, ob ich ihr Uber-Guthaben auflade, während ich seit drei Tagen hungere.'"
+        },
+        {
+          "n": 5,
+          "fix": "Verkürze die Dialoge auf knackige, gesprochene Sätze und streiche alle künstlichen Erklärungen. Zeige die Wut des Zuschauers direkt, indem Chloe die Hauptfigur vor allen Leuten physisch bloßstellt, statt nur am Handy zu starren."
+        }
+      ],
+      "fazit": "Die Serie hat starke visuelle Ansätze und ein funktionierendes Universum, scheitert aber an der harten Realität von TikTok: Die Hooks sind zu erklärend, die Sprache klingt oft wie vorgelesen statt gesprochen, und die echten Emotionen (Wut und Genugtuung) werden durch zu viel Exposition verwässert. Um Millionen-Reels zu schlagen, muss der Einstieg in den ersten zwei Sekunden wie ein Faustschlag sitzen und jede Story sofort brennen."
+    },
+    {
+      "scores": {
+        "hook": 5,
+        "story": 4,
+        "identifikation": 3,
+        "verbindungen": 6,
+        "sog": 4,
+        "wut": 5,
+        "merkfaehigkeit": 4,
+        "sprache": 3
+      },
+      "gesamt": 42,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den verwirrenden Sprachmix durch scharfes Deutsch: 'Null Euro auf dem Konto, und meine beste Freundin Chloe verlangt um 2 Uhr nachts, dass ich ihr Uber-Guthaben auflade, während mein Magen knurrt.'"
+        },
+        {
+          "n": 2,
+          "fix": "Erhöhe den Konflikt in Level 2 sofort auf den Punkt: 'Vierzig Euro Restgeld, und Chloe wirft mir den Matcha-Latte ins Gesicht, weil ich ihren VIP-Eintritt nicht zahlen kann.'"
+        },
+        {
+          "n": 3,
+          "fix": "Mach den Verrat greifbarer: 'Drei Jahre lang habe ich Chloe ihre Millionen-Reichweite aufgebaut, und jetzt droht sie mir, mich auf TikTok zu vernichten.'"
+        },
+        {
+          "n": 4,
+          "fix": "Verschärfe die Demütigung in Level 4: 'Vor versammelter Agentur zerreißt Chloe meine Verträge und nennt mich eine talentlose Diebin.'"
+        },
+        {
+          "n": 5,
+          "fix": "Baue echte Genugtuung ein: 'Genau in dem Moment, als Chloe meine Agentur boykottieren will, friert die Bank ihre Konten ein.'"
+        },
+        {
+          "n": 6,
+          "fix": "Verstärke die Rache: 'Jetzt steht Chloe vor meiner Bürotür – im billigen Hoodie, mit Null auf der Stirn – und bettelt um einen Job als Putzfrau.'"
+        },
+        {
+          "n": 7,
+          "fix": "Lass den Gegenspieler hart fallen: 'Security führt sie in Handschellen ab, weil sie versucht hat, meinen Server zu hacken.'"
+        },
+        {
+          "n": 8,
+          "fix": "Klarer Schlussstrich statt Kitsch: 'Eine Million auf dem Konto, aber erst als meine Stirn-Zahl auf Null springt, begreife ich, wer meine echten Freunde waren.'"
+        }
+      ],
+      "fazit": "Die Serie hat starke visuelle Ansätze und ein gutes Grundkonzept im Stil der '8 Levels'-Vorbilder, scheitert aber massiv an der Ausführung. Der unmotivierte Wechsel zwischen deutscher und englischer Sprache zerstört jeglichen Sog. Die Dialoge klingen oft nach künstlichem Drehbuch statt nach echten, wütend machenden Social-Media-Konflikten. Ohne radikale Straffung, konsequentes Deutsch und pure emotionale Genugtuung in den ersten Sekunden swipt die Zielgruppe gnadenlos nach zwei Sekunden weg."
+    },
+    {
+      "scores": {
+        "hook": 6,
+        "story": 5,
+        "identifikation": 4,
+        "verbindungen": 7,
+        "sog": 6,
+        "wut": 7,
+        "merkfaehigkeit": 5,
+        "sprache": 4
+      },
+      "gesamt": 54,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den ersten Satz durch einen harten, schockierenden Vorwurf: '2.400 Euro Miete und ich muss meiner besten Freundin auch noch das Uber zahlen, obwohl sie mich gerade öffentlich als Sozialfall beschimpft hat.'"
+        },
+        {
+          "n": 2,
+          "fix": "Kürze das Intro und starte direkt mit dem Konflikt: 'Vierzig Euro Restgeld auf dem Konto, und Chloe wirft mir den heißen Latte ins Gesicht, weil ich ihren VIP-Eintritt nicht zahlen kann.'"
+        },
+        {
+          "n": 3,
+          "fix": "Verschärfe den Einstieg im Skript: 'Drei Jahre lang habe ich im Schatten meiner besten Freundin ihre Millionen-Reichweite aufgebaut, und heute droht sie mir vor laufender Kamera mit Vernichtung.'"
+        },
+        {
+          "n": 4,
+          "fix": "Erhöhe den Druck im ersten Satz: 'Vor versammelter Agentur zerreißt Chloe meine Verträge, beschimpft mich als diebische Nobody – und Sekunden später beweist der Sicherheitsdienst die Fälschung.'"
+        },
+        {
+          "n": 5,
+          "fix": "Setze den Gegenspieler sofort schachmatt: 'Genau in der Sekunde, in der Chloe meine Agentur boykottieren will, friert die Bank ihre Konten ein und sperrt ihren Zugang.'"
+        },
+        {
+          "n": 6,
+          "fix": "Lass die Demütigung des Gegenspielers greifbarer machen: 'Jetzt steht die einst so arrogante Chloe im billigen Hoodie vor meiner Bürotür und bettelt weinend um den Putzjob.'"
+        },
+        {
+          "n": 7,
+          "fix": "Verdichte die Rache-Szene im Text: 'Security führt die erpresste Influencerin in Handschellen ab, während sie schreiend um Gnade fleht und ich den Aufzug schließe.'"
+        },
+        {
+          "n": 8,
+          "fix": "Schärfe die Moral des Finales: 'Eine Million auf dem Konto, aber erst als die Stirn-Zahl auf Null springt, zeigt sich, wer die wahren Parasiten waren.'"
+        }
+      ],
+      "fazit": "Die Serie hat starkes virales Potenzial durch die bewährte Stirn-Zahlen-Mechanik und den klaren Rache-Bogen, scheitert aber aktuell an unnatürlichem Sprachmix (Deutsch-Englisch-Salat), zu langen Texten und verwaschenen Hooks. Wenn die Sätze gekürzt, der Schmerz in den ersten zwei Sekunden maximiert und die Story konsequent auf pure Genugtuung getrimmt wird, bricht die Serie durch die Decke."
+    }
+  ]
+}
