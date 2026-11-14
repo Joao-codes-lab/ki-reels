@@ -2,7 +2,7 @@
 
 - URL: https://www.instagram.com/p/DfpN-EBI7ve/
 - Dauer: 77.2 s, Sprache: ?
-- Likes: 743, Kommentare: 19, Views: 36162
+- Likes: 1027, Kommentare: 27, Views: 65583
 - Datum: 2026-11-12T14:01:31.000Z
 
 ## Beschreibung
