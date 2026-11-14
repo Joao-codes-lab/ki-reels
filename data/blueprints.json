@@ -55,5 +55,24 @@
       "Jedes Level mit konkreten Zahlen verankern: gesparte Arbeitsstunden, Monatskosten für Tools oder erzielter Mehrverdienst in Euro.",
       "Am Ende jedes Stockwerks die Grenze der aktuellen Stufe aufzeigen und den Sprung ins nächste Stockwerk als Teaser setzen."
     ]
+  },
+  "Digitales Wohnen in Deutschland": {
+    "quelle": "https://www.youtube.com/shorts/N0SYCyS2xZA",
+    "aufrufe": 364905,
+    "hook_typ": "Begriffsdefinition mit Metapher und sofortigem Alltagsbezug",
+    "aufbau": "0-10s Definition, 10-28s Analogie mit YouTube und Datenmengen, 28-52s Visualisierung der Gerätebelastung, 52-119s Die drei Service-Modelle (SaaS, PaaS, IaaS) mit Beispielen, 119-142s Cloud-Anbieter, 142-162s Outro mit Call-to-Action.",
+    "spannung": "Durch konkrete Rechnungen (Speicherplatz von YouTube-Videos) wird abstrakte Technologie greifbar gemacht. Der Zuschauer fragt sich unbewusst: 'Wie viele Gigabyte verbrauche ich eigentlich?'",
+    "emotion": "Erleichterung durch Verständnis, Neugier, intellektueller AHA-Moment",
+    "design": "Minimalistisch, dunkler Hintergrund, blaue Leuchteffekte, Icons, flüssige Animationen, schneller Schnitt, ruhige US-Sprecherstimme.",
+    "hook_ideen": [
+      "Warum deine Mietwohnung in München bald komplett in der Cloud läuft.",
+      "Die unsichtbare Steuer, die du jeden Monat für deinen Router zahlst.",
+      "Was passiert, wenn der deutsche Staat plötzlich alle Smart-Home-Daten löscht?"
+    ],
+    "regeln": [
+      "Nutze immer konkrete Alltagsbeispiele (z.B. Netflix, WhatsApp) statt trockener Definitionen.",
+      "Rechne abstrakte Daten oder Kosten sofort in deutsche Haushaltsgrößen um.",
+      "Halte das Tempo hoch, indem jede Information sofort durch ein einfaches Icon visualisiert wird."
+    ]
   }
 }
