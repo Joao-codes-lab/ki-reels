@@ -1,0 +1,833 @@
+{
+  "title": "Die 8 Level von Taschengeld mit Mitte 20",
+  "house": "A bustling German urban neighborhood filled with anthropomorphic fruit and vegetable people, featuring a neon-lit Späti, a rainy tram stop, a sleek modern bakery, and brick apartment buildings.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Barista in Level 2 mentions a generous man in a suit who always tips well.",
+    "The old newspaper kiosk owner from Level 4 complains about the loud sports car.",
+    "A dropped golden coin appears near the tram ticket machine in multiple episodes."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Warum überwiesen die Eltern plötzlich jeden Monat exakt 0,00 Euro?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Lacht sie an der Supermarktkasse aus, weil ihr Taschengeld gestrichen wurde."
+      },
+      "name": "Ben, 24, Student",
+      "badge": "0 €",
+      "verdict": "VOLLSTÄNDIG ABHÄNGIG",
+      "story": "Die 8 Level von Taschengeld mit Mitte 20. Level 1. Level 1: 0 Euro Taschengeld – und der Kontostand zeigt Minusbeträge. Ich stehe im Supermarkt an der Kasse, der Dispo ist komplett ausgereizt, und hinter mir stöhnt ein Brokkoli laut auf. Wie bezahlst du das überhaupt mit null Euro auf der Stirn? Meine Hände zittern, als der Scanner piept und die Karte abgelehnt wird. Meine Eltern haben mir gestern den Geldhahn abgedreht, weil ich mein Studium geschmissen habe, aber ohne diesen monatlichen Notgroschen überlebe ich keine Woche. Solche Versager sollten gar nicht erst einkaufen gehen. Jetzt machen Sie mal hin hier, die Schlange ist lang. Ich muss mir sofort Geld besorgen, sonst fliege ich aus meiner WG. Vielleicht lernst du ja heute noch, was echte Arbeit bedeutet. Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+150 €",
+        "after": "150 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Taschengeld mit Mitte 20. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 0 Euro Taschengeld – und der Kontostand zeigt Minusbeträge."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im Supermarkt an der Kasse, der Dispo ist komplett ausgereizt, und hinter mir stöhnt ein Brokkoli laut auf."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wie bezahlst du das überhaupt mit null Euro auf der Stirn?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Hände zittern, als der Scanner piept und die Karte abgelehnt wird."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Eltern haben mir gestern den Geldhahn abgedreht, weil ich mein Studium geschmissen habe, aber ohne diesen monatlichen Notgroschen überlebe ich keine Woche."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Solche Versager sollten gar nicht erst einkaufen gehen.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Jetzt machen Sie mal hin hier, die Schlange ist lang.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich muss mir sofort Geld besorgen, sonst fliege ich aus meiner WG."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Vielleicht lernst du ja heute noch, was echte Arbeit bedeutet.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Solche Versager sollten gar nicht erst einkaufen gehen.",
+      "quote_by": {
+        "level": 3,
+        "name": "Viktor, 26, Junior-Analyst",
+        "badge": "1.200 €",
+        "character": "Broccoli person with curly green floret head, wearing a sharp grey vest and silver cufflinks; digital display on forehead.",
+        "scene": "Close-up shot of a broccoli man smirking condescendingly inside a brightly lit supermarket checkout lane, holding a golden coin near the scanner."
+      },
+      "stats": [
+        {
+          "label": "Taschengeld",
+          "value": "0 €",
+          "bar": 0.0
+        },
+        {
+          "label": "Dispo",
+          "value": "-400 €",
+          "bar": 0.1
+        },
+        {
+          "label": "Notreserven",
+          "value": "0 €",
+          "bar": 0.0
+        }
+      ],
+      "character": "Banana person with pale yellow skin, wearing a worn-out denim jacket and holding a glowing smartphone; bright digital display on forehead.",
+      "visual": "Wide-angle medium shot of a banana man looking stressed at a neon-lit supermarket checkout counter, while a broccoli man glares at him from behind.",
+      "scenes": [
+        "Wide shot, a brightly lit German supermarket checkout lane at dusk with fluorescent lighting reflecting off linoleum floors, a hidden small golden coin resting near the conveyor belt motor.",
+        "Medium shot, a stressed banana man looking down at his empty wallet while holding a warm loaf of bread.",
+        "Close-up detail shot, a glowing digital display on a banana's forehead showing 0 € in bright red numbers.",
+        "Medium shot, a smug broccoli man in a grey business vest mocking the banana man.",
+        "Wide shot, a rainy city street outside the supermarket with yellow tram lights blurring in the background.",
+        "Close-up shot, a rejected bank terminal screen showing the word abgelehnt in red letters."
+      ],
+      "caption": "Wie würdest du überleben, wenn der letzte Cent weg ist? #taschengeld #level1 #drama #geld #storytime"
+    },
+    {
+      "n": 2,
+      "open_loop": "Welches dunkle Geheimnis verbirgt sich hinter dem geheimen Umschlag im Briefkasten?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Kürzt heimlich das Budget für den Kaffee und lacht sie aus."
+      },
+      "name": "Lea, 25, Barista",
+      "badge": "150 €",
+      "verdict": "KLEINER ZUSCHUSS",
+      "story": "Die 8 Level von Taschengeld mit Mitte 20. Level 2. Level 2: 150 Euro monatlich von Mama – gerade genug für die Miete des WG-Zimmers. Ich stehe hinter der Kaffeebar, während die Kaffeemühle dröhnt und mein Blick auf die Anzeige sinkt. Mit nur 150 Euro Taschengeld kommst du in dieser Stadt doch nicht mal durch die erste Woche. Ich beiße mir auf die Lippen, denn sie hat recht; der Betrag reicht nicht mal für den Wocheneinkauf im Discounter. Ich muss nebenbei arbeiten, während sie jeden Monat von ihren Eltern tausend Euro aufs Konto überwiesen bekommt. Du wirst ewig hier Kaffee kochen, wenn sich nichts ändert. Ein Cappuccino zum Mitnehmen bitte, und machen Sie schnell. Da bemerke ich den mysteriösen Umschlag im Postfach neben der Kasse. Na los, öffne schon deinen kleinen Bettelbrief. Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+300 €",
+        "after": "450 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Taschengeld mit Mitte 20. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 150 Euro monatlich von Mama – gerade genug für die Miete des WG-Zimmers."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe hinter der Kaffeebar, während die Kaffeemühle dröhnt und mein Blick auf die Anzeige sinkt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit nur 150 Euro Taschengeld kommst du in dieser Stadt doch nicht mal durch die erste Woche.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich beiße mir auf die Lippen, denn sie hat recht; der Betrag reicht nicht mal für den Wocheneinkauf im Discounter."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich muss nebenbei arbeiten, während sie jeden Monat von ihren Eltern tausend Euro aufs Konto überwiesen bekommt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du wirst ewig hier Kaffee kochen, wenn sich nichts ändert.",
+          "g": "w"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Ein Cappuccino zum Mitnehmen bitte, und machen Sie schnell.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Da bemerke ich den mysteriösen Umschlag im Postfach neben der Kasse."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Na los, öffne schon deinen kleinen Bettelbrief.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Mit nur 150 Euro Taschengeld kommst du in dieser Stadt doch nicht mal durch die erste Woche.",
+      "quote_by": {
+        "level": 4,
+        "name": "Charlotte, 25, Marketing-Trainee",
+        "badge": "1.000 €",
+        "character": "Orange person with textured bright orange peel skin, wearing a beige cashmere sweater and pearl earrings; digital display on forehead.",
+        "scene": "Medium shot of an orange woman leaning over a polished coffee shop counter, sneering at the barista while tapping her acrylic fingernails."
+      },
+      "stats": [
+        {
+          "label": "Taschengeld",
+          "value": "150 €",
+          "bar": 0.2
+        },
+        {
+          "label": "Gehalt",
+          "value": "450 €",
+          "bar": 0.3
+        },
+        {
+          "label": "Miete",
+          "value": "400 €",
+          "bar": 0.5
+        }
+      ],
+      "character": "Strawberry person with vibrant red textured skin and tiny green leaf hair, wearing a white barista apron over a striped shirt; glowing digital display on forehead.",
+      "visual": "Medium shot of a strawberry barista looking hurt behind a gleaming espresso machine, while an orange woman mocks her from the customer side.",
+      "scenes": [
+        "Wide shot, a trendy morning café in Berlin with sunlight streaming through large glass windows, a tiny golden coin etched onto the brass espresso tamper.",
+        "Medium shot, an orange woman in cashmere crossing her arms impatiently.",
+        "Close-up detail shot, a glowing digital display showing 150 € on a strawberry's forehead.",
+        "Medium shot, a strawberry barista holding a white porcelain coffee cup with trembling hands.",
+        "Wide shot, the bustling seating area filled with students and working professionals.",
+        "Close-up shot, a plain white envelope tucked behind the cash register with an unknown handwriting."
+      ],
+      "caption": "Reichen 150 Euro heutzutage überhaupt noch für irgendwas? #taschengeld #level2 #barista #berlin #kaffee"
+    },
+    {
+      "n": 3,
+      "open_loop": "Wer hat die anonyme Spende auf das Girokonto überwiesen?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Nimmt ihm den Parkplatz weg und wirft ihm vor, finanziell wertlos zu sein."
+      },
+      "name": "Viktor, 26, Junior-Analyst",
+      "badge": "450 €",
+      "verdict": "MINI-JOB-NIVEAU",
+      "story": "Die 8 Level von Taschengeld mit Mitte 20. Level 3. Level 3: 450 Euro Eltern-Zuschuss – genau die Grenze für den Minijob. Ich sitze im Großraumbüro vor Excel-Tabellen, während der Chef mit einer Zitrone als Kopf an meinem Tisch vorbeigeht. Mit nur 450 Euro Taschengeld wirst du hier niemals Partner. Ich spüre, wie mir die Röte ins Gesicht steigt, denn ich arbeite doppelt so viel wie die anderen, nur weil meine Eltern nicht so viel Vermögen haben wie seine. Draußen auf dem Parkplatz hat mir vorhin schon eine arrogante Drachenfrucht den letzten freien Platz weggenommen und mich ausgelacht. Du bist eine finanzielle Nullnummer in dieser Firma. Mach dir nichts draus, Viktor, der Chef hat heute einfach schlechte Laune. Ich muss diesen Bericht heute noch fertigstellen, sonst bricht alles zusammen. Bis morgen früh liegt das auf meinem Tisch, oder es gibt Gehaltsabzug. Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+550 €",
+        "after": "1.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Taschengeld mit Mitte 20. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 450 Euro Eltern-Zuschuss – genau die Grenze für den Minijob."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze im Großraumbüro vor Excel-Tabellen, während der Chef mit einer Zitrone als Kopf an meinem Tisch vorbeigeht."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit nur 450 Euro Taschengeld wirst du hier niemals Partner.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich spüre, wie mir die Röte ins Gesicht steigt, denn ich arbeite doppelt so viel wie die anderen, nur weil meine Eltern nicht so viel Vermögen haben wie seine."
+        },
+        {
+          "s": "Figur",
+          "t": "Draußen auf dem Parkplatz hat mir vorhin schon eine arrogante Drachenfrucht den letzten freien Platz weggenommen und mich ausgelacht."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du bist eine finanzielle Nullnummer in dieser Firma.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Mach dir nichts draus, Viktor, der Chef hat heute einfach schlechte Laune.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich muss diesen Bericht heute noch fertigstellen, sonst bricht alles zusammen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Bis morgen früh liegt das auf meinem Tisch, oder es gibt Gehaltsabzug.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Mit nur 450 Euro Taschengeld wirst du hier niemals Partner.",
+      "quote_by": {
+        "level": 6,
+        "name": "Maximilian, 28, Senior-Consultant",
+        "badge": "2.500 €",
+        "character": "Lemon person with bright yellow textured citrus skin, wearing a sharp navy blue tailored suit and red silk tie; glowing digital display on forehead.",
+        "scene": "Medium shot of a lemon-headed boss standing in a modern corporate office, dropping a heavy file onto a junior analyst's desk with a stern expression."
+      },
+      "stats": [
+        {
+          "label": "Taschengeld",
+          "value": "450 €",
+          "bar": 0.35
+        },
+        {
+          "label": "Gehalt",
+          "value": "1.800 €",
+          "bar": 0.4
+        },
+        {
+          "label": "Erspartes",
+          "value": "1.200 €",
+          "bar": 0.3
+        }
+      ],
+      "character": "Broccoli person with curly dark green florets, wearing a neat corporate shirt and silver tie clip; bright digital display on forehead.",
+      "visual": "Medium shot of a broccoli analyst sitting at a corporate desk with glowing monitors, looking exhausted while a lemon boss looms over him.",
+      "scenes": [
+        "Wide shot, a sleek corporate office with glass walls, blue LED strip lighting, and a tiny golden coin laser-engraved on the corner of the glass whiteboard.",
+        "Medium shot, a lemon boss in a navy suit pointing aggressively at a computer monitor.",
+        "Close-up detail shot, a glowing digital display showing 450 € on a broccoli's forehead.",
+        "Medium shot, a broccoli analyst clutching his temples in frustration.",
+        "Wide shot, an underground corporate parking garage with harsh neon lights reflecting off polished concrete floors.",
+        "Close-up shot, a smartphone screen displaying an unexpected bank transfer notification."
+      ],
+      "caption": "Wie viel Unterstützung von den Eltern ist mit Mitte 20 eigentlich normal? #taschengeld #level3 #karriere #büro #geld"
+    },
+    {
+      "n": 4,
+      "open_loop": "Was stand in dem mysteriösen Fax, das der Chef gerade gelesen hat?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Kürzt ihren Bonus und behauptet, sie sei nicht loyal genug."
+      },
+      "name": "Charlotte, 25, Marketing-Trainee",
+      "badge": "1.000 €",
+      "verdict": "SOLIDER STANDARD",
+      "story": "Die 8 Level von Taschengeld mit Mitte 20. Level 4. Level 4: 1.000 Euro monatlich von zu Hause – der goldene Standard in der Studenten-WG. Ich stehe am Kopierer und sortiere Broschüren, als eine elegante Kokosnuss im Designer-Mantel an mir vorbeistöckelt. Mit einem tausender Taschengeld kommst du in unserer Abteilung nicht mal in die engere Auswahl für den Chef-Posten. Ich presse die Lippen aufeinander, denn ich weiß, dass sie recht hat; während ich jeden Monat sparsam haushalten muss, buchen andere Urlaube auf Ibiza. Mein Vater gibt mir das Geld nur unter der Bedingung, dass ich in der Kanzlei bleibe. Wer nicht aus reichem Hause kommt, hat hier eben einen schweren Stand. Lass dich von der nicht ärgern, Charlotte, deine Zahlen stimmen doch. Ich lass mich davon nicht unterkriegen und ziehe mein Ding durch. Wir sprechen uns nach dem Quartalsbericht wieder, Süße. Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+800 €",
+        "after": "1.800 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Taschengeld mit Mitte 20. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 1.000 Euro monatlich von zu Hause – der goldene Standard in der Studenten-WG."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe am Kopierer und sortiere Broschüren, als eine elegante Kokosnuss im Designer-Mantel an mir vorbeistöckelt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit einem tausender Taschengeld kommst du in unserer Abteilung nicht mal in die engere Auswahl für den Chef-Posten.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich presse die Lippen aufeinander, denn ich weiß, dass sie recht hat; während ich jeden Monat sparsam haushalten muss, buchen andere Urlaube auf Ibiza."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Vater gibt mir das Geld nur unter der Bedingung, dass ich in der Kanzlei bleibe."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer nicht aus reichem Hause kommt, hat hier eben einen schweren Stand.",
+          "g": "w"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Lass dich von der nicht ärgern, Charlotte, deine Zahlen stimmen doch.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich lass mich davon nicht unterkriegen und ziehe mein Ding durch."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wir sprechen uns nach dem Quartalsbericht wieder, Süße.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Mit einem tausender Taschengeld kommst du in unserer Abteilung nicht mal in die engere Auswahl.",
+      "quote_by": {
+        "level": 7,
+        "name": "Victoria, 27, Senior-Managerin",
+        "badge": "5.000 €",
+        "character": "Coconut person with hard brown fibrous shell head, wearing a white silk blouse and pearl necklace; bright digital display on forehead.",
+        "scene": "Medium shot of a coconut woman walking down a corporate hallway in slow motion, wearing a designer trench coat and looking down her nose."
+      },
+      "stats": [
+        {
+          "label": "Taschengeld",
+          "value": "1.000 €",
+          "bar": 0.5
+        },
+        {
+          "label": "Gehalt",
+          "value": "2.200 €",
+          "bar": 0.55
+        },
+        {
+          "label": "Miete",
+          "value": "750 €",
+          "bar": 0.6
+        }
+      ],
+      "character": "Orange person with bright textured citrus skin, wearing a chic beige blazer and gold hoop earrings; glowing digital display on forehead.",
+      "visual": "Medium shot of an orange marketing trainee standing near a glowing office copy machine, looking annoyed while a coconut woman walks past.",
+      "scenes": [
+        "Wide shot, a brightly lit corporate hallway with marble pillars, recessed ceiling lights, and a small golden coin resting on the edge of a water fountain.",
+        "Medium shot, a coconut woman in a silk blouse adjusting her pearls with a smirk.",
+        "Close-up detail shot, a glowing digital display showing 1.000 € on an orange's forehead.",
+        "Medium shot, an orange trainee holding stacks of colored paper brochures.",
+        "Wide shot, a modern open-plan office filled with desks and green potted plants.",
+        "Close-up shot, an incoming text message on a smartphone about a bank account audit."
+      ],
+      "caption": "Reichen 1.000 Euro Taschengeld im Monat für ein sorgenfreies Leben? #taschengeld #level4 #karriere #geld #berlin"
+    },
+    {
+      "n": 5,
+      "open_loop": "Wer hat die Akten aus dem Tresor gestohlen?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Kündigt ihm ohne Vorwarnung und lacht über seine finanzielle Herkunft."
+      },
+      "name": "Felix, 25, Werkstudent",
+      "badge": "1.800 €",
+      "verdict": "OBERES DRITTEL",
+      "story": "Die 8 Level von Taschengeld mit Mitte 20. Level 5. Level 5: 1.800 Euro monatlich von den Eltern – plus eigene Arbeit. Ich stehe in der Unibibliothek zwischen riesigen Bücherregalen, als eine makellose Avocadofrau mit teurem Laptop an meinen Tisch tritt. Mit 1.800 Euro Taschengeld kannst du dir nicht mal die Miete im Westend leisten. Ich atme tief durch, denn das Geld reicht zwar für das WG-Zimmer und das alte Auto, aber von ihrem Luxus-Lifestyle bin ich Lichtjahre entfernt. Mein Vater zahlt mir das als Investition für mein Staatsexamen, doch ich muss jede Klausur bestehen, sonst wird gekürzt. Mit so einer Minizahl auf der Stirn reißt man hier keine Bäume aus. Hey Felix, lass dich von der Snob-Frau nicht fertigmachen. Ich lasse mich davon nicht einschüchtern und blättere im Gesetzbuch weiter. Wir sehen uns im Gerichtssaal, kleiner Mann. Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1.200 €",
+        "after": "3.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Taschengeld mit Mitte 20. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 1.800 Euro monatlich von den Eltern – plus eigene Arbeit."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe in der Unibibliothek zwischen riesigen Bücherregalen, als eine makellose Avocadofrau mit teurem Laptop an meinen Tisch tritt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit 1.800 Euro Taschengeld kannst du dir nicht mal die Miete im Westend leisten.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich atme tief durch, denn das Geld reicht zwar für das WG-Zimmer und das alte Auto, aber von ihrem Luxus-Lifestyle bin ich Lichtjahre entfernt."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Vater zahlt mir das als Investition für mein Staatsexamen, doch ich muss jede Klausur bestehen, sonst wird gekürzt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit so einer Minizahl auf der Stirn reißt man hier keine Bäume aus.",
+          "g": "w"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Hey Felix, lass dich von der Snob-Frau nicht fertigmachen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich lasse mich davon nicht einschüchtern und blättere im Gesetzbuch weiter."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wir sehen uns im Gerichtssaal, kleiner Mann.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Mit 1.800 Euro Taschengeld kannst du dir nicht mal die Miete im Westend leisten.",
+      "quote_by": {
+        "level": 8,
+        "name": "Richard, 29, Investor",
+        "badge": "12.000 €",
+        "character": "Dragonfruit person with vibrant pink skin and green leafy spikes, wearing a tailored charcoal suit and gold cufflinks; glowing digital display on forehead.",
+        "scene": "Medium shot of a dragonfruit man standing on a luxury penthouse balcony, looking down with an ice-cold expression while holding a crystal glass."
+      },
+      "stats": [
+        {
+          "label": "Taschengeld",
+          "value": "1.800 €",
+          "bar": 0.65
+        },
+        {
+          "label": "Gehalt",
+          "value": "1.200 €",
+          "bar": 0.45
+        },
+        {
+          "label": "Depot",
+          "value": "8.500 €",
+          "bar": 0.5
+        }
+      ],
+      "character": "Avocado person with creamy pale green skin and dark pebbled texture, wearing a casual black hoodie and wire-rimmed glasses; bright digital display on forehead.",
+      "visual": "Medium shot of an avocado student sitting in a classic university library surrounded by heavy leather-bound law books, looking annoyed at an interruption.",
+      "scenes": [
+        "Wide shot, a majestic university library with high vaulted ceilings, mahogany bookshelves, and a tiny golden coin glued to the leg of a wooden reading table.",
+        "Medium shot, an avocado student typing furiously on a silver laptop.",
+        "Close-up detail shot, a glowing digital display showing 1.800 € on an avocado's forehead.",
+        "Medium shot, an elegant avocado woman sneering down at a student.",
+        "Wide shot, a sunlit campus courtyard with students walking between brick lecture halls.",
+        "Close-up shot, a legal document with a redacted signature and a red stamp."
+      ],
+      "caption": "Wie viel finanzielle Sicherheit geben 1.800 Euro im Monat wirklich? #taschengeld #level5 #jura #studentenleben #geld"
+    },
+    {
+      "n": 6,
+      "open_loop": "Warum rief der Bankdirektor gerade mitten in der Nacht an?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Beschwert sich über schlechten Service und droht mit Entlassung."
+      },
+      "name": "Maximilian, 28, Senior-Consultant",
+      "badge": "2.500 €",
+      "verdict": "OBERE SPITZE",
+      "story": "Die 8 Level von Taschengeld mit Mitte 20. Level 6. Level 6: 2.500 Euro monatliches Taschengeld vom Familienfonds – das Leben ist ein Spaziergang. Ich stehe in der Airport-Lounge und trinke teuren Champagner, als eine verbitterte Zitrone in Arbeitskleidung an meinen Tisch tritt. Mit nur 2.500 Euro Eltern-Zuschuss kannst du dir diesen Flug in die First Class doch niemals leisten. Ich schmunzle nur müde, denn mein Vater hat mir diesen Fonds eingerichtet, damit ich mich voll auf die Beratung konzentrieren kann, während sie sich jeden Cent hart absparen muss. Vorhin hat mich im Café schon eine kleine Strawberry-Barista schief angeschaut, weil ich das Trinkgeld bar auf den Tisch geworfen habe. Du bist nur ein verwöhnter Schnösel mit reichem Papa. Alles in Ordnung hier, Herr Consultant? Soll ich den Sicherheitsdienst rufen? Alles bestens, lass die Dame nur reden. Genieß deinen Champagner, solange dein Vater noch zahlt. Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+2.500 €",
+        "after": "5.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Taschengeld mit Mitte 20. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 2.500 Euro monatliches Taschengeld vom Familienfonds – das Leben ist ein Spaziergang."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe in der Airport-Lounge und trinke teuren Champagner, als eine verbitterte Zitrone in Arbeitskleidung an meinen Tisch tritt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit nur 2.500 Euro Eltern-Zuschuss kannst du dir diesen Flug in die First Class doch niemals leisten.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schmunzle nur müde, denn mein Vater hat mir diesen Fonds eingerichtet, damit ich mich voll auf die Beratung konzentrieren kann, während sie sich jeden Cent hart absparen muss."
+        },
+        {
+          "s": "Figur",
+          "t": "Vorhin hat mich im Café schon eine kleine Strawberry-Barista schief angeschaut, weil ich das Trinkgeld bar auf den Tisch geworfen habe."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du bist nur ein verwöhnter Schnösel mit reichem Papa.",
+          "g": "w"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Alles in Ordnung hier, Herr Consultant? Soll ich den Sicherheitsdienst rufen?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Alles bestens, lass die Dame nur reden."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Genieß deinen Champagner, solange dein Vater noch zahlt.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Mit nur 2.500 Euro Eltern-Zuschuss kannst du dir diesen Flug in die First Class doch niemals leisten.",
+      "quote_by": {
+        "level": 2,
+        "name": "Lea, 25, Barista",
+        "badge": "150 €",
+        "character": "Strawberry person with bright red textured skin and tiny green leaf hair, wearing a simple cotton apron; glowing digital display on forehead.",
+        "scene": "Medium shot of a strawberry barista standing inside an airport lounge with a cleaning cart, looking resentful while staring at a wealthy passenger."
+      },
+      "stats": [
+        {
+          "label": "Taschengeld",
+          "value": "2.500 €",
+          "bar": 0.8
+        },
+        {
+          "label": "Gehalt",
+          "value": "4.500 €",
+          "bar": 0.75
+        },
+        {
+          "label": "Fonds",
+          "value": "120.000 €",
+          "bar": 0.85
+        }
+      ],
+      "character": "Lemon person with bright yellow textured citrus skin, wearing a sharp tailored Italian suit and gold-rimmed glasses; bright digital display on forehead.",
+      "visual": "Medium shot of a lemon consultant relaxing in an exclusive airport lounge with champagne, looking amused as an airline employee glares at him.",
+      "scenes": [
+        "Wide shot, an exclusive airport VIP lounge with floor-to-ceiling glass windows overlooking parked passenger jets, a tiny golden coin embedded in the marble cocktail table.",
+        "Medium shot, a lemon man in a tailored Italian suit swirling champagne in a crystal flute.",
+        "Close-up detail shot, a glowing digital display showing 2.500 € on a lemon's forehead.",
+        "Medium shot, a frustrated airline worker in uniform pointing a finger.",
+        "Wide shot, a bustling airport boarding gate with hundreds of travelers waiting in lines.",
+        "Close-up shot, a Black Centurion credit card resting on a leather wallet."
+      ],
+      "caption": "Wie fühlt es sich an, wenn Eltern jeden Monat 2.500 Euro überweisen? #taschengeld #level6 #consultant #firstclass #luxus"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welches Geheimnis steht in dem Testament des Großvaters?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Bettelt um Geld und beschuldigt sie der Ausbeutung."
+      },
+      "name": "Victoria, 27, Senior-Managerin",
+      "badge": "5.000 €",
+      "verdict": "ELITÄRE LIGA",
+      "story": "Die 8 Level von Taschengeld mit Mitte 20. Level 7. Level 7: 5.000 Euro monatlich steuerfrei aus der Familienstiftung – echte Freiheit. Ich stehe auf der privaten Dachterrasse über den Dächern der Finanzmetropole, als eine pleitegegangene Banane im Schlamassel an mir vorbeihumpelt. Mit 5.000 Euro Taschengeld im Monat verstehst du doch gar nicht, was echte Existenzangst bedeutet. Ich antworte nicht mal darauf, denn meine Familie hat sich diesen Wohlstand über drei Generationen hart aufgebaut, während sie ihren letzten Cent verzockt hat. Vorhin hat mich unten am Eingang schon ein armenviertel-Student angerufen und nach einem Kredit gefragt. Ihr Reichen werdet eines Tages ganz tief fallen. Ignorieren Sie den Kerl, Fräulein Victoria, der will doch nur Aufmerksamkeit. Eben, solche Leute werden niemals verstehen, wie Vermögen funktioniert. Genieß deinen Ausblick, lange wird er nicht mehr dir gehören. Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "+7.000 €",
+        "after": "12.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Taschengeld mit Mitte 20. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 5.000 Euro monatlich steuerfrei aus der Familienstiftung – echte Freiheit."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe auf der privaten Dachterrasse über den Dächern der Finanzmetropole, als eine pleitegegangene Banane im Schlamassel an mir vorbeihumpelt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit 5.000 Euro Taschengeld im Monat verstehst du doch gar nicht, was echte Existenzangst bedeutet.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich antworte nicht mal darauf, denn meine Familie hat sich diesen Wohlstand über drei Generationen hart aufgebaut, während sie ihren letzten Cent verzockt hat."
+        },
+        {
+          "s": "Figur",
+          "t": "Vorhin hat mich unten am Eingang schon ein armenviertel-Student angerufen und nach einem Kredit gefragt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Ihr Reichen werdet eines Tages ganz tief fallen.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Ignorieren Sie den Kerl, Fräulein Victoria, der will doch nur Aufmerksamkeit.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Eben, solche Leute werden niemals verstehen, wie Vermögen funktioniert."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Genieß deinen Ausblick, lange wird er nicht mehr dir gehören.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Mit 5.000 Euro Taschengeld im Monat verstehst du doch gar nicht, was echte Existenzangst bedeutet.",
+      "quote_by": {
+        "level": 1,
+        "name": "Ben, 24, Student",
+        "badge": "0 €",
+        "character": "Banana person with pale yellow skin and brown bruise spots, wearing a torn denim jacket; bright digital display on forehead.",
+        "scene": "Medium shot of a banana man standing on a wet sidewalk looking up at a luxury skyscraper terrace with resentment."
+      },
+      "stats": [
+        {
+          "label": "Taschengeld",
+          "value": "5.000 €",
+          "bar": 0.95
+        },
+        {
+          "label": "Dividenden",
+          "value": "8.000 €",
+          "bar": 0.9
+        },
+        {
+          "label": "Stiftung",
+          "value": "2.5M €",
+          "bar": 0.99
+        }
+      ],
+      "character": "Coconut person with polished brown fibrous shell head, wearing a white designer blazer and diamond stud earrings; bright digital display on forehead.",
+      "visual": "Medium shot of a coconut manager standing on a high-rise glass penthouse terrace overlooking the city skyline, looking down with absolute superiority.",
+      "scenes": [
+        "Wide shot, a luxury rooftop terrace in Frankfurt with infinity pool, glass windbreakers, and a tiny golden coin embedded in the edge of a bronze statue.",
+        "Medium shot, a coconut woman in a white designer blazer sipping espresso.",
+        "Close-up detail shot, a glowing digital display showing 5.000 € on a coconut's forehead.",
+        "Medium shot, a frustrated banana man shouting from the street level far below.",
+        "Wide shot, the dazzling Frankfurt banking district skyline at twilight with glowing skyscrapers.",
+        "Close-up shot, a notarized foundation document stamped with red wax seals."
+      ],
+      "caption": "Wie verändert ein Taschengeld von 5.000 Euro im Monat den Blick auf die Welt? #taschengeld #level7 #stiftung #luxus #finanzen"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches Thema sollen wir in der nächsten Serie behandeln?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Versucht seine Stiftung zu übernehmen und scheitert vor Gericht."
+      },
+      "name": "Richard, 29, Investor",
+      "badge": "12.000 €",
+      "verdict": "FINANZIELLE FREIHEIT",
+      "story": "Die 8 Level von Taschengeld mit Mitte 20. Level 8. Level 8: 12.000 Euro monatliches Taschengeld plus unbegrenzte Firmenvollmachten – das absolute Maximum. Ich sitze im privaten Helikopter und blicke auf die Stadt hinab, in der alle anderen um jeden Cent kämpfen. Unten an der Straßenecke sehe ich noch den Werkstudenten Felix, der damals dachte, er könnte sich mit mir anlegen. Mit einer Stirnzahl von 12.000 Euro im Monat stehst du über jedem Gesetz und jeder Diskussion. Sie werden für diesen Machtmissbrauch büßen, Richard. Träum weiter, Junge, du hast nicht mal genug auf der Stirn, um mein Taxi zu bezahlen. Landebereit in zehn Minuten, Sir. Die Verträge warten im Büro. Sehr gut, die Zahlen lügen eben wirklich nie. Welches Thema sollen wir in der nächsten Serie behandeln?",
+      "gender": "m",
+      "twist": {
+        "delta": "MAX",
+        "after": "12.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Taschengeld mit Mitte 20. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 12.000 Euro monatliches Taschengeld plus unbegrenzte Firmenvollmachten – das absolute Maximum."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze im privaten Helikopter und blicke auf die Stadt hinab, in der alle anderen um jeden Cent kämpfen."
+        },
+        {
+          "s": "Figur",
+          "t": "Unten an der Straßenecke sehe ich noch den Werkstudenten Felix, der damals dachte, er könnte sich mit mir anlegen."
+        },
+        {
+          "s": "Figur",
+          "t": "Mit einer Stirnzahl von 12.000 Euro im Monat stehst du über jedem Gesetz und jeder Diskussion."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sie werden für diesen Machtmissbrauch büßen, Richard.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Träum weiter, Junge, du hast nicht mal genug auf der Stirn, um mein Taxi zu bezahlen."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Landebereit in zehn Minuten, Sir. Die Verträge warten im Büro.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Sehr gut, die Zahlen lügen eben wirklich nie."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema sollen wir in der nächsten Serie behandeln?"
+        }
+      ],
+      "quote": "Mit einer Stirnzahl von 12.000 Euro im Monat stehst du über jedem Gesetz.",
+      "quote_by": {
+        "level": 5,
+        "name": "Felix, 25, Werkstudent",
+        "badge": "1.800 €",
+        "character": "Avocado person with creamy green skin and dark pebbled texture, wearing a sharp grey suit; bright digital display on forehead.",
+        "scene": "Medium shot of an avocado man holding court documents outside a grand courthouse, staring angrily at a departing helicopter."
+      },
+      "stats": [
+        {
+          "label": "Taschengeld",
+          "value": "12.000 €",
+          "bar": 1.0
+        },
+        {
+          "label": "Holding",
+          "value": "15.0M €",
+          "bar": 1.0
+        },
+        {
+          "label": "Einfluss",
+          "value": "MAX",
+          "bar": 1.0
+        }
+      ],
+      "character": "Dragonfruit person with vibrant pink skin and spiky green tips, wearing a bespoke charcoal three-piece suit and gold watch; glowing digital display on forehead.",
+      "visual": "Wide shot of a dragonfruit investor looking out from the open door of a luxury helicopter flying above a gleaming modern metropolis at sunset.",
+      "scenes": [
+        "Wide shot, an aerial view of a glittering metropolis at dusk with thousands of glowing lights and a tiny golden coin painted on the helicopter landing pad.",
+        "Medium shot, a dragonfruit investor sitting in a leather helicopter cabin smiling coldly.",
+        "Close-up detail shot, a glowing digital display showing 12.000 € on a dragonfruit's forehead.",
+        "Medium shot, an avocado student looking up in anger from the wet pavement below.",
+        "Wide shot, a private rooftop helipad surrounded by glass skyscrapers.",
+        "Close-up shot, a gold-plated fountain pen signing a multi-million-dollar acquisition contract."
+      ],
+      "caption": "Das große Finale von Taschengeld mit Mitte 20! Welches Thema soll als Nächstes kommen? #taschengeld #level8 #finale #reich #geld"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das heimliche Taschengeld von den Eltern mit Mitte 20",
+  "frame": "frucht"
+}

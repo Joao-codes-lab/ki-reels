@@ -1,0 +1,825 @@
+{
+  "title": "Die 8 Level der Live-Standort-Überwachung",
+  "house": "A bustling German neon-lit metropolis where anthropomorphic fruit and vegetable people live in smart apartments, connected by constant digital location tracking.",
+  "catchphrase": "Der Live-Standort lügt nie.",
+  "links": [
+    "Barista in Level 2 mentions the regular customer with 99% battery",
+    "Kiosk owner in Level 5 sells the same burnt coffee as the cafe in Level 2",
+    "The broken streetlamp from Level 1 flickers in the background of Level 7",
+    "Level 8's main character left their phone charger at the cafe in Level 2"
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Warum zeigt sein Live-Standort plötzlich mitten in der Nacht einen verlassenen Friedhof?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Zwingt ihn zur totalen Standort-Freigabe und kontrolliert jeden seiner Schritte."
+      },
+      "name": "Tom, 24, Praktikant",
+      "badge": "0% Akku",
+      "verdict": "VERDÄCHTIG",
+      "story": "Die 8 Level der Live-Standort-Überwachung. Level 1. Level 1: 0 Prozent Akku – und der Live-Standort bricht ab. Warum stehst du plötzlich im dunklen Treppenhaus? Deine Stirn zeigt Null Prozent Akku, du hast mich schon wieder eiskalt angelogen. Ich starre auf mein Smartphone, der rote Punkt auf der Karte bewegt sich keinen Millimeter mehr vorwärts. Du willst mich doch betrügen, gib endlich zu, dass du bei einer anderen Frau bist. Ich schüttle den Kopf, meine Hände schwitzen, ich stand nur im Funkloch am Späti. Du bist einfach nur ein kleiner Versager ohne Vertrauen. Genau in diesem Moment vibriert mein Display heftig in der Manteltasche. Du hast den Standort gerade für immer deaktiviert, ich verlasse dich jetzt sofort. Was stand in der SMS, die mein Handy in Sekundenschnelle komplett zum Absturz gebracht hat? Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+100%",
+        "after": "100% Akku"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Live-Standort-Überwachung. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 0 Prozent Akku – und der Live-Standort bricht ab."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Warum stehst du plötzlich im dunklen Treppenhaus? Deine Stirn zeigt Null Prozent Akku, du hast mich schon wieder eiskalt angelogen.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich starre auf mein Smartphone, der rote Punkt auf der Karte bewegt sich keinen Millimeter mehr vorwärts."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du willst mich doch betrügen, gib endlich zu, dass du bei einer anderen Frau bist.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schüttle den Kopf, meine Hände schwitzen, ich stand nur im Funkloch am Späti."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du bist einfach nur ein kleiner Versager ohne Vertrauen.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Genau in diesem Moment vibriert mein Display heftig in der Manteltasche."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du hast den Standort gerade für immer deaktiviert, ich verlasse dich jetzt sofort.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was stand in der SMS, die mein Handy in Sekundenschnelle komplett zum Absturz gebracht hat?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Du bist einfach nur ein kleiner Versager ohne Vertrauen.",
+      "quote_by": {
+        "level": 8,
+        "name": "Marlene",
+        "badge": "100% Kontrolle",
+        "character": "An anthropomorphic dragon fruit woman with sharp magenta skin and a glowing golden crown.",
+        "scene": "Close-up of a dragon fruit woman looking down with extreme arrogance in a dimly lit hallway."
+      },
+      "stats": [
+        {
+          "label": "Akku",
+          "value": "0%",
+          "bar": 0.0
+        },
+        {
+          "label": "Vertrauen",
+          "value": "2%",
+          "bar": 0.05
+        },
+        {
+          "label": "Paranoia",
+          "value": "99%",
+          "bar": 0.99
+        }
+      ],
+      "character": "An anthropomorphic zucchini man with green textured skin, wearing a grey college hoodie, holding a cracked smartphone. Glowing digital forehead shows '0% Akku'.",
+      "visual": "Close-up shot of a zucchini man holding a glowing smartphone in a dark stairwell, forehead showing '0% Akku', with a hidden tiny gold coin on the handrail.",
+      "scenes": [
+        "Wide shot of a dark concrete stairwell in a Berlin apartment building at night, cold blue lighting, a zucchini man looking at his dead phone.",
+        "Medium shot inside a glowing neon kiosk, a lemon woman watching the zucchini man through the window with suspicion.",
+        "Detail shot of a cracked smartphone screen showing a frozen GPS red dot map, a tiny gold coin hidden next to the volume button.",
+        "Halbnah shot of the zucchini man and an angry orange woman arguing in the hallway, warm overhead bulb flickering.",
+        "Total shot of a rainy Berlin street outside, wet asphalt reflecting red and green traffic lights, tiny gold coin on a parked bicycle tire.",
+        "Detail shot of the zucchini man's forehead glowing '0% Akku' in bright neon blue digits."
+      ],
+      "caption": "Wem vertraust du in deiner Beziehung noch? #beziehung #standort #drama #viral #fy"
+    },
+    {
+      "n": 2,
+      "open_loop": "Wer hat den geheimen Zweit-Account auf dem Tablet eingerichtet?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Hackt ihr Smartphone und ändert heimlich ihre GPS-Koordinaten."
+      },
+      "name": "Mia, 26, Barista",
+      "badge": "1 aktiver Tracker",
+      "verdict": "ÜBERWACHT",
+      "story": "Die 8 Level der Live-Standort-Überwachung. Level 2. Level 2: 1 aktiver Tracker – und mein eigener Freund stalkt mich beim Kaffeekochen. Warum stehst du schon wieder am Fenster und starrst auf dein GPS-Display? Meine Stirn leuchtet hellblau auf, während ich den Milchschaum in die Tasse gieße. Er schaut nach, ob ich wirklich arbeite oder mich mit meinem Ex treffe. Du lässt dich wie eine Gefangene behandeln, das ist doch keine Beziehung mehr. Plötzlich klingelt das Tablet auf dem Tresen, eine Push-Nachricht leuchtet auf. Du hast dich unerlaubt zwanzig Meter von der Bar entfernt. Dein Chef kommt wütend aus dem Lager und baut sich vor mir auf. Was hat der Mann im teuren Anzug gesagt, der genau in diesem Moment den Laden betritt? Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+2 Tracker",
+        "after": "3 aktive "
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Live-Standort-Überwachung. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 1 aktiver Tracker – und mein eigener Freund stalkt mich beim Kaffeekochen."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Warum stehst du schon wieder am Fenster und starrst auf dein GPS-Display?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn leuchtet hellblau auf, während ich den Milchschaum in die Tasse gieße."
+        },
+        {
+          "s": "Figur",
+          "t": "Er schaut nach, ob ich wirklich arbeite oder mich mit meinem Ex treffe."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du lässt dich wie eine Gefangene behandeln, das ist doch keine Beziehung mehr.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich klingelt das Tablet auf dem Tresen, eine Push-Nachricht leuchtet auf."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast dich unerlaubt zwanzig Meter von der Bar entfernt.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Dein Chef kommt wütend aus dem Lager und baut sich vor mir auf.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was hat der Mann im teuren Anzug gesagt, der genau in diesem Moment den Laden betritt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Du hast dich unerlaubt zwanzig Meter von der Bar entfernt.",
+      "quote_by": {
+        "level": 6,
+        "name": "Ben",
+        "badge": "5 Tracker aktiv",
+        "character": "An anthropomorphic bell pepper man with glossy red skin and a sharp business suit.",
+        "scene": "Medium shot of a red bell pepper man typing furiously on a tablet in a sunny cafe."
+      },
+      "stats": [
+        {
+          "label": "Tracker",
+          "value": "1",
+          "bar": 0.2
+        },
+        {
+          "label": "Distanz",
+          "value": "20m",
+          "bar": 0.1
+        },
+        {
+          "label": "Stress",
+          "value": "85%",
+          "bar": 0.85
+        }
+      ],
+      "character": "An anthropomorphic strawberry woman with red seed-textured skin, wearing a white barista apron and a silver name tag. Glowing forehead shows '1 aktiver Tracker'.",
+      "visual": "Medium shot of a strawberry woman behind a cafe counter holding a tablet with map lines, forehead showing '1 aktiver Tracker', tiny gold coin on the coffee grinder.",
+      "scenes": [
+        "Wide shot of a trendy Berlin cafe in the morning, warm sunbeams, customers sitting at wooden tables.",
+        "Detail shot of an espresso machine pouring coffee, a tiny gold coin resting on the drip tray.",
+        "Halbnah shot of the strawberry woman talking to a broccoli coworker behind the counter.",
+        "Close-up of a tablet screen flashing red GPS boundary alerts.",
+        "Total shot of the street outside through the cafe window, passing cars and pedestrians under grey skies.",
+        "Detail shot of the strawberry woman's forehead glowing '1 aktiver Tracker'."
+      ],
+      "caption": "Darf dein Partner deinen Standort sehen? #beziehung #eifersucht #barista #viral #fy"
+    },
+    {
+      "n": 3,
+      "open_loop": "Welches dunkle Geheimnis verbirgt sich hinter dem anonymen GPS-Signal im Keller?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Schaltet absichtlich das Handy aus, um Panik auszulösen."
+      },
+      "name": "Leon, 29, IT-Berater",
+      "badge": "3 Geofence-Zonen",
+      "verdict": "KONTROLLFREAK",
+      "story": "Die 8 Level der Live-Standort-Überwachung. Level 3. Level 3: 3 Geofence-Zonen – und meine Freundin darf keinen Schritt ohne meine Erlaubnis tun. Warum piept dein Kontroll-Tool schon wieder so hysterisch? Meine Stirn zeigt stolz drei aktive Sperrzonen an, die ich um ihre Arbeitsstelle gezogen habe. Wenn sie die Zone verlässt, kriege ich sofort einen Alarm auf meine Smartwatch. Du bist kein Partner mehr, du bist ihr persönlicher Gefängniswärter. Auf dem Bahnsteig flackern die Neonröhren im kalten Wind, während ich auf das Display tippe. Sie ist gerade im Supermarkt, exakt zwei Minuten vom erlaubten Radius entfernt. Plötzlich springt der rote Punkt auf der Karte wild in den zwielichtigen Bahnhofskeller. Wer hat mir diesen mysteriösen Standort geschickt, obwohl sie doch im Laden sein sollte? Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1 Sperrzo",
+        "after": "4 Geofenc"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Live-Standort-Überwachung. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 3 Geofence-Zonen – und meine Freundin darf keinen Schritt ohne meine Erlaubnis tun."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Warum piept dein Kontroll-Tool schon wieder so hysterisch?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn zeigt stolz drei aktive Sperrzonen an, die ich um ihre Arbeitsstelle gezogen habe."
+        },
+        {
+          "s": "Figur",
+          "t": "Wenn sie die Zone verlässt, kriege ich sofort einen Alarm auf meine Smartwatch."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du bist kein Partner mehr, du bist ihr persönlicher Gefängniswärter.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Auf dem Bahnsteig flackern die Neonröhren im kalten Wind, während ich auf das Display tippe."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie ist gerade im Supermarkt, exakt zwei Minuten vom erlaubten Radius entfernt."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich springt der rote Punkt auf der Karte wild in den zwielichtigen Bahnhofskeller."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hat mir diesen mysteriösen Standort geschickt, obwohl sie doch im Laden sein sollte?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Du bist kein Partner mehr, du bist ihr persönlicher Gefängniswärter.",
+      "quote_by": {
+        "level": 1,
+        "name": "Tom",
+        "badge": "0% Akku",
+        "character": "An anthropomorphic zucchini man in a grey hoodie.",
+        "scene": "Medium shot of a zucchini man leaning against a subway pillar, looking unimpressed."
+      },
+      "stats": [
+        {
+          "label": "Zonen",
+          "value": "3",
+          "bar": 0.4
+        },
+        {
+          "label": "Alarm",
+          "value": "Aktiv",
+          "bar": 0.5
+        },
+        {
+          "label": "Kontrolle",
+          "value": "78%",
+          "bar": 0.78
+        }
+      ],
+      "character": "An anthropomorphic lemon man with yellow sour skin, wearing a sharp black turtleneck and round glasses. Glowing forehead shows '3 Geofence-Zonen'.",
+      "visual": "Wide shot of a gloomy Berlin subway station platform at night, a lemon man staring intensely at his smartwatch, tiny gold coin on the ticket machine.",
+      "scenes": [
+        "Wide shot of an underground subway station, flickering fluorescent lights, concrete pillars.",
+        "Detail shot of a smartwatch displaying a red GPS perimeter map, a tiny gold coin resting on the leather strap.",
+        "Halbnah shot of the lemon man arguing with a zucchini man on the platform.",
+        "Close-up of the lemon man's forehead glowing '3 Geofence-Zonen'.",
+        "Total shot of a descending escalator into the dark subway tunnel.",
+        "Detail shot of a blinking notification light on a smartphone."
+      ],
+      "caption": "Wie weit darf Kontrolle in der Liebe gehen? #beziehung #kontrolle #it #viral #fy"
+    },
+    {
+      "n": 4,
+      "open_loop": "Warum zeigt das Überwachungssystem plötzlich eine fremde Adresse an?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Kauft teure GPS-Störsender, um die Verfolgung unmöglich zu machen."
+      },
+      "name": "Sarah, 27, Grafikerin",
+      "badge": "10m GPS-Radius",
+      "verdict": "EINGESPERRT",
+      "story": "Die 8 Level der Live-Standort-Überwachung. Level 4. Level 4: 10 Meter GPS-Radius – mehr Bewegungsfreiheit wird mir nicht zugestanden. Warum stehst du schon wieder zitternd am Küchenfenster? Meine Stirn leuchtet in grellen Warnfarben auf, die digitale Leine zieht sich jeden Tag enger zu. Wenn ich den Zehn-Meter-Kreis um unser Haus verlasse, schrillen bei ihm sofort alle Alarmglocken. Das ist psychischer Terror, du musst dich von diesem Kontrollfreak trennen. Ich kralle meine Finger in den Fenstersims, draußen regnet es in Strömen auf den Asphalt. Mein Handy vibriert heftig in meiner Hand, eine neue Nachricht ploppt auf dem Bildschirm auf. Du hast dich um genau drei Meter dem Park genähert, erkläre mir das sofort. Welches versteckte GPS-Gerät hat er heimlich in meiner Lieblingstasche versteckt? Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "5m Radius",
+        "after": "5m GPS-Ra"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Live-Standort-Überwachung. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 10 Meter GPS-Radius – mehr Bewegungsfreiheit wird mir nicht zugestanden."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Warum stehst du schon wieder zitternd am Küchenfenster?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn leuchtet in grellen Warnfarben auf, die digitale Leine zieht sich jeden Tag enger zu."
+        },
+        {
+          "s": "Figur",
+          "t": "Wenn ich den Zehn-Meter-Kreis um unser Haus verlasse, schrillen bei ihm sofort alle Alarmglocken."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Das ist psychischer Terror, du musst dich von diesem Kontrollfreak trennen.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich kralle meine Finger in den Fenstersims, draußen regnet es in Strömen auf den Asphalt."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Handy vibriert heftig in meiner Hand, eine neue Nachricht ploppt auf dem Bildschirm auf."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast dich um genau drei Meter dem Park genähert, erkläre mir das sofort.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches versteckte GPS-Gerät hat er heimlich in meiner Lieblingstasche versteckt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Du hast dich um genau drei Meter dem Park genähert, erkläre mir das sofort.",
+      "quote_by": {
+        "level": 7,
+        "name": "Viktor",
+        "badge": "100% anonym",
+        "character": "An anthropomorphic coconut man with a hard brown shell and dark sunglasses.",
+        "scene": "Close-up of a coconut man leaning against a brick wall, holding a signal jammer."
+      },
+      "stats": [
+        {
+          "label": "Radius",
+          "value": "10m",
+          "bar": 0.3
+        },
+        {
+          "label": "Freiheit",
+          "value": "12%",
+          "bar": 0.12
+        },
+        {
+          "label": "Angst",
+          "value": "91%",
+          "bar": 0.91
+        }
+      ],
+      "character": "An anthropomorphic avocado woman with light green smooth skin and dark brown seed-shaped earrings. Glowing forehead shows '10m GPS-Radius'.",
+      "visual": "Medium shot of an avocado woman standing by a foggy apartment window at dusk, forehead glowing '10m GPS-Radius', tiny gold coin on the window sill.",
+      "scenes": [
+        "Wide shot of a cozy but cluttered Berlin WG kitchen, warm yellow light, steaming mugs.",
+        "Detail shot of a smartphone screen showing a tight circular geofence boundary, tiny gold coin on the wooden table.",
+        "Halbnah shot of the avocado woman talking anxiously with an eggplant roommate.",
+        "Close-up of the avocado woman's forehead glowing '10m GPS-Radius'.",
+        "Total shot of a rainy street through the foggy window pane.",
+        "Detail shot of a leather handbag zipper slightly open with a tiny black device inside."
+      ],
+      "caption": "Wenn der Partner jede deiner Bewegungen einschränkt... #beziehung #freiheit #angst #viral #fy"
+    },
+    {
+      "n": 5,
+      "open_loop": "Was hat der Kioskbesitzer mit den manipulierten GPS-Daten zu tun?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Meldet jede vermeintliche Abweichung sofort an den gemeinsamen Partner."
+      },
+      "name": "Jan, 31, Kioskbesitzer",
+      "badge": "24/7 Live-Feed",
+      "verdict": "SPION",
+      "story": "Die 8 Level der Live-Standort-Überwachung. Level 5. Level 5: 24/7 Live-Feed – ich verkaufe nicht nur Zigaretten, sondern auch die Standorte meiner Kunden. Warum glotzt du schon wieder so gierig auf die Überwachungsmonitore hinter deiner Kasse? Meine Stirn leuchtet hellgrün auf, während ich den Barcode für die Energydrinks einscanne. Ich verdiene mir nebenbei ein paar Euro dazu, indem ich Daten an eifersüchtige Partner weiterleite. Das ist illegal und absolut ekelhaft, du ruinierst damit ganze Beziehungen. Ich zucke nur mit den Schultern und wische mir über die glänzende Brokkoli-Nase. Hinter dem Tresen surren die Server leise vor sich hin und spucken stündlich neue Bewegungsprofile aus. Plötzlich springt auf dem Hauptmonitor ein roter Alarmpunkt auf, der genau aus diesem Viertel stammt. Wer hat gerade versucht, die zentrale Überwachungszentrale mit einem massiven Virus zu lahmzulegen? Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+5 Feeds",
+        "after": "24/7 Pro "
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Live-Standort-Überwachung. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 24/7 Live-Feed – ich verkaufe nicht nur Zigaretten, sondern auch die Standorte meiner Kunden."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Warum glotzt du schon wieder so gierig auf die Überwachungsmonitore hinter deiner Kasse?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn leuchtet hellgrün auf, während ich den Barcode für die Energydrinks einscanne."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich verdiene mir nebenbei ein paar Euro dazu, indem ich Daten an eifersüchtige Partner weiterleite."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Das ist illegal und absolut ekelhaft, du ruinierst damit ganze Beziehungen.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich zucke nur mit den Schultern und wische mir über die glänzende Brokkoli-Nase."
+        },
+        {
+          "s": "Figur",
+          "t": "Hinter dem Tresen surren die Server leise vor sich hin und spucken stündlich neue Bewegungsprofile aus."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich springt auf dem Hauptmonitor ein roter Alarmpunkt auf, der genau aus diesem Viertel stammt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hat gerade versucht, die zentrale Überwachungszentrale mit einem massiven Virus zu lahmzulegen?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Das ist illegal und absolut ekelhaft, du ruinierst damit ganze Beziehungen.",
+      "quote_by": {
+        "level": 2,
+        "name": "Mia",
+        "badge": "1 aktiver Tracker",
+        "character": "An anthropomorphic strawberry woman with red seed-textured skin.",
+        "scene": "Medium shot of a strawberry woman glaring across a convenience store counter."
+      },
+      "stats": [
+        {
+          "label": "Feed",
+          "value": "24/7",
+          "bar": 1.0
+        },
+        {
+          "label": "Kunden",
+          "value": "142",
+          "bar": 0.7
+        },
+        {
+          "label": "Profit",
+          "value": "3.400€",
+          "bar": 0.65
+        }
+      ],
+      "character": "An anthropomorphic broccoli man with textured dark green florets for hair, wearing a greasy blue shop coat. Glowing forehead shows '24/7 Live-Feed'.",
+      "visual": "Medium shot of a broccoli man behind a neon-lit convenience store counter surrounded by multiple computer screens, tiny gold coin on a pack of gum.",
+      "scenes": [
+        "Wide shot of a small Berlin Späti at night, glowing neon signs casting green and red light on the pavement.",
+        "Detail shot of multiple computer monitors displaying glowing GPS tracking maps, tiny gold coin on the keyboard.",
+        "Halbnah shot of the broccoli man arguing with a strawberry woman across the counter.",
+        "Close-up of the broccoli man's forehead glowing '24/7 Live-Feed'.",
+        "Total shot of shelves stocked with cheap snacks and energy drinks under harsh white light.",
+        "Detail shot of a server rack blinking rapidly with red LED lights."
+      ],
+      "caption": "Wem gehören eigentlich deine privaten Daten? #datenschutz #spion #spaeti #viral #fy"
+    },
+    {
+      "n": 6,
+      "open_loop": "Welche Verschwörung steckt hinter dem gehackten Hauptserver der Stadt?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Stellt falsche GPS-Fallen auf, um unschuldige Bürger zu überwachen."
+      },
+      "name": "Ben, 34, Systemadministrator",
+      "badge": "5 Tracker aktiv",
+      "verdict": "KONTROLLE",
+      "story": "Die 8 Level der Live-Standort-Überwachung. Level 6. Level 6: 5 Tracker aktiv – ich kontrolliere das digitale Herz dieser ganzen Stadt. Warum hast du schon wieder die Standort-Daten von halben Viertel manipuliert? Meine Stirn leuchtet in tiefem Violett auf, während ich die Firewalls auf dem Hauptbildschirm hochfahre. Wer nichts zu verbergen hat, muss auch keine Angst vor lückenloser Überwachung haben. Du bist völlig paranoid geworden, das hat nichts mehr mit Liebe zu tun. Ich tippe gelassen auf meine Tastatur und sperre den Zugriff auf das städtische GPS-Netzwerk. Die Bildschirme in meinem Kontrollraum flackern kurz auf und zeigen hunderte rote Bewegungspunkte. Plötzlich bricht die Verbindung zum Hauptserver komplett ab und eine Fehlermeldung erscheint. Wer hat sich in diesem exakten Moment Admin-Rechte verschafft und blockiert mein Terminal? Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "0 Tracker",
+        "after": "Master-Ad"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Live-Standort-Überwachung. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 5 Tracker aktiv – ich kontrolliere das digitale Herz dieser ganzen Stadt."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Warum hast du schon wieder die Standort-Daten von halben Viertel manipuliert?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn leuchtet in tiefem Violett auf, während ich die Firewalls auf dem Hauptbildschirm hochfahre."
+        },
+        {
+          "s": "Figur",
+          "t": "Wer nichts zu verbergen hat, muss auch keine Angst vor lückenloser Überwachung haben."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du bist völlig paranoid geworden, das hat nichts mehr mit Liebe zu tun.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich tippe gelassen auf meine Tastatur und sperre den Zugriff auf das städtische GPS-Netzwerk."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Bildschirme in meinem Kontrollraum flackern kurz auf und zeigen hunderte rote Bewegungspunkte."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich bricht die Verbindung zum Hauptserver komplett ab und eine Fehlermeldung erscheint."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hat sich in diesem exakten Moment Admin-Rechte verschafft und blockiert mein Terminal?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Wer nichts zu verbergen hat, muss auch keine Angst vor lückenloser Überwachung haben.",
+      "quote_by": {
+        "level": 3,
+        "name": "Leon",
+        "badge": "3 Geofence-Zonen",
+        "character": "An anthropomorphic lemon man with yellow sour skin.",
+        "scene": "Medium shot of a lemon man pointing accusingly in a server room."
+      },
+      "stats": [
+        {
+          "label": "Tracker",
+          "value": "5",
+          "bar": 0.83
+        },
+        {
+          "label": "Macht",
+          "value": "95%",
+          "bar": 0.95
+        },
+        {
+          "label": "Sicherheit",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "An anthropomorphic bell pepper man with glossy red skin, wearing a sharp grey business suit and thin-rimmed glasses. Glowing forehead shows '5 Tracker aktiv'.",
+      "visual": "Wide shot of a high-tech server control room with blue and purple LED lights reflecting off glossy surfaces, tiny gold coin on a server rack.",
+      "scenes": [
+        "Wide shot of a modern IT control center with giant curved monitors displaying city maps.",
+        "Detail shot of a server rack blinking with blue lights, tiny gold coin on top of the metal casing.",
+        "Halbnah shot of the bell pepper man arguing with a lemon man in front of multiple screens.",
+        "Close-up of the bell pepper man's forehead glowing '5 Tracker aktiv'.",
+        "Total shot of rows of humming mainframe computers in a chilled room.",
+        "Detail shot of code lines scrolling rapidly down a black monitor screen."
+      ],
+      "caption": "Wer die Daten hat, hat die Macht. #hacker #it #server #viral #fy"
+    },
+    {
+      "n": 7,
+      "open_loop": "Was verbirgt sich in dem verschlüsselten Aktenkoffer auf dem Dach?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Verkauft seine geheimen Störsender an unbefugte Dritte."
+      },
+      "name": "Viktor, 39, Sicherheitschef",
+      "badge": "100% anonym",
+      "verdict": "UNSICHTBAR",
+      "story": "Die 8 Level der Live-Standort-Überwachung. Level 7. Level 7: 100 Prozent anonym – kein Satellit dieser Welt kann meinen wahren Standort orten. Warum hast du schon wieder das gesamte Überwachungsnetzwerk der Innenstadt lahmgelegt? Meine Stirn leuchtet in reinem Weiß auf, während ich den professionellen GPS-Jammer in meinem Aktenkoffer verstaue. Weil diese totale Kontrolle die Menschen krank macht und jede echte Beziehung zerstört. Du bist ein Verräter und wirst für diese Sabotage noch heute büßen. Ich setze meine dunkle Sonnenbrille auf und trete auf die regennasse Dachterrasse hinaus. Über uns kreisen die Drohnen des Überwachungskonzerns und suchen vergeblich nach meinem Signal. Plötzlich öffnet sich die schwere Brandschutztür hinter mir mit einem lauten Knall. Wer steht dort im Türrahmen und zielt mit einer Waffe direkt auf meinen Kopf? Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "Enttarnt",
+        "after": "0% anonym"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Live-Standort-Überwachung. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 100 Prozent anonym – kein Satellit dieser Welt kann meinen wahren Standort orten."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Warum hast du schon wieder das gesamte Überwachungsnetzwerk der Innenstadt lahmgelegt?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn leuchtet in reinem Weiß auf, während ich den professionellen GPS-Jammer in meinem Aktenkoffer verstaue."
+        },
+        {
+          "s": "Figur",
+          "t": "Weil diese totale Kontrolle die Menschen krank macht und jede echte Beziehung zerstört."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du bist ein Verräter und wirst für diese Sabotage noch heute büßen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich setze meine dunkle Sonnenbrille auf und trete auf die regennasse Dachterrasse hinaus."
+        },
+        {
+          "s": "Figur",
+          "t": "Über uns kreisen die Drohnen des Überwachungskonzerns und suchen vergeblich nach meinem Signal."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich öffnet sich die schwere Brandschutztür hinter mir mit einem lauten Knall."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer steht dort im Türrahmen und zielt mit einer Waffe direkt auf meinen Kopf?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Du bist ein Verräter und wirst für diese Sabotage noch heute büßen.",
+      "quote_by": {
+        "level": 5,
+        "name": "Jan",
+        "badge": "24/7 Live-Feed",
+        "character": "An anthropomorphic broccoli man with textured dark green florets.",
+        "scene": "Medium shot of a broccoli man holding a small electronic device on a rooftop."
+      },
+      "stats": [
+        {
+          "label": "Anonym",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Signal",
+          "value": "0%",
+          "bar": 0.0
+        },
+        {
+          "label": "Risiko",
+          "value": "99%",
+          "bar": 0.99
+        }
+      ],
+      "character": "An anthropomorphic coconut man with a hard textured brown shell, wearing a dark trench coat and sunglasses. Glowing forehead shows '100% anonym'.",
+      "visual": "Wide shot of a rainy high-rise rooftop in Berlin at night, neon skyline in the background, a coconut man holding a metal briefcase, tiny gold coin on a ventilation pipe.",
+      "scenes": [
+        "Wide shot of a wet skyscraper rooftop overlooking the glowing Berlin skyline at night.",
+        "Detail shot of a metal briefcase containing blinking electronic signal jammer components, tiny gold coin on the latch.",
+        "Halbnah shot of the coconut man arguing with a broccoli man near the rooftop door.",
+        "Close-up of the coconut man's forehead glowing '100% anonym'.",
+        "Total shot of a surveillance drone hovering silently in the rainy night sky.",
+        "Detail shot of a heavy steel door slowly swinging open."
+      ],
+      "caption": "Kann man sich vor der digitalen Überwachung wirklich verstecken? #sicherheit #jammer #dach #viral #fy"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches Thema aus unserer Welt sollen wir in der nächsten Serie enthüllen?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Bittet sie um Vergebung und verspricht, die Standort-App für immer zu löschen."
+      },
+      "name": "Marlene, 42, Konzernchefin",
+      "badge": "100% Kontrolle",
+      "verdict": "SYSTEM",
+      "story": "Die 8 Level der Live-Standort-Überwachung. Level 8. Level 8: 100 Prozent Kontrolle – ich habe das gesamte System erschaffen, das euch alle steuert. Warum stehst du nach all den Jahren immer noch an der Spitze dieses Überwachungsreiches? Meine Stirn leuchtet in blendendem Gold auf, während ich auf die Millionen blinkenden Punkte unter uns blicke. Weil die Menschen kein Vertrauen haben wollen, sie wollen absolute Gewissheit. Du hast uns alle zu Marionetten deiner paranoiden App gemacht. Ich trete einen Schritt auf ihn zu und lege ihm die Hand auf die zitternde Schulter. Niemand wird jemals wieder frei sein, denn die Zahl auf der Stirn lügt niemals. Alle Fäden laufen hier zusammen, jeder Kiosk, jedes Café und jeder abgebrochene Anruf waren geplant. Welches spannende Thema aus unserer Welt sollen wir als Nächstes in 8 Leveln enthüllen?",
+      "gender": "w",
+      "twist": {
+        "delta": "System Neu",
+        "after": "Unendlich"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Live-Standort-Überwachung. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 100 Prozent Kontrolle – ich habe das gesamte System erschaffen, das euch alle steuert."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Warum stehst du nach all den Jahren immer noch an der Spitze dieses Überwachungsreiches?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn leuchtet in blendendem Gold auf, während ich auf die Millionen blinkenden Punkte unter uns blicke."
+        },
+        {
+          "s": "Figur",
+          "t": "Weil die Menschen kein Vertrauen haben wollen, sie wollen absolute Gewissheit."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du hast uns alle zu Marionetten deiner paranoiden App gemacht.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich trete einen Schritt auf ihn zu und lege ihm die Hand auf die zitternde Schulter."
+        },
+        {
+          "s": "Figur",
+          "t": "Niemand wird jemals wieder frei sein, denn die Zahl auf der Stirn lügt niemals."
+        },
+        {
+          "s": "Figur",
+          "t": "Alle Fäden laufen hier zusammen, jeder Kiosk, jedes Café und jeder abgebrochene Anruf waren geplant."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches spannende Thema aus unserer Welt sollen wir als Nächstes in 8 Leveln enthüllen?"
+        }
+      ],
+      "quote": "Niemand wird jemals wieder frei sein, denn die Zahl auf der Stirn lügt niemals.",
+      "quote_by": {
+        "level": 1,
+        "name": "Tom",
+        "badge": "0% Akku",
+        "character": "An anthropomorphic zucchini man with green textured skin.",
+        "scene": "Medium shot of a zucchini man looking up in disbelief at the chief executive."
+      },
+      "stats": [
+        {
+          "label": "Kontrolle",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Macht",
+          "value": "Max",
+          "bar": 1.0
+        },
+        {
+          "label": "System",
+          "value": "Aktiv",
+          "bar": 1.0
+        }
+      ],
+      "character": "An anthropomorphic dragon fruit woman with sharp magenta skin and green-tipped scales, wearing a sleek golden business gown. Glowing forehead shows '100% Kontrolle'.",
+      "visual": "Wide shot of a luxurious penthouse rooftop garden at night overlooking a glowing metropolis, a dragon fruit woman standing triumphantly, tiny gold coin on a stone fountain.",
+      "scenes": [
+        "Wide shot of a luxury glass penthouse overlooking the entire glittering Berlin skyline at night.",
+        "Detail shot of a golden master console displaying global tracking connections, tiny gold coin on the edge.",
+        "Halbnah shot of the dragon fruit woman talking down to a zucchini man on the rooftop.",
+        "Close-up of the dragon fruit woman's forehead glowing '100% Kontrolle' in bright gold numbers.",
+        "Total shot of thousands of tiny glowing lights across the city representing active user trackers.",
+        "Detail shot of a glowing digital display switching from user data to an infinite loop symbol."
+      ],
+      "caption": "Welches Thema sollen wir als Nächstes verfilmen? Schreib es in die Kommentare! #system #kontrolle #finale #viral #fy"
+    }
+  ],
+  "lang": "de",
+  "topic": "Die Live-Standort-Überwachung in einer Beziehung",
+  "frame": "frucht"
+}

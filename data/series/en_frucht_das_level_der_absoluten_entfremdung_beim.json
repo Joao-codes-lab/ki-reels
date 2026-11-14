@@ -1,0 +1,719 @@
+{
+  "title": "The 8 Levels of Instagram Story Envy",
+  "house": "A bustling neon-lit metropolis made of organic markets, rooftop cafes, and subway tunnels, inhabited entirely by living fruit and vegetable people whose digital forehead displays broadcast their exact monthly net disposable income.",
+  "catchphrase": "The number on your forehead never lies.",
+  "links": [
+    "The barista at the Green Leaf Cafe mentions a quiet man in a tailored suit who always tips in fresh blueberries.",
+    "A discarded takeout bag from the downtown noodle joint appears in the background of three different stories.",
+    "The yellow subway line always smells faintly of overripe citrus during the morning rush hour."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "What secret did Chloe's glowing story hide that made my entire phone freeze?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Laughs loudly at my frozen screen in the subway car and drops a designer iced latte cup on my shoe."
+      },
+      "name": "Pip, 23, Barista",
+      "badge": "1,200 $ net",
+      "verdict": "BROKE",
+      "story": "The 8 levels of Instagram story envy. Level 1. Level 1: 1,200 dollars a month, and I am staring at my phone crying over a Mediterranean vacation story. I am Pip, 23, a tired little pear person working six days a week at the corner bean shop with a permanent coffee stain. I clicked on Chloe's story from high school. She is sunbathing on a yacht in Mykonos while my own rent is due tomorrow. Then I see the background of her video. Wait, is that my landlord sitting right next to her on that yacht drinking champagne? How is that even possible when he threatened to evict me yesterday for being two days late? You are staring at people who live in another universe while your own account is empty. I grit my teeth and grip my chipped ceramic mug tighter, my heart pounding against my pear skin. You'll see that in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "-350 $",
+        "after": "850 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of Instagram story envy. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 1,200 dollars a month, and I am staring at my phone crying over a Mediterranean vacation story."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Pip, 23, a tired little pear person working six days a week at the corner bean shop with a permanent coffee stain."
+        },
+        {
+          "s": "Figur",
+          "t": "I clicked on Chloe's story from high school. She is sunbathing on a yacht in Mykonos while my own rent is due tomorrow."
+        },
+        {
+          "s": "Figur",
+          "t": "Then I see the background of her video. Wait, is that my landlord sitting right next to her on that yacht drinking champagne?"
+        },
+        {
+          "s": "Figur",
+          "t": "How is that even possible when he threatened to evict me yesterday for being two days late?"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are staring at people who live in another universe while your own account is empty.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I grit my teeth and grip my chipped ceramic mug tighter, my heart pounding against my pear skin."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You will never afford the air she breathes.",
+      "quote_by": {
+        "level": 8,
+        "name": "Lord Coco",
+        "badge": "18,500 $",
+        "character": "An arrogant, perfectly polished coconut man in a bespoke white linen suit with a gold digital display.",
+        "scene": "Close-up on a crowded subway car with dim neon flickering, looking down with a sneer at a pear person."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "1,200 $",
+          "bar": 0.1
+        },
+        {
+          "label": "Rent",
+          "value": "950 $",
+          "bar": 0.8
+        },
+        {
+          "label": "Views",
+          "value": "14",
+          "bar": 0.05
+        }
+      ],
+      "character": "A pale green pear person with smooth skin, wearing a stained canvas apron, holding a cracked smartphone with a glowing 1,200 $ digital display on the forehead.",
+      "visual": "A narrow, crowded subway car at night with flickering fluorescent lights, a sad pear person staring at a glowing phone screen displaying a luxury yacht story.",
+      "scenes": [
+        "Subway interior, wide shot: Crowded commuter train at midnight, green pear person standing alone clutching a chipped phone.",
+        "Cafe counter, medium shot: Early morning mist outside, worn coffee machine hissing, a tiny hidden golden coin resting near the cash drawer.",
+        "Smartphone screen, extreme close-up: Instagram story playing a bright blue ocean, luxury yacht, and a blurred landlord in the background.",
+        "Subway doors, halbnah shot: Neon lights flashing past the window, an imposing coconut person in a white suit stepping into frame.",
+        "City sidewalk, wide shot: Rain-slicked pavement reflecting neon signs of a 24-hour bodega, empty cardboard coffee cups blowing in the wind.",
+        "Stairwell, detail shot: Peeling yellow wallpaper in an old apartment building, a hand holding a final eviction notice envelope."
+      ],
+      "caption": "Could you watch your landlord vacation on your rent money? Drop your thoughts below! #fruitlife #storyenvy #broketruggles #rentday #level1"
+    },
+    {
+      "n": 2,
+      "open_loop": "Why did the notification bell ring three times right after I blocked my old classmate?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Comments laughing emojis under my story and sends a direct message mocking my budget meal."
+      },
+      "name": "Zesty, 25, Intern",
+      "badge": "2,400 $ net",
+      "verdict": "STRUGGLING",
+      "story": "The 8 levels of Instagram story envy. Level 2. Level 2: 2,400 dollars a month – and my own lunchbox is mocking me in the office breakroom. I am Zesty, 25, a bright yellow lemon person trying to survive a brutal graphic design internship in downtown Seattle. I open Instagram and tap through my stories. There is Brad from high school posing next to a brand new electric sports car. Look at that poverty meal, get a real job. My skin turns extra sour and my juice starts to boil with pure humiliation after sixty hours of work this week. Then my phone buzzes violently against the Formica table with an unauthorized software invoice. You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "-150 $",
+        "after": "2,250 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of Instagram story envy. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 2,400 dollars a month – and my own lunchbox is mocking me in the office breakroom."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Zesty, 25, a bright yellow lemon person trying to survive a brutal graphic design internship in downtown Seattle."
+        },
+        {
+          "s": "Figur",
+          "t": "I open Instagram and tap through my stories. There is Brad from high school posing next to a brand new electric sports car."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Look at that poverty meal, get a real job.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My skin turns extra sour and my juice starts to boil with pure humiliation after sixty hours of work this week."
+        },
+        {
+          "s": "Figur",
+          "t": "Then my phone buzzes violently against the Formica table with an unauthorized software invoice."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Success looks terrible on you.",
+      "quote_by": {
+        "level": 5,
+        "name": "Brooke",
+        "badge": "6,400 $",
+        "character": "A stern broccoli person with dark green florets, wearing a sharp grey blazer and silver hoop earrings.",
+        "scene": "Office breakroom with fluorescent lighting, leaning over a table holding a sleek tablet with a smug expression."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "2,400 $",
+          "bar": 0.22
+        },
+        {
+          "label": "Internship",
+          "value": "60 hrs",
+          "bar": 0.75
+        },
+        {
+          "label": "Battery",
+          "value": "9%",
+          "bar": 0.09
+        }
+      ],
+      "character": "A vibrant yellow lemon person with a textured citrus peel head, wearing oversized blue light glasses and a worn thrift-store sweater, forehead glowing 2,400 $.",
+      "visual": "A dreary office breakroom with a buzzing vending machine, a lemon person staring angrily at a smartphone while eating instant noodles.",
+      "scenes": [
+        "Office breakroom, wide shot: Fluorescent humming lights, empty chairs, a tiny golden coin hidden inside a plastic cup dispenser.",
+        "Computer desk, close-up: Multiple glowing monitors displaying timeline software, energy drink cans stacked like mini towers.",
+        "Smartphone screen, detail shot: Instagram story view count showing 41 views, with a snarky comment highlighted in red.",
+        "Water cooler, halbnah shot: A stern broccoli person in a grey blazer whispering to a colleague while pointing at the lemon desk.",
+        "Parking garage, wide shot: Concrete pillars, dim amber lights, a lone lemon person walking toward a compact sedan.",
+        "Apartment kitchen, detail shot: Stacking coins in a small glass jar next to a pile of past-due utility bills."
+      ],
+      "caption": "Ever had someone mock your hustle while they inherit everything? Drop a lemon if you relate! #internlife #lemonpeel #corporategrind #level2"
+    },
+    {
+      "n": 3,
+      "open_loop": "What hidden transaction record was blinking red inside the accountant's folder?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Rejects my small business loan application with a stamp and tells me to sell my car first."
+      },
+      "name": "Brody, 29, Mechanic",
+      "badge": "4,100 $ net",
+      "verdict": "AVERAGE",
+      "story": "The 8 levels of Instagram story envy. Level 3. Level 3: 4,100 dollars a month – and my bank just bounced my garage rent payment for the second time. I am Brody, 29, a rugged broccoli stalk person covered in engine grease, working sixty hours under hydraulic lifts. I took a break to check Instagram stories and saw my former fraternity brother posting a VIP backstage pass. Your small business expansion loan has been formally denied. My stalks bristled with absolute rage as I looked at my own modest 4,100 dollar display glowing in the oily mirror. I built this shop with my bare hands while he inherited his dad's real estate firm. You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-600 $",
+        "after": "3,500 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of Instagram story envy. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 4,100 dollars a month – and my bank just bounced my garage rent payment for the second time."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Brody, 29, a rugged broccoli stalk person covered in engine grease, working sixty hours under hydraulic lifts."
+        },
+        {
+          "s": "Figur",
+          "t": "I took a break to check Instagram stories and saw my former fraternity brother posting a VIP backstage pass."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your small business expansion loan has been formally denied.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My stalks bristled with absolute rage as I looked at my own modest 4,100 dollar display glowing in the oily mirror."
+        },
+        {
+          "s": "Figur",
+          "t": "I built this shop with my bare hands while he inherited his dad's real estate firm."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "You are playing a game you cannot win.",
+      "quote_by": {
+        "level": 7,
+        "name": "Sterling",
+        "badge": "14,200 $",
+        "character": "A sleek eggplant person in a navy pinstripe suit with silver cufflinks and a cold, calculating gaze.",
+        "scene": "Auto repair shop floor with hydraulic lifts, holding a rejection folder with an arrogant smirk."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "4,100 $",
+          "bar": 0.38
+        },
+        {
+          "label": "Tools",
+          "value": "12 yrs",
+          "bar": 0.9
+        },
+        {
+          "label": "Loan",
+          "value": "Denied",
+          "bar": 0.0
+        }
+      ],
+      "character": "A rugged broccoli person with dark green florets, wearing a grease-stained canvas jumpsuit and leather work gloves, forehead glowing 4,100 $.",
+      "visual": "A noisy auto repair shop with tools hanging on pegboards, hydraulic lifts holding a rusty car, and a broccoli mechanic staring at a glowing tablet.",
+      "scenes": [
+        "Repair shop, wide shot: Oily concrete floor, warm halogen work lights, a tiny golden coin resting on top of a car battery.",
+        "Workbench, close-up: Wrench sets, spark plugs, and a cracked smartphone displaying an Instagram story of a luxury concert.",
+        "Office corner, halbnah shot: A sharp eggplant banker in a navy suit handing over a loan denial letter.",
+        "Shop entrance, wide shot: Street view with passing traffic in the rain, neon sign blinking 'Auto Repair'.",
+        "Tool chest, detail shot: Padlock clicking shut on a heavy metal toolbox at the end of a long shift.",
+        "Breakroom table, close-up: Half-eaten sandwich next to a ledger book filled with handwritten expense calculations."
+      ],
+      "caption": "When the bank says no to the working class while the rich party on Instagram. #mechaniclife #broccolistyle #smallbusiness #level3"
+    },
+    {
+      "n": 4,
+      "open_loop": "Whose name was written on the reservation list above mine at the private rooftop club?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Bounces me from the VIP guest list because my jacket isn't designer brand."
+      },
+      "name": "Orange, 31, Realtor",
+      "badge": "6,800 $ net",
+      "verdict": "UPWARD",
+      "story": "The 8 levels of Instagram story envy. Level 4. Level 4: 6,800 dollars a month – and the doorman just laughed in my face at the downtown rooftop lounge. I am Orange, 31, a round citrus person in a tailored charcoal suit trying to break into luxury real estate. I opened my Instagram story feed between client calls and saw my college rival posting champagne towers. You do not make enough to enter this section tonight. My citrus skin flushed bright orange with humiliation in front of the entire queue. I pay my taxes, I close deals, yet I am still treated like a peasant by people who inherit their portfolios. You'll see that in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "-1,200 $",
+        "after": "5,600 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of Instagram story envy. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 6,800 dollars a month – and the doorman just laughed in my face at the downtown rooftop lounge."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Orange, 31, a round citrus person in a tailored charcoal suit trying to break into luxury real estate."
+        },
+        {
+          "s": "Figur",
+          "t": "I opened my Instagram story feed between client calls and saw my college rival posting champagne towers."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You do not make enough to enter this section tonight.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My citrus skin flushed bright orange with humiliation in front of the entire queue."
+        },
+        {
+          "s": "Figur",
+          "t": "I pay my taxes, I close deals, yet I am still treated like a peasant by people who inherit their portfolios."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Your commission check just bounced.",
+      "quote_by": {
+        "level": 1,
+        "name": "Pip",
+        "badge": "1,200 $",
+        "character": "A tired pear person in a stained apron holding a tray of dirty glasses near the VIP entrance.",
+        "scene": "Rooftop club entrance at night with neon lights, whispering across the velvet rope with a knowing smirk."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "6,800 $",
+          "bar": 0.55
+        },
+        {
+          "label": "Deals",
+          "value": "4 closed",
+          "bar": 0.6
+        },
+        {
+          "label": "Status",
+          "value": "Pending",
+          "bar": 0.4
+        }
+      ],
+      "character": "A bright orange citrus person with dimpled textured skin, wearing a sharp charcoal suit and silk tie, forehead glowing 6,800 $.",
+      "visual": "A sleek downtown rooftop club at dusk, glittering city skyscrapers in the background, a citrus businessman standing outside a velvet rope.",
+      "scenes": [
+        "Rooftop lounge, wide shot: City skyline at twilight, glowing glass skyscrapers, a tiny golden coin resting on a cocktail table.",
+        "Velvet rope, medium shot: Bouncer blocking the entrance, neon club lights reflecting off polished asphalt.",
+        "Smartphone screen, close-up: Instagram story showing champagne flutes and a luxury rooftop party.",
+        "Street alley, halbnah shot: A tired pear person carrying empty crates while whispering across the barrier.",
+        "Car interior, wide shot: Leather dashboard, GPS screen glowing in the dark, hands gripping the steering wheel in frustration.",
+        "Real estate office, detail shot: Open contract folder with a red cancellation stamp across the signature line."
+      ],
+      "caption": "When you dress for success but the door remains locked. Drop an orange if you've been there! #realtorlife #rooftopbar #citrus #level4"
+    },
+    {
+      "n": 5,
+      "open_loop": "Whose confidential tax audit report was sitting open on the glass conference table?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Sabotages my corporate presentation by switching my slides to an old embarrassing photo."
+      },
+      "name": "Brooke, 34, Director",
+      "badge": "9,500 $ net",
+      "verdict": "SUCCESSFUL",
+      "story": "The 8 levels of Instagram story envy. Level 5. Level 5: 9,500 dollars a month – and my own corporate presentation just turned into a public execution. I am Brooke, 34, a pristine broccoli person in a custom emerald blazer running marketing for a tech giant. I checked my Instagram stories before stepping onto the boardroom stage and saw my former intern posting vacation photos. As I clicked through my presentation slides, the projector suddenly flickered and flashed an old photo of me working at a deli. You used to chop lettuce for five bucks an hour, why pretend you belong here now? My green florets burned with intense humiliation while the executive board members whispered among themselves. You'll see that in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "-2,000 $",
+        "after": "7,500 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of Instagram story envy. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 9,500 dollars a month – and my own corporate presentation just turned into a public execution."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Brooke, 34, a pristine broccoli person in a custom emerald blazer running marketing for a tech giant."
+        },
+        {
+          "s": "Figur",
+          "t": "I checked my Instagram stories before stepping onto the boardroom stage and saw my former intern posting vacation photos."
+        },
+        {
+          "s": "Figur",
+          "t": "As I clicked through my presentation slides, the projector suddenly flickered and flashed an old photo of me working at a deli."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You used to chop lettuce for five bucks an hour, why pretend you belong here now?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My green florets burned with intense humiliation while the executive board members whispered among themselves."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "The roots always show through the dirt.",
+      "quote_by": {
+        "level": 3,
+        "name": "Brody",
+        "badge": "4,100 $",
+        "character": "A rugged broccoli mechanic in a grease-stained jumpsuit with a cynical smirk.",
+        "scene": "Glass-walled corporate boardroom, leaning back with arms crossed, pointing mockingly at the projection screen."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "9,500 $",
+          "bar": 0.7
+        },
+        {
+          "label": "Bonus",
+          "value": "15%",
+          "bar": 0.65
+        },
+        {
+          "label": "Rank",
+          "value": "Director",
+          "bar": 0.8
+        }
+      ],
+      "character": "A refined broccoli person with vibrant green florets styled into a sleek bob, wearing an emerald green blazer and pearl earrings, forehead glowing 9,500 $.",
+      "visual": "A luxurious glass boardroom overlooking a gleaming city skyline, a broccoli executive standing before a projection screen showing a slide.",
+      "scenes": [
+        "Boardroom, wide shot: Floor-to-ceiling windows, polished conference table, tiny golden coin resting on a glass water pitcher.",
+        "Projector screen, close-up: Bright presentation slides switching unexpectedly to an old grainy deli workplace photo.",
+        "Audience seats, halbnah shot: Business executives whispering, a mechanic broccoli person smirking in the back row.",
+        "Smartphone screen, detail shot: Instagram story notification showing high-tier network updates.",
+        "Executive office, wide shot: Leather furniture, abstract art on the walls, city lights twinkling outside.",
+        "Elevator lobby, detail shot: Digital floor indicator counting down while holding a sleek leather portfolio."
+      ],
+      "caption": "When your past catches up to you right in the middle of a board meeting. Drop a broccoli if you've survived a sabotage! #corporatedrama #broccoligirl #level5"
+    },
+    {
+      "n": 6,
+      "open_loop": "What hidden transfer notification popped up on the investor's phone screen?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Outbids me on my dream penthouse apartment by sliding double the deposit in cash."
+      },
+      "name": "Dragon, 38, Investor",
+      "badge": "12,800 $ net",
+      "verdict": "ELITE",
+      "story": "The 8 levels of Instagram story envy. Level 6. Level 6: 12,800 dollars a month – and I just lost the penthouse of my dreams to someone with half my salary on their forehead. I am Dragon, 38, an exotic drachenfrucht person with vibrant pink and green skin, managing multi-million dollar tech portfolios. I was browsing Instagram stories during a private property viewing and saw my old real estate rival posting a victory selfie. I am sorry, Mr. Dragon, another buyer just wired double the deposit in cash five minutes ago. My pink dragon scales flushed with anger as I realized the person who outbid me was standing right behind the glass partition. He adjusted his charcoal suit and gave me a condescending nod while holding his sleek smartphone. You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+3,400 $",
+        "after": "16,200 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of Instagram story envy. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 12,800 dollars a month – and I just lost the penthouse of my dreams to someone with half my salary on their forehead."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Dragon, 38, an exotic drachenfrucht person with vibrant pink and green skin, managing multi-million dollar tech portfolios."
+        },
+        {
+          "s": "Figur",
+          "t": "I was browsing Instagram stories during a private property viewing and saw my old real estate rival posting a victory selfie."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "I am sorry, Mr. Dragon, another buyer just wired double the deposit in cash five minutes ago.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My pink dragon scales flushed with anger as I realized the person who outbid me was standing right behind the glass partition."
+        },
+        {
+          "s": "Figur",
+          "t": "He adjusted his charcoal suit and gave me a condescending nod while holding his sleek smartphone."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "Money talks louder than scales.",
+      "quote_by": {
+        "level": 4,
+        "name": "Orange",
+        "badge": "6,800 $",
+        "character": "A confident citrus real estate agent in a sharp charcoal suit with a triumphant smirk.",
+        "scene": "Penthouse balcony overlooking the city, holding a gold pen and tapping a glowing smartphone screen."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "12,800 $",
+          "bar": 0.85
+        },
+        {
+          "label": "Portfolio",
+          "value": "4.2M $",
+          "bar": 0.9
+        },
+        {
+          "label": "Deals",
+          "value": "18",
+          "bar": 0.88
+        }
+      ],
+      "character": "An exotic drachenfrucht person with vibrant magenta skin and green-tipped bracts, wearing a tailored navy suit with gold buttons, forehead glowing 12,800 $.",
+      "visual": "A luxurious penthouse under construction with panoramic city views, marble floors, and a drachenfrucht investor staring at a rejected check.",
+      "scenes": [
+        "Penthouse interior, wide shot: Floor-to-ceiling windows, open industrial ceiling, tiny golden coin resting on a marble kitchen island.",
+        "Real estate desk, close-up: Cashier's checks, fountain pen, and a smartphone displaying an Instagram story of a luxury balcony.",
+        "Glass partition, halbnah shot: A citrus businessman smiling triumphantly while holding a banking app confirmation.",
+        "Balcony view, wide shot: Sunset over a sprawling metropolis with glowing highway bridges.",
+        "Elevator doors, detail shot: Brushed steel doors closing slowly reflecting a frustrated pink dragon face.",
+        "Lobby lounge, close-up: Leather armchair with a discarded property brochure lying open on the cushion."
+      ],
+      "caption": "When you have the highest salary in the room but someone else has deeper cash reserves. Drop a dragon if you hate being outbid! #investorlife #drachenfrucht #penthouse #level6"
+    },
+    {
+      "n": 7,
+      "open_loop": "Wh whose signature was on the offshore account transfer that froze our company assets?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Calls a federal audit on my venture capital firm and seizes our corporate accounts."
+      },
+      "name": "Sterling, 42, Executive",
+      "badge": "14,200 $ net",
+      "verdict": "TYCOON",
+      "story": "The 8 levels of Instagram story envy. Level 7. Level 7: 14,200 dollars a month – and federal marshals just walked into my corner office with a warrant. I am Sterling, 42, a sleek eggplant person in a bespoke navy pinstripe suit running an international investment fund. I was reviewing Instagram stories on my tablet when my venture capital partner posted a live video celebrating a takeover. Your firm has been placed under emergency asset freeze due to an anonymous whistleblower report. My dark purple eggplant skin turned ghostly pale as federal marshals dropped a thick binder onto my desk. I looked out my window and saw my biggest competitor standing on the opposite rooftop holding his phone high. You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "-10,000 $",
+        "after": "4,200 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of Instagram story envy. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 14,200 dollars a month – and federal marshals just walked into my corner office with a warrant."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Sterling, 42, a sleek eggplant person in a bespoke navy pinstripe suit running an international investment fund."
+        },
+        {
+          "s": "Figur",
+          "t": "I was reviewing Instagram stories on my tablet when my venture capital partner posted a live video celebrating a takeover."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your firm has been placed under emergency asset freeze due to an anonymous whistleblower report.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My dark purple eggplant skin turned ghostly pale as federal marshals dropped a thick binder onto my desk."
+        },
+        {
+          "s": "Figur",
+          "t": "I looked out my window and saw my biggest competitor standing on the opposite rooftop holding his phone high."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "Empires fall faster than they rise.",
+      "quote_by": {
+        "level": 6,
+        "name": "Dragon",
+        "badge": "12,800 $",
+        "character": "An exotic drachenfrucht investor in a magenta-trimmed suit with a cold, victorious smile.",
+        "scene": "Opposite rooftop across a glass canyon, holding a smartphone high while watching the office raid unfold."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "14,200 $",
+          "bar": 0.92
+        },
+        {
+          "label": "Assets",
+          "value": "12.8M $",
+          "bar": 0.95
+        },
+        {
+          "label": "Audit",
+          "value": "Frozen",
+          "bar": 0.05
+        }
+      ],
+      "character": "A polished eggplant person with glossy deep purple skin, wearing a pinstripe navy suit and silk tie, forehead glowing 14,200 $.",
+      "visual": "A luxurious corner office on the 40th floor with glass walls, federal agents standing over a sleek desk, city skyline visible through fog.",
+      "scenes": [
+        "Corner office, wide shot: Sunset through fog, minimalist designer furniture, tiny golden coin resting on a leather coaster.",
+        "Mahogany desk, close-up: Federal warrant documents, gold fountain pen, and a tablet showing a frozen bank balance.",
+        "Office doorway, halbnah shot: Federal marshals in dark suits holding official seizure notices.",
+        "Window view, wide shot: Spanning skyscraper district, an opposing rooftop figure holding a glowing phone.",
+        "Smartphone screen, detail shot: Instagram story alert showing a competitor's live broadcast celebration.",
+        "Elevator corridor, close-up: Security badges clicking against glass panels as federal officers escort the executive."
+      ],
+      "caption": "When you rule the financial district until the federal audit hits your desk. Drop an eggplant if you love corporate justice! #executivelife #eggplant #wallstreet #level7"
+    },
+    {
+      "n": 8,
+      "open_loop": "What hidden message was carved into the golden coin that ended the entire cycle?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Hands me a single cup of black coffee and whispers that my entire empire was built on borrowed time."
+      },
+      "name": "Lord Coco, 50, Founder",
+      "badge": "18,500 $ net",
+      "verdict": "LEGEND",
+      "story": "The 8 levels of Instagram story envy. Level 8. Level 8: 18,500 dollars a month – and I finally realize why every single person on this street hates the number on their forehead. I am Lord Coco, 50, a hard-shelled coconut person in a bespoke white linen suit who owns half the downtown skyline. I stood on my private rooftop terrace sipping champagne while watching Instagram stories of old classmates struggling below me. You think the number on your head makes you a god, but you are just renting space in everyone else's nightmare. My hard coconut shell cracked with sudden realization as I looked back at all the people I had stepped on. What theme should our city explore next in the comments?",
+      "gender": "m",
+      "twist": {
+        "delta": "RESET",
+        "after": "0 $ FIRM"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of Instagram story envy. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 18,500 dollars a month – and I finally realize why every single person on this street hates the number on their forehead."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Lord Coco, 50, a hard-shelled coconut person in a bespoke white linen suit who owns half the downtown skyline."
+        },
+        {
+          "s": "Figur",
+          "t": "I stood on my private rooftop terrace sipping champagne while watching Instagram stories of old classmates struggling below me."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "You think the number on your head makes you a god, but you are just renting space in everyone else's nightmare.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My hard coconut shell cracked with sudden realization as I looked back at all the people I had stepped on."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What theme should our city explore next in the comments?"
+        }
+      ],
+      "quote": "The number lügt never, but it never bought a single real friend either.",
+      "quote_by": {
+        "level": 1,
+        "name": "Pip",
+        "badge": "1,200 $",
+        "character": "A calm pear barista in a stained apron holding a glowing coffee cup and a golden coin.",
+        "scene": "Exclusive penthouse rooftop at sunset, standing tall before the billionaire with a serene expression."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "18,500 $",
+          "bar": 1.0
+        },
+        {
+          "label": "Empire",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Truth",
+          "value": "Level 8",
+          "bar": 1.0
+        }
+      ],
+      "character": "A hard-shelled coconut person with fibrous brown texture, wearing a pristine white linen suit and gold pocket watch, forehead glowing 18,500 $.",
+      "visual": "A sprawling penthouse rooftop garden at sunset overlooking a glowing neon city, a coconut tycoon standing near a glass railing holding a smartphone.",
+      "scenes": [
+        "Penthouse rooftop, wide shot: Golden hour lighting, private infinity pool, tiny golden coin resting on the edge of a champagne glass.",
+        "Elevator doors, medium shot: Brushed steel doors opening slowly to reveal a pear barista holding a coffee cup.",
+        "Glass table, close-up: A single cup of black coffee next to a glowing smartphone showing all 8 levels connected.",
+        "City skyline, wide shot: Neon lights blinking across the metropolis as all forehead displays glow simultaneously in the night.",
+        "Smartphone screen, detail shot: Instagram story feed scrolling through all characters from levels 1 to 7.",
+        "Final rooftop view, wide shot: Two fruit figures standing together against the glowing city skyline as the screen fades to black."
+      ],
+      "caption": "The final level changes everything. What topic should we explore next? Drop your ideas in the comments! #coconuttycoon #level8 #endlessloop #storyenvy"
+    }
+  ],
+  "lang": "en",
+  "topic": "Das Level der absoluten Entfremdung beim Checken der Instagram-Storys von alten Schulfreunden",
+  "frame": "frucht"
+}

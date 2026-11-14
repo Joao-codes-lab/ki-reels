@@ -1,0 +1,819 @@
+{
+  "title": "Die 8 Level vom Ausmisten der Freunde",
+  "house": "A bustling vegetable metropolis called Neukohl, featuring neon-lit tram stations, rainy bus stops, cramped shared apartments, and a shiny central plaza where fruit citizens live and judge each other by their forehead numbers.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Barista in Level 2 mentions a generous man in a suit.",
+    "A dropped golden coin appears near the tram ticket machine in Level 4.",
+    "The broken couch from the shared kitchen in Level 1 is seen on the balcony in Level 7."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was war der echte Grund, warum Tom mich aus der WhatsApp-Gruppe geworfen hat?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Lacht Tom in der WG-Küche wegen seiner niedrigen Freundes-Zahl aus und blockiert seine Nummer."
+      },
+      "name": "Tom, 24, Azubi",
+      "badge": "1 Freund",
+      "verdict": "VERLASSEN",
+      "story": "Die 8 Level vom Ausmisten der Freunde. Level 1. Level 1: 1 echter Freund übrig – und das ist mein Hund. Ich stehe in der regnerischen WG-Küche, auf meiner Stirn leuchtet einsam die 1. Tom, mein bester Kumpel seit der Grundschule, schaut mich von oben herab an, während er seinen Bio-Smoothie trinkt. Gestern waren wir noch unzertrennlich, heute gelte ich als sozialer Totalschaden, weil meine App-Anzeige abgestürzt ist. Wer nur einen einzigen Freund hat, ist halt eine absolute Last für die Gruppe. Mein Herz zieht sich zusammen, ich halte meinen Becher fest. Doch plötzlich fängt meine Stirnanzeige an zu flackern, ein rotes Minuszeichen ploppt auf, und die Zahl sinkt auf null. Tom grinst kalt, dreht sich um und schlägt mir die Wohnungstür vor der Nase zu. Draußen im Regen glitzert eine winzige goldene Münze auf dem nassen Asphalt. Wer hat mir diese Nachricht geschickt? Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-1",
+        "after": "0"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Ausmisten der Freunde. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 1 echter Freund übrig – und das ist mein Hund."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe in der regnerischen WG-Küche, auf meiner Stirn leuchtet einsam die 1."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Tom, mein bester Kumpel seit der Grundschule, schaut mich von oben herab an, während er seinen Bio-Smoothie trinkt.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern waren wir noch unzertrennlich, heute gelte ich als sozialer Totalschaden, weil meine App-Anzeige abgestürzt ist."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer nur einen einzigen Freund hat, ist halt eine absolute Last für die Gruppe.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Herz zieht sich zusammen, ich halte meinen Becher fest."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch plötzlich fängt meine Stirnanzeige an zu flackern, ein rotes Minuszeichen ploppt auf, und die Zahl sinkt auf null."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Tom grinst kalt, dreht sich um und schlägt mir die Wohnungstür vor der Nase zu.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Draußen im Regen glitzert eine winzige goldene Münze auf dem nassen Asphalt. Wer hat mir diese Nachricht geschickt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Wer nur einen einzigen Freund hat, ist halt eine absolute Last für die Gruppe.",
+      "quote_by": {
+        "level": 4,
+        "name": "Tom",
+        "badge": "14 Freunde",
+        "character": "Broccoli person with spiky dark green florets, wearing a tight designer jacket and sunglasses, holding a glowing LED coffee cup.",
+        "scene": "Medium shot in a chaotic shared kitchen with dirty dishes, looking down condescendingly at the strawberry guy while pointing at his forehead display."
+      },
+      "stats": [
+        {
+          "label": "Freunde",
+          "value": "1",
+          "bar": 0.05
+        },
+        {
+          "label": "Status",
+          "value": "Tief",
+          "bar": 0.1
+        },
+        {
+          "label": "Vertrauen",
+          "value": "12%",
+          "bar": 0.12
+        }
+      ],
+      "character": "Strawberry person with freckled red skin and green leafy hair, wearing an oversized faded hoodie and carrying a torn backpack; a bright digital '1' glows on his forehead.",
+      "visual": "Wide angle shot of a gloomy, rain-streaked shared apartment kitchen at night, with a sad strawberry guy looking at his glowing forehead display while a broccoli person turns away.",
+      "scenes": [
+        "Wide shot of a cramped, messy shared kitchen with flickering neon ceiling lights, a tiny hidden golden coin resting near the sink.",
+        "Close-up on the glowing digital number '1' on the strawberry person's forehead, reflecting teary eyes.",
+        "Medium shot of the broccoli person crossing his arms, laughing coldly in front of a dirty microwave.",
+        "Detail shot of a smartphone screen buzzing with a notification: 'Kontakt blockiert'.",
+        "Wide exterior shot of a bleak apartment building facade under heavy Berlin-style drizzle at dusk.",
+        "Close-up of a tiny golden coin lying on the wet concrete outside the entrance door."
+      ],
+      "caption": "Wie viele echte Freunde hast du noch verdient? Schreib es in die Kommentare! #freunde #ausmisten #drama #leben #viral"
+    },
+    {
+      "n": 2,
+      "open_loop": "Wer hat die geheimnisvolle Nachricht auf meinem Kassenzettel hinterlassen?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Wirft in der Bar den Kaffee weg und nennt Mia eine unproduktive Versagerin."
+      },
+      "name": "Mia, 26, Barista",
+      "badge": "3 Freunde",
+      "verdict": "ZU WENIG",
+      "story": "Die 8 Level vom Ausmisten der Freunde. Level 2. Level 2: 3 treue Kontakte im Adressbuch – und ein Haufen falscher Versprechungen. Ich wische den Tresen im Szene-Café, während auf meiner Stirn die 3 leuchtet. Letzte Woche waren es noch zehn, bis das große Aussortieren begann. Lisa, meine vermeintlich beste Freundin, starrt auf mein Display und rümpft die Nase. Mit dir will sich bald niemand mehr blicken lassen, du ziehst uns alle nach unten. Die Demütigung brennt wie scharfer Zitronensaft in meinen Augen. Ich schlucke den Kloß im Hals herunter und will gerade antworten, als mein Handy vibriert. Die Zahl springt plötzlich von drei auf null. Lisa lacht laut auf, schnappt sich ihre Tasche und verlässt den Laden. Doch auf dem Kassenzettel liegt eine fremde Handschrift. Wer hat mir diese Warnung geschrieben? Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "-3",
+        "after": "0"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Ausmisten der Freunde. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 3 treue Kontakte im Adressbuch – und ein Haufen falscher Versprechungen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich wische den Tresen im Szene-Café, während auf meiner Stirn die 3 leuchtet."
+        },
+        {
+          "s": "Figur",
+          "t": "Letzte Woche waren es noch zehn, bis das große Aussortieren begann."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Lisa, meine vermeintlich beste Freundin, starrt auf mein Display und rümpft die Nase.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit dir will sich bald niemand mehr blicken lassen, du ziehst uns alle nach unten.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Demütigung brennt wie scharfer Zitronensaft in meinen Augen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schlucke den Kloß im Hals herunter und will gerade antworten, als mein Handy vibriert."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl springt plötzlich von drei auf null. Lisa lacht laut auf, schnappt sich ihre Tasche und verlässt den Laden."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Doch auf dem Kassenzettel liegt eine fremde Handschrift. Wer hat mir diese Warnung geschrieben?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Mit dir will sich bald niemand mehr blicken lassen, du ziehst uns alle nach unten.",
+      "quote_by": {
+        "level": 5,
+        "name": "Lisa",
+        "badge": "25 Freunde",
+        "character": "Lemon person with bright yellow citrus skin, sharp bob haircut, wearing a chic white trench coat and gold earrings.",
+        "scene": "Medium shot across a hipster café counter, leaning forward with a toxic smile while pointing at the barista's forehead."
+      },
+      "stats": [
+        {
+          "label": "Freunde",
+          "value": "3",
+          "bar": 0.15
+        },
+        {
+          "label": "Status",
+          "value": "Kritisch",
+          "bar": 0.2
+        },
+        {
+          "label": "Netzwerk",
+          "value": "Schwach",
+          "bar": 0.18
+        }
+      ],
+      "character": "Orange person with textured vibrant orange peel skin, short neat hair, wearing a striped apron over a denim shirt; a glowing digital '3' sits proudly on her forehead.",
+      "visual": "Medium close-up inside a warm, softly lit hipster café with a wooden counter, an orange person wiping down cups while looking distressed at her reflection.",
+      "scenes": [
+        "Medium shot in a trendy urban café with exposed brick walls, a tiny golden coin hidden behind the sugar dispenser.",
+        "Close-up of the glowing digital number '3' on the orange person's forehead in the cafe mirror.",
+        "Over-the-shoulder shot of the lemon person sneering across the espresso machine.",
+        "Detail shot of a thermal receipt printer spitting out a paper with handwritten notes.",
+        "Wide shot of the bustling cafe interior with other vegetable patrons looking away indifferently.",
+        "Close-up of a smartphone screen showing the contact list deleting contacts automatically."
+      ],
+      "caption": "Kennst du solche falschen Freunde? Markiere deinen Lieblingsmenschen! #freunde #kaffee #berlin #fake #level"
+    },
+    {
+      "n": 3,
+      "open_loop": "Was befand sich in dem mysteriösen Paket vor meiner Wohnungstür?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Ignoriert Jonas im Coworking-Space völlig und tut so, als würde er nicht existieren."
+      },
+      "name": "Jonas, 29, Grafiker",
+      "badge": "5 Freunde",
+      "verdict": "AUSSENSEITER",
+      "story": "Die 8 Level vom Ausmisten der Freunde. Level 3. Level 3: 5 ausgewählte Kontakte im Handy – und absolute Funkstil-Garantie. Ich sitze im überfüllten U-Bahn-Waggon auf dem Weg nach Kreuzberg, auf meiner Stirn flackert die 5. Früher feierten wir jedes Wochenende in Neukölln, jetzt wendet sich jeder ab. Max, ein früherer Weggefährte mit einer riesigen 30 auf der Stirn, drückt sich an mir vorbei. Mit fünf Leuten im Kreis kommt man im Leben eben nirgendwo hin, du bleibst ein ewiger Verlierer. Ein stechender Schmerz durchbohrt meine Brust, während die anderen Fahrgäste tuscheln. Plötzlich piept mein Display, die Ziffer stürzt auf zwei ab. Max lacht verächtlich und steigt an der nächsten Haltestelle aus. Doch als ich zu Hause ankomme, liegt ein schweres Paket vor meiner Tür. Was ist darin? Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-3",
+        "after": "2"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Ausmisten der Freunde. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 5 ausgewählte Kontakte im Handy – und absolute Funkstil-Garantie."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze im überfüllten U-Bahn-Waggon auf dem Weg nach Kreuzberg, auf meiner Stirn flackert die 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Früher feierten wir jedes Wochenende in Neukölln, jetzt wendet sich jeder ab."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Max, ein früherer Weggefährte mit einer riesigen 30 auf der Stirn, drückt sich an mir vorbei.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit fünf Leuten im Kreis kommt man im Leben eben nirgendwo hin, du bleibst ein ewiger Verlierer.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ein stechender Schmerz durchbohrt meine Brust, während die anderen Fahrgäste tuscheln."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich piept mein Display, die Ziffer stürzt auf zwei ab."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Max lacht verächtlich und steigt an der nächsten Haltestelle aus.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Doch als ich zu Hause ankomme, liegt ein schweres Paket vor meiner Tür. Was ist darin?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Mit fünf Leuten im Kreis kommt man im Leben eben nirgendwo hin, du bleibst ein ewiger Verlierer.",
+      "quote_by": {
+        "level": 7,
+        "name": "Max",
+        "badge": "30 Freunde",
+        "character": "Coconut person with hard brown fibrous shell texture, wearing a sharp business suit and expensive watch.",
+        "scene": "Wide shot in a crowded subway train, standing proudly above the sitting avocado guy while showing off his high number."
+      },
+      "stats": [
+        {
+          "label": "Freunde",
+          "value": "5",
+          "bar": 0.25
+        },
+        {
+          "label": "Netz",
+          "value": "Dünn",
+          "bar": 0.22
+        },
+        {
+          "label": "Ansehen",
+          "value": "Gering",
+          "bar": 0.2
+        }
+      ],
+      "character": "Avocado person with dark green bumpy skin and a smooth light green face center, wearing a casual black hoodie; a glowing digital '5' shines on his forehead.",
+      "visual": "Wide angle shot of a dimly lit Berlin subway carriage at night, passengers blurred in the background, focusing on the avocado man's illuminated forehead.",
+      "scenes": [
+        "Wide shot of a graffiti-tagged subway interior with flickering fluorescent lights, a tiny golden coin taped under a handrail.",
+        "Close-up of the glowing digital number '5' on the avocado person's forehead.",
+        "Medium shot of the coconut man in a sharp suit looking down with arrogant amusement.",
+        "Detail shot of a subway map with stations glowing in red.",
+        "Wide shot of a gloomy apartment hallway with a mysterious brown cardboard box on the floor.",
+        "Close-up of hands opening a heavy package tied with thick twine."
+      ],
+      "caption": "Wer lässt dich fallen, wenn es eng wird? Schreib es in die Kommentare! #ubahn #freunde #berlin #beziehung #viral"
+    },
+    {
+      "n": 4,
+      "open_loop": "Warum rief mich die unbekannte Nummer genau um Mitternacht an?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Kaufte heimlich das Startup auf und feuerte Leo ohne Vorwarnung."
+      },
+      "name": "Leo, 31, Entwickler",
+      "badge": "12 Freunde",
+      "verdict": "DURCHSCHNITT",
+      "story": "Die 8 Level vom Ausmisten der Freunde. Level 4. Level 4: 12 verlässliche Kontakte – und das Gefühl, komplett austauschbar zu sein. Ich stehe im modernen Coworking-Space vor dem Whiteboard, auf meiner Stirn leuchtet die 12. Sophie, die Chefin der Etage mit einer glänzenden 50 auf dem Kopf, mustert meine Notizen und schüttelt genervt den Kopf. Vor versammelter Mannschaft sagt sie: Zwölf Freunde beweisen nur, dass du zu furchtsam bist, um echte Eliten in dein Leben zu lassen. Die Röte schießt mir ins Gesicht, meine Kollegen blicken betreten auf ihre Laptops. Ich balle meine Fäuste in den Hosentaschen und will ihr gerade die Wahrheit ins Gesicht sagen, als mein Stirn-Display blitzt. Die Zahl sackt auf acht ab. Sophie wendet sich ab und tippt auf ihrem Tablet. Doch mein Telefon klingelt mit einer unterdrückten Nummer. Wer ist am Apparat? Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "-4",
+        "after": "8"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Ausmisten der Freunde. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 12 verlässliche Kontakte – und das Gefühl, komplett austauschbar zu sein."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im modernen Coworking-Space vor dem Whiteboard, auf meiner Stirn leuchtet die 12."
+        },
+        {
+          "s": "Figur",
+          "t": "Sophie, die Chefin der Etage mit einer glänzenden 50 auf dem Kopf, mustert meine Notizen und schüttelt genervt den Kopf."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Vor versammelter Mannschaft sagt sie: Zwölf Freunde beweisen nur, dass du zu furchtsam bist, um echte Eliten in dein Leben zu lassen.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Röte schießt mir ins Gesicht, meine Kollegen blicken betreten auf ihre Laptops."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich balle meine Fäuste in den Hosentaschen und will ihr gerade die Wahrheit ins Gesicht sagen, als mein Stirn-Display blitzt."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl sackt auf acht ab."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sophie wendet sich ab und tippt auf ihrem Tablet.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Doch mein Telefon klingelt mit einer unterdrückten Nummer. Wer ist am Apparat?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Zwölf Freunde beweisen nur, dass du zu furchtsam bist, um echte Eliten in dein Leben zu lassen.",
+      "quote_by": {
+        "level": 8,
+        "name": "Sophie",
+        "badge": "50 Freunde",
+        "character": "Dragonfruit person with vibrant pink and green leafy skin texture, wearing a high-end designer blazer and gold-rimmed glasses.",
+        "scene": "Medium shot in a sleek glass-walled office, looking down at a laptop while dismissing the developer with a wave of her hand."
+      },
+      "stats": [
+        {
+          "label": "Freunde",
+          "value": "12",
+          "bar": 0.4
+        },
+        {
+          "label": "Netzwerk",
+          "value": "Stabil",
+          "bar": 0.45
+        },
+        {
+          "label": "Einfluss",
+          "value": "Mittel",
+          "bar": 0.38
+        }
+      ],
+      "character": "Pear person with soft yellow-green bell-shaped skin, wearing a smart casual blazer over a simple t-shirt; a glowing digital '12' rests on her forehead.",
+      "visual": "Wide angle shot of a sunlit startup office with glass walls, modern minimalist desks, and green plants, focusing on a pear person standing by a white board.",
+      "scenes": [
+        "Wide shot of a bright open-space office with designer lamps, a tiny golden coin hidden beneath a plant pot.",
+        "Close-up of the glowing digital number '12' on the pear person's forehead.",
+        "Medium shot of the dragonfruit woman in a sharp blazer holding a sleek tablet.",
+        "Detail shot of a smartphone screen displaying an incoming call from 'Unbekannt'.",
+        "Wide shot of the office lounge area with employees whispering behind laptops.",
+        "Close-up of the pear person's tense expression reflecting off a glass window."
+      ],
+      "caption": "Wer bestimmt, wer ein wahrer Freund ist? Schreib es in die Kommentare! #startup #freunde #karriere #berlin #viral"
+    },
+    {
+      "n": 5,
+      "open_loop": "Was stand in dem versiegelten Brief, den mir der Kurier überreichte?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Nimmt Claras Einladung zum Geburtstag demonstrativ nicht an und lächelt spöttisch."
+      },
+      "name": "Clara, 27, Eventmanagerin",
+      "badge": "22 Freunde",
+      "verdict": "BELIEBT",
+      "story": "Die 8 Level vom Ausmisten der Freunde. Level 5. Level 5: 22 Kontakte auf der Gästeliste – und trotzdem fühl ich mich auf jeder Party unsichtbar. Ich stehe im prachtvollen Ballsaal zwischen Kronleuchtern, auf meiner Stirn leuchtet die 22. Tim, ein bekannter Influencer mit einer goldenen 75 auf der Stirn, kommt auf mich zu. Er mustert mein Kleid und lacht herablassend laut auf. Vor allen Gästen ruft er: Mit zweiundzwanzig Leuten bist du doch nur die Statistin in deinem eigenen Film, echte VIPs lachen über deine Liste. Ein eisiges Schweigen legt sich über den Raum, meine Wangen brennen vor Scham. Ich atme tief durch und setze zu einer scharfen Antwort an, als mein Display flackert. Die Zahl sinkt rapide auf fünfzehn. Tim dreht sich lachend um und trinkt seinen Champagner aus. Doch in diesem Moment drückt mir ein Page einen Umschlag in die Hand. Was steht drin? Das siehst du in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "-7",
+        "after": "15"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Ausmisten der Freunde. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 22 Kontakte auf der Gästeliste – und trotzdem fühl ich mich auf jeder Party unsichtbar."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im prachtvollen Ballsaal zwischen Kronleuchtern, auf meiner Stirn leuchtet die 22."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Tim, ein bekannter Influencer mit einer goldenen 75 auf der Stirn, kommt auf mich zu.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Er mustert mein Kleid und lacht herablassend laut auf."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Vor allen Gästen ruft er: Mit zweiundzwanzig Leuten bist du doch nur die Statistin in deinem eigenen Film, echte VIPs lachen über deine Liste.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ein eisiges Schweigen legt sich über den Raum, meine Wangen brennen vor Scham."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich atme tief durch und setze zu einer scharfen Antwort an, als mein Display flackert."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl sinkt rapide auf fünfzehn."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Tim dreht sich lachend um und trinkt seinen Champagner aus. Doch in diesem Moment drückt mir ein Page einen Umschlag in die Hand. Was steht drin?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Mit zweiundzwanzig Leuten bist du doch nur die Statistin in deinem eigenen Film, echte VIPs lachen über deine Liste.",
+      "quote_by": {
+        "level": 2,
+        "name": "Tim",
+        "badge": "75 Freunde",
+        "character": "Pineapple person with spiky crown-like hair and textured golden skin, wearing a shiny silk tuxedo jacket.",
+        "scene": "Medium shot in a glittering ballroom under chandeliers, holding a champagne flute and pointing mockingly at the event manager."
+      },
+      "stats": [
+        {
+          "label": "Freunde",
+          "value": "22",
+          "bar": 0.6
+        },
+        {
+          "label": "Kontakte",
+          "value": "Hoch",
+          "bar": 0.65
+        },
+        {
+          "label": "status",
+          "value": "Stark",
+          "bar": 0.58
+        }
+      ],
+      "character": "Blueberry person with smooth deep blue round skin, wearing an elegant silver cocktail dress and matching earrings; a glowing digital '22' shines on her forehead.",
+      "visual": "Wide angle shot of a luxurious high-ceiling ballroom filled with crystal chandeliers, elegant guests in evening wear, and warm golden light.",
+      "scenes": [
+        "Wide shot of a grand ballroom with polished marble floors, a tiny golden coin resting near a champagne tower base.",
+        "Close-up of the glowing digital number '22' on the blueberry person's forehead.",
+        "Medium shot of the pineapple person smiling arrogantly with a glass in hand.",
+        "Detail shot of a white envelope sealed with red wax being handed over.",
+        "Wide shot of party guests whispering and glancing sideways.",
+        "Close-up of the blueberry person's determined face holding back tears."
+      ],
+      "caption": "Wer darf auf deine VIP-Gliste? Schreib es in die Kommentare! #party #freunde #lifestyle #berlin #viral"
+    },
+    {
+      "n": 6,
+      "open_loop": "Warum schaute mich mein bester Freund plötzlich so hasserfüllt an?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Stiehlt Benjamins Projektidee und präsentiert sie als seine eigene im Meeting."
+      },
+      "name": "Benjamin, 33, Architekt",
+      "badge": "38 Freunde",
+      "verdict": "ELITE",
+      "story": "Die 8 Level vom Ausmisten der Freunde. Level 6. Level 6: 38 enge Kontakte im Netzwerk – und die bittere Erkenntnis, dass niemand echt ist. Ich stehe auf der mondänen Dachterrasse über den Dächern von Berlin, auf meiner Stirn leuchtet die 38. Vanessa, eine ehrgeizige Maklerin mit einer mächtigen 90 auf dem Kopf, tritt an mein Glas und lächelt eisig. Vor den Investoren sagt sie laut: Achtunddreißig Verbindungen sind für jemanden in deiner Position reiner Selbstbetrug, du bist doch längst pleite an echten Gefühlen. Ein Raunen geht durch die Menge, die Gläser klirren leise. Mein Magen verkrampft sich, ich halte meinen Drink umklammert. Ich will gerade zu einem vernichtenden Konter ansetzen, als mein Display aufblinkt. Die Zahl stürzt ab auf zwanzig. Vanessa dreht sich triumphierend um und lässt mich stehen. Doch mein Handy vibriert mit einer Nachricht, die alles verändert. Wer hat mir geschrieben? Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "-18",
+        "after": "20"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Ausmisten der Freunde. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 38 enge Kontakte im Netzwerk – und die bittere Erkenntnis, dass niemand echt ist."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe auf der mondänen Dachterrasse über den Dächern von Berlin, auf meiner Stirn leuchtet die 38."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Vanessa, eine ehrgeizige Maklerin mit einer mächtigen 90 auf dem Kopf, tritt an mein Glas und lächelt eisig.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Vor den Investoren sagt sie laut: Achtunddreißig Verbindungen sind für jemanden in deiner Position reiner Selbstbetrug, du bist doch längst pleite an echten Gefühlen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ein Raunen geht durch die Menge, die Gläser klirren leise."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Magen verkrampft sich, ich halte meinen Drink umklammert."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich will gerade zu einem vernichtenden Konter ansetzen, als mein Display aufblinkt."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl stürzt ab auf zwanzig."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Vanessa dreht sich triumphierend um und lässt mich stehen. Doch mein Handy vibriert mit einer Nachricht, die alles verändert. Wer hat mir geschrieben?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Achtunddreißig Verbindungen sind für jemanden in deiner Position reiner Selbstbetrug, du bist doch längst pleite an echten Gefühlen.",
+      "quote_by": {
+        "level": 3,
+        "name": "Vanessa",
+        "badge": "90 Freunde",
+        "character": "Eggplant person with sleek dark purple glossy skin, wearing a tailored white designer suit and diamond earrings.",
+        "scene": "Medium shot on a luxury rooftop terrace at sunset, holding a martini glass and looking down with supreme arrogance."
+      },
+      "stats": [
+        {
+          "label": "Freunde",
+          "value": "38",
+          "bar": 0.78
+        },
+        {
+          "label": "Netz",
+          "value": "Gross",
+          "bar": 0.82
+        },
+        {
+          "label": "Macht",
+          "value": "Stark",
+          "bar": 0.75
+        }
+      ],
+      "character": "Watermelon person with thick green-striped rind texture and pink facial center, wearing a sharp grey tailored suit; a glowing digital '38' shines on his forehead.",
+      "visual": "Wide angle shot of a luxury Berlin rooftop terrace at twilight with panoramic city views, glowing skyscrapers, and stylish vegetable elites.",
+      "scenes": [
+        "Wide shot of a high-end rooftop terrace with glass railings and city lights, a tiny golden coin hidden near a flower planter.",
+        "Close-up of the glowing digital number '38' on the watermelon person's forehead.",
+        "Medium shot of the eggplant woman in a white suit smirking coldly.",
+        "Detail shot of a smartphone screen showing a push notification with breaking news.",
+        "Wide shot of the terrace guests turning away in synchronized unison.",
+        "Close-up of the watermelon person's clenched fist gripping a glass tumbler."
+      ],
+      "caption": "Wem kannst du in den oberen Etagen noch vertrauen? Schreib es in die Kommentare! #architektur #freunde #berlin #erfolg #viral"
+    },
+    {
+      "n": 7,
+      "open_loop": "Was verbarg sich hinter der schweren Stahltür im Keller?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Bricht in Saras Studio ein und verwüstet ihre Skizzen."
+      },
+      "name": "Sara, 34, Galeristin",
+      "badge": "65 Freunde",
+      "verdict": "UNBERÜHRBAR",
+      "story": "Die 8 Level vom Ausmisten der Freunde. Level 7. Level 7: 65 handverlesene Top-Kontakte – und absolute Einsamkeit an der Spitze. Ich stehe in meiner exklusiven Kunstgalerie vor den teuren Vernissagen, auf meiner Stirn leuchtet die 65. Markus, ein alter Weggefährte mit einer glühenden 99 auf der Stirn, tritt vor meine neueste Skulptur. Er mustert mich mit eiskaltem Blick und sagt herablassend: Fünfundsechzig Kontakte sind doch nur eine traurige Ausrede, weil niemand dich jemals wirklich geliebt hat. Die Gäste halten den Atem an, ein Kameraslitz leuchtet auf. Mein Herz pocht wild in meiner Brust, ich will ihm meine Meinung direkt ins Gesicht sagen. Doch in diesem Augenblick fängt mein Display an zu flackern. Die Zahl bricht drastisch auf dreißig ein. Markus lacht höhnisch und verlässt den Raum. Doch unten im Keller höre ich ein seltsames Geräusch hinter der Stahltür. Was ist das? Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "-35",
+        "after": "30"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Ausmisten der Freunde. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 65 handverlesene Top-Kontakte – und absolute Einsamkeit an der Spitze."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe in meiner exklusiven Kunstgalerie vor den teuren Vernissagen, auf meiner Stirn leuchtet die 65."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Markus, ein alter Weggefährte mit einer glühenden 99 auf der Stirn, tritt vor meine neueste Skulptur.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Er mustert mich mit eiskaltem Blick und sagt herablassend: Fünfundsechzig Kontakte sind doch nur eine traurige Ausrede, weil niemand dich jemals wirklich geliebt hat."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Gäste halten den Atem an, ein Kameraslitz leuchtet auf."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Herz pocht wild in meiner Brust, ich will ihm meine Meinung direkt ins Gesicht sagen."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch in diesem Augenblick fängt mein Display an zu flackern. Die Zahl bricht drastisch auf dreißig ein."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Markus lacht höhnisch und verlässt den Raum.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Doch unten im Keller höre ich ein seltsames Geräusch hinter der Stahltür. Was ist das?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Fünfundsechzig Kontakte sind doch nur eine traurige Ausrede, weil niemand dich jemals wirklich geliebt hat.",
+      "quote_by": {
+        "level": 1,
+        "name": "Markus",
+        "badge": "99 Freunde",
+        "character": "Pumpkin person with rigid ribbed orange skin and stern expression, wearing a custom Italian wool suit and gold cufflinks.",
+        "scene": "Medium shot in a high-end art gallery surrounded by white walls and modern sculptures, sneering at the gallery owner."
+      },
+      "stats": [
+        {
+          "label": "Freunde",
+          "value": "65",
+          "bar": 0.9
+        },
+        {
+          "label": "Status",
+          "value": "Elite",
+          "bar": 0.95
+        },
+        {
+          "label": "Macht",
+          "value": "Extrem",
+          "bar": 0.92
+        }
+      ],
+      "character": "Red Cabbage person with layered purple-red smooth leaves, wearing a sophisticated silk designer dress; a glowing digital '65' adorns her forehead.",
+      "visual": "Wide angle shot of a minimalist white-cube art gallery with dramatic spot lighting, elegant guests, and expensive modern art installations.",
+      "scenes": [
+        "Wide shot of a pristine white art gallery with modern sculptures, a tiny golden coin hidden beneath the base of a marble pedestal.",
+        "Close-up of the glowing digital number '65' on the red cabbage person's forehead.",
+        "Medium shot of the pumpkin man in a tailored suit pointing disdainfully at a painting.",
+        "Detail shot of a heavy steel basement door with an electronic keypad lock.",
+        "Wide shot of gallery visitors backing away in sudden shock.",
+        "Close-up of the red cabbage person staring intently toward the dark cellar stairs."
+      ],
+      "caption": "Wie viele echte Freunde bleiben dir an der Spitze? Schreib es in die Kommentare! #kunst #galerie #berlin #elite #viral"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches dunkle Geheimnis verbindet alle acht Level miteinander?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Versucht das gesamte System zu manipulieren und fliegt dabei endgültig auf."
+      },
+      "name": "Oliver, 38, Systemgründer",
+      "badge": "99+ Freunde",
+      "verdict": "DIE SPITZE",
+      "story": "Die 8 Level vom Ausmisten der Freunde. Level 8. Level 8: 99+ Kontakte – und die absolute Kontrolle über das gesamte Beziehungs-Netzwerk der Stadt. Ich stehe im obersten Penthouse des Glas-Towers, auf meiner Stirn leuchtet die unendliche 99+. Vor mir versammelt stehen Tom, Mia, Jonas, Leo, Clara, Benjamin und Sara – alle früheren Gegenspieler und Opfer meines Algorithmus. Sie starren mich voller Hass und Genugtuung an, während mein System abstürzt. Tom tritt vor und ruft mit fester Stimme: Wer alle Freunde ausmisst, verliert am Ende das Einzige, was wirklich zählt – sich selbst. Ein gleißendes Licht erfasst den Raum, mein Display fängt an zu rauchen, und die Zahl auf meiner Stirn erlischt für immer. Alle Bildschirme in der Stadt schalten sich gleichzeitig schwarz. Die App ist vorbei, die Menschen atmen auf. Welches Thema der Gesellschaft soll als Nächstes entlarvt werden?",
+      "gender": "m",
+      "twist": {
+        "delta": "RESET",
+        "after": "0"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Ausmisten der Freunde. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 99+ Kontakte – und die absolute Kontrolle über das gesamte Beziehungs-Netzwerk der Stadt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im obersten Penthouse des Glas-Towers, auf meiner Stirn leuchtet die unendliche 99+."
+        },
+        {
+          "s": "Figur",
+          "t": "Vor mir versammelt stehen Tom, Mia, Jonas, Leo, Clara, Benjamin und Sara – alle früheren Gegenspieler und Opfer meines Algorithmus."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie starren mich voller Hass und Genugtuung an, während mein System abstürzt."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Tom tritt vor und ruft mit fester Stimme: Wer alle Freunde ausmisst, verliert am Ende das Einzige, was wirklich zählt – sich selbst.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ein gleißendes Licht erfasst den Raum, mein Display fängt an zu rauchen, und die Zahl auf meiner Stirn erlischt für immer."
+        },
+        {
+          "s": "Figur",
+          "t": "Alle Bildschirme in der Stadt schalten sich gleichzeitig schwarz."
+        },
+        {
+          "s": "Figur",
+          "t": "Die App ist vorbei, die Menschen atmen auf."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema der Gesellschaft soll als Nächstes entlarvt werden?"
+        }
+      ],
+      "quote": "Wer alle Freunde ausmisst, verliert am Ende das Einzige, was wirklich zählt – sich selbst.",
+      "quote_by": {
+        "level": 1,
+        "name": "Tom",
+        "badge": "1 Freund",
+        "character": "Broccoli person with spiky dark green florets, wearing a worn denim jacket and standing tall with dignity.",
+        "scene": "Medium shot inside a futuristic glass penthouse overlooking the whole city, confronting the system creator face to face."
+      },
+      "stats": [
+        {
+          "label": "Netzwerk",
+          "value": "MAX",
+          "bar": 1.0
+        },
+        {
+          "label": "Kontrolle",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "System",
+          "value": "CRASH",
+          "bar": 0.0
+        }
+      ],
+      "character": "Coconut person with hard brown textured shell and smooth facial oval, wearing a sleek metallic silver tech-CEO coat; a glowing digital '99+' dominates his forehead.",
+      "visual": "Wide angle shot of a futuristic penthouse office with panoramic floor-to-ceiling glass windows showing a glowing metropolis at night, surrounded by all previous vegetable characters.",
+      "scenes": [
+        "Wide shot of a luxury glass penthouse with city lights below, a final golden coin resting on the main control desk.",
+        "Close-up of the glowing digital number '99+' on the coconut person's forehead before it sparks and goes dark.",
+        "Medium shot of all previous characters standing together in unity facing the system creator.",
+        "Detail shot of a massive server rack sparking and shutting down completely.",
+        "Wide exterior shot of the entire vegetable metropolis as all forehead numbers simultaneously turn off.",
+        "Close-up of a dark, blank forehead reflecting absolute freedom."
+      ],
+      "caption": "Welches Thema aus dem echten Leben sollen wir als Nächstes verfilmen? Schreib es in die Kommentare! #ende #freunde #system #berlin #viral"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das schmerzhafte Ausmisten von Freunden nach dem Erreichen des Erwachsenenalters",
+  "frame": "frucht"
+}

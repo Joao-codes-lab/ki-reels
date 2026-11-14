@@ -1,0 +1,762 @@
+{
+  "title": "The 8 Levels of Procrasticleaning",
+  "house": "A bustling metropolitan fruit-and-veg city under a neon-lit grey sky, where sticky kitchen counters and towering laundry piles dictate every citizen's worth.",
+  "catchphrase": "The number never lies, but the chores don't clean themselves.",
+  "links": [
+    "The bitter lemon barista mentions a pineapple scrubbing baseboards all night.",
+    "A dropped golden coin rolls past the metro entrance every morning at 7 AM.",
+    "The coconut CEO complains about someone's endless vacuuming noise through the ceiling."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "What was hidden inside the dusty vacuum cleaner bag?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Laughs at her for panic-cleaning the baseboards with a toothbrush at 3 AM."
+      },
+      "name": "Strawberry Sam, 22, Intern",
+      "badge": "0 Min Focus",
+      "verdict": "TOTAL DISASTER",
+      "story": "The 8 levels of procrastination cleaning. Level 1. 2.000 Euro für Putzen? Wer diese Studi-Bude betritt, fliegt fristlos. I'm Sam, 22, and my desk deadline is in two hours, yet here I am, scraping every speck of dust off the microwave. My strawberry skin is sweating under the harsh fluorescent bulb of my tiny studio apartment. Who has Sam even hired? Maybe she'll clean my toilets for minimum wage right now. It was the polished coconut CEO passing by. I gripped my sponge tighter, fighting back tears of utter shame as my focus rating plummeted. You can scrub the floor all you want, but your career is still in the toilet. My hands trembled as I stared at the dirty water bucket. Did she just ruin my entire future with one sentence? You'll see that in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "-5 Min",
+        "after": "-5 Min"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of procrastination cleaning. Level 1."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "2.000 Euro für Putzen? Wer diese Studi-Bude betritt, fliegt fristlos.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Sam, 22, and my desk deadline is in two hours, yet here I am, scraping every speck of dust off the microwave."
+        },
+        {
+          "s": "Figur",
+          "t": "My strawberry skin is sweating under the harsh fluorescent bulb of my tiny studio apartment."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Who has Sam even hired? Maybe she'll clean my toilets for minimum wage right now.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "It was the polished coconut CEO passing by. I gripped my sponge tighter, fighting back tears of utter shame as my focus rating plummeted."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You can scrub the floor all you want, but your career is still in the toilet.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My hands trembled as I stared at the dirty water bucket. Did she just ruin my entire future with one sentence?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You can scrub the floor all you want, but your career is still in the toilet.",
+      "quote_by": {
+        "level": 8,
+        "name": "Coconut boss",
+        "badge": "9,999 Min",
+        "character": "A hard-shelled coconut wearing an expensive silk suit and designer sunglasses indoors.",
+        "scene": "Wide shot of a luxury glass office overlooking the city, pointing down at a small strawberry."
+      },
+      "stats": [
+        {
+          "label": "Focus Time",
+          "value": "0 Min",
+          "bar": 0.01
+        },
+        {
+          "label": "Bleach Used",
+          "value": "4 Liters",
+          "bar": 0.9
+        },
+        {
+          "label": "Guilt Level",
+          "value": "99%",
+          "bar": 0.99
+        }
+      ],
+      "character": "A ripe red strawberry head with tiny green leaf hair, wearing a stained oversized cotton hoodie and yellow rubber cleaning gloves; glowing digital display on the forehead.",
+      "visual": "Medium close-up of a strawberry-person in a cramped, messy apartment kitchen, aggressively scrubbing grout with an old toothbrush under sickly fluorescent light; a small golden coin rests on the counter edge.",
+      "scenes": [
+        "Wide shot of a tiny, cluttered studio apartment at night, overflowing with laundry piles and dirty mugs, illuminated by a pale blue laptop screen.",
+        "Close-up detail of the glowing red digital display on the strawberry's forehead reading '0 Min Focus', flickering nervously.",
+        "Medium shot in the narrow hallway where a coconut-person in a sharp suit looks down with a cold smirk.",
+        "Detail shot of a yellow rubber glove squeezing a yellow sponge dripping with soapy water into a bucket.",
+        "Wide shot of the apartment window showing the rainy neon-lit skyline of the fruit city.",
+        "Close-up of the strawberry's anxious face reflecting the glaring white light of the open refrigerator."
+      ],
+      "caption": "Have you ever cleaned your entire fridge just to avoid an email? Drop a comment! #procrastination #cleaninghacks #fruitlife #relatable #struggle"
+    },
+    {
+      "n": 2,
+      "open_loop": "What was written on the urgent memo slipped under the door?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Complains about the noise and threatens to call the landlord."
+      },
+      "name": "Orange Oliver, 26, Copywriter",
+      "badge": "12 Min Focus",
+      "verdict": "BARELY MOVING",
+      "story": "The 8 levels of procrastination cleaning. Level 2. Deine Miete ist weg, weil du lieber Paprika nach Farben sortierst! I'm Oliver, 26, staring at a blank document while my orange peel texture shrivels from anxiety. My neighbor banged on the wall, rattling my teacups. Deine Miete ist geplatzt, weil du den ganzen Morgen Paprika sortiert hast! I froze, holding a jar of cinnamon like a weapon. He didn't know I found something terrifying behind the spice jars. Your rent check bounced because you spent all morning washing walls! My heart dropped into my stomach. Was he spying on my bank account too? You'll see that in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+8 Min",
+        "after": "20 Min"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of procrastination cleaning. Level 2."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Deine Miete ist weg, weil du lieber Paprika nach Farben sortierst!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Oliver, 26, staring at a blank document while my orange peel texture shrivels from anxiety."
+        },
+        {
+          "s": "Figur",
+          "t": "My neighbor banged on the wall, rattling my teacups."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Deine Miete ist geplatzt, weil du den ganzen Morgen Paprika sortiert hast!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I froze, holding a jar of cinnamon like a weapon. He didn't know I found something terrifying behind the spice jars."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your rent check bounced because you spent all morning washing walls!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My heart dropped into my stomach. Was he spying on my bank account too?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Your rent check bounced because you spent all morning washing walls!",
+      "quote_by": {
+        "level": 5,
+        "name": "Eggplant neighbor",
+        "badge": "3,400 €",
+        "character": "A glossy purple eggplant person wearing a stiff tweed vest and holding a ledger.",
+        "scene": "Medium shot in a dimly lit hallway, aggressively banging a fist against a wooden apartment door."
+      },
+      "stats": [
+        {
+          "label": "Focus Time",
+          "value": "12 Min",
+          "bar": 0.12
+        },
+        {
+          "label": "Spices Sorted",
+          "value": "42 Jars",
+          "bar": 0.45
+        },
+        {
+          "label": "Guilt Level",
+          "value": "85%",
+          "bar": 0.85
+        }
+      ],
+      "character": "A bright orange citrus head with porous skin texture, wearing a faded plaid flannel shirt and a silver wristwatch; glowing digital display on the forehead.",
+      "visual": "Halbnah shot of an orange-person meticulously lining up glass spice jars on a wooden kitchen shelf in a sunlit apartment; a small golden coin is taped to the back of the sugar container.",
+      "scenes": [
+        "Wide shot of a sunlit, overly organized apartment kitchen where every single spice jar is arranged in a precise gradient.",
+        "Close-up detail of the glowing orange digital display showing '12 Min Focus'.",
+        "Medium shot of the orange-person gripping a cinnamon jar in shock while looking at the apartment wall.",
+        "Detail shot of a cracked beige coffee mug sitting on a messy desk next to an unopened laptop.",
+        "Wide shot of an apartment hallway with peeling wallpaper and flickering overhead fluorescent lights.",
+        "Close-up of the orange's citrus skin trembling under the bright kitchen spotlight."
+      ],
+      "caption": "Cleaning the spice rack when your thesis is due is a lifestyle. Tag a procrastinator! #procrastination #cleaning #worklife #humor #reality"
+    },
+    {
+      "n": 3,
+      "open_loop": "Who sent the mysterious package left outside the front gate?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Mocks her for spending three hours ironing bedsheets instead of filing tax returns."
+      },
+      "name": "Avocado Ava, 29, Designer",
+      "badge": "45 Min Focus",
+      "verdict": "GETTING DISTRACTED",
+      "story": "The 8 levels of procrastination cleaning. Level 3. Dein Kunde hat dich gerade gefeuert, weil du seit drei Stunden Socken bügelst statt die Vektoren zu liefern! I'm Ava, 29, and my green avocado skin is practically glowing with stress sweat. A sharp knock on the laundry room door interrupted my sock-folding frenzy. Dein Kunde hat dich gefeuert, während du Socken gebügelt hast. Unfassbar peinlich. I clenched a pair of striped wool socks, my face heating up. She had no idea I was avoiding a client presentation that could make or break my career. Your client just cancelled because you missed the noon deadline! Time froze around me. How did she know? You'll see that in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "+30 Min",
+        "after": "75 Min"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of procrastination cleaning. Level 3."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein Kunde hat dich gerade gefeuert, weil du seit drei Stunden Socken bügelst statt die Vektoren zu liefern!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Ava, 29, and my green avocado skin is practically glowing with stress sweat."
+        },
+        {
+          "s": "Figur",
+          "t": "A sharp knock on the laundry room door interrupted my sock-folding frenzy."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein Kunde hat dich gefeuert, während du Socken gebügelt hast. Unfassbar peinlich.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I clenched a pair of striped wool socks, my face heating up. She had no idea I was avoiding a client presentation that could make or break my career."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your client just cancelled because you missed the noon deadline!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Time froze around me. How did she know?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Your client just cancelled because you missed the noon deadline!",
+      "quote_by": {
+        "level": 7,
+        "name": "Dragonfruit diva",
+        "badge": "8,200 €",
+        "character": "A vibrant pink dragonfruit person with green spikes, wearing a sequin jacket and designer sunglasses.",
+        "scene": "Wide shot in a sunny hallway, leaning against the doorframe while sipping iced coffee and laughing."
+      },
+      "stats": [
+        {
+          "label": "Focus Time",
+          "value": "45 Min",
+          "bar": 0.45
+        },
+        {
+          "label": "Socks Folded",
+          "value": "64 Pairs",
+          "bar": 0.7
+        },
+        {
+          "label": "Guilt Level",
+          "value": "70%",
+          "bar": 0.7
+        }
+      ],
+      "character": "A smooth green avocado head with a dark pit outline on the cheek, wearing a minimalist black turtleneck and silver hoop earrings; glowing digital display on the forehead.",
+      "visual": "Halbnah shot of an avocado-person in a stylish, tidy laundry room folding clothes with extreme geometric precision; a small golden coin is hidden inside a laundry basket rim.",
+      "scenes": [
+        "Wide shot of a sunlit pastel-toned laundry room with humming washing machines and neat rows of folded towels.",
+        "Close-up detail of the glowing green digital display reading '45 Min Focus'.",
+        "Medium shot of the avocado holding a neatly rolled pair of socks while staring in shock at the doorway.",
+        "Detail shot of a sleek tablet screen showing unfinished design vectors and multiple overdue notifications.",
+        "Wide shot of an open-plan apartment balcony with green potted plants swaying in the afternoon breeze.",
+        "Close-up of the avocado's textured green skin reflecting the harsh flash of a notification light."
+      ],
+      "caption": "Is rolling socks a legitimate form of meditation? Let me know below. #procrastination #designlife #cleaning #avocado #relatable"
+    },
+    {
+      "n": 4,
+      "open_loop": "What secret document was hidden under the keyboard tray?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Interrupts his deep clean by complaining about the loud vacuum cleaner."
+      },
+      "name": "Lemon Leo, 31, Accountant",
+      "badge": "2.5 Hours",
+      "verdict": "MODERATE FOCUS",
+      "story": "The 8 levels of procrastination cleaning. Level 4. Dein Audit ist im Eimer, du putzt hier nur aus blanker Existenzangst deinen Ofen! I'm Leo, 31, and my sour yellow lemon skin is pinched into a permanent scowl. A tiny strawberry burst into my kitchen waving her cleaning sponge wildly. Dein Audit ist gescheitert, du putzt hier nur aus Panik vor dem Rauswurf! I stopped mid-scrub, my yellow jaw clenching in fury. She had no clue how much financial pressure was riding on my spotless kitchen. You're cleaning the oven because your audit failed miserably! The sponge slipped from my hand and splashed into the soapy water. Who leaked my audit results? You'll see that in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1 Hour",
+        "after": "3.5 Hours"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of procrastination cleaning. Level 4."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein Audit ist im Eimer, du putzt hier nur aus blanker Existenzangst deinen Ofen!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Leo, 31, and my sour yellow lemon skin is pinched into a permanent scowl."
+        },
+        {
+          "s": "Figur",
+          "t": "A tiny strawberry burst into my kitchen waving her cleaning sponge wildly."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein Audit ist gescheitert, du putzt hier nur aus Panik vor dem Rauswurf!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I stopped mid-scrub, my yellow jaw clenching in fury. She had no clue how much financial pressure was riding on my spotless kitchen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You're cleaning the oven because your audit failed miserably!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "The sponge slipped from my hand and splashed into the soapy water. Who leaked my audit results?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "You're cleaning the oven because your audit failed miserably!",
+      "quote_by": {
+        "level": 1,
+        "name": "Strawberry Sam",
+        "badge": "0 Min Focus",
+        "character": "A red strawberry person in a stained hoodie holding a wet sponge.",
+        "scene": "Medium shot in a cramped kitchen doorway, pointing angrily at a vacuum cleaner."
+      },
+      "stats": [
+        {
+          "label": "Focus Time",
+          "value": "2.5 Hours",
+          "bar": 0.55
+        },
+        {
+          "label": "Oven Shimmer",
+          "value": "100%",
+          "bar": 0.95
+        },
+        {
+          "label": "Guilt Level",
+          "value": "60%",
+          "bar": 0.6
+        }
+      ],
+      "character": "A bright yellow lemon head with dimpled citrus skin, wearing a crisp white button-down shirt with rolled-up sleeves; glowing digital display on the forehead.",
+      "visual": "Wide shot of a lemon-person wearing yellow rubber gloves, polishing the inside glass door of a gleaming oven in a modern apartment kitchen; a small golden coin sits on the stove hood.",
+      "scenes": [
+        "Wide shot of a brightly lit kitchen with stainless steel appliances reflecting the yellow neon city lights outside.",
+        "Close-up detail of the glowing yellow digital display reading '2.5 Hours'.",
+        "Medium shot of the lemon holding a soapy sponge, glaring at a tiny strawberry standing in the doorway.",
+        "Detail shot of a heavy metal oven rack gleaming under warm halogen lights.",
+        "Wide shot of an apartment building stairwell with concrete steps and metal handrails.",
+        "Close-up of the lemon's textured citrus skin glistening with drops of hot cleaning steam."
+      ],
+      "caption": "Nothing beats cleaning the kitchen oven at 2 AM when your taxes are due. #cleaning #lemon #procrastination #adulting #taxseason"
+    },
+    {
+      "n": 5,
+      "open_loop": "What was written on the bank statement found in the trash?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Knocks on the wall and yells about alphabetizing spices while rent is due."
+      },
+      "name": "Eggplant Eli, 35, Analyst",
+      "badge": "4 Hours Focus",
+      "verdict": "DEEP IN THE ZONE",
+      "story": "The 8 levels of procrastination cleaning. Level 5. Dein Konto ist gesperrt, du armes Würstchen putzt Fensterscheiben, weil du absolut pleite bist. I'm Eli, 35, and my glossy purple eggplant skin reflects the spreadsheet glow. A loud thumping noise rattled my living room window from the outside. Dein Konto ist gesperrt, du armes Würstchen putzt nur Fensterscheiben, weil du pleite bist. I dropped my squeegee, my purple face flushing with irritation. He had no right judging my pristine cleaning rituals while his own life was falling apart. Your bank account is locked because you spent all day buying window cleaner! My blood ran cold. How did he know about my finances? You'll see that in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+2 Hours",
+        "after": "6 Hours"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of procrastination cleaning. Level 5."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein Konto ist gesperrt, du armes Würstchen putzt Fensterscheiben, weil du absolut pleite bist.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Eli, 35, and my glossy purple eggplant skin reflects the spreadsheet glow."
+        },
+        {
+          "s": "Figur",
+          "t": "A loud thumping noise rattled my living room window from the outside."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein Konto ist gesperrt, du armes Würstchen putzt nur Fensterscheiben, weil du pleite bist.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I dropped my squeegee, my purple face flushing with irritation. He had no right judging my pristine cleaning rituals while his own life was falling apart."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your bank account is locked because you spent all day buying window cleaner!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My blood ran cold. How did he know about my finances?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Your bank account is locked because you spent all day buying window cleaner!",
+      "quote_by": {
+        "level": 2,
+        "name": "Orange Oliver",
+        "badge": "12 Min Focus",
+        "character": "An orange citrus person in a plaid shirt holding a spice jar.",
+        "scene": "Medium shot through a courtyard window, waving arms angrily and shouting."
+      },
+      "stats": [
+        {
+          "label": "Focus Time",
+          "value": "4 Hours",
+          "bar": 0.7
+        },
+        {
+          "label": "Windows Cleaned",
+          "value": "12 Panes",
+          "bar": 0.85
+        },
+        {
+          "label": "Guilt Level",
+          "value": "45%",
+          "bar": 0.45
+        }
+      ],
+      "character": "A deep purple eggplant head with a glossy smooth surface and green stem cap, wearing a tailored navy blue vest; glowing digital display on the forehead.",
+      "visual": "Wide shot of an eggplant-person wiping down a large floor-to-ceiling glass window overlooking a rainy city street with a rubber squeegee; a small golden coin rests on the windowsill.",
+      "scenes": [
+        "Wide shot of a spacious, modern loft apartment with soaring ceilings and massive glass windows reflecting city lights.",
+        "Close-up detail of the glowing purple digital display reading '4 Hours Focus'.",
+        "Medium shot of the eggplant holding a squeegee and glaring out the window toward the neighboring building.",
+        "Detail shot of a sparkling clean glass surface showing soapy water streaks catching the afternoon sun.",
+        "Wide shot of an urban courtyard surrounded by brick apartment blocks under an overcast sky.",
+        "Close-up of the eggplant's smooth purple skin reflecting the complex lines of an open financial spreadsheet on a monitor."
+      ],
+      "caption": "Window cleaning hits different when you have a spreadsheet due in an hour. #procrastination #cleaning #eggplant #corporate #relatable"
+    },
+    {
+      "n": 6,
+      "open_loop": "What was hidden inside the locked basement storage unit?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Mocks her meticulous laundry folding while walking past the open door."
+      },
+      "name": "Broccoli Bella, 27, Developer",
+      "badge": "6 Hours Focus",
+      "verdict": "HIGHLY PRODUCTIVE",
+      "story": "The 8 levels of procrastination cleaning. Level 6. Dein Code ist Schrott und deine Pull Requests wurden abgelehnt, du Putzteufel! I'm Bella, 27, and my green broccoli-floret hair is bristling with pure concentration. A sleek avocado neighbor strolled past my open office door with a condescending smile. Dein Code ist Schrott und deine Pull Requests wurden abgelehnt, du Putzteufel! I stopped my Q-tip mid-scrub, my green florets twitching with rage. She had no idea my codebase was cleaner than her entire life philosophy. Your lead developer just rejected your pull request because the build failed! My breath caught in my throat. How did she find out before my own team lead? You'll see that in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1.5 Hours",
+        "after": "7.5 Hours"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of procrastination cleaning. Level 6."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein Code ist Schrott und deine Pull Requests wurden abgelehnt, du Putzteufel!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Bella, 27, and my green broccoli-floret hair is bristling with pure concentration."
+        },
+        {
+          "s": "Figur",
+          "t": "A sleek avocado neighbor strolled past my open office door with a condescending smile."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein Code ist Schrott und deine Pull Requests wurden abgelehnt, du Putzteufel!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I stopped my Q-tip mid-scrub, my green florets twitching with rage. She had no idea my codebase was cleaner than her entire life philosophy."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your lead developer just rejected your pull request because the build failed!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My breath caught in my throat. How did she find out before my own team lead?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "Your lead developer just rejected your pull request because the build failed!",
+      "quote_by": {
+        "level": 3,
+        "name": "Avocado Ava",
+        "badge": "45 Min Focus",
+        "character": "An avocado person in a black turtleneck holding rolled laundry.",
+        "scene": "Medium shot in an office hallway, peering through a glass doorway with a smug grin."
+      },
+      "stats": [
+        {
+          "label": "Focus Time",
+          "value": "6 Hours",
+          "bar": 0.85
+        },
+        {
+          "label": "Keys Cleaned",
+          "value": "104 Keys",
+          "bar": 0.95
+        },
+        {
+          "label": "Guilt Level",
+          "value": "30%",
+          "bar": 0.3
+        }
+      ],
+      "character": "A dense green broccoli floret head with textured curly structure, wearing a nerdy grey hoodie and round wire-rimmed glasses; glowing digital display on the forehead.",
+      "visual": "Close-up shot of a broccoli-person meticulously cleaning mechanical keyboard switches with a cotton swab in a brightly lit tech workspace; a small golden coin is wedged under the spacebar.",
+      "scenes": [
+        "Wide shot of a modern open-plan tech startup office with triple-monitor setups and glowing RGB LED strips.",
+        "Close-up detail of the glowing green digital display reading '6 Hours Focus'.",
+        "Medium shot of the broccoli holding a Q-tip, staring angrily through a glass partition at a passing avocado.",
+        "Detail shot of a mechanical keyboard glowing in neon purple light with dust-free switches.",
+        "Wide shot of a long corporate corridor with polished concrete floors and glass conference rooms.",
+        "Close-up of the broccoli's textured green florets shivering slightly under the harsh LED desk lamp."
+      ],
+      "caption": "Deep cleaning the keyboard when your code won't compile is peak software engineering. #coding #broccoli #cleaning #techlife #relatable"
+    },
+    {
+      "n": 7,
+      "open_loop": "What was inside the safe behind the office bookshelf?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Yells about oven steam-cleaning while he is trying to manage client accounts."
+      },
+      "name": "Dragonfruit Dan, 40, Director",
+      "badge": "8 Hours Focus",
+      "verdict": "MASTER OF FLOW",
+      "story": "The 8 levels of procrastination cleaning. Level 7. Der Vorstand hat dich fristlos entlassen, weil du den Büroboden mopst statt Leads zu closen. I'm Dan, 40, and my vibrant pink dragonfruit skin radiates absolute authority. A sour yellow lemon burst into the executive suite waving a cleaning rag wildly. Der Vorstand hat dich fristlos entlassen, weil du den Büroboden mopst statt Leads zu closen. I paused, resting my mop against the marble wall while my green dragonfruit spikes bristled. He had no appreciation for the meditative art of pristine corporate hygiene. Your board of directors just fired you for spending all day mopping the floor! The mop crashed loudly against the marble tiles. Who authorized my termination? You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+2 Hours",
+        "after": "10 Hours"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of procrastination cleaning. Level 7."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Der Vorstand hat dich fristlos entlassen, weil du den Büroboden mopst statt Leads zu closen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Dan, 40, and my vibrant pink dragonfruit skin radiates absolute authority."
+        },
+        {
+          "s": "Figur",
+          "t": "A sour yellow lemon burst into the executive suite waving a cleaning rag wildly."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Der Vorstand hat dich fristlos entlassen, weil du den Büroboden mopst statt Leads zu closen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I paused, resting my mop against the marble wall while my green dragonfruit spikes bristled. He had no appreciation for the meditative art of pristine corporate hygiene."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your board of directors just fired you for spending all day mopping the floor!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "The mop crashed loudly against the marble tiles. Who authorized my termination?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "Your board of directors just fired you for spending all day mopping the floor!",
+      "quote_by": {
+        "level": 4,
+        "name": "Lemon Leo",
+        "badge": "2.5 Hours",
+        "character": "A yellow lemon person in a white button-down shirt holding a cleaning rag.",
+        "scene": "Medium shot in a luxury marble hallway, pointing down at a wet floor."
+      },
+      "stats": [
+        {
+          "label": "Focus Time",
+          "value": "8 Hours",
+          "bar": 0.95
+        },
+        {
+          "label": "Tiles Polished",
+          "value": "500 Tiles",
+          "bar": 0.98
+        },
+        {
+          "label": "Guilt Level",
+          "value": "10%",
+          "bar": 0.1
+        }
+      ],
+      "character": "A vibrant magenta dragonfruit head with green-tipped leaf scales, wearing a luxury charcoal business suit and silk red tie; glowing digital display on the forehead.",
+      "visual": "Wide shot of a dragonfruit-person in a sleek marble executive washroom, pushing a commercial mop across gleaming white tiles; a small golden coin rests on the sink counter.",
+      "scenes": [
+        "Wide shot of a luxury corporate penthouse washroom with black marble sinks and gold-plated fixtures.",
+        "Close-up detail of the glowing pink digital display reading '8 Hours Focus'.",
+        "Medium shot of the dragonfruit leaning on a mop handle while glaring at a lemon standing in the doorway.",
+        "Detail shot of sparkling marble tiles reflecting the warm overhead chandelier lights.",
+        "Wide shot of an expansive glass-walled boardroom overlooking the glowing financial district at dusk.",
+        "Close-up of the dragonfruit's textured magenta skin glistening with drops of clean water."
+      ],
+      "caption": "When you clean the executive washroom because your quarterly review is terrifying. #procrastination #dragonfruit #executive #cleaning #corporate"
+    },
+    {
+      "n": 8,
+      "open_loop": "What secret empire was built behind the ultimate clean slate?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Watches in awe as the ultimate cleaning master takes over the entire city."
+      },
+      "name": "Coconut Carl, 55, Tycoon",
+      "badge": "MAX FOCUS",
+      "verdict": "CHAMPION OF CLEAN",
+      "story": "The 8 levels of procrastination cleaning. Level 8. Ich habe das Gebäude gekauft, nicht um dich zu feuern, sondern weil du die einzige saubere Weste in diesem Laden hast. I'm Carl, 55, and my hard brown coconut shell has weathered every corporate storm this metropolis ever threw at me. A trembling strawberry intern stood before my grand mahogany desk, clutching her sponge like a shield. Ich habe das Gebäude gekauft, nicht um dich zu feuern, sondern weil du die einzige saubere Weste in diesem Laden hast. She gasped, realizing every single cleaning event across the city was connected to my master plan. Then I asked the ultimate question that tied every single story together: Who do you think bought the entire building just to make sure the baseboards were spotless? Where will you channel your cleaning obsession next?",
+      "gender": "m",
+      "twist": {
+        "delta": "LIMITLESS",
+        "after": "INFINITY"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of procrastination cleaning. Level 8."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Ich habe das Gebäude gekauft, nicht um dich zu feuern, sondern weil du die einzige saubere Weste in diesem Laden hast.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Carl, 55, and my hard brown coconut shell has weathered every corporate storm this metropolis ever threw at me."
+        },
+        {
+          "s": "Figur",
+          "t": "A trembling strawberry intern stood before my grand mahogany desk, clutching her sponge like a shield."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Ich habe das Gebäude gekauft, nicht um dich zu feuern, sondern weil du die einzige saubere Weste in diesem Laden hast.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "She gasped, realizing every single cleaning event across the city was connected to my master plan."
+        },
+        {
+          "s": "Figur",
+          "t": "Then I asked the ultimate question that tied every single story together: Who do you think bought the entire building just to make sure the baseboards were spotless?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Where will you channel your cleaning obsession next?"
+        }
+      ],
+      "quote": "Ich habe das Gebäude gekauft, nicht um dich zu feuern, sondern weil du die einzige saubere Weste in diesem Laden hast.",
+      "quote_by": {
+        "level": 1,
+        "name": "Strawberry Sam",
+        "badge": "0 Min Focus",
+        "character": "A strawberry person in a hoodie holding a sponge.",
+        "scene": "Wide shot in a massive penthouse office looking up in total disbelief."
+      },
+      "stats": [
+        {
+          "label": "Focus Time",
+          "value": "MAX",
+          "bar": 1.0
+        },
+        {
+          "label": "Empire Net",
+          "value": "$100M",
+          "bar": 1.0
+        },
+        {
+          "label": "Guilt Level",
+          "value": "0%",
+          "bar": 0.0
+        }
+      ],
+      "character": "A hard hairy brown coconut shell head with rough fibrous texture, wearing an elite bespoke silk suit and gold-rimmed glasses; glowing digital display on the forehead.",
+      "visual": "Wide shot of a coconut-person standing in a sprawling penthouse office with panoramic floor-to-ceiling windows overlooking the glowing skyline of the fruit city; a giant golden coin rests on his executive desk.",
+      "scenes": [
+        "Wide shot of a luxurious penthouse office at sunset with marble floors polished to a mirror finish reflecting the city lights.",
+        "Close-up detail of the glowing digital display on the coconut's forehead reading 'MAX FOCUS'.",
+        "Medium shot of the coconut tycoon sitting behind a massive mahogany desk, looking down calmly at a tiny strawberry.",
+        "Detail shot of a gleaming gold-plated vacuum cleaner standing proudly in the corner of the executive suite.",
+        "Wide shot of the entire fruit metropolis glittering under a vast neon sky, showing all connected locations from previous levels.",
+        "Close-up of the coconut's hard shell reflecting the bright city lights as a golden coin spins gently on the desk."
+      ],
+      "caption": "From zero focus to owning the whole city. What theme should we do next? #procrastination #coconut #boss #empire #ending"
+    }
+  ],
+  "lang": "en",
+  "topic": "Das Level des Kontrollverlusts beim Aufschieben wichtiger Aufgaben durch exzessives Putzen",
+  "frame": "frucht"
+}

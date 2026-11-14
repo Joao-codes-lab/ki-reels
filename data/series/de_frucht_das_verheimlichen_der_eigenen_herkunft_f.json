@@ -1,0 +1,731 @@
+{
+  "title": "Die 8 Level vom Verheimlichen",
+  "house": "A bustling German university city where fruit and vegetable people commute in crowded trams, study in neon-lit libraries, and hide their humble origins behind expensive facades.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Barista in Level 2 mentions the quiet man in the tailored suit who leaves massive tips.",
+    "Bus line 42 is where the discarded receipts of Level 3 are found by Level 7.",
+    "The golden coin is hidden near the campus vending machine in every single episode."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was lag in dem Brief mit dem roten Siegel, den der Professor ihr direkt vor der Vorlesung zusteckte?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Lacht sie wegen ihrer alten Jacke aus und behauptet, sie könne sich die Studiengebühren niemals leisten.",
+        "g": "m"
+      },
+      "name": "Mina, 19, Studentin",
+      "badge": "450 €",
+      "verdict": "ARMUT",
+      "story": "Die 8 Level vom Verheimlichen. Level 1. 2.000 Euro im Monat und alle nennen mich reich – während ich heimlich im Supermarkt abgelaufene Tomaten klaue. In der vollgestopften Berliner U-Bahn klammere ich mich an meinen winzigen Dispo-Auszug wie an ein Todesurteil im Angesicht der Hölle. Niemand soll erfahren, dass meine Eltern auf dem Feld schuften, bis ihre Hände bluten, während ich mir jeden Cent für die trockene Mensa vom Munde abspare. Willst du etwa schwarzfahren mit deinem Cent-Budget, faule Beere? Mein Herz rast panisch, meine Wangen glühen vor brennender Scham, und ich will einfach nur im Boden versinken. Genau vor dem arroganten Bösewicht da drüben leuchtet die jämmerliche Zahl 450 gnadenlos auf meiner Stirn auf, während er in Seide gehüllt ist. Was lag in dem Brief mit dem roten Siegel, den der Professor ihr direkt vor der Vorlesung zusteckte? Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "-450 €",
+        "after": "0 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Verheimlichen. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "2.000 Euro im Monat und alle nennen mich reich – während ich heimlich im Supermarkt abgelaufene Tomaten klaue."
+        },
+        {
+          "s": "Figur",
+          "t": "In der vollgestopften Berliner U-Bahn klammere ich mich an meinen winzigen Dispo-Auszug wie an ein Todesurteil im Angesicht der Hölle."
+        },
+        {
+          "s": "Figur",
+          "t": "Niemand soll erfahren, dass meine Eltern auf dem Feld schuften, bis ihre Hände bluten, während ich mir jeden Cent für die trockene Mensa vom Munde abspare."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Willst du etwa schwarzfahren mit deinem Cent-Budget, faule Beere?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Herz rast panisch, meine Wangen glühen vor brennender Scham, und ich will einfach nur im Boden versinken."
+        },
+        {
+          "s": "Figur",
+          "t": "Genau vor dem arroganten Bösewicht da drüben leuchtet die jämmerliche Zahl 450 gnadenlos auf meiner Stirn auf, während er in Seide gehüllt ist."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was lag in dem Brief mit dem roten Siegel, den der Professor ihr direkt vor der Vorlesung zusteckte?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Willst du etwa schwarzfahren mit deinem Cent-Budget, faule Beere?",
+      "quote_by": {
+        "level": 6,
+        "name": "Cedric",
+        "badge": "12.000 €",
+        "character": "A smug, arrogant plum person wearing a crisp designer suit, holding a golden fountain pen, glowing forehead LED showing a high monthly income.",
+        "scene": "Close-up in a crowded Berlin subway train, looking down with extreme contempt at a strawberry person."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "450 €",
+          "bar": 0.05
+        },
+        {
+          "label": "Miete",
+          "value": "400 €",
+          "bar": 0.8
+        },
+        {
+          "label": "Lüge",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "A fragile wild strawberry person with soft green sepal hair, wearing a worn-out thrift store oversized hoodie, holding a crumpled paper bag; glowing digital display on forehead.",
+      "visual": "Wide shot of a gloomy, neon-lit Berlin subway platform at night, crowded with fruit and vegetable commuters, a hidden golden coin on a bench.",
+      "scenes": [
+        "Wide shot of a crowded Berlin subway wagon at 7 AM, gloomy grey light, a hidden golden coin on the floor near a discarded coffee cup.",
+        "Medium close-up of the strawberry person sweating, staring at a banking app on a cracked smartphone screen.",
+        "Close-up of the glowing forehead display showing 450 € in bright red digital numbers.",
+        "Medium shot of the plum person in a tailored suit pointing mockingly at the student in the aisle.",
+        "Detail shot of a hidden golden coin resting on a campus vending machine edge.",
+        "Wide shot of the imposing university entrance hall with towering stone pillars and stressed students rushing past."
+      ],
+      "caption": "Wer seine Herkunft vergisst, verliert sich selbst. Welches Geheimnis hättest du zuerst vertuscht? #StirnZahl #Studentenleben #Berlin #Drama #Verheimlichen"
+    },
+    {
+      "n": 2,
+      "open_loop": "Wer hat den mysteriösen Umschlag mit den 500-Euro-Scheinen hinter dem Tresen deponiert?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Beschimpft sie als unfähige Anfängerin und droht mit fristloser Kündigung wegen eines verschütteten Kaffees.",
+        "g": "m"
+      },
+      "name": "Samia, 21, Barista",
+      "badge": "900 €",
+      "verdict": "KNAPP",
+      "story": "Die 8 Level vom Verheimlichen. Level 2. 900 Euro Ausbildungsvergütung und dieser arrogante Schnösel wirft mir den Kaffee ins Gesicht. Zwischen dampfenden Siebträgermaschinen poliere ich Gläser, bis meine Hände bluten und aufreißen, während ich im Kopf verzweifelt die Raten für meinen geborgten Markenmantel durchrechne. Solchen billigen Orangensaft wie dich sollte man gar nicht erst bedienen. Meine Kollegin schweigt feige, und ich schlucke die bitteren Tränen hinunter, um meinen letzten Job nicht zu verlieren. Die Zahl auf meiner Stirn brennt wie brennendes Feuer, während ich gezwungen bin, höflich zu lächeln und danke zu sagen. Diese tiefe emotionale Fallhöhe zerbricht mich jeden Tag aufs Neue von innen heraus. Wer hat den mysteriösen Umschlag mit den 500-Euro-Scheinen hinter dem Tresen deponiert? Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+500 €",
+        "after": "1.400 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Verheimlichen. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "900 Euro Ausbildungsvergütung und dieser arrogante Schnösel wirft mir den Kaffee ins Gesicht."
+        },
+        {
+          "s": "Figur",
+          "t": "Zwischen dampfenden Siebträgermaschinen poliere ich Gläser, bis meine Hände bluten und aufreißen, während ich im Kopf verzweifelt die Raten für meinen geborgten Markenmantel durchrechne."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Solchen billigen Orangensaft wie dich sollte man gar nicht erst bedienen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Kollegin schweigt feige, und ich schlucke die bitteren Tränen hinunter, um meinen letzten Job nicht zu verlieren."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl auf meiner Stirn brennt wie brennendes Feuer, während ich gezwungen bin, höflich zu lächeln und danke zu sagen."
+        },
+        {
+          "s": "Figur",
+          "t": "Diese tiefe emotionale Fallhöhe zerbricht mich jeden Tag aufs Neue von innen heraus."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hat den mysteriösen Umschlag mit den 500-Euro-Scheinen hinter dem Tresen deponiert?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Solchen billigen Orangensaft wie dich sollte man gar nicht erst bedienen.",
+      "quote_by": {
+        "level": 5,
+        "name": "Moritz",
+        "badge": "6.500 €",
+        "character": "A sleek, citrus-lemon person in a sharp trench coat with slicked leaves and an ice-cold smirk.",
+        "scene": "Medium shot in a bustling hipster café, pointing aggressively at the counter."
+      },
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "900 €",
+          "bar": 0.15
+        },
+        {
+          "label": "Trinkgeld",
+          "value": "12 €",
+          "bar": 0.05
+        },
+        {
+          "label": "Stress",
+          "value": "95%",
+          "bar": 0.95
+        }
+      ],
+      "character": "A bright orange person with textured skin peel, wearing a stained barista apron over a fake designer shirt; glowing forehead LED.",
+      "visual": "Medium shot inside a warm, steam-filled artisanal café with golden pendant lights, a hidden golden coin resting near the sugar shaker.",
+      "scenes": [
+        "Medium shot inside a cozy artisan café with warm yellow lighting, a hidden golden coin near the sugar container.",
+        "Close-up of the orange person's hands nervously wiping down a stainless steel espresso machine.",
+        "Wide shot showing angry customers waiting in line while the lemon person gestures aggressively.",
+        "Detail shot of the digital forehead display glowing with 900 €.",
+        "Close-up of a mysterious white envelope lying beside a ceramic coffee cup.",
+        "Wide shot of the rainy Berlin street outside the café window at twilight."
+      ],
+      "caption": "Der Schein trügt fast immer. Würdest du für den Status lügen? #StirnZahl #BaristaLife #Berlin #CaféDrama #Verheimlichen"
+    },
+    {
+      "n": 3,
+      "open_loop": "Was stand in dem Kündigungsschreiben, das der Chef gerade auf seinen Schreibtisch knallte?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Kürzt seine Überstunden heimlich und lacht über seine billige Busfahrkarte.",
+        "g": "m"
+      },
+      "name": "Jonas, 24, Sachbearbeiter",
+      "badge": "1.850 €",
+      "verdict": "MITTEL",
+      "story": "Die 8 Level vom Verheimlichen. Level 3. 1.850 Euro und ein geleaster BMW – während mein Kontoführer mich öffentlich als Versager abstempelt. In der miefigen Großraumbüro-Hölle tippe ich stumpf Excel-Tabellen, während mein echter Kontostand nach Abzug der Leasingrate auf absolut null schrumpft und mich innerlich zerreißt. Mit diesem Azubi-Gehalt wirst du dir nie einen echten Platz am Tisch verdienen, kleiner Brokkoli. Meine Gesichtsfarbe wechselt von grün zu dunkelrot vor blankem Hass, doch ich presse die Zähne aufeinander, bis sie schmerzen. Niemand ahnt den Betrug, während ich jeden Abend im kalten Auto schlafe, weil die Miete längst unbezahlbar wurde und meine Stirnzahl mich verrät. Was stand in dem Kündigungsschreiben, das der Chef gerade auf seinen Schreibtisch knallte? Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-1.850 €",
+        "after": "0 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Verheimlichen. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "1.850 Euro und ein geleaster BMW – während mein Kontoführer mich öffentlich als Versager abstempelt."
+        },
+        {
+          "s": "Figur",
+          "t": "In der miefigen Großraumbüro-Hölle tippe ich stumpf Excel-Tabellen, während mein echter Kontostand nach Abzug der Leasingrate auf absolut null schrumpft und mich innerlich zerreißt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit diesem Azubi-Gehalt wirst du dir nie einen echten Platz am Tisch verdienen, kleiner Brokkoli.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Gesichtsfarbe wechselt von grün zu dunkelrot vor blankem Hass, doch ich presse die Zähne aufeinander, bis sie schmerzen."
+        },
+        {
+          "s": "Figur",
+          "t": "Niemand ahnt den Betrug, während ich jeden Abend im kalten Auto schlafe, weil die Miete längst unbezahlbar wurde und meine Stirnzahl mich verrät."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was stand in dem Kündigungsschreiben, das der Chef gerade auf seinen Schreibtisch knallte?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Mit diesem Azubi-Gehalt wirst du dir nie einen echten Platz am Tisch verdienen, kleiner Brokkoli.",
+      "quote_by": {
+        "level": 7,
+        "name": "Viktor",
+        "badge": "8.400 €",
+        "character": "A polished coconut person with a hard, smooth brown shell head, wearing an expensive silk tie and holding a gold-plated tablet.",
+        "scene": "Wide shot in a sleek corporate open-plan office, leaning over a cubicle wall with a condescending grin."
+      },
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "1.850 €",
+          "bar": 0.3
+        },
+        {
+          "label": "Leasing",
+          "value": "580 €",
+          "bar": 0.7
+        },
+        {
+          "label": "Schulden",
+          "value": "4.200 €",
+          "bar": 0.85
+        }
+      ],
+      "character": "A dark green broccoli person with tightly clustered floret hair, wearing a slightly frayed polyester suit jacket and a tired expression; glowing forehead LED.",
+      "visual": "Wide shot of a sterile, neon-lit corporate open-plan office with endless gray cubicles, a hidden golden coin under a water dispenser.",
+      "scenes": [
+        "Wide shot of a sterile corporate open-plan office with endless gray cubicles, a hidden golden coin under the water cooler base.",
+        "Close-up of the broccoli person staring blankly at glowing spreadsheets on a dual-monitor setup.",
+        "Medium shot of the coconut person in a silk tie pointing mockingly at the desk.",
+        "Detail shot of the digital forehead display reading 1.850 €.",
+        "Close-up of an official letter with red corporate stamp being tossed onto the desk.",
+        "Wide shot of a damp corporate parking garage at night, illuminated by flickering fluorescent lights."
+      ],
+      "caption": "Der Schein trügt, aber die Leasingrate bleibt. Wie weit würdest du für den Status gehen? #StirnZahl #BüroLife #Karriere #Wahrheit #Verheimlichen"
+    },
+    {
+      "n": 4,
+      "open_loop": "Welches dunkle Geheimnis über ihre Herkunft barg die Akte im schwarzen Aktenkoffer?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Klopft an die Tür und bettelt um Job-Empfehlungen, während sie ihn früher verachtet hat.",
+        "g": "w"
+      },
+      "name": "Elena, 28, Unternehmensberaterin",
+      "badge": "3.400 €",
+      "verdict": "SOLIDE",
+      "story": "Die 8 Level vom Verheimlichen. Level 4. 3.400 Euro Netto und im Büro lacht man mich aus, weil ich einst die Treppen putzte, während heute meine Kreditkarte glüht. Im kalten Glaspalast präsentiere ich fehlerfreie Quartalszahlen, während psychologischer Druck und die Angst vor Enttarnung meine Avocadoseele zerquetschen. Sag mal, Elena, putzt du hier etwa noch die Toiletten für uns Reiche? Mein Atem stockt beim Anblick der bekannten Erdbeerfigur von damals, die mich nun verachtet. Die Last der vorherigen Level drückt schwer auf meinen Schultern, während ich versuche, Fassung zu wahren. Welches dunkle Geheimnis über ihre Herkunft barg die Akte im schwarzen Aktenkoffer? Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "-600 €",
+        "after": "2.800 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Verheimlichen. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "3.400 Euro Netto und im Büro lacht man mich aus, weil ich einst die Treppen putzte, während heute meine Kreditkarte glüht."
+        },
+        {
+          "s": "Figur",
+          "t": "Im kalten Glaspalast präsentiere ich fehlerfreie Quartalszahlen, während psychologischer Druck und die Angst vor Enttarnung meine Avocadoseele zerquetschen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sag mal, Elena, putzt du hier etwa noch die Toiletten für uns Reiche?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Atem stockt beim Anblick der bekannten Erdbeerfigur von damals, die mich nun verachtet."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Last der vorherigen Level drückt schwer auf meinen Schultern, während ich versuche, Fassung zu wahren."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches dunkle Geheimnis über ihre Herkunft barg die Akte im schwarzen Aktenkoffer?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Sag mal, Elena, putzt du hier etwa noch die Toiletten für uns Reiche?",
+      "quote_by": {
+        "level": 1,
+        "name": "Mina",
+        "badge": "450 €",
+        "character": "A fragile wild strawberry person with worn-out clothes, holding cleaning supplies and looking bitter.",
+        "scene": "Medium shot inside a shiny corporate boardroom, pointing finger accusingly."
+      },
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "3.400 €",
+          "bar": 0.5
+        },
+        {
+          "label": "Kredit",
+          "value": "1.200 €",
+          "bar": 0.6
+        },
+        {
+          "label": "Druck",
+          "value": "90%",
+          "bar": 0.9
+        }
+      ],
+      "character": "An avocado person with smooth green skin and a large stone-like posture, wearing a sharp designer pantsuit with a slightly frayed collar; glowing forehead LED.",
+      "visual": "Wide shot of a luxurious high-rise boardroom overlooking Frankfurt skyline at dusk, a hidden golden coin on the mahogany windowsill.",
+      "scenes": [
+        "Wide shot of a luxury high-rise boardroom overlooking Frankfurt skyline at dusk, a hidden golden coin on the mahogany window sill.",
+        "Close-up of the avocado person adjusting her blazer cuffs with trembling fingers.",
+        "Medium shot of the strawberry person standing in the doorway holding a bucket and mop.",
+        "Detail shot of the digital forehead display showing 3.400 €.",
+        "Close-up of a thick black leather folder stamped with confidential notices.",
+        "Wide shot of a dimly lit underground parking garage with luxury sports cars lined up."
+      ],
+      "caption": "Die Vergangenheit holt dich immer ein. Würdest du deine Wurzeln für den Erfolg verleugnen? #StirnZahl #Karriere #Frankfurt #Drama #Verheimlichen"
+    },
+    {
+      "n": 5,
+      "open_loop": "Was stand in der SMS von der Bank, die sein gesamtes Finanzimperium in Sekunden vernichtete?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Kratzt heimlich den Lack von seinem teuren Sportwagen, weil er auf seinen Reichtum neidisch ist.",
+        "g": "m"
+      },
+      "name": "Moritz, 32, Immobilienmakler",
+      "badge": "6.500 €",
+      "verdict": "OBEREN",
+      "story": "Die 8 Level vom Verheimlichen. Level 5. 6.500 Euro im Monat und meine eigene Zwangsversteigerung wird zum Stadtgespräch in den feinsten Kreisen. In der schicken Champagnerbar zeige ich stolz meine glänzende Stirnzahl, während absoluter Kontrollverlust und pure Verzweiflung an meiner Zwiebelhaut nagen. Für eine Handvoll Provision verkaufst du doch deine eigene Mutter, du falsche Zitrone. Kompromisslose Härte trifft mich unvorbereitet, als er mein schmutziges Geheimnis vor allen Gästen lauthals offenbart. Mein kalter Schweiß bricht aus und die Demütigung ist vollkommen. Was stand in der SMS von der Bank, die sein gesamtes Finanzimperium in Sekunden vernichtete? Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "-5.500 €",
+        "after": "1.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Verheimlichen. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "6.500 Euro im Monat und meine eigene Zwangsversteigerung wird zum Stadtgespräch in den feinsten Kreisen."
+        },
+        {
+          "s": "Figur",
+          "t": "In der schicken Champagnerbar zeige ich stolz meine glänzende Stirnzahl, während absoluter Kontrollverlust und pure Verzweiflung an meiner Zwiebelhaut nagen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Für eine Handvoll Provision verkaufst du doch deine eigene Mutter, du falsche Zitrone.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Kompromisslose Härte trifft mich unvorbereitet, als er mein schmutziges Geheimnis vor allen Gästen lauthals offenbart."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein kalter Schweiß bricht aus und die Demütigung ist vollkommen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was stand in der SMS von der Bank, die sein gesamtes Finanzimperium in Sekunden vernichtete?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Für eine Handvoll Provision verkaufst du doch deine eigene Mutter, du falsche Zitrone.",
+      "quote_by": {
+        "level": 3,
+        "name": "Jonas",
+        "badge": "1.850 €",
+        "character": "A tired broccoli person in a cheap polyester suit holding a bottle of cheap beer.",
+        "scene": "Medium close-up in a luxury champagne bar, leaning over a marble table with a mocking sneer."
+      },
+      "stats": [
+        {
+          "label": "Provision",
+          "value": "6.500 €",
+          "bar": 0.7
+        },
+        {
+          "label": "Schulden",
+          "value": "85.000 €",
+          "bar": 0.95
+        },
+        {
+          "label": "Fassade",
+          "value": "99%",
+          "bar": 0.99
+        }
+      ],
+      "character": "A sharp yellow lemon person with textured peel skin, wearing a high-end designer trench coat and expensive sunglasses pushed back on his head; glowing forehead LED.",
+      "visual": "Wide shot of a luxurious neon-lit rooftop bar in Munich at night, a hidden golden coin resting inside an empty champagne flute.",
+      "scenes": [
+        "Wide shot of a luxury rooftop cocktail bar in Munich at night, a hidden golden coin inside an empty champagne flute.",
+        "Close-up of the lemon person nervously swirling amber liquid in a crystal glass.",
+        "Medium shot of the broccoli person pointing an accusing finger across a marble table.",
+        "Detail shot of the digital forehead display showing 6.500 €.",
+        "Close-up of a smartphone screen flashing a red bank warning notification.",
+        "Wide shot of a sleek sports car parked illegally on a wet downtown boulevard."
+      ],
+      "caption": "Wer hoch steigt, fällt tief. Wie lange hält deine Fassade? #StirnZahl #Luxus #München #MaklerLife #Verheimlichen"
+    },
+    {
+      "n": 6,
+      "open_loop": "Wer hat das Video veröffentlicht, das seine gesamte Millionärskarriere über Nacht zerstörte?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Weigert sich, ihm den morgendlichen Kaffee zu servieren, und beschimpft ihn als Hochstapler.",
+        "g": "w"
+      },
+      "name": "Cedric, 35, Investmentbanker",
+      "badge": "12.000 €",
+      "verdict": "REICH",
+      "story": "Die 8 Level vom Verheimlichen. Level 6. 12.000 Euro im Monat, aber mein Vater schuftet immer noch auf dem Schrottplatz im Dreck. Die schmerzhafte Diskrepanz zwischen meinem glänzenden Penthouse-Schein und der dreckigen Wirklichkeit meiner Familie zerreißt mich jeden Tag aufs Neue. Solchen arroganten Pflaumen wie dir sollte man das Handwerk legen. Mein Atem stockt, die kalte Wut kocht in mir hoch, und die Maskerade droht im hellen Licht des Tages zu zerbrechen. Niemand darf erfahren, dass ich aus ärmlichsten Verhältnissen stamme und meine Stirnzahl nur eine erkaufte Lüge ist. Wer hat das Video veröffentlicht, das seine gesamte Millionärskarriere über Nacht zerstörte? Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "-10.000 €",
+        "after": "2.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Verheimlichen. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "12.000 Euro im Monat, aber mein Vater schuftet immer noch auf dem Schrottplatz im Dreck."
+        },
+        {
+          "s": "Figur",
+          "t": "Die schmerzhafte Diskrepanz zwischen meinem glänzenden Penthouse-Schein und der dreckigen Wirklichkeit meiner Familie zerreißt mich jeden Tag aufs Neue."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Solchen arroganten Pflaumen wie dir sollte man das Handwerk legen.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Atem stockt, die kalte Wut kocht in mir hoch, und die Maskerade droht im hellen Licht des Tages zu zerbrechen."
+        },
+        {
+          "s": "Figur",
+          "t": "Niemand darf erfahren, dass ich aus ärmlichsten Verhältnissen stamme und meine Stirnzahl nur eine erkaufte Lüge ist."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hat das Video veröffentlicht, das seine gesamte Millionärskarriere über Nacht zerstörte?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Solchen arroganten Pflaumen wie dir sollte man das Handwerk legen.",
+      "quote_by": {
+        "level": 2,
+        "name": "Samia",
+        "badge": "900 €",
+        "character": "An orange person in a stained barista apron with an angry expression.",
+        "scene": "Close-up in a high-end penthouse lounge, holding a coffee jug with trembling hands."
+      },
+      "stats": [
+        {
+          "label": "Bonus",
+          "value": "12.000 €",
+          "bar": 0.85
+        },
+        {
+          "label": "Aktien",
+          "value": "240.000 €",
+          "bar": 0.9
+        },
+        {
+          "label": "Geheimnis",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "A deep purple plum person with smooth, velvety skin, wearing a handmade Italian wool suit and gold cufflinks; glowing forehead LED.",
+      "visual": "Wide shot of a stunning glass-walled penthouse terrace in Frankfurt at sunset, a hidden golden coin on the railing ledge.",
+      "scenes": [
+        "Wide shot of a stunning glass-walled penthouse terrace in Frankfurt at sunset, a hidden golden coin on the railing ledge.",
+        "Close-up of the plum person swirling vintage red wine in a crystal goblet.",
+        "Medium shot of the orange barista standing defiantly with a coffee stain on the floor.",
+        "Detail shot of the digital forehead display showing 12.000 €.",
+        "Close-up of a tablet screen playing a grainy video file with exposed records.",
+        "Wide shot of a bustling financial district street viewed from hundreds of meters above."
+      ],
+      "caption": "Die Vergangenheit lässt sich nicht kaufen. Würdest du dein wahres Gesicht zeigen? #StirnZahl #BankerLife #Frankfurt #Reichtum #Verheimlichen"
+    },
+    {
+      "n": 7,
+      "open_loop": "Was stand in dem goldenen Testament, das der Notar feierlich aus dem Koffer zog?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Versucht, seine Geschäftskontakte zu sabotieren, weil sie neidisch auf sein Erbe ist.",
+        "g": "w"
+      },
+      "name": "Viktor, 41, Stiftungsrat",
+      "badge": "8.400 €",
+      "verdict": "ELITE",
+      "story": "Die 8 Level vom Verheimlichen. Level 7. 8.400 Euro aus dem Treuhandfonds und ich verleugne die Armut meiner Kindheit in jeder Sekunde. Innere Zerrissenheit und panische Angst vor dem Entdecken meiner wahren Herkunft lassen mich in meiner herrschaftlichen Villa keine Ruhe finden. Du hast deine eigenen Wurzeln verraten, um dazuzugehören, du harte Kokosnuss. Mein Herz hämmert unaufhörlich gegen meine Brust, während ich versuche, meine Fassade aus purem Stolz aufrechtzuerhalten. Jeder Blick in den Spiegel erinnert mich an den Verrat an meiner Familie und das Risiko des totalen Ruins. Was stand in dem goldenen Testament, das der Notar feierlich aus dem Koffer zog? Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+5.000 €",
+        "after": "13.400 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Verheimlichen. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "8.400 Euro aus dem Treuhandfonds und ich verleugne die Armut meiner Kindheit in jeder Sekunde."
+        },
+        {
+          "s": "Figur",
+          "t": "Innere Zerrissenheit und panische Angst vor dem Entdecken meiner wahren Herkunft lassen mich in meiner herrschaftlichen Villa keine Ruhe finden."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast deine eigenen Wurzeln verraten, um dazuzugehören, du harte Kokosnuss.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Herz hämmert unaufhörlich gegen meine Brust, während ich versuche, meine Fassade aus purem Stolz aufrechtzuerhalten."
+        },
+        {
+          "s": "Figur",
+          "t": "Jeder Blick in den Spiegel erinnert mich an den Verrat an meiner Familie und das Risiko des totalen Ruins."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was stand in dem goldenen Testament, das der Notar feierlich aus dem Koffer zog?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Du hast deine eigenen Wurzeln verraten, um dazuzugehören, du harte Kokosnuss.",
+      "quote_by": {
+        "level": 4,
+        "name": "Elena",
+        "badge": "3.400 €",
+        "character": "An avocado person in a sharp business suit with an analytical gaze.",
+        "scene": "Medium shot in a grand historic library, pointing a finger at a desk."
+      },
+      "stats": [
+        {
+          "label": "Fonds",
+          "value": "8.400 €",
+          "bar": 0.8
+        },
+        {
+          "label": "Villen",
+          "value": "3 Stk.",
+          "bar": 0.9
+        },
+        {
+          "label": "Erbe",
+          "value": "1,2 Mio",
+          "bar": 0.95
+        }
+      ],
+      "character": "A brown coconut person with a hard, fibrous textured shell head, wearing a bespoke tweed jacket with leather elbow patches; glowing forehead LED.",
+      "visual": "Wide shot of a grand historic private library with leather-bound books and mahogany shelves, a hidden golden coin on a globe stand.",
+      "scenes": [
+        "Wide shot of a grand historic private library with leather-bound books and mahogany shelves, a hidden golden coin on a globe stand.",
+        "Close-up of the coconut person adjusting antique gold-rimmed reading glasses.",
+        "Medium shot of the avocado person standing by the fireplace with folded arms.",
+        "Detail shot of the digital forehead display showing 8.400 €.",
+        "Close-up of a velvet-lined briefcase being unlatched by gloved hands.",
+        "Wide shot of a massive iron estate gate surrounded by autumn oak trees."
+      ],
+      "caption": "Wer das Erbe verleugnet, verliert den Frieden. Was würdest du für die Familie opfern? #StirnZahl #Erbe #Villa #Wahrheit #Verheimlichen"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welche überraschende Wahrheit enthüllte die Stirn-Zahl am Ende für alle Menschen in der Stadt?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Bittet ihn auf Knien um Vergebung, nachdem sein gesamtes Imperium zusammengebrochen ist.",
+        "g": "m"
+      },
+      "name": "Drago, 50, Patriarch",
+      "badge": "MAX",
+      "verdict": "UNENDLICH",
+      "story": "Die 8 Level vom Verheimlichen. Level 8. Die unendliche Zahl auf meiner Stirn und alle hassen mich für die Lüge, die ich über Jahr hinweg aufgebaut habe. In der riesigen Marmorhalle blicke ich mit maximaler Genugtuung auf all die Figuren herab, die nun für ihre Arroganz bezahlen. Du hast uns alle manipuliert, du Drachenfrucht. Alle Handlungsstränge konvergieren hier und jetzt in einem perfekten Moment der absoluten Rache und Gerechtigkeit. Meine Schuppenhaut brennt, während das Versteckspiel aller Beteiligten endgültig vor den Kameras kollabiert. Welche überraschende Wahrheit enthüllte die Stirn-Zahl am Ende für alle Menschen in der Stadt?",
+      "gender": "m",
+      "twist": {
+        "delta": "0",
+        "after": "MAX"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Verheimlichen. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Die unendliche Zahl auf meiner Stirn und alle hassen mich für die Lüge, die ich über Jahr hinweg aufgebaut habe."
+        },
+        {
+          "s": "Figur",
+          "t": "In der riesigen Marmorhalle blicke ich mit maximaler Genugtuung auf all die Figuren herab, die nun für ihre Arroganz bezahlen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast uns alle manipuliert, du Drachenfrucht.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Alle Handlungsstränge konvergieren hier und jetzt in einem perfekten Moment der absoluten Rache und Gerechtigkeit."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Schuppenhaut brennt, während das Versteckspiel aller Beteiligten endgültig vor den Kameras kollabiert."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welche überraschende Wahrheit enthüllte die Stirn-Zahl am Ende für alle Menschen in der Stadt?"
+        }
+      ],
+      "quote": "Du hast uns alle manipuliert, du Drachenfrucht.",
+      "quote_by": {
+        "level": 6,
+        "name": "Cedric",
+        "badge": "2.000 €",
+        "character": "A ruined plum person in a stained designer suit, kneeling in despair.",
+        "scene": "Wide shot in a grand marble assembly hall, reaching out with desperate hands."
+      },
+      "stats": [
+        {
+          "label": "Status",
+          "value": "MAX",
+          "bar": 1.0
+        },
+        {
+          "label": "Macht",
+          "value": "Unendlich",
+          "bar": 1.0
+        },
+        {
+          "label": "Wahrheit",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "An exotic pink and green dragon fruit person with vibrant magenta scales and green leaf-like spikes, wearing a regal velvet robe; glowing forehead LED showing MAX.",
+      "visual": "Wide shot of a majestic neoclassical assembly hall with towering marble pillars and glowing golden chandeliers, a hidden golden coin on the central podium.",
+      "scenes": [
+        "Wide shot of a majestic neoclassical assembly hall with towering marble pillars and glowing chandeliers, a hidden golden coin on the central podium.",
+        "Close-up of the dragon fruit person with vibrant magenta scales staring calmly ahead.",
+        "Medium shot of the ruined plum person kneeling on the marble floor in despair.",
+        "Detail shot of the digital forehead display glowing brightly with the word MAX.",
+        "Close-up of hundreds of fruit and vegetable citizens watching in absolute silence.",
+        "Wide shot of the entire city skyline at sunrise as all forehead displays flicker simultaneously."
+      ],
+      "caption": "Die Zahl lügt nie, aber sie zeigt nicht die ganze Wahrheit. Welches Thema sollen wir als Nächstes zeigen? #StirnZahl #Finale #Wahrheit #Drama #Verheimlichen"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das Verheimlichen der eigenen Herkunft für den akademischen Status",
+  "frame": "frucht"
+}
