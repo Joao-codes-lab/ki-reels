@@ -2,7 +2,7 @@
 
 - URL: https://www.instagram.com/p/DfuZvI6Iok_/
 - Dauer: 73.5 s, Sprache: de
-- Likes: 741, Kommentare: 57, Views: 37560
+- Likes: 1012, Kommentare: 73, Views: 55811
 - Datum: 2026-11-14T14:21:55.000Z
 
 ## Beschreibung
@@ -43,33 +43,33 @@
 
 ## Analyse (Gemini sieht und hört das Video)
 
-Hier ist die kurze, stichpunktartige Analyse des Reels:
+Hier ist die Kurzanalyse des Reels, aufgeteilt nach deinen Punkten:
 
 1. **Hook (erste 3 Sekunden):**
-   * **Bild:** Nahaufnahme einer emotionalen Szene (blaue Frau weint an der Schulter eines vermeintlich sterbenden, versteinerten Prinzen).
-   * **Ton:** Ruhige, getragene Stimme ("Rosa, meine Augen...").
-   * **Warum man hängen bleibt:** Sofortige emotionale Betroffenheit, visuell hochwertiger Pixar-/Disney-Animationsstil (KI-generiert), der Neugier auf die Tragödie weckt.
+   * **Bild:** Nahaufnahme einer blauen, weinenden Frau in einem Schloss, die einen versteinerten/verfluchten Mann im Arm hält.
+   * **Ton:** Emotionale Musik, Flüstern ("Rosa, meine Augen...").
+   * **Warum man hängen bleibt:** Sofort hohes Drama, unkonventionelle Fantasy-Figuren (blaue Haut, versteinertes Gesicht) und ein starkes emotionales Dilemma.
 
 2. **Storyline:**
-   * **Aufbau:** Tragischer Beginn $\rightarrow$ Rückblick/Erklärung durch ein Kind mit Zauberbuch ("Der Fluch bricht nur durch freiwillige Liebe") $\rightarrow$ Intrige/Widerstand durch Verwandte $\rightarrow$ Wendepunkt/Erlösung durch Vergebung $\rightarrow$ Happy End mit Heiratsantrag.
-   * **Spannungsbogen:** Dramatischer Tiefpunkt $\rightarrow$ Hoffnungsschimmer $\rightarrow$ Konfrontation $\rightarrow$ emotionale Auflösung.
-   * **Offene Schleifen:** Hält den Zuschauer durch die Frage gefangen, ob der Fluch gebrochen werden kann und wer die Bösen sind.
-   * **Ende/Call-to-Action:** Romantischer Antrag ("Willst du meine Königin werden?"), direkter Cliffhanger am Ende ("Es gibt einen zweiten Fluch"), der zu Teil 2 lockt.
+   * **Aufbau:** Klassische Märchen-Prämisse (Fluch, der nur durch wahre Liebe bricht).
+   * **Spannungsbogen:** Antagonisten (Verwandte) wollen die Krone, während der Fluch den Helden zu töten droht. Der Fluch bricht überraschend durch Aufopferung/Liebe.
+   * **Offene Schleifen:** Konflikt mit dem Bruder/Vater löst sich in emotionaler Versöhnung.
+   * **Ende/Call-to-Action:** Heiratsantrag an die Putzfrau + Cliffhanger im Buch ("Zweiter Fluch"). Kein direkter CTA, aber starker Sog für Teil 2.
 
 3. **Ton und Stimme:**
-   * **Stimme:** Mehrere Sprecher (Männer/Frauen, emotionale, dramatische Synchronstimmen, vermutlich KI-optimiert/gepimpt), normales bis leicht getragenes Erzähltempo.
-   * **Musik:** Epische, emotionale Orchestermusik, passend zum Disney-Stil.
-   * **Soundeffekte:** Keine dominanten SFX, Fokus liegt voll auf Stimme und Musik.
+   * **Stimme:** Mehrere Sprecher (Männer und Frauen, vermutlich KI-generiert), gleichbleibend ruhiges, aber emotionales Tempo.
+   * **Musik:** Epische, melancholische, leicht orchestrale Fantasy-Musik, die das Drama verstärkt.
+   * **Soundeffekte:** Dezent (Magie-Glitzern, Schritte, Umblättern).
 
 4. **Design:**
-   * **Bildstil:** Hochwertiger 3D-Animationsstil (im Look von modernen Disney-/Pixar-Filmen).
-   * **Farben:** Kontrastreich – düstere, magische Paletten mit warmen Lichtakzenten.
-   * **Schriften & Untertitel:** Große, fette, gut lesbare weiße Serifen-/Blockschriften mit schwarzer Kontur, zentriert, Wort-für-Wort-Einblendung.
-   * **Schnitttempo:** Ca. 3–5 Schnitte pro 10 Sekunden (ruhiger, szenischer Fluss).
-   * **Wiederkehrende Elemente:** Dezentes Wasserzeichen (@herramorim) als Creator-Brand.
+   * **Bildstil:** Hochwertiger 3D-Animationsstil (Pixar/Disney-Ästhetik, KI-generiert).
+   * **Farben:** Hoher Kontrast, stimmungsvolle Schlossbeleuchtung (Gold, warme Kerzen, dunkle Blautöne).
+   * **Schriften & Untertitel:** Zentrierte, große weiße Wort-für-Wort-Untertitel mit leichtem Schatten für maximale Lesbarkeit.
+   * **Schnitttempo:** Ca. 3–4 Schnitte pro 10 Sekunden (ruhiger Erzählfluss, passt zur emotionalen Ballade).
+   * **Wiederkehrende Elemente:** Dezentes Wasserzeichen (`@herramorim`) auf allen Frames.
 
-5. **Übernehmbare Mechaniken & Stil (ohne Inhalt):**
-   * Emotionaler Einstieg (Schmerz/Tragödie) in den ersten Sekunden als Scroll-Stopper.
-   * Visueller 3D-Animationsstil mit hoher Ästhetik (Reichweite durch "Disney-Look").
-   * Wort-für-Wort-Untertitelung für maximale Aufmerksamkeit ohne Ton.
-   * Cliffhanger / "Teil X"-Mechanik am Ende für Bindung und Wiederkehrende Zuschauer.
+5. **Übernehmbare Mechaniken & Stil:**
+   * **Visuelle Hook:** Sofortiger Einstieg in eine emotionale Krise mit ungewöhnlichen Charakteren.
+   * **Erzähltechnik:** Wort-für-Wort-Untertitel (dynamisch hervorgehoben) für hohe Retention.
+   * **Spannungsstruktur:** Cliffhanger/unerwartete Wendungen am Ende (z. B. "Zweiter Fluch"), um Vorfreude auf Fortsetzungen zu erzeugen.
+   * **Ästhetik:** Einheitlicher, hochwertiger 3D-Stil mit starkem Kontrast zwischen Figuren und Hintergrund.
