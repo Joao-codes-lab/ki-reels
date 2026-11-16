@@ -1,0 +1,692 @@
+{
+  "title": "Die 8 Level von Mieter-Kriegen",
+  "house": "A gritty six-storey Berlin Altbau apartment building with peeling teal paint, creaky parquet floors, echoing staircases, brass mailboxes, and walls plastered with aggressive neon sticky notes.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Tim aus Level 1 findet im Müllkeller ein Dokument von Eigentümer Herr Knopp aus Level 8.",
+    "Renate aus Level 2 klebt Zettel an Kevins Pakete aus Level 3 im Treppenhaus.",
+    "Miriam aus Level 4 beschwert sich über Stefans laute Hanteln aus Level 5 während ihrer Telefonate.",
+    "Dr. Albrecht aus Level 6 droht Beatrix aus Level 7 mit Klage wegen ihrer illegalen Penthouse-Terrasse.",
+    "Herr Knopp aus Level 8 überwacht alle Mieter über die Heizkostenverteiler im Keller."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Welche geheime Drohung klebt auf dem roten Zettel an Tims WG-Tür?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Renate klebt einen giftigen Zettel an seine Schuhe und tritt sie vor versammelter Nachbarschaft die Treppe hinunter."
+      },
+      "name": "Tim, 21, WG-Student",
+      "badge": "910 € netto",
+      "verdict": "FLUR-SCHMAROTZER",
+      "story": "Die 8 Level von Mieter-Kriegen. Level 1. Level 1: 910 Euro Netto – und mein Turnschuh blockiert angeblich den Rettungsweg. Ich schleppe gerade meinen 14-Kilo-Rucksack in den vierten Stock. Da klebt er: Ein giftgelber Post-it direkt auf meiner Sohle. Wer keine Miete zahlt, hat kein Recht auf Fußmatten! Die Nachbarn tuscheln hinter Spionen. Kennst du diese Scham, wenn das ganze Haus dich anstarrt? Ich ziehe meine Schuhe ein, mein Gesicht brennt. Meine Stirn flackert nervös: 910 Euro. Die Zahl lügt nie. Dann tritt sie meinen linken Schuh mit voller Wucht über das Geländer in die Tiefe. Drei Stockwerke stürzt er ab, direkt vor die Füße des Hausmeisters. Ich halte den Atem an. Plötzlich piept mein Handy, der Semesterbeitrag wurde doppelt abgebucht, und meine Stirn sackt ab. Mit zitternden Knien gehe ich nach oben. Doch an meiner Wohnungstür klebt ein zweiter Zettel mit einer Botschaft, die mir das Blut in den Adern gefrieren lässt. Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-160 €",
+        "after": "750 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Mieter-Kriegen. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 910 Euro Netto – und mein Turnschuh blockiert angeblich den Rettungsweg. Ich schleppe gerade meinen 14-Kilo-Rucksack in den vierten Stock. Da klebt er: Ein giftgelber Post-it direkt auf meiner Sohle."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer keine Miete zahlt, hat kein Recht auf Fußmatten!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Nachbarn tuscheln hinter Spionen. Kennst du diese Scham, wenn das ganze Haus dich anstarrt? Ich ziehe meine Schuhe ein, mein Gesicht brennt. Meine Stirn flackert nervös: 910 Euro."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die Zahl lügt nie.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Dann tritt sie meinen linken Schuh mit voller Wucht über das Geländer in die Tiefe. Drei Stockwerke stürzt er ab, direkt vor die Füße des Hausmeisters. Ich halte den Atem an. Plötzlich piept mein Handy, der Semesterbeitrag wurde doppelt abgebucht, und meine Stirn sackt ab. Mit zitternden Knien gehe ich nach oben. Doch an meiner Wohnungstür klebt ein zweiter Zettel mit einer Botschaft, die mir das Blut in den Adern gefrieren lässt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Die Zahl lügt nie.",
+      "quote_by": {
+        "level": 2,
+        "name": "Renate",
+        "badge": "1.450 €",
+        "character": "Elderly bitter lemon woman with wrinkled yellow peel skin, faded floral apron, spectacles on chain, and glowing digital forehead reading 1.450 €.",
+        "scene": "Dim stairwell landing, Lemon woman Renate pointing an angry claw down the stairs while shouting down at the strawberry boy."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "910 €",
+          "bar": 0.12
+        },
+        {
+          "label": "Miete",
+          "value": "420 €",
+          "bar": 0.25
+        },
+        {
+          "label": "Zettel",
+          "value": "14 Stk.",
+          "bar": 0.85
+        }
+      ],
+      "character": "Young student strawberry person with dotted red skin, casual worn green hoodie, scuffed backpack, and a faint glowing digital forehead showing 910 €.",
+      "visual": "Grimy Berlin hallway staircase, wide shot, strawberry boy holding a sneaker with a bright yellow sticky note, looking shocked.",
+      "scenes": [
+        "Dim stairwell landing, wide shot: Strawberry student stares down at yellow sticky note on his shoe, Renate the lemon woman glaring from door, tiny gold coin on window ledge.",
+        "Narrow corridor, medium shot: Renate in floral apron sneers displaying 1.450 € on forehead as strawberry boy cowers with glowing 910 € display, tiny gold coin under doormat.",
+        "Looking down the stairwell banister, high angle shot: Worn sneaker tumbling through the air past iron railings, Renate pointing triumphantly above, tiny gold coin caught on chandelier.",
+        "Basement recycling area, close-up shot: Strawberry hand trembling over smartphone screen showing banking alert, tiny gold coin beside blue paper bin.",
+        "Fourth-floor hallway, medium shot: Red-skinned strawberry boy clutching his remaining shoe, staring at apartment door covered in red notes, tiny gold coin embedded in doorframe.",
+        "Dull apartment doorway, macro detail shot: Close-up on foreboding red sticky note with sharp black handwriting, tiny gold coin reflecting light in keyhole."
+      ],
+      "caption": "Wegen Turnschuhen im Flur eskaliert das ganze Haus! 😱 Kennst du solche Nachbarn? #hausflur #mieter #drama #deutschland #nachbarschaftskrieg"
+    },
+    {
+      "n": 2,
+      "open_loop": "Was hat Kevin mitten in der Nacht vor Renates Wohnungstür deponiert?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Kevin blockiert Renates Türspion mit zwanzig Retourenpaketen und lacht sie aus."
+      },
+      "name": "Renate, 63, Frührentnerin",
+      "badge": "1.450 € netto",
+      "verdict": "BLOCKWARTIN",
+      "story": "Die 8 Level von Mieter-Kriegen. Level 2. Level 2: 1.450 Euro Rente – und ich bin die Einzige, die Ordnung hält. Auf Tims Zettel stand: Dein Müll stinkt bis ins Erdgeschoss. Doch heute eskaliert mein Krieg gegen Kevin aus dem dritten Stock. Der Brokkoli-Mann türmt täglich dreißig Amazon-Kartons direkt vor meine Wohnungstür. Mein Flur ist kein Zwischenlager! Geh Tauben füttern, Oma, deine Zeit ist abgelaufen. Meine Hände zittern, als ich meinen dicken roten Filzstift zücke. 1.450 Euro bedeutet lebenslange Disziplin, nicht Schwäche! Doch dann knallt er mir ein 25-Kilo-Paket mit Katzenstreu vor die Pantoffeln. Die Erschütterung lässt eine 120-Euro-Mietminderungsdrohung der Verwaltung durch meinen Briefschlitz segeln. Meine Stirn zuckt nach unten. Wo stehst du, wenn junge Schnösel auf Regeln spucken? Mitten in der Nacht höre ich verdächtiges Rascheln im Flur. Ich öffne die Kette und blicke auf ein furchteinflößendes Hindernis vor meiner Schwelle. Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "-120 €",
+        "after": "1.330 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Mieter-Kriegen. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 1.450 Euro Rente – und ich bin die Einzige, die Ordnung hält. Auf Tims Zettel stand: Dein Müll stinkt bis ins Erdgeschoss. Doch heute eskaliert mein Krieg gegen Kevin aus dem dritten Stock."
+        },
+        {
+          "s": "Figur",
+          "t": "Der Brokkoli-Mann türmt täglich dreißig Amazon-Kartons direkt vor meine Wohnungstür. Mein Flur ist kein Zwischenlager!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Geh Tauben füttern, Oma, deine Zeit ist abgelaufen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Hände zittern, als ich meinen dicken roten Filzstift zücke. 1.450 Euro bedeutet lebenslange Disziplin, nicht Schwäche! Doch dann knallt er mir ein 25-Kilo-Paket mit Katzenstreu vor die Pantoffeln."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Erschütterung lässt eine 120-Euro-Mietminderungsdrohung der Verwaltung durch meinen Briefschlitz segeln. Meine Stirn zuckt nach unten. Wo stehst du, wenn junge Schnösel auf Regeln spucken? Mitten in der Nacht höre ich verdächtiges Rascheln im Flur. Ich öffne die Kette und blicke auf ein furchteinflößendes Hindernis vor meiner Schwelle."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Geh Tauben füttern, Oma, deine Zeit ist abgelaufen.",
+      "quote_by": {
+        "level": 3,
+        "name": "Kevin",
+        "badge": "2.200 €",
+        "character": "Athletic broccoli man with green florets afro, neon yellow courier vest, chewing gum aggressively, glowing forehead showing 2.200 €.",
+        "scene": "Second floor corridor, Broccoli courier towering over lemon woman with heavy cardboard boxes stacked in his arms, smirk on his face."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "1.450 €",
+          "bar": 0.22
+        },
+        {
+          "label": "Hausordnung",
+          "value": "1988",
+          "bar": 0.95
+        },
+        {
+          "label": "Post-its",
+          "value": "89 Stk.",
+          "bar": 0.92
+        }
+      ],
+      "character": "Elderly lemon woman with wrinkled yellow peel, reading glasses on cord, worn blue floral apron, glowing digital forehead 1.450 €.",
+      "visual": "Second floor apartment doorway, wide shot: Lemon woman writing furious note on towering cardboard box pile blocking her exit.",
+      "scenes": [
+        "Narrow corridor, wide shot: Renate holding red marker confronting broccoli delivery man holding massive cardboard stack, tiny gold coin on fire extinguisher.",
+        "Close-up hallway angle: Kevin smirking with glowing 2.200 € badge looking down on Renate's wrinkled lemon face, tiny gold coin tucked behind electric meter box.",
+        "Apartment interior, medium shot: Heavy parcel slams onto doormat, letter dropping from mail slot onto linoleum floor, tiny gold coin lying next to letter.",
+        "Gloomy hallway, low angle shot: Stack of 15 brown boxes leaning precariously against yellow-wallpapered wall, tiny gold coin balancing on parcel tape.",
+        "Renate's living room at midnight, medium shot: Lemon woman peeking through door chain into dark spooky corridor, tiny gold coin in brass key bowl.",
+        "Hallway doorway, high contrast close-up: Strange bulky silhouette wrapped in black trash bags right outside door, tiny gold coin reflecting in peephole lens."
+      ],
+      "caption": "Pakete im Hausflur lagern: Erlaubt oder unverschämt? 📦 Wie hättest du reagiert? #hausordnung #nachbarn #postbote #deutschland #flurkrieg"
+    },
+    {
+      "n": 3,
+      "open_loop": "Was filmt Miriam heimlich durch den Türspion gegen Kevin?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Miriam klebt eine anwaltliche Unterlassungsklage mit rotem Tape an Kevins Wohnungstür und ruft die Hausverwaltung."
+      },
+      "name": "Kevin, 26, Kurierfahrer",
+      "badge": "2.200 € netto",
+      "verdict": "PAKET-REBELL",
+      "story": "Die 8 Level von Mieter-Kriegen. Level 3. Level 3: 2.200 Euro Netto – und ich soll Pakete im Regen lagern? Vor Renates Tür stand kein Monster, sondern ein riesiger Katzenbaum für das Tierheim. Doch Miriam aus dem ersten Stock macht jetzt Jagd auf mich. Die Tomaten-Frau arbeitet im Homeoffice und rastet aus, wenn mein Scanner im Treppenhaus piept. Um 11 Uhr stürmt sie im Designer-Blazer aus Wohnung vier. Ihr Lärm ruiniert meine internationalen Kundengespräche! Das Treppenhaus hallt wider. Meine Adern am Brokkoli-Strunk pochen. 2.200 Euro für sechzig Stunden Knochenarbeit die Woche, und sie behandelt mich wie Dreck! Ich rufe: Die Zahl lügt nie! Doch Miriam lacht nur schrill, zieht ein Klebeband hervor und nagelt eine Abmahnung an meine Tür. 250 Euro Vertragsstrafe wegen gewerblicher Störung. Mein Display bricht ein. Dann bemerke ich eine rote Linse an ihrem Türspion, die jede Sekunde aufzeichnet. Welches Geheimnis hat sie dabei von mir erwischt? Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-250 €",
+        "after": "1.950 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Mieter-Kriegen. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 2.200 Euro Netto – und ich soll Pakete im Regen lagern? Vor Renates Tür stand kein Monster, sondern ein riesiger Katzenbaum für das Tierheim. Doch Miriam aus dem ersten Stock macht jetzt Jagd auf mich."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Tomaten-Frau arbeitet im Homeoffice und rastet aus, wenn mein Scanner im Treppenhaus piept. Um 11 Uhr stürmt sie im Designer-Blazer aus Wohnung vier."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Ihr Lärm ruiniert meine internationalen Kundengespräche!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Das Treppenhaus hallt wider. Meine Adern am Brokkoli-Strunk pochen. 2.200 Euro für sechzig Stunden Knochenarbeit die Woche, und sie behandelt mich wie Dreck! Ich rufe:"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl lügt nie!"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch Miriam lacht nur schrill, zieht ein Klebeband hervor und nagelt eine Abmahnung an meine Tür. 250 Euro Vertragsstrafe wegen gewerblicher Störung. Mein Display bricht ein. Dann bemerke ich eine rote Linse an ihrem Türspion, die jede Sekunde aufzeichnet. Welches Geheimnis hat sie dabei von mir erwischt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Ihr Lärm ruiniert meine internationalen Kundengespräche!",
+      "quote_by": {
+        "level": 4,
+        "name": "Miriam",
+        "badge": "3.100 €",
+        "character": "Polished tomato woman with sleek shiny red skin, navy blue business blazer, wireless headset, glowing digital forehead 3.100 €.",
+        "scene": "First floor hallway, Tomato woman Miriam holding headset to her ear, pointing furiously at bruised packages on the floor in front of courier."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "2.200 €",
+          "bar": 0.35
+        },
+        {
+          "label": "Stunden/W",
+          "value": "60 h",
+          "bar": 0.88
+        },
+        {
+          "label": "Pakete/Tag",
+          "value": "180 Stk.",
+          "bar": 0.9
+        }
+      ],
+      "character": "Broccoli courier guy with curly green floret head, neon yellow courier vest, sturdy cargo trousers, digital glowing forehead 2.200 €.",
+      "visual": "First floor stair landing, wide shot: Broccoli courier kneeling beside split cardboard boxes while sleek tomato businesswoman scolds him.",
+      "scenes": [
+        "First floor landing, wide shot: Miriam the tomato woman confronting Kevin the broccoli courier amidst scattered parcels, tiny gold coin on radiator valve.",
+        "Close-up confrontational shot: Miriam with 3.100 € on forehead sneering down at Kevin whose 2.200 € forehead flickers, tiny gold coin on her gold blazer button.",
+        "Staircase angle, dynamic low angle: Parcels bursting open on vintage mosaic tiles, revealing pet supplies, tiny gold coin under stair banister support.",
+        "Corridor outside Kevin's door, medium shot: Red legal warning taped across wooden door panel with aggressive red tape, tiny gold coin stuck on door lock.",
+        "Apartment interior, medium shot: Kevin checking mobile banking deducting 250 Euro penalty, face clenched in frustration, tiny gold coin on microwave.",
+        "Hallway door peephole, extreme close-up: Fisheye security camera lens glowing with a tiny red recording dot, tiny gold coin reflecting inside peephole brass ring."
+      ],
+      "caption": "Darf man Pakete im Treppenhaus abstellen? 📦 Kampf im Hausflur eskaliert! #kurierfahrer #homeoffice #nachbarschaft #recht #deutschland"
+    },
+    {
+      "n": 4,
+      "open_loop": "Warum schleppt Stefan um 2 Uhr nachts eine schwere Tasche in den Keller?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Stefan parkt mit seinem SUV Miriams Ladesäule zu und beleidigt sie im Fahrstuhl wegen ihrer niedrigeren Zahl."
+      },
+      "name": "Miriam, 34, IT-Beraterin",
+      "badge": "3.100 € netto",
+      "verdict": "RUHE-KÄMPFERIN",
+      "story": "Die 8 Level von Mieter-Kriegen. Level 4. Level 4: 3.100 Euro Netto – und mein Zoom-Call wird von Hantellärm zerfetzt. Kevins Kamera filmte nur, wie Stefan aus dem zweiten Stock nachts Gewichte fallen ließ. Der Avocado-Typ nennt sich Fitness-Influencer, blockiert aber die Tiefgarage mit seinem Protz-SUV. Als ich ihn im Aufzug abfange, riecht er penetrant nach Vanille-Proteinshake. Seine Muskeln spannen im Tanktop, seine Stirn strahlt mit 4.400 Euro. Ich sage bestimmt: Halten Sie endlich die Ruhezeiten ein, Herr Becker! Wer unter viertausend verdient, hat mir gar nichts zu befehlen. Die Nachbarn im Hof hören jedes Wort. Kennst du das Gefühl, wenn Reichtum mit Respektlosigkeit verwechselt wird? Ich halte dagegen: Die Zahl lügt nie! Doch Stefan lacht nur dreckig, drückt den Notstopp und spuckt seinen Kaugummi auf meine Pumps. Dann flattert eine Abmahnung der Eigentümerversammlung wegen meiner Türkamera ins Haus: 380 Euro Strafe. Meine Stirn zuckt abwärts. Um zwei Uhr nachts höre ich dumpfe Schritte im Treppenhaus. Stefan schleicht mit einer verdächtigen schweren Sporttasche Richtung Keller. Was versteckt er da unten? Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "-380 €",
+        "after": "2.720 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Mieter-Kriegen. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 3.100 Euro Netto – und mein Zoom-Call wird von Hantellärm zerfetzt. Kevins Kamera filmte nur, wie Stefan aus dem zweiten Stock nachts Gewichte fallen ließ. Der Avocado-Typ nennt sich Fitness-Influencer, blockiert aber die Tiefgarage mit seinem Protz-SUV."
+        },
+        {
+          "s": "Figur",
+          "t": "Als ich ihn im Aufzug abfange, riecht er penetrant nach Vanille-Proteinshake. Seine Muskeln spannen im Tanktop, seine Stirn strahlt mit 4.400 Euro. Ich sage bestimmt: Halten Sie endlich die Ruhezeiten ein, Herr Becker!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer unter viertausend verdient, hat mir gar nichts zu befehlen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Nachbarn im Hof hören jedes Wort. Kennst du das Gefühl, wenn Reichtum mit Respektlosigkeit verwechselt wird? Ich halte dagegen: Die Zahl lügt nie!"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch Stefan lacht nur dreckig, drückt den Notstopp und spuckt seinen Kaugummi auf meine Pumps. Dann flattert eine Abmahnung der Eigentümerversammlung wegen meiner Türkamera ins Haus: 380 Euro Strafe. Meine Stirn zuckt abwärts. Um zwei Uhr nachts höre ich dumpfe Schritte im Treppenhaus. Stefan schleicht mit einer verdächtigen schweren Sporttasche Richtung Keller. Was versteckt er da unten?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Wer unter viertausend verdient, hat mir gar nichts zu befehlen.",
+      "quote_by": {
+        "level": 5,
+        "name": "Stefan",
+        "badge": "4.400 €",
+        "character": "Muscular avocado man with dark pebbled skin, tight gold gym tanktop, massive shoulders, gold chain, glowing forehead 4.400 €.",
+        "scene": "Old mirrored elevator cage, Avocado man Stefan flexing with shaker bottle in hand, sneering down at tomato woman."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "3.100 €",
+          "bar": 0.48
+        },
+        {
+          "label": "Klagekosten",
+          "value": "380 €",
+          "bar": 0.3
+        },
+        {
+          "label": "Lärmpegel",
+          "value": "84 dB",
+          "bar": 0.78
+        }
+      ],
+      "character": "Tomato woman in formal navy business suit, dark rimmed designer glasses, sleek styling, digital glowing forehead displaying 3.100 €.",
+      "visual": "Old-fashioned brass elevator cabin, medium shot: Sharp tomato businesswoman confronting hulking avocado gym freak in tight gold tanktop.",
+      "scenes": [
+        "Vintage brass elevator cage, wide shot: Miriam in navy suit confronting Stefan holding shaker bottle, elevator mirror reflecting tiny gold coin in corner.",
+        "Elevator interior, close-up shot: Stefan's glowing 4.400 € badge towering over Miriam's 3.100 € display, tiny gold coin resting on elevator emergency button.",
+        "Underground garage, wide shot: Huge matte black SUV parked diagonally over two parking spots blocking charging port, tiny gold coin on tire rim.",
+        "Apartment study room, medium shot: Miriam staring in disbelief at lawyer's letter demanding 380 Euro fine on her glass desk, tiny gold coin on paperweight.",
+        "Darkened staircase at 2 AM, low angle shot: Stefan the avocado creeping down stone stairs carrying enormous black duffel bag, tiny gold coin behind handrail.",
+        "Basement iron door entrance, detail shot: Heavy padlock swinging gently before dark corridor, tiny gold coin glinting on damp threshold."
+      ],
+      "caption": "Mietshaus-Krieg um Lärm und Parkplätze! 😡 Würdest du die Polizei rufen? #homeoffice #fitnessnachbar #mietrecht #aufzug #deutschland"
+    },
+    {
+      "n": 5,
+      "open_loop": "Was droht Dr. Albrecht auf dem versiegelten Anwaltsschreiben in Stefans Briefkasten?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Dr. Albrecht lässt Stefans Sportwagen auf eigene Kosten abschleppen und droht mit Zwangsversteigerung seiner Wohnung."
+      },
+      "name": "Stefan, 29, Fitness-Unternehmer",
+      "badge": "4.400 € netto",
+      "verdict": "ALPHA-PROTZER",
+      "story": "Die 8 Level von Mieter-Kriegen. Level 5. Level 5: 4.400 Euro Netto – und im Keller lagern nur meine Eiweiß-Vorräte! Niemand schreibt mir vor, wann ich trainiere. Doch Dr. Albrecht aus dem vierten Stock will mich vernichten. Die Kokosnuss im Nadelstreifenanzug ist Beiratsvorsitzender der Eigentümer. Als ich mittags meinen Sportwagen vor der Einfahrt parke, steht er schon mit Klemmbrett da. Seine harte braune Schale wirkt versteinert, seine Stirn strahlt frostige 6.800 Euro. Ihr Leasing-Schlitten verschandelt das architektonische Ensemble dieses Hauses! Zwei Abschleppwagen biegen bereits in die Straße ein. Ich gehe ihm an den Kragen: Fassen Sie mein Auto an, und Sie lernen mich kennen! Albrecht zuckt nicht einmal mit der Wimper. Er rückt seine Brille zurecht: Die Zahl lügt nie. Dann winkt er den Schleppern, und mein 90.000-Euro-Wagen wird vor den Augen der johlenden Nachbarn hochgezogen. Abschleppgebühr plus Sonderumlage: sofort 650 Euro fällig. Meine Stirn stürzt ab. Wutentbrannt gehe ich an die Briefkästen. Doch in meinem Schlitz steckt ein rot versiegeltes Schreiben von Albrechts Kanzlei mit einer Forderung, die mich ruinieren könnte. Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "-650 €",
+        "after": "3.750 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Mieter-Kriegen. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 4.400 Euro Netto – und im Keller lagern nur meine Eiweiß-Vorräte! Niemand schreibt mir vor, wann ich trainiere. Doch Dr. Albrecht aus dem vierten Stock will mich vernichten. Die Kokosnuss im Nadelstreifenanzug ist Beiratsvorsitzender der Eigentümer."
+        },
+        {
+          "s": "Figur",
+          "t": "Als ich mittags meinen Sportwagen vor der Einfahrt parke, steht er schon mit Klemmbrett da. Seine harte braune Schale wirkt versteinert, seine Stirn strahlt frostige 6.800 Euro."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Ihr Leasing-Schlitten verschandelt das architektonische Ensemble dieses Hauses!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Zwei Abschleppwagen biegen bereits in die Straße ein. Ich gehe ihm an den Kragen: Fassen Sie mein Auto an, und Sie lernen mich kennen! Albrecht zuckt nicht einmal mit der Wimper. Er rückt seine Brille zurecht:"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die Zahl lügt nie.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Dann winkt er den Schleppern, und mein 90.000-Euro-Wagen wird vor den Augen der johlenden Nachbarn hochgezogen. Abschleppgebühr plus Sonderumlage: sofort 650 Euro fällig. Meine Stirn stürzt ab. Wutentbrannt gehe ich an die Briefkästen. Doch in meinem Schlitz steckt ein rot versiegeltes Schreiben von Albrechts Kanzlei mit einer Forderung, die mich ruinieren könnte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Ihr Leasing-Schlitten verschandelt das architektonische Ensemble dieses Hauses!",
+      "quote_by": {
+        "level": 6,
+        "name": "Dr. Albrecht",
+        "badge": "6.800 €",
+        "character": "Stern coconut man with fibrous textured husk skull, tailored charcoal pinstripe three-piece suit, silver pocket watch, glowing digital forehead 6.800 €.",
+        "scene": "Driveway cobblestones outside Altbau, Coconut notary Dr. Albrecht holding wooden clipboard, pointing with fountain pen at sports car being hooked to tow truck."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "4.400 €",
+          "bar": 0.62
+        },
+        {
+          "label": "Abschleppen",
+          "value": "650 €",
+          "bar": 0.45
+        },
+        {
+          "label": "Gym-Ego",
+          "value": "MAX",
+          "bar": 0.99
+        }
+      ],
+      "character": "Muscular avocado gym influencer, pitted dark skin, tight gold tank top, heavy wristwatch, glowing digital forehead showing 4.400 €.",
+      "visual": "Sunny cobblestone apartment entrance, wide shot: Avocado gym man furious as yellow tow truck lifts his sports car while coconut man in suit takes notes.",
+      "scenes": [
+        "Sunny courtyard entrance, wide shot: Stefan in tanktop shouting as Dr. Albrecht in charcoal suit calmly directs a tow truck, tiny gold coin on cobblestone curb.",
+        "Driveway confrontation, medium shot: Coconut man Dr. Albrecht showing 6.800 € forehead sternly confronting Stefan showing 4.400 €, tiny gold coin on car hood emblem.",
+        "Street perspective, dynamic angle: Matte black sports car winched onto flatbed truck, curious tenants watching from balconies, tiny gold coin near truck wheel.",
+        "Building entrance lobby, medium shot: Stefan furiously kicking entrance mat while his forehead number drops to 3.750 €, tiny gold coin resting on radiator.",
+        "Mailbox hallway area, close-up shot: Heavy brass mailboxes with a sealed red wax envelope sticking out of Stefan's slot, tiny gold coin under mailbox row.",
+        "Close-up detail shot: Wax seal bearing legal monogram partially broken, ominous legal notice text visible beneath, tiny gold coin on wooden shelf."
+      ],
+      "caption": "Auto einfach vor der Tür abgeschleppt! 🚗 Dürfen Nachbarn so weit gehen? #mieterstreit #falschparker #anwalt #abgeschleppt #deutschland"
+    },
+    {
+      "n": 6,
+      "open_loop": "Welches illegale Bauprojekt verbirgt Beatrix hinter der Penthouse-Tür?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Beatrix lässt Albrechts antike Stuckdecke durch Wassereinbruch ruinieren und lacht über seine Mahnungen."
+      },
+      "name": "Dr. Albrecht, 58, Notar & Beirat",
+      "badge": "6.800 € netto",
+      "verdict": "PARAGRAFEN-HERR",
+      "story": "Die 8 Level von Mieter-Kriegen. Level 6. Level 6: 6.800 Euro Netto – und niemand im Haus steht über dem Gesetz! Stefans Wagen parkte auf der Feuerwehrzufahrt, mein Vorgehen war reine Bürgerpflicht. Doch die wahre Bedrohung thront ganz oben: Beatrix im Penthouse. Die Drachenfrucht-Milliardärin baut seit drei Monaten ohne Genehmigung um. Gestern tropfte schmutziges Bauwasser durch meinen denkmalgeschützten Stuck im vierten Stock. Als ich ihre Penthouse-Klingel betätige, öffnet sie im seidenen Kimono, ein Champagnerglas in der Hand. Ihre pinken Schuppen funkeln im Kronleuchterlicht, ihre Stirn strahlt unantastbare 9.500 Euro. Ich halte ihr das Mängelprotokoll vor: Sie gefährden die Statik des gesamten Hauses! Behalten Sie Ihre bürokratischen Krümel, Herr Notar, ich kaufe Sie samt Kanzlei zum Frühstück. Das Wasser tropft rhythmisch durch meine Decke. Ich fordere: Die Zahl lügt nie! Sie knallt mir lachend die Tür vor der Nase zu. Die Not-Reparatur der Stuckatur kostet mich sofort 1.200 Euro Eigenanteil. Mein Display fällt. Doch als die Handwerker die Penthouse-Tür öffnen, erblicke ich eine geheime Mega-Baustelle im Dachstuhl. Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "-1.200 €",
+        "after": "5.600 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Mieter-Kriegen. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 6.800 Euro Netto – und niemand im Haus steht über dem Gesetz! Stefans Wagen parkte auf der Feuerwehrzufahrt, mein Vorgehen war reine Bürgerpflicht. Doch die wahre Bedrohung thront ganz oben: Beatrix im Penthouse. Die Drachenfrucht-Milliardärin baut seit drei Monaten ohne Genehmigung um."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern tropfte schmutziges Bauwasser durch meinen denkmalgeschützten Stuck im vierten Stock. Als ich ihre Penthouse-Klingel betätige, öffnet sie im seidenen Kimono, ein Champagnerglas in der Hand. Ihre pinken Schuppen funkeln im Kronleuchterlicht, ihre Stirn strahlt unantastbare 9.500 Euro. Ich halte ihr das Mängelprotokoll vor: Sie gefährden die Statik des gesamten Hauses!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Behalten Sie Ihre bürokratischen Krümel, Herr Notar, ich kaufe Sie samt Kanzlei zum Frühstück.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Das Wasser tropft rhythmisch durch meine Decke. Ich fordere: Die Zahl lügt nie! Sie knallt mir lachend die Tür vor der Nase zu. Die Not-Reparatur der Stuckatur kostet mich sofort 1.200 Euro Eigenanteil. Mein Display fällt. Doch als die Handwerker die Penthouse-Tür öffnen, erblicke ich eine geheime Mega-Baustelle im Dachstuhl."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Behalten Sie Ihre bürokratischen Krümel, Herr Notar, ich kaufe Sie samt Kanzlei zum Frühstück.",
+      "quote_by": {
+        "level": 7,
+        "name": "Beatrix",
+        "badge": "9.500 €",
+        "character": "Glamorous dragonfruit woman with vivid magenta scale skin, emerald silk kimono, diamond earrings, champagne flute, glowing forehead 9.500 €.",
+        "scene": "Opulent penthouse double doorway, Dragonfruit heiress Beatrix sipping champagne with half-closed eyes, looking down on coconut man."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "6.800 €",
+          "bar": 0.75
+        },
+        {
+          "label": "Schaden",
+          "value": "1.200 €",
+          "bar": 0.55
+        },
+        {
+          "label": "Klagen",
+          "value": "14 Lfd.",
+          "bar": 0.94
+        }
+      ],
+      "character": "Elderly coconut notary with fibrous textured skull, charcoal pinstripe three-piece suit, gold cufflinks, glowing forehead showing 6.800 €.",
+      "visual": "Opulent Altbau hallway before penthouse doors, wide shot: Stately coconut notary with clipboard confronting lavish dragonfruit woman in silk robe.",
+      "scenes": [
+        "Luxurious penthouse vestibule, wide shot: Dr. Albrecht holding wet paperwork facing Beatrix holding champagne flute, tiny gold coin on marble side table.",
+        "Entrance doorway confrontation, medium shot: Beatrix sneering with 9.500 € digital forehead at Albrecht's tense 6.800 € display, tiny gold coin on gilded doorframe.",
+        "Fourth-floor salon ceiling, high angle detail: Dirty construction water dripping onto antique baroque plaster stucco ceiling, tiny gold coin in crystal chandelier.",
+        "Notary's private study, medium shot: Dr. Albrecht signing bank emergency transfer form as forehead dips to 5.600 €, tiny gold coin on leather desk blotter.",
+        "Roof stairwell, low angle shot: Dusty construction workers carrying steel beams past cracked penthouse walls, tiny gold coin on discarded brick.",
+        "Top floor threshold, wide mysterious view: Glimpse into gutted penthouse ceiling showing open sky and illegal steel pool frame, tiny gold coin on crane rope."
+      ],
+      "caption": "Wasserschaden durch Luxus-Umbau der Nachbarin! 💧 Hättest du sofort geklagt? #notar #wasserschaden #penthouse #streit #deutschland"
+    },
+    {
+      "n": 7,
+      "open_loop": "Wer ist der mysteriöse Mann im Heizungskeller, der heimlich das ganze Haus besitzt?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Herr Knopp dreht Beatrix das Warmwasser ab und klebt die Kündigung wegen Zweckentfremdung an ihre Marmortür."
+      },
+      "name": "Beatrix, 42, Erbin & Investorin",
+      "badge": "9.500 € netto",
+      "verdict": "LUXUS-DESPOTIN",
+      "story": "Die 8 Level von Mieter-Kriegen. Level 7. Level 7: 9.500 Euro Netto – und ich baue mir einen Infinity-Pool über ihren Köpfen. Albrechts kleinkariertes Gejammer über Stuck interessiert mich nicht. Ich saniere das Dachgeschoss auf Weltklasse-Niveau. Doch heute Morgen steht plötzlich kein Wasser mehr auf der Baustelle. Die Leitungen sind tot, der Estrich trocknet an! Wütend sause ich im Kaschmirmantel hinunter in den muffigen Keller. Zwischen staubigen Kupferrohren hantiert ein unscheinbarer alter Knoblauch-Mann im fleckigen Blaumann. Er dreht seelenruhig an einem Hauptventil. Ich fauche ihn an: Drehen Sie sofort das Wasser auf, Sie ungebildeter Handwerker, meine Baufirma kostet 500 Euro die Stunde! Packen Sie Ihre Koffer, Frau von Schwan, Sie fliegen heute noch raus. Mein Herz setzt aus. Meine Mieteinnahmen für die Bauphase platzen, die Baufirma stellt 2.100 Euro Leerlaufkosten in Rechnung. Meine Stirn sackt live ab. Wer ist dieser vermeintliche Hausmeister wirklich? Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "-2.100 €",
+        "after": "7.400 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Mieter-Kriegen. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 9.500 Euro Netto – und ich baue mir einen Infinity-Pool über ihren Köpfen. Albrechts kleinkariertes Gejammer über Stuck interessiert mich nicht. Ich saniere das Dachgeschoss auf Weltklasse-Niveau. Doch heute Morgen steht plötzlich kein Wasser mehr auf der Baustelle."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Leitungen sind tot, der Estrich trocknet an! Wütend sause ich im Kaschmirmantel hinunter in den muffigen Keller. Zwischen staubigen Kupferrohren hantiert ein unscheinbarer alter Knoblauch-Mann im fleckigen Blaumann. Er dreht seelenruhig an einem Hauptventil. Ich fauche ihn an: Drehen Sie sofort das Wasser auf, Sie ungebildeter Handwerker, meine Baufirma kostet 500 Euro die Stunde!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Packen Sie Ihre Koffer, Frau von Schwan, Sie fliegen heute noch raus.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Herz setzt aus. Meine Mieteinnahmen für die Bauphase platzen, die Baufirma stellt 2.100 Euro Leerlaufkosten in Rechnung. Meine Stirn sackt live ab. Wer ist dieser vermeintliche Hausmeister wirklich?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Packen Sie Ihre Koffer, Frau von Schwan, Sie fliegen heute noch raus.",
+      "quote_by": {
+        "level": 8,
+        "name": "Herr Knopp",
+        "badge": "14.800 €",
+        "character": "Elderly garlic bulb person with paper-thin white clove skin, frayed blue mechanic overalls, heavy wrench in hand, glowing digital forehead 14.800 €.",
+        "scene": "Damp basement boiler room, Garlic man Herr Knopp holding pipe wrench calmly pointing at weeping dragonfruit woman amidst steam pipes."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "9.500 €",
+          "bar": 0.88
+        },
+        {
+          "label": "Baukosten",
+          "value": "180.000 €",
+          "bar": 0.95
+        },
+        {
+          "label": "Leerlauf",
+          "value": "2.100 €",
+          "bar": 0.7
+        }
+      ],
+      "character": "Lavish dragonfruit woman, vibrant pink-green peel, expensive beige cashmere coat, gold jewellery, glowing forehead showing 9.500 €.",
+      "visual": "Dank dimly-lit basement boiler room, wide shot: Elegant dragonfruit heiress in cashmere coat shouting at elderly garlic man in boiler suit by copper pipes.",
+      "scenes": [
+        "Dark basement boiler room, wide shot: Beatrix confronting Herr Knopp the garlic man beside humming furnace, steam rising, tiny gold coin on water meter.",
+        "Boiler room face-off, medium shot: Herr Knopp turning around revealing shocking 14.800 € digital forehead, Beatrix's 9.500 € badge paling, tiny gold coin on iron valve.",
+        "Basement corridor, low angle shot: Heavy industrial pipe wrench shutting off copper mains valve, dripping water droplets, tiny gold coin behind pressure gauge.",
+        "Penthouse terrace under construction, wide shot: Construction crew packing up tools as dry concrete cracks in wooden pool frame, tiny gold coin on scaffolding clamp.",
+        "Dim cellar stairway, medium shot: Beatrix staring at smartphone screen updating financial loss to 7.400 €, face pale with shock, tiny gold coin in brick recess.",
+        "Basement office door, mysterious close-up: Old wooden door marked 'Privat - Hausverwaltung Knopp', tiny gold coin caught beneath antique keyplate."
+      ],
+      "caption": "Sie hielt den Hausmeister für arm – dann zeigte seine Stirn DAS! 😱 Hättest du das gedacht? #milliardär #geheimnis #plotwist #hausverwaltung #deutschland"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches Thema soll als Nächstes kommen: Die 8 Level der Schulhof-Hierarchie oder Schwarzfahrer im Nahverkehr?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Tim konfrontiert Herrn Knopp mit alten Bauplänen aus dem Müll und zwingt ihn zur Sanierung aller Wohnungen."
+      },
+      "name": "Herr Knopp, 71, Eigentümer",
+      "badge": "14.800 € netto",
+      "verdict": "SCHATTEN-BOSS",
+      "story": "Die 8 Level von Mieter-Kriegen. Level 8. Level 8: 14.800 Euro Netto – und ich trage Blaumann, um die Gier meiner Mieter zu studieren. Beatrix glaubte, das Haus gehöre ihr. Doch ich besitze diesen Altbau schuldenfrei seit vierzig Jahren. Jeder einzelne Zettel im Flur ging über meinen Schreibtisch: Renates Frust, Kevins Pakete, Miriams Klagen, Stefans Protzerei. Ich habe alles dokumentiert. Doch als ich heute Morgen die Kündigung an Beatrix' Penthouse klebe, steht plötzlich Tim aus Level 1 hinter mir. Der Student mit nur 910 Euro auf der Stirn hält einen vergilbten Ordner aus dem Papiermüll hoch. Sie kassieren 14.800 Euro, aber unsere Heizung im vierten Stock ist seit drei Jahren asbestverseucht! Ich erstarre. Tim droht mit dem Bauamt. Er sagt mit ruhiger Stimme: Die Zahl lügt nie. Dieser Junge hat recht. Ich senke den Kopf. Statt Beatrix rauszuklagen, überweise ich sofort 4.500 Euro für die Komplettsanierung des Hauses. Meine Stirn zuckt zurück auf 10.300 Euro. Gerechtigkeit siegt manchmal gegen Zahlen. Welches Thema sollen wir als Nächstes aufdecken: Die 8 Level der Schulhof-Hierarchie oder Schwarzfahrer im Nahverkehr?",
+      "gender": "m",
+      "twist": {
+        "delta": "-4.500 €",
+        "after": "10.300 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Mieter-Kriegen. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 14.800 Euro Netto – und ich trage Blaumann, um die Gier meiner Mieter zu studieren. Beatrix glaubte, das Haus gehöre ihr. Doch ich besitze diesen Altbau schuldenfrei seit vierzig Jahren. Jeder einzelne Zettel im Flur ging über meinen Schreibtisch: Renates Frust, Kevins Pakete, Miriams Klagen, Stefans Protzerei."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe alles dokumentiert. Doch als ich heute Morgen die Kündigung an Beatrix' Penthouse klebe, steht plötzlich Tim aus Level 1 hinter mir. Der Student mit nur 910 Euro auf der Stirn hält einen vergilbten Ordner aus dem Papiermüll hoch."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Sie kassieren 14.800 Euro, aber unsere Heizung im vierten Stock ist seit drei Jahren asbestverseucht!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich erstarre. Tim droht mit dem Bauamt. Er sagt mit ruhiger Stimme:"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Die Zahl lügt nie.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Dieser Junge hat recht. Ich senke den Kopf. Statt Beatrix rauszuklagen, überweise ich sofort 4.500 Euro für die Komplettsanierung des Hauses. Meine Stirn zuckt zurück auf 10.300 Euro. Gerechtigkeit siegt manchmal gegen Zahlen. Welches Thema sollen wir als Nächstes aufdecken: Die 8 Level der Schulhof-Hierarchie oder Schwarzfahrer im Nahverkehr?"
+        }
+      ],
+      "quote": "Die Zahl lügt nie.",
+      "quote_by": {
+        "level": 1,
+        "name": "Tim",
+        "badge": "910 €",
+        "character": "Young strawberry student in green hoodie with scuffed backpack holding yellowed legal dossier, glowing forehead reading 910 €.",
+        "scene": "Hallway outside the penthouse, Strawberry student Tim holding folder right in front of elderly garlic landlord in blue overalls."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "14.800 €",
+          "bar": 1.0
+        },
+        {
+          "label": "Wohnungen",
+          "value": "18 Stk.",
+          "bar": 0.95
+        },
+        {
+          "label": "Sanierung",
+          "value": "4.500 €",
+          "bar": 0.65
+        }
+      ],
+      "character": "Elderly garlic bulb landlord with dry papery skin, faded blue work boiler suit, brass key ring on belt, digital forehead showing 14.800 €.",
+      "visual": "Top floor hallway outside penthouse, wide shot: Garlic owner in overalls confronted by strawberry student holding old blueprints, tenants watching from stairs.",
+      "scenes": [
+        "Top floor hallway, wide shot: Herr Knopp the garlic landlord facing Tim the strawberry student holding thick file folder, tiny gold coin on window ledge.",
+        "Hallway confrontation, medium shot: Tim with 910 € forehead looking resolute, Herr Knopp with 14.800 € display showing deep contemplation, tiny gold coin on banister.",
+        "Basement archive desk, close-up shot: Rows of sticky notes from all tenants neatly catalogued in binders next to bank ledgers, tiny gold coin on magnifying glass.",
+        "Hallway staircase landing, medium shot: Neighbors Renate, Kevin, Miriam, and Stefan listening quietly on the steps below, tiny gold coin on mail carrier satchel.",
+        "Apartment entrance, close-up shot: Herr Knopp tapping smartphone screen transferring 4.500 Euro renovation fund, display adjusting to 10.300 €, tiny gold coin on doorknob.",
+        "Front entrance hallway, wide warm shot: All vegetable tenants standing together in clean brightly lit hallway without sticky notes, tiny gold coin gleaming over entrance portal."
+      ],
+      "caption": "Das Finale des Hausflur-Kriegs! 🏢 Wer hatte am Ende recht? Welches Thema als Nächstes? #finale #vermieter #mieter #überraschung #deutschland"
+    }
+  ],
+  "lang": "de",
+  "topic": "Der verbitterte Klebezettel-Krieg im Hausflur des Mietshauses",
+  "frame": "frucht"
+}

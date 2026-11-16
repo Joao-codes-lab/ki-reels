@@ -1,0 +1,791 @@
+{
+  "title": "The 8 Levels of Voice Note Silence",
+  "house": "A bustling neon-lit metropolis where anthropomorphic fruit and vegetable citizens navigate romance, finance, and painful digital communication.",
+  "catchphrase": "The glowing number never lies.",
+  "links": [
+    "Barista in level 2 mentions a quiet man in a suit who always leaves massive tips",
+    "Bus line 42 passes by the same neon kiosk in every single episode",
+    "A dropped golden coin appears in the background of every single scene"
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "What exactly did the voice note contain that made everyone stop breathing?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Laughs loudly at her read receipt timestamp and tells her she sounds desperate."
+      },
+      "name": "Ruby, 23, Strawberry Barista",
+      "badge": "0:02 Sec",
+      "verdict": "UNREAD",
+      "story": "The 8 levels of emotional voice note silence. Level 1. Level 1: 0 seconds listened and four hours of staring at the blue checkmarks. I'm Ruby, 23, a tired strawberry clinging to my espresso machine while my glowing forehead timer screams my shame. My heart hammers against my seedy red skin as I stare at the tiny speaker icon. Why hasn't he played the emotional confession I poured my entire soul into at 2:00 AM? A customer taps the counter impatiently, but I cannot look away from my screen. You actually sent a three-minute voice note to him? He scoffs, his golden coin gleaming on the counter. He'll never press play on that garbage. My eyes sting with hot tears as I grip the ceramic cup until my knuckles ache. You'll see that in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1 Play",
+        "after": "0:01 Sec"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of emotional voice note silence. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 0 seconds listened and four hours of staring at the blue checkmarks."
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Ruby, 23, a tired strawberry clinging to my espresso machine while my glowing forehead timer screams my shame."
+        },
+        {
+          "s": "Figur",
+          "t": "My heart hammers against my seedy red skin as I stare at the tiny speaker icon."
+        },
+        {
+          "s": "Figur",
+          "t": "Why hasn't he played the emotional confession I poured my entire soul into at 2:00 AM?"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "A customer taps the counter impatiently, but I cannot look away from my screen.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You actually sent a three-minute voice note to him? He scoffs, his golden coin gleaming on the counter.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "He'll never press play on that garbage.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My eyes sting with hot tears as I grip the ceramic cup until my knuckles ache."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You just exposed your entire weakness to someone who doesn't care.",
+      "quote_by": {
+        "level": 8,
+        "name": "Dante",
+        "badge": "100M Views",
+        "character": "An arrogant Dragon Fruit man with an immaculate obsidian suit and a cold demeanor.",
+        "scene": "Wide shot of a luxury penthouse overlooking the neon city, Dante swirling champagne and sneering at a smartphone."
+      },
+      "stats": [
+        {
+          "label": "Listen Time",
+          "value": "0:00",
+          "bar": 0.05
+        },
+        {
+          "label": "Anxiety",
+          "value": "99%",
+          "bar": 0.99
+        },
+        {
+          "label": "Pride",
+          "value": "2%",
+          "bar": 0.02
+        }
+      ],
+      "character": "A strawberry human with bright red textured skin, tiny yellow seeds, wearing a stained white barista apron and a glowing forehead badge.",
+      "visual": "Close-up shot in a steamy, dimly lit coffee shop. A strawberry woman stares frantically at her glowing smartphone screen displaying a zero.",
+      "scenes": [
+        "Wide shot of a bustling downtown coffee shop at dawn, rain streaking the windows, a tiny hidden golden coin resting near a spilled sugar packet.",
+        "Medium shot behind the espresso counter, steam rising around the strawberry woman's worried face as she clutches her phone.",
+        "Close-up of the glowing forehead badge showing '0:02 Sec' while blue checkmarks glow ominously on the screen.",
+        "Over-the-shoulder shot showing a towering dragon fruit man in a sleek suit pointing condescendingly at the phone.",
+        "Detail shot of a hidden golden coin tucked underneath a ceramic coffee saucer on the worn wooden counter.",
+        "Wide shot of the rainy street outside the cafe as a yellow bus labeled Line 42 drives past a glowing neon kiosk."
+      ],
+      "caption": "Have you ever regretted hitting send on a voice note? Drop your worst story below! #VoiceNote #Awkward #Dramatiktok #Relatable #Heartbreak"
+    },
+    {
+      "n": 2,
+      "open_loop": "Why did the playback status suddenly jump without anyone pressing play?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Snatches her phone away and mocks her shaky breathing in front of coworkers."
+      },
+      "name": "Oliver, 26, Orange Accountant",
+      "badge": "0:15 Sec",
+      "verdict": "PARTIAL",
+      "story": "The 8 levels of emotional voice note silence. Level 2. Level 2: 15 seconds played and total panic echoing through the office cubicles. I'm Oliver, 26, a round orange sweating through my cheap polyester tie while my forehead number ticks upward against my will. Fifteen seconds. That is how far he got before pausing my desperate late-night confession. Look at this amateur, she cackles, waving my device in the air for everyone to see. He listened to the intro and realized you are completely losing your mind over him. The entire open-plan office erupts into muffled laughter, and my citrus skin burns with humiliating heat. I try to lunge for my phone, but she holds it just out of reach. I never wanted anyone else to hear the tremor in my voice. You'll see that in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+30 Sec",
+        "after": "0:45 Sec"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of emotional voice note silence. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 15 seconds played and total panic echoing through the office cubicles."
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Oliver, 26, a round orange sweating through my cheap polyester tie while my forehead number ticks upward against my will."
+        },
+        {
+          "s": "Figur",
+          "t": "Fifteen seconds. That is how far he got before pausing my desperate late-night confession."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Look at this amateur, she cackles, waving my device in the air for everyone to see.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "He listened to the intro and realized you are completely losing your mind over him.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "The entire open-plan office erupts into muffled laughter, and my citrus skin burns with humiliating heat."
+        },
+        {
+          "s": "Figur",
+          "t": "I try to lunge for my phone, but she holds it just out of reach."
+        },
+        {
+          "s": "Figur",
+          "t": "I never wanted anyone else to hear the tremor in my voice."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Everyone in this office just heard you beg for his attention.",
+      "quote_by": {
+        "level": 3,
+        "name": "Zoe",
+        "badge": "75,000 $",
+        "character": "A sour lemon woman with sharp yellow edges and an expensive designer blazer.",
+        "scene": "Medium shot in a chaotic corporate office, Zoe holding an orange man's phone mockingly above her head."
+      },
+      "stats": [
+        {
+          "label": "Listen Time",
+          "value": "0:15",
+          "bar": 0.2
+        },
+        {
+          "label": "Panic",
+          "value": "85%",
+          "bar": 0.85
+        },
+        {
+          "label": "Dignity",
+          "value": "10%",
+          "bar": 0.1
+        }
+      ],
+      "character": "An orange fruit human with dimpled citrus skin, wearing a wrinkled gray suit jacket, striped tie, and a glowing digital forehead display.",
+      "visual": "Medium shot in a brightly lit corporate office cubicle. An orange man reaches desperately for his phone while a lemon woman laughs.",
+      "scenes": [
+        "Wide shot of a crowded fluorescent-lit office floor, employees typing away, a hidden golden coin resting on top of a water cooler.",
+        "Close-up of the orange man's face, sweat droplets beading on his textured citrus skin as his forehead badge glows '0:15 Sec'.",
+        "Medium shot of the lemon woman leaning over a cubicle wall, sneering while waving the phone.",
+        "Detail shot of the phone screen showing a voice note waveform paused halfway through.",
+        "Wide shot of the breakroom where Bus Line 42 is visible passing by the street-level window outside.",
+        "Close-up of a hidden golden coin wedged between two stacked reams of copy paper on a messy desk."
+      ],
+      "caption": "When a coworker finds your unplayed voice note and reads it out loud. Absolute nightmare! #OfficeDrama #Voicemail #Relatable #Workplace #Stress"
+    },
+    {
+      "n": 3,
+      "open_loop": "Who deleted the voice note right before the listener could hit play?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Threatens to expose her browser history if she dares follow up with another message."
+      },
+      "name": "Maya, 29, Avocado Copywriter",
+      "badge": "1:02 Min",
+      "verdict": "HALFWAY",
+      "story": "The 8 levels of emotional voice note silence. Level 3. Level 3: 1 minute and 2 seconds of agonizing playback torture in a packed subway car. I'm Maya, 29, a smooth green avocado desperately clutching my laptop bag while the city rattles around me. He listened past the intro. He heard me crying about how much I miss our late-night talks. But then he stopped dead at the middle. A slick broccoli executive in an expensive trench coat blocks my exit, sneering down at my glowing forehead counter. One minute and two seconds? That is the exact timestamp where you start sounding completely unhinged, darling. My stomach twists into a knot as fellow commuters turn their heads to stare at my green skin flushing bright red. I try to push past him toward the sliding doors, but he steps directly into my path. You'll see that in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "+45 Sec",
+        "after": "1:47 Min"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of emotional voice note silence. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 1 minute and 2 seconds of agonizing playback torture in a packed subway car."
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Maya, 29, a smooth green avocado desperately clutching my laptop bag while the city rattles around me."
+        },
+        {
+          "s": "Figur",
+          "t": "He listened past the intro. He heard me crying about how much I miss our late-night talks."
+        },
+        {
+          "s": "Figur",
+          "t": "But then he stopped dead at the middle."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "A slick broccoli executive in an expensive trench coat blocks my exit, sneering down at my glowing forehead counter.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "One minute and two seconds? That is the exact timestamp where you start sounding completely unhinged, darling.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My stomach twists into a knot as fellow commuters turn their heads to stare at my green skin flushing bright red."
+        },
+        {
+          "s": "Figur",
+          "t": "I try to push past him toward the sliding doors, but he steps directly into my path."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Stop embarrassing yourself before I block your number everywhere.",
+      "quote_by": {
+        "level": 4,
+        "name": "Julian",
+        "badge": "120,000 $",
+        "character": "An arrogant Broccoli man with a dark green florets haircut and a tailored cashmere coat.",
+        "scene": "Medium shot inside a crowded underground subway train, Julian blocking the doors with a cold smirk."
+      },
+      "stats": [
+        {
+          "label": "Listen Time",
+          "value": "1:02",
+          "bar": 0.4
+        },
+        {
+          "label": "Heartrate",
+          "value": "140 BPM",
+          "bar": 0.75
+        },
+        {
+          "label": "Regret",
+          "value": "80%",
+          "bar": 0.8
+        }
+      ],
+      "character": "An avocado human with smooth pale green skin, a dark green central pit pattern on her cheek, wearing a beige trench coat and a glowing digital forehead badge.",
+      "visual": "Wide shot of a crowded subway car underground. An avocado woman stands trapped while a broccoli man blocks her path.",
+      "scenes": [
+        "Wide shot inside a rattling subway car, fluorescent lights flickering above, a hidden golden coin taped beneath a metal grab pole.",
+        "Close-up of the avocado woman's textured green skin and anxious eyes, her forehead displaying '1:02 Min'.",
+        "Medium shot of the broccoli man crossing his arms in his expensive trench coat, glaring down at her.",
+        "Detail shot of a smartphone screen showing a voice note timeline stuck at the 1-minute mark.",
+        "Wide shot of the subway platform as the train doors open, revealing a neon kiosk in the station background.",
+        "Close-up of a hidden golden coin resting on a discarded newspaper left on a subway seat."
+      ],
+      "caption": "Getting stuck on public transit while obsessing over a voice note timestamp is peak suffering. #SubwayDrama #Anxiety #Relatable #Heartbreak #Avocado"
+    },
+    {
+      "n": 4,
+      "open_loop": "What secret message did the recipient forward to mutual friends?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Broadcasts her voice note recording over the club speakers for everyone to mock."
+      },
+      "name": "Leo, 31, Zucchini Architect",
+      "badge": "2:10 Min",
+      "verdict": "ALMOST",
+      "story": "The 8 levels of emotional voice note silence. Level 4. Level 4: 2 minutes and 10 seconds of pure psychological torture while standing outside his apartment door. I'm Leo, 31, a long green zucchini shivering in the autumn chill with my blueprints tucked under my arm. He is almost at the end of the voice note. He has heard every raw, unfiltered confession of my love. Suddenly, a towering coconut bouncer with a rock-hard brown shell steps out of the building lobby and blocks the entrance. Two minutes and ten seconds? You really thought a fancy architect could love a vegetable like you? My wooden skin feels brittle and weak under his crushing gaze. He knows I am waiting for him to open the door and accept my heart. Instead, he pulls out his own phone and hits speakerphone, broadcasting a snippet of my crying voice. You'll see that in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+50 Sec",
+        "after": "3:00 Min"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of emotional voice note silence. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 2 minutes and 10 seconds of pure psychological torture while standing outside his apartment door."
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Leo, 31, a long green zucchini shivering in the autumn chill with my blueprints tucked under my arm."
+        },
+        {
+          "s": "Figur",
+          "t": "He is almost at the end of the voice note. He has heard every raw, unfiltered confession of my love."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Suddenly, a towering coconut bouncer with a rock-hard brown shell steps out of the building lobby and blocks the entrance.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Two minutes and ten seconds? You really thought a fancy architect could love a vegetable like you?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My wooden skin feels brittle and weak under his crushing gaze."
+        },
+        {
+          "s": "Figur",
+          "t": "He knows I am waiting for him to open the door and accept my heart."
+        },
+        {
+          "s": "Figur",
+          "t": "Instead, he pulls out his own phone and hits speakerphone, broadcasting a snippet of my crying voice."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Nobody wants to listen to a sad emotional breakdown at midnight.",
+      "quote_by": {
+        "level": 5,
+        "name": "Marcus",
+        "badge": "250,000 $",
+        "character": "A massive Coconut man with a rugged brown shell head and a menacing bouncer jacket.",
+        "scene": "Wide shot outside a luxury apartment building entrance at night, Marcus towering over a zucchini man."
+      },
+      "stats": [
+        {
+          "label": "Listen Time",
+          "value": "2:10",
+          "bar": 0.6
+        },
+        {
+          "label": "Hope",
+          "value": "40%",
+          "bar": 0.4
+        },
+        {
+          "label": "Pride",
+          "value": "5%",
+          "bar": 0.05
+        }
+      ],
+      "character": "A zucchini human with elongated green skin, wearing a stylish turtleneck sweater, architect glasses, and a glowing digital forehead display.",
+      "visual": "Medium shot outside a glowing apartment building doorway at night. A zucchini man stands holding blueprints while a coconut bouncer blocks him.",
+      "scenes": [
+        "Wide shot of a rain-slicked city sidewalk outside an upscale apartment building at night, a hidden golden coin nestled in a sidewalk crack.",
+        "Close-up of the zucchini man's striped green skin and tense jawline, forehead glowing '2:10 Min'.",
+        "Medium shot of the coconut bouncer laughing heartily, pointing a thick brown finger at the phone screen.",
+        "Detail shot of architectural blueprints getting slightly damp under a streetlamp.",
+        "Wide shot of Bus Line 42 passing in the background street, its headlights cutting through the mist.",
+        "Close-up of a hidden golden coin resting on the edge of a stone planter box."
+      ],
+      "caption": "Standing outside their door while listening to your own voice note playback is pure agony. #Heartbreak #Architecture #Drama #Relatable #Zucchini"
+    },
+    {
+      "n": 5,
+      "open_loop": "What did the final three seconds of the recording actually reveal?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Tears up her handwritten letter of apology and throws it into the fountain."
+      },
+      "name": "Chloe, 28, Plum Florist",
+      "badge": "3:45 Min",
+      "verdict": "COMPLETED",
+      "story": "The 8 levels of emotional voice note silence. Level 5. Level 5: 3 minutes and 45 seconds of complete playback completion and absolute radio silence. I'm Chloe, 28, a deep purple plum standing in the middle of my flower shop surrounded by wilting roses. He listened to every single second. The entire three minutes and forty-five seconds of my rawest, most vulnerable confession have finally registered. A bitter pomegranate woman with ruby-red crown segments struts into my shop, kicking over a bucket of tulips. Three minutes and forty-five seconds? He heard the whole pathetic thing and didn't even care. My purple skin burns with suffocating humiliation as I stare at my glowing forehead badge. She crosses her arms, enjoying every second of my heartbreak. You'll see that in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+15 Sec",
+        "after": "4:00 Min"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of emotional voice note silence. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 3 minutes and 45 seconds of complete playback completion and absolute radio silence."
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Chloe, 28, a deep purple plum standing in the middle of my flower shop surrounded by wilting roses."
+        },
+        {
+          "s": "Figur",
+          "t": "He listened to every single second."
+        },
+        {
+          "s": "Figur",
+          "t": "The entire three minutes and forty-five seconds of my rawest, most vulnerable confession have finally registered."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "A bitter pomegranate woman with ruby-red crown segments struts into my shop, kicking over a bucket of tulips.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Three minutes and forty-five seconds? He heard the whole pathetic thing and didn't even care.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My purple skin burns with suffocating humiliation as I stare at my glowing forehead badge."
+        },
+        {
+          "s": "Figur",
+          "t": "She crosses her arms, enjoying every second of my heartbreak."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "He heard the whole thing and decided you simply weren't worth an answer.",
+      "quote_by": {
+        "level": 6,
+        "name": "Soraya",
+        "badge": "500,000 $",
+        "character": "A regal Pomegranate woman with crown-like head spikes and a ruby silk dress.",
+        "scene": "Medium shot inside a blooming flower shop, Soraya kicking over a flower bucket with a cold smirk."
+      },
+      "stats": [
+        {
+          "label": "Listen Time",
+          "value": "3:45",
+          "bar": 0.8
+        },
+        {
+          "label": "Despair",
+          "value": "90%",
+          "bar": 0.9
+        },
+        {
+          "label": "Self-Worth",
+          "value": "15%",
+          "bar": 0.15
+        }
+      ],
+      "character": "A plum human with smooth deep purple skin, wearing a floral apron, silver earrings, and a glowing digital forehead display.",
+      "visual": "Medium shot inside a sunlit flower shop surrounded by colorful petals. A purple plum woman looks devastatingly sad at her phone.",
+      "scenes": [
+        "Wide shot of a charming flower boutique on a sunny afternoon, a hidden golden coin resting inside a ceramic vase of sunflowers.",
+        "Close-up of the plum woman's rich purple skin and sorrowful eyes, her forehead glowing '3:45 Min'.",
+        "Medium shot of the pomegranate woman in ruby silk knocking over a bucket of pink peonies.",
+        "Detail shot of a smartphone screen showing a fully played audio waveform with a checkmark.",
+        "Wide shot of the storefront window showing a neon kiosk across the busy street.",
+        "Close-up of a hidden golden coin tucked under the cash register receipt tray."
+      ],
+      "caption": "When they listen to your 4-minute voice note and leave you on read anyway. Pain! #Heartbreak #Florist #Relatable #Drama #Plum"
+    },
+    {
+      "n": 6,
+      "open_loop": "Whose voice was heard in the background of his incoming reply?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Confiscates her phone and deletes her messaging app in front of the entire boardroom."
+      },
+      "name": "Kai, 32, Mushroom DJ",
+      "badge": "4:12 Min",
+      "verdict": "TYPING...",
+      "story": "The 8 levels of emotional voice note silence. Level 6. Level 6: 4 minutes and 12 seconds of waiting while three little typing dots mock my entire existence. I'm Kai, 32, a spotted mushroom sitting behind my turntable rig while my forehead number flashes erratically. Four minutes and twelve seconds of playback, and now the dreaded typing bubbles are dancing on my screen. A sleek eggplant executive with a glossy purple suit strides into the DJ booth and slams my laptop shut. Four minutes and twelve seconds of whining into a microphone? No wonder he is taking forever to type. The booming bass of the club drowns out my racing heartbeat as my mushroom cap pulses with red anxiety. He thinks my emotional honesty is a joke. I reach for my phone, but he shoves it deeper into his designer pocket. You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+30 Sec",
+        "after": "4:42 Min"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of emotional voice note silence. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 4 minutes and 12 seconds of waiting while three little typing dots mock my entire existence."
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Kai, 32, a spotted mushroom sitting behind my turntable rig while my forehead number flashes erratically."
+        },
+        {
+          "s": "Figur",
+          "t": "Four minutes and twelve seconds of playback, and now the dreaded typing bubbles are dancing on my screen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "A sleek eggplant executive with a glossy purple suit strides into the DJ booth and slams my laptop shut.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Four minutes and twelve seconds of whining into a microphone? No wonder he is taking forever to type.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "The booming bass of the club drowns out my racing heartbeat as my mushroom cap pulses with red anxiety."
+        },
+        {
+          "s": "Figur",
+          "t": "He thinks my emotional honesty is a joke."
+        },
+        {
+          "s": "Figur",
+          "t": "I reach for my phone, but he shoves it deeper into his designer pocket."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "Those typing bubbles are just him trying to figure out how to block you.",
+      "quote_by": {
+        "level": 7,
+        "name": "Victor",
+        "badge": "1,000,000 $",
+        "character": "A sleek Eggplant man with a glossy purple head and an arrogant corporate demeanor.",
+        "scene": "Medium shot inside a neon nightclub DJ booth, Victor slamming a laptop shut with a ruthless smirk."
+      },
+      "stats": [
+        {
+          "label": "Listen Time",
+          "value": "4:12",
+          "bar": 0.9
+        },
+        {
+          "label": "Anxiety",
+          "value": "99%",
+          "bar": 0.99
+        },
+        {
+          "label": "Hope",
+          "value": "10%",
+          "bar": 0.1
+        }
+      ],
+      "character": "A mushroom human with a broad white stem and a brown spotted cap head, wearing headphones around his neck and a glowing digital forehead display.",
+      "visual": "Medium shot inside a dark neon-lit nightclub DJ booth. A mushroom DJ stares in horror at his laptop screen showing typing bubbles.",
+      "scenes": [
+        "Wide shot of a crowded underground nightclub dancefloor pulsing with strobe lights, a hidden golden coin resting near a speaker stack.",
+        "Close-up of the mushroom DJ's textured cap and wide eyes, forehead glowing '4:12 Min'.",
+        "Medium shot of the sleek eggplant executive in a glossy purple suit mocking the DJ setup.",
+        "Detail shot of a smartphone screen showing animated typing dots flashing on a messaging app.",
+        "Wide shot of the alleyway outside the club where a neon kiosk and Bus Line 42 are visible.",
+        "Close-up of a hidden golden coin taped underneath a vinyl record turntable case."
+      ],
+      "caption": "Watching those typing bubbles appear after a 4-minute voice note is pure psychological torture. #ClubLife #TypingBubbles #Relatable #Anxiety #Mushroom"
+    },
+    {
+      "n": 7,
+      "open_loop": "What was written in the text that arrived right after the call dropped?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Laughs at her shattered expectations and deletes her entire chat history."
+      },
+      "name": "Celeste, 30, Starfruit Pianist",
+      "badge": "5:00 Min",
+      "verdict": "UNANSWERED",
+      "story": "The 8 levels of emotional voice note silence. Level 7. Level 7: 5 full minutes of heartfelt audio and not a single word back in return. I'm Celeste, 30, a geometric starfruit sitting at my grand piano while my glowing forehead badge hits the absolute maximum limit. Five minutes. I bared my entire soul, and all I got was dead, piercing silence. A wealthy dragon fruit billionaire in an obsidian tuxedo walks out from the VIP lounge and taps my piano keys with a diamond ring. Five minutes of crying into a microphone? You actually expected a prince to answer a peasant's voice note? My sharp yellow star-points tremble with burning humiliation as the entire gala stares at my glowing forehead. I worked my whole life to have courage, and it ended in a joke. He reaches down and snaps my phone in half, letting the pieces clatter onto the marble floor. You'll see that in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "MAX",
+        "after": "5:00 Min"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of emotional voice note silence. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 5 full minutes of heartfelt audio and not a single word back in return."
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Celeste, 30, a geometric starfruit sitting at my grand piano while my glowing forehead badge hits the absolute maximum limit."
+        },
+        {
+          "s": "Figur",
+          "t": "Five minutes. I bared my entire soul, and all I got was dead, piercing silence."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "A wealthy dragon fruit billionaire in an obsidian tuxedo walks out from the VIP lounge and taps my piano keys with a diamond ring.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Five minutes of crying into a microphone? You actually expected a prince to answer a peasant's voice note?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My sharp yellow star-points tremble with burning humiliation as the entire gala stares at my glowing forehead."
+        },
+        {
+          "s": "Figur",
+          "t": "I worked my whole life to have courage, and it ended in a joke."
+        },
+        {
+          "s": "Figur",
+          "t": "He reaches down and snaps my phone in half, letting the pieces clatter onto the marble floor."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "Some voice notes are never meant to be answered. Deal with it.",
+      "quote_by": {
+        "level": 8,
+        "name": "Dante",
+        "badge": "100M Views",
+        "character": "An arrogant Dragon Fruit man with an obsidian tuxedo and absolute control over the city's digital network.",
+        "scene": "Wide shot of a luxurious marble ballroom, Dante snapping a phone in half with a cold smirk."
+      },
+      "stats": [
+        {
+          "label": "Listen Time",
+          "value": "5:00",
+          "bar": 1.0
+        },
+        {
+          "label": "Heartbreak",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Silence",
+          "value": "MAX",
+          "bar": 1.0
+        }
+      ],
+      "character": "A starfruit human with sharp five-point yellow geometric skin, wearing an elegant velvet evening gown and a glowing digital forehead display.",
+      "visual": "Wide shot of a lavish grand ballroom with crystal chandeliers. A starfruit pianist sits at a black grand piano looking heartbroken.",
+      "scenes": [
+        "Wide shot of an opulent ballroom gala filled with wealthy fruit elites, a hidden golden coin resting inside the grand piano pedal lyre.",
+        "Close-up of the starfruit woman's geometric yellow skin and sorrowful expression, forehead glowing '5:00 Min'.",
+        "Medium shot of the dragon fruit billionaire in his obsidian tuxedo snapping a smartphone in half.",
+        "Detail shot of shattered phone glass glittering on polished white marble flooring.",
+        "Wide shot of the grand hotel entrance outside where Bus Line 42 and the neon kiosk glow in the night.",
+        "Close-up of a hidden golden coin resting on the edge of a champagne flute tower."
+      ],
+      "caption": "When you send a 5-minute voice note and get absolute zero in return. The ultimate pain! #Heartbreak #Pianist #Relatable #Drama #Starfruit"
+    },
+    {
+      "n": 8,
+      "open_loop": "What happened when the tables finally turned on the person who ignored every voice note?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Refuses to play his incoming voice note and walks away with a smile."
+      },
+      "name": "Dante, 35, Dragon Fruit Mogul",
+      "badge": "100M Views",
+      "verdict": "PAYBACK",
+      "story": "The 8 levels of emotional voice note silence. Level 8. Level 8: 100 million views and the exact moment every ignored voice note comes back to haunt the arrogant. I'm Dante, 35, the dragon fruit billionaire who laughed at Ruby, mocked Oliver, and broke Celeste's phone. I thought my high forehead number made me immune to pain. But tonight, my own phone buzzes with a three-minute voice note from someone I discarded years ago. I tap play, expecting nothing, and suddenly hear my own arrogant words broadcasted across every neon screen. Ruby walks past me, holding her coffee cup and smiling without a trace of hesitation. The tables have completely turned, and my massive empire cannot buy back one second of lost time. The glowing number on my forehead flickers and resets to zero right before my eyes. Which emotional rollercoaster of our fruit city should we explore in our next series?",
+      "gender": "m",
+      "twist": {
+        "delta": "RESET",
+        "after": "0:00"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of emotional voice note silence. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 100 million views and the exact moment every ignored voice note comes back to haunt the arrogant."
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Dante, 35, the dragon fruit billionaire who laughed at Ruby, mocked Oliver, and broke Celeste's phone."
+        },
+        {
+          "s": "Figur",
+          "t": "I thought my high forehead number made me immune to pain."
+        },
+        {
+          "s": "Figur",
+          "t": "But tonight, my own phone buzzes with a three-minute voice note from someone I discarded years ago."
+        },
+        {
+          "s": "Figur",
+          "t": "I tap play, expecting nothing, and suddenly hear my own arrogant words broadcasted across every neon screen."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Ruby walks past me, holding her coffee cup and smiling without a trace of hesitation.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "The tables have completely turned, and my massive empire cannot buy back one second of lost time."
+        },
+        {
+          "s": "Figur",
+          "t": "The glowing number on my forehead flickers and resets to zero right before my eyes."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Which emotional rollercoaster of our fruit city should we explore in our next series?"
+        }
+      ],
+      "quote": "The silence you give others will eventually echo back to consume you.",
+      "quote_by": {
+        "level": 1,
+        "name": "Ruby",
+        "badge": "0:01 Sec",
+        "character": "A confident Strawberry barista holding an espresso cup with a victorious smile.",
+        "scene": "Medium shot on a vibrant city sidewalk, Ruby walking past a billionaire with a calm, empowered smile."
+      },
+      "stats": [
+        {
+          "label": "Karma",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Empire",
+          "value": "FALLEN",
+          "bar": 0.0
+        },
+        {
+          "label": "Silence",
+          "value": "TOTAL",
+          "bar": 1.0
+        }
+      ],
+      "character": "A dragon fruit human with vibrant magenta skin, green-tipped petal spikes, wearing an obsidian tuxedo, and a glowing digital forehead display.",
+      "visual": "Wide shot of a massive penthouse balcony overlooking a glowing cyberpunk city at night. A dragon fruit billionaire stares in shock at his resetting forehead badge.",
+      "scenes": [
+        "Wide shot of the glittering neon metropolis at night, Bus Line 42 passing below, a hidden golden coin resting right on the penthouse balcony railing.",
+        "Close-up of the dragon fruit billionaire's magenta skin and stunned eyes as his forehead badge flickers from '100M' to '0'.",
+        "Medium shot of Ruby the strawberry barista walking calmly down the sidewalk below, sipping coffee and smiling.",
+        "Detail shot of a smartphone screen playing back a recorded voice note across the city's loudspeakers.",
+        "Wide shot of the glowing neon kiosk where all previous characters cross paths in the background.",
+        "Close-up of the final hidden golden coin catching the bright neon city lights."
+      ],
+      "caption": "Karma always collects its debt in the end. What series should we do next? Drop your ideas below! #Karma #VoiceNote #Drama #Relatable #PlotTwist"
+    }
+  ],
+  "lang": "en",
+  "topic": "Das unerträgliche Schweigen nach dem Verschicken einer emotionalen Sprachnachricht",
+  "frame": "frucht"
+}

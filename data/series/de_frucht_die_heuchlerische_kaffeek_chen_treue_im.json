@@ -1,0 +1,734 @@
+{
+  "title": "Die 8 Level der Kaffeeküchen-Treue",
+  "house": "A bustling German corporate skyscraper where vegetable people work under glowing numeric forehead displays, featuring a damp breakroom, endless gray hallways, and a flashing coffee machine.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Level 1 mentions the barista in Level 2 who always pours extra foam for quiet workers.",
+    "Level 3 is seen rushing past Level 5's desk with a signed yellow envelope.",
+    "Level 6 leaves a half-empty coffee mug that Level 2 has to wash every single morning."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was stand in dem verschlossenen Brief von der Personalabteilung, den Tom sofort verstecken wollte?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Lacht Tom wegen seiner niedrigen Zahl aus und nimmt ihm den letzten Becher Filterkaffee weg.",
+        "g": "m"
+      },
+      "name": "Tom, 24, Werkstudent",
+      "badge": "450 €",
+      "verdict": "MINDESTLOHN",
+      "story": "450 Euro? Wer hat den Werkstudenten überhaupt in die Teeküche gelassen? Die 8 Level von Kaffeeküchen-Treue. Level 1. Ich stehe in der engen, stickigen Kaffeeküche im dritten Stock, halte meine abgegriffene Plastiktasse mit billigem Discounter-Kaffee und nicke pflichtbewusst. Ich habe gestern den geheimen Aufhebungsvertrag unterschrieben und fange nächsten Montag direkt bei der verfeindeten Konkurrenz im zehnten Stock an. Trotzdem lächle ich den arrogant grinsenden Kollegen an und sage: Natürlich bleibe ich dem Team bis zur letzten Sekunde absolut treu. Du wirst hier für deinen Hungerlohn für immer der kleine Knecht bleiben. Ich ballte die Faust in meiner Hosentasche so fest, dass meine Knöchel weiß wurden, und dachte an mein lukratives Start-up-Angebot, welches alle Hierarchien sprengen wird. Genau in diesem Moment vibrierte mein Smartphone unaufhörlich und die rote Zahl auf meiner Stirn begann pulsierend zu leuchten. Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+3.500 €",
+        "after": "3.950 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "450 Euro? Wer hat den Werkstudenten überhaupt in die Teeküche gelassen?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Kaffeeküchen-Treue. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe in der engen, stickigen Kaffeeküche im dritten Stock, halte meine abgegriffene Plastiktasse mit billigem Discounter-Kaffee und nicke pflichtbewusst."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe gestern den geheimen Aufhebungsvertrag unterschrieben und fange nächsten Montag direkt bei der verfeindeten Konkurrenz im zehnten Stock an."
+        },
+        {
+          "s": "Figur",
+          "t": "Trotzdem lächle ich den arrogant grinsenden Kollegen an und sage: Natürlich bleibe ich dem Team bis zur letzten Sekunde absolut treu."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du wirst hier für deinen Hungerlohn für immer der kleine Knecht bleiben.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich ballte die Faust in meiner Hosentasche so fest, dass meine Knöchel weiß wurden, und dachte an mein lukratives Start-up-Angebot, welches alle Hierarchien sprengen wird."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Genau in diesem Moment vibrierte mein Smartphone unaufhörlich und die rote Zahl auf meiner Stirn begann pulsierend zu leuchten."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Du wirst hier für Mindestlohn Knecht bleiben.",
+      "quote_by": {
+        "level": 4,
+        "name": "Herr Bernd",
+        "badge": "42.000 €",
+        "character": "An arrogant bell pepper person in a sharp gray suit with a golden pen in his pocket.",
+        "scene": "Wide angle shot in the corporate breakroom, bell pepper person pointing mockingly at a young tomato guy with a low number."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "450 €",
+          "bar": 0.05
+        },
+        {
+          "label": "Loyalität",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Geheimnis",
+          "value": "Aktiv",
+          "bar": 0.8
+        }
+      ],
+      "character": "A young, stressed tomato person with bright red skin, wearing a slightly faded blue hoodie and carrying a chipped mug. Glowing digital forehead display shows 450 €.",
+      "visual": "Close-up shot in a dull office breakroom with a steaming coffee machine, a tomato person looking down at a paper cup with a glowing low number on their forehead, harsh fluorescent lighting reflecting off the green stem.",
+      "scenes": [
+        "Wide angle shot of the crowded corporate breakroom, gray walls, vending machines, vegetable employees talking near the coffee machine, daylight through frosted glass.",
+        "Medium shot of the tomato person holding a cheap paper cup, smiling nervously while a bell pepper person in a suit glares from the background.",
+        "Detail shot of a glowing digital forehead display showing the red digits 450 €, flickering slightly in the dim corridor light.",
+        "Halbnah shot in the narrow hallway, two colleagues whispering next to a water cooler with a tiny hidden golden coin on the plastic cup dispenser.",
+        "Close-up shot of a smartphone screen displaying an email notification with a signed contract attachment and a golden coin resting on the corner of the desk.",
+        "Wide angle shot of the modern glass facade of the office building at dusk, illuminated windows casting long shadows on the wet pavement outside."
+      ],
+      "caption": "Wer hätte gedacht, dass ein Werkstudent plötzlich alle Karten in der Hand hat? Kennst du solche Heuchler im Büro? #Kaffeeküche #BüroDrama #DieStirnZahl #Karriere #Viral #Deutschland"
+    },
+    {
+      "n": 2,
+      "open_loop": "Warum lag der Zettel mit der Kündigung ausgerechnet unter der Kaffeemaschine von Frau Müller?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Kippt den halben Kaffee demonstrativ ins Waschbecken und beschimpft den Arbeiter als nutzlosen Versager.",
+        "g": "w"
+      },
+      "name": "Lara, 31, Sachbearbeiterin",
+      "badge": "1.850 €",
+      "verdict": "MITTELMASS",
+      "story": "Die 8 Level von Kaffeeküchen-Treue. Level 2. Ich stehe seit sieben Uhr morgens in der Teeküche, schrubbe den klebrigen Milchaufschäumer und lächle die gesamte Abteilung an, während ich innerlich koche. Alle wissen ganz genau, dass ich seit zwei Wochen gekündigt habe und im Nachbargebäude bereits das doppelte Gehalt beziehe. Für so einen arroganten Versager wie dich ist selbst dieser billige Kaffee absolute Verschwendung. Du wirst hier unten ewig versauern! Meine Hände zitterten unkontrolliert, während ich den Lappen krampfhaft festhielt und an ihr dunkles, verheerendes Geheimnis dachte. Ruhe jetzt in der Kaffeeküche, die Geschäftsführung kommt. Ein einziger Briefumschlag auf dem Tisch veränderte schlagartig die gesamte Hierarchie. Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1.200 €",
+        "after": "3.050 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Kaffeeküchen-Treue. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe seit sieben Uhr morgens in der Teeküche, schrubbe den klebrigen Milchaufschäumer und lächle die gesamte Abteilung an, während ich innerlich koche."
+        },
+        {
+          "s": "Figur",
+          "t": "Alle wissen ganz genau, dass ich seit zwei Wochen gekündigt habe und im Nachbargebäude bereits das doppelte Gehalt beziehe."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Für so einen arroganten Versager wie dich ist selbst dieser billige Kaffee absolute Verschwendung. Du wirst hier unten ewig versauern!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Hände zitterten unkontrolliert, während ich den Lappen krampfhaft festhielt und an ihr dunkles, verheerendes Geheimnis dachte."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Ruhe jetzt in der Kaffeeküche, die Geschäftsführung kommt.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Ein einziger Briefumschlag auf dem Tisch veränderte schlagartig die gesamte Hierarchie."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Wer so wenig verdient, hat hier kein Mitspracherecht.",
+      "quote_by": {
+        "level": 5,
+        "name": "Frau Dr. Kube",
+        "badge": "5.400 €",
+        "character": "A stern lemon person with yellow citrus skin, wearing a strict black blazer and rimless glasses.",
+        "scene": "Medium shot in the office kitchen, lemon person crossing arms and looking down with a sneer at a lemon-yellow ceramic mug."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "1.850 €",
+          "bar": 0.25
+        },
+        {
+          "label": "Überstunden",
+          "value": "42 h",
+          "bar": 0.7
+        },
+        {
+          "label": "Rache",
+          "value": "Bereit",
+          "bar": 0.9
+        }
+      ],
+      "character": "A tart, lemon-headed woman with pale yellow skin, wearing a sensible gray cardigan and a silver necklace. Glowing digital forehead display shows 1.850 €.",
+      "visual": "Medium shot in a bright, modern office kitchen with stainless steel appliances, a lemon person scrubbing a sink, and a glaring supervisor watching from the doorway.",
+      "scenes": [
+        "Medium shot in the office kitchen, stainless steel counter, lemon person holding a sponge while looking at a glowing forehead number.",
+        "Halbnah shot of two colleagues whispering near the coffee machine, with a hidden golden coin resting on top of the sugar bowl.",
+        "Detail shot of a digital forehead display flickering from 1.850 € to a higher value as an email notification arrives.",
+        "Wide angle shot of the chaotic open-plan office, rows of desks, flickering neon lights under an overcast sky outside the window.",
+        "Close-up shot of a confidential HR document on a wooden table next to a half-empty espresso cup.",
+        "Wide angle shot of the underground parking garage elevator lobby, cold concrete walls, evening shift starting."
+      ],
+      "caption": "Wer im Büro schuftet und niedertreten wird, hat oft das beste Ass im Ärmel. Würdest du sofort kündigen? #BüroLife #Kaffeeküche #Arbeitsrecht #StirnZahl #ViralDE"
+    },
+    {
+      "n": 3,
+      "open_loop": "Welche brisante Zahl stand auf dem zweiten Zettel, den der Chef heimlich in die Akte legte?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Wirft die Bewerbungsunterlagen des Brokkolis ungeöffnet in den Papiermüll.",
+        "g": "m"
+      },
+      "name": "Ben, 39, Projektmanager",
+      "badge": "3.100 €",
+      "verdict": "SOLIDE",
+      "story": "Die 8 Level von Kaffeeküchen-Treue. Level 3. Ich halte die riesige Geburtstagstorte für den arroganten Abteilungsleiter in meinen Händen, während alle gekünstelt singen und applaudieren. Mein längst unterschriebener Vertrag bei der globalen Konkurrenz liegt in diesem Moment absolut sicher in meiner verschlossenen Schreibtischschublade. Mit so einer grauen Mediokritäts-Zahl wirst du in diesem Leben niemals ganz nach oben kommen. Ich biss die Zähne so fest zusammen, dass es knackte, und dachte an den extrem wertvollen Premium-Kunden, den ich morgen früh als allererstes abwerben werde. Chef, der gesamte Vorstand am Telefon will Sie augenblicklich sprechen! Ein extrem kurzer Anruf reichte in diesem Bruchteil einer Sekunde aus, um die unerträgliche Arroganz im gesamten Raum komplett erlöschen zu lassen. Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1.800 €",
+        "after": "4.900 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Kaffeeküchen-Treue. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich halte die riesige Geburtstagstorte für den arroganten Abteilungsleiter in meinen Händen, während alle gekünstelt singen und applaudieren."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein längst unterschriebener Vertrag bei der globalen Konkurrenz liegt in diesem Moment absolut sicher in meiner verschlossenen Schreibtischschublade."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit so einer grauen Mediokritäts-Zahl wirst du in diesem Leben niemals ganz nach oben kommen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich biss die Zähne so fest zusammen, dass es knackte, und dachte an den extrem wertvollen Premium-Kunden, den ich morgen früh als allererstes abwerben werde."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Chef, der gesamte Vorstand am Telefon will Sie augenblicklich sprechen!",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Ein extrem kurzer Anruf reichte in diesem Bruchteil einer Sekunde aus, um die unerträgliche Arroganz im gesamten Raum komplett erlöschen zu lassen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Mit so einer Mittelmass-Zahl wirst du nie ganz nach oben kommen.",
+      "quote_by": {
+        "level": 7,
+        "name": "Direktor Wolf",
+        "badge": "9.200 €",
+        "character": "An imposing coconut person with a hard, fibrous brown shell head and an expensive tailored wool coat.",
+        "scene": "Wide angle shot in the executive suite hallway, coconut person holding a lit cigar and looking down with extreme condescension."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "3.100 €",
+          "bar": 0.45
+        },
+        {
+          "label": "Kunden",
+          "value": "14",
+          "bar": 0.6
+        },
+        {
+          "label": "Wechsel",
+          "value": "Fix",
+          "bar": 1.0
+        }
+      ],
+      "character": "A solid, textured broccoli person with deep green florets forming hair, wearing a neat tweed jacket and glasses. Glowing digital forehead display shows 3.100 €.",
+      "visual": "Medium shot in a decorated office breakroom with birthday balloons, a broccoli person holding a cream cake, surrounded by colleagues under fluorescent lights.",
+      "scenes": [
+        "Medium shot in the breakroom, birthday cake with candles, broccoli person holding the platter while colleagues clap insincerely.",
+        "Detail shot of a glowing forehead number showing 3.100 €, with a tiny golden coin hidden in the icing of the cake.",
+        "Halbnah shot in the office corridor, coconut executive pointing his finger at the broccoli employee.",
+        "Wide angle shot of a deserted underground subway station at night, cold concrete pillars, flickering neon advertisement.",
+        "Close-up shot of a signed employment contract on a mahogany desk with a fountain pen resting beside it.",
+        "Wide angle shot of the corporate parking lot in the rain, headlights reflecting on wet asphalt."
+      ],
+      "caption": "Wer im Büro unterschätzt wird, plant oft schon im Hintergrund den großen Absprung. Kennst du das? #BüroDrama #Karriere #StirnZahl #Brokkoli #ViralDE"
+    },
+    {
+      "n": 4,
+      "open_loop": "Welche verhängnisvolle Nachricht stand in der E-Mail, die der Vorstand gerade gelöscht hatte?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Zerreißt die Kündigung des Abteilungsleiters und verlangt sofortige Überstunden.",
+        "g": "m"
+      },
+      "name": "Sophie, 42, HR-Managerin",
+      "badge": "4.200 €",
+      "verdict": "OBERER KREIS",
+      "story": "Die 8 Level von Kaffeeküchen-Treue. Level 4. Ich stehe in der Kaffeeküche und tue so, als würde ich mich scheinbar für die Sorgen der einfachen Mitarbeiter interessieren. Mein eigener Vertrag bei der internationalen Konkurrenz ist längst unterschrieben. Mit deiner Zahl bleibst du nur die Handlangerin für die wahren Boss-Entscheidungen. Ich trat einen Schritt vor und rief laut: Frau Weber, hier ist Ihre Kündigung wegen Korruption und Ihr Geständnis wurde geleakt! Frau Weber, der Vorstand will Sie sofort im Konferenzraum sehen. Ein einziger Blick auf das Notfalltelefon veränderte das Machtverhältnis im Raum schlagartig. Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+2.500 €",
+        "after": "6.700 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Kaffeeküchen-Treue. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe in der Kaffeeküche und tue so, als würde ich mich scheinbar für die Sorgen der einfachen Mitarbeiter interessieren."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein eigener Vertrag bei der internationalen Konkurrenz ist längst unterschrieben."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit deiner Zahl bleibst du nur die Handlangerin für die wahren Boss-Entscheidungen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich trat einen Schritt vor und rief laut: Frau Weber, hier ist Ihre Kündigung wegen Korruption und Ihr Geständnis wurde geleakt!"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Frau Weber, der Vorstand will Sie sofort im Konferenzraum sehen.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Ein einziger Blick auf das Notfalltelefon veränderte das Machtverhältnis im Raum schlagartig."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Mit deiner Zahl bleibst du nur die Handlangerin für die wahren Boss-Entscheidungen.",
+      "quote_by": {
+        "level": 8,
+        "name": "Mr. Diamond",
+        "badge": "15.000 €",
+        "character": "An untouchable dragon-fruit person with exotic pink and green scale skin, wearing an immaculate white cashmere turtleneck.",
+        "scene": "Wide angle shot in the panoramic top-floor boardroom, dragon-fruit person looking down at the city skyline through floor-to-ceiling windows."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "4.200 €",
+          "bar": 0.6
+        },
+        {
+          "label": "Macht",
+          "value": "Hoch",
+          "bar": 0.8
+        },
+        {
+          "label": "Wechsel",
+          "value": "Geheim",
+          "bar": 1.0
+        }
+      ],
+      "character": "An elegant orange person with vibrant citrus peel texture, wearing a sharp navy blue blazer and golden earrings. Glowing digital forehead display shows 4.200 €.",
+      "visual": "Medium shot in a high-end corporate lounge with velvet armchairs, an orange person holding a porcelain cup, looking tense as an executive approaches.",
+      "scenes": [
+        "Medium shot in the executive lounge, orange person sitting on a velvet chair holding a cup, looking at an approaching colleague.",
+        "Detail shot of a digital forehead display glowing brightly at 4.200 €, with a golden coin embedded in the wooden coffee table.",
+        "Halbnah shot in the glass-walled corridor, two managers arguing quietly next to a water cooler.",
+        "Wide angle shot of the corporate boardroom, long glass table, empty leather chairs under soft pendant lights.",
+        "Close-up shot of an official personnel folder stamped confidential with a red marker.",
+        "Wide angle shot of the city at dusk, seen through rain-streaked office windows, cars moving like glowing ribbons below."
+      ],
+      "caption": "Wer im Personalbüro sitzt, kennt alle schmutzigen Geheimnisse der Chefetage. Wer zieht hier wirklich die Fäden? #HR #BüroDrama #StirnZahl #Orange #ViralDE"
+    },
+    {
+      "n": 5,
+      "open_loop": "Warum schaute der Vorstandsvorsitzende plötzlich so blass auf sein eigenes Stirn-Display?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Lacht sie wegen ihrer angeblichen Loyalitätskrise aus und kippt den Zuckerstreuer um.",
+        "g": "m"
+      },
+      "name": "Markus, 45, Abteilungsleiter",
+      "badge": "5.800 €",
+      "verdict": "FÜHRUNGSKRAFT",
+      "story": "Die 8 Level von Kaffeeküchen-Treue. Level 5. Ich stehe am Vollautomaten in der Chef-Etage, genieße meinen doppelten Espresso und klopfe Kollegen auf die Schulter. Dass mein unterschriebener Vertrag beim US-Wettbewerber in meiner Tasche liegt, ahnt niemand. Mit so einer Gehaltsstufe bist du nur ein austauschbarer Vasall für uns. Ich lächelte dünn und wusste, dass ich morgen die gesamte Abteilung mitnehme. Herr Markus, der Aufsichtsrat fordert sofort Ihre Unterschrift. Eine einzige E-Mail auf dem Display zerstörte seine Illusion von absoluter Sicherheit. Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+3.200 €",
+        "after": "9.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Kaffeeküchen-Treue. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe am Vollautomaten in der Chef-Etage, genieße meinen doppelten Espresso und klopfe Kollegen auf die Schulter."
+        },
+        {
+          "s": "Figur",
+          "t": "Dass mein unterschriebener Vertrag beim US-Wettbewerber in meiner Tasche liegt, ahnt niemand."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit so einer Gehaltsstufe bist du nur ein austauschbarer Vasall für uns.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich lächelte dünn und wusste, dass ich morgen die gesamte Abteilung mitnehme."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Herr Markus, der Aufsichtsrat fordert sofort Ihre Unterschrift.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Eine einzige E-Mail auf dem Display zerstörte seine Illusion von absoluter Sicherheit."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Mit so einer Gehaltsstufe bist du nur ein austauschbarer Vasall für uns.",
+      "quote_by": {
+        "level": 3,
+        "name": "Ben",
+        "badge": "3.100 €",
+        "character": "A textured broccoli person with deep green florets, wearing a tweed jacket.",
+        "scene": "Medium shot in the executive corridor, broccoli person looking upward with defiant expression."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "5.800 €",
+          "bar": 0.75
+        },
+        {
+          "label": "Team",
+          "value": "25",
+          "bar": 0.9
+        },
+        {
+          "label": "Wechsel",
+          "value": "Geplant",
+          "bar": 1.0
+        }
+      ],
+      "character": "An imposing avocado person with pale green skin and a dark smooth pit texture on the temples, wearing a charcoal wool suit. Glowing digital forehead display shows 5.800 €.",
+      "visual": "Medium shot in a luxury executive coffee lounge with dark wood panels, an avocado person sipping espresso from a designer cup, looking arrogant.",
+      "scenes": [
+        "Medium shot in the luxury lounge, avocado person holding a porcelain cup, looking down at a colleague.",
+        "Detail shot of a glowing forehead number showing 5.800 €, with a hidden golden coin placed on the espresso saucer.",
+        "Halbnah shot in the doorway, two managers talking with serious expressions under recessed spotlights.",
+        "Wide angle shot of a massive glass conference room table overlooking the skyline at twilight.",
+        "Close-up shot of a smartphone screen showing an employment offer from a rival corporation.",
+        "Wide angle shot of the underground executive parking garage, polished concrete floors reflecting luxury sedans."
+      ],
+      "caption": "Wer ganz oben im mittleren Management sitzt, glaubt oft, unersetzlich zu sein. Bis der Anruf kommt. #Management #Karriere #StirnZahl #Avocado #ViralDE"
+    },
+    {
+      "n": 6,
+      "open_loop": "Welche geheime Klausel im Arbeitsvertrag brachte den Vorstand plötzlich zum Zittern?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Vergibt den Kaffeeküchen-Dienst absichtlich falsch an die erfahrene Kokosnuss.",
+        "g": "m"
+      },
+      "name": "Klaus, 51, Bereichsleiter",
+      "badge": "7.900 €",
+      "verdict": "DIREKTION",
+      "story": "Die 8 Level von Kaffeeküchen-Treue. Level 6. Ich stehe in der privaten Teeküche des Vorstands, trinke meinen Geisha-Kaffee und blicke auf die Stadt hinab. Dass ich längst einen geheimen Vertrag beim globalen Marktführer unterschrieben habe, weiß hier niemand. Deine sieben Tausend retten dich nicht vor dem großen Absturz. Mein Kaffeebecher zitterte in meiner Hand bei diesen Worten. Herr Direktor, die Börsenaufsicht hat soeben angerufen. Das rote Notfall-Display an der Wand blinkte und änderte die Spielregeln für immer. Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+4.100 €",
+        "after": "12.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Kaffeeküchen-Treue. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe in der privaten Teeküche des Vorstands, trinke meinen Geisha-Kaffee und blicke auf die Stadt hinab."
+        },
+        {
+          "s": "Figur",
+          "t": "Dass ich längst einen geheimen Vertrag beim globalen Marktführer unterschrieben habe, weiß hier niemand."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Deine sieben Tausend retten dich nicht vor dem großen Absturz.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Kaffeebecher zitterte in meiner Hand bei diesen Worten."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Herr Direktor, die Börsenaufsicht hat soeben angerufen.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das rote Notfall-Display an der Wand blinkte und änderte die Spielregeln für immer."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Deine sieben Tausend retten dich nicht vor dem großen Absturz.",
+      "quote_by": {
+        "level": 1,
+        "name": "Tom",
+        "badge": "450 €",
+        "character": "A young stressed tomato person with bright red skin and a blue hoodie.",
+        "scene": "Medium shot in the executive hallway, tomato person looking up with surprising confidence at a senior director."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "7.900 €",
+          "bar": 0.85
+        },
+        {
+          "label": "Macht",
+          "value": "Sehr hoch",
+          "bar": 0.95
+        },
+        {
+          "label": "Wechsel",
+          "value": "Offen",
+          "bar": 1.0
+        }
+      ],
+      "character": "A hardened coconut person with a tough, fibrous brown shell head and silver-threaded hair, wearing an expensive cashmere suit. Glowing digital forehead display shows 7.900 €.",
+      "visual": "Medium shot in a high-end executive lounge with panoramic windows, a coconut person holding a porcelain cup, looking down with stern authority.",
+      "scenes": [
+        "Medium shot in the executive lounge, coconut person holding a ceramic cup, looking out the window at the morning city.",
+        "Detail shot of a glowing forehead display showing 7.900 €, with a tiny golden coin resting on the window sill.",
+        "Halbnah shot in the corridor, young employee confronting the senior director.",
+        "Wide angle shot of the executive boardroom, polished mahogany table reflecting the ceiling lights.",
+        "Close-up shot of a confidential corporate takeover document next to a silver pen.",
+        "Wide angle shot of the illuminated city skyline at night from the top floor window."
+      ],
+      "caption": "Wer ganz oben steht, verliert oft den Blick für die Jugend von unten. Wer stürzt zuerst? #Führung #Karriere #StirnZahl #Kokosnuss #ViralDE"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welche Person aus der Vergangenheit stand plötzlich im Aufzug des Vorstands?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Versteckt den wichtigen Posteingang des Direktors im Kaffeeküchen-Schrank.",
+        "g": "w"
+      },
+      "name": "Helena, 58, Finanzvorständin",
+      "badge": "11.500 €",
+      "verdict": "VORSTAND",
+      "story": "Die 8 Level von Kaffeeküchen-Treue. Level 7. Ich sitze im elften Stock in der privaten Vorstandslounge, trinke Champagner-Kaffee und lasse mich bedienen. Dass mein Vertrag als Aufsichtsratschefin im Safe liegt, ahnt niemand. Selbst elf Tausend schützen Sie nicht vor dem freien Fall. Mein Glas erstarrte in meiner Hand bei diesen provokanten Worten. Frau Direktorin, der Aufsichtsrat hat den Konkursantrag unterzeichnet. Die Türglocke des Penthouses läutete das Ende einer Ära ein. Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "+5.000 €",
+        "after": "16.500 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Kaffeeküchen-Treue. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze im elften Stock in der privaten Vorstandslounge, trinke Champagner-Kaffee und lasse mich bedienen."
+        },
+        {
+          "s": "Figur",
+          "t": "Dass mein Vertrag als Aufsichtsratschefin im Safe liegt, ahnt niemand."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Selbst elf Tausend schützen Sie nicht vor dem freien Fall.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Glas erstarrte in meiner Hand bei diesen provokanten Worten."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Frau Direktorin, der Aufsichtsrat hat den Konkursantrag unterzeichnet.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Die Türglocke des Penthouses läutete das Ende einer Ära ein."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Selbst elf Tausend schützen Sie nicht vor dem freien Fall.",
+      "quote_by": {
+        "level": 2,
+        "name": "Lara",
+        "badge": "1.850 €",
+        "character": "A tart lemon person with yellow citrus skin and a sensible gray cardigan.",
+        "scene": "Medium shot in the penthouse lounge, lemon person standing tall with arms crossed, staring down a senior executive."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "11.500 €",
+          "bar": 0.9
+        },
+        {
+          "label": "Macht",
+          "value": "Maximal",
+          "bar": 0.98
+        },
+        {
+          "label": "Wechsel",
+          "value": "Perfekt",
+          "bar": 1.0
+        }
+      ],
+      "character": "A majestic dragon-fruit person with striking pink and white flesh patterns on the temples, wearing an ivory silk blouse and diamond earrings. Glowing digital forehead display shows 11.500 €.",
+      "visual": "Medium shot in a luxurious top-floor penthouse lounge with marble columns, a dragon-fruit person holding a crystal champagne flute, looking arrogant.",
+      "scenes": [
+        "Medium shot in the penthouse lounge, dragon-fruit person holding a crystal glass, looking down from high windows.",
+        "Detail shot of a glowing forehead display showing 11.500 €, with a tiny golden coin resting on the marble table edge.",
+        "Halbnah shot in the doorway, a junior employee confronting the top executive.",
+        "Wide angle shot of the executive boardroom, massive glass table, city lights twinkling below.",
+        "Close-up shot of a signed executive board document stamped top secret.",
+        "Wide angle shot of the helicopter landing pad on the roof of the skyscraper at night."
+      ],
+      "caption": "Wer ganz oben im Vorstand sitzt, vergisst oft, dass jede Kette nur so stark wie ihr schwächstes Glied ist. #Vorstand #Finanzen #StirnZahl #DragonFruit #ViralDE"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welche universelle Zahl leuchtete am Ende auf allen Stirnen gleichzeitig auf?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Reicht allen Kaffeetrinkern im Gebäude den letzten Becher frisch gebrühten Kaffee.",
+        "g": "m"
+      },
+      "name": "Mr. Diamond, 65, Der Eigentümer",
+      "badge": "99.999 €",
+      "verdict": "UNENDLICH",
+      "story": "Die 8 Level von Kaffeeküchen-Treue. Level 8. Im ultimativen Finale erfolgt die radikale und sofortige Genugtuung, als ein blendender Lichtblitz den gesamten Wolkenkratzer flutet und die Stirnzahlen aller Personen umkehrt. Ich stehe im allerhöchsten Penthouse des Wolkenkratzers, blicke auf all die gestürzten Gemüse-Menschen hinab und lasse den Hauptschlüssel endgültig fallen. Die Kaffeeküchen-Treue bricht immer dort, wo die Zahl aufhört zu lügen. Ich lächelte triumphierend, während alle Zahlen auf exakt Null sanken. Das Spiel ist für immer vorbei, Chef. Wir fangen alle von vorne an. Welches Thema der Stirn-Zahlen soll als Nächstes in diesen 8 Leveln gezeigt werden?",
+      "gender": "m",
+      "twist": {
+        "delta": "0 €",
+        "after": "99.999 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Kaffeeküchen-Treue. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Im ultimativen Finale erfolgt die radikale und sofortige Genugtuung, als ein blendender Lichtblitz den gesamten Wolkenkratzer flutet und die Stirnzahlen aller Personen umkehrt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im allerhöchsten Penthouse des Wolkenkratzers, blicke auf all die gestürzten Gemüse-Menschen hinab und lasse den Hauptschlüssel endgültig fallen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die Kaffeeküchen-Treue bricht immer dort, wo die Zahl aufhört zu lügen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich lächelte triumphierend, während alle Zahlen auf exakt Null sanken."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Das Spiel ist für immer vorbei, Chef. Wir fangen alle von vorne an.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema der Stirn-Zahlen soll als Nächstes in diesen 8 Leveln gezeigt werden?"
+        }
+      ],
+      "quote": "Die Kaffeeküchen-Treue bricht immer dort, wo die Zahl aufhört zu lüngen.",
+      "quote_by": {
+        "level": 1,
+        "name": "Tom",
+        "badge": "99.999 €",
+        "character": "A confident tomato person wearing a sleek white designer suit with glowing maximum numbers.",
+        "scene": "Wide angle shot in the ultimate penthouse suite, tomato person standing next to the owner and looking out over the entire city."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "99.999 €",
+          "bar": 1.0
+        },
+        {
+          "label": "Macht",
+          "value": "Absolute",
+          "bar": 1.0
+        },
+        {
+          "label": "System",
+          "value": "Beendet",
+          "bar": 1.0
+        }
+      ],
+      "character": "An ultimate dragon-fruit person with glowing holographic scales and silver-white skin, wearing a pure white bespoke suit. Glowing digital forehead display shows 99.999 €.",
+      "visual": "Wide angle shot of the ultimate penthouse office at sunrise, glass walls reflecting the entire city, a dragon-fruit person holding the master key overlooking all other vegetable characters.",
+      "scenes": [
+        "Wide angle shot of the penthouse suite at dawn, panoramic city view, all previous characters standing together in a circle.",
+        "Detail shot of glowing forehead numbers synchronizing across all characters, with a golden coin shining brightly in the center of the floor.",
+        "Halbnah shot of the young tomato person shaking hands with the ultimate owner of the skyscraper.",
+        "Wide angle shot of the corporate lobby downstairs, bustling crowds of vegetable employees looking up at the glowing ceiling.",
+        "Close-up shot of the master key dropping slowly onto a polished marble floor.",
+        "Wide angle shot of the entire skyscraper illuminated against the morning sky, endless loops of numbers glowing in every window."
+      ],
+      "caption": "Das große Finale der Kaffeeküchen-Treue! Welches Thema der Stirn-Zahlen sollen wir als Nächstes zeigen? Schreib es in die Kommentare! #Finale #StirnZahl #BüroDrama #ViralDE #Deutschland"
+    }
+  ],
+  "lang": "de",
+  "topic": "Die heuchlerische Kaffeeküchen-Treue im Job trotz unterschriebenem Neuvertrag",
+  "frame": "frucht"
+}

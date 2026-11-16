@@ -1,0 +1,29 @@
+{
+  "best_score": 85,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 8,
+        "story": 8,
+        "identifikation": 9,
+        "verbindungen": 9,
+        "sog": 8,
+        "wut": 9,
+        "merkfaehigkeit": 8,
+        "sprache": 9
+      },
+      "gesamt": 85,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Add an immediate text overlay in the first 2 seconds showing an extreme contrast, like '0:00 vs 100M Views', to instantly trigger the viral algorithm formula."
+        },
+        {
+          "n": 5,
+          "fix": "Enhance the villain's arrogance in Level 5 by having her mock the florist's deceased mother's flowers to maximize viewer rage."
+        }
+      ],
+      "fazit": "Die Serie setzt das Vorbild-Rezept stark um, baut durch die aufsteigenden Level einen echten Sog auf und liefert am Ende die geforderte Genugtuung. Für absolute Viral-Hits müssen die Hooks in den ersten 2 Sekunden noch kompromissloser auf Schock und Kontrast getrimmt werden."
+    }
+  ]
+}

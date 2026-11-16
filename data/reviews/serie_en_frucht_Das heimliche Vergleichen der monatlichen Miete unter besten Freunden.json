@@ -1,5 +1,5 @@
 {
-  "best_score": 46,
+  "best_score": 44,
   "rounds": [
     {
       "scores": {
@@ -7,75 +7,95 @@
         "story": 5,
         "identifikation": 4,
         "verbindungen": 6,
-        "sog": 5,
-        "wut": 4,
-        "merkfaehigkeit": 5,
-        "sprache": 4
-      },
-      "gesamt": 46,
-      "fixes": [
-        {
-          "n": 1,
-          "fix": "Ersetze den lahmen Start durch einen harten Kontrast: '850 Dollar Miete für diesen Abstellraum – und auf meiner Stirn leuchtet eine lächerliche 1.400, während der Vermieter mich öffentlich lachend als Abschaum abstempelt.'"
-        },
-        {
-          "n": 5,
-          "fix": "Verstärke die Wut im Dialog: 'Du zahlst morgen 500 Dollar mehr, oder du schläfst auf der Straße, du kleiner Orangensaft-Versager!'"
-        },
-        {
-          "n": 8,
-          "fix": "Schreibe das Finale um, sodass die Rache des Ältesten sofort einschlägt: 'Du hast alle rausgeworfen? Schau auf mein Schild: INFINITY. Ich übernehme jetzt deinen Laden.'"
-        }
-      ],
-      "fazit": "Die Serie hat nette Ansätze mit den Obst-Figuren und Querverweisen, aber sie plätschert zu oft in Beschreibungen statt in harten Konflikten. Der Zuschauer swipt nach 2 Sekunden weg, weil die echten Demütigungen zu zahm sind und die Genugtuung zu lange auf sich warten lässt. Mehr Schmerz, mehr Arroganz, schnellerer Payoff!"
-    },
-    {
-      "scores": {
-        "hook": 3,
-        "story": 4,
-        "identifikation": 5,
-        "verbindungen": 6,
-        "sog": 3,
-        "wut": 4,
+        "sog": 4,
+        "wut": 3,
         "merkfaehigkeit": 4,
-        "sprache": 2
+        "sprache": 5
       },
-      "gesamt": 39,
+      "gesamt": 44,
       "fixes": [
         {
           "n": 1,
-          "fix": "Ersetze das langweilige Intro durch einen harten Schlag: '850 Euro Miete für einen ekligen Schrank – und auf meiner Stirn leuchtet eine 1.400, während mein Vermieter mich öffentlich als Abschaum beschimpft.' (Mindestens 175 Wörter einbauen: Beschreibe detailliert den Geruch von Schimmel, das Klingeln des Weckers um 5 Uhr früh und die Panik beim Blick aufs Konto)."
+          "fix": "Ersetze das langweilige Intro durch: '450 Euro Miete – und mein Vermieter lacht mir ins Gesicht, während ich im Schlamm stehe. Aber er ahnt nicht, dass im Keller eine Goldmünze auf ihn wartet.'"
         },
         {
           "n": 2,
-          "fix": "Erhöhe die Wut im ersten Drittel: Der Barista wird vom Lemon-Mann nicht nur beleidigt, sondern sein letzter Becher Kaffee wird vor laufender Kamera weggeschüttet. Ausformulieren auf über 175 Wörter mit echten, harten Dialogen statt Fülltext."
+          "fix": "Erhöhe die Wut, indem der Gegenspieler (Peach) die Zitronen-Figur absichtlich vor versammelten Kunden anspuckt oder bloßstellt, statt nur Milch zu klauen."
         },
         {
           "n": 3,
-          "fix": "Füge echten Konflikt hinzu: Der Mitbewohner zerstört absichtlich die Meal Prep. Mindestens 175 Wörter über den Psychoterror in der WG, die schmutzigen Teller im Flur und die schlaflosen Nächte."
+          "fix": "Schärfe den Sog am Ende von Teil 3: 'Genau in diesem Moment sehe ich auf meinem Handy, wer das ganze Gebäude heimlich aufgekauft hat.'"
         },
         {
           "n": 4,
-          "fix": "Der Kontrast muss schmerzen: Zeige die Arroganz des Avocado-Mannes, der vor den Augen der ärmeren Figuren einen Hunderter zerreißt. Text auf über 175 Wörter erweitern mit Fokus auf die Angst vor dem sozialen Absturz."
+          "fix": "Füge echten Konflikt ein: Statt monotoner Ledernummern zeigt Teil 4, wie die Orange vom eigenen Vermieter vor die Tür gesetzt wird, während die Stirnzahl flackert."
         },
         {
           "n": 5,
-          "fix": "Der Vermieter lacht nicht nur, er droht mit der Zwangsräumung in 24 Stunden. Über 175 Wörter mit drastischen Details über die Kälte auf der Straße und die Verzweiflung der Mieter."
+          "fix": "Behebe die schwache Auflösung in Teil 5 durch die direkte Perspektive des Interns (Mia), der die Rechnungen im Chat leakt."
         },
         {
           "n": 6,
-          "fix": "Die Tech-Founder ignorieren jede Menschlichkeit. Lass sie die Heizung für das ganze Gebäude per App abstellen. Mindestens 175 Wörter mit klarem Fokus auf die absolute Gefühlskälte der Oberschicht."
+          "fix": "Lass den Broker (Brocco) in Teil 6 nicht nur jammern, sondern vom eigenen Chef vor versammelter Mannschaft gedemütigt werden."
         },
         {
           "n": 7,
-          "fix": "Der Mogul zerstört die Existenz des Buchhalters ohne mit der Wimper zu zucken. Über 175 Wörter, die pure Verachtung spürbar machen und den Zuschauer nach Genugtuung schreien lassen."
+          "fix": "Verbinde Teil 7 enger mit den vorherigen Opfern, deren versteckter Reichtum jetzt die Zwangsversteigerung des Vermieters auslöst."
         },
         {
           "n": 8,
-          "fix": "Das Finale muss knallen: Keine schwammigen Erklärungen, sondern die harte Rache des Architekten, der alle Verträge zerreißt. Über 175 Wörter, die den finalen Twist genial und absolut befriedigend auflösen."
+          "fix": "Schließe Teil 8 mit einem echten Plottwist ab, bei dem der scheinbare König am Ende selbst auf der Straße landet und die Zitrone vorbeiläuft."
         }
       ],
-      "fazit": "Die Idee mit den Frucht-Menschen und den Stirnzahlen hat absolutes virales Potenzial, aber die Umsetzung ist aktuell viel zu zahm, unstrukturiert und sprachlich ein Mischmasch aus Englisch und Deutsch. Die Texte sind viel zu kurz (weit unter den geforderten 175 Wörtern pro Teil) und die Hooks verpuffen nach zwei Sekunden. Ohne kompromisslose Wut, echte emotionale Tiefe und eine harten Sog wischt jeder Zuschauer sofort weg."
+      "fazit": "Die Serie hat eine tolle visuelle Idee mit den Obst-Figuren und Stirnzahlen, verschenkt aber massiv Potenzial durch zahme Konflikte, zu brave Dialoge und fehlende echte Rache-Genugtuung. Die Zuschauer wollen den Sturz der Arroganten sehen – hier plätschert es zu oft in Büros vor sich hin."
+    },
+    {
+      "scores": {
+        "hook": 5,
+        "story": 4,
+        "identifikation": 4,
+        "verbindungen": 6,
+        "sog": 4,
+        "wut": 3,
+        "merkfaehigkeit": 5,
+        "sprache": 4
+      },
+      "gesamt": 44,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den ersten Satz durch eine brutale Demütigung mit Stirnzahl und sofortigem Kontrast: '450 Euro Miete – und mein Vermieter spuckt auf meine Schuhe, weil meine Stirnzahl lächerlich niedrig ist. Aber er ahnt nicht, dass im Keller eine Goldmünze auf ihn wartet.'"
+        },
+        {
+          "n": 2,
+          "fix": "Erhöhe den Konflikt im ersten Satz: '850 Dollar Miete für eine Abstellkammer, und meine Mitbewohnerin wirft meinen Kaffee weg. Sie denkt, sie ist die Königin, aber sie weiß nicht, was ich auf ihrem Konto gefunden habe.'"
+        },
+        {
+          "n": 3,
+          "fix": "Fokussiere auf die Demütigung und Genugtuung: '1.400 Dollar für ein Loch ohne Heizung, und der Vermieter lacht mir ins Gesicht. Morgen gehört das ganze Gebäude mir.'"
+        },
+        {
+          "n": 4,
+          "fix": "Schärfe den Einstieg: '1.850 Dollar Miete und der Aufzug bricht jede Woche ein. Der reiche Eigentümer nennt mich einen Loser, bis ich seine Steuerakte leakte.'"
+        },
+        {
+          "n": 5,
+          "fix": "Erhöhe den emotionalen Druck: '2.100 Dollar für ein Fake-Loft, während ich mir kein Essen leisten kann. Die Internin von Level 1 beobachtet mich und plant meine Zerstörung.'"
+        },
+        {
+          "n": 6,
+          "fix": "Verschärfe den Gegenspieler: '3.200 Dollar Miete für ein Glas-Hochhaus, in dem ich nur eine Nummer bin. Mein Chef feiert meinen Ruin, aber ich habe seinen Safe geknackt.'"
+        },
+        {
+          "n": 7,
+          "fix": "Klarere Rache einbauen: '4.500 Dollar Miete eingetrieben von Leuten, die mich hassen. Jetzt zahle ich den Preis für meine Gier, denn meine Mieter haben sich verbündet.'"
+        },
+        {
+          "n": 8,
+          "fix": "Spektakuläres Ende direkt vor der Auflösung: '6.200 Dollar Miete im ultimativen Penthouse. Ich dachte, ich regiere die Stadt – bis die Zitrone von unten an meine Tür klopft.'"
+        }
+      ],
+      "fazit": "Die Serie hat eine solide visuelle Grundidee, scheitert aber an der harten Realität von TikTok: Zu viele Meta-Sätze ('The 8 levels of rent. Level X'), zu viel Beschreibung von Charakteren anstatt purer, aggressiver Handlung in den ersten Sekunden, und zu wenig echte, spürbare Wut mit anschließender Genugtuung nach dem Vorbild-Rezept. Die offenen Fragen müssen zwingend vor der Auflösung enden und die Zuschauer emotional catchen."
     },
     {
       "scores": {
@@ -83,47 +103,47 @@
         "story": 5,
         "identifikation": 4,
         "verbindungen": 6,
-        "sog": 4,
-        "wut": 5,
+        "sog": 5,
+        "wut": 3,
         "merkfaehigkeit": 4,
-        "sprache": 3
+        "sprache": 4
       },
       "gesamt": 44,
       "fixes": [
         {
           "n": 1,
-          "fix": "Ersetze den verschachtelten englischen Fließtext durch einen messerscharfen deutschen Einstieg: '850 Euro Miete für einen ekligen Schrank – und auf meiner Stirn leuchtet eine lächerliche 1.400.'"
+          "fix": "Ersetze den ersten Satz durch eine extreme Demütigung mit konkreter Zahl: '450 Euro Miete. Mein Vermieter spuckt auf meine Schuhe, weil meine Stirnzahl lächerlich niedrig ist – aber er ahnt nicht, dass im Keller eine Goldmünze auf ihn wartet.'"
         },
         {
           "n": 2,
-          "fix": "Kürze die Beschreibung und starte direkt mit dem Konflikt: 'Der arrogante Lemon-Man schüttet meinen letzten Espresso in den Gulli, weil mein Gehalt angeblich wertlos ist.'"
+          "fix": "Verschärfe den Konflikt sofort: '850 Dollar Miete für eine Abstellkammer, und meine arrogante Mitbewohnerin wirft meinen letzten Kaffee in den Müll.'"
         },
         {
           "n": 3,
-          "fix": "Direkter Einstieg in die Wut: 'Meine meal prep Container landen im Müll, während meine Mitbewohner mich ausrauben.'"
+          "fix": "Lass den Gegenspieler direkter angreifen: '1.400 Dollar für ein Loch ohne Heizung, und der Vermieter lacht mir ins Gesicht: 'Mit so einer Stirnzahl bekommst du nie einen Mietvertrag!''"
         },
         {
           "n": 4,
-          "fix": "Kürze den Innenmonolog und bringe den harten Kontrast: 'Ich stehe im Penthouse, und der Avocado-Typ zerreißt vor meinen Augen einen 100-Dollar-Schein.'"
+          "fix": "Erhöhe die Wut: '1.850 Dollar Miete und der Aufzug bricht jede Woche ein. Der reiche Eigentümer nennt mich einen Loser – bis ich seine geheime Steuerakte leakte.'"
         },
         {
           "n": 5,
-          "fix": "Konzentriere dich auf die Demütigung: 'Ich erhöhe seine Miete um 500 Dollar, und er bettelt auf den Knien.'"
+          "fix": "Schärfe den Kontrast: '2.100 Dollar für ein Fake-Loft, während ich mir kein Essen leisten kann. Die Internin von Level 1 beobachtet mich und plant meine Zerstörung.'"
         },
         {
           "n": 6,
-          "fix": "Direkter Konflikt: 'Der Designer wagt es, sich über den Lärm zu beschweren – also schalte ich per App seine Heizung ab.'"
+          "fix": "Maximiere den Druck: '3.200 Dollar Miete für ein Glas-Hochhaus, in dem ich nur eine Nummer bin. Mein Chef feiert meinen Ruin – aber ich habe seinen Safe geknackt.'"
         },
         {
           "n": 7,
-          "fix": "Schärfe die Arroganz: 'Der Buchhalter weint, und ich unterschreibe ohne mit der Wimper zu zucken seine Räumungsklage.'"
+          "fix": "Erhöhe die Genugtuung: '4.500 Dollar Miete eingetrieben von Leuten, die mich hassen. Jetzt zahle ich den Preis für meine Gier, denn meine Mieter haben sich verbündet.'"
         },
         {
           "n": 8,
-          "fix": "Klarer Twist zum Schluss: 'Alle Tyrannen waren nur Spielfiguren – ich besitze jeden einzelnen Stein in dieser Stadt.'"
+          "fix": "Schließe den Loop radikal: '6.200 Dollar Miete im ultimativen Penthouse. Ich dachte, ich regiere die Stadt – bis die Zitrone von unten an meine Tür klopft.'"
         }
       ],
-      "fazit": "Die Serie hat eine starke Grundidee, scheitert aber an extrem aufgeblähten, unnatürlichen englischen Texten und zu wenig Tempo für TikTok. Die Sätze sind viel zu lang, die Zahlenkontraste nicht scharf genug in den ersten Sekunden, und die Genugtuung leidet unter dem verschwurbelten Drehbuch. Radikal kürzen, deutsche Sprache direkt und spoken-word mäßig gestalten, und den 'Versteckter Wert'-Faktor für die Zuschauer früher spürbar machen."
+      "fazit": "Die Serie hat ein starkes visuelles Konzept und nutzt die Stirn-Zahlen-Metapher gut, aber die Dialoge klingen zu konstruiert und oft wie gelesene Beschreibungen statt echter, aggressiver TikTok-Sprechweise. Die Wut auf die Arroganz der höheren Level zündet noch nicht stark genug, und die Übergänge zwischen den Videos müssen wie ein unaufhaltsamer Sog aufgebaut werden."
     }
   ]
 }

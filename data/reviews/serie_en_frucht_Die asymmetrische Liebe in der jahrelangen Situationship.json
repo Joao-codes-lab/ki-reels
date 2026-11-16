@@ -1,29 +1,149 @@
 {
-  "best_score": 87,
+  "best_score": 49,
   "rounds": [
     {
       "scores": {
-        "hook": 8,
-        "story": 9,
-        "identifikation": 9,
-        "verbindungen": 9,
-        "sog": 8,
-        "wut": 8,
-        "merkfaehigkeit": 9,
-        "sprache": 9
+        "hook": 6,
+        "story": 5,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 6,
+        "wut": 5,
+        "merkfaehigkeit": 4,
+        "sprache": 4
       },
-      "gesamt": 87,
+      "gesamt": 49,
       "fixes": [
         {
           "n": 1,
-          "fix": "Ergänze am Ende von Teil 1 einen noch härteren, direkteren Cliffhanger zur Demütigung im Café."
+          "fix": "Ersetze das langsame Intro durch harten Kontrast: '2.000 Texte und keine einzige echte Date-Einladung? Warum mache ich mich für diesen Idioten eigentlich jede Nacht um 2 Uhr bereit?'"
+        },
+        {
+          "n": 2,
+          "fix": "Starte direkt mit der Demütigung durch die Avocado: 'Du bist nur der Typ, der mir billige Milch aufschäumt.' Lass den Barista sofort rächen, indem er ihren Kaffee extra mit Salz zubereitet, was die Zuschauer vor ihr wissen."
         },
         {
           "n": 3,
-          "fix": "Verschärfe die Wut-Komponente gegenüber dem Gegenspieler in Level 3 durch eine noch frechere Entgleisung."
+          "fix": "Erhöhe den Druck im ersten Satz: '30% Priorität in seinem Leben, aber ich arbeite seit 36 Stunden unbezahlt für seine Karriere.' Zeige sofort den Beweis, den der Chef übersieht."
+        },
+        {
+          "n": 4,
+          "fix": "Der arrogante Berater bricht in Sekundenschnelle zusammen: 'Du baust deine ganze Karriere auf Lügen auf, während ich deine Konten einfriere.' Zeige die Rache direkt."
+        },
+        {
+          "n": 5,
+          "fix": "Fokus auf echte Genugtuung: Die Marketing-Chefin spielt die Beweise ab und zerstört seinen Ruf vor versammelter Mannschaft, statt nur zu drohen."
+        },
+        {
+          "n": 6,
+          "fix": "Der Kokosnuss-Chef verliert die Kontrolle, weil der Designer einen USB-Stick mit allen Firmengeheimnissen zückt und grinsend das Büro verlässt."
+        },
+        {
+          "n": 7,
+          "fix": "Die Investorin wird von der scheinbar schwachen Erdbeere eiskalt erpresst: 'Deine Insider-Dateien liegen längst bei der Staatsanwaltschaft.'"
+        },
+        {
+          "n": 8,
+          "fix": "Schärfe den finalen Call-to-Action: 'Welche Nummer steht auf deiner Stirn, wenn du heute Nacht in den Spiegel schaust? Schreib es in die Kommentare, bevor das System dich löscht.'"
         }
       ],
-      "fazit": "Brutaler, hochgradig suchterzeugender Aufbau mit exzellenter Adaption der Vorbild-Mechaniken. Die anthropomorphen Früchte und Zahlen auf der Stirn zünden perfekt im Kurzvideo-Format."
+      "fazit": "Die Obst-Metaphern und das Level-System haben starkes virales Potenzial, scheitern aber aktuell an zäher, unnatürlicher Sprache und zu wenig sofortiger Genugtuung. Die Texte klingen nach geschriebenen Romanen statt nach brachialen TikTok-Hooks. Ohne komungslose Rache und spürbare Wut in den ersten Sekunden swipen die Leute gnadenlos nach 2 Sekunden weg."
+    },
+    {
+      "scores": {
+        "hook": 3,
+        "story": 4,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 3,
+        "wut": 3,
+        "merkfaehigkeit": 4,
+        "sprache": 3
+      },
+      "gesamt": 36,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze das schwache Intro durch einen harten, schockierenden Vorwurf direkt in den ersten 2 Sekunden: '2.000 Nachrichten, kein einziges Date – und du wagst es zu sagen, ich sei nur eine Affäre für die Wochenenden?' Erweitere den Text auf mindestens 175 Wörter, indem Mia detailliert beschreibt, wie sie im Regen steht, während er im Club mit einer anderen feiert."
+        },
+        {
+          "n": 2,
+          "fix": "Beginne sofort mit der demütigenden Aussage des Gegenspielers: 'Du bist nur der Typ, der mir billige Milch aufschäumt!' Zeige klar, wie die Avocado-Kundin den Lemon-Barista vor allen Kunden blamiert, während die Zuschauer bereits wissen, dass Liam ihr heimlich das Leben rettet. Mindestens 175 Wörter."
+        },
+        {
+          "n": 3,
+          "fix": "Starte mit dem harten Konflikt: '30% Priorität in seinem Leben, aber ich arbeite 36 Stunden unbezahlt für seine Karriere!' Der Broccoli-Mann muss spürbar unter dem arroganten Kokosnuss-Chef leiden, damit echte Wut entsteht. Text auf über 175 Wörter ausbauen."
+        },
+        {
+          "n": 4,
+          "fix": "Der orange Berater muss sofort in die Enge getrieben werden: 'Du baust deine ganze Karriere auf Lügen auf, während ich deine Konten einfriere!' Zeige die arrogante Fassade, die im nächsten Moment bricht. Mindestens 175 Wörter."
+        },
+        {
+          "n": 5,
+          "fix": "Beginne mit der Racheszene: 'Die Marketing-Chefin spielt die Beweise ab und zerstört seinen Ruf vor versammelter Mannschaft.' Die Avocado-Frau dreht den Spieß gnadenlos um. Text auf über 175 Wörter erweitern."
+        },
+        {
+          "n": 6,
+          "fix": "Starte mit dem Kontrollverlust: 'Der Kokosnuss-Chef verliert die Kontrolle, weil der Designer einen USB-Stick zückt und grinsend das Büro verlässt.' Genugtuung für den Unterdrückten spürbar machen. Mindestens 175 Wörter."
+        },
+        {
+          "n": 7,
+          "fix": "Der direkte Schlag: 'Deine Insider-Dateien liegen längst bei der Staatsanwaltschaft!' Die Drachenfrucht stürzt von ihrem hohen Ross. Text auf mindestens 175 Wörter bringen."
+        },
+        {
+          "n": 8,
+          "fix": "Das große Finale muss alle Fäden schliessen: 'Hundert Prozent Wahrheit an der Spitze des Systems, wo alle Nummern kollidieren.' Erweitere den Text auf über 175 Wörter mit tiefem philosophischem Nachhall."
+        }
+      ],
+      "fazit": "Die Serie hat visuell tolle Ansätze und ein klares Konzept, scheitert aber massiv an den harten Viral-Regeln von TikTok und Reels: Die Texte sind viel zu kurz (keine 175 Wörter pro Teil), die Hooks klingen oft wie laue Erklärtexte statt wie ein Frontalangriff, und der emotionale Sog fehlt, weil die Demütigungen nicht schmerzhaft genug aufgebaut und die Genugtuungen zu abstrakt sind. Ohne echte Wut in den ersten Sekunden und eine glasklare Rache, die die Zuschauer vorhersehen, wischt jeder User nach zwei Sekunden weg."
+    },
+    {
+      "scores": {
+        "hook": 4,
+        "story": 5,
+        "identifikation": 4,
+        "verbindungen": 3,
+        "sog": 4,
+        "wut": 5,
+        "merkfaehigkeit": 4,
+        "sprache": 5
+      },
+      "gesamt": 42,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den Beginn durch einen extremen Kontrast und eine sofortige Demütigung: '0% Commitment? Wer hat diese Erdbeere überhaupt eingeladen? Vielleicht putzt sie gleich unsere Toiletten, während wir im VIP-Bereich Champagner trinken.' (Mindestens 175 Wörter einbauen)."
+        },
+        {
+          "n": 2,
+          "fix": "Starte mit dem harten Vorwurf des Gegenspielers in Sekunde 1: '15% Attention? Du bist nur die billige Kellnerin, die den Müll rausbringt!' (Story auf über 175 Wörter ausbauen und den geheimen Rache-Wert sofort anteasern)."
+        },
+        {
+          "n": 3,
+          "fix": "Beginne sofort mit der harten Demütigung: '30% Priority? Du schuftest die Nacht durch wie ein Sklave, während dein Boss dich auslacht.' (Deutlich mehr Fokus auf die kommende Rache legen und Wortanzahl auf über 175 erhöhen)."
+        },
+        {
+          "n": 4,
+          "fix": "Ersetze den Einstieg durch: '50% Investment? Dieser Angeber dachte, er wäre unantastbar, bis ich seine Konten einfriere.' (Sog stärken, echtes Mitleid für das Opfer erzeugen, Text auf über 175 Wörter strecken)."
+        },
+        {
+          "n": 5,
+          "fix": "Starte direkt mit dem Machtkampf: '60% Focus? Sie dachte, sie wäre nur das Opfer, aber sie hält alle Beweise in der Hand.' (Wut auf den Täter maximieren, Text auf über 175 Wörter bringen)."
+        },
+        {
+          "n": 6,
+          "fix": "Beginne aggressiv: '85% Control? Der Chef lacht, bis der unscheinbare Designer den USB-Zettel zückt.' (Konflikt und Genugtuung in den ersten Sekunden spürbar machen, mind. 175 Wörter)."
+        },
+        {
+          "n": 7,
+          "fix": "Erster Satz muss knallen: '90% Leverage? Sie dachte, sie hätte die Macht, aber die Akten liegen längst bei der Staatsanwaltschaft.' (Spannung und Rache-Faktor erhöhen, Text auf 175+ Wörter erweitern)."
+        },
+        {
+          "n": 8,
+          "fix": "Starte mit dem ultimativen System-Bruch: '100% Truth? Alle Nummern fallen, und die Arroganten stürzen ab.' (Das Ende absolut unvorhersehbar und kathartisch gestalten, über 175 Wörter schreiben)."
+        }
+      ],
+      "fazit": "Die Serie hat eine starke visuelle Grundidee mit den Frucht-Metaphern und den Stirn-Zahlen, verfehlt aber das virale 'Versteckter-Wert'-Prinzip. Die Demütigungen wirken oft konstruiert statt schmerzhaft, und die Genugtuung kommt zu spät oder zu passiv. Um die geforderten 600k+ Aufrufe der Vorbilder zu knacken, müssen die Opfer noch ärmlicher und die Bösewichte noch arweger wirken, während der Zuschauer den Rache-Plot meilenweit vorausahnen muss."
     }
   ]
 }

@@ -1,0 +1,641 @@
+{
+  "title": "Die 8 Level vom Handy-Schnüffeln",
+  "house": "Fruchthain, a rain-soaked German metropolis filled with neon-lit brutalist apartment blocks, slick wet asphalt streets, dimly lit underground parking garages, trendy third-wave coffee bars, and sterile luxury spa penthouses populated entirely by anthropomorphic fruit and vegetable citizens.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Emily (L1) durchsucht das Handy von Barista Zeno (L2) und findet dort Alex' (L3) Namen.",
+    "Zeno (L2) erwähnt die Erpressung durch Vermieter Alex (L3) im Café Späti-Oase.",
+    "Alex (L3) bedient Kanzleichef Bela (L4) und stiehlt dessen geheime Firmendaten im Waschraum.",
+    "Bela (L4) schnüffelt im Handy seiner reichen Verlobten Paula (L5) im Spa.",
+    "Paula (L5) deckt auf, dass ihre Sicherheitsberaterin Kira (L6) die Daten an Chefermittler Anton (L7) verkauft.",
+    "Kira (L6) hackt Antons (L7) Mobiltelefon in der Fitness-Umkleide und entdeckt die Wanze in Emilys WG.",
+    "Anton (L7) durchsucht das Gerät von Bürgermeister Darius (L8) im VIP-Dampfbad.",
+    "Darius (L8) offenbart, dass der gesamte Server und alle Nummern der Stadt von Studentin Emily (L1) kontrolliert werden."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Welche geheime Kontaktkarte ploppte auf Zenos Display auf, als er aus der Dusche trat?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Demütigt Emily wegen ihres niedrigen Treue-Scores von 18 %, beschimpft sie und verheimlicht eine dubiose Hotelbuchung."
+      },
+      "name": "Emily, 23, Studentin",
+      "badge": "18 % Treue",
+      "verdict": "VERDÄCHTIG",
+      "story": "18 Prozent Treue auf meiner Stirn – und mein eigener Freund lässt mich dafür auf dem nackten Fliesenboden schlafen, während er unter der Dusche fremdgeht! Level eins: Ich bin Emily, 23, und meine Stirn zeigt lächerliche 18 Prozent Treue. „Wer so wenig Vertrauen hat, gehört auf die Straße!“ Er zahlt 650 Euro WG-Miete, ich putze dafür die Küche. Jetzt steht er unter der Dusche, sein Handy liegt entsperrt neben der Zahnbürste. Mein Herz rast wie eine Dampflok. Kennst du diesen Moment, wenn dein Daumen zittert, bevor du den Chat öffnest? Die Zahl lügt nie. Ich wische nach oben. Da steht eine Push-Nachricht: „Hotelzimmer 402 gebucht, danke für die 250 Euro Anzahlung, Liebling.“ Ausgerechnet von Zeno, der angeblich pleite ist! Plötzlich knackt die Badezimmertür. Zeno steht nackt im Dampf, mustert mich eiskalt und zischt nur verächtlich: „Fass mein Eigentum nicht an, du erbärmliche Null!“ In diesem Augenblick springt mein Wert um zehn Punkte nach oben, während sein Display eine neue Warnung zeigt. Er greift nach dem Handtuch, doch auf dem Bildschirm ploppt die Kontaktkarte auf, die alles infrage stellt ... Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+10 %",
+        "after": "28 % Treu"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "18 Prozent Treue auf meiner Stirn – und mein eigener Freund lässt mich dafür auf dem nackten Fliesenboden schlafen, während er unter der Dusche fremdgeht! Level eins:"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Emily, 23, und meine Stirn zeigt lächerliche 18 Prozent Treue."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "„Wer so wenig Vertrauen hat, gehört auf die Straße!“",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Er zahlt 650 Euro WG-Miete, ich putze dafür die Küche. Jetzt steht er unter der Dusche, sein Handy liegt entsperrt neben der Zahnbürste. Mein Herz rast wie eine Dampflok. Kennst du diesen Moment, wenn dein Daumen zittert, bevor du den Chat öffnest? Die Zahl lügt nie. Ich wische nach oben. Da steht eine Push-Nachricht: „Hotelzimmer 402 gebucht, danke für die 250 Euro Anzahlung, Liebling.“ Ausgerechnet von Zeno, der angeblich pleite ist! Plötzlich knackt die Badezimmertür. Zeno steht nackt im Dampf, mustert mich eiskalt und zischt nur verächtlich:"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "„Fass mein Eigentum nicht an, du erbärmliche Null!“",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Augenblick springt mein Wert um zehn Punkte nach oben, während sein Display eine neue Warnung zeigt. Er greift nach dem Handtuch, doch auf dem Bildschirm ploppt die Kontaktkarte auf, die alles infrage stellt ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Fass mein Eigentum nicht an, du erbärmliche Null!",
+      "quote_by": {
+        "level": 2,
+        "name": "Zeno",
+        "badge": "75 % Treue",
+        "character": "Anthropomorphic Lemon man with textured yellow peel skin, damp spiky hair, dripping with shower water, glowing digital forehead badge '75 %'.",
+        "scene": "Medium shot inside a steamy, moldy shared apartment bathroom, the Lemon man glaring condescendingly through dense fog, pointing an accusatory finger."
+      },
+      "stats": [
+        {
+          "label": "Treue-Score",
+          "value": "18 %",
+          "bar": 0.18
+        },
+        {
+          "label": "WG-Miete",
+          "value": "0 €",
+          "bar": 0.05
+        },
+        {
+          "label": "Verdacht",
+          "value": "92 %",
+          "bar": 0.92
+        }
+      ],
+      "character": "Anthropomorphic Strawberry woman with dotted ruby skin, leafy green stem hair, oversized grey thrifted hoodie, glowing digital forehead badge displaying '18 %'.",
+      "visual": "Medium close-up in a cramped, damp Berlin-style shared flat bathroom, foggy mirror, Strawberry woman trembling as she holds an unlocked smartphone, a tiny golden coin is discreetly hidden on the toothbrush holder rim.",
+      "scenes": [
+        "Wide shot of a cluttered, dim shared apartment hallway, water running loudly behind a frosted glass door, a tiny golden coin is hidden behind a coat hook.",
+        "Detail shot of trembling red strawberry-textured fingers sliding across a glowing smartphone screen displaying a hotel confirmation, a tiny golden coin is embedded in the soap dish.",
+        "Medium two-shot as the bathroom door swings open, Zeno the Lemon man wrapped in a towel with '75 %' on his forehead glaring at Emily with '18 %', a tiny golden coin is lodged on the radiator valve.",
+        "Close-up of the smartphone screen shifting to an incoming call from 'Anwalt Alex', a tiny golden coin is visible beneath the glass toothpaste cup.",
+        "Medium shot in the dingy kitchen with peeling wallpaper, Zeno the Lemon man towering over Emily at the kitchen counter earlier that day, a tiny golden coin is taped under the microwave handle.",
+        "Extreme close-up of Emily's forehead number flickering and ticking up to '28 %' while steam swirls around her face, a tiny golden coin is stuck to the bathroom tiles."
+      ],
+      "caption": "Würdest du das Handy deines Partners beim Duschen durchsuchen? Verrate es uns in den Kommentaren! #stirnzahl #beziehungsdrama #vertrauen #drama #obstmenschen"
+    },
+    {
+      "n": 2,
+      "open_loop": "Was befand sich in der mysteriösen Sprachnotiz von Alex, die Zenos Atem stocken ließ?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Erpresst Zeno mit ausstehenden Mietschulden von 780 Euro und erniedrigt ihn vor seiner Kundschaft."
+      },
+      "name": "Zeno, 26, Barista",
+      "badge": "75 % Treue",
+      "verdict": "ENTLARVT",
+      "story": "75 Prozent Treue, aber mein Vermieter spuckt mir für 50 Euro Trinkgeld ins Gesicht und droht, mich obdachlos zu machen! Level zwei: Die Kontaktkarte zeigte Avocado Alex, meinen Vermieter. Ich bin Zeno, 26, verdiene 1.450 Euro netto hinter der Siebträgermaschine und trage stolze 75 Prozent auf der Stirn. Emily dachte, ich betrüge sie, doch die Wahrheit schmeckt bitterer als Zitronensaft. Vorhin kam Alex in die Kaffeebar, warf mir 50 Euro Trinkgeld hin und raunte arrogant: „Zahl die 780 Euro, du Kaffeeschubser, oder deine Freundin erfährt, womit du dein Bett bezahlst!“ Meine Knie wurden weich. Kennst du die Scham, wenn dein Partner dich verachtet, obwohl du ihn nur schützen wolltest? Die Zahl lügt nie. Ich habe das Zimmer nicht für eine Affäre gebucht, sondern als heimliches Lager für Alex’ dubiose Luxusuhren, um unsere 780 Euro Warmmiete zu retten. Als ich aus der Dusche trat, erwischte ich Emily an meinem Smartphone. Mein Zorn kochte über: Fass mein Eigentum nicht an, du erbärmliche Null! Im selben Moment fiel mein Score ins Bodenlose. Doch als ich das Handy an mich riss, öffnete sich eine offene Sprachnotiz von Alex, die mir den Atem raubte ... Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "-35 %",
+        "after": "40 % Treu"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "75 Prozent Treue, aber mein Vermieter spuckt mir für 50 Euro Trinkgeld ins Gesicht und droht, mich obdachlos zu machen! Level zwei:"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Kontaktkarte zeigte Avocado Alex, meinen Vermieter. Ich bin Zeno, 26, verdiene 1.450 Euro netto hinter der Siebträgermaschine und trage stolze 75 Prozent auf der Stirn. Emily dachte, ich betrüge sie, doch die Wahrheit schmeckt bitterer als Zitronensaft. Vorhin kam Alex in die Kaffeebar, warf mir 50 Euro Trinkgeld hin und raunte arrogant:"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "„Zahl die 780 Euro, du Kaffeeschubser, oder deine Freundin erfährt, womit du dein Bett bezahlst!“",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Knie wurden weich. Kennst du die Scham, wenn dein Partner dich verachtet, obwohl du ihn nur schützen wolltest? Die Zahl lügt nie. Ich habe das Zimmer nicht für eine Affäre gebucht, sondern als heimliches Lager für Alex’ dubiose Luxusuhren, um unsere 780 Euro Warmmiete zu retten. Als ich aus der Dusche trat, erwischte ich Emily an meinem Smartphone. Mein Zorn kochte über:"
+        },
+        {
+          "s": "Figur",
+          "t": "Fass mein Eigentum nicht an, du erbärmliche Null!"
+        },
+        {
+          "s": "Figur",
+          "t": "Im selben Moment fiel mein Score ins Bodenlose. Doch als ich das Handy an mich riss, öffnete sich eine offene Sprachnotiz von Alex, die mir den Atem raubte ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Zahl die 780 Euro, du Kaffeeschubser, oder deine Freundin erfährt, womit du dein Bett bezahlst!",
+      "quote_by": {
+        "level": 3,
+        "name": "Alex",
+        "badge": "82 % Treue",
+        "character": "Anthropomorphic Avocado man with dark leathery skin, immaculately groomed, tailored navy suit, glowing digital forehead badge '82 %'.",
+        "scene": "Medium shot in a hipster espresso bar, the Avocado lawyer leaning across the polished counter, tossing crumpled cash with an arrogant smirk."
+      },
+      "stats": [
+        {
+          "label": "Treue-Score",
+          "value": "75 %",
+          "bar": 0.75
+        },
+        {
+          "label": "Netto",
+          "value": "1.450 €",
+          "bar": 0.35
+        },
+        {
+          "label": "Mietschuld",
+          "value": "780 €",
+          "bar": 0.65
+        }
+      ],
+      "character": "Anthropomorphic Lemon man with vivid yellow peel, espresso-stained brown barista apron over a black shirt, glowing digital forehead badge displaying '75 %'.",
+      "visual": "Medium shot in a crowded, steamy Berlin hipster café with exposed brick, Lemon barista holding an espresso portafilter while staring anxiously at his phone, a tiny golden coin is hidden inside the tip jar.",
+      "scenes": [
+        "Wide shot of the bustling café 'Späti-Oase', patrons with glowing forehead numbers sitting at wooden tables, a tiny golden coin is resting on the chalkboard menu frame.",
+        "Medium two-shot at the counter, Avocado Alex in his sharp navy suit displaying '82 %' leaning menacingly toward Zeno with '75 %', a tiny golden coin is tucked under the napkin dispenser.",
+        "Detail shot of a bundle of hundred-euro bills and an anonymous hotel room keycard dropped next to coffee beans, a tiny golden coin is visible inside the grinder hopper.",
+        "Medium shot in the steamy bathroom as Zeno snatches his phone away from Emily, water droplets flying off his citrus skin, a tiny golden coin is stuck on the shower head.",
+        "Extreme close-up of Zeno's forehead display suddenly plummeting from 75 % down to 40 % in glowing red light, a tiny golden coin is wedged into the cracked tile grout.",
+        "Detail shot of the phone screen playing a newly received audio recording from Alex with soundwaves pulsating, a tiny golden coin is hidden behind the phone case bumper."
+      ],
+      "caption": "Hättest du für die Miete gelogen oder die Wahrheit gesagt? Schreib deine Meinung! #stirnzahl #baristaleben #geheimnisse #schulden #drama"
+    },
+    {
+      "n": 3,
+      "open_loop": "Was war auf dem erpresserischen Foto zu sehen, das Alex auf Belas Firmentelefon entdeckte?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Bela drückt Alex an die Wand und zwingt ihn zur Fälschung von Geldwäsche-Bilanzen."
+      },
+      "name": "Alex, 31, Junior-Anwalt",
+      "badge": "82 % Treue",
+      "verdict": "KORRUPT",
+      "story": "82 Prozent Treue, 4.200 Euro Gehalt – und mein Kanzleichef würgt mich im Designeranzug an der Marmorwand wie einen Straßenköter! Level drei: Ich bin Alex, 31, Junior-Anwalt mit glänzender Avocado-Haut und 82 Prozent Treue auf der Stirn. Zeno glaubt, ich sei ein Unmensch. Doch während er duschte, kämpfte ich selbst ums Überleben. Mein Kanzleichef Brokkoli Bela, der mit 88 Prozent prahlt, drückte mich heute früh an die Marmorwand der Kanzlei: „Du deckst meine Schwarzgelder, oder deine Karriere ist Geschichte!“ Mein Magen krampfte sich zusammen. Stehst du zu deinen Prinzipien, wenn dein Traumjob auf dem Spiel steht? Die Zahl lügt nie. Ich zwang Zeno zur Beihilfe, um Bela auszutricksen. Vor einer Stunde stand Bela in der Kanzlei-Dusche, sein goldenes Firmentelefon lag ungesichert auf dem Waschtisch. Ich schlich hinein, mein Fingerabdruck entsperrte den Bildschirm, und ich öffnete seinen geheimen Ordner. Plötzlich griff eine nasse, grüne Hand nach meiner Kehle. Bela lächelte eiskalt, doch auf seinem Display sah ich ein Beweisfoto, das mein ganzes Leben zerstören wird ... Er riss das Gerät an sich und flüsterte eine Drohung, die mich erstarren ließ. Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-22 %",
+        "after": "60 % Treu"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "82 Prozent Treue, 4.200 Euro Gehalt – und mein Kanzleichef würgt mich im Designeranzug an der Marmorwand wie einen Straßenköter! Level drei:"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Alex, 31, Junior-Anwalt mit glänzender Avocado-Haut und 82 Prozent Treue auf der Stirn. Zeno glaubt, ich sei ein Unmensch. Doch während er duschte, kämpfte ich selbst ums Überleben. Mein Kanzleichef Brokkoli Bela, der mit 88 Prozent prahlt, drückte mich heute früh an die Marmorwand der Kanzlei:"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "„Du deckst meine Schwarzgelder, oder deine Karriere ist Geschichte!“",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Magen krampfte sich zusammen. Stehst du zu deinen Prinzipien, wenn dein Traumjob auf dem Spiel steht? Die Zahl lügt nie. Ich zwang Zeno zur Beihilfe, um Bela auszutricksen. Vor einer Stunde stand Bela in der Kanzlei-Dusche, sein goldenes Firmentelefon lag ungesichert auf dem Waschtisch. Ich schlich hinein, mein Fingerabdruck entsperrte den Bildschirm, und ich öffnete seinen geheimen Ordner. Plötzlich griff eine nasse, grüne Hand nach meiner Kehle. Bela lächelte eiskalt, doch auf seinem Display sah ich ein Beweisfoto, das mein ganzes Leben zerstören wird ... Er riss das Gerät an sich und flüsterte eine Drohung, die mich erstarren ließ."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Du deckst meine Schwarzgelder, oder deine Karriere ist Geschichte!",
+      "quote_by": {
+        "level": 4,
+        "name": "Bela",
+        "badge": "88 % Treue",
+        "character": "Anthropomorphic Broccoli man with tightly packed dark green florets, charcoal pinstripe designer suit, heavy signet ring, glowing digital forehead badge '88 %'.",
+        "scene": "Medium close-up in an opulent executive marble hallway, the Broccoli partner cornering Alex against the wall with cold intimidation."
+      },
+      "stats": [
+        {
+          "label": "Treue-Score",
+          "value": "82 %",
+          "bar": 0.82
+        },
+        {
+          "label": "Gehalt",
+          "value": "4.200 €",
+          "bar": 0.58
+        },
+        {
+          "label": "Schweigegeld",
+          "value": "50.000 €",
+          "bar": 0.85
+        }
+      ],
+      "character": "Anthropomorphic Avocado man with deep green pebbled rind, neat silk necktie, gold cufflinks, glowing digital forehead badge displaying '82 %'.",
+      "visual": "Halbnah in a luxurious executive bathroom with black Italian marble, Avocado lawyer snooping through an expensive gold smartphone near a running rain shower, a tiny golden coin is hidden inside the marble soap dispenser.",
+      "scenes": [
+        "Wide shot of a high-rise law firm overlooking rainy Frankfurt skyline, lawyers with fruit heads hurrying with briefcases, a tiny golden coin is resting on the reception desk pedestal.",
+        "Medium two-shot in the marble corridor, Broccoli Bela with '88 %' towering over Avocado Alex with '82 %', gripping his lapels, a tiny golden coin is lodged on the fire extinguisher bracket.",
+        "Detail shot of leather brogues tiptoeing onto a wet teak wood bathmat inside the corporate wellness suite, a tiny golden coin is tucked under the threshold trim.",
+        "Close-up of a gold-plated phone reflecting an open folder labeled 'Treuhand Schwarzgeld', a tiny golden coin is glinting behind the chrome towel warmer.",
+        "Medium shot as a dripping wet Broccoli hand clamps onto Alex's neck from inside the glass steam cabin, a tiny golden coin is sitting atop the glass door hinge.",
+        "Extreme close-up of Alex's forehead display dropping rapidly to '60 %' as horror floods his eyes, a tiny golden coin is hidden inside the air vent grill."
+      ],
+      "caption": "Hättest du den Kanzleichef verraten oder deine Karriere gerettet? Schreib es uns! #anwaltsdrama #karriere #stirnzahl #schwarzgeld #erpressung"
+    },
+    {
+      "n": 4,
+      "open_loop": "Welche geheime Nachricht erschien auf Paulas Display, als sie im Bademantel die Tür aufriss?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Demütigt Bela öffentlich beim Champagner-Brunch und erinnert ihn an seine finanzielle Abhängigkeit von ihrem Erbe."
+      },
+      "name": "Bela, 45, Kanzleipartner",
+      "badge": "88 % Treue",
+      "verdict": "HEUCHLER",
+      "story": "88 Prozent Treue schützen dich vor gar nichts, wenn deine eigene Verlobte dich vor 50 Milliardären als wertlosen Müll abserviert! Level vier: Das Beweisfoto zeigte mich mit Pfirsich Paula in einem Fünf-Sterne-Resort. Ich bin Bela, 45, Seniorpartner mit 88 Prozent Treue und 12.000 Euro Nettoeinkommen. Alex hielt mich für erpressbar, doch er kennt nicht die wahre Macht in dieser Stadt. Meine Verlobte Paula, die süße Pfirsich-Erbin mit perfekten 91 Prozent, demütigte mich gestern beim Champagner-Brunch vor allen Gästen: „Ohne mein Millionenerbe wärst du nur welkes Gemüse im Discounter!“ Mein Stolz zerbrach vor versammelter Mannschaft. Kennst du das Gefühl, wenn Reichtum dich zur Marionette macht? Die Zahl lügt nie. Als Paula heute Nachmittag im Spa unter der Regendusche stand, griff ich nach ihrem pinken Smartphone. Kein Code, alles offen. Ich suchte nach ihren Banktransaktionen über 300.000 Euro, fand aber einen geteilten Kalender mit geheimen Treffpunkten. Plötzlich öffnete Paula im seidenen Bademantel die Glastür, sah mich mit dem Handy und lächelte giftig, während eine frische Chatnachricht über den Bildschirm glitt, die mir den Boden wegriss ... Mein Score stürzte sofort ab, als sie triumphierend auf mich zeigte. Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "-30 %",
+        "after": "58 % Treu"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "88 Prozent Treue schützen dich vor gar nichts, wenn deine eigene Verlobte dich vor 50 Milliardären als wertlosen Müll abserviert! Level vier:"
+        },
+        {
+          "s": "Figur",
+          "t": "Das Beweisfoto zeigte mich mit Pfirsich Paula in einem Fünf-Sterne-Resort. Ich bin Bela, 45, Seniorpartner mit 88 Prozent Treue und 12.000 Euro Nettoeinkommen. Alex hielt mich für erpressbar, doch er kennt nicht die wahre Macht in dieser Stadt. Meine Verlobte Paula, die süße Pfirsich-Erbin mit perfekten 91 Prozent, demütigte mich gestern beim Champagner-Brunch vor allen Gästen:"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "„Ohne mein Millionenerbe wärst du nur welkes Gemüse im Discounter!“",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Stolz zerbrach vor versammelter Mannschaft. Kennst du das Gefühl, wenn Reichtum dich zur Marionette macht? Die Zahl lügt nie. Als Paula heute Nachmittag im Spa unter der Regendusche stand, griff ich nach ihrem pinken Smartphone. Kein Code, alles offen. Ich suchte nach ihren Banktransaktionen über 300.000 Euro, fand aber einen geteilten Kalender mit geheimen Treffpunkten. Plötzlich öffnete Paula im seidenen Bademantel die Glastür, sah mich mit dem Handy und lächelte giftig, während eine frische Chatnachricht über den Bildschirm glitt, die mir den Boden wegriss ... Mein Score stürzte sofort ab, als sie triumphierend auf mich zeigte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Ohne mein Millionenerbe wärst du nur welkes Gemüse im Discounter!",
+      "quote_by": {
+        "level": 5,
+        "name": "Paula",
+        "badge": "91 % Treue",
+        "character": "Anthropomorphic Peach woman with soft blush skin, golden leaf hair ornament, wearing an haute couture silk champagne gown, glowing digital forehead badge '91 %'.",
+        "scene": "Medium shot on a sunny rooftop terrace over champagne flutes, the Peach heiress laughing derisively at Bela in front of high-society guests."
+      },
+      "stats": [
+        {
+          "label": "Treue-Score",
+          "value": "88 %",
+          "bar": 0.88
+        },
+        {
+          "label": "Netto",
+          "value": "12.000 €",
+          "bar": 0.82
+        },
+        {
+          "label": "Deal",
+          "value": "300.000 €",
+          "bar": 0.95
+        }
+      ],
+      "character": "Anthropomorphic Broccoli man with neatly trimmed emerald floret hair, bespoke charcoal wool three-piece suit, glowing digital forehead badge displaying '88 %'.",
+      "visual": "Medium shot inside a private five-star penthouse spa bathroom with steam and eucalyptus leaves, Broccoli man holding a rose-gold designer smartphone, a tiny golden coin is concealed on the edge of the sauna stone tray.",
+      "scenes": [
+        "Wide shot of an opulent country club champagne brunch, socialite vegetable guests whispering behind crystal glasses, a tiny golden coin is hidden behind a champagne ice bucket.",
+        "Medium two-shot at the brunch table, Peach Paula with '91 %' pointing mockingly at Broccoli Bela with '88 %', a tiny golden coin is tucked into the fold of the damask tablecloth.",
+        "Detail shot of Bela's green leafy fingers scrolling frantically through a secret calendar on Paula's unlocked phone, a tiny golden coin is wedged beneath the aromatherapy oil burner.",
+        "Medium shot through a fogged glass door as Paula steps out in a silk kimono robe, smiling like a predator, a tiny golden coin is resting on the brass door track.",
+        "Extreme close-up of Bela's forehead number flickering violently down from '88 %' to '58 %', a tiny golden coin is tucked into the seam of his silk pocket square.",
+        "Detail of the phone screen showing an incoming encrypted ping from 'Kira IT Security', a tiny golden coin is embedded in the phone's glitter case border."
+      ],
+      "caption": "Würdest du dich für Millionen demütigen lassen? Schreib es in die Kommentare! #reichtum #heuchelei #stirnzahl #ehekrach #penthouse"
+    },
+    {
+      "n": 5,
+      "open_loop": "An welche einflussreiche Schattennummer verkaufte Kira heimlich Paulas private Daten?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Kira bedroht Paula im VIP-Club und erpresst sie mit gestohlenen Galerie-Kundendaten."
+      },
+      "name": "Paula, 29, Galeristin & Erbin",
+      "badge": "91 % Treue",
+      "verdict": "KALTBLÜTIG",
+      "story": "91 Prozent Treue, 18.500 Euro Monatsetat – und meine eigene IT-Chefin schüttet mir im VIP-Club ihren Champagner ins Gesicht, um mich zu erpressen! Level fünf: Die Chatnachricht war ein Warnsignal meiner IT-Sicherheitschefin Kokosnuss Kira. Ich bin Paula, 29, Erbin einer Kunststiftung mit 18.500 Euro Monatsetat und makellosen 91 Prozent auf der Stirn. Bela dachte, er kontrolliere mich mit seinen billigen Verdächtigungen. Doch vor drei Tagen stellte mich Kira im VIP-Club bloß, schüttete ihren Drink aus und zischte: „Dein ganzes Kunstimperium basiert auf gestohlenen Daten, Schätzchen!“ Niemand demütigt mich ungestraft. Hast du jemals gelächelt, während du deinem Feind tief in die Augen sahst? Die Zahl lügt nie. Ich ließ mein Handy absichtlich entsperrt neben der Dusche liegen, um Belas Schnüffelei auf Video festzuhalten. Als er mein Gerät berührte, übertrug Kira zeitgleich sämtliche Daten auf ihren Server. Doch als ich mein Smartphone zurücknahm und Kiras Überwachungsprotokoll prüfte, stockte mein Atem: Kira spionierte nicht Bela aus, sondern verkaufte meine privaten Chats an eine Schattennummer, die direkt ins Penthouse der Stadtverwaltung führte ... Mein Treue-Score flackerte nervös, als ich den Namen des Empfängers auf dem Bildschirm erkannte. Das siehst du in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "-15 %",
+        "after": "76 % Treu"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "91 Prozent Treue, 18.500 Euro Monatsetat – und meine eigene IT-Chefin schüttet mir im VIP-Club ihren Champagner ins Gesicht, um mich zu erpressen! Level fünf:"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Chatnachricht war ein Warnsignal meiner IT-Sicherheitschefin Kokosnuss Kira. Ich bin Paula, 29, Erbin einer Kunststiftung mit 18.500 Euro Monatsetat und makellosen 91 Prozent auf der Stirn. Bela dachte, er kontrolliere mich mit seinen billigen Verdächtigungen. Doch vor drei Tagen stellte mich Kira im VIP-Club bloß, schüttete ihren Drink aus und zischte:"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "„Dein ganzes Kunstimperium basiert auf gestohlenen Daten, Schätzchen!“",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Niemand demütigt mich ungestraft. Hast du jemals gelächelt, während du deinem Feind tief in die Augen sahst? Die Zahl lügt nie. Ich ließ mein Handy absichtlich entsperrt neben der Dusche liegen, um Belas Schnüffelei auf Video festzuhalten. Als er mein Gerät berührte, übertrug Kira zeitgleich sämtliche Daten auf ihren Server. Doch als ich mein Smartphone zurücknahm und Kiras Überwachungsprotokoll prüfte, stockte mein Atem: Kira spionierte nicht Bela aus, sondern verkaufte meine privaten Chats an eine Schattennummer, die direkt ins Penthouse der Stadtverwaltung führte ... Mein Treue-Score flackerte nervös, als ich den Namen des Empfängers auf dem Bildschirm erkannte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Dein ganzes Kunstimperium basiert auf gestohlenen Daten, Schätzchen!",
+      "quote_by": {
+        "level": 6,
+        "name": "Kira",
+        "badge": "94 % Treue",
+        "character": "Anthropomorphic Coconut woman with fibrous brown shell hair, sharp ivory features, black tactical cyber turtleneck, glowing digital forehead badge '94 %'.",
+        "scene": "Medium shot in a dark neon-lit underground VIP lounge, the Coconut expert spilling her cocktail onto a glass table with ruthless confidence."
+      },
+      "stats": [
+        {
+          "label": "Treue-Score",
+          "value": "91 %",
+          "bar": 0.91
+        },
+        {
+          "label": "Monatsetat",
+          "value": "18.500 €",
+          "bar": 0.88
+        },
+        {
+          "label": "Sicherheitsb.",
+          "value": "45.000 €",
+          "bar": 0.92
+        }
+      ],
+      "character": "Anthropomorphic Peach woman with soft blush skin, velvet robe, sparkling diamond choker, glowing digital forehead badge displaying '91 %'.",
+      "visual": "Medium close-up in a contemporary art gallery restroom with geometric designer tiles, Peach heiress examining server log transfers on her phone screen, a tiny golden coin is hidden behind the designer perfume bottle.",
+      "scenes": [
+        "Wide shot of an avant-garde art gallery opening in Berlin-Mitte, wealthy fruit-citizens sipping Prosecco beneath abstract sculptures, a tiny golden coin is resting on an art pedestal base.",
+        "Medium two-shot in the shadowy VIP lounge, Coconut Kira with '94 %' leaning into Paula's personal space with '91 %', a tiny golden coin is lodged under an empty martini glass stem.",
+        "Detail shot of a hidden micro-camera lens disguised as a screw inside the bathroom mirror frame, a tiny golden coin is tucked into the wall socket.",
+        "Medium shot as Paula catches Bela red-handed with her phone in the foggy penthouse bathroom, her lips curving into a venomous smile, a tiny golden coin is on the marble ledge.",
+        "Detail of the smartphone screen displaying an outgoing live data stream routed to an encrypted IP in the City Hall district, a tiny golden coin is reflected on the glass display edge.",
+        "Extreme close-up of Paula's forehead number flickering down to '76 %' as the realization of total surveillance hits her, a tiny golden coin is nestled in her hair leaf."
+      ],
+      "caption": "Wer überwacht hier eigentlich wen? Lass ein Abo da, um die Auflösung nicht zu verpassen! #überwachung #kunstszene #stirnzahl #intrige #spannung"
+    },
+    {
+      "n": 6,
+      "open_loop": "Warum observierte Chefermittler Anton heimlich das billige WG-Zimmer von Studentin Emily?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Anton erpresst Kira mit einer Haftstrafe und zwingt sie zur illegalen Massenüberwachung."
+      },
+      "name": "Kira, 33, Cyber-Forensikerin",
+      "badge": "94 % Treue",
+      "verdict": "DOPPELSPIEL",
+      "story": "94 Prozent Treue, 7.800 Euro Honorar – und mein Auftraggeber lässt mich von Schlägern in der Umkleidekabine abfangen, während er genüsslich duscht! Level sechs: Die Schattennummer gehörte Chefermittler Ananas Anton von der Finanzaufsicht. Ich bin Kira, 33, Cyber-Forensikerin mit stahlharter Kokosschale, 7.800 Euro Monatshonorar und stolzen 94 Prozent Treue. Paula hielt mich für käuflich, doch Anton zwang mich mit vorgehaltener Akte in die Knie. Gestern lachte er mich im Serverraum der Behörde höhnisch aus: „Eine falsche Zeile Code, und du bist für immer geliefert!“ Kennst du das beklemmende Gefühl, wenn jeder deiner Schritte überwacht wird? Die vernichtende Scham, das intimste Privatleben ahnungsloser Menschen per Spionagestick aufzubrechen und ihre Geheimnisse wie dreckige Wäsche zu durchwühlen, schnürt mir bei jedem Tastendruck die Kehle zu. Die Zahl lügt nie. Um mich zu retten, schlich ich mich in Antons Umkleidekabine im Fitnessclub, während er unter der Dusche stand. Sein Diensthandy lag entsperrt auf der Holzbank. Ich steckte meinen Trojaner-Stick ein, um seine Belastungsmaterialien zu löschen. Doch als der Ladebalken bei 99 Prozent stoppte, öffnete sich ein geheimer Live-Feed: Anton observierte nicht die Reichen der Stadt, sondern das unscheinbare WG-Zimmer von Studentin Emily! Genau in dem Moment riss Anton den Duschvorhang auf und starrte mich mit eiskalten Augen an ... Sein Handtuch fiel, sein Score stürzte ab. Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "-24 %",
+        "after": "70 % Treu"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "94 Prozent Treue, 7.800 Euro Honorar – und mein Auftraggeber lässt mich von Schlägern in der Umkleidekabine abfangen, während er genüsslich duscht! Level sechs:"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Schattennummer gehörte Chefermittler Ananas Anton von der Finanzaufsicht. Ich bin Kira, 33, Cyber-Forensikerin mit stahlharter Kokosschale, 7.800 Euro Monatshonorar und stolzen 94 Prozent Treue. Paula hielt mich für käuflich, doch Anton zwang mich mit vorgehaltener Akte in die Knie. Gestern lachte er mich im Serverraum der Behörde höhnisch aus:"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "„Eine falsche Zeile Code, und du bist für immer geliefert!“",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Kennst du das beklemmende Gefühl, wenn jeder deiner Schritte überwacht wird? Die vernichtende Scham, das intimste Privatleben ahnungsloser Menschen per Spionagestick aufzubrechen und ihre Geheimnisse wie dreckige Wäsche zu durchwühlen, schnürt mir bei jedem Tastendruck die Kehle zu. Die Zahl lügt nie. Um mich zu retten, schlich ich mich in Antons Umkleidekabine im Fitnessclub, während er unter der Dusche stand. Sein Diensthandy lag entsperrt auf der Holzbank. Ich steckte meinen Trojaner-Stick ein, um seine Belastungsmaterialien zu löschen. Doch als der Ladebalken bei 99 Prozent stoppte, öffnete sich ein geheimer Live-Feed: Anton observierte nicht die Reichen der Stadt, sondern das unscheinbare WG-Zimmer von Studentin Emily! Genau in dem Moment riss Anton den Duschvorhang auf und starrte mich mit eiskalten Augen an ... Sein Handtuch fiel, sein Score stürzte ab."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Eine falsche Zeile Code, und du bist für immer geliefert!",
+      "quote_by": {
+        "level": 7,
+        "name": "Anton",
+        "badge": "96 % Treue",
+        "character": "Anthropomorphic Pineapple man with sharp spiky crown, diamond-patterned amber skin, severe dark trenchcoat, glowing digital forehead badge '96 %'.",
+        "scene": "Medium shot inside a cold, humming municipal server vault, the Pineapple inspector holding a criminal dossier and towering over Kira."
+      },
+      "stats": [
+        {
+          "label": "Treue-Score",
+          "value": "94 %",
+          "bar": 0.94
+        },
+        {
+          "label": "Honorar",
+          "value": "7.800 €",
+          "bar": 0.72
+        },
+        {
+          "label": "Hacker-Exp.",
+          "value": "99 %",
+          "bar": 0.99
+        }
+      ],
+      "character": "Anthropomorphic Coconut woman with fibrous brown husk braids, matte-black tactical tech vest, glowing digital forehead badge displaying '94 %'.",
+      "visual": "Halbnah inside a humid municipal gym locker room with steamy tiles, Coconut hacker inserting a glowing hardware bypass stick into a rugged government phone, a tiny golden coin is hidden inside an open metal locker lock.",
+      "scenes": [
+        "Wide shot of an echoing, fluorescent-lit municipal server room, blinking green server racks reflecting on polished concrete, a tiny golden coin is lying on a cable conduit.",
+        "Medium two-shot in the server room, Pineapple Anton with '96 %' pointing an accusatory finger at Coconut Kira with '94 %', a tiny golden coin is visible on the rack handle.",
+        "Detail shot of water pooling on the locker room floor as heavy shower jets roar nearby, a tiny golden coin is resting inside the drain grill.",
+        "Close-up of a rugged black smartphone screen showing a secret surveillance feed of Emily's messy student room, a tiny golden coin is wedged behind the wooden bench slat.",
+        "Medium shot as Anton the Pineapple man pulls back the blue vinyl shower curtain with steam billing out, eyes wide in fury, a tiny golden coin is perched on the curtain ring.",
+        "Extreme close-up of Kira's forehead display glitching down from '94 %' to '70 %', a tiny golden coin is lodged in the strap buckle of her tactical vest."
+      ],
+      "caption": "Warum beobachtet die Behörde eine gewöhnliche Studentin? Sag uns deine Theorie! #cyberforensik #überwachungsstaat #hacker #stirnzahl #thriller"
+    },
+    {
+      "n": 7,
+      "open_loop": "Was fand Anton auf dem entsperrten Telefon von Ratsherr Darius im VIP-Dampfbad?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Bürgermeister Darius demütigt Anton in seinem Amtszimmer und droht mit seiner Vernichtung."
+      },
+      "name": "Anton, 41, Chefermittler",
+      "badge": "96 % Treue",
+      "verdict": "BESESSEN",
+      "story": "96 Prozent Treue, Staatsgehalt – und der Bürgermeister spuckt mir ins Gesicht: Kriech zurück in deine Akten, oder ich lasse dich verschwinden! Level sieben: Ich observierte Emily nicht aus Bosheit, sondern weil sie die geheime Erbin von Ratsherr Darius ist. Ich bin Anton, 41, Chefermittler mit 96 Prozent Treue und 9.200 Euro Staatsgehalt. Kira dachte, sie hätte mich ertappt, doch mein wahrer Gegenspieler saß ganz oben. Heute Vormittag demütigte mich Bürgermeister Darius, die allmächtige Drachenfrucht mit 99 Prozent Treue, in seinem Prachtbüro: „Kriech zurück in deine Akten, oder ich lasse dich verschwinden!“ Dieser Hochmut verlangte Rache. Weißt du, wie tief der Hass brennt, wenn die Mächtigen unantastbar scheinen? Die Zahl lügt nie. Ich folgte Darius in seinen privaten Luxus-Wellnessclub. Während er im VIP-Dampfbad schwitzte, lag sein vergoldetes Smartphone entsperrt auf der Liege. Ich überwand die Kameras und öffnete seinen geschützten Systemordner. Doch statt Geldwäscheprotokollen fand ich einen Live-Befehl, der in genau fünf Minuten die Stirn-Zahlen der ganzen Stadt manipulieren sollte. Plötzlich glitt die Glastür auf, und Darius stand vor mir, während sein Display einen Countdown anzeigte, der alles vernichten wird ... Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "-45 %",
+        "after": "51 % Treu"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "96 Prozent Treue, Staatsgehalt – und der Bürgermeister spuckt mir ins Gesicht: Kriech zurück in deine Akten, oder ich lasse dich verschwinden! Level sieben:"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich observierte Emily nicht aus Bosheit, sondern weil sie die geheime Erbin von Ratsherr Darius ist. Ich bin Anton, 41, Chefermittler mit 96 Prozent Treue und 9.200 Euro Staatsgehalt. Kira dachte, sie hätte mich ertappt, doch mein wahrer Gegenspieler saß ganz oben. Heute Vormittag demütigte mich Bürgermeister Darius, die allmächtige Drachenfrucht mit 99 Prozent Treue, in seinem Prachtbüro:"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "„Kriech zurück in deine Akten, oder ich lasse dich verschwinden!“",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Dieser Hochmut verlangte Rache. Weißt du, wie tief der Hass brennt, wenn die Mächtigen unantastbar scheinen? Die Zahl lügt nie. Ich folgte Darius in seinen privaten Luxus-Wellnessclub. Während er im VIP-Dampfbad schwitzte, lag sein vergoldetes Smartphone entsperrt auf der Liege. Ich überwand die Kameras und öffnete seinen geschützten Systemordner. Doch statt Geldwäscheprotokollen fand ich einen Live-Befehl, der in genau fünf Minuten die Stirn-Zahlen der ganzen Stadt manipulieren sollte. Plötzlich glitt die Glastür auf, und Darius stand vor mir, während sein Display einen Countdown anzeigte, der alles vernichten wird ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Kriech zurück in deine Akten, oder ich lasse dich verschwinden!",
+      "quote_by": {
+        "level": 8,
+        "name": "Darius",
+        "badge": "99 % Treue",
+        "character": "Anthropomorphic Dragonfruit man with magenta scaled skin, chartreuse tipped horns, velvet burgundy tailored tuxedo, glowing digital forehead badge '99 %'.",
+        "scene": "Medium shot in a grand neo-baroque mayor's office, the Dragonfruit ruler leaning over an oak desk, sneering down at Anton."
+      },
+      "stats": [
+        {
+          "label": "Treue-Score",
+          "value": "96 %",
+          "bar": 0.96
+        },
+        {
+          "label": "Staatsgehalt",
+          "value": "9.200 €",
+          "bar": 0.78
+        },
+        {
+          "label": "Beweisakte",
+          "value": "100 %",
+          "bar": 1.0
+        }
+      ],
+      "character": "Anthropomorphic Pineapple man with textured gold rind, dark inspector's coat, spiky green crown, glowing digital forehead badge displaying '96 %'.",
+      "visual": "Medium shot in an ultra-luxurious private steam lounge with Roman columns and ambient blue light, Pineapple investigator holding a solid titanium smartphone, a tiny golden coin is hidden in the carved marble basin.",
+      "scenes": [
+        "Wide shot of the mayor's grand municipal office with gilded ceilings and oil portraits of previous fruit mayors, a tiny golden coin is resting on the grandfather clock ledge.",
+        "Medium two-shot in the office, Dragonfruit Darius with '99 %' looking down at Pineapple Anton with '96 %', tapping an antique letter opener on the desk, a tiny golden coin is beside the inkwell.",
+        "Detail shot of leather gloves picking up a gleaming titanium smartphone from a plush velvet lounger outside the steam room, a tiny golden coin is stuck beneath the lounger leg.",
+        "Close-up of the screen displaying a master control interface counting down from '05:00' with municipal override codes, a tiny golden coin is nestled in the folded towel pile.",
+        "Medium shot as the frosted steam-room glass slides open, Darius standing in dense steam with an icy glare, a tiny golden coin is lodged on the sliding track handle.",
+        "Extreme close-up of Anton's forehead badge crashing down to '51 %' as alarms flash on the phone screen, a tiny golden coin is visible on his coat lapel pin."
+      ],
+      "caption": "Wird der Countdown die Stadt zerstören? Schau dir das Finale in Level 8 an! #ermittlung #politik #machtkampf #stirnzahl #thriller"
+    },
+    {
+      "n": 8,
+      "open_loop": "Keine offene Frage mehr – das Geheimnis von Emilys Master-Zugang wird vollständig gelüftet.",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Emily infiltrierte als angebliche Null-Prozent-Studentin die Stadt und entlarvt vor aller Augen das heuchlerische Stirn-Zahl-System."
+      },
+      "name": "Darius, 58, Bürgermeister",
+      "badge": "99 % Treue",
+      "verdict": "HERRSCHER",
+      "story": "99 Prozent Treue, 35.000 Euro Monatsgehalt – und ausgerechnet die 18-Prozent-Studentin drückt mich vor der ganzen Stadt auf die Knie! Level acht: Das geheime Handy im Dampfbad gehörte nicht mir, sondern Studentin Emily! Ich bin Darius, 58, Stadtoberhaupt mit Drachenschuppen, 35.000 Euro Monatsbezügen und angeblichen 99 Prozent Treue. Anton dachte, er hätte mich überführt. Doch als er nach meinem Telefon griff, ertappte Emily ihn auf frischer Tat mit den Worten: „Die Zahl lügt nie, Herr Bürgermeister!“ Das gesamte Schnüffeln beim Duschen war kein Zufall, sondern ein inszenierter Test. Von Zenos WG-Bad über Alex’ Kanzleidrohung bis zu Belas Hotelrechnungen und Kiras Wanzen: Emily steuerte den zentralen Algorithmus unserer Stirn-Zahlen, um die Heuchler dieser Stadt zu entlarven! Wer glaubte, die Zahl bestimme den Wert eines Bürgers, hat sich selbst verraten. Mit einem einzigen Klick auf Emilys Display stürzten die perfekten Werte von Bela, Paula und mir auf null Prozent ab, während Emilys Stirn plötzlich mit maximalem Glanz erstrahlte. Wir waren alle nur Marionetten auf ihrem Bildschirm. Erkennst du jetzt, warum wahres Vertrauen niemals auf einem Display steht? Welches brisante Thema sollen wir als Nächstes für euch enthüllen? Schreibt es in die Kommentare!",
+      "gender": "m",
+      "twist": {
+        "delta": "-99 %",
+        "after": "0 % Treue"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "99 Prozent Treue, 35.000 Euro Monatsgehalt – und ausgerechnet die 18-Prozent-Studentin drückt mich vor der ganzen Stadt auf die Knie! Level acht:"
+        },
+        {
+          "s": "Figur",
+          "t": "Das geheime Handy im Dampfbad gehörte nicht mir, sondern Studentin Emily! Ich bin Darius, 58, Stadtoberhaupt mit Drachenschuppen, 35.000 Euro Monatsbezügen und angeblichen 99 Prozent Treue. Anton dachte, er hätte mich überführt. Doch als er nach meinem Telefon griff, ertappte Emily ihn auf frischer Tat mit den Worten:"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "„Die Zahl lügt nie, Herr Bürgermeister!“",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Das gesamte Schnüffeln beim Duschen war kein Zufall, sondern ein inszenierter Test. Von Zenos WG-Bad über Alex’ Kanzleidrohung bis zu Belas Hotelrechnungen und Kiras Wanzen: Emily steuerte den zentralen Algorithmus unserer Stirn-Zahlen, um die Heuchler dieser Stadt zu entlarven! Wer glaubte, die Zahl bestimme den Wert eines Bürgers, hat sich selbst verraten. Mit einem einzigen Klick auf Emilys Display stürzten die perfekten Werte von Bela, Paula und mir auf null Prozent ab, während Emilys Stirn plötzlich mit maximalem Glanz erstrahlte. Wir waren alle nur Marionetten auf ihrem Bildschirm. Erkennst du jetzt, warum wahres Vertrauen niemals auf einem Display steht? Welches brisante Thema sollen wir als Nächstes für euch enthüllen? Schreibt es in die Kommentare!"
+        }
+      ],
+      "quote": "Die Zahl lügt nie, Herr Bürgermeister!",
+      "quote_by": {
+        "level": 1,
+        "name": "Emily",
+        "badge": "18 % Treue",
+        "character": "Anthropomorphic Strawberry woman holding the master administrative tablet, no longer meek, wearing a sleek black blazer over her hoodie, glowing digital forehead badge '100 %'.",
+        "scene": "Medium shot in the opulent VIP wellness club, Emily stepping out from behind a pillar with an authoritative smile, holding up the master device."
+      },
+      "stats": [
+        {
+          "label": "Treue-Score",
+          "value": "99 %",
+          "bar": 0.99
+        },
+        {
+          "label": "Gehalt",
+          "value": "35.000 €",
+          "bar": 1.0
+        },
+        {
+          "label": "Macht-Index",
+          "value": "0 %",
+          "bar": 0.0
+        }
+      ],
+      "character": "Anthropomorphic Dragonfruit man with vivid fuchsia-scaled skin, green horned accents, regal silk-lined dressing gown, glowing digital forehead badge displaying '99 %'.",
+      "visual": "Wide shot in the grand marble atrium of the private bathhouse, Strawberry Emily holding the master administrative terminal while Mayor Dragonfruit Darius kneels in shock, a tiny golden coin is hidden in the mouth of the marble fountain gargoyle.",
+      "scenes": [
+        "Wide shot of the city council chamber with digital scoreboards on the wall glitching violently from 90s to zero, a tiny golden coin is lodged under the council rostrum.",
+        "Medium two-shot between Darius with '99 %' crashing to '0 %' and Emily standing victorious with '100 %', a tiny golden coin is embedded in the mosaic floor pattern.",
+        "Detail shot of the master administrative tablet screen displaying all 8 characters' profile cards with their scores wiped out, a tiny golden coin is tucked into the tablet case kickstand.",
+        "Medium shot showing Zeno, Alex, Bela, and Paula watching their forehead numbers drop to zero on a public street display outside in the rain, a tiny golden coin is resting on the newsstand shelf.",
+        "Close-up of Emily's calm, smiling strawberry face as her forehead radiates pure white light at '100 %', a tiny golden coin is glinting on her blazer collar.",
+        "Totale shot of the Fruchthain city skyline at dusk, neon signs flickering as the citizens look up at the giant municipal tower, a tiny golden coin is perched on the penthouse balcony railing."
+      ],
+      "caption": "Das Netzwerk ist zerschlagen! Welches 8-Level-Drama wollt ihr als Nächstes sehen? Schreibt eure Ideen jetzt in die Kommentare! #finale #stirnzahl #plotwist #drama #aufloesung"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das heimliche Durchsuchen des entsperrten Handys beim Duschen",
+  "frame": "frucht"
+}
