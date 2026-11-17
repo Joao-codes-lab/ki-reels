@@ -2,7 +2,7 @@
 
 - URL: https://www.instagram.com/p/Dfwi9lPMblp/
 - Dauer: 131.0 s, Sprache: de
-- Likes: 1498, Kommentare: 8, Views: 46768
+- Likes: 2075, Kommentare: 11, Views: 64645
 - Datum: 2026-11-15T10:18:49.000Z
 
 ## Beschreibung
