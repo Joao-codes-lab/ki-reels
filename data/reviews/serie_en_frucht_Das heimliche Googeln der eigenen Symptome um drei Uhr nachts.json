@@ -1,97 +1,149 @@
 {
-  "best_score": 71,
+  "best_score": 39,
   "rounds": [
     {
       "scores": {
-        "hook": 5,
-        "story": 6,
-        "identifikation": 8,
-        "verbindungen": 4,
-        "sog": 5,
-        "wut": 4,
-        "merkfaehigkeit": 5,
+        "hook": 3,
+        "story": 4,
+        "identifikation": 5,
+        "verbindungen": 6,
+        "sog": 3,
+        "wut": 2,
+        "merkfaehigkeit": 4,
         "sprache": 4
       },
-      "gesamt": 51,
+      "gesamt": 39,
       "fixes": [
         {
           "n": 1,
-          "fix": "Ersetze das schwache Intro durch einen harten Vorwurf der Nachbarin und zeige sofort die Stirnzahl 42 mit einem absurden medizinischen Fehldiagnose-Kracher, der echte Wut auslöst."
+          "fix": "Ersetze den Einstieg mit: '47 offene Tabs um 3 Uhr morgens, und laut WebMD sterbe ich in drei Tagen. Auf meiner Stirn leuchtet ein knallrotes Warnschild.' Kürze die Wortzahl auf über 175 Wörter pro Teil, indem du die Angst vor dem tatsächlichen medizinischen Bankrott detaillierter beschreibst."
         },
         {
           "n": 2,
-          "fix": "Baue echten Konflikt ein: Der Kollege soll dem Barista nicht nur sagen, er sei hungover, sondern seine getippten Symptome öffentlich vor allen Gästen vorlesen."
+          "fix": "Füge echte Wut ein: Der Gegenspieler (Prudence) zieht den Stecker vom WLAN, während die Hauptfigur kurz vor der lebensrettenden Diagnose steht. Sag genau: 'Du zahlst deine Rechnung nicht, also kriegst du auch keine medizinische Wahrheit!'"
         },
         {
           "n": 3,
-          "fix": "Erhöhe die Wortanzahl auf über 175 Wörter pro Teil, indem die innere Panik und die genaue Internet-Sackgasse detaillierter und emotionaler beschrieben werden."
+          "fix": "Erhöhe den Sog durch ein präzises Rätsel am Ende jedes Videos: 'Was im gelöschten Suchverlauf stand, erfährst du in Level 4.'"
         },
         {
           "n": 4,
-          "fix": "Lass die Versicherungsangestellte in Teil 4 nicht nur abwinken, sondern die lebenswichtige Behandlung eiskalt und direkt vor den Augen der Zuschauer ablehnen."
+          "fix": "Verzichte auf sterile Aufzählungen. Lass die Figuren echten Schmerz und Paranoia durchleben, statt nur Sätze runterzurattern."
         },
         {
           "n": 5,
-          "fix": "Schärfe die Verbindung zwischen den Levels: Die Figuren müssen sich gegenseitig namentlich in ihren Handlungen belasten, statt nur austauschbar aufzutauchen."
-        }
-      ],
-      "fazit": "Die Serie hat ein starkes, absolut alltagsnahes Thema (Hypochondrie um 3 Uhr nachts), leidet aber unter zu kurzen Texten, laschen Hooks und zu wenig spürbarer Rache oder Genugtuung. Die Wut auf die arroganten Gegenspieler verpufft zu schnell, weil die Konfrontationen zu harmlos und die Querverweise zu beliebig sind. Mehr Tempo, härtere Konflikte und echte emotionale Fallhöhe sind nötig."
-    },
-    {
-      "scores": {
-        "hook": 7,
-        "story": 6,
-        "identifikation": 8,
-        "verbindungen": 8,
-        "sog": 7,
-        "wut": 6,
-        "merkfaehigkeit": 7,
-        "sprache": 8
-      },
-      "gesamt": 71,
-      "fixes": [
-        {
-          "n": 1,
-          "fix": "Ersetze den Beginn durch: '42 Googlesymptome um 3:17 Uhr bedeuten laut Internet: Ich sterbe in 48 Stunden an einem Gehirnwurm.' Schneide jegliche Einleitungs-Floskeln weg."
+          "fix": "Schärfe die Genugtuung: Der vermeintlich überlegene Bösewicht bricht im nächsten Level selbst unter 5.000 Tabs zusammen und bettelt um Hilfe."
         },
         {
-          "n": 4,
-          "fix": "Erhöhe die Wut im Dialog: 'Wer zu blöd ist, um seine Hypochondrie selbst zu bezahlen, fliegt fristlos aus der Krankenversicherung, Pam!'"
+          "n": 6,
+          "fix": "Bringe den 'versteckten Wert' klarer zur Geltung: Die vermeintlich kranke Figur findet zufällig den Master-Code, der den arroganten Chef entlarvt."
+        },
+        {
+          "n": 7,
+          "fix": "Streiche alle unnötigen Füllwörter in den Dialogen. Jede Zeile muss wie ein scharfes Messer sitzen."
         },
         {
           "n": 8,
-          "fix": "Schärfe den Cliffhanger am Ende: 'Um 5 Uhr morgens blinkte auf allen Stirnen der Stadt plötzlich ein einziger, grauenhafter Fehlercode, den niemand löschen konnte.'"
+          "fix": "Verbinde das Finale (Level 8) mit einer echten Racheaktion an allen vorherigen Gegenspielern, statt nur vage von der Realität zu faseln."
         }
       ],
-      "fazit": "Die Serie hat starke, sofort greifbare Identifikationspunkte und clevere Querverweise zwischen den Leveln, verliert aber zu oft an Biss, weil die Dialoge zu glatt und die Demütigungen zu harmlos sind. Mehr Tempo, härtere Konflikte und radikalere Schnitte direkt in die Konfrontation hinein sind nötig, um die virale Schwelle zu knacken."
+      "fazit": "Die Serie hat eine nette visuelle Grundidee mit Veggie City, aber sie scheitert an den harten Viral-Regeln. Die Hooks sind zu brav, es fehlt die pure Existenzangst und die ekelhafte Arroganz der Gegenspieler, die echte Wut auslöst. Ohne spürbare Rache und Genugtuung schaltet der Zuschauer nach zwei Sekunden weg."
     },
     {
       "scores": {
-        "hook": 6,
-        "story": 5,
-        "identifikation": 8,
-        "verbindungen": 7,
-        "sog": 6,
-        "wut": 5,
-        "merkfaehigkeit": 6,
-        "sprache": 4
+        "hook": 2,
+        "story": 1,
+        "identifikation": 2,
+        "verbindungen": 1,
+        "sog": 1,
+        "wut": 1,
+        "merkfaehigkeit": 2,
+        "sprache": 1
       },
-      "gesamt": 59,
+      "gesamt": 14,
       "fixes": [
         {
           "n": 1,
-          "fix": "Ersetze das zu lange Intro durch einen harten Schlag: '42 Googlesymptome um 3:17 Uhr. Mein Gehirn sagt: Schlaganfall in 10 Minuten. Und diese arrogante Pflaume lacht mich aus.' Baue mindestens 175 kompakte, gesprochene Wörter ein."
+          "fix": "Ersetze den sterilen Einleitungssatz durch: '47 offene Tabs um 3 Uhr morgens, und WebMD sagt, ich habe noch 3 Tage. Mein Vermieter Brody pocht an die Tür: Miete her oder raus!'"
+        },
+        {
+          "n": 2,
+          "fix": "Ändere den Text zu echten Konflikten statt Aufzählungen: '112 Tabs offen, und mein Konto ist leer. Die Apothekerin grinst: Ohne Cash keine Medizin!'"
+        },
+        {
+          "n": 3,
+          "fix": "Korrigiere den starren Aufbau: '345 Tabs offen, und der Pfändungsbescheid liegt im Briefkasten, weil ich meine Arztrechnungen nicht mehr zahlen kann.'"
         },
         {
           "n": 4,
-          "fix": "Kürze den Fließtext und starte sofort mit der Wut-Aussage: '1.200 Dollar Selbstbeteiligung für einen beschissenen Hautausschlag, den Google als tödlich eingestuft hat.' Setze den Wut-Faktor durch eine noch härtere Beleidigung der CEO hoch."
+          "fix": "Mache den Bösewicht greifbar: '620 Tabs offen, und der Sicherheitsdienst wirft mich eiskalt aus dem Gebäude, weil die Versicherung die Behandlung verweigert.'"
+        },
+        {
+          "n": 5,
+          "fix": "Erhöhe den Verrat: '890 Tabs offen, und die Bürgermeisterin streicht mir die Lizenz, während sie selbst gefälschte Pillen im Viertel verkauft.'"
+        },
+        {
+          "n": 6,
+          "fix": "Fokussiere auf die Rache: '1.540 Tabs offen, und Chloe kündigt meinen Lieferauftrag. Aber in ihrem System habe ich gerade den Beweis für ihre Betrügereien gefunden.'"
+        },
+        {
+          "n": 7,
+          "fix": "Zeige den Sturz des Mächtigen: '4.500 Tabs offen, und der arrogante Direktor Thorne bricht weinend zusammen, weil ich seine krummen Dinger öffentlich mache.'"
         },
         {
           "n": 8,
-          "fix": "Löse das Finale emotionaler auf: Keine abstrakten Systemfehler, sondern die pure Genugtuung, dass die arroganten Bosse jetzt genau dieselbe Panik spüren."
+          "fix": "Liefere die ultimative Genugtuung: '9.999 Tabs offen. Die Tyrannen knien vor mir im Dreck, und ich entziehe ihnen mit einem Klick ihre Existenz.'"
         }
       ],
-      "fazit": "Die Serie hat durch das Obst-Setting und die Querverweise starkes virales Potenzial, leidet aber unter zu langen, hölzernen Texten, die nach Lesebuch statt nach echten TikTok-Rants klingen. Die Word-Count-Vorgabe von 175 Wörtern pro Teil wurde oft verfehlt oder mit schwerfälligem Englisch gefüllt. Mehr Hass, mehr Tempo, härtere Hooks."
+      "fazit": "Die Serie scheitert komplett an den viralen Maßstäben: Jedes Video wiederholt exakt dieselbe plumpe Floskel ('You don't pay your bill, so you get no medical truth!') als platten Zitat-Baustein, statt echte Wut und organische Konflikte aufzubauen. Die Open Loops sind fehlerhaft, die Storys lesen sich wie sterile Aufzählungen und der Wortschatz bleibt weit unter den geforderten 175 Wörtern pro Teil. Totaler Durchfall im Algorithmus nach zwei Sekunden."
+    },
+    {
+      "scores": {
+        "hook": 3,
+        "story": 2,
+        "identifikation": 4,
+        "verbindungen": 3,
+        "sog": 2,
+        "wut": 3,
+        "merkfaehigkeit": 4,
+        "sprache": 2
+      },
+      "gesamt": 29,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Schreibe den Text komplett auf Deutsch, erweitere ihn auf über 175 Wörter und starte mit einem echten Konflikt: '47 offene Tabs, WebMD sagt Hirntumor, und Vermieter Brody tritt die Tür ein: Miete her oder raus!'"
+        },
+        {
+          "n": 2,
+          "fix": "Ersetze das hölzerne Englisch durch knackiges Deutsch, verfasse mindestens 175 Wörter und baue echte Wut auf, indem die Apothekerin die lebensrettenden Tabletten vor den Augen des pleiten Kunden verbrennt."
+        },
+        {
+          "n": 3,
+          "fix": "Erhöhe die Wortanzahl auf über 175 Wörter auf Deutsch, vertiefe die Paranoia bei 345 Tabs und zeige, wie der kalte Direktor Thorne die Pfändung eiskalt persönlich unterschreibt."
+        },
+        {
+          "n": 4,
+          "fix": "Schreibe mindestens 175 Wörter auf Deutsch, lass den Sicherheitsdienst Brody die Protagonistin brutal auf die Straße zerren, während die Versicherung hämisch den Notarzt verweigert."
+        },
+        {
+          "n": 5,
+          "fix": "Verfasse über 175 deutsche Wörter, zeige die korrupte Bürgermeisterin beim Verkauf gefälschter Billig-Pillen und lass sie die Apotheken-Lizenz eiskalt entziehen."
+        },
+        {
+          "n": 6,
+          "fix": "Schreibe mindestens 175 Wörter auf Deutsch, lass den Kurier Jax über den ultimativen Beweis im System stolpern, während Chloe seinen Account sperrt und ihn obdachlos macht."
+        },
+        {
+          "n": 7,
+          "fix": "Erstelle über 175 deutsche Wörter, präsentiere den arroganten Direktor Thorne beim Zusammenbruch, weil Daisy seine Machenschaften live ins Netz streamt."
+        },
+        {
+          "n": 8,
+          "fix": "Schreibe über 175 deutsche Wörter, lass alle Tyrannen im Dreck betteln, während die 9.999 offenen Tabs die absolute Rache und Genugtuung bringen."
+        }
+      ],
+      "fazit": "Totaler Reinfall für den Algorithmus. Der Text springt wirr zwischen Deutsch und Englisch hin und her, erreicht bei keinem einzigen Video die geforderten 175 Wörter, und die Story ist eine unzusammenhängende Aufzählung statt einer echten Rache-Fahrt. Keine Genugtuung, kein Sog, nach 2 Sekunden wird weggewischt."
     }
   ]
 }

@@ -1,0 +1,105 @@
+{
+  "best_score": 49,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 6,
+        "story": 5,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 6,
+        "wut": 5,
+        "merkfaehigkeit": 4,
+        "sprache": 4
+      },
+      "gesamt": 49,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den lahmen Einstieg durch einen brutalen Konflikt: '2.000 Euro Rechnung? Wer hat den Erdbeer-Frischling eingeladen? Vielleicht putzt sie gleich unsere Toiletten.'"
+        }
+      ],
+      "fazit": "Die Serie hat eine solide visuelle Struktur, scheitert aber an echten Emotionen und bissiger Wortwahl. Die Dialoge klingen oft nach Schulaufsatz statt nach skrupelloser sozialer Härte. Mehr Verachtung, mehr Neid, weniger Floskeln."
+    },
+    {
+      "scores": {
+        "hook": 3,
+        "story": 4,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 3,
+        "wut": 4,
+        "merkfaehigkeit": 4,
+        "sprache": 5
+      },
+      "gesamt": 40,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den schwachen Satz '2.000 Euro bill? Who invited the strawberry rookie?' durch eine unbarmherzige, direkte Demütigung: 'Zwei-Tausend Euro? Wer hat diesen armseligen Erdbeer-Loser eigentlich reingelassen? Die putzt nachher gefälligst unsere Toiletten, um ihre Rechnung zu bezahlen!'"
+        },
+        {
+          "n": 2,
+          "fix": "Füge im zweiten Teil echte Wut und einen harten Kontrast ein, indem der Barkeeper nicht nur jammert, sondern direkt gedemütigt wird: 'Zwei Tausend Euro? Du schenkst hier nur billigen Kaffee aus, du verdammter Versager – zahl den Aufschlag für unsere Hummer-Platte sofort aus deiner eigenen Tasche!'"
+        },
+        {
+          "n": 3,
+          "fix": "Schärfe den offenen Loop am Ende von Teil 1 zu einer echten, unerträglichen Drohung: 'Warte nur ab, bis du in Level 2 siehst, wie wir deine komplette Kaution für unseren Champagner pfänden!'"
+        },
+        {
+          "n": 4,
+          "fix": "Erweitere die Wortanzahl in allen Teilen strikt auf über 175 Wörter pro Video, indem du die innere Wut und die Ungerechtigkeit der Bezahl-Szenen detaillierter, aggressiver und greifbarer beschreibst."
+        }
+      ],
+      "fazit": "Die Serie hat eine interessante visuelle Prämisse mit den Frucht- und Gemüse-Charakteren und digitalen Stirnzahlen, scheitert aber massiv an den harten Viral-Regeln. Der Hook in den ersten 2 Sekunden ist zu zahm, die emotionale Wut auf die arroganten Gegenspieler zündet nicht stark genug, und die Wortanzahl pro Video verfehlt die geforderten 175 Wörter deutlich. Ohne kompromisslose Demütigung und spürbare Genugtuung swipen die Zuschauer nach zwei Sekunden weg."
+    },
+    {
+      "scores": {
+        "hook": 4,
+        "story": 3,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 4,
+        "wut": 5,
+        "merkfaehigkeit": 4,
+        "sprache": 3
+      },
+      "gesamt": 40,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den unpersönlichen Einstieg durch eine direkte Provokation in den ersten zwei Sekunden: '2.500 Euro? Wer hat diesen armseligen Erdbeer-Loser eigentlich reingelassen?'"
+        },
+        {
+          "n": 2,
+          "fix": "Kürze die Jammer-Monologe im Story-Text und fokussiere sich auf den konkreten Betrugs-Konflikt am Kaffeetresen."
+        },
+        {
+          "n": 3,
+          "fix": "Schärfe den Kontrast zwischen dem Orangentann (Level 3) und dem Kokosnuss-Gegenspieler durch einen härteren, direkten Vorwurf."
+        },
+        {
+          "n": 4,
+          "fix": "Erhöhe die emotionale Fallhöhe, indem die Avocado-Figur in den ersten 5 Sekunden direkt bloßgestellt wird."
+        },
+        {
+          "n": 5,
+          "fix": "Verschärfe den Konflikt des Broccoli-Mannes: Zeige klarer, wie er gezielt für die Zeche anderer ausgebeutet wird."
+        },
+        {
+          "n": 6,
+          "fix": "Lass die Influencer-Figur (Dragon Fruit) konkreter und arroganter auf die Vorwürfe des Baristas reagieren."
+        },
+        {
+          "n": 7,
+          "fix": "Betone die Rache-Komponente beim Kokosnuss-Mann stärker, um den Sog zum großen Finale zu maximieren."
+        },
+        {
+          "n": 8,
+          "fix": "Löse die finale Genugtuung des Pilz-Investors knackiger und ohne verschwommene Erklärungen auf."
+        }
+      ],
+      "fazit": "Die Serie hat starke visuelle Ansätze und ein funktionierendes Level-Prinzip, scheitert aber an hölzernen, zu langen Monologen und einer Verwässerung des harten 'Versteckter-Wert'-Prinzips der Vorbilder. Für echte Viralität fehlen kompromisslose Hooks und eine noch tiefere Genugtuung im Finale."
+    }
+  ]
+}

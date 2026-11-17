@@ -1,0 +1,149 @@
+{
+  "best_score": 52,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 5,
+        "story": 4,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 5,
+        "wut": 4,
+        "merkfaehigkeit": 4,
+        "sprache": 3
+      },
+      "gesamt": 42,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den Text von Level 1 mit mindestens 175 Wörtern, die echte Demütigung und einen absurden Kontrast in den ersten 3 Sekunden zeigen: 'Level 1: 150 Euro auf der Stirn – und mein Flug nach Bora Bora ist gebucht. Ich spare seit Monaten jeden Cent, während mein Dispo glüht. Madame Papaya starrt mich im Supermarkt an: Mit dieser Mini-Zahl kommst du nicht mal bis zum Hauptbahnhof. Sie lacht mich aus, reißt mein billiges Ticket weg und wirft es in den Dreck, während die Kassiererin kichert. Aber sie ahnt nicht, dass in meiner Hosentasche der echte goldene Ausweis liegt, den mir der Milliardär persönlich zugesteckt hat. Warum liegt plötzlich dieses Ticket im Briefkasten? Das siehst du in Level 2.'"
+        },
+        {
+          "n": 2,
+          "fix": "Ersetze den Text von Level 2 mit mindestens 175 Wörtern, um echte Wut und Genugtuung aufzubauen: 'Level 2: 1.350 Euro netto – und der Flug nach Dubai ist auf Kreditkarte gekauft. Ich stehe hinter der Bar und poliere Gläser, als Bruno aus Level 4 den Laden betritt und meinen Koffer vor versammelter Nachbarschaft auf den nassen Bürgersteig wirft. Er schnauzt: Zahl erst mal deine Miete, bevor du in die Sonne fliegst, du Versagerin. Die Kunden lachen mich aus. Sie wissen nicht, dass mein Konto heute Nacht durch einen anonymen Investor verzehnfacht wurde und ich morgen im selben Jet wie er sitze. Wer steht plötzlich im Treppenhaus und will alles zerstören? Das siehst du in Level 3.'"
+        },
+        {
+          "n": 3,
+          "fix": "Ersetze den Text von Level 3 mit mindestens 175 Wörtern für mehr Konflikt: 'Level 3: 2.400 Euro im Monat – und eine Karibik-Reise für 8.000 Euro auf Raten. Ich arbeite Überstunden, um mir den Luxus im Feed zu leisten. Viktor, mein arroganter Chef, reißt meinen Urlaubsantrag vor allen Kollegen in Stücke und zischt: Mit deinem Gehalt schläfst du am Ende unter einer Brücke. Er befördert stattdessen seinen Neffen. Doch während er triumphierend lacht, lade ich die Beweise für seine Firmenunterschlagung hoch. Welcher Schock-Bescheid zerstört seine Karriere in Sekundenschnelle? Das siehst du in Level 4.'"
+        },
+        {
+          "n": 4,
+          "fix": "Ersetze den Text von Level 4 mit mindestens 175 Wörtern: 'Level 4: 4.200 Euro Netto – und die Business-Class-Reise läuft über drei Jahre Kredit. Ich sitze im Konferenzraum, als der Azubi Tom, den ich gestern noch im Reisebüro öffentlich bloßgestellt und zum Weinen gebracht habe, plötzlich vor mir steht. Er zeigt auf meinen Bildschirm und sagt kalt: Mit deiner Fassade fällst du bald ganz tief. Die Kollegen starren mich an. Er hat recht, meine Kredite sind geplatzt. Welcher Bank-Anruf bringt mein ganzes Kartenhaus zum Einsturz? Das siehst du in Level 5.'"
+        },
+        {
+          "n": 5,
+          "fix": "Ersetze den Text von Level 5 mit mindestens 175 Wörtern: 'Level 5: 6.100 Euro im Monat – und für die Bali-Villa hochverschuldet. Ich posiere am Pool, als Leo aus Level 3 plötzlich auftaucht, meine gefälschten Flugtickets vor dem gesamten Boarding-Gate in die Höhe hält und laut ruft: Du kannst deine Rechnungen für diesen Aufenthalt doch gar nicht begleichen! Alle zeigen mit dem Finger auf mich. Sie lachen mich aus, während die Security mich abführt. Aber sie wissen nicht, dass meine Reichweite mir heute die doppelte Summe einbringt. Welches Drama an der Rezeption folgt jetzt? Das siehst du in Level 6.'"
+        },
+        {
+          "n": 6,
+          "fix": "Ersetze den Text von Level 6 mit mindestens 175 Wörtern: 'Level 6: 9.500 Euro passives Einkommen – und die Weltreise ist nur geliehen. Ich stehe im Privat-Terminal, bereit für Mykonos. Da tritt der Azubi Tom aus Level 1 an mich heran, mustert mich schadenfroh und sagt: Du tust nur so, als ob dir die Welt gehört, Madame. In diesem Moment blinkt mein Handy auf: Kreditkarte abgelehnt, Konten eingefroren. Er lächelt eisig und beobachtet mich beim Verlassen des Terminals mit all meinem Gepäck. Welcher Flug wird in diesem Moment gestrichen? Das siehst du in Level 7.'"
+        },
+        {
+          "n": 7,
+          "fix": "Ersetze den Text von Level 7 mit mindestens 175 Wörtern: 'Level 7: 14.500 Euro Gehalt – und die Luxus-Yacht über Fremdkapital finanziert. Ich blicke vom Penthouse auf die Stadt, unantastbar. Bis Bruno aus Level 4 eintritt, meine Reisespesen drastisch kürzt und mir ins Gesicht lacht: Dein ganzer Reichtum bricht zusammen, sobald die Zinsen steigen. Er wirft mir die Pfändungspapiere hin. Mein Imperium stürzt in Sekundenschnelle ein. Welches finanzielle Erdbeben vernichtet mich komplett? Das siehst du im großen Finale in Level 8.'"
+        },
+        {
+          "n": 8,
+          "fix": "Ersetze den Text von Level 8 mit mindestens 175 Wörtern: 'Level 8: Keine Zahl auf der Stirn – und doch besitze ich die ganze Stadt. Ich beobachte aus dem Schatten alle, die sich für ihren Scheinurlaub verschuldet haben. Die Gier hat sie alle zerstört. Jede Zahl auf der Stirn war nur eine Lüge, um die Menschen zu spalten. Der Kreislauf schließt sich genau hier und vernichtet das System für immer. Welches wahre Geheimnis hinter den Zahlen soll in unserer nächsten Serie enthüllt werden? Schreibe es jetzt in die Kommentare.'"
+        }
+      ],
+      "fazit": "Die Serie hat ein starkes optisches Konzept und nette Querverweise, scheitert aber massiv an den harten viralen Gesetzen: Die Texte sind viel zu kurz (weit unter 175 Wörtern pro Teil), klingen nach künstlichen Werbespots statt nach echtem, emotionalem Drama, und die Demütigungen durch die Gegenspieler erzeugen weder echte Wut noch die nötige Genugtuung, da der 'versteckte Wert' der Figuren vor dem Bösewicht nicht klar genug platziert wird. Ohne extreme Hooks und messerscharfe Konflikte swipt das Publikum nach zwei Sekunden weg."
+    },
+    {
+      "scores": {
+        "hook": 3,
+        "story": 3,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 3,
+        "wut": 2,
+        "merkfaehigkeit": 4,
+        "sprache": 2
+      },
+      "gesamt": 33,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Level 1: 150 Euro auf meiner Stirn, und ich stehe im Reisebüro für den Bora-Bora-Flug. Madame Papaya mustert mich von oben herab, zischt vor allen Kunden: 'Mit diesem lächerlichen Budget kommst du nicht mal bis zur Mülltonne', und reißt mein Ticket in Fetzen. Die Kassiererin lacht laut auf. Aber sie ahnt nicht, dass in meiner Hosentasche der goldene VIP-Pass steckt, den mir ihr eigener Chef gestern geschenkt hat. Warum dieser Zettel im Müll plötzlich alles verändert, siehst du in Level 2."
+        },
+        {
+          "n": 2,
+          "fix": "Level 2: 1.350 Euro netto, und der Dubai-Flug ist komplett überzogen. Hinter der Bar poliere ich Gläser, als Bruno aus Level 4 den Laden stürmt, meinen Koffer packt und vor versammelter Nachbarschaft auf den nassen Bürgersteig wirft. Er schreit: 'Zahl erst mal deine Miete, du Versagerin, bevor du auf dicke Hose machst!' Die Gäste glotzen hämisch. Doch sie wissen nicht, dass mein Konto heute Nacht durch einen anonymen Investor verzehnfacht wurde und ich morgen im selben Jet sitze. Wer im Treppenhaus lauert, um mich endgültig zu vernichten, siehst du in Level 3."
+        },
+        {
+          "n": 3,
+          "fix": "Level 3: 2.400 Euro Gehalt, und die Karibik-Reise läuft auf Raten. Ich schiebe Nachtschichten, um im Feed mitzuhalten. Viktor, mein arroganter Chef, reißt meinen Urlaubsantrag vor dem Team in Stücke und zischt: 'Mit deinem Mini-Gehalt schläfst du nächste Woche unter der Brücke.' Er befördert stattdessen seinen nutzlosen Neffen. Während er triumphierend grinst, lade ich die Beweise für seine geheime Firmenunterschlagung hoch. Welcher Schock-Bescheid seine Karriere in Sekunden beendet, siehst du in Level 4."
+        },
+        {
+          "n": 4,
+          "fix": "Level 4: 4.200 Euro Netto, und die Business-Class ist reines geliehenes Geld. Im Konferenzraum steht plötzlich der Azubi Tom vor mir, den ich gestern noch im Reisebüro öffentlich blamiert habe. Er zeigt auf meinen Bildschirm und sagt eiskalt: 'Mit deiner Fake-Fassade stürzt du heute noch ab.' Die Kollegen starren mich an. Er hat recht: Meine Kredite sind geplatzt, und die Bank droht mit Pfändung. Welcher Anruf mein Kartenhaus zum Einsturz bringt, siehst du in Level 5."
+        },
+        {
+          "n": 5,
+          "fix": "Level 5: 6.100 Euro im Monat, und die Bali-Villa ist komplett auf Pump. Am Pool posiere ich für Insta, als Leo aus Level 3 auftaucht, meine gefälschten Flugtickets vor dem gesamten Boarding-Gate in die Höhe hält und brüllt: 'Die Frau ist pleite und kann die Rechnung nicht zahlen!' Alle zeigen mit dem Finger auf mich, während die Security mich abführt. Doch meine Reichweite spült genau jetzt das doppelte Geld aufs Konto. Welches Drama an der Rezeption folgt jetzt? Das siehst du in Level 6."
+        },
+        {
+          "n": 6,
+          "fix": "Level 6: 9.500 Euro passives Einkommen – und die Weltreise ist nur geliehen. Im Privat-Terminal treffe ich auf Azubi Tom aus Level 1, der mich mustert und spöttisch sagt: 'Du tust nur so wichtig, Madame.' In Sekundenschnelle blinkt mein Handy auf: Kreditkarte abgelehnt, Konten gesperrt. Er lächelt eisig, während ich mit meinem Gepäck rausgeworfen werde. Welcher Flug vor unseren Augen gestrichen wird, siehst du in Level 7."
+        },
+        {
+          "n": 7,
+          "fix": "Level 7: 14.500 Euro Gehalt – und die Luxus-Yacht auf Pump. Ich blicke vom Penthouse auf die Stadt, unantastbar. Bis Bruno eintritt, meine Reisespesen streicht und mir lachend ins Gesicht sagt: 'Dein Imperium bricht zusammen, sobald die Zinsen steigen.' Er wirft mir die Pfändungspapiere hin, und alles stürzt ein. Welches finanzielle Erdbeben mich komplett vernichtet, siehst du im Finale in Level 8."
+        },
+        {
+          "n": 8,
+          "fix": "Level 8: Keine Zahl auf der Stirn – und doch besitze ich diese verlogene Stadt. Aus dem Schatten beobachte ich sie alle, die sich für ein paar Likes verschuldet haben. Jede Zahl auf der Stirn war nur eine Lüge, um uns zu spalten. Heute schließe ich den Kreislauf und lösche das System für immer. Welches Geheimnis hinter den Zahlen wirklich existiert, erfährst du hier."
+        }
+      ],
+      "fazit": "Die Serie hat ein starkes visuelles Grundkonzept mit dem Gemüse-Metropolis und den Stirnzahlen, scheitert aber an der harten Realität von TikTok und Reels: Die Texte sind viel zu lang, umständlich formuliert und klingen nach sterilem Drehbuch statt nach echten, harten Konflikten. Die Wortanzahl pro Video sprengt den 120-Wörter-Rahmen für max. 60 Sekunden drastisch, wodurch das Tempo völlig verloren geht. Die Bösewichte agieren zu zahm, echte Wut und die Gier nach Genugtuung fehlen in den ersten Sekunden, und die Open Loops sind schwach. Um viral zu gehen, muss jeder Satz sitzen, wehtun und die Zuschauer sofort in den Rache-Modus versetzen."
+    },
+    {
+      "scores": {
+        "hook": 6,
+        "story": 5,
+        "identifikation": 4,
+        "verbindungen": 7,
+        "sog": 6,
+        "wut": 5,
+        "merkfaehigkeit": 5,
+        "sprache": 4
+      },
+      "gesamt": 52,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Level 1: 150 euros on my forehead, and Madame Papaya spits right into my face. 'With this budget you belong in the dumpster,' she hisses and rips my Bora Bora ticket. But she has no idea my pocket holds the VIP pass her own boss handed me yesterday. Why this scrap of paper destroys her career, you'll see in Level 2."
+        },
+        {
+          "n": 2,
+          "fix": "Level 2: 1,350 euros net, and Bruno from Level 4 storms my café. He yanks my suitcase and throws it onto the wet street while everyone laughs. 'Pay your rent, loser!' But my account was multiplied tenfold tonight. Who is lurking in the stairwell to crush him next, you'll see in Level 3."
+        },
+        {
+          "n": 3,
+          "fix": "Level 3: 2,400 euros salary, and Viktor tears my Caribbean vacation request to pieces. 'You'll sleep under a bridge next week!' he sneers, promoting his useless nephew. While he laughs, I upload proof of his corporate embezzlement. Which shock notice ends his career, you'll see in Level 4."
+        },
+        {
+          "n": 4,
+          "fix": "Level 4: 4,200 euros net, and trainee Tom from Level 1 blocks my path with an ice-cold smirk. 'Your fake facade crashes down today.' My loans are busted and the bank is seizing everything. Which phone call destroys my house of cards, you'll see in Level 5."
+        },
+        {
+          "n": 5,
+          "fix": "Level 5: 6,100 euros a month, and Leo from Level 3 holds my fake Bali flight tickets high at the boarding gate. 'She's completely broke!' Security drags me away while people point. What brutal revenge hits him at reception, you'll see in Level 6."
+        },
+        {
+          "n": 6,
+          "fix": "Level 6: 9,500 euros passive income, and trainee Tom mocks me in the private terminal. 'Just acting important, Madame.' My phone flashes: Credit card declined. He smiles icily as I'm thrown out. Which flight gets canceled right before his eyes, you'll see in Level 7."
+        },
+        {
+          "n": 7,
+          "fix": "Level 7: 14,500 euros salary, and Bruno cuts my travel expenses, throwing seizure papers in my face. 'Your empire collapses right now!' Everything crashes down. Which financial earthquake destroys him completely in the finale, you'll see in Level 8."
+        },
+        {
+          "n": 8,
+          "fix": "Level 8: No number on my forehead, yet I own this entire deceitful city. From the shadows I watched them destroy each other over fake status. Every single number was a lie to keep us down. Today I delete the system forever. Which secret changes everything, you'll find out here."
+        }
+      ],
+      "fazit": "Die Serie hat ein starkes Grundkonzept mit den Querverweisen und den Stirnzahlen, stolpert aber über hölzerne, unnatürliche Sätze und zu wenig emotionale Wucht. Die Figuren handeln oft zu passiv und die Konflikte müssen roher, direkter und unfairer klingen, um echten Hass und damit den viralen Sog auszulösen. Jedes Video muss mit einer direkten Demütigung oder einer unverschämten Behauptung starten, statt mit der trockenen Nennung von Kontoständen."
+    }
+  ]
+}

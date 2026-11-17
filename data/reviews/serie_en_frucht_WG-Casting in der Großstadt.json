@@ -1,0 +1,73 @@
+{
+  "best_score": 91,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 3,
+        "story": 4,
+        "identifikation": 3,
+        "verbindungen": 4,
+        "sog": 3,
+        "wut": 4,
+        "merkfaehigkeit": 3,
+        "sprache": 2
+      },
+      "gesamt": 33,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den lahmen Einstieg durch: \"2.000 Euro?! Warum steht auf seiner Stirn nur ein armseliger Hunderter? Sie putzt heute Nacht noch die Klos für uns.\" (Min. 175 Wörter einfügen mit echter Konflikt-Szene statt bloßer Aufzählung)."
+        },
+        {
+          "n": 2,
+          "fix": "Füge harten Konflikt ein: \"Du willst hier einziehen mit deinem mickrigen Gehalt? Die Putzmittel zahlst jedenfalls du!\" (Auf mindestens 175 Wörter erweitern)."
+        },
+        {
+          "n": 3,
+          "fix": "Erhöhe die Wut: \"Dein IT-Support-Gehalt reicht nicht mal für die Fußmatte! Raus mit dir!\" (Auf mindestens 175 Wörter erweitern)."
+        },
+        {
+          "n": 4,
+          "fix": "Direkter Angriff: \"Schreibst billige Artikel und willst hier Luxus? Du fliegst noch heute raus!\" (Auf mindestens 175 Wörter erweitern)."
+        },
+        {
+          "n": 5,
+          "fix": "Eskalation: \"Dein Design ist Müll und dein Budget ein Witz! Verschwinde aus meinem Sichtfeld!\" (Auf mindestens 175 Wörter erweitern)."
+        },
+        {
+          "n": 6,
+          "fix": "Die Demütigung umdrehen: \"Wer so arrogant ist, stürzt am tiefsten.\" (Auf mindestens 175 Wörter erweitern mit Rache-Fokus)."
+        },
+        {
+          "n": 7,
+          "fix": "Harte Konfrontation: \"Dein Geld kauft keinen Respekt, du bist hier nur Gast!\" (Auf mindestens 175 Wörter erweitern)."
+        },
+        {
+          "n": 8,
+          "fix": "Die Genugtuung liefern: \"Ihr habt alle gegeneinander gespielt – jetzt gehört mir das ganze Gebäude.\" (Auf mindestens 175 Wörter erweitern)."
+        }
+      ],
+      "fazit": "Die Serie hat nette Ansätze mit den Gemüse-Figuren und Stirnzahlen, scheitert aber komplett an den harten Viral-Regeln. Die Texte sind viel zu kurz (weit unter den geforderten 175 Wörtern pro Teil), klingen künstlich statt gesprochen, und die Demütigungen erzeugen keine echte Genugtuung, weil der \"versteckte Wert\" und die Rache viel zu zahm umgesetzt sind. Ohne radikale Schärfe, echten Hass auf die Gegenspieler und längere, packende Dialoge swipen die Leute nach 2 Sekunden weg."
+    },
+    {
+      "scores": {
+        "hook": 9,
+        "story": 10,
+        "identifikation": 8,
+        "verbindungen": 9,
+        "sog": 10,
+        "wut": 9,
+        "merkfaehigkeit": 9,
+        "sprache": 9
+      },
+      "gesamt": 91,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den etwas zähen Einleitungssatz durch einen harten Schlag: '2.000 Euro Miete im Monat? Mit diesem lächerlichen Künstler-Budget fliegst du sofort wieder raus!'"
+        }
+      ],
+      "fazit": "Brutal starke Serie, die die virale Formel perfekt bedient: Glühende Stirnzahlen, sofortige Demütigung, versteckte goldene Münzen als Easter Eggs für aufmerksame Zuschauer und eine extrem befriedigende Rache-Eskalation am Ende. Der Sog ist enorm, weil jedes Level nahtlos in das nächste greift."
+    }
+  ]
+}

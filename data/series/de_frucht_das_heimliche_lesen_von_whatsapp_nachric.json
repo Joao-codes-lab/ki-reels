@@ -1,0 +1,700 @@
+{
+  "title": "Die 8 Level vom heimlichen WhatsApp-Lesen",
+  "house": "A bustling German city populated by produce people, where a gleaming digital display on every forehead shows the daily unread message count and message preview anxiety levels.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Level 1 strawberry mentions the quiet man in a suit who always leaves massive tips at the neon kiosk.",
+    "Level 2 barista notices a stressed coconut dropping their phone in the crowded subway.",
+    "Level 3 broccoli hears rumors about a dragon fruit executive tracking blue ticks company-wide.",
+    "Level 4 lemon recalls a weeping orange sitting alone on the rainy park bench.",
+    "Level 5 coconut finds an encrypted SIM card left behind in the shared office kitchen.",
+    "Level 6 orange reads a leaked chat log about someone dodging rent payments.",
+    "Level 7 avocado spots a glowing digital badge glitching near the central train station.",
+    "Level 8 the suit man finally reveals why he always watched everyone's lock screens."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was stand in der Nachricht auf dem Sperrbildschirm, die alles zerstörte?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Lacht sie wegen ihrer niedrigen Nachrichtenzahl aus und nennt sie sozial inkompetent."
+      },
+      "name": "Mia, 19, Studentin",
+      "badge": "0 ungeöffnet",
+      "verdict": "VOLLKOMMEN IGNORIERT",
+      "story": "Die 8 Level vom heimlichen WhatsApp-Lesen. Level 1. Ich stehe in der absolut ekligen, regennassen Straßenbahn Linie 4, es riecht nach nassem Hund und billigem Döner, und starre auf meinen komplett schwarzen Bildschirm, während meine Stirn eine gnadenlose Null anzeigt. Alter, warum liest du nie richtig mit, du bist doch absolut unsichtbar für die Welt, du absolute Nullnummer. Mein Herz rast vor purer Scham, ich halte standhaft meinen Blick gesenkt auf den dreckigen Boden, weil ich den Chat eben heimlich über den Sperrbildschirm gelesen habe, während dieser arrogante Typ gegenüber mich mustert. Lass sie einfach, sie hat ja nicht mal genug Kontakte für blaue Haken oder irgendwelche echten Freunde in ihrem traurigen Leben. Plötzlich vibriert das Handy in meiner kalten Hand und zeigt eine krasse Vorschau. Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1",
+        "after": "1 ungeöff"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom heimlichen WhatsApp-Lesen. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe in der absolut ekligen, regennassen Straßenbahn Linie 4, es riecht nach nassem Hund und billigem Döner, und starre auf meinen komplett schwarzen Bildschirm, während meine Stirn eine gnadenlose Null anzeigt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Alter, warum liest du nie richtig mit, du bist doch absolut unsichtbar für die Welt, du absolute Nullnummer.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Herz rast vor purer Scham, ich halte standhaft meinen Blick gesenkt auf den dreckigen Boden, weil ich den Chat eben heimlich über den Sperrbildschirm gelesen habe, während dieser arrogante Typ gegenüber mich mustert."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Lass sie einfach, sie hat ja nicht mal genug Kontakte für blaue Haken oder irgendwelche echten Freunde in ihrem traurigen Leben.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich vibriert das Handy in meiner kalten Hand und zeigt eine krasse Vorschau."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Warum liest du nie richtig mit, du bist doch absolut unsichtbar für die Welt.",
+      "quote_by": {
+        "level": 4,
+        "name": "Zita",
+        "badge": "850 Chats",
+        "character": "A sour lemon person with yellow textured skin, wearing a sharp business blazer and a gold-rimmed monocle.",
+        "scene": "A close-up shot of the lemon sneering inside a brightly lit tram while pointing at a terrified strawberry."
+      },
+      "stats": [
+        {
+          "label": "Ungeöffnet",
+          "value": "0",
+          "bar": 0.05
+        },
+        {
+          "label": "Paranoia",
+          "value": "92%",
+          "bar": 0.95
+        },
+        {
+          "label": "Sperrbild",
+          "value": "Aktiv",
+          "bar": 1.0
+        }
+      ],
+      "character": "A fragile strawberry person with a bright red textured seed body, wearing a worn-out denim jacket and a chipped silver ring; glowing digital forehead display reads 0.",
+      "visual": "A wide shot of a rainy German tram station at dusk, neon lights reflecting on wet pavement, cinematic lighting, a small strawberry person holding an old smartphone.",
+      "scenes": [
+        "Wide shot of a crowded rainy tram interior at dusk with neon advertisements reflecting on the windows.",
+        "Medium shot of a lemon person sneering down at a strawberry holding a cracked smartphone.",
+        "Detail shot of a glowing forehead display showing a zero next to a hidden golden coin on the seat.",
+        "Close-up of a nervous strawberry face under cold fluorescent train lights.",
+        "Medium shot of indifferent passengers looking away inside the moving vehicle.",
+        "Detail shot of a phone screen lighting up with a mysterious incoming notification."
+      ],
+      "caption": "Wer liest auch immer heimlich mit? #whatsapp #sperrbildschirm #beziehung #drama #fy"
+    },
+    {
+      "n": 2,
+      "open_loop": "Wer hat die unbekannte Nachricht geschickt und warum fordert sie 50 Euro?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Beschuldigt sie des Datendiebstahls im gemeinsamen Büro."
+      },
+      "name": "Ben, 24, Barista",
+      "badge": "12 ungeöffnet",
+      "verdict": "UNTER BEOBACHTUNG",
+      "story": "Die 8 Level vom heimlichen WhatsApp-Lesen. Level 2. Ich wische hektisch über die klebrige Kaffeemaschine im Szenelokal, während auf meiner Stirn zwölf ungeöffnete Nachrichten leuchten und mich verraten. Du hast meine letzte Nachricht auf dem Sperrbildschirm gelesen, ich habe genau gesehen, wie dein Blick kurz gezuckt hat, du elendiger Spanner. Ich schlucke schwer und meine Hände zittern, weil ich jeden Chat heimlich mitlese und genau weiß, wer hier wen verarscht. Hier stimmt doch was nicht mit den Abrechnungen im System und du steckst da mit drin. Du denkst wohl, du kommst damit durch, ohne dass der Chef es merkt, du nutloser Versager. Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+5",
+        "after": "17 ungeöf"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom heimlichen WhatsApp-Lesen. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich wische hektisch über die klebrige Kaffeemaschine im Szenelokal, während auf meiner Stirn zwölf ungeöffnete Nachrichten leuchten und mich verraten."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast meine letzte Nachricht auf dem Sperrbildschirm gelesen, ich habe genau gesehen, wie dein Blick kurz gezuckt hat, du elendiger Spanner.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schlucke schwer und meine Hände zittern, weil ich jeden Chat heimlich mitlese und genau weiß, wer hier wen verarscht."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Hier stimmt doch was nicht mit den Abrechnungen im System und du steckst da mit drin.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Du denkst wohl, du kommst damit durch, ohne dass der Chef es merkt, du nutloser Versager."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Du hast meine letzte Nachricht auf dem Sperrbildschirm gelesen, ich habe genau gesehen, wie dein Blick kurz gezuckt hat.",
+      "quote_by": {
+        "level": 5,
+        "name": "Coco",
+        "badge": "45 ungeöffnet",
+        "character": "A hard-shelled coconut person with fibrous brown hair texture, wearing a corporate office vest and carrying a clipboard.",
+        "scene": "A medium shot of the coconut slamming her fist onto a rustic wooden café counter."
+      },
+      "stats": [
+        {
+          "label": "Ungeöffnet",
+          "value": "12",
+          "bar": 0.2
+        },
+        {
+          "label": "Paranoia",
+          "value": "78%",
+          "bar": 0.8
+        },
+        {
+          "label": "Sperrbild",
+          "value": "Aktiv",
+          "bar": 1.0
+        }
+      ],
+      "character": "A smooth orange person with citrus-dimpled skin, wearing a neat barista apron and a silver name tag; glowing digital forehead display reads 12.",
+      "visual": "A medium shot of a trendy Berlin café interior with warm pendant lights, steam rising from an espresso machine, and a stressed orange person behind the counter.",
+      "scenes": [
+        "Medium shot of a trendy Berlin café interior with warm pendant lights and steam rising.",
+        "Close-up of an orange person wiping down a stainless steel espresso machine nervously.",
+        "Detail shot of a hidden golden coin resting near the cash register drawer.",
+        "Medium shot of a hard coconut person leaning aggressively over the wooden counter.",
+        "Close-up of a digital forehead display glowing with the number 12 in bright blue LEDs.",
+        "Wide shot of curious customers turning their heads toward the confrontation."
+      ],
+      "caption": "Wer wurde auch schon mal im Café erwischt? #kaffee #whatsapp #drama #viral #fyp"
+    },
+    {
+      "n": 3,
+      "open_loop": "Welches dunkle Geheimnis stand in der Excel-Tabelle auf dem Display?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Droht ihr mit fristloser Kündigung wegen angeblicher Industriespionage."
+      },
+      "name": "Leo, 31, Projektleiter",
+      "badge": "48 ungeöffnet",
+      "verdict": "VERDÄCHTIG",
+      "story": "Die 8 Level vom heimlichen WhatsApp-Lesen. Level 3. Ich sitze vor drei Monitoren in der zwölften Etage, während meine Stirn unbarmherzig 48 ungelesene Chats anzeigt. Du glaubst wohl, du kannst die blauen Haken umgehen und uns im Team hintergehen. Ich drehe mich langsam um und versuche, meine Fassung zu wahren, weil ich seine geheime Kündigungsnachricht bereits kenne. Wenn er das Management einschaltet, sind wir alle unseren Job los. Du hast keine Ahnung, was in den Chats wirklich abgeht. Aber Moment, wer hat diese eine finale Nachricht geschickt, die alles komplett eskalieren lässt? Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+12",
+        "after": "60 ungeöf"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom heimlichen WhatsApp-Lesen. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze vor drei Monitoren in der zwölften Etage, während meine Stirn unbarmherzig 48 ungelesene Chats anzeigt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du glaubst wohl, du kannst die blauen Haken umgehen und uns im Team hintergehen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich drehe mich langsam um und versuche, meine Fassung zu wahren, weil ich seine geheime Kündigungsnachricht bereits kenne."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Wenn er das Management einschaltet, sind wir alle unseren Job los.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Du hast keine Ahnung, was in den Chats wirklich abgeht. Aber Moment, wer hat diese eine finale Nachricht geschickt, die alles komplett eskalieren lässt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Du glaubst wohl, du kannst die blauen Haken umgehen und uns im Team hintergehen.",
+      "quote_by": {
+        "level": 6,
+        "name": "Viktor",
+        "badge": "150 ungeöffnet",
+        "character": "A smooth green avocado person with a dark pit outline on their chest, wearing an expensive charcoal suit and gold cufflinks.",
+        "scene": "A wide shot of a sleek corporate office where the avocado towers over a seated broccoli employee."
+      },
+      "stats": [
+        {
+          "label": "Ungeöffnet",
+          "value": "48",
+          "bar": 0.4
+        },
+        {
+          "label": "Paranoia",
+          "value": "65%",
+          "bar": 0.65
+        },
+        {
+          "label": "Sperrbild",
+          "value": "Aktiv",
+          "bar": 1.0
+        }
+      ],
+      "character": "A rugged broccoli person with a dark green florets head, wearing a crisp white dress shirt with rolled-up sleeves and smart glasses; glowing digital forehead display reads 48.",
+      "visual": "A wide shot of a modern glass-walled Frankfurt corporate office at midday, harsh sunlight reflecting off skyscrapers, cinematic depth of field.",
+      "scenes": [
+        "Wide shot of a modern glass-walled Frankfurt corporate office at midday with bright sunlight.",
+        "Medium shot of a broccoli person sitting nervously in front of multiple computer monitors.",
+        "Detail shot of a glowing golden coin hidden underneath a coffee mug on the desk.",
+        "Medium shot of a sharp avocado person in a tailored suit leaning over a partition.",
+        "Close-up of a digital forehead display flashing the number 48 in intense amber light.",
+        "Close-up of worried coworkers whispering behind glass walls."
+      ],
+      "caption": "Wer kennt diesen toxischen Chef im Büro? #buerolife #whatsapp #karriere #viral #fyp"
+    },
+    {
+      "n": 4,
+      "open_loop": "Welche SMS hat die Beziehung des Paares in Sekundenschnelle zerstört?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Wirft ihr vor, stolz und unnahbar zu sein, weil sie keine Nachrichten beantwortet."
+      },
+      "name": "Sophie, 26, Grafikerin",
+      "badge": "95 ungeöffnet",
+      "verdict": "SOZIAL KALT",
+      "story": "Die 8 Level vom heimlichen WhatsApp-Lesen. Level 4. Ich stehe im Eingangsbereich der Designagentur, während auf meiner Stirn in grellen Ziffern 95 ungeöffnete Nachrichten prangen. Du lässt alle deine Freunde tagelang auf dem Trockenen sitzen, nur um angeblich mysteriös zu wirken. Ich atme tief aus und trete näher, weil ich weiß, dass sie panisch wegen einer Trennungsnachricht ist. Die beiden zoffen sich schon seit Wochen nur noch über Handynachrichten. Du checkst deine eigenen Chats doch heimlich im Minutentakt, ohne den blauen Haken zu riskieren. Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+20",
+        "after": "115 ungeö"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom heimlichen WhatsApp-Lesen. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im Eingangsbereich der Designagentur, während auf meiner Stirn in grellen Ziffern 95 ungeöffnete Nachrichten prangen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du lässt alle deine Freunde tagelang auf dem Trockenen sitzen, nur um angeblich mysteriös zu wirken.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich atme tief aus und trete näher, weil ich weiß, dass sie panisch wegen einer Trennungsnachricht ist."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Die beiden zoffen sich schon seit Wochen nur noch über Handynachrichten.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Du checkst deine eigenen Chats doch heimlich im Minutentakt, ohne den blauen Haken zu riskieren."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Du lässt alle deine Freunde tagelang auf dem Trockenen sitzen, nur um angeblich mysteriös zu wirken.",
+      "quote_by": {
+        "level": 1,
+        "name": "Mia",
+        "badge": "0 ungeöffnet",
+        "character": "A fragile strawberry person with bright red seeds and a denim jacket.",
+        "scene": "A medium shot of the strawberry aggressively confronting an older lemon in a sleek office hallway."
+      },
+      "stats": [
+        {
+          "label": "Ungeöffnet",
+          "value": "95",
+          "bar": 0.55
+        },
+        {
+          "label": "Paranoia",
+          "value": "81%",
+          "bar": 0.81
+        },
+        {
+          "label": "Sperrbild",
+          "value": "Aktiv",
+          "bar": 1.0
+        }
+      ],
+      "character": "A vibrant yellow lemon person with bumpy citrus skin, wearing a sharp yellow blazer and geometric earrings; glowing digital forehead display reads 95.",
+      "visual": "A wide shot of a modern Berlin creative agency lobby with polished concrete floors and minimalist art installations.",
+      "scenes": [
+        "Wide shot of a modern Berlin creative agency lobby with polished concrete floors.",
+        "Medium shot of a lemon person confronting a colleague near a glass partition.",
+        "Detail shot of a hidden golden coin tucked beneath a design magazine on the reception desk.",
+        "Close-up of a digital forehead display glowing with the number 95.",
+        "Medium shot of nervous coworkers watching the drama unfold from a distance.",
+        "Close-up of a smartphone screen flashing a sudden notification."
+      ],
+      "caption": "Wer kennt diese Leute, die nie antworten? #whatsapp #beziehung #design #viral #fyp"
+    },
+    {
+      "n": 5,
+      "open_loop": "Welche Beweise waren auf dem geheimnisvollen USB-Stick im Pausenraum gespeichert?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Beschuldigt ihn öffentlich, Kundendaten über WhatsApp abzufangen und zu verkaufen."
+      },
+      "name": "Lukas, 29, IT-Berater",
+      "badge": "180 ungeöffnet",
+      "verdict": "DATEN-JÄGER",
+      "story": "Die 8 Level vom heimlichen WhatsApp-Lesen. Level 5. Ich stehe vor dem Hauptrack im Serverraum und tippe Befehle ein, während meine Stirn 180 ungeöffnete Nachrichten anzeigt. Du hast absolut keinen Respekt, du verdammter Datendieb, du verkaufst unsere Firmengeheimnisse über WhatsApp an die Konkurrenz und tust hier auf unschuldig. Ich drehe mich um und lasse mir meine Nervosität nicht anmerken, obwohl ich koche vor Wut. Wenn die IT-Sicherheit das Audit prüft, fliegen hier Köpfe und du landest im Knast. Du hast gut reden, schließlich warst du diejenige, die den Betrug im Chat gestanden hat. Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+45",
+        "after": "225 ungeö"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom heimlichen WhatsApp-Lesen. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe vor dem Hauptrack im Serverraum und tippe Befehle ein, während meine Stirn 180 ungeöffnete Nachrichten anzeigt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast absolut keinen Respekt, du verdammter Datendieb, du verkaufst unsere Firmengeheimnisse über WhatsApp an die Konkurrenz und tust hier auf unschuldig.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich drehe mich um und lasse mir meine Nervosität nicht anmerken, obwohl ich koche vor Wut."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Wenn die IT-Sicherheit das Audit prüft, fliegen hier Köpfe und du landest im Knast.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Du hast gut reden, schließlich warst du diejenige, die den Betrug im Chat gestanden hat."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Du hast Zugriff auf alle Protokolle und liest jeden Chat heimlich über den Sperrbildschirm mit, um uns zu erpressen.",
+      "quote_by": {
+        "level": 2,
+        "name": "Ben",
+        "badge": "12 ungeöffnet",
+        "character": "A smooth orange barista person wearing an apron and a silver name tag.",
+        "scene": "A medium shot of the orange pointing angrily across a server rack at the IT consultant."
+      },
+      "stats": [
+        {
+          "label": "Ungeöffnet",
+          "value": "180",
+          "bar": 0.7
+        },
+        {
+          "label": "Paranoia",
+          "value": "88%",
+          "bar": 0.88
+        },
+        {
+          "label": "Sperrbild",
+          "value": "Aktiv",
+          "bar": 1.0
+        }
+      ],
+      "character": "A tough coconut person with a hard brown fibrous shell, wearing a dark security vest and utility belt; glowing digital forehead display reads 180.",
+      "visual": "A wide shot of a high-tech server room with blinking blue LED lights, cold metallic walls, and dramatic shadows.",
+      "scenes": [
+        "Wide shot of a high-tech server room with blinking blue LED lights and cold metallic walls.",
+        "Medium shot of a coconut person confronting a colleague near a server rack.",
+        "Detail shot of a golden coin hidden on top of a flashing network switch.",
+        "Close-up of a digital forehead display glowing with the number 180.",
+        "Medium shot of server fans spinning rapidly in the background.",
+        "Close-up of a mobile phone screen lighting up with a critical alert."
+      ],
+      "caption": "Wer kennt sich im Büro mit IT-Geheimnissen aus? #it #serverraum #whatsapp #viral #fyp"
+    },
+    {
+      "n": 6,
+      "open_loop": "Welches millionenschwere Angebot verbarg sich in der ungelieferten Nachricht?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Versucht, seine Projektleitung durch gefälschte Chat-Protokolle zu sabotieren."
+      },
+      "name": "Nadine, 35, Abteilungsleiterin",
+      "badge": "340 ungeöffnet",
+      "verdict": "KONTROLLFREAK",
+      "story": "Die 8 Level vom heimlichen WhatsApp-Lesen. Level 6. Ich stehe im luxuriösen Konferenzraum der Konzernzentrale, während auf meiner Stirn eine mächtige 340 ungeöffnete Nachrichten leuchtet. Du liest seit Wochen heimlich alle vertraulichen Nachrichten unserer Partner über den Sperrbildschirm mit, um dich unentbehrlich zu machen. Ich blicke ihn ruhig an und verschränke die Arme, während die Anspannung im Raum greifbar ist. Wenn dieser Deal platzt, verlieren wir den wichtigsten Großkunden. Du solltest lieber aufpassen, wem du deine Chats anvertraust, bevor deine eigenen Machenschaften ans Licht kommen. Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+80",
+        "after": "420 ungeö"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom heimlichen WhatsApp-Lesen. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im luxuriösen Konferenzraum der Konzernzentrale, während auf meiner Stirn eine mächtige 340 ungeöffnete Nachrichten leuchtet."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du liest seit Wochen heimlich alle vertraulichen Nachrichten unserer Partner über den Sperrbildschirm mit, um dich unentbehrlich zu machen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich blicke ihn ruhig an und verschränke die Arme, während die Anspannung im Raum greifbar ist."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Wenn dieser Deal platzt, verlieren wir den wichtigsten Großkunden.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Du solltest lieber aufpassen, wem du deine Chats anvertraust, bevor deine eigenen Machenschaften ans Licht kommen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Du liest seit Wochen heimlich alle vertraulichen Nachrichten unserer Partner über den Sperrbildschirm mit, um dich unentbehrlich zu machen.",
+      "quote_by": {
+        "level": 3,
+        "name": "Leo",
+        "badge": "48 ungeöffnet",
+        "character": "A rugged broccoli person with dark green florets, wearing a white dress shirt and smart glasses.",
+        "scene": "A medium shot of the broccoli slamming a file folder down on a polished glass boardroom table."
+      },
+      "stats": [
+        {
+          "label": "Ungeöffnet",
+          "value": "340",
+          "bar": 0.85
+        },
+        {
+          "label": "Paranoia",
+          "value": "54%",
+          "bar": 0.54
+        },
+        {
+          "label": "Sperrbild",
+          "value": "Aktiv",
+          "bar": 1.0
+        }
+      ],
+      "character": "An elegant dragon fruit person with vibrant magenta skin and green leaf tips, wearing a high-end silk blouse and pearl earrings; glowing digital forehead display reads 340.",
+      "visual": "A wide shot of a high-end corporate boardroom in Frankfurt overlooking the skyline through floor-to-ceiling glass windows.",
+      "scenes": [
+        "Wide shot of a high-end corporate boardroom in Frankfurt overlooking the skyline.",
+        "Medium shot of a dragon fruit person standing calmly at the head of a glass table.",
+        "Detail shot of a golden coin resting on a sleek leather notepad.",
+        "Close-up of a digital forehead display glowing with the number 340.",
+        "Medium shot of a broccoli colleague shouting in frustration.",
+        "Close-up of a mobile screen lighting up with a confidential notification."
+      ],
+      "caption": "Wer kontrolliert im Job immer alle Infos? #business #whatsapp #karriere #viral #fyp"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welche Person stand hinter dem ultimativen System, das alle Nachrichten überwachte?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Wirft ihr vor, als Abteilungsleiterin ein unkontrollierbares Überwachungsnetzwerk aufgebaut zu haben."
+      },
+      "name": "Samira, 41, Konzernvorstand",
+      "badge": "890 ungeöffnet",
+      "verdict": "SYSTEM-KÖNIGIN",
+      "story": "Die 8 Level vom heimlichen WhatsApp-Lesen. Level 7. Ich stehe auf der Dachterrasse des Wolkenkratzers und blicke auf die nächtliche Stadt, während auf meiner Stirn eine gigantische 890 ungeöffnete Nachrichten leuchtet. Du hast das gesamte System manipuliert und liest jede Nachricht aller Mitarbeiter heimlich über den Sperrbildschirm mit, um uns alle zu steuern. Ich drehe mich langsam um, nehme einen Schluck aus meinem Glas und lächle überlegen. Niemand im Konzern entgeht ihrer absoluten Kontrolle. Die Zahl lügt nie, mein Lieber, ich sehe einfach alles, bevor du es überhaupt tippst. Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "+110",
+        "after": "1.000 ung"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom heimlichen WhatsApp-Lesen. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe auf der Dachterrasse des Wolkenkratzers und blicke auf die nächtliche Stadt, während auf meiner Stirn eine gigantische 890 ungeöffnete Nachrichten leuchtet."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast das gesamte System manipuliert und liest jede Nachricht aller Mitarbeiter heimlich über den Sperrbildschirm mit, um uns alle zu steuern.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich drehe mich langsam um, nehme einen Schluck aus meinem Glas und lächle überlegen."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Niemand im Konzern entgeht ihrer absoluten Kontrolle.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl lügt nie, mein Lieber, ich sehe einfach alles, bevor du es überhaupt tippst."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Du hast das gesamte System manipuliert und liest jede Nachricht aller Mitarbeiter heimlich über den Sperrbildschirm mit, um uns alle zu steuern.",
+      "quote_by": {
+        "level": 6,
+        "name": "Viktor",
+        "badge": "150 ungeöffnet",
+        "character": "A smooth green avocado person wearing an expensive charcoal suit and gold cufflinks.",
+        "scene": "A medium shot of the avocado confronting the executive on a windy skyscraper rooftop at night."
+      },
+      "stats": [
+        {
+          "label": "Ungeöffnet",
+          "value": "890",
+          "bar": 0.95
+        },
+        {
+          "label": "Paranoia",
+          "value": "32%",
+          "bar": 0.32
+        },
+        {
+          "label": "Sperrbild",
+          "value": "Aktiv",
+          "bar": 1.0
+        }
+      ],
+      "character": "A sleek coconut person with polished dark shell, wearing a luxury designer evening gown and diamond necklace; glowing digital forehead display reads 890.",
+      "visual": "A wide shot of a glowing Frankfurt skyscraper rooftop helipad at night, city lights stretching infinitely into the horizon, dramatic cinematic winds.",
+      "scenes": [
+        "Wide shot of a glowing Frankfurt skyscraper rooftop helipad at night with city lights.",
+        "Medium shot of an elite coconut executive standing against a backdrop of glowing towers.",
+        "Detail shot of a golden coin embedded in the metallic handrail.",
+        "Close-up of a digital forehead display glowing with the number 890.",
+        "Medium shot of an avocado colleague looking defeated in the wind.",
+        "Close-up of a master control tablet flashing with an incoming encrypted call."
+      ],
+      "caption": "Wer hat am Ende die absolute Kontrolle über alle Chats? #macht #whatsapp #zukunft #viral #fyp"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches ultimative Geheimnis verbirgt sich hinter der Zahl auf der Stirn?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Fordert von ihm die Offenlegung des Quellcodes aller abgefangenen Nachrichten."
+      },
+      "name": "Max, 45, Systemarchitekt",
+      "badge": "UNENDLICH",
+      "verdict": "SCHÖPFER DES NETZWERKS",
+      "story": "Die 8 Level vom heimlichen WhatsApp-Lesen. Level 8. Ich sitze im abgedunkelten Kontrollzentrum tief unter der Stadt, während auf meiner Stirn ein unendliches Leuchten pulsiert. Du hast also die Fäden in der Hand und hast jeden einzelnen Chat auf den Sperrbildschirmen der Stadt manipuliert. Ich drehe mich zu ihr um, tippe auf die letzte Taste und lächle entspannt. Niemand von uns wusste, dass er die Kontrolle über das gesamte Netzwerk hatte. Die Zahl lügt nie, denn am Ende lesen wir alle nur die Zeilen, die uns das Leben vorschreibt. Welches Thema sollen wir als Nächstes in dieser Welt der Obst- und Gemüsemenschen aufdecken?",
+      "gender": "m",
+      "twist": {
+        "delta": "MAX",
+        "after": "UNENDLICH"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom heimlichen WhatsApp-Lesen. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze im abgedunkelten Kontrollzentrum tief unter der Stadt, während auf meiner Stirn ein unendliches Leuchten pulsiert."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast also die Fäden in der Hand und hast jeden einzelnen Chat auf den Sperrbildschirmen der Stadt manipuliert.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich drehe mich zu ihr um, tippe auf die letzte Taste und lächle entspannt."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Niemand von uns wusste, dass er die Kontrolle über das gesamte Netzwerk hatte.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl lügt nie, denn am Ende lesen wir alle nur die Zeilen, die uns das Leben vorschreibt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema sollen wir als Nächstes in dieser Welt der Obst- und Gemüsemenschen aufdecken?"
+        }
+      ],
+      "quote": "Die Zahl lügt nie, denn am Ende lesen wir alle nur die Zeilen, die uns das Leben vorschreibt.",
+      "quote_by": {
+        "level": 7,
+        "name": "Samira",
+        "badge": "890 ungeöffnet",
+        "character": "A sleek coconut person with polished dark shell, wearing a luxury designer evening gown.",
+        "scene": "A close-up shot of the coconut staring in disbelief at the main server terminal in a secret underground bunker."
+      },
+      "stats": [
+        {
+          "label": "Status",
+          "value": "Admin",
+          "bar": 1.0
+        },
+        {
+          "label": "Netzwerk",
+          "value": "Global",
+          "bar": 1.0
+        },
+        {
+          "label": "Sperrbild",
+          "value": "Master",
+          "bar": 1.0
+        }
+      ],
+      "character": "A wise coconut person with intricate carved patterns on a polished hard shell, wearing a minimalist dark turtleneck and silver tech glasses; glowing digital forehead display reads infinity symbol.",
+      "visual": "A wide shot of a secret subterranean server bunker illuminated by giant green and blue holographic data displays, cinematic sci-fi atmosphere.",
+      "scenes": [
+        "Wide shot of a secret subterranean server bunker illuminated by giant green holographic displays.",
+        "Medium shot of a wise coconut architect typing on an advanced master terminal.",
+        "Detail shot of the final golden coin resting right on the central enter key.",
+        "Close-up of a digital forehead display glowing with an infinite symbol.",
+        "Medium shot of an executive looking in awe at the master screens.",
+        "Wide shot of the entire city skyline sparkling at night as all forehead displays pulse in sync."
+      ],
+      "caption": "Welches Thema sollen wir als Nächstes zeigen? Schreibt es in die Kommentare! #geheimnis #whatsapp #matrix #viral #fyp"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das heimliche Lesen von WhatsApp-Nachrichten über den Sperrbildschirm, um ja nicht den blauen Haken zu triggern",
+  "frame": "frucht"
+}

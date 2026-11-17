@@ -1,34 +1,38 @@
 {
-  "title": "The 8 Levels of Revenge Bedtime",
-  "house": "A neon-lit sleepless metropolis where produce citizens rush through foggy subway stations, late-night bodegas, and cramped apartments, illuminated by the glowing digital numbers on their foreheads.",
-  "catchphrase": "The number never lies, but sleep never arrives.",
+  "title": "The 8 Levels of Revenge Bedtime Procrastination",
+  "house": "A neon-lit urban metropolis where fruit and vegetable people rush through endless nights, illuminated by glowing digital forehead numbers and tired eyes.",
+  "catchphrase": "The glowing number never lies.",
   "links": [
-    "Level 1 notices the Barista from Level 2 dropping decaf bags outside the 24-hour bodega.",
-    "Level 3 hears a mysterious heavy bassline coming from the apartment of the DJ in Level 7.",
-    "Level 5 buys an overpriced avocado toast from the grumpy cashier who turns out to be Level 4.",
-    "Level 8 looks out the penthouse window and watches Level 1 walking home under the flickering streetlights."
+    "Level 1 strawberry mentions the cold coffee from the Level 2 lemon barista.",
+    "Level 2 lemon barista complains about the loud phone calls from the Level 3 avocado.",
+    "Level 3 avocado buys energy drinks from the Level 4 bell pepper cashier.",
+    "Level 4 bell pepper sees the midnight jogging routine of the Level 5 broccoli.",
+    "Level 5 broccoli passes the luxury apartment of the Level 6 coconut.",
+    "Level 6 coconut orders takeout from the Level 7 dragon fruit chef.",
+    "Level 7 dragon fruit delivers to the penthouse of the Level 8 pineapple."
   ],
   "levels": [
     {
       "n": 1,
-      "open_loop": "Why was the 3:00 AM alarm already set for a midnight nap on the kitchen floor?",
+      "open_loop": "Why did the glowing midnight clock suddenly jump by four hours while she stared into the glowing screen?",
       "gegenspieler": {
-        "level": 6,
-        "tat": "Laughs at her exhaustion in the subway and claims working 18-hour shifts is just a lack of hustle."
+        "level": 3,
+        "tat": "Laughs at her exhaustion at the subway station and calls her lazy for sleeping only three hours.",
+        "g": "m"
       },
-      "name": "Mia, 22, Night Dispatcher",
-      "badge": "12 Min Sleep",
-      "verdict": "TOTAL EXHAUSTION",
-      "story": "12 Minuten Schlaf? Mit diesen verheulten Augen putzt du heute nicht mal die Toiletten im Büro, Mia. The 8 levels of revenge bedtime procrastination. Level 1. Level 1: 12 minutes of sleep—and my alarm is already ringing in five minutes. I am Mia, a 22-year-old strawberry dispatcher with bruised eyes and a glowing red '12 Min' on my forehead. My studio apartment costs $1,450 a month, and while I stare blankly at glowing monitors, my inner monologue screams that nobody sees the silent suffering behind the screen. You call that being busy? You are just wasting daylight. I clenched my fists, wanting to scream, but my phone buzzed with an emergency shift text. Your exhaustion is just bad time management. Das siehst du in Level 2. You'll see that in Level 2.",
+      "name": "Ruby, 24, Night Shift Packer",
+      "badge": "03:42 AM",
+      "verdict": "EXHAUSTED",
+      "story": "2.000 Euro Schulden und 3 Stunden Schlaf: Wer hat diesen absoluten Loser eigentlich eingestellt? The 8 levels of revenge bedtime procrastination. Level 1. Level 1: 03:42 AM on the forehead, and I am still doom-scrolling through a $45 kitchen gadget video I will never buy. My eyes burn like raw onions, my skin feels dry, yet my thumb refuses to stop swiping through endless digital garbage. At 06:00 AM, my alarm will ring for the warehouse shift where I pack boxes for minimum wage to pay off these completely useless debts. You are wasting your entire life on useless videos. He says that while adjusting his expensive tie and flashing a glowing badge that reads 07:15 AM right into my tired face. I try to put my phone down, but the dopamine hook pulls me right back into the infinite stream of flashing social media posts. Why do I punish myself every single night instead of just closing my eyes and getting the rest I desperately need? Then the screen suddenly flickers, the battery dies completely, and darkness fills the room. You'll see that in Level 2.",
       "gender": "w",
       "twist": {
-        "delta": "-5 Min",
-        "after": "7 Min"
+        "delta": "+1 hr",
+        "after": "04:42 AM"
       },
       "lines": [
         {
-          "s": "Erzaehler",
-          "t": "12 Minuten Schlaf? Mit diesen verheulten Augen putzt du heute nicht mal die Toiletten im Büro, Mia."
+          "s": "Figur",
+          "t": "2.000 Euro Schulden und 3 Stunden Schlaf: Wer hat diesen absoluten Loser eigentlich eingestellt?"
         },
         {
           "s": "Erzaehler",
@@ -36,188 +40,188 @@
         },
         {
           "s": "Figur",
-          "t": "Level 1: 12 minutes of sleep—and my alarm is already ringing in five minutes."
+          "t": "Level 1: 03:42 AM on the forehead, and I am still doom-scrolling through a $45 kitchen gadget video I will never buy."
         },
         {
           "s": "Figur",
-          "t": "I am Mia, a 22-year-old strawberry dispatcher with bruised eyes and a glowing red '12 Min' on my forehead."
+          "t": "My eyes burn like raw onions, my skin feels dry, yet my thumb refuses to stop swiping through endless digital garbage."
         },
         {
           "s": "Figur",
-          "t": "My studio apartment costs $1,450 a month, and while I stare blankly at glowing monitors, my inner monologue screams that nobody sees the silent suffering behind the screen."
+          "t": "At 06:00 AM, my alarm will ring for the warehouse shift where I pack boxes for minimum wage to pay off these completely useless debts."
         },
         {
           "s": "Gegenspieler",
-          "t": "You call that being busy? You are just wasting daylight.",
+          "t": "You are wasting your entire life on useless videos.",
           "g": "m"
         },
         {
           "s": "Figur",
-          "t": "I clenched my fists, wanting to scream, but my phone buzzed with an emergency shift text."
+          "t": "He says that while adjusting his expensive tie and flashing a glowing badge that reads 07:15 AM right into my tired face."
         },
         {
-          "s": "Gegenspieler",
-          "t": "Your exhaustion is just bad time management.",
-          "g": "m"
+          "s": "Figur",
+          "t": "I try to put my phone down, but the dopamine hook pulls me right back into the infinite stream of flashing social media posts."
         },
         {
           "s": "Erzaehler",
-          "t": "Das siehst du in Level 2."
+          "t": "Why do I punish myself every single night instead of just closing my eyes and getting the rest I desperately need?"
+        },
+        {
+          "s": "Figur",
+          "t": "Then the screen suddenly flickers, the battery dies completely, and darkness fills the room."
         },
         {
           "s": "Erzaehler",
           "t": "You'll see that in Level 2."
         }
       ],
-      "quote": "Your exhaustion is just bad time management.",
+      "quote": "You are wasting your entire life on useless videos.",
       "quote_by": {
-        "level": 6,
-        "name": "Victor",
-        "badge": "4 Hours",
-        "character": "An arrogant Pineapple wearing a stiff corporate suit and carrying a gold pocket watch.",
-        "scene": "A crowded subway car at dawn, looking down with extreme condescension at a tired strawberry."
+        "level": 3,
+        "name": "Arthur",
+        "badge": "07:15 AM",
+        "character": "An arrogant avocado person with a sharp suit and a polished leather briefcase.",
+        "scene": "A crowded subway station at dawn, looking down with extreme disgust at a tired strawberry holding a dead phone."
       },
       "stats": [
         {
           "label": "Sleep",
-          "value": "12 Min",
-          "bar": 0.05
+          "value": "3.2 hrs",
+          "bar": 0.15
         },
         {
-          "label": "Rent",
-          "value": "$1,450",
-          "bar": 0.3
+          "label": "Screen Time",
+          "value": "6.5 hrs",
+          "bar": 0.85
         },
         {
-          "label": "Caffeine",
-          "value": "6 Cups",
-          "bar": 0.9
+          "label": "Energy",
+          "value": "12 %",
+          "bar": 0.1
         }
       ],
-      "character": "A pale strawberry woman with fresh green leaf hair, wearing an oversized grey hoodie and holding a cracked smartphone; her forehead displays a glowing red digital timer.",
-      "visual": "Wide shot of a cramped, neon-lit studio apartment at 3:15 AM, surrounded by empty coffee cups and glowing computer screens, with a tiny hidden gold coin resting on a keyboard.",
+      "character": "A bright red strawberry person with tiny seeds, wearing a worn-out gray hoodie and holding a cracked smartphone. Glowing digital forehead number reads 03:42 AM.",
+      "visual": "A cramped bedroom at 3 AM lit only by the harsh blue glow of a smartphone screen reflecting on tired strawberry skin. A tiny hidden gold coin sits on the nightstand next to a half-empty water glass.",
       "scenes": [
-        "Wide shot of a foggy subway platform at 4:00 AM, flickering fluorescent lights overhead, tired commuters waiting in silence.",
-        "Medium shot inside a 24-hour bodega, a glowing strawberry woman arguing across the counter with a well-dressed pineapple.",
-        "Close-up of a glowing digital forehead display showing '12 Min' reflecting in a cracked smartphone screen.",
-        "Detailed shot of a glowing gold coin half-hidden beneath a stack of unpaid electricity bills on a messy desk.",
-        "Over-the-shoulder shot looking at a glowing dispatch monitor displaying emergency city transit routes in red text.",
-        "Close-up of the strawberry's bruised eyes blinking slowly under harsh kitchen light while holding a lukewarm mug."
+        "A cramped bedroom at 3 AM, close-up on a strawberry person staring wide-eyed at a phone. A gold coin rests on the windowsill.",
+        "A dim kitchen hallway at 3:15 AM, medium shot of the strawberry opening the fridge for midnight snacks.",
+        "A cold subway station at 6 AM, wide shot of commuters with glowing forehead numbers rushing past.",
+        "A fluorescent-lit warehouse floor, detail shot of tired hands packing cardboard boxes.",
+        "A noisy breakroom at noon, over-the-shoulder shot of coworkers scrolling through social media.",
+        "A dark living room at midnight, low-angle shot of a glowing phone screen illuminating peeling wallpaper."
       ],
-      "caption": "How many hours of sleep did you actually get last night? Drop it in the comments! #bedtimeprocrastination #sleepdeprived #relatable #trashdrama #level1"
+      "caption": "Why do we steal sleep from ourselves just to feel in control? #bedtimeprocrastination #sleepdeprivation #relatable #viral #shorts"
     },
     {
       "n": 2,
-      "open_loop": "Why did the mysterious midnight customer leave a $100 bill on the sticky counter?",
+      "open_loop": "What secret notification popped up on the barista's phone that made her drop the ceramic coffee mug?",
       "gegenspieler": {
-        "level": 5,
-        "tat": "Complains about the slow coffee pour and throws a half-empty cup at the cash register."
+        "level": 4,
+        "tat": "Snatches her phone at the café counter, reads out loud how much money she wasted on useless junk while her forehead glows.",
+        "g": "m"
       },
-      "name": "Leo, 25, Night Barista",
-      "badge": "2 Hours",
-      "verdict": "CHRONICALLY TIRED",
-      "story": "Deine Oatmik-Plörre schmeckt nach billigem Abwasser. Du bist nur der Fußabtrepper für echte Gewinner. The 8 levels of revenge bedtime procrastination. Level 2. Level 2: 2 hours of sleep—because scrolling TikTok until 4 AM feels like the only freedom I have. I am Leo, a zesty Lemon guy working the graveyard shift at an all-night diner, earning $15 an hour plus tips while renting a tiny $900 room. Deep inside, my thoughts race about escaping this miserable minimum-wage trap before my youth completely fades away. Why is my oat milk foam collapsing? You call this customer service? I wiped down the counter, biting my tongue, ready to quit on the spot. You will never afford a real apartment with attitude like that. Das siehst du in Level 3. You'll see that in Level 3.",
-      "gender": "m",
+      "name": "Zoe, 28, Lemon Barista",
+      "badge": "02:15 AM",
+      "verdict": "TIRED",
+      "story": "The 8 levels of revenge bedtime procrastination. Level 2. Level 2: 02:15 AM glowing on my yellow lemon forehead while I scroll through interior design blogs featuring expensive couches I can never afford. My shift starts in four hours at the downtown espresso bar, where I make $14 an hour serving oat milk lattes to ungrateful tech bros who treat everyone like dirt. Stop daydreaming about expensive furniture and make my double shot right now. He barks while aggressively snatching my smartphone right out of my hand and loudly reading out every single cent I just wasted on useless online shopping carts, while my forehead glows in blazing shame. I force an artificial smile, take back my device, and hide my burning eyes behind the espresso machine. Why do I sacrifice my precious morning rest just to escape reality for a few hours in the dark? Then my phone buzzes with a mysterious bank alert that makes my heart drop. You'll see that in Level 3.",
+      "gender": "w",
       "twist": {
-        "delta": "+30 Min",
-        "after": "2.5 Hours"
+        "delta": "+2 hrs",
+        "after": "04:15 AM"
       },
       "lines": [
-        {
-          "s": "Erzaehler",
-          "t": "Deine Oatmik-Plörre schmeckt nach billigem Abwasser. Du bist nur der Fußabtrepper für echte Gewinner."
-        },
         {
           "s": "Erzaehler",
           "t": "The 8 levels of revenge bedtime procrastination. Level 2."
         },
         {
           "s": "Figur",
-          "t": "Level 2: 2 hours of sleep—because scrolling TikTok until 4 AM feels like the only freedom I have."
+          "t": "Level 2: 02:15 AM glowing on my yellow lemon forehead while I scroll through interior design blogs featuring expensive couches I can never afford."
         },
         {
           "s": "Figur",
-          "t": "I am Leo, a zesty Lemon guy working the graveyard shift at an all-night diner, earning $15 an hour plus tips while renting a tiny $900 room."
-        },
-        {
-          "s": "Figur",
-          "t": "Deep inside, my thoughts race about escaping this miserable minimum-wage trap before my youth completely fades away."
+          "t": "My shift starts in four hours at the downtown espresso bar, where I make $14 an hour serving oat milk lattes to ungrateful tech bros who treat everyone like dirt."
         },
         {
           "s": "Gegenspieler",
-          "t": "Why is my oat milk foam collapsing? You call this customer service?",
-          "g": "w"
+          "t": "Stop daydreaming about expensive furniture and make my double shot right now.",
+          "g": "m"
         },
         {
           "s": "Figur",
-          "t": "I wiped down the counter, biting my tongue, ready to quit on the spot."
+          "t": "He barks while aggressively snatching my smartphone right out of my hand and loudly reading out every single cent I just wasted on useless online shopping carts, while my forehead glows in blazing shame."
         },
         {
-          "s": "Gegenspieler",
-          "t": "You will never afford a real apartment with attitude like that.",
-          "g": "w"
+          "s": "Figur",
+          "t": "I force an artificial smile, take back my device, and hide my burning eyes behind the espresso machine."
         },
         {
           "s": "Erzaehler",
-          "t": "Das siehst du in Level 3."
+          "t": "Why do I sacrifice my precious morning rest just to escape reality for a few hours in the dark?"
+        },
+        {
+          "s": "Figur",
+          "t": "Then my phone buzzes with a mysterious bank alert that makes my heart drop."
         },
         {
           "s": "Erzaehler",
           "t": "You'll see that in Level 3."
         }
       ],
-      "quote": "You will never afford a real apartment with attitude like that.",
+      "quote": "Stop daydreaming about expensive furniture and make my double shot right now.",
       "quote_by": {
-        "level": 5,
-        "name": "Kira",
-        "badge": "5 Hours",
-        "character": "A vibrant pink and green Dragonfruit wearing designer sunglasses indoors and a faux-fur coat.",
-        "scene": "A brightly lit diner counter at 2:00 AM, tapping long acrylic nails impatiently next to the register."
+        "level": 4,
+        "name": "Max",
+        "badge": "05:30 AM",
+        "character": "An aggressive red bell pepper person wearing a sleek manager vest.",
+        "scene": "A crowded coffee shop counter, snatching a phone and shouting out shopping bills while glaring at the tired lemon barista."
       },
       "stats": [
         {
           "label": "Sleep",
-          "value": "2 Hours",
-          "bar": 0.15
-        },
-        {
-          "label": "Wages",
-          "value": "$15/hr",
+          "value": "4.1 hrs",
           "bar": 0.25
         },
         {
-          "label": "Scroll Time",
-          "value": "5.5 Hrs",
-          "bar": 0.8
+          "label": "Screen Time",
+          "value": "5.8 hrs",
+          "bar": 0.75
+        },
+        {
+          "label": "Energy",
+          "value": "24 %",
+          "bar": 0.2
         }
       ],
-      "character": "A sharp-faced yellow lemon man with a puckered expression, wearing a stained white apron and a backwards baseball cap; his forehead shows a glowing digital timer.",
-      "visual": "Medium shot of a retro diner at 3:00 AM, steam rising from an espresso machine, with a hidden gold coin resting on the edge of a pie display case.",
+      "character": "A tart yellow lemon person with textured peel skin, wearing a stained green apron and silver hoop earrings. Glowing forehead number reads 02:15 AM.",
+      "visual": "A dimly lit apartment kitchen at 2 AM with a lemon person scrolling through aesthetic couch photos on a glowing tablet. A hidden gold coin is embedded inside a wooden cutting board.",
       "scenes": [
-        "Medium shot of a 24-hour diner counter, a lemon barista wiping down sticky laminate while staring blankly at a phone.",
-        "Close-up of a shiny gold coin wedged neatly between the glass and metal frame of a cherry pie display case.",
-        "Over-the-shoulder shot of a dragonfruit customer in a faux-fur coat slamming a smartphone onto the counter.",
-        "Wide shot of the empty diner dining booth under flickering neon amber lights, steam curling from coffee mugs.",
-        "Close-up of the lemon's glowing forehead display flashing '2 Hours' in bright orange digital numbers.",
-        "Detailed shot of a receipt printer spitting out an order slip with blurry midnight timestamps."
+        "A cozy apartment kitchen at 2 AM, wide shot of a lemon person sitting on the floor with a glowing tablet. A gold coin is tucked under the table leg.",
+        "A bustling café at 6 AM, medium shot of the barista steaming milk with heavy eyelids.",
+        "A subway car at 7 AM, close-up of weary passengers leaning against metal poles.",
+        "A quiet storage room, detail shot of inventory clipboards and empty coffee bags.",
+        "A busy cash register counter, over-the-shoulder shot of customers tapping credit cards.",
+        "A rainy street outside the café, low-angle shot of neon lights reflecting in puddles."
       ],
-      "caption": "Who else scrolls their phone until 3 AM just to feel in control of their day? #revengebedtime #nightshift #relatable #trashdrama #level2"
+      "caption": "That 2 AM feeling when you just want a life that isn't yours. #procrastination #baristalife #nightowl #relatable #shorts"
     },
     {
       "n": 3,
-      "open_loop": "What was hidden inside the locked drawer of the shared apartment hallway?",
+      "open_loop": "Who sent the midnight email that made the avocado freeze in absolute terror?",
       "gegenspieler": {
-        "level": 1,
-        "tat": "Blames him for waking her up by typing too loudly on his laptop at 3 AM."
+        "level": 5,
+        "tat": "Passes him on a midnight run and insults his brain function and lack of corporate worth.",
+        "g": "m"
       },
-      "name": "Sam, 26, Junior Copywriter",
-      "badge": "3.5 Hours",
-      "verdict": "BORDERLINE BURNOUT",
-      "story": "The 8 levels of revenge bedtime procrastination. Level 3. In den ersten 5 Sekunden sieht man deutlich, wie Sam heimlich an einem millionenschweren Code arbeitet, während Mia ihn ungerechtfertigt anschreit. Level 3: 3.5 hours of sleep—and my third energy drink is already tasting like pure battery acid. I am Sam, an Avocado guy living in a chaotic four-person Brooklyn loft, paying $1,100 rent and drowning in client revisions while secretly building the future. My mind races with the thought that my hidden project will soon buy this entire building out from under them. You are typing so loud I can hear every keystroke through the paper walls. I wanted to tell her about my crushing deadlines, but she cut me off cold. Your late-night drafting is ruining everyone else's life. Das siehst du in Level 4. You'll see that in Level 4.",
+      "name": "Arthur, 32, Financial Analyst",
+      "badge": "07:15 AM",
+      "verdict": "STRESSED",
+      "story": "The 8 levels of revenge bedtime procrastination. Level 3. Level 3: 07:15 AM on my avocado forehead, and I have not closed my eyes once because endless corporate Excel sheets kept calling my name through the night. I earn $85,000 a year crunching numbers in a glass tower, but my brain feels like overripe guacamole left out in the summer sun. 85.000 Dollar Gehalt, aber dein Gehirn ist Matsch. Warum bist du so wertlos ohne deine Tabellen? He laughs while flashing his glowing 08:30 AM badge after finishing an exhausting morning workout. I grip my cold black coffee and feel the bitter taste of absolute inadequacy rising in my throat. Why do I trade my night rest for meaningless spreadsheets just to prove my worth to strangers? Then my laptop screen goes completely blank, deleting three hours of unsaved financial data. You'll see that in Level 4.",
       "gender": "m",
       "twist": {
-        "delta": "+45 Min",
-        "after": "4.2 Hours"
+        "delta": "+1 hr",
+        "after": "08:15 AM"
       },
       "lines": [
         {
@@ -225,96 +229,92 @@
           "t": "The 8 levels of revenge bedtime procrastination. Level 3."
         },
         {
-          "s": "Erzaehler",
-          "t": "In den ersten 5 Sekunden sieht man deutlich, wie Sam heimlich an einem millionenschweren Code arbeitet, während Mia ihn ungerechtfertigt anschreit."
+          "s": "Figur",
+          "t": "Level 3: 07:15 AM on my avocado forehead, and I have not closed my eyes once because endless corporate Excel sheets kept calling my name through the night."
         },
         {
           "s": "Figur",
-          "t": "Level 3: 3.5 hours of sleep—and my third energy drink is already tasting like pure battery acid."
-        },
-        {
-          "s": "Figur",
-          "t": "I am Sam, an Avocado guy living in a chaotic four-person Brooklyn loft, paying $1,100 rent and drowning in client revisions while secretly building the future."
-        },
-        {
-          "s": "Figur",
-          "t": "My mind races with the thought that my hidden project will soon buy this entire building out from under them."
+          "t": "I earn $85,000 a year crunching numbers in a glass tower, but my brain feels like overripe guacamole left out in the summer sun."
         },
         {
           "s": "Gegenspieler",
-          "t": "You are typing so loud I can hear every keystroke through the paper walls.",
-          "g": "w"
+          "t": "85.000 Dollar Gehalt, aber dein Gehirn ist Matsch. Warum bist du so wertlos ohne deine Tabellen?",
+          "g": "m"
         },
         {
           "s": "Figur",
-          "t": "I wanted to tell her about my crushing deadlines, but she cut me off cold."
+          "t": "He laughs while flashing his glowing 08:30 AM badge after finishing an exhausting morning workout."
         },
         {
-          "s": "Gegenspieler",
-          "t": "Your late-night drafting is ruining everyone else's life.",
-          "g": "w"
+          "s": "Figur",
+          "t": "I grip my cold black coffee and feel the bitter taste of absolute inadequacy rising in my throat."
         },
         {
           "s": "Erzaehler",
-          "t": "Das siehst du in Level 4."
+          "t": "Why do I trade my night rest for meaningless spreadsheets just to prove my worth to strangers?"
+        },
+        {
+          "s": "Figur",
+          "t": "Then my laptop screen goes completely blank, deleting three hours of unsaved financial data."
         },
         {
           "s": "Erzaehler",
           "t": "You'll see that in Level 4."
         }
       ],
-      "quote": "Your late-night drafting is ruining everyone else's life.",
+      "quote": "85.000 Dollar Gehalt, aber dein Gehirn ist Matsch. Warum bist du so wertlos ohne deine Tabellen?",
       "quote_by": {
-        "level": 1,
-        "name": "Mia",
-        "badge": "12 Min",
-        "character": "A pale strawberry woman with messy leaf hair wearing a grey hoodie.",
-        "scene": "A dimly lit apartment hallway at 3:30 AM, holding a wooden broom defensively."
+        "level": 5,
+        "name": "Leo",
+        "badge": "08:30 AM",
+        "character": "A hyper-fit broccoli person wearing neon running gear and a sports smartwatch.",
+        "scene": "A glass-walled corporate office balcony, pointing mockingly at an exhausted avocado staring at a spreadsheet."
       },
       "stats": [
         {
           "label": "Sleep",
-          "value": "3.5 Hrs",
-          "bar": 0.3
+          "value": "2.5 hrs",
+          "bar": 0.1
         },
         {
-          "label": "Rent",
-          "value": "$1,100",
-          "bar": 0.4
+          "label": "Screen Time",
+          "value": "9.2 hrs",
+          "bar": 0.95
         },
         {
-          "label": "Caffeine",
-          "value": "4 Cans",
-          "bar": 0.7
+          "label": "Energy",
+          "value": "18 %",
+          "bar": 0.15
         }
       ],
-      "character": "A green textured avocado man with a dark pit center, wearing round wire-rimmed glasses and a black turtleneck sweater; his forehead glows with a digital sleep timer.",
-      "visual": "Medium shot of a narrow, cluttered apartment hallway with exposed brick walls at 3:00 AM, a small gold coin resting on an old radiator.",
+      "character": "A bumpy green avocado person with a large pit-like texture on the cheeks, wearing a tailored charcoal suit and rimless glasses. Glowing forehead number reads 07:15 AM.",
+      "visual": "A sleek modern office cubicle at 5 AM filled with towering stacks of financial reports and empty energy drink cans. A tiny hidden gold coin rests inside a desk pen holder.",
       "scenes": [
-        "Wide shot of a messy Brooklyn loft kitchen at night, piles of unwashed dishes and glowing laptop screens casting blue light.",
-        "Close-up of a shiny gold coin resting on top of a dusty radiator grill in a drafty hallway.",
-        "Medium shot of the avocado man typing furiously on a mechanical keyboard under a single naked overhead bulb.",
-        "Over-the-shoulder shot of a strawberry neighbor glaring through a cracked wooden doorway at 3 AM.",
-        "Close-up of the digital forehead display ticking slowly from 3.5 hours down to 3.2 hours.",
-        "Detailed shot of an empty energy drink can crushing in a tired hand."
+        "A modern glass office at 5 AM, wide shot of an avocado person staring blankly into dual monitors. A gold coin is hidden behind a stapler.",
+        "An executive boardroom at 8 AM, medium shot of a tense morning briefing.",
+        "A downtown street corner, low-angle shot of towering skyscrapers under a gray morning sky.",
+        "A corporate cafeteria, close-up of a stressed employee stirring sugar into bitter black coffee.",
+        "An underground parking garage, detail shot of luxury sedan tires squeaking on concrete.",
+        "A private balcony, wide shot overlooking the bustling city skyline at sunrise."
       ],
-      "caption": "Late night writing sessions hit different when the whole world is asleep. #writerlife #avocadoman #relatable #trashdrama #level3"
+      "caption": "Working through the night to afford things you have no time to enjoy. #corporatelife #burnout #excel #relatable #shorts"
     },
     {
       "n": 4,
-      "open_loop": "Who left the threatening sticky note on the office printer at midnight?",
+      "open_loop": "What was hidden inside the delivery bag that the coconut left on the pristine marble floor?",
       "gegenspieler": {
-        "level": 7,
-        "tat": "Turns off the office Wi-Fi router just as she is about to upload her final project."
+        "level": 6,
+        "tat": "Dismisses her stock inventory while secretly hiding unpaid credit card collection notices for her luxury sneakers.",
+        "g": "w"
       },
-      "name": "Chloe, 28, Junior Accountant",
-      "badge": "4.5 Hours",
-      "verdict": "OVERWHELMED",
-      "story": "The 8 levels of revenge bedtime procrastination. Level 4. Level 4: 4.5 hours of sleep—because midnight Excel sheets are the only place I feel competent and in control. I am Chloe, a sturdy Coconut woman crunching numbers in a fluorescent corporate maze, paying $1,800 rent for a tiny studio while my soul slowly withers away under fluorescent tubes. I whisper to myself in the dark that numbers never betray you, unlike the backstabbing colleagues around me. Still playing with spreadsheets while the real world parties? I tried to defend my overtime hustle, but he snapped his laptop shut. Your little balance sheets mean nothing when you burn out before thirty. Das siehst du in Level 5. You'll see that in Level 5.",
-      "gender": "w",
+      "name": "Max, 29, Retail Store Manager",
+      "badge": "05:30 AM",
+      "verdict": "RESTLESS",
+      "story": "The 8 levels of revenge bedtime procrastination. Level 4. Level 4: 05:30 AM glowing on my red bell pepper forehead, and I am still browsing late-night sneaker auctions instead of sleeping. I manage a busy clothing boutique earning $52,000, but my mind is wired on caffeine and FOMO. Look at this chaotic window display, no wonder sales are completely dead. She sneers while showing off her glowing 09:00 AM diamond-encrusted forehead. As she turns around, a loud collection notice slips out of her designer handbag, exposing to everyone that her expensive sneakers are bought purely on credit and she is secretly bankrupt. I bite my tongue, smiling inside as her fake empire crumbles. Why do I sabotage my own rest just to feel some illusion of control over my chaotic life? Then my store security alarm suddenly goes off with an ear-splitting shriek. You'll see that in Level 5.",
+      "gender": "m",
       "twist": {
-        "delta": "-1 Hour",
-        "after": "3.5 Hours"
+        "delta": "+1.5 hrs",
+        "after": "07:00 AM"
       },
       "lines": [
         {
@@ -323,91 +323,95 @@
         },
         {
           "s": "Figur",
-          "t": "Level 4: 4.5 hours of sleep—because midnight Excel sheets are the only place I feel competent and in control."
+          "t": "Level 4: 05:30 AM glowing on my red bell pepper forehead, and I am still browsing late-night sneaker auctions instead of sleeping."
         },
         {
           "s": "Figur",
-          "t": "I am Chloe, a sturdy Coconut woman crunching numbers in a fluorescent corporate maze, paying $1,800 rent for a tiny studio while my soul slowly withers away under fluorescent tubes."
-        },
-        {
-          "s": "Figur",
-          "t": "I whisper to myself in the dark that numbers never betray you, unlike the backstabbing colleagues around me."
+          "t": "I manage a busy clothing boutique earning $52,000, but my mind is wired on caffeine and FOMO."
         },
         {
           "s": "Gegenspieler",
-          "t": "Still playing with spreadsheets while the real world parties?",
-          "g": "m"
+          "t": "Look at this chaotic window display, no wonder sales are completely dead.",
+          "g": "w"
         },
         {
           "s": "Figur",
-          "t": "I tried to defend my overtime hustle, but he snapped his laptop shut."
+          "t": "She sneers while showing off her glowing 09:00 AM diamond-encrusted forehead."
         },
         {
-          "s": "Gegenspieler",
-          "t": "Your little balance sheets mean nothing when you burn out before thirty.",
-          "g": "m"
+          "s": "Figur",
+          "t": "As she turns around, a loud collection notice slips out of her designer handbag, exposing to everyone that her expensive sneakers are bought purely on credit and she is secretly bankrupt."
+        },
+        {
+          "s": "Figur",
+          "t": "I bite my tongue, smiling inside as her fake empire crumbles."
         },
         {
           "s": "Erzaehler",
-          "t": "Das siehst du in Level 5."
+          "t": "Why do I sabotage my own rest just to feel some illusion of control over my chaotic life?"
+        },
+        {
+          "s": "Figur",
+          "t": "Then my store security alarm suddenly goes off with an ear-splitting shriek."
         },
         {
           "s": "Erzaehler",
           "t": "You'll see that in Level 5."
         }
       ],
-      "quote": "Your little balance sheets mean nothing when you burn out before thirty.",
+      "quote": "Look at this chaotic window display, no wonder sales are completely dead.",
       "quote_by": {
-        "level": 7,
-        "name": "Zane",
-        "badge": "7 Hours",
-        "character": "A sleek, polished Coconut man wearing designer headphones around his neck and a tailored blazer.",
-        "scene": "A dim server room lit by blinking blue LED lights, leaning casually against a rack."
+        "level": 6,
+        "name": "Sasha",
+        "badge": "09:00 AM",
+        "character": "A stiff brown coconut person with a hard shell, wearing expensive sunglasses indoors.",
+        "scene": "A luxury boutique storefront window, dropping a collection notice while tapping a long acrylic nail angrily against the glass."
       },
       "stats": [
         {
           "label": "Sleep",
-          "value": "4.5 Hrs",
-          "bar": 0.45
+          "value": "3.8 hrs",
+          "bar": 0.2
         },
         {
-          "label": "Rent",
-          "value": "$1,800",
-          "bar": 0.55
+          "label": "Screen Time",
+          "value": "7.4 hrs",
+          "bar": 0.8
         },
         {
-          "label": "Workload",
-          "value": "110%",
-          "bar": 0.85
+          "label": "Energy",
+          "value": "30 %",
+          "bar": 0.25
         }
       ],
-      "character": "A brown, fibrous coconut woman with hard outer shell texture, wearing a sharp grey blazer and carrying a leather briefcase; her forehead displays a bright digital timer.",
-      "visual": "Wide shot of a massive, empty corporate open-plan office at midnight, glowing computer monitors stretching into the darkness, with a hidden gold coin on a copy machine.",
+      "character": "A vibrant red bell pepper person with glossy curved skin, wearing a crisp retail manager vest and silver name badge. Glowing forehead number reads 05:30 AM.",
+      "visual": "A trendy clothing boutique at 4 AM surrounded by racks of colorful jackets and blinking neon store signs. A tiny hidden gold coin is taped beneath the cash register counter.",
       "scenes": [
-        "Wide shot of an empty corporate floor at midnight, rows of desks bathed in green and blue monitor glow.",
-        "Close-up of a shiny gold coin resting on the glass scanning bed of a large office copy machine.",
-        "Medium shot of a coconut woman in a grey blazer staring intently at a dual-monitor financial spreadsheet setup.",
-        "Over-the-shoulder shot of a sleek coconut man in headphones unplugging a server cable in the dark.",
-        "Close-up of the glowing digital forehead display showing '4.5 Hours' in crisp white characters.",
-        "Detailed shot of a porcelain coffee mug filled with cold black coffee sitting next to a pile of tax forms."
+        "A boutique store at 4 AM, wide shot of a bell pepper sorting inventory boxes under bright spotlights. A gold coin is taped under the register.",
+        "A sidewalk outside the store at dawn, medium shot of a wealthy customer glaring through the glass.",
+        "A cramped back office, close-up of a manager typing spreadsheets with shaking fingers.",
+        "A bustling shopping mall corridor, low-angle shot of security shutters rolling up.",
+        "A stockroom filled with cardboard boxes, detail shot of price-tag guns clicking rapidly.",
+        "A street-level display window, wide shot of mannequins reflecting morning traffic."
       ],
-      "caption": "Who else stays up way too late just to catch up on work the office stole from your day? #corporatelife #burnout #relatable #trashdrama #level4"
+      "caption": "Scrolling until sunrise because the daytime belongs to everyone else, but the night is yours. #retailmanager #nightowl #shopping #relatable #shorts"
     },
     {
       "n": 5,
-      "open_loop": "What was inside the mysterious designer shopping bag left in the elevator?",
+      "open_loop": "What emergency message flashed across the fitness watch right in the middle of her run?",
       "gegenspieler": {
-        "level": 2,
-        "tat": "Refuses to give her the receipt and mutters insults about her expensive coffee order."
+        "level": 7,
+        "tat": "Insults her budget running shoes and violently hurls her smartphone into the muddy dirt.",
+        "g": "m"
       },
-      "name": "Kira, 29, Marketing Lead",
-      "badge": "5 Hours",
-      "verdict": "FUNCTIONAL",
-      "story": "The 8 levels of revenge bedtime procrastination. Level 5. Level 5: 5 hours of sleep—and my morning iced matcha is the only thing keeping my soul attached to my body. I am Kira, a vibrant Dragonfruit woman living in a luxury high-rise paying $2,400 rent, scrolling Instagram until 2 AM to decompress from my toxic boss. Ich halte innerlich dagegen, weil ich weiß, dass ich seine gesamte Abteilung morgen wegen Inkompetenz feuern werde. Für dein Gehalt kauf ich mir nicht mal Zahnpasta. Räum das gefälligst weg, Schlampe. You spend more on matcha than most people spend on groceries. I tossed my hair and gave him a icy stare. Your luxury lifestyle is built on absolute sleep deprivation. Das siehst du in Level 6. You'll see that in Level 6.",
-      "gender": "w",
+      "name": "Leo, 31, Personal Trainer",
+      "badge": "08:30 AM",
+      "verdict": "DRIVEN",
+      "story": "The 8 levels of revenge bedtime procrastination. Level 5. Level 5: 08:30 AM on my broccoli forehead, and I am still watching motivational entrepreneur podcasts at 3 AM instead of sleeping. I make $48,000 helping clients get fit, but my own sleep schedule is an absolute disaster. Stop running in circles, you will never afford a real gym franchise. He shouts while flashing his glowing 10:15 AM golden forehead badge, walks up close, and directly spits right into my smartphone screen before violently hurling it into the muddy dirt, shattering it to pieces. I grip my water bottle so tight my knuckles turn white while breathing in exhaust fumes. Why do I push my body to absolute exhaustion just to prove I am better than my past? Then my smartwatch suddenly vibrates with a heart rate warning alert. You'll see that in Level 6.",
+      "gender": "m",
       "twist": {
-        "delta": "+1 Hour",
-        "after": "6 Hours"
+        "delta": "+1 hr",
+        "after": "09:30 AM"
       },
       "lines": [
         {
@@ -416,96 +420,91 @@
         },
         {
           "s": "Figur",
-          "t": "Level 5: 5 hours of sleep—and my morning iced matcha is the only thing keeping my soul attached to my body."
+          "t": "Level 5: 08:30 AM on my broccoli forehead, and I am still watching motivational entrepreneur podcasts at 3 AM instead of sleeping."
         },
         {
           "s": "Figur",
-          "t": "I am Kira, a vibrant Dragonfruit woman living in a luxury high-rise paying $2,400 rent, scrolling Instagram until 2 AM to decompress from my toxic boss."
-        },
-        {
-          "s": "Figur",
-          "t": "Ich halte innerlich dagegen, weil ich weiß, dass ich seine gesamte Abteilung morgen wegen Inkompetenz feuern werde."
+          "t": "I make $48,000 helping clients get fit, but my own sleep schedule is an absolute disaster."
         },
         {
           "s": "Gegenspieler",
-          "t": "Für dein Gehalt kauf ich mir nicht mal Zahnpasta. Räum das gefälligst weg, Schlampe.",
-          "g": "m"
-        },
-        {
-          "s": "Gegenspieler",
-          "t": "You spend more on matcha than most people spend on groceries.",
+          "t": "Stop running in circles, you will never afford a real gym franchise.",
           "g": "m"
         },
         {
           "s": "Figur",
-          "t": "I tossed my hair and gave him a icy stare."
+          "t": "He shouts while flashing his glowing 10:15 AM golden forehead badge, walks up close, and directly spits right into my smartphone screen before violently hurling it into the muddy dirt, shattering it to pieces."
         },
         {
-          "s": "Gegenspieler",
-          "t": "Your luxury lifestyle is built on absolute sleep deprivation.",
-          "g": "m"
+          "s": "Figur",
+          "t": "I grip my water bottle so tight my knuckles turn white while breathing in exhaust fumes."
         },
         {
           "s": "Erzaehler",
-          "t": "Das siehst du in Level 6."
+          "t": "Why do I push my body to absolute exhaustion just to prove I am better than my past?"
+        },
+        {
+          "s": "Figur",
+          "t": "Then my smartwatch suddenly vibrates with a heart rate warning alert."
         },
         {
           "s": "Erzaehler",
           "t": "You'll see that in Level 6."
         }
       ],
-      "quote": "Your luxury lifestyle is built on absolute sleep deprivation.",
+      "quote": "Stop running in circles, you will never afford a real gym franchise.",
       "quote_by": {
-        "level": 2,
-        "name": "Leo",
-        "badge": "2 Hours",
-        "character": "A sour lemon man in a stained white apron with dark circles under his eyes.",
-        "scene": "A crowded downtown coffee shop counter at 8:00 AM, handing over a drink with obvious resentment."
+        "level": 7,
+        "name": "Kian",
+        "badge": "10:15 AM",
+        "character": "An exotic pink dragon fruit person wearing an expensive silk jacket and gold watch.",
+        "scene": "Sitting inside a luxury sports car at a red light, spitting on a phone and throwing it into the mud with a smirk."
       },
       "stats": [
         {
           "label": "Sleep",
-          "value": "5 Hrs",
-          "bar": 0.6
+          "value": "4.5 hrs",
+          "bar": 0.35
         },
         {
-          "label": "Rent",
-          "value": "$2,400",
-          "bar": 0.7
-        },
-        {
-          "label": "Screen",
-          "value": "4.2 Hrs",
+          "label": "Screen Time",
+          "value": "6.1 hrs",
           "bar": 0.65
+        },
+        {
+          "label": "Energy",
+          "value": "45 %",
+          "bar": 0.4
         }
       ],
-      "character": "A striking pink and magenta dragonfruit woman with green scale-like spikes, wearing designer sunglasses on her head and a cream trench coat; her forehead glows with a digital sleep counter.",
-      "visual": "Wide shot of a sleek downtown high-rise lobby with marble floors and morning sunlight streaming through glass doors, featuring a hidden gold coin on a marble planter rim.",
+      "character": "A rugged green broccoli person with tiny floret crown hair, wearing a breathable athletic zip jacket and running shoes. Glowing forehead number reads 08:30 AM.",
+      "visual": "A misty city park at dawn with a broccoli person stretching under a glowing streetlamp. A tiny hidden gold coin rests on a park bench armrest.",
       "scenes": [
-        "Wide shot of a luxury apartment building lobby with polished marble floors and towering glass windows at sunrise.",
-        "Close-up of a shiny gold coin resting on the edge of a sleek white marble indoor planter.",
-        "Medium shot of a dragonfruit woman in a designer trench coat holding a green iced matcha drink.",
-        "Over-the-shoulder shot of a tired lemon barista glaring across an espresso machine in a crowded cafe.",
-        "Close-up of the glowing digital forehead display showing '5 Hours' in bright magenta light.",
-        "Detailed shot of an iPhone screen displaying late-night shopping cart totals at 2:14 AM."
+        "A misty park at dawn, wide shot of a broccoli person jogging past empty benches. A gold coin rests on a wooden armrest.",
+        "A modern gym interior, medium shot of weights clanking on rubber flooring.",
+        "A busy city intersection, close-up of a sports car window rolling down slowly.",
+        "A locker room bench, detail shot of a smartwatch displaying resting heart rate graphs.",
+        "An outdoor running track, low-angle shot of sneakers hitting synthetic turf.",
+        "A juice bar counter, wide shot of morning customers ordering protein shakes."
       ],
-      "caption": "Who else buys expensive treats just to survive the next workday? #marketinglife #dragonfruit #relatable #trashdrama #level5"
+      "caption": "Training at 4 AM because your mind refuses to switch off. #fitnessmotivation #nightrunner #burnout #relatable #shorts"
     },
     {
       "n": 6,
-      "open_loop": "Why was the security camera footage from midnight completely wiped clean?",
+      "open_loop": "What confidential business file was left open on the luxury penthouse glass table?",
       "gegenspieler": {
-        "level": 3,
-        "tat": "Bangs on the ceiling pipes with a broom handle because his late-night calls are too loud."
+        "level": 8,
+        "tat": "Humiliates her live on camera during a corporate broadcast and destroys her merger proposal.",
+        "g": "m"
       },
-      "name": "Victor, 32, Startup Founder",
-      "badge": "6 Hours",
-      "verdict": "PRODUCTIVE",
-      "story": "The 8 levels of revenge bedtime procrastination. Level 6. Level 6: 6 hours of sleep—because my pitch deck will not write itself while the rest of the city snoozes. I am Victor, an ambitious Pineapple guy running a tech startup out of a sleek penthouse office, paying $3,200 rent, while my secret algorithms quietly extract value from every competitor in this block. Stop pacing the floorboards until 3 AM, your heavy boots are driving me insane. I laughed in his face, adjusting my expensive silk tie, knowing my bank account dwarfs his entire lineage. Your hustle culture is going to crash harder than your servers. Das siehst du in Level 7. You'll see that in Level 7.",
-      "gender": "m",
+      "name": "Sasha, 35, Real Estate Investor",
+      "badge": "09:00 AM",
+      "verdict": "POWERFUL",
+      "story": "The 8 levels of revenge bedtime procrastination. Level 6. Level 6: 09:00 AM glowing on my brown coconut forehead, and I am still reviewing property acquisition contracts at 3:30 AM. I manage a $4,000,000 real estate portfolio, but my personal life is completely hollow. Your high-rise empire is built on glass foundations that will shatter by midnight. He murmurs while flashing his glowing 11:59 AM legendary forehead badge. Suddenly, my own boss appears live on the corporate live-stream broadcast on the penthouse wall, screaming at me, tearing up my merger papers on national television, and calling me a worthless failure. I tighten my diamond necklace and feel a sudden shiver run through my hard outer shell as humiliation burns. Why do I sacrifice every moment of peace for numbers on a digital screen that never satisfy? Then my private elevator bell chimes, announcing an unexpected visitor at this ungodly hour. You'll see that in Level 7.",
+      "gender": "w",
       "twist": {
-        "delta": "+30 Min",
-        "after": "6.5 Hours"
+        "delta": "+1 hr",
+        "after": "10:00 AM"
       },
       "lines": [
         {
@@ -514,87 +513,95 @@
         },
         {
           "s": "Figur",
-          "t": "Level 6: 6 hours of sleep—because my pitch deck will not write itself while the rest of the city snoozes."
+          "t": "Level 6: 09:00 AM glowing on my brown coconut forehead, and I am still reviewing property acquisition contracts at 3:30 AM."
         },
         {
           "s": "Figur",
-          "t": "I am Victor, an ambitious Pineapple guy running a tech startup out of a sleek penthouse office, paying $3,200 rent, while my secret algorithms quietly extract value from every competitor in this block."
+          "t": "I manage a $4,000,000 real estate portfolio, but my personal life is completely hollow."
         },
         {
           "s": "Gegenspieler",
-          "t": "Stop pacing the floorboards until 3 AM, your heavy boots are driving me insane.",
+          "t": "Your high-rise empire is built on glass foundations that will shatter by midnight.",
           "g": "m"
         },
         {
           "s": "Figur",
-          "t": "I laughed in his face, adjusting my expensive silk tie, knowing my bank account dwarfs his entire lineage."
+          "t": "He murmurs while flashing his glowing 11:59 AM legendary forehead badge."
         },
         {
-          "s": "Gegenspieler",
-          "t": "Your hustle culture is going to crash harder than your servers.",
-          "g": "m"
+          "s": "Figur",
+          "t": "Suddenly, my own boss appears live on the corporate live-stream broadcast on the penthouse wall, screaming at me, tearing up my merger papers on national television, and calling me a worthless failure."
+        },
+        {
+          "s": "Figur",
+          "t": "I tighten my diamond necklace and feel a sudden shiver run through my hard outer shell as humiliation burns."
         },
         {
           "s": "Erzaehler",
-          "t": "Das siehst du in Level 7."
+          "t": "Why do I sacrifice every moment of peace for numbers on a digital screen that never satisfy?"
+        },
+        {
+          "s": "Figur",
+          "t": "Then my private elevator bell chimes, announcing an unexpected visitor at this ungodly hour."
         },
         {
           "s": "Erzaehler",
           "t": "You'll see that in Level 7."
         }
       ],
-      "quote": "Your hustle culture is going to crash harder than your servers.",
+      "quote": "Your high-rise empire is built on glass foundations that will shatter by midnight.",
       "quote_by": {
-        "level": 3,
-        "name": "Sam",
-        "badge": "3.5 Hours",
-        "character": "An avocado man in a black turtleneck carrying multiple coffee cups.",
-        "scene": "A modern apartment elevator lobby at midnight, glaring upward in frustration."
+        "level": 8,
+        "name": "Julian",
+        "badge": "11:59 AM",
+        "character": "A golden crown-wearing pineapple person in an immaculate velvet tuxedo.",
+        "scene": "Standing on a high-rise balcony at night, looking down with absolute calm authority at a coconut investor."
       },
       "stats": [
         {
           "label": "Sleep",
-          "value": "6 Hrs",
-          "bar": 0.75
+          "value": "5.0 hrs",
+          "bar": 0.5
         },
         {
-          "label": "Rent",
-          "value": "$3,200",
-          "bar": 0.8
+          "label": "Screen Time",
+          "value": "5.2 hrs",
+          "bar": 0.55
         },
         {
-          "label": "Pitch",
-          "value": "100%",
-          "bar": 0.9
+          "label": "Energy",
+          "value": "60 %",
+          "bar": 0.55
         }
       ],
-      "character": "A spiky-haired golden pineapple man wearing a sharp navy blue tailored suit and designer loafers; his forehead displays a glowing green digital timer.",
-      "visual": "Wide shot of a luxury penthouse office overlooking a glowing city skyline at night, featuring a hidden gold coin on a glass coffee table.",
+      "character": "A hard-shelled brown coconut person with textured fiber hair, wearing a sleek white pantsuit and diamond earrings. Glowing forehead number reads 09:00 AM.",
+      "visual": "A luxurious penthouse balcony overlooking a glittering metropolis at 3 AM. A tiny hidden gold coin is embedded inside a marble flower pot.",
       "scenes": [
-        "Wide shot of a high-tech startup office with floor-to-ceiling windows overlooking a glittering night skyline.",
-        "Close-up of a shiny gold coin resting on the glass top of a designer minimalist coffee table.",
-        "Medium shot of a pineapple man in a tailored blue suit gesturing aggressively during a video call.",
-        "Over-the-shoulder shot of an avocado neighbor glaring angrily in a brightly lit hallway.",
-        "Close-up of the glowing digital forehead display showing '6 Hours' in bright green numbers.",
-        "Detailed shot of a sleek smartphone screen displaying venture capital funding graphs at 1:45 AM."
+        "A luxury penthouse balcony at 3 AM, wide shot of a coconut person looking over the city skyline. A gold coin is hidden in a planter.",
+        "A minimalist glass office, medium shot of glowing architectural blueprints on a screen.",
+        "A private elevator lobby, close-up of brass indicator buttons lighting up.",
+        "A marble-floored hallway, low-angle shot of crystal chandeliers reflecting dim light.",
+        "A mahogany desk piled with legal documents, detail shot of a fountain pen signing papers.",
+        "A floor-to-ceiling window, wide shot of distant skyscrapers piercing the night fog."
       ],
-      "caption": "Who else works on their side hustle long after everyone else has gone to bed? #startuplife #pineapple #relatable #trashdrama #level6"
+      "caption": "When you own half the city but still cannot buy eight hours of uninterrupted sleep. #realestate #penthouse #nightowl #relatable #shorts"
     },
     {
       "n": 7,
-      "open_loop": "Who sent the anonymous wire transfer that cleared his entire studio rent debt?",
+      "open_loop": "What rare ingredient was missing from the midnight delivery crate that caused the chef to freeze?",
       "gegenspieler": {
-        "level": 4,
-        "tat": "Complains to building management about his late-night music production bass levels."
+        "level": 1,
+        "tat": "Appears as a delivery worker and purposely ruins his expensive imported cooking ingredient out of pure revenge.",
+        "g": "w"
       },
-      "name": "Zane, 30, Sound Producer",
-      "badge": "7 Hours",
-      "verdict": "BALANCED",
-      "story": "The 8 levels of revenge bedtime procrastination. Level 7. Der Zuschauer weiß bereits vor diesem Auftritt, dass Zane längst die Miete des gesamten Hauses gekauft hat. Level 7: 7 hours of sleep—because late-night studio sessions are where the real magic happens and power is accumulated. I am Zane, a polished Coconut guy producing tracks in a soundproofed loft, paying $4,000 rent while quietly holding the deeds to every single apartment here. Your bass is rattling the entire ventilation system while some of us actually work for a living. I flashed a calm, unbothered smile through my headphones, knowing I am her landlord. You treat life like a club, but reality always sends the bill. Das siehst du in Level 8. You'll see that in Level 8.",
+      "name": "Kian, 34, Michelin-Star Chef",
+      "badge": "10:15 AM",
+      "verdict": "ELITE",
+      "story": "The 8 levels of revenge bedtime procrastination. Level 7. Level 7: 10:15 AM glowing on my dragon fruit forehead, and I am still designing menu layouts at 4 AM instead of resting. I run a top-tier restaurant earning $150,000, but perfectionism keeps me wide awake in the dark. You chefs stay up late playing with food while normal people break their backs just to survive. She mutters while flashing her glowing 03:42 AM tired forehead badge. It is Ruby, the exhausted strawberry from Level 1, working a double delivery shift to survive. With a cold, vengeful grin, she deliberately drops and crushes his rarest, most expensive truffle crate right onto the dirty kitchen floor, ruining his master dish. I stare in absolute horror as my multi-thousand-dollar ingredient is destroyed. Why do I let the relentless pursuit of culinary perfection rob me of every single quiet night? Then my restaurant reservation tablet chimes with a booking from a very familiar name. You'll see that in Level 8.",
       "gender": "m",
       "twist": {
-        "delta": "+1 Hour",
-        "after": "8 Hours"
+        "delta": "+45 m",
+        "after": "11:00 AM"
       },
       "lines": [
         {
@@ -602,92 +609,96 @@
           "t": "The 8 levels of revenge bedtime procrastination. Level 7."
         },
         {
-          "s": "Erzaehler",
-          "t": "Der Zuschauer weiß bereits vor diesem Auftritt, dass Zane längst die Miete des gesamten Hauses gekauft hat."
+          "s": "Figur",
+          "t": "Level 7: 10:15 AM glowing on my dragon fruit forehead, and I am still designing menu layouts at 4 AM instead of resting."
         },
         {
           "s": "Figur",
-          "t": "Level 7: 7 hours of sleep—because late-night studio sessions are where the real magic happens and power is accumulated."
-        },
-        {
-          "s": "Figur",
-          "t": "I am Zane, a polished Coconut guy producing tracks in a soundproofed loft, paying $4,000 rent while quietly holding the deeds to every single apartment here."
+          "t": "I run a top-tier restaurant earning $150,000, but perfectionism keeps me wide awake in the dark."
         },
         {
           "s": "Gegenspieler",
-          "t": "Your bass is rattling the entire ventilation system while some of us actually work for a living.",
+          "t": "You chefs stay up late playing with food while normal people break their backs just to survive.",
           "g": "w"
         },
         {
           "s": "Figur",
-          "t": "I flashed a calm, unbothered smile through my headphones, knowing I am her landlord."
+          "t": "She mutters while flashing her glowing 03:42 AM tired forehead badge."
         },
         {
-          "s": "Gegenspieler",
-          "t": "You treat life like a club, but reality always sends the bill.",
-          "g": "w"
+          "s": "Figur",
+          "t": "It is Ruby, the exhausted strawberry from Level 1, working a double delivery shift to survive. With a cold, vengeful grin, she deliberately drops and crushes his rarest, most expensive truffle crate right onto the dirty kitchen floor, ruining his master dish."
+        },
+        {
+          "s": "Figur",
+          "t": "I stare in absolute horror as my multi-thousand-dollar ingredient is destroyed."
         },
         {
           "s": "Erzaehler",
-          "t": "Das siehst du in Level 8."
+          "t": "Why do I let the relentless pursuit of culinary perfection rob me of every single quiet night?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then my restaurant reservation tablet chimes with a booking from a very familiar name."
         },
         {
           "s": "Erzaehler",
           "t": "You'll see that in Level 8."
         }
       ],
-      "quote": "You treat life like a club, but reality always sends the bill.",
+      "quote": "You chefs stay up late playing with food while normal people break their backs just to survive.",
       "quote_by": {
-        "level": 4,
-        "name": "Chloe",
-        "badge": "4.5 Hours",
-        "character": "A fibrous coconut woman in a grey blazer holding a leather briefcase.",
-        "scene": "A modern apartment hallway under recessed ceiling lights, tapping her watch impatiently."
+        "level": 1,
+        "name": "Ruby",
+        "badge": "03:42 AM",
+        "character": "A tired strawberry person with tiny seeds and a worn delivery jacket.",
+        "scene": "Standing in a commercial kitchen doorway at dawn, wiping sweat from her forehead while intentionally smashing a crate of rare truffles."
       },
       "stats": [
         {
           "label": "Sleep",
-          "value": "7 Hrs",
-          "bar": 0.85
+          "value": "5.5 hrs",
+          "bar": 0.6
         },
         {
-          "label": "Rent",
-          "value": "$4,000",
-          "bar": 0.9
+          "label": "Screen Time",
+          "value": "4.8 hrs",
+          "bar": 0.45
         },
         {
-          "label": "Flow",
-          "value": "95%",
-          "bar": 0.95
+          "label": "Energy",
+          "value": "75 %",
+          "bar": 0.7
         }
       ],
-      "character": "A smooth, polished brown coconut man with sleek hair, wearing an olive green bomber jacket and high-end studio headphones around his neck; his forehead glows with a bright digital timer.",
-      "visual": "Wide shot of a professional recording studio filled with mixing boards, acoustic panels, and glowing neon synthesizer lights, with a hidden gold coin on top of a speaker monitor.",
+      "character": "An exotic pink dragon fruit person with green scale-like leaf tips, wearing a spotless white chef jacket and black apron. Glowing forehead number reads 10:15 AM.",
+      "visual": "A stainless steel commercial kitchen at 4 AM illuminated by soft under-counter LED strips. A tiny hidden gold coin rests on top of a stainless steel spice rack.",
       "scenes": [
-        "Wide shot of a high-end music studio filled with mixing consoles, neon lights, and soundproofing foam.",
-        "Close-up of a shiny gold coin resting on top of a black studio monitor speaker.",
-        "Medium shot of a coconut music producer wearing headphones adjusting sliders on a digital audio workstation.",
-        "Over-the-shoulder shot of a coconut woman in a blazer arguing in a hallway doorway.",
-        "Close-up of the glowing digital forehead display showing '7 Hours' in soft blue light.",
-        "Detailed shot of a glowing audio mixing board waveform dancing to deep bass tracks at midnight."
+        "A commercial kitchen at 4 AM, wide shot of a dragon fruit chef sketching menu concepts on a tablet. A gold coin sits on a spice rack.",
+        "A delivery entrance in an alleyway, medium shot of crates being stacked in the dim morning light.",
+        "A private tasting room, close-up of crystal wine glasses reflecting ceiling spotlights.",
+        "A stainless steel prep table, low-angle shot of sharp kitchen knives resting on a wooden block.",
+        "A walk-in refrigerator door, detail shot of frost forming on silver handles.",
+        "A main dining room window, wide shot of empty leather chairs waiting for morning guests."
       ],
-      "caption": "Who else comes alive creatively when the rest of the world goes to sleep? #musicproducer #studiolife #relatable #trashdrama #level7"
+      "caption": "Perfectionism is just another way to stay awake when the world is finally quiet. #michelinchef #nightowl #kitchenlife #relatable #shorts"
     },
     {
       "n": 8,
-      "open_loop": "What secret did the master architect write on the final blueprints of the city?",
+      "open_loop": "What did the glowing 11:59 AM forehead number actually mean for everyone in the city?",
       "gegenspieler": {
-        "level": 6,
-        "tat": "Tries to buy out his entire building project just to tear it down for luxury condos."
+        "level": 0,
+        "tat": "None",
+        "g": "null"
       },
-      "name": "Drago, 35, Master Architect",
-      "badge": "8+ Hours",
-      "verdict": "THE MASTER",
-      "story": "The 8 levels of revenge bedtime procrastination. Level 8. Level 8: 8 hours of deep, uninterrupted sleep—because when you design the city, you control the clock and own every foundation. I am Drago, a legendary Drachifruit man living in the highest glass penthouse overlooking every glowing number below. Du wolltest mein Imperium kaufen? Ich habe deinen Arbeitsvertrag gerade als Klopapier freigegeben. I am buying this entire district by tomorrow morning, you cannot compete with my hustle. I looked down at him with absolute calm, pouring a cup of fresh tea while my empire stands eternal. The number on your forehead only shows what you chase, never what you actually own. Das siehst du in Level 8.",
+      "name": "Julian, 42, Master Architect",
+      "badge": "11:59 AM",
+      "verdict": "TIMELESS",
+      "story": "The 8 levels of revenge bedtime procrastination. Level 8. Level 8: 11:59 AM on my golden pineapple forehead, and I finally realize the ultimate truth: the rich fall the hardest. I designed every skyscraper, every glowing billboard, and every transit line in this metropolis. All eight figures—Ruby, Zoe, Arthur, Max, Leo, Sasha, and Kian—are passing through my buildings right now. Suddenly, a blinding wave of light sweeps through the city: all forehead numbers instantly extinguish, and every high-rise, penthouse, and corporate tower begins to power down and collapse into darkness, proving that those who built their lives on endless wealth and ruthless hierarchy fall the deepest into the void. A glowing digital clock on the central tower strikes midnight, and the entire system resets. Das siehst du in Level 8.",
       "gender": "m",
       "twist": {
-        "delta": "+infinity",
-        "after": "8+ Hours"
+        "delta": "RESET",
+        "after": "00:00 AM"
       },
       "lines": [
         {
@@ -696,72 +707,65 @@
         },
         {
           "s": "Figur",
-          "t": "Level 8: 8 hours of deep, uninterrupted sleep—because when you design the city, you control the clock and own every foundation."
+          "t": "Level 8: 11:59 AM on my golden pineapple forehead, and I finally realize the ultimate truth: the rich fall the hardest."
         },
         {
           "s": "Figur",
-          "t": "I am Drago, a legendary Drachifruit man living in the highest glass penthouse overlooking every glowing number below."
-        },
-        {
-          "s": "Gegenspieler",
-          "t": "Du wolltest mein Imperium kaufen? Ich habe deinen Arbeitsvertrag gerade als Klopapier freigegeben.",
-          "g": "m"
-        },
-        {
-          "s": "Gegenspieler",
-          "t": "I am buying this entire district by tomorrow morning, you cannot compete with my hustle.",
-          "g": "m"
+          "t": "I designed every skyscraper, every glowing billboard, and every transit line in this metropolis."
         },
         {
           "s": "Figur",
-          "t": "I looked down at him with absolute calm, pouring a cup of fresh tea while my empire stands eternal."
+          "t": "All eight figures—Ruby, Zoe, Arthur, Max, Leo, Sasha, and Kian—are passing through my buildings right now."
         },
         {
-          "s": "Gegenspieler",
-          "t": "The number on your forehead only shows what you chase, never what you actually own.",
-          "g": "m"
+          "s": "Figur",
+          "t": "Suddenly, a blinding wave of light sweeps through the city: all forehead numbers instantly extinguish, and every high-rise, penthouse, and corporate tower begins to power down and collapse into darkness, proving that those who built their lives on endless wealth and ruthless hierarchy fall the deepest into the void."
+        },
+        {
+          "s": "Figur",
+          "t": "A glowing digital clock on the central tower strikes midnight, and the entire system resets."
         },
         {
           "s": "Erzaehler",
           "t": "Das siehst du in Level 8."
         }
       ],
-      "quote": "The number on your forehead only shows what you chase, never what you actually own.",
+      "quote": "All forehead numbers extinguish, proving that the rich fall the deepest into the void.",
       "quote_by": {
-        "level": 6,
-        "name": "Victor",
-        "badge": "6 Hours",
-        "character": "A spiky pineapple man in a tailored blue suit holding a gold watch.",
-        "scene": "A luxury glass elevator descending from a penthouse at midnight, flashing a gold Rolex."
+        "level": 8,
+        "name": "Julian",
+        "badge": "11:59 AM",
+        "character": "A golden crown-wearing pineapple person looking over the entire metropolis from a grand glass dome.",
+        "scene": "Standing at the pinnacle of the city's highest architectural dome, watching all digital forehead numbers extinguish as the rich towers collapse."
       },
       "stats": [
         {
           "label": "Sleep",
-          "value": "8+ Hrs",
+          "value": "8.0 hrs",
           "bar": 1.0
         },
         {
-          "label": "Control",
-          "value": "Max",
-          "bar": 1.0
+          "label": "Screen Time",
+          "value": "1.0 hr",
+          "bar": 0.1
         },
         {
-          "label": "Vision",
-          "value": "100%",
+          "label": "Energy",
+          "value": "100 %",
           "bar": 1.0
         }
       ],
-      "character": "A magnificent crimson and emerald dragonfruit man with cascading scale-like armor plating, wearing an expensive cashmere turtleneck and holding a golden architectural compass; his forehead displays a glowing golden infinity sign.",
-      "visual": "Wide shot of a breathtaking glass penthouse overlooking the entire neon metropolis at night, with a hidden gold coin resting on an architectural drafting model.",
+      "character": "A majestic golden pineapple person with spiky crown leaves, wearing an immaculate velvet tuxedo and holding a silver pocket watch. Glowing forehead number reads 11:59 AM.",
+      "visual": "A breathtaking architectural glass dome high above the glowing city at midnight, where all eight fruit and vegetable storylines intersect as lights go dark. A final golden coin rests right in the center of the geometric floor pattern.",
       "scenes": [
-        "Wide shot of a luxury glass penthouse overlooking the entire glittering neon city skyline at midnight.",
-        "Close-up of a shiny gold coin resting on the corner of a detailed architectural blueprint model.",
-        "Medium shot of a majestic dragonfruit man in a cashmere sweater looking calmly over city blueprints.",
-        "Over-the-shoulder shot of a pineapple tech founder arguing aggressively inside a private glass elevator.",
-        "Close-up of the glowing digital forehead display showing a bright golden infinity symbol.",
-        "Detailed shot of a gold fountain pen resting beside a completed city master plan at dawn."
+        "A grand glass architectural dome at midnight, wide shot showing the entire glowing city below as lights go dark. A gold coin rests in the center.",
+        "A central transit station, medium shot of all previous characters crossing paths briefly.",
+        "A massive digital clock tower, close-up of numbers shifting from 11:59 to 00:00.",
+        "A quiet residential street, low-angle shot of apartment lights turning off one by one.",
+        "A rooftop terrace overlooking the skyline, detail shot of a silver pocket watch snapping shut.",
+        "A final wide shot of the metropolis bathed in the soft glow of a new dawn."
       ],
-      "caption": "What theme should we explore in the next series? Drop your ideas in the comments! #drachenfrucht #masterarchitect #relatable #trashdrama #level8"
+      "caption": "Which theme should we explore in the next 8 levels series? Let us know in the comments! #bedtimestories #simulation #architecture #viral #shorts"
     }
   ],
   "lang": "en",
