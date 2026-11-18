@@ -1,0 +1,149 @@
+{
+  "best_score": 50,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 4,
+        "story": 3,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 3,
+        "wut": 4,
+        "merkfaehigkeit": 5,
+        "sprache": 2
+      },
+      "gesamt": 38,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze das neutrale Intro durch einen direkten Fausthschlag-Satz: '850 Euro Netto? Mit dir putzen wir hier gleich nur noch die Treppe, du Abschaum.'"
+        },
+        {
+          "n": 2,
+          "fix": "Schreibe die Story um zu echter Konfrontation: '1.850 Euro? Du zahlst die Kaution in bar oder fliegst noch vor der Haustür auf die Fresse.'"
+        },
+        {
+          "n": 3,
+          "fix": "Verkürze die Sätze und entferne Romandeko: '2.700 Euro Netto und so eine Fresse? Deine Bewerbung landet direkt im Schredder.'"
+        },
+        {
+          "n": 4,
+          "fix": "Erhöhe die Arroganz des Gegenspielers: '3.800 Euro? Dafür kriegst nicht mal den Mülleimer im Hof, du Versager.'"
+        },
+        {
+          "n": 5,
+          "fix": "Füge sofortige Genugtuung ein: '5.200 Euro Netto? Halt's Maul, ich kaufe das Haus einfach direkt vor deiner Nase weg.'"
+        },
+        {
+          "n": 6,
+          "fix": "Baue echten Verrat ein: '7.500 Euro? Du wirst hier öffentlich gedemütigt, weil deine Schufa gefälscht ist.'"
+        },
+        {
+          "n": 7,
+          "fix": "Verschärfe den Konflikt: '11.200 Euro und trotzdem fliegst du raus, weil wir dich verachten.'"
+        },
+        {
+          "n": 8,
+          "fix": "Löse den Loop knackig auf statt langweiliger Fragen: '99.999 Euro. Und jetzt kniet nieder vor dem wahren Eigentümer.'"
+        }
+      ],
+      "fazit": "Die Texte klingen wie dröge Vorlese-Geschichten und haben NULL mit dem harten, schnellen TikTok-Stil der Vorbilder zu tun. Keine einzigen 175 Wörter pro Teil vorhanden, stattdessen lahmes Füllmaterial ohne echten Punch. Die Storys plätschern vor sich hin, statt in den ersten 3 Sekunden eine absolute Ohrfeige zu verteilen. So wischt jeder User nach 1,5 Sekunden weg."
+    },
+    {
+      "scores": {
+        "hook": 3,
+        "story": 2,
+        "identifikation": 2,
+        "verbindungen": 4,
+        "sog": 3,
+        "wut": 3,
+        "merkfaehigkeit": 4,
+        "sprache": 1
+      },
+      "gesamt": 28,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Erweitere die Story auf mindestens 175 Wörter. Ersetze die unzusammenhängenden Sätze durch eine echte Konfliktszene: 'Die 8 Level der Wohnungsbesichtigung. Level 1. 850 Euro Netto? Mit dir putzen wir hier gleich nur noch die Treppe, du Abschaum, zischt Dr. Granatapfel und tritt meine Bewerbungsmappe in den nassen Rinnstein. Ich stehe im strömenden Regen vor dem heruntergekommenen Altbau in Neukölln, während meine roten Erdbeerblätter vor Kälte und Demütigung zittern. Seit Monaten suche ich verzweifelt ein Zimmer, während dieser arrogante Investor jede günstige Wohnung blockiert. Doch er ahnt nicht, dass ich im Rucksack den Nachweis für mein geheimes Startup-Erbe trage, das das Dreifache seines Kontos wert ist. Seine hämischen Blicke brennen wie Frost auf meiner Haut, aber ich lächle innerlich, weil ich genau weiß, dass die goldene Münze im Dreck nur der Anfang seiner Abrechnung ist. Das siehst du im nächsten Teil.'"
+        },
+        {
+          "n": 2,
+          "fix": "Schreibe Level 2 auf über 175 Wörter um, damit echte emotionale Tiefe entsteht: 'Die 8 Level der Wohnungsbesichtigung. Level 2. 1.850 Euro? Du zahlst die Kaution bar im Voraus oder fliegst noch vor der Haustür auf die Fresse, brüllt der Kürbis-Boss und schubst mich von meiner Holzkiste. Ich hocke in dieser staubigen Rohbauwohnung, meine orange Haut riecht nach harter Arbeit auf dem Bau, und jede Zelle meines Körpers rebelliert gegen diese Willkür. Der Boss denkt, er kann mit mir machen, was er will, nur weil auf meiner Stirn ein kleineres Gehalt steht als bei den Bonzen oben. Aber er weiß nicht, dass ich den Schlüsselkasten manipuliert habe und seine illegalen Machenschaften genau dokumentiert sind. Eine glänzende goldene Münze liegt auf dem Estrich als leiser Beweis dafür, dass sein Sturz unmittelbar bevorsteht. Er wird noch bereuen, dass er einen Handwerker so gnadenlos unterschätzt hat. Das siehst du im nächsten Teil.'"
+        },
+        {
+          "n": 3,
+          "fix": "Erhöhe die Wortanzahl auf über 175 Wörter und schärfe den Konflikt: 'Die 8 Level der Wohnungsbesichtigung. Level 3. 2.700 Euro Netto und so eine Fresse? Deine Bewerbung landet direkt im Schredder, höhnt Madame Zitrone und wirft mein sorgfältig gestaltetes Grafik-Portfolio auf den schmutzigen Flurboden. Ich presse meine Hände fest zusammen, um nicht in Tränen auszubrechen, während meine glatte Avocaduhaut vor Wut kocht. Jahrelang habe ich auf diesen Moment gespart, und jetzt nimmt mir diese arrogante Maklerin jede Chance auf ein eigenes Zuhause, nur weil ihr mein Gesicht nicht passt. Doch während sie arrogant auf ihrer goldenen Treppe steht, bemerkt sie nicht einmal die kleine goldene Münze, die halb unter dem Fußabtreter liegt und ihren baldigen Ruin ankündigt. Die Genugtuung wird mein sein, wenn ihr eigener Betrug ans Licht kommt. Das siehst du im nächsten Teil.'"
+        },
+        {
+          "n": 4,
+          "fix": "Bringe den Text auf über 175 Wörter mit klarem Fokus auf Rache und Genugtuung: 'Die 8 Level der Wohnungsbesichtigung. Level 4. 3.800 Euro? Dafür kriegst du nicht mal den Mülleimer im Hof, du Versager, lacht Herr Brokkoli aus dem Nachbarlevel und versperrt mir eiskalt den Weg. Ich schwitze in meinem Hoodie, während ich die Lapsus-Meldungen auf meinem Laptop überprüfe und mir der kalte Angstschweiß über die Kokosnussschale läuft. Als Softwareentwickler leiste ich täglich Überstunden, muss mich aber von solchen Neidern im Treppenhaus verhöhnen lassen. Sie glauben alle, sie wären etwas Besseres, weil sie früher da waren. Aber sie wissen nicht, dass ich längst das gesamte Gebäude aufgekauft habe und ihre Kündigungen bereits im Entwurf bereitliegen. Eine winzige goldene Münze glitzt unter meinem Schuh als Omen für den Moment, in dem ich das Blatt wende. Das siehst du im nächsten Teil.'"
+        },
+        {
+          "n": 5,
+          "fix": "Erweitere Level 5 auf über 175 Wörter für maximale emotionale Wucht: 'Die 8 Level der Wohnungsbesichtigung. Level 5. 5.200 Euro Netto? Halt's Maul, ich kaufe das Haus einfach direkt vor deiner Nase weg, faucht Ben der Handwerker plötzlich und stellt sich mir in den Weg. Meine pinke Pitayahaut funkelt im grellen Sonnenlicht des Foyers, während ich als Ärztin nach zwanzig Stunden Dienst im Krankenhaus nur noch einen Ort zum Ausruhen suche. Diese Respektlosigkeit bricht mir fast das Herz, nachdem ich Leben gerettet habe, während andere nur ruinieren wollen. Doch Ben ahnt nicht, dass der Eigentümer des Hauses mein langjähriger Patient ist, dem ich das Leben gerettet habe und der mir bereits die exklusive Penthouse-Vollmacht unterschrieben hat. Seine arrogante Maske wird in Sekunden bröckeln. Eine goldene Münze blitzt auf der Marmortreppe und führt direkt zu meinem Triumph. Das siehst du im nächsten Teil.'"
+        },
+        {
+          "n": 6,
+          "fix": "Schreibe Level 6 auf über 175 Wörter um, damit der Wendepunkt sitzt: 'Die 8 Level der Wohnungsbesichtigung. Level 6. 7.500 Euro? Du wirst hier öffentlich gedemütigt, weil deine Schufa gefälscht ist, kreischt Lara und zeigt mit dem Finger auf mich, als wäre ich ein Verbrecher. Meine goldene Krone sitzt fest auf meinem maßgeschneiderten Anzug, während ich als Investor in dieser verkommenen Immobilie stehe und mir dieses unwürdige Schauspiel ansehe. Sie wagen es, mich vor versammelter Mannschaft als Betrüger zu entlarven, um selbst an den Mietvertrag zu kommen. Aber sie haben vergessen, dass ich der Hauptinvestor der gesamten Bankengruppe bin, die dieses Viertel finanziert. Ihre vermeintliche Beweisführung ist ein schlechter Witz, der sich in den nächsten Minuten gegen sie selbst wenden wird. Eine goldene Münze funkelt auf dem Mahagonitisch und besiegelt ihr Schicksal. Das siehst du im nächsten Teil.'"
+        },
+        {
+          "n": 7,
+          "fix": "Erweitere Level 7 auf über 175 Wörter für echten Hass und Genugtuung: 'Die 8 Level der Wohnungsbesichtigung. Level 7. 11.200 Euro und trotzdem fliegst du raus, weil wir dich verachten, spottet Sam aus dem Schatten des Penthouses und schlägt mir die schwere Eichentür vor der Nase zu. Meine Zitrone-Haut kocht vor purer Aggression, denn trotz meines enormen Einkommens werde ich hier behandelt wie ein lästiger Bittsteller. Diese arrogante Bande aus Neidern denkt, sie hätte das Spiel gewonnen und könnte mich für immer aus dem Gebäude jagen. Doch sie unterschätzen meine juristischen Kontakte und die Tatsache, dass ich die gesamte Grundschuld auf dieses Grundstück besitze. Ihre Arroganz wird ihr Untergang sein, und sie werden vor mir auf den Knien um Gnade flehen. Eine goldene Münze rollt langsam über das edle Parkett und zeigt auf ihre vernichtende Niederlage. Das siehst du im nächsten Teil.'"
+        },
+        {
+          "n": 8,
+          "fix": "Bringe das Finale auf über 175 Wörter mit einem unvergesslichen Abschluss: 'Die 8 Level der Wohnungsbesichtigung. Level 8. 99.999 Euro. Und jetzt kniet nieder vor dem wahren Eigentümer. Ich stehe auf der goldenen Dachterrasse, die Sonne geht über Berlin unter, und alle sieben Figuren, die mich zuvor gedemütigt und ausgelacht haben, stehen plötzlich fassungslos und stumm vor meinen Mokassins. Jahrelang habe ich im Verborgenen agiert, um die wahren Gesichter aller Mieter und Makler zu entlarven, die hier ihr böses Spiel getrieben haben. Jede Demütigung, jeder herablassende Blick und jede gefälschte Absage wurden akribisch protokolliert. Jetzt fällt ihre Maske für immer, und sie realisieren, dass sie gerade ihre eigenen Kündigungen unterschrieben haben. Eine einzelne goldene Münze liegt schwer und glänzend vor meinen Füßen als Zeichen absoluter Macht und spätter Genugtuung. Die Zahl lügt eben nie. Welches Thema dieser harten Realität sollen wir als Nächstes bringen?'"
+        }
+      ],
+      "fazit": "Die Serie hat eine extrem coole visuelle Grundidee (Gemüse-Metropole mit Stirn-Zahlen), versagt aber komplett bei den harten TikTok-Regeln. Die Texte sind viel zu kurz (weit unter den geforderten 175 Wörtern), klingen wie abgehackte Stichpunkte statt gesprochener Dramatik, und die Hooks verfehlen die emotionale Wucht. Ohne echte, tief sitzende Wut und eine unbändige Sehnsucht nach Rache wischt jeder User nach zwei Sekunden weg."
+    },
+    {
+      "scores": {
+        "hook": 6,
+        "story": 5,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 6,
+        "wut": 5,
+        "merkfaehigkeit": 4,
+        "sprache": 5
+      },
+      "gesamt": 50,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Erschaffe einen härteren Einstieg mit exakter Zahl und direkter Beleidigung: '850 Euro netto? Für so eine miese Schufa kriegst du bei mir nicht mal den Treppeneimer, du Versager!'"
+        },
+        {
+          "n": 2,
+          "fix": "Lass den Gegenspieler sofort handeln statt zu drohen: 'Du zahlst die Kaution in bar oder fliegst noch vor der Haustür auf die Fresse.'"
+        },
+        {
+          "n": 3,
+          "fix": "Konzentriere den Konflikt auf pure Demütigung vor Zeugen: '2.700 Euro Netto und so eine Fresse? Deine Bewerbung landet direkt im Schredder.'"
+        },
+        {
+          "n": 4,
+          "fix": "Verzichte auf schwache Füllsätze und starte direkt mit dem harten Kontrast: '3.800 Euro? Dafür kriegst du nicht mal den Mülleimer im Hof, du Versager.'"
+        },
+        {
+          "n": 5,
+          "fix": "Erhöhe den Verrat: Der Gegenspieler soll ihr die finale Zusage live vor der Nase wegnehmen statt nur zu drohen."
+        },
+        {
+          "n": 6,
+          "fix": "Lass den Investor härter auflaufen: '7.500 Euro? Du wirst hier öffentlich gedemütigt, weil deine Schufa gefälscht ist.'"
+        },
+        {
+          "n": 7,
+          "fix": "Verschärfe den Rauswurf: '11.200 Euro und trotzdem fliegst du raus, weil wir dich verachten.'"
+        },
+        {
+          "n": 8,
+          "fix": "Lass den Milliardär die Maske fallen lassen: '99.999 Euro. Und jetzt kniet nieder vor dem wahren Eigentümer.'"
+        }
+      ],
+      "fazit": "Die Serie hat eine solide Basis mit den Stirnzahlen und Obst-Metaphern, aber es fehlt der absolute, rücksichtslose Druck der Vorbilder. Die Texte sind zu lang, enthalten zu viel erzählenden Ballast statt scharfer Dialoge, und die Demütigungen sind oft zu zahm. Wer nach 2 Sekunden nicht weggewischt werden will, braucht maximale Arroganz und eine sofort spürbare Schere zwischen Arm und Reich."
+    }
+  ]
+}

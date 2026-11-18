@@ -1,0 +1,782 @@
+{
+  "title": "The 8 Levels of Zillow Scrolling",
+  "house": "A bustling neon-lit fruit and vegetable metropolis called Orchard City, where skyscrapers are shaped like giant stacked crates and digital currency numbers glow fiercely on every forehead.",
+  "catchphrase": "The number never lies, but the square footage always does.",
+  "links": [
+    "Level 1 mentions the grumpy pineapple barista at Metro Cafe who drops gold coins into a tip jar.",
+    "Level 2's ruined kitchen features the exact same leaky faucet that floods the apartment in Level 5.",
+    "Level 3's real estate agent drops off a brochure that ends up on the floor in Level 7.",
+    "Level 4's burnt toast scent drifts through the open window into Level 6's hallway.",
+    "Level 5's stolen package is the exact mystery delivery tracked down in Level 8."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "What hidden text message did the landlord send right after kicking her out?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Laughs at her browser history and mocks her for spending four hours looking at a penthouse she could never afford."
+      },
+      "name": "Pip, 22, Intern",
+      "badge": "0 Tabs Left",
+      "verdict": "HOMELESS",
+      "story": "The 8 levels of endless property portal scrolling. Level 1. Level 1: 0 dollars in savings, yet I have 84 open tabs of luxury mansions in Bel-Air. I am Pip, a stressed green apple with a bruised cheek, sitting on the sticky floor of a cramped subway car at 2 AM. My phone screen glows blindingly bright, displaying a seven-million-dollar beachfront villa with an infinity pool. Look at this loser, pretending she is buying a mansion with zero dollars on her forehead. Tears prick my eyes as I clutch my cracked smartphone tighter. You will never even afford the driveway, little fruit. My chest tightens with absolute shame, and I furiously swipe to close all the tabs. What hidden text message did the landlord send right after kicking her out? You'll see that in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+50 $",
+        "after": "50 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of endless property portal scrolling. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 0 dollars in savings, yet I have 84 open tabs of luxury mansions in Bel-Air."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Pip, a stressed green apple with a bruised cheek, sitting on the sticky floor of a cramped subway car at 2 AM."
+        },
+        {
+          "s": "Figur",
+          "t": "My phone screen glows blindingly bright, displaying a seven-million-dollar beachfront villa with an infinity pool."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Look at this loser, pretending she is buying a mansion with zero dollars on her forehead.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Tears prick my eyes as I clutch my cracked smartphone tighter."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You will never even afford the driveway, little fruit.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My chest tightens with absolute shame, and I furiously swipe to close all the tabs."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What hidden text message did the landlord send right after kicking her out?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You will never even afford the driveway, little fruit.",
+      "quote_by": {
+        "level": 6,
+        "name": "Congo",
+        "badge": "14.500 $",
+        "character": "An arrogant brown coconut man with a hard shell, wearing a crisp charcoal suit and holding a gold-plated fountain pen.",
+        "scene": "A crowded subway car at night where a coconut man looks down with extreme condescension at a small green apple."
+      },
+      "stats": [
+        {
+          "label": "Savings",
+          "value": "0 $",
+          "bar": 0.01
+        },
+        {
+          "label": "Open Tabs",
+          "value": "84",
+          "bar": 0.95
+        },
+        {
+          "label": "Hope",
+          "value": "12 %",
+          "bar": 0.12
+        }
+      ],
+      "character": "A young green apple person with a bruised cheek, wearing an oversized faded hoodie and clutching a cracked smartphone. On her forehead, a glowing digital display reads 0 Tabs Left.",
+      "visual": "Wide shot of a crowded, dimly lit subway car at night, featuring a green apple woman crying over a glowing phone screen while passengers ignore her.",
+      "scenes": [
+        "Wide shot of a crowded subway interior at midnight with flickering fluorescent lights and tired fruit commuters gripping overhead straps.",
+        "Close-up of a cracked smartphone screen showing a gorgeous multi-million dollar luxury villa listing with hundreds of open browser tabs.",
+        "Medium shot of a smug coconut man in a sharp suit leaning over and pointing derisively at the apple woman's forehead display.",
+        "Detail shot of a small, hidden gold coin resting precariously on the dusty edge of a subway seat metal bar.",
+        "Over-the-shoulder shot showing tearful green eyes staring at a rejection email notification banner.",
+        "Close-up of trembling fingers tapping frantically on the phone screen to close all active property tabs."
+      ],
+      "caption": "Have you ever scrolled Zillow at 3 AM just to escape reality? Drop your current tab count! #zillowsurfer #appledrama #propertyportal #brokehabits #trashreality"
+    },
+    {
+      "n": 2,
+      "open_loop": "Whose name was actually signed on the mysterious cashier's check?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Throws away her printed mortgage application without even reading the figures."
+      },
+      "name": "Brix, 25, Barista",
+      "badge": "1.850 $",
+      "verdict": "RENTER FOREVER",
+      "story": "The 8 levels of endless property portal scrolling. Level 2. Level 2: 1,850 dollars a month salary, and I spent three hours touring a 12 million dollar penthouse in downtown Manhattan. I am Brix, a zesty yellow lemon person with a permanent sour frown, wiping down the stainless steel espresso machine at Metro Cafe. Stop wasting your life on housing apps, tiny citrus, nobody wants a broker with your wage. My teeth grind together so hard my jaw aches. I am just looking for a better future, I snap back, my voice trembling. Nobody wants a broker with your wage. He laughs coldly, flashing his glowing Level 4 badge of 6,200 dollars. My face burns hot red with absolute humiliation as I pick up the crumpled paper. Whose name was actually signed on the mysterious cashier's check? You'll see that in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+300 $",
+        "after": "2.150 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of endless property portal scrolling. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 1,850 dollars a month salary, and I spent three hours touring a 12 million dollar penthouse in downtown Manhattan."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Brix, a zesty yellow lemon person with a permanent sour frown, wiping down the stainless steel espresso machine at Metro Cafe."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Stop wasting your life on housing apps, tiny citrus, nobody wants a broker with your wage.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My teeth grind together so hard my jaw aches. I am just looking for a better future, I snap back, my voice trembling."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Nobody wants a broker with your wage.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "He laughs coldly, flashing his glowing Level 4 badge of 6,200 dollars."
+        },
+        {
+          "s": "Figur",
+          "t": "My face burns hot red with absolute humiliation as I pick up the crumpled paper."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Whose name was actually signed on the mysterious cashier's check?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Stop wasting your life on housing apps, tiny citrus, nobody wants a broker with your wage.",
+      "quote_by": {
+        "level": 4,
+        "name": "Tangelo",
+        "badge": "6.200 $",
+        "character": "A smooth-skinned orange man wearing an expensive cashmere turtleneck and holding a titanium credit card.",
+        "scene": "A bustling cafe counter where an orange man aggressively tosses paper onto a lemon barista's workspace."
+      },
+      "stats": [
+        {
+          "label": "Monthly Net",
+          "value": "1.850 $",
+          "bar": 0.2
+        },
+        {
+          "label": "Tab Count",
+          "value": "120",
+          "bar": 0.4
+        },
+        {
+          "label": "Caffeine",
+          "value": "99 %",
+          "bar": 0.99
+        }
+      ],
+      "character": "A sour yellow lemon person wearing a stained green apron and a silver name tag. On his bright forehead, a glowing display reads 1.850 $.",
+      "visual": "Medium shot of a yellow lemon barista standing behind a gleaming espresso bar, glaring angrily at a customer.",
+      "scenes": [
+        "Medium shot of a busy urban cafe interior with steam rising from coffee machines and customers chatting.",
+        "Close-up of a lemon barista's sour face wiping down a steel counter with a dirty cloth.",
+        "Over-the-shoulder shot of an orange man in a cashmere turtleneck slamming a paper onto the counter.",
+        "Detail shot of a tiny gold coin hiding inside the handle of a ceramic coffee mug on the shelf.",
+        "Close-up of trembling yellow fingers unfolding a crumpled piece of paper with handwriting.",
+        "Wide shot of the cafe dining area with other fruit patrons turning their heads in judgment."
+      ],
+      "caption": "Minimum wage income with billionaire taste on Zillow. Who else does this? #lemondrama #baristalife #zillowaddict #rentcrisis #realityshow"
+    },
+    {
+      "n": 3,
+      "open_loop": "What secret blueprint was folded inside the real estate agent's leather briefcase?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Rejects her loan pre-approval letter in front of a packed open house crowd."
+      },
+      "name": "Brooke, 29, Graphic Designer",
+      "badge": "3.400 $",
+      "verdict": "ALMOST THERE",
+      "story": "The 8 levels of endless property portal scrolling. Level 3. Level 3: 3,400 dollars net income, yet I spent my entire weekend attending open houses for multi-million dollar estates I will never own. I am Brooke, a vibrant head of curly green broccoli florets, standing in the marble foyer of a modern mansion. You brought a freelance designer to a five-million-dollar showing? How utterly embarrassing for you. My cheeks burn instantly and I grip the strap of my canvas tote bag until my knuckles turn white. I am seriously interested, I stammer, my voice echoing off the vaulted ceilings. How utterly embarrassing for you. She laughs in my face, her glowing Level 5 badge flashing 9,800 dollars on her pink-scaled forehead. What secret blueprint was folded inside the real estate agent's leather briefcase? You'll see that in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "+800 $",
+        "after": "4.200 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of endless property portal scrolling. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 3,400 dollars net income, yet I spent my entire weekend attending open houses for multi-million dollar estates I will never own."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Brooke, a vibrant head of curly green broccoli florets, standing in the marble foyer of a modern mansion."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You brought a freelance designer to a five-million-dollar showing? How utterly embarrassing for you.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My cheeks burn instantly and I grip the strap of my canvas tote bag until my knuckles turn white."
+        },
+        {
+          "s": "Figur",
+          "t": "I am seriously interested, I stammer, my voice echoing off the vaulted ceilings."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "How utterly embarrassing for you.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "She laughs in my face, her glowing Level 5 badge flashing 9,800 dollars on her pink-scaled forehead."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What secret blueprint was folded inside the real estate agent's leather briefcase?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "You brought a freelance designer to a five-million-dollar showing? How utterly embarrassing for you.",
+      "quote_by": {
+        "level": 5,
+        "name": "Pitaya",
+        "badge": "9.800 $",
+        "character": "An exotic pink dragonfruit woman with green leaf tips, wearing a high-fashion silk blazer and expensive sunglasses.",
+        "scene": "A luxurious marble mansion foyer where a dragonfruit woman looks down her nose at a broccoli designer."
+      },
+      "stats": [
+        {
+          "label": "Net Income",
+          "value": "3.400 $",
+          "bar": 0.45
+        },
+        {
+          "label": "Open Houses",
+          "value": "24",
+          "bar": 0.7
+        },
+        {
+          "label": "Self-Worth",
+          "value": "35 %",
+          "bar": 0.35
+        }
+      ],
+      "character": "A green broccoli person with tightly packed curly florets, wearing a stylish denim jacket and carrying a cotton tote. Her forehead glows with 3.400 $.",
+      "visual": "Wide shot of a luxurious modern mansion interior with marble floors and grand staircases, featuring a broccoli woman looking humiliated.",
+      "scenes": [
+        "Wide shot of a grand sunlit luxury mansion entryway with high ceilings and polished stone flooring.",
+        "Medium shot of a broccoli woman holding a canvas tote bag while looking around nervously.",
+        "Close-up of a glamorous dragonfruit woman sneering and pointing at a badge.",
+        "Detail shot of a small gold coin resting on the corner of a white marble stair step.",
+        "Close-up of shaking hands holding a crumpled pre-approval letter.",
+        "Wide shot of other wealthy fruit guests whispering and looking away from the protagonist."
+      ],
+      "caption": "Going to open houses just to feel something when you have 3.4k income. Who relates? #broccolidrama #openhouse #realestateaddict #freelancelife #drama"
+    },
+    {
+      "n": 4,
+      "open_loop": "Why did the security guard immediately lock the front gates after she stepped outside?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Threatens to call the police for trespassing during a private luxury property viewing."
+      },
+      "name": "Tangelo, 31, Mid-Level Manager",
+      "badge": "6.200 $",
+      "verdict": "MID-TIER TRAPPED",
+      "story": "The 8 levels of endless property portal scrolling. Level 4. Level 4: 6,200 dollars a month, and I am still priced out of every decent neighborhood in the city. I am Tangelo, a smooth orange-peel man wearing my favorite cashmere turtleneck, standing inside a sleek glass-walled condo. You are taking up space reserved for actual buyers, step aside peasant. My breath catches in my throat and my orange skin flushes a deep, angry crimson. I earn a very respectable salary, I snap back, stepping forward. Step aside peasant. She gives a harsh, patronizing chuckle, revealing her glowing Level 7 badge of 22,000 dollars on her crown. Why did the security guard immediately lock the front gates after she stepped outside? You'll see that in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "-1.200 $",
+        "after": "5.000 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of endless property portal scrolling. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 6,200 dollars a month, and I am still priced out of every decent neighborhood in the city."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Tangelo, a smooth orange-peel man wearing my favorite cashmere turtleneck, standing inside a sleek glass-walled condo."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are taking up space reserved for actual buyers, step aside peasant.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My breath catches in my throat and my orange skin flushes a deep, angry crimson."
+        },
+        {
+          "s": "Figur",
+          "t": "I earn a very respectable salary, I snap back, stepping forward."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Step aside peasant.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "She gives a harsh, patronizing chuckle, revealing her glowing Level 7 badge of 22,000 dollars on her crown."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Why did the security guard immediately lock the front gates after she stepped outside?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "You are taking up space reserved for actual buyers, step aside peasant.",
+      "quote_by": {
+        "level": 7,
+        "name": "Berry",
+        "badge": "22.000 $",
+        "character": "An immaculate red strawberry woman covered in golden seeds, wearing a diamond choker and designer velvet coat.",
+        "scene": "A modern glass condo living room where a strawberry woman dismisses an orange man with a wave of her hand."
+      },
+      "stats": [
+        {
+          "label": "Monthly Net",
+          "value": "6.200 $",
+          "bar": 0.6
+        },
+        {
+          "label": "Saved Deposit",
+          "value": "45.000 $",
+          "bar": 0.5
+        },
+        {
+          "label": "Frustration",
+          "value": "88 %",
+          "bar": 0.88
+        }
+      ],
+      "character": "A smooth orange person with dimpled skin, wearing a luxury cashmere turtleneck and holding a designer leather folio. His forehead badge glows with 6.200 $.",
+      "visual": "Medium shot of a sleek modern glass-walled apartment with city views, featuring an angry orange man confronting a wealthy strawberry woman.",
+      "scenes": [
+        "Medium shot of a high-rise luxury apartment interior with floor-to-ceiling glass windows showing city skylines.",
+        "Close-up of an orange man's face turning crimson with frustration and disbelief.",
+        "Medium shot of a proud strawberry woman flashing her high-tier forehead display.",
+        "Detail shot of a small gold coin embedded in the grout of the apartment's hardwood flooring.",
+        "Close-up of a smartphone screen showing a sudden emergency bank account deduction alert.",
+        "Wide shot of the building lobby where security guards watch an expelled visitor leave."
+      ],
+      "caption": "When 6k a month isn't even enough to look at a starter home anymore. Make it make sense! #tangelodrama #housingmarket #middleclass #zillowfail #dramatiktok"
+    },
+    {
+      "n": 5,
+      "open_loop": "Who transferred 50,000 dollars into her account right before the auction closed?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Laughs at her failed mortgage bid while serving her a cheap cup of black coffee."
+      },
+      "name": "Pitaya, 34, Senior Architect",
+      "badge": "9.800 $",
+      "verdict": "OUTBID AGAIN",
+      "story": "The 8 levels of endless property portal scrolling. Level 5. Level 5: 9,800 dollars a month, yet I just lost my dream house to an all-cash offer for the third time this month. I am Pitaya, a vibrant pink dragonfruit woman with spiky green crown leaves, sitting alone in my rented studio apartment surrounded by architectural blueprints. Still crying over houses you can't actually win, dragon? My temper flares instantly and my spikes bristle with pure rage. Watch your mouth, barkeep, you do not know my struggles, I snap, slamming my laptop shut. At least I don't pretend to be a tycoon. He flashes his pathetic Level 2 badge of 1,850 dollars and scoffs. Who transferred 50,000 dollars into her account right before the auction closed? You'll see that in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+50.000 $",
+        "after": "59.800 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of endless property portal scrolling. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 9,800 dollars a month, yet I just lost my dream house to an all-cash offer for the third time this month."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Pitaya, a vibrant pink dragonfruit woman with spiky green crown leaves, sitting alone in my rented studio apartment surrounded by architectural blueprints."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Still crying over houses you can't actually win, dragon?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My temper flares instantly and my spikes bristle with pure rage."
+        },
+        {
+          "s": "Figur",
+          "t": "Watch your mouth, barkeep, you do not know my struggles, I snap, slamming my laptop shut."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "At least I don't pretend to be a tycoon.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "He flashes his pathetic Level 2 badge of 1,850 dollars and scoffs."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Who transferred 50,000 dollars into her account right before the auction closed?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Still crying over houses you can't actually win, dragon?",
+      "quote_by": {
+        "level": 2,
+        "name": "Brix",
+        "badge": "1.850 $",
+        "character": "A sour yellow lemon man wearing an apron and holding a takeout paper bag with an insolent grin.",
+        "scene": "A cluttered architectural studio desk where a lemon delivery worker mocks a pink dragonfruit designer."
+      },
+      "stats": [
+        {
+          "label": "Monthly Net",
+          "value": "9.800 $",
+          "bar": 0.75
+        },
+        {
+          "label": "Lost Bids",
+          "value": "14",
+          "bar": 0.9
+        },
+        {
+          "label": "Ambition",
+          "value": "95 %",
+          "bar": 0.95
+        }
+      ],
+      "character": "A pink dragonfruit woman with distinct green-tipped skin flaps, wearing a modern minimalist white blazer. Her glowing forehead badge reads 9.800 $.",
+      "visual": "Medium shot of a creative studio filled with blueprints and design models, featuring an enraged dragonfruit architect staring at a laptop.",
+      "scenes": [
+        "Medium shot of a sunlit architectural studio covered in large blueprint papers and scale models.",
+        "Close-up of a pink dragonfruit woman's face showing intense frustration and anger.",
+        "Medium shot of a yellow lemon delivery worker holding a paper bag and smirking.",
+        "Detail shot of a small gold coin resting on the base of a miniature skyscraper model.",
+        "Close-up of a smartphone screen showing a massive unexpected wire transfer notification.",
+        "Wide shot of the studio interior with coworkers watching the tense confrontation."
+      ],
+      "caption": "Earning nearly 10k a month and still getting outbid on every single house. Unbelievable! #pitayadrama #architectlife #housingmarket #zillowrage #viralvideo"
+    },
+    {
+      "n": 6,
+      "open_loop": "What dark secret was written inside the property deed handed to her by the judge?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Insults his expensive suit while begging for loose change outside the courthouse."
+      },
+      "name": "Congo, 39, Tech Executive",
+      "badge": "14.500 $",
+      "verdict": "CASH IS KING",
+      "story": "The 8 levels of endless property portal scrolling. Level 6. Level 6: 14,500 dollars monthly net, and I still spend my weekends bidding on multi-million dollar compounds just to feel powerful. I am Congo, a sturdy brown coconut man with a hard fibrous husk, wearing a custom charcoal suit. As I step out of my luxury sports car, a battered green apple intern named Pip approaches me asking for spare change. Get a real job instead of staring at luxury listings on a broken phone, loser. I sneer, flashing my glowing Level 6 badge of 14,500 dollars to remind everyone who rules this city. I have wealth, power, and absolute control over every property deal in Orchard City. As I walk up the courthouse steps to finalize my latest mansion purchase, the bailiff hands me an unexpected legal document. What dark secret was written inside the property deed handed to her by the judge? You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "-5.000 $",
+        "after": "9.500 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of endless property portal scrolling. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 14,500 dollars monthly net, and I still spend my weekends bidding on multi-million dollar compounds just to feel powerful."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Congo, a sturdy brown coconut man with a hard fibrous husk, wearing a custom charcoal suit."
+        },
+        {
+          "s": "Figur",
+          "t": "As I step out of my luxury sports car, a battered green apple intern named Pip approaches me asking for spare change."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Get a real job instead of staring at luxury listings on a broken phone, loser.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I sneer, flashing my glowing Level 6 badge of 14,500 dollars to remind everyone who rules this city."
+        },
+        {
+          "s": "Figur",
+          "t": "I have wealth, power, and absolute control over every property deal in Orchard City."
+        },
+        {
+          "s": "Figur",
+          "t": "As I walk up the courthouse steps to finalize my latest mansion purchase, the bailiff hands me an unexpected legal document."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What dark secret was written inside the property deed handed to her by the judge?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "Get a real job instead of staring at luxury listings on a broken phone, loser.",
+      "quote_by": {
+        "level": 1,
+        "name": "Pip",
+        "badge": "0 Tabs Left",
+        "character": "A young bruised green apple woman in an oversized hoodie holding a cracked phone.",
+        "scene": "A concrete sidewalk outside a courthouse where a coconut executive brushes past a crying intern."
+      },
+      "stats": [
+        {
+          "label": "Monthly Net",
+          "value": "14.500 $",
+          "bar": 0.88
+        },
+        {
+          "label": "Properties",
+          "value": "6",
+          "bar": 0.85
+        },
+        {
+          "label": "Ego",
+          "value": "99 %",
+          "bar": 0.99
+        }
+      ],
+      "character": "A sturdy brown coconut man with a fibrous shell, wearing an expensive charcoal business suit and a gold watch. His forehead badge glows with 14.500 $.",
+      "visual": "Medium shot of a confident coconut executive stepping out of a sports car in front of a grand marble courthouse.",
+      "scenes": [
+        "Medium shot of a grand marble courthouse exterior with massive pillars and stone steps.",
+        "Close-up of a brown coconut man wearing a sharp suit with an arrogant smirk.",
+        "Medium shot of a crying green apple intern holding a cracked phone on the sidewalk.",
+        "Detail shot of a small gold coin resting on the polished metal handle of courthouse doors.",
+        "Close-up of a legal property deed document with official red wax seals.",
+        "Wide shot of a courtroom interior with a judge tapping a wooden gavel."
+      ],
+      "caption": "When you make 14.5k a month and think you own the world until karma hits. #coconutdrama #executivelife #courthouse #zillowking #realitytv"
+    },
+    {
+      "n": 7,
+      "open_loop": "Whose signature was missing from the multi-million dollar title transfer?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Mocks her portfolio design while she attempts to pitch a marketing concept for the estate."
+      },
+      "name": "Berry, 42, Real Estate Mogul",
+      "badge": "22.000 $",
+      "verdict": "ELITE TIER",
+      "story": "The 8 levels of endless property portal scrolling. Level 7. Level 7: 22,000 dollars monthly net, and I own four luxury penthouses yet I still spend my nights scrolling through listings for private islands. I am Berry, a flawless red strawberry woman covered in glistening golden seeds, draped in designer velvet. At my exclusive private auction, a freelance broccoli designer named Brooke tries to present a marketing pitch. You honestly think a freelancer with pocket change can afford to advise on this estate? She stammers and flushes green with humiliation, gripping her cheap tote bag. I flash my glowing Level 7 badge of 22,000 dollars, making sure everyone sees her total insignificance. Know your place, amateur, this room is for real players only. Whose signature was missing from the multi-million dollar title transfer? You'll see that in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "-8.000 $",
+        "after": "14.000 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of endless property portal scrolling. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 22,000 dollars monthly net, and I own four luxury penthouses yet I still spend my nights scrolling through listings for private islands."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Berry, a flawless red strawberry woman covered in glistening golden seeds, draped in designer velvet."
+        },
+        {
+          "s": "Figur",
+          "t": "At my exclusive private auction, a freelance broccoli designer named Brooke tries to present a marketing pitch."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You honestly think a freelancer with pocket change can afford to advise on this estate?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "She stammers and flushes green with humiliation, gripping her cheap tote bag."
+        },
+        {
+          "s": "Figur",
+          "t": "I flash my glowing Level 7 badge of 22,000 dollars, making sure everyone sees her total insignificance."
+        },
+        {
+          "s": "Figur",
+          "t": "Know your place, amateur, this room is for real players only."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Whose signature was missing from the multi-million dollar title transfer?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "You honestly think a freelancer with pocket change can afford to advise on this estate?",
+      "quote_by": {
+        "level": 3,
+        "name": "Brooke",
+        "badge": "3.400 $",
+        "character": "A curly green broccoli woman wearing a denim jacket and holding a canvas tote bag.",
+        "scene": "A lavish auction ballroom where a strawberry mogul humiliates a broccoli designer in front of investors."
+      },
+      "stats": [
+        {
+          "label": "Monthly Net",
+          "value": "22.000 $",
+          "bar": 0.95
+        },
+        {
+          "label": "Properties",
+          "value": "12",
+          "bar": 0.95
+        },
+        {
+          "label": "Control",
+          "value": "98 %",
+          "bar": 0.98
+        }
+      ],
+      "character": "A flawless red strawberry woman with prominent golden seeds, wearing a crimson velvet evening gown and diamond jewelry. Her forehead badge glows with 22.000 $.",
+      "visual": "Medium shot of an opulent auction ballroom with crystal chandeliers, featuring a confident strawberry mogul addressing investors.",
+      "scenes": [
+        "Medium shot of a luxurious crystal-lit auction hall filled with wealthy fruit elites in evening wear.",
+        "Close-up of a red strawberry woman smiling with supreme confidence and pride.",
+        "Medium shot of a broccoli designer looking humiliated while holding a design portfolio.",
+        "Detail shot of a small gold coin resting on the rim of a crystal champagne flute on a silver tray.",
+        "Close-up of a legal contract page missing a crucial ink signature at the bottom.",
+        "Wide shot of the ballroom guests gasping as auction screens flicker and turn red."
+      ],
+      "caption": "Earning 22k a month and ruling the real estate market until one missing signature ruins everything. #strawberryqueen #luxuryauction #zillowmogul #dramatiktok #wealth"
+    },
+    {
+      "n": 8,
+      "open_loop": "Which topic of our digital life obsession should we uncover in the next series?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Refuses to hand over the master keys to the city housing board after the grand systemic collapse."
+      },
+      "name": "Melon, 55, The Grand Mayor",
+      "badge": "UNLIMITED",
+      "verdict": "OWNER OF ALL",
+      "story": "The 8 levels of endless property portal scrolling. Level 8. The final level. Level 8: Unlimited numbers on my forehead, yet I own every single square foot of Orchard City, and I started just like all of you. I am Melon, a massive striped watermelon elder with a polished smooth rind, sitting in the towering glass penthouse overlooking the entire metropolis. Every single character you saw in Levels 1 through 7 worked inside my properties, drank my coffee, and scrolled through my portal apps. You built an empire on broken dreams and fake listings. I smile calmly, tapping my glowing forehead where the infinity symbol burns in bright neon light. The number on your forehead never defined your worth, it only measured your hunger. Which topic of our digital life obsession should we uncover in the next series?",
+      "gender": "m",
+      "twist": {
+        "delta": "RESET",
+        "after": "INFINITY"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of endless property portal scrolling. Level 8. The final level."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: Unlimited numbers on my forehead, yet I own every single square foot of Orchard City, and I started just like all of you."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Melon, a massive striped watermelon elder with a polished smooth rind, sitting in the towering glass penthouse overlooking the entire metropolis."
+        },
+        {
+          "s": "Figur",
+          "t": "Every single character you saw in Levels 1 through 7 worked inside my properties, drank my coffee, and scrolled through my portal apps."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You built an empire on broken dreams and fake listings.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I smile calmly, tapping my glowing forehead where the infinity symbol burns in bright neon light."
+        },
+        {
+          "s": "Figur",
+          "t": "The number on your forehead never defined your worth, it only measured your hunger."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Which topic of our digital life obsession should we uncover in the next series?"
+        }
+      ],
+      "quote": "The number on your forehead never defined your worth, it only measured your hunger.",
+      "quote_by": {
+        "level": 4,
+        "name": "Tangelo",
+        "badge": "5.000 $",
+        "character": "An orange man in a cashmere turtleneck pointing an accusing finger in a high-rise office.",
+        "scene": "A panoramic penthouse office overlooking a glowing city where a watermelon elder confronts an orange manager."
+      },
+      "stats": [
+        {
+          "label": "Net Worth",
+          "value": "∞",
+          "bar": 1.0
+        },
+        {
+          "label": "City Control",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Legacy",
+          "value": "ETERNAL",
+          "bar": 1.0
+        }
+      ],
+      "character": "A majestic striped watermelon elder with a polished dark green rind, wearing a bespoke silk mayoral sash. His forehead badge glows with an infinity symbol.",
+      "visual": "Wide panoramic shot of a luxurious high-rise penthouse office at sunset overlooking a sprawling neon fruit metropolis.",
+      "scenes": [
+        "Wide cinematic shot of a towering glass penthouse office with a panoramic view of Orchard City at sunset.",
+        "Close-up of a striped watermelon elder smiling wisely with an infinity sign glowing on his forehead.",
+        "Medium shot of an orange manager confronting the mayor with an angry expression.",
+        "Detail shot of a large pure gold coin resting on a massive mahogany executive desk.",
+        "Close-up of digital city holographic screens flickering and resetting simultaneously.",
+        "Wide final shot of all eight fruit characters looking up at the glowing city skyline together."
+      ],
+      "caption": "The final level of Zillow scrolling. The number never defines you! What obsession should we do next? Comment below! #melonmayor #theend #zillowseries #fruitcity #viral"
+    }
+  ],
+  "lang": "en",
+  "topic": "Das stundenlange Scrollen durch Immobilien-Portale ohne Kaufabsicht",
+  "frame": "frucht"
+}

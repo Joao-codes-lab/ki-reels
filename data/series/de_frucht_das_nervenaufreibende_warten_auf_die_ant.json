@@ -1,0 +1,736 @@
+{
+  "title": "Die 8 Level der Wohnungsbesichtigung",
+  "house": "A bustling metropolis populated by anthropomorphic fruit and vegetable people, where neon-lit digital currency badges glow brightly on everyone's foreheads, featuring grey concrete apartment blocks, damp tram stops, and misty parks.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Level 1 mentions seeing a stressed grapefruit rushing to a bus stop, who is actually the stressed tenant from Level 4.",
+    "Level 2 hears about a giant avocado landlord giving away keys in a nearby park, connecting to Level 5.",
+    "Level 3 finds a half-eaten pomegranate donut on the floor, dropped by the protagonist of Level 6.",
+    "Level 4 spots a glowing melon sign across the street, belonging to the high-roller from Level 7.",
+    "Level 5 passes by the exact cafe where the dramatic breakup of Level 1 takes place.",
+    "Level 6 notices a red dragonfruit manager arguing on the phone about a massive rental deposit.",
+    "Level 7 mentions a struggling strawberry applicant evicted from the same building last week.",
+    "Level 8 resolves all hidden background clues, showing how every fruit crossed paths at the tram station."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was stand in der ultimativen Absage, die das Schicksal der kleinen Erdbeere besiegelte?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Lacht sie wegen ihres winzigen Gehalts aus und wirft ihre Bewerbungsmappe in den Dreck."
+      },
+      "name": "Mia, 21, Auszubildende",
+      "badge": "850 € netto",
+      "verdict": "CHANCE LSL",
+      "story": "Die 8 Level der Wohnungsbesichtigung. Level 1. 850 Euro Netto? Mit dir putzen wir hier gleich nur noch die Treppe, du Abschaum, zischt Dr. Granatapfel und tritt meine Bewerbungsmappe in den nassen Rinnstein. Ich stehe im strömenden Regen vor dem heruntergekommenen Altbau in Neukölln, während meine roten Erdbeerblätter vor Kälte und Demütigung zittern. Seit Monaten suche ich verzweifelt ein Zimmer, während dieser arrogante Investor jede günstige Wohnung blockiert. Doch er ahnt nicht, dass ich im Rucksack den Nachweis für mein geheimes Startup-Erbe trage, das das Dreifache seines Kontos wert ist. Seine hämischen Blicke brennen wie Frost auf meiner Haut, aber ich lächle innerlich, weil ich genau weiß, dass die goldene Münze im Dreck nur der Anfang seiner Abrechnung ist. Das siehst du im nächsten Teil. Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+350 €",
+        "after": "1.200 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Wohnungsbesichtigung. Level 1."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "850 Euro Netto? Mit dir putzen wir hier gleich nur noch die Treppe, du Abschaum, zischt Dr. Granatapfel und tritt meine Bewerbungsmappe in den nassen Rinnstein.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im strömenden Regen vor dem heruntergekommenen Altbau in Neukölln, während meine roten Erdbeerblätter vor Kälte und Demütigung zittern."
+        },
+        {
+          "s": "Figur",
+          "t": "Seit Monaten suche ich verzweifelt ein Zimmer, während dieser arrogante Investor jede günstige Wohnung blockiert."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch er ahnt nicht, dass ich im Rucksack den Nachweis für mein geheimes Startup-Erbe trage, das das Dreifache seines Kontos wert ist."
+        },
+        {
+          "s": "Figur",
+          "t": "Seine hämischen Blicke brennen wie Frost auf meiner Haut, aber ich lächle innerlich, weil ich genau weiß, dass die goldene Münze im Dreck nur der Anfang seiner Abrechnung ist."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du im nächsten Teil."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "850 Euro Netto? Mit dir putzen wir hier gleich nur noch die Treppe, du Abschaum.",
+      "quote_by": {
+        "level": 6,
+        "name": "Dr. Granatapfel",
+        "badge": "6.800 € netto",
+        "character": "An anthropomorphic pomegranate person with a ruby-red crown of hard arils, wearing a strict black designer suit and holding a gold-plated pen.",
+        "scene": "Close-up shot of the pomegranate man looking down his nose in a brightly lit hallway, sneering at a trembling strawberry."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "850 €",
+          "bar": 0.1
+        },
+        {
+          "label": "Schufa",
+          "value": "Neutral",
+          "bar": 0.4
+        },
+        {
+          "label": "Chancen",
+          "value": "0 %",
+          "bar": 0.05
+        }
+      ],
+      "character": "An adorable anthropomorphic strawberry person with bright red skin covered in tiny seed pits, wearing a damp pink cotton jacket, carrying a frayed paper folder; a glowing digital badge on her forehead reads 850 € netto.",
+      "visual": "Wide shot of a shivering anthropomorphic strawberry person standing outside a grand, wet Berlin apartment building under grey skies, looking at a rejection letter in her hand.",
+      "scenes": [
+        "Exterior shot of a grey Berlin apartment block in heavy rain, gloomy atmosphere with a lone strawberry standing on the wet pavement holding a paper folder.",
+        "Close-up shot on the wet pavement showing a tiny hidden golden coin resting next to a discarded cigarette butt.",
+        "Medium shot in the echoing entrance hall, with a stern pomegranate figure in a sharp suit pointing dismissively toward the heavy oak exit door.",
+        "Detail shot of the smartphone screen displaying a vibrating incoming notification with glowing numbers against the dark background.",
+        "Wide shot of a crowded tram station in the evening mist, with various vegetable commuters rushing past in blurry motion.",
+        "Close-up of the strawberry's determined face, tears reflecting the neon streetlights, clutching her red jacket tightly."
+      ],
+      "caption": "Wer kennt den Frust bei der Wohnungssuche? #wohnungsbesichtigung #mietwahnsinn #erdbeere #traumwohnung #berlin"
+    },
+    {
+      "n": 2,
+      "open_loop": "Welches schockierende Geheimnis verbarg sich hinter der vermeintlichen Zusage im zweiten Stock?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Nimmt ihr die Kaution weg und behauptet, ihre Bürgschaft wäre gefälscht."
+      },
+      "name": "Ben, 25, Handwerker",
+      "badge": "1.850 € netto",
+      "verdict": "KNAPP DRAN",
+      "story": "Die 8 Level der Wohnungsbesichtigung. Level 2. 1.850 Euro? Du zahlst die Kaution bar im Voraus oder fliegst noch vor der Haustür auf die Fresse, brüllt der Kürbis-Boss und schubst mich von meiner Holzkiste. Ich hocke in dieser staubigen Rohbauwohnung, meine orange Haut riecht nach harter Arbeit auf dem Bau, und jede Zelle meines Körpers rebelliert gegen diese Willkür. Der Boss denkt, er kann mit mir machen, was er will, nur weil auf meiner Stirn ein kleineres Gehalt steht als bei den Bonzen oben. Aber er weiß nicht, dass ich den Schlüsselkasten manipuliert habe und seine illegalen Machenschaften genau dokumentiert sind. Eine glänzende goldene Münze liegt auf dem Estrich als leiser Beweis dafür, dass sein Sturz unmittelbar bevorsteht. Das siehst du im nächsten Teil. Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+500 €",
+        "after": "2.350 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Wohnungsbesichtigung. Level 2."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "1.850 Euro? Du zahlst die Kaution bar im Voraus oder fliegst noch vor der Haustür auf die Fresse, brüllt der Kürbis-Boss und schubst mich von meiner Holzkiste.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich hocke in dieser staubigen Rohbauwohnung, meine orange Haut riecht nach harter Arbeit auf dem Bau, und jede Zelle meines Körpers rebelliert gegen diese Willkür."
+        },
+        {
+          "s": "Figur",
+          "t": "Der Boss denkt, er kann mit mir machen, was er will, nur weil auf meiner Stirn ein kleineres Gehalt steht als bei den Bonzen oben."
+        },
+        {
+          "s": "Figur",
+          "t": "Aber er weiß nicht, dass ich den Schlüsselkasten manipuliert habe und seine illegalen Machenschaften genau dokumentiert sind."
+        },
+        {
+          "s": "Figur",
+          "t": "Eine glänzende goldene Münze liegt auf dem Estrich als leiser Beweis dafür, dass sein Sturz unmittelbar bevorsteht."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du im nächsten Teil."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "1.850 Euro? Du zahlst die Kaution in bar oder fliegst noch vor der Haustür auf die Fresse.",
+      "quote_by": {
+        "level": 5,
+        "name": "Kürbis-Boss",
+        "badge": "4.500 € netto",
+        "character": "An arrogant, rotund orange pumpkin person with thick ribbed skin, wearing a high-end tweed jacket and a gold watch.",
+        "scene": "Wide shot of a dusty unfinished apartment interior where the pumpkin landlord points aggressively at a worker."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "1.850 €",
+          "bar": 0.25
+        },
+        {
+          "label": "Schufa",
+          "value": "Gut",
+          "bar": 0.6
+        },
+        {
+          "label": "Chancen",
+          "value": "15 %",
+          "bar": 0.2
+        }
+      ],
+      "character": "An energetic anthropomorphic orange fruit person with textured citrus skin, wearing a sturdy blue worker's overall, carrying a heavy metal toolkit; a bright digital display on his forehead shows 1.850 € netto.",
+      "visual": "Medium shot of an orange fruit person in blue overalls sitting on a wooden crate inside an empty, dusty flat, looking up defiantly.",
+      "scenes": [
+        "Medium shot inside an empty, dusty flat with exposed brick walls and scattered drywall dust.",
+        "Detail shot of a tiny golden coin lying right next to a pile of gray construction rubble on the floor.",
+        "Two-shot of the angry orange worker facing a bulky pumpkin landlord in a tweed vest.",
+        "Close-up on the orange worker's rugged citrus skin glistening with a bead of sweat under harsh work lights.",
+        "Wide shot of a Berlin side street filled with parked delivery vans and cycling commuters.",
+        "Detail shot of the digital forehead badge flickering as the numerical value fluctuates upward."
+      ],
+      "caption": "Handwerker haben es schwer auf dem Wohnungsmarkt! #handwerker #wohnungssuche #miete #orange #berlinlife"
+    },
+    {
+      "n": 3,
+      "open_loop": "Was war der wahre Grund für den plötzlichen Rauswurf aus dem Nobelviertel?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Kündigt den Besichtigungstermin per Sprachnachricht einseitig und ohne Angabe von Gründen."
+      },
+      "name": "Lara, 28, Grafikerin",
+      "badge": "2.700 € netto",
+      "verdict": "STANDARD",
+      "story": "Die 8 Level der Wohnungsbesichtigung. Level 3. 2.700 Euro Netto und so eine Fresse? Deine Bewerbung landet direkt im Schredder, höhnt Madame Zitrone und wirft mein sorgfältig gestaltetes Grafik-Portfolio auf den schmutzigen Flurboden. Ich presse meine Hände fest zusammen, um nicht in Tränen auszubrechen, während meine glatte Avocaduhaut vor Wut kocht. Jahrelang habe ich auf diesen Moment gespart, und jetzt nimmt mir diese arrogante Maklerin jede Chance auf ein eigenes Zuhause, nur weil ihr mein Gesicht nicht passt. Doch während sie arrogant auf ihrer goldenen Treppe steht, bemerkt sie nicht einmal die kleine goldene Münze, die halb unter dem Fußabtreter liegt und ihren baldigen Ruin ankündigt. Die Genugtuung wird mein sein, wenn ihr eigener Betrug ans Licht kommt. Das siehst du im nächsten Teil. Das siehst du in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "+800 €",
+        "after": "3.500 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Wohnungsbesichtigung. Level 3."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "2.700 Euro Netto und so eine Fresse? Deine Bewerbung landet direkt im Schredder, höhnt Madame Zitrone und wirft mein sorgfältig gestaltetes Grafik-Portfolio auf den schmutzigen Flurboden.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich presse meine Hände fest zusammen, um nicht in Tränen auszubrechen, während meine glatte Avocaduhaut vor Wut kocht."
+        },
+        {
+          "s": "Figur",
+          "t": "Jahrelang habe ich auf diesen Moment gespart, und jetzt nimmt mir diese arrogante Maklerin jede Chance auf ein eigenes Zuhause, nur weil ihr mein Gesicht nicht passt."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch während sie arrogant auf ihrer goldenen Treppe steht, bemerkt sie nicht einmal die kleine goldene Münze, die halb unter dem Fußabtreter liegt und ihren baldigen Ruin ankündigt."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Genugtuung wird mein sein, wenn ihr eigener Betrug ans Licht kommt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du im nächsten Teil."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "2.700 Euro Netto und so eine Fresse? Deine Bewerbung landet direkt im Schredder.",
+      "quote_by": {
+        "level": 7,
+        "name": "Madame Zitrone",
+        "badge": "5.900 € netto",
+        "character": "An acid-yellow lemon person with a puckered, bitter expression, wearing a fur stole and oversized designer sunglasses.",
+        "scene": "Close-up shot in a high-end hallway, pointing a manicured yellow finger toward the exit door."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "2.700 €",
+          "bar": 0.4
+        },
+        {
+          "label": "Schufa",
+          "value": "Sehr gut",
+          "bar": 0.8
+        },
+        {
+          "label": "Chancen",
+          "value": "40 %",
+          "bar": 0.4
+        }
+      ],
+      "character": "An elegant anthropomorphic avocado person with smooth green pear-shaped skin, wearing a tailored beige trench coat and holding a leather portfolio; her glowing digital forehead badge reads 2.700 € netto.",
+      "visual": "Medium shot of an elegant green avocado person standing inside a classic Berlin hallway with high stucco ceilings, looking disappointed.",
+      "scenes": [
+        "Wide shot of an upscale hallway with polished wooden floors and high stucco ceilings in Charlottenburg.",
+        "Detail shot of a tiny golden coin half-hidden beneath an expensive Persian entrance rug.",
+        "Medium shot of the avocado designer facing a sharp-tongued lemon woman in a fur stole.",
+        "Close-up of the smooth green avocado skin showing subtle expressions of disbelief and frustration.",
+        "Wide shot of a sunlit boulevard lined with chic cafes and luxury parked automobiles.",
+        "Detail shot of the digital forehead display showing the number 2.700 € glowing in crisp blue light."
+      ],
+      "caption": "Auch mit gutem Gehalt bekommt man kaum eine Wohnung! #avocado #charlottenburg #wohnungssuche #mietmarkt #berlin"
+    },
+    {
+      "n": 4,
+      "open_loop": "Welche verhängnisvolle Wahrheit stand in der geheimnisvollen Schufa-Auskunft?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Klopft an die falsche Tür und stört die Besichtigung absichtlich aus Neid."
+      },
+      "name": "Sam, 31, Softwareentwickler",
+      "badge": "3.800 € netto",
+      "verdict": "GUT DABEI",
+      "story": "Die 8 Level der Wohnungsbesichtigung. Level 4. 3.800 Euro? Dafür kriegst du nicht mal den Mülleimer im Hof, du Versager, lacht Herr Brokkoli aus dem Nachbarlevel und versperrt mir eiskalt den Weg. Ich schwitze in meinem Hoodie, während ich die Lapsus-Meldungen auf meinem Laptop überprüfe und mir der kalte Angstschweiß über die Kokosnussschale läuft. Als Softwareentwickler leiste ich täglich Überstunden, muss mich aber von solchen Neidern im Treppenhaus verhöhnen lassen. Sie glauben alle, sie wären etwas Besseres, weil sie früher da waren. Aber sie wissen nicht, dass ich längst das gesamte Gebäude aufgekauft habe und ihre Kündigungen bereits im Entwurf bereitliegen. Eine winzige goldene Münze glitzt unter meinem Schuh als Omen für den Moment, in dem ich das Blatt wende. Das siehst du im nächsten Teil. Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1.100 €",
+        "after": "4.900 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Wohnungsbesichtigung. Level 4."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "3.800 Euro? Dafür kriegst du nicht mal den Mülleimer im Hof, du Versager, lacht Herr Brokkoli aus dem Nachbarlevel und versperrt mir eiskalt den Weg.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schwitze in meinem Hoodie, während ich die Lapsus-Meldungen auf meinem Laptop überprüfe und mir der kalte Angstschweiß über die Kokosnussschale läuft."
+        },
+        {
+          "s": "Figur",
+          "t": "Als Softwareentwickler leiste ich täglich Überstunden, muss mich aber von solchen Neidern im Treppenhaus verhöhnen lassen."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie glauben alle, sie wären etwas Besseres, weil sie früher da waren."
+        },
+        {
+          "s": "Figur",
+          "t": "Aber sie wissen nicht, dass ich längst das gesamte Gebäude aufgekauft habe und ihre Kündigungen bereits im Entwurf bereitliegen."
+        },
+        {
+          "s": "Figur",
+          "t": "Eine winzige goldene Münze glitzt unter meinem Schuh als Omen für den Moment, in dem ich das Blatt wende."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du im nächsten Teil."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "3.800 Euro? Dafür kriegst nicht mal den Mülleimer im Hof, du Versager.",
+      "quote_by": {
+        "level": 1,
+        "name": "Herr Brokkoli",
+        "badge": "2.100 € netto",
+        "character": "An anthropomorphic broccoli person with dense green florets for hair, wearing a worn denim vest and looking defensive.",
+        "scene": "Medium shot of a broccoli man leaning against a doorframe, crossing his arms with a smug expression."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "3.800 €",
+          "bar": 0.55
+        },
+        {
+          "label": "Schufa",
+          "value": "Hervorragend",
+          "bar": 0.9
+        },
+        {
+          "label": "Chancen",
+          "value": "60 %",
+          "bar": 0.6
+        }
+      ],
+      "character": "An anthropomorphic coconut person with a hard, fibrous brown shell head, wearing a casual grey tech hoodie and carrying a black laptop bag; a glowing digital badge on his forehead shows 3.800 € netto.",
+      "visual": "Medium shot of a fibrous brown coconut person standing in front of a modern apartment door, holding a laptop bag and looking frustrated.",
+      "scenes": [
+        "Medium shot of a modern apartment entrance with clean white walls and shiny parquet flooring.",
+        "Detail shot of a tiny golden coin resting right beneath the polished leather shoe of a hostile broccoli tenant.",
+        "Two-shot of the coconut developer arguing with a grumpy broccoli man in a denim vest.",
+        "Close-up of the hard brown coconut shell showing sweat glistening under the hallway spotlights.",
+        "Wide shot of a bustling tech incubator lobby filled with working fruit and vegetable professionals.",
+        "Detail shot of the digital forehead display rapidly updating its numerical value."
+      ],
+      "caption": "Selbst als ITler ist die Wohnungssuche ein Albtraum! #kokosnuss #itler #wohnungssuche #berlintech #mietmarkt"
+    },
+    {
+      "n": 5,
+      "open_loop": "Wer war der mysteriöse Mann, der plötzlich die doppelte Miete bar auf den Tisch legte?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Behauptet laut im Treppenhaus, sie hätte keine Bonität und zieht den Mietvertrag zurück."
+      },
+      "name": "Marie, 29, Ärztin",
+      "badge": "5.200 € netto",
+      "verdict": "TOP KANDIDAT",
+      "story": "Die 8 Level der Wohnungsbesichtigung. Level 5. 5.200 Euro Netto? Halt's Maul, ich kaufe das Haus einfach direkt vor deiner Nase weg, faucht Ben der Handwerker plötzlich und stellt sich mir in den Weg. Meine pinke Pitayahaut funkelt im grellen Sonnenlicht des Foyers, während ich als Ärztin nach zwanzig Stunden Dienst im Krankenhaus nur noch einen Ort zum Ausruhen suche. Diese Respektlosigkeit bricht mir fast das Herz, nachdem ich Leben gerettet habe, während andere nur ruinieren wollen. Doch Ben ahnt nicht, dass der Eigentümer des Hauses mein langjähriger Patient ist, dem ich das Leben gerettet habe und der mir bereits die exklusive Penthouse-Vollmacht unterschrieben hat. Seine arrogante Maske wird in Sekunden bröckeln. Eine goldene Münze blitzt auf der Marmortreppe und führt direkt zu meinem Triumph. Das siehst du im nächsten Teil. Das siehst du in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1.500 €",
+        "after": "6.700 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Wohnungsbesichtigung. Level 5."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "5.200 Euro Netto? Halt's Maul, ich kaufe das Haus einfach direkt vor deiner Nase weg, faucht Ben der Handwerker plötzlich und stellt sich mir in den Weg.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine pinke Pitayahaut funkelt im grellen Sonnenlicht des Foyers, während ich als Ärztin nach zwanzig Stunden Dienst im Krankenhaus nur noch einen Ort zum Ausruhen suche."
+        },
+        {
+          "s": "Figur",
+          "t": "Diese Respektlosigkeit bricht mir fast das Herz, nachdem ich Leben gerettet habe, während andere nur ruinieren wollen."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch Ben ahnt nicht, dass der Eigentümer des Hauses mein langjähriger Patient ist, dem ich das Leben gerettet habe und der mir bereits die exklusive Penthouse-Vollmacht unterschrieben hat."
+        },
+        {
+          "s": "Figur",
+          "t": "Seine arrogante Maske wird in Sekunden bröckeln."
+        },
+        {
+          "s": "Figur",
+          "t": "Eine goldene Münze blitzt auf der Marmortreppe und führt direkt zu meinem Triumph."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du im nächsten Teil."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "5.200 Euro Netto? Halt's Maul, ich kaufe das Haus einfach direkt vor deiner Nase weg.",
+      "quote_by": {
+        "level": 2,
+        "name": "Ben",
+        "badge": "1.850 € netto",
+        "character": "An orange fruit person with textured citrus skin wearing blue overalls, holding a clipboard aggressively.",
+        "scene": "Wide shot of a marble staircase where an orange worker blocks the path with crossed arms."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "5.200 €",
+          "bar": 0.7
+        },
+        {
+          "label": "Schufa",
+          "value": "Perfekt",
+          "bar": 0.95
+        },
+        {
+          "label": "Chancen",
+          "value": "80 %",
+          "bar": 0.8
+        }
+      ],
+      "character": "An exotic anthropomorphic pitaya person with bright pink skin and green leafy bracts, wearing a crisp white medical coat and carrying a stethoscope; her digital badge glows 5.200 € netto.",
+      "visual": "Medium shot of a vibrant pink pitaya doctor in a white coat standing in a grand sunlit foyer with marble columns.",
+      "scenes": [
+        "Wide shot of a grand sunlit foyer with polished marble columns and high arched windows.",
+        "Detail shot of a tiny golden coin resting right at the base of a marble pillar.",
+        "Medium shot of the pink dragonfruit doctor facing a hostile orange worker holding a clipboard.",
+        "Close-up of the vibrant pink pitaya skin showing tiny green leaf-like tips catching the sunlight.",
+        "Wide shot of a busy hospital emergency entrance with ambulances and rushing medical staff.",
+        "Detail shot of the digital forehead display glowing brightly with five-digit numbers."
+      ],
+      "caption": "Auch Ärztinnen haben es schwer auf dem Wohnungsmarkt! #drachenfrucht #aerztin #wohnungssuche #berlin #mietwahnsinn"
+    },
+    {
+      "n": 6,
+      "open_loop": "Welche schockierende Enthüllung stand in dem geheimnisvollen Vertrag auf dem Tisch?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Nimmt ihr den Wohnungsschlüssel weg und gibt ihn an einen anderen Bewerber weiter."
+      },
+      "name": "Dr. Granatapfel, 42, Investor",
+      "badge": "7.500 € netto",
+      "verdict": "VIEL ZU REICH",
+      "story": "Die 8 Level der Wohnungsbesichtigung. Level 6. 7.500 Euro? Du wirst hier öffentlich gedemütigt, weil deine Schufa gefälscht ist, kreischt Lara und zeigt mit dem Finger auf mich, als wäre ich ein Verbrecher. Meine goldene Krone sitzt fest auf meinem maßgeschneiderten Anzug, während ich als Investor in dieser verkommenen Immobilie stehe und mir dieses unwürdige Schauspiel ansehe. Sie wagen es, mich vor versammelter Mannschaft als Betrüger zu entlarven, um selbst an den Mietvertrag zu kommen. Aber sie haben vergessen, dass ich der Hauptinvestor der gesamten Bankengruppe bin, die dieses Viertel finanziert. Ihre vermeintliche Beweisführung ist ein schlechter Witz, der sich in den nächsten Minuten gegen sie selbst wenden wird. Eine goldene Münze funkelt auf dem Mahagonitisch und besiegelt ihr Schicksal. Das siehst du im nächsten Teil. Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+2.000 €",
+        "after": "9.500 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Wohnungsbesichtigung. Level 6."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "7.500 Euro? Du wirst hier öffentlich gedemütigt, weil deine Schufa gefälscht ist, kreischt Lara und zeigt mit dem Finger auf mich, als wäre ich ein Verbrecher.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine goldene Krone sitzt fest auf meinem maßgeschneiderten Anzug, während ich als Investor in dieser verkommenen Immobilie stehe und mir dieses unwürdige Schauspiel ansehe."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie wagen es, mich vor versammelter Mannschaft als Betrüger zu entlarven, um selbst an den Mietvertrag zu kommen."
+        },
+        {
+          "s": "Figur",
+          "t": "Aber sie haben vergessen, dass ich der Hauptinvestor der gesamten Bankengruppe bin, die dieses Viertel finanziert."
+        },
+        {
+          "s": "Figur",
+          "t": "Ihre vermeintliche Beweisführung ist ein schlechter Witz, der sich in den nächsten Minuten gegen sie selbst wenden wird."
+        },
+        {
+          "s": "Figur",
+          "t": "Eine goldene Münze funkelt auf dem Mahagonitisch und besiegelt ihr Schicksal."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du im nächsten Teil."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "7.500 Euro? Du wirst hier öffentlich gedemütigt, weil deine Schufa gefälscht ist.",
+      "quote_by": {
+        "level": 3,
+        "name": "Lara",
+        "badge": "2.700 € netto",
+        "character": "An avocado person wearing a beige trench coat, holding a leather portfolio with a stern expression.",
+        "scene": "Medium shot of an avocado woman sitting across a glass desk, pointing at a rental application."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "7.500 €",
+          "bar": 0.85
+        },
+        {
+          "label": "Schufa",
+          "value": "Perfekt",
+          "bar": 0.98
+        },
+        {
+          "label": "Chancen",
+          "value": "95 %",
+          "bar": 0.9
+        }
+      ],
+      "character": "An anthropomorphic pomegranate person with a crown of ruby-red hard arils, wearing a bespoke charcoal grey suit and silk tie; his digital forehead badge glows 7.500 € netto.",
+      "visual": "Medium shot of a sophisticated pomegranate investor in a charcoal suit sitting in a high-end luxury office overlooking the city skyline.",
+      "scenes": [
+        "Wide shot of an ultra-luxurious penthouse office with floor-to-ceiling glass windows and panoramic city views.",
+        "Detail shot of a tiny golden coin resting on the corner of a polished mahogany desk.",
+        "Two-shot of the ruby-crowned pomegranate man facing a skeptical avocado woman across the table.",
+        "Close-up of the hard red pomegranate arils forming a crown on his head under soft recessed lighting.",
+        "Wide shot of an exclusive financial district courtyard with manicured hedges and glass fountains.",
+        "Detail shot of the digital forehead display showing bold glowing figures."
+      ],
+      "caption": "Selbst Investoren haben manchmal Probleme auf dem Immobilienmarkt! #investor #granatapfel #luxusimmobilien #berlin #mietmarkt"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welches dunkle Geheimnis über die Eigentümer der Immobilie wurde plötzlich aufgedeckt?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Beschuldigt ihn fälschlicherweise der Urkundenfälschung und ruft den Hausmeister."
+      },
+      "name": "Madame Zitrone, 45, Immobilienmaklerin",
+      "badge": "11.200 € netto",
+      "verdict": "OBERE LIGA",
+      "story": "Die 8 Level der Wohnungsbesichtigung. Level 7. 11.200 Euro und trotzdem fliegst du raus, weil wir dich verachten, spottet Sam aus dem Schatten des Penthouses und schlägt mir die schwere Eichentür vor der Nase zu. Meine Zitrone-Haut kocht vor purer Aggression, denn trotz meines enormen Einkommens werde ich hier behandelt wie ein lästiger Bittsteller. Diese arrogante Bande aus Neidern denkt, sie hätte das Spiel gewonnen und könnte mich für immer aus dem Gebäude jagen. Doch sie unterschätzen meine juristischen Kontakte und die Tatsache, dass ich die gesamte Grundschuld auf dieses Grundstück besitze. Ihre Arroganz wird ihr Untergang sein, und sie werden vor mir auf den Knien um Gnade flehen. Eine goldene Münze rollt langsam über das edle Parkett und zeigt auf ihre vernichtende Niederlage. Das siehst du im nächsten Teil. Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "+3.000 €",
+        "after": "14.200 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Wohnungsbesichtigung. Level 7."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "11.200 Euro und trotzdem fliegst du raus, weil wir dich verachten, spottet Sam aus dem Schatten des Penthouses und schlägt mir die schwere Eichentür vor der Nase zu.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Zitrone-Haut kocht vor purer Aggression, denn trotz meines enormen Einkommens werde ich hier behandelt wie ein lästiger Bittsteller."
+        },
+        {
+          "s": "Figur",
+          "t": "Diese arrogante Bande aus Neidern denkt, sie hätte das Spiel gewonnen und könnte mich für immer aus dem Gebäude jagen."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch sie unterschätzen meine juristischen Kontakte und die Tatsache, dass ich die gesamte Grundschuld auf dieses Grundstück besitze."
+        },
+        {
+          "s": "Figur",
+          "t": "Ihre Arroganz wird ihr Untergang sein, und sie werden vor mir auf den Knien um Gnade flehen."
+        },
+        {
+          "s": "Figur",
+          "t": "Eine goldene Münze rollt langsam über das edle Parkett und zeigt auf ihre vernichtende Niederlage."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du im nächsten Teil."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "11.200 Euro und trotzdem fliegst du raus, weil wir dich verachten.",
+      "quote_by": {
+        "level": 4,
+        "name": "Sam",
+        "badge": "3.800 € netto",
+        "character": "An anthropomorphic coconut person in a grey tech hoodie, holding a laptop bag with a confident smirk.",
+        "scene": "Medium shot in a luxury penthouse hallway, leaning casually against a doorframe."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "11.200 €",
+          "bar": 0.92
+        },
+        {
+          "label": "Schufa",
+          "value": "Perfekt",
+          "bar": 1.0
+        },
+        {
+          "label": "Chancen",
+          "value": "100 %",
+          "bar": 1.0
+        }
+      ],
+      "character": "An anthropomorphic lemon person with bright yellow textured skin and a pinched, sour expression, wearing a luxurious silk blouse and pearl necklace; her glowing digital badge shows 11.200 € netto.",
+      "visual": "Medium shot of an acidic yellow lemon woman standing inside a high-end penthouse with expensive furnishings and designer lamps.",
+      "scenes": [
+        "Wide shot of a luxury penthouse interior with designer furniture and polished wooden flooring.",
+        "Detail shot of a tiny golden coin resting near the leg of an expensive velvet armchair.",
+        "Two-shot of the angry lemon woman confronting a calm coconut man in a tech hoodie.",
+        "Close-up of the yellow lemon skin showing tight pores and a bitter, tense expression.",
+        "Wide shot of an elite shopping street in Berlin with luxury sports cars parked along the curb.",
+        "Detail shot of the digital forehead display shining brightly with five-figure digits."
+      ],
+      "caption": "Selbst Makler erleben unerwartete Dramen! #maklerin #zitrone #kudamm #berlin #luxuswohnung"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welche unglaubliche Wahrheit verbarg sich wirklich hinter der mysteriösen Stirn-Zahl aller Mieter?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Bietet allen anderen den Schlüssel an und enthüllt die Absprache des gesamten Hauses."
+      },
+      "name": "Ananas-Milliardär, 50, Eigentümer",
+      "badge": "99.999 € netto",
+      "verdict": "BESITZER",
+      "story": "Die 8 Level der Wohnungsbesichtigung. Level 8. 99.999 Euro. Und jetzt kniet nieder vor dem wahren Eigentümer. Ich stehe auf der goldenen Dachterrasse, die Sonne geht über Berlin unter, und alle sieben Figuren, die mich zuvor gedemütigt und ausgelacht haben, stehen plötzlich fassungslos und stumm vor meinen Mokassins. Jahrelang habe ich im Verborgenen agiert, um die wahren Gesichter aller Mieter und Makler zu entlarven, die hier ihr böses Spiel getrieben haben. Jede Demütigung, jeder herablassende Blick und jede gefälschte Absage wurden akribisch protokolliert. Jetzt fällt ihre Maske für immer, und sie realisieren, dass sie gerade ihre eigenen Kündigungen unterschrieben haben. Eine einzelne goldene Münze liegt schwer und glänzend vor meinen Füßen als Zeichen absoluter Macht und spätter Genugtuung. Welches Thema dieser harten Realität sollen wir als Nächstes bringen?",
+      "gender": "m",
+      "twist": {
+        "delta": "MAX",
+        "after": "99.999 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Wohnungsbesichtigung. Level 8."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "99.999 Euro. Und jetzt kniet nieder vor dem wahren Eigentümer. Ich stehe auf der goldenen Dachterrasse, die Sonne geht über Berlin unter, und alle sieben Figuren, die mich zuvor gedemütigt und ausgelacht haben, stehen plötzlich fassungslos und stumm vor meinen Mokassins.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Jahrelang habe ich im Verborgenen agiert, um die wahren Gesichter aller Mieter und Makler zu entlarven, die hier ihr böses Spiel getrieben haben."
+        },
+        {
+          "s": "Figur",
+          "t": "Jede Demütigung, jeder herablassende Blick und jede gefälschte Absage wurden akribisch protokolliert."
+        },
+        {
+          "s": "Figur",
+          "t": "Jetzt fällt ihre Maske für immer, und sie realisieren, dass sie gerade ihre eigenen Kündigungen unterschrieben haben."
+        },
+        {
+          "s": "Figur",
+          "t": "Eine einzelne goldene Münze liegt schwer und glänzend vor meinen Füßen als Zeichen absoluter Macht und spätter Genugtuung."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema dieser harten Realität sollen wir als Nächstes bringen?"
+        }
+      ],
+      "quote": "99.999 Euro. Und jetzt kniet nieder vor dem wahren Eigentümer.",
+      "quote_by": {
+        "level": 6,
+        "name": "Dr. Granatapfel",
+        "badge": "7.500 € netto",
+        "character": "An anthropomorphic pomegranate person with a ruby crown, wearing a sharp charcoal suit.",
+        "scene": "Wide shot on a rooftop terrace where all fruit characters gather around the pineapple owner."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "99.999 €",
+          "bar": 1.0
+        },
+        {
+          "label": "Schufa",
+          "value": "Unendlich",
+          "bar": 1.0
+        },
+        {
+          "label": "Chancen",
+          "value": "100 %",
+          "bar": 1.0
+        }
+      ],
+      "character": "An imposing anthropomorphic pineapple person with a rough, textured golden-brown skin pattern and spiky green leaves on top, wearing an expensive silk ascot and white designer suit; his digital forehead badge glows 99.999 € netto.",
+      "visual": "Wide angle shot of a golden pineapple billionaire standing on a luxury rooftop terrace overlooking the entire Berlin skyline at sunset.",
+      "scenes": [
+        "Wide shot of an expansive rooftop terrace overlooking the golden Berlin skyline at sunset.",
+        "Detail shot of a single shiny golden coin resting on the pristine white marble flooring.",
+        "Medium shot of the spiky pineapple billionaire facing all seven previous fruit characters together.",
+        "Close-up of the pineapple's textured golden rind catching the warm orange rays of the setting sun.",
+        "Wide shot showing the diverse group of fruit and vegetable people standing in absolute silence.",
+        "Detail shot of the glowing digital forehead display showing the maximum numerical value."
+      ],
+      "caption": "Das große Finale der Wohnungsbesichtigung! Welches Thema als Nächstes? #finale #ananas #immobilien #berlin #mietwahnsinn"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das nervenaufreibende Warten auf die Antwort nach einer Wohnungsbesichtigung",
+  "frame": "frucht"
+}
