@@ -1,109 +1,109 @@
 {
-  "best_score": 55,
+  "best_score": 51,
   "rounds": [
     {
       "scores": {
         "hook": 5,
-        "story": 6,
-        "identifikation": 7,
-        "verbindungen": 6,
-        "sog": 6,
-        "wut": 5,
-        "merkfaehigkeit": 6,
-        "sprache": 4
-      },
-      "gesamt": 55,
-      "fixes": [
-        {
-          "n": 1,
-          "fix": "Erhöhe die Wortanzahl auf über 175 Wörter pro Teil, um Tiefe zu gewinnen. Der erste Satz muss härter knallen: '0.14 GPA und ich habe mir gerade den Arsch aufgerissen, während dieser arrogante Drachenfrucht-Streber in der ersten Reihe lacht.' Ersetze die unpersönliche Aufzählung durch pure emotionale Frustration."
-        },
-        {
-          "n": 2,
-          "fix": "Lass den Gegenspieler noch arroganter auftreten. 'Du bist nur eine saftlose Orange, die nicht mal für den Mindestlohndienst reicht.' Der Zuschauer muss im ersten Drittel pure Wut empfinden, bevor die Genugtuung in Teil 8 greift."
-        },
-        {
-          "n": 3,
-          "fix": "Verbinde die Handlungen straffer mit dem 'versteckter Wert'-Prinzip. Der Zuschauer muss merken, dass der vermeintliche Schwächere heimlich die Fäden in der Hand hält, während der Bösewicht blind in sein Verderben rennt."
-        },
-        {
-          "n": 4,
-          "fix": "Schärfe die Dialoge: Keine künstlichen Floskeln, sondern direkter studentischer Campus-Slang, der in unter 3 Sekunden pro Satz sitzt und sofort zitiert werden kann."
-        },
-        {
-          "n": 5,
-          "fix": "Erhöhe den Sog am Ende jedes Videos: Die offene Frage muss wie eine Drohung klingen, die man sofort im nächsten Clip aufgelöst haben will."
-        },
-        {
-          "n": 6,
-          "fix": "Die Querverweise zwischen den Figuren (wie die Barista-Szenen) müssen enger in den Konflikt verstrickt werden, damit das World-Building lebendiger wirkt."
-        },
-        {
-          "n": 7,
-          "fix": "Füge stärkere visuelle Kontraste in den ersten drei Sekunden ein: Nahaufnahme des Stirn-Displays mit extrem niedriger Zahl, direkt gefolgt von einer demütigenden Aktion."
-        },
-        {
-          "n": 8,
-          "fix": "Das Finale in Teil 8 muss die Rache noch genüsslicher und unbarmherziger zeigen. Der Betrüger muss vor laufendem Publikum komplett in sich zusammenbrechen."
-        }
-      ],
-      "fazit": "Die Serie hat ein starkes visuelles Konzept und eine klare Struktur, scheitert aber an der zu geringen Wortanzahl pro Teil, flachen Dialogen und zu wenig emotionaler Wut in den ersten Sekunden. Ohne kompromisslose Genugtuung und härtere Konflikte springen die Zuschauer nach zwei Sekunden ab."
-    },
-    {
-      "scores": {
-        "hook": 3,
         "story": 4,
-        "identifikation": 4,
-        "verbindungen": 5,
-        "sog": 3,
-        "wut": 4,
-        "merkfaehigkeit": 4,
-        "sprache": 3
-      },
-      "gesamt": 38,
-      "fixes": [
-        {
-          "n": 1,
-          "fix": "Ersetze den lahmen Einstieg durch einen direkten Fausthlschlag: '0.14 GPA? Dieser arrogante Drachenfrucht-Nerd lacht mich aus, während ich den ganzen Drecksjob mache.'"
-        },
-        {
-          "n": 2,
-          "fix": "Passe die Story an, damit der Satz 'You are just a saftless orange who does not even qualify for minimum wage work' nicht in jedem Level unpassend wiederholt wird."
-        },
-        {
-          "n": 3,
-          "fix": "Erhöhe die Wortanzahl pro Teil auf mindestens 175 Wörter, um mehr emotionale Tiefe und echten Konflikt aufzubauen."
-        },
-        {
-          "n": 4,
-          "fix": "Schärfe den Cliffhanger am Ende jedes Videos zu einer echten, brennenden offenen Frage zu, die den Zuschauer sofort zum Weiterswischen zwingt."
-        }
-      ],
-      "fazit": "Die Serie hat eine solide visuelle Grundidee, leidet aber stark unter massiven Text-Wiederholungen ('saftless orange' in fast jedem Teil), zu kurzen Skripten unter 175 Wörtern und verwaschenen Hooks. Ohne radikale sprachliche Schärfung und echte emotionale Fallhöhe springen die Nutzer nach 2 Sekunden ab."
-    },
-    {
-      "scores": {
-        "hook": 4,
-        "story": 5,
         "identifikation": 4,
         "verbindungen": 3,
         "sog": 4,
         "wut": 3,
         "merkfaehigkeit": 4,
-        "sprache": 4
+        "sprache": 5
       },
-      "gesamt": 39,
+      "gesamt": 40,
       "fixes": [
         {
           "n": 1,
-          "fix": "Ersetze den lahmen Einstieg durch einen brutalen visuellen Kontrast: Zeige sofort die rote 0.14 GPA auf der Stirn des Erdbeer-Students, während der reichere Dragon Fruit ihm einen heißen Kaffee ins Gesicht schüttet und lacht."
+          "fix": "Ersetze den ersten Satz durch einen brutalen visuellen Schock mit konkreter Zahl: '0% auf der Stirn? Wer hat diesen Versager überhaupt in die Master-Abschlussarbeit gelassen? Vielleicht putzt er gleich für uns die Toiletten.'"
+        },
+        {
+          "n": 2,
+          "fix": "Füge sofort echte Bedrohung ein: 'Du hast genau zehn Minuten, meine Daten zu schreiben, sonst sorge ich dafür, dass dein Stipendium noch heute fristlos gestrichen wird.'"
+        },
+        {
+          "n": 3,
+          "fix": "Verschärfe die Demütigung und den Kontrast: 'Mit 15% bist du nichts als unser Fußabtreter. Deine monatelange Forschung gehört ab sofort offiziell uns, du elendiger Niemand.'"
+        },
+        {
+          "n": 4,
+          "fix": "Erhöhe den Druck und die emotionale Wut: 'Die Disziplinarkommission hat soeben beschlossen, dich wegen angeblichen Plagiats hochkant von der Universität zu werfen.'"
+        },
+        {
+          "n": 5,
+          "fix": "Löse den Kontrast endlich explizit aus: 'Schau genau hin, Direktor Mason! In diesem Backup-Ordner sind alle Timestamps und Mails gespeichert, die euch als die elendigen Diebe entlarven, die ihr seid.'"
+        },
+        {
+          "n": 6,
+          "fix": "Zeige die späte Reue glasklar: 'Plötzlich kriechen sie alle aus ihren Löchern und wollen meine besten Freunde sein, nachdem sie mich monatelang wie dreckigen Müll behandelt haben.'"
+        },
+        {
+          "n": 7,
+          "fix": "Lass die Genugtuung spürbar werden: 'Ich lege mein offizielles Forschungsstipendium wortlos auf den Tisch und sehe zu, wie sie plötzlich um die Hälfte betteln.'"
         },
         {
           "n": 8,
-          "fix": "Lass den Gegenspieler im Finale nicht einfach weinen, sondern zeige, wie seine Stirnzahl live vor versammelter Menge von 4.00 GPA auf 0.00 stürzt, während die Erdbeere ihm die Medaille wegnimmt."
+          "fix": "Verstärke das finale Triumphgefühl ohne Floskeln: 'Von ganz unten auf der Stirn bis an die Spitze des Instituts: Wer zuletzt lacht, bestimmt, wer hier überhaupt noch studieren darf.'"
         }
       ],
-      "fazit": "Die Serie hat zwar ein absurdes Setting mit Frucht-Figuren, liest sich aber phasenweise wie ein dröges Schultagebuch statt wie ein virales TikTok-Drahtseilakt. Die Dialoge sind zu lang, die Wutmomente zu zahm, und die Wortanzahl sprengt den Rhythmus für Kurzvideos komplett. Mehr Härte, mehr visueller Schmerz in den ersten 2 Sekunden, und eine radikale Straffung sind Pflicht."
+      "fazit": "Die Serie hat eine solide Grundstruktur, verschenkt aber massiv Potenzial bei der emotionalen Wut und dem sofortigen viralen Sog. Die Ziffern auf der Stirn und der Kontrast zwischen Underdog und arroganten Gegenspielern sind erkennbar, aber die Dialoge und Hooks klingen zu harmlos und akademisch. Für echte TikTok/Reels-Viralität nach dem Vorbild 'Obst-Dramen' braucht es kompromisslose Arroganz der Bösewichte, extreme Zahlen in den ersten zwei Sekunden und eine deutlich spürbare, fast schmerzhafte Demütigung, bevor die Genugtuung einsetzt."
+    },
+    {
+      "scores": {
+        "hook": 6,
+        "story": 5,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 6,
+        "wut": 7,
+        "merkfaehigkeit": 4,
+        "sprache": 4
+      },
+      "gesamt": 51,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den unpersönlichen Einstieg durch eine radikale direkte Demütigung: '0% auf der Stirn? Wer hat diesen Versager überhaupt in den Master-Studiengang gelassen?'"
+        },
+        {
+          "n": 2,
+          "fix": "Kürze den Text auf echte gesprochene Dialoge und stelle sicher, dass jede Folge exakt über 175 Wörter echtes Drama und innere Monologe enthält."
+        },
+        {
+          "n": 8,
+          "fix": "Entferne den flachen Call-to-Action am Ende und beende die Serie mit einem ultimativen, arroganten Rache-Satz des Directors an seine ehemaligen Peiniger."
+        }
+      ],
+      "fazit": "Die Serie hat das richtige Grundkonzept (versteckter Wert, Stirnzahlen, Aufstieg), verliert aber massiv durch zu kurze Texte und fehlende emotionale Tiefe. Die Mindestwortanzahl pro Teil von 175 Wörtern wird klar verfehlt, und die Sprache wirkt oft wie eine Aufzählung statt wie ein hochemotionales TikTok-Drama. Da die Genugtuung und Wut nicht konsequent genug ausgereizt werden, droht den Videos der Daumen nach unten im Feed."
+    },
+    {
+      "scores": {
+        "hook": 6,
+        "story": 5,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 6,
+        "wut": 5,
+        "merkfaehigkeit": 5,
+        "sprache": 4
+      },
+      "gesamt": 50,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den ersten Satz durch einen harten Kontrast: '0% auf der Stirn? Die reiche Elite will den armen Broccoli-Studenten direkt vom Campus werfen.'"
+        },
+        {
+          "n": 2,
+          "fix": "Erhöhe die gesprochene Wortanzahl auf über 175 Wörter pro Teil, um mehr Tiefe und echten Konflikt zu erzeugen."
+        },
+        {
+          "n": 3,
+          "fix": "Verzichte auf flache Füllsätze und baue stärkere Querverweise zwischen den verschiedenen Gemüse-Figuren ein."
+        }
+      ],
+      "fazit": "Die Serie hat grundlegendes virales Potenzial durch das etablierte Stirnzahl-Prinzip und die Rache-Story, scheitert aber an zu kurzen Texten, unnatürlichem Sprachfluss und mangelnder emotionaler Fallhöhe in den ersten Sekunden."
     }
   ]
 }

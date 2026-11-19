@@ -1,0 +1,687 @@
+{
+  "title": "The 8 Levels of Chat Waiting Time",
+  "house": "A bustling metropolitan city populated by fruit and vegetable people, featuring a neon-lit subway system, a central plaza with a towering clock tower, a crowded corner bodega, and high-rise glass office buildings.",
+  "catchphrase": "The number never lies, but the timer always hurts.",
+  "links": [
+    "Level 1 mentions the corner bodega cashier from Level 4 who always gives exact change.",
+    "Level 3 features the glowing neon sign of the noodle shop that the CEO from Level 8 visits every Tuesday.",
+    "Level 5 passes by the same subway bench where the artist from Level 2 drops her sketchbook.",
+    "Level 7 references the mysterious delivery driver whose helmet matches the coconut shell in Level 6."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Why did he suddenly delete his entire message history right after I hit send?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Leaves her on read for exactly 47 minutes while posting story updates about brunch."
+      },
+      "name": "Mia, 21, Intern",
+      "badge": "2 Mins Wait",
+      "verdict": "DESPERATE",
+      "story": "The 8 levels of chat waiting time. Level 1. 2 minutes waiting? Who even answered the strawberry? Maybe she'll clean the toilets for us rich folks right after this. I stared at the three blue typing dots disappearing and reappearing on my cracked screen in the damp subway car while my strawberry skin sweated under my oversized thrift-store hoodie and green leafy hair. I just asked if he wanted a four-dollar iced coffee after work, but my phone immediately buzzed with a brutal notification that made my stomach drop into an abyss of pure humiliation. You are typing way too fast for someone in your tax bracket. My badge flickered angrily, ticking up to 3 minutes of waiting time as the penalty for my utter desperation. You'll see that in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1 Min",
+        "after": "3 Mins"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of chat waiting time. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "2 minutes waiting? Who even answered the strawberry? Maybe she'll clean the toilets for us rich folks right after this."
+        },
+        {
+          "s": "Figur",
+          "t": "I stared at the three blue typing dots disappearing and reappearing on my cracked screen in the damp subway car while my strawberry skin sweated under my oversized thrift-store hoodie and green leafy hair."
+        },
+        {
+          "s": "Figur",
+          "t": "I just asked if he wanted a four-dollar iced coffee after work, but my phone immediately buzzed with a brutal notification that made my stomach drop into an abyss of pure humiliation."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are typing way too fast for someone in your tax bracket.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My badge flickered angrily, ticking up to 3 minutes of waiting time as the penalty for my utter desperation."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You are typing way too fast for someone in your tax bracket.",
+      "quote_by": {
+        "level": 3,
+        "name": "Leo",
+        "badge": "45 Mins Wait",
+        "character": "A slick Chestnut man in a tailored charcoal suit with a polished exterior and a dismissive attitude.",
+        "scene": "Medium shot inside a marble lobby, leaning against a glass pillar and looking down at a smartphone with absolute disdain."
+      },
+      "stats": [
+        {
+          "label": "Wait Time",
+          "value": "2 Mins",
+          "bar": 0.1
+        },
+        {
+          "label": "Messages",
+          "value": "14/day",
+          "bar": 0.2
+        },
+        {
+          "label": "Dignity",
+          "value": "12%",
+          "bar": 0.15
+        }
+      ],
+      "character": "A stressed Strawberry girl with bright red textured skin, tiny yellow seed freckles, and green leafy hair, wearing an oversized beige thrift-store hoodie and clutching a cracked smartphone.",
+      "visual": "Close-up of a strawberry girl staring desperately at a glowing smartphone screen inside a dimly lit subway train.",
+      "scenes": [
+        "Subway car, medium shot: A strawberry girl in an oversized hoodie nervously watching her phone screen flicker in the dim fluorescent light.",
+        "Corner bodega, wide shot: Shelves stocked with colorful fruit snacks, flickering neon signs casting a pink glow on the tiled floor.",
+        "City sidewalk, close-up: A tiny golden coin resting half-hidden beneath a metal grating next to a discarded coffee cup.",
+        "Coffee shop counter, halbnah: A steamy espresso machine hissing while a disgruntled customer checks their glowing digital forehead display.",
+        "Bus stop bench, wide shot: Heavy rain falling against the glass shelter as commuters scroll endlessly through their chats.",
+        "Office hallway, halbnah: Polished concrete floors reflecting the harsh overhead lights while a shadow looms past a glass door."
+      ],
+      "caption": "Would you wait 45 minutes just to play it cool? Let me know in the comments! #ChatGames #DatingLife #Relatable #StirnZahl #Vibes"
+    },
+    {
+      "n": 2,
+      "open_loop": "Why did her reply take precisely 14 minutes longer than my message?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "故意 changes the group chat settings to read-only just to ignore her question."
+      },
+      "name": "Liam, 24, Barista",
+      "badge": "15 Mins Wait",
+      "verdict": "CALCULATED",
+      "story": "The 8 levels of chat waiting time. Level 2. 15 minutes waiting for a reply? You're just a pathetic barista who can't even afford rent. I slammed my microfiber cloth down on the stainless steel counter while my zucchini skin twitched in pure rage against the orange woman sitting by the window. You think your little reply delay makes you mysterious, but everyone sees right through your desperate game, she mocked, laughing right in my face while counting her cash. You think waiting fifteen minutes makes you mysterious? Everyone sees right through your little game. My badge stuttered, jumping instantly to 20 minutes as the system penalized my exposed insecurity and complete lack of real power. You'll see that in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+5 Mins",
+        "after": "20 Mins"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of chat waiting time. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "15 minutes waiting for a reply? You're just a pathetic barista who can't even afford rent."
+        },
+        {
+          "s": "Figur",
+          "t": "I slammed my microfiber cloth down on the stainless steel counter while my zucchini skin twitched in pure rage against the orange woman sitting by the window."
+        },
+        {
+          "s": "Figur",
+          "t": "You think your little reply delay makes you mysterious, but everyone sees right through your desperate game, she mocked, laughing right in my face while counting her cash."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You think waiting fifteen minutes makes you mysterious? Everyone sees right through your little game.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My badge stuttered, jumping instantly to 20 minutes as the system penalized my exposed insecurity and complete lack of real power."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "You think waiting fifteen minutes makes you mysterious? Everyone sees right through your little game.",
+      "quote_by": {
+        "level": 4,
+        "name": "Clara",
+        "badge": "2 Hours Wait",
+        "character": "An confident Orange woman with vibrant textured citrus skin wearing a sharp business blazer and gold hoop earrings.",
+        "scene": "Wide shot in a sunlit corner cafe, sitting backward on a wooden chair with her arms crossed and a smirk on her face."
+      },
+      "stats": [
+        {
+          "label": "Wait Time",
+          "value": "15 Mins",
+          "bar": 0.25
+        },
+        {
+          "label": "Messages",
+          "value": "8/day",
+          "bar": 0.3
+        },
+        {
+          "label": "Dignity",
+          "value": "35%",
+          "bar": 0.35
+        }
+      ],
+      "character": "A lean Zucchini man with dark green elongated skin, stubble, wearing a faded black apron over a gray t-shirt and holding an espresso tamper.",
+      "visual": "Medium shot of a zucchini man standing behind a shiny espresso machine in a cozy cafe, looking at his glowing forehead display.",
+      "scenes": [
+        "Cafe counter, halbnah: A zucchini barista polishing a silver milk pitcher while staring intently at a phone timer.",
+        "Window seat, wide shot: An orange woman tapping aggressively on her tablet surrounded by empty coffee cups and pastry crumbs.",
+        "Store entrance, close-up: A golden coin wedged deeply into the door track right beneath a 'Pull' sign.",
+        "Kitchen prep area, wide shot: Stainless steel counters reflecting harsh fluorescent lights and bags of roasted coffee beans.",
+        "Alleyway behind cafe, halbnah: Empty wooden crates stacked neatly against a brick wall under a flickering streetlamp.",
+        "Cash register, close-up: A digital receipt printer spitting out a long paper trail while numbers flash rapidly."
+      ],
+      "caption": "Are you guilty of the 15-minute reply rule? Tell me below! #BaristaLife #DatingRules #MindGames #StirnZahl #ModernRomance"
+    },
+    {
+      "n": 3,
+      "open_loop": "Why did he forward my secret screenshot directly to the group chat?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Publicly mocks his waiting strategy during a high-stakes board meeting."
+      },
+      "name": "Leo, 28, Consultant",
+      "badge": "45 Mins Wait",
+      "verdict": "STRATEGIC",
+      "story": "The 8 levels of chat waiting time. Level 3. I adjusted my silk tie inside the glass-walled conference room while my chestnut shell gleamed under the recessed LED lighting, broadcasting my reply latency to everyone. I was drafting a response when the arrogant dragon fruit executive slammed his heavy leather portfolio onto the mahogany table right in front of me. Nobody cares about your 45-minute delay rule when you are losing millions on this contract. Nobody cares about your pathetic 45-minute delay rule when you are losing millions on this contract, he barked, shattering my fragile corporate ego completely. My badge flared red, instantly adjusting my wait status to a humiliating 1 hour as my power slipped away into nothingness. You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+15 Mins",
+        "after": "1 Hour"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of chat waiting time. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "I adjusted my silk tie inside the glass-walled conference room while my chestnut shell gleamed under the recessed LED lighting, broadcasting my reply latency to everyone."
+        },
+        {
+          "s": "Figur",
+          "t": "I was drafting a response when the arrogant dragon fruit executive slammed his heavy leather portfolio onto the mahogany table right in front of me."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Nobody cares about your 45-minute delay rule when you are losing millions on this contract.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Nobody cares about your pathetic 45-minute delay rule when you are losing millions on this contract, he barked, shattering my fragile corporate ego completely."
+        },
+        {
+          "s": "Figur",
+          "t": "My badge flared red, instantly adjusting my wait status to a humiliating 1 hour as my power slipped away into nothingness."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Nobody cares about your 45-minute delay rule when you are losing millions on this contract.",
+      "quote_by": {
+        "level": 5,
+        "name": "Dante",
+        "badge": "3 Hours Wait",
+        "character": "An intimidating Dragon Fruit man with scaly magenta skin, sharp green tips, wearing a bespoke pinstripe suit and gold cufflinks.",
+        "scene": "Wide shot in a luxurious high-rise boardroom overlooking a glittering skyline, slamming a leather portfolio onto a glass table."
+      },
+      "stats": [
+        {
+          "label": "Wait Time",
+          "value": "45 Mins",
+          "bar": 0.4
+        },
+        {
+          "label": "Messages",
+          "value": "4/day",
+          "bar": 0.45
+        },
+        {
+          "label": "Dignity",
+          "value": "55%",
+          "bar": 0.5
+        }
+      ],
+      "character": "A smooth Chestnut man with a hard, polished brown shell head, wearing a tailored charcoal suit, crisp white shirt, and a navy silk tie.",
+      "visual": "Medium shot of a chestnut man in a sleek corporate boardroom adjusting his tie while looking at a glowing forehead display.",
+      "scenes": [
+        "Corporate boardroom, wide shot: Floor-to-ceiling glass windows showing a panoramic city view at dusk with sleek modern furniture.",
+        "Executive desk, close-up: A heavy crystal water pitcher with a tiny golden coin reflecting light at the bottom.",
+        "Elevator lobby, halbnah: Brushed steel doors reflecting the silhouettes of tense office workers waiting in silence.",
+        "Underground parking garage, wide shot: Concrete pillars and dim yellow overhead lights illuminating luxury sedans.",
+        "Restroom mirror, close-up: A polished chestnut reflection checking forehead numbers under stark vanity lighting.",
+        "Corner office, halbnah: Leather swivel chair facing a computer monitor glowing with complex financial charts."
+      ],
+      "caption": "Is a 45-minute reply delay genius or toxic? Drop your thoughts below! #CorporateLife #DatingAdvice #Strategy #StirnZahl #Business"
+    },
+    {
+      "n": 4,
+      "open_loop": "Who accessed my draft messages while my phone was locked on the counter?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Silently changes her notification sound to a default alarm tone to humiliate her in public."
+      },
+      "name": "Clara, 29, Store Owner",
+      "badge": "2 Hours Wait",
+      "verdict": "UNREACHABLE",
+      "story": "The 8 levels of chat waiting time. Level 4. I reorganized the imported olive oil bottles on the rustic wooden shelf while my textured orange skin absorbed the afternoon sun and my forehead badge beamed proudly. The bell above the door jingled sharply as the heavy coconut woman walked in, slamming her shopping bag down with pure malice. Two hours of waiting around won't save your failing boutique from going under next month. Two hours of waiting around won't save your pathetic, failing boutique from going completely bankrupt next month, you talentless fraud, she snarled right in my face, tearing down my dignity piece by piece. My badge flickered dangerously, jumping to 3 hours of enforced isolation as my business reputation took an irreversible hit. You'll see that in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1 Hour",
+        "after": "3 Hours"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of chat waiting time. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "I reorganized the imported olive oil bottles on the rustic wooden shelf while my textured orange skin absorbed the afternoon sun and my forehead badge beamed proudly."
+        },
+        {
+          "s": "Figur",
+          "t": "The bell above the door jingled sharply as the heavy coconut woman walked in, slamming her shopping bag down with pure malice."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Two hours of waiting around won't save your failing boutique from going under next month.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Two hours of waiting around won't save your pathetic, failing boutique from going completely bankrupt next month, you talentless fraud, she snarled right in my face, tearing down my dignity piece by piece."
+        },
+        {
+          "s": "Figur",
+          "t": "My badge flickered dangerously, jumping to 3 hours of enforced isolation as my business reputation took an irreversible hit."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Two hours of waiting around won't save your failing boutique from going under next month.",
+      "quote_by": {
+        "level": 6,
+        "name": "Hilda",
+        "badge": "6 Hours Wait",
+        "character": "An formidable Coconut woman with a rugged, fibrous brown shell head, wearing a heavy tweed trench coat and leather boots.",
+        "scene": "Halbnah inside a rustic specialty store, slamming a shopping bag onto a wooden counter with an intimidating posture."
+      },
+      "stats": [
+        {
+          "label": "Wait Time",
+          "value": "2 Hours",
+          "bar": 0.55
+        },
+        {
+          "label": "Messages",
+          "value": "2/day",
+          "bar": 0.6
+        },
+        {
+          "label": "Dignity",
+          "value": "70%",
+          "bar": 0.65
+        }
+      ],
+      "character": "An energetic Orange woman with textured citrus peel skin, vibrant orange hair tied in a messy bun, wearing a utility apron over a striped linen shirt.",
+      "visual": "Wide shot of an orange woman standing behind the counter of a sunlit artisanal grocery store, looking calmly at her forehead display.",
+      "scenes": [
+        "Specialty grocery store, wide shot: Wooden shelves lined with colorful jars, artisanal olive oil bottles, and organic produce under warm pendant lights.",
+        "Checkout counter, close-up: A vintage brass cash register with a tiny golden coin tucked beneath the receipt holder.",
+        "Store window, halbnah: Passbyers reflected in the glass while a 'Closed for Inventory' sign hangs crookedly.",
+        "Back storage room, wide shot: Cardboard boxes stacked neatly against whitewashed brick walls with dust motes dancing in the sunbeams.",
+        "Sidewalk outside, halbnah: Pavement chalk drawings fading away next to a parked vintage bicycle.",
+        "Kitchenette area, close-up: A ceramic mug steaming on a small electric hot plate next to an old smartphone."
+      ],
+      "caption": "Can you handle leaving someone on read for two full hours? Let me know! #ShopLocal #MindGames #BusinessOwner #StirnZahl #Independent"
+    },
+    {
+      "n": 5,
+      "open_loop": "Why did my encrypted chat suddenly switch its status to 'blocked by admin'?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Rejects his high-level partnership proposal with a single laughing emoji reaction."
+      },
+      "name": "Dante, 32, Executive",
+      "badge": "3 Hours Wait",
+      "verdict": "UNTOUCHABLE",
+      "story": "The 8 levels of chat waiting time. Level 5. I stood on the open-air balcony of my penthouse office, my magenta dragon fruit skin catching the neon city lights while my forehead badge radiated absolute authority. I was halfway through drafting a dismissal message when the arrogant broccoli mogul stepped onto the glass terrace, blocking my view. Your three-hour waiting trick means nothing when my automated algorithms reply to your clients instantly. Your three-hour waiting trick means nothing when my automated algorithms reply to your clients instantly, he sneered before lunging forward to delete my main database. Suddenly, red warning klaxons blared across the entire penthouse as my terminal screen flashed fatal error codes, cutting off right before the system completely wiped my executive account. You'll see that in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1 Hour",
+        "after": "4 Hours"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of chat waiting time. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "I stood on the open-air balcony of my penthouse office, my magenta dragon fruit skin catching the neon city lights while my forehead badge radiated absolute authority."
+        },
+        {
+          "s": "Figur",
+          "t": "I was halfway through drafting a dismissal message when the arrogant broccoli mogul stepped onto the glass terrace, blocking my view."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your three-hour waiting trick means nothing when my automated algorithms reply to your clients instantly.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Your three-hour waiting trick means nothing when my automated algorithms reply to your clients instantly, he sneered before lunging forward to delete my main database."
+        },
+        {
+          "s": "Figur",
+          "t": "Suddenly, red warning klaxons blared across the entire penthouse as my terminal screen flashed fatal error codes, cutting off right before the system completely wiped my executive account."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Your three-hour waiting trick means nothing when my automated algorithms reply to your clients instantly.",
+      "quote_by": {
+        "level": 7,
+        "name": "Victor",
+        "badge": "12 Hours Wait",
+        "character": "A stern Broccoli man with dense green floret hair, wearing a high-collared turtleneck and a silver metallic wristwatch.",
+        "scene": "Close-up on a high-rise glass balcony at night, swirling amber whiskey in a heavy glass tumbler with an icy stare."
+      },
+      "stats": [
+        {
+          "label": "Wait Time",
+          "value": "3 Hours",
+          "bar": 0.7
+        },
+        {
+          "label": "Messages",
+          "value": "1/day",
+          "bar": 0.75
+        },
+        {
+          "label": "Dignity",
+          "value": "85%",
+          "bar": 0.8
+        }
+      ],
+      "character": "A striking Dragon Fruit man with scaly magenta skin, spiky green leaf tips, wearing a tailored black designer suit and an expensive platinum wristwatch.",
+      "visual": "Wide shot of a dragon fruit man standing on a high-rise penthouse balcony overlooking a glowing futuristic cityscape at night.",
+      "scenes": [
+        "Penthouse balcony, wide shot: Glass railings reflecting the sprawling neon city skyline under a dark night sky.",
+        "Bar cart, close-up: A heavy crystal whiskey decanter and a tiny golden coin resting on a polished marble surface.",
+        "Office interior, halbnah: Minimalist leather furniture, glowing dual computer monitors, and abstract modern art on concrete walls.",
+        "Private elevator, wide shot: Brushed titanium doors opening into a dimly lit lobby with marble flooring.",
+        "Conference table, close-up: A sleek tablet displaying a chat log with a red warning banner across the screen.",
+        "Rooftop helipad, wide shot: Warning lights blinking red against the misty night air as a distant helicopter approaches."
+      ],
+      "caption": "Would you wait 3 hours just to prove a point in business? Let me know below! #ExecutiveLife #PowerPlay #Tech #StirnZahl #Ambition"
+    },
+    {
+      "n": 6,
+      "open_loop": "Why did my encrypted backup file vanish the moment she tapped my screen?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Instantly disables the global messaging network, resetting everyone's timer to zero."
+      },
+      "name": "Hilda, 35, Archivist",
+      "badge": "6 Hours Wait",
+      "verdict": "GHOSTED",
+      "story": "The 8 levels of chat waiting time. Level 6. I sat inside the subterranean data archive surrounded by towering rows of humming server racks, my fibrous brown coconut shell hiding my expression while my forehead badge glowed with unyielding stubbornness. I was reviewing an encrypted chat log when the heavy steel security door creaked open, revealing the mysterious lemon figure. You can hide behind a six-hour delay all you want, but the master server is already wiping your history. You can hide behind a six-hour delay all you want, but the master server is already wiping your history, she declared with absolute coldness. Point. Click. Delete. Stay on read, get deleted! shouted the catchy new system warning across every single screen in the facility. My badge blinked furiously, plunging my status into an indefinite 8-hour lockdown as the system collapsed. You'll see that in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+2 Hours",
+        "after": "8 Hours"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of chat waiting time. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "I sat inside the subterranean data archive surrounded by towering rows of humming server racks, my fibrous brown coconut shell hiding my expression while my forehead badge glowed with unyielding stubbornness."
+        },
+        {
+          "s": "Figur",
+          "t": "I was reviewing an encrypted chat log when the heavy steel security door creaked open, revealing the mysterious lemon figure."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You can hide behind a six-hour delay all you want, but the master server is already wiping your history.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "You can hide behind a six-hour delay all you want, but the master server is already wiping your history, she declared with absolute coldness."
+        },
+        {
+          "s": "Figur",
+          "t": "Point. Click. Delete. Stay on read, get deleted! shouted the catchy new system warning across every single screen in the facility."
+        },
+        {
+          "s": "Figur",
+          "t": "My badge blinked furiously, plunging my status into an indefinite 8-hour lockdown as the system collapsed."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "You can hide behind a six-hour delay all you want, but the master server is already wiping your history.",
+      "quote_by": {
+        "level": 8,
+        "name": "Madame Zola",
+        "badge": "LEVEL 8",
+        "character": "An enigmatic Lemon woman with bright yellow textured citrus skin, piercing eyes, wearing a dark velvet cloak and vintage silver rings.",
+        "scene": "Wide shot inside a shadowy underground server room, pressing a single gloved finger onto a glowing master control console."
+      },
+      "stats": [
+        {
+          "label": "Wait Time",
+          "value": "6 Hours",
+          "bar": 0.82
+        },
+        {
+          "label": "Messages",
+          "value": "0/day",
+          "bar": 0.85
+        },
+        {
+          "label": "Dignity",
+          "value": "95%",
+          "bar": 0.9
+        }
+      ],
+      "character": "A rugged Coconut woman with a hard, fibrous brown shell head, wearing a heavy-duty utility jumpsuit with tool pouches and heavy combat boots.",
+      "visual": "Halbnah shot of a coconut woman inside a dark underground server room surrounded by blinking server lights and cables.",
+      "scenes": [
+        "Subterranean server room, wide shot: Endless rows of black server racks with flashing blue and green LED lights humming in unison.",
+        "Server terminal, close-up: An old CRT monitor displaying green command lines and a tiny golden coin resting on top of the casing.",
+        "Secure bunker door, halbnah: Thick steel hinges and digital keypad locks glowing with red warning indicators.",
+        "Archive desk, wide shot: Dusty binders, microfiche readers, and loose cables tangled across a metal workbench.",
+        "Corridor hallway, halbnah: Concrete walls echoing the distant sound of dripping water and distant footsteps.",
+        "Control panel, close-up: A master reset button covered by a clear plastic safety shield flashing intermittently."
+      ],
+      "caption": "Could you survive a 6-hour communication blackout? Tell me in the comments! #CyberSecurity #DataArchive #StirnZahl #Underground #Mystery"
+    },
+    {
+      "n": 7,
+      "open_loop": "Why did my verified account status disappear right after the system reboot?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Accidentally leaks his unedited chat logs on a public forum."
+      },
+      "name": "Victor, 40, Tech Mogul",
+      "badge": "12 Hours Wait",
+      "verdict": "UNREACHABLE",
+      "story": "The 8 levels of chat waiting time. Level 7. I stood in the center of the subterranean quantum server hub, my dense broccoli floret hair humming with processing power as my forehead badge shone with intimidating authority. From this exact same control console looking outward, the entire server room looked like a cage of my own making, watching the trembling strawberry intern stumble past the security barrier with her cheap cracked phone. How can anyone trust a system where you make people wait half a day just to feel important? How can anyone trust a system where you make people wait half a day just to feel important? she shouted, holding her cracked phone directly into my surveillance cameras to expose my miserable, lonely panic to the entire public network. My badge flashed a blinding warning, instantly locking my system into a terrifying 24-hour freeze. You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+12 Hours",
+        "after": "24 Hours"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of chat waiting time. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "I stood in the center of the subterranean quantum server hub, my dense broccoli floret hair humming with processing power as my forehead badge shone with intimidating authority."
+        },
+        {
+          "s": "Figur",
+          "t": "From this exact same control console looking outward, the entire server room looked like a cage of my own making, watching the trembling strawberry intern stumble past the security barrier with her cheap cracked phone."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "How can anyone trust a system where you make people wait half a day just to feel important?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "How can anyone trust a system where you make people wait half a day just to feel important? she shouted, holding her cracked phone directly into my surveillance cameras to expose my miserable, lonely panic to the entire public network."
+        },
+        {
+          "s": "Figur",
+          "t": "My badge flashed a blinding warning, instantly locking my system into a terrifying 24-hour freeze."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "How can anyone trust a system where you make people wait half a day just to feel important?",
+      "quote_by": {
+        "level": 1,
+        "name": "Mia",
+        "badge": "2 Mins Wait",
+        "character": "A stressed Strawberry girl with bright red textured skin and leafy green hair, wearing an oversized beige hoodie.",
+        "scene": "Wide shot in a high-tech server vault, holding up a cracked smartphone with a defiant expression."
+      },
+      "stats": [
+        {
+          "label": "Wait Time",
+          "value": "12 Hours",
+          "bar": 0.9
+        },
+        {
+          "label": "Messages",
+          "value": "0/day",
+          "bar": 0.95
+        },
+        {
+          "label": "Dignity",
+          "value": "99%",
+          "bar": 0.98
+        }
+      ],
+      "character": "A stern Broccoli man with dense, dark green floret hair, wearing a high-collared black turtleneck and a sleek metallic silver wristwatch.",
+      "visual": "Wide shot of a broccoli man standing inside a vast quantum server room filled with massive glowing mainframes and fiber-optic cables.",
+      "scenes": [
+        "Quantum server room, wide shot: Colossal cylindrical mainframes pulsing with electric blue light across a polished metallic floor.",
+        "Main console, close-up: A glass keyboard glowing softly with biometric sensors and a tiny golden coin resting near the edge.",
+        "Security checkpoint, halbnah: Heavy blast doors half-open with emergency status lights flashing red and yellow.",
+        "Server cooling vent, wide shot: Thick white mist billowing across the floor from temperature-regulation valves.",
+        "Observation deck, halbnah: Curved glass windows overlooking the entire subterranean digital infrastructure of the metropolis.",
+        "Main display screen, close-up: A digital countdown timer ticking backward from 24:00:00 with red cascading numbers."
+      ],
+      "caption": "Is a 12-hour wait the ultimate power move or just lonely? Let me know below! #TechMogul #Quantum #StirnZahl #ServerRoom #Power"
+    },
+    {
+      "n": 8,
+      "open_loop": "What was the secret message hidden inside the very first chat ever created?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Resets the entire city's digital network, making all wait times vanish forever."
+      },
+      "name": "Madame Zola, 50, System Architect",
+      "badge": "LEVEL 8",
+      "verdict": "SYSTEM RESET",
+      "story": "The 8 levels of chat waiting time. Level 8. I stood at the very top of the central clock tower, my textured yellow lemon skin glowing under the eternal neon sky as the city held its breath and every single fruit and vegetable person below stared up at their forehead displays. The strawberry intern, the zucchini barista, the toxic corporate executives, and the database archivists all stopped scrolling at the exact same second while I tapped the master glass console one final time, completely obliterating every single artificial timer, read receipt, and waiting game that had ever tormented us. Your petty games are over forever, your forced delays are erased, and your digital tyranny is dead—now choke on your own zero wait times as I burn your entire empire to dust! The glowing digits on everyone's foreheads dissolved into a warm, golden light that illuminated the entire skyline in a blinding blaze of absolute, unstoppable freedom. What would you do if your waiting timer finally hit zero forever?",
+      "gender": "w",
+      "twist": {
+        "delta": "RESET",
+        "after": "0 Mins"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of chat waiting time. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "I stood at the very top of the central clock tower, my textured yellow lemon skin glowing under the eternal neon sky as the city held its breath and every single fruit and vegetable person below stared up at their forehead displays."
+        },
+        {
+          "s": "Figur",
+          "t": "The strawberry intern, the zucchini barista, the toxic corporate executives, and the database archivists all stopped scrolling at the exact same second while I tapped the master glass console one final time, completely obliterating every single artificial timer, read receipt, and waiting game that had ever tormented us."
+        },
+        {
+          "s": "Figur",
+          "t": "Your petty games are over forever, your forced delays are erased, and your digital tyranny is dead—now choke on your own zero wait times as I burn your entire empire to dust!"
+        },
+        {
+          "s": "Figur",
+          "t": "The glowing digits on everyone's foreheads dissolved into a warm, golden light that illuminated the entire skyline in a blinding blaze of absolute, unstoppable freedom."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What would you do if your waiting timer finally hit zero forever?"
+        }
+      ],
+      "quote": "What would you do if your waiting timer finally hit zero forever?",
+      "quote_by": {
+        "level": 8,
+        "name": "Madame Zola",
+        "badge": "LEVEL 8",
+        "character": "An enigmatic Lemon woman with bright yellow textured citrus skin, piercing eyes, wearing a dark velvet cloak and vintage silver rings.",
+        "scene": "Wide shot at the peak of a glowing clock tower, opening both hands as digital numbers dissolve into golden sparks across the night sky."
+      },
+      "stats": [
+        {
+          "label": "Wait Time",
+          "value": "0 Mins",
+          "bar": 1.0
+        },
+        {
+          "label": "Messages",
+          "value": "Infinite",
+          "bar": 1.0
+        },
+        {
+          "label": "Dignity",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "An enigmatic Lemon woman with bright yellow textured citrus skin, piercing wise eyes, wearing an elegant dark velvet cloak adorned with silver embroidery.",
+      "visual": "Wide angle shot of a lemon woman standing atop a glowing neon clock tower overlooking an expansive futuristic fruit city at midnight.",
+      "scenes": [
+        "Clock tower rooftop, wide shot: A massive illuminated clock face surrounded by glowing digital displays fading into starry night skies.",
+        "Master control console, close-up: A vintage brass interface with a tiny golden coin resting in the center of the activation pad.",
+        "City plaza below, wide shot: Crowds of fruit and vegetable people looking up in amazement as their forehead numbers vanish.",
+        "Subway station entrance, halbnah: Commuters lowering their smartphones and smiling at each other without checking screens.",
+        "Cafe window, halbnah: A barista and customer sharing a cup of coffee without any timers or phones in sight.",
+        "Horizon skyline, wide shot: The entire metropolis bathed in a warm golden sunrise as all digital badges turn off permanently."
+      ],
+      "caption": "What would you do if your waiting timer finally hit zero forever? Let me know what series we should do next! #SystemReset #Freedom #FinalLevel #StirnZahl #PlotTwist"
+    }
+  ],
+  "lang": "en",
+  "topic": "Das kalkulierte Warten auf exakt dieselbe Anzahl an Minuten vor der Antwort im Chat",
+  "frame": "frucht"
+}

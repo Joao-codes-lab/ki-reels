@@ -1,0 +1,744 @@
+{
+  "title": "Die 8 Level der Reisekosten",
+  "house": "A vibrant fruit-and-vegetable metropolis where glowing digital numbers on foreheads dictate social standing, set against rain-slicked neon streets, bustling organic cafes, and decaying luxury terminals.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Barista in Level 2 mentions the quiet man in the tailored suit who leaves massive tips.",
+    "The bus line 42 appears in Level 1 and Level 5, driven by the same tired potato.",
+    "The golden coin is hidden behind the ticket machine in the metro station.",
+    "Level 8 reveals the quiet man in the tailored suit is the grandfather of the group."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Wer hat die geheime Zusatzrechnung für das Hotelzimmer auf den Tisch gelegt?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Lacht sie wegen ihres Tickets aus und schubst sie aus dem Bus."
+      },
+      "name": "Ben, 22, Student",
+      "badge": "45 €",
+      "verdict": "PLEITE",
+      "story": "Die 8 Level der Reisekosten. Level 1. Level 1: 45 Euro auf der Stirn – und ich soll den Luxusurlaub der arroganten Schnösel mitfinanzieren? Mein Name ist Ben, ich bin 22 und knabbere am Existenzminimum, während meine Stirn gnadenlos 45 Euro anzeigt. Du zahlst jetzt sofort deinen Anteil von 600 Euro für die Toskana-Villa, sonst fliegst du achtkantig raus! schrie mich Lena an, während ich im strömenden Regen an der Haltestelle fror und auf mein leeres Konto starrte. Dabei wusste ich längst, dass sie den Gruppenkonto-Saldo heimlich geplündert hatte. Du wirst hier keinen Cent beitragen, weil du nicht mal das Busticket wert bist, lachte Leo aus Level 3 und schubste mich in den Schlamm. Doch er ahnte nicht, dass ich im Bus die Abrechnung seines eigenen Bankrotts fand. Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-45 €",
+        "after": "0 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Reisekosten. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 45 Euro auf der Stirn – und ich soll den Luxusurlaub der arroganten Schnösel mitfinanzieren?"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Name ist Ben, ich bin 22 und knabbere am Existenzminimum, während meine Stirn gnadenlos 45 Euro anzeigt."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du zahlst jetzt sofort deinen Anteil von 600 Euro für die Toskana-Villa, sonst fliegst du achtkantig raus!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "schrie mich Lena an, während ich im strömenden Regen an der Haltestelle fror und auf mein leeres Konto starrte."
+        },
+        {
+          "s": "Figur",
+          "t": "Dabei wusste ich längst, dass sie den Gruppenkonto-Saldo heimlich geplündert hatte."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du wirst hier keinen Cent beitragen, weil du nicht mal das Busticket wert bist, lachte Leo aus Level 3 und schubste mich in den Schlamm.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch er ahnte nicht, dass ich im Bus die Abrechnung seines eigenen Bankrotts fand."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Du wirst hier keinen Cent beitragen, weil du nicht mal das Busticket wert bist.",
+      "quote_by": {
+        "level": 3,
+        "name": "Leo",
+        "badge": "2.800 €",
+        "character": "A stern, sharp-jawed lemon man wearing a tweed jacket, holding a leather briefcase.",
+        "scene": "Wide shot of a rainy bus stop at night, glaring down at a sad banana man with a low number."
+      },
+      "stats": [
+        {
+          "label": "Guthaben",
+          "value": "45 €",
+          "bar": 0.05
+        },
+        {
+          "label": "Kredit",
+          "value": "0 €",
+          "bar": 0.0
+        },
+        {
+          "label": "Chancen",
+          "value": "Sehr gering",
+          "bar": 0.1
+        }
+      ],
+      "character": "A young, slender banana man with bright yellow peel skin, wearing a faded blue hoodie, holding a torn paper ticket; glowing digital number on his forehead reads 45.",
+      "visual": "Wide shot of a gloomy, rain-drenched bus stop in Berlin at night, with neon reflections in puddles and a tiny glowing golden coin hidden near the curb.",
+      "scenes": [
+        "Wide shot of a gloomy, rain-drenched bus stop in Berlin at night, with neon reflections in puddles and a tiny glowing golden coin hidden near the curb.",
+        "Medium shot of Ben staring at his phone inside a crowded, smelly night bus, showing a 45 euro balance.",
+        "Close-up of the glowing digital number 45 on Ben's forehead flickering under flickering fluorescent light.",
+        "Medium shot in a chaotic student apartment kitchen, boxes everywhere, a dragon fruit person shouting at a phone.",
+        "Detail shot of a wet asphalt street where a tiny golden coin rests under a discarded coffee cup.",
+        "Close-up of Ben's trembling hand opening a banking app showing zero euros."
+      ],
+      "caption": "Wer soll das bezahlen? #Reisekosten #StirnZahl #Drama #Berlin #fyp"
+    },
+    {
+      "n": 2,
+      "open_loop": "Warum lag der Umschlag mit den 500 Euro bar in ihrem Spind?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Beschuldigt sie des Diebstahls vor dem gesamten Café."
+      },
+      "name": "Greta, 26, Barista",
+      "badge": "1.350 €",
+      "verdict": "KNAPP",
+      "story": "Die 8 Level der Reisekosten. Level 2. Level 2: 1.350 Euro Gehalt als Barista – und ich soll plötzlich den Mietwagen für die Elite bezahlen? Ich bin Greta, 26, und schufte mir jeden Tag den Rücken krumm, während diese Bonzen auf meine Kosten leben. Du bist nur die Kaffeetante, du zahlst oder du fliegst aus der Gruppe! fauchte Max, der in Level 4 gleich selbst tief in der Kreide stand. Ich schluckte den Kloß im Hals hinunter, wollte gerade kontern, als ich in meinem Spind einen anonymen Umschlag mit 500 Euro fand – platziert von dem mysteriösen Mann aus Level 8. Mit deiner kleinen Zahl wirst du niemals auch nur einen Fuß in diese Villa setzen, schrie er mich an, ohne zu ahnen, dass meine Kasse längst stimmte. Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+500 €",
+        "after": "1.850 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Reisekosten. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 1.350 Euro Gehalt als Barista – und ich soll plötzlich den Mietwagen für die Elite bezahlen?"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Greta, 26, und schufte mir jeden Tag den Rücken krumm, während diese Bonzen auf meine Kosten leben."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du bist nur die Kaffeetante, du zahlst oder du fliegst aus der Gruppe!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "fauchte Max, der in Level 4 gleich selbst tief in der Kreide stand."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schluckte den Kloß im Hals hinunter, wollte gerade kontern, als ich in meinem Spind einen anonymen Umschlag mit 500 Euro fand – platziert von dem mysteriösen Mann aus Level 8."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit deiner kleinen Zahl wirst du niemals auch nur einen Fuß in diese Villa setzen, schrie er mich an, ohne zu ahnen, dass meine Kasse längst stimmte.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Mit deiner kleinen Zahl wirst du niemals auch nur einen Fuß in diese Villa setzen.",
+      "quote_by": {
+        "level": 4,
+        "name": "Max",
+        "badge": "4.200 €",
+        "character": "A round, bright orange citrus man wearing a flashy silk shirt and gold chains.",
+        "scene": "Medium shot inside a bustling harbor cafe, leaning aggressively across the counter towards a barista."
+      },
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "1.350 €",
+          "bar": 0.2
+        },
+        {
+          "label": "Miete",
+          "value": "700 €",
+          "bar": 0.5
+        },
+        {
+          "label": "Trinkgeld",
+          "value": "45 €",
+          "bar": 0.05
+        }
+      ],
+      "character": "A crisp, light green apple woman with a neatly tied apron, wearing silver hoop earrings; glowing digital number on her forehead reads 1.350.",
+      "visual": "Medium shot of a warm, steamy harbor cafe interior with wooden tables, brass espresso machines, and a tiny golden coin hidden in a saucer.",
+      "scenes": [
+        "Medium shot of a warm, steamy harbor cafe interior with wooden tables, brass espresso machines, and a tiny golden coin hidden in a saucer.",
+        "Close-up of Greta wiping down the counter while the digital 1.350 glows softly on her forehead.",
+        "Wide shot of an orange man slamming his fist on the cafe table, shouting at Greta.",
+        "Detail shot of a thick white envelope lying next to a ceramic coffee cup with a golden coin underneath.",
+        "Medium shot of a mysterious customer in a dark coat walking out into the foggy harbor.",
+        "Close-up of Greta's eyes widening in shock as she looks inside the envelope."
+      ],
+      "caption": "Wer kennt diesen Druck im Alltag? #Kaffeetante #Reisekosten #StirnZahl #Drama #fyp"
+    },
+    {
+      "n": 3,
+      "open_loop": "Was stand in der vertraulichen E-Mail der Bank, die er schnell gelöscht hat?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Streicht seinen Namen von der Hotelreservierung und lacht ihn aus."
+      },
+      "name": "Leo, 31, Sachbearbeiter",
+      "badge": "2.800 €",
+      "verdict": "MITTELSTAND",
+      "story": "Die 8 Level der Reisekosten. Level 3. Level 3: 2.800 Euro netto als Beamter – und ich soll den Flug für die ganze Bande blechen? Ich bin Leo, und meine Stirn zeigt stolz, was ich mir hart erarbeitet habe. Du hast doch einen sicheren Job, zahl die Tickets oder wir lassen dich am Flughafen stehen! zischte Sarah, die Architektin aus Level 5, die selbst kurz vor der Pfändung stand. Ich spürte kalten Schweiß, als ich die vertrauliche Mail der Bank auf meinem Handy löschte. Mit deinen 2.800 Euro kannst du dir nicht mal ein Eis am Strand leisten, gib endlich auf, lachte sie verächtlich. Doch sie wusste nicht, dass ich ihre Kontovollmacht bereits gesperrt hatte. Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-1.200 €",
+        "after": "1.600 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Reisekosten. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 2.800 Euro netto als Beamter – und ich soll den Flug für die ganze Bande blechen?"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Leo, und meine Stirn zeigt stolz, was ich mir hart erarbeitet habe."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du hast doch einen sicheren Job, zahl die Tickets oder wir lassen dich am Flughafen stehen!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "zischte Sarah, die Architektin aus Level 5, die selbst kurz vor der Pfändung stand."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich spürte kalten Schweiß, als ich die vertrauliche Mail der Bank auf meinem Handy löschte."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit deinen 2.800 Euro kannst du dir nicht mal ein Eis am Strand leisten, gib endlich auf, lachte sie verächtlich.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch sie wusste nicht, dass ich ihre Kontovollmacht bereits gesperrt hatte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Mit deinen 2.800 Euro kannst du dir nicht mal ein Eis am Strand leisten, gib endlich auf.",
+      "quote_by": {
+        "level": 5,
+        "name": "Sarah",
+        "badge": "5.900 €",
+        "character": "An elegant, pear-shaped avocado woman wearing designer sunglasses and a beige trench coat.",
+        "scene": "Medium shot in a modern, sunlit office corridor, pointing a manicured fingernail at a lemon man."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "2.800 €",
+          "bar": 0.45
+        },
+        {
+          "label": "Fixkosten",
+          "value": "1.600 €",
+          "bar": 0.6
+        },
+        {
+          "label": "Erspartes",
+          "value": "4.500 €",
+          "bar": 0.3
+        }
+      ],
+      "character": "A sharp, oval lemon man with bright yellow textured skin, wearing a neat tweed jacket and rimless glasses; glowing digital number on his forehead reads 2.800.",
+      "visual": "Medium shot of a sterile, neon-lit municipal office with stacks of gray folders and a tiny golden coin hidden behind a paper shredder.",
+      "scenes": [
+        "Medium shot of a sterile, neon-lit municipal office with stacks of gray folders and a tiny golden coin hidden behind a paper shredder.",
+        "Close-up of Leo's glowing digital number 2.800 reflecting on a glass window during a sunset.",
+        "Wide shot of an avocado woman in a beige trench coat crossing her arms angrily in front of Leo's desk.",
+        "Detail shot of a smartphone screen showing a red banking alert and a balance drop.",
+        "Medium shot of a crowded office corridor with other fruit people walking past in indifference.",
+        "Close-up of a tiny golden coin half-hidden beneath a stack of immigration forms."
+      ],
+      "caption": "Wer kennt diese falschen Freunde im Job? #Mittelstand #Reisekosten #StirnZahl #Drama #fyp"
+    },
+    {
+      "n": 4,
+      "open_loop": "Wer hat das gemeinsame Hotelkonto um genau 3.000 Euro geplündert?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Wirft ihr vor, eine Betrügerin zu sein, und sperrt ihre Kreditkarte."
+      },
+      "name": "Max, 29, Vertriebler",
+      "badge": "4.200 €",
+      "verdict": "GUT VERDIENER",
+      "story": "Die 8 Level der Reisekosten. Level 4. Level 4: 4.200 Euro im Monat im Vertrieb – und ich werde von der Oberschicht gnadenlos abgezockt! Ich bin Max, und dachte immer, ich gehöre zu den Gewinnern. Mit deinen paar Kröten kannst du den Spa-Bereich vergessen, zahl den Aufpreis für alle! kreischte Vanessa aus Level 6, die mich in der Lobby öffentlich blamierte. Wir standen auf kaltem Marmor, und meine Kreditkarte leuchtete rot auf. Du bist nur ein kleiner Handlanger in unserer Liga, du wirst niemals dazugehören, schrie sie, während sie mein Geld auf ihr eigenes Konto umleitete. Doch die Überwachungskamera lief mit. Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "-2.500 €",
+        "after": "1.700 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Reisekosten. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 4.200 Euro im Monat im Vertrieb – und ich werde von der Oberschicht gnadenlos abgezockt!"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Max, und dachte immer, ich gehöre zu den Gewinnern."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Mit deinen paar Kröten kannst du den Spa-Bereich vergessen, zahl den Aufpreis für alle!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "kreischte Vanessa aus Level 6, die mich in der Lobby öffentlich blamierte."
+        },
+        {
+          "s": "Figur",
+          "t": "Wir standen auf kaltem Marmor, und meine Kreditkarte leuchtete rot auf."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du bist nur ein kleiner Handlanger in unserer Liga, du wirst niemals dazugehören, schrie sie, während sie mein Geld auf ihr eigenes Konto umleitete.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch die Überwachungskamera lief mit."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Du bist nur ein kleiner Handlanger in unserer Liga, du wirst niemals dazugehören.",
+      "quote_by": {
+        "level": 6,
+        "name": "Vanessa",
+        "badge": "8.500 €",
+        "character": "An exotic pink dragon fruit woman with scaly skin, wearing a white fur coat and diamond earrings.",
+        "scene": "Wide shot in a luxury hotel lobby with polished marble floors, looking down her nose at an orange man."
+      },
+      "stats": [
+        {
+          "label": "Provision",
+          "value": "4.200 €",
+          "bar": 0.6
+        },
+        {
+          "label": "Ausgaben",
+          "value": "3.100 €",
+          "bar": 0.7
+        },
+        {
+          "label": "Status",
+          "value": "Gehoben",
+          "bar": 0.65
+        }
+      ],
+      "character": "A round, vibrant orange citrus man wearing a flashy silk shirt and gold chains; glowing digital number on his forehead reads 4.200.",
+      "visual": "Wide shot of a luxury hotel lobby with polished marble floors, glittering chandeliers, and a tiny golden coin resting on the reception desk.",
+      "scenes": [
+        "Wide shot of a luxury hotel lobby with polished marble floors, glittering chandeliers, and a tiny golden coin resting on the reception desk.",
+        "Close-up of Max's glowing digital number 4.200 against a backdrop of expensive velvet curtains.",
+        "Medium shot of a pink dragon fruit woman in a white fur coat pointing a long fingernail at Max.",
+        "Detail shot of a smartphone screen showing an account freeze notification in bold red text.",
+        "Medium shot of the hotel concierge looking away indifferently while guests walk past with luggage.",
+        "Close-up of a tiny golden coin hidden behind a vase of fresh white orchids."
+      ],
+      "caption": "Wer kennt den Druck in der gehobenen Mittelschicht? #Vertrieb #Reisekosten #StirnZahl #Drama #fyp"
+    },
+    {
+      "n": 5,
+      "open_loop": "Warum lag der Aktenkoffer mit dem Schwarzgeld im Kofferraum ihres Sportwagens?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Schließt sie vom VIP-Bereich aus und stiehlt ihre Flugtickets."
+      },
+      "name": "Sarah, 34, Architektin",
+      "badge": "5.900 €",
+      "verdict": "OBERKLASSE",
+      "story": "Die 8 Level der Reisekosten. Level 5. Level 5: 5.900 Euro netto als Architektin – und ich soll auf dieser Luxus-Reise die Yacht für alle mieten? Ich bin Sarah, und dachte, ich stehe sicher an der Spitze. Du bist nur eine angestellte Planerin, also zahl die Kaution oder dein Büro brennt morgen symbolisch ab! drohte Thomas aus Level 7 mit eiskalter Miene. Wir standen auf der Designer-Dachterrasse, und mein Tablet zeigte den totalen Kontoverlust. Mit deinen 5.900 Euro spielst du in der Liga der Großen nur den Balljungen, lachte er mich aus, während er die Papiere fälschte. Doch er ahnte nicht, wer im Hintergrund die Fäden zog. Das siehst du in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "-3.400 €",
+        "after": "2.500 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Reisekosten. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 5.900 Euro netto als Architektin – und ich soll auf dieser Luxus-Reise die Yacht für alle mieten?"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Sarah, und dachte, ich stehe sicher an der Spitze."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du bist nur eine angestellte Planerin, also zahl die Kaution oder dein Büro brennt morgen symbolisch ab!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "drohte Thomas aus Level 7 mit eiskalter Miene."
+        },
+        {
+          "s": "Figur",
+          "t": "Wir standen auf der Designer-Dachterrasse, und mein Tablet zeigte den totalen Kontoverlust."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit deinen 5.900 Euro spielst du in der Liga der Großen nur den Balljungen, lachte er mich aus, während er die Papiere fälschte.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch er ahnte nicht, wer im Hintergrund die Fäden zog."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Mit deinen 5.900 Euro spielst du in der Liga der Großen nur den Balljungen.",
+      "quote_by": {
+        "level": 7,
+        "name": "Thomas",
+        "badge": "12.000 €",
+        "character": "A tough, brown coconut man with a hard fibrous shell, wearing a dark turtleneck and expensive watch.",
+        "scene": "Medium shot on a windy rooftop terrace at sunset, towering menacingly over a woman."
+      },
+      "stats": [
+        {
+          "label": "Honorar",
+          "value": "5.900 €",
+          "bar": 0.75
+        },
+        {
+          "label": "Projekte",
+          "value": "12 aktiv",
+          "bar": 0.8
+        },
+        {
+          "label": "Netto-Wert",
+          "value": "140k €",
+          "bar": 0.7
+        }
+      ],
+      "character": "An elegant, pear-shaped avocado woman with smooth green skin, wearing a beige trench coat and minimalist gold jewelry; glowing digital number on her forehead reads 5.900.",
+      "visual": "Wide shot of a sleek modern rooftop terrace in Berlin at sunset, with glass railings, distant skyscrapers, and a tiny golden coin hidden behind a metal plant pot.",
+      "scenes": [
+        "Wide shot of a sleek modern rooftop terrace in Berlin at sunset, with glass railings, distant skyscrapers, and a tiny golden coin hidden behind a metal plant pot.",
+        "Close-up of Sarah's glowing digital number 5.900 reflecting on the glass surface of a tablet.",
+        "Medium shot of a brown coconut man in a dark turtleneck crossing his arms menacingly.",
+        "Detail shot of a tiny golden coin half-hidden beneath an empty cocktail glass on a marble table.",
+        "Medium shot of an upscale rooftop bar with other wealthy fruit people ignoring the conflict.",
+        "Close-up of Sarah's face showing a mix of shock and suppressed fury as her tablet screen flashes red."
+      ],
+      "caption": "Wer hat in der oberen Liga wirklich die Fäden in der Hand? #Architektur #Reisekosten #StirnZahl #Drama #fyp"
+    },
+    {
+      "n": 6,
+      "open_loop": "Wer hat den geheimen Flug nach Dubai gebucht, während alle dachten, sie fliegen nach Mallorca?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Storniert ihren Privatjet-Flug und lässt sie am Gate zurück."
+      },
+      "name": "Vanessa, 31, Unternehmerin",
+      "badge": "8.500 €",
+      "verdict": "ELITE",
+      "story": "Die 8 Level der Reisekosten. Level 6. Level 6: 8.500 Euro im Monat als Agenturinhaberin – und ich werde von der wahren Elite behandelt wie eine Bettlerin! Ich bin Vanessa, und dachte, ich hätte es geschafft. Du bist mit deinen Ersparnissen nur eine Statistin in meinem Film, zahl die Landegebühren oder bleib hier! schrie der Mann im obsidianfarbenen Anwaltssitz. Wir standen im eisigen Hangar, Triebwerke heulten auf. Deine Agentur gehört mir, sobald du diesen Hangar verlässt, flüsterte er und stornierte meinen Flug. Doch ich hatte seine Unterschrift heimlich gefilmt. Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "-5.000 €",
+        "after": "3.500 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Reisekosten. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 8.500 Euro im Monat als Agenturinhaberin – und ich werde von der wahren Elite behandelt wie eine Bettlerin!"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Vanessa, und dachte, ich hätte es geschafft."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du bist mit deinen Ersparnissen nur eine Statistin in meinem Film, zahl die Landegebühren oder bleib hier!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "schrie der Mann im obsidianfarbenen Anwaltssitz. Wir standen im eisigen Hangar, Triebwerke heulten auf."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Deine Agentur gehört mir, sobald du diesen Hangar verlässt, flüsterte er und stornierte meinen Flug.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch ich hatte seine Unterschrift heimlich gefilmt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Deine Agentur gehört mir, sobald du diesen Hangar verlässt. Zahle oder verschwinde.",
+      "quote_by": {
+        "level": 8,
+        "name": "Herr Kaluza",
+        "badge": "999.999 €",
+        "character": "An immaculate, ageless peach man in a bespoke obsidian suit, holding a gold-inlaid cane.",
+        "scene": "Wide shot inside a private airport hangar at night, looking down at a dragon fruit woman next to a jet turbine."
+      },
+      "stats": [
+        {
+          "label": "Umsatz",
+          "value": "8.500 €",
+          "bar": 0.85
+        },
+        {
+          "label": "Agentur",
+          "value": "20 MA",
+          "bar": 0.9
+        },
+        {
+          "label": "Depot",
+          "value": "320k €",
+          "bar": 0.8
+        }
+      ],
+      "character": "An exotic pink dragon fruit woman with unique scaly pink skin, wearing a white designer pantsuit and diamond-encrusted sunglasses; glowing digital number on his forehead reads 8.500.",
+      "visual": "Wide shot of a private airport hangar at night with a gleaming white jet, harsh spotlights, and a tiny golden coin hidden under the landing gear.",
+      "scenes": [
+        "Wide shot of a private airport hangar at night with a gleaming white jet, harsh spotlights, and a tiny golden coin hidden under the landing gear.",
+        "Close-up of Vanessa's glowing digital number 8.500 reflecting on the metallic hull of the airplane.",
+        "Medium shot of an immaculate peach man in an obsidian suit holding a gold-inlaid cane.",
+        "Detail shot of a tiny golden coin resting in the tread of a heavy jet tire.",
+        "Medium shot of airport staff walking away, leaving Vanessa standing alone on the tarmac.",
+        "Close-up of Vanessa's face filled with absolute disbelief as her phone screen goes black."
+      ],
+      "caption": "Wer bestimmt wirklich, wer mitfliegt? #Agentur #Reisekosten #StirnZahl #Drama #fyp"
+    },
+    {
+      "n": 7,
+      "open_loop": "Was war der wahre Grund, warum die gesamte Stiftung plötzlich aufgelöst wurde?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Entzieht ihm mit einer einzigen Unterschrift das gesamte Firmenvermögen."
+      },
+      "name": "Thomas, 45, Investor",
+      "badge": "12.000 €",
+      "verdict": "MILLIONÄR",
+      "story": "Die 8 Level der Reisekosten. Level 7. Level 7: 12.000 Euro passives Einkommen als Investor – und ich werde vom Oberguru gedemütigt wie ein Schuljunge! Ich bin Thomas, und meine Arroganz bricht mir jetzt das Genick. Mit deinen lächerlichen 12.000 kaufst du dir nicht mal die Fußmatte meiner Villa, unterschreibe oder du bist ruiniert! drohte Herr Kaluza aus Level 8. Im luxuriösen Penthouse schäumte der Champagner, während mein Portfolio kollabierte. Du dachtest, du wärst oben, dabei warst du immer nur mein treitester Handlanger, sagte er leise. Doch sein ganzer Reichtum basierte auf einer Lüge. Das siehst du im großen Finale in Level 8. Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "-10.000 €",
+        "after": "2.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Reisekosten. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 12.000 Euro passives Einkommen als Investor – und ich werde vom Oberguru gedemütigt wie ein Schuljunge!"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Thomas, und meine Arroganz bricht mir jetzt das Genick."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Mit deinen lächerlichen 12.000 kaufst du dir nicht mal die Fußmatte meiner Villa, unterschreibe oder du bist ruiniert!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "drohte Herr Kaluza aus Level 8. Im luxuriösen Penthouse schäumte der Champagner, während mein Portfolio kollabierte."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du dachtest, du wärst oben, dabei warst du immer nur mein treitester Handlanger, sagte er leise.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch sein ganzer Reichtum basierte auf einer Lüge."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du im großen Finale in Level 8."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Du dachtest, du wärst oben, dabei warst du immer nur mein treitester Handlanger.",
+      "quote_by": {
+        "level": 8,
+        "name": "Herr Kaluza",
+        "badge": "999.999 €",
+        "character": "An immaculate, ageless peach man in a bespoke obsidian suit, holding a gold-inlaid cane.",
+        "scene": "Wide shot inside a lavish penthouse overlooking a glowing metropolis at night, speaking down to a coconut man."
+      },
+      "stats": [
+        {
+          "label": "Rendite",
+          "value": "12.000 €",
+          "bar": 0.92
+        },
+        {
+          "label": "Portfolios",
+          "value": "18 Stk",
+          "bar": 0.95
+        },
+        {
+          "label": "Net Worth",
+          "value": "2.4 Mio",
+          "bar": 0.9
+        }
+      ],
+      "character": "A tough, brown coconut man with a hard fibrous shell, wearing a dark turtleneck and an expensive watch; glowing digital number on his forehead reads 12.000.",
+      "visual": "Wide shot of a luxury skyscraper penthouse overlooking a glittering metropolis at night, with floor-to-ceiling windows and a tiny golden coin hidden inside an ice bucket.",
+      "scenes": [
+        "Wide shot of a luxury skyscraper penthouse overlooking a glittering metropolis at night, with floor-to-ceiling windows and a tiny golden coin hidden inside an ice bucket.",
+        "Close-up of Thomas's glowing digital number 12.000 reflecting on a crystal champagne flute.",
+        "Medium shot of an immaculate peach man in a bespoke obsidian suit pointing a gold-inlaid cane at Thomas.",
+        "Detail shot of a tiny golden coin submerged in melting ice inside a silver bucket.",
+        "Medium shot of security guards in black suits stepping forward from the shadows of the penthouse.",
+        "Close-up of Thomas's hardened coconut shell showing cracks of tension under the pressure."
+      ],
+      "caption": "Wer hat am Ende wirklich die Kontrolle über das Geld? #Investor #Reisekosten #StirnZahl #Drama #fyp"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches Thema der Stirn-Zahl-Welt soll als Nächstes verfilmt werden (z. B. Die Hochzeit, Der Autokauf, Die WG-Miete)?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Reicht ihm am Ende die verlorene 45-Euro-Münze zurück und lächelt."
+      },
+      "name": "Herr Kaluza, 68, Stifter",
+      "badge": "999.999 €",
+      "verdict": "UNBEZAHLBAR",
+      "story": "Die 8 Level der Reisekosten. Level 8. Level 8: 999.999 Euro auf der Stirn – und ich habe diesen gesamten toxischen Urlaub von Anfang an als Test inszeniert. Ich bin Herr Kaluza, der Gründer dieser Stadt, und ich wollte sehen, wer von euch gierig und wer loyal bleibt. Du hast uns alle getestet... warum das Ganze? fragte Ben fassungslos, als ich auf dem höchsten Aussichtsturm der Stadt stand. Weil am Ende nicht die Zahl auf der Stirn zählt, sondern wer dir im Sturm die Hand reicht, sagte ich und lächelte, als Ben mir genau die 45-Euro-Münze zurückreichte, die er einst verloren hatte. Welches Thema der Stirn-Zahl-Welt soll als Nächstes verfilmt werden?",
+      "gender": "m",
+      "twist": {
+        "delta": "0 €",
+        "after": "999.999 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der Reisekosten. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 999.999 Euro auf der Stirn – und ich habe diesen gesamten toxischen Urlaub von Anfang an als Test inszeniert."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Herr Kaluza, der Gründer dieser Stadt, und ich wollte sehen, wer von euch gierig und wer loyal bleibt."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du hast uns alle getestet... warum das Ganze?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "fragte Ben fassungslos, als ich auf dem höchsten Aussichtsturm der Stadt stand."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Weil am Ende nicht die Zahl auf der Stirn zählt, sondern wer dir im Sturm die Hand reicht, sagte ich und lächelte, als Ben mir genau die 45-Euro-Münze zurückreichte, die er einst verloren hatte.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema der Stirn-Zahl-Welt soll als Nächstes verfilmt werden?"
+        }
+      ],
+      "quote": "Weil am Ende nicht die Zahl auf der Stirn zählt, sondern wer dir im Sturm die Hand reicht.",
+      "quote_by": {
+        "level": 1,
+        "name": "Ben",
+        "badge": "45 €",
+        "character": "A young banana man in a faded hoodie holding out a single golden coin.",
+        "scene": "Wide shot on a glowing observation deck at sunrise, surrounded by all previous characters."
+      },
+      "stats": [
+        {
+          "label": "Vermögen",
+          "value": "Unendlich",
+          "bar": 1.0
+        },
+        {
+          "label": "Einfluss",
+          "value": "Maximal",
+          "bar": 1.0
+        },
+        {
+          "label": "Wahrheit",
+          "value": "Enthüllt",
+          "bar": 1.0
+        }
+      ],
+      "character": "An immaculate, ageless peach man in a bespoke obsidian suit, holding a gold-inlaid cane; glowing digital number on his forehead reads 999.999.",
+      "visual": "Wide shot of the highest glass observation deck in Berlin at sunrise, with all previous characters gathered around in awe, and a tiny golden coin resting on the railing.",
+      "scenes": [
+        "Wide shot of the highest glass observation deck in Berlin at sunrise, with all previous characters gathered around in awe, and a tiny golden coin resting on the railing.",
+        "Close-up of Herr Kaluza's glowing digital number 999.999 shining brightly against the morning sky.",
+        "Medium shot of Ben handing a single golden coin back to Kaluza with a respectful nod.",
+        "Detail shot of a tiny golden coin resting perfectly on the polished glass railing overlooking the city.",
+        "Medium shot showing all seven fruit characters standing together, their forehead numbers glowing in unison.",
+        "Close-up of Kaluza's serene face smiling softly as the sun breaks through the horizon."
+      ],
+      "caption": "Welches Thema der Stirn-Zahl-Welt soll als Nächstes kommen? #StirnZahl #Finale #Drama #Berlin #fyp"
+    }
+  ],
+  "lang": "de",
+  "topic": "Die Übernahme der Reisekosten im gemeinsamen Gruppenurlaub",
+  "frame": "frucht"
+}

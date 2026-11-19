@@ -1,0 +1,125 @@
+{
+  "best_score": 44,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 4,
+        "story": 5,
+        "identifikation": 4,
+        "verbindungen": 6,
+        "sog": 3,
+        "wut": 4,
+        "merkfaehigkeit": 5,
+        "sprache": 4
+      },
+      "gesamt": 44,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den ersten Satz durch eine brutale Konfrontation: '2.800 Euro Miete, Schufa-Score 320 – und der Vermieter wirft mich noch vor dem Vertrag raus.' Jede Story muss mind. 175 Wörter haben."
+        },
+        {
+          "n": 2,
+          "fix": "Baue echten Konflikt ein: Der Chef kürzt den Lohn wegen des Scores und beschuldigt die Figur des Diebstahls, obwohl die Zuschauer wissen, dass der Chef selbst manipuliert."
+        },
+        {
+          "n": 3,
+          "fix": "Verstärke die Wut: Der arrogante Investor lacht über den Kiosk-Besitzer und entzieht ihm hämisch den Lieferantenkredit direkt vor laufender Kamera."
+        },
+        {
+          "n": 4,
+          "fix": "Schärfe den Sog: Das Ende darf nicht einfach abbrechen, sondern muss direkt vor der entscheidenden Entlarvung des betrügerischen Verlobten stoppen."
+        },
+        {
+          "n": 5,
+          "fix": "Erhöhe die Identifikation: Zeige den Frust im Job, wenn Leistung durch eine bloße Zahl auf der Stirn komplett entwertet wird."
+        },
+        {
+          "n": 6,
+          "fix": "Verbinde die Level enger: Die arrogante Maklerin muss genau von der Person in die Enge getrieben werden, die sie in Level 3 gedemütigt hat."
+        },
+        {
+          "n": 7,
+          "fix": "Verschärfe die Rache: Der Sturz des Investors muss für den Zuschauer absolut befriedigende Genugtuung bringen, weil er vorher alle anderen erbarmungslos ausgenutzt hat."
+        },
+        {
+          "n": 8,
+          "fix": "Klareres Finale: Der System-Reset in Level 8 muss die Fragen aller vorherigen 7 Teile emotional und überraschend auflösen, statt abstrakt zu bleiben."
+        }
+      ],
+      "fazit": "Die Obst-Metaphern und die Grundidee haben Potenzial, aber der Text liest sich zu stark wie eine sterile Aufzählung statt wie ein hochemotionales, virales Drama. Es fehlen die extremen Kontraste in den ersten Sekunden, die spürbare Wut auf die Antagonisten und die erlösende Genugtuung, die das Publikum zum Weiterswischen zwingt. Die Wortanzahl pro Video muss deutlich steigen, um echten Sog zu erzeugen."
+    },
+    {
+      "scores": {
+        "hook": 3,
+        "story": 2,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 2,
+        "wut": 3,
+        "merkfaehigkeit": 4,
+        "sprache": 2
+      },
+      "gesamt": 31,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ändere den Satz: 'Ich stehe in der regennassen WG-Küche und starre auf die rote Zahl auf meiner Stirn...' zu: 'Mein Vermieter zeigt auf die rote 320 auf meiner Stirn und lacht: Für solche Versager wie dich haben wir hier keinen Platz.'"
+        },
+        {
+          "n": 2,
+          "fix": "Erweitere den Text auf über 175 Wörter, indem echte Dialoge und Konflikte statt reiner Beschreibungen eingebaut werden."
+        }
+      ],
+      "fazit": "Die Serie scheitert kläglich an den harten Viral-Regeln. Statt packender, schneller Dialoge und echter, hochemotionaler Demütigungen mit sofortigem Rache-Versprechen lesen sich die Texte wie uninspirierte Zusammenfassungen. Keine einzige Story erreicht die geforderten 175 Wörter, die Hooks sind langatmig statt kompromisslos, und der Sog verpufft, weil die Konflikte zu passiv erzählt werden."
+    },
+    {
+      "scores": {
+        "hook": 3,
+        "story": 4,
+        "identifikation": 3,
+        "verbindungen": 4,
+        "sog": 3,
+        "wut": 4,
+        "merkfaehigkeit": 3,
+        "sprache": 2
+      },
+      "gesamt": 33,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den halben Absatz durch einen harten Dialog-Einstieg ohne Meta-Ansagen: 'Dein Score liegt bei 320. Pack deine Kisten, du Obdachlosen-Banane.'"
+        },
+        {
+          "n": 2,
+          "fix": "Streiche die Erklär-Sätze über die Handlung. Lass die Chefin direkt sagen: 'Mit 450 Punkten klaut man auch aus der Kasse. Unterschreib die Kündigung.'"
+        },
+        {
+          "n": 3,
+          "fix": "Beginne direkt mit dem Angriff des Investors: 'Kein Lieferkredit mehr für dich, Spasti. Du bist pleite.' Keine Aufzählung."
+        },
+        {
+          "n": 4,
+          "fix": "Lass die Partnerin nicht lamentieren, sondern direkt den Kontoauszug hinwerfen: 'Du hast seit drei Jahren Schulden und lügst mich an?'"
+        },
+        {
+          "n": 5,
+          "fix": "Direkter Konflikt im Konferenzraum: 'Mit deiner 830er-Nummer hast du uns jahrelang ausgebeutet, du Avocado-Betrüger.'"
+        },
+        {
+          "n": 6,
+          "fix": "Die Rache muss sofort greifen: 'Dein Makler-Visum ist weg, Carla. Karma kickt härter als deine Provision.'"
+        },
+        {
+          "n": 7,
+          "fix": "Lass den Investor stürzen, ohne Selbstmitleid-Geflenne: 'Alle Konten gesperrt. Willkommen ganz unten.'"
+        },
+        {
+          "n": 8,
+          "fix": "Keine Erklärbär-Rolle am Ende. Lass die System-Architektin den Stecker ziehen mit einem Satz: 'Die Simulation ist vorbei. Schwarzbild für alle.'"
+        }
+      ],
+      "fazit": "Viel zu viel Meta-Text ('The 8 Levels... Level X'), hölzerne Beschreibungen statt purem, aggressivem Dialog und null echtes TikTok-Tempo. Die Figuren reden wie Romane, nicht wie Menschen im echten Beef. Wenn ihr wollt, dass die Leute nach 2 Sekunden dranbleiben, schmeißt die halbgaren Erklärungen raus und lasst die Leute sofort aufeinander losgehen."
+    }
+  ]
+}

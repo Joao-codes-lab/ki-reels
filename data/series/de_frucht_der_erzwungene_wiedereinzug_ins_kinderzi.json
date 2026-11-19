@@ -1,0 +1,715 @@
+{
+  "title": "Die 8 Level vom Kinderzimmer-Wiedereinzug",
+  "house": "A bustling neon-lit German metropolis where fruit and vegetable people live in cramped apartments and high-tech towers under the glow of digital debt and income displays on their foreheads.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "The tired barista at Café Körnchen is mentioned in Level 3 and appears in Level 5.",
+    "The arrogant landlord in a dark suit from Level 4 is spotted buying fruit in Level 1.",
+    "The red sports car parked outside the Späti in Level 2 belongs to the character in Level 7."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Warum lag der Gerichtsvollzieher-Brief genau auf dem Küchentisch meiner Eltern?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Lacht sie an der Supermarktkasse aus und schüttet unabsichtlich ihren Kaffee weg.",
+        "fix": "Ersetze den gesamten Text ab Level 1 durch folgenden exakten Wortlaut (182 Wörter): '0 Euro auf der Stirn mit 29. Mein eigener Vater hat mich gerade eigenhändig vor die Tür gesetzt. Du bist ein Schmarotzer, Ben, ich rufe jetzt die Polizei, wenn du nicht sofort verschwindest! Das schrie mir mein Vater ins Gesicht, während mein Koffer im strömenden Regen landete. Null Euro auf der Stirn, null Perspektive in dieser kalten Stadt. Die Zahl lügt nie, dachte ich jahrelang, während ich mich krumm und schief schuftete für einen Konzern, der mich gestern fristlos feuerte. Mein eigenes Konto ist leer, meine Ersparnisse wurden gepfändet, und ausgerechnet mein arroganter Vermieter Heinrich im maßgeschneiderten Anzug läuft grinsend an mir vorbei und spuckt auf meine Tasche. Niemand glaubt an den armen Schlucker. Aber Heinrich weiß nicht, dass ich gestern Abend den Master-Schlüssel zu seinem Firmen-Safe gefunden habe. Auf meinem Laptop sehe ich gerade, wie seine Konten leergeräumt werden. Wer hat ihm da gerade mitten in der Nacht das gesamte Kapital gestohlen? Das siehst du im nächsten Teil, wenn sich das Blatt endlich wendet.'"
+      },
+      "name": "Ben, 29, Arbeitsloser Grafiker",
+      "badge": "0 € netto",
+      "verdict": "TOTAL PLEITE",
+      "story": "0 Euro auf der Stirn mit 29. Mein eigener Vater hat mich gerade eigenhändig vor die Tür gesetzt. Du bist ein Schmarotzer, Ben, ich rufe jetzt die Polizei, wenn du nicht sofort verschwindest! Das schrie mir mein Vater ins Gesicht, während mein Koffer im strömenden Regen landete. Null Euro auf der Stirn, null Perspektive in dieser kalten Stadt. Die Zahl lügt nie, dachte ich jahrelang, während ich mich krumm und schief schuftete für einen Konzern, der mich gestern fristlos feuerte. Mein eigenes Konto ist leer, meine Ersparnisse wurden gepfändet, und ausgerechnet mein arroganter Vermieter Heinrich im maßgeschneiderten Anzug läuft grinsend an mir vorbei und spuckt auf meine Tasche. Niemand glaubt an den armen Schlucker. Aber Heinrich weiß nicht, dass ich gestern Abend den Master-Schlüssel zu seinem Firmen-Safe gefunden habe. Auf meinem Laptop sehe ich gerade, wie seine Konten leergeräumt werden. Wer hat ihm da gerade mitten in der Nacht das gesamte Kapital gestohlen? Das siehst du im nächsten Teil, wenn sich das Blatt endlich wendet. Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+450 €",
+        "after": "450 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "0 Euro auf der Stirn mit 29. Mein eigener Vater hat mich gerade eigenhändig vor die Tür gesetzt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du bist ein Schmarotzer, Ben, ich rufe jetzt die Polizei, wenn du nicht sofort verschwindest!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Das schrie mir mein Vater ins Gesicht, während mein Koffer im strömenden Regen landete."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Null Euro auf der Stirn, null Perspektive in dieser kalten Stadt."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl lügt nie, dachte ich jahrelang, während ich mich krumm und schief schuftete für einen Konzern, der mich gestern fristlos feuerte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Mein eigenes Konto ist leer, meine Ersparnisse wurden gepfändet, und ausgerechnet mein arroganter Vermieter Heinrich im maßgeschneiderten Anzug läuft grinsend an mir vorbei und spuckt auf meine Tasche."
+        },
+        {
+          "s": "Figur",
+          "t": "Niemand glaubt an den armen Schlucker. Aber Heinrich weiß nicht, dass ich gestern Abend den Master-Schlüssel zu seinem Firmen-Safe gefunden habe."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Auf meinem Laptop sehe ich gerade, wie seine Konten leergeräumt werden."
+        },
+        {
+          "s": "Figur",
+          "t": "Wer hat ihm da gerade mitten in der Nacht das gesamte Kapital gestohlen?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du im nächsten Teil, wenn sich das Blatt endlich wendet."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Du bist ein Schmarotzer, Ben, ich rufe jetzt die Polizei, wenn du nicht sofort verschwindest!",
+      "quote_by": {
+        "level": 4,
+        "name": "Heinrich",
+        "badge": "4.200 €",
+        "character": "An arrogant eggplant wearing a sharp dark suit and a gold watch.",
+        "scene": "Medium shot of an eggplant father leaning against a door frame in a messy suburban hallway, pointing scornfully at a glowing forehead."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "0 €",
+          "bar": 0.0
+        },
+        {
+          "label": "Schulden",
+          "value": "3.400 €",
+          "bar": 0.6
+        },
+        {
+          "label": "Miete",
+          "value": "0 €",
+          "bar": 0.0
+        }
+      ],
+      "character": "A pale, stressed broccoli person with messy green florets for hair, wearing a worn-out grey hoodie and faded jeans. A glowing digital zero rests on his forehead.",
+      "visual": "Wide angle of a cramped, cluttered childhood bedroom with posters on wood-paneled walls, where a broccoli man sits dejectedly on a small squeaky twin bed.",
+      "scenes": [
+        "Wide shot of a cramped, cluttered childhood bedroom with 90s posters on wood-paneled walls, where a broccoli man sits dejectedly on a small squeaky twin bed.",
+        "Close up on a glowing digital zero on a green broccoli forehead inside a dimly lit hallway with floral wallpaper.",
+        "Medium shot in a chaotic kitchen with a hidden golden coin on the microwave, showing an angry eggplant father crossing his arms.",
+        "Detail shot of shaking hands opening a cardboard moving box filled with old comic books and empty coffee cups.",
+        "Over-the-shoulder shot looking out the window at a rainy German suburban street with parked silver sedans.",
+        "Close up on a smartphone screen lighting up in the dark with an unknown incoming bank transfer notification."
+      ],
+      "caption": "Wer zieht mit Ende 20 freiwillig wieder zu den Eltern? #kinderzimmer #pleite #geld #drama #viral"
+    },
+    {
+      "n": 2,
+      "open_loop": "Was bedeutete die mysteriöse SMS von der unbekannten Nummer?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Schubst sie im überfüllten Bus zur Seite und drängt sich auf den letzten freien Sitz.",
+        "fix": "Ersetze Level 2 durch: '950 Euro Netto. Meine Mutter hat eben mein einziges Erspartes für ihren Neugriechen-Urlaub abgehoben. Dein Geld gehört mir, Mia, du bist sowieso nur eine Last für diese Familie, schrie sie mir ins Gesicht, während sie die Tasche zuschlug. Mit Ende 20 wieder im alten Kinderzimmer, während draußen die Welt an mir vorbeizieht. Meine eigene Mutter plündert mein Konto, nur um sich im Luxus zu sonnen, und lacht mich aus, weil auf meiner Stirn nur dieser mickrige Betrag leuchtet. Doch sie ahnt nicht, dass der vermeintlich verlorene Koffer im Treppenhaus nicht mir gehört, sondern dem teuren Anwalt, der sie heute noch zu Fall bringen wird. Wer steckt hinter diesem perfiden Plan? Das siehst du sofort im nächsten Video.'"
+      },
+      "name": "Mia, 27, Teilzeit-Floristin",
+      "badge": "950 € netto",
+      "verdict": "KAPPUTT GESPART",
+      "story": "950 Euro Netto. Meine Mutter hat eben mein einziges Erspartes für ihren Neugriechen-Urlaub abgehoben. Dein Geld gehört mir, Mia, du bist sowieso nur eine Last für diese Familie, schrie sie mir ins Gesicht, während sie die Tasche zuschlug. Mit Ende 20 wieder im alten Kinderzimmer, während draußen die Welt an mir vorbeizieht. Meine eigene Mutter plündert mein Konto, nur um sich im Luxus zu sonnen, und lacht mich aus, weil auf meiner Stirn nur dieser mickrige Betrag leuchtet. Doch sie ahnt nicht, dass der vermeintlich verlorene Koffer im Treppenhaus nicht mir gehört, sondern dem teuren Anwalt, der sie heute noch zu Fall bringen wird. Wer steckt hinter diesem perfiden Plan? Das siehst du sofort im nächsten Video. Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+300 €",
+        "after": "1.250 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "950 Euro Netto. Meine Mutter hat eben mein einziges Erspartes für ihren Neugriechen-Urlaub abgehoben."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein Geld gehört mir, Mia, du bist sowieso nur eine Last für diese Familie, schrie sie mir ins Gesicht, während sie die Tasche zuschlug.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mit Ende 20 wieder im alten Kinderzimmer, während draußen die Welt an mir vorbeizieht."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Meine eigene Mutter plündert mein Konto, nur um sich im Luxus zu sonnen, und lacht mich aus, weil auf meiner Stirn nur dieser mickrige Betrag leuchtet."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch sie ahnt nicht, dass der vermeintlich verlorene Koffer im Treppenhaus nicht mir gehört, sondern dem teuren Anwalt, der sie heute noch zu Fall bringen wird."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer steckt hinter diesem perfiden Plan?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du sofort im nächsten Video."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Dein Geld gehört mir, Mia, du bist sowieso nur eine Last für diese Familie!",
+      "quote_by": {
+        "level": 5,
+        "name": "Monika",
+        "badge": "3.100 €",
+        "character": "A stiff lemon mother with a bitter expression, wearing a beige knitted cardigan.",
+        "scene": "Close up of a sour lemon woman pointing her finger aggressively across a cluttered kitchen counter."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "950 €",
+          "bar": 0.15
+        },
+        {
+          "label": "Miete",
+          "value": "0 €",
+          "bar": 0.0
+        },
+        {
+          "label": "Sparbuch",
+          "value": "12 €",
+          "bar": 0.01
+        }
+      ],
+      "character": "A bright pink strawberry person with tiny green leaf hair clips, wearing a faded denim jacket and carrying a canvas tote bag. Glowing display on her forehead reads 950 €.",
+      "visual": "Medium shot of a strawberry woman standing in a brightly lit, outdated 1980s German kitchen, holding a jar of jam while an older lemon woman scolds her.",
+      "scenes": [
+        "Medium shot of a strawberry woman standing in a brightly lit, outdated 1980s German kitchen, holding a jar of jam while an older lemon woman scolds her.",
+        "Close up on the glowing digital display reading 950 € reflected in a microwave glass door with a hidden golden coin sticker.",
+        "Wide shot of a crowded, rainy suburban bus stop with commuters holding umbrellas under grey skies.",
+        "Detail shot of a worn leather wallet containing only small change and a cracked loyalty card.",
+        "Over-the-shoulder shot of an old floral couch in a living room where moving boxes are stacked up to the ceiling.",
+        "Close up on a smartphone screen showing a text message with an attached photo of a locked black suitcase."
+      ],
+      "caption": "Wer kennt den Kampf mit dem Dispo nach dem Auszug? #gehalt #geld #wohnen #miete #realalk"
+    },
+    {
+      "n": 3,
+      "open_loop": "Was stand in dem mysteriösen Umschlag, den mein Vater vor mir versteckte?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Bettelt im Treppenhaus um Kleingeld und starrt neidisch auf ihre Jacke.",
+        "fix": "Ersetze Level 3 durch: '1.850 Euro Gehalt und der Vermieter wirft mich fristlos aus. Für so einen armen Schlucker wie dich haben wir hier keinen Platz, brüllte er und warf meine Akten in den Dreck. Vierzig Stunden Woche, Wochenenden opfern, und am Ende bleibst du der Abschaum dieser Gesellschaft. Die Zahl auf meiner Stirn verhöhnt mich jeden Tag im Badezimmerspiegel. Doch was dieser arrogante Tyrann nicht weiß: Der amtliche Brief vom Notar, den er gerade im Büro versteckt hat, enthält die Vollmacht über sein gesamtes Wohnprojekt. Wer hat mir diesen Zettel zugesteckt? Das erfährst du im nächsten Level.'"
+      },
+      "name": "Tom, 28, Junior-Entwickler",
+      "badge": "1.850 € netto",
+      "verdict": "ZU WENIG FÜR MÜNCHEN",
+      "story": "1.850 Euro Gehalt und der Vermieter wirft mich fristlos aus. Für so einen armen Schlucker wie dich haben wir hier keinen Platz, brüllte er und warf meine Akten in den Dreck. Vierzig Stunden Woche, Wochenenden opfern, und am Ende bleibst du der Abschaum dieser Gesellschaft. Die Zahl auf meiner Stirn verhöhnt mich jeden Tag im Badezimmerspiegel. Doch was dieser arrogante Tyrann nicht weiß: Der amtliche Brief vom Notar, den er gerade im Büro versteckt hat, enthält die Vollmacht über sein gesamtes Wohnprojekt. Wer hat mir diesen Zettel zugesteckt? Das erfährst du im nächsten Level. Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+600 €",
+        "after": "2.450 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "1.850 Euro Gehalt und der Vermieter wirft mich fristlos aus."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Für so einen armen Schlucker wie dich haben wir hier keinen Platz, brüllte er und warf meine Akten in den Dreck.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Vierzig Stunden Woche, Wochenenden opfern, und am Ende bleibst du der Abschaum dieser Gesellschaft."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Die Zahl auf meiner Stirn verhöhnt mich jeden Tag im Badezimmerspiegel."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch was dieser arrogante Tyrann nicht weiß: Der amtliche Brief vom Notar, den er gerade im Büro versteckt hat, enthält die Vollmacht über sein gesamtes Wohnprojekt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hat mir diesen Zettel zugesteckt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das erfährst du im nächsten Level."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Für so einen armen Schlucker wie dich haben wir hier keinen Platz!",
+      "quote_by": {
+        "level": 1,
+        "name": "Kevin",
+        "badge": "0 €",
+        "character": "A scruffy, desperate potato person in a torn hoodie.",
+        "scene": "Wide angle of a gloomy hallway where a ragged potato man begs for coins near a radiator."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "1.850 €",
+          "bar": 0.3
+        },
+        {
+          "label": "Miete",
+          "value": "0 €",
+          "bar": 0.0
+        },
+        {
+          "label": "Ersparnis",
+          "value": "400 €",
+          "bar": 0.05
+        }
+      ],
+      "character": "An orange citrus person with bright segment hair, wearing a black tech hoodie and round glasses. Glowing digital display shows 1.850 €.",
+      "visual": "Medium close-up of an orange man hunched over an old wooden desk in a narrow bedroom, surrounded by glowing computer monitors and tangled cables.",
+      "scenes": [
+        "Medium close-up of an orange man hunched over an old wooden desk in a narrow bedroom, surrounded by glowing computer monitors and tangled cables.",
+        "Close up on the glowing digits 1.850 € on an orange forehead under flickering neon desk light with a hidden golden coin sticker.",
+        "Wide shot of a modern Munich S-Bahn station during morning rush hour with tired commuters in coats.",
+        "Detail shot of cold instant ramen noodles in a ceramic bowl next to a mechanical keyboard.",
+        "Over-the-shoulder shot of an older pumpkin man slamming an official red-stamped envelope onto a stack of books.",
+        "Close up on a torn white envelope with a legal court seal resting on a dusty windowsill."
+      ],
+      "caption": "Wer kennt den Albtraum mit dem Gehalt in Großstädten? #muenchen #gehalt #karriere #mietwahnsinn #story"
+    },
+    {
+      "n": 4,
+      "open_loop": "Wer hat das Testament meines Grossvaters manipuliert?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Parkt seinen Luxuswagen demonstrativ so zu, dass sie ihr Auto nicht aus der Einfahrt bekommt.",
+        "fix": "Ersetze Level 4 durch: '2.700 Euro und meine eigene Schwester hat mich bei der Chefin angeschwärzt. Du kriegst die Beförderung nicht, Sarah, du bleibst eine elende Versagerin, zischte sie mir zu und tippte arrogant auf ihr eigenes Smartphone mit der doppelt so hohen Gehaltszahl. Jahrelang habe ich ihre Fehler ausgebügelt, und jetzt nimmt sie mir alles weg, um selbst in die Chefetage aufzusteigen. Doch sie hat übersehen, dass die Überweisung auf ihrem Konto direkt zu unserem gemeinsamen Vater zurückverfolgt werden kann. Wer deckt dieses perfide familiäre Komplott? Das siehst du im nächsten Teil.'"
+      },
+      "name": "Sarah, 26, Marketing-Managerin",
+      "badge": "2.700 € netto",
+      "verdict": "MITTELMASS PUR",
+      "story": "2.700 Euro und meine eigene Schwester hat mich bei der Chefin angeschwärzt. Du kriegst die Beförderung nicht, Sarah, du bleibst eine elende Versagerin, zischte sie mir zu und tippte arrogant auf ihr eigenes Smartphone mit der doppelt so hohen Gehaltszahl. Jahrelang habe ich ihre Fehler ausgebügelt, und jetzt nimmt sie mir alles weg, um selbst in die Chefetage aufzusteigen. Doch sie hat übersehen, dass die Überweisung auf ihrem Konto direkt zu unserem gemeinsamen Vater zurückverfolgt werden kann. Wer deckt dieses perfide familiäre Komplott? Das siehst du im nächsten Teil. Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "-500 €",
+        "after": "2.200 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "2.700 Euro und meine eigene Schwester hat mich bei der Chefin angeschwärzt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du kriegst die Beförderung nicht, Sarah, du bleibst eine elende Versagerin, zischte sie mir zu und tippte arrogant auf ihr eigenes Smartphone mit der doppelt so hohen Gehaltszahl.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Jahrelang habe ich ihre Fehler ausgebügelt, und jetzt nimmt sie mir alles weg, um selbst in die Chefetage aufzusteigen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Doch sie hat übersehen, dass die Überweisung auf ihrem Konto direkt zu unserem gemeinsamen Vater zurückverfolgt werden kann."
+        },
+        {
+          "s": "Figur",
+          "t": "Wer deckt dieses perfide familiäre Komplott?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du im nächsten Teil."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Du kriegst die Beförderung nicht, Sarah, du bleibst eine elende Versagerin.",
+      "quote_by": {
+        "level": 7,
+        "name": "Viktor",
+        "badge": "7.500 €",
+        "character": "An arrogant coconut man in an expensive designer trench coat.",
+        "scene": "Wide shot of a coconut man leaning against a black luxury SUV, smirking at a passing woman."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "2.700 €",
+          "bar": 0.45
+        },
+        {
+          "label": "Miete",
+          "value": "0 €",
+          "bar": 0.0
+        },
+        {
+          "label": "Depot",
+          "value": "4.100 €",
+          "bar": 0.1
+        }
+      ],
+      "character": "A sleek dragon-fruit person with magenta and green skin spikes, wearing a sharp white blazer and minimalist silver earrings. Glowing display shows 2.700 €.",
+      "visual": "Medium shot of a dragon-fruit woman sitting on a white velvet bed in a retro 90s bedroom, staring angrily at her laptop screen.",
+      "scenes": [
+        "Medium shot of a dragon-fruit woman sitting on a white velvet bed in a retro 90s bedroom, staring angrily at her laptop screen.",
+        "Close up on the glowing digital display 2.700 € under warm desk lamp light with a hidden golden coin sticker on the lamp base.",
+        "Wide shot of a chic downtown advertising agency lobby with glass walls and polished concrete floors.",
+        "Detail shot of manicured fingers aggressively typing on a sleek rose-gold laptop keyboard.",
+        "Over-the-shoulder shot of an elegant middle-aged coconut woman pointing at a bank statement on a polished glass table.",
+        "Close up on a computer screen displaying a bank transfer confirmation with an alarming recipient name."
+      ],
+      "caption": "Wer kämpft sich nach dem Studium durch den Mid-Level-Job? #karriere #marketing #gehalt #wohnen #drama"
+    },
+    {
+      "n": 5,
+      "open_loop": "Welches dunkle Geheimnis verbarg mein Chef in der Personalakte?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Verpetzt sie bei der Chefin im Büro wegen einer angeblich zu langen Kaffeepause.",
+        "fix": "Ersetze Level 5 durch: '3.800 Euro und mein Chef hat mein ganzes Projekt gestohlen. Die Idee war von Anfang an meine, du kleiner Büro-Praktikant, lachte er kalt und unterschrieb den Millionenvertrag mit meinem Namen darauf. Ich schufte Tag und Nacht, spare jeden Cent für das Eigenheim, und werde wie Dreck behandelt. Aber die digitale Unterschrift in der Personalakte lügt nicht. Welcher Kollege hat diesen Betrug an die Konkurrenz geleakt? Das siehst du im nächsten Video.'"
+      },
+      "name": "Leon, 29, Projektleiter",
+      "badge": "3.800 € netto",
+      "verdict": "FAST GESCHAFFT",
+      "story": "3.800 Euro und mein Chef hat mein ganzes Projekt gestohlen. Die Idee war von Anfang an meine, du kleiner Büro-Praktikant, lachte er kalt und unterschrieb den Millionenvertrag mit meinem Namen darauf. Ich schufte Tag und Nacht, spare jeden Cent für das Eigenheim, und werde wie Dreck behandelt. Aber die digitale Unterschrift in der Personalakte lügt nicht. Welcher Kollege hat diesen Betrug an die Konkurrenz geleakt? Das siehst du im nächsten Video. Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1.200 €",
+        "after": "5.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "3.800 Euro und mein Chef hat mein ganzes Projekt gestohlen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die Idee war von Anfang an meine, du kleiner Büro-Praktikant, lachte er kalt und unterschrieb den Millionenvertrag mit meinem Namen darauf.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schufte Tag und Nacht, spare jeden Cent für das Eigenheim, und werde wie Dreck behandelt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Aber die digitale Unterschrift in der Personalakte lügt nicht."
+        },
+        {
+          "s": "Figur",
+          "t": "Welcher Kollege hat diesen Betrug an die Konkurrenz geleakt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du im nächsten Video."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Die Idee war von Anfang an meine, du kleiner Büro-Praktikant.",
+      "quote_by": {
+        "level": 2,
+        "name": "Mia",
+        "badge": "950 €",
+        "character": "A stressed strawberry woman in a denim jacket holding a paper cup.",
+        "scene": "Medium shot of a strawberry young woman whispering maliciously behind a water cooler in an office."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "3.800 €",
+          "bar": 0.65
+        },
+        {
+          "label": "Miete",
+          "value": "0 €",
+          "bar": 0.0
+        },
+        {
+          "label": "Aktien",
+          "value": "18.500 €",
+          "bar": 0.4
+        }
+      ],
+      "character": "A crisp, sturdy cucumber person with dark green textured skin, wearing a tailored navy blue suit and slim wire glasses. Glowing display reads 3.800 €.",
+      "visual": "Medium wide shot of a cucumber man standing in a modern Berlin loft-style hallway with exposed brick walls, holding a leather briefcase.",
+      "scenes": [
+        "Medium wide shot of a cucumber man standing in a modern Berlin loft-style hallway with exposed brick walls, holding a leather briefcase.",
+        "Close up on the glowing numbers 3.800 € on a green cucumber forehead with a hidden golden coin sticker on the door frame.",
+        "Wide shot of a bustling Berlin office floor with glass partitions and employees rushing between desks.",
+        "Detail shot of a silver fountain pen signing a high-stakes corporate contract.",
+        "Over-the-shoulder shot of an older pumpkin father pointing menacingly at an open laptop screen.",
+        "Close up on a glowing email notification with a red confidential warning tag."
+      ],
+      "caption": "Wer kennt den Frust mit dem Berliner Wohnungsmarkt trotz gutem Job? #berlin #wohnen #mietmarkt #gehalt #karriere"
+    },
+    {
+      "n": 6,
+      "open_loop": "Warum stand mein eigener Name auf der Sperrliste der Bank?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Kritisiert lautstark seine Präsentation vor dem gesamten Vorstand.",
+        "fix": "Ersetze Level 6 durch: '5.400 Euro und meine Bank sperrt plötzlich all meine Konten. Ihre Vollmachten wurden entzogen, Frau Kollegin, Sie sind offiziell pleite, knallte mir die Beraterin entgegen. Trotz Spitzengehalt, trotz harter Arbeit lande ich wieder auf dem harten Boden der Tatsachen im elterlichen Gästezimmer. Jemand hat im Hintergrund die Fäden gezogen, um mein Firmenkonto plattzumachen. Wer ist dieser kalte Saboteur? Das siehst du im nächsten Level.'"
+      },
+      "name": "Vanessa, 28, Unternehmensberaterin",
+      "badge": "5.400 € netto",
+      "verdict": "OBERE SPITZE",
+      "story": "5.400 Euro und meine Bank sperrt plötzlich all meine Konten. Ihre Vollmachten wurden entzogen, Frau Kollegin, Sie sind offiziell pleite, knallte mir die Beraterin entgegen. Trotz Spitzengehalt, trotz harter Arbeit lande ich wieder auf dem harten Boden der Tatsachen im elterlichen Gästezimmer. Jemand hat im Hintergrund die Fäden gezogen, um mein Firmenkonto plattzumachen. Wer ist dieser kalte Saboteur? Das siehst du im nächsten Level. Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "-2.000 €",
+        "after": "3.400 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "5.400 Euro und meine Bank sperrt plötzlich all meine Konten."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Ihre Vollmachten wurden entzogen, Frau Kollegin, Sie sind offiziell pleite, knallte mir die Beraterin entgegen.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Trotz Spitzengehalt, trotz harter Arbeit lande ich wieder auf dem harten Boden der Tatsachen im elterlichen Gästezimmer."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Jemand hat im Hintergrund die Fäden gezogen, um mein Firmenkonto plattzumachen."
+        },
+        {
+          "s": "Figur",
+          "t": "Wer ist dieser kalte Saboteur?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du im nächsten Level."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Ihre Vollmachten wurden entzogen, Frau Kollegin. Sie sind offiziell pleite.",
+      "quote_by": {
+        "level": 3,
+        "name": "Tom",
+        "badge": "1.850 €",
+        "character": "An ambitious citrus developer in a tech hoodie.",
+        "scene": "Medium shot of an orange man pointing aggressively at a whiteboard during a tense corporate meeting."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "5.400 €",
+          "bar": 0.8
+        },
+        {
+          "label": "Miete",
+          "value": "0 €",
+          "bar": 0.0
+        },
+        {
+          "label": "Depot",
+          "value": "62.000 €",
+          "bar": 0.75
+        }
+      ],
+      "character": "An exotic avocado person with smooth green skin and a dark pit-like necklace, wearing a sophisticated grey Chanel-style tweed blazer. Glowing display reads 5.400 €.",
+      "visual": "Medium close-up of an avocado woman sitting on a neatly made single bed in a pastel-colored 90s bedroom, holding a smartphone with an urgent expression.",
+      "scenes": [
+        "Medium close-up of an avocado woman sitting on a neatly made single bed in a pastel-colored 90s bedroom, holding a smartphone with an urgent expression.",
+        "Close up on the glowing digital display 5.400 € on a green avocado forehead with a hidden golden coin sticker on the headboard.",
+        "Wide shot of an upscale Frankfurt high-rise glass boardroom overlooking the financial district skyline.",
+        "Detail shot of a platinum credit card being inserted into a secure chip terminal.",
+        "Over-the-shoulder shot of an older lemon mother folding laundry with a sarcastic smile.",
+        "Close up on a mobile banking app displaying a red frozen account alert banner."
+      ],
+      "caption": "Wer verdient gut und landet trotzdem kurzzeitig wieder bei den Eltern? #beratung #gehalt #karriere #wohnen #finanzen"
+    },
+    {
+      "n": 7,
+      "open_loop": "Wer hat die Kontovollmacht für mein gesamtes Vermögen gestohlen?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Kürzt heimlich ihr Projektbudget um die Hälfte.",
+        "fix": "Ersetze Level 7 durch: '7.200 Euro und meine Ex-Frau hat mir das Sorgerecht entzogen. Mit diesem Kontostand siehst du deine Kinder nie wieder, schrie sie mir vor dem Familiengericht ins Gesicht. Ich baue mir alles mühsam neu auf, zahle jeden Monat Höchstsätze, und werde trotzdem vernichtet. Doch auf dem Server der Kanzlei liegt ein Dokument, das ihre gesamte Lüge entlarvt. Wer hat mir den Zugang zu den Akten gesperrt? Das erfährst du im großen Finale.'"
+      },
+      "name": "Marc, 29, Senior-Architekt",
+      "badge": "7.200 € netto",
+      "verdict": "ELITÄRE LIGA",
+      "story": "7.200 Euro und meine Ex-Frau hat mir das Sorgerecht entzogen. Mit diesem Kontostand siehst du deine Kinder nie wieder, schrie sie mir vor dem Familiengericht ins Gesicht. Ich baue mir alles mühsam neu auf, zahle jeden Monat Höchstsätze, und werde trotzdem vernichtet. Doch auf dem Server der Kanzlei liegt ein Dokument, das ihre gesamte Lüge entlarvt. Wer hat mir den Zugang zu den Akten gesperrt? Das erfährst du im großen Finale. Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+3.500 €",
+        "after": "10.700 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "7.200 Euro und meine Ex-Frau hat mir das Sorgerecht entzogen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit diesem Kontostand siehst du deine Kinder nie wieder, schrie sie mir vor dem Familiengericht ins Gesicht.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich baue mir alles mühsam neu auf, zahle jeden Monat Höchstsätze, und werde trotzdem vernichtet."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Doch auf dem Server der Kanzlei liegt ein Dokument, das ihre gesamte Lüge entlarvt."
+        },
+        {
+          "s": "Figur",
+          "t": "Wer hat mir den Zugang zu den Akten gesperrt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das erfährst du im großen Finale."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Mit diesem Kontostand siehst du deine Kinder nie wieder.",
+      "quote_by": {
+        "level": 6,
+        "name": "Vanessa",
+        "badge": "5.400 €",
+        "character": "An elegant avocado consultant in a grey tweed blazer.",
+        "scene": "Medium shot of an avocado woman handing over a slashed project report across a glossy glass desk."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "7.200 €",
+          "bar": 0.9
+        },
+        {
+          "label": "Miete",
+          "value": "0 €",
+          "bar": 0.0
+        },
+        {
+          "label": "Immo",
+          "value": "240.000 €",
+          "bar": 0.95
+        }
+      ],
+      "character": "A tough, fibrous coconut person with a hard brown textured shell and smooth white core showing through, wearing a sharp black turtleneck and tailored designer coat. Glowing display shows 7.200 €.",
+      "visual": "Medium shot of a coconut man standing in a minimalist architectural office with blueprint sketches on the wall and large windows.",
+      "scenes": [
+        "Medium shot of a coconut man standing in a minimalist architectural office with blueprint sketches on the wall and large windows.",
+        "Close up on the glowing digits 7.200 € on a brown coconut forehead with a hidden golden coin sticker on a drafting compass.",
+        "Wide shot of an expensive downtown architectural firm with glass models and designer furniture.",
+        "Detail shot of blue architectural blueprints being rolled up with a silver metal clasp.",
+        "Over-the-shoulder shot of an stern older pumpkin father staring coldly at a bank statement.",
+        "Close up on a smartphone screen showing an urgent security lockout notification from the bank."
+      ],
+      "caption": "Wer landet trotz hohem Gehalt nach einer Krise wieder zu Hause? #architektur #gehalt #scheidung #finanzen #drama"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches Geheimnis verbindet alle acht Figuren in dieser Stadt?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Nimmt den anonymen Anruf entgegen, der das gesamte System zum Einsturz bringt.",
+        "fix": "Ersetze Level 8 durch: '24.500 Euro und ich zeige jetzt allen, wer mich damals zerstört hat. Ihr dachtet, die Zahl auf meiner Stirn schützt euch vor meiner Rache? Falsch gedacht. Als einstige Gründerin wurde ich von genau diesen sieben Personen in den Ruin getrieben, ausgeraubt und verstoßen. Jetzt gehört mir nicht nur die Immobilie, sondern das gesamte System, das euch alle kontrolliert. Die Zahl lügt nie – sie zeigt nur, wer am Ende gewinnt. Welches dunkle Geheimnis soll als Nächstes aufgedeckt werden? Schreib es in die Kommentare.'"
+      },
+      "name": "Helena, 30, Gründerin & Investorin",
+      "badge": "24.500 € netto",
+      "verdict": "Ganz oben",
+      "story": "24.500 Euro und ich zeige jetzt allen, wer mich damals zerstört hat. Ihr dachtet, die Zahl auf meiner Stirn schützt euch vor meiner Rache? Falsch gedacht. Als einstige Gründerin wurde ich von genau diesen sieben Personen in den Ruin getrieben, ausgeraubt und verstoßen. Jetzt gehört mir nicht nur die Immobilie, sondern das gesamte System, das euch alle kontrolliert. Die Zahl lügt nie – sie zeigt nur, wer am Ende gewinnt. Welches dunkle Geheimnis soll als Nächstes aufgedeckt werden? Schreib es in die Kommentare.",
+      "gender": "w",
+      "twist": {
+        "delta": "+10.000 €",
+        "after": "34.500 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "24.500 Euro und ich zeige jetzt allen, wer mich damals zerstört hat."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Ihr dachtet, die Zahl auf meiner Stirn schützt euch vor meiner Rache? Falsch gedacht.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Als einstige Gründerin wurde ich von genau diesen sieben Personen in den Ruin getrieben, ausgeraubt und verstoßen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Jetzt gehört mir nicht nur die Immobilie, sondern das gesamte System, das euch alle kontrolliert."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl lügt nie – sie zeigt nur, wer am Ende gewinnt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches dunkle Geheimnis soll als Nächstes aufgedeckt werden? Schreib es in die Kommentare."
+        }
+      ],
+      "quote": "Ihr dachtet, die Zahl auf meiner Stirn schützt euch vor meiner Rache? Falsch gedacht.",
+      "quote_by": {
+        "level": 1,
+        "name": "Ben",
+        "badge": "0 €",
+        "character": "A stressed broccoli founder in a grey hoodie.",
+        "scene": "Close up of a broccoli man smiling triumphantly as he hands over the final document."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "24.500 €",
+          "bar": 1.0
+        },
+        {
+          "label": "Miete",
+          "value": "0 €",
+          "bar": 0.0
+        },
+        {
+          "label": "Firma",
+          "value": "1.2M €",
+          "bar": 1.0
+        }
+      ],
+      "character": "A majestic pineapple person with a crown of sharp green leaves and golden textured skin, wearing a high-end silk white blouse and gold pendant. Glowing display reads 24.500 €.",
+      "visual": "Wide angle of a luxurious penthouse-style renovated childhood bedroom with panoramic city views, where a pineapple woman stands confidently holding a golden tablet.",
+      "scenes": [
+        "Wide angle of a luxurious penthouse-style renovated childhood bedroom with panoramic city views, where a pineapple woman stands confidently holding a golden tablet.",
+        "Close up on the glowing digital display 24.500 € on a golden pineapple forehead with a hidden golden coin sticker on the window sill.",
+        "Wide shot of the bustling city skyline at sunset with illuminated skyscrapers and glowing digital billboards.",
+        "Detail shot of golden keys resting on a dark marble countertop next to an espresso cup.",
+        "Over-the-shoulder shot of all eight fruit and vegetable characters gathered together in a spacious modern living room.",
+        "Close up on a large digital screen displaying the final interconnected web of all eight levels."
+      ],
+      "caption": "Welches Thema aus der Welt der Stirn-Zahlen soll als Nächstes kommen? #finale #geld #erfolg #serie #viral"
+    }
+  ],
+  "lang": "de",
+  "topic": "Der erzwungene Wiedereinzug ins Kinderzimmer bei den Eltern mit Ende 20",
+  "frame": "frucht"
+}

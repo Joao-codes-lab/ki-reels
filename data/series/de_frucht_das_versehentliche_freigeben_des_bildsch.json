@@ -1,0 +1,563 @@
+{
+  "title": "Die 8 Level von Bildschirme teilen",
+  "house": "A bustling modern metropolis populated by anthropomorphic fruits and vegetables, featuring sleek glass corporate towers, neon-lit cafes, and commuter trains.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "In Level 1 wird erwähnt, dass die Barista im Café immer so traurig schaut (wird in Level 4 die Hauptfigur).",
+    "In Level 3 taucht kurz der ruhige Mann im Anzug auf, der in Level 8 die entscheidende Rolle spielt.",
+    "Der Kiosk an der Haltestelle aus Level 2 wird in Level 6 von allen Figuren als Treffpunkt genutzt."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was war auf dem zweiten geöffneten Browser-Tab zu sehen, als der Stream für alle sichtbar wurde?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Lacht das Team aus und fordert sofortige Entlassung wegen Unfähigkeit.",
+        "name": "Tom, 24, Werkstudent"
+      },
+      "name": "Tom, 24, Werkstudent",
+      "badge": "450 € netto",
+      "verdict": "VOLLKATASTROPHE",
+      "story": "Die 8 Level von Bildschirme teilen. Level 1. 350 Euro netto und mein Chef schreit live vor der ganzen Firma: Wer diesen Versager eingestellt hat, fliegt noch heute raus! Mein Erdbeerkopf bricht fast zusammen vor purer Scham, während das kalte Neonlicht der Deckenlampen erbarmungslos auf meine schweißnasse Stirn scheint. Um mich herum starren Dutzende Kollegen mit hasserfüllten, verächtlichen Blicken auf den riesigen Konferenzbildschirm, auf dem versehentlich mein privater Browser-Tab mit den trostlosen Jobsuche-Portalen flimmert. Der arrogante Junior-Analyst in der ersten Reihe grinst hämisch und flüstert laut genug, dass es jeder im Raum hören kann: 'So einen absoluten Vollidioten habe ich in meiner gesamten Laufbahn noch nie gesehen!' Jeder einzelne Herzschlag hämmert wie ein Vorschlaghammer gegen meine Rippen, während meine zitternden Finger krampfhaft versuchen, das verdammte Tastenkombinations-Fenster zu finden, um den Stream sofort zu stoppen. Doch tief im Hintergrund, unsichtbar für alle anderen Anwesenden, habe ich längst auf meinem privaten USB-Stick die unumstößlichen Beweise für die systematischen Finanzbetrügereien genau dieses Chefs gesichert, der mich jetzt vor versammelter Mannschaft so gnadenlos erniedrigt. Ich lächle innerlich, weil ich genau weiß, dass seine arrogante Show in wenigen Minuten ein jähes Ende finden wird, wenn ich den entscheidenden Upload-Button betätige. Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-100 €",
+        "after": "350 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Bildschirme teilen. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "350 Euro netto und mein Chef schreit live vor der ganzen Firma: Wer diesen Versager eingestellt hat, fliegt noch heute raus! Mein Erdbeerkopf bricht fast zusammen vor purer Scham, während das kalte Neonlicht der Deckenlampen erbarmungslos auf meine schweißnasse Stirn scheint. Um mich herum starren Dutzende Kollegen mit hasserfüllten, verächtlichen Blicken auf den riesigen Konferenzbildschirm, auf dem versehentlich mein privater Browser-Tab mit den trostlosen Jobsuche-Portalen flimmert. Der arrogante Junior-Analyst in der ersten Reihe grinst hämisch und flüstert laut genug, dass es jeder im Raum hören kann: 'So einen absoluten Vollidioten habe ich in meiner gesamten Laufbahn noch nie gesehen!' Jeder einzelne Herzschlag hämmert wie ein Vorschlaghammer gegen meine Rippen, während meine zitternden Finger krampfhaft versuchen, das verdammte Tastenkombinations-Fenster zu finden, um den Stream sofort zu stoppen. Doch tief im Hintergrund, unsichtbar für alle anderen Anwesenden, habe ich längst auf meinem privaten USB-Stick die unumstößlichen Beweise für die systematischen Finanzbetrügereien genau dieses Chefs gesichert, der mich jetzt vor versammelter Mannschaft so gnadenlos erniedrigt. Ich lächle innerlich, weil ich genau weiß, dass seine arrogante Show in wenigen Minuten ein jähes Ende finden wird, wenn ich den entscheidenden Upload-Button betätige."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Solche Fehler dulden wir hier nicht, du bist sofort gefeuert!",
+      "quote_by": {
+        "level": 3,
+        "name": "Frau Zitrone",
+        "badge": "4.800 €",
+        "character": "A sour lemon woman wearing a sharp grey business suit and a stern expression.",
+        "scene": "A wide shot of a corporate boardroom where a lemon woman points aggressively at a screen."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "350 €",
+          "bar": 0.05
+        },
+        {
+          "label": "Status",
+          "value": "Praktikum",
+          "bar": 0.1
+        },
+        {
+          "label": "Risiko",
+          "value": "Maximal",
+          "bar": 0.95
+        }
+      ],
+      "character": "An anthropomorphic strawberry man with bright red textured skin, wearing a slightly oversized hoodie and a glowing digital badge on his forehead.",
+      "visual": "A wide cinematic shot of a modern corporate conference room with large glass windows, green plants, and startled vegetable people staring at a massive glowing projector screen.",
+      "scenes": [
+        "Corporate boardroom, wide angle, sleek conference table, green indoor plants, morning grey daylight filtering through floor-to-ceiling windows.",
+        "Close-up of a glowing digital display on a strawberry forehead showing 450 Euro, beads of sweat glistening.",
+        "Medium shot, a sour lemon woman in a grey suit pointing angrily at a projector screen displaying personal browser tabs.",
+        "Detail shot, a tiny golden coin lying on a grey carpet under a metal chair leg in the corner.",
+        "Over-the-shoulder shot, shaking hands typing furiously on a glowing silver laptop keyboard.",
+        "Close-up of terrified eyes reflecting the bright blue light of a freezing computer screen."
+      ],
+      "caption": "Ein einziger falscher Klick und das ganze Leben stürzt ein! Wo stehst du im Büro-Chaos? #BildschirmTeilen #BüroDrama #Fail #Karriere #StirnZahl",
+      "zielsprache": "Das siehst du in Level 1."
+    },
+    {
+      "n": 2,
+      "open_loop": "Welche geheime Gehaltsabrechnung blitzte direkt nach dem privaten Tab auf dem Bildschirm auf?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Schreibt eine offizielle Beschwerde an die HR-Abteilung.",
+        "name": "Ben, 29, Junior-Analyst"
+      },
+      "name": "Ben, 29, Junior-Analyst",
+      "badge": "1.850 € netto",
+      "verdict": "GEFÄHRDET",
+      "story": "Die 8 Level von Bildschirme teilen. Level 2. Der arrogante Junior-Analyst genießt meine öffentliche Bloßstellung in vollen Zügen und lehnt sich mit einem ekelhaften Grinsen in seinem teuren Ledersessel zurück, während er genüsslich an seinem Latte Macchiato schlürft. Um mich herum fangen die Kollegen an zu tuscheln, und die hämischen Blicke brennen wie Feuer auf meiner Haut. Doch anstatt in Panik zu verfallen, bleibe ich eiskalt, denn genau das war mein Masterplan. Blitzschnell rufe ich auf meinem Bildschirm heimlich das doppelte Gehalt des Chefs auf, das er sich illegal aus der Firmenkasse abzweigt, und warte genüsslich auf den perfekten Moment, um die digitale Falle zuschnappen zu lassen. Jedes hämische Lachen meiner Mitmenschen stachelt meine eiskalte Wut nur noch weiter an, während der Druck im Raum ins Unerträgliche steigt. Der Junior-Analyst bemerkt nicht einmal, dass seine eigene Gehaltsabrechnung ebenfalls im Hintergrund geladen wird und seine eigenen dunklen Geheimnisse enthüllen werden. Ich atme tief durch, spüre die absolute Kontrolle über die Situation und warte seelenruhig darauf, dass die Bombe platzt. Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "-200 €",
+        "after": "1.650 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Bildschirme teilen. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Der arrogante Junior-Analyst genießt meine öffentliche Bloßstellung in vollen Zügen und lehnt sich mit einem ekelhaften Grinsen in seinem teuren Ledersessel zurück, während er genüsslich an seinem Latte Macchiato schlürft. Um mich herum fangen die Kollegen an zu tuscheln, und die hämischen Blicke brennen wie Feuer auf meiner Haut. Doch anstatt in Panik zu verfallen, bleibe ich eiskalt, denn genau das war mein Masterplan. Blitzschnell rufe ich auf meinem Bildschirm heimlich das doppelte Gehalt des Chefs auf, das er sich illegal aus der Firmenkasse abzweigt, und warte genüsslich auf den perfekten Moment, um die digitale Falle zuschnappen zu lassen. Jedes hämische Lachen meiner Mitmenschen stachelt meine eiskalte Wut nur noch weiter an, während der Druck im Raum ins Unerträgliche steigt. Der Junior-Analyst bemerkt nicht einmal, dass seine eigene Gehaltsabrechnung ebenfalls im Hintergrund geladen wird und seine eigenen dunklen Geheimnisse enthüllen werden. Ich atme tief durch, spüre die absolute Kontrolle über die Situation und warte seelenruhig darauf, dass die Bombe platzt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Wer hat dir erlaubt, diese vertraulichen Daten öffentlich zu machen?",
+      "quote_by": {
+        "level": 4,
+        "name": "Herr Brokkoli",
+        "badge": "3.400 €",
+        "character": "An aggressive broccoli man with a tight-fitting blue collar shirt and furrowed brow.",
+        "scene": "Medium shot of an angry broccoli man standing up behind a polished wooden desk in an office."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "1.650 €",
+          "bar": 0.25
+        },
+        {
+          "label": "Status",
+          "value": "Angestellt",
+          "bar": 0.3
+        },
+        {
+          "label": "Risiko",
+          "value": "Hoch",
+          "bar": 0.8
+        }
+      ],
+      "character": "An anthropomorphic yellow lemon man with a textured peel head, wearing a slightly rumpled blue shirt and a glowing digital badge.",
+      "visual": "A medium shot of an office workspace with glowing monitors, a steaming coffee mug, and a worried lemon man staring at a massive screen.",
+      "scenes": [
+        "Office workspace, medium shot, messy desk with papers and a glowing laptop screen reflecting blue light.",
+        "Close-up of a lemon forehead showing 1.650 Euro glowing in bright orange digits.",
+        "Wide shot, an angry broccoli man pointing at a massive spreadsheet projector screen in a meeting room.",
+        "Detail shot, a tiny golden coin reflecting light beside a white ceramic coffee mug.",
+        "Close-up shot of trembling fingers hovering over a mousepad.",
+        "Overhead shot of a tense corporate meeting room with fruit people sitting in silence."
+      ],
+      "caption": "Ein falscher Klick zeigt plötzlich das Gehalt von allen! Hättest du das bemerkt? #Gehalt #Büro #Fail #Karriere #StirnZahl",
+      "zielsprache": "Das siehst du in Level 2."
+    },
+    {
+      "n": 3,
+      "open_loop": "Welche private Chat-Nachricht ploppte als Nächstes mitten in der Team-Präsentation auf?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Kichert leise im Hintergrund über die Panik der Hauptfigur.",
+        "name": "Carla, 33, Projektleiterin"
+      },
+      "name": "Carla, 33, Projektleiterin",
+      "badge": "3.100 € netto",
+      "verdict": "DURCHSCHNITTLICH",
+      "story": "Die 8 Level von Bildschirme teilen. Level 3. Die hämische Freude der Projektleiterin ist einfach unerträglich, als sie mit triumphierender Stimme den privaten Chat vorliest, den sie gerade eigenmächtig auf dem großen Konferenzbeamer für die gesamte Abteilung sichtbar gemacht hat. Ihre schrille Stimme schneidet wie Glas durch den Raum, während sie jeden einzelnen Satz genüsslich betont und darauf wartet, dass ich in Tränen ausbreche oder vor Scham im Boden versinke. Doch anstatt die Panik zu zeigen, die sie von mir erwartet, lächle ich innerlich über ihre absolute Naivität. Was diese arrogante Frau in diesem Moment nämlich überhaupt nicht ahnt: Ich habe diesen hochemotionalen Chat absolut absichtlich und mit kalkulierter Präzision genau dort platziert. Es ist die perfekte Ablenkung und gleichzeitig der unwiderlegbare Beweis für den systematischen Betrug unseres Chefs, den sie durch ihre eigene Neugier nun direkt an die gesamte Firmenleitung übermittelt hat. Jeder schadenfrohe Blick der Kollegen prallt an meiner eisernen Fassade ab, während ich in Gedanken bereits zähle, wie viele Sekunden es noch dauert, bis das gesamte Lügenkonstrukt in sich zusammenstürzt. Das siehst du in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "+500 €",
+        "after": "3.600 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Bildschirme teilen. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Die hämische Freude der Projektleiterin ist einfach unerträglich, als sie mit triumphierender Stimme den privaten Chat vorliest, den sie gerade eigenmächtig auf dem großen Konferenzbeamer für die gesamte Abteilung sichtbar gemacht hat. Ihre schrille Stimme schneidet wie Glas durch den Raum, während sie jeden einzelnen Satz genüsslich betont und darauf wartet, dass ich in Tränen ausbreche oder vor Scham im Boden versinke. Doch anstatt die Panik zu zeigen, die sie von mir erwartet, lächle ich innerlich über ihre absolute Naivität. Was diese arrogante Frau in diesem Moment nämlich überhaupt nicht ahnt: Ich habe diesen hochemotionalen Chat absolut absichtlich und mit kalkulierter Präzision genau dort platziert. Es ist die perfekte Ablenkung und gleichzeitig der unwiderlegbare Beweis für den systematischen Betrug unseres Chefs, den sie durch ihre eigene Neugier nun direkt an die gesamte Firmenleitung übermittelt hat. Jeder schadenfrohe Blick der Kollegen prallt an meiner eisernen Fassade ab, während ich in Gedanken bereits zähle, wie viele Sekunden es noch dauert, bis das gesamte Lügenkonstrukt in sich zusammenstürzt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Schau an, die Frau Projektleiterin kann nicht mal ihre Finanzen ordnen!",
+      "quote_by": {
+        "level": 1,
+        "name": "Frau Orange",
+        "badge": "1.200 €",
+        "character": "An arrogant orange woman wearing flashy pink lipstick and a loud patterned blouse.",
+        "scene": "Close-up of an orange woman grinning maliciously in a meeting room."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "3.600 €",
+          "bar": 0.45
+        },
+        {
+          "label": "Status",
+          "value": "Projektleitung",
+          "bar": 0.5
+        },
+        {
+          "label": "Risiko",
+          "value": "Mittel",
+          "bar": 0.5
+        }
+      ],
+      "character": "An anthropomorphic orange woman with dimpled citrus skin, wearing a smart green blazer and a glowing digital badge.",
+      "visual": "A brightly lit modern conference room with wooden paneling, a large projector screen showing chat bubbles, and tense colleagues.",
+      "scenes": [
+        "Conference room, wide shot, wooden table, bright afternoon sun, people staring at a glowing screen.",
+        "Close-up of an orange forehead showing 3.600 Euro in crisp white glowing numbers.",
+        "Medium shot, an arrogant orange woman pointing and laughing at a chat window.",
+        "Detail shot, a tiny golden coin resting on a polished dark wood tabletop.",
+        "Close-up shot of a sweating hand desperately clicking a touchpad.",
+        "Over-the-shoulder shot of a private chat message visible to fifty colleagues."
+      ],
+      "caption": "Ein privater Chat auf dem Beamer – der Albtraum im Büro! Ist dir das auch schon passiert? #BüroFail #ChatDrama #WorkLife #StirnZahl",
+      "zielsprache": "Das siehst du in Level 3."
+    },
+    {
+      "n": 4,
+      "open_loop": "Welche brisanten E-Mails aus dem Postfach der Geschäftsführung wurden plötzlich für alle sichtbar?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Droht mit rechtlichen Schritten wegen Verletzung des Geschäftsgeheimnisses.",
+        "name": "Leo, 38, Abteilungsleiter"
+      },
+      "name": "Leo, 38, Abteilungsleiter",
+      "badge": "4.900 € netto",
+      "verdict": "ETABLIERT",
+      "story": "Die 8 Level von Bildschirme teilen. Level 4. Der Verrat in diesem Augenblick ist absolut greifbar, als die Chefin mit eisiger Miene vor dem Auditorium steht und mich mit Blicken durchbohrt, die töten könnten. Ihre eiskalte Reaktion spiegelt die nackte Panik der gesamten Führungsetage wider, denn die soeben veröffentlichten E-Mails legen die illegalen Machenschaften und Intrigen des Vorstands offen wie ein aufgeschnittenes Buch. Doch obwohl sie mich offiziell als den Schuldigen hinstellen will, um von ihrer eigenen Korruption abzulenken, halte ich alle Fäden fest in meiner Hand. Trotz meines offiziell niedrigeren Rangs bin ich in Wahrheit das unersetzliche Fundament dieser Firma, ohne das in den letzten Jahren kein einziger profitabler Deal zustande gekommen wäre. Während die Chefin versucht, mich mit disziplinarischen Schritten einzuschüchtern, tippe ich seelenruhig den entscheidenden Befehl in mein Terminal, der ihre Konten augenblicks einfriert. Die absolute Machtverschiebung liegt in diesem Moment in meinen Händen, und ich genieße jede einzelne Sekunde ihres fassungslosen Entsetzens. Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+800 €",
+        "after": "5.700 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Bildschirme teilen. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Der Verrat in diesem Augenblick ist absolut greifbar, als die Chefin mit eisiger Miene vor dem Auditorium steht und mich mit Blicken durchbohrt, die töten könnten. Ihre eiskalte Reaktion spiegelt die nackte Panik der gesamten Führungsetage wider, denn die soeben veröffentlichten E-Mails legen die illegalen Machenschaften und Intrigen des Vorstands offen wie ein aufgeschnittenes Buch. Doch obwohl sie mich offiziell als den Schuldigen hinstellen will, um von ihrer eigenen Korruption abzulenken, halte ich alle Fäden fest in meiner Hand. Trotz meines offiziell niedrigeren Rangs bin ich in Wahrheit das unersetzliche Fundament dieser Firma, ohne das in den letzten Jahren kein einziger profitabler Deal zustande gekommen wäre. Während die Chefin versucht, mich mit disziplinarischen Schritten einzuschüchtern, tippe ich seelenruhig den entscheidenden Befehl in mein Terminal, der ihre Konten augenblicks einfriert. Die absolute Machtverschiebung liegt in diesem Moment in meinen Händen, und ich genieße jede einzelne Sekunde ihres fassungslosen Entsetzens."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Du hast uns alle hintergangen, du planst unseren Rauswurf seit Wochen!",
+      "quote_by": {
+        "level": 6,
+        "name": "Frau Avocado",
+        "badge": "7.500 €",
+        "character": "An elegant avocado woman with dark green textured skin and expensive pearl earrings.",
+        "scene": "Medium shot of an avocado woman looking betrayed and pointing at a laptop screen."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "5.700 €",
+          "bar": 0.65
+        },
+        {
+          "label": "Status",
+          "value": "Abteilungsleiter",
+          "bar": 0.7
+        },
+        {
+          "label": "Risiko",
+          "value": "Kritisch",
+          "bar": 0.85
+        }
+      ],
+      "character": "An anthropomorphic avocado man with a smooth green pear-shaped head, wearing a crisp dark suit and a glowing digital badge.",
+      "visual": "A luxurious corporate auditorium with tiered seating, glass railings, and a massive LED screen glowing in the background.",
+      "scenes": [
+        "Auditorium, wide shot, luxury leather chairs, dramatic lighting from a massive presentation screen.",
+        "Close-up of an avocado forehead showing 5.700 Euro glowing in bright green digits.",
+        "Medium shot, an elegant avocado woman staring in pure shock at an email inbox.",
+        "Detail shot, a tiny golden coin resting on the armrest of a plush velvet chair.",
+        "Close-up shot of panicked eyes watching scrolling text on a monitor.",
+        "Overhead shot of a tense crowd of fruit and vegetable executives whispering."
+      ],
+      "caption": "Geheime E-Mails für alle sichtbar! Wie würdest du in dieser Situation reagieren? #E-MailFail #OfficeDrama #Management #StirnZahl",
+      "zielsprache": "Das siehst du in Level 4."
+    },
+    {
+      "n": 5,
+      "open_loop": "Welche astronomische Summe stand auf dem Bankkonto, das plötzlich auf dem Bildschirm aufleuchtete?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Beschuldigt die Hauptfigur des Betrugs und fordert eine interne Untersuchung.",
+        "name": "Maya, 42, Finanzdirektorin"
+      },
+      "name": "Maya, 42, Finanzdirektorin",
+      "badge": "7.200 € netto",
+      "verdict": "OBEREN 10%",
+      "story": "Die 8 Level von Bildschirme teilen. Level 5. Der Direktor schäum vor Neid und seine Arroganz ist fast mit Händen zu greifen, als er mit zitterndem Zeigefinger auf das offshore Depot zeigt und mich vor versammelter Mannschaft fälschlicherweise des hinterhältigen Betrugs beschuldigt. Seine laute, kreischende Stimme schallt durch den hochmodernen Glas-Boardroom, während er sofort mit der Polizei droht, um mich in Handschellen abführen zu lassen. Doch die Zuschauer und ich sind in diesem entscheidenden Moment die Einzigen, die die absolute Wahrheit kennen: Dieses luxuriöse offshore Depot gehört gar nicht mir, sondern dem hochmütigen Direktor persönlich, der die Gelder der Angestellten systematisch veruntreut hat, um sich ein goldenes Leben zu finanzieren. Seine gespielte Empörung ist so durchschaubar wie billiges Glas, und während er sich um Kopf und Kragen redet, lehne ich mich entspannt zurück und lasse ihn in seine selbstgegrabene Grube fallen. Die Beweise auf dem Bildschirm sprechen eine unmissverständliche Sprache, und seine arrogante Maske bröckelt Sekunde für Sekunde unter dem Druck der Realität. Das siehst du in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1.500 €",
+        "after": "8.700 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Bildschirme teilen. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Der Direktor schäum vor Neid und seine Arroganz ist fast mit Händen zu greifen, als er mit zitterndem Zeigefinger auf das offshore Depot zeigt und mich vor versammelter Mannschaft fälschlicherweise des hinterhältigen Betrugs beschuldigt. Seine laute, kreischende Stimme schallt durch den hochmodernen Glas-Boardroom, während er sofort mit der Polizei droht, um mich in Handschellen abführen zu lassen. Doch die Zuschauer und ich sind in diesem entscheidenden Moment die Einzigen, die die absolute Wahrheit kennen: Dieses luxuriöse offshore Depot gehört gar nicht mir, sondern dem hochmütigen Direktor persönlich, der die Gelder der Angestellten systematisch veruntreut hat, um sich ein goldenes Leben zu finanzieren. Seine gespielte Empörung ist so durchschaubar wie billiges Glas, und während er sich um Kopf und Kragen redet, lehne ich mich entspannt zurück und lasse ihn in seine selbstgegrabene Grube fallen. Die Beweise auf dem Bildschirm sprechen eine unmissverständliche Sprache, und seine arrogante Maske bröckelt Sekunde für Sekunde unter dem Druck der Realität."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Woher hast du dieses Vermögen, während die Firma spart?",
+      "quote_by": {
+        "level": 7,
+        "name": "Herr Kokosnuss",
+        "badge": "12.500 €",
+        "character": "A tough coconut man with a hard brown textured head and an expensive tailored tuxedo.",
+        "scene": "Wide shot of a coconut man crossing his arms scornfully in a high-rise boardroom."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "8.700 €",
+          "bar": 0.8
+        },
+        {
+          "label": "Status",
+          "value": "Direktorin",
+          "bar": 0.85
+        },
+        {
+          "label": "Risiko",
+          "value": "Sehr Hoch",
+          "bar": 0.9
+        }
+      ],
+      "character": "An anthropomorphic coconut woman with a hard brown textured head, wearing a sophisticated silk blouse and a glowing digital badge.",
+      "visual": "A high-end glass boardroom on the 40th floor overlooking a sprawling metropolis at sunset, modern minimalist furniture.",
+      "scenes": [
+        "High-rise boardroom, wide shot, panoramic city sunset view, sleek glass conference table.",
+        "Close-up of a coconut forehead showing 8.700 Euro glowing in bright cyan numbers.",
+        "Medium shot, a stern coconut man in a tuxedo glaring at a glowing financial chart.",
+        "Detail shot, a tiny golden coin resting on a crystal water glass base.",
+        "Close-up shot of a glowing smartphone screen buzzing with incoming notifications.",
+        "Overhead shot of astonished colleagues staring at massive wealth figures on a screen."
+      ],
+      "caption": "Reichtum versehentlich im Meeting enthüllt! Wie hättest du reagiert? #Finanzen #Krypto #Reich #Business #StirnZahl",
+      "zielsprache": "Das siehst du in Level 5."
+    },
+    {
+      "n": 6,
+      "open_loop": "Welches dunkle Firmengeheimnis wurde im nächsten geteilten Dokument enthüllt?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Beschuldigt die Hauptfigur öffentlich der Industriespionage.",
+        "name": "Viktor, 49, Vorstandsvorsitzender"
+      },
+      "name": "Viktor, 49, Vorstandsvorsitzender",
+      "badge": "14.000 € netto",
+      "verdict": "ELITE",
+      "story": "Die 8 Level von Bildschirme teilen. Level 6. Der Vorstandsvorsitzende betritt den Raum mit einer derart unerträglichen, extrem arroganten Haltung, dass die Luft im Penthouse-Boardroom augenblicklich gefriert. Er baut sich vor mir auf, blickt mit abwertender Verachtung auf meine Kleidung und beginnt sofort damit, mich vor versammelten Top-Managern gnadenlos zu demütigen und als unfähigen Niemand zu beschimpfen. Seine herablassenden Worte hallen von den edlen Holzpaneelen der Wände wider, während die anderen Vorstandsmitglieder schweigend zusehen, wie er mich wie Dreck behandelt. Doch genau in dem Bruchteil einer Sekunde, in dem er sich auf dem Höhepunkt seiner Macht wähnt, entfalte ich den genialen Twist: Ich war es von Anfang an, der den gesamten Fusionsplan im Hintergrund bis ins kleinste Detail manipuliert und mit einer unknackbaren Verschlüsselung versehen hat! Die hochkomplexen Diagramme auf der Riesenleinwand springen plötzlich auf und zeigen, dass seine eigenen Unterschriften den ruinösen Deal besiegeln. Seine arrogante Farbe schlägt augenblicklich in kalken Schrecken um, als er begreift, dass er sich mit dem falschen Mitarbeiter angelegt hat und die Fäden längst nicht mehr in seinen Händen hält. Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+3.000 €",
+        "after": "17.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Bildschirme teilen. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Der Vorstandsvorsitzende betritt den Raum mit einer derart unerträglichen, extrem arroganten Haltung, dass die Luft im Penthouse-Boardroom augenblicklich gefriert. Er baut sich vor mir auf, blickt mit abwertender Verachtung auf meine Kleidung und beginnt sofort damit, mich vor versammelten Top-Managern gnadenlos zu demütigen und als unfähigen Niemand zu beschimpfen. Seine herablassenden Worte hallen von den edlen Holzpaneelen der Wände wider, während die anderen Vorstandsmitglieder schweigend zusehen, wie er mich wie Dreck behandelt. Doch genau in dem Bruchteil einer Sekunde, in dem er sich auf dem Höhepunkt seiner Macht wähnt, entfalte ich den genialen Twist: Ich war es von Anfang an, der den gesamten Fusionsplan im Hintergrund bis ins kleinste Detail manipuliert und mit einer unknackbaren Verschlüsselung versehen hat! Die hochkomplexen Diagramme auf der Riesenleinwand springen plötzlich auf und zeigen, dass seine eigenen Unterschriften den ruinösen Deal besiegeln. Seine arrogante Farbe schlägt augenblicklich in kalken Schrecken um, als er begreift, dass er sich mit dem falschen Mitarbeiter angelegt hat und die Fäden längst nicht mehr in seinen Händen hält."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Du hast uns alle verraten, du spielst ein falsches Spiel hinter unserem Rücken!",
+      "quote_by": {
+        "level": 8,
+        "name": "Herr Drachenfrucht",
+        "badge": "25.000 €",
+        "character": "An exotic dragon fruit man with vibrant pink scaled skin and green leafy tips, wearing a bespoke velvet suit.",
+        "scene": "Medium shot of a dragon fruit man slamming his fist onto a glass conference table."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "17.000 €",
+          "bar": 0.9
+        },
+        {
+          "label": "Status",
+          "value": "Vorstand",
+          "bar": 0.92
+        },
+        {
+          "label": "Risiko",
+          "value": "Extrem",
+          "bar": 0.95
+        }
+      ],
+      "character": "An anthropomorphic dragon fruit man with exotic pink skin and green spikes, wearing a high-end designer suit and a glowing digital badge.",
+      "visual": "A ultra-modern executive penthouse boardroom with dark wood finishings, dramatic designer lighting, and city views.",
+      "scenes": [
+        "Penthouse boardroom, wide shot, dark mahogany table, dramatic blue and pink ambient lighting.",
+        "Close-up of a dragon fruit forehead showing 17.000 Euro glowing in bright neon pink digits.",
+        "Medium shot, an exotic dragon fruit man slamming his fist onto a glass table in outrage.",
+        "Detail shot, a tiny golden coin resting on the edge of a leather blotter.",
+        "Close-up shot of angry glowing eyes reflecting complex corporate merger charts.",
+        "Overhead shot of top executives standing up in total uproar around a giant screen."
+      ],
+      "caption": "Der ultimative Firmen-Crash auf der Großleinwand! Hättest du das vertuschen können? #Vorstand #BusinessFail #Skandal #StirnZahl",
+      "zielsprache": "Das siehst du in Level 6."
+    },
+    {
+      "n": 7,
+      "open_loop": "Welche geheime Überweisung an die Konkurrenz wurde im nächsten Dokument sichtbar?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Nimmt der Hauptfigur sofort die Entscheidungsgewalt über das Projekt weg.",
+        "name": "Elena, 51, Aufsichtsrätin"
+      },
+      "name": "Elena, 51, Aufsichtsrätin",
+      "badge": "22.000 € netto",
+      "verdict": "SPITZENREITER",
+      "story": "Die 8 Level von Bildschirme teilen. Level 7. Der Streit im Aufsichtsrat eskaliert in diesem Moment zu einem absolut erbarmungslosen Machtkampf, bei dem die Wände des luxuriösen Marmorsaals unter der elektrisierten Spannung zu zittern scheinen. Meine Gegenspielerin, die manipulative Aufsichtsrätin, genießt ihren vermeintlichen Sieg in vollen Zügen und triumphiert mit einem eiskalten, herablassenden Lächeln, während sie mich mit harten Anschuldigungen überhäuft. Sie baut genau das offene Geheimnis auf, das schon seit Monaten als tickende Zeitbombe im Hintergrund schwelt und das im nächsten und letzten Level alles vollständig explodieren lassen wird. Jedes ihrer Worte ist Gift, jeder Blick pure Verachtung für meinen niedrigeren Status in der offiziellen Hierarchie. Doch während sie sich in ihrer vermeintlichen Überlegenheit sonnt, halte ich den ultimativen Trumpf fest in der Hand, der ihr Imperium in Trümmer legen wird. Die digitalen Zahlen auf ihrer Stirn flackern unruhig, und das spürbare Beben im gesamten Raum zeigt, dass der Countdown für ihren unaufhaltsamen Sturz längst begonnen hat. Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "+5.000 €",
+        "after": "27.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Bildschirme teilen. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Der Streit im Aufsichtsrat eskaliert in diesem Moment zu einem absolut erbarmungslosen Machtkampf, bei dem die Wände des luxuriösen Marmorsaals unter der elektrisierten Spannung zu zittern scheinen. Meine Gegenspielerin, die manipulative Aufsichtsrätin, genießt ihren vermeintlichen Sieg in vollen Zügen und triumphiert mit einem eiskalten, herablassenden Lächeln, während sie mich mit harten Anschuldigungen überhäuft. Sie baut genau das offene Geheimnis auf, das schon seit Monaten als tickende Zeitbombe im Hintergrund schwelt und das im nächsten und letzten Level alles vollständig explodieren lassen wird. Jedes ihrer Worte ist Gift, jeder Blick pure Verachtung für meinen niedrigeren Status in der offiziellen Hierarchie. Doch während sie sich in ihrer vermeintlichen Überlegenheit sonnt, halte ich den ultimativen Trumpf fest in der Hand, der ihr Imperium in Trümmer legen wird. Die digitalen Zahlen auf ihrer Stirn flackern unruhig, und das spürbare Beben im gesamten Raum zeigt, dass der Countdown für ihren unaufhaltsamen Sturz längst begonnen hat."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Du sitzt in unserem Aufsichtsrat und fütterst die Konkurrenz mit unserem Geld!",
+      "quote_by": {
+        "level": 6,
+        "name": "Viktor",
+        "badge": "17.000 €",
+        "character": "An imposing dragon fruit man with bright pink skin and a sharp tailored suit.",
+        "scene": "Medium shot of a dragon fruit man pointing aggressively across a boardroom table."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "27.000 €",
+          "bar": 0.95
+        },
+        {
+          "label": "Status",
+          "value": "Aufsichtsrat",
+          "bar": 0.98
+        },
+        {
+          "label": "Risiko",
+          "value": "Absolut",
+          "bar": 1.0
+        }
+      ],
+      "character": "An anthropomorphic pineapple woman with a textured golden-brown body and spiky green crown leaves, wearing an elegant business costume and a glowing digital badge.",
+      "visual": "An ultra-luxurious marble and glass board chamber with towering columns and golden accents, filled with powerful vegetable executives.",
+      "scenes": [
+        "Marble board chamber, wide shot, towering glass columns, expensive golden interior details.",
+        "Close-up of a pineapple forehead showing 27.000 Euro glowing in bright golden-yellow digits.",
+        "Medium shot, an angry dragon fruit man pointing accusingly at a financial dashboard.",
+        "Detail shot, a tiny golden coin resting on the polished marble edge of the speaker podium.",
+        "Close-up shot of wide, shocked eyes reflecting millions in offshore transactions.",
+        "Over-the-shoulder shot of powerful executives whispering urgently in a circle."
+      ],
+      "caption": "Das Millionen-Geheimnis auf dem Firmen-Bildschirm! Hättest du das vertuschen können? #Aufsichtsrat #Skandal #Millionär #StirnZahl",
+      "zielsprache": "Das siehst du in Level 7."
+    },
+    {
+      "n": 8,
+      "open_loop": "Was befand sich in der mysteriösen Datei, die im letzten Moment alle Bildschirme weltweit entsperrte?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Versucht das System komplett abzuschalten, um die Wahrheit zu vertuschen.",
+        "name": "Arthur, 55, Gründer & Inhaber"
+      },
+      "name": "Arthur, 55, Gründer & Inhaber",
+      "badge": "MAXIMAL",
+      "verdict": "UNBEZAHLBAR",
+      "story": "Die 8 Level von Bildschirme teilen. Level 8. Dieses große Finale erfüllt mich mit einer absoluten, unbeschreiblichen Genugtuung, die jede einzelne durchlittene Erniedrigung der vergangenen Wochen vergessen macht. Vor den Augen der gesamten Stadt, die live auf die gigantischen Werbetafonds und Bildschirme blickt, werden die künstlich manipulierten Stirn-Zahlen aller Bürger ein für alle Mal gelöscht und auf Null gesetzt. Der arrogante Gründer bricht in diesem Moment vor den Augen aller entsetzt zusammen, verliert jegliche Fassung und greift ins Leere, während sein scheinbar unbesiegbares System endgültig kollabiert. Die funkelnden Neonlichter der Skyline spiegeln sich in den Tränen seiner Verzweiflung, während die Befreiungsschlag-Sequenz durch das globale Datennetz rast und Millionen von Menschen ihre wahre Freiheit zurückgibt. Jeder Klick hat zu diesem exakten Moment geführt, in dem die Wahrheit gesiegt hat und das korrupte System auf ewig entmachtet wurde. Ich stehe auf dem Dach des höchsten Towers, betrachte das strahlende Lichtermeer der Stadt und spüre den süßen Geschmack des absoluten Triumphs.",
+      "gender": "m",
+      "twist": {
+        "delta": "MAX",
+        "after": "UNENDLICH"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Bildschirme teilen. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Dieses große Finale erfüllt mich mit einer absoluten, unbeschreiblichen Genugtuung, die jede einzelne durchlittene Erniedrigung der vergangenen Wochen vergessen macht. Vor den Augen der gesamten Stadt, die live auf die gigantischen Werbetafonds und Bildschirme blickt, werden die künstlich manipulierten Stirn-Zahlen aller Bürger ein für alle Mal gelöscht und auf Null gesetzt. Der arrogante Gründer bricht in diesem Moment vor den Augen aller entsetzt zusammen, verliert jegliche Fassung und greift ins Leere, während sein scheinbar unbesiegbares System endgültig kollabiert. Die funkelnden Neonlichter der Skyline spiegeln sich in den Tränen seiner Verzweiflung, während die Befreiungsschlag-Sequenz durch das globale Datennetz rast und Millionen von Menschen ihre wahre Freiheit zurückgibt. Jeder Klick hat zu diesem exakten Moment geführt, in dem die Wahrheit gesiegt hat und das korrupte System auf ewig entmachtet wurde. Ich stehe auf dem Dach des höchsten Towers, betrachte das strahlende Lichtermeer der Stadt und spüre den süßen Geschmack des absoluten Triumphs."
+        }
+      ],
+      "quote": "Du hast das System von Anfang an gesteuert, du wusstest von der Wahrheit hinter der Zahl!",
+      "quote_by": {
+        "level": 7,
+        "name": "Elena",
+        "badge": "27.000 €",
+        "character": "An elegant pineapple woman with a spiky green crown and golden-yellow skin.",
+        "scene": "Medium shot of a pineapple woman staring in disbelief at a glowing master terminal."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "UNENDLICH",
+          "bar": 1.0
+        },
+        {
+          "label": "Status",
+          "value": "Gründer",
+          "bar": 1.0
+        },
+        {
+          "label": "Risiko",
+          "value": "Kontrolle",
+          "bar": 1.0
+        }
+      ],
+      "character": "An anthropomorphic watermelon man with a striped green rind head, wearing an immaculate white executive suit and a glowing digital badge.",
+      "visual": "A futuristic master control hub overlooking the entire glowing metropolis through curved glass walls, with holographic data streams in the air.",
+      "scenes": [
+        "Master control hub, wide cinematic shot, curved glass walls, glowing holographic city maps.",
+        "Close-up of a watermelon forehead showing UNENDLICH glowing in brilliant golden light.",
+        "Medium shot, an elegant pineapple woman staring in total shock at a master console.",
+        "Detail shot, a glowing golden coin resting right in the center of a holographic interface.",
+        "Close-up shot of wise, knowing eyes looking across thousands of glowing monitors.",
+        "Wide shot of the entire metropolis glowing at night as all digital forehead numbers flash simultaneously."
+      ],
+      "caption": "Das ultimative Geheimnis der Stirn-Zahlen wurde gelüftet! Welches Thema sollen wir als Nächstes zeigen? #StirnZahl #DasGeheimnis #Finale #Viral #Ende",
+      "zielsprache": "Das siehst du in Level 8."
+    }
+  ],
+  "lang": "de",
+  "topic": "Das versehentliche Freigeben des Bildschirms im Firmen-All-Hands",
+  "frame": "frucht"
+}

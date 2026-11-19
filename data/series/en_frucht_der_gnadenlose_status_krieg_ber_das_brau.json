@@ -1,0 +1,819 @@
+{
+  "title": "The 8 Levels of Bridesmaid Budgets",
+  "house": "A bustling metropolitan city populated entirely by produce people, featuring neon-lit skyscrapers, a central subway line with a shiny golden coin hidden behind every ticket kiosk, and a trendy rooftop café where everyone judges your digital forehead display.",
+  "catchphrase": "The glowing digit on your forehead never lies.",
+  "links": [
+    "Level 3 barista mentions a quiet mango man who always leaves huge tips in Level 8.",
+    "Level 2 bride complains about a broke strawberry girl working at the local subway station.",
+    "Level 6 dragon fruit planner books the exact rooftop venue where Level 1 gets humiliated."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Who secretly transferred the missing fifteen hundred dollars into her bridesmaid account before the wedding bell rang?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Laughs at her cheap outfit and publicly crosses her name off the bridesmaid spreadsheet."
+      },
+      "name": "Mia, 23, Intern",
+      "badge": "150 $",
+      "verdict": "TOO BROKE",
+      "story": "The 8 levels of bridesmaid budgets. Level 1. How can you afford the bachelorette trip to Miami with only one hundred fifty dollars in your bank account? One hundred fifty dollars? Who invited this pathetic little strawberry to our luxury group chat? Maybe she can clean the yacht toilets for us rich bridesmaids instead of posing in the photos. We are invited as VIP guests, so treat us with absolute respect. The number on my forehead is my monthly grocery money, not my self-worth. You are standing in a five-star hotel lobby wearing a thrift store dress that smells like mothballs. Then she looked straight into my eyes and whispered the sentence that completely destroyed my pride. You will never survive this trip without begging on the street. You'll see that in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1.500 $",
+        "after": "1.650 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of bridesmaid budgets. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "How can you afford the bachelorette trip to Miami with only one hundred fifty dollars in your bank account?"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "One hundred fifty dollars? Who invited this pathetic little strawberry to our luxury group chat?",
+          "g": "w"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Maybe she can clean the yacht toilets for us rich bridesmaids instead of posing in the photos.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "We are invited as VIP guests, so treat us with absolute respect. The number on my forehead is my monthly grocery money, not my self-worth."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are standing in a five-star hotel lobby wearing a thrift store dress that smells like mothballs.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then she looked straight into my eyes and whispered the sentence that completely destroyed my pride."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You will never survive this trip without begging on the street.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You will never survive this trip without begging on the street.",
+      "quote_by": {
+        "level": 6,
+        "name": "Victoria",
+        "badge": "12.500 $",
+        "character": "A glamorous, arrogant Dragon Fruit person with spiky pink skin and an oversized designer sunglasses collection.",
+        "scene": "A wide angle shot of a luxurious five-star hotel lobby with marble floors, where a pink dragon fruit woman sneers down at a small strawberry person holding a cheap suitcase."
+      },
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "150 $",
+          "bar": 0.05
+        },
+        {
+          "label": "Dues",
+          "value": "0 $",
+          "bar": 0.0
+        },
+        {
+          "label": "Hope",
+          "value": "10 %",
+          "bar": 0.1
+        }
+      ],
+      "character": "A sweet red Strawberry person with tiny green leaf hair, wearing a faded cotton sundress, carrying a worn-out backpack; a glowing digital number 150 $ on her forehead.",
+      "visual": "A wide angle shot of a crowded, neon-lit hotel lobby at night, where a strawberry person stands humiliated next to glowing luggage displays, with a tiny golden coin hidden near a marble pillar.",
+      "scenes": [
+        "A wide angle shot of a crowded subway station platform at rush hour, with flickering fluorescent lights reflecting off tiled walls and various produce commuters holding glowing forehead numbers.",
+        "A close-up medium shot in a chaotic shared apartment kitchen, showing a broken coffee maker and a stack of unpaid bills next to a glowing laptop screen.",
+        "A medium two-shot outside a high-end bridal boutique on a rainy afternoon, where an arrogant dragon fruit woman blocks the glass door with shopping bags.",
+        "A detail shot of a trembling hand holding a cracked smartphone displaying a bank notification of exactly one hundred fifty dollars available.",
+        "A wide angle shot of a luxurious hotel rooftop terrace at sunset, featuring sparkling pool water and distant skyscraper silhouettes under purple clouds.",
+        "A close-up shot of a glowing digital forehead display flickering from red digits to green as an unknown wire transfer notification pops up."
+      ],
+      "caption": "Would you drop out of a wedding if the budget was this toxic? #bridesmaid #drama #budget #status #storytime"
+    },
+    {
+      "n": 2,
+      "open_loop": "What secret receipt did the lemon bride pull out of her designer handbag to humiliate her best friend?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Threatens to kick her out of the wedding party if she doesn't pay for the helicopter rental."
+      },
+      "name": "Chloe, 26, Barista",
+      "badge": "850 $",
+      "verdict": "BARELY HOLDING ON",
+      "story": "The 8 levels of bridesmaid budgets. Level 2. Eight hundred fifty dollars a month is all I earn pouring artisanal oat milk lattes at the downtown station café. You call this an affordable bachelorette trip when my entire monthly rent is eight hundred dollars? Everyone stared at my glowing forehead display while I handed over my meager contribution envelope. She laughed in my face and told me that my pocket change wouldn't even buy the champagne ice cubes. You are dragging us down into financial ruin just for your Instagram aesthetic. Then she slammed the itemized spreadsheet onto the marble table and uttered the cold truth. If you cannot afford the yacht charter, you do not deserve to stand at my altar. You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+500 $",
+        "after": "1.350 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of bridesmaid budgets. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Eight hundred fifty dollars a month is all I earn pouring artisanal oat milk lattes at the downtown station café."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You call this an affordable bachelorette trip when my entire monthly rent is eight hundred dollars?",
+          "g": "w"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Everyone stared at my glowing forehead display while I handed over my meager contribution envelope.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "She laughed in my face and told me that my pocket change wouldn't even buy the champagne ice cubes."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are dragging us down into financial ruin just for your Instagram aesthetic.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then she slammed the itemized spreadsheet onto the marble table and uttered the cold truth."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "If you cannot afford the yacht charter, you do not deserve to stand at my altar.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "If you cannot afford the yacht charter, you do not deserve to stand at my altar.",
+      "quote_by": {
+        "level": 7,
+        "name": "Amber",
+        "badge": "18.000 $",
+        "character": "A sour, perfectly polished Lemon person with bright yellow citrus skin, wearing an expensive silk designer scarf and a permanent sneer.",
+        "scene": "A medium shot inside a gleaming bridal boutique where a lemon woman in a white veil aggressively points at a spreadsheet while a barista looks devastated."
+      },
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "850 $",
+          "bar": 0.15
+        },
+        {
+          "label": "Tips",
+          "value": "120 $",
+          "bar": 0.1
+        },
+        {
+          "label": "Rent",
+          "value": "800 $",
+          "bar": 0.8
+        }
+      ],
+      "character": "A tart, pale yellow Lemon person with textured citrus skin, wearing a stained barista apron over a black turtleneck; a glowing digital number 850 $ on her forehead.",
+      "visual": "A wide angle shot of a bustling coffee shop counter during morning rush hour, with steam rising from espresso machines and a lemon barista wiping down the counter, with a hidden golden coin beneath the cash register.",
+      "scenes": [
+        "A wide angle shot of a steaming subway car interior with flickering fluorescent lighting and tired produce commuters holding onto overhead straps.",
+        "A close-up shot of an espresso machine pouring dark liquid into a paper cup while neon signs flash outside the rain-streaked window.",
+        "A medium two-shot in a modern apartment kitchen where a lemon bride inspects a printed budget ledger with an expression of pure disgust.",
+        "A detail shot of a cracked porcelain saucer filled with loose coins and crumpled dollar bills on a wooden table.",
+        "A wide angle shot of an upscale restaurant patio with white tablecloths and wealthy diners sipping mimosas under yellow umbrellas.",
+        "A close-up shot of a glowing digital forehead display flashing amber numbers during a heated argument."
+      ],
+      "caption": "Friendship ends when the wedding spreadsheet arrives. #bridesmaidzilla #friends #money #drama #storytime"
+    },
+    {
+      "n": 3,
+      "open_loop": "Who leaked the secret voice message about the bride's fake diamond ring into the group chat?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Publicly humiliates her accounting skills in front of the entire wedding committee."
+      },
+      "name": "Leo, 29, Accountant",
+      "badge": "2.400 $",
+      "verdict": "MODEST MIDDLE",
+      "story": "The 8 levels of bridesmaid budgets. Level 3. Two thousand four hundred dollars a month as a junior tax accountant does not cover three bachelorette weekend trips across the country. My forehead display glows with quiet mediocrity while the other groomsmen flash five-figure luxury numbers. Why should I take out a bank loan just to buy custom golf clubs for a bachelor party in Las Vegas? You are living way beyond your means and dragging your friends into debt. He smirked at my calculator and called me a penniless bean counter who belongs in the cheap seats. I balanced every single receipt for this wedding, and you still accuse me of stealing from the common pool. We are drowning in expenses because you demanded helicopter tours and private cabanas. Then the best man stepped forward and dropped a bombshell sentence that silenced the entire room. You will be paying off this weekend until your hair turns grey. You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+800 $",
+        "after": "3.200 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of bridesmaid budgets. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Two thousand four hundred dollars a month as a junior tax accountant does not cover three bachelorette weekend trips across the country."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "My forehead display glows with quiet mediocrity while the other groomsmen flash five-figure luxury numbers.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Why should I take out a bank loan just to buy custom golf clubs for a bachelor party in Las Vegas?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "You are living way beyond your means and dragging your friends into debt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "He smirked at my calculator and called me a penniless bean counter who belongs in the cheap seats.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "I balanced every single receipt for this wedding, and you still accuse me of stealing from the common pool."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "We are drowning in expenses because you demanded helicopter tours and private cabanas.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then the best man stepped forward and dropped a bombshell sentence that silenced the entire room."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You will be paying off this weekend until your hair turns grey.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "You will be paying off this weekend until your hair turns grey.",
+      "quote_by": {
+        "level": 8,
+        "name": "Maximilian",
+        "badge": "25.000 $",
+        "character": "An impossibly smooth Coconut person with a polished brown shell, wearing a custom tailored Italian suit and a gold Rolex.",
+        "scene": "A wide angle shot of an executive boardroom with floor-to-ceiling windows, where a coconut man in a sharp suit looks down at an accountant holding a ledger."
+      },
+      "stats": [
+        {
+          "label": "Salary",
+          "value": "2.400 $",
+          "bar": 0.3
+        },
+        {
+          "label": "Savings",
+          "value": "450 $",
+          "bar": 0.2
+        },
+        {
+          "label": "Debt",
+          "value": "1.200 $",
+          "bar": 0.5
+        }
+      ],
+      "character": "A sturdy, earthy Potato person with rough brown skin, wearing wire-rimmed glasses and a grey sweater vest; a glowing digital number 2.400 $ on his forehead.",
+      "visual": "A wide angle shot of a cluttered cubicle office with stacks of paper spreadsheets and glowing computer monitors, with a tiny golden coin hidden underneath a stapler.",
+      "scenes": [
+        "A wide angle shot of an open-plan accounting office with rows of desks and glaring white fluorescent tube lights.",
+        "A close-up shot of a mechanical calculator printing long strips of numbers onto white paper tape.",
+        "A medium two-shot in a conference room where a coconut executive looms over a desk pointing at an expense deficit.",
+        "A detail shot of a glowing green spreadsheet highlighting negative budget balances in bold red text.",
+        "A wide angle shot of a sleek glass elevator ascending a corporate skyscraper overlooking a foggy downtown cityscape.",
+        "A close-up shot of a glowing forehead display ticking upward after an unexpected tax refund deposit."
+      ],
+      "caption": "Spreadsheets don't lie, but wedding planners do. #accounting #budget #wedding #drama #storytime"
+    },
+    {
+      "n": 4,
+      "open_loop": "Why was the mysterious envelope addressed to her with fifty cash bills left on the reception desk?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Spills red wine on her designer dress and claims it was an honest accident."
+      },
+      "name": "Maya, 27, Graphic Designer",
+      "badge": "4.100 $",
+      "verdict": "DOING OKAY",
+      "story": "The 8 levels of bridesmaid budgets. Level 4. Four thousand one hundred dollars a month as a freelance designer should be enough to enjoy being a bridesmaid without going bankrupt. But my custom bridal shower gift contribution was mocked for not being expensive enough. You think buying a thousand-dollar crystal vase proves friendship? My forehead display is glowing with honest wages, not crypto scams or inherited wealth. She sneered at my handmade invitation designs and called them amateur dollar-store garbage. I spent three sleepless nights designing your custom wedding logo for free, and this is how you repay me? We are here to celebrate love, not to compete in a wealth pageant funded by maxed-out credit cards. Then she tossed my sketchbook into the decorative fountain and uttered the ultimate insult. Your little drawings are worth less than the paper they are printed on. You'll see that in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1.200 $",
+        "after": "5.300 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of bridesmaid budgets. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Four thousand one hundred dollars a month as a freelance designer should be enough to enjoy being a bridesmaid without going bankrupt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "But my custom bridal shower gift contribution was mocked for not being expensive enough.",
+          "g": "w"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "You think buying a thousand-dollar crystal vase proves friendship?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead display is glowing with honest wages, not crypto scams or inherited wealth."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "She sneered at my handmade invitation designs and called them amateur dollar-store garbage.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "I spent three sleepless nights designing your custom wedding logo for free, and this is how you repay me?"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "We are here to celebrate love, not to compete in a wealth pageant funded by maxed-out credit cards.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then she tossed my sketchbook into the decorative fountain and uttered the ultimate insult."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your little drawings are worth less than the paper they are printed on.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Your little drawings are worth less than the paper they are printed on.",
+      "quote_by": {
+        "level": 1,
+        "name": "Penny",
+        "badge": "150 $",
+        "character": "A bitter, struggling Strawberry person with wilted green leaves, wearing a torn denim jacket and carrying a grudge.",
+        "scene": "A medium shot near an outdoor fountain where a bitter strawberry person angrily splashes water toward a designer's sketchbook."
+      },
+      "stats": [
+        {
+          "label": "Freelance",
+          "value": "4.100 $",
+          "bar": 0.45
+        },
+        {
+          "label": "Clients",
+          "value": "12",
+          "bar": 0.6
+        },
+        {
+          "label": "Stress",
+          "value": "85 %",
+          "bar": 0.85
+        }
+      ],
+      "character": "An artistic Avocado person with vibrant green skin and a large smooth pit-shaped hairstyle, wearing a paint-splattered denim apron; a glowing digital number 4.100 $ on her forehead.",
+      "visual": "A wide angle shot of a sunlit design studio filled with colorful mood boards, sketch pads, and graphic tablets, with a tiny golden coin hidden inside a ceramic coffee mug.",
+      "scenes": [
+        "A wide angle shot of a sunlit loft apartment studio with towering windows and lush green houseplants hanging from exposed ceiling pipes.",
+        "A close-up shot of a stylus pen gliding across a digital drawing tablet displaying intricate floral vector graphics.",
+        "A medium two-shot by a marble hotel fountain where an angry strawberry person splashes water on a leather portfolio.",
+        "A detail shot of wet watercolor paints bleeding across a handmade wedding invitation mockup.",
+        "A wide angle shot of a trendy rooftop art gallery opening with fairy lights strung across brick walls.",
+        "A close-up shot of a glowing digital forehead display updating instantly after a major client wire transfer clears."
+      ],
+      "caption": "Art has value, even if toxic brides don't see it. #freelance #design #wedding #drama #storytime"
+    },
+    {
+      "n": 5,
+      "open_loop": "What secret financial document did the accountant find hidden inside the wedding registry binder?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Refuses to split the dinner bill evenly because she only ordered tap water."
+      },
+      "name": "Oliver, 31, Architect",
+      "badge": "6.800 $",
+      "verdict": "VERY COMFORTABLE",
+      "story": "The 8 levels of bridesmaid budgets. Level 5. Six thousand eight hundred dollars a month designing luxury suburban homes should buy me some peace during this chaotic wedding planning. But the bride expects every groomsman to pay two thousand dollars for custom tailored suits we will wear exactly once. You call this honoring our friendship when you treat us like walking ATM machines? My forehead display is shining bright with professional success, yet I am being treated like a freeloader. He scoffed at my architectural blueprints and told me my building designs looked like shoeboxes. I am funding half of this bachelor trip out of my own savings while you take all the credit on social media. We are adults with real mortgages, not teenagers playing billionaire dress-up. Then he crossed his arms and delivered the most arrogant verdict of the evening. If you cannot afford a custom Italian suit, you do not belong in my photos. You'll see that in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1.500 $",
+        "after": "8.300 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of bridesmaid budgets. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Six thousand eight hundred dollars a month designing luxury suburban homes should buy me some peace during this chaotic wedding planning."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "But the bride expects every groomsman to pay two thousand dollars for custom tailored suits we will wear exactly once.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "You call this honoring our friendship when you treat us like walking ATM machines?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead display is shining bright with professional success, yet I am being treated like a freeloader."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "He scoffed at my architectural blueprints and told me my building designs looked like shoeboxes.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "I am funding half of this bachelor trip out of my own savings while you take all the credit on social media."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "We are adults with real mortgages, not teenagers playing billionaire dress-up.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then he crossed his arms and delivered the most arrogant verdict of the evening."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "If you cannot afford a custom Italian suit, you do not belong in my photos.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "If you cannot afford a custom Italian suit, you do not belong in my photos.",
+      "quote_by": {
+        "level": 3,
+        "name": "Leo",
+        "badge": "2.400 $",
+        "character": "An insecure Potato person with rough brown skin and wire-rimmed glasses, wearing a tight sweater vest.",
+        "scene": "A medium shot in an upscale restaurant where a potato accountant angrily taps his calculator while arguing over a dinner bill."
+      },
+      "stats": [
+        {
+          "label": "Monthly",
+          "value": "6.800 $",
+          "bar": 0.65
+        },
+        {
+          "label": "Projects",
+          "value": "4",
+          "bar": 0.5
+        },
+        {
+          "label": "Savings",
+          "value": "18.000 $",
+          "bar": 0.7
+        }
+      ],
+      "character": "A sleek, cylindrical Cucumber person with crisp green skin, wearing a sharp charcoal blazer and silver cufflinks; a glowing digital number 6.800 $ on his forehead.",
+      "visual": "A wide angle shot of a modern architectural drafting studio with glass tables, blueprint roll models, and scale models, with a tiny golden coin hidden inside a brass architectural compass.",
+      "scenes": [
+        "A wide angle shot of a sleek architectural firm office with floor-to-ceiling glass walls overlooking a modern metropolitan skyline.",
+        "A close-up shot of a scale model building illuminated by warm miniature LED interior lights.",
+        "A medium two-shot in a high-end steakhouse where a potato accountant aggressively argues over restaurant item pricing.",
+        "A detail shot of a blue architectural pen resting on top of a marked-up structural engineering blueprint.",
+        "A wide angle shot of a paved hotel driveway valet area filled with luxury sports cars and glowing parking ticket machines.",
+        "A close-up shot of a glowing digital forehead display flashing green numbers after an architectural fee payment hits."
+      ],
+      "caption": "Good design can't fix bad friendship economics. #architecture #groom #wedding #drama #storytime"
+    },
+    {
+      "n": 6,
+      "open_loop": "Who sent the anonymous tip to the wedding venue manager that cancelled the reception hall booking?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Threatens to publish embarrassing college photos if she doesn't lower her bridesmaid fee."
+      },
+      "name": "Victoria, 29, Event Planner",
+      "badge": "12.500 $",
+      "verdict": "HIGH ROLLER",
+      "story": "The 8 levels of bridesmaid budgets. Level 6. Twelve thousand five hundred dollars a month running the top luxury event planning firm in the city, yet I am expected to cater to ungrateful bridesmaids. You think organizing a destination wedding in Santorini is easy when everyone complains about luxury accommodation costs? My forehead display shines with pure executive excellence, while they whine about hundred-dollar boat tours. She dared to question my vendor commission rates right in front of the bride and groom. I have spent six months turning your mediocre vision into a fairytale wedding, and you accuse me of overcharging? We are talking about luxury standards, not a backyard barbecue with paper plates. Then she sneered at my designer clipboard and dropped the most disrespectful line of the season. Your luxury event planning looks like a glorified birthday party for toddlers. You'll see that in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+3.000 $",
+        "after": "15.500 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of bridesmaid budgets. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Twelve thousand five hundred dollars a month running the top luxury event planning firm in the city, yet I am expected to cater to ungrateful bridesmaids."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You think organizing a destination wedding in Santorini is easy when everyone complains about luxury accommodation costs?",
+          "g": "w"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "My forehead display shines with pure executive excellence, while they whine about hundred-dollar boat tours.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "She dared to question my vendor commission rates right in front of the bride and groom."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "I have spent six months turning your mediocre vision into a fairytale wedding, and you accuse me of overcharging?",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "We are talking about luxury standards, not a backyard barbecue with paper plates."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Then she sneered at my designer clipboard and dropped the most disrespectful line of the season.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Your luxury event planning looks like a glorified birthday party for toddlers."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "Your luxury event planning looks like a glorified birthday party for toddlers.",
+      "quote_by": {
+        "level": 4,
+        "name": "Maya",
+        "badge": "4.100 $",
+        "character": "An artistic Avocado person with vibrant green skin and paint-splattered clothing.",
+        "scene": "A medium shot in an art studio where an avocado designer mockingly waves a sketchbook at a wedding planner."
+      },
+      "stats": [
+        {
+          "label": "Revenue",
+          "value": "12.500 $",
+          "bar": 0.8
+        },
+        {
+          "label": "Events",
+          "value": "24",
+          "bar": 0.9
+        },
+        {
+          "label": "Status",
+          "value": "Elite",
+          "bar": 0.95
+        }
+      ],
+      "character": "A glamorous, spiky Dragon Fruit person with vibrant pink skin and emerald green leaf tips, wearing a white silk jumpsuit and oversized designer sunglasses; a glowing digital number 12.500 $ on her forehead.",
+      "visual": "A wide angle shot of an extravagant ballroom filled with crystal chandeliers, floral arches, and white linen tables, with a tiny golden coin hidden inside a champagne flute tower.",
+      "scenes": [
+        "A wide angle shot of a grand hotel ballroom decorated with thousands of white roses and crystal chandeliers hanging from vaulted ceilings.",
+        "A close-up shot of a gold-embossed seating chart resting on a polished mahogany easel.",
+        "A medium two-shot in a design studio where an avocado graphic designer mocks a wedding planner holding a clipboard.",
+        "A detail shot of a diamond-encrusted wristwatch resting on top of an expensive catering contract folder.",
+        "A wide angle shot of a private yacht marina at sunset with white yachts docked along wooden boardwalks.",
+        "A close-up shot of a glowing digital forehead display jumping upward after a high-end wedding deposit wire clears."
+      ],
+      "caption": "Event planning is war when budgets clash. #weddingplanner #luxury #drama #storytime #status"
+    },
+    {
+      "n": 7,
+      "open_loop": "What was written on the confidential legal notice delivered right before the wedding ceremony started?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Spills coffee all over her designer wedding invitations out of pure jealousy."
+      },
+      "name": "Amber, 32, Bride",
+      "badge": "18.000 $",
+      "verdict": "ELITE BRIDE",
+      "story": "The 8 levels of bridesmaid budgets. Level 7. Eighteen thousand dollars a month funding my dream wedding, yet my bridesmaids act like ungrateful peasants whining about expenses. You expect me to downgrade my fairytale reception just because your forehead display only shows pocket change? My forehead shines with undisputed queen status while you try to sabotage my special day. She had the audacity to complain about buying a three-hundred-dollar bridesmaid dress on her meager barista salary. I gave you the honor of standing next to me at the altar, and you repay me by spreading rumors about my wedding debt? We are creating memories that will last forever, not balancing a cheap grocery budget. Then she glared at my diamond tiara and spat out the most venomous insult imaginable. You are buying your happiness with borrowed money that will ruin you by next year. You'll see that in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "-5.000 $",
+        "after": "13.000 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of bridesmaid budgets. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Eighteen thousand dollars a month funding my dream wedding, yet my bridesmaids act like ungrateful peasants whining about expenses."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You expect me to downgrade my fairytale reception just because your forehead display only shows pocket change?",
+          "g": "w"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "My forehead shines with undisputed queen status while you try to sabotage my special day.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "She had the audacity to complain about buying a three-hundred-dollar bridesmaid dress on her meager barista salary."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "I gave you the honor of standing next to me at the altar, and you repay me by spreading rumors about my wedding debt?",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "We are creating memories that will last forever, not balancing a cheap grocery budget."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Then she glared at my diamond tiara and spat out the most venomous insult imaginable.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You are buying your happiness with borrowed money that will ruin you by next year."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "You are buying your happiness with borrowed money that will ruin you by next year.",
+      "quote_by": {
+        "level": 2,
+        "name": "Chloe",
+        "badge": "850 $",
+        "character": "A sour Lemon person with pale yellow citrus skin and a stained barista apron.",
+        "scene": "A medium shot in a coffee shop where an angry lemon barista throws a cup of coffee toward a luxury wedding invitation."
+      },
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "18.000 $",
+          "bar": 0.9
+        },
+        {
+          "label": "Guests",
+          "value": "250",
+          "bar": 0.95
+        },
+        {
+          "label": "Debt",
+          "value": "45.000 $",
+          "bar": 0.9
+        }
+      ],
+      "character": "A bright yellow Lemon person with smooth citrus skin and flawless yellow petals, wearing an extravagant white bridal veil and pearl earrings; a glowing digital number 18.000 $ on her forehead.",
+      "visual": "A wide angle shot of a luxurious bridal suite with gilded mirrors, silk wedding gowns hanging from golden racks, and a tiny golden coin hidden inside an open velvet ring box.",
+      "scenes": [
+        "A wide angle shot of a sunlit bridal dressing room with ornate gold mirrors and silk wedding dresses draped over velvet armchairs.",
+        "A close-up shot of a sparkling diamond tiara resting on a white silk bridal cushion.",
+        "A medium two-shot in a coffee shop where an angry lemon barista confronts a wealthy bride holding wedding catalogs.",
+        "A detail shot of a glowing digital forehead display dropping thousands of dollars in real time as bank alerts chime.",
+        "A wide angle shot of an outdoor wedding ceremony arch covered in cascading white orchids under bright afternoon sunlight.",
+        "A close-up shot of a glowing digital forehead display freezing in place as an ominous legal envelope is opened."
+      ],
+      "caption": "Fairytale weddings have a very expensive price tag. #bridezilla #wedding #drama #luxury #storytime"
+    },
+    {
+      "n": 8,
+      "open_loop": "What shocking secret about the entire city's glowing forehead numbers was revealed when the main server crashed?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Accuses him of embezzling wedding funds and demands an immediate police audit."
+      },
+      "name": "Maximilian, 35, Tycoon",
+      "badge": "25.000 $",
+      "verdict": "UNTOUCHABLE",
+      "story": "The 8 levels of bridesmaid budgets. Level 8. Twenty-five thousand dollars passive income every single week while financing every single wedding in this produce city. My forehead display glows with absolute power, yet people still argue over pathetic bridesmaid budgets. Why are you all fighting over who pays for a yacht trip when I bought the entire marina? You call yourselves rich with four-figure numbers while real wealth remains entirely silent. He tried to audit my wedding accounts and accused me of financial fraud in front of everyone. I paid off every single debt for every single person in this bridal party just to watch them squirm. You think your little status games mean anything in a world where numbers can be changed with one keystroke? Then I turned around and whispered the final sentence that shattered the entire status illusion forever. The number on your forehead was never yours to begin with; it was just rented time. Which topic should we destroy next in our series?",
+      "gender": "m",
+      "twist": {
+        "delta": "+50.000 $",
+        "after": "75.000 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of bridesmaid budgets. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Twenty-five thousand dollars passive income every single week while financing every single wedding in this produce city."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "My forehead display glows with absolute power, yet people still argue over pathetic bridesmaid budgets.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Why are you all fighting over who pays for a yacht trip when I bought the entire marina?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "You call yourselves rich with four-figure numbers while real wealth remains entirely silent."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "He tried to audit my wedding accounts and accused me of financial fraud in front of everyone.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "I paid off every single debt for every single person in this bridal party just to watch them squirm."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You think your little status games mean anything in a world where numbers can be changed with one keystroke?",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then I turned around and whispered the final sentence that shattered the entire status illusion forever."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "The number on your forehead was never yours to begin with; it was just rented time.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Which topic should we destroy next in our series?"
+        }
+      ],
+      "quote": "The number on your forehead was never yours to begin with; it was just rented time.",
+      "quote_by": {
+        "level": 3,
+        "name": "Leo",
+        "badge": "2.400 $",
+        "character": "An anxious Potato person holding a financial audit report with trembling hands.",
+        "scene": "A wide angle shot of a penthouse boardroom where a potato accountant holds an audit binder while facing a coconut tycoon."
+      },
+      "stats": [
+        {
+          "label": "Weekly",
+          "value": "25.000 $",
+          "bar": 1.0
+        },
+        {
+          "label": "Assets",
+          "value": "12.0M $",
+          "bar": 1.0
+        },
+        {
+          "label": "Power",
+          "value": "MAX",
+          "bar": 1.0
+        }
+      ],
+      "character": "An impenetrable, smooth Coconut person with a polished brown shell, wearing a custom-tailored Tom Ford tuxedo and a solid platinum watch; a glowing digital number 25.000 $ on his forehead.",
+      "visual": "A wide angle shot of a luxurious penthouse office overlooking a glowing metropolitan skyline at night, with floor-to-ceiling glass windows and a tiny golden coin hidden inside a crystal whiskey decanter.",
+      "scenes": [
+        "A wide angle shot of a high-rise penthouse office overlooking an entire gleaming produce city lit up at night.",
+        "A close-up shot of a solid gold fountain pen resting on a dark mahogany executive desk.",
+        "A medium two-shot in a boardroom where a potato accountant nervously hands an audit report to a coconut tycoon.",
+        "A detail shot of a glowing digital forehead display flashing maximum currency symbols across all levels simultaneously.",
+        "A wide angle shot of a private helicopter pad on a skyscraper roof with a sleek black helicopter waiting under spotlights.",
+        "A close-up shot of all eight characters staring into a massive digital main server screen as the numbers begin to vanish."
+      ],
+      "caption": "True wealth doesn't need a glowing number on its forehead. Which series should we do next? #billionaire #wealth #status #drama #storytime"
+    }
+  ],
+  "lang": "en",
+  "topic": "Der gnadenlose Status-Krieg über das Brautjungfern-Budget beim Junggesellenabschied",
+  "frame": "frucht"
+}

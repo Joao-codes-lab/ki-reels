@@ -1,0 +1,149 @@
+{
+  "best_score": 50,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 3,
+        "story": 4,
+        "identifikation": 4,
+        "verbindungen": 6,
+        "sog": 3,
+        "wut": 3,
+        "merkfaehigkeit": 4,
+        "sprache": 5
+      },
+      "gesamt": 40,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ändere den Hook in: '0 Euro auf der Stirn mit 29. Mein eigener Vater hat mich gerade eigenhändig vor die Tür gesetzt.' Lass den Vater antworten: 'Du bist ein Schmarotzer, Ben. Ich rufe jetzt die Polizei, wenn du nicht sofort verschwindest!'"
+        },
+        {
+          "n": 2,
+          "fix": "Ändere den Einstieg in: '950 Euro Netto. Meine Mutter hat eben mein einziges Erspartes für ihren Neugriechen-Urlaub abgehoben.' Lass die Mutter sagen: 'Dein Geld gehört mir, Mia, du bist sowieso nur eine Last für diese Familie!'"
+        },
+        {
+          "n": 3,
+          "fix": "Ändere den Einstieg in: '1.850 Euro Gehalt und der Vermieter wirft mich fristlos raus.' Lass den Vermieter aus Level 1 rufen: 'Für so einen armen Schlucker wie dich haben wir hier in München keinen Platz!'"
+        },
+        {
+          "n": 4,
+          "fix": "Ändere den Einstieg in: '2.700 Euro und meine eigene Schwester hat mich bei der Chefin angeschwärzt.' Lass die Schwester sagen: 'Du kriegst die Beförderung nicht, Sarah, du bleibst eine elende Versagerin.'"
+        },
+        {
+          "n": 5,
+          "fix": "Ändere den Einstieg in: '3.800 Euro und mein Chef hat mein ganzes Projekt gestohlen.' Lass den Chef sagen: 'Die Idee war von Anfang an meine, du kleiner Büro-Praktikant.'"
+        },
+        {
+          "n": 6,
+          "fix": "Ändere den Einstieg in: '5.400 Euro und meine Bank sperrt plötzlich all meine Konten.' Lass den Bankangestellten sagen: 'Ihre Vollmachten wurden entzogen, Frau Kollegin. Sie sind offiziell pleite.'"
+        },
+        {
+          "n": 7,
+          "fix": "Ändere den Einstieg in: '7.200 Euro und meine Ex-Frau hat mir das Sorgerecht entzogen.' Lass sie sagen: 'Mit diesem Kontostand siehst du deine Kinder nie wieder.'"
+        },
+        {
+          "n": 8,
+          "fix": "Ändere den Einstieg in: '24.500 Euro und ich zeige jetzt allen, wer mich damals zerstört hat.' Lass Helena sagen: 'Ihr dachtet, die Zahl auf meiner Stirn schützt euch vor meiner Rache? Falsch gedacht.'"
+        }
+      ],
+      "fazit": "Die Serie scheitert kläglich an den harten Viral-Gesetzmäßigkeiten von TikTok und Reels. Statt echter emotionaler Abgründe, purem Hass auf arrogante Antagonisten und sofortiger, greifbarer Ungerechtigkeit lesen sich die Skripte wie dröge soziologische Fallstudien. Die Dialoge sind viel zu hölzern, die Konflikte verpuffen im Nacio-Einheitsbrei, und der 'Versteckter Wert'-Faktor fehlt komplett. Wer nach 2 Sekunden nicht weinen oder zuschlagen will, wischt weiter. Totalausfall."
+    },
+    {
+      "scores": {
+        "hook": 5,
+        "story": 4,
+        "identifikation": 6,
+        "verbindungen": 5,
+        "sog": 4,
+        "wut": 4,
+        "merkfaehigkeit": 5,
+        "sprache": 4
+      },
+      "gesamt": 46,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den gesamten Text ab Level 1 durch folgenden exakten Wortlaut (182 Wörter): '0 Euro auf der Stirn mit 29. Mein eigener Vater hat mich gerade eigenhändig vor die Tür gesetzt. Du bist ein Schmarotzer, Ben, ich rufe jetzt die Polizei, wenn du nicht sofort verschwindest! Das schrie mir mein Vater ins Gesicht, während mein Koffer im strömenden Regen landete. Null Euro auf der Stirn, null Perspektive in dieser kalten Stadt. Die Zahl lügt nie, dachte ich jahrelang, während ich mich krumm und schief schuftete für einen Konzern, der mich gestern fristlos feuerte. Mein eigenes Konto ist leer, meine Ersparnisse wurden gepfändet, und ausgerechnet mein arroganter Vermieter Heinrich im maßgeschneiderten Anzug läuft grinsend an mir vorbei und spuckt auf meine Tasche. Niemand glaubt an den armen Schlucker. Aber Heinrich weiß nicht, dass ich gestern Abend den Master-Schlüssel zu seinem Firmen-Safe gefunden habe. Auf meinem Laptop sehe ich gerade, wie seine Konten leergeräumt werden. Wer hat ihm da gerade mitten in der Nacht das gesamte Kapital gestohlen? Das siehst du im nächsten Teil, wenn sich das Blatt endlich wendet.'"
+        },
+        {
+          "n": 2,
+          "fix": "Ersetze Level 2 durch: '950 Euro Netto. Meine Mutter hat eben mein einziges Erspartes für ihren Neugriechen-Urlaub abgehoben. Dein Geld gehört mir, Mia, du bist sowieso nur eine Last für diese Familie, schrie sie mir ins Gesicht, während sie die Tasche zuschlug. Mit Ende 20 wieder im alten Kinderzimmer, während draußen die Welt an mir vorbeizieht. Meine eigene Mutter plündert mein Konto, nur um sich im Luxus zu sonnen, und lacht mich aus, weil auf meiner Stirn nur dieser mickrige Betrag leuchtet. Doch sie ahnt nicht, dass der vermeintlich verlorene Koffer im Treppenhaus nicht mir gehört, sondern dem teuren Anwalt, der sie heute noch zu Fall bringen wird. Wer steckt hinter diesem perfiden Plan? Das siehst du sofort im nächsten Video.'"
+        },
+        {
+          "n": 3,
+          "fix": "Ersetze Level 3 durch: '1.850 Euro Gehalt und der Vermieter wirft mich fristlos aus. Für so einen armen Schlucker wie dich haben wir hier keinen Platz, brüllte er und warf meine Akten in den Dreck. Vierzig Stunden Woche, Wochenenden opfern, und am Ende bleibst du der Abschaum dieser Gesellschaft. Die Zahl auf meiner Stirn verhöhnt mich jeden Tag im Badezimmerspiegel. Doch was dieser arrogante Tyrann nicht weiß: Der amtliche Brief vom Notar, den er gerade im Büro versteckt hat, enthält die Vollmacht über sein gesamtes Wohnprojekt. Wer hat mir diesen Zettel zugesteckt? Das erfährst du im nächsten Level.'"
+        },
+        {
+          "n": 4,
+          "fix": "Ersetze Level 4 durch: '2.700 Euro und meine eigene Schwester hat mich bei der Chefin angeschwärzt. Du kriegst die Beförderung nicht, Sarah, du bleibst eine elende Versagerin, zischte sie mir zu und tippte arrogant auf ihr eigenes Smartphone mit der doppelt so hohen Gehaltszahl. Jahrelang habe ich ihre Fehler ausgebügelt, und jetzt nimmt sie mir alles weg, um selbst in die Chefetage aufzusteigen. Doch sie hat übersehen, dass die Überweisung auf ihrem Konto direkt zu unserem gemeinsamen Vater zurückverfolgt werden kann. Wer deckt dieses perfide familiäre Komplott? Das siehst du im nächsten Teil.'"
+        },
+        {
+          "n": 5,
+          "fix": "Ersetze Level 5 durch: '3.800 Euro und mein Chef hat mein ganzes Projekt gestohlen. Die Idee war von Anfang an meine, du kleiner Büro-Praktikant, lachte er kalt und unterschrieb den Millionenvertrag mit meinem Namen darauf. Ich schufte Tag und Nacht, spare jeden Cent für das Eigenheim, und werde wie Dreck behandelt. Aber die digitale Unterschrift in der Personalakte lügt nicht. Welcher Kollege hat diesen Betrug an die Konkurrenz geleakt? Das siehst du im nächsten Video.'"
+        },
+        {
+          "n": 6,
+          "fix": "Ersetze Level 6 durch: '5.400 Euro und meine Bank sperrt plötzlich all meine Konten. Ihre Vollmachten wurden entzogen, Frau Kollegin, Sie sind offiziell pleite, knallte mir die Beraterin entgegen. Trotz Spitzengehalt, trotz harter Arbeit lande ich wieder auf dem harten Boden der Tatsachen im elterlichen Gästezimmer. Jemand hat im Hintergrund die Fäden gezogen, um mein Firmenkonto plattzumachen. Wer ist dieser kalte Saboteur? Das siehst du im nächsten Level.'"
+        },
+        {
+          "n": 7,
+          "fix": "Ersetze Level 7 durch: '7.200 Euro und meine Ex-Frau hat mir das Sorgerecht entzogen. Mit diesem Kontostand siehst du deine Kinder nie wieder, schrie sie mir vor dem Familiengericht ins Gesicht. Ich baue mir alles mühsam neu auf, zahle jeden Monat Höchstsätze, und werde trotzdem vernichtet. Doch auf dem Server der Kanzlei liegt ein Dokument, das ihre gesamte Lüge entlarvt. Wer hat mir den Zugang zu den Akten gesperrt? Das erfährst du im großen Finale.'"
+        },
+        {
+          "n": 8,
+          "fix": "Ersetze Level 8 durch: '24.500 Euro und ich zeige jetzt allen, wer mich damals zerstört hat. Ihr dachtet, die Zahl auf meiner Stirn schützt euch vor meiner Rache? Falsch gedacht. Als einstige Gründerin wurde ich von genau diesen sieben Personen in den Ruin getrieben, ausgeraubt und verstoßen. Jetzt gehört mir nicht nur die Immobilie, sondern das gesamte System, das euch alle kontrolliert. Die Zahl lügt nie – sie zeigt nur, wer am Ende gewinnt. Welches dunkle Geheimnis soll als Nächstes aufgedeckt werden? Schreib es in die Kommentare.'"
+        }
+      ],
+      "fazit": "Die Serie hat ein starkes visuelles Konzept (Gemüse-Metropole mit Stirn-Zahlen), scheitert aber an der Umsetzung der viralen Formel: Die Dialoge sind zu hölzern, die Konflikte wirken wie sterile Aufzählungen statt emotionaler Demütigungen mit spürbarer Rache-Aussicht. Es fehlt an echtem Hass auf den Gegenspieler in den ersten Sekunden, und die offenen Fragen (Open Loops) sind zu schwach formuliert, um den Daumen vom Weiterwischen abzuhalten. Mit den vorgeschlagenen, schärferen Texten und über 175 Wörtern pro Skript wird der Sog massiv erhöht."
+    },
+    {
+      "scores": {
+        "hook": 5,
+        "story": 6,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 5,
+        "wut": 4,
+        "merkfaehigkeit": 5,
+        "sprache": 6
+      },
+      "gesamt": 50,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den ersten Satz durch: '0 Euro auf der Stirn mit 29 und mein eigener Vater wirft mich raus, obwohl er genau weiß, wer den Kredit aufgenommen hat.'"
+        },
+        {
+          "n": 2,
+          "fix": "Ersetze den ersten Satz durch: '950 Euro Netto auf der Stirn, und meine eigene Mutter plündert mein Konto für ihren Urlaub, während ich im Kinderzimmer sitze.'"
+        },
+        {
+          "n": 3,
+          "fix": "Ersetze den ersten Satz durch: '1.850 Euro Gehalt und der Vermieter wirft mich fristlos raus – genau an dem Tag, an dem ich seine illegalen Machenschaften aufdecke.'"
+        },
+        {
+          "n": 4,
+          "fix": "Ersetze den ersten Satz durch: '2.700 Euro und meine eigene Schwester schwärzt mich bei der Chefin an, obwohl sie genau weiß, dass ich ihre Fehler ausgebügelt habe.'"
+        },
+        {
+          "n": 5,
+          "fix": "Ersetze den ersten Satz durch: '3.800 Euro und mein Chef klaut mein Projekt, während er mich als kleinen Praktikanten abstempelt – aber sein Passwort liegt auf meinem Tisch.'"
+        },
+        {
+          "n": 6,
+          "fix": "Ersetze den ersten Satz durch: '5.400 Euro und plötzlich sperrt die Bank all meine Konten, weil meine eigene Kollegin mich als Betrügerin bei der Geschäftsführung meldet.'"
+        },
+        {
+          "n": 7,
+          "fix": "Ersetze den ersten Satz durch: '7.200 Euro und meine Ex-Frau entzieht mir das Sorgerecht, obwohl sie jahrelang von meinem Geld gelebt hat.'"
+        },
+        {
+          "n": 8,
+          "fix": "Ersetze den ersten Satz durch: '24.500 Euro und ich zeige jetzt allen sieben Personen, die mich damals in den Ruin getrieben haben, dass die Zahl auf meiner Stirn sie vernichten wird.'"
+        }
+      ],
+      "fazit": "Die Serie hat ein starkes optisches Konzept und nutzt das virale Prinzip der Stirnzahlen gut aus. Allerdings wirken die Konflikte stellenweise wie aneinandergereihte Behauptungen statt echter, hochemotionaler Eskalationen. Für echte Millionen-Klicks fehlen noch kompromisslosere, unfairere Angriffe der Gegenspieler in den ersten drei Sekunden und ein noch stärkerer Sog durch offene Fragen am Ende jedes Clips."
+    }
+  ]
+}
