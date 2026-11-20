@@ -473,6 +473,15 @@ def _as_series(s):
     return s
 
 
+EXPAND_PROMPT = """Hier ist eine fertige Serie als JSON. Die Story-Texte sind zu kurz.
+Verlängere in JEDEM Level den gesprochenen Text auf 175-205 Wörter auf {lang_name}: ergänze in "lines"
+weitere Zeilen (ca. 60 % Dialog, Sprecher wie bisher), konkrete Details, eine Wendung und einen stärkeren
+Cliffhanger, und setze "story" auf den gesamten neuen Text. Handlung, Figuren, Zahlen, "quote" (wortgleich in der Story lassen)
+und alle anderen Felder bleiben unverändert. Antworte NUR mit dem vollständigen JSON in derselben Struktur.
+
+{json}"""
+
+
 def write_series(topic, lang, frame="aufzug"):
     fr = FRAMES[frame]
     prompt = SERIES_PROMPT.format(topic=topic, lang_name=LANG_NAMES[lang], country=COUNTRIES[lang],
@@ -503,6 +512,17 @@ def write_series(topic, lang, frame="aufzug"):
             print("  Story in falscher Sprache statt", LANG_NAMES[lang], "– neuer Versuch")
             prompt += f"\nWICHTIG: Schreibe ALLE Texte (Titel, Story, Zeilen, Captions) ausschließlich auf {LANG_NAMES[lang]}."
             continue
+        if words < min_words and words >= 50:
+            # Ersatz-KIs kürzen gern: erst gezielt verlängern lassen, statt die ganze Idee zu verwerfen
+            try:
+                longer = ensure_next_line(validate_series(_as_series(ask(EXPAND_PROMPT.format(
+                    lang_name=LANG_NAMES[lang], json=json.dumps(s, ensure_ascii=False))))), lang)
+                lw = len(longer["levels"][0]["story"].split())
+                print(f"  Story verlängert: {words} -> {lw} Wörter")
+                if lw > words:
+                    s, words = longer, lw
+            except Exception as e:  # noqa: BLE001 – Verlängern ist nur ein Rettungsversuch
+                print(f"  Verlängern fehlgeschlagen ({e})")
         if words >= min_words:
             break
         # Ersatz-KIs (wenn Gemini am Limit ist) ignorieren gern die Länge: lieber neu als ein 20-Sekunden-Video
