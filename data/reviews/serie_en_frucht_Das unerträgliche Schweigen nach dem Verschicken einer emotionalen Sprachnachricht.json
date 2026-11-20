@@ -1,29 +1,149 @@
 {
-  "best_score": 85,
+  "best_score": 50,
   "rounds": [
     {
       "scores": {
-        "hook": 8,
-        "story": 8,
-        "identifikation": 9,
-        "verbindungen": 9,
-        "sog": 8,
-        "wut": 9,
-        "merkfaehigkeit": 8,
-        "sprache": 9
+        "hook": 6,
+        "story": 5,
+        "identifikation": 4,
+        "verbindungen": 6,
+        "sog": 5,
+        "wut": 4,
+        "merkfaehigkeit": 5,
+        "sprache": 4
       },
-      "gesamt": 85,
+      "gesamt": 49,
       "fixes": [
         {
           "n": 1,
-          "fix": "Add an immediate text overlay in the first 2 seconds showing an extreme contrast, like '0:00 vs 100M Views', to instantly trigger the viral algorithm formula."
+          "fix": "Ersetze den Beginn durch einen brutalen Satz wie: '2.000 Euro Schulden im Sprachmemo? Wer hat diesen Abschaum in den Chat gelassen?' und lass den Strawberry-Man sofort schwitzen, während die Stirnzahl '0:03' rot aufglüht."
+        },
+        {
+          "n": 2,
+          "fix": "Lass die Barista (Zoe) im Café nicht nur putzen, sondern von einer arroganten Zucchini direkt vor laufender Kamera gedemütigt werden: '45 Sekunden Heulen über einen Typen? Lösch einfach die App, du peinlicher Loser.'"
+        },
+        {
+          "n": 3,
+          "fix": "Erhöhe die Wut im Büro-Level: Der Avocado-Boss leitet die Sprachnachricht direkt an die gesamte Firmenleitung weiter und tippt dabei demonstrativ auf sein Smartphone."
+        },
+        {
+          "n": 4,
+          "fix": "Kürze die Beschreibung und setze harten Konflikt: Die Dragonfruit-Woman lacht die Pilz-Figur im Diner direkt ins Gesicht aus: 'Niemand will deinen emotionalen Müll hören, verlass sofort das Lokal.'"
         },
         {
           "n": 5,
-          "fix": "Enhance the villain's arrogance in Level 5 by having her mock the florist's deceased mother's flowers to maximize viewer rage."
+          "fix": "Verbinde das Architekten-Level direkt mit der vorherigen Szene: Die Fig-Woman droht offen mit sofortiger Entlassung wegen unprofessionellen Heulens im Büro."
+        },
+        {
+          "n": 6,
+          "fix": "Verschärfe den Ton im Tonstudio: Die Artichoke-Woman spielt das peinliche Sprachmemo über die großen Studio-Lautsprecher ab, damit alle Techniker es hören."
+        },
+        {
+          "n": 7,
+          "fix": "Lass den Chef im Lobby-Level das Sprachmemo laut im ganzen Gebäude abspielen, während die Hauptfigur vor Scham im Boden versinkt."
+        },
+        {
+          "n": 8,
+          "fix": "Beende die Serie mit einem harten Twist statt weichem Kitsch: Die Stirnzahlen resetten sich nicht friedlich, sondern das System stürzt ab und zeigt die wahren Schulden aller Figuren."
         }
       ],
-      "fazit": "Die Serie setzt das Vorbild-Rezept stark um, baut durch die aufsteigenden Level einen echten Sog auf und liefert am Ende die geforderte Genugtuung. Für absolute Viral-Hits müssen die Hooks in den ersten 2 Sekunden noch kompromissloser auf Schock und Kontrast getrimmt werden."
+      "fazit": "Die Serie hat eine starke visuelle Welt und coole Querverweise, aber es fehlt an roher, unmittelbarer Wut und echter Genugtuung. Die Figuren wirken zu passiv, die Sätze sind oft zu lang und klingen nach Drehbuch statt nach echten TikTok-Ausrastern. Um viral zu gehen, muss die Demütigung härter und die Rache spürbarer sein."
+    },
+    {
+      "scores": {
+        "hook": 6,
+        "story": 5,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 6,
+        "wut": 5,
+        "merkfaehigkeit": 4,
+        "sprache": 5
+      },
+      "gesamt": 50,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den halben englischen Text durch harte, deutsche TikTok-Direktheit: '2.000 Euro Schulden im Sprachmemo? Wer hat diesen Abschaum in den Chat gelassen? Sofort schwitzen, Strawberry-Man! Deine Stirn zeigt 0:03.'"
+        },
+        {
+          "n": 2,
+          "fix": "Kürze den Zucchini-Angriff auf pure Arroganz: '45 Sekunden Heulen über einen Typen? Lösch die App, du peinlicher Loser. Keiner will dein Drama hören.'"
+        },
+        {
+          "n": 3,
+          "fix": "Lass den Avocado-Boss den Chatverlauf direkt laut vorlesen, statt ihn nur zu verschicken: 'Hört alle her, wie er hier um Liebe bettelt! Absoluter Vollversager.'"
+        },
+        {
+          "n": 4,
+          "fix": "Verschärfe die Dragonfruit-Konfrontation: 'Drei Minuten Heul-Podcast mitten in der Nacht? Reiß dich zusammen oder verlass sofort das Lokal, du Nervensäge.'"
+        },
+        {
+          "n": 5,
+          "fix": "Erhöhe den Druck der Fig-Woman: 'Fünf Minuten Weinen über eine Blockierung? Das ist karriere-suizid. Noch ein Mucks und HR erfährt davon.'"
+        },
+        {
+          "n": 6,
+          "fix": "Lass die Artichoke-Woman das Memo unbarmherzig auf den Studio-Lautsprechern abspielen: 'Dein kompletter Nervenzusammenbruch wird jetzt öffentlich gemastert.'"
+        },
+        {
+          "n": 7,
+          "fix": "Die Rache muss voll zuschlagen: Der Boss, der ihn in Level 1 gedemütigt hat, hört jetzt live im Megafon seine eigene Demütigung durch die ganze Firma."
+        },
+        {
+          "n": 8,
+          "fix": "Schluss mit philosophischem Kitsch: Lass den Systemabsturz die wahren Schulden aller arroganten Gegner gnadenlos auf die Stirn brennen für ultimative Genugtuung."
+        }
+      ],
+      "fazit": "Die Serie hat eine starke visuelle Grundidee mit den Frucht-Leveln, verliert sich aber in sterilem, halbtz-englisches Geplänkel. Die Storys fühlen sich zu sehr nach austauschbaren Aufzählungen an statt nach echter Demütigung mit vorhersehbarer, Genugtuung bringender Rache. Die Wut auf die Bösewichte verpufft zu schnell, weil die Konsequenzen fehlen. Mehr Biss, härtere deutsche Lines, klarere Rollen und echte Genugtuung am Ende sind zwingend nötig, um die 600k-Aufrufe-Marke der Vorbilder zu knacken."
+    },
+    {
+      "scores": {
+        "hook": 6,
+        "story": 5,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 6,
+        "wut": 5,
+        "merkfaehigkeit": 4,
+        "sprache": 5
+      },
+      "gesamt": 50,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den verworrenen Text durch einen messerscharfen, harten Einstieg: '2.000 Euro Schulden im Sprachmemo? Wer hat diesen Abschaum in den Chat gelassen? Sofort schwitzen, Strawberry-Man! Deine Stirn zeigt 0:03.' Lass den Erdbeer-Mann in der U-Bahn sofort zitternd das Handy fallen lassen, während der Orang-Man ihn vor allen auslacht."
+        },
+        {
+          "n": 2,
+          "fix": "Kürze den Übergang und bringe sofort die Demütigung auf den Punkt: '45 Sekunden Heulen über einen Typen? Lösch die App, du peinlicher Loser.' Die Zucchini-Frau muss den Becher so hart auf den Tresen knallen, dass die Milch spritzt."
+        },
+        {
+          "n": 3,
+          "fix": "Verschärfe den Konflikt im Büro: 'Hört alle her, wie er hier um Liebe bettelt! Absoluter Vollversager.' Der Kokosnuss-Chef liest das Memo laut vor, während der Potato-Man vor Scham im Erdboden versinkt."
+        },
+        {
+          "n": 4,
+          "fix": "Direkter Frontalangriff im Diner: 'Drei Minuten Heul-Podcast mitten in der Nacht? Reiß dich zusammen oder verlass sofort das Lokal, du Nervensäge.' Die Drachenfrucht-Frau zeigt null Empathie und lacht ihn eiskalt aus."
+        },
+        {
+          "n": 5,
+          "fix": "Erhöhe den Druck im Architekturbüro: 'Fünf Minuten Weinen über eine Blockierung? Das ist karriere-suizid.' Die Feigen-Frau droht sofort mit HR, während der Butternut-Squash-Man komplett einfriert."
+        },
+        {
+          "n": 6,
+          "fix": "Maximale öffentliche Blamage im Tonstudio: 'Dein kompletter Nervenzusammenbruch wird jetzt öffentlich gemastert.' Die Artischocken-Frau spielt das Memo über die Hauptlautsprecher ab, während der Kiwi-Mann am Pult festfriert."
+        },
+        {
+          "n": 7,
+          "fix": "Die Rache bricht los: 'Der Boss, der ihn in Level 1 gedemütigt hat, hört jetzt live im Megafon seine eigene Demütigung.' Der arrogante Chef aus Level 1 lässt fallen, was er in den Händen hält."
+        },
+        {
+          "n": 8,
+          "fix": "Das finale Genugtuungs-Ende: 'Der Systemabsturz brennt die wahren Schulden aller arroganten Gegner gnadenlos auf die Stirn.' Die absolute Umkehrung, bei der die Täter plötzlich ganz klein dastehen und der Zuschauer pure Genugtuung fühlt."
+        }
+      ],
+      "fazit": "Die Serie hat eine starke visuelle Grundidee mit den Frucht-Figuren und den Stirn-Zahlen, aber die Dialoge sind oft zu langatmig, verschachtelt und klingen wie übersetzte KI-Texte statt rohem, harten Social-Media-Slang. Es fehlt an sofortiger, greifbarer Wut in den ersten Sekunden und einer unbarmherzigen Eskalation, die den Zuschauer zum Weiterswipen zwingt. Die Rache- und Genugtuungs-Momente müssen drastischer und direkter ins Gesicht treffen, um virale Millionen-Reichweiten zu knacken."
     }
   ]
 }

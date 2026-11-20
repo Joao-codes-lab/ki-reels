@@ -1,0 +1,730 @@
+{
+  "title": "Die 8 Level der Verhütungskosten",
+  "house": "A bustling metropolitan city built from giant vegetable crates and fruit markets, where neon signs glow in bright pastel colors and digital foreheads flash currency balances under a gray rainy sky.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Barista in Level 2 mentions the quiet man in a suit who always leaves generous tips",
+    "Bus line 42 connects the cramped apartment in Level 1 with the modern office building in Level 8",
+    "The golden coin is hidden near the register in every single scene"
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Warum lächelte Mia heimlich, während ihr Freund sie wegen zwanzig Euro vor allen Kunden demütigte?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Zwingt sie unter spöttischem Gelächter, die Pille danach vom letzten Ersparten allein zu zahlen."
+      },
+      "name": "Mia, 19, Studentin",
+      "badge": "120 €",
+      "verdict": "PLEITE",
+      "story": "120 Euro auf meiner Stirn – und mein Freund mit 4.200 Euro zwingt mich weinend, die Pille danach mit meinem letzten Cent zu zahlen. Ich stehe in der regennassen Notapotheke, während mir Tränen der Scham über die Wangen laufen und Kunden ungeduldig starren. Verhütung ist reine Frauensache, ich finanziere dir doch nicht deinen Leichtsinn, Mia! Seine Arroganz ist unerträglich, doch während ich Münzen zähle, filmt meine Handykamera heimlich sein Gesicht. Was er nicht ahnt: Mein Großvater besitzt diese Apothekenkette, und das Beweisvideo geht direkt an den Vorstand. Das macht dann neunzehn Euro und neunzig Cent, bitte sehr. Zahl gefälligst selbst oder schau zu, wie deine Karte vor allen Leuten abgewiesen wird! Mein Herz rast wie verrückt, doch Jonas ahnt nicht, dass die Barista im Café gegenüber jeden seiner Schritte kennt. Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "-19,90 €",
+        "after": "100,10 €"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "120 Euro auf meiner Stirn – und mein Freund mit 4.200 Euro zwingt mich weinend, die Pille danach mit meinem letzten Cent zu zahlen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe in der regennassen Notapotheke, während mir Tränen der Scham über die Wangen laufen und Kunden ungeduldig starren."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Verhütung ist reine Frauensache, ich finanziere dir doch nicht deinen Leichtsinn, Mia!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Seine Arroganz ist unerträglich, doch während ich Münzen zähle, filmt meine Handykamera heimlich sein Gesicht."
+        },
+        {
+          "s": "Figur",
+          "t": "Was er nicht ahnt: Mein Großvater besitzt diese Apothekenkette, und das Beweisvideo geht direkt an den Vorstand."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Das macht dann neunzehn Euro und neunzig Cent, bitte sehr.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Zahl gefälligst selbst oder schau zu, wie deine Karte vor allen Leuten abgewiesen wird!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Herz rast wie verrückt, doch Jonas ahnt nicht, dass die Barista im Café gegenüber jeden seiner Schritte kennt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Verhütung ist reine Frauensache, ich finanziere dir doch nicht deinen Leichtsinn, Mia!",
+      "quote_by": {
+        "level": 3,
+        "name": "Jonas",
+        "badge": "4.200 €",
+        "character": "A sour lemon man with a tight yellow peel, wearing an expensive grey suit and a smug expression, digital forehead glowing bright.",
+        "scene": "Close-up in a brightly lit pharmacy, pointing condescendingly at a strawberry girl while leaning against a shelf of medicine."
+      },
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "120 €",
+          "bar": 0.05
+        },
+        {
+          "label": "Pille Danach",
+          "value": "19,90 €",
+          "bar": 0.1
+        },
+        {
+          "label": "Vergeltung",
+          "value": "Bereit",
+          "bar": 0.95
+        }
+      ],
+      "character": "A young strawberry girl with a bright red skin, green leaf hair clip, wearing an oversized beige hoodie; on her forehead glows the bright digital number 120 €.",
+      "visual": "Wide shot of a cramped, neon-lit pharmacy interior at night, rain splashing against the large glass storefront windows, a strawberry person crying at the counter.",
+      "scenes": [
+        "Wide shot of a cramped, neon-lit pharmacy interior at night, rain splashing against the large glass storefront windows, a strawberry person crying at the counter.",
+        "Medium shot of a lemon man in a sharp suit crossing his arms, pointing at his glowing digital forehead displaying 4.200 €.",
+        "Close-up of shaking hands counting small copper coins on a cold glass pharmacy counter next to a hidden tiny golden coin.",
+        "Detail shot of a smartphone lens peeking out of a coat pocket, recording the smirking lemon man.",
+        "Detail shot of a digital banking app screen showing a red balance of zero euro and forty cents.",
+        "Halbnah shot of two characters arguing fiercely under a flickering streetlamp outside a brick apartment building."
+      ],
+      "caption": "Wer zahlt die Rechnung in der Beziehung? 💔 #beziehung #geld #drama #enthüllung #level"
+    },
+    {
+      "n": 2,
+      "open_loop": "Was fand Samira auf dem geheimen Hotelbeleg, den ihr Freund aus Versehen abgeheftet hatte?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Demütigt sie vor allen Café-Gästen mit einer Excel-Tabelle für Verhütungsmittel."
+      },
+      "name": "Samira, 24, Barista",
+      "badge": "1.450 €",
+      "verdict": "KNAPP",
+      "story": "Er verdient das Doppelte, knallt mir vor allen Gästen eine Excel-Tabelle hin und verlangt 45 Euro für verbrauchte Kondome zurück. Ich stehe hinter der Bar, das Café ist voll, und Tim führt sich auf wie ein größenwahnsinniger Buchhalter. Hier ist die Abrechnung, Samira! Du hast sechzig Prozent der Nächte initiiert, also zahlst du die Mehrheit der Kondome! Alle Stammgäste starren mich peinlich berührt an, während Tim selbstgefällig grinst und seine 2.800 Euro präsentiert. Doch auf der Rückseite entdecke ich Quittungen für zwei Hotelübernachtungen in Düsseldorf – an Tagen, an denen er angeblich bei seiner Mutter war. Fairness bedeutet Fünfzig-Fünfzig, auch im Bett, also her mit meinen fünfundvierzig Euro! Auf dem Beleg steht Jonas' Firmenkreditkarte – und was sein bester Kumpel mit Verlobter Leonie treibt, wird alles zerstören. Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "-45 €",
+        "after": "1.405 €"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Er verdient das Doppelte, knallt mir vor allen Gästen eine Excel-Tabelle hin und verlangt 45 Euro für verbrauchte Kondome zurück."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe hinter der Bar, das Café ist voll, und Tim führt sich auf wie ein größenwahnsinniger Buchhalter."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Hier ist die Abrechnung, Samira! Du hast sechzig Prozent der Nächte initiiert, also zahlst du die Mehrheit der Kondome!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Alle Stammgäste starren mich peinlich berührt an, während Tim selbstgefällig grinst und seine 2.800 Euro präsentiert."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch auf der Rückseite entdecke ich Quittungen für zwei Hotelübernachtungen in Düsseldorf – an Tagen, an denen er angeblich bei seiner Mutter war."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Fairness bedeutet Fünfzig-Fünfzig, auch im Bett, also her mit meinen fünfundvierzig Euro!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Auf dem Beleg steht Jonas' Firmenkreditkarte – und was sein bester Kumpel mit Verlobter Leonie treibt, wird alles zerstören."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Fairness bedeutet Fünfzig-Fünfzig, auch im Bett, also her mit meinen fünfundvierzig Euro!",
+      "quote_by": {
+        "level": 4,
+        "name": "Tim",
+        "badge": "2.800 €",
+        "character": "An arrogant artichoke man with sharp green leaves and a checkered shirt, holding a clipboard with financial charts.",
+        "scene": "Medium shot in a trendy coffee shop, slamming a spreadsheet onto a wooden counter while pointing at his glowing forehead."
+      },
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "1.450 €",
+          "bar": 0.25
+        },
+        {
+          "label": "Forderung",
+          "value": "45 €",
+          "bar": 0.3
+        },
+        {
+          "label": "Beweislast",
+          "value": "Tödlich",
+          "bar": 0.99
+        }
+      ],
+      "character": "An orange fruit woman with bright citrus skin, messy green leaf hair, wearing a white barista apron; on her forehead glows 1.450 €.",
+      "visual": "Wide shot of a cozy, steam-filled artisan coffee shop with warm Edison bulb lighting, customers sitting at wooden tables.",
+      "scenes": [
+        "Wide shot of a cozy, steam-filled artisan coffee shop with warm Edison bulb lighting, customers sitting at wooden tables.",
+        "Medium shot of an artichoke man in a plaid shirt slamming a printed spreadsheet down onto the polished espresso bar.",
+        "Close-up of a steaming milk pitcher with microfoam next to a small hidden golden coin near the sugar dispenser.",
+        "Detail shot of trembling hands tearing off a hotel receipt hidden behind a spreadsheet document.",
+        "Halbnah shot of whispering coffee shop guests looking between the smug artichoke man and the smiling barista.",
+        "Wide shot of a rainy tram station at dusk with neon reflections on wet asphalt."
+      ],
+      "caption": "Rechnet dein Partner auch jeden Cent auf? ☕ #beziehung #finanzen #drama #quittung #level"
+    },
+    {
+      "n": 3,
+      "open_loop": "Was befand sich in Jonas' privatem Tresor, dessen Schlüssel Leonie unbemerkt gestohlen hat?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Weigert sich trotz Spitzengehalt, einen einzigen Cent zur Spirale seiner Verlobten beizusteuern."
+      },
+      "name": "Jonas, 29, Sachbearbeiter",
+      "badge": "4.200 €",
+      "verdict": "SOLIDE",
+      "story": "Ich habe 4.200 Euro auf der Stirn – aber für die Spirale meiner Verlobten gebe ich keinen einzigen Cent aus, sie soll gefälligst ihren Körper selbst finanzieren. Wir sitzen in meiner Altbauwohnung am Kamin, und Leonie schiebt mir weinend die Arztrechnung über dreihundertfünfzig Euro hin. Verhütung ist eine rein private Investition in deinen eigenen Organismus, Leonie. Wer die Musik bestellt, bezahlt sie gefälligst auch! Du verdienst über viertausend Euro und weigerst dich, die Verantwortung für uns beide zu teilen?! Ich zahle nicht für deinen Lifestyle, such dir einen Job, der das deckt! Sie packt fassungslos ihren Koffer, während ich spöttisch grinse und zur Wohnungstür gehe, um sie ein für alle Mal auszusperren. Doch als ich meinen Schlüsselbund greife, gefriert mir das Blut: Der schwere Messingschlüssel zu meinem Wandtresor mit allen Schwarzgeldkonten fehlt! Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-300 €",
+        "after": "3.900 €"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Ich habe 4.200 Euro auf der Stirn – aber für die Spirale meiner Verlobten gebe ich keinen einzigen Cent aus, sie soll gefälligst ihren Körper selbst finanzieren."
+        },
+        {
+          "s": "Figur",
+          "t": "Wir sitzen in meiner Altbauwohnung am Kamin, und Leonie schiebt mir weinend die Arztrechnung über dreihundertfünfzig Euro hin."
+        },
+        {
+          "s": "Figur",
+          "t": "Verhütung ist eine rein private Investition in deinen eigenen Organismus, Leonie. Wer die Musik bestellt, bezahlt sie gefälligst auch!"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du verdienst über viertausend Euro und weigerst dich, die Verantwortung für uns beide zu teilen?!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich zahle nicht für deinen Lifestyle, such dir einen Job, der das deckt!"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie packt fassungslos ihren Koffer, während ich spöttisch grinse und zur Wohnungstür gehe, um sie ein für alle Mal auszusperren."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch als ich meinen Schlüsselbund greife, gefriert mir das Blut: Der schwere Messingschlüssel zu meinem Wandtresor mit allen Schwarzgeldkonten fehlt!"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Ich zahle nicht für deinen Lifestyle, such dir einen Job, der das deckt!",
+      "quote_by": {
+        "level": 3,
+        "name": "Jonas",
+        "badge": "4.200 €",
+        "character": "A sour lemon man with a bright yellow textured peel, wearing an expensive grey business suit; on his forehead glows 4.200 €.",
+        "scene": "Close-up sitting across a wooden dining table, throwing a medical bill angrily toward an avocado woman."
+      },
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "4.200 €",
+          "bar": 0.55
+        },
+        {
+          "label": "Empathie",
+          "value": "0 %",
+          "bar": 0.01
+        },
+        {
+          "label": "Panik",
+          "value": "Maximum",
+          "bar": 0.95
+        }
+      ],
+      "character": "A sour lemon man with a bright yellow textured peel, wearing an expensive grey business suit; on his forehead glows 4.200 €.",
+      "visual": "Wide shot of a modern, sunlit Berlin loft apartment with high ceilings, large windows, and minimalist wooden furniture.",
+      "scenes": [
+        "Wide shot of a modern, sunlit Berlin loft apartment with high ceilings, large windows, and minimalist wooden furniture.",
+        "Medium shot of a lemon man sitting at a large dining table, pushing away a white medical invoice in disgust.",
+        "Close-up of a medical bill with a total sum of 300 € next to a small hidden golden coin.",
+        "Halbnah shot of an avocado woman quietly slipping a heavy brass key into her coat pocket while packing.",
+        "Detail shot of a glowing digital forehead showing 4.200 € reflecting in a glass window.",
+        "Wide shot of an empty apartment hallway door slamming shut."
+      ],
+      "caption": "Sollte der Mann die Hälfte der Verhütung zahlen? 🏡 #geiz #beziehung #finanzen #karma #level"
+    },
+    {
+      "n": 4,
+      "open_loop": "Wie wird Clara reagieren, wenn sie nach Hause kommt und vor verschlossener Tür ohne Wohnung steht?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Demütigt ihn vor der Familie und friert eiskalt das gemeinsame Konto ein."
+      },
+      "name": "Tim, 33, Projektleiter",
+      "badge": "2.800 €",
+      "verdict": "MITTEL",
+      "story": "2.800 Euro reichen ihr nicht: Meine Verlobte verlangt eine Vasektomie von mir – doch als ich ablehne, friert sie vor versammelter Familie mein Konto ein. Wir sitzen beim Sonntagsbrunch mit ihren Eltern, als Clara plötzlich mit der Gabel gegen ihr Glas schlägt und mich taxiert. Du verdienst zu wenig und weigerst dich auch noch, die Vasektomie zu zahlen? Du taugst weder als Versorger noch bist du ein echter Mann! Niemand schneidet an meinem gesunden Körper herum! Doch vor den Augen ihrer Eltern sperrt sie mit drei Klicks mein Konto. Wer keine Verantwortung übernimmt, bekommt von mir keinen einzigen Cent mehr! Ihre Familie lacht hämisch, während ich ruhig an meinem Kaffee nippe und innerlich triumphiere. Clara ahnt nicht, dass ich gestern den Mietvertrag unseres Penthouses fristlos gekündigt habe und der Schlüsseldienst schon vor der Tür steht. Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "-150 €",
+        "after": "2.650 €"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "2.800 Euro reichen ihr nicht: Meine Verlobte verlangt eine Vasektomie von mir – doch als ich ablehne, friert sie vor versammelter Familie mein Konto ein."
+        },
+        {
+          "s": "Figur",
+          "t": "Wir sitzen beim Sonntagsbrunch mit ihren Eltern, als Clara plötzlich mit der Gabel gegen ihr Glas schlägt und mich taxiert."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du verdienst zu wenig und weigerst dich auch noch, die Vasektomie zu zahlen? Du taugst weder als Versorger noch bist du ein echter Mann!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Niemand schneidet an meinem gesunden Körper herum! Doch vor den Augen ihrer Eltern sperrt sie mit drei Klicks mein Konto."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer keine Verantwortung übernimmt, bekommt von mir keinen einzigen Cent mehr!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ihre Familie lacht hämisch, während ich ruhig an meinem Kaffee nippe und innerlich triumphiere."
+        },
+        {
+          "s": "Figur",
+          "t": "Clara ahnt nicht, dass ich gestern den Mietvertrag unseres Penthouses fristlos gekündigt habe und der Schlüsseldienst schon vor der Tür steht."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Wer keine Verantwortung übernimmt, ist kein echter Mann.",
+      "quote_by": {
+        "level": 6,
+        "name": "Clara",
+        "badge": "5.500 €",
+        "character": "A confident plum woman with shiny purple skin and a gold necklace, looking down with arrogance.",
+        "scene": "Medium shot in a modern kitchen, pointing aggressively at an artichoke man while wearing designer clothes."
+      },
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "2.800 €",
+          "bar": 0.4
+        },
+        {
+          "label": "Demütigung",
+          "value": "Extrem",
+          "bar": 0.9
+        },
+        {
+          "label": "Gegenschlag",
+          "value": "Vollstreckt",
+          "bar": 1.0
+        }
+      ],
+      "character": "An artichoke man with spiky green leaves, wearing a blue checked shirt and a silver wristwatch; on his forehead glows 2.800 €.",
+      "visual": "Wide shot of a cluttered, warm-toned kitchen with copper pots hanging from the ceiling and steam rising from a stove.",
+      "scenes": [
+        "Wide shot of an opulent dining room during Sunday brunch, luxury porcelain on a dark wooden table.",
+        "Medium shot of a plum woman pointing condescendingly at an artichoke man in front of older relatives.",
+        "Close-up of a banking app screen showing 'Gemeinschaftskonto: Gesperrt' next to a small hidden golden coin.",
+        "Halbnah shot of an artichoke man clutching a signed apartment termination letter under the table.",
+        "Detail shot of a digital wristwatch displaying late morning hours.",
+        "Wide shot of an apartment building entrance where a locksmith changes the cylinder."
+      ],
+      "caption": "Darf die Partnerin eine Vasektomie erzwingen? 🔪 #beziehung #machtkampf #geld #trennung #level"
+    },
+    {
+      "n": 5,
+      "open_loop": "Wird die Steuerfahndung Jonas' Penthouse stürmen, bevor er den Mahnbescheid zurückziehen kann?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Schickt per Staranwalt eine lächerliche 19,90-Euro-Mahnung über Verhütungsmittel aus dem ersten Beziehungsjahr."
+      },
+      "name": "Leonie, 31, Architektin",
+      "badge": "6.100 €",
+      "verdict": "OBERKLASSE",
+      "story": "6.100 Euro auf meiner Stirn – und mein millionenschwerer Ex schickt mir eine gerichtliche Mahnung über 19,90 Euro aus unserem ersten Beziehungsjahr. Ich sitze in meinem gläsernen Frankfurter Büro, als mir die Post einen gelben Mahnbescheid auf den Schreibtisch legt. Liebe ist kostenlos, aber Verhütung war wohl ein Minusgeschäft. Ich fordere jeden Cent zurück! Jonas residiert im Penthouse, geifert aber wegen neunzehn Euro und Verzugszinsen aus unserer Studentenzeit herum. Doch als ich den Anhang aufschlage, traue ich meinen Augen nicht: Sein Anwalt hat versehentlich seine geheimen Offshore-Konten mitgeheftet! Und das Beste daran: Laut Aktenstempel ging derselbe Umschlag vor einer Stunde an die Frankfurter Steuerfahndung. Jonas wollte mich demütigen, doch stattdessen hat er sein gesamtes Firmenimperium eigenhändig ans Messer geliefert. Das siehst du in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+500 €",
+        "after": "6.600 €"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "6.100 Euro auf meiner Stirn – und mein millionenschwerer Ex schickt mir eine gerichtliche Mahnung über 19,90 Euro aus unserem ersten Beziehungsjahr."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze in meinem gläsernen Frankfurter Büro, als mir die Post einen gelben Mahnbescheid auf den Schreibtisch legt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Liebe ist kostenlos, aber Verhütung war wohl ein Minusgeschäft. Ich fordere jeden Cent zurück!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Jonas residiert im Penthouse, geifert aber wegen neunzehn Euro und Verzugszinsen aus unserer Studentenzeit herum."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch als ich den Anhang aufschlage, traue ich meinen Augen nicht: Sein Anwalt hat versehentlich seine geheimen Offshore-Konten mitgeheftet!"
+        },
+        {
+          "s": "Figur",
+          "t": "Und das Beste daran: Laut Aktenstempel ging derselbe Umschlag vor einer Stunde an die Frankfurter Steuerfahndung."
+        },
+        {
+          "s": "Figur",
+          "t": "Jonas wollte mich demütigen, doch stattdessen hat er sein gesamtes Firmenimperium eigenhändig ans Messer geliefert."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Liebe ist kostenlos, aber Verhütung war wohl ein Minusgeschäft.",
+      "quote_by": {
+        "level": 7,
+        "name": "Jonas",
+        "badge": "9.500 €",
+        "character": "A successful lemon businessman in a dark tailored tuxedo, signing financial documents with a gold pen.",
+        "scene": "Medium shot in a high-rise office overlooking a city skyline, holding an envelope with a smug smile."
+      },
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "6.100 €",
+          "bar": 0.75
+        },
+        {
+          "label": "Mahnung",
+          "value": "19,90 €",
+          "bar": 0.05
+        },
+        {
+          "label": "Steuerstrafe",
+          "value": "Millionen",
+          "bar": 1.0
+        }
+      ],
+      "character": "An avocado woman with smooth pale green skin, wearing a sharp grey blazer and thin glasses; on her forehead glows 6.100 €.",
+      "visual": "Wide shot of a modern glass skyscraper office interior with panoramic floor-to-ceiling windows showing a bright city skyline.",
+      "scenes": [
+        "Wide shot of a modern glass skyscraper office interior with panoramic floor-to-ceiling windows showing a bright city skyline.",
+        "Medium shot of an avocado woman opening a yellow official judicial envelope at a minimalist glass desk.",
+        "Close-up of a printed legal claim over 19,90 € revealing confidential offshore account stamps next to a hidden golden coin.",
+        "Halbnah shot of an avocado woman smiling coldly while highlighting tax evasion details.",
+        "Detail shot of a smartphone lighting up with five missed calls from 'Jonas Ex'.",
+        "Wide shot of Frankfurt's financial district at dusk with flashing emergency vehicle lights in the distance."
+      ],
+      "caption": "Wenn der Geiz des Ex-Partners nach hinten losgeht... 📊 #trennung #finanzen #anwalt #steuerfahndung #level"
+    },
+    {
+      "n": 6,
+      "open_loop": "Wie tief wird Tims Stirnwert fallen, wenn der Richter das Urteil wegen Prozessbetrugs verkündet?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Klagt vor Gericht über Kondomrechnungen und demütigt Mia öffentlich als 'Fehlinvestition'."
+      },
+      "name": "Mia, 35, Unternehmerin",
+      "badge": "5.500 €",
+      "verdict": "ERFOLGREICH",
+      "story": "5.500 Euro gegen seine 15.000 Euro – er zerrt mich vor den Richter wegen Kondomquittungen von 2020, aber er ahnt nicht, was ich auf der Festplatte habe. Der Gerichtssaal ist voll besetzt, und Tim sonnt sich in seiner maßlosen Arroganz. Du warst von Tag eins an eine absolute Fehlinvestition, Mia, und heute hole ich mir vor Gericht jeden Cent zurück! Der Richter schüttelt über seine 1.200-Euro-Klage den Kopf, doch statt einzulenken, überreiche ich dem Gericht einen USB-Stick. Darauf sind Tims interne Firmenabrechnungen: Er hat genau diese Verhütungsmittel als geschäftliche Betriebsausgaben abgesetzt! Das... das ist eine bodenlose Fälschung, Herr Richter! Das dürfen Sie nicht werten! Der Richter ruft die Polizei in den Saal – und Tims leuchtender Stirnwert stürzt vor allen Zuschauern live von fünfzehntausend auf Null ab. Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1.200 €",
+        "after": "6.700 €"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "5.500 Euro gegen seine 15.000 Euro – er zerrt mich vor den Richter wegen Kondomquittungen von 2020, aber er ahnt nicht, was ich auf der Festplatte habe."
+        },
+        {
+          "s": "Figur",
+          "t": "Der Gerichtssaal ist voll besetzt, und Tim sonnt sich in seiner maßlosen Arroganz."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du warst von Tag eins an eine absolute Fehlinvestition, Mia, und heute hole ich mir vor Gericht jeden Cent zurück!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Der Richter schüttelt über seine 1.200-Euro-Klage den Kopf, doch statt einzulenken, überreiche ich dem Gericht einen USB-Stick."
+        },
+        {
+          "s": "Figur",
+          "t": "Darauf sind Tims interne Firmenabrechnungen: Er hat genau diese Verhütungsmittel als geschäftliche Betriebsausgaben abgesetzt!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Das... das ist eine bodenlose Fälschung, Herr Richter! Das dürfen Sie nicht werten!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Der Richter ruft die Polizei in den Saal – und Tims leuchtender Stirnwert stürzt vor allen Zuschauern live von fünfzehntausend auf Null ab."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Du warst von Tag eins an eine absolute Fehlinvestition, Mia, und heute hole ich mir jeden Cent zurück!",
+      "quote_by": {
+        "level": 6,
+        "name": "Tim",
+        "badge": "15.000 €",
+        "character": "An arrogant artichoke executive in a bespoke Italian suit, pointing a golden fountain pen with contempt.",
+        "scene": "Medium shot in a paneled courtroom, whispering insults while displaying his glowing 15.000 € forehead."
+      },
+      "stats": [
+        {
+          "label": "Einkommen",
+          "value": "5.500 €",
+          "bar": 0.7
+        },
+        {
+          "label": "Tims Absturz",
+          "value": "0 €",
+          "bar": 0.0
+        },
+        {
+          "label": "Genugtuung",
+          "value": "100 %",
+          "bar": 1.0
+        }
+      ],
+      "character": "A confident strawberry woman with shiny red skin, wearing a tailored black business suit and gold earrings; on her forehead glows 5.500 €.",
+      "visual": "Wide shot of a luxurious law office with dark mahogany walls, leather armchairs, and large windows framing a cloudy sky.",
+      "scenes": [
+        "Wide shot of an imposing courtroom with dark wood paneling, spectators seated on wooden benches.",
+        "Medium shot of an arrogant artichoke man leaning over the plaintiff table, whispering venomously to a strawberry woman.",
+        "Close-up of a silver USB drive being placed onto the judge's wooden bench next to a small hidden golden coin.",
+        "Halbnah shot of the judge staring with outrage over his half-moon spectacles at financial fraud printouts.",
+        "Detail shot of a glowing digital forehead dropping in real-time from 15.000 € to 0 € in bright red digits.",
+        "Wide shot of police officers stepping into the courtroom as the artichoke man collapses into his chair."
+      ],
+      "caption": "Wenn der Prozess nach hinten losgeht... ⚖️ #gericht #karma #abrechnung #fehlinvestition #level"
+    },
+    {
+      "n": 7,
+      "open_loop": "Wird Jonas die Rettung gelingen, nachdem die Apothekerin ihm den fatalen Coup verkündet hat?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Verkündet ihm am Telefon, dass die damals gedemütigte Studentin seine gesamte Firmenholding übernommen hat."
+      },
+      "name": "Jonas, 42, Unternehmer",
+      "badge": "9.500 €",
+      "verdict": "ELITE",
+      "story": "9.500 Euro auf meiner Stirn, Penthouse in Hamburg – und ich sitze zitternd vor den Ruinen meines Lebens. Vor mir liegen die Vorladungen der Steuerfahndung und die alte Rechnung, die ich damals aus Geiz verweigert habe. Ich habe Millionen angehäuft und Menschen erniedrigt, doch jetzt bricht mein gesamtes Kartenhaus zusammen. Da schrillt mein Telefon – die Festnetznummer der Notapotheke flackert auf dem Display auf. Herr Jonas? Die Studentin, die Sie wegen 20 Euro gedemütigt haben, hat gerade Ihre gesamte Firmenholding übernommen. Mein Herz setzt aus, das Telefon entgleitet meinen zitternden Händen und meine 9.500-Euro-Stirn flackert rot auf. Wer am Ende alle Rechnungen spart, bezahlt am Ende mit seinem ganzen Leben. Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+2.500 €",
+        "after": "12.000 €"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "9.500 Euro auf meiner Stirn, Penthouse in Hamburg – und ich sitze zitternd vor den Ruinen meines Lebens."
+        },
+        {
+          "s": "Figur",
+          "t": "Vor mir liegen die Vorladungen der Steuerfahndung und die alte Rechnung, die ich damals aus Geiz verweigert habe."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe Millionen angehäuft und Menschen erniedrigt, doch jetzt bricht mein gesamtes Kartenhaus zusammen."
+        },
+        {
+          "s": "Figur",
+          "t": "Da schrillt mein Telefon – die Festnetznummer der Notapotheke flackert auf dem Display auf."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Herr Jonas? Die Studentin, die Sie wegen 20 Euro gedemütigt haben, hat gerade Ihre gesamte Firmenholding übernommen.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Herz setzt aus, das Telefon entgleitet meinen zitternden Händen und meine 9.500-Euro-Stirn flackert rot auf."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Wer am Ende alle Rechnungen spart, bezahlt am Ende mit seinem ganzen Leben.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Herr Jonas? Die Studentin, die Sie wegen 20 Euro gedemütigt haben, hat gerade Ihre gesamte Firmenholding übernommen.",
+      "quote_by": {
+        "level": 7,
+        "name": "Apothekerin",
+        "badge": "2.400 €",
+        "character": "An elderly pear pharmacist with round glasses and an honest, stern expression.",
+        "scene": "Close-up behind an old pharmacy register, speaking into a landline telephone at night."
+      },
+      "stats": [
+        {
+          "label": "Vermögen",
+          "value": "9.500 €",
+          "bar": 0.9
+        },
+        {
+          "label": "Reue",
+          "value": "Maximal",
+          "bar": 1.0
+        },
+        {
+          "label": "Glück",
+          "value": "0 %",
+          "bar": 0.0
+        }
+      ],
+      "character": "A lemon man with bright yellow textured peel, wearing a black silk shirt and an expensive watch; on his forehead glows 9.500 €.",
+      "visual": "Wide shot of a luxury penthouse living room with floor-to-ceiling glass walls showing the glittering night skyline of Hamburg.",
+      "scenes": [
+        "Wide shot of a luxury penthouse living room with floor-to-ceiling glass walls showing the glittering night skyline of Hamburg.",
+        "Medium shot of a lemon man holding a smartphone near a large glass window, crying uncontrollably.",
+        "Close-up of an old paper invoice for 300 € stained with tears next to a small hidden golden coin.",
+        "Halbnah shot of an elderly pear pharmacist in a white coat speaking sternly into a vintage telephone.",
+        "Detail shot of a glowing digital forehead showing 9.500 € reflecting in a glass window covered in rain droplets.",
+        "Wide shot of Hamburg harbour at midnight with heavy fog rolling over cold dark waters."
+      ],
+      "caption": "Geld schützt vor Einsamkeit nicht... 🏙️ #reue #familie #hamburg #finanzen #level"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches Schicksal erwartet Jonas und Tim, nachdem Arthur die Holding an Mia übergeben hat?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Erniedrigten Mia wegen zwanzig Euro für die Pille danach und stehen nun bankrott vor dem Familienrat."
+      },
+      "name": "Arthur, 72, Holding-Gründer",
+      "badge": "25.000 €",
+      "verdict": "UNBEZAHLBAR",
+      "story": "25.000 Euro Stirnwert – ich sah das Video, wie Jonas meine Enkelin wegen 20 Euro demütigte, und kaufte seine gesamte Firma auf. Unten im Vorraum warten Jonas und Tim mit zerstörten Existenzen auf Knien – bankrott durch Steuerstrafen und Gerichtsbetrug. Bitte geben Sie uns noch eine Chance, wir haben alles verloren! Ich würdige sie keines Blickes. Stattdessen öffne ich die Tür für Mia – meine Enkelin, die sie damals demütigten. Hier sind die Schlüssel zur Holding, Mia. Du bist ab heute die alleinige Vorstandsvorsitzende dieser gesamten Kette. Danke, Großvater. Hochmut kommt vor dem Fall – und Gerechtigkeit zahlt sich immer aus. Die Zahl lügt nie. Welches Thema sollen wir als Nächstes in 8 Levelforschungen beleuchten?",
+      "gender": "m",
+      "twist": {
+        "delta": "MAX",
+        "after": "25.000 €"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "25.000 Euro Stirnwert – ich sah das Video, wie Jonas meine Enkelin wegen 20 Euro demütigte, und kaufte seine gesamte Firma auf."
+        },
+        {
+          "s": "Figur",
+          "t": "Unten im Vorraum warten Jonas und Tim mit zerstörten Existenzen auf Knien – bankrott durch Steuerstrafen und Gerichtsbetrug."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Bitte geben Sie uns noch eine Chance, wir haben alles verloren!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich würdige sie keines Blickes. Stattdessen öffne ich die Tür für Mia – meine Enkelin, die sie damals demütigten."
+        },
+        {
+          "s": "Figur",
+          "t": "Hier sind die Schlüssel zur Holding, Mia. Du bist ab heute die alleinige Vorstandsvorsitzende dieser gesamten Kette."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Danke, Großvater. Hochmut kommt vor dem Fall – und Gerechtigkeit zahlt sich immer aus.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl lügt nie."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema sollen wir als Nächstes in 8 Levelforschungen beleuchten?"
+        }
+      ],
+      "quote": "Die Zahl lügt nie.",
+      "quote_by": {
+        "level": 8,
+        "name": "Arthur",
+        "badge": "25.000 €",
+        "character": "An elderly dignified strawberry patriarch with silver leaf hair and a tailored charcoal wool coat; on his forehead glows 25.000 €.",
+        "scene": "Wide shot on a glowing rooftop boardroom overlooking the entire metropolis at sunrise, holding the corporate contracts."
+      },
+      "stats": [
+        {
+          "label": "Vermögen",
+          "value": "25.000 €",
+          "bar": 1.0
+        },
+        {
+          "label": "Gerechtigkeit",
+          "value": "Vollendet",
+          "bar": 1.0
+        },
+        {
+          "label": "Macht",
+          "value": "Absolut",
+          "bar": 1.0
+        }
+      ],
+      "character": "An elderly dignified strawberry patriarch with silver leaf hair and a tailored charcoal wool coat; on his forehead glows 25.000 €.",
+      "visual": "Wide panoramic shot from a high skyscraper rooftop overlooking an endless futuristic city at sunrise with glowing neon signs and moving traffic.",
+      "scenes": [
+        "Wide panoramic shot from a high skyscraper rooftop overlooking an endless futuristic city at sunrise with glowing neon signs and moving traffic.",
+        "Medium shot of an elderly strawberry patriarch handing over gold master keys to a radiant young strawberry woman in business attire.",
+        "Close-up of a tiny hidden golden coin resting beside a golden master office key on a glass balustrade.",
+        "Halbnah shot of Jonas and Tim being escorted out of a luxury corporate building by security guards.",
+        "Detail shot of a glowing digital forehead displaying 25.000 € reflecting in the morning sunlight.",
+        "Cinematic wide shot closing the series with all characters fading into the bustling metropolis."
+      ],
+      "caption": "Gerechtigkeit siegt am Ende immer! Schreibt eure Meinung in die Kommentare! 🌟 #finale #level8 #diezahllügtnie #karma #erfolg"
+    }
+  ],
+  "lang": "de",
+  "topic": "Die Aufteilung der Verhütungskosten in der Beziehung",
+  "frame": "frucht"
+}

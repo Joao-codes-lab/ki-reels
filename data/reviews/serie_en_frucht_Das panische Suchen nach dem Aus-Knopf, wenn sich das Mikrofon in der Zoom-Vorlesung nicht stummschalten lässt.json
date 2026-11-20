@@ -1,0 +1,89 @@
+{
+  "best_score": 52,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 5,
+        "story": 4,
+        "identifikation": 6,
+        "verbindungen": 5,
+        "sog": 4,
+        "wut": 3,
+        "merkfaehigkeit": 5,
+        "sprache": 6
+      },
+      "gesamt": 48,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den uninspirierten Einstieg durch einen brutalen Kontrast in den ersten 3 Sekunden: '2.000 Studierende hören gerade, wie ich meinen Mitbewohner beschimpfe. Und mein Mikrofon klemmt.'"
+        },
+        {
+          "n": 2,
+          "fix": "Erhöhe die Wut: Lass Professor Zesty nicht nur lästern, sondern direkt drohen, Zack ohne Vorwarnung fristlos zu entlassen, während die Zuschauer den goldenen Coin bereits im Kaffeetisch blinken sehen."
+        },
+        {
+          "n": 7,
+          "fix": "Korrigiere den Continuity-Fehler im Text ('Level 5' statt 'Level 7') und schärfe den Konflikt: '100.000 Investoren hören meinen Zusammenbruch, und die feige Drachenfrucht blockiert absichtlich meinen Notfall-Mute-Button.'"
+        }
+      ],
+      "fazit": "Die Serie hat eine solide visuelle Welt und eine spaßige Obst-Metapher, verfehlt aber die knallharte Formel der viralen Vorbilder. Zu viel behäbiges Setup, zu wenig sofortige Demütigung und spürbare Genugtuung in den ersten Sekunden. Die Übergänge und Wut-Faktoren müssen drastisch geschärft werden, um die Zielgruppe nach 2 Sekunden zu fesseln."
+    },
+    {
+      "scores": {
+        "hook": 6,
+        "story": 5,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 6,
+        "wut": 5,
+        "merkfaehigkeit": 6,
+        "sprache": 5
+      },
+      "gesamt": 52,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den lahmen Start durch einen sofortigen Schockwert: '2.000 Leute hören gerade live, wie ich im Streit meine Miete nicht zahlen kann. Und mein Mikrofon klemmt fest.'"
+        },
+        {
+          "n": 3,
+          "fix": "Erhöhe den Konflikt und die Wut: Lass Direktor Coco direkt in den Hörsaal hineinrufen und ihre Miete öffentlich im Chat exposen, statt nur höflich zu fragen."
+        },
+        {
+          "n": 5,
+          "fix": "Füge echten Verrat ein: Drachenfrucht hackt Sam seinen privaten Live-Stream und leakt absichtlich seine Gehaltsabrechnung an alle 5.000 Mitarbeiter."
+        }
+      ],
+      "fazit": "Die Serie nutzt zwar das 'Levels of Fame'-Format gut aus, verliert sich aber zu stark in seelenlosen Corporate-Begriffen statt in harten emotionalen Demütigungen. Die Figuren bleiben oft austauschbar, und der Rache-Faktor am Ende fehlt. Für echte Virality müssen die Stakes höher und die Kontraste extremer sein."
+    },
+    {
+      "scores": {
+        "hook": 6,
+        "story": 5,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 6,
+        "wut": 5,
+        "merkfaehigkeit": 4,
+        "sprache": 4
+      },
+      "gesamt": 49,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den halbgaren Start durch einen brutalen Satz wie: '2.000 Euro Miete im Rückstand – und mein Zoom-Mikrofon ist auf Laut stellen, während ich den Vermieter anschreie.' (Mindestens 175 Wörter knackiger innerer Monolog, der die Demütigung vor dem Bösewicht maximiert)."
+        },
+        {
+          "n": 3,
+          "fix": "Baue echten Hass auf den Gegenspieler auf: Zeige, wie Professor Zesty absichtlich die Prüfungstermine fälscht, bevor er sie im Chat öffentlich demütigt."
+        },
+        {
+          "n": 8,
+          "fix": "Lasse Level 8 die Genugtuung vollenden: Mia drückt den Master-Switch und ruiniert den System Founder live, statt nur im dunklen Serverraum zu philosophieren."
+        }
+      ],
+      "fazit": "Die Serie hat eine solide visuelle und konzeptionelle Basis mit dem Gemüse-Metropolis-Ansatz, scheitert aber an echten Emotionen. Die Texte sind zu kurz, die Wut auf die Antagonisten verpufft oft, weil die Demütigungen zu harmlos sind und die Genugtuung am Ende fehlt. Mehr Fokus auf den versteckten Wert und unerbittliche Rache."
+    }
+  ]
+}

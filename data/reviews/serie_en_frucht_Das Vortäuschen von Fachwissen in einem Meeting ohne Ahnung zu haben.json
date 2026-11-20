@@ -1,129 +1,137 @@
 {
-  "best_score": 49,
+  "best_score": 40,
   "rounds": [
     {
       "scores": {
-        "hook": 6,
-        "story": 5,
+        "hook": 3,
+        "story": 4,
         "identifikation": 4,
         "verbindungen": 5,
-        "sog": 6,
-        "wut": 4,
+        "sog": 3,
+        "wut": 2,
         "merkfaehigkeit": 4,
-        "sprache": 5
+        "sprache": 2
       },
-      "gesamt": 49,
+      "gesamt": 34,
       "fixes": [
         {
           "n": 1,
-          "fix": "Ersetze den lahmen Einstieg durch einen harten Schlag: '0 Prozent Expertise? Wenn Mr. Sterling das merkt, fliege ich noch vor der Pause.' Zeige sofort, wie er sie gnadenlos runtermacht."
-        },
-        {
-          "n": 3,
-          "fix": "Lass den Gegenspieler (Pip) ihm direkt ins Gesicht sagen, dass sein Anzug billiger Müll ist, bevor er überhaupt ein Wort sagt. Das erzeugt echte Wut."
-        },
-        {
-          "n": 8,
-          "fix": "Schluss mit dem schwachen Outro ('What theme...'). Pip muss dem arroganten Coconut eiskalt ins Gesicht sagen, dass sie seine Firma gekauft hat. Genugtuung muss fliessen."
-        }
-      ],
-      "fazit": "Die Serie hat eine solide visuelle Welt, verfehlt aber das virale Geheimnis der Vorbilder: Es fehlt die pure, unerträgliche Demütigung am Anfang und die schadenfrohe Genugtuung am Ende. Die Figuren plappern zu viel Corporate-Sprech statt echte Emotionen zu zeigen. Ohne echte Wut und plötzliche Rache swipt Gen Z sofort weg."
-    },
-    {
-      "scores": {
-        "hook": 6,
-        "story": 5,
-        "identifikation": 4,
-        "verbindungen": 6,
-        "sog": 5,
-        "wut": 4,
-        "merkfaehigkeit": 4,
-        "sprache": 5
-      },
-      "gesamt": 48,
-      "fixes": [
-        {
-          "n": 1,
-          "fix": "Ersetze den zahmen Einstieg durch brutalen sozialen Druck: '0 Prozent Expertise? Wenn Mr. Sterling merkt, dass ich den 4-Millionen-Pitch komplett erfunden habe, schmeißt er mich noch vor der Mittagspause raus.'"
+          "fix": "Ersetze den lahmen Einstieg durch einen brutalen Satz: '2.000 Euro? Warum steht dieser Idiot mit 0% auf der Stirn im Boardroom und ruiniert unser Unternehmen?'"
         },
         {
           "n": 2,
-          "fix": "Erhöhe die emotionale Fallhöhe und Wut: 'Miete im Moloch auf 2.100 Dollar explodiert, und der arrogante Drachenfrucht-Boss will mich wegen einer Excel-Formel demütigen.'"
+          "fix": "Erhöhe die Wortanzahl pro Story auf mindestens 175 Wörter, indem du innere Monologe über Existenzängste und den arroganten Gegenspieler einbaust."
         },
         {
           "n": 3,
-          "fix": "Verschärfe den Kontrast und die Demütigung: 'Der Anzug hat zwei Wochen Lebensmittel gekostet, das Bankkonto zeigt 42 Dollar, und die Praktikantin lacht mich vor dem ganzen Vorstand aus.'"
+          "fix": "Verstärke die Wut: Der Gegenspieler muss den Protagonisten nicht nur kritisieren, sondern ihn öffentlich und menschenverachtend vor allen Kollegen erniedrigen."
         },
         {
           "n": 4,
-          "fix": "Fokussiere auf pure Verzweiflung und echten Konflikt statt Aufzählung: '34.000 Dollar Schulden, ein gefälschter Audit-Report und der Chef droht mit fristloser Entlassung.'"
+          "fix": "Verschärfe den Sog am Ende jedes Teils: Keine lahmen Ankündigungen, sondern ein direkter Cliffhanger mitten in der Konfrontation ('Bevor er mich feuern konnte, passierte das Unfassbare...')."
         },
         {
           "n": 5,
-          "fix": "Maximiere den Verrat: 'Zwei Millionen schwerer Kundenepitch ohne Plan, während der orange Kollege meine Notizen klaut und mich reinreißt.'"
-        },
-        {
-          "n": 6,
-          "fix": "Verschärfe die drohende Pleite: '4.500 Dollar Hausrate, keine Ahnung vom Fusionsvertrag und der Konkurrent lacht mich eiskalt aus.'"
-        },
-        {
-          "n": 7,
-          "fix": "Baue echten Druck auf: '6.000 Dollar Hypothek, das Lügengebäude stürzt ein und die Junior-Analystin hält den Beweis in der Hand.'"
-        },
-        {
-          "n": 8,
-          "fix": "Liefere die ultimative Genugtuung: 'Der unfehlbare Kokosnuss-Boss hält sich für Gott, aber ich habe soeben seine Firma gekauft. Rache ist süß.'"
+          "fix": "Schreibe die Sprache um: Weg von hölzernem Corporate-Sprech, hin zu absolut natürlichem, emotionalem gesprochenen TikTok-Slang ohne Füllwörter."
         }
       ],
-      "fazit": "Die Serie hat eine starke visuelle Grundidee mit den Frucht-Metaphern, leidet aber unter zu langen, hölzernen Erklärtexten und zu wenig roher, ungeschnittener Demütigung in den ersten Sekunden. Die Zuschauer wollen echtes Mitleid mit dem Underdog und pure Wut auf den Arroganten spüren, bevor die überraschende Genugtuung einsetzt."
+      "fazit": "Die Serie hat nette Ansätze mit den Gemüsen und den Nummern, scheitert aber massiv an den harten Viral-Regeln. Die Hooks sind zu brav, es fehlt echte emotionale Wut, die Texte sind viel zu kurz (weit unter 175 Wörtern pro Teil) und der Sog bricht durch schwache Übergänge ein. Ohne radikale Härte, pure Arroganz der Bösewichte und echte Genugtuung swipt die Gen-Z nach 1,5 Sekunden weg."
     },
     {
       "scores": {
         "hook": 3,
         "story": 4,
-        "identifikation": 5,
-        "verbindungen": 6,
+        "identifikation": 3,
+        "verbindungen": 4,
         "sog": 3,
-        "wut": 4,
+        "wut": 2,
         "merkfaehigkeit": 4,
-        "sprache": 4
+        "sprache": 3
       },
-      "gesamt": 41,
+      "gesamt": 33,
       "fixes": [
         {
           "n": 1,
-          "fix": "Ersetze das schwache Intro durch einen harten Schock-Satz in den ersten 2 Sekunden: '2.000 Dollar Miete, kein Cent auf dem Konto, und der arrogante Chef will mich genau jetzt vor dem gesamten Vorstand feuern.'"
+          "fix": "Ersetze das langweilige Intro durch harten Konflikt: '2.000 Euro Miete und 0% auf der Stirn? Warum dieser Idiot mich im Meeting komplett blosstellte.'"
         },
         {
           "n": 2,
-          "fix": "Erhöhe den Konflikt sofort durch echte Wut: 'Der arrogante Boss lacht mich vor allen aus und droht mit fristloser Entlastung, während ich hier mit zitternden Händen stehe.'"
+          "fix": "Erhöhe die Wut im Gegenspieler: 'Victoria lachte mir direkt ins Gesicht und schubste meine Notizen vom Tisch.'"
         },
         {
           "n": 3,
-          "fix": "Lasse die Zuschauer den wahren Wert der Figur früher erkennen als den Antagonisten, um die Genugtuung vorzubereiten."
+          "fix": "Fokussiere auf die Demütigung: 'Richard schlug mit der Faust auf den Tisch und forderte sofort meine Entlassung.'"
         },
         {
           "n": 4,
-          "fix": "Schreibe den Text so um, dass er rein gesprochen natürlich klingt und exakt mindestens 175 Wörter pro Teil erreicht."
+          "fix": "Verschärfe den Konflikt: 'Elena nannte mein Produkt live im Stream einen jämmerlichen Betrug.'"
         },
         {
           "n": 5,
-          "fix": "Verstärke den Cliffhanger am Ende jedes Teils, sodass die offene Frage unerträglich wird und niemand weiterwischen kann."
+          "fix": "Lass den Gegenspieler eiskalt triumphieren: 'Ben grinste spöttisch, als mein System komplett abstirbt.'"
         },
         {
           "n": 6,
-          "fix": "Lasse den Gegenspieler noch arroganter auftreten, damit echte Wut beim Zuschauer entsteht."
+          "fix": "Erhöhe den Druck: 'Chloe flüsterte laut genug, dass es alle hörten: Der Typ ist komplett inkompetent.'"
         },
         {
           "n": 7,
-          "fix": "Füge eindeutige Catchphrases ein, die im Kopf bleiben und zitiert werden."
+          "fix": "Lass den Gegenspieler dominieren: 'Leo unterbrach mich mitten im Satz und nannte meine Prognosen wertlosen Müll.'"
         },
         {
           "n": 8,
-          "fix": "Sorge im letzten Teil für einen epischen Rache-Twist, der die vorherige Demütigung vollends belohnt."
+          "fix": "Maximiere die Genugtuung: 'Maya starrte fassungslos auf den Schirm, während ich sie mit einem einzigen Satz vernichtete.'"
         }
       ],
-      "fazit": "Die Serie hat coole visuelle Ansätze und nette Querverweise, aber der Einstieg ist zu zahm, die Skripte sind viel zu kurz (keine 175 Wörter) und der emotionale Sog fehlt. Nach zwei Sekunden wischen die Leute weg, weil der absolute Adrenalin-Kick und die echte Wut auf den Boss fehlen."
+      "fazit": "Die Serie scheitert an den harten Viral-Metriken: Zu viel generisches Corporate-Sprech, wenig echte haptische Wut und das Ende löst die Spannung zu glatt auf. Die Obst-Metapher verpufft, weil der emotionale Druck (Angst vor dem Rauswurf vs. Arroganz des Bosses) nicht dreckig und nahbar genug kocht. Die Texte klingen nach KI-Marketing-Sprech statt nach echten 18-Jährigen, die im Büro ums Überleben kämpfen."
+    },
+    {
+      "scores": {
+        "hook": 3,
+        "story": 4,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 3,
+        "wut": 3,
+        "merkfaehigkeit": 4,
+        "sprache": 6
+      },
+      "gesamt": 40,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den ersten Satz durch eine brutale Demütigung mit konkreter Zahl: '2.000 Euro Miete und 0% auf der Stirn? Marcus schubste meine Notizen weg und rief: Der putzt hier morgen die Toiletten!'"
+        },
+        {
+          "n": 2,
+          "fix": "Baue echten Konflikt ein: '12% auf der Stirn und kein Plan. Victoria lachte laut im Meeting und wollte mich sofort feuern lassen, bevor sie meine Umsatzzahlen sah.'"
+        },
+        {
+          "n": 3,
+          "fix": "Verschärfe die Wut und den Sog: '35% Expert und pleite. Richard schlug mit der Faust auf den Tisch: Raus mit diesem Hochstapler! Doch er wusste nicht, dass ich längst seine Konten gesperrt hatte.'"
+        },
+        {
+          "n": 4,
+          "fix": "Füge die Rache-Komponente hinzu: '50% auf der Stirn. Elena nannte mein Startup live im Stream einen Betrug – bis ich den Beweis auf den Bildschirm warf, der sie ruinierte.'"
+        },
+        {
+          "n": 5,
+          "fix": "Verbinde die Sicht der Gegenseite direkt: '68% Expert. Ben, der 0%-Praktikant aus Level 1, grinste spöttisch und sabotierte mein System, um mich zu vernichten.'"
+        },
+        {
+          "n": 6,
+          "fix": "Erhöhe den Einsatz: '81% Expert. Chloe rollte mit den Augen und flüsterte, ich sei inkompetent – genau in dem Moment, als mein Masterplan ihre Abteilung auslöschte.'"
+        },
+        {
+          "n": 7,
+          "fix": "Schärfe den Konflikt: '94% Expert. Leo nannte meine Prognosen Müll und wollte mich stürzen, doch ich hielt das Dokument in der Hand, das seine Karriere beendete.'"
+        },
+        {
+          "n": 8,
+          "fix": "Bringe die ultimative Genugtuung: '100% Expert. Maya starrte fassungslos auf den Bildschirm, als ich mit einem einzigen Satz ihr gesamtes Imperium übernahm.'"
+        }
+      ],
+      "fazit": "Die Serie hat nette visuelle Ideen und Querverweise, aber sie scheitert an der harten Viral-Formel: Es fehlt die sofortige, brutale Demütigung in den ersten 3 Sekunden gekoppelt mit einer extremen Stirnzahl, die echten Hass auf den Bösewicht erzeugt. Die Storys lesen sich zu oft wie monotone Aufzählungen statt wie eine hochemotionale Achterbahnfahrt mit Genugtuung. Ohne echten Schmerz und die Aussicht auf sweet Rache wischt der Zuschauer nach 2 Sekunden weg."
     }
   ]
 }
