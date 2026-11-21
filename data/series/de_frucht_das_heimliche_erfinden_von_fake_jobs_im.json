@@ -1,0 +1,867 @@
+{
+  "title": "Die 8 Level von Fake-Jobs",
+  "house": "A bustling German metropolis where produce people live in concrete apartments, ride the U-Bahn, and check their glowing digital foreheads constantly.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "In Level 1, the broken coffeemaker at the kiosk is later seen fixed in Level 4.",
+    "The green bus line 44 connects the discount supermarket from Level 2 to the rooftop bar in Level 7.",
+    "A gold coin is hidden behind the station clock in every single scene of the series."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was befand sich in dem braunen Briefumschlag, den Onkel Heinz auf den Tisch warf?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Wirft dem armen Onkel vor allen Gästen vor, ein Hochstapler zu sein und zeigt auf seine niedrige Stirn.",
+        "name": "Onkel Heinz",
+        "badge": "6.500 €"
+      },
+      "name": "Tom, 22, Paketzusteller",
+      "badge": "1.200 €",
+      "verdict": "PLEITE",
+      "story": "Die 8 Level von Fake-Jobs. Level 1. Level 1: 1.200 Euro im Monat als Paketzusteller – und ich erzähle der Familie, ich sei Senior Data Architect bei SAP. Ich stehe auf dem Familienfest, der Raum riecht nach kalten Kartoffeln und billigem Sekt, mein Herz rast wie wild. Niemand ahnt, dass ich jeden Morgen um vier Uhr aufstehe, um tonnenweise schwere Kartons zu schleppen, während meine Freunde in schicken Büros sitzen. Plötzlich räuspert sich Onkel Heinz demonstrativ am Ende des langen Tisches, nimmt einen tiefen Schluck aus seinem Bierglas und mustert mich von oben bis unten mit eisigem Blick. Du hast keinen echten Job, du schiebst nur Kisten! Die Blicke am Tisch brennen sich in meine Haut, Schweigen legt sich über den Raum, die Verwandten schauen mich mit Ekel an. Ich schlucke den Kloß in meinem Hals hinunter, während meine Stirn im Neonlicht unbarmherzig pulsiert. Du hast keinen echten Job, du schiebst nur Kisten! In diesem Moment greift er langsam in seine alte Sakkotasche und zieht einen offiziellen Brief hervor, der meine fristlose Kündigung enthält. Was stand in diesem amtlichen Dokument, das mein Leben zerstören sollte? Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-150 €",
+        "after": "1.050 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Fake-Jobs. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 1.200 Euro im Monat als Paketzusteller – und ich erzähle der Familie, ich sei Senior Data Architect bei SAP."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe auf dem Familienfest, der Raum riecht nach kalten Kartoffeln und billigem Sekt, mein Herz rast wie wild."
+        },
+        {
+          "s": "Figur",
+          "t": "Niemand ahnt, dass ich jeden Morgen um vier Uhr aufstehe, um tonnenweise schwere Kartons zu schleppen, während meine Freunde in schicken Büros sitzen."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich räuspert sich Onkel Heinz demonstrativ am Ende des langen Tisches, nimmt einen tiefen Schluck aus seinem Bierglas und mustert mich von oben bis unten mit eisigem Blick."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast keinen echten Job, du schiebst nur Kisten!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Blicke am Tisch brennen sich in meine Haut, Schweigen legt sich über den Raum, die Verwandten schauen mich mit Ekel an."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schlucke den Kloß in meinem Hals hinunter, während meine Stirn im Neonlicht unbarmherzig pulsiert."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast keinen echten Job, du schiebst nur Kisten!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Moment greift er langsam in seine alte Sakkotasche und zieht einen offiziellen Brief hervor, der meine fristlose Kündigung enthält."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was stand in diesem amtlichen Dokument, das mein Leben zerstören sollte?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Du hast keinen echten Job, du schiebst nur Kisten!",
+      "quote_by": {
+        "level": 6,
+        "name": "Onkel Heinz",
+        "badge": "6.500 €",
+        "character": "An old, bitter Coconut man with a hard brown shell, wearing a stained tweed vest and a gold pocket watch.",
+        "scene": "Close-up shot in a cluttered living room, pointing a finger derisively at Tom while his glowing forehead number shines brightly."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "1.200 €",
+          "bar": 0.1
+        },
+        {
+          "label": "Miete",
+          "value": "650 €",
+          "bar": 0.4
+        },
+        {
+          "label": "Schulden",
+          "value": "3.400 €",
+          "bar": 0.8
+        }
+      ],
+      "character": "A tired Tomato man with smooth red skin, wearing a faded blue delivery jacket and holding a crumpled yellow delivery slip. Glowing digital forehead.",
+      "visual": "Wide shot of a cramped, poorly lit German living room with floral wallpaper, a gloomy Tomato man standing by a table, and a glowing forehead number.",
+      "scenes": [
+        "Wide shot of a cramped German living room with floral wallpaper, dim amber lighting, and old wooden furniture.",
+        "Medium shot of Tom the Tomato man sweating nervously, holding a cheap plastic cup of lukewarm sparkling water.",
+        "Close-up on the glowing digital display on Tom's forehead showing 1.200 Euro with a tiny hidden gold coin on the wallpaper behind him.",
+        "Medium shot of Uncle Heinz the Coconut man leaning forward aggressively with a smug grin.",
+        "Detail shot of a crumpled delivery slip resting on a worn-out lace tablecloth next to a plate of dry toast.",
+        "Wide shot looking out the rain-streaked window at a battered delivery van parked on the wet asphalt outside."
+      ],
+      "caption": "Wer den Pfennig nicht ehrt, ist des Talers nicht wert. Würdet ihr auf einer Feier lügen? #fakejobs #stirnzahl #drama #familie #viral"
+    },
+    {
+      "n": 2,
+      "open_loop": "Wer hatte die fremde Handtasche auf dem Stuhl im Restaurant vergessen?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Nimmt den reservierten Tisch weg und macht sich lauthals über den Billig-Job lustig.",
+        "name": "Lisa",
+        "badge": "4.500 €"
+      },
+      "name": "Mia, 24, Barista",
+      "badge": "1.800 €",
+      "verdict": "UNTERBEZAHLT",
+      "story": "Die 8 Level von Fake-Jobs. Level 2. Level 2: 1.800 Euro als Barista hinter der Espressomaschine – und ich behaupte beim Klassentreffen, ich leite eine Werbeagentur. Ich sitze im schicken Steakhaus, der Duft von angebranntem Fleisch liegt in der Luft, meine Hände zittern am Weinglas. Niemand ahnt, dass ich mir die teure Designerkleidung nur für diesen einen Abend von meiner besten Freundin ausgeliehen habe, um dazuzugehören. Plötzlich tritt Lisa, meine alte Erzfeindin, an unseren Tisch heran, schwingt ihre teure Handtasche und mustert meinen Look mit abfälligem Blick. Du mixt hier doch nur Cappuccino für Studenten! Die anderen am Tisch kichern, mein Gesicht brennt vor Scham, ich will am liebsten im Boden versinken. Mein Erspartes reicht diesen Monat nicht mal für die Miete, und ich spiele hier den großen Boss. Du mixt hier doch nur Cappuccino für Studenten! In diesem Moment fällt eine Kreditkarte aus Lisas Tasche, die auf meinen Schoß rutscht und einen geheimen Firmennamen zeigt. Wem gehörte dieses Designerstück mit dem dicken Portemonnaie? Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+300 €",
+        "after": "2.100 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Fake-Jobs. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 1.800 Euro als Barista hinter der Espressomaschine – und ich behaupte beim Klassentreffen, ich leite eine Werbeagentur."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze im schicken Steakhaus, der Duft von angebranntem Fleisch liegt in der Luft, meine Hände zittern am Weinglas."
+        },
+        {
+          "s": "Figur",
+          "t": "Niemand ahnt, dass ich mir die teure Designerkleidung nur für diesen einen Abend von meiner besten Freundin ausgeliehen habe, um dazuzugehören."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich tritt Lisa, meine alte Erzfeindin, an unseren Tisch heran, schwingt ihre teure Handtasche und mustert meinen Look mit abfälligem Blick."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du mixt hier doch nur Cappuccino für Studenten!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Die anderen am Tisch kichern, mein Gesicht brennt vor Scham, ich will am liebsten im Boden versinken."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Erspartes reicht diesen Monat nicht mal für die Miete, und ich spiele hier den großen Boss."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du mixt hier doch nur Cappuccino für Studenten!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Moment fällt eine Kreditkarte aus Lisas Tasche, die auf meinen Schoß rutscht und einen geheimen Firmennamen zeigt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wem gehörte dieses Designerstück mit dem dicken Portemonnaie?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Du mixt hier doch nur Cappuccino für Studenten!",
+      "quote_by": {
+        "level": 5,
+        "name": "Lisa",
+        "badge": "4.500 €",
+        "character": "An elegant Orange woman with bright citrus skin, wearing a silk blazer and diamond stud earrings.",
+        "scene": "Medium shot in a dimly lit restaurant, sneering down at Mia while tapping her glowing forehead display."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "1.800 €",
+          "bar": 0.2
+        },
+        {
+          "label": "Trinkgeld",
+          "value": "120 €",
+          "bar": 0.15
+        },
+        {
+          "label": "Miete",
+          "value": "720 €",
+          "bar": 0.45
+        }
+      ],
+      "character": "A fresh Lemon woman with bright yellow textured skin, wearing a simple black apron and silver hoop earrings. Glowing digital forehead.",
+      "visual": "Wide shot of an upscale steakhouse interior with warm pendant lights reflecting off polished wooden tables and glassware.",
+      "scenes": [
+        "Wide shot of an upscale steakhouse interior with warm pendant lights reflecting off polished tables.",
+        "Medium shot of Mia the Lemon woman nervously clutching an empty wine glass.",
+        "Close-up on Mia's glowing forehead showing 1.800 Euro with a tiny hidden gold coin on the salt shaker.",
+        "Medium shot of Lisa the Orange woman standing over the table with a superior smirk.",
+        "Detail shot of a forgotten leather handbag tucked under a dark wooden chair leg.",
+        "Wide shot through the restaurant window showing the rainy neon-lit city street outside."
+      ],
+      "caption": "Wer hoch steigt, fällt tief. Habt ihr euch schon mal für echten Lohn geschämt? #fakejobs #stirnzahl #barista #drama #viral"
+    },
+    {
+      "n": 3,
+      "open_loop": "Was stand in der SMS, die plötzlich auf dem Display aufblitzte?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Kündigt den Mietvertrag der WG fristlos wegen angeblicher Ruhestörung.",
+        "name": "Herr Berg",
+        "badge": "9.200 €"
+      },
+      "name": "Leo, 28, Grafiker",
+      "badge": "2.400 €",
+      "verdict": "MITTELMASS",
+      "story": "Die 8 Level von Fake-Jobs. Level 3. Level 3: 2.400 Euro als freier Grafiker im kalten Zimmer – und beim Elternabend sage ich, ich sei Kreativdirektor. Ich stehe in der überfüllten Schulaula, der Geruch von Wachsmalstiften und Schweiß hängt in der Luft, mein Handy vibriert ununterbrochen. Eigentlich arbeite ich Nacht für Nacht an schlecht bezahlten Logos für dubiose Online-Shops, während meine Haushaltskasse absolut leer ist. Da baut sich Herr Berg vor mir auf, der lokale Immobilienhai, und mustert meine günstige Jacke mit spöttischem Blick. Für eine Eigentumswohnung reicht das Gehalt wohl niemals! Die anderen Eltern mustern mich mitleidig, mein Stolz bekommt einen heftigen Riss, ich atme schwer. Draußen auf dem Pausenhof pfeift der kalte Wind durch die Bäume, während ich so tue, als hätte ich alles im Griff. Für eine Eigentumswohnung reicht das Gehalt wohl niemals! Plötzlich leuchtet mein Handy auf und zeigt eine Nachricht meines Vermieters, die alles verändert. Wer hatte mir um diese Uhrzeit geschrieben? Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+500 €",
+        "after": "2.900 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Fake-Jobs. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 2.400 Euro als freier Grafiker im kalten Zimmer – und beim Elternabend sage ich, ich sei Kreativdirektor."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe in der überfüllten Schulaula, der Geruch von Wachsmalstiften und Schweiß hängt in der Luft, mein Handy vibriert ununterbrochen."
+        },
+        {
+          "s": "Figur",
+          "t": "Eigentlich arbeite ich Nacht für Nacht an schlecht bezahlten Logos für dubiose Online-Shops, während meine Haushaltskasse absolut leer ist."
+        },
+        {
+          "s": "Figur",
+          "t": "Da baut sich Herr Berg vor mir auf, der lokale Immobilienhai, und mustert meine günstige Jacke mit spöttischem Blick."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Für eine Eigentumswohnung reicht das Gehalt wohl niemals!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Die anderen Eltern mustern mich mitleidig, mein Stolz bekommt einen heftigen Riss, ich atme schwer."
+        },
+        {
+          "s": "Figur",
+          "t": "Draußen auf dem Pausenhof pfeift der kalte Wind durch die Bäume, während ich so tue, als hätte ich alles im Griff."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Für eine Eigentumswohnung reicht das Gehalt wohl niemals!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich leuchtet mein Handy auf und zeigt eine Nachricht meines Vermieters, die alles verändert."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hatte mir um diese Uhrzeit geschrieben?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Für eine Eigentumswohnung reicht das Gehalt wohl niemals!",
+      "quote_by": {
+        "level": 7,
+        "name": "Herr Berg",
+        "badge": "9.200 €",
+        "character": "A stern Broccoli man with dark green florets, wearing a sharp grey business suit and gold-rimmed glasses.",
+        "scene": "Wide shot in a school assembly hall, looking down his nose at Leo while crossing his arms."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "2.400 €",
+          "bar": 0.35
+        },
+        {
+          "label": "Projekte",
+          "value": "4 Stk.",
+          "bar": 0.4
+        },
+        {
+          "label": "Miete",
+          "value": "850 €",
+          "bar": 0.5
+        }
+      ],
+      "character": "An Avocado man with pale green skin and a large stone mindset, wearing a dark green turtleneck and round glasses. Glowing digital forehead.",
+      "visual": "Medium shot of a bleak school assembly hall with stacked plastic chairs and pale neon lighting casting harsh shadows.",
+      "scenes": [
+        "Medium shot of a bleak school assembly hall with stacked plastic chairs and pale neon lighting.",
+        "Close-up of Leo the Avocado man holding a scratched smartphone with a cracked display.",
+        "Close-up on Leo's glowing forehead showing 2.400 Euro with a tiny hidden gold coin taped under a chair.",
+        "Medium shot of Herr Berg the Broccoli man speaking with an arrogant smirk.",
+        "Detail shot of a vibrating smartphone screen displaying an incoming notification.",
+        "Wide shot of the empty schoolyard under a cloudy evening sky with bare tree branches."
+      ],
+      "caption": "Der Schein trügt fast immer. Wer von euch hat schon mal den Job schöner geredet? #fakejobs #stirnzahl #grafiker #drama #viral"
+    },
+    {
+      "n": 4,
+      "open_loop": "Was war in dem großen Karton, den der Kurierfahrer gerade abstellte?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Liefert absichtlich das falsche Paket aus und beschwert sich über das kleine Trinkgeld.",
+        "name": "Markus",
+        "badge": "1.400 €"
+      },
+      "name": "Sarah, 31, Sachbearbeiterin",
+      "badge": "3.100 €",
+      "verdict": "DURCHSCHNITT",
+      "story": "Die 8 Level von Fake-Jobs. Level 4. Level 4: 3.100 Euro im öden Behördenbüro – und beim Klassentreffen erzähle ich, ich arbeite als Unternehmensberaterin in Frankfurt. Ich sitze im gutbürgerlichen Café, es riecht nach Zimt und Kaffeebohnen, das Klappern von Porzellan durchbricht die Stille. Seit Jahren sortiere ich graue Anträge in verstaubten Aktenschränken und träume von der großen weiten Welt da draußen. Da stolpert Markus herein, ein alter Bekannter aus der Schulzeit, der als Lieferant arbeitet und sofort meine Fassade durchschaut. Du tippst doch im Amt nur Stempel in Akten ein! Mein Magen verkrampft sich, meine Kollegin schaut betreten weg, die Hitze steigt mir ins Gesicht. Ich zahle seit Jahren mein Auto ab und komme kaum über die Runden, während ich hier die Karrierefrau spiele. Du tippst doch im Amt nur Stempel in Akten ein! In diesem Augenblick stellt der Postbote einen riesigen Karton ab, dessen Absender direkt aus der Chefetage stammt. Was lag in diesem schweren Paket auf dem Boden? Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "-200 €",
+        "after": "2.900 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Fake-Jobs. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 3.100 Euro im öden Behördenbüro – und beim Klassentreffen erzähle ich, ich arbeite als Unternehmensberaterin in Frankfurt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze im gutbürgerlichen Café, es riecht nach Zimt und Kaffeebohnen, das Klappern von Porzellan durchbricht die Stille."
+        },
+        {
+          "s": "Figur",
+          "t": "Seit Jahren sortiere ich graue Anträge in verstaubten Aktenschränken und träume von der großen weiten Welt da draußen."
+        },
+        {
+          "s": "Figur",
+          "t": "Da stolpert Markus herein, ein alter Bekannter aus der Schulzeit, der als Lieferant arbeitet und sofort meine Fassade durchschaut."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du tippst doch im Amt nur Stempel in Akten ein!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Magen verkrampft sich, meine Kollegin schaut betreten weg, die Hitze steigt mir ins Gesicht."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich zahle seit Jahren mein Auto ab und komme kaum über die Runden, während ich hier die Karrierefrau spiele."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du tippst doch im Amt nur Stempel in Akten ein!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Augenblick stellt der Postbote einen riesigen Karton ab, dessen Absender direkt aus der Chefetage stammt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was lag in diesem schweren Paket auf dem Boden?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Du tippst doch im Amt nur Stempel in Akten ein!",
+      "quote_by": {
+        "level": 1,
+        "name": "Markus",
+        "badge": "1.400 €",
+        "character": "A rugged Plum man with deep purple skin, wearing a high-vis delivery vest and a worn baseball cap.",
+        "scene": "Medium shot in a cozy café doorway, pointing rudely at Sarah while holding a clipboard."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "3.100 €",
+          "bar": 0.5
+        },
+        {
+          "label": "Beamte",
+          "value": "A 9",
+          "bar": 0.55
+        },
+        {
+          "label": "Miete",
+          "value": "950 €",
+          "bar": 0.6
+        }
+      ],
+      "character": "A neat Pear woman with smooth yellow-green skin, wearing a tailored grey blazer and pearl earrings. Glowing digital forehead.",
+      "visual": "Wide shot of a bright, cozy café interior with wooden tables, steaming coffee cups, and soft afternoon light.",
+      "scenes": [
+        "Wide shot of a bright café interior with wooden tables and soft afternoon light.",
+        "Medium shot of Sarah the Pear woman stirring her coffee with a silver spoon.",
+        "Close-up on Sarah's glowing forehead showing 3.100 Euro with a tiny hidden gold coin in the sugar bowl.",
+        "Medium shot of Markus the Plum man gesturing aggressively near the counter.",
+        "Detail shot of a large brown cardboard box stamped with an urgent delivery notice.",
+        "Wide shot of raindrops pattering against the large glass window of the café."
+      ],
+      "caption": "Papier ist geduldig, aber die Stirn lügt nie. Wer kennt den Druck im Büro? #fakejobs #stirnzahl #sachbearbeiterin #drama #viral"
+    },
+    {
+      "n": 5,
+      "open_loop": "Welche geheimen Unterlagen lagen in der blauen Mappe auf dem Chefsessel?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Schüttet absichtlich Kaffee über die Arbeitsunterlagen und lacht hämisch.",
+        "name": "Mia",
+        "badge": "1.900 €"
+      },
+      "name": "David, 35, Projektleiter",
+      "badge": "4.600 €",
+      "verdict": "OBEREN 20%",
+      "story": "Die 8 Level von Fake-Jobs. Level 5. Level 5: 4.600 Euro als Abteilungsleiter im Konzern – und beim Netzwerktreffen prale ich, ich sei Vorstandsvorsitzender. Ich stehe im gläsernen Konferenzraum, der Blick geht über die Skyline, die Klimaanlage summt leise im Hintergrund. Niemand ahnt, dass über mir noch drei weitere Managementebenen stehen und ich jeden Tag um meine Existenz bangen muss. Plötzlich taucht Mia auf, unsere neue studentische Aushilfskraft, die mich mit einem kalten Lächeln fixiert und meine Lügen aufdeckt. Du bist doch nur der Handlanger für die wahren Entscheider! Mein Puls schießt nach oben, die Kollegen schauen betreten auf ihre Blöcke, die Anspannung ist greifbar. Ich arbeite sechzig Stunden die Woche und trage den ganzen Druck, und trotzdem fühle ich mich wie ein Betrüger. Du bist doch nur der Handlanger für die wahren Entscheider! Sie legt eine blaue Akte auf meinen Tisch, die meine sofortige Entlassung fordert. Wessen Name stand ganz oben auf diesem Dokument? Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+800 €",
+        "after": "5.400 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Fake-Jobs. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 4.600 Euro als Abteilungsleiter im Konzern – und beim Netzwerktreffen prale ich, ich sei Vorstandsvorsitzender."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im gläsernen Konferenzraum, der Blick geht über die Skyline, die Klimaanlage summt leise im Hintergrund."
+        },
+        {
+          "s": "Figur",
+          "t": "Niemand ahnt, dass über mir noch drei weitere Managementebenen stehen und ich jeden Tag um meine Existenz bangen muss."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich taucht Mia auf, unsere neue studentische Aushilfskraft, die mich mit einem kalten Lächeln fixiert und meine Lügen aufdeckt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du bist doch nur der Handlanger für die wahren Entscheider!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Puls schießt nach oben, die Kollegen schauen betreten auf ihre Blöcke, die Anspannung ist greifbar."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich arbeite sechzig Stunden die Woche und trage den ganzen Druck, und trotzdem fühle ich mich wie ein Betrüger."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du bist doch nur der Handlanger für die wahren Entscheider!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie legt eine blaue Akte auf meinen Tisch, die meine sofortige Entlassung fordert."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wessen Name stand ganz oben auf diesem Dokument?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Du bist doch nur der Handlanger für die wahren Entscheider!",
+      "quote_by": {
+        "level": 2,
+        "name": "Mia",
+        "badge": "1.900 €",
+        "character": "An zesty Lemon woman with yellow textured skin, wearing a casual barista apron and a silver name tag.",
+        "scene": "Medium shot in a modern glass office, holding a coffee tray and sneering at David."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "4.600 €",
+          "bar": 0.65
+        },
+        {
+          "label": "Bonus",
+          "value": "12.000 €",
+          "bar": 0.7
+        },
+        {
+          "label": "Stunden",
+          "value": "60h/W.",
+          "bar": 0.85
+        }
+      ],
+      "character": "A smooth Mango man with golden-orange flesh, wearing a sharp navy blue suit and a silk tie. Glowing digital forehead.",
+      "visual": "Wide shot of a modern glass-walled skyscraper conference room overlooking a sprawling city at dusk.",
+      "scenes": [
+        "Wide shot of a modern glass-walled skyscraper conference room overlooking a sprawling city at dusk.",
+        "Medium shot of David the Mango man adjusting his tie nervously near the panoramic window.",
+        "Close-up on David's glowing forehead showing 4.600 Euro with a tiny hidden gold coin on the windowsill.",
+        "Medium shot of Mia the Lemon woman walking past with a coffee tray and a sarcastic smirk.",
+        "Detail shot of a blue leather folder resting on a glossy mahogany conference table.",
+        "Wide shot of the elevator lobby with polished marble floors reflecting the ceiling lights."
+      ],
+      "caption": "Wer oben steht, sieht den Neid am besten. Habt ihr euren Job im Lebenslauf je schöner gemacht? #fakejobs #stirnzahl #karriere #drama #viral"
+    },
+    {
+      "n": 6,
+      "open_loop": "Welche Summe stand auf dem Scheck, den der Bankdirektor persönlich überreichte?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Kürzt den Werbeetat fristlos und beleidigt die Kompetenz des Teams.",
+        "name": "Leo",
+        "badge": "2.400 €"
+      },
+      "name": "Elena, 41, Architektin",
+      "badge": "6.800 €",
+      "verdict": "TOPVERDIENER",
+      "story": "Die 8 Level von Fake-Jobs. Level 6. Level 6: 6.800 Euro als Chefarchitektin im eigenen Büro – und im exklusiven Club erzähle ich, ich baue Wolkenkratzer in Dubai. Ich stehe auf der Dachterrasse, Champagner perlt im Glas, die Stadt liegt uns zu Füßen wie ein glitzerndes Lichtermeer. Niemand weiß, dass ich jahrelang jeden Cent umdrehen musste und meine Pläne oft von größeren Firmen gestohlen wurden. Plötzlich tritt Leo an mich heran, ein kleiner Grafiker aus meiner alten Heimat, der meine Vergangenheit kennt. Du planst doch nur Einfamilienhäuser für die Mittelschicht! Mir gefriert das Lächeln im Gesicht, die feine Gesellschaft dreht sich weg, der Wind weht eiskalt über das Dach. Ich trage die Verantwortung für Millionenprojekte, und doch fühle ich mich wie eine Hochstaplerin in dieser Welt. Du planst doch non Einfamilienhäuser für die Mittelschicht! In diesem Moment überreicht mir der Investor einen goldenen Umschlag, der mein gesamtes Architekturbüro in den Ruin treiben kann. Was für eine Zahl veränderte mit einem Schlag alles? Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1.200 €",
+        "after": "8.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Fake-Jobs. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 6.800 Euro als Chefarchitektin im eigenen Büro – und im exklusiven Club erzähle ich, ich baue Wolkenkratzer in Dubai."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe auf der Dachterrasse, Champagner perlt im Glas, die Stadt liegt uns zu Füßen wie ein glitzerndes Lichtermeer."
+        },
+        {
+          "s": "Figur",
+          "t": "Niemand weiß, dass ich jahrelang jeden Cent umdrehen musste und meine Pläne oft von größeren Firmen gestohlen wurden."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich tritt Leo an mich heran, ein kleiner Grafiker aus meiner alten Heimat, der meine Vergangenheit kennt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du planst doch nur Einfamilienhäuser für die Mittelschicht!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mir gefriert das Lächeln im Gesicht, die feine Gesellschaft dreht sich weg, der Wind weht eiskalt über das Dach."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich trage die Verantwortung für Millionenprojekte, und doch fühle ich mich wie eine Hochstaplerin in dieser Welt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du planst doch non Einfamilienhäuser für die Mittelschicht!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Moment überreicht mir der Investor einen goldenen Umschlag, der mein gesamtes Architekturbüro in den Ruin treiben kann."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was für eine Zahl veränderte mit einem Schlag alles?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Du planst doch nur Einfamilienhäuser für die Mittelschicht!",
+      "quote_by": {
+        "level": 3,
+        "name": "Leo",
+        "badge": "2.400 €",
+        "character": "An Avocado man with pale green skin, wearing a corduroy jacket and round wire-rimmed glasses.",
+        "scene": "Close-up on a rooftop terrace, sneering at Elena while holding a drink."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "6.800 €",
+          "bar": 0.8
+        },
+        {
+          "label": "Projekte",
+          "value": "18 Mio.",
+          "bar": 0.85
+        },
+        {
+          "label": "Miete",
+          "value": "2.100 €",
+          "bar": 0.75
+        }
+      ],
+      "character": "An elegant Dragonfruit woman with vibrant pink and green skin, wearing a sharp white blazer and architectural silver earrings. Glowing digital forehead.",
+      "visual": "Wide shot of a luxurious rooftop terrace at night with glowing city lights and elegant party guests in evening wear.",
+      "scenes": [
+        "Wide shot of a luxurious rooftop terrace at night with glowing city lights and elegant party guests.",
+        "Medium shot of Elena the Dragonfruit woman holding a crystal champagne flute with a tense expression.",
+        "Close-up on Elena's glowing forehead showing 6.800 Euro with a tiny hidden gold coin on the bar railing.",
+        "Medium shot of Leo the Avocado man pointing a finger with a smug expression.",
+        "Detail shot of a white bank envelope resting next to an ice bucket.",
+        "Wide shot of the glittering skyline under a dark starry sky."
+      ],
+      "caption": "Wer hoch baut, muss windfest sein. Habt ihr im Lebenslauf schon mal die Wahrheit gedehnt? #fakejobs #stirnzahl #architektin #drama #viral"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welcher Name stand auf dem goldenen Klingelschild neben dem Penthouse?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Weigert sich, die Baupläne freizugeben und fordert eine öffentliche Entschuldigung.",
+        "name": "Sarah",
+        "badge": "3.100 €"
+      },
+      "name": "Viktor, 49, Investor",
+      "badge": "12.500 €",
+      "verdict": "ELITE",
+      "story": "Die 8 Level von Fake-Jobs. Level 7. Level 7: 12.500 Euro im Monat als privater Investor – und im privaten Kreis prahle ich, ich besitze die halbe Frankfurter Börse. Ich stehe im luxuriösen Penthouse, der Marmorboden glänzt wie ein Spiegel, der Duft von teurem Zigarrenrauch liegt in der Luft. Doch hinter meiner glänzenden Fassade verberge ich die Tatsache, dass fast mein gesamtes Vermögen auf geliehenem Kapital und hochriskanten Wetten basiert. Plötzlich tritt Sarah, meine ehemalige Sachbearbeiterin, aus der Menge hervor und wirft mir einen vernichtenden Blick zu. Du hast dein Geld doch nur mit windigen Immobilienkrediten gemacht! Mein Stolz kocht über, die Gäste halten den Atem an, die Anwesenheit von Neid ist fast greifbar. Ich riskiere jeden Tag Millionen auf den Märkten, und doch fühle ich mich oft wie ein Hochstapler im goldenen Käfig. Du hast dein Geld doch nur mit windigen Immobilienkrediten gemacht! Sie zieht einen Gerichtsbeschluss aus ihrer Tasche, der mein gesamtes Penthouse beschlagnahmt. Wer wohnte wirklich in diesem Penthouse über den Dächern? Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+2.500 €",
+        "after": "15.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Fake-Jobs. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 12.500 Euro im Monat als privater Investor – und im privaten Kreis prahle ich, ich besitze die halbe Frankfurter Börse."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im luxuriösen Penthouse, der Marmorboden glänzt wie ein Spiegel, der Duft von teurem Zigarrenrauch liegt in der Luft."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch hinter meiner glänzenden Fassade verberge ich die Tatsache, dass fast mein gesamtes Vermögen auf geliehenem Kapital und hochriskanten Wetten basiert."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich tritt Sarah, meine ehemalige Sachbearbeiterin, aus der Menge hervor und wirft mir einen vernichtenden Blick zu."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast dein Geld doch nur mit windigen Immobilienkrediten gemacht!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Stolz kocht über, die Gäste halten den Atem an, die Anwesenheit von Neid ist fast greifbar."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich riskiere jeden Tag Millionen auf den Märkten, und doch fühle ich mich oft wie ein Hochstapler im goldenen Käfig."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast dein Geld doch nur mit windigen Immobilienkrediten gemacht!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie zieht einen Gerichtsbeschluss aus ihrer Tasche, der mein gesamtes Penthouse beschlagnahmt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer wohnte wirklich in diesem Penthouse über den Dächern?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Du hast dein Geld doch nur mit windigen Immobilienkrediten gemacht!",
+      "quote_by": {
+        "level": 4,
+        "name": "Sarah",
+        "badge": "3.100 €",
+        "character": "A neat Pear woman with smooth yellow-green skin, wearing a tailored grey blazer and pearl earrings.",
+        "scene": "Medium shot in a luxury penthouse, looking up scornfully at Viktor with arms crossed."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "12.500 €",
+          "bar": 0.95
+        },
+        {
+          "label": "Assets",
+          "value": "4.2 Mio.",
+          "bar": 0.9
+        },
+        {
+          "label": "Miete",
+          "value": "4.500 €",
+          "bar": 0.9
+        }
+      ],
+      "character": "A rugged Walnut man with a deeply textured brown shell face, wearing a bespoke Italian tuxedo and a gold signet ring. Glowing digital forehead.",
+      "visual": "Wide shot of an opulent penthouse living room with floor-to-ceiling windows, modern art, and expensive leather furniture.",
+      "scenes": [
+        "Wide shot of an opulent penthouse living room with floor-to-ceiling windows and modern art.",
+        "Medium shot of Viktor the Walnut man swirling amber whiskey in a heavy crystal tumbler.",
+        "Close-up on Viktor's glowing forehead showing 12.500 Euro with a tiny hidden gold coin on the grand piano.",
+        "Medium shot of Sarah the Pear woman standing with a critical glare.",
+        "Detail shot of a gleaming brass nameplate mounted next to a massive mahogany door.",
+        "Wide shot of the floodlit city skyline viewed from the high balcony."
+      ],
+      "caption": "Wer ganz oben steht, sieht die Welt mit anderen Augen. Habt ihr euer Gehalt auf dem Papier je frisiert? #fakejobs #stirnzahl #investor #drama #viral"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches Geheimnis verbarg sich hinter der letzten Zahl auf der goldenen Anzeige?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Versucht das gesamte System zu hacken und wird vom Hauptserver gestoppt.",
+        "name": "David",
+        "badge": "4.600 €"
+      },
+      "name": "Madame X, ???, Die Architektin des Systems",
+      "badge": "99.999 €",
+      "verdict": "UNBEKANNT",
+      "story": "Die 8 Level von Fake-Jobs. Level 8. Level 8: 99.999 Euro auf der Stirn – die Schöpferin des gesamten Zahlensystems, und ich habe jahrelang eure Fake-Jobs beobachtet. Ich stehe im zentralen Kontrollraum, Monitore flackern in kaltem Blau, das Summen von Servern füllt den schallgedämpften Raum. Niemand ahnte jemals, dass jede einzelne Zahl auf euren Stirnen von mir programmiert wurde, um euren wahren Wert zu testen. Plötzlich stürmt David, der gescheiterte Projektleiter, in den Raum, wirft sich vor die Hauptkonsole und versucht verzweifelt, den Server zu überschreiben. Du hast das ganze Spiel von Anfang an gesteuert! Ein tiefes Schweigen legt sich über den Raum, alle Masken fallen ab, die Illusion bricht endgültig in sich zusammen. Jede Zahl, jede Lüge, jeder Fake-Job im Lebenslauf war nur ein winziger Test in diesem riesigen sozialen Experiment. Du hast das ganze Spiel von Anfang an gesteuert! In diesem Bruchteil einer Sekunde fängt der Hauptbildschirm an rot zu blinken, und ein Countdown startet, den niemand mehr aufhalten kann. Welches Thema der Stirn-Zahl soll als Nächstes enthüllt werden?",
+      "gender": "w",
+      "twist": {
+        "delta": "0 €",
+        "after": "99.999 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Fake-Jobs. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 99.999 Euro auf der Stirn – die Schöpferin des gesamten Zahlensystems, und ich habe jahrelang eure Fake-Jobs beobachtet."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im zentralen Kontrollraum, Monitore flackern in kaltem Blau, das Summen von Servern füllt den schallgedämpften Raum."
+        },
+        {
+          "s": "Figur",
+          "t": "Niemand ahnte jemals, dass jede einzelne Zahl auf euren Stirnen von mir programmiert wurde, um euren wahren Wert zu testen."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich stürmt David, der gescheiterte Projektleiter, in den Raum, wirft sich vor die Hauptkonsole und versucht verzweifelt, den Server zu überschreiben."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast das ganze Spiel von Anfang an gesteuert!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ein tiefes Schweigen legt sich über den Raum, alle Masken fallen ab, die Illusion bricht endgültig in sich zusammen."
+        },
+        {
+          "s": "Figur",
+          "t": "Jede Zahl, jede Lüge, jeder Fake-Job im Lebenslauf war nur ein winziger Test in diesem riesigen sozialen Experiment."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast das ganze Spiel von Anfang an gesteuert!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Bruchteil einer Sekunde fängt der Hauptbildschirm an rot zu blinken, und ein Countdown startet, den niemand mehr aufhalten kann."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema der Stirn-Zahl soll als Nächstes enthüllt werden?"
+        }
+      ],
+      "quote": "Du hast das ganze Spiel von Anfang an gesteuert!",
+      "quote_by": {
+        "level": 5,
+        "name": "David",
+        "badge": "4.600 €",
+        "character": "A smooth Mango man with golden-orange flesh, wearing a sharp navy blue suit and a silk tie.",
+        "scene": "Wide shot in a high-tech server room, staring in disbelief at Madame X with wide eyes."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "99.999 €",
+          "bar": 1.0
+        },
+        {
+          "label": "System",
+          "value": "Root",
+          "bar": 1.0
+        },
+        {
+          "label": "Wahrheit",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "A mysterious Mangosteen woman with deep purple shell skin and a glowing white core face, wearing a sleek silver cybernetic coat. Glowing digital forehead.",
+      "visual": "Wide shot of a futuristic underground server control room with towering rows of glowing blue server racks and holographic screens.",
+      "scenes": [
+        "Wide shot of a futuristic underground server control room with towering rows of glowing blue server racks.",
+        "Medium shot of Madame X the Mangosteen woman standing before a massive central holographic display.",
+        "Close-up on Madame X's glowing forehead showing 99.999 Euro with a tiny hidden gold coin embedded in the server rack.",
+        "Medium shot of David the Mango man stepping out from the shadows in utter shock.",
+        "Detail shot of a pulsing glowing red cable plugged into the main system core.",
+        "Wide shot of the entire produce metropolis glowing underneath the digital grid at night."
+      ],
+      "caption": "Die Zahl lügt nie – oder etwa doch? Welches Thema der Stirn-Zahl wollt ihr als Nächstes sehen? #fakejobs #stirnzahl #finale #drama #viral"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das heimliche Erfinden von Fake-Jobs im Lebenslauf, um bei Familienfeiern nicht zu versagen",
+  "frame": "frucht"
+}

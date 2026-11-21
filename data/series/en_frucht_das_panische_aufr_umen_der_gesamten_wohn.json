@@ -1,0 +1,779 @@
+{
+  "title": "The 8 Levels of Panic Cleaning",
+  "house": "A bustling metropolitan neighborhood populated by anthropomorphic fruit and vegetable people, featuring cramped apartments, high-end appliance stores, and a central subway station with glowing digital billboards.",
+  "catchphrase": "The number never lies, but the dirt is invisible.",
+  "links": [
+    "Level 1 mentions the loud vacuum cleaner heard next door from Level 4.",
+    "Level 3 references the same broken elevator that Level 6 gets trapped in.",
+    "Level 7 buys cheap cleaning spray from the same kiosk where Level 2 works."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "What was hidden inside the old shoe box under the bed?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Laughs at the dusty carpet and tells the repairman to leave immediately."
+      },
+      "name": "Pip, 22, Intern",
+      "badge": "05 mins",
+      "verdict": "TOTAL DISASTER",
+      "story": "The 8 levels of panic cleaning. Level 1. Five minutes until the boiler repairman arrives, and my apartment looks like a tornado hit a landfill. I am Pip, a stressed-out little Blueberry guy drowning in laundry while my forehead glows 05 minutes. I frantically shove three weeks of dirty socks under the couch cushion before he sees them. Sweat drips down my blue rind as the clock ticks down every single second without mercy. Suddenly, a heavy knock echoes through the thin walls, vibrating right through my tired feet. You call this a living space? It is a landfill for low-level peasants. My forehead badge flickers frantically and drops down to absolute zero as panic freezes my veins. A hidden compartment in the floor suddenly pops open, revealing a glowing map that changes everything about this building. You'll see that in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-05 mins",
+        "after": "00 mins"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of panic cleaning. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Five minutes until the boiler repairman arrives, and my apartment looks like a tornado hit a landfill."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Pip, a stressed-out little Blueberry guy drowning in laundry while my forehead glows 05 minutes."
+        },
+        {
+          "s": "Figur",
+          "t": "I frantically shove three weeks of dirty socks under the couch cushion before he sees them."
+        },
+        {
+          "s": "Figur",
+          "t": "Sweat drips down my blue rind as the clock ticks down every single second without mercy."
+        },
+        {
+          "s": "Figur",
+          "t": "Suddenly, a heavy knock echoes through the thin walls, vibrating right through my tired feet."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You call this a living space? It is a landfill for low-level peasants.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead badge flickers frantically and drops down to absolute zero as panic freezes my veins."
+        },
+        {
+          "s": "Figur",
+          "t": "A hidden compartment in the floor suddenly pops open, revealing a glowing map that changes everything about this building."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You call this a living space? It is a landfill for low-level peasants.",
+      "quote_by": {
+        "level": 4,
+        "name": "Melon King",
+        "badge": "99 days",
+        "character": "A giant, smug Watermelon man wearing a tailored silk suit and holding a gold-plated clipboard.",
+        "scene": "Wide angle of a cluttered apartment hallway where a giant Watermelon man looks down his nose at a tiny blueberry."
+      },
+      "stats": [
+        {
+          "label": "Time Left",
+          "value": "05 mins",
+          "bar": 0.05
+        },
+        {
+          "label": "Dirt Level",
+          "value": "98%",
+          "bar": 0.98
+        },
+        {
+          "label": "Panic",
+          "value": "10/10",
+          "bar": 1.0
+        }
+      ],
+      "character": "A round, deep blue Blueberry man with anxious eyes, wearing an oversized stained grey hoodie, tiny sneakers, and a glowing digital forehead badge.",
+      "visual": "Close-up of a blue blueberry man sweating intensely in a tiny, messy apartment with a glowing digital timer on his forehead.",
+      "scenes": [
+        "A cramped, messy studio apartment living room with piles of clothes, soft warm morning light, and a hidden golden coin on the bookshelf.",
+        "Halbnah view of the blueberry man shoving socks under a worn-out floral sofa while a digital clock on the wall ticks loudly.",
+        "Detail shot of the glowing forehead badge showing 05 mins glowing in bright red light.",
+        "Overhead shot of a narrow hallway with cracked linoleum flooring and a discarded coffee cup.",
+        "Close-up of a giant watermelon man pointing a finger condescendingly at the floor.",
+        "Wide shot of the apartment front door as a heavy knock echoes through the thin walls."
+      ],
+      "caption": "Would you survive a five-minute warning with a spotless apartment? #cleaningpanic #blueberry #apartmentlife #relatable #viral"
+    },
+    {
+      "n": 2,
+      "open_loop": "What secret formula was inside the titanium bucket?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Insults the dusting technique and tracks mud onto the freshly wiped floor."
+      },
+      "name": "Sunny, 25, Barista",
+      "badge": "15 mins",
+      "verdict": "BARELY PASSING",
+      "story": "The 8 levels of panic cleaning. Level 2. Fifteen minutes on the clock and I am spraying window cleaner like my life depends on it. I am Sunny, an energetic Lemon woman scrubbing coffee rings off my glass table. Every streak I miss feels like a personal failure broadcast to the entire neighborhood. I grab a paper towel and wipe furiously until my citrus skin tingles with exhaustion. Your dusting is pathetic, even a spoiled orange could do better. She sneers and kicks dirt right onto my freshly mopped kitchen tiles. My cleaning score plummets instantly while hot tears sting my citrus eyes. Just as I am about to give up, the intercom blares an emergency warning about a building-wide inspection. You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+30 mins",
+        "after": "45 mins"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of panic cleaning. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Fifteen minutes on the clock and I am spraying window cleaner like my life depends on it."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Sunny, an energetic Lemon woman scrubbing coffee rings off my glass table."
+        },
+        {
+          "s": "Figur",
+          "t": "Every streak I miss feels like a personal failure broadcast to the entire neighborhood."
+        },
+        {
+          "s": "Figur",
+          "t": "I grab a paper towel and wipe furiously until my citrus skin tingles with exhaustion."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your dusting is pathetic, even a spoiled orange could do better.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "She sneers and kicks dirt right onto my freshly mopped kitchen tiles."
+        },
+        {
+          "s": "Figur",
+          "t": "My cleaning score plummets instantly while hot tears sting my citrus eyes."
+        },
+        {
+          "s": "Figur",
+          "t": "Just as I am about to give up, the intercom blares an emergency warning about a building-wide inspection."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Your dusting is pathetic, even a spoiled orange could do better.",
+      "quote_by": {
+        "level": 5,
+        "name": "Pineapple Queen",
+        "badge": "45 mins",
+        "character": "A spiky, golden Pineapple woman with sharp sunglasses and a designer apron.",
+        "scene": "Medium shot in a bright kitchen where the pineapple woman points aggressively at a dirty floor tile."
+      },
+      "stats": [
+        {
+          "label": "Time Left",
+          "value": "15 mins",
+          "bar": 0.2
+        },
+        {
+          "label": "Cleanliness",
+          "value": "40%",
+          "bar": 0.4
+        },
+        {
+          "label": "Stress",
+          "value": "8/10",
+          "bar": 0.8
+        }
+      ],
+      "character": "A bright yellow Lemon woman with a textured citrus rind, wearing a yellow rubber glove on one hand, a green apron, and a glowing digital badge.",
+      "visual": "A bright yellow lemon woman wiping a dusty window in a sunlit kitchen with cleaning spray bottles around her.",
+      "scenes": [
+        "A sunlit modern kitchen with yellow walls, a golden coin tucked behind a spice rack, and a ringing phone.",
+        "Halbnah view of the lemon woman furiously polishing a wine glass with a yellow dish towel.",
+        "Detail shot of muddy footprints appearing on a clean white floor tile.",
+        "Overhead shot of a pineapple woman crossing her arms with a judgmental smirk.",
+        "Close-up of the lemon woman's glowing forehead badge flickering from 15 to 45 mins.",
+        "Wide shot of a delivery person holding a mysterious heavy metal bucket outside the apartment door."
+      ],
+      "caption": "Have you ever been judged by your cleaning skills? #lemonlife #cleaninghacks #relatable #baristalife #viral"
+    },
+    {
+      "n": 3,
+      "open_loop": "What did the repairman whisper to the carrot man in the hallway?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Insists on inspecting the baseboards with a magnifying glass and mocks the dust."
+      },
+      "name": "Brocco, 29, Accountant",
+      "badge": "30 mins",
+      "verdict": "PASSABLE",
+      "story": "The 8 levels of panic cleaning. Level 3. Thirty minutes left and I am treating my living room rug like a crime scene investigation. I am Brocco, a meticulous Broccoli man armed with a high-powered steam vacuum. I calculate every square inch of carpet to ensure zero particles remain on the floorboards. My stalks quiver as the digital timer counts down another stressful minute. Your baseboards are caked in grime, you will never pass inspection. He runs a white cotton gloved finger along my wooden mantelpiece and holds up a speck of dust. My steam vacuum short-circuits and sparks fly across the hardwood floor in total chaos. The lights in the entire building flicker off, plunging us into absolute darkness before a mysterious red siren starts spinning. You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+15 mins",
+        "after": "45 mins"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of panic cleaning. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Thirty minutes left and I am treating my living room rug like a crime scene investigation."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Brocco, a meticulous Broccoli man armed with a high-powered steam vacuum."
+        },
+        {
+          "s": "Figur",
+          "t": "I calculate every square inch of carpet to ensure zero particles remain on the floorboards."
+        },
+        {
+          "s": "Figur",
+          "t": "My stalks quiver as the digital timer counts down another stressful minute."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your baseboards are caked in grime, you will never pass inspection.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "He runs a white cotton gloved finger along my wooden mantelpiece and holds up a speck of dust."
+        },
+        {
+          "s": "Figur",
+          "t": "My steam vacuum short-circuits and sparks fly across the hardwood floor in total chaos."
+        },
+        {
+          "s": "Figur",
+          "t": "The lights in the entire building flicker off, plunging us into absolute darkness before a mysterious red siren starts spinning."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Your baseboards are caked in grime, you will never pass inspection.",
+      "quote_by": {
+        "level": 6,
+        "name": "Director Carrot",
+        "badge": "02 hours",
+        "character": "An orange, sleek Carrot man with geometric leaves, wearing a pinstripe suit and wire-rimmed glasses.",
+        "scene": "Close-up in a living room where the carrot man inspects a white gloved finger full of dust."
+      },
+      "stats": [
+        {
+          "label": "Time Left",
+          "value": "30 mins",
+          "bar": 0.35
+        },
+        {
+          "label": "Vacuum Power",
+          "value": "80%",
+          "bar": 0.8
+        },
+        {
+          "label": "Anxiety",
+          "value": "7/10",
+          "bar": 0.7
+        }
+      ],
+      "character": "A bushy green-headed Broccoli man with a sturdy green stalk torso, wearing a neat button-down shirt, spectacles, and a glowing digital forehead badge.",
+      "visual": "A green broccoli man operating a heavy steam vacuum in a dusty apartment living room with sunlight streaming through blinds.",
+      "scenes": [
+        "A tidy home office with green plants, a golden coin resting inside an open desk drawer, and papers scattered about.",
+        "Halbnah view of the broccoli man aggressively pushing a vacuum cleaner over a grey carpet.",
+        "Detail shot of a white gloved finger touching a dusty wooden baseboard.",
+        "Overhead shot of a carrot man in a sharp suit standing with arms crossed in a doorway.",
+        "Close-up of sparks flying from the malfunctioning vacuum cleaner cord.",
+        "Wide shot of a hallway elevator indicator flashing red as it reaches the floor."
+      ],
+      "caption": "Nothing beats the panic of cleaning before a strict visitor arrives! #broccolilife #cleaningfails #officehumor #relatable #viral"
+    },
+    {
+      "n": 4,
+      "open_loop": "What was leaking from the mysterious pipe in the ceiling?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Complains about the bleach smell and throws away the garbage can."
+      },
+      "name": "Coco, 31, Carpenter",
+      "badge": "45 mins",
+      "verdict": "GETTING THERE",
+      "story": "The 8 levels of panic cleaning. Level 4. Forty-five minutes before arrival and my apartment smells like a chemical weapon testing site. I am Coco, a tough brown Kokosnuss man scrubbing my wooden floors with industrial bleach. I scrub harder to eliminate every trace of sawdust from my latest carpentry project. My tough outer shell aches as I fight against the relentless ticking of the clock. Your harsh bleach stinks up the entire hallway, amateur hour is over. She picks up my garbage can and tosses it right out into the common corridor. My wooden floorboards buckle under the moisture and my hard shell begins to crack. A strange ticking sound starts coming from behind the wall panels, drowning out the noise of our argument. You'll see that in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+30 mins",
+        "after": "01 hr 15"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of panic cleaning. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Forty-five minutes before arrival and my apartment smells like a chemical weapon testing site."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Coco, a tough brown Kokosnuss man scrubbing my wooden floors with industrial bleach."
+        },
+        {
+          "s": "Figur",
+          "t": "I scrub harder to eliminate every trace of sawdust from my latest carpentry project."
+        },
+        {
+          "s": "Figur",
+          "t": "My tough outer shell aches as I fight against the relentless ticking of the clock."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your harsh bleach stinks up the entire hallway, amateur hour is over.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "She picks up my garbage can and tosses it right out into the common corridor."
+        },
+        {
+          "s": "Figur",
+          "t": "My wooden floorboards buckle under the moisture and my hard shell begins to crack."
+        },
+        {
+          "s": "Figur",
+          "t": "A strange ticking sound starts coming from behind the wall panels, drowning out the noise of our argument."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Your harsh bleach stinks up the entire hallway, amateur hour is over.",
+      "quote_by": {
+        "level": 7,
+        "name": "Apple Boss",
+        "badge": "03 hours",
+        "character": "A polished, ruby-red Apple woman with a crisp green leaf stem and a designer leather jacket.",
+        "scene": "Wide shot in a hallway where an apple woman throws a garbage can across the floor."
+      },
+      "stats": [
+        {
+          "label": "Time Left",
+          "value": "45 mins",
+          "bar": 0.5
+        },
+        {
+          "label": "Scrub Power",
+          "value": "90%",
+          "bar": 0.9
+        },
+        {
+          "label": "Shell Hard",
+          "value": "85%",
+          "bar": 0.85
+        }
+      ],
+      "character": "A hard, fibrous brown Coconut man with three dark indentations on his face, wearing a flannel work shirt, tool belt, and glowing digital forehead badge.",
+      "visual": "A fibrous brown coconut man scrubbing a wooden floor on his knees with cleaning suds and a bucket in a rustic workshop apartment.",
+      "scenes": [
+        "A rustic workshop apartment with wood shavings, a golden coin hidden inside a sawdust pile, and heavy tools.",
+        "Halbnah view of the coconut man scrubbing vigorously with a stiff-bristled brush.",
+        "Detail shot of white cleaning suds bubbling over dark wooden floor planks.",
+        "Overhead shot of an apple woman holding her nose in disgust at the doorway.",
+        "Close-up of a garbage can flying out into a narrow hallway.",
+        "Wide shot of rusted plumbing pipes vibrating loudly inside a tiled bathroom wall."
+      ],
+      "caption": "Nothing tests your patience quite like cleaning your floors right before a visitor! #coconutlife #woodworking #cleaningday #relatable #viral"
+    },
+    {
+      "n": 5,
+      "open_loop": "What was written on the golden envelope left on the entryway table?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Criticizes the lighting arrangement and changes all the lightbulbs."
+      },
+      "name": "Peach, 26, Florist",
+      "badge": "01 hr 15",
+      "verdict": "ALMOST READY",
+      "story": "The 8 levels of panic cleaning. Level 5. One hour and fifteen minutes left, and every cushion in this house has been fluffed into submission. I am Peach, a soft-skinned Peach woman delicately arranging lavender bouquets. I spray floral water across the room to mask the scent of panic and bleach coming from downstairs. My hands tremble as I adjust the decorative ribbons on every single vase. This room lacks atmospheric warmth, your lighting choices are frankly barbaric. He unscrews my warm lamps and replaces them with blinding medical-grade white bulbs. My delicate floral arrangements wither under the harsh glare while my cheeks burn. A shadow passes by the window outside, making me realize we are being watched by someone from the top floor. You'll see that in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+45 mins",
+        "after": "02 hrs"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of panic cleaning. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "One hour and fifteen minutes left, and every cushion in this house has been fluffed into submission."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Peach, a soft-skinned Peach woman delicately arranging lavender bouquets."
+        },
+        {
+          "s": "Figur",
+          "t": "I spray floral water across the room to mask the scent of panic and bleach coming from downstairs."
+        },
+        {
+          "s": "Figur",
+          "t": "My hands tremble as I adjust the decorative ribbons on every single vase."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "This room lacks atmospheric warmth, your lighting choices are frankly barbaric.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "He unscrews my warm lamps and replaces them with blinding medical-grade white bulbs."
+        },
+        {
+          "s": "Figur",
+          "t": "My delicate floral arrangements wither under the harsh glare while my cheeks burn."
+        },
+        {
+          "s": "Figur",
+          "t": "A shadow passes by the window outside, making me realize we are being watched by someone from the top floor."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "This room lacks atmospheric warmth, your lighting choices are frankly barbaric.",
+      "quote_by": {
+        "level": 8,
+        "name": "The Master",
+        "badge": "05 hours",
+        "character": "A striking magenta Dragonfruit man with green scale-like tips, wearing a bespoke velvet blazer.",
+        "scene": "Medium shot in a cozy living room where the dragonfruit man swaps out a glowing lamp bulb with a smirk."
+      },
+      "stats": [
+        {
+          "label": "Time Left",
+          "value": "01h 15",
+          "bar": 0.65
+        },
+        {
+          "label": "Decor Score",
+          "value": "85%",
+          "bar": 0.85
+        },
+        {
+          "label": "Elegance",
+          "value": "9/10",
+          "bar": 0.9
+        }
+      ],
+      "character": "A velvety pink-skinned Peach woman with a soft fuzzy texture, wearing pastel floral garments, a silver charm bracelet, and a glowing digital forehead badge.",
+      "visual": "A soft pink peach woman arranging fresh purple lavender flowers in a chic, sunlit bohemian living room.",
+      "scenes": [
+        "A bohemian living room filled with potted plants, a golden coin tucked inside a ceramic vase, and soft pastel cushions.",
+        "Halbnah view of the peach woman delicately tying a ribbon around a bouquet.",
+        "Detail shot of a hand unscrewing a warm amber lightbulb.",
+        "Overhead shot of a dragonfruit man in a velvet jacket standing near a balcony sliding door.",
+        "Close-up of blinding white light flooding a cozy corner of the room.",
+        "Wide shot of an apartment doorway as a gentle, elegant chime rings out."
+      ],
+      "caption": "Lighting can completely ruin your interior design panic cleaning! #peachlife #florist #homedecor #relatable #viral"
+    },
+    {
+      "n": 6,
+      "open_loop": "What emergency message was broadcasted across the building intercom?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Bangs on the apartment wall and complains about the noise of furniture moving."
+      },
+      "name": "Avoc, 28, Designer",
+      "badge": "02 hrs",
+      "verdict": "SPOTLESS",
+      "story": "The 8 levels of panic cleaning. Level 6. Two hours of intense scrubbing and my minimalist apartment looks like an art gallery showroom. I am Avoc, a sleek Avocado man wiping down my stainless steel refrigerator. I polish every metal surface until it reflects my stressed expression with crystal clarity. My designer furniture is arranged with absolute geometric precision to please any inspector. Stop rearranging your furniture at this hour, some of us live in a pigsty and need sleep. He screams obscenities through the drywall while spilling coffee all over my clean welcome mat. My expensive designer rug takes a direct hit and stains instantly in front of me. Sirens start wailing outside as the front security gates automatically lock down all apartments. You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+01 hr",
+        "after": "03 hrs"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of panic cleaning. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Two hours of intense scrubbing and my minimalist apartment looks like an art gallery showroom."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Avoc, a sleek Avocado man wiping down my stainless steel refrigerator."
+        },
+        {
+          "s": "Figur",
+          "t": "I polish every metal surface until it reflects my stressed expression with crystal clarity."
+        },
+        {
+          "s": "Figur",
+          "t": "My designer furniture is arranged with absolute geometric precision to please any inspector."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Stop rearranging your furniture at this hour, some of us live in a pigsty and need sleep.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "He screams obscenities through the drywall while spilling coffee all over my clean welcome mat."
+        },
+        {
+          "s": "Figur",
+          "t": "My expensive designer rug takes a direct hit and stains instantly in front of me."
+        },
+        {
+          "s": "Figur",
+          "t": "Sirens start wailing outside as the front security gates automatically lock down all apartments."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "Stop rearranging your furniture at this hour, some of us live in a pigsty and need sleep.",
+      "quote_by": {
+        "level": 1,
+        "name": "Pip",
+        "badge": "05 mins",
+        "character": "A stressed-out little Blueberry man wearing a stained grey hoodie and oversized sneakers.",
+        "scene": "Close-up in a hallway where a small blueberry man bangs on a wooden wall with a broom handle."
+      },
+      "stats": [
+        {
+          "label": "Time Left",
+          "value": "02 hrs",
+          "bar": 0.8
+        },
+        {
+          "label": "Minimalism",
+          "value": "95%",
+          "bar": 0.95
+        },
+        {
+          "label": "Patience",
+          "value": "4/10",
+          "bar": 0.4
+        }
+      ],
+      "character": "A smooth green Avocado man with a large wooden pit silhouette on his chest, wearing a minimalist black turtleneck, designer glasses, and a glowing digital forehead badge.",
+      "visual": "A sleek green avocado man polishing a stainless steel fridge in a modern minimalist kitchen with concrete floors.",
+      "scenes": [
+        "A minimalist modern kitchen with concrete countertops, a golden coin hidden beneath a fruit bowl, and neutral tones.",
+        "Halbnah view of the avocado man wiping a shiny surface with a microfiber cloth.",
+        "Detail shot of coffee splashing onto a pristine cream-colored welcome rug.",
+        "Overhead shot of a thin apartment wall where a broomstick handle punches through the plaster.",
+        "Close-up of the avocado man's jaw clenching in sudden frustration.",
+        "Wide shot of an electronic building intercom panel flashing a bright red alert light."
+      ],
+      "caption": "Nothing ruins a minimalist apartment faster than a noisy neighbor! #avocadolife #minimalism #cleaningday #relatable #viral"
+    },
+    {
+      "n": 7,
+      "open_loop": "Who was actually standing behind the door when it finally opened?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Laughs at the cleaning checklist and spills cleaning liquid on the sofa."
+      },
+      "name": "Berry, 34, Curator",
+      "badge": "03 hrs",
+      "verdict": "PERFECTION",
+      "story": "The 8 levels of panic cleaning. Level 7. Three hours of meticulous organizing and my entire home is a temple of sterile perfection. I am Berry, a glossy Red Strawberry woman inspecting every single book spine on my shelf. I align each volume by height and color spectrum to create an illusion of eternal calm. My seed-studded face beams with pride as I complete the ultimate cleaning checklist. Your cleaning checklist is utterly absurd, nobody lives like this in the real world. She laughs hysterically and accidentally knocks over a bottle of blue cleaning liquid. My custom velvet sofa absorbs the chemical dye while my heart shatters into pieces. A mysterious key drops out from inside the ruined sofa cushion, unlocking a secret countdown on my forehead badge. You'll see that in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "+02 hrs",
+        "after": "05 hrs"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of panic cleaning. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Three hours of meticulous organizing and my entire home is a temple of sterile perfection."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Berry, a glossy Red Strawberry woman inspecting every single book spine on my shelf."
+        },
+        {
+          "s": "Figur",
+          "t": "I align each volume by height and color spectrum to create an illusion of eternal calm."
+        },
+        {
+          "s": "Figur",
+          "t": "My seed-studded face beams with pride as I complete the ultimate cleaning checklist."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your cleaning checklist is utterly absurd, nobody lives like this in the real world.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "She laughs hysterically and accidentally knocks over a bottle of blue cleaning liquid."
+        },
+        {
+          "s": "Figur",
+          "t": "My custom velvet sofa absorbs the chemical dye while my heart shatters into pieces."
+        },
+        {
+          "s": "Figur",
+          "t": "A mysterious key drops out from inside the ruined sofa cushion, unlocking a secret countdown on my forehead badge."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "Your cleaning checklist is utterly absurd, nobody lives like this in the real world.",
+      "quote_by": {
+        "level": 2,
+        "name": "Sunny",
+        "badge": "15 mins",
+        "character": "A bright yellow Lemon woman wearing a yellow rubber glove and holding a spray bottle.",
+        "scene": "Medium shot in a pristine library where a lemon woman gestures wildly with a cleaning bottle."
+      },
+      "stats": [
+        {
+          "label": "Time Left",
+          "value": "03 hrs",
+          "bar": 0.9
+        },
+        {
+          "label": "Organization",
+          "value": "99%",
+          "bar": 0.99
+        },
+        {
+          "label": "Style",
+          "value": "10/10",
+          "bar": 1.0
+        }
+      ],
+      "character": "A vibrant red Strawberry woman with tiny yellow seed indentations, wearing an elegant red dress, pearl necklace, and glowing digital forehead badge.",
+      "visual": "A glossy red strawberry woman organizing a pristine bookshelf in a high-end luxury apartment with marble floors.",
+      "scenes": [
+        "A luxury apartment library with floor-to-ceiling bookshelves, a golden coin tucked inside a leather-bound book, and warm lighting.",
+        "Halbnah view of the strawberry woman aligning book spines with absolute precision.",
+        "Detail shot of bright blue liquid spilling across a soft pink velvet sofa.",
+        "Overhead shot of a lemon woman laughing with her hands on her hips in the doorway.",
+        "Close-up of a smartphone screen flashing a cancellation notification text message.",
+        "Wide shot of a grand apartment hallway looking out towards a scenic city skyline."
+      ],
+      "caption": "When your three hours of meticulous cleaning gets ruined in one second! #strawberrylife #cleaningday #luxuryhome #relatable #viral"
+    },
+    {
+      "n": 8,
+      "open_loop": "What is the true number glowing on your forehead right now?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Brings the ultimate master key and reveals the apartment was never dirty at all."
+      },
+      "name": "Krono, 40, Master Caretaker",
+      "badge": "05 hrs",
+      "verdict": "THE ARCHITECT",
+      "story": "The 8 levels of panic cleaning. Level 8. Five hours of total mastery and I am the one who scheduled every single panic cleaning in this building. I am Krono, the majestic Dragonfruit man holding the master keys to all eight apartments. I oversee this entire ecosystem of anxiety and ensure every fruit person stays on edge. You were never cleaning for a repairman, you were cleaning to prove your worth to each other. The entire building gasps as the front door swings wide open to reveal an empty room with a golden mirror. The number on our foreheads didn't measure dirt, it measured how much we cared what others thought. Suddenly, all the digital badges shatter into dust, leaving us free from our endless obsession. What is the true number glowing on your forehead right now?",
+      "gender": "m",
+      "twist": {
+        "delta": "RESET",
+        "after": "05 hrs"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of panic cleaning. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Five hours of total mastery and I am the one who scheduled every single panic cleaning in this building."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Krono, the majestic Dragonfruit man holding the master keys to all eight apartments."
+        },
+        {
+          "s": "Figur",
+          "t": "I oversee this entire ecosystem of anxiety and ensure every fruit person stays on edge."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You were never cleaning for a repairman, you were cleaning to prove your worth to each other.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "The entire building gasps as the front door swings wide open to reveal an empty room with a golden mirror."
+        },
+        {
+          "s": "Figur",
+          "t": "The number on our foreheads didn't measure dirt, it measured how much we cared what others thought."
+        },
+        {
+          "s": "Figur",
+          "t": "Suddenly, all the digital badges shatter into dust, leaving us free from our endless obsession."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What is the true number glowing on your forehead right now?"
+        }
+      ],
+      "quote": "You were never cleaning for a repairman, you were cleaning to prove your worth to each other.",
+      "quote_by": {
+        "level": 5,
+        "name": "Peach",
+        "badge": "01 hr 15",
+        "character": "A soft pink Peach woman wearing pastel floral garments and a charm bracelet.",
+        "scene": "Wide shot in a grand corridor where all fruit characters gather in shock around a central golden mirror."
+      },
+      "stats": [
+        {
+          "label": "Mastery",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Control",
+          "value": "MAX",
+          "bar": 1.0
+        },
+        {
+          "label": "Truth",
+          "value": "10/10",
+          "bar": 1.0
+        }
+      ],
+      "character": "A striking magenta Dragonfruit man with green scale-like leaf tips, wearing a bespoke velvet blazer, gold pocket watch, and glowing digital forehead badge.",
+      "visual": "A majestic dragonfruit man holding a vintage master key ring in the center of a grand hallway with glowing digital doors.",
+      "scenes": [
+        "A grand penthouse hallway with crystal chandeliers, a golden coin embedded directly into the master floor tile, and eight numbered doors.",
+        "Halbnah view of the dragonfruit man holding up a ring of antique brass keys.",
+        "Detail shot of the digital forehead badge shining brightly with 05 hrs.",
+        "Overhead shot of all eight fruit and vegetable neighbors staring in synchronized shock.",
+        "Close-up of a large golden mirror reflecting an empty, perfectly clean white room.",
+        "Wide shot of the entire apartment building as all forehead numbers simultaneously flash and reset."
+      ],
+      "caption": "What is the true number glowing on your forehead right now? #dragonfruit #mastercaretaker #cleaningpanic #mindblown #viral"
+    }
+  ],
+  "lang": "en",
+  "topic": "Das panische Aufräumen der gesamten Wohnung, nur weil der Handwerker für fünf Minuten kommt",
+  "frame": "frucht"
+}

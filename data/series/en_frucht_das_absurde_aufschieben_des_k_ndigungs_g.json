@@ -1,0 +1,738 @@
+{
+  "title": "The 8 Levels of Resigning From Your Soul-Crushing Job",
+  "house": "A gray corporate metropolis named Grind City, where neon skyscrapers loom over damp asphalt streets, filled with stressed produce citizens running for the morning train.",
+  "catchphrase": "The number on your forehead never lies.",
+  "links": [
+    "Barista in Level 2 mentions a tired banana man who always leaves a massive tip.",
+    "The glowing digital kiosk from Level 4 flickers in the background of Level 1.",
+    "A dropped golden coin rolls from Level 7 directly into the subway grate of Level 3."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "What was inside the final resignation email that made the CEO's glowing forehead flash red?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Laughs at his outdated office chair and marks him down on the corporate performance review."
+      },
+      "name": "Toby, 24, Junior Paper Pusher",
+      "badge": "2,150 $ gross",
+      "verdict": "TRAPPED",
+      "story": "The 8 levels of hating your job. Level 1. 2.150 Euro? Wer hat diesen Versager reingelassen? Vielleicht putzt er gleich die Toiletten für uns Reiche. My name is Toby. I am a sad, bruised banana-man sitting in a tiny gray cubicle. For three years, you told yourself next month would be different, Toby. You are staying late again, Toby, because your number proves you have nowhere else to go. A hidden golden coin gleamed right underneath his polished leather shoe. I hovered my cursor over the send button and whispered, I am done living for this. Suddenly, the office lights flickered violently, plunging the entire floor into an eerie red emergency glow that signaled an immediate system lockdown. You will never survive outside these sterile corporate walls, Toby. You'll see that in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-150 $",
+        "after": "2,000 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of hating your job. Level 1."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "2.150 Euro? Wer hat diesen Versager reingelassen? Vielleicht putzt er gleich die Toiletten für uns Reiche.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My name is Toby. I am a sad, bruised banana-man sitting in a tiny gray cubicle."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "For three years, you told yourself next month would be different, Toby.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are staying late again, Toby, because your number proves you have nowhere else to go.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "A hidden golden coin gleamed right underneath his polished leather shoe."
+        },
+        {
+          "s": "Figur",
+          "t": "I hovered my cursor over the send button and whispered, I am done living for this."
+        },
+        {
+          "s": "Figur",
+          "t": "Suddenly, the office lights flickered violently, plunging the entire floor into an eerie red emergency glow that signaled an immediate system lockdown."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You will never survive outside these sterile corporate walls, Toby.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You will never survive outside these sterile corporate walls, Toby.",
+      "quote_by": {
+        "level": 6,
+        "name": "Director Plum",
+        "badge": "9,400 $",
+        "character": "An arrogant, deeply polished purple plum wearing a sharp tailored suit and gold-rimmed glasses.",
+        "scene": "Wide shot of a glass-walled corner office at sunset, Director Plum looking down at Toby with immense disdain."
+      },
+      "stats": [
+        {
+          "label": "Gross",
+          "value": "2,150 $",
+          "bar": 0.2
+        },
+        {
+          "label": "Sanity",
+          "value": "4%",
+          "bar": 0.05
+        },
+        {
+          "label": "Doubt",
+          "value": "99%",
+          "bar": 0.99
+        }
+      ],
+      "character": "A bruised banana-man with faded yellow peel skin, wearing a stained beige corporate sweater and clutching a cold coffee cup. A glowing digital display on his forehead reads 2,150 $ gross.",
+      "visual": "Medium close-up of Toby the banana-man sitting in a gloomy office cubicle, staring at a computer screen with a glowing number 2,150 $ on his forehead.",
+      "scenes": [
+        "Wide shot of the fluorescent-lit gray open-plan office at Apex Logistics, rows of sad produce workers typing away under heavy rain.",
+        "Halbnah shot of Toby the banana-man holding a lukewarm coffee, staring anxiously at his blinking cursor.",
+        "Detail shot of a shiny golden coin half-hidden beneath a dusty grey office chair wheel.",
+        "Halbnah shot of Director Plum the purple plum standing over Toby's desk, pointing a crisp white finger at the screen.",
+        "Close-up of Toby's glowing forehead displaying 2,150 $ in bright neon blue digits.",
+        "Wide shot of the rainy city street outside the office tower at 8 PM, empty buses passing by in the dark."
+      ],
+      "caption": "Can Toby finally find the courage to walk away? Where do you stand in your career? #CorporateLife #Burnout #TheNumberNeverLies #Resignation #OfficeDrama"
+    },
+    {
+      "n": 2,
+      "open_loop": "What secret document did the angry broccoli manager lock away in the top drawer?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Threatens to dock her vacation days because she arrived three minutes late."
+      },
+      "name": "Maya, 29, Receptionist",
+      "badge": "3,050 $ gross",
+      "verdict": "STUCK",
+      "story": "The 8 levels of hating your job. Level 2. Du bist zu langsam, Maya, deine Fehler kosten das Unternehmen jede Sekunde bares Geld. I am Maya, an anxious strawberry-woman trapped behind a high marble front desk, forced to absorb every insult while Manager Broccoli smirks. A hidden golden coin rested right inside the tip jar on the counter. My green seeds prickled with rage as I gripped my pen tightly. Without warning, the main lobby doors slammed shut automatically, trapping every commuter inside as a loud alarm began to wail overhead. If you walk out now, you will be begging to come back by Friday. You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "-200 $",
+        "after": "2,850 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of hating your job. Level 2."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du bist zu langsam, Maya, deine Fehler kosten das Unternehmen jede Sekunde bares Geld.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I am Maya, an anxious strawberry-woman trapped behind a high marble front desk, forced to absorb every insult while Manager Broccoli smirks."
+        },
+        {
+          "s": "Figur",
+          "t": "A hidden golden coin rested right inside the tip jar on the counter."
+        },
+        {
+          "s": "Figur",
+          "t": "My green seeds prickled with rage as I gripped my pen tightly."
+        },
+        {
+          "s": "Figur",
+          "t": "Without warning, the main lobby doors slammed shut automatically, trapping every commuter inside as a loud alarm began to wail overhead."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "If you walk out now, you will be begging to come back by Friday.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "If you walk out now, you will be begging to come back by Friday.",
+      "quote_by": {
+        "level": 5,
+        "name": "Manager Broccoli",
+        "badge": "6,200 $",
+        "character": "A stiff, rigid broccoli stalk with stern bushy florets and a tailored gray vest.",
+        "scene": "Medium shot behind the marble reception desk, manager broccoli crossing his arms defensively."
+      },
+      "stats": [
+        {
+          "label": "Gross",
+          "value": "3,050 $",
+          "bar": 0.35
+        },
+        {
+          "label": "Rent",
+          "value": "1,600 $",
+          "bar": 0.6
+        },
+        {
+          "label": "Hope",
+          "value": "15%",
+          "bar": 0.15
+        }
+      ],
+      "character": "An anxious strawberry-woman with red textured skin and vibrant green leaves on her head, wearing a crisp white reception blouse. Her forehead displays 3,050 $ gross.",
+      "visual": "Halbnah shot of Maya the strawberry-woman standing behind a shiny marble hotel reception desk, looking stressed at her glowing forehead.",
+      "scenes": [
+        "Wide shot of the bustling hotel lobby with morning commuters rushing past automated glass doors in the pouring rain.",
+        "Detail shot of a shiny golden coin resting at the bottom of a glass tip jar.",
+        "Halbnah shot of Manager Broccoli leaning over the counter, pointing a stem at Maya's notepad.",
+        "Close-up of Maya's glowing forehead showing 3,050 $ in bright orange digits.",
+        "Wide shot of a dreary downtown subway platform where tired produce citizens wait for the 8:15 train.",
+        "Medium shot of Maya sitting on her single apartment bed at night, staring at a crumpled resignation letter."
+      ],
+      "caption": "Is staying in a toxic job safer than jumping into the unknown? Drop your thoughts! #WorkplaceToxic #StrawberryLife #ResignNow #GrindCity #CareerCrisis"
+    },
+    {
+      "n": 3,
+      "open_loop": "Whose phone number was written on the back of the torn contract?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Steals her scheduled promotion slot and assigns it to his cousin."
+      },
+      "name": "Leo, 33, Senior Accountant",
+      "badge": "4,400 $ gross",
+      "verdict": "NUMB",
+      "story": "The 8 levels of hating your job. Level 3. Sitting alone in my freezing car, the dashboard clock glowing at 5:00 AM, my chest tightens with absolute dread. I am Leo, a lemon-man whose entire existence has been reduced to balancing spreadsheets that nobody reads. Why do I keep destroying my soul for a corporation that views me as disposable trash? Schau dir diesen Müll an, das ist wertlos! Du kannst froh sein, dass wir dich überhaupt bezahlen. A hidden golden coin glittered inside the open drawer of my filing cabinet. I gripped the steering wheel until my knuckles turned pure white and whispered into the empty cabin, I am done. Just as I reached for the ignition key, a security drone hovered outside my window, flashing a terrifying warning code across the glass. You cannot afford to quit, and everyone in this building knows it. You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-300 $",
+        "after": "4,100 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of hating your job. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Sitting alone in my freezing car, the dashboard clock glowing at 5:00 AM, my chest tightens with absolute dread."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Leo, a lemon-man whose entire existence has been reduced to balancing spreadsheets that nobody reads."
+        },
+        {
+          "s": "Figur",
+          "t": "Why do I keep destroying my soul for a corporation that views me as disposable trash?"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Schau dir diesen Müll an, das ist wertlos! Du kannst froh sein, dass wir dich überhaupt bezahlen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "A hidden golden coin glittered inside the open drawer of my filing cabinet."
+        },
+        {
+          "s": "Figur",
+          "t": "I gripped the steering wheel until my knuckles turned pure white and whispered into the empty cabin, I am done."
+        },
+        {
+          "s": "Figur",
+          "t": "Just as I reached for the ignition key, a security drone hovered outside my window, flashing a terrifying warning code across the glass."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You cannot afford to quit, and everyone in this building knows it.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "You cannot afford to quit, and everyone in this building knows it.",
+      "quote_by": {
+        "level": 7,
+        "name": "Director Orange",
+        "badge": "8,100 $",
+        "character": "A glossy, perfectly round orange fruit wearing an expensive charcoal suit and gold cufflinks.",
+        "scene": "Medium shot in a sleek glass boardroom, Director Orange looking down at Leo with cold superiority."
+      },
+      "stats": [
+        {
+          "label": "Gross",
+          "value": "4,400 $",
+          "bar": 0.5
+        },
+        {
+          "label": "Mortgage",
+          "value": "2,200 $",
+          "bar": 0.75
+        },
+        {
+          "label": "Regret",
+          "value": "88%",
+          "bar": 0.88
+        }
+      ],
+      "character": "A tired lemon-man with bright yellow textured rind skin, wearing a wrinkled charcoal suit and a tightly knotted silk tie. His forehead displays 4,400 $ gross.",
+      "visual": "Medium close-up of Leo the lemon-man sitting inside a dimly lit parked sedan during a heavy downpour, staring blankly out the windshield.",
+      "scenes": [
+        "Wide shot of a multi-story corporate parking garage at dusk, dim yellow overhead lights flickering against concrete pillars.",
+        "Detail shot of a shiny golden coin resting at the bottom of an open metal filing cabinet drawer.",
+        "Halbnah shot of Director Orange tearing up a printed document right in front of Leo's face.",
+        "Close-up of Leo's glowing forehead displaying 4,400 $ in bright digital green.",
+        "Wide shot of an endless rows of glowing computer screens inside the corporate accounting department.",
+        "Medium shot of Leo standing by his office window, watching the city lights blur through the rain."
+      ],
+      "caption": "How long do you stay in a job that drains your soul? Drop your stories! #LemonLife #GoldenHandcuffs #CorporateBurnout #OfficePolitics #Resign"
+    },
+    {
+      "n": 4,
+      "open_loop": "Why did the security guard confiscate the encrypted flash drive from her desk?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Spreads false rumors that she is looking for another job during company hours."
+      },
+      "name": "Zoe, 26, Graphic Designer",
+      "badge": "5,200 $ gross",
+      "verdict": "RESTLESS",
+      "story": "The 8 levels of hating your job. Level 4. Sitting at my desk, I watch live as Coconut Miller hands my completed rebrand presentation directly to his nephew, passing it off as his own work while my deadline is brutally cut in half. My stomach drops into an abyss of pure rage. A hidden golden coin gleamed inside the empty ceramic pencil holder. I pulled my USB cable, stood up, and snapped back, Keep your toxic deadlines, I am quitting right now! To my utter shock, my computer screen didn't go dark; instead, it unlocked a secret corporate vault containing proof of widespread illegal surveillance. Walk out that door and your entire career is officially over. You'll see that in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+400 $",
+        "after": "5,600 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of hating your job. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Sitting at my desk, I watch live as Coconut Miller hands my completed rebrand presentation directly to his nephew, passing it off as his own work while my deadline is brutally cut in half."
+        },
+        {
+          "s": "Figur",
+          "t": "My stomach drops into an abyss of pure rage."
+        },
+        {
+          "s": "Figur",
+          "t": "A hidden golden coin gleamed inside the empty ceramic pencil holder."
+        },
+        {
+          "s": "Figur",
+          "t": "I pulled my USB cable, stood up, and snapped back, Keep your toxic deadlines, I am quitting right now!"
+        },
+        {
+          "s": "Figur",
+          "t": "To my utter shock, my computer screen didn't go dark; instead, it unlocked a secret corporate vault containing proof of widespread illegal surveillance."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Walk out that door and your entire career is officially over.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Walk out that door and your entire career is officially over.",
+      "quote_by": {
+        "level": 2,
+        "name": "Coconut Miller",
+        "badge": "7,900 $",
+        "character": "A hard-shelled, fibrous coconut-man wearing a stiff collar and a cold, unreadable expression.",
+        "scene": "Medium shot of the design studio bullpen, Coconut Miller crossing his arms over a glowing dual-monitor setup."
+      },
+      "stats": [
+        {
+          "label": "Gross",
+          "value": "5,200 $",
+          "bar": 0.6
+        },
+        {
+          "label": "Savings",
+          "value": "10.000 $",
+          "bar": 0.5
+        },
+        {
+          "label": "Drive",
+          "value": "72%",
+          "bar": 0.72
+        }
+      ],
+      "character": "An Avocado-woman with creamy green skin and a dark brown pit pattern on her chest, wearing an oversized black artist smock. Her forehead displays 5,200 $ gross.",
+      "visual": "Medium close-up of Zoe the avocado-woman sitting in front of a glowing drawing tablet inside a high-tech creative agency at midnight.",
+      "scenes": [
+        "Wide shot of the sleek minimalist design studio with glowing neon signs and concrete floors.",
+        "Detail shot of a shiny golden coin resting inside a ceramic pencil cup next to colored markers.",
+        "Halbnah shot of Coconut Miller leaning over Zoe's desk, tapping his hard brown knuckles on the wooden surface.",
+        "Close-up of Zoe's glowing forehead displaying 5,200 $ in crisp white digits.",
+        "Wide shot of the rain-slicked city avenue outside the creative agency building.",
+        "Medium shot of Zoe zipping up her canvas backpack, looking back at her glowing workstation one last time."
+      ],
+      "caption": "Is leaping into freelance freedom worth risking everything? Tell me below! #AvocadoArt #CreativeBurnout #FreelanceLife #QuitYourJob #DesignStudio"
+    },
+    {
+      "n": 5,
+      "open_loop": "What confidential payroll file was left open on the conference room projector?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Rejects her departmental budget without reading a single page."
+      },
+      "name": "Marcus, 35, Project Lead",
+      "badge": "6,800 $ gross",
+      "verdict": "BURNOUT",
+      "story": "The 8 levels of hating your job. Level 5. Breathing heavily, I collapse forward onto the conference table in front of glowing monitors while Director Pear calmly updates the spreadsheet. Deine medizinischen Kosten sprengen das Budget, also streichen wir deine Absicherung ab sofort. A hidden golden coin glittered right inside the glass water pitcher. I slammed my planner on the desk and barked, I am walking away today! Right at that moment, the central office sprinkler system activated, showering everyone in freezing water while my digital badge deactivated permanently. Without this title, you are an absolute nobody in this city. You'll see that in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "-500 $",
+        "after": "6,300 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of hating your job. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Breathing heavily, I collapse forward onto the conference table in front of glowing monitors while Director Pear calmly updates the spreadsheet."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Deine medizinischen Kosten sprengen das Budget, also streichen wir deine Absicherung ab sofort.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "A hidden golden coin glittered right inside the glass water pitcher."
+        },
+        {
+          "s": "Figur",
+          "t": "I slammed my planner on the desk and barked, I am walking away today!"
+        },
+        {
+          "s": "Figur",
+          "t": "Right at that moment, the central office sprinkler system activated, showering everyone in freezing water while my digital badge deactivated permanently."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Without this title, you are an absolute nobody in this city.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Without this title, you are an absolute nobody in this city.",
+      "quote_by": {
+        "level": 8,
+        "name": "Director Pear",
+        "badge": "11,500 $",
+        "character": "A smooth, immaculate golden pear wearing a tailored ivory suit and diamond cufflinks.",
+        "scene": "Wide shot of a glass-walled executive boardroom overlooking the glittering skyline, Pear looking down with supreme indifference."
+      },
+      "stats": [
+        {
+          "label": "Gross",
+          "value": "6,800 $",
+          "bar": 0.7
+        },
+        {
+          "label": "Health",
+          "value": "32%",
+          "bar": 0.32
+        },
+        {
+          "label": "Stress",
+          "value": "95%",
+          "bar": 0.95
+        }
+      ],
+      "character": "A sturdy Drachenfrucht-man with bright magenta textured skin and green-tipped scale leaves, wearing a sharp navy blue corporate suit. His forehead displays 6,800 $ gross.",
+      "visual": "Medium close-up of Marcus the drachenfrucht-man holding his chest in pain inside a modern corporate boardroom.",
+      "scenes": [
+        "Wide shot of a sleek executive conference room with polished mahogany tables and leather chairs.",
+        "Detail shot of a shiny golden coin submerged at the bottom of a glass water pitcher.",
+        "Halbnah shot of Director Pear sitting upright at the end of the table, tapping a gold pen.",
+        "Close-up of Marcus's glowing forehead showing 6,800 $ in bright neon numbers.",
+        "Wide shot of the emergency room waiting area at city hospital, brightly lit and sterile.",
+        "Medium shot of Marcus walking out of the corporate tower into the night air, loosening his tie."
+      ],
+      "caption": "Is a high salary ever worth sacrificing your health? Let me know your thoughts! #Drachenfrucht #HealthFirst #ExecutiveBurnout #CorporateLife #Resign"
+    },
+    {
+      "n": 6,
+      "open_loop": "What hidden text message did the senior partner receive right before the board meeting?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Deliberately loses her client contracts to sabotage her department transfer."
+      },
+      "name": "Elena, 31, Senior Legal Consultant",
+      "badge": "8,200 $ gross",
+      "verdict": "TRAPPED",
+      "story": "The 8 levels of hating your job. Level 6. Sitting in the glass boardroom, I watch in stunned disbelief as my hard-earned client portfolio is handed directly to Partner Watermelon's incompetent nephew. Du hast zu viel gearbeitet, Elena, dein Mandat gehört ab jetzt Watermelon Junior. A hidden golden coin rested right beneath the heavy glass paperweight. I gathered my fountain pen and said, Watch me walk away. As I stood up, the boardroom projector unexpectedly switched on, broadcasting my resignation letter across all the corporate screens in Grind City. You will crawl back begging for this desk before the month ends. You'll see that in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+800 $",
+        "after": "9,000 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of hating your job. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Sitting in the glass boardroom, I watch in stunned disbelief as my hard-earned client portfolio is handed directly to Partner Watermelon's incompetent nephew."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast zu viel gearbeitet, Elena, dein Mandat gehört ab jetzt Watermelon Junior.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "A hidden golden coin rested right beneath the heavy glass paperweight."
+        },
+        {
+          "s": "Figur",
+          "t": "I gathered my fountain pen and said, Watch me walk away."
+        },
+        {
+          "s": "Figur",
+          "t": "As I stood up, the boardroom projector unexpectedly switched on, broadcasting my resignation letter across all the corporate screens in Grind City."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You will crawl back begging for this desk before the month ends.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "You will crawl back begging for this desk before the month ends.",
+      "quote_by": {
+        "level": 3,
+        "name": "Partner Watermelon",
+        "badge": "13,000 $",
+        "character": "A massive, striped watermelon-man wearing an impeccably tailored pinstripe suit and golden cufflinks.",
+        "scene": "Medium shot in a high-rise corner office, Watermelon crossing his arms behind a massive mahogany desk."
+      },
+      "stats": [
+        {
+          "label": "Gross",
+          "value": "8,200 $",
+          "bar": 0.8
+        },
+        {
+          "label": "Freedom",
+          "value": "10%",
+          "bar": 0.1
+        },
+        {
+          "label": "Anxiety",
+          "value": "85%",
+          "bar": 0.85
+        }
+      ],
+      "character": "An elegant Eggplant-woman with deep glossy purple skin, wearing a sharp midnight-blue pantsuit and silver earrings. Her forehead displays 8,200 $ gross.",
+      "visual": "Medium close-up of Elena the eggplant-woman standing inside a luxurious high-rise law office, holding a leather-bound legal brief.",
+      "scenes": [
+        "Wide shot of a grand legal firm lobby with polished marble pillars and towering glass windows.",
+        "Detail shot of a shiny golden coin half-hidden beneath a heavy glass paperweight.",
+        "Halbnah shot of Partner Watermelon sitting behind his executive desk, smirking at a stack of legal papers.",
+        "Close-up of Elena's glowing forehead displaying 8,200 $ in crisp white numbers.",
+        "Wide shot of the downtown financial district street at dusk, filled with rushing taxis.",
+        "Medium shot of Elena stepping into a sleek elevator, watching the floor numbers tick downward."
+      ],
+      "caption": "Can high-paid professionals ever truly break free from golden handcuffs? Tell me below! #EggplantLaw #CorporateLawyer #GoldenHandcuffs #Resign #Freedom"
+    },
+    {
+      "n": 7,
+      "open_loop": "What was written on the mysterious bank statement left in the executive printer?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Cancels her equity bonus right after she announces her departure."
+      },
+      "name": "Julian, 38, Vice President",
+      "badge": "12,500 $ gross",
+      "verdict": "TRAPPED",
+      "story": "The 8 levels of hating your job. Level 7. Standing on the 45th floor in front of the entire board, CEO Pineapple doesn't just strip away my equity; he holds up my personal bank statements and mocks my failures out loud to prove that money cannot buy character. Siehst du das, Julian? Ohne diesen Konzern bist du absolut gar nichts. A hidden golden coin gleamed right inside my crystal whiskey decanter. I set my glass down on the mahogany table and declared, My empire ends today. Suddenly, the penthouse windows cracked from floor to ceiling as the building's automated security system locked out the entire executive board. You will realize what true powerlessness feels like very soon. You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1,500 $",
+        "after": "14,000 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of hating your job. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Standing on the 45th floor in front of the entire board, CEO Pineapple doesn't just strip away my equity; he holds up my personal bank statements and mocks my failures out loud to prove that money cannot buy character."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Siehst du das, Julian? Ohne diesen Konzern bist du absolut gar nichts.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "A hidden golden coin gleamed right inside my crystal whiskey decanter."
+        },
+        {
+          "s": "Figur",
+          "t": "I set my glass down on the mahogany table and declared, My empire ends today."
+        },
+        {
+          "s": "Figur",
+          "t": "Suddenly, the penthouse windows cracked from floor to ceiling as the building's automated security system locked out the entire executive board."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You will realize what true powerlessness feels like very soon.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "You will realize what true powerlessness feels like very soon.",
+      "quote_by": {
+        "level": 4,
+        "name": "CEO Pineapple",
+        "badge": "18,000 $",
+        "character": "An intimidating, spiky pineapple-man wearing a golden-stitched executive suit and diamond tie clip.",
+        "scene": "Medium shot in a massive glass penthouse office, CEO Pineapple standing by the floor-to-ceiling windows."
+      },
+      "stats": [
+        {
+          "label": "Gross",
+          "value": "12,500 $",
+          "bar": 0.9
+        },
+        {
+          "label": "Stocks",
+          "value": "250.000 $",
+          "bar": 0.95
+        },
+        {
+          "label": "Soul",
+          "value": "0%",
+          "bar": 0.0
+        }
+      ],
+      "character": "A sleek Fig-man with smooth dark purple-brown skin, wearing a bespoke Italian wool suit and gold cufflinks. His forehead displays 12,500 $ gross.",
+      "visual": "Medium close-up of Julian the fig-man standing inside a luxurious penthouse office, looking out over the glittering city skyline.",
+      "scenes": [
+        "Wide shot of a magnificent 45th-floor executive office with panoramic views of the entire metropolis.",
+        "Detail shot of a shiny golden coin resting inside a crystal whiskey decanter.",
+        "Halbnah shot of CEO Pineapple standing by the glass window, holding a glowing digital tablet.",
+        "Close-up of Julian's glowing forehead displaying 12,500 $ in bright neon digits.",
+        "Wide shot of the building lobby at night, glowing with modern architectural lighting.",
+        "Medium shot of Julian handing his executive passcard to the front desk security guard and walking out into the rain."
+      ],
+      "caption": "Can absolute wealth ever truly replace personal freedom? Share your perspective! #FigLife #ExecutiveLife #GoldenHandcuffs #Resign #Freedom"
+    },
+    {
+      "n": 8,
+      "open_loop": "What was the final number that replaced every forehead display in the entire city?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Reminds him of his very first day as a terrified intern in the mailroom."
+      },
+      "name": "Arthur, 45, Founder & Former CEO",
+      "badge": "0 $ gross",
+      "verdict": "FREE",
+      "story": "The 8 levels of hating your job. Level 8. Standing before young Toby in the mailroom where my entire corporate nightmare began, I finally realize my entire life was a carefully constructed lie. A hidden golden coin rested right in the center of the empty sidewalk. Arthur reißt den Zettel mit seiner Lebenslüge in Stücke, wirft ihn vor Tobys Füße, blickt direkt in die Kamera und lächelt, während im Hintergrund alle Ketten des Systems zerbrechen. With a deafening shockwave, every single digital billboard across the metropolis shattered into harmless blue stardust, signaling the dawn of a brand new era. The number on your forehead never defines your true worth. What theme of our absurd world should we explore next?",
+      "gender": "m",
+      "twist": {
+        "delta": "FREEDOM",
+        "after": "0 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of hating your job. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Standing before young Toby in the mailroom where my entire corporate nightmare began, I finally realize my entire life was a carefully constructed lie."
+        },
+        {
+          "s": "Figur",
+          "t": "A hidden golden coin rested right in the center of the empty sidewalk."
+        },
+        {
+          "s": "Figur",
+          "t": "Arthur reißt den Zettel mit seiner Lebenslüge in Stücke, wirft ihn vor Tobys Füße, blickt direkt in die Kamera und lächelt, während im Hintergrund alle Ketten des Systems zerbrechen."
+        },
+        {
+          "s": "Figur",
+          "t": "With a deafening shockwave, every single digital billboard across the metropolis shattered into harmless blue stardust, signaling the dawn of a brand new era."
+        },
+        {
+          "s": "Figur",
+          "t": "The number on your forehead never defines your true worth."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What theme of our absurd world should we explore next?"
+        }
+      ],
+      "quote": "The number on your forehead never defines your true worth.",
+      "quote_by": {
+        "level": 1,
+        "name": "Intern Toby",
+        "badge": "2,150 $",
+        "character": "A bruised banana-man in a faded sweater, holding a paper coffee cup.",
+        "scene": "Wide shot of the sunny city plaza, Toby and Arthur smiling together as the digital numbers fade across the skyline."
+      },
+      "stats": [
+        {
+          "label": "Gross",
+          "value": "0 $",
+          "bar": 0.0
+        },
+        {
+          "label": "Freedom",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Peace",
+          "value": "PRICELESS",
+          "bar": 1.0
+        }
+      ],
+      "character": "An ancient Pumpkin-man with warm textured orange skin, wearing a simple linen shirt and a calm smile. His forehead has no digital display.",
+      "visual": "Wide angle shot of Arthur the pumpkin-man standing in the middle of a sunlit city plaza, looking up with a completely blank forehead.",
+      "scenes": [
+        "Wide shot of the bustling city plaza at sunrise, with produce citizens walking freely without glowing numbers.",
+        "Detail shot of a shiny golden coin resting on a rustic wooden park bench.",
+        "Halbnah shot of Arthur handing his executive keys back to young intern Toby.",
+        "Close-up of Arthur's completely blank forehead where the glowing number used to be.",
+        "Wide shot of all eight characters from previous levels standing together in the sunlight, smiling.",
+        "Final cinematic wide shot of Grind City skyline under a bright clearing sky with no digital numbers in sight."
+      ],
+      "caption": "True freedom begins the moment you stop letting a number define your life. What theme should we explore next? #PumpkinLife #Freedom #QuitYourJob #TheNumberNeverLies #EndOfTheLine"
+    }
+  ],
+  "lang": "en",
+  "topic": "Das absurde Aufschieben des Kündigungs-Gefühls im unglücklichen Job",
+  "frame": "frucht"
+}

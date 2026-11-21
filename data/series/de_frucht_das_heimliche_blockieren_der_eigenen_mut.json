@@ -1,0 +1,877 @@
+{
+  "title": "Die 8 Level von WhatsApp-Mutter-Blockieren",
+  "house": "A bustling vegetable city with neon-lit street markets, tiny fruit-cafes, rainy tram stops, and high-rise apartment blocks where produce citizens live.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "In Level 1 mentions the barista who gives free coffee, which is Level 2.",
+    "In Level 3 mentions the fast tram from Level 4.",
+    "In Level 5 mentions the kiosk owner from Level 6.",
+    "In Level 7 mentions the harsh accountant from Level 8."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Warum hat Tante Rosa plötzlich den Live-Standort der blockierten Mutter auf ihrem Handy gesehen?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Zwingt Tante Rosa öffentlich dazu, die Blockierung live aufzuheben und lacht über ihr schlechtes Gewissen."
+      },
+      "name": "Tante Rosa, 54, Putzfrau",
+      "badge": "0 Min. Block",
+      "verdict": "SCHULDGEFÜHL",
+      "story": "Die 8 Level von WhatsApp-Mutter-Blockieren. Level 1. Ich schaue auf mein Handy in der U-Bahn-Linie 4, die Anzeige blinkt rot. Meine Stirn zeigt 0 Minuten, weil ich es nie übers Herz gebracht habe, Mama stummzuschalten. Aber heute kommt sie zum Sonntagsbesuch. Sie bringt ihren berüchtigten Kartoffelsalat mit, den ich seit Jahren nicht mehr sehen kann. Neben mir sitzt eine strenge Kokosnuss und mustert mein schlichtes Erdbeer-Gesicht. Wer seine eigene Mutter nicht blockiert hat, ist einfach nur schwach. Ich will ihr entgegnen, dass Liebe keine App braucht, aber die Worte ersticken in meiner Kehle. Die U-Bahn bremst quietschend am Hauptbahnhof. Genau in diesem Moment vibriert mein Display. Eine neue WhatsApp-Nachricht poppt auf: Bin in fünf Minuten da. Plötzlich verdunkelt sich der Waggon, und die Deckenbeleuchtung flackert bedrohlich in einem kalten Blauston. Ein eisiger Windzug pfeift durch die geschlossenen Türen des U-Bahn-Schachts. Mein Handy vibriert erneut, doch diesmal zeigt der Bildschirm eine unheilvolle Warnung an. Der Standort meiner Mutter wurde soeben in meiner eigenen Wohnung registriert, obwohl sie noch unterwegs sein müsste. Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+5 Min.",
+        "after": "5 Min. Bl"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von WhatsApp-Mutter-Blockieren. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schaue auf mein Handy in der U-Bahn-Linie 4, die Anzeige blinkt rot."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn zeigt 0 Minuten, weil ich es nie übers Herz gebracht habe, Mama stummzuschalten."
+        },
+        {
+          "s": "Figur",
+          "t": "Aber heute kommt sie zum Sonntagsbesuch."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie bringt ihren berüchtigten Kartoffelsalat mit, den ich seit Jahren nicht mehr sehen kann."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Neben mir sitzt eine strenge Kokosnuss und mustert mein schlichtes Erdbeer-Gesicht.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer seine eigene Mutter nicht blockiert hat, ist einfach nur schwach.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich will ihr entgegnen, dass Liebe keine App braucht, aber die Worte ersticken in meiner Kehle."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Die U-Bahn bremst quietschend am Hauptbahnhof. Genau in diesem Moment vibriert mein Display."
+        },
+        {
+          "s": "Figur",
+          "t": "Eine neue WhatsApp-Nachricht poppt auf: Bin in fünf Minuten da."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich verdunkelt sich der Waggon, und die Deckenbeleuchtung flackert bedrohlich in einem kalten Blauston."
+        },
+        {
+          "s": "Figur",
+          "t": "Ein eisiger Windzug pfeift durch die geschlossenen Türen des U-Bahn-Schachts."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Handy vibriert erneut, doch diesmal zeigt der Bildschirm eine unheilvolle Warnung an."
+        },
+        {
+          "s": "Figur",
+          "t": "Der Standort meiner Mutter wurde soeben in meiner eigenen Wohnung registriert, obwohl sie noch unterwegs sein müsste."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Wer seine eigene Mutter nicht blockiert hat, ist einfach nur schwach.",
+      "quote_by": {
+        "level": 8,
+        "name": "Direktor Kokus",
+        "badge": "999 Min.",
+        "character": "A stern coconut woman with a hard brown shell head, wearing a crisp grey business suit and gold-rimmed glasses.",
+        "scene": "Close-up in a crowded subway train, looking down at the strawberry woman with extreme disdain while tapping a glowing digital display on her forehead."
+      },
+      "stats": [
+        {
+          "label": "Block-Zeit",
+          "value": "0 Min.",
+          "bar": 0.05
+        },
+        {
+          "label": "Mut",
+          "value": "12 %",
+          "bar": 0.12
+        },
+        {
+          "label": "Panik",
+          "value": "95 %",
+          "bar": 0.95
+        }
+      ],
+      "character": "A strawberry woman with a bright red textured seed-skin head, wearing a faded pink cleaning apron and a worried expression; a glowing digital display on her forehead.",
+      "visual": "Close-up of a worried strawberry woman in a dimly lit subway train holding an old smartphone, with a glowing digital badge on her forehead reading 0 Min. Block.",
+      "scenes": [
+        "Subway train interior, medium shot: The strawberry woman sits nervously holding her phone while passengers glare at her glowing forehead badge.",
+        "Rainy subway station platform, wide shot: Commuters hurry past puddles under flickering neon lights on a grey Tuesday morning.",
+        "A cramped apartment kitchen, detail shot: A hand with a pink cleaning glove hovers anxiously over a smartphone screen showing WhatsApp chat settings.",
+        "Corner kiosk outside the station, medium shot: A friendly orange barista hands over a steaming paper cup of coffee under a yellow awning.",
+        "Narrow hallway of a Berlin apartment building, wide shot: Wallpaper peeling, a single warm bulb illuminating scuffed wooden floorboards.",
+        "Living room sofa, close-up: A half-opened cardboard box of dusty family photo albums resting next to a cold ceramic mug."
+      ],
+      "caption": "Würdest du dich trauen, deine Mama vor dem Besuch stummzuschalten? Schreib es in die Kommentare! #Mutter #WhatsApp #Drama #StirnZahl #Berlin"
+    },
+    {
+      "n": 2,
+      "open_loop": "Welche heimliche Sprachnachricht hat die Orange im Café auf dem USB-Stick gespeichert?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Löscht absichtlich die Kundendaten der Orange und lacht über ihre Verzweiflung."
+      },
+      "name": "Tom, 29, Barista",
+      "badge": "15 Min. Block",
+      "verdict": "ANGESTAUT",
+      "story": "Die 8 Level von WhatsApp-Mutter-Blockieren. Level 2. Ich stehe hinter der Espressotreppe im Café Orange und poliere Gläser. Meine Stirn leuchtet hellorange: 15 Minuten blockiert. Genau so lange habe ich Mama heute Morgen stummgeschaltet, bevor mein Schichtbeginn um 6 Uhr losging. Plötzlich tritt eine arrogante Avocadofrau an die Theke und tippt auf ihr iPhone 15. Für fünfzehn Minuten Blockieren reichte der Mut wohl nicht, du weiche Frucht? Das trifft mich mitten ins Mark, denn sie hat recht. Ich habe Angst vor ihrem Urteil. Sie nimmt ab, verdreht genervt die Augen und zischt in den Hörer. Mama, ich bin in einem wichtigen Meeting, nerv nicht! Plötzlich sehe ich auf ihrem Display eine ganz andere Zahl aufblitzen. Die Kaffeemaschine hinter mir zischt laut auf und spuckt braunen Schaum über die gesamte Arbeitsplatte. Die Avocadofrau lacht spöttisch und deutet auf mein Smartphone. Dort taucht plötzlich eine unheimliche Audio-Datei auf, die ich niemals in meinem Leben aufgenommen habe. Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+30 Min.",
+        "after": "45 Min. B"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von WhatsApp-Mutter-Blockieren. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe hinter der Espressotreppe im Café Orange und poliere Gläser."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn leuchtet hellorange: 15 Minuten blockiert."
+        },
+        {
+          "s": "Figur",
+          "t": "Genau so lange habe ich Mama heute Morgen stummgeschaltet, bevor mein Schichtbeginn um 6 Uhr losging."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Plötzlich tritt eine arrogante Avocadofrau an die Theke und tippt auf ihr iPhone 15.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Für fünfzehn Minuten Blockieren reichte der Mut wohl nicht, du weiche Frucht?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Das trifft mich mitten ins Mark, denn sie hat recht. Ich habe Angst vor ihrem Urteil."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Sie nimmt ab, verdreht genervt die Augen und zischt in den Hörer."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mama, ich bin in einem wichtigen Meeting, nerv nicht!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich sehe ich auf ihrem Display eine ganz andere Zahl aufblitzen."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Kaffeemaschine hinter mir zischt laut auf und spuckt braunen Schaum über die gesamte Arbeitsplatte."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Avocadofrau lacht spöttisch und deutet auf mein Smartphone."
+        },
+        {
+          "s": "Figur",
+          "t": "Dort taucht plötzlich eine unheimliche Audio-Datei auf, die ich niemals in meinem Leben aufgenommen habe."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Für fünfzehn Minuten Blockieren reichte der Mut wohl nicht, du weiche Frucht?",
+      "quote_by": {
+        "level": 5,
+        "name": "Ava",
+        "badge": "120 Min.",
+        "character": "An elegant avocado woman with a smooth green pear-shaped head, dark pit center, wearing a beige cashmere poncho and gold hoop earrings.",
+        "scene": "Medium shot in a sleek hipster café, leaning over a wooden counter with a cold, superior smirk pointing at the orange barista's forehead."
+      },
+      "stats": [
+        {
+          "label": "Block-Zeit",
+          "value": "15 Min.",
+          "bar": 0.2
+        },
+        {
+          "label": "Koffein",
+          "value": "4 Tassen",
+          "bar": 0.8
+        },
+        {
+          "label": "Mut",
+          "value": "34 %",
+          "bar": 0.34
+        }
+      ],
+      "character": "An orange man with a textured round citrus-peel head, wearing a black barista apron over a grey hoodie; a glowing digital display on her forehead.",
+      "visual": "Medium shot of an orange barista behind a trendy café counter wiping down the surface, looking nervously at his glowing forehead badge reading 15 Min. Block.",
+      "scenes": [
+        "Hipster café interior, wide shot: Warm Edison bulb lighting, exposed brick walls, and several fruit customers sitting at small wooden tables.",
+        "Counter top, detail shot: A shiny chrome espresso machine hissing and releasing white steam next to ceramic white cups.",
+        "Café entrance door, medium shot: Raindrops sliding down the glass pane while a bell jingles softly in the wind.",
+        "Back office of the café, wide shot: Cardboard delivery boxes piled high next to a glowing green emergency exit sign.",
+        "Sidewalk outside, medium shot: Puddle reflections showing passing yellow trams and rushing pedestrians under umbrellas.",
+        "Cash register drawer, detail shot: Euro coins and crumpled five-euro notes resting neatly in plastic compartments."
+      ],
+      "caption": "Hättest du den Mut, deine Mutter während der Arbeit zu blockieren? #Barista #Mutter #Drama #StirnZahl #Kaffee"
+    },
+    {
+      "n": 3,
+      "open_loop": "Welches dunkle Familiengeheimnis stand in der gelöschten WhatsApp-Nachricht der Avocadofrau?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Beschuldigt die Avocado laut im Bus des Diebstahls, obwohl sie selbst unschuldig ist."
+      },
+      "name": "Mia, 27, Grafikdesignerin",
+      "badge": "2 Std. Block",
+      "verdict": "SCHNELLWEG",
+      "story": "Die 8 Level von WhatsApp-Mutter-Blockieren. Level 3. Ich sitze im Coworking-Space im Prenzlauer Berg, umgeben von MacBooks und Matcha-Latte-Duft. Meine Stirn leuchtet in grellem Neon: 2 Stunden blockiert. Genau so lange ist es her, dass ich Mama auf WhatsApp stummgeschaltet habe. Neben mir steht eine stolze Banane im Designeranzug und starrt auf meinen Bildschirm. Zwei Stunden blockiert? Du bist doch nur ein feiges Früchtchen, das den Erfolg nicht erträgt. Seine Worte brennen wie Zitronensaft auf offener Wunde. Plötzlich greift er nach meinem Smartphone, entsperrt es mit meinem Blick und tippt auf das Chat-Symbol. Auf seinem eigenen Display leuchtet eine Stirnzahl auf, die mir den Atem raubt. Der Bildschirm meines Laptops friert schlagartig ein und zeigt ein vergilbtes Foto aus dem Jahr 2005. Darauf erkenne ich eine mir völlig fremde Person, die verdächtig vertraut in die Kamera winkt. Das siehst du in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "+4 Std.",
+        "after": "6 Std. Bl"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von WhatsApp-Mutter-Blockieren. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze im Coworking-Space im Prenzlauer Berg, umgeben von MacBooks und Matcha-Latte-Duft."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn leuchtet in grellem Neon: 2 Stunden blockiert."
+        },
+        {
+          "s": "Figur",
+          "t": "Genau so lange ist es her, dass ich Mama auf WhatsApp stummgeschaltet habe."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Neben mir steht eine stolze Banane im Designeranzug und starrt auf meinen Bildschirm.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Zwei Stunden blockiert? Du bist doch nur ein feiges Früchtchen, das den Erfolg nicht erträgt.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Seine Worte brennen wie Zitronensaft auf offener Wunde."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Plötzlich greift er nach meinem Smartphone, entsperrt es mit meinem Blick und tippt auf das Chat-Symbol."
+        },
+        {
+          "s": "Figur",
+          "t": "Auf seinem eigenen Display leuchtet eine Stirnzahl auf, die mir den Atem raubt."
+        },
+        {
+          "s": "Figur",
+          "t": "Der Bildschirm meines Laptops friert schlagartig ein und zeigt ein vergilbtes Foto aus dem Jahr 2005."
+        },
+        {
+          "s": "Figur",
+          "t": "Darauf erkenne ich eine mir völlig fremde Person, die verdächtig vertraut in die Kamera winkt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Zwei Stunden blockiert? Du bist doch nur ein feiges Früchtchen, das den Erfolg nicht erträgt.",
+      "quote_by": {
+        "level": 1,
+        "name": "Benni",
+        "badge": "0 Std.",
+        "character": "A sleek yellow banana man with a curved elongated head, wearing a sharp charcoal suit and expensive silk tie.",
+        "scene": "Wide shot in a modern Berlin loft office, leaning over an avocado designer's desk with a dominant, arrogant posture."
+      },
+      "stats": [
+        {
+          "label": "Block-Zeit",
+          "value": "2 Std.",
+          "bar": 0.35
+        },
+        {
+          "label": "Design-Jobs",
+          "value": "4 offene",
+          "bar": 0.5
+        },
+        {
+          "label": "Stress",
+          "value": "88 %",
+          "bar": 0.88
+        }
+      ],
+      "character": "An avocado woman with a smooth pear-shaped green head, dark brown pit center, wearing a beige oversized wool sweater and round glasses; a glowing digital display on her forehead.",
+      "visual": "Wide shot of a green avocado woman sitting at a sleek wooden desk in a modern Berlin coworking space, staring at her glowing forehead badge reading 2 Std. Block.",
+      "scenes": [
+        "Coworking loft, wide shot: Sunlight streaming through huge factory windows, potted monstera plants, and young professionals typing on laptops.",
+        "Desk surface, detail shot: A high-end drawing tablet stylus resting next to a half-empty glass of oat milk.",
+        "Elevator lobby, medium shot: Matte black metal doors with glowing floor indicator lights reflecting polished concrete floors.",
+        "Berlin street corner outside, wide shot: Delivery bikes speeding past colorful graffiti-covered brick walls under an overcast sky.",
+        "Kitchenette area, detail shot: A modern chrome water tap pouring boiling water into a white ceramic tea mug.",
+        "Stairwell landing, medium shot: Concrete steps with minimalist black handrails casting long afternoon shadows."
+      ],
+      "caption": "Wer blockiert seine Mutter wegen ein paar Sprachnachrichten? #Avocado #Grafikdesign #Mutter #StirnZahl #Berlin"
+    },
+    {
+      "n": 4,
+      "open_loop": "Welches Beweismaterial hat der Polizist in der U-Bahn-Station gegen die Zitrone in der Hand?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Wirft der Zitrone vor, ihre Miete nicht bezahlt zu haben, und droht mit der Evakuierung."
+      },
+      "name": "Zoe, 34, Buchhalterin",
+      "badge": "12 Std. Block",
+      "verdict": "VERBITTERT",
+      "story": "Die 8 Level von WhatsApp-Mutter-Blockieren. Level 4. Ich sitze am großen Holztisch in meinem fensterlosen Büro in Frankfurt, umgeben von Aktenberg. Meine Stirn leuchtet gelb: 12 Stunden blockiert. Seit heute Abend um 20 Uhr ist Mama auf WhatsApp im digitalen Nirwana gelandet. Plötzlich stürmt eine knallharte Zitrone herein, gelb, sauer verzogen, im grauen Kostüm. Zwölf Stunden blockiert? Du bist doch emotional komplett ausgetrocknet, du saure Zitrone! Ihre Worte treffen mich wie ein Faustschlag ins Gesicht. Die Zitrone beugt sich vor, tippt auf mein Smartphone und flüstert etwas Unfassbares. Was hat sie auf meinem Bildschirm angetippt? Ein schriller Alarmton hallt durch die langen Flure, während draußen die Nacht über der Stadt hereinbricht. Auf meinem Holztisch materialisiert sich ein versiegelter Brief mit meinem eigenen Namen in roter Handschrift. Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+12 Std.",
+        "after": "24 Std. B"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von WhatsApp-Mutter-Blockieren. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze am großen Holztisch in meinem fensterlosen Büro in Frankfurt, umgeben von Aktenberg."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn leuchtet gelb: 12 Stunden blockiert."
+        },
+        {
+          "s": "Figur",
+          "t": "Seit heute Abend um 20 Uhr ist Mama auf WhatsApp im digitalen Nirwana gelandet."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Plötzlich stürmt eine knallharte Zitrone herein, gelb, sauer verzogen, im grauen Kostüm.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Zwölf Stunden blockiert? Du bist doch emotional komplett ausgetrocknet, du saure Zitrone!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ihre Worte treffen mich wie ein Faustschlag ins Gesicht."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Die Zitrone beugt sich vor, tippt auf mein Smartphone und flüstert etwas Unfassbares."
+        },
+        {
+          "s": "Figur",
+          "t": "Was hat sie auf meinem Bildschirm angetippt?"
+        },
+        {
+          "s": "Figur",
+          "t": "Ein schriller Alarmton hallt durch die langen Flure, während draußen die Nacht über der Stadt hereinbricht."
+        },
+        {
+          "s": "Figur",
+          "t": "Auf meinem Holztisch materialisiert sich ein versiegelter Brief mit meinem eigenen Namen in roter Handschrift."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Zwölf Stunden blockiert? Du bist doch emotional komplett ausgetrocknet, du saure Zitrone!",
+      "quote_by": {
+        "level": 3,
+        "name": "Susi",
+        "badge": "2 Std.",
+        "character": "A bitter yellow lemon woman with a puckered sour rind head, wearing a sharp grey office blazer and wire-rimmed glasses.",
+        "scene": "Close-up in a sterile corporate accounting office, slamming a heavy paper folder onto the desk with an aggressive expression."
+      },
+      "stats": [
+        {
+          "label": "Block-Zeit",
+          "value": "12 Std.",
+          "bar": 0.5
+        },
+        {
+          "label": "Akten",
+          "value": "142 Stk.",
+          "bar": 0.9
+        },
+        {
+          "label": "Kälte",
+          "value": "78 %",
+          "bar": 0.78
+        }
+      ],
+      "character": "A lemon woman with a bright yellow textured citrus-peel head, wearing a strict dark blue business blazer and severe expression; a glowing digital display on her forehead.",
+      "visual": "Close-up of a lemon woman sitting at a cluttered office desk in a Frankfurt high-rise, looking at her glowing forehead badge reading 12 Std. Block.",
+      "scenes": [
+        "Corporate office, wide shot: Rows of grey cubicles, harsh fluorescent lighting reflecting off polished linoleum floors.",
+        "Desk surface, detail shot: A stack of paper folders next to a red mechanical calculator and a brass pen holder.",
+        "Office window, medium shot: Rain splashing against tinted glass showing the Frankfurt skyline blurred in the distance.",
+        "Break room, wide shot: A lonely vending machine humming softly beside a grey plastic water cooler.",
+        "Elevator corridor, medium shot: Stainless steel walls reflecting the tired faces of late-working employees.",
+        "Parking garage basement, wide shot: Dim yellow overhead lights casting long shadows across concrete parking bays."
+      ],
+      "caption": "Wie viele Stunden hast du deine Mutter schon mal blockiert? #Zitrone #Buchhaltung #Mutter #StirnZahl #Frankfurt"
+    },
+    {
+      "n": 5,
+      "open_loop": "Welche verbotene Überweisung tauchte auf dem Kontoauszug der Kokosnuss plötzlich auf?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Nimmt der Kokosnuss den Parkplatz weg und spottet über ihren harten Schädel."
+      },
+      "name": "Markus, 41, Bauarbeiter",
+      "badge": "2 Tage Block",
+      "verdict": "HÄRTE",
+      "story": "Die 8 Level von WhatsApp-Mutter-Blockieren. Level 5. Ich stehe auf dem regennassen Baugerüst im Hamburger Hafen, der Wind pfeift mir um die harte Kokosnuss-Rinde. Meine Stirn leuchtet braun und unbeugsam: 2 Tage blockiert. Seit 48 Stunden ist Mama komplett ausgesperrt, weil sie sich mal wieder eingemischt hat. Neben mir steht eine muskulöse Drachenfrucht im neongelben Warnwesten-Outfit und grinst hämisch. Zwei Tage blockiert? Du bist doch nur eine hohle Kokosnuss ohne echtes Gefühl im Leib! Seine Worte prallen an meiner harten Schale ab, aber tief drinnen spüre ich den Schmerz. Plötzlich vibriert mein Smartphone in der Manteltasche mit einer unheimlichen Intensität. Ich ziehe es heraus und sehe eine Live-Benachrichtigung, die mein ganzes Leben auf den Kopf stellt. Ein schwerer Frachtcontainer über uns beginnt im Sturm heftig zu schwanken, als hätte jemand die Sicherungen gelöst. Auf dem Display startet eine Live-Kamera aus meiner eigenen Wohnung, die eine fremde Gestalt in meinem Flur zeigt. Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+3 Tage",
+        "after": "5 Tage Bl"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von WhatsApp-Mutter-Blockieren. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe auf dem regennassen Baugerüst im Hamburger Hafen, der Wind pfeift mir um die harte Kokosnuss-Rinde."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn leuchtet braun und unbeugsam: 2 Tage blockiert."
+        },
+        {
+          "s": "Figur",
+          "t": "Seit 48 Stunden ist Mama komplett ausgesperrt, weil sie sich mal wieder eingemischt hat."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Neben mir steht eine muskulöse Drachenfrucht im neongelben Warnwesten-Outfit und grinst hämisch.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Zwei Tage blockiert? Du bist doch nur eine hohle Kokosnuss ohne echtes Gefühl im Leib!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Seine Worte prallen an meiner harten Schale ab, aber tief drinnen spüre ich den Schmerz."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Plötzlich vibriert mein Smartphone in der Manteltasche mit einer unheimlichen Intensität."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich ziehe es heraus und sehe eine Live-Benachrichtigung, die mein ganzes Leben auf den Kopf stellt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ein schwerer Frachtcontainer über uns beginnt im Sturm heftig zu schwanken, als hätte jemand die Sicherungen gelöst."
+        },
+        {
+          "s": "Figur",
+          "t": "Auf dem Display startet eine Live-Kamera aus meiner eigenen Wohnung, die eine fremde Gestalt in meinem Flur zeigt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Zwei Tage blockiert? Du bist doch nur eine hohle Kokosnuss ohne echtes Gefühl im Leib!",
+      "quote_by": {
+        "level": 7,
+        "name": "Kai",
+        "badge": "14 Tage",
+        "character": "A rugged dragon fruit man with bright pink and green scaled skin, wearing a high-visibility neon construction jacket and heavy boots.",
+        "scene": "Wide shot on a windy construction site scaffolding, pointing a thick finger mockingly at the coconut man's head."
+      },
+      "stats": [
+        {
+          "label": "Block-Zeit",
+          "value": "2 Tage",
+          "bar": 0.65
+        },
+        {
+          "label": "Schale",
+          "value": "99 %",
+          "bar": 0.99
+        },
+        {
+          "label": "Wut",
+          "value": "64 %",
+          "bar": 0.64
+        }
+      ],
+      "character": "A coconut man with a hard brown fibrous shell head, wearing a weathered leather jacket and construction boots; a glowing digital display on her forehead.",
+      "visual": "Medium shot of a coconut man standing on a rainy construction scaffolding overlooking a port, with a glowing digital badge on her forehead reading 2 Tage Block.",
+      "scenes": [
+        "Construction site scaffolding, wide shot: Tower cranes cutting through gray stormy skies above shipping containers in Hamburg harbor.",
+        "Scaffolding platform, detail shot: A heavy steel wrench resting next to muddy work boots and safety gloves.",
+        "Site container office interior, medium shot: A glowing desk lamp illuminating blueprints and empty coffee mugs.",
+        "Harbor waterfront outside, wide shot: Large cargo ships navigating choppy grey river water under heavy rain clouds.",
+        "Construction elevator, medium shot: Metal mesh doors closing slowly against a backdrop of exposed concrete pillars.",
+        "Tool belt pouch, detail shot: Rusted nails and a yellow tape measure hanging loosely from leather loops."
+      ],
+      "caption": "Wie reagierst du, wenn dir jemand vorwirft, keine Gefühle zu haben? #Kokosnuss #Bauarbeiter #Mutter #StirnZahl #Hamburg"
+    },
+    {
+      "n": 6,
+      "open_loop": "Was hat der Kioskbesitzer in die Geheimkasse der Drachenfrucht gesteckt?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Verkauft der Drachenfrucht verdorbene Waren und lacht sie vor allen Kunden aus."
+      },
+      "name": "Danilo, 32, Fitnesstrainer",
+      "badge": "1 Woche Block",
+      "verdict": "EXOTISCH",
+      "story": "Die 8 Level von WhatsApp-Mutter-Blockieren. Level 6. Ich stehe im neonbeleuchteten Gym in Stuttgart vor dem Spiegel, meine Drachenfrucht-Haut leuchtet pink und grün. Meine Stirn zeigt stolz: 1 Woche blockiert. Eine ganze Woche lang ist Mama von meinem WhatsApp-Feed ausgeschlossen. Plötzlich baut sich eine arrogante Kartoffel in Muskelshirt-Optik vor mir auf. Eine Woche blockiert? Du bist doch nur eine Selbstdarsteller-Frucht ohne echte Substanz! Seine Worte treffen mich mitten im Stolz. Genau in diesem Augenblick bricht mein Handy auf der Bank in einen Alarmton aus. Eine Videobahn schaltet sich automatisch ein. Sämtliche Deckenlichter im Fitnessstudio erlöschen schlagartig und tauchen den Raum in bedrohliches Zwielicht. Auf der großen Spiegelwand erscheint wie von Geisterhand eine blutrote Warnung mit einer mysteriösen Zahlenkombination. Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+2 Wochen",
+        "after": "3 Wochen "
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von WhatsApp-Mutter-Blockieren. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im neonbeleuchteten Gym in Stuttgart vor dem Spiegel, meine Drachenfrucht-Haut leuchtet pink und grün."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn zeigt stolz: 1 Woche blockiert."
+        },
+        {
+          "s": "Figur",
+          "t": "Eine ganze Woche lang ist Mama von meinem WhatsApp-Feed ausgeschlossen."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Plötzlich baut sich eine arrogante Kartoffel in Muskelshirt-Optik vor mir auf.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Eine Woche blockiert? Du bist doch nur eine Selbstdarsteller-Frucht ohne echte Substanz!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Seine Worte treffen mich mitten im Stolz."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Genau in diesem Augenblick bricht mein Handy auf der Bank in einen Alarmton aus."
+        },
+        {
+          "s": "Figur",
+          "t": "Eine Videobahn schaltet sich automatisch ein."
+        },
+        {
+          "s": "Figur",
+          "t": "Sämtliche Deckenlichter im Fitnessstudio erlöschen schlagartig und tauchen den Raum in bedrohliches Zwielicht."
+        },
+        {
+          "s": "Figur",
+          "t": "Auf der großen Spiegelwand erscheint wie von Geisterhand eine blutrote Warnung mit einer mysteriösen Zahlenkombination."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Eine Woche blockiert? Du bist doch nur eine Selbstdarsteller-Frucht ohne echte Substanz!",
+      "quote_by": {
+        "level": 4,
+        "name": "Bruno",
+        "badge": "12 Std.",
+        "character": "A rugged potato man with an earthy brown bumpy skin head, wearing a tight black athletic tank top and gym shorts.",
+        "scene": "Medium shot in a sweaty fitness studio, flexing his arms aggressively while staring down the dragon fruit man."
+      },
+      "stats": [
+        {
+          "label": "Block-Zeit",
+          "value": "1 Woche",
+          "bar": 0.8
+        },
+        {
+          "label": "Muskeln",
+          "value": "94 %",
+          "bar": 0.94
+        },
+        {
+          "label": "Ego",
+          "value": "89 %",
+          "bar": 0.89
+        }
+      ],
+      "character": "A dragon fruit man with a vibrant pink and green scale-patterned head, wearing a stylish black stringer tank top; a glowing digital display on her forehead.",
+      "visual": "Medium shot of a dragon fruit man inside a modern neon-lit fitness studio in Stuttgart, looking at his glowing forehead badge reading 1 Woche Block.",
+      "scenes": [
+        "Gym interior, wide shot: Rows of chrome dumbbells, mirrored walls, and blue LED strip lighting along the ceiling.",
+        "Weight bench, detail shot: A black leather bench with a smartphone flashing an incoming video call notification.",
+        "Locker room, medium shot: Metal lockers with grey doors reflecting the bright fluorescent lights overhead.",
+        "Protein bar counter, wide shot: Shaker bottles and colorful tubs of supplements stacked neatly behind glass.",
+        "Gym entrance, medium shot: Glass sliding doors showing evening city traffic passing under streetlights.",
+        "Stretching area, detail shot: A blue yoga mat rolled up tightly next to a rubber resistance band."
+      ],
+      "caption": "Wie lange konntest du deine Familie schon mal digital aussperren? #Drachenfrucht #Fitness #Mutter #StirnZahl #Stuttgart"
+    },
+    {
+      "n": 7,
+      "open_loop": "Warum stand auf der Stirn des Direktors plötzlich die Zahl Null, als er das Büro betrat?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Wirft dem Brokkoli vor, zu viel Platz im Gemeinschaftsgarten einzunehmen, und droht mit Raste."
+      },
+      "name": "Jonas, 38, Architekt",
+      "badge": "1 Monat Block",
+      "verdict": "RADIKAL",
+      "story": "Die 8 Level von WhatsApp-Mutter-Blockieren. Level 7. Ich stehe in meinem minimalistischen Architekturbüro in München vor dem Panoramafenster. Meine Stirn leuchtet dunkelgrün: 1 Monat blockiert. Seit exakt 30 Tagen ist Mama auf WhatsApp im eisigen Exil. Plötzlich tritt eine elegante Tomatenfrau in feiner Seidenbluse an meinen Schreibtisch. Einen Monat blockiert? Du bist doch emotional so tot wie dein eigener Stamm, Brokkoli! Ihre Worte treffen mich wie ein elektrischer Schlag. Da fängt mein Smartphone plötzlich an, laut zu piepen. Auf dem Display springt die Anzeige von alleine um. Ein gewaltiger Donnerschlag erschüttert das gesamte Gebäude, während ein Riss durch die dicke Fensterscheibe zieht. Auf allen Monitoren öffnet sich zeitgleich ein mysteriöses Portal zur geheimen Zentrale der Blockier-Aufsicht. Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+11 Monate",
+        "after": "1 Jahr Bl"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von WhatsApp-Mutter-Blockieren. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe in meinem minimalistischen Architekturbüro in München vor dem Panoramafenster."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn leuchtet dunkelgrün: 1 Monat blockiert."
+        },
+        {
+          "s": "Figur",
+          "t": "Seit exakt 30 Tagen ist Mama auf WhatsApp im eisigen Exil."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Plötzlich tritt eine elegante Tomatenfrau in feiner Seidenbluse an meinen Schreibtisch.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Einen Monat blockiert? Du bist doch emotional so tot wie dein eigener Stamm, Brokkoli!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ihre Worte treffen mich wie ein elektrischer Schlag."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Da fängt mein Smartphone plötzlich an, laut zu piepen."
+        },
+        {
+          "s": "Figur",
+          "t": "Auf dem Display springt die Anzeige von alleine um."
+        },
+        {
+          "s": "Figur",
+          "t": "Ein gewaltiger Donnerschlag erschüttert das gesamte Gebäude, während ein Riss durch die dicke Fensterscheibe zieht."
+        },
+        {
+          "s": "Figur",
+          "t": "Auf allen Monitoren öffnet sich zeitgleich ein mysteriöses Portal zur geheimen Zentrale der Blockier-Aufsicht."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Einen Monat blockiert? Du bist doch emotional so tot wie dein eigener Stamm, Brokkoli!",
+      "quote_by": {
+        "level": 2,
+        "name": "Clara",
+        "badge": "15 Min.",
+        "character": "A sleek red tomato woman with a smooth glossy round head and green stem crown, wearing a sophisticated white silk blouse.",
+        "scene": "Medium shot in a high-end architectural studio in Munich, leaning over a drafting table with a condescending smile."
+      },
+      "stats": [
+        {
+          "label": "Block-Zeit",
+          "value": "1 Monat",
+          "bar": 0.9
+        },
+        {
+          "label": "Projekte",
+          "value": "12 aktiv",
+          "bar": 0.85
+        },
+        {
+          "label": "Distanz",
+          "value": "100 %",
+          "bar": 1.0
+        }
+      ],
+      "character": "A broccoli man with a dark green textured floret head, wearing a sharp black turtleneck sweater and designer glasses; a glowing digital display on her forehead.",
+      "visual": "Medium shot of a broccoli man standing in a sleek minimalist Munich architecture studio, looking at his glowing forehead badge reading 1 Monat Block.",
+      "scenes": [
+        "Architectural studio, wide shot: Floor-to-ceiling glass windows overlooking the Isar river under a pale morning sky in Munich.",
+        "Drafting desk, detail shot: White architectural models, a silver mechanical pencil, and a smartphone blinking with an alert.",
+        "Conference room, medium shot: A long oak table surrounded by designer leather chairs reflecting soft recessed lighting.",
+        "Balcony outside, wide shot: Potted bamboo plants and modern metal railings against a grey urban panorama.",
+        "Reception lobby, medium shot: White minimalist reception desk with a single black orchid in a glass vase.",
+        "Underground parking, wide shot: Concrete pillars and polished floor epoxy reflecting the headlights of an entering luxury car."
+      ],
+      "caption": "Ist ein ganzer Monat Kontaktsperre zu viel oder genau richtig? #Brokkoli #Architektur #Mutter #StirnZahl #München"
+    },
+    {
+      "n": 8,
+      "open_loop": "Was stand in dem handgeschriebenen Brief, den die Mutter auf dem Küchentisch hinterlassen hat?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Bittet die Mutter unter Tränen um Vergebung und bricht das gesamte System der Stirn-Zahlen für immer zusammen."
+      },
+      "name": "Direktor Kokus, 58, Vorstand",
+      "badge": "Für immer",
+      "verdict": "DIE WAHRHEIT",
+      "story": "Die 8 Level von WhatsApp-Mutter-Blockieren. Level 8. Ich sitze im ledernen Chef-Sessel der Konzernzentrale in Frankfurt am Main, die Stadt liegt mir zu Füßen. Meine Stirn leuchtet in grellem Gold: Für immer blockiert. Vor genau zehn Jahren habe ich meine eigene Mutter auf WhatsApp gesperrt. Plötzlich öffnet sich die schwere Flügeltür und Tante Rosa aus Level 1 tritt ein. Wer seine Mutter für immer blockiert, verliert am Ende sein eigenes Gesicht. In diesem Moment erlischt die goldene Zahl auf meiner Stirn. Sie wird schwarz. Alle Bildschirme im Raum flackern. Der Bann ist gebrochen. Ich sehe auf mein Display – und sehe zum ersten Mal seit zehn Jahren eine Nachricht von ihr. Die gesamte Metropole da draußen verstummt schlagartig, als sämtliche Stirn-Zahlen der Bürger auf Null zurückspringen. Ein gewaltiger Lichtstrahl durchbricht die Wolkendecke und legt das allerletzte Geheimnis des Systems offen. Welches Thema aus dieser Welt möchtest du als Nächstes sehen?",
+      "gender": "m",
+      "twist": {
+        "delta": "RESET",
+        "after": "0 Min."
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von WhatsApp-Mutter-Blockieren. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze im ledernen Chef-Sessel der Konzernzentrale in Frankfurt am Main, die Stadt liegt mir zu Füßen."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn leuchtet in grellem Gold: Für immer blockiert."
+        },
+        {
+          "s": "Figur",
+          "t": "Vor genau zehn Jahren habe ich meine eigene Mutter auf WhatsApp gesperrt."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Plötzlich öffnet sich die schwere Flügeltür und Tante Rosa aus Level 1 tritt ein.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer seine Mutter für immer blockiert, verliert am Ende sein eigenes Gesicht.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Moment erlischt die goldene Zahl auf meiner Stirn. Sie wird schwarz."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Alle Bildschirme im Raum flackern. Der Bann ist gebrochen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sehe auf mein Display – und sehe zum ersten Mal seit zehn Jahren eine Nachricht von ihr."
+        },
+        {
+          "s": "Figur",
+          "t": "Die gesamte Metropole da draußen verstummt schlagartig, als sämtliche Stirn-Zahlen der Bürger auf Null zurückspringen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ein gewaltiger Lichtstrahl durchbricht die Wolkendecke und legt das allerletzte Geheimnis des Systems offen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema aus dieser Welt möchtest du als Nächstes sehen?"
+        }
+      ],
+      "quote": "Wer seine Mutter für immer blockiert, verliert am Ende sein eigenes Gesicht.",
+      "quote_by": {
+        "level": 1,
+        "name": "Tante Rosa",
+        "badge": "0 Min.",
+        "character": "A strawberry woman with a red textured seed-skin head, wearing a simple pink cleaning apron and holding an old scratched smartphone.",
+        "scene": "Wide shot in a luxurious corporate penthouse office, standing tall and unafraid before the powerful coconut executive's desk."
+      },
+      "stats": [
+        {
+          "label": "Block-Zeit",
+          "value": "Für immer",
+          "bar": 1.0
+        },
+        {
+          "label": "Macht",
+          "value": "0 %",
+          "bar": 0.0
+        },
+        {
+          "label": "Reue",
+          "value": "100 %",
+          "bar": 1.0
+        }
+      ],
+      "character": "A coconut man with a hard brown fibrous shell head, wearing an expensive bespoke charcoal three-piece suit; a glowing digital display on her forehead.",
+      "visual": "Wide shot of a coconut executive sitting behind a massive mahogany desk in a luxurious Frankfurt penthouse office, watching his forehead badge flicker and fade out.",
+      "scenes": [
+        "Luxury penthouse office, wide shot: Floor-to-ceiling glass walls showing the Frankfurt skyline at dusk with glowing skyscraper lights.",
+        "Executive desk, detail shot: A vintage silver fountain pen resting next to an old scratched smartphone with a blinking screen.",
+        "Office doorway, medium shot: Heavy oak doors swinging open to reveal the soft hallway lighting outside.",
+        "Meeting room table, wide shot: Empty leather chairs reflecting the warm glow of designer ceiling chandeliers.",
+        "Window reflection, close-up: The coconut man's face mirroring a mix of shock and profound realization in the glass.",
+        "Smartphone screen, macro detail: A newly arrived WhatsApp message showing a single unread heart emoji from 'Mama'."
+      ],
+      "caption": "Was für eine Reise! Welches Thema sollen wir als Nächstes in der Stirn-Zahl-Welt zeigen? Schreib es in die Kommentare! #Finale #Mutter #StirnZahl #Drama #Wahrheit"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das heimliche Blockieren der eigenen Mutter auf WhatsApp vor dem Sonntagsbesuch",
+  "frame": "frucht"
+}

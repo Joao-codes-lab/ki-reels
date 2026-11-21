@@ -1,0 +1,855 @@
+{
+  "title": "The 8 Levels of 'We Need to Talk'",
+  "house": "Fruit City, a bustling metropolis where every resident is a walking piece of produce with a glowing digital number on their forehead, navigating life based entirely on their mysterious status badge.",
+  "catchphrase": "The number never lies, but it always hurts.",
+  "links": [
+    "The barista in Level 2 mentions the regular customer in the tailored suit who leaves massive tips.",
+    "The bus route 42 from Level 4 is seen delayed in the background of Level 1.",
+    "The neon kiosk from Level 5 sells the exact same bruised apples that fall in Level 7."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "What was the sudden emergency text that made her freeze at the register?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Laughs loudly at her card decline and whispers a toxic warning about her future.",
+        "name": "Leo",
+        "badge": "45.0 min"
+      },
+      "name": "Mia, 22, Intern",
+      "badge": "0.0 min",
+      "verdict": "NO EXPLANATION",
+      "story": "The 8 levels of the dreaded intro. Level 1. Level 1: Zero minutes of warning before my boyfriend drops the dreaded four-word bomb in a crowded diner. I'm Mia, 22, staring at my half-eaten blueberry muffin while my forehead glows a brutal zero. We need to talk. You never gave me any notice about your chaotic schedule, so I am leaving right now. Just pay for your muffin and clear the table, honey. People are waiting. The coffee cups clattered loudly against the saucers as the entire room suddenly fell into an uncomfortable silence. My hands trembled violently against the laminate table while my digital status flickered between life and total system error. He smirked, crossed his arms, and leaned in closer to drop a devastating twist that shattered my entire world. Just when I thought things could not possibly get any worse, a mysterious notification popped up on my cracked phone screen. Then he dropped that one chilling sentence that made the entire room go dead silent ... You'll see that in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+5.0 min",
+        "after": "5.0 min"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of the dreaded intro. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: Zero minutes of warning before my boyfriend drops the dreaded four-word bomb in a crowded diner."
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Mia, 22, staring at my half-eaten blueberry muffin while my forehead glows a brutal zero."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "We need to talk. You never gave me any notice about your chaotic schedule, so I am leaving right now.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Just pay for your muffin and clear the table, honey. People are waiting.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "The coffee cups clattered loudly against the saucers as the entire room suddenly fell into an uncomfortable silence."
+        },
+        {
+          "s": "Figur",
+          "t": "My hands trembled violently against the laminate table while my digital status flickered between life and total system error."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "He smirked, crossed his arms, and leaned in closer to drop a devastating twist that shattered my entire world.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Just when I thought things could not possibly get any worse, a mysterious notification popped up on my cracked phone screen.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then he dropped that one chilling sentence that made the entire room go dead silent ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You never gave me any notice about your chaotic schedule.",
+      "quote_by": {
+        "level": 6,
+        "name": "Leo",
+        "badge": "45.0 min",
+        "character": "A slick turnip man with pale purple skin, wearing a tight polyester manager vest and tapping his glowing forehead impatiently.",
+        "scene": "A crowded diner interior shot, wide angle, showing Leo leaning over a greasy table and pointing a leafy finger at Mia."
+      },
+      "stats": [
+        {
+          "label": "Warning",
+          "value": "0.0 min",
+          "bar": 0.05
+        },
+        {
+          "label": "Savings",
+          "value": "$12.50",
+          "bar": 0.1
+        },
+        {
+          "label": "Trust",
+          "value": "12%",
+          "bar": 0.15
+        }
+      ],
+      "character": "A young blueberry woman with tiny indigo spheres for hair, wearing an oversized thrifted yellow sweater and a silver hairpin; her forehead shows a glowing digital zero.",
+      "visual": "A wide angle shot of a retro diner at dusk, neon lights flickering through rain-streaked windows, featuring a blueberry woman staring down at a table.",
+      "scenes": [
+        "A wide shot of a retro diner at dusk, neon lights flickering through rain-streaked windows, featuring a blueberry woman staring down at a table.",
+        "A close-up shot of a glowing digital display on a bruised turnip forehead reading 45.0 minutes in harsh blue LED light.",
+        "A medium shot in a bustling subway station corridor, commuters rushing past a flickering golden coin on a concrete bench.",
+        "A detail shot of a trembling hand holding a half-eaten blueberry muffin next to a chipped ceramic coffee mug.",
+        "A medium shot of an angry turnip man sliding car keys across a scratched laminate table while glaring.",
+        "A wide shot of an empty bus stop shelter under flickering street lamps in the heavy city rain."
+      ],
+      "caption": "How would you react to zero warning? Drop a comment below! #TheStirnZahl #FruitDrama #Level1 #NeedsToTalk #ViralStory"
+    },
+    {
+      "n": 2,
+      "open_loop": "What secret package did the delivery guy leave behind the counter?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Demands she cancels her shift immediately because her preparation time is too low.",
+        "name": "Pineapple Boss",
+        "badge": "180.0 min"
+      },
+      "name": "Sam, 26, Barista",
+      "badge": "12.5 min",
+      "verdict": "BARELY READY",
+      "story": "The 8 levels of the dreaded intro. Level 2. Level 2: Twelve and a half minutes of warning before my boss hands me an eviction notice disguised as a performance review. I'm Sam, 26, steaming oat milk in a cramped café while my zesty lemon skin tingles with cold sweat. We need to talk about your future here. Your lack of preparation is dragging down our entire morning rush, so clean out your locker by noon. Don't worry, Sam. That guy yells at everyone before his morning espresso. The steam wand hissed aggressively, drowning out the ambient jazz music while my colleagues avoided eye contact entirely. A strange man in a tailored dark suit lingered near the entrance, watching every single move I made with intense suspicion. Suddenly, the espresso machine sputtered and died, leaving me stranded in front of a long line of impatient customers. I tried to reset the breaker, but the digital display on the wall flashed an alarming red warning code. Then he flashed that arrogant grin and whispered ... You'll see that in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+15.0 min",
+        "after": "27.5 min"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of the dreaded intro. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: Twelve and a half minutes of warning before my boss hands me an eviction notice disguised as a performance review."
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Sam, 26, steaming oat milk in a cramped café while my zesty lemon skin tingles with cold sweat."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "We need to talk about your future here. Your lack of preparation is dragging down our entire morning rush, so clean out your locker by noon.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Don't worry, Sam. That guy yells at everyone before his morning espresso.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "The steam wand hissed aggressively, drowning out the ambient jazz music while my colleagues avoided eye contact entirely."
+        },
+        {
+          "s": "Figur",
+          "t": "A strange man in a tailored dark suit lingered near the entrance, watching every single move I made with intense suspicion."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Suddenly, the espresso machine sputtered and died, leaving me stranded in front of a long line of impatient customers.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "I tried to reset the breaker, but the digital display on the wall flashed an alarming red warning code.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then he flashed that arrogant grin and whispered ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "We need to talk about your future here.",
+      "quote_by": {
+        "level": 7,
+        "name": "Pineapple Boss",
+        "badge": "180.0 min",
+        "character": "An intimidating pineapple man with a spiky golden crown, wearing a crisp manager suit and sneering down at his employees.",
+        "scene": "Medium shot behind a bustling café counter, neon sign buzzing in the background as the pineapple man slams a heavy ledger."
+      },
+      "stats": [
+        {
+          "label": "Warning",
+          "value": "12.5 min",
+          "bar": 0.2
+        },
+        {
+          "label": "Tips",
+          "value": "$45.00",
+          "bar": 0.25
+        },
+        {
+          "label": "Patience",
+          "value": "34%",
+          "bar": 0.3
+        }
+      ],
+      "character": "A bright yellow lemon man with a textured citrus peel face, wearing a faded green barista apron and a stained baseball cap; his forehead shows a glowing digital 12.5.",
+      "visual": "A medium shot inside a noisy urban coffee shop, warm amber pendant lights hanging over a stainless steel espresso machine and a lemon barista wiping sweat.",
+      "scenes": [
+        "A medium shot inside a noisy urban coffee shop, warm amber pendant lights hanging over a stainless steel espresso machine and a lemon barista wiping sweat.",
+        "A close-up shot of a glowing LED forehead display showing 12.5 minutes in bright yellow numbers.",
+        "A wide shot of a crowded subway platform during morning rush hour, a golden coin half-hidden under a turnstile.",
+        "A detail shot of a steaming milk pitcher with intricate foam art next to a scratched tip jar.",
+        "A medium shot of an aggressive pineapple man pointing a spiky leaf at the frightened lemon barista.",
+        "A close-up shot of a brass locker key resting on a greasy metal breakroom table."
+      ],
+      "caption": "Ever been fired without warning? Let me know below! #TheStirnZahl #BaristaLife #Level2 #CoffeeShop #Drama"
+    },
+    {
+      "n": 3,
+      "open_loop": "Whose signature was actually on the confiscated eviction notice?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Threatens to bulldoze her community garden if she doesn't pack up within the hour.",
+        "name": "Coconut Landlord",
+        "badge": "720.0 min"
+      },
+      "name": "Chloe, 29, Florist",
+      "badge": "45.0 min",
+      "verdict": "CUT SHORT",
+      "story": "The 8 levels of the dreaded intro. Level 3. Level 3: Forty-five minutes of warning before my landlord cancels my greenhouse lease with a cold smile. I'm Chloe, 29, arranging crimson tulips in a drafty warehouse while my delicate rosepetal cheeks tremble. We need to talk about your overdue rent. Your botanical boutique isn't generating enough foot traffic, so hand over the keys right now. Ignore him, Chloe! Your roses are the only bright spot on this whole dreary street. Rain hammered against the fragile glass roof of the greenhouse as the temperature inside plummeted rapidly. My prized orchids began to wither under the sudden draft, echoing the icy atmosphere in the room. He slammed a thick leather-bound ledger onto my workbench, revealing a hidden clause that completely undermined my contract. A courier rushed past the window, throwing a package onto the muddy welcome mat before sprinting away. Then he whispered that terrifying ultimatum ... You'll see that in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "+30.0 min",
+        "after": "75.0 min"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of the dreaded intro. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: Forty-five minutes of warning before my landlord cancels my greenhouse lease with a cold smile."
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Chloe, 29, arranging crimson tulips in a drafty warehouse while my delicate rosepetal cheeks tremble."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "We need to talk about your overdue rent. Your botanical boutique isn't generating enough foot traffic, so hand over the keys right now.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Ignore him, Chloe! Your roses are the only bright spot on this whole dreary street.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Rain hammered against the fragile glass roof of the greenhouse as the temperature inside plummeted rapidly."
+        },
+        {
+          "s": "Figur",
+          "t": "My prized orchids began to wither under the sudden draft, echoing the icy atmosphere in the room."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "He slammed a thick leather-bound ledger onto my workbench, revealing a hidden clause that completely undermined my contract.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "A courier rushed past the window, throwing a package onto the muddy welcome mat before sprinting away.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then he whispered that terrifying ultimatum ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "We need to talk about your overdue rent.",
+      "quote_by": {
+        "level": 8,
+        "name": "Coconut Landlord",
+        "badge": "720.0 min",
+        "character": "A massive coconut man with a fibrous brown textured head, wearing a tailored charcoal trench coat and shining leather shoes.",
+        "scene": "Wide angle shot of a drafty greenhouse entrance, dramatic side lighting casting long shadows across potted ferns."
+      },
+      "stats": [
+        {
+          "label": "Warning",
+          "value": "45.0 min",
+          "bar": 0.35
+        },
+        {
+          "label": "Inventory",
+          "value": "$1,200",
+          "bar": 0.4
+        },
+        {
+          "label": "Lease",
+          "value": "3 days",
+          "bar": 0.45
+        }
+      ],
+      "character": "A delicate rose woman with soft pink petals forming her hair, wearing a soil-stained denim overall dress and leather gardening gloves; her forehead shows a glowing digital 45.0.",
+      "visual": "A wide angle shot of a rustic greenhouse filled with vibrant flowers, morning sunlight filtering through dusty glass panes on a rose-petal florist.",
+      "scenes": [
+        "A wide angle shot of a rustic greenhouse filled with vibrant flowers, morning sunlight filtering through dusty glass panes on a rose-petal florist.",
+        "A close-up shot of a glowing LED forehead display showing 45.0 minutes in warm amber light.",
+        "A medium shot on a cobblestone alleyway next to a flower shop, showing a hidden golden coin resting on a wooden crate.",
+        "A detail shot of a pair of rusty pruning shears cutting a crimson rose stem over a zinc bucket.",
+        "A medium shot of an imposing coconut man towering over the rose woman with folded arms.",
+        "A close-up shot of a legal eviction notice stamped with a bold red rejection seal."
+      ],
+      "caption": "Ever had your rent threatened out of nowhere? Share below! #TheStirnZahl #FloristLife #Level3 #Greenhouse #Drama"
+    },
+    {
+      "n": 4,
+      "open_loop": "What destination was printed on the one-way boarding pass?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Confiscates her luggage tag and mocks her travel preparation score.",
+        "name": "Editor Beetroot",
+        "badge": "1,440 min"
+      },
+      "name": "Maya, 24, Travel Blogger",
+      "badge": "2.5 hours",
+      "verdict": "GROUNDED",
+      "story": "The 8 levels of the dreaded intro. Level 4. Level 4: Two and a half hours of warning before my editor cancels my international flight and strips my press pass. I'm Maya, 24, packing a battered vintage suitcase in a sunlit loft while my dragonfruit skin radiates bright magenta and green. We need to talk about your travel budget. Your engagement metrics dropped yesterday, so we are reallocating your ticket to someone else. Don't let them ground you, Maya! Your travel stories inspire half this city. My passport sat open on the wooden desk, surrounded by expired tickets and stamped postcards from faraway adventures. The television in the background blared breaking news about municipal budget cuts affecting independent journalists. She checked her luxury gold wristwatch and tapped her polished high heel against the hardwood floor impatiently. An urgent message flashed across my laptop screen, revealing that my entire destination had been secretly altered. Then she flashed a cold smirk and said ... You'll see that in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1.0 hour",
+        "after": "3.5 hours"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of the dreaded intro. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: Two and a half hours of warning before my editor cancels my international flight and strips my press pass."
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Maya, 24, packing a battered vintage suitcase in a sunlit loft while my dragonfruit skin radiates bright magenta and green."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "We need to talk about your travel budget. Your engagement metrics dropped yesterday, so we are reallocating your ticket to someone else.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Don't let them ground you, Maya! Your travel stories inspire half this city.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My passport sat open on the wooden desk, surrounded by expired tickets and stamped postcards from faraway adventures."
+        },
+        {
+          "s": "Figur",
+          "t": "The television in the background blared breaking news about municipal budget cuts affecting independent journalists."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "She checked her luxury gold wristwatch and tapped her polished high heel against the hardwood floor impatiently.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "An urgent message flashed across my laptop screen, revealing that my entire destination had been secretly altered.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then she flashed a cold smirk and said ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "We need to talk about your travel budget.",
+      "quote_by": {
+        "level": 2,
+        "name": "Editor Beetroot",
+        "badge": "1,440 min",
+        "character": "An intense beetroot woman with deep crimson skin, wearing a sharp white silk blouse and gold-rimmed glasses.",
+        "scene": "Medium shot inside a minimalist modern publishing office, floor-to-ceiling windows showing a bright skyline behind her."
+      },
+      "stats": [
+        {
+          "label": "Warning",
+          "value": "2.5 hrs",
+          "bar": 0.5
+        },
+        {
+          "label": "Followers",
+          "value": "45.2K",
+          "bar": 0.55
+        },
+        {
+          "label": "Flights",
+          "value": "12 left",
+          "bar": 0.6
+        }
+      ],
+      "character": "A vibrant dragonfruit woman with magenta and green scale-like skin, wearing a bohemian travel jacket and a canvas backpack; her forehead shows a glowing digital 2.5h.",
+      "visual": "A medium shot in a sunlit bohemian loft apartment, potted cacti and scattered travel magazines framing a dragonfruit woman packing her bags.",
+      "scenes": [
+        "A medium shot in a sunlit bohemian loft apartment, potted cacti and scattered travel magazines framing a dragonfruit woman packing her bags.",
+        "A close-up shot of a glowing LED forehead display showing 2.5 hours in brilliant magenta numbers.",
+        "A wide shot of an international airport departures terminal, a golden coin resting on a blue plastic seating row.",
+        "A detail shot of a leather passport holder stamped with dozens of colorful ink borders.",
+        "A medium shot of a stern beetroot woman crossing her arms in front of an airport check-in desk.",
+        "A close-up shot of a cancelled digital boarding pass flashing red on a smartphone screen."
+      ],
+      "caption": "Ever had your trip cancelled at the last second? Tag a friend! #TheStirnZahl #TravelBlogger #Level4 #AirportDrama #Wanderlust"
+    },
+    {
+      "n": 5,
+      "open_loop": "What emergency warning notification started flashing on every kiosk screen?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Blocks the kiosk door and demands double payment for a basic permit.",
+        "name": "Garlic Supervisor",
+        "badge": "3,000 hrs"
+      },
+      "name": "Leo, 31, Technician",
+      "badge": "12.0 hours",
+      "verdict": "SYSTEM OVERLOAD",
+      "story": "The 8 levels of the dreaded intro. Level 5. Level 5: Twelve hours of warning before my network supervisor shuts down our municipal grid access. I'm Leo, 31, soldering microchips in a neon-lit basement while my sleek avocado skin glistens under fluorescent tubes. We need to talk about your system diagnostics. Your firewall update missed the morning deadline, so I am revoking your master key. Don't let him lock you out, Leo! We need your code to keep the whole block online. Sparks flew from the motherboard as I frantically typed the override sequence into the primary terminal. Sirens wailed softly in the distance, signaling an approaching system lockdown that threatened every resident in the city. He pulled a heavy master override card from his pocket and dangled it just out of reach with a mocking smile. Suddenly, every monitor in the subterranean facility flickered and displayed a mysterious countdown timer. Then he gave a wicked chuckle and dropped this hint ... You'll see that in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+6.0 hours",
+        "after": "18.0 hour"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of the dreaded intro. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: Twelve hours of warning before my network supervisor shuts down our municipal grid access."
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Leo, 31, soldering microchips in a neon-lit basement while my sleek avocado skin glistens under fluorescent tubes."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "We need to talk about your system diagnostics. Your firewall update missed the morning deadline, so I am revoking your master key.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Don't let him lock you out, Leo! We need your code to keep the whole block online.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Sparks flew from the motherboard as I frantically typed the override sequence into the primary terminal."
+        },
+        {
+          "s": "Figur",
+          "t": "Sirens wailed softly in the distance, signaling an approaching system lockdown that threatened every resident in the city."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "He pulled a heavy master override card from his pocket and dangled it just out of reach with a mocking smile.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Suddenly, every monitor in the subterranean facility flickered and displayed a mysterious countdown timer.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then he gave a wicked chuckle and dropped this hint ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "We need to talk about your system diagnostics.",
+      "quote_by": {
+        "level": 3,
+        "name": "Garlic Supervisor",
+        "badge": "3,000 hrs",
+        "character": "A pungent garlic bulb man with segmented white cloves for hair, wearing a utility vest stuffed with fiber-optic cables.",
+        "scene": "Medium shot in a dark server room illuminated by blinking blue LED server racks, casting eerie shadows."
+      },
+      "stats": [
+        {
+          "label": "Warning",
+          "value": "12.0 hrs",
+          "bar": 0.65
+        },
+        {
+          "label": "Access",
+          "value": "Level 3",
+          "bar": 0.7
+        },
+        {
+          "label": "Uptime",
+          "value": "99.4%",
+          "bar": 0.75
+        }
+      ],
+      "character": "An avocado man with a smooth green complexion, wearing a functional tech hoodie and wired earbuds around his neck; his forehead shows a glowing digital 12h.",
+      "visual": "A medium shot inside a subterranean server room, rows of blinking black server racks casting blue light on an avocado technician holding a soldering iron.",
+      "scenes": [
+        "A medium shot inside a subterranean server room, rows of blinking black server racks casting blue light on an avocado technician holding a soldering iron.",
+        "A close-up shot of a glowing LED forehead display showing 12.0 hours in bright green digits.",
+        "A wide shot of a neon-lit city alleyway at night, a golden coin resting on top of a damp electrical transformer box.",
+        "A detail shot of a smoking soldering iron tip touching a glowing green circuit board.",
+        "A medium shot of an aggressive garlic bulb man pointing a stubby finger at the technician's monitor.",
+        "A close-up shot of a flashing red security alert banner reading 'ACCESS DENIED' on a multi-monitor setup."
+      ],
+      "caption": "Ever had your tech access cut without warning? Comment below! #TheStirnZahl #TechLife #Level5 #ServerRoom #CyberDrama"
+    },
+    {
+      "n": 6,
+      "open_loop": "Whose signature was forged on the multi-million dollar corporate buyout?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Laughs at her boardroom demotion and questions her initial qualifications.",
+        "name": "Plum Partner",
+        "badge": "10,000 hrs"
+      },
+      "name": "Elena, 35, Architect",
+      "badge": "3.0 days",
+      "verdict": "BLUEPRINT REJECTED",
+      "story": "The 8 levels of the dreaded intro. Level 6. Level 6: Three days of warning before my senior partner strips my name from the skyscraper master plan. I'm Elena, 35, sketching blueprints on a glass table in a glass-walled skyscraper while my crisp pear skin glows with quiet determination. We need to talk about your design budget. Your eco-tower concept is too costly for our investors, so we are handing the project to someone else. Don't let them steal your blueprints, Elena! That tower is entirely your vision. The skyline glowed in fiery orange hues as the sun dipped below the horizon, casting long shadows across the architectural models. My colleagues stood by in stunned silence, realizing that corporate greed had finally overtaken our artistic integrity. He tossed my revised portfolio onto the floor with a resounding crash that echoed through the empty office. Before I could pick up the scattered papers, my phone buzzed with an unauthorized transfer alert from the company vault. Then he offered a condescending smile and declared ... You'll see that in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+2.0 days",
+        "after": "5.0 days"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of the dreaded intro. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: Three days of warning before my senior partner strips my name from the skyscraper master plan."
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Elena, 35, sketching blueprints on a glass table in a glass-walled skyscraper while my crisp pear skin glows with quiet determination."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "We need to talk about your design budget. Your eco-tower concept is too costly for our investors, so we are handing the project to someone else.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Don't let them steal your blueprints, Elena! That tower is entirely your vision.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "The skyline glowed in fiery orange hues as the sun dipped below the horizon, casting long shadows across the architectural models."
+        },
+        {
+          "s": "Figur",
+          "t": "My colleagues stood by in stunned silence, realizing that corporate greed had finally overtaken our artistic integrity."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "He tossed my revised portfolio onto the floor with a resounding crash that echoed through the empty office.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Before I could pick up the scattered papers, my phone buzzed with an unauthorized transfer alert from the company vault.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then he offered a condescending smile and declared ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "We need to talk about your design budget.",
+      "quote_by": {
+        "level": 1,
+        "name": "Plum Partner",
+        "badge": "10,000 hrs",
+        "character": "A sleek purple plum man with a polished glossy skin texture, wearing a pinstripe designer suit and holding a silver fountain pen.",
+        "scene": "Wide shot of a luxurious high-rise boardroom overlooking the entire city at sunset, dramatic backlighting."
+      },
+      "stats": [
+        {
+          "label": "Warning",
+          "value": "3.0 days",
+          "bar": 0.8
+        },
+        {
+          "label": "Projects",
+          "value": "18 built",
+          "bar": 0.85
+        },
+        {
+          "label": "Shares",
+          "value": "24%",
+          "bar": 0.9
+        }
+      ],
+      "character": "A sophisticated pear woman with a smooth green-yellow curved silhouette, wearing a tailored charcoal blazer and architectural glasses; her forehead shows a glowing digital 3.0d.",
+      "visual": "A wide shot of a high-end corporate boardroom on the 50th floor, floor-to-ceiling glass windows revealing a sprawling sunset metropolis and a pear architect.",
+      "scenes": [
+        "A wide shot of a high-end corporate boardroom on the 50th floor, floor-to-ceiling glass windows revealing a sprawling sunset metropolis and a pear architect.",
+        "A close-up shot of a glowing LED forehead display showing 3.0 days in sleek white numbers.",
+        "A wide shot of a penthouse balcony overlooking traffic, a golden coin reflecting city lights on a glass railing.",
+        "A detail shot of a mechanical pencil sketching precise architectural lines on a blue blueprint.",
+        "A medium shot of an arrogant plum man pointing a silver pen at a rejected project proposal.",
+        "A close-up shot of a signature line being crossed out with a bold red marker."
+      ],
+      "caption": "Ever had your hard work handed to someone else? Let me know! #TheStirnZahl #ArchitectLife #Level6 #CorporateDrama #Skyscraper"
+    },
+    {
+      "n": 7,
+      "open_loop": "What hidden bank transfer notification just landed on her phone?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Tears up her municipal permit application and laughs at her short timeline.",
+        "name": "Bell Pepper Investor",
+        "badge": "50,000 hrs"
+      },
+      "name": "Oliver, 41, Director",
+      "badge": "2.0 weeks",
+      "verdict": "TAKEOVER IMMINENT",
+      "story": "The 8 levels of the dreaded intro. Level 7. Level 7: Two weeks of warning before the board votes to liquidate our entire architectural portfolio. I'm Oliver, 41, examining a multi-million model in a grand mahogany office while my sturdy pumpkin head glows with rich orange authority. We need to talk about your corporate restructuring. Your firm missed the quarterly revenue target by two percent, so effective immediately, you are out. Don't sign away the firm, Oliver! We built this empire from the ground up. Heavy mahogany doors swung open to reveal the entire executive committee standing in grim solidarity against my leadership. The air grew thick with tension as security guards stepped forward to escort me from the premises. She leaned over the polished oak desk and stamped 'LIQUIDATED' across my lifetime achievements in crimson ink. My phone vibrated violently on the desk, displaying a secret digital asset transfer that changed everything. Then she gave an icy laugh and hissed ... You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+4.0 weeks",
+        "after": "6.0 weeks"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of the dreaded intro. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: Two weeks of warning before the board votes to liquidate our entire architectural portfolio."
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Oliver, 41, examining a multi-million model in a grand mahogany office while my sturdy pumpkin head glows with rich orange authority."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "We need to talk about your corporate restructuring. Your firm missed the quarterly revenue target by two percent, so effective immediately, you are out.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Don't sign away the firm, Oliver! We built this empire from the ground up.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Heavy mahogany doors swung open to reveal the entire executive committee standing in grim solidarity against my leadership."
+        },
+        {
+          "s": "Figur",
+          "t": "The air grew thick with tension as security guards stepped forward to escort me from the premises."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "She leaned over the polished oak desk and stamped 'LIQUIDATED' across my lifetime achievements in crimson ink.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "My phone vibrated violently on the desk, displaying a secret digital asset transfer that changed everything.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then she gave an icy laugh and hissed ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "We need to talk about your corporate restructuring.",
+      "quote_by": {
+        "level": 4,
+        "name": "Bell Pepper Investor",
+        "badge": "50,000 hrs",
+        "character": "A glossy red bell pepper woman with deeply ribbed sides, wearing a powerful crimson pantsuit and pearl earrings.",
+        "scene": "Medium shot in a sprawling mahogany executive office with leather armchairs and towering bookshelves."
+      },
+      "stats": [
+        {
+          "label": "Warning",
+          "value": "2.0 wks",
+          "bar": 0.9
+        },
+        {
+          "label": "Assets",
+          "value": "$14.2M",
+          "bar": 0.95
+        },
+        {
+          "label": "Control",
+          "value": "51%",
+          "bar": 0.98
+        }
+      ],
+      "character": "A sturdy pumpkin man with a deeply ribbed orange textured head and stem-like hair, wearing a classic tweed vest and pocket watch; his forehead shows a glowing digital 2.0w.",
+      "visual": "A wide shot of a luxurious executive office with dark mahogany paneling, leather armchairs, and a glowing pumpkin director staring at city blueprints.",
+      "scenes": [
+        "A wide shot of a luxurious executive office with dark mahogany paneling, leather armchairs, and a glowing pumpkin director staring at city blueprints.",
+        "A close-up shot of a glowing LED forehead display showing 2.0 weeks in bright orange digits.",
+        "A wide shot of an ornate corporate lobby with marble pillars, a golden coin resting on the reception desk.",
+        "A detail shot of a heavy gold fountain pen signing a corporate restructuring contract.",
+        "A medium shot of an unyielding bell pepper woman sliding a termination document across a polished oak table.",
+        "A close-up shot of a smartphone screen flashing an incoming wire transfer notification."
+      ],
+      "caption": "Ever faced a corporate takeover without warning? Comment below! #TheStirnZahl #DirectorLife #Level7 #CorporateTakeover #Drama"
+    },
+    {
+      "n": 8,
+      "open_loop": "What was the final secret code hidden inside the master vault?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Realizes too late that her own employment status depends entirely on the person she just humiliated.",
+        "name": "Victoria",
+        "badge": "∞"
+      },
+      "name": "Victoria, 49, Founder",
+      "badge": "UNLIMITED",
+      "verdict": "THE FINAL WORD",
+      "story": "The 8 levels of the dreaded intro. Level 8. The final level. Level 8: Zero warnings left because I own the entire clock that dictates every single number in this city. I'm Victoria, 49, standing at the apex of the central tower while my majestic coconut shell gleams with timeless metallic gold. We need to talk. Every previous warning across all seven levels was just a test of character. She actually controls the master clock! The entire number system was just a mirror. Wind whipped around the glass-domed observatory as thousands of glowing status badges flickered simultaneously across the sprawling metropolis below. Every citizen stopped in their tracks, looking up toward the central spire as the final countdown began to fade. I placed my palm against the crystal master console, ready to execute the ultimate system reset once and for all. A blinding flash of golden light erupted from the tower, syncing every single clock in Fruit City to absolute zero. Then I pressed the master override button and delivered the ultimate truth that rewrote the entire system ... What topic in Fruit City should we uncover next?",
+      "gender": "w",
+      "twist": {
+        "delta": "∞",
+        "after": "∞"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of the dreaded intro. Level 8. The final level."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: Zero warnings left because I own the entire clock that dictates every single number in this city."
+        },
+        {
+          "s": "Figur",
+          "t": "I'm Victoria, 49, standing at the apex of the central tower while my majestic coconut shell gleams with timeless metallic gold."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "We need to talk. Every previous warning across all seven levels was just a test of character.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "She actually controls the master clock! The entire number system was just a mirror.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Wind whipped around the glass-domed observatory as thousands of glowing status badges flickered simultaneously across the sprawling metropolis below."
+        },
+        {
+          "s": "Figur",
+          "t": "Every citizen stopped in their tracks, looking up toward the central spire as the final countdown began to fade."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "I placed my palm against the crystal master console, ready to execute the ultimate system reset once and for all.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "A blinding flash of golden light erupted from the tower, syncing every single clock in Fruit City to absolute zero.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then I pressed the master override button and delivered the ultimate truth that rewrote the entire system ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What topic in Fruit City should we uncover next?"
+        }
+      ],
+      "quote": "We need to talk. Every previous warning was just a test.",
+      "quote_by": {
+        "level": 1,
+        "name": "Victoria",
+        "badge": "∞",
+        "character": "A regal coconut woman with a polished fibrous golden husk, wearing an immaculate white cape and holding a crystal scepter.",
+        "scene": "Wide panoramic shot from the apex of the central glass tower overlooking the entire illuminated metropolis."
+      },
+      "stats": [
+        {
+          "label": "Warning",
+          "value": "Infinite",
+          "bar": 1.0
+        },
+        {
+          "label": "System",
+          "value": "Master",
+          "bar": 1.0
+        },
+        {
+          "label": "Truth",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "A majestic coconut woman with a polished golden-brown fibrous husk, wearing an elegant white silk cape and a crown of glowing digital lights; her forehead displays an infinite symbol.",
+      "visual": "A breathtaking wide-angle shot from the very top of the central glass tower, overlooking the glowing metropolis at night with thousands of moving fruit and vegetable citizens.",
+      "scenes": [
+        "A breathtaking wide-angle shot from the very top of the central glass tower, overlooking the glowing metropolis at night with thousands of moving fruit and vegetable citizens.",
+        "A close-up shot of a glowing LED forehead display showing an infinite symbol in brilliant gold light.",
+        "A wide shot of the grand central lobby with all previous characters gathered around a massive glowing floor display containing a hidden golden coin.",
+        "A detail shot of a polished crystal master switch being pushed down by an elegant hand.",
+        "A medium shot of the coconut founder addressing the entire city through a towering glass console.",
+        "A close-up shot of thousands of foreheads across the city simultaneously shifting their numbers to zero and clearing."
+      ],
+      "caption": "What topic should we uncover in Fruit City next? Let us know in the comments! #TheStirnZahl #Level8 #Finale #FruitCity #ViralSeries"
+    }
+  ],
+  "lang": "en",
+  "topic": "Das nervtötende 'Wir müssen reden'-Intro ohne weitere Erklärung",
+  "frame": "frucht"
+}

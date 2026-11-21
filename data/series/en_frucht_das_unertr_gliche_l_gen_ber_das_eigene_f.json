@@ -1,0 +1,805 @@
+{
+  "title": "The 8 Levels of Gym Fitness Lies",
+  "house": "A bustling metropolitan city populated by produce people, featuring neon-lit fitness clubs, juice bars, and rain-slicked asphalt streets.",
+  "catchphrase": "The number on your forehead never lies.",
+  "links": [
+    "The glowing digital badge on the barista's forehead flickers whenever someone orders a pre-workout shake.",
+    "A fitness influencer with a flashing 99% badge is spotted arguing near the subway turnstile.",
+    "The rattling vending machine outside the gym accepts discarded protein powder scoops as tokens."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Why did the gym receptionist immediately cancel my membership card after seeing my glowing badge?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Laughs loudly at the new member's zero-experience badge and trips him near the dumbbell rack."
+      },
+      "name": "Sam, 22, Couch Potato",
+      "badge": "0% Fitness",
+      "verdict": "TOTAL NOOB",
+      "story": "The 8 levels of gym fitness lies. Level 1. 2,000 percent fat burning? Who let this absolute trash bag into the studio anyway? Maybe he can wipe down the dumbbells for actual athletes after I humiliate him. Level 1: 0% fitness level – and I told everyone I bench press three hundred pounds to impress the local crowd. I stood inside IronPulse Gym wearing brand-new neon sneakers that still had the price tag tucked inside, completely terrified of everyone around me. My bright green broccoli head was sweating profusely before I even touched a single piece of equipment. I hesitantly grabbed a single two-pound pink plastic weight, my arms shaking like a wet leaf in a violent hurricane while everyone watched and pointed. You call that lifting? You look like you break a sweat just opening a bag of potato chips, you pathetic loser! He snatched the two-pound weight right out of my trembling hand with sheer disgust and tossed it across the hard rubber floor. Look at him, he doesn't even know what a protein shaker is, let alone how to use one! Real gym rats don't belong here with the absolute weak, and you are getting kicked out immediately. You'll see that in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+5%",
+        "after": "5% Fitnes"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of gym fitness lies. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "2,000 percent fat burning? Who let this absolute trash bag into the studio anyway? Maybe he can wipe down the dumbbells for actual athletes after I humiliate him."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 0% fitness level – and I told everyone I bench press three hundred pounds to impress the local crowd."
+        },
+        {
+          "s": "Figur",
+          "t": "I stood inside IronPulse Gym wearing brand-new neon sneakers that still had the price tag tucked inside, completely terrified of everyone around me."
+        },
+        {
+          "s": "Figur",
+          "t": "My bright green broccoli head was sweating profusely before I even touched a single piece of equipment."
+        },
+        {
+          "s": "Figur",
+          "t": "I hesitantly grabbed a single two-pound pink plastic weight, my arms shaking like a wet leaf in a violent hurricane while everyone watched and pointed."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You call that lifting? You look like you break a sweat just opening a bag of potato chips, you pathetic loser!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "He snatched the two-pound weight right out of my trembling hand with sheer disgust and tossed it across the hard rubber floor."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Look at him, he doesn't even know what a protein shaker is, let alone how to use one!",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Real gym rats don't belong here with the absolute weak, and you are getting kicked out immediately.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "Real gym rats don't belong here with the weak.",
+      "quote_by": {
+        "level": 8,
+        "name": "Thorpe, 35, Gym Owner",
+        "badge": "99% Fitness",
+        "character": "A rugged, bulletproof Coconut man with a polished mahogany shell and piercing blue digital numbers.",
+        "scene": "Wide shot inside IronPulse Gym under harsh fluorescent lights, pointing condescendingly at a sweating broccoli person."
+      },
+      "stats": [
+        {
+          "label": "Stamina",
+          "value": "0%",
+          "bar": 0.05
+        },
+        {
+          "label": "Lifts",
+          "value": "2 lbs",
+          "bar": 0.02
+        },
+        {
+          "label": "Confidence",
+          "value": "1%",
+          "bar": 0.01
+        }
+      ],
+      "character": "A young broccoli man with vibrant green florets for hair, wearing an oversized gray cotton hoodie and neon running shoes.",
+      "visual": "Medium close-up of a nervous broccoli man holding a tiny pink dumbbell inside a crowded, neon-lit gym with a glowing '0% Fitness' badge on his forehead.",
+      "scenes": [
+        "Exterior street level, wide shot of IronPulse Gym at dusk with flickering neon signs reflecting on wet pavement.",
+        "Interior reception desk, close-up of a scarred citrus receptionist stamping a rejected membership card.",
+        "Locker room aisle, medium shot of the broccoli man hiding behind a metal locker while adjusting his fake price tag.",
+        "Dumbbell zone, low angle shot of a massive coconut man towering over the terrified broccoli man.",
+        "Rubber floor, detail shot of a pink two-pound plastic dumbbell rolling past muddy sneakers.",
+        "Stretching area, close-up of glowing digital numbers flashing red on a steamy gym mirror."
+      ],
+      "caption": "Have you ever lied about your gym routine on day one? Drop your funniest gym fail below! #gymfail #broccolilife #fitnesslie #workoutdrama #gymrat"
+    },
+    {
+      "n": 2,
+      "open_loop": "What secret protein recipe did the orange juice vendor give away that ruined the entire workout class?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Steals the orange's specialized yoga mat and mocks her shaking balance during warrior pose."
+      },
+      "name": "Clementine, 25, Yoga Beginner",
+      "badge": "12% Fitness",
+      "verdict": "WOBBLY CORE",
+      "story": "The 8 levels of gym fitness lies. Level 2. I knew she was a complete fraud the second she walked in with those fake designer labels, and I was going to make sure everyone in the room saw her fall. Level 2: 12% fitness level – and I claimed I taught advanced hot yoga in Tulum to all my friends. I walked into ZenBox Studio wearing four layers of designer athleisure and holding a crystal-infused water bottle while trying to look like a pro. My bright orange citrus peel skin glowed under the dim amber studio lights as I nervously rolled out my mat upside down. You call that a warrior pose? Your balance looks like a melting snowman on roller skates, absolutely pathetic! The entire class turned their heads and laughed loudly while my knees shook so hard they clicked like castanets in an earthquake. She's going to fall over any second now, watch out for the disaster! People like you shouldn't even own a yoga mat, let alone step foot in here. You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+15%",
+        "after": "27% Fitne"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of gym fitness lies. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "I knew she was a complete fraud the second she walked in with those fake designer labels, and I was going to make sure everyone in the room saw her fall."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 12% fitness level – and I claimed I taught advanced hot yoga in Tulum to all my friends."
+        },
+        {
+          "s": "Figur",
+          "t": "I walked into ZenBox Studio wearing four layers of designer athleisure and holding a crystal-infused water bottle while trying to look like a pro."
+        },
+        {
+          "s": "Figur",
+          "t": "My bright orange citrus peel skin glowed under the dim amber studio lights as I nervously rolled out my mat upside down."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You call that a warrior pose? Your balance looks like a melting snowman on roller skates, absolutely pathetic!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "The entire class turned their heads and laughed loudly while my knees shook so hard they clicked like castanets in an earthquake."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "She's going to fall over any second now, watch out for the disaster!",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "People like you shouldn't even own a yoga mat, let alone step foot in here.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "People like you shouldn't even own a yoga mat.",
+      "quote_by": {
+        "level": 5,
+        "name": "Kira, 29, Pilates Instructor",
+        "badge": "58% Fitness",
+        "character": "A sleek, sharp-scaled Dragonfruit woman with magenta skin and piercing jade green digital numbers.",
+        "scene": "Medium shot inside ZenBox Studio, crossing her arms smugly while looking down at a fallen orange person."
+      },
+      "stats": [
+        {
+          "label": "Flexibility",
+          "value": "12%",
+          "bar": 0.12
+        },
+        {
+          "label": "Balance",
+          "value": "8%",
+          "bar": 0.08
+        },
+        {
+          "label": "Lies Told",
+          "value": "5/day",
+          "bar": 0.5
+        }
+      ],
+      "character": "A vibrant orange citrus person with textured peel skin, wearing matching pastel pink yoga leggings and carrying a faux-crystal water bottle.",
+      "visual": "Wide angle shot of an orange woman struggling with a yoga pose on a hardwood studio floor beneath dim amber lighting, glowing '12% Fitness' on her forehead.",
+      "scenes": [
+        "Exterior studio entrance, medium shot of ZenBox Studio with bamboo planters and wind chimes in the rain.",
+        "Studio reception, close-up of a sparkling water bottle rolling across polished wooden floorboards.",
+        "Yoga floor, wide shot of students holding complex poses while the orange woman tumbles over.",
+        "Mirror reflection, detail shot of trembling citrus hands trying to grip a rubber yoga mat.",
+        "Lobby hallway, medium shot of a magenta dragonfruit woman sneering at passing members.",
+        "Changing room bench, close-up of digital forehead numbers flickering from red to orange."
+      ],
+      "caption": "Have you ever faked flexibility in a yoga class? Tag a friend who wobbles! #yogafail #orangelife #fitnesslies #hotyoga #workoutstruggle"
+    },
+    {
+      "n": 3,
+      "open_loop": "Who left the mysterious five-hundred-dollar receipt inside the juice bar blender?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Refuses to share the squat rack and spills protein powder all over the banana's clean shoes."
+      },
+      "name": "Barry, 28, Smoothie Enthusiast",
+      "badge": "28% Fitness",
+      "verdict": "PROTEIN PANIC",
+      "story": "The 8 levels of gym fitness lies. Level 3. Spike stood there with his massive, unearned ego, radiating an unbearable arrogance that made my blood boil instantly. He looked down at me like I was absolute garbage beneath his expensive lifting shoes. Level 3: 28% fitness level – and I swore my daily smoothie cost more than my entire apartment rent. I leaned against the counter at Juice & Jolt holding a massive shaker bottle filled with questionable gray sludge. My long, curved yellow banana body was wearing a ripped string tank top to desperately show off nonexistent muscles. Is that your homemade protein sludge? It smells like a wet gym sock left in a dumpster for three weeks, you absolute joke! The barista and two regular gym members burst into loud, cruel mocking laughter that echoed off the stainless steel counters. Gorilla extract? More like expired pancake batter mixed with tap water! Keep lying about your pathetic gains and I'll cancel your membership permanently so you can never return. You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+20%",
+        "after": "48% Fitne"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of gym fitness lies. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Spike stood there with his massive, unearned ego, radiating an unbearable arrogance that made my blood boil instantly."
+        },
+        {
+          "s": "Figur",
+          "t": "He looked down at me like I was absolute garbage beneath his expensive lifting shoes."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 28% fitness level – and I swore my daily smoothie cost more than my entire apartment rent."
+        },
+        {
+          "s": "Figur",
+          "t": "I leaned against the counter at Juice & Jolt holding a massive shaker bottle filled with questionable gray sludge."
+        },
+        {
+          "s": "Figur",
+          "t": "My long, curved yellow banana body was wearing a ripped string tank top to desperately show off nonexistent muscles."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Is that your homemade protein sludge? It smells like a wet gym sock left in a dumpster for three weeks, you absolute joke!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "The barista and two regular gym members burst into loud, cruel mocking laughter that echoed off the stainless steel counters."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Gorilla extract? More like expired pancake batter mixed with tap water!",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Keep lying about your pathetic gains and I'll cancel your membership permanently so you can never return.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Keep lying about your gains and I'll cancel your membership permanently.",
+      "quote_by": {
+        "level": 7,
+        "name": "spike, 33, Heavy Lifter",
+        "badge": "74% Fitness",
+        "character": "A spiky, golden-brown Pineapple man with crown leaves and bright amber digital numbers.",
+        "scene": "Close-up inside a juice bar, slamming a brass blender pitcher down with an aggressive expression."
+      },
+      "stats": [
+        {
+          "label": "Protein",
+          "value": "50g",
+          "bar": 0.3
+        },
+        {
+          "label": "Muscle",
+          "value": "28%",
+          "bar": 0.28
+        },
+        {
+          "label": "Hype",
+          "value": "90%",
+          "bar": 0.9
+        }
+      ],
+      "character": "A flexible, elongated banana person with bright yellow peel skin, wearing a tight string tank top and carrying a rattling shaker bottle.",
+      "visual": "Medium shot of a banana person holding a cloudy protein shaker at a stainless steel juice bar, glowing '28% Fitness' on his forehead.",
+      "scenes": [
+        "Exterior juice bar, wide shot of Juice & Jolt under a glowing neon orange sign during a midnight downpour.",
+        "Interior counter, close-up of gray protein sludge swirling inside a transparent plastic shaker bottle.",
+        "Seating area, medium shot of gym members pointing and laughing at the banana person's tank top.",
+        "Blender station, detail shot of heavy brass pitchers stacked next to sticky digital registers.",
+        "Alleyway outside, wide shot of empty supplement tubs piled high near a overflowing dumpster.",
+        "Street corner, close-up of a glowing digital forehead display shifting numbers under a streetlamp."
+      ],
+      "caption": "Who actually drinks those awful gray protein shakes? Let us know your worst flavor! #smoothiefail #bananalife #proteinshake #gymlies #shakerbottle"
+    },
+    {
+      "n": 4,
+      "open_loop": "What was hidden inside the locker belonging to the mysterious strawberry runner?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Intentionally cuts off the strawberry's running lane on the indoor track and mocks her breathing sounds."
+      },
+      "name": "Ruby, 24, Treadmill Sprinter",
+      "badge": "42% Fitness",
+      "verdict": "OUT OF BREATH",
+      "story": "The 8 levels of gym fitness lies. Level 4. Can anyone really survive a 99.9 percent heart rate spike without completely collapsing on live camera? Level 4: 42% fitness level – and I proudly bragged I could easily run a full marathon in under three hours. I pounded the rubber belt of treadmill number twelve at MetroGym, my bright red strawberry skin dripping with absolute sweat. I frantically pushed the speed button up to twelve miles per hour, my little legs spinning like out-of-control ceiling fan blades. You call that pacing? You look like a cheap wind-up toy about to run out of batteries completely! My chest burned like swallowed fire, and my lungs felt like they were collapsing into tiny wet paper bags while everyone stared. She's going to fly right off the back of the belt and crash! Hold your phones up right now! Sprinters like you don't survive past mile two without a stretcher. You'll see that in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+18%",
+        "after": "60% Fitne"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of gym fitness lies. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Can anyone really survive a 99.9 percent heart rate spike without completely collapsing on live camera?"
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 42% fitness level – and I proudly bragged I could easily run a full marathon in under three hours."
+        },
+        {
+          "s": "Figur",
+          "t": "I pounded the rubber belt of treadmill number twelve at MetroGym, my bright red strawberry skin dripping with absolute sweat."
+        },
+        {
+          "s": "Figur",
+          "t": "I frantically pushed the speed button up to twelve miles per hour, my little legs spinning like out-of-control ceiling fan blades."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You call that pacing? You look like a cheap wind-up toy about to run out of batteries completely!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My chest burned like swallowed fire, and my lungs felt like they were collapsing into tiny wet paper bags while everyone stared."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "She's going to fly right off the back of the belt and crash! Hold your phones up right now!",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sprinters like you don't survive past mile two without a stretcher.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Sprinters like you don't survive past mile two.",
+      "quote_by": {
+        "level": 6,
+        "name": "Julian, 29, Marathon Runner",
+        "badge": "65% Fitness",
+        "character": "A tall, crisp Cucumber man with dark green skin and bright emerald digital numbers.",
+        "scene": "Medium shot on a gym cardio deck, pressing stop on a treadmill while sneering at a fallen runner."
+      },
+      "stats": [
+        {
+          "label": "Speed",
+          "value": "12 mph",
+          "bar": 0.45
+        },
+        {
+          "label": "Stamina",
+          "value": "42%",
+          "bar": 0.42
+        },
+        {
+          "label": "Ego",
+          "value": "95%",
+          "bar": 0.95
+        }
+      ],
+      "character": "A bright red strawberry person with textured seed skin, wearing a neon pink running visor and matching compression shorts.",
+      "visual": "Action shot of a strawberry person tumbling off a speeding treadmill inside a high-tech gym, glowing '42% Fitness' on her forehead.",
+      "scenes": [
+        "Gym cardio deck, wide shot of fifty glowing treadmills humming under flashing blue LED strip lights.",
+        "Treadmill console, close-up of a digital speed display flashing twelve miles per hour in red digits.",
+        "Rubber gym floor, medium shot of the strawberry person sprawled out among scattered sports water bottles.",
+        "Locker room entrance, detail shot of a combination lock hanging open on a dented metal locker door.",
+        "Stairwell exit, wide shot of runners ascending concrete steps under harsh fluorescent bulbs.",
+        "Street view outside gym, close-up of rain droplets splashing against floor-to-ceiling glass windows."
+      ],
+      "caption": "Have you ever pushed the treadmill speed too high just to impress someone? Tag your running buddy! #treadmillfail #strawberrylife #runninglies #gymdrama #cardio"
+    },
+    {
+      "n": 5,
+      "open_loop": "Who transferred ten thousand dollars into the suspicious gym locker account?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Drops a heavy medicine ball onto the dragonfruit's foot during a high-intensity group class."
+      },
+      "name": "Kira, 29, Pilates Instructor",
+      "badge": "58% Fitness",
+      "verdict": "MID-TIER FRAUD",
+      "story": "The 8 levels of gym fitness lies. Level 5. That arrogant dragonfruit thought she could treat everyone like trash forever, but I remembered how she humiliated me in Level 2 and I was ready for brutal revenge. Level 5: 58% fitness level – and I pretended I owned three luxury boutique fitness studios downtown to maintain my fake status. I stood at the front of the Pilates reformer studio wearing custom gold-threaded leggings that cost a fortune. My magenta dragonfruit scaled skin caught every glimmer of the overhead studio chandelier while I put on a fake smile. That same nervous Orange woman with the 12% badge whom I bullied earlier marched right into my advanced class and dropped her ring on purpose. You don't even know how to spell reformer, let alone operate one. Get out of my studio right now! Did she really just kick a beginner out of her own class after being exposed? Your studio lease bounced this morning and you are completely evicted! You'll see that in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "-25%",
+        "after": "33% Fitne"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of gym fitness lies. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "That arrogant dragonfruit thought she could treat everyone like trash forever, but I remembered how she humiliated me in Level 2 and I was ready for brutal revenge."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 58% fitness level – and I pretended I owned three luxury boutique fitness studios downtown to maintain my fake status."
+        },
+        {
+          "s": "Figur",
+          "t": "I stood at the front of the Pilates reformer studio wearing custom gold-threaded leggings that cost a fortune."
+        },
+        {
+          "s": "Figur",
+          "t": "My magenta dragonfruit scaled skin caught every glimmer of the overhead studio chandelier while I put on a fake smile."
+        },
+        {
+          "s": "Figur",
+          "t": "That same nervous Orange woman with the 12% badge whom I bullied earlier marched right into my advanced class and dropped her ring on purpose."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You don't even know how to spell reformer, let alone operate one. Get out of my studio right now!",
+          "g": "w"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Did she really just kick a beginner out of her own class after being exposed?",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your studio lease bounced this morning and you are completely evicted!",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Your studio lease bounced this morning.",
+      "quote_by": {
+        "level": 2,
+        "name": "Clementine, 25, Yoga Beginner",
+        "badge": "12% Fitness",
+        "character": "An orange citrus woman with textured peel skin, wearing pastel pink yoga gear.",
+        "scene": "Medium shot near a studio exit doorway, holding a water bottle and smirking back at the instructor."
+      },
+      "stats": [
+        {
+          "label": "Studios",
+          "value": "0 (Fake)",
+          "bar": 0.58
+        },
+        {
+          "label": "Flexibility",
+          "value": "75%",
+          "bar": 0.75
+        },
+        {
+          "label": "Debt",
+          "value": "$12k",
+          "bar": 0.8
+        }
+      ],
+      "character": "A sleek Dragonfruit person with magenta scaled skin and neon green leaf crowns, wearing high-end gold-accented athletic wear.",
+      "visual": "Medium shot of a dragonfruit instructor standing over a Pilates reformer machine under a luxury crystal chandelier, glowing '58% Fitness' on her forehead.",
+      "scenes": [
+        "Boutique studio interior, wide shot of mirrored walls reflecting high-end reformer machines and gold chandeliers.",
+        "Studio floor, close-up of a silver Pilates ring rolling across pristine wood flooring.",
+        "Instructor podium, medium shot of the dragonfruit woman staring at her buzzing smartphone screen.",
+        "Exit doorway, wide shot of an orange person walking out into a rainy city street.",
+        "Reception desk, detail shot of a bounced lease agreement paper resting next to a credit card terminal.",
+        "Street corner outside, close-up of neon city lights reflecting off wet asphalt puddles."
+      ],
+      "caption": "Have you ever exaggerated your job title to sound more important? Let's hear your stories! #pilateslife #dragonfruit #fitnessfraud #gymdrama #bosslife"
+    },
+    {
+      "n": 6,
+      "open_loop": "What secret medical report was printed out on the back of the marathon sign-up sheet?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Trips the cucumber runner on the outdoor park track and steals his energy gel packet."
+      },
+      "name": "Julian, 29, Marathon Runner",
+      "badge": "65% Fitness",
+      "verdict": "JOINT FAILURE",
+      "story": "The 8 levels of gym fitness lies. Level 6. Barry strutted over with an unbearable arrogance, flashing a toxic grin that made every single nerve in my body scream in pure fury. He knew my knee was completely destroyed, and he loved rubbing it in. Level 6: 65% fitness level – and I desperately hid my completely torn knee ligament just to qualify for the city elite heat. I laced up my expensive carbon-plated racing shoes on the concrete bleachers at Central Stadium while wincing in agony. My dark green cucumber skin was heavily taped up with physical therapy straps and thick medical wrap. Nice tape job, old man, looks like your cartilage gave up three years ago and you belong in a nursing home! Is he actually running on a torn ligament? That's completely insane and suicidal! Your doctor just called the race director ten minutes ago to ban you. You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+15%",
+        "after": "80% Fitne"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of gym fitness lies. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Barry strutted over with an unbearable arrogance, flashing a toxic grin that made every single nerve in my body scream in pure fury."
+        },
+        {
+          "s": "Figur",
+          "t": "He knew my knee was completely destroyed, and he loved rubbing it in."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 65% fitness level – and I desperately hid my completely torn knee ligament just to qualify for the city elite heat."
+        },
+        {
+          "s": "Figur",
+          "t": "I laced up my expensive carbon-plated racing shoes on the concrete bleachers at Central Stadium while wincing in agony."
+        },
+        {
+          "s": "Figur",
+          "t": "My dark green cucumber skin was heavily taped up with physical therapy straps and thick medical wrap."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Nice tape job, old man, looks like your cartilage gave up three years ago and you belong in a nursing home!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Is he actually running on a torn ligament? That's completely insane and suicidal!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your doctor just called the race director ten minutes ago to ban you.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "Your doctor called the race director ten minutes ago.",
+      "quote_by": {
+        "level": 3,
+        "name": "Barry, 28, Smoothie Enthusiast",
+        "badge": "28% Fitness",
+        "character": "A curved yellow banana man with peel skin, wearing a ripped string tank top.",
+        "scene": "Medium shot on stadium bleachers, pointing mockingly at an injured cucumber runner's taped knee."
+      },
+      "stats": [
+        {
+          "label": "Endurance",
+          "value": "65%",
+          "bar": 0.65
+        },
+        {
+          "label": "Knee Pain",
+          "value": "99%",
+          "bar": 0.99
+        },
+        {
+          "label": "Pride",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "A tall, crisp Cucumber person with dark green skin and professional running gear, wearing neon compression sleeves on both legs.",
+      "visual": "Medium shot of a cucumber runner sitting on stadium bleachers wrapping his knee in medical tape, glowing '65% Fitness' on his forehead.",
+      "scenes": [
+        "Stadium bleachers, wide shot of Central Stadium track under bright morning sunlight with distant city skyscrapers.",
+        "Bench seating, close-up of white athletic tape wrapping around dark green cucumber skin.",
+        "Running track, medium shot of runners sprinting past empty plastic electrolyte bottles.",
+        "Stadium tunnel, detail shot of an official race disqualification notice pinned to a bulletin board.",
+        "Locker room exit, wide shot of medical staff packing up first aid kits near a folding table.",
+        "Street pavement outside, close-up of running shoe soles worn smooth at the heel."
+      ],
+      "caption": "Have you ever tried to run through an injury just to prove a point? Let us know below! #runninginjuries #cucumberlife #marathonprep #gymlies #runnerproblems"
+    },
+    {
+      "n": 7,
+      "open_loop": "What was written on the gold-embossed envelope left inside the heavy lifting chalk bucket?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Drops a two-pound pink dumbbell directly onto the pineapple's expensive lifting shoes."
+      },
+      "name": "Spike, 33, Heavy Lifter",
+      "badge": "74% Fitness",
+      "verdict": "HEAVY PRETENSE",
+      "story": "The 8 levels of gym fitness lies. Level 7. The 500-pound weight on the bar looked terrifyingly real, but behind the flashing lights and roaring crowd, his bank account was completely wiped out by bankruptcy. Level 7: 74% fitness level – and I proudly claimed I could bench press five hundred pounds using only one arm like a beast. I stood in front of the heavy power rack at IronCore Barbell Club, my golden pineapple crown gleaming under the lights. I loaded four heavy iron plates onto each side of the barbell, grunting loudly for maximum effect while my muscles burned. A tiny, nervous Broccoli kid with a 0% badge walked past my station holding a pink two-pound dumbbell and smirked at me. Touch that weight and your little arms will snap clean off your shoulders like dry twigs, you worthless nobody! Look at him posing with weights he can't even unrack without crying! Your gym membership payment bounced for the third time this month, and you're broke! You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "-30%",
+        "after": "44% Fitne"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of gym fitness lies. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "The 500-pound weight on the bar looked terrifyingly real, but behind the flashing lights and roaring crowd, his bank account was completely wiped out by bankruptcy."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 74% fitness level – and I proudly claimed I could bench press five hundred pounds using only one arm like a beast."
+        },
+        {
+          "s": "Figur",
+          "t": "I stood in front of the heavy power rack at IronCore Barbell Club, my golden pineapple crown gleaming under the lights."
+        },
+        {
+          "s": "Figur",
+          "t": "I loaded four heavy iron plates onto each side of the barbell, grunting loudly for maximum effect while my muscles burned."
+        },
+        {
+          "s": "Figur",
+          "t": "A tiny, nervous Broccoli kid with a 0% badge walked past my station holding a pink two-pound dumbbell and smirked at me."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Touch that weight and your little arms will snap clean off your shoulders like dry twigs, you worthless nobody!",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Look at him posing with weights he can't even unrack without crying!",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your gym membership payment bounced for the third time this month, and you're broke!",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "Your gym membership payment bounced for the third time this month.",
+      "quote_by": {
+        "level": 1,
+        "name": "Sam, 22, Couch Potato",
+        "badge": "0% Fitness",
+        "character": "A young broccoli man with vibrant green florets, wearing an oversized gray hoodie and neon running shoes.",
+        "scene": "Close-up near a power rack, pointing innocently at a massive barbell while holding a tiny pink dumbbell."
+      },
+      "stats": [
+        {
+          "label": "Bench Press",
+          "value": "500 lbs",
+          "bar": 0.74
+        },
+        {
+          "label": "Ego Size",
+          "value": "99%",
+          "bar": 0.99
+        },
+        {
+          "label": "Bank Balance",
+          "value": "$4.12",
+          "bar": 0.05
+        }
+      ],
+      "character": "A golden-brown Pineapple person with spiky crown leaves and textured skin, wearing a tight black stringer tank top and heavy lifting belt.",
+      "visual": "Medium shot of a pineapple lifter straining under a heavily loaded barbell inside a hardcore gym, glowing '74% Fitness' on his forehead.",
+      "scenes": [
+        "IronCore Barbell Club interior, wide shot of heavy iron plates and power racks under industrial warehouse lights.",
+        "Power rack station, close-up of iron barbell plates clanking together under intense pressure.",
+        "Gym floor, medium shot of a tiny pink dumbbell resting next to massive leather lifting boots.",
+        "Reception desk, detail shot of a bounced payment notification resting on a computer monitor.",
+        "Locker room hallway, wide shot of members whispering and glancing toward the weightlifting zone.",
+        "Exit door, close-up of a brass keypad flashing red error lights in the dark."
+      ],
+      "caption": "Have you ever lied about how much weight you can lift at the gym? Tag a gym bro! #gymbro #pineapplelife #liftingfail #heavyweights #gymdrama"
+    },
+    {
+      "n": 8,
+      "open_loop": "What secret master plan was hidden inside the gym owner's locked office safe all along?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Tries to steal the gym keys from the owner's desk while pretending to wipe down equipment."
+      },
+      "name": "Thorpe, 35, Gym Owner",
+      "badge": "99% Fitness",
+      "verdict": "THE ULTIMATE BOSS",
+      "story": "The 8 levels of gym fitness lies. Level 8. Every single lie, every fake badge, and every pathetic scam across this entire city finally ended right here in my office. Level 8: 99% fitness level – and I owned every single lying fitness fraud who ever stepped foot in this town. I sat behind my massive mahogany desk inside the executive office of IronPulse Gym, watching the city burn. My polished brown Coconut shell reflected the glowing neon city skyline outside the rain-slicked window. A disgraced Pineapple lifter with a 74% badge stood trembling in front of my door holding his final eviction notice. You thought you could run my gym without paying your dues, didn't you, Spike? Game over! He owns all eight locations across the entire downtown district and all your assets! The number on your forehead doesn't ever measure your workout; it measures your accumulated debt. And mine is paid in full forever. What theme should we do next? Let us know in the comments!",
+      "gender": "m",
+      "twist": {
+        "delta": "0%",
+        "after": "99% Fitne"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of gym fitness lies. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Every single lie, every fake badge, and every pathetic scam across this entire city finally ended right here in my office."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 99% fitness level – and I owned every single lying fitness fraud who ever stepped foot in this town."
+        },
+        {
+          "s": "Figur",
+          "t": "I sat behind my massive mahogany desk inside the executive office of IronPulse Gym, watching the city burn."
+        },
+        {
+          "s": "Figur",
+          "t": "My polished brown Coconut shell reflected the glowing neon city skyline outside the rain-slicked window."
+        },
+        {
+          "s": "Figur",
+          "t": "A disgraced Pineapple lifter with a 74% badge stood trembling in front of my door holding his final eviction notice."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You thought you could run my gym without paying your dues, didn't you, Spike? Game over!",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "He owns all eight locations across the entire downtown district and all your assets!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "The number on your forehead doesn't ever measure your workout; it measures your accumulated debt. And mine is paid in full forever."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What theme should we do next? Let us know in the comments!"
+        }
+      ],
+      "quote": "The number on your forehead doesn't measure your workout; it measures your debt.",
+      "quote_by": {
+        "level": 7,
+        "name": "spike, 33, Heavy Lifter",
+        "badge": "74% Fitness",
+        "character": "A spiky, golden-brown Pineapple man with crown leaves and bright amber digital numbers.",
+        "scene": "Wide shot inside an executive office, holding a bounced payment notice while staring at the gym owner."
+      },
+      "stats": [
+        {
+          "label": "Empire",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Control",
+          "value": "99%",
+          "bar": 0.99
+        },
+        {
+          "label": "Truth",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "A rugged Coconut person with a polished mahogany brown shell, wearing a tailored charcoal business suit and a gold watch.",
+      "visual": "Wide cinematic shot of a coconut gym owner sitting behind a large mahogany desk in a penthouse office overlooking a neon-lit city, glowing '99% Fitness' on his forehead.",
+      "scenes": [
+        "Executive penthouse office, wide shot of floor-to-ceiling windows overlooking a rain-drenched neon metropolis.",
+        "Mahogany desk, close-up of a gold-embossed ledger resting next to a glowing digital desk clock.",
+        "Office doorway, medium shot of a pineapple lifter holding a bounced payment notice in shaking hands.",
+        "City skyline view, wide angle shot of multiple gym neon signs glowing across different city blocks.",
+        "Safe interior, detail shot of stacked financial contracts and golden coins resting inside a steel vault.",
+        "Final close-up, sharp focus on glowing gold forehead numbers shining brightly in the dark executive room."
+      ],
+      "caption": "What theme should we do next? Drop your ideas in the comments below! #coconutofficial #gymempire #fitnesstruth #finallevel #gymdrama"
+    }
+  ],
+  "lang": "en",
+  "topic": "Das unerträgliche Lügen über das eigene Fitness-Level beim Start im neuen Gym",
+  "frame": "frucht"
+}
