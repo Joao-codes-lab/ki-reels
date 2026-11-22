@@ -1,0 +1,891 @@
+{
+  "title": "Die 8 Level von Abschiedsgeschenken",
+  "house": "A bustling vegetable city with neon signs, damp cobblestone alleys, overflowing flower kiosks, and misty morning train stations.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Barista in Level 2 mentions the quiet pear man who leaves huge tips.",
+    "The broken suitcase from Level 4 is spotted in the background of Level 6.",
+    "A flyer for the postponed Sydney flight flutters through the cafe in Level 7."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was war wirklich in dem schweren Umschlag, den er am Schalter versteckt hat?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Beschlagnahmt den Umschlag mit den Abschiedsgeschenken und behauptet, es sei Zollgebühr."
+      },
+      "name": "Finn, 22, Azubi",
+      "badge": "14,50 €",
+      "verdict": "PLEITE",
+      "story": "Die 8 Level von Abschiedsgeschenken. Level 1. Level 1: 14,50 Euro im Portemonnaie – und das Abschiedsgeschenk fürs Auslandsjahr ist weg. Ich stehe am Berliner Hauptbahnhof, Bahnsteig 4, mein Koffer ist ein alter, abgegriffener Plastiktrolley. Ich habe den ganzen Monat Flaschen gesammelt, um meinen Freunden ein letztes gemeinsames Essen zu spendieren. 14,50 Euro, mehr hast du nicht für deine verlogene Abschiedsparty? Der Umschlag mit den Abschiedsgeschenken meiner Oma lag direkt daneben auf dem Resisto-Tresen. Das nehmen wir erst mal in Verwahrung, Kleiner. Schau dir den an, nicht mal zwanzig Euro auf der Stirn. Ich wollte rufen, dass das Geld für unser letztes Treffen gedacht war, aber meine Stimme versagte. Plötzlich knackte das Bahnhofsradio und kündigte die sofortige Kontosperrung für alle Anwesenden an. Niemand verlässt diesen Bahnsteig, bevor nicht jeder Cent gezählt ist! Ich musste hilflos mit ansehen, wie mein letzter Umschlag in einer fremden Aktentasche verschwand. Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+50,00 €",
+        "after": "64,50 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Abschiedsgeschenken. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 14,50 Euro im Portemonnaie – und das Abschiedsgeschenk fürs Auslandsjahr ist weg."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe am Berliner Hauptbahnhof, Bahnsteig 4, mein Koffer ist ein alter, abgegriffener Plastiktrolley."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe den ganzen Monat Flaschen gesammelt, um meinen Freunden ein letztes gemeinsames Essen zu spendieren."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "14,50 Euro, mehr hast du nicht für deine verlogene Abschiedsparty?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Der Umschlag mit den Abschiedsgeschenken meiner Oma lag direkt daneben auf dem Resisto-Tresen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Das nehmen wir erst mal in Verwahrung, Kleiner.",
+          "g": "w"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Schau dir den an, nicht mal zwanzig Euro auf der Stirn.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich wollte rufen, dass das Geld für unser letztes Treffen gedacht war, aber meine Stimme versagte."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich knackte das Bahnhofsradio und kündigte die sofortige Kontosperrung für alle Anwesenden an."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Niemand verlässt diesen Bahnsteig, bevor nicht jeder Cent gezählt ist!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich musste hilflos mit ansehen, wie mein letzter Umschlag in einer fremden Aktentasche verschwand."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "14,50 Euro, mehr hast du nicht für deine verlogene Abschiedsparty?",
+      "quote_by": {
+        "level": 6,
+        "name": "Mona",
+        "badge": "4.200 €",
+        "character": "An elegant, glossy aubergine woman with a sharp pencil skirt and a glowing digital forehead badge.",
+        "scene": "A wide shot of a crowded train station cafe, she leans over the counter sneering at a small strawberry boy."
+      },
+      "stats": [
+        {
+          "label": "Bargeld",
+          "value": "14,50 €",
+          "bar": 0.05
+        },
+        {
+          "label": "Geschenke",
+          "value": "0",
+          "bar": 0.0
+        },
+        {
+          "label": "Stimmung",
+          "value": "Tief",
+          "bar": 0.1
+        }
+      ],
+      "character": "A young, fresh strawberry man with bright red skin, green leaf hair, a faded denim jacket, and a glowing digital badge on his forehead.",
+      "visual": "Wide shot of a crowded Berlin train station platform at dawn, misty air, glowing digital forehead badge reading 14,50 €, strawberry man holding a plastic trolley.",
+      "scenes": [
+        "Wide shot Berlin central station platform 4 at dawn, misty grey light, train tracks, other vegetable commuters waiting.",
+        "Close-up on a glowing digital forehead display showing 14,50 € on a red strawberry face.",
+        "Medium shot inside a greasy station cafe, a glossy aubergine woman pointing mockingly at a table.",
+        "Detail shot of a worn-out brown envelope labelled Abschied on a sticky Formica table next to a hidden golden coin.",
+        "Over-the-shoulder shot of an old plastic trolley suitcase standing alone by a closed ticket machine.",
+        "Close-up on tearful strawberry eyes reflecting the neon station lights in the drizzling rain."
+      ],
+      "caption": "Wer kennt diesen Moment am Bahnsteig? #Abschiedsgeschenk #StirnZahl #Berlin #Drama #Level1"
+    },
+    {
+      "n": 2,
+      "open_loop": "Warum lag der Umschlag plötzlich im Tresor der Bar, obwohl er beschlagnahmt wurde?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Kassiert das doppelte Startgeld für die Abschiedsfeier ein und verlangt einen Zinsaufschlag."
+      },
+      "name": "Mia, 25, Barista",
+      "badge": "125,00 €",
+      "verdict": "KNAPP",
+      "story": "Die 8 Level von Abschiedsgeschenken. Level 2. Level 2: 125 Euro Trinkgeld in der Dose – und der Chef will mein Abschiedsgeschenk für Australien konfiszieren. Die Espressomaschine in der Neuköllner Bar zischt laut, während ich den Schaum für den Cappuccino gieße. Für die Auslandsparty braucht jeder einen Spendenbeitrag von 200 Euro! Ich schüttelte den Kopf, meine Hände zitterten am Milchkännchen. Ich habe hart für diese 125 Euro gearbeitet, Nachtschichten geschoben, während andere feiern waren. Zahl einfach, Kleines, sonst ist der Job weg. Der Umschlag vom Jungen lag versteckt unter der Kaffeemühle. Wenn du das Geld nicht zahlst, fliegt dein Koffer raus! Plötzlich flog die Hintertür auf und ein Bote warf einen zerrissenen Abschiedsbrief auf meinen Tresen. Dein Erspartes ist längst weg, sieh es endlich ein! Die Kaffeekasse begann zu rauchen, und mir wurde klar, dass ich mitten in einem Komplott steckte. Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+300,00 €",
+        "after": "425,00 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Abschiedsgeschenken. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 125 Euro Trinkgeld in der Dose – und der Chef will mein Abschiedsgeschenk für Australien konfiszieren."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Espressomaschine in der Neuköllner Bar zischt laut, während ich den Schaum für den Cappuccino gieße."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Für die Auslandsparty braucht jeder einen Spendenbeitrag von 200 Euro!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schüttelte den Kopf, meine Hände zitterten am Milchkännchen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe hart für diese 125 Euro gearbeitet, Nachtschichten geschoben, während andere feiern waren."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Zahl einfach, Kleines, sonst ist der Job weg.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Der Umschlag vom Jungen lag versteckt unter der Kaffeemühle."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wenn du das Geld nicht zahlst, fliegt dein Koffer raus!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich flog die Hintertür auf und ein Bote warf einen zerrissenen Abschiedsbrief auf meinen Tresen."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Dein Erspartes ist längst weg, sieh es endlich ein!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Kaffeekasse begann zu rauchen, und mir wurde klar, dass ich mitten in einem Komplott steckte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Für die Auslandsparty braucht jeder einen Spendenbeitrag von 200 Euro!",
+      "quote_by": {
+        "level": 5,
+        "name": "Bruno",
+        "badge": "2.150 €",
+        "character": "A sturdy, grumpy pear man with a greasy waistcoat, thick glasses, and an authoritarian posture.",
+        "scene": "Close-up in a dimly lit cafe, slamming his fist on a wooden counter while pointing at a terrified lemon woman."
+      },
+      "stats": [
+        {
+          "label": "Trinkgeld",
+          "value": "125,00 €",
+          "bar": 0.2
+        },
+        {
+          "label": "Miete",
+          "value": "450 €",
+          "bar": 0.3
+        },
+        {
+          "label": "Spende",
+          "value": "0 €",
+          "bar": 0.0
+        }
+      ],
+      "character": "A bright yellow lemon woman with textured skin, wearing a stained white apron, a silver earring, and a digital forehead badge.",
+      "visual": "Medium shot of a rustic Berlin coffee shop interior, steam rising from an espresso machine, lemon woman holding a milk jug.",
+      "scenes": [
+        "Medium shot rustic Berlin coffee shop interior, steam rising from a brass espresso machine, lemon barista working.",
+        "Close-up on lemon skin texture and a bright digital forehead display showing 125,00 €.",
+        "Wide shot of a grumpy pear manager leaning over a sticky wooden counter, pointing angrily.",
+        "Detail shot of a small tip jar with coins and a hidden golden coin beneath the glass base.",
+        "Over-the-shoulder shot looking at a dusty brown envelope tucked under a heavy coffee grinder.",
+        "Close-up on determined yellow eyes staring down a threatening figure in the smoky cafe."
+      ],
+      "caption": "Wer kennt diese unfairen Extra-Gebühren im Job? #BaristaLife #StirnZahl #BerlinCafé #Level2 #Gerechtigkeit"
+    },
+    {
+      "n": 3,
+      "open_loop": "Wer hat den geheimen Überweisungsbeleg in der Tasche des Brokers hinterlassen?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Bucht die Abschiedsgeschenke heimlich auf sein Privatkonto um und lacht über die Mahnung."
+      },
+      "name": "Leon, 29, Broker",
+      "badge": "3.450 €",
+      "verdict": "MITTEL",
+      "story": "Die 8 Level von Abschiedsgeschenken. Level 3. Level 3: 3.450 Euro im Monat – und trotzdem klaue ich den Abschieds-Umschlag von der Barista. Mein Designeranzug sitzt perfekt im gläsernen Büro am Potsdamer Platz, draußen zieht der Berliner Verkehr vorbei. Ich verdiene gut, aber meine Schulden fressen mich auf. Du kleiner Angeber mit deinem Anzug glaubst wohl, dir gehört die Welt! Ich habe den Umschlag einfach eingesteckt, während sie weggeschaut hat. Dein Kontostand ist ein Witz im Vergleich zu echten Investments. Die Abschiedsgeschenke meiner Kollegen finanzieren nun meinen nächsten Flug. Niemand kontrolliert mich. Ich dachte, ich wäre sicher. Doch beim Öffnen des Kuverts fand ich keine Banknoten, sondern eine Fotografie meines eigenen Schweizer Kontos. Dein Spiel ist aufgeflogen, Herr Broker. Jemand beobachtet jede deiner Bewegungen. Ein kalter Schauer lief mir über den Rücken, als die Bildschirme im Büro plötzlich schwarz wurden. Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-1.500 €",
+        "after": "1.950 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Abschiedsgeschenken. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 3.450 Euro im Monat – und trotzdem klaue ich den Abschieds-Umschlag von der Barista."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Designeranzug sitzt perfekt im gläsernen Büro am Potsdamer Platz, draußen zieht der Berliner Verkehr vorbei."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich verdiene gut, aber meine Schulden fressen mich auf."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du kleiner Angeber mit deinem Anzug glaubst wohl, dir gehört die Welt!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe den Umschlag einfach eingesteckt, während sie weggeschaut hat."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein Kontostand ist ein Witz im Vergleich zu echten Investments.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Abschiedsgeschenke meiner Kollegen finanzieren nun meinen nächsten Flug."
+        },
+        {
+          "s": "Figur",
+          "t": "Niemand kontrolliert mich. Ich dachte, ich wäre sicher."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch beim Öffnen des Kuverts fand ich keine Banknoten, sondern eine Fotografie meines eigenen Schweizer Kontos."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Dein Spiel ist aufgeflogen, Herr Broker. Jemand beobachtet jede deiner Bewegungen.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ein kalter Schauer lief mir über den Rücken, als die Bildschirme im Büro plötzlich schwarz wurden."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Dein Kontostand ist ein Witz im Vergleich zu echten Investments.",
+      "quote_by": {
+        "level": 7,
+        "name": "Viktor",
+        "badge": "14.800 €",
+        "character": "An smooth, ice-cold coconut man in a bespoke charcoal suit with silver cufflinks and a glowing high-tier digital badge.",
+        "scene": "Wide shot of a luxury glass-front office, leaning against a panoramic window overlooking the city, smirking down."
+      },
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "3.450 €",
+          "bar": 0.45
+        },
+        {
+          "label": "Schulden",
+          "value": "-2.100 €",
+          "bar": 0.6
+        },
+        {
+          "label": "Moral",
+          "value": "Tief",
+          "bar": 0.1
+        }
+      ],
+      "character": "An elegant, smooth avocado man with light green skin, a sharp tailored navy suit, a silk tie, and a glowing digital forehead badge.",
+      "visual": "Wide shot of a sleek modern high-rise office in Berlin at midday, polished concrete floor, panoramic glass windows.",
+      "scenes": [
+        "Wide shot sleek modern high-rise office in Berlin at midday, polished concrete floor, panoramic glass windows.",
+        "Close-up on avocado skin texture and a bright digital forehead display showing 3.450 €.",
+        "Medium shot of a stressed broker sitting at a minimalist glass desk, clutching a brown envelope.",
+        "Detail shot of a golden coin resting inside an open leather briefcase next to stock papers.",
+        "Over-the-shoulder shot looking out at the Berlin TV tower through rain-streaked window glass.",
+        "Close-up on avocado eyes widening in sudden shock as a shadow falls across the desk."
+      ],
+      "caption": "Der Schein trügt oft hinter der Fassade. #BrokerLife #StirnZahl #BerlinBusiness #Level3 #Geldsorgen"
+    },
+    {
+      "n": 4,
+      "open_loop": "Was befand sich in dem mysteriösen Koffer, den die Kokosnuss am Flughafen beschlagnahmt hat?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Wirft alte Flaschen nach dem Koffer und beschimpft den Besitzer als Dieb."
+      },
+      "name": "Sara, 31, Projektmanagerin",
+      "badge": "5.100 €",
+      "verdict": "REICH",
+      "story": "Die 8 Level von Abschiedsgeschenken. Level 4. Level 4: 5.100 Euro Netto – und mein gesamtes Abschiedsbudget für das Auslandsjahr ist spurlos verschwunden. Mein Koffer steht im Terminal 1 des Flughafens BER, um mich herum hetzen Geschäftsreisende. Ich habe jahrelang für diese Chance gespart, nach Singapur zu gehen. 5.100 Euro auf der Stirn und du kannst dir nicht mal ein Ticket leisten? Ich biss die Zähne zusammen in meiner harten Drachenfrucht-Schale. Wer mit so viel Geld reist, braucht keine Geschenke von armen Schluckern. Meine pinke Haut glühte vor Wut im Neonlicht des Flughafens. Es waren nicht nur die Euros, es waren die persönlichen Briefe meiner Familie. Der junge Erdbeer-Typ stürmte auf mich zu und warf eine alte Glasflasche gegen das Abfertigungsgate. Dein Flug ist storniert! Dein ganzes Geld wurde von ganz oben eingefroren! Ich starrte fassungslos auf die Anzeigetafel, wo mein Gate-Status plötzlich auf 'Gestrichen' sprang. Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "-1.200 €",
+        "after": "3.900 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Abschiedsgeschenken. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 5.100 Euro Netto – und mein gesamtes Abschiedsbudget für das Auslandsjahr ist spurlos verschwunden."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Koffer steht im Terminal 1 des Flughafens BER, um mich herum hetzen Geschäftsreisende."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe jahrelang für diese Chance gespart, nach Singapur zu gehen."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "5.100 Euro auf der Stirn und du kannst dir nicht mal ein Ticket leisten?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich biss die Zähne zusammen in meiner harten Drachenfrucht-Schale."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer mit so viel Geld reist, braucht keine Geschenke von armen Schluckern.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine pinke Haut glühte vor Wut im Neonlicht des Flughafens."
+        },
+        {
+          "s": "Figur",
+          "t": "Es waren nicht nur die Euros, es waren die persönlichen Briefe meiner Familie."
+        },
+        {
+          "s": "Figur",
+          "t": "Der junge Erdbeer-Typ stürmte auf mich zu und warf eine alte Glasflasche gegen das Abfertigungsgate."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein Flug ist storniert! Dein ganzes Geld wurde von ganz oben eingefroren!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich starrte fassungslos auf die Anzeigetafel, wo mein Gate-Status plötzlich auf 'Gestrichen' sprang."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Wer mit so viel Geld reist, braucht keine Geschenke von armen Schluckern.",
+      "quote_by": {
+        "level": 1,
+        "name": "Finn",
+        "badge": "14,50 €",
+        "character": "A young, fresh strawberry man with bright red skin, green leaf hair, a faded denim jacket, and a digital forehead badge.",
+        "scene": "Medium shot at a crowded airport terminal gate, pointing angrily at an expensive pink dragonfruit woman's suitcase."
+      },
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "5.100 €",
+          "bar": 0.65
+        },
+        {
+          "label": "Erspartes",
+          "value": "12.400 €",
+          "bar": 0.7
+        },
+        {
+          "label": "Status",
+          "value": "Hoch",
+          "bar": 0.8
+        }
+      ],
+      "character": "A vibrant dragonfruit woman with bright pink skin, green leaf-like spikes, a chic business blazer, and a glowing digital forehead badge.",
+      "visual": "Wide shot of BER airport terminal 1 departures board at noon, bright overhead lights reflecting on polished stone floors.",
+      "scenes": [
+        "Wide shot BER airport terminal 1 departures board at noon, bright overhead lights reflecting on polished stone floors.",
+        "Close-up on textured pink dragonfruit skin and a bright digital forehead display showing 5.100 €.",
+        "Medium shot of a project manager standing beside a sleek silver suitcase near gate B12.",
+        "Detail shot of a golden coin hidden underneath a rolling luggage wheels track.",
+        "Over-the-shoulder shot looking at a boarding pass and a missing envelope pocket.",
+        "Close-up on determined pink dragonfruit eyes staring straight ahead at a gate agent."
+      ],
+      "caption": "Der Traum vom Auslandshaus mit Hürden. #AirportLife #StirnZahl #Auslandsjahr #Level4 #Karriere"
+    },
+    {
+      "n": 5,
+      "open_loop": "Wem gehörte der mysteriöse Safe-Schlüssel, den der Portier im Hotel versteckt hatte?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Verlangt überhöhte Maklergebühren für die Abwicklung der Abschiedsspenden."
+      },
+      "name": "Tom, 38, Immobilienmakler",
+      "badge": "8.900 €",
+      "verdict": "SEHR REICH",
+      "story": "Die 8 Level von Abschiedsgeschenken. Level 5. Level 5: 8.900 Euro im Monat – und ich kontrolliere jede Abschiedszahlung in diesem Bezirk. Meine Villa in Grunewald hat einen Pool, mein Anzug ist maßgeschneidert. Doch Macht bringt Feinde. Du nennst dich Makler, aber du klaust die Abschiedsgeschenke der Auswanderer! Sie hatte recht. Ich habe die Umschläge aller scheidenden Mitarbeiter umgeleitet. Du glaubst, dein Geld schützt dich vor dem Ruin? Mit 8.900 Euro auf der Stirn denkt jeder, ich sei unantastbar. Die Abschiedsgeschenke waren nie für das Auslandsjahr bestimmt gewesen. Sie dienten als Anzahlung für einen gigantischen Immobilienschwindel, den ich im Verborgenen lenkte. Chef, die Konten im Bezirk wurden soeben zwangsweise geschlossen! Mein triumphierendes Lachen erstarb, als ich auf dem Display sah, wie meine Ersparnisse auf null schmolzen. Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "-3.000 €",
+        "after": "5.900 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Abschiedsgeschenken. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 8.900 Euro im Monat – und ich kontrolliere jede Abschiedszahlung in diesem Bezirk."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Villa in Grunewald hat einen Pool, mein Anzug ist maßgeschneidert."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch Macht bringt Feinde."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du nennst dich Makler, aber du klaust die Abschiedsgeschenke der Auswanderer!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie hatte recht. Ich habe die Umschläge aller scheidenden Mitarbeiter umgeleitet."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du glaubst, dein Geld schützt dich vor dem Ruin?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mit 8.900 Euro auf der Stirn denkt jeder, ich sei unantastbar."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Abschiedsgeschenke waren nie für das Auslandsjahr bestimmt gewesen."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie dienten als Anzahlung für einen gigantischen Immobilienschwindel, den ich im Verborgenen lenkte."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Chef, die Konten im Bezirk wurden soeben zwangsweise geschlossen!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein triumphierendes Lachen erstarb, als ich auf dem Display sah, wie meine Ersparnisse auf null schmolzen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Du glaubst, dein Geld schützt dich vor dem Ruin?",
+      "quote_by": {
+        "level": 3,
+        "name": "Leon",
+        "badge": "3.450 €",
+        "character": "An elegant, smooth avocado man with light green skin, a sharp tailored navy suit, a silk tie, and a glowing digital forehead badge.",
+        "scene": "Medium shot in a luxurious mahogany office, crossing arms and smirking across a marble conference table."
+      },
+      "stats": [
+        {
+          "label": "Einkommen",
+          "value": "8.900 €",
+          "bar": 0.8
+        },
+        {
+          "label": "Provision",
+          "value": "3.200 €",
+          "bar": 0.75
+        },
+        {
+          "label": "Risiko",
+          "value": "Hoch",
+          "bar": 0.85
+        }
+      ],
+      "character": "A sturdy, rugged butternut squash man with smooth beige skin, an expensive Italian leather jacket, gold watch, and a glowing digital forehead badge.",
+      "visual": "Wide shot of a luxury penthouse office in Berlin Grunewald, floor-to-ceiling windows showing green treetops and modern architecture.",
+      "scenes": [
+        "Wide shot luxury penthouse office in Berlin Grunewald, floor-to-ceiling windows showing green treetops.",
+        "Close-up on beige butternut squash skin texture and a bright digital forehead display showing 8.900 €.",
+        "Medium shot of a real estate broker standing by a marble desk looking at financial charts.",
+        "Detail shot of a golden coin resting inside a crystal ashtray on a mahogany sideboard.",
+        "Over-the-shoulder shot looking down at a stack of stolen brown envelopes labeled Abschied.",
+        "Close-up on serious squash eyes reflecting the glowing numbers of an incoming call."
+      ],
+      "caption": "Reichtum bringt oft die falschen Freunde. #RealEstate #StirnZahl #BerlinLuxury #Level5 #BusinessDrama"
+    },
+    {
+      "n": 6,
+      "open_loop": "Was stand in dem handgeschriebenen Fax, das direkt aus der Konzernzentrale kam?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Beschlagnahmt den gesamten Umschlaginhalt als Entschädigung für den Flugausfall."
+      },
+      "name": "Mona, 42, Vorstandschefin",
+      "badge": "16.400 €",
+      "verdict": "ELITE",
+      "story": "Die 8 Level von Abschiedsgeschenken. Level 6. Level 6: 16.400 Euro monatlich – und ich entscheide, wer sein Abschiedsgeschenk behalten darf. Mein Eckbüro im Bankenviertel blickt auf die Museumsinsel, polierter Granit unter meinen Louboutins. Doch Geld kauft kein Gewissen. Du glaubst, du stehst über dem Gesetz mit deinen Millionen! Er wusste von den umgeleiteten Spenden für das geplante Auslandsjahr. Ich hatte die Abschiedsgeschenke aller Angestellten zentralisiert. Frau Direktor, die Revision steht vor der Tür. Niemand hinterfragt meine Entscheidungen. Plötzlich stürmte ein Prüfer herein und warf ein Dokument auf meinen Tisch. Ihr gesamtes Imperium basiert auf den unterschlagenen Abschiedsumschlägen der Azubis! Der Feueralarm begann schrill zu heulen, während draußen Polizeisirenen das Bankenviertel einrahmten. Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "-5.000 €",
+        "after": "11.400 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Abschiedsgeschenken. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 16.400 Euro monatlich – und ich entscheide, wer sein Abschiedsgeschenk behalten darf."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Eckbüro im Bankenviertel blickt auf die Museumsinsel, polierter Granit unter meinen Louboutins."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch Geld kauft kein Gewissen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du glaubst, du stehst über dem Gesetz mit deinen Millionen!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Er wusste von den umgeleiteten Spenden für das geplante Auslandsjahr."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich hatte die Abschiedsgeschenke aller Angestellten zentralisiert."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Frau Direktor, die Revision steht vor der Tür.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Niemand hinterfragt meine Entscheidungen."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich stürmte ein Prüfer herein und warf ein Dokument auf meinen Tisch."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Ihr gesamtes Imperium basiert auf den unterschlagenen Abschiedsumschlägen der Azubis!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Der Feueralarm begann schrill zu heulen, während draußen Polizeisirenen das Bankenviertel einrahmten."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Du glaubst, du stehst über dem Gesetz mit deinen Millionen!",
+      "quote_by": {
+        "level": 4,
+        "name": "Sara",
+        "badge": "5.100 €",
+        "character": "A vibrant dragonfruit woman with bright pink skin, green leaf-like spikes, a chic business blazer, and a glowing digital forehead badge.",
+        "scene": "Medium shot in a high-rise executive suite, pointing an accusing finger across a glass desk at an aubergine CEO."
+      },
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "16.400 €",
+          "bar": 0.9
+        },
+        {
+          "label": "Aktien",
+          "value": "85.000 €",
+          "bar": 0.85
+        },
+        {
+          "label": "Macht",
+          "value": "Sehr hoch",
+          "bar": 0.95
+        }
+      ],
+      "character": "An elegant, glossy aubergine woman with deep purple skin, a sharp tailored white blouse, pearl earrings, and a glowing digital forehead badge.",
+      "visual": "Wide shot of a luxury corner office overlooking Berlin Alexanderplatz at dusk, dramatic lighting, modern art pieces on walls.",
+      "scenes": [
+        "Wide shot luxury corner office overlooking Berlin Alexanderplatz at dusk, dramatic lighting.",
+        "Close-up on glossy purple aubergine skin and a bright digital forehead display showing 16.400 €.",
+        "Medium shot of a female CEO standing proudly by a massive floor-to-ceiling glass window.",
+        "Detail shot of a golden coin half-hidden beneath a stack of high-level financial audit reports.",
+        "Over-the-shoulder shot looking at a sleek mahogany desk with multiple glowing monitors.",
+        "Close-up on calm purple eyes narrowing as emergency lights begin flashing in the office ceiling."
+      ],
+      "caption": "Macht hat ihren Preis in der Chefetage. #CEO #StirnZahl #BerlinFinance #Level6 #PowerPlay"
+    },
+    {
+      "n": 7,
+      "open_loop": "Wer hat die finale Überweisung auf das Konto des Auswanderers freigegeben?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Weigert sich, die Kaffeekasse als Beweismittel herauszugeben und deckt die Hintermänner."
+      },
+      "name": "Viktor, 49, Investor",
+      "badge": "28.500 €",
+      "verdict": "MILLIONÄR",
+      "story": "Die 8 Level von Abschiedsgeschenken. Level 7. Level 7: 28.500 Euro passives Einkommen pro Monat – und ich besitze die Fäden des gesamten Abschiedsnetzwerks. Mein Penthouse über den Dächern von Berlin bietet Blick auf die Spree, teure Zigarrenqualm liegt in der Luft. Du kannst diesen Skandal nicht einfach verschweigen! Natürlich kann ich das. Ich habe den Fonds gegründet, der alle Abschiedsspenden einsammelt. Mit 28.500 Euro auf der Stirn bin ich unangreifbar für das Gesetz. Chef, die Behörden haben das Hauptkonto eingefroren. Aber die kleine Zitrone aus dem Café hat gedroht, zur Polizei zu gehen. Niemand legt sich mit meinem Imperium an. In diesem Augenblick flackerten sämtliche Monitore im Penthouse auf und zeigten ein geheimnisvolles Symbol. Sir, alle unsere Server wurden soeben von einer unbekannten Entität übernommen! Eine kalte Hand schien nach meinem Hals zu greifen, als die Stirnzahlen aller Anwesenden verrücktspielten. Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "-10.000 €",
+        "after": "18.500 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Abschiedsgeschenken. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 28.500 Euro passives Einkommen pro Monat – und ich besitze die Fäden des gesamten Abschiedsnetzwerks."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Penthouse über den Dächern von Berlin bietet Blick auf die Spree, teure Zigarrenqualm liegt in der Luft."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du kannst diesen Skandal nicht einfach verschweigen!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Natürlich kann ich das. Ich habe den Fonds gegründet, der alle Abschiedsspenden einsammelt."
+        },
+        {
+          "s": "Figur",
+          "t": "Mit 28.500 Euro auf der Stirn bin ich unangreifbar für das Gesetz."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Chef, die Behörden haben das Hauptkonto eingefroren.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Aber die kleine Zitrone aus dem Café hat gedroht, zur Polizei zu gehen."
+        },
+        {
+          "s": "Figur",
+          "t": "Niemand legt sich mit meinem Imperium an."
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Augenblick flackerten sämtliche Monitore im Penthouse auf und zeigten ein geheimnisvolles Symbol."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Sir, alle unsere Server wurden soeben von einer unbekannten Entität übernommen!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Eine kalte Hand schien nach meinem Hals zu greifen, als die Stirnzahlen aller Anwesenden verrücktspielten."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Du kannst diesen Skandal nicht einfach verschweigen!",
+      "quote_by": {
+        "level": 2,
+        "name": "Mia",
+        "badge": "125,00 €",
+        "character": "A bright yellow lemon woman with textured skin, wearing a stained white apron, a silver earring, and a digital forehead badge.",
+        "scene": "Wide shot of a luxury penthouse terrace, pointing a shaking finger at an icy coconut billionaire."
+      },
+      "stats": [
+        {
+          "label": "Passiv",
+          "value": "28.500 €",
+          "bar": 0.95
+        },
+        {
+          "label": "Fonds",
+          "value": "1.2 Mio",
+          "bar": 0.98
+        },
+        {
+          "label": "Macht",
+          "value": "Maximal",
+          "bar": 1.0
+        }
+      ],
+      "character": "An ice-cold, hard-shelled coconut man with textured brown husk, wearing a bespoke charcoal cashmere coat, gold-rimmed glasses, and a glowing digital forehead badge.",
+      "visual": "Wide shot of a luxurious glass penthouse terrace in Berlin Mitte at sunset, city skyline and river visible below.",
+      "scenes": [
+        "Wide shot luxurious glass penthouse terrace in Berlin Mitte at sunset, city skyline visible.",
+        "Close-up on brown coconut husk texture and a bright digital forehead display showing 28.500 €.",
+        "Medium shot of a wealthy investor standing by a glass railing, smoking a fine cigar.",
+        "Detail shot of a golden coin resting on top of a stack of Swiss bank documents.",
+        "Over-the-shoulder shot looking down at glowing tablet screens displaying frozen accounts.",
+        "Close-up on sharp coconut eyes narrowing in sudden disbelief as alarms ring."
+      ],
+      "caption": "Wer zieht am Ende wirklich die Fäden? #Investor #StirnZahl #BerlinPenthouse #Level7 #Endspiel"
+    },
+    {
+      "n": 8,
+      "open_loop": "",
+      "gegenspieler": {
+        "level": 0,
+        "tat": "Kein Gegenspieler mehr – das gesamte Netzwerk bricht zusammen und die Wahrheit kommt ans Licht."
+      },
+      "name": "Dr. Oelo, 55, Der Stifter",
+      "badge": "???",
+      "verdict": "SYSTEM",
+      "story": "Die 8 Level von Abschiedsgeschenken. Level 8. Level 8: Unendlich – und ich habe das gesamte Abschiedsspiel von Anfang an gesteuert. Keine Stirnzahl der Welt zeigt den wahren Wert eines Menschen, aber alle haben sie geglaubt. Der kleine Erdbeer-Junge aus Level 1, die Barista aus Level 2, der Broker, die Maklerin, die Vorstandschefin und der Investor – sie alle fielen auf die Illusion herein. Die gestohlenen Abschiedsgeschenke für das geplante Auslandsjahr waren kein Raub, sondern ein Test. Jeder Einzelne von ihnen wurde auf die Probe gestellt, ob er gierig wird. Heute schließt sich der Kreis. Das Geld auf den Displays ist verblasst, die Konten sind zurückgesetzt. Die Wahrheit liegt in den Händen derer, die trotz null Euro auf der Stirn zusammengehalten haben. Eine goldene Welle spülte durch die heilige Halle und tilgte mit einem Schlag sämtliche digitalen Schulden. Das Spiel ist vorbei. Die Masken fallen jetzt für immer! Wir begriffen erst jetzt, dass wahrer Reichtum niemals in Zahlen auf der Stirn gemessen werden kann. Was denkst du: Welches Thema sollten wir als Nächstes in 8 Leveln aufdecken?",
+      "gender": "m",
+      "twist": {
+        "delta": "RESET",
+        "after": "0,00 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Abschiedsgeschenken. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: Unendlich – und ich habe das gesamte Abschiedsspiel von Anfang an gesteuert."
+        },
+        {
+          "s": "Figur",
+          "t": "Keine Stirnzahl der Welt zeigt den wahren Wert eines Menschen, aber alle haben sie geglaubt."
+        },
+        {
+          "s": "Figur",
+          "t": "Der kleine Erdbeer-Junge aus Level 1, die Barista aus Level 2, der Broker, die Maklerin, die Vorstandschefin und der Investor – sie alle fielen auf die Illusion herein."
+        },
+        {
+          "s": "Figur",
+          "t": "Die gestohlenen Abschiedsgeschenke für das geplante Auslandsjahr waren kein Raub, sondern ein Test."
+        },
+        {
+          "s": "Figur",
+          "t": "Jeder Einzelne von ihnen wurde auf die Probe gestellt, ob er gierig wird."
+        },
+        {
+          "s": "Figur",
+          "t": "Heute schließt sich der Kreis. Das Geld auf den Displays ist verblasst, die Konten sind zurückgesetzt."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Wahrheit liegt in den Händen derer, die trotz null Euro auf der Stirn zusammengehalten haben."
+        },
+        {
+          "s": "Figur",
+          "t": "Eine goldene Welle spülte durch die heilige Halle und tilgte mit einem Schlag sämtliche digitalen Schulden."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Das Spiel ist vorbei. Die Masken fallen jetzt für immer!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Wir begriffen erst jetzt, dass wahrer Reichtum niemals in Zahlen auf der Stirn gemessen werden kann."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was denkst du: Welches Thema sollten wir als Nächstes in 8 Leveln aufdecken?"
+        }
+      ],
+      "quote": "Keine Stirnzahl der Welt zeigt den wahren Wert eines Menschen, aber alle haben sie geglaubt.",
+      "quote_by": {
+        "level": 8,
+        "name": "Dr. Oelo",
+        "badge": "???",
+        "character": "An ancient, wise olive tree man with gnarled bark skin, deep green leaves, silver robes, and a glowing infinity symbol on his forehead.",
+        "scene": "Wide shot of a grand central hall in Berlin, standing atop marble stairs overlooking all previous characters holding their reset badges."
+      },
+      "stats": [
+        {
+          "label": "System",
+          "value": "ALLE",
+          "bar": 1.0
+        },
+        {
+          "label": "Wahrheit",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Level",
+          "value": "Ende",
+          "bar": 1.0
+        }
+      ],
+      "character": "An ancient, wise olive tree man with gnarled bark skin, deep green leaves, silver robes, and a glowing infinity symbol on his forehead.",
+      "visual": "Wide shot of a grand central hall in Berlin with marble pillars, dramatic sunlight streaming through glass domes, all characters gathered together.",
+      "scenes": [
+        "Wide shot of a grand central hall in Berlin with marble pillars, dramatic sunlight streaming through glass domes.",
+        "Close-up on gnarled olive bark skin and a glowing digital infinity symbol on the forehead.",
+        "Medium shot of the wise elder standing atop marble stairs overlooking all previous characters.",
+        "Detail shot of a golden coin resting perfectly balanced in the center of the hall floor.",
+        "Over-the-shoulder shot looking down at all 8 characters watching their digital badges reset to zero.",
+        "Close-up on peaceful olive eyes looking directly into the camera as the final question is asked."
+      ],
+      "caption": "Das Ende des Experiments. Welches Thema kommt als Nächstes? #StirnZahl #Finale #Berlin #Level8 #GeldLügtNie"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das skrupellose Abkassieren von Abschiedsgeschenken vor dem geplatzten Auslandsjahr",
+  "frame": "frucht"
+}

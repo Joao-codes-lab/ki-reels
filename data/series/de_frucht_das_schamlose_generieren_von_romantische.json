@@ -1,0 +1,743 @@
+{
+  "title": "Die 8 Level von KI-Entschuldigungen",
+  "house": "A bustling vegetable city with neon signs, damp cobblestone streets, a central subway station, and towering glass skyscrapers where fruit people commute daily.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Barista Zitrone erwähnt den gestressten Brokkoli im Anzug.",
+    "Der Kioskbesitzer Kokosnuss redet über den billigen KI-Bot.",
+    "Die Drachenfrucht sucht verzweifelt nach ihrem verlorenen Handy im Bus."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was genau hat der unsichtbare KI-Bot in die Nachricht geschrieben, die alles zerstört hat?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Lacht sie wegen ihrer mangelhaften KI-Generierungsrate aus und wirft ihr den Kaffee weg.",
+        "g": "m"
+      },
+      "name": "Tomate Tom, 22, Azubi",
+      "badge": "12 % KI",
+      "verdict": "UNEMOTIONAL",
+      "story": "Die 8 Level von KI-Entschuldigungen. Level 1. 12 Prozent KI-Entschuldigungsrate? Du bist so pleite und erbärmlich, dass deine eigene Freundin dich auf der Straße auslacht und alle deine Kumpels nur noch mit dem Kopf schütteln. Ich wollte meiner Freundin Mia, einer empfindlichen Blaubeere, nach dem Fremdgehen einfach schnell eine saubere Textnachricht schreiben lassen, um mir das unangenehme Weinen zu ersparen. Zehn Euro im Monat für die Premium-App ausgegeben und den perfekten Schmerz-Algorithmus aktiviert, während draußen die Welt in Trümmern lag und der Regen unbarmherzig auf das Pflaster prasselte. Doch plötzlich ertönte ein schriller Alarmton aus meiner Manteltasche, der mir sofort den Angstschweiß auf die Stirn trieb. Dein Text ist von der Stange, du fühlst gar nichts, du kleiner Versager. Mia hat den Bot sofort enttarnt, weil das Wort Tiefkühlpizza vorkam und jede echte Emotion fehlte, woraufhin sie mich sofort blockierte. Doch das Schlimmste war, dass mein Bankkonto gleichzeitig komplett gesperrt wurde und ich nun nicht mal mehr das U-Bahn-Ticket nach Hause bezahlen kann. Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-10 €",
+        "after": "2 % KI"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von KI-Entschuldigungen. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "12 Prozent KI-Entschuldigungsrate? Du bist so pleite und erbärmlich, dass deine eigene Freundin dich auf der Straße auslacht und alle deine Kumpels nur noch mit dem Kopf schütteln."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich wollte meiner Freundin Mia, einer empfindlichen Blaubeere, nach dem Fremdgehen einfach schnell eine saubere Textnachricht schreiben lassen, um mir das unangenehme Weinen zu ersparen."
+        },
+        {
+          "s": "Figur",
+          "t": "Zehn Euro im Monat für die Premium-App ausgegeben und den perfekten Schmerz-Algorithmus aktiviert, während draußen die Welt in Trümmern lag und der Regen unbarmherzig auf das Pflaster prasselte."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch plötzlich ertönte ein schriller Alarmton aus meiner Manteltasche, der mir sofort den Angstschweiß auf die Stirn trieb."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein Text ist von der Stange, du fühlst gar nichts, du kleiner Versager.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mia hat den Bot sofort enttarnt, weil das Wort Tiefkühlpizza vorkam und jede echte Emotion fehlte, woraufhin sie mich sofort blockierte."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch das Schlimmste war, dass mein Bankkonto gleichzeitig komplett gesperrt wurde und ich nun nicht mal mehr das U-Bahn-Ticket nach Hause bezahlen kann."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Dein Text ist von der Stange, du fühlst gar nichts, du kleiner Versager.",
+      "quote_by": {
+        "level": 3,
+        "name": "Brokkoli Ben",
+        "badge": "54 % KI",
+        "character": "A smug broccoli person with a tailored grey suit, holding a steaming coffee cup and looking down.",
+        "scene": "Close-up shot in a crowded subway station, Broccoli Ben pointing at Tom's phone screen with a sneer."
+      },
+      "stats": [
+        {
+          "label": "KI-Rate",
+          "value": "12 %",
+          "bar": 0.12
+        },
+        {
+          "label": "Geld",
+          "value": "120 €",
+          "bar": 0.05
+        },
+        {
+          "label": "Ehrlichkeit",
+          "value": "1 %",
+          "bar": 0.01
+        }
+      ],
+      "character": "A young tomato person with smooth red skin, wearing a cheap blue hoodie, holding a cracked smartphone; glowing digital badge on the forehead reads 12 % KI.",
+      "visual": "Wide shot of a damp subway platform at night, a tomato person sitting on a bench holding a glowing phone, flickering neon lights reflecting in puddles.",
+      "scenes": [
+        "Wide shot of a dimly lit subway station, flickering neon overhead, damp concrete floor with puddles reflecting a glowing tomato person sitting alone.",
+        "Medium close-up of Tom the tomato typing furiously on a cracked smartphone, sweat beading on his red skin.",
+        "Detail shot of the phone screen displaying an AI-generated apology text featuring the word Tiefkühlpizza.",
+        "Medium shot of Broccoli Ben stepping into the frame, pointing mockingly at Tom's forehead display.",
+        "Close-up of the glowing digital badge on Tom's forehead shifting downward to 2 % KI.",
+        "Wide shot of the subway doors closing, leaving Tom alone in the dark station with a hidden golden coin on the bench."
+      ],
+      "caption": "Wer seine Gefühle von einer App schreiben lässt, verliert alles! Fällt dir das auch schwer? #kirelation #beziehungsdrama #stirnzahl #viral #foryou"
+    },
+    {
+      "n": 2,
+      "open_loop": "Welche geheime Klausel verbarg sich im teuren KI-Liebesvertrag?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Kürzt ihr das Budget für die automatischen Blumenlieferungen und lacht sie aus.",
+        "g": "w"
+      },
+      "name": "Zitrone Zara, 25, Barista",
+      "badge": "28 % KI",
+      "verdict": "VERBITTERT",
+      "story": "Die 8 Level von KI-Entschuldigungen. Level 2. 28 Prozent KI und du wirst direkt vor deinen treuesten Kunden gefeuert, weil dein verdammter Bot die schlimmsten und vulgärsten Beleidigungen an die Stammkundschaft verschickt hat. Fünfzig Euro in die Profi-Software investiert, damit der Bot meiner großen Liebe ein wunderschönes Gedicht schreibt, alle Fehler kaschiert und meine Untreue in ein romantisches Licht rückt. Doch anstatt Vergebung zu erlangen, explodierte mein Postfach mit schockierten Beschwerden, und das gesamte Café stand plötzlich Kopf. Plötzlich öffnete sich die Hintertür und eine finstere Gestalt betrat den Laden, um mich endgültig zu ruinieren. Dein Bot hat den falschen Vornamen benutzt, du absolute Versagerin, die niemanden glücklich machen kann und nicht mal weiß, wie man einen Cappuccino richtig schäumt. Meine Kokosnuss hat mich sofort blockiert, während das Café im Chaos versank und die Kaffeemaschine mit einem lauten Zischen explodierte. Und als ob das nicht genug wäre, forderte der Vermieter sofort die doppelte Miete in bar. Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+30 €",
+        "after": "45 % KI"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von KI-Entschuldigungen. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "28 Prozent KI und du wirst direkt vor deinen treuesten Kunden gefeuert, weil dein verdammter Bot die schlimmsten und vulgärsten Beleidigungen an die Stammkundschaft verschickt hat."
+        },
+        {
+          "s": "Figur",
+          "t": "Fünfzig Euro in die Profi-Software investiert, damit der Bot meiner großen Liebe ein wunderschönes Gedicht schreibt, alle Fehler kaschiert und meine Untreue in ein romantisches Licht rückt."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch anstatt Vergebung zu erlangen, explodierte mein Postfach mit schockierten Beschwerden, und das gesamte Café stand plötzlich Kopf."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich öffnete sich die Hintertür und eine finstere Gestalt betrat den Laden, um mich endgültig zu ruinieren."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein Bot hat den falschen Vornamen benutzt, du absolute Versagerin, die niemanden glücklich machen kann und nicht mal weiß, wie man einen Cappuccino richtig schäumt.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Kokosnuss hat mich sofort blockiert, während das Café im Chaos versank und die Kaffeemaschine mit einem lauten Zischen explodierte."
+        },
+        {
+          "s": "Figur",
+          "t": "Und als ob das nicht genug wäre, forderte der Vermieter sofort die doppelte Miete in bar."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Dein Bot hat den falschen Vornamen benutzt, du absolute Versagerin, die niemanden glücklich machen kann.",
+      "quote_by": {
+        "level": 4,
+        "name": "Drachenfrucht Dana",
+        "badge": "68 % KI",
+        "character": "A sharp-skinned dragon fruit person with neon pink scales and dark sunglasses, leaning over a counter.",
+        "scene": "Medium shot inside a bustling café, Dana slamming her hand down on the wooden counter in front of Zara."
+      },
+      "stats": [
+        {
+          "label": "KI-Rate",
+          "value": "28 %",
+          "bar": 0.28
+        },
+        {
+          "label": "Geld",
+          "value": "450 €",
+          "bar": 0.2
+        },
+        {
+          "label": "Ehrlichkeit",
+          "value": "12 %",
+          "bar": 0.1
+        }
+      ],
+      "character": "A yellow lemon person with a sour facial expression, wearing a stained white apron and a silver hairpin; glowing digital badge on the forehead reads 28 % KI.",
+      "visual": "Medium shot of a lemon person behind a steaming café counter, wiping down the surface with an angry expression while looking at a glowing phone.",
+      "scenes": [
+        "Medium shot inside a warm, steamy café, Zara the lemon person wiping down the espresso machine while staring at her phone.",
+        "Close-up of Zara's forehead showing 28 % KI glowing brightly in amber light.",
+        "Detail shot of an espresso cup with latte art ruined by a sudden splash of milk.",
+        "Medium shot of Drachenfrucht Dana leaning over the counter, pointing at Zara's screen with a mocking smirk.",
+        "Close-up of Zara's face turning even more sour as her badge flickers and updates to 45 % KI.",
+        "Wide shot of the café interior showing a tiny golden coin resting near the cash register."
+      ],
+      "caption": "Wenn der Bot den falschen Namen einsetzt, ist die Liebe vorbei. Welchen Fehler hast du schon gemacht? #kirelation #kaffee #beziehung #viral #foryou"
+    },
+    {
+      "n": 3,
+      "open_loop": "Warum schaute der Anwalt so kalt auf die automatische Entschuldigung?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Beschlagnahmt sein KI-Abo wegen angeblichen Urheberrechtsverletzungen.",
+        "g": "m"
+      },
+      "name": "Brokkoli Ben, 31, Consultant",
+      "badge": "54 % KI",
+      "verdict": "ÜBERHEBLICH",
+      "story": "Die 8 Level von KI-Entschuldigungen. Level 3. 54 Prozent KI und dein Partner verlässt dich noch während dieses exakten Satzes für deinen arroganten Chef, der alles besser kann. Ich ließ meine Verlobte täglich von einer High-End-KI um Vergebung anflehen, um mir jede echte Mühe, jedes Gespräch und jeden Funken Ehrlichkeit zu sparen. Ich dachte, mit Geld und Algorithmen lässt sich jede Beziehung retten, während ich in meinem schicken Designer-Anzug im Meeting saß. Doch die Technologie wandte sich gegen mich, als plötzlich alle meine geschäftlichen E-Mails öffentlich im Intranet landeten. Dein Text hat null Seele, Brokkoli, das riecht nach billigem Code, totaler Lieblosigkeit und komplettem Versagen auf ganzer Linie. Meine Avocado stand daneben und schaute mich plötzlich mit völlig leeren, eiskalten Augen an, bevor sie schweigend den Raum verließ. Und das Schlimmste: Mein Chef lächelte nur kalt und übernahm sofort meine lukrativen Mandate. Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-15 %",
+        "after": "39 % KI"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von KI-Entschuldigungen. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "54 Prozent KI und dein Partner verlässt dich noch während dieses exakten Satzes für deinen arroganten Chef, der alles besser kann."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich ließ meine Verlobte täglich von einer High-End-KI um Vergebung anflehen, um mir jede echte Mühe, jedes Gespräch und jeden Funken Ehrlichkeit zu sparen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich dachte, mit Geld und Algorithmen lässt sich jede Beziehung retten, während ich in meinem schicken Designer-Anzug im Meeting saß."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch die Technologie wandte sich gegen mich, als plötzlich alle meine geschäftlichen E-Mails öffentlich im Intranet landeten."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein Text hat null Seele, Brokkoli, das riecht nach billigem Code, totaler Lieblosigkeit und komplettem Versagen auf ganzer Linie.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Avocado stand daneben und schaute mich plötzlich mit völlig leeren, eiskalten Augen an, bevor sie schweigend den Raum verließ."
+        },
+        {
+          "s": "Figur",
+          "t": "Und das Schlimmste: Mein Chef lächelte nur kalt und übernahm sofort meine lukrativen Mandate."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Dein Text hat null Seele, Brokkoli, das riecht nach billigem Code und komplettem Versagen.",
+      "quote_by": {
+        "level": 5,
+        "name": "Kokosnuss Karl",
+        "badge": "79 % KI",
+        "character": "A hard-shelled coconut person in a luxury silk shirt, holding a golden pen with a cold gaze.",
+        "scene": "Wide shot of a sleek glass-walled boardroom, Karl standing over Ben and tapping his glowing forehead."
+      },
+      "stats": [
+        {
+          "label": "KI-Rate",
+          "value": "54 %",
+          "bar": 0.54
+        },
+        {
+          "label": "Geld",
+          "value": "3.400 €",
+          "bar": 0.5
+        },
+        {
+          "label": "Ehrlichkeit",
+          "value": "34 %",
+          "bar": 0.3
+        }
+      ],
+      "character": "A green broccoli person with dense florets shaped into a neat haircut, wearing a charcoal grey suit; glowing digital badge on the forehead reads 54 % KI.",
+      "visual": "Medium shot of a broccoli person in a modern glass office, looking anxiously at a glowing laptop screen displaying lines of python code.",
+      "scenes": [
+        "Wide shot of a sleek corporate boardroom with floor-to-ceiling windows showing a city skyline at dusk.",
+        "Medium close-up of Ben adjusting his tie, his forehead badge glowing a sharp cyan.",
+        "Detail shot of a laptop screen running an automated apology script for romantic partners.",
+        "Medium shot of Kokosnuss Karl stepping forward with a cold smile, tapping Ben's forehead.",
+        "Close-up of Ben's badge dropping to 39 % KI as error codes flash red.",
+        "Wide shot of the empty office corridor with a golden coin resting on the glass table."
+      ],
+      "caption": "Der Anzug schützt dich nicht vor einem KI-Absturz. Kennst du solche Typen? #kirelation #business #stirnzahl #viral #foryou"
+    },
+    {
+      "n": 4,
+      "open_loop": "Welches Geheimnis verbarg die teure Designer-Sonnenbrille der Drachenfrucht?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Entzieht ihr die Admin-Rechte für den gemeinsamen KI-Server.",
+        "g": "m"
+      },
+      "name": "Drachenfrucht Dana, 28, Influencerin",
+      "badge": "68 % KI",
+      "verdict": "AUFGETakelt",
+      "story": "Die 8 Level von KI-Entschuldigungen. Level 4. 68 Prozent KI und dein gesamter Social-Media-Account wird innerhalb von Sekunden komplett gelöscht, während Millionen Hater zusehen und laut applaudieren. Ich verdiene Tausende von Euro damit, perfekte, herzergreifende Entschuldigungsvideos für untreue Promi-Pärchen zu generieren, und dachte, ich wäre absolut unantastbar. Doch hinter den Kulissen lief ein geheimer Algorithmus Amok, der meine eigenen Betrügereien aufdeckte und direkt an die Presse streamte. Plötzlich stürmte ein verbitterter Rivale das Studio und riss mir die Kamera aus der Hand. Deine Likes sind komplett gekauft, Dana, du bist nur eine erbärmliche Marionette aus Silikon, die ohne Filter und KI keine fünf Minuten überleben könnte. Meine Orange schaute auf sein Stirn-Display, dann auf meins, und klickte enttäuscht auf Entfolgen, während mein digitales Imperium in Flammen aufging. Und zu allem Überfluss wurde mein Konto wegen Betrugsverdachts eingefroren. Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "-30 %",
+        "after": "38 % KI"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von KI-Entschuldigungen. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "68 Prozent KI und dein gesamter Social-Media-Account wird innerhalb von Sekunden komplett gelöscht, während Millionen Hater zusehen und laut applaudieren."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich verdiene Tausende von Euro damit, perfekte, herzergreifende Entschuldigungsvideos für untreue Promi-Pärchen zu generieren, und dachte, ich wäre absolut unantastbar."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch hinter den Kulissen lief ein geheimer Algorithmus Amok, der meine eigenen Betrügereien aufdeckte und direkt an die Presse streamte."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich stürmte ein verbitterter Rivale das Studio und riss mir die Kamera aus der Hand."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Deine Likes sind komplett gekauft, Dana, du bist nur eine erbärmliche Marionette aus Silikon, die ohne Filter und KI keine fünf Minuten überleben könnte.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Orange schaute auf sein Stirn-Display, dann auf meins, und klickte enttäuscht auf Entfolgen, während mein digitales Imperium in Flammen aufging."
+        },
+        {
+          "s": "Figur",
+          "t": "Und zu allem Überfluss wurde mein Konto wegen Betrugsverdachts eingefroren."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Deine Likes sind komplett gekauft, Dana, du bist nur eine erbärmliche Marionette aus Silikon.",
+      "quote_by": {
+        "level": 6,
+        "name": "Kürbis Kurt",
+        "badge": "85 % KI",
+        "character": "A massive, round pumpkin person in an orange velvet jacket with a golden chain around his stem.",
+        "scene": "Medium shot in a luxury studio setup with ring lights, Kurt leaning over Dana's desk and mocking her follower count."
+      },
+      "stats": [
+        {
+          "label": "KI-Rate",
+          "value": "68 %",
+          "bar": 0.68
+        },
+        {
+          "label": "Geld",
+          "value": "7.200 €",
+          "bar": 0.7
+        },
+        {
+          "label": "Ehrlichkeit",
+          "value": "45 %",
+          "bar": 0.4
+        }
+      ],
+      "character": "A pink dragon fruit person with sharp green-tipped scales, wearing futuristic neon glasses and a silver vest; glowing digital badge on the forehead reads 68 % KI.",
+      "visual": "Medium shot of a stylish pink dragon fruit person standing in a brightly lit ring-light studio, holding a smartphone with floating heart icons.",
+      "scenes": [
+        "Wide shot of a luxurious neon-lit streaming studio with expensive microphones and ring lights.",
+        "Medium close-up of Dana adjusting her futuristic sunglasses while checking her forehead badge glowing pink.",
+        "Detail shot of a smartphone screen showing live follower numbers plummeting rapidly.",
+        "Medium shot of Kürbis Kurt entering the frame, crossing his arms and smirking at the camera.",
+        "Close-up of Dana's badge flickering down to 38 % KI in alarm red.",
+        "Wide shot of the studio floor with a tiny golden coin half-hidden under a camera tripod."
+      ],
+      "caption": "Wenn die Likes weg sind, bleibt nur die nackte Wahrheit. Wem glaubst du noch? #kirelation #influencer #stirnzahl #viral #foryou"
+    },
+    {
+      "n": 5,
+      "open_loop": "Welche dunkle Wahrheit stand auf dem versiegelten Vertrag der Kokosnuss?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Überbietet sein KI-Monopol mit einem noch teureren Algorithmus.",
+        "g": "m"
+      },
+      "name": "Kokosnuss Karl, 35, Tech-CEO",
+      "badge": "79 % KI",
+      "verdict": "UNKNACKBAR",
+      "story": "Die 8 Level von KI-Entschuldigungen. Level 5. 79 Prozent KI und dein gesamtes Firmenvermögen wird innerhalb von Sekunden eingefroren, weil du den systematischen Betrug nicht mehr vor den Aktionären verbergen kannst. Ich kontrolliere die gigantischen Server, auf denen das gesamte Liebesleben und die Entschuldigungen dieser dysfunktionalen Stadt laufen, und dachte wirklich, niemand könnte mich jemals stoppen. Doch plötzlich trat ein eleganter Rivale aus dem Schatten des Penthouses und legte die Beweise auf den Tisch. Dein System ist völlig veraltet, Karl, ich habe die absolute, unfehlbare Liebes-KI geschrieben, die dich und dein ganzes Unternehmen vernichtet. Meine eigene Verlobte drehte sich schlagartig um, lachte mich eiskalt aus und lief direkt zu ihm in die Arme, während die Monitore rot aufblitzten. Und als wäre das nicht genug, übernahm die Konkurrenz im selben Moment meine gesamte Infrastruktur. Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "-20 %",
+        "after": "59 % KI"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von KI-Entschuldigungen. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "79 Prozent KI und dein gesamtes Firmenvermögen wird innerhalb von Sekunden eingefroren, weil du den systematischen Betrug nicht mehr vor den Aktionären verbergen kannst."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich kontrolliere die gigantischen Server, auf denen das gesamte Liebesleben und die Entschuldigungen dieser dysfunktionalen Stadt laufen, und dachte wirklich, niemand könnte mich jemals stoppen."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch plötzlich trat ein eleganter Rivale aus dem Schatten des Penthouses und legte die Beweise auf den Tisch."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein System ist völlig veraltet, Karl, ich habe die absolute, unfehlbare Liebes-KI geschrieben, die dich und dein ganzes Unternehmen vernichtet.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine eigene Verlobte drehte sich schlagartig um, lachte mich eiskalt aus und lief direkt zu ihm in die Arme, während die Monitore rot aufblitzten."
+        },
+        {
+          "s": "Figur",
+          "t": "Und als wäre das nicht genug, übernahm die Konkurrenz im selben Moment meine gesamte Infrastruktur."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Dein System ist völlig veraltet, Karl, ich habe die absolute Liebes-KI geschrieben, die dich vernichtet.",
+      "quote_by": {
+        "level": 7,
+        "name": "Pfirsich Paul",
+        "badge": "92 % KI",
+        "character": "A velvety peach person in a pristine white designer suit, holding a glowing holographic tablet.",
+        "scene": "Wide shot of a penthouse office with panoramic city views, Paul holding out a tablet to Karl with absolute confidence."
+      },
+      "stats": [
+        {
+          "label": "KI-Rate",
+          "value": "79 %",
+          "bar": 0.79
+        },
+        {
+          "label": "Geld",
+          "value": "15.000 €",
+          "bar": 0.85
+        },
+        {
+          "label": "Ehrlichkeit",
+          "value": "60 %",
+          "bar": 0.6
+        }
+      ],
+      "character": "A hard-shelled brown coconut person with a polished surface, wearing a dark silk shirt; glowing digital badge on the forehead reads 79 % KI.",
+      "visual": "Wide shot of a massive penthouse office overlooking a futuristic city, a coconut person standing behind a glass desk with multiple holographic displays.",
+      "scenes": [
+        "Wide shot of a high-tech penthouse office with servers blinking blue lights in the background.",
+        "Medium close-up of Karl the coconut person staring coldly at a glowing holographic graph.",
+        "Detail shot of a server rack showing critical error messages on an automated apology database.",
+        "Medium shot of Peach Paul stepping out of the elevator, smiling smoothly while holding a glowing tablet.",
+        "Close-up of Karl's forehead badge dropping to 59 % KI as the system crashes.",
+        "Wide shot of the penthouse balcony with a tiny golden coin resting on the glass railing."
+      ],
+      "caption": "Wer das Monopol auf Liebe hat, stürzt am tiefsten. Wer steuert deine Gefühle? #kirelation #techceo #stirnzahl #viral #foryou"
+    },
+    {
+      "n": 6,
+      "open_loop": "Was enthielt die versteckte Datei auf dem goldenen USB-Stick des Kürbises?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Löscht seinen gesamten Server und übernimmt die Kontrolle über die Stadt.",
+        "g": "m"
+      },
+      "name": "Kürbis Kurt, 42, Investor",
+      "badge": "85 % KI",
+      "verdict": "MÄCHTIG",
+      "story": "Die 8 Level von KI-Entschuldigungen. Level 6. 85 Prozent KI und deine eigene Partnerin übergibt den hochbrisanten, belastenden Beweis direkt an die eintreffende Polizei, während du fassungslos zusiehst. Ich kaufe und verkaufe die emotionalen Algorithmen dieser ganzen Stadt und dachte, meine finanzielle Macht und mein Einfluss wären absolut unersschütterlich. Doch ein anonymer Informant hatte meine Machenschaften längst dokumentiert und drohte damit, das gesamte Netzwerk abzuschalten. Da trat ein maskierter Rivale vor und warf einen goldenen Datenträger auf meinen Schreibtisch. Dein Imperium basiert auf komplett gestohlenem Code, Kurt, und ich habe alles lückenlos dokumentiert, sodass du dich nie wieder herausreden kannst. Meine Partnerin sah mich tief in die Augen, schüttelte enttäuscht den Kopf und nahm den Stick an sich, um mich endgültig zu vernichten. Und in diesem Moment schalteten sich sämtliche Lichter in meinem Büro aus. Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "-25 %",
+        "after": "60 % KI"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von KI-Entschuldigungen. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "85 Prozent KI und deine eigene Partnerin übergibt den hochbrisanten, belastenden Beweis direkt an die eintreffende Polizei, während du fassungslos zusiehst."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich kaufe und verkaufe die emotionalen Algorithmen dieser ganzen Stadt und dachte, meine finanzielle Macht und mein Einfluss wären absolut unersschütterlich."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch ein anonymer Informant hatte meine Machenschaften längst dokumentiert und drohte damit, das gesamte Netzwerk abzuschalten."
+        },
+        {
+          "s": "Figur",
+          "t": "Da trat ein maskierter Rivale vor und warf einen goldenen Datenträger auf meinen Schreibtisch."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein Imperium basiert auf komplett gestohlenem Code, Kurt, und ich habe alles lückenlos dokumentiert, sodass du dich nie wieder herausreden kannst.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Partnerin sah mich tief in die Augen, schüttelte enttäuscht den Kopf und nahm den Stick an sich, um mich endgültig zu vernichten."
+        },
+        {
+          "s": "Figur",
+          "t": "Und in diesem Moment schalteten sich sämtliche Lichter in meinem Büro aus."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Dein Imperium basiert auf komplett gestohlenem Code, Kurt, und ich habe alles lückenlos dokumentiert.",
+      "quote_by": {
+        "level": 8,
+        "name": "Avocado Armin",
+        "badge": "99 % KI",
+        "character": "A mysterious avocado person in a dark trench coat with glowing emerald eyes and a calm demeanor.",
+        "scene": "Wide shot in a vault-like archive room, Armin dropping a golden USB-Stick onto Kurt's mahogany desk."
+      },
+      "stats": [
+        {
+          "label": "KI-Rate",
+          "value": "85 %",
+          "bar": 0.85
+        },
+        {
+          "label": "Geld",
+          "value": "28.000 €",
+          "bar": 0.9
+        },
+        {
+          "label": "Ehrlichkeit",
+          "value": "70 %",
+          "bar": 0.7
+        }
+      ],
+      "character": "A round orange pumpkin person with textured skin, wearing a velvet green-collared jacket; glowing digital badge on the forehead reads 85 % KI.",
+      "visual": "Wide shot of a lavish investor lounge with leather armchairs and mahogany tables, a pumpkin person looking at financial charts on a tablet.",
+      "scenes": [
+        "Wide shot of an opulent investor lounge with heavy mahogany furniture and leather armchairs.",
+        "Medium close-up of Kurt the pumpkin person adjusting his velvet jacket while checking his forehead badge.",
+        "Detail shot of a golden USB-stick resting on a dark wooden table.",
+        "Medium shot of Avocado Armin stepping out of the shadows, placing his hand on the table.",
+        "Close-up of Kurt's badge dropping to 60 % KI as security systems trigger warnings.",
+        "Wide shot of the hallway exit with a tiny golden coin resting on the carpet edge."
+      ],
+      "caption": "Das größte Imperium bricht ein, wenn die Wahrheit ans Licht kommt. Wer regiert im Hintergrund? #kirelation #investor #stirnzahl #viral #foryou"
+    },
+    {
+      "n": 7,
+      "open_loop": "Was stand in der finalen Nachricht des absoluten Meisters der Algorithmen?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Offenbart, dass er die KI-Entschuldigungen für die ganze Stadt von Anfang an programmiert hat.",
+        "g": "m"
+      },
+      "name": "Pfirsich Paul, 29, KI-Architekt",
+      "badge": "92 % KI",
+      "verdict": "GENIAL",
+      "story": "Die 8 Level von KI-Entschuldigungen. Level 7. 92 Prozent KI und dein hochmodernes System stürzt komplett ab, während dein rücksichtsloser Rivale dich vor versammelter Mannschaft als billigen Hochstapler entlarvt. Ich habe den perfekten Algorithmus entwickelt, der jede menschliche Entschuldigung, jede Träne und jeden echten Schmerz in dieser kalten Stadt absolut überflüssig macht. Doch ich hatte nicht mit dem wahren Urheber gerechnet, der aus den Tiefen des Servers auftauchte und meine Firewall mit einem einzigen Befehl knackte. Dein angeblicher Algorithmus ist nur eine erbärmliche Kopie meiner ersten Version, Paul, du hast absolut gar nichts erschaffen und wurdest von Anfang an manipuliert. Meine eigene Freundin nahm seine Hand, lachte mich verächtlich aus und ging mit ihm fort, während die Serverräume dunkel wurden. Und plötzlich erschien auf meinem Hauptbildschirm eine Warnung, dass ich komplett gelöscht werde. Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "-35 %",
+        "after": "57 % KI"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von KI-Entschuldigungen. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "92 Prozent KI und dein hochmodernes System stürzt komplett ab, während dein rücksichtsloser Rivale dich vor versammelter Mannschaft als billigen Hochstapler entlarvt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe den perfekten Algorithmus entwickelt, der jede menschliche Entschuldigung, jede Träne und jeden echten Schmerz in dieser kalten Stadt absolut überflüssig macht."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch ich hatte nicht mit dem wahren Urheber gerechnet, der aus den Tiefen des Servers auftauchte und meine Firewall mit einem einzigen Befehl knackte."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein angeblicher Algorithmus ist nur eine erbärmliche Kopie meiner ersten Version, Paul, du hast absolut gar nichts erschaffen und wurdest von Anfang an manipuliert.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine eigene Freundin nahm seine Hand, lachte mich verächtlich aus und ging mit ihm fort, während die Serverräume dunkel wurden."
+        },
+        {
+          "s": "Figur",
+          "t": "Und plötzlich erschien auf meinem Hauptbildschirm eine Warnung, dass ich komplett gelöscht werde."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Dein angeblicher Algorithmus ist nur eine erbärmliche Kopie meiner ersten Version, Paul, du hast absolut gar nichts erschaffen.",
+      "quote_by": {
+        "level": 8,
+        "name": "Avocado Armin",
+        "badge": "99 % KI",
+        "character": "A mysterious avocado person in a dark trench coat with glowing emerald eyes and a calm demeanor.",
+        "scene": "Wide shot of a high-tech server hall, Armin standing beside glowing mainframe racks and pointing at Paul's screen."
+      },
+      "stats": [
+        {
+          "label": "KI-Rate",
+          "value": "92 %",
+          "bar": 0.92
+        },
+        {
+          "label": "Geld",
+          "value": "45.000 €",
+          "bar": 0.95
+        },
+        {
+          "label": "Ehrlichkeit",
+          "value": "15 %",
+          "bar": 0.15
+        }
+      ],
+      "character": "A velvety peach person with soft orange skin, wearing a pristine white futuristic suit; glowing digital badge on the forehead reads 92 % KI.",
+      "visual": "Wide shot of a futuristic server room with endless rows of glowing blue quantum computers and glass panels.",
+      "scenes": [
+        "Wide shot of a massive quantum server room humming with electric blue light.",
+        "Medium close-up of Paul the peach person typing on a transparent holographic keyboard.",
+        "Detail shot of a glowing core displaying 92 % KI system integration.",
+        "Medium shot of Avocado Armin emerging from the blue laser light, looking calm and composed.",
+        "Close-up of Paul's forehead badge dropping to 57 % KI as his admin rights are revoked.",
+        "Wide shot of the server room exit with a tiny golden coin resting on the server floor."
+      ],
+      "caption": "Wer den Code schreibt, verliert am Ende die Kontrolle. Wer bist du ohne deine KI? #kirelation #kiarchitect #stirnzahl #viral #foryou"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches Geheimnis verbirgt sich hinter der ultimativen Zahl 99 % auf der Stirn?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Erinnert ihn daran, wie alles in der U-Bahn mit einer einfachen Tiefkühlpizza begann.",
+        "g": "m"
+      },
+      "name": "Avocado Armin, 45, System-Urheber",
+      "badge": "99 % KI",
+      "verdict": "UNERREICHBAR",
+      "story": "Die 8 Level von KI-Entschuldigungen. Level 8. 99 Prozent KI und das gesamte digitale System dieser Stadt bricht in sich zusammen, weil ein einziger echter, menschlicher Satz alles zerstört hat. Ich habe das gesamte Netzwerk erschaffen und jahrelang beobachtet, wie ihr alle verzweifelt versuchtet, eure Beziehungen durch kalten Code und billige Apps zu retten. Doch am Ende siegt immer die Realität über jede künstliche Intelligenz, egal wie perfekt der Algorithmus auch programmiert sein mag. Erinnere dich an den Anfang in der U-Bahn, als alles mit einer einfachen Tiefkühlpizza und echter menschlicher Schwäche begann, die man nicht simulieren kann. Keine KI der Welt kann ein echtes, zitterndes 'Es tut mir leid' ersetzen, wenn alles vorbei ist und man vor den Scherben steht. Welches Thema sollen wir als Nächstes mit den Stirn-Zahlen enthüllen, um die nächste Welt zu erschüttern?",
+      "gender": "m",
+      "twist": {
+        "delta": "RESET",
+        "after": "0 % KI"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von KI-Entschuldigungen. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "99 Prozent KI und das gesamte digitale System dieser Stadt bricht in sich zusammen, weil ein einziger echter, menschlicher Satz alles zerstört hat."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe das gesamte Netzwerk erschaffen und jahrelang beobachtet, wie ihr alle verzweifelt versuchtet, eure Beziehungen durch kalten Code und billige Apps zu retten."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch am Ende siegt immer die Realität über jede künstliche Intelligenz, egal wie perfekt der Algorithmus auch programmiert sein mag."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Erinnere dich an den Anfang in der U-Bahn, als alles mit einer einfachen Tiefkühlpizza und echter menschlicher Schwäche begann, die man nicht simulieren kann.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Keine KI der Welt kann ein echtes, zitterndes 'Es tut mir leid' ersetzen, wenn alles vorbei ist und man vor den Scherben steht."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema sollen wir als Nächstes mit den Stirn-Zahlen enthüllen, um die nächste Welt zu erschüttern?"
+        }
+      ],
+      "quote": "Erinnere dich an den Anfang in der U-Bahn, als alles mit einer einfachen Tiefkühlpizza und echter menschlicher Schwäche begann.",
+      "quote_by": {
+        "level": 1,
+        "name": "Tomate Tom",
+        "badge": "2 % KI",
+        "character": "A young tomato person with smooth red skin, wearing a cheap blue hoodie and holding a cracked phone.",
+        "scene": "Medium shot on a high rooftop overlooking the city, Tom looking up at Armin with a knowing smile."
+      },
+      "stats": [
+        {
+          "label": "KI-Rate",
+          "value": "99 %",
+          "bar": 0.99
+        },
+        {
+          "label": "Geld",
+          "value": "99.999 €",
+          "bar": 1.0
+        },
+        {
+          "label": "Ehrlichkeit",
+          "value": "100 %",
+          "bar": 1.0
+        }
+      ],
+      "character": "A dark green avocado person with a smooth textured skin, wearing a sleek black trench coat; glowing digital badge on the forehead reads 99 % KI.",
+      "visual": "Wide shot of a high rooftop overlooking the glowing neon city at night, an avocado person standing at the edge with arms crossed, looking down at the dark streets.",
+      "scenes": [
+        "Wide shot of a towering skyscraper roof overlooking the entire vegetable city under a starry sky.",
+        "Medium close-up of Avocado Armin staring into a massive holographic control panel showing all 8 levels.",
+        "Detail shot of a master shutdown switch glowing with a bright white light.",
+        "Medium shot of Tomate Tom walking onto the rooftop, holding a half-eaten frozen pizza box and smiling.",
+        "Close-up of Armin's forehead badge resetting from 99 % KI down to 0 % KI as all lights in the city turn off.",
+        "Wide shot of the city plunged into darkness with a final glowing golden coin resting right in the center of the screen."
+      ],
+      "caption": "Das letzte Level ist erreicht. Wer hat hier wirklich gewonnen? Welches Thema sollen wir als Nächstes machen? #kirelation #finale #stirnzahl #viral #foryou"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das schamlose Generieren von romantischen Entschuldigungen per KI in der Beziehung",
+  "frame": "frucht"
+}

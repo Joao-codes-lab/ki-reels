@@ -1,105 +1,129 @@
 {
-  "best_score": 52,
+  "best_score": 62,
   "rounds": [
     {
       "scores": {
-        "hook": 5,
+        "hook": 7,
         "story": 6,
-        "identifikation": 4,
+        "identifikation": 8,
         "verbindungen": 5,
         "sog": 6,
-        "wut": 4,
-        "merkfaehigkeit": 5,
-        "sprache": 6
+        "wut": 7,
+        "merkfaehigkeit": 6,
+        "sprache": 5
       },
-      "gesamt": 51,
+      "gesamt": 62,
       "fixes": [
         {
           "n": 1,
-          "fix": "Ersetze das langweilige Intro durch einen harten Schlag: 'Minus 3.120.400 Dollar? Wer hat diese Blaubeere überhaupt in die Boutique gelassen? Vielleicht putzt sie gleich meine Toiletten.'"
-        }
-      ],
-      "fazit": "Die Serie hat eine starke visuelle Idee, verschenkt aber massiv Potenzial bei der Wut und der Genugtuung. Die Bösewichte sind zu zahm, die Demütigungen führen oft ins Leere statt in eine harte, befriedigende Rache. Die Wortanzahl pro Teil muss straffer und knackiger werden, weniger Beschreibungen, mehr direkte verbale Konflikte in den ersten 2 Sekunden."
-    },
-    {
-      "scores": {
-        "hook": 4,
-        "story": 5,
-        "identifikation": 4,
-        "verbindungen": 6,
-        "sog": 5,
-        "wut": 3,
-        "merkfaehigkeit": 4,
-        "sprache": 6
-      },
-      "gesamt": 47,
-      "fixes": [
-        {
-          "n": 1,
-          "fix": "Ersetze das langweilige Intro durch einen harten Schlag: 'Minus 3 Millionen auf der Stirn und er wagt es, mich Müll nennen? Warte, bis er sieht, was in meinem Paket ist.'"
+          "fix": "Ersetze den ersten Satz durch einen brutalen Kontrast: 'Drei Millionen Schulden und ich reisse das vierte Klarna-Paket auf, während mein Kontostand bei 1 Euro 42 liegt.' Achte darauf, dass die Story mind. 175 Wörter umfasst."
         },
         {
           "n": 2,
-          "fix": "Erhöhe die Wut: Der Gegenspieler muss in den ersten 3 Sekunden so abartig arrogant sein, dass man ihm sofort das Kaffeetablett ins Gesicht klatschen will."
+          "fix": "Erhöhe die Wut im Dialog, indem der Gegenspieler (Zoe) die Figur direkt wegen ihrer Armut beschimpft: 'Mit deinem Gehalt kannst nicht mal den Karton bezahlen, in dem du wohnst.' Story auf 175+ Wörter bringen."
         },
         {
           "n": 3,
-          "fix": "Schreibe die Zeilen um, sodass sie echte gesprochene Umgangssprache ohne gekünstelte Metaphern wie 'citrus skin tightening' sind."
+          "fix": "Verschärfe den Konflikt im Waschraum: Der Gegenspieler muss die Kleidung der Figur live vor allen Kollegen von der Stange reissen. Story auf 175+ Wörter erweitern."
         },
         {
           "n": 4,
-          "fix": "Verbinde das Ende jedes Videos noch direkter mit dem nächsten Level, indem der Zuschauer ein verbotenes Detail erfährt, das der Bösewicht erst in der nächsten Szene erfährt."
+          "fix": "Der Vermieter droht nicht nur, sondern wirft die ungeöffneten Pakete direkt auf die Strasse. Baue den Text auf über 175 Wörter aus."
+        },
+        {
+          "n": 5,
+          "fix": "Die Influencerin bricht in Tränen aus, während der Gegenspieler ihr Handy nimmt und die Fake-Schulden live streamt. Text auf mind. 175 Wörter aufstocken."
+        },
+        {
+          "n": 6,
+          "fix": "Der Accountant (Broccoli) rechnet dem arroganten Avocado-Gegenspieler vor, dass dieser in Wahrheit noch höher verschuldet ist. Text auf über 175 Wörter erweitern."
+        },
+        {
+          "n": 7,
+          "fix": "Der reiche Sammler lacht den armen Lemon-Dispatcher eiskalt aus und zeigt ihm die Pfändungsurkunde. Text auf mind. 175 Wörter ausbauen."
+        },
+        {
+          "n": 8,
+          "fix": "Das Finale muss die absolute Genugtuung bringen: Der Tycoon wird von allen vorherigen Figuren entmachtet. Text auf über 175 Wörter bringen."
         }
       ],
-      "fazit": "Die Obst-Metaphern und das Schulden-Konzept haben starkes virales Potenzial, aber der Text liest sich zu sehr wie eine sterile Geschichte und zu wenig wie ein aggressiver, schneller TikTok-Hook. Die Wut fehlt, weil die Bösewichte zu harmlos und die Dialoge zu hölzern sind."
+      "fazit": "Die Serie hat eine starke visuelle Idee mit den Frucht-Charakteren und dem Fast-Fashion-Debt-Thema, scheitert aber an zu kurzen, flachen Texten unter 175 Wörtern pro Teil und zu wenig subversiver Genugtuung. Die Wut wird nicht konsequent genug in den ersten Sekunden aufgebaut, und die Querverweise zwischen den Levels sind zu beliebig statt messerscharf."
+    },
+    {
+      "scores": {
+        "hook": 3,
+        "story": 4,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 3,
+        "wut": 4,
+        "merkfaehigkeit": 4,
+        "sprache": 2
+      },
+      "gesamt": 36,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den halbgaren Einstieg durch maximale Provokation: 'Minus 3 Millionen auf der Stirn und ich reiße das vierte Klarna-Paket auf, während mein Kontostand 1,42 Euro anzeigt. Mein Mitbewohner starrt mich an: Du gehörst in einen Müllcontainer, nicht in eine Boutique. Aber er ahnt nicht, dass die goldene Münze im Karton mein Leben rettet.'"
+        },
+        {
+          "n": 2,
+          "fix": "Baue echten Hass auf den Gegenspieler auf und halte dich an die Mindestwortanzahl (175+ Wörter): 'Level 2. Zwei Millionen Schulden und ich verstecke siebzig ungeöffnete Pakete hinter der Espressomaschine. Meine orange Haut riecht nach billigem Angstschweiß, während ich Hafermilch aufschäume. Mein Gegenspieler, eine arrogante Avocado in Designer-Sonnenbrille, lehnt sich über den Tresen und zischt: Mit deinem mickrigen Gehalt kannst du nicht mal den Karton bezahlen, in dem du elendig verrecken wirst. Du stinkst nach Plastiktüten und kaputten Träumen, während mein Leben längst im freien Fall ist. Zwölf Dollar die Stunde plus Trinkgeld reichen niemals für den Mist, den mein Online-Warenkorb nachts um drei automatisch bestellt. Jedes Mal, wenn ich die Kaffeemaschine bediene, zittere ich vor dem Moment, in dem die Kreditsachbearbeiter meinen Tresen beschlagnahmen. Aber ich habe vorhin genau gesehen, wie die Avocado vergessen hat, ihre eigene Pfändungsurkunde einzustecken. Im nächsten Level zeige ich allen, wie tief sie wirklich sinkt.'"
+        },
+        {
+          "n": 3,
+          "fix": "Erhöhe den Kontrast zwischen Demütigung und Genugtuung: Lass die Kollegen nicht nur lachen, sondern zeige, dass die Figur im Tresor einen versteckten Wert besitzt, den der Bösewicht bald bitter bereuen wird."
+        },
+        {
+          "n": 4,
+          "fix": "Lass den Vermieter die Pakete kompromisslos auf die Strasse werfen und formuliere die Dialoge absolut schnörkellos und gesprochen natürlich."
+        },
+        {
+          "n": 5,
+          "fix": "Verschärfe die Live-Stream-Demütigung und platziere den Hinweis auf die Rache im nächsten Level glasklar am Ende."
+        },
+        {
+          "n": 6,
+          "fix": "Brich mit den Klarna-Karten und rechne dem Gegenspieler mathematisch eiskalt ins Gesicht, dass sein eigenes Imperium auf Lügen gebaut ist."
+        },
+        {
+          "n": 7,
+          "fix": "Lass den Sammler den Dispatcher nicht nur verhöhnen, sondern baue das Motiv der versteckten Rache aus, damit die Zuschauer spüren, dass sich das Blatt sofort wendet."
+        },
+        {
+          "n": 8,
+          "fix": "Lass alle Figuren aus den vorherigen Leveln konsequent und zerstörerisch in den Raum stürmen, um den Tycoon live zu entmachten."
+        }
+      ],
+      "fazit": "Die Serie hat eine extrem coole visuelle Welt und starke Ansätze, aber sie scheitert an den harten viralen Regeln: Die Sätze sind oft viel zu lang, klingen nach geschriebener Prosa statt nach hartem TikTok-Slang, und die Wortanzahl pro Level schwankt zu stark unter der 175-Wörter-Grenze. Zudem fehlt die pure, unbarmherzige Wut in den ersten Sekunden, weil die Konflikte zu schnell verpuffen statt den Zuschauer sofort zum Weiterswischen zu zwingen."
     },
     {
       "scores": {
         "hook": 6,
         "story": 5,
         "identifikation": 4,
-        "verbindungen": 7,
-        "sog": 6,
-        "wut": 5,
+        "verbindungen": 4,
+        "sog": 5,
+        "wut": 4,
         "merkfaehigkeit": 5,
         "sprache": 4
       },
-      "gesamt": 52,
+      "gesamt": 47,
       "fixes": [
         {
           "n": 1,
-          "fix": "Ersetze das langweilige Intro durch einen harten visuellen Schlag und lass Chloe direkt in den ersten 2 Sekunden vom Bösewicht physisch erniedrigen, statt sie nur reden zu lassen."
-        },
-        {
-          "n": 2,
-          "fix": "Schreibe die Dialoge kürzer und natürlicher. Weg mit dem steifen 'I am Sam, a yellow lemon...'-Szenen-Erklärbär-Sprech, direkt rein in den Konflikt mit echtem Hass."
+          "fix": "Erhöhe den Kontrast im ersten Satz. Statt 'Minus 3 Millionen' nutze einen absurden visuellen Schock: 'Minus 3.000.000 Dollar auf meiner Stirn und mein Mitbewohner wirft meine Klarna-Pakete aus dem zehnten Stock in den Dreck.'"
         },
         {
           "n": 3,
-          "fix": "Erhöhe die Wut: Marcus muss den Azubi nicht nur abservieren, sondern seine Sachen vor laufender Kamera wegwerfen, damit der Zuschauer Genugtuung in Level 8 fordert."
-        },
-        {
-          "n": 4,
-          "fix": "Füge einen echten Twist ein, bei dem die Zuschauer das Geheimnis der Avocado (den Betrug) 5 Sekunden vor dem Gegenspieler erkennen."
+          "fix": "Verleihe dem Gegenspieler mehr Arroganz. Lass Carrot Clara die Kleidung der Figur nicht nur zerreißen, sondern mit den Worten erniedrigen: 'Dein Lohn reicht nicht mal für die Plastiktüte, in der du morgen ausziehst.'"
         },
         {
           "n": 5,
-          "fix": "Reduziere den Text auf knackige, gesprochene Sätze ohne Floskeln und stelle sicher, dass jede Story über 175 echte, emotionale Wörter hat."
-        },
-        {
-          "n": 6,
-          "fix": "Lass Zoe im Alleyway eine Demütigung erleiden, die absolut unfair ist, damit die Rache in den Folgeteilen herbeigesehnt wird."
-        },
-        {
-          "n": 7,
-          "fix": "Verbinde die Handlungen straffer: Leos Loop muss direkt auf Chloes verstreute Dokumente aus Level 1 verweisen, um den Kreis zu schließen."
-        },
-        {
-          "n": 8,
-          "fix": "Das Finale in Level 8 braucht eine kompromisslose Offenbarung statt philosophischer Fragen. Zeige die finale Abrechnung direkt."
+          "fix": "Verstärke das Mitleid und die Wut. King Pine muss die Influencerin im Livestream nicht nur beschimpfen, sondern live ihre letzten Ersparnisse sperren, während sie weint."
         }
       ],
-      "fazit": "Die Serie hat eine starke visuelle Grundidee mit den Frucht-Metaphern und Stirnzahlen, leidet aber unter unnatürlichem, zu erklärendem Text und zu wenig harten, emotionalen Konflikten in den ersten Sekunden. Ohne pure Wut und Genugtuung skaliert das Ding auf TikTok nicht über 50k Views."
+      "fazit": "Die Serie hat eine starke visuelle Grundidee mit den Frucht-Bürgern und den Stirn-Zahlen, verliert aber an Zugkraft durch zu viel englisches Sprach-Mischmasch und passiven Storytelling-Stil. Die Rache- und Genugtuungsmomente kommen zu kurz, wodurch das Wut- und Sog-Potenzial der viralen Vorbilder verschenkt wird. Die Sätze müssen deutscher, härter und konfrontativer klingen."
     }
   ]
 }

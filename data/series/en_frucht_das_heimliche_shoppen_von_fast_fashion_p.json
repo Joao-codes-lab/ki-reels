@@ -1,799 +1,795 @@
 {
-  "title": "The 8 Levels of Klarna Secret Shopping",
-  "house": "A bustling neon-lit fruit and vegetable metropolis where glowing digital forehead numbers dictate social status, towering glass skyscrapers dwarf crowded subway stations, and a golden coin is hidden in every single scene.",
-  "catchphrase": "The glowing digit on my forehead never lies.",
+  "title": "The 8 Levels of Fast Fashion Debt",
+  "house": "A bustling metropolis named Veggieopolis where fruit and vegetable citizens walk down neon-lit concrete sidewalks, dodging yellow cab lemons and rushing past shiny automated Klarna kiosks.",
+  "catchphrase": "The number on your forehead never lies.",
   "links": [
-    "The tired avocado barista at the Central Station kiosk mentions a quiet strawberry buying endless luxury packages.",
-    "A glowing orange delivery driver keeps dropping heavy cardboard boxes outside apartment 404.",
-    "The blue dragonfruit collector talks about a mysterious broccoli neighbor buried in debt notifications."
+    "Level 3 Strawberry mentions a quiet man in a tailored suit who always tips the barista in Level 6.",
+    "The shared bus stop on 5th Avenue connects the broke potato and the wealthy dragonfruit."
   ],
   "levels": [
     {
       "n": 1,
-      "open_loop": "What was inside the massive black delivery box hidden under her bed?",
+      "open_loop": "What was inside the mystery package delivered at 3 AM?",
       "gegenspieler": {
-        "level": 3,
-        "tat": "Laughs at her cheap packaging and mocks her towering debt notification on the subway.",
-        "g": "m"
+        "level": 4,
+        "tat": "Laughs at her credit score and tells her she will never afford a real designer bag."
       },
-      "name": "Chloe, 22, Intern",
-      "badge": "-3.120.400 $",
-      "verdict": "FINANCIALLY RUINED",
-      "story": "Minus 3 million on the forehead and he wagt es, mich Müll nennen? Warte, bis er sieht, was in meinem Paket ist. I am Chloe, a tiny blue blueberry, hiding my glowing red forehead badge inside a damp laundry room while my Klarna account flashes negative three million. Another heavy cardboard box just arrived, and this arrogant orange thinks he can laugh at my debt on the subway. You cannot afford this silk designer dress when your forehead literally screams bankrupt. I snatch the package away, my heart pounding against my berry ribs. He steps closer, his face twisted in pure disgust, ready to shove me into the dirt. Everyone in this city stares at my debt, but they do not know what is inside this box. You are dragging all of us down into your pathetic abyss. He has no idea that the delivery receipt contains his own secret bank password. You will see that in Level 2. You'll see that in Level 2.",
+      "name": "Mia, 21, Intern",
+      "badge": "-$3,000,000",
+      "verdict": "FINANCIAL RUIN",
+      "story": "The 8 levels of secret fast fashion debt. Level 1. Three million dollars in debt and my fourth Klarna package just arrived at the door. My Strawberry head is dripping with nervous sweat as I tear open the cardboard box on my stained kitchen floor. You seriously bought more cheap clothes while your account is locked? I needed the dopamine hit just to survive this miserable internship. You belong in a dumpster, not a boutique. Wait, did you hear that strange scratching sound coming from behind the peeling wallpaper in the hallway? Nobody is out there, Mia. You are just losing your mind over a few cheap polyester dresses. I am telling you, someone is watching my every move through the ventilation shaft right now. You'll see that in Level 2.",
       "gender": "w",
       "twist": {
-        "delta": "-50.000 $",
-        "after": "-3.170.40"
+        "delta": "-$5,000",
+        "after": "-$3,005,0"
       },
       "lines": [
         {
           "s": "Erzaehler",
-          "t": "Minus 3 million on the forehead and he wagt es, mich Müll nennen? Warte, bis er sieht, was in meinem Paket ist."
+          "t": "The 8 levels of secret fast fashion debt. Level 1."
         },
         {
           "s": "Figur",
-          "t": "I am Chloe, a tiny blue blueberry, hiding my glowing red forehead badge inside a damp laundry room while my Klarna account flashes negative three million."
+          "t": "Three million dollars in debt and my fourth Klarna package just arrived at the door."
         },
         {
           "s": "Figur",
-          "t": "Another heavy cardboard box just arrived, and this arrogant orange thinks he can laugh at my debt on the subway."
+          "t": "My Strawberry head is dripping with nervous sweat as I tear open the cardboard box on my stained kitchen floor."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "You seriously bought more cheap clothes while your account is locked?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I needed the dopamine hit just to survive this miserable internship."
         },
         {
           "s": "Gegenspieler",
-          "t": "You cannot afford this silk designer dress when your forehead literally screams bankrupt.",
+          "t": "You belong in a dumpster, not a boutique.",
           "g": "m"
         },
         {
           "s": "Figur",
-          "t": "I snatch the package away, my heart pounding against my berry ribs."
+          "t": "Wait, did you hear that strange scratching sound coming from behind the peeling wallpaper in the hallway?"
         },
         {
-          "s": "Gegenspieler",
-          "t": "He steps closer, his face twisted in pure disgust, ready to shove me into the dirt.",
-          "g": "m"
+          "s": "Nebenfigur",
+          "t": "Nobody is out there, Mia. You are just losing your mind over a few cheap polyester dresses.",
+          "g": "w"
         },
         {
           "s": "Figur",
-          "t": "Everyone in this city stares at my debt, but they do not know what is inside this box."
-        },
-        {
-          "s": "Gegenspieler",
-          "t": "You are dragging all of us down into your pathetic abyss.",
-          "g": "m"
-        },
-        {
-          "s": "Erzaehler",
-          "t": "He has no idea that the delivery receipt contains his own secret bank password. You will see that in Level 2."
+          "t": "I am telling you, someone is watching my every move through the ventilation shaft right now."
         },
         {
           "s": "Erzaehler",
           "t": "You'll see that in Level 2."
         }
       ],
-      "quote": "You are dragging all of us down into your pathetic abyss.",
+      "quote": "You belong in a dumpster, not a boutique.",
       "quote_by": {
-        "level": 3,
-        "name": "Marcus",
-        "badge": "-1.500.000 $",
-        "character": "An arrogant orange with a shiny wax coat and an expensive tailored wool scarf.",
-        "scene": "A wide shot of a crowded subway station where Marcus looks down his nose at a trembling blueberry holding a cardboard box, pointing mockingly at her red forehead numbers."
+        "level": 4,
+        "name": "Broccoli Brad",
+        "badge": "$45,000",
+        "character": "A smug broccoli person wearing a tailored synthetic suit and carrying a glowing gold tablet.",
+        "scene": "A wide angle shot of a messy apartment kitchen with warm neon light bleeding through the window, as a broccoli man looks down with extreme disgust at a strawberry person."
       },
       "stats": [
         {
           "label": "Klarna Debt",
-          "value": "-3.1M $",
+          "value": "-$3.0M",
           "bar": 1.0
         },
         {
-          "label": "Cart Items",
-          "value": "142",
-          "bar": 0.95
+          "label": "Monthly Rent",
+          "value": "$1,800",
+          "bar": 0.2
         },
         {
-          "label": "Real Cash",
-          "value": "2.40 $",
-          "bar": 0.05
+          "label": "Bank Balance",
+          "value": "$1.42",
+          "bar": 0.01
         }
       ],
-      "character": "A tiny round blueberry person with deep blue skin, wearing an oversized faded grey hoodie and frayed sneakers. Her glowing digital forehead displays negative millions.",
-      "visual": "A cramped, dimly lit basement laundry room with dripping pipes, a tiny glowing blue blueberry clutching a brown shipping box, and a hidden golden coin resting on top of the washing machine.",
+      "character": "A ripe red strawberry person with strawberry seed skin texture, wearing an oversized thrifted hoodie, clutching a smartphone, and a glowing digital debt display on her forehead.",
+      "visual": "Wide angle shot of a cramped, messy apartment kitchen at midnight with a glowing golden coin hidden behind a cardboard delivery box on the floor.",
       "scenes": [
-        "A cramped, dimly lit basement laundry room with dripping pipes, a tiny glowing blue blueberry clutching a brown shipping box, and a hidden golden coin resting on top of the washing machine.",
-        "A bustling subway platform with flickering fluorescent lights, an orange man pointing at a glowing red forehead display, and graffiti on the tiled walls.",
-        "A cluttered narrow hallway stacked floor-to-ceiling with unopened cardboard delivery boxes and a single yellow light bulb hanging from the ceiling.",
-        "A close-up shot of a glowing digital forehead display flashing millions in red digits while neon light reflects off bruised blue skin.",
-        "A messy apartment kitchen with dirty dishes piled in the sink, a half-eaten slice of toast, and a laptop glowing with a checkout payment screen.",
-        "A rainy bus stop at dusk where commuters with varying glowing numbers ignore the crying blueberry standing in a puddle."
+        "Wide angle shot of a cramped apartment kitchen at midnight with cardboard boxes stacked to the ceiling.",
+        "Close up shot of a strawberry person's forehead displaying a glowing red negative three million balance.",
+        "Medium shot of a roommate pointing mockingly at an open Klarna package full of cheap synthetic jackets.",
+        "Detail shot of a trembling hand holding a glowing gold coin half-hidden under a shipping label.",
+        "Halbnah shot of two fruit people arguing intensely in front of a flickering refrigerator light.",
+        "Detail shot of a smartphone screen flashing a red payment failed alert for eighteen hundred dollars."
       ],
-      "caption": "How deep can one shopping cart actually go before everything collapses? #Klarna #FastFashion #DebtLife #SecretShopping #Drama"
+      "caption": "How many packages do you hide from your roommates? #fastfashion #klarnadebt #strawberry #veggieopolis #broke"
     },
     {
       "n": 2,
-      "open_loop": "Who transferred the mysterious fifty thousand dollars into her blocked account?",
+      "open_loop": "Who transferred five hundred dollars into her secret bank account?",
       "gegenspieler": {
-        "level": 4,
-        "tat": "Threatens to call debt collectors during her morning shift at the bakery.",
-        "g": "w"
+        "level": 5,
+        "tat": "Threatens to report her illegal package hoarding to the building landlord."
       },
-      "name": "Sam, 25, Barista",
-      "badge": "-2.100.300 $",
-      "verdict": "DEEP IN THE RED",
-      "story": "The 8 levels of secret fast fashion shopping with millions in debt. Level 2. Are you deaf or just broke? Get me that macchiato now before I report your fake red number to the manager! I am Sam, a yellow lemon wiping down a marble counter, gritting my teeth while this smug avocado slams her designer handbag on the wood. You are spilling coffee because your tiny brain is trapped in your ridiculous online cart. I clutched my steaming pitcher, my yellow skin burning with pure hatred. She points at my negative balance badge, laughing right in my face like I am garbage. I wanted to smash the ceramic cup over her sunglasses. Your cheap clothes will never hide the pathetic emptiness inside your soul. She is about to drop my termination letter on the counter in the next scene, but my phone just buzzed with her incoming debt alert. You will see that in Level 3. You'll see that in Level 3.",
+      "name": "Oliver, 24, Barista",
+      "badge": "-$2,100,000",
+      "verdict": "DEEP RED",
+      "story": "Level 2. Two million in debt on my forehead and I am hiding seventy unopened parcel boxes behind the espresso machine. My Orange head is pale, smelling like cheap citrus and panic while steaming oat milk. You smell like plastic shipping bags and broke dreams. I only make twelve bucks an hour plus tips, but my cart keeps auto-checking out trendy pants. Your entire life is just one giant clearance sale nobody wants. Listen to me, Zoe, I am paying off every single cent of this debt by next month, I swear. Save your breath, Oliver. The audit team is already parked outside in a black van. Oh no, they found out about the second storage unit on 4th Street, didn't they? You'll see that in Level 3.",
       "gender": "m",
       "twist": {
-        "delta": "+10.000 $",
-        "after": "-2.090.30"
+        "delta": "+$500",
+        "after": "-$2,099,5"
       },
       "lines": [
         {
           "s": "Erzaehler",
-          "t": "The 8 levels of secret fast fashion shopping with millions in debt. Level 2."
+          "t": "Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Two million in debt on my forehead and I am hiding seventy unopened parcel boxes behind the espresso machine."
+        },
+        {
+          "s": "Figur",
+          "t": "My Orange head is pale, smelling like cheap citrus and panic while steaming oat milk."
         },
         {
           "s": "Gegenspieler",
-          "t": "Are you deaf or just broke? Get me that macchiato now before I report your fake red number to the manager!",
+          "t": "You smell like plastic shipping bags and broke dreams.",
           "g": "w"
         },
         {
           "s": "Figur",
-          "t": "I am Sam, a yellow lemon wiping down a marble counter, gritting my teeth while this smug avocado slams her designer handbag on the wood."
+          "t": "I only make twelve bucks an hour plus tips, but my cart keeps auto-checking out trendy pants."
         },
         {
-          "s": "Nebenfigur",
-          "t": "You are spilling coffee because your tiny brain is trapped in your ridiculous online cart.",
+          "s": "Gegenspieler",
+          "t": "Your entire life is just one giant clearance sale nobody wants.",
           "g": "w"
         },
         {
           "s": "Figur",
-          "t": "I clutched my steaming pitcher, my yellow skin burning with pure hatred."
+          "t": "Listen to me, Zoe, I am paying off every single cent of this debt by next month, I swear."
         },
         {
-          "s": "Figur",
-          "t": "She points at my negative balance badge, laughing right in my face like I am garbage."
-        },
-        {
-          "s": "Figur",
-          "t": "I wanted to smash the ceramic cup over her sunglasses."
-        },
-        {
-          "s": "Nebenfigur",
-          "t": "Your cheap clothes will never hide the pathetic emptiness inside your soul.",
+          "s": "Gegenspieler",
+          "t": "Save your breath, Oliver. The audit team is already parked outside in a black van.",
           "g": "w"
         },
         {
-          "s": "Erzaehler",
-          "t": "She is about to drop my termination letter on the counter in the next scene, but my phone just buzzed with her incoming debt alert. You will see that in Level 3."
+          "s": "Figur",
+          "t": "Oh no, they found out about the second storage unit on 4th Street, didn't they?"
         },
         {
           "s": "Erzaehler",
           "t": "You'll see that in Level 3."
         }
       ],
-      "quote": "Your cheap clothes will never hide the pathetic emptiness inside your soul.",
+      "quote": "Your entire life is just one giant clearance sale nobody wants.",
       "quote_by": {
-        "level": 4,
-        "name": "Victoria",
-        "badge": "-800.000 $",
-        "character": "An elegant avocado woman wearing oversized sunglasses and carrying a leather designer handbag.",
-        "scene": "A bright upscale coffee shop where an avocado woman sneers across a gleaming espresso machine, pointing contemptuously at a lemon barista's glowing red debt numbers."
+        "level": 5,
+        "name": "Zoe",
+        "badge": "$120,000",
+        "character": "An elegant avocado person with smooth green skin, wearing designer sunglasses indoors and holding a luxury leather tote bag.",
+        "scene": "Medium shot inside a bustling neon-lit downtown coffee shop during the morning rush hour, looking over the marble counter."
       },
       "stats": [
         {
           "label": "Klarna Debt",
-          "value": "-2.1M $",
+          "value": "-$2.1M",
           "bar": 0.85
         },
         {
-          "label": "Cart Items",
-          "value": "98",
-          "bar": 0.75
+          "label": "Hourly Wage",
+          "value": "$12.00",
+          "bar": 0.15
         },
         {
-          "label": "Tips Earned",
-          "value": "12.50 $",
-          "bar": 0.15
+          "label": "Secret Boxes",
+          "value": "70",
+          "bar": 0.7
         }
       ],
-      "character": "An oval yellow lemon person with a dimpled peel texture, wearing a stained barista apron over a black t-shirt. His forehead displays a glowing red negative balance.",
-      "visual": "A sleek modern coffee shop with stainless steel espresso machines, warm pendant lighting, a grumpy yellow lemon wiping the counter, and a golden coin tucked inside a glass tip jar.",
+      "character": "A bright orange fruit person with textured citrus skin, wearing a stained barista apron over a vintage band tee, with a glowing digital debt display.",
+      "visual": "Wide angle shot of a chaotic downtown coffee shop interior filled with steam, glowing neon menu boards, and a hidden golden coin resting inside a glass tip jar.",
       "scenes": [
-        "A sleek modern coffee shop with stainless steel espresso machines, warm pendant lighting, a grumpy yellow lemon wiping the counter, and a golden coin tucked inside a glass tip jar.",
-        "A busy subway entrance at morning rush hour with commuters holding paper cups and flashing various glowing red and green forehead numbers.",
-        "A narrow employee breakroom with a small metal locker, a flickering neon exit sign, and open shipping boxes spilling tissue paper.",
-        "A close-up shot of a smartphone screen displaying a rejected payment notification alongside a towering total debt counter.",
-        "A rainy city street corner at night where neon signs reflect off wet asphalt and towering glass office facades.",
-        "A dimly lit stockroom filled with stacked cardboard delivery boxes and a single wooden stool under a vent."
+        "Wide angle shot of a crowded downtown coffee shop during the morning rush hour with neon streetlights outside.",
+        "Close up shot of an orange person's forehead displaying a glowing red negative two million balance.",
+        "Medium shot of a barista hiding delivery boxes behind a commercial espresso machine.",
+        "Detail shot of a small golden coin glittering inside a glass tip jar next to dollar bills.",
+        "Halbnah shot of an avocado customer glaring across a marble counter at the terrified barista.",
+        "Detail shot of a smartphone screen showing an automatic installment payment notification."
       ],
-      "caption": "Can a cup of coffee really pay off three million in designer clothes? #BaristaLife #KlarnaCart #LemonDrama #ShoppingAddiction #ViralSeries"
+      "caption": "Can a morning coffee fix your financial mistakes? #baristalife #orange #debtlife #coffeehouse #klarnaproblems"
     },
     {
       "n": 3,
-      "open_loop": "What secret did the lawyer find inside the bankruptcy folder?",
+      "open_loop": "What secret did the mysterious text message reveal about the warehouse?",
       "gegenspieler": {
-        "level": 5,
-        "tat": "Confiscates his designer jackets right outside the courthouse steps.",
-        "g": "w"
+        "level": 6,
+        "tat": "Blocks her entry to the luxury fashion sample sale and throws away her discount voucher."
       },
-      "name": "Marcus, 31, Accountant",
-      "badge": "-1.500.000 $",
-      "verdict": "HIGHLY LEVERAGED",
-      "story": "The 8 levels of secret fast fashion shopping with millions in debt. Level 3. Look at this pathetic orange loser trying to hide his millions in debt behind a fake Gucci suit! I am Marcus, an arrogant orange stepping out of my glass tax office, sneering right at this stern coconut blocking my way. You think your fancy spreadsheets will save you from bankruptcy. I adjusted my silk tie, my skin boiling with murderous rage because she has no right to judge me. She knows damn well that every single parcel delivered to my penthouse was bought on credit. I spent years hiding my shopping addiction behind complex corporate ledgers, and she wants to expose me. Your financial empire is built entirely on tissue paper and lies. She is walking straight to my office right now to steal my laptop, but I already locked her out of the master server. You will see that in Level 4. You'll see that in Level 4.",
-      "gender": "m",
+      "name": "Chloe, 26, Assistant",
+      "badge": "-$1,500,000",
+      "verdict": "CRITICAL RISK",
+      "story": "Level 3. One point five million in debt and I am currently wearing three coats at once just to hide my shopping addiction. My Avocado pit feels heavy in my chest as I scroll through TikTok haul videos in the office washroom. You look like a walking discount warehouse disaster. I tell myself that buying these neon crop tops will finally make me feel like I belong. You are nothing more than a debt collector's favorite hobby. Please, Clara, don't tell human resources about my credit score or I will lose my desk. Your desk was repossessed ten minutes ago, Chloe. Pack your cardboard boxes. This has to be a sick joke engineered by the corporate finance department. You'll see that in Level 4.",
+      "gender": "w",
       "twist": {
-        "delta": "+120.000 $",
-        "after": "-1.380.00"
+        "delta": "-$12,000",
+        "after": "-$1,512,0"
       },
       "lines": [
         {
           "s": "Erzaehler",
-          "t": "The 8 levels of secret fast fashion shopping with millions in debt. Level 3."
+          "t": "Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "One point five million in debt and I am currently wearing three coats at once just to hide my shopping addiction."
+        },
+        {
+          "s": "Figur",
+          "t": "My Avocado pit feels heavy in my chest as I scroll through TikTok haul videos in the office washroom."
         },
         {
           "s": "Gegenspieler",
-          "t": "Look at this pathetic orange loser trying to hide his millions in debt behind a fake Gucci suit!",
+          "t": "You look like a walking discount warehouse disaster.",
           "g": "w"
         },
         {
           "s": "Figur",
-          "t": "I am Marcus, an arrogant orange stepping out of my glass tax office, sneering right at this stern coconut blocking my way."
+          "t": "I tell myself that buying these neon crop tops will finally make me feel like I belong."
         },
         {
-          "s": "Nebenfigur",
-          "t": "You think your fancy spreadsheets will save you from bankruptcy.",
+          "s": "Gegenspieler",
+          "t": "You are nothing more than a debt collector's favorite hobby.",
           "g": "w"
         },
         {
           "s": "Figur",
-          "t": "I adjusted my silk tie, my skin boiling with murderous rage because she has no right to judge me."
+          "t": "Please, Clara, don't tell human resources about my credit score or I will lose my desk."
         },
         {
-          "s": "Figur",
-          "t": "She knows damn well that every single parcel delivered to my penthouse was bought on credit."
-        },
-        {
-          "s": "Figur",
-          "t": "I spent years hiding my shopping addiction behind complex corporate ledgers, and she wants to expose me."
-        },
-        {
-          "s": "Nebenfigur",
-          "t": "Your financial empire is built entirely on tissue paper and lies.",
+          "s": "Gegenspieler",
+          "t": "Your desk was repossessed ten minutes ago, Chloe. Pack your cardboard boxes.",
           "g": "w"
         },
         {
-          "s": "Erzaehler",
-          "t": "She is walking straight to my office right now to steal my laptop, but I already locked her out of the master server. You will see that in Level 4."
+          "s": "Figur",
+          "t": "This has to be a sick joke engineered by the corporate finance department."
         },
         {
           "s": "Erzaehler",
           "t": "You'll see that in Level 4."
         }
       ],
-      "quote": "Your financial empire is built entirely on tissue paper and lies.",
+      "quote": "You are nothing more than a debt collector's favorite hobby.",
       "quote_by": {
-        "level": 5,
-        "name": "Clara",
-        "badge": "-450.000 $",
-        "character": "A stern coconut woman with a hard brown shell and an expensive fur coat.",
-        "scene": "A grand marble courthouse entrance where a coconut woman leans against a pillar, smirking down at an orange accountant holding an open briefcase full of bills."
+        "level": 6,
+        "name": "Carrot Clara",
+        "badge": "$250,000",
+        "character": "A tall, sharp carrot person with bright orange skin and a structured wool blazer, wearing wire-rimmed glasses.",
+        "scene": "Halbnah shot inside a pristine marble corporate washroom with bright white vanity lights and gleaming silver faucets."
       },
       "stats": [
         {
           "label": "Klarna Debt",
-          "value": "-1.5M $",
+          "value": "-$1.5M",
           "bar": 0.7
         },
         {
-          "label": "Suits Owned",
-          "value": "45",
-          "bar": 0.9
+          "label": "Salary",
+          "value": "$3,200",
+          "bar": 0.35
         },
         {
-          "label": "Credit Score",
-          "value": "310",
-          "bar": 0.1
+          "label": "Coats Worn",
+          "value": "3",
+          "bar": 0.5
         }
       ],
-      "character": "A bright orange fruit person with a textured citrus peel, wearing a sharp navy blue pinstripe suit and golden cufflinks. His glowing red forehead shows a seven-figure debt.",
-      "visual": "A towering corporate skyscraper lobby with polished marble floors, glass elevators reflecting city lights, an orange accountant holding a leather briefcase, and a golden coin resting on the reception desk.",
+      "character": "A smooth green avocado person with a slightly bruised cheek, wearing a layered winter coat indoors, and a glowing red digital debt display.",
+      "visual": "Wide angle shot of a sleek corporate office washroom with white marble tiles, modern mirrors, and a tiny golden coin wedged near the stainless steel sink drain.",
       "scenes": [
-        "A towering corporate skyscraper lobby with polished marble floors, glass elevators reflecting city lights, an orange accountant holding a leather briefcase, and a golden coin resting on the reception desk.",
-        "A sleek executive office overlooking the skyline with leather armchairs, stacks of unpaid bills, and a glowing laptop screen.",
-        "A marble courthouse entrance steps with stone columns, police officers, and reporters holding cameras.",
-        "A close-up shot of an orange man's sweating textured peel as he stares at a declining bank account balance on his phone.",
-        "A luxury walk-in closet filled with dozens of designer suits still bearing price tags and Klarna barcode stickers.",
-        "A dark underground parking garage with luxury sports cars and flickering emergency lights."
+        "Wide angle shot of a sleek corporate office washroom with gleaming white marble and modern mirrors.",
+        "Close up shot of an avocado person's forehead displaying a glowing red negative one point five million balance.",
+        "Medium shot of an office worker wearing multiple winter coats indoors to hide packages.",
+        "Detail shot of a small golden coin wedged near a stainless steel sink drain.",
+        "Halbnah shot of a carrot executive confronting the avocado worker by the sinks.",
+        "Detail shot of a smartphone screen overflowing with red payment app notification banners."
       ],
-      "caption": "When the top accountant in the city is drowning in secret designer debt. #AccountantLife #KlarnaAudit #OrangeSuit #CorporateDrama #Series"
+      "caption": "Can your outfit save you from your bank account? #corporatelife #avocado #debtors #officedrama #fastfashion"
     },
     {
       "n": 4,
-      "open_loop": "What was written inside the confidential shipping label addressed to her boss?",
+      "open_loop": "Why was the delivery truck parked outside her apartment locked from the inside?",
       "gegenspieler": {
-        "level": 6,
-        "tat": "Exposes her secret package history during a company board meeting.",
-        "g": "w"
+        "level": 7,
+        "tat": "Audits her personal storage unit and threatens to evict her within twenty-four hours."
       },
-      "name": "Victoria, 28, Influencer",
-      "badge": "-800.000 $",
-      "verdict": "CRITICAL OVERDRAFT",
-      "story": "The 8 levels of secret fast fashion shopping with millions in debt. Level 4. Stop posing like a billionaire when your forehead number is deeper in the red than my toxic ex! I am Victoria, an avocado influencer posing in front of a rented sports car, ready to slap this pink dragonfruit across the face for ruining my shoot. This entire lifestyle is rented garbage and everyone knows it. My avocado pit dropped in sheer panic as she ripped my sunglasses off live on stream. She holds up my unpaid invoice for the world to see, mocking every fake designer haul I ever posted. I built my entire identity on these boxes, and she is destroying it for clout. Your entire existence is nothing more than a sponsored illusion. She is about to leak my home address to my debt collectors, but I hid a cash stash inside her camera bag. You will see that in Level 5. You'll see that in Level 5.",
-      "gender": "w",
+      "name": "Leo, 28, Dispatcher",
+      "badge": "-$800,000",
+      "verdict": "UNSTABLE",
+      "story": "Level 4. Eight hundred thousand dollars in debt and my entire living room is blocked by twenty unopened parcel boxes. My Lemon head is stinging with sour regret as I sort through shipping labels on the floor. This building is for paying tenants, not package hoarders. I keep clicking buy now because the instant dopamine rush makes me forget my miserable life. Your financial funeral is scheduled for tomorrow morning. You cannot evict me like this without a formal warning letter from the municipal housing board. The board already signed your eviction warrant an hour ago, Leo. Then what are all these extra delivery trucks idling down in the alleyway right now? You'll see that in Level 5.",
+      "gender": "m",
       "twist": {
-        "delta": "-30.000 $",
-        "after": "-830.000 "
+        "delta": "-$50,000",
+        "after": "-$850,000"
       },
       "lines": [
         {
           "s": "Erzaehler",
-          "t": "The 8 levels of secret fast fashion shopping with millions in debt. Level 4."
+          "t": "Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Eight hundred thousand dollars in debt and my entire living room is blocked by twenty unopened parcel boxes."
+        },
+        {
+          "s": "Figur",
+          "t": "My Lemon head is stinging with sour regret as I sort through shipping labels on the floor."
         },
         {
           "s": "Gegenspieler",
-          "t": "Stop posing like a billionaire when your forehead number is deeper in the red than my toxic ex!",
-          "g": "w"
+          "t": "This building is for paying tenants, not package hoarders.",
+          "g": "m"
         },
         {
           "s": "Figur",
-          "t": "I am Victoria, an avocado influencer posing in front of a rented sports car, ready to slap this pink dragonfruit across the face for ruining my shoot."
+          "t": "I keep clicking buy now because the instant dopamine rush makes me forget my miserable life."
         },
         {
-          "s": "Nebenfigur",
-          "t": "This entire lifestyle is rented garbage and everyone knows it.",
-          "g": "w"
-        },
-        {
-          "s": "Figur",
-          "t": "My avocado pit dropped in sheer panic as she ripped my sunglasses off live on stream."
+          "s": "Gegenspieler",
+          "t": "Your financial funeral is scheduled for tomorrow morning.",
+          "g": "m"
         },
         {
           "s": "Figur",
-          "t": "She holds up my unpaid invoice for the world to see, mocking every fake designer haul I ever posted."
+          "t": "You cannot evict me like this without a formal warning letter from the municipal housing board."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "The board already signed your eviction warrant an hour ago, Leo.",
+          "g": "m"
         },
         {
           "s": "Figur",
-          "t": "I built my entire identity on these boxes, and she is destroying it for clout."
-        },
-        {
-          "s": "Nebenfigur",
-          "t": "Your entire existence is nothing more than a sponsored illusion.",
-          "g": "w"
-        },
-        {
-          "s": "Erzaehler",
-          "t": "She is about to leak my home address to my debt collectors, but I hid a cash stash inside her camera bag. You will see that in Level 5."
+          "t": "Then what are all these extra delivery trucks idling down in the alleyway right now?"
         },
         {
           "s": "Erzaehler",
           "t": "You'll see that in Level 5."
         }
       ],
-      "quote": "Your entire existence is nothing more than a sponsored illusion.",
+      "quote": "Your financial funeral is scheduled for tomorrow morning.",
       "quote_by": {
-        "level": 6,
-        "name": "Zoe",
-        "badge": "-120.000 $",
-        "character": "A striking pink dragonfruit woman with spiky green leaves and a rebellious black leather jacket.",
-        "scene": "A high-end photo studio with bright ring lights where a dragonfruit woman snatches a smartphone from an avocado influencer, exposing her glowing red debt numbers to the camera."
+        "level": 7,
+        "name": "Lord Dargon",
+        "badge": "$500,000",
+        "character": "An intimidating dragonfruit person with pink-scaled skin and emerald spikes, wearing a heavy velvet cape and gold rings.",
+        "scene": "Wide angle shot of a shabby apartment hallway with peeling floral wallpaper, flickering fluorescent lights, and scattered cardboard boxes."
       },
       "stats": [
         {
           "label": "Klarna Debt",
-          "value": "-800K $",
+          "value": "-$800K",
           "bar": 0.55
         },
         {
-          "label": "Followers",
-          "value": "2.4M",
-          "bar": 0.95
+          "label": "Monthly Pay",
+          "value": "$2,800",
+          "bar": 0.3
         },
         {
-          "label": "Unpaid Boxes",
-          "value": "310",
+          "label": "Boxes",
+          "value": "120",
           "bar": 0.8
         }
       ],
-      "character": "A smooth green avocado person with a dark green leathery skin texture, wearing trendy designer streetwear and oversized sunglasses. Her forehead displays a glowing red deficit.",
-      "visual": "A glamorous rooftop photo studio with artificial ring lights, a rented sports car, an avocado influencer holding a cardboard box, and a golden coin hidden inside a camera lens cap.",
+      "character": "A sour yellow lemon person with bumpy citrus skin, wearing a crumpled blue dispatcher uniform, and a glowing red digital debt display on his forehead.",
+      "visual": "Wide angle shot of a narrow apartment hallway piled high with brown cardboard shipping boxes, with a small golden coin hidden beneath bubble wrap on the floor.",
       "scenes": [
-        "A glamorous rooftop photo studio with artificial ring lights, a rented sports car, an avocado influencer holding a cardboard box, and a golden coin hidden inside a camera lens cap.",
-        "A trendy downtown café patio with neon signs, avocado toast on ceramic plates, and smartphones recording video.",
-        "A luxurious walk-in closet filled with designer shopping bags, ring lights, and hanging racks of colorful clothing.",
-        "A close-up shot of an avocado woman's smooth green skin sweating under studio lights while looking at live hateful comments on her phone.",
-        "A busy urban street corner with yellow cabs and digital billboards advertising fashion brands.",
-        "A minimalist white living room with scattered cardboard delivery boxes and tissue paper everywhere."
+        "Wide angle shot of a narrow apartment hallway piled high with brown cardboard shipping boxes.",
+        "Close up shot of a lemon person's forehead displaying a glowing red negative eight hundred thousand balance.",
+        "Medium shot of a delivery dispatcher sorting through return labels on a dirty floor.",
+        "Detail shot of a small golden coin hidden underneath popping bubble wrap.",
+        "Halbnah shot of a dragonfruit landlord handing an eviction notice to the tenant.",
+        "Detail shot of a shipping label scanner flashing a red error light in a dim room."
       ],
-      "caption": "When the biggest influencer in the city is hiding 800k in unpaid shopping hauls. #InfluencerLife #KlarnaExposed #AvocadoDrama #FakeLuxury #Viral"
+      "caption": "When the delivery packages completely take over your apartment. #lemon #dispatch #debtcrisis #hoarding #klarnabuying"
     },
     {
       "n": 5,
-      "open_loop": "Who sent the anonymous tip to the bank regarding her hidden assets?",
+      "open_loop": "What was inside the locked suitcase found under the hotel bed?",
       "gegenspieler": {
-        "level": 7,
-        "tat": "Threatens eviction from her luxury penthouse overlooking the city park.",
-        "g": "m"
+        "level": 8,
+        "tat": "Exposes her entire shopping history to the public social media registry."
       },
-      "name": "Clara, 35, Executive",
-      "badge": "-450.000 $",
-      "verdict": "SEVERELY OVEREXTENDED",
-      "story": "The 8 levels of secret fast fashion shopping with millions in debt. Level 5. Hand over the penthouse keys right now, madam executive, or I'll throw your precious fur coats out the window! I am Clara, a hard-shelled coconut woman wearing an expensive mink coat, glaring at this infuriating broccoli security guard who thinks he owns my building. Your reign at the top is officially over, Ms. Executive. My hard shell cracked slightly under the absolute insult of his smirk. He knows my corporate salary cannot cover the massive clothing hauls hidden in my guest bedroom, and he is trying to extort me. I worked decades to maintain this untouchable image while drowning in debt. Your hard outer shell cannot protect you from real life. He is marching to my safe right now, unaware that I replaced the master documents with forged eviction papers for his own locker. You will see that in Level 6. You'll see that in Level 6.",
+      "name": "Maya, 25, Influencer",
+      "badge": "-$350,000",
+      "verdict": "HIGH RISK",
+      "story": "Level 5. Three hundred fifty thousand in debt and I am staging a fake luxury photoshoot in a rented hotel room. My Coconut shell feels hollow and brittle as I adjust the ring light for my TikTok live stream. You are drowning in consumer debt and pretending to be rich for views. I tell myself that just one more viral video will pay off all my Klarna balances. Your bankruptcy will be the best show this city has ever streamed. My followers believe every single post I make, they will never find out the truth. The truth is already trending worldwide under the hashtag #FakeInfluencer, Maya. No, please cut the live stream feed before my brand sponsors see my real bank balance! You'll see that in Level 6.",
       "gender": "w",
       "twist": {
-        "delta": "+50.000 $",
-        "after": "-400.000 "
+        "delta": "-$40,000",
+        "after": "-$390,000"
       },
       "lines": [
         {
           "s": "Erzaehler",
-          "t": "The 8 levels of secret fast fashion shopping with millions in debt. Level 5."
+          "t": "Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Three hundred fifty thousand in debt and I am staging a fake luxury photoshoot in a rented hotel room."
+        },
+        {
+          "s": "Figur",
+          "t": "My Coconut shell feels hollow and brittle as I adjust the ring light for my TikTok live stream."
         },
         {
           "s": "Gegenspieler",
-          "t": "Hand over the penthouse keys right now, madam executive, or I'll throw your precious fur coats out the window!",
+          "t": "You are drowning in consumer debt and pretending to be rich for views.",
           "g": "m"
         },
         {
           "s": "Figur",
-          "t": "I am Clara, a hard-shelled coconut woman wearing an expensive mink coat, glaring at this infuriating broccoli security guard who thinks he owns my building."
+          "t": "I tell myself that just one more viral video will pay off all my Klarna balances."
         },
         {
-          "s": "Nebenfigur",
-          "t": "Your reign at the top is officially over, Ms. Executive.",
+          "s": "Gegenspieler",
+          "t": "Your bankruptcy will be the best show this city has ever streamed.",
           "g": "m"
         },
         {
           "s": "Figur",
-          "t": "My hard shell cracked slightly under the absolute insult of his smirk."
+          "t": "My followers believe every single post I make, they will never find out the truth."
         },
         {
-          "s": "Figur",
-          "t": "He knows my corporate salary cannot cover the massive clothing hauls hidden in my guest bedroom, and he is trying to extort me."
-        },
-        {
-          "s": "Figur",
-          "t": "I worked decades to maintain this untouchable image while drowning in debt."
-        },
-        {
-          "s": "Nebenfigur",
-          "t": "Your hard outer shell cannot protect you from real life.",
+          "s": "Gegenspieler",
+          "t": "The truth is already trending worldwide under the hashtag #FakeInfluencer, Maya.",
           "g": "m"
         },
         {
-          "s": "Erzaehler",
-          "t": "He is marching to my safe right now, unaware that I replaced the master documents with forged eviction papers for his own locker. You will see that in Level 6."
+          "s": "Figur",
+          "t": "No, please cut the live stream feed before my brand sponsors see my real bank balance!"
         },
         {
           "s": "Erzaehler",
           "t": "You'll see that in Level 6."
         }
       ],
-      "quote": "Your hard outer shell cannot protect you from real life.",
+      "quote": "Your bankruptcy will be the best show this city has ever streamed.",
       "quote_by": {
-        "level": 7,
-        "name": "Leo",
-        "badge": "-40.000 $",
-        "character": "A sturdy broccoli man with curly green florets and a heavy security uniform.",
-        "scene": "A luxury penthouse office with floor-to-ceiling windows where a broccoli security guard drops foreclosure papers onto a coconut executive's polished desk."
+        "level": 8,
+        "name": "King Pine",
+        "badge": "$1,200,000",
+        "character": "A regal pineapple person with spiky crown leaves, wearing an immaculate gold-threaded tuxedo and holding a diamond-encrusted cane.",
+        "scene": "Wide angle shot of a luxurious penthouse hotel suite with floor-to-ceiling windows showing a glowing cyberpunk city skyline at night."
       },
       "stats": [
         {
           "label": "Klarna Debt",
-          "value": "-450K $",
+          "value": "-$350K",
           "bar": 0.4
         },
         {
-          "label": "Properties",
-          "value": "3",
-          "bar": 0.6
+          "label": "Brand Deals",
+          "value": "$1,500",
+          "bar": 0.25
         },
         {
-          "label": "Unpaid Bills",
-          "value": "84",
+          "label": "Followers",
+          "value": "45K",
           "bar": 0.5
         }
       ],
-      "character": "A fibrous brown coconut person with a hard textured shell, wearing a luxurious mink coat and pearl necklace. Her forehead displays a glowing red deficit number.",
-      "visual": "A lavish penthouse office with floor-to-ceiling glass windows overlooking the glittering metropolis, a coconut executive sitting at a mahogany desk, and a golden coin resting on a crystal paperweight.",
+      "character": "A fibrous brown coconut person with a hard textured outer shell, wearing a trendy influencer crop top, and a glowing red digital debt display.",
+      "visual": "Wide angle shot of a luxurious penthouse hotel suite with bright ring lights, unopened shopping bags, and a tiny golden coin hidden beneath a velvet sofa cushion.",
       "scenes": [
-        "A lavish penthouse office with floor-to-ceiling glass windows overlooking the glittering metropolis, a coconut executive sitting at a mahogany desk, and a golden coin resting on a crystal paperweight.",
-        "A grand corporate boardroom with leather chairs, charts on digital screens, and tense fruit executives.",
-        "A luxurious guest bedroom transformed into a massive storage room filled with unopened clothing boxes.",
-        "A close-up shot of a hard brown coconut shell reflecting city lights as foreclosure notices burn in an ashtray.",
-        "A private elevator lobby with brushed gold doors and security cameras.",
-        "A rainy balcony overlooking the city park at midnight."
+        "Wide angle shot of a luxurious penthouse hotel suite with bright ring lights and scattered shopping bags.",
+        "Close up shot of a coconut person's forehead displaying a glowing red negative three hundred fifty thousand balance.",
+        "Medium shot of an influencer unpacking fake designer boxes in front of a smartphone camera.",
+        "Detail shot of a small golden coin hidden beneath a plush velvet sofa cushion.",
+        "Halbnah shot of a pineapple manager confronting the influencer near the window.",
+        "Detail shot of a smartphone live stream interface showing plunging viewer counts."
       ],
-      "caption": "When the top corporate executive in the city is hiding 450k in secret boutique packages. #ExecutiveLife #KlarnaDebt #CoconutDrama #Penthouse"
+      "caption": "When your fake rich lifestyle meets real debt collection. #coconut #influencerdrama #fakewealth #klarna #penthouse"
     },
     {
       "n": 6,
-      "open_loop": "What was hidden inside the secret compartment of her leather jacket?",
+      "open_loop": "Who sent the anonymous email containing the bank records?",
       "gegenspieler": {
-        "level": 8,
-        "tat": "Pays off her entire debt in cash just to humiliate her independence.",
-        "g": "m"
+        "level": 3,
+        "tat": "Steals her parking spot and files a false noise complaint with the building management."
       },
-      "name": "Zoe, 24, Rebel",
-      "badge": "-120.000 $",
-      "verdict": "MODERATE DEFICIT",
-      "story": "The 8 levels of secret fast fashion shopping with millions in debt. Level 6. Put that spray can down, you tattooed pink punk, or I'll auction off your entire streetwear closet to pay your bills! I am Zoe, a pink dragonfruit spray-painting a brick wall, spinning around to face this arrogant carrot detective invading my alley. You cannot run away from your financial shadow with spray paint. My pink skin flushed hot as I dropped my aerosol can, ready to punch him in his smug trench coat. He holds up my latest Klarna bill like a criminal arrest warrant, treating me like a total criminal. I buy clothes to feel alive in a city that treats everyone like produce. True rebellion is facing your numbers without hiding behind a brand. He is about to call the debt police to seize my spray cans, but I already slashed his car tires around the corner. You will see that in Level 7. You'll see that in Level 7.",
-      "gender": "w",
+      "name": "Sam, 29, Accountant",
+      "badge": "-$90,000",
+      "verdict": "RECOVERING",
+      "story": "Level 6. Ninety thousand dollars in debt and I am finally cutting up my virtual shopping cards one by one over the kitchen sink. My crisp Broccoli florets are trembling as I balance my actual monthly budget. You actually have a manageable negative balance while I am drowning in packages. My job as a corporate accountant taught me how deep the city's fast fashion addiction really goes. You only look successful because you hide your garbage better than the rest of us. Chloe, look at these ledger entries from the central bank, the numbers do not add up at all. What are you talking about, Sam? Those are just standard corporate tax documents. No, someone deliberately manipulated our accounts to keep us trapped in permanent debt loops. You'll see that in Level 7.",
+      "gender": "m",
       "twist": {
-        "delta": "+20.000 $",
-        "after": "-100.000 "
+        "delta": "+$15,000",
+        "after": "-$75,000"
       },
       "lines": [
         {
           "s": "Erzaehler",
-          "t": "The 8 levels of secret fast fashion shopping with millions in debt. Level 6."
-        },
-        {
-          "s": "Gegenspieler",
-          "t": "Put that spray can down, you tattooed pink punk, or I'll auction off your entire streetwear closet to pay your bills!",
-          "g": "m"
+          "t": "Level 6."
         },
         {
           "s": "Figur",
-          "t": "I am Zoe, a pink dragonfruit spray-painting a brick wall, spinning around to face this arrogant carrot detective invading my alley."
+          "t": "Ninety thousand dollars in debt and I am finally cutting up my virtual shopping cards one by one over the kitchen sink."
+        },
+        {
+          "s": "Figur",
+          "t": "My crisp Broccoli florets are trembling as I balance my actual monthly budget."
         },
         {
           "s": "Nebenfigur",
-          "t": "You cannot run away from your financial shadow with spray paint.",
-          "g": "m"
+          "t": "You actually have a manageable negative balance while I am drowning in packages.",
+          "g": "w"
         },
         {
           "s": "Figur",
-          "t": "My pink skin flushed hot as I dropped my aerosol can, ready to punch him in his smug trench coat."
-        },
-        {
-          "s": "Figur",
-          "t": "He holds up my latest Klarna bill like a criminal arrest warrant, treating me like a total criminal."
-        },
-        {
-          "s": "Figur",
-          "t": "I buy clothes to feel alive in a city that treats everyone like produce."
+          "t": "My job as a corporate accountant taught me how deep the city's fast fashion addiction really goes."
         },
         {
           "s": "Nebenfigur",
-          "t": "True rebellion is facing your numbers without hiding behind a brand.",
-          "g": "m"
+          "t": "You only look successful because you hide your garbage better than the rest of us.",
+          "g": "w"
         },
         {
-          "s": "Erzaehler",
-          "t": "He is about to call the debt police to seize my spray cans, but I already slashed his car tires around the corner. You will see that in Level 7."
+          "s": "Figur",
+          "t": "Chloe, look at these ledger entries from the central bank, the numbers do not add up at all."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "What are you talking about, Sam? Those are just standard corporate tax documents.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "No, someone deliberately manipulated our accounts to keep us trapped in permanent debt loops."
         },
         {
           "s": "Erzaehler",
           "t": "You'll see that in Level 7."
         }
       ],
-      "quote": "True rebellion is facing your numbers without hiding behind a brand.",
+      "quote": "You only look successful because you hide your garbage better than the rest of us.",
       "quote_by": {
-        "level": 8,
-        "name": "Max",
-        "badge": "0 $",
-        "character": "A calm, mysterious carrot man in an immaculate grey trench coat with a completely blank, debt-free forehead.",
-        "scene": "A dark neon-lit alleyway where a mysterious carrot man holds up an unpaid bill in front of a startled pink dragonfruit holding a spray can."
+        "level": 3,
+        "name": "Chloe",
+        "badge": "-$1,500,000",
+        "character": "A smooth green avocado person wearing a layered winter coat indoors and looking deeply stressed.",
+        "scene": "Medium shot inside a brightly lit office breakroom with vending machines and a stainless steel coffee maker."
       },
       "stats": [
         {
           "label": "Klarna Debt",
-          "value": "-120K $",
+          "value": "-$90K",
           "bar": 0.25
         },
         {
-          "label": "Graffiti Tags",
-          "value": "48",
-          "bar": 0.7
+          "label": "Monthly Save",
+          "value": "$2,200",
+          "bar": 0.6
         },
         {
-          "label": "Jackets",
-          "value": "19",
+          "label": "Credit Score",
+          "value": "620",
           "bar": 0.5
         }
       ],
-      "character": "A vibrant pink dragonfruit person with green spiky bracts, wearing a worn black leather jacket covered in patches and pins. Her forehead displays a glowing red debt number.",
-      "visual": "A gritty neon-lit alleyway with colorful graffiti murals on brick walls, a pink dragonfruit holding a spray can, and a golden coin wedged between two red bricks.",
+      "character": "A crisp green broccoli person with intricate floret details, wearing a neat accountant suit and tie, and a glowing green digital debt display.",
+      "visual": "Wide angle shot of a clean corporate breakroom with soft morning sunlight streaming through vertical blinds, and a small golden coin hidden under a microwave leg.",
       "scenes": [
-        "A gritty neon-lit alleyway with colorful graffiti murals on brick walls, a pink dragonfruit holding a spray can, and a golden coin wedged between two red bricks.",
-        "An underground skate park with concrete ramps, glowing LED strips, and teenagers wearing oversized streetwear.",
-        "A cramped bohemian bedroom filled with art supplies, clothing racks, and shipping boxes.",
-        "A close-up shot of a pink dragonfruit's textured skin holding a crumpled Klarna bill under a streetlamp.",
-        "A late-night diner with vinyl booths and glowing neon signs reflecting off rainy windows.",
-        "A subway train interior covered in colorful stickers and graffiti tags."
+        "Wide angle shot of a clean corporate breakroom with soft morning sunlight streaming through blinds.",
+        "Close up shot of a broccoli person's forehead displaying a glowing green negative ninety thousand balance.",
+        "Medium shot of an accountant cutting up plastic credit cards over a stainless steel sink.",
+        "Detail shot of a small golden coin hidden under the rubber leg of a microwave.",
+        "Halbnah shot of an avocado worker confronting the accountant in the breakroom.",
+        "Detail shot of a spreadsheet screen showing declining debt curves and green graphs."
       ],
-      "caption": "When your underground streetwear obsession finally catches up with your bank account. #RebelLife #KlarnaDebt #Dragonfruit #Streetwear #Drama"
+      "caption": "Can you ever truly pay off your secret shopping debts? #broccoli #accountant #debtfreejourney #budgeting #corporate"
     },
     {
       "n": 7,
-      "open_loop": "What happened to the master ledger containing all secret shopping accounts?",
+      "open_loop": "What was written inside the safety deposit box key envelope?",
       "gegenspieler": {
         "level": 1,
-        "tat": "Accuses him of ruining the delivery system with unnecessary security blocks.",
-        "g": "w"
+        "tat": "Leaves massive piles of empty delivery boxes blocking his private driveway."
       },
-      "name": "Leo, 29, Security Guard",
-      "badge": "-40.000 $",
-      "verdict": "ALMOST BALANCED",
-      "story": "The 8 levels of secret fast fashion shopping with millions in debt. Level 7. Are you completely incompetent or just trying to steal my parcels, you oversized broccoli guard? I am Leo, a broccoli security guard patrolling the warehouse, screaming right back at this tiny blue blueberry intern blocking my scanners. You are blocking the delivery entrance with your pathetic little debt warnings. My green florets twitched in irritation as I snatched the fallen papers out of her tiny hands. She has no idea I bought half my wardrobe using the company's internal return loophole, and she thinks she can lecture me. Every guard in this building is secretly drowning in fast fashion debt. Your uniform cannot hide the unpaid tags hanging inside your locker. She is about to trigger the warehouse alarm to get me fired, but I already disabled the main security cameras. You will see that in Level 8. You'll see that in Level 8.",
+      "name": "Drago, 32, Collector",
+      "badge": "$500,000",
+      "verdict": "SECURE",
+      "story": "Level 7. Half a million in clean assets and my antique watch collection is safely locked inside a bulletproof vault. My Dragonfruit scales gleam under the museum lighting as I inspect a rare gold pocket watch. You have no idea what it's like to drown in package debt every single day. My business of buying distressed retail debt taught me never to pity people who shop beyond their means. You bought your success by crushing people like me. I only collect the debts that irresponsible citizens refuse to pay back on time, Leo. And now your own vault is about to be repossessed by the master of this city. That is impossible, my security clearance is protected by the highest government firewall. You'll see that in Level 8.",
       "gender": "m",
       "twist": {
-        "delta": "+40.000 $",
-        "after": "0 $"
+        "delta": "+$50,000",
+        "after": "$550,000"
       },
       "lines": [
         {
           "s": "Erzaehler",
-          "t": "The 8 levels of secret fast fashion shopping with millions in debt. Level 7."
+          "t": "Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Half a million in clean assets and my antique watch collection is safely locked inside a bulletproof vault."
+        },
+        {
+          "s": "Figur",
+          "t": "My Dragonfruit scales gleam under the museum lighting as I inspect a rare gold pocket watch."
         },
         {
           "s": "Gegenspieler",
-          "t": "Are you completely incompetent or just trying to steal my parcels, you oversized broccoli guard?",
-          "g": "w"
+          "t": "You have no idea what it's like to drown in package debt every single day.",
+          "g": "m"
         },
         {
           "s": "Figur",
-          "t": "I am Leo, a broccoli security guard patrolling the warehouse, screaming right back at this tiny blue blueberry intern blocking my scanners."
+          "t": "My business of buying distressed retail debt taught me never to pity people who shop beyond their means."
         },
         {
-          "s": "Nebenfigur",
-          "t": "You are blocking the delivery entrance with your pathetic little debt warnings.",
-          "g": "w"
-        },
-        {
-          "s": "Figur",
-          "t": "My green florets twitched in irritation as I snatched the fallen papers out of her tiny hands."
+          "s": "Gegenspieler",
+          "t": "You bought your success by crushing people like me.",
+          "g": "m"
         },
         {
           "s": "Figur",
-          "t": "She has no idea I bought half my wardrobe using the company's internal return loophole, and she thinks she can lecture me."
+          "t": "I only collect the debts that irresponsible citizens refuse to pay back on time, Leo."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "And now your own vault is about to be repossessed by the master of this city.",
+          "g": "m"
         },
         {
           "s": "Figur",
-          "t": "Every guard in this building is secretly drowning in fast fashion debt."
-        },
-        {
-          "s": "Nebenfigur",
-          "t": "Your uniform cannot hide the unpaid tags hanging inside your locker.",
-          "g": "w"
-        },
-        {
-          "s": "Erzaehler",
-          "t": "She is about to trigger the warehouse alarm to get me fired, but I already disabled the main security cameras. You will see that in Level 8."
+          "t": "That is impossible, my security clearance is protected by the highest government firewall."
         },
         {
           "s": "Erzaehler",
           "t": "You'll see that in Level 8."
         }
       ],
-      "quote": "Your uniform cannot hide the unpaid tags hanging inside your locker.",
+      "quote": "You bought your success by crushing people like me.",
       "quote_by": {
-        "level": 1,
-        "name": "Chloe",
-        "badge": "-3.170.400 $",
-        "character": "A tiny blue blueberry intern in an oversized grey hoodie holding a stack of shipping boxes.",
-        "scene": "A massive automated shipping warehouse where a blueberry intern glares up at a broccoli security guard standing by a conveyor belt."
+        "level": 4,
+        "name": "Leo",
+        "badge": "-$800,000",
+        "character": "A sour yellow lemon person wearing a crumpled blue dispatcher uniform and looking exhausted.",
+        "scene": "Wide angle shot inside a high-end antique pawn showroom with glass display cases, velvet interiors, and warm golden spotlighting."
       },
       "stats": [
         {
-          "label": "Klarna Debt",
-          "value": "-40K $",
-          "bar": 0.1
+          "label": "Assets",
+          "value": "$500K",
+          "bar": 0.8
         },
         {
-          "label": "Parcels Watched",
-          "value": "12.4K",
+          "label": "Vault Worth",
+          "value": "$1.2M",
           "bar": 0.9
         },
         {
-          "label": "Guard Shifts",
-          "value": "410",
-          "bar": 0.6
+          "label": "Credit",
+          "value": "820",
+          "bar": 0.95
         }
       ],
-      "character": "A sturdy broccoli person with dense curly green florets forming hair, wearing a dark green security uniform with a shiny gold badge. His forehead shows a low red debt number.",
-      "visual": "A massive automated shipping warehouse with endless conveyor belts, towering cardboard boxes, a broccoli security guard holding a scanner, and a golden coin resting on a forklift tire.",
+      "character": "An exotic pink dragonfruit person with emerald green scale tips, wearing a tailored vintage vest and gold pocket watch chain, with a glowing green digital asset display.",
+      "visual": "Wide angle shot of an upscale antique pawn showroom with mahogany display cases, velvet lighting, and a small golden coin resting on a velvet watch pillow.",
       "scenes": [
-        "A massive automated shipping warehouse with endless conveyor belts, towering cardboard boxes, a broccoli security guard holding a scanner, and a golden coin resting on a forklift tire.",
-        "A high-security control room with wall-to-wall monitor screens displaying every corner of the fruit metropolis.",
-        "A metal security locker room with uniforms hanging and hidden clothing tags tucked inside.",
-        "A close-up shot of a broccoli man's textured green florets as he watches a barcode scanner flash a red error warning.",
-        "A loading dock with heavy delivery trucks reversing under bright halogen floodlights.",
-        "A quiet corridor inside the warehouse with concrete floors and flickering overhead lights."
+        "Wide angle shot of an upscale antique pawn showroom with mahogany display cases and velvet lighting.",
+        "Close up shot of a dragonfruit person's forehead displaying a glowing green five hundred thousand asset balance.",
+        "Medium shot of a collector inspecting vintage gold pocket watches with a jeweler loupe.",
+        "Detail shot of a small golden coin resting on a velvet watch display pillow.",
+        "Halbnah shot of a lemon dispatcher confronting the collector across a glass showcase.",
+        "Detail shot of a vault door locking mechanism sealing heavy steel bolts."
       ],
-      "caption": "When the security guard watching the warehouse is hiding his own secret shopping debt. #SecurityLife #KlarnaWarehouse #BroccoliGuard #Mystery #Series"
+      "caption": "When you buy the debt of everyone who tried to trick the system. #dragonfruit #collector #wealth #assets #pawnshop"
     },
     {
       "n": 8,
-      "open_loop": "What did the mysterious carrot write on the final blank ledger page?",
+      "open_loop": "Who is the mysterious mastermind behind the entire city's debt network?",
       "gegenspieler": {
-        "level": 1,
-        "tat": "Asks him how it feels to finally have zero debt in a world of numbers.",
-        "g": "w"
+        "level": 5,
+        "tat": "Tries to bribe him with stolen influencer merchandise during a private board meeting."
       },
-      "name": "Max, 32, Auditor",
-      "badge": "0 $",
-      "verdict": "DEBT FREE",
-      "story": "The 8 levels of secret fast fashion shopping with millions in debt. Level 8. Silence! Every single one of you is standing here drowning in millions of fake debt while I hold the master key to this entire city! I am Max, a mysterious carrot man standing on the grand observation deck, glaring down at all seven wretched debtors trembling before me. The blueberry, the lemon, the orange, the avocado, the coconut, the dragonfruit, and the broccoli finally meet at the center to face their doom. You all thought your hidden shopping carts would remain invisible forever, but my ledger sees everything. My bright orange carrot skin stood firm against the cold night wind as I slammed the leather book shut. Every single package, every unpaid invoice, and every secret parcel across the metropolis converges right here in my hands. The numbers on your foreheads dictated how you treated each other, but the debt was never real. What is the true cost of living in a world ruled by numbers?",
+      "name": "Pine, 35, Tycoon",
+      "badge": "$1,200,000",
+      "verdict": "UNTOUCHABLE",
+      "story": "Level 8. One point two million dollars in monthly profit and I own every single shipping warehouse, fast fashion brand, and debt collection agency in Veggieopolis. My Pine crown stands tall as I gaze out over the endless neon skyline from the top floor of the corporate tower. You are the one who engineered all our shopping addictions and automated debt traps. Every package delivered, every impulse purchase checked out at 2 AM, was designed to feed this empire. The number on your forehead isn't your net worth, it's just the price tag I assigned to your soul. Your reign over Veggieopolis ends right now, King Pine. Every citizen is waking up. Let them wake up. They will always crawl back to my shopping apps by midnight. Look at your own forehead screen right now. Your net worth is dropping to zero. You'll see that in Level 1.",
       "gender": "m",
       "twist": {
-        "delta": "0 $",
-        "after": "0 $"
+        "delta": "+$200,000",
+        "after": "$1,400,00"
       },
       "lines": [
         {
           "s": "Erzaehler",
-          "t": "The 8 levels of secret fast fashion shopping with millions in debt. Level 8."
+          "t": "Level 8."
         },
         {
           "s": "Figur",
-          "t": "Silence! Every single one of you is standing here drowning in millions of fake debt while I hold the master key to this entire city!"
+          "t": "One point two million dollars in monthly profit and I own every single shipping warehouse, fast fashion brand, and debt collection agency in Veggieopolis."
         },
         {
           "s": "Figur",
-          "t": "I am Max, a mysterious carrot man standing on the grand observation deck, glaring down at all seven wretched debtors trembling before me."
+          "t": "My Pine crown stands tall as I gaze out over the endless neon skyline from the top floor of the corporate tower."
         },
         {
-          "s": "Figur",
-          "t": "The blueberry, the lemon, the orange, the avocado, the coconut, the dragonfruit, and the broccoli finally meet at the center to face their doom."
-        },
-        {
-          "s": "Gegenspieler",
-          "t": "You all thought your hidden shopping carts would remain invisible forever, but my ledger sees everything.",
+          "s": "Nebenfigur",
+          "t": "You are the one who engineered all our shopping addictions and automated debt traps.",
           "g": "w"
         },
         {
           "s": "Figur",
-          "t": "My bright orange carrot skin stood firm against the cold night wind as I slammed the leather book shut."
+          "t": "Every package delivered, every impulse purchase checked out at 2 AM, was designed to feed this empire."
         },
         {
           "s": "Figur",
-          "t": "Every single package, every unpaid invoice, and every secret parcel across the metropolis converges right here in my hands."
+          "t": "The number on your forehead isn't your net worth, it's just the price tag I assigned to your soul."
         },
         {
-          "s": "Gegenspieler",
-          "t": "The numbers on your foreheads dictated how you treated each other, but the debt was never real.",
+          "s": "Nebenfigur",
+          "t": "Your reign over Veggieopolis ends right now, King Pine. Every citizen is waking up.",
           "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Let them wake up. They will always crawl back to my shopping apps by midnight."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Look at your own forehead screen right now. Your net worth is dropping to zero.",
+          "g": "m"
         },
         {
           "s": "Erzaehler",
-          "t": "What is the true cost of living in a world ruled by numbers?"
+          "t": "You'll see that in Level 1."
         }
       ],
-      "quote": "The numbers on your foreheads dictated how you treated each other, but the debt was never real.",
+      "quote": "The number on your forehead isn't your net worth, it's just the price tag I assigned to your soul.",
       "quote_by": {
-        "level": 1,
-        "name": "Chloe",
-        "badge": "-3.170.400 $",
-        "character": "A tiny blue blueberry intern in a grey hoodie staring up in total disbelief at a zero forehead number.",
-        "scene": "A rooftop observation deck at midnight where all eight fruit and vegetable characters gather around a carrot auditor holding an open leather ledger."
+        "level": 8,
+        "name": "King Pine",
+        "badge": "$1,200,000",
+        "character": "A regal pineapple person with spiky crown leaves, wearing an immaculate gold-threaded tuxedo and holding a diamond-encrusted cane.",
+        "scene": "Wide angle shot inside a high-tech corporate penthouse office overlooking a sprawling cyberpunk city filled with neon lights and delivery drones."
       },
       "stats": [
         {
-          "label": "Klarna Debt",
-          "value": "0 $",
-          "bar": 0.0
-        },
-        {
-          "label": "Master Ledgers",
-          "value": "1",
+          "label": "Monthly Profit",
+          "value": "$1.2M",
           "bar": 1.0
         },
         {
-          "label": "City Balance",
-          "value": "Balanced",
+          "label": "Empire Worth",
+          "value": "$45.0M",
+          "bar": 1.0
+        },
+        {
+          "label": "City Control",
+          "value": "100%",
           "bar": 1.0
         }
       ],
-      "character": "A sleek tall carrot person with vibrant orange smooth skin and green leafy hair tufts, wearing a tailored grey trench coat. His forehead displays a glowing zero.",
-      "visual": "A grand rooftop observation deck overlooking the entire illuminated fruit metropolis at midnight, a carrot auditor holding an open ledger, and a golden coin resting on the telescope base.",
+      "character": "A majestic pineapple person with textured yellow-brown skin and spiky green crown leaves, wearing a custom velvet tuxedo, and a glowing green digital fortune display.",
+      "visual": "Wide angle shot of a massive cyberpunk penthouse office at dusk with floor-to-ceiling glass windows showing flying delivery drones and a small golden coin embedded in a polished marble conference table.",
       "scenes": [
-        "A grand rooftop observation deck overlooking the entire illuminated fruit metropolis at midnight, a carrot auditor holding an open ledger, and a golden coin resting on the telescope base.",
-        "A glowing digital central plaza where giant forehead numbers flash across all skyscrapers simultaneously.",
-        "A circle of diverse fruit and vegetable citizens standing together under the night sky.",
-        "A close-up shot of a carrot man's smooth orange skin reflecting a glowing zero on his forehead.",
-        "An open leather ledger displaying names and numbers of all eight series characters.",
-        "A sweeping drone shot flying above the glowing metropolis streets connecting all previous locations."
+        "Wide angle shot of a massive cyberpunk penthouse office at dusk with floor-to-ceiling glass windows.",
+        "Close up shot of a pineapple person's forehead displaying a glowing green one point two million profit balance.",
+        "Medium shot of a corporate tycoon overlooking the sprawling neon city filled with delivery drones.",
+        "Detail shot of a small golden coin embedded directly into a polished marble conference table.",
+        "Halbnah shot of an influencer confronting the tycoon in the penthouse boardroom.",
+        "Wide angle shot of delivery trucks swarming the city streets below like an endless river of cardboard."
       ],
-      "caption": "What happens when all 8 levels finally collide and the debt is revealed? Which topic should we do next? #KlarnaFinale #CarrotAuditor #SeriesFinale #DebtFree #ViralDrama"
+      "caption": "Who really controls the debt and the packages in your city? #pineapple #tycoon #mastermind #veggieopolis #secret"
     }
   ],
   "lang": "en",

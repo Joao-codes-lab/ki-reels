@@ -1,0 +1,653 @@
+{
+  "title": "Die 8 Level von Neid im Büro",
+  "house": "A gleaming, satirical neo-corporate metropolis where towering glass skyscrapers shape the skyline, inhabited entirely by anthropomorphic fruit and vegetable citizens whose social hierarchy is dictated by glowing digital salary displays on their foreheads.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Kevin aus Level 4 lässt seine Tabellen heimlich von Timo aus Level 1 und Marc aus Level 3 tippen.",
+    "Dennis aus Level 5 stiehlt Samiras Präsentation aus Level 2 für das Meeting mit Linda aus Level 7.",
+    "Linda aus Level 7 deckt Kevins Inkompetenz, weil sein Onkel Vorstand Albrecht aus Level 8 ist.",
+    "Miriam aus Level 6 heult auf der Damentoilette, während Kevin ihren Jahresbonus als Teamprämie einstreicht."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Welcher Betrug läuft hier?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Schiebt Timo seine gesamte Wochenarbeit zu und verhöhnt sein Praktikanten-Gehalt vor dem ganzen Großraumbüro."
+      },
+      "name": "Timo, 21, Pflichtpraktikant",
+      "badge": "650 € netto",
+      "verdict": "AUSGEBEUTET",
+      "story": "650 Euro? Du zahlst dafür, dass du hier atmen darfst! Kevins Stirn glänzt mit 3.400 Euro. Ich bin Timo, Erdbeere, der billigste Praktikant. Aber niemand ahnt: Ich bin heimlich der anonyme Entwickler des KI-Tools, das diesen gesamten Konzern am Laufen hält. Ich arbeite sechzig Stunden pro Woche, während Kevin im Padel-Club rumhängt. Mein Wecker klingelt jeden Tag um vier Uhr morgens in einer überfüllten U-Bahn. Mach meine Präsentation fertig, Kleiner. Fleiß ist nur die Ausrede der Verlierer! Die Arbeitslast erdrückt mich fast völlig. Mein Handy meldet eine geplatzte Mietabbuchung, meine Anzeige stürzt gnadenlos ab. Vor Scham laufe ich zum Drucker, um meine Sachen zu packen. Doch dort liegt die Präsentation, die Dennis gerade Samira gestohlen hat – und auf Seite 1 steht Kevins Name! Welcher Betrug läuft hier? Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-120 €",
+        "after": "530 €"
+      },
+      "lines": [
+        {
+          "s": "Gegenspieler",
+          "t": "650 Euro? Du zahlst dafür, dass du hier atmen darfst!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Kevins Stirn glänzt mit 3.400 Euro. Ich bin Timo, Erdbeere, der billigste Praktikant. Aber niemand ahnt: Ich bin heimlich der anonyme Entwickler des KI-Tools, das diesen gesamten Konzern am Laufen hält."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich arbeite sechzig Stunden pro Woche, während Kevin im Padel-Club rumhängt. Mein Wecker klingelt jeden Tag um vier Uhr morgens in einer überfüllten U-Bahn."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mach meine Präsentation fertig, Kleiner. Fleiß ist nur die Ausrede der Verlierer!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Arbeitslast erdrückt mich fast völlig. Mein Handy meldet eine geplatzte Mietabbuchung, meine Anzeige stürzt gnadenlos ab. Vor Scham laufe ich zum Drucker, um meine Sachen zu packen. Doch dort liegt die Präsentation, die Dennis gerade Samira gestohlen hat – und auf Seite 1 steht Kevins Name! Welcher Betrug läuft hier?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Fleiß ist nur die Ausrede der Verlierer.",
+      "quote_by": {
+        "level": 4,
+        "name": "Kevin",
+        "badge": "3.400 €",
+        "character": "Smug banana businessman in an untied designer silk tie and half-unbuttoned linen shirt, leaning back carelessly with glowing digital 3.400 € on his forehead.",
+        "scene": "Medium shot inside a dim open-plan office at night, the banana man Kevin smirking arrogantly while blowing bubble gum toward the strawberry intern."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "650 €",
+          "bar": 0.08
+        },
+        {
+          "label": "Stunden",
+          "value": "60 h/W",
+          "bar": 0.85
+        },
+        {
+          "label": "Geheimer Wert",
+          "value": "100 %",
+          "bar": 1.0
+        }
+      ],
+      "character": "Young anthropomorphic strawberry intern with red textured skin and fresh green leafy hair, wearing a worn beige thrift-store hoodie, displaying glowing 650 € on forehead.",
+      "visual": "A dim modern corporate open-plan office at late night, strawberry intern sitting at a cluttered desk under cold fluorescent lights while a banana colleague lounges nearby.",
+      "scenes": [
+        "Crammed subway car at 6 AM, wide shot, tired fruit commuters standing, a tiny golden coin sits on an emergency brake lever, Timo clutches an old canvas bag.",
+        "Office reception lobby, medium shot, glossy marble floors, banana colleague Kevin walks past Timo spilling coffee carelessly, a golden coin gleams beneath the receptionist desk.",
+        "Open-plan office at night, medium two-shot, Kevin the banana smirking and slamming an energy drink on Timo the strawberry's desk, a small golden coin rests beside the mousepad.",
+        "Close-up detail shot, Timo's glowing terminal revealing lines of master system code labeled 'PROJECT_CORE', while a tiny golden coin glints inside the pencil sharpener.",
+        "Office corridor by the industrial copy machine, wide shot, fluorescent lights flickering, a golden coin glitters on top of the paper recycling bin.",
+        "Close-up on the printer tray, Timo's red strawberry hands revealing Dennis's stolen presentation with Kevin's name on slide 1, a golden coin embossed faintly on the printer side-panel."
+      ],
+      "caption": "Wenn der Faulpelz im Büro deine harte Arbeit klaut und nicht ahnt, wer den Laden wirklich steuert! #arbeitsleben #bueroneid #ungerechtigkeit #codegeniestreich"
+    },
+    {
+      "n": 2,
+      "open_loop": "Warum löschte Dennis mitten in der Nacht heimlich Samiras Namen von den Folien?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Kopiert Samiras monatelang ausgearbeitetes Strategie-Konzept auf seinen USB-Stick und nennt sie im Meeting hysterisch."
+      },
+      "name": "Samira, 26, Sachbearbeiterin",
+      "badge": "2.100 € netto",
+      "verdict": "ÜBERGANGEN",
+      "story": "Zitrone, für 2.100 Euro bist du hier Deko – die Strategie kassier ich! Dennis reißt mir mein Lebenswerk aus den Händen. Ich habe monatelang Nachtschichten eingelegt, während er im Casino war. Aber was er nicht weiß: Ich habe auf Folie 4 eine massive mathematische Falle eingebaut, die ihn vor dem Vorstand komplett vernichten wird. Kleine Nummern haben im großen Spiel kein Stimmrecht. Meine Stirn sinkt sofort um 150 Euro. Dennis stolziert siegessicher ins Glasbüro, steckt den Stick ein und startet die Folien. Doch plötzlich springt eine Warnmeldung auf allen Monitoren auf, die seine gesamte illegale Historie offenbart. Welches Desaster explodierte in Sekunde 10 auf der Leinwand? Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "-150 €",
+        "after": "1.950 €"
+      },
+      "lines": [
+        {
+          "s": "Gegenspieler",
+          "t": "Zitrone, für 2.100 Euro bist du hier Deko – die Strategie kassier ich!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Dennis reißt mir mein Lebenswerk aus den Händen. Ich habe monatelang Nachtschichten eingelegt, während er im Casino war."
+        },
+        {
+          "s": "Figur",
+          "t": "Aber was er nicht weiß: Ich habe auf Folie 4 eine massive mathematische Falle eingebaut, die ihn vor dem Vorstand komplett vernichten wird."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Kleine Nummern haben im großen Spiel kein Stimmrecht.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn sinkt sofort um 150 Euro. Dennis stolziert siegessicher ins Glasbüro, steckt den Stick ein und startet die Folien. Doch plötzlich springt eine Warnmeldung auf allen Monitoren auf, die seine gesamte illegale Historie offenbart. Welches Desaster explodierte in Sekunde 10 auf der Leinwand?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Kleine Nummern haben im großen Spiel kein Stimmrecht.",
+      "quote_by": {
+        "level": 5,
+        "name": "Dennis",
+        "badge": "4.600 €",
+        "character": "Sleek anthropomorphic avocado consultant wearing a bespoke charcoal blazer, luxury smartwatch, and a condescending grin with glowing 4.600 € on forehead.",
+        "scene": "Medium shot in a modern corporate breakroom, avocado consultant towering over lemon woman while snatching her project folder."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "2.100 €",
+          "bar": 0.22
+        },
+        {
+          "label": "Überstunden",
+          "value": "120 h",
+          "bar": 0.65
+        },
+        {
+          "label": "Sabotage-Falle",
+          "value": "100 %",
+          "bar": 1.0
+        }
+      ],
+      "character": "Anthropomorphic lemon young woman with textured yellow citrus skin, sharp focused eyes, wearing a neat navy-blue cardigan, glowing 2.100 € display on forehead.",
+      "visual": "Corporate minimalist office kitchen with stainless steel espresso machines, lemon woman Samira glaring angrily at an arrogant avocado consultant holding her files.",
+      "scenes": [
+        "Crowded communal office kitchen, wide shot, stainless steel appliances, a golden coin lies inside an empty espresso saucer, Samira holding her confidential binder.",
+        "Close-up of kitchen counter, medium two-shot, Dennis the avocado aggressively gripping the blue document folder from Samira, a golden coin rests on the microwave top.",
+        "Glass boardroom hallway, medium shot, Dennis smirking through transparent walls while plugging a USB drive into the conference terminal, a golden coin gleams on a fire extinguisher bracket.",
+        "Detail shot of Samira's glowing forehead display blinking as the numbers drop from 2.100 € to 1.950 €, with a golden coin caught in her hair-clip.",
+        "Close-up of slide 4 on the laptop screen showing a highlighted red mathematical formula trap, a tiny golden coin reflected on the monitor bezel.",
+        "Glass reflection shot looking into the executive presentation room, Dennis pointing proudly at the corrupted slide while a tiny golden coin shimmers in the carpet corner."
+      ],
+      "caption": "Wenn Kollegen deine Idee klauen, aber in deine eiskalt vorbereitete Falle tappen! Hast du das schon erlebt? #arbeitsalltag #kollegen #ideenklau #buerodrama"
+    },
+    {
+      "n": 3,
+      "open_loop": "Welcher Pakt war das?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Lässt Marc die komplette Software-Migration am Wochenende alleine schieben und streicht die Teamleiter-Beförderung ein."
+      },
+      "name": "Marc, 31, Junior Projektleiter",
+      "badge": "2.850 € netto",
+      "verdict": "AUSGENUTZT",
+      "story": "2.850 Euro für den IT-Knecht – nachdem Dennis eben mit Samiras sabotierten Folien vor dem Vorstand explodiert ist, soll ICH jetzt am Wochenende die Trümmer wegräumen! Kevin wirft mir seinen Autoschlüssel zu und verlangt, dass ich seine Wochenendarbeit mache. Er denkt, ich würde mich ewig ausbeuten lassen. Doch ich habe sein Smartphone heimlich per Bluetooth auf den Deckenlautsprecher des Flurs geschaltet. Wer buckeln kann, braucht keinen Feierabend. Meine Stirn fällt auf 2.750 Euro. Doch Kevins Lautsprecher brüllt Lindas Drohung heraus: Wenn er die Beförderung will, muss er einen tödlichen Vertrag unterschreiben. Plötzlich steht Linda hinter ihm im Flur und fordert die sofortige Abrechnung. Welcher Pakt war das? Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-100 €",
+        "after": "2.750 €"
+      },
+      "lines": [
+        {
+          "s": "Gegenspieler",
+          "t": "2.850 Euro für den IT-Knecht – nachdem Dennis eben mit Samiras sabotierten Folien vor dem Vorstand explodiert ist, soll ICH jetzt am Wochenende die Trümmer wegräumen!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Kevin wirft mir seinen Autoschlüssel zu und verlangt, dass ich seine Wochenendarbeit mache. Er denkt, ich würde mich ewig ausbeuten lassen."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch ich habe sein Smartphone heimlich per Bluetooth auf den Deckenlautsprecher des Flurs geschaltet."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer buckeln kann, braucht keinen Feierabend.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn fällt auf 2.750 Euro. Doch Kevins Lautsprecher brüllt Lindas Drohung heraus: Wenn er die Beförderung will, muss er einen tödlichen Vertrag unterschreiben. Plötzlich steht Linda hinter ihm im Flur und fordert die sofortige Abrechnung. Welcher Pakt war das?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Wer buckeln kann, braucht keinen Feierabend.",
+      "quote_by": {
+        "level": 4,
+        "name": "Kevin",
+        "badge": "3.400 €",
+        "character": "Arrogant tall banana man dressed in an expensive pastel designer polo shirt, wireless earbuds, holding a high-end padel racket, displaying glowing 3.400 €.",
+        "scene": "Medium shot in a sleek corporate server corridor, banana employee tapping broccoli engineer's forehead mockingly."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "2.850 €",
+          "bar": 0.35
+        },
+        {
+          "label": "Wochenenden",
+          "value": "18 / Jahr",
+          "bar": 0.75
+        },
+        {
+          "label": "Bluetooth-Falle",
+          "value": "Aktiv",
+          "bar": 1.0
+        }
+      ],
+      "character": "Exhausted anthropomorphic broccoli man with textured green florets, rimless glasses, crumpled oxford shirt with rolled-up sleeves, glowing 2.850 € on forehead.",
+      "visual": "A server room corridor with blinking blue LED server racks, broccoli engineer holding heavy cables while facing a nonchalant banana colleague holding sports gear.",
+      "scenes": [
+        "Dark basement server room, wide shot, rows of blinking server racks, a golden coin gleams on top of an industrial power transformer.",
+        "Corridor outside IT office, medium two-shot, Marc the broccoli confronting Kevin the banana who holds a branded padel racket, a golden coin sits on a fire alarm box.",
+        "Close-up detail of Marc's smartwatch showing a successful Bluetooth audio-override connection, a tiny golden coin stuck beneath his wristwatch strap.",
+        "Corporate parking lot under rain, wide shot, Marc's modest hatchback with a parking ticket stuck to the windshield, a golden coin lying in a puddle nearby.",
+        "Office corridor ceiling speaker, medium shot, sound waves visibly vibrating the grille as a golden coin rests on the inverted blue water bottle nearby.",
+        "Low-angle dramatic shot of Marc smirking while Kevin stares in pure panic at his blasting phone, a golden coin hidden on the ceiling air vent grille above them."
+      ],
+      "caption": "Wenn der faule Kollege denkt er kommt durch, du aber heimlich den Lautsprecher gekoppelt hast! #itprobleme #bluetoothhack #karma #chefsache"
+    },
+    {
+      "n": 4,
+      "open_loop": "Welchen belastenden Erpresserbrief fand Kevin plötzlich in seinem Spind?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Demütigt Miriam, indem er vor der Geschäftsleitung behauptet, sie sei mit Mitte dreißig zu hysterisch für Führungsaufgaben."
+      },
+      "name": "Kevin, 29, Fauler Liebling",
+      "badge": "3.400 € netto",
+      "verdict": "HOCHGELOBT",
+      "story": "4.800 Euro netto fürs Nichtstun – und die Idioten unten zahlen mit ihren Tränen meine Miete! Ich bin Kevin Banane, Neffe des CEOs. Miriam hat mich im Meeting vor allen blamiert. Du fauler Blender! Ich leite dieses Team seit vier Jahren mit Blut und Tränen! Warum kriegst DU den Posten? Charisma schlägt Kompetenz, jedes verdammte Mal! Meine Stirn springt auf 4.800 Euro hoch! Ich feiere meinen vermeintlichen Triumph im Penthouse. Doch im Spind finde ich eine Vollmacht: Mein Onkel Albrecht hat mich als haftenden Strohmann registriert – für Millionen an Steuerschulden! Ein anonymer Anwalt droht mit sofortiger Pfändung. Wer will mein neues Luxusleben zerstören? Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1.400 €",
+        "after": "4.800 €"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "4.800 Euro netto fürs Nichtstun – und die Idioten unten zahlen mit ihren Tränen meine Miete! Ich bin Kevin Banane, Neffe des CEOs. Miriam hat mich im Meeting vor allen blamiert."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du fauler Blender! Ich leite dieses Team seit vier Jahren mit Blut und Tränen! Warum kriegst DU den Posten?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Charisma schlägt Kompetenz, jedes verdammte Mal! Meine Stirn springt auf 4.800 Euro hoch! Ich feiere meinen vermeintlichen Triumph im Penthouse."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch im Spind finde ich eine Vollmacht: Mein Onkel Albrecht hat mich als haftenden Strohmann registriert – für Millionen an Steuerschulden! Ein anonymer Anwalt droht mit sofortiger Pfändung. Wer will mein neues Luxusleben zerstören?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Charisma schlägt Kompetenz, jedes verdammte Mal.",
+      "quote_by": {
+        "level": 4,
+        "name": "Kevin",
+        "badge": "4.800 €",
+        "character": "Smug yellow banana man wearing tailor-made cream linen trousers, designer sunglasses perched on head, holding iced matcha, glowing 4.800 € on forehead.",
+        "scene": "Medium shot in a sunlit corner executive lounge, banana man leaning back against leather armchair, grinning mockingly at an enraged pear manager."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "4.800 €",
+          "bar": 0.52
+        },
+        {
+          "label": "Arbeit",
+          "value": "2 h/W",
+          "bar": 0.05
+        },
+        {
+          "label": "Haftungs-Falle",
+          "value": "100 %",
+          "bar": 1.0
+        }
+      ],
+      "character": "Anthropomorphic banana man with smooth bright yellow peel, slicked style, tailored casual designer attire, gold signet ring, glowing digital forehead display.",
+      "visual": "Bright penthouse office lounge overlooking a metropolitan skyline, smug banana man relaxing on a beige sofa while an angry pear woman confronts him.",
+      "scenes": [
+        "Penthouse office lounge with panoramic floor-to-ceiling windows, wide shot, golden coin resting on the edge of a designer marble coffee table.",
+        "Corner office threshold, medium two-shot, Kevin the banana sipping iced beverage while Miriam the pear points an accusatory finger, a golden coin gleams on the door hinge.",
+        "Extreme close-up of Kevin's glowing forehead display dynamically flipping from 3.400 € to 4.800 €, a golden coin reflected in his designer sunglasses.",
+        "Company wellness gym corridor, wide shot, minimalist concrete walls, a golden coin balanced on the rim of an upscale water cooler.",
+        "Locker room interior, medium shot, Kevin opening a brushed metal locker, his eyes widening in terror at a legal document, a golden coin resting inside the shoe compartment.",
+        "Close-up detail of the legal notary paper showing Kevin registered as sole liable dummy director, with a golden coin caught under the wax stamp."
+      ],
+      "caption": "Der Faulste wird befördert – doch merkt zu spät, dass er das Opferlamm der Chefetage ist! #befoerderung #faulheit #ungerechtigkeit #strohmann"
+    },
+    {
+      "n": 5,
+      "open_loop": "Welches kompromittierende Foto zog Linda plötzlich unter ihrer Schreibtischunterlage hervor?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Erpresst Dennis mit seiner gefälschten Reisekostenabrechnung, um ihn als Bauernopfer für Kevins Pfusch zu benutzen."
+      },
+      "name": "Dennis, 34, Senior Consultant",
+      "badge": "4.600 € netto",
+      "verdict": "ERPRESST",
+      "story": "4.600 Euro auf der Stirn, Dennis, aber unterschreib das Schuldeingeständnis – oder du gehst in den Knast! Linda drückt mir die Pistole auf die Brust und zwingt mich in die Knie. Linda weiß haargenau, dass ich Samiras Präsentation geklaut und die Sabotage-Formel blind vor dem Vorstand präsentiert habe – jetzt bin ICH ihr Erpressungsopfer! Sie will meine Karriere komplett zerstören, um ihre eigene Haut zu retten. Bauernopfer werden nicht gefragt, sie werden geschlachtet. Meine Stirnanzeige stürzt um 600 Euro ab. Ich bin ruiniert. Doch auf Lindas Bildschirm entdecke ich eine Nachricht an Albrecht, die die gesamte Chefetage entlarvt. Sie plant bereits den nächsten Verrat an Kevin. Was stand in diesem Chat? Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "-600 €",
+        "after": "4.000 €"
+      },
+      "lines": [
+        {
+          "s": "Gegenspieler",
+          "t": "4.600 Euro auf der Stirn, Dennis, aber unterschreib das Schuldeingeständnis – oder du gehst in den Knast!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Linda drückt mir die Pistole auf die Brust und zwingt mich in die Knie. Linda weiß haargenau, dass ich Samiras Präsentation geklaut und die Sabotage-Formel blind vor dem Vorstand präsentiert habe – jetzt bin ICH ihr Erpressungsopfer!"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie will meine Karriere komplett zerstören, um ihre eigene Haut zu retten."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Bauernopfer werden nicht gefragt, sie werden geschlachtet.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirnanzeige stürzt um 600 Euro ab. Ich bin ruiniert. Doch auf Lindas Bildschirm entdecke ich eine Nachricht an Albrecht, die die gesamte Chefetage entlarvt. Sie plant bereits den nächsten Verrat an Kevin. Was stand in diesem Chat?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Bauernopfer werden nicht gefragt, sie werden geschlachtet.",
+      "quote_by": {
+        "level": 7,
+        "name": "Linda",
+        "badge": "7.800 €",
+        "character": "Imposing dragon fruit executive woman with vibrant magenta textured skin, sharp designer power-suit with sharp shoulder pads, displaying glowing 7.800 €.",
+        "scene": "Medium shot in a dark mahogany executive corner office, dragon fruit executive leaning forward over her desk, smiling ruthlessly."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "4.600 €",
+          "bar": 0.55
+        },
+        {
+          "label": "Intrigen",
+          "value": "24 / Jahr",
+          "bar": 0.88
+        },
+        {
+          "label": "Erpressungsdruck",
+          "value": "100 %",
+          "bar": 1.0
+        }
+      ],
+      "character": "Anthropomorphic avocado man in sharp designer charcoal suit, trimmed stubble, dark green textured skin, gold wristwatch, glowing digital 4.600 € forehead display.",
+      "visual": "A dimly lit executive mahogany office with heavy velvet curtains, avocado consultant sweating nervously opposite an authoritarian dragon fruit woman.",
+      "scenes": [
+        "Executive floor reception, wide shot, thick dark carpet and dim mood lighting, a golden coin half-hidden beneath an ornamental bronze sculpture.",
+        "Inside Linda's executive suite, medium two-shot, Linda the dragon fruit sliding a black disciplinary folder toward Dennis the avocado, a golden coin gleams on a pen holder.",
+        "Close-up of Dennis the avocado's trembling green fingers adjusting his silk necktie, a golden coin resting beside his monogrammed cufflink.",
+        "Detail of Dennis's forehead display dropping with red warning ticks from 4.600 € to 4.000 €, a golden coin glinting in the dark mahogany desk reflection.",
+        "Close-up of Linda's high-res monitor showing a tapped chat transcript between Dennis and Albrecht, with a golden coin sitting on the keyboard stand.",
+        "Underground executive garage, wide shot, luxury company cars parked under fluorescent tubes, a golden coin glittering near a concrete pillar base."
+      ],
+      "caption": "Wer anderen eine Grube gräbt... Dennis wurde selbst erpresst! Gönnst du es ihm oder tut er du leid? #karma #buerointrigen #abgestuerzt #management"
+    },
+    {
+      "n": 6,
+      "open_loop": "Was hörte Miriam durch die Wand der Vorstandstoilette, das ihr Herz zum Stehen brachte?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Prahlte lautstark in der Teeküche über Miriams angebliche Überforderung und ließ ihr Team für seinen Fehler abmahnen."
+      },
+      "name": "Miriam, 39, Teamleiterin",
+      "badge": "5.200 € netto",
+      "verdict": "BURN-OUT",
+      "story": "5.200 Euro und zehn Jahre Loyalität – und der Vorstand lacht auf dem Klo darüber, wie er mich ins Burnout treibt! Ich bin Miriam Birne, Teamleiterin. Mein gesamtes Team leidet unter dem Druck. Wer die Arbeit liebt, darf sie gerne behalten! Mein Gehalt wird von Albrecht einfach um 500 Euro gekürzt, weil ich mich gegen die Schikane gewehrt habe. Doch statt zu heulen, schneide ich Albrechts und Kevins Gespräch vor der VIP-Toilette mit. Sie planen einen illegalen Stellenabbau. Ich sende die brisante Aufnahme direkt an Timos geheimen Whistleblower-Kanal. Jetzt ist der Zeitpunkt für Vergeltung gekommen. Was sagte Albrecht im letzten Satz dieser Aufnahme? Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "-500 €",
+        "after": "4.700 €"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "5.200 Euro und zehn Jahre Loyalität – und der Vorstand lacht auf dem Klo darüber, wie er mich ins Burnout treibt! Ich bin Miriam Birne, Teamleiterin. Mein gesamtes Team leidet unter dem Druck."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer die Arbeit liebt, darf sie gerne behalten!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Gehalt wird von Albrecht einfach um 500 Euro gekürzt, weil ich mich gegen die Schikane gewehrt habe."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch statt zu heulen, schneide ich Albrechts und Kevins Gespräch vor der VIP-Toilette mit. Sie planen einen illegalen Stellenabbau. Ich sende die brisante Aufnahme direkt an Timos geheimen Whistleblower-Kanal. Jetzt ist der Zeitpunkt für Vergeltung gekommen. Was sagte Albrecht im letzten Satz dieser Aufnahme?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Wer die Arbeit liebt, darf sie gerne behalten.",
+      "quote_by": {
+        "level": 4,
+        "name": "Kevin",
+        "badge": "4.800 €",
+        "character": "Overconfident banana man in designer blazer, wireless headphones resting around his neck, looking down contemptuously with glowing 4.800 € on forehead.",
+        "scene": "Medium shot in open office cubicles, banana man grinning condescendingly as pear female manager confronts him with spreadsheets."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "5.200 €",
+          "bar": 0.65
+        },
+        {
+          "label": "Erfahrung",
+          "value": "10 Jahre",
+          "bar": 0.85
+        },
+        {
+          "label": "Beweismaterial",
+          "value": "100 %",
+          "bar": 1.0
+        }
+      ],
+      "character": "Overworked anthropomorphic pear woman with pale yellow-green skin, elegant but exhausted demeanor, sensible grey business suit, glowing 5.200 € forehead display.",
+      "visual": "A brightly lit corporate open space cubicle zone, exhausted pear woman clutching performance dossiers while facing off against an arrogant banana manager.",
+      "scenes": [
+        "Busy departmental floor with cubicle dividers, wide shot, staff fruit people looking up nervously from monitors, a golden coin lies under a printer paper tray.",
+        "Between office desks, medium two-shot, Kevin the banana towering over Miriam the pear with folded arms and a mocking sneer, a golden coin sits on a desk partition clamp.",
+        "Extreme close-up of Miriam's pear skin beaded with cold sweat as her digital display flickers downwards to 4.700 €, a golden coin reflected in her eye.",
+        "Executive private restroom corridor with dark wood paneling, wide shot, Miriam holding her smartphone against the ventilation grille, a golden coin rests atop a brass fire hose box.",
+        "Smartphone screen close-up, showing an encrypted audio upload progressing to 100 % into 'TIMO_SECURE_VAULT', a tiny golden coin glinting beside the phone case.",
+        "Low-angle shot of Miriam turning around with determination in her eyes, a tiny golden coin embedded in the door frame moulding."
+      ],
+      "caption": "Zehn Jahre Loyalität mit Füßen getreten – doch die Rache läuft bereits auf Band! Würdest du den Chef leaken? #fraueninfuehrung #burnout #whistleblower #karriereknick"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welchen geheimen Koffer übergab Vorstand Albrecht heimlich im Aufzug an Linda?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Zwingt Linda unter Androhung fristloser Kündigung, seinen inkompetenten Neffen Kevin auf den Direktorenposten zu hieven."
+      },
+      "name": "Linda, 45, Head of Operations",
+      "badge": "7.800 € netto",
+      "verdict": "MARIONETTE",
+      "story": "7.800 Euro Gehalt retten dich nicht, Linda – mach meinen Neffen zum Direktor oder du fliegst heute noch! Vorstand Albrecht droht mir ganz offen im Konferenzraum. Albrecht kürzt meinen Bonus sofort um 1.000 Euro, um ein Exempel zu statuieren. Er zwingt mich, seinen faulen Neffen Kevin auf den Chefsessel zu hieven. Loyalität zur Familie wiegt schwerer als jede Bilanz. Ich muss kuschen, um nicht im Schlamm zu landen. Im Koffer liegen unterschriebene Kündigungen – inklusive Timos Kündigung, an die seine KI-Lizenz gekoppelt ist. Albrecht hat blind seinen eigenen Untergang besiegelt! Denn Timo hat längst eine automatische Selbstzerstörung programmiert. Was passiert, wenn dieser Code stirbt? Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "-1.000 €",
+        "after": "6.800 €"
+      },
+      "lines": [
+        {
+          "s": "Gegenspieler",
+          "t": "7.800 Euro Gehalt retten dich nicht, Linda – mach meinen Neffen zum Direktor oder du fliegst heute noch!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Vorstand Albrecht droht mir ganz offen im Konferenzraum. Albrecht kürzt meinen Bonus sofort um 1.000 Euro, um ein Exempel zu statuieren."
+        },
+        {
+          "s": "Figur",
+          "t": "Er zwingt mich, seinen faulen Neffen Kevin auf den Chefsessel zu hieven."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Loyalität zur Familie wiegt schwerer als jede Bilanz.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich muss kuschen, um nicht im Schlamm zu landen. Im Koffer liegen unterschriebene Kündigungen – inklusive Timos Kündigung, an die seine KI-Lizenz gekoppelt ist. Albrecht hat blind seinen eigenen Untergang besiegelt! Denn Timo hat längst eine automatische Selbstzerstörung programmiert. Was passiert, wenn dieser Code stirbt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Loyalität zur Familie wiegt schwerer als jede Bilanz.",
+      "quote_by": {
+        "level": 8,
+        "name": "Albrecht",
+        "badge": "14.500 €",
+        "character": "Stately older pomegranate CEO with ruby-red textured skin, bespoke pinstripe three-piece suit, gold pocket watch, radiating authority with glowing 14.500 € display.",
+        "scene": "Medium shot in a massive penthouse boardroom, pomegranate CEO glaring down authoritatively at dragon fruit director."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "7.800 €",
+          "bar": 0.82
+        },
+        {
+          "label": "Macht",
+          "value": "Scheinbar",
+          "bar": 0.4
+        },
+        {
+          "label": "Konzern-Bombe",
+          "value": "Scharf",
+          "bar": 1.0
+        }
+      ],
+      "character": "Sophisticated dragon fruit woman with exotic deep pink skin, sharp black tailored designer pant-suit, sculptural gold earrings, glowing 7.800 € on forehead.",
+      "visual": "A massive penthouse boardroom with marble conference table and panoramic sunrise city view, dragon fruit executive Linda bowing her head before a pomegranate CEO.",
+      "scenes": [
+        "Executive boardroom at sunrise, panoramic glass walls, wide shot, a golden coin glitters on the edge of the 20-person marble conference table.",
+        "Near the boardroom window, medium two-shot, Albrecht the pomegranate towering rigidly over Linda the dragon fruit, a golden coin rests on the window mullion.",
+        "Extreme close-up of Linda's digital display dropping sharply from 7.800 € to 6.800 €, a golden coin visible within the pattern of her gold earring.",
+        "Interior of a luxurious mirrored elevator car, medium shot, brass railings, a golden coin gleams on the elevator floor corner grating.",
+        "Close-up of Albrecht's heavy ruby hands sliding a sleek metallic hardcase toward Linda, a golden coin embossed on the briefcase lock.",
+        "Detail inside the opened hardcase, showing Timo's resignation form linked with master license termination clause, a golden coin glinting beside the seal."
+      ],
+      "caption": "Der CEO unterschreibt blind die Kündigungen – und besiegelt damit die Pleite seiner eigenen Firma! #vetternwirtschaft #chefebene #machtspiele #korruption"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welche Branche und welches Tabu-Thema sollen wir als Nächstes enthüllen?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Tritt das gesamte System mit Füßen, weil er weiß, dass arme Arbeiter wie Timo niemals aufbegehren können."
+      },
+      "name": "Albrecht, 58, Vorstandsvorsitzender",
+      "badge": "14.500 € netto",
+      "verdict": "UNANTASTBAR",
+      "story": "14.500 Euro netto – und vor den Augen aller Mitarbeiter buche ich mir 50.000 Euro Dividende ein! Ich lache über die armen Schlucker im Großraumbüro. Meine Stirn explodiert auf 64.500 Euro! Ich blicke verächtlich auf das gesamte Kollegium herab und feiere meine absolute Macht. Ich schaue auf Praktikant Timo herab und triumphiere: Die Zahl lügt nie. Das stimmt, Herr Vorstandsvorsitzender. Und deshalb ist Ihr Code jetzt gelöscht. Timo tippt entschlossen auf sein Smartphone und aktiviert den globalen Kill-Switch. Die Sirenen heulen auf. Meine Stirnanzeige stürzt vor der gesamten Belegschaft von 64.500 Euro auf exakt 0 Euro ab – während Timos Zahl durch die Decke schießt! Welches Thema sollen wir als Nächstes enthüllen? Welches Thema sollen wir als Nächstes enthüllen?",
+      "gender": "m",
+      "twist": {
+        "delta": "-64.500 €",
+        "after": "0 €"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "14.500 Euro netto – und vor den Augen aller Mitarbeiter buche ich mir 50.000 Euro Dividende ein! Ich lache über die armen Schlucker im Großraumbüro. Meine Stirn explodiert auf 64.500 Euro!"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich blicke verächtlich auf das gesamte Kollegium herab und feiere meine absolute Macht. Ich schaue auf Praktikant Timo herab und triumphiere:"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl lügt nie."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Das stimmt, Herr Vorstandsvorsitzender. Und deshalb ist Ihr Code jetzt gelöscht.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Timo tippt entschlossen auf sein Smartphone und aktiviert den globalen Kill-Switch. Die Sirenen heulen auf. Meine Stirnanzeige stürzt vor der gesamten Belegschaft von 64.500 Euro auf exakt 0 Euro ab – während Timos Zahl durch die Decke schießt! Welches Thema sollen wir als Nächstes enthüllen?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema sollen wir als Nächstes enthüllen?"
+        }
+      ],
+      "quote": "Die Zahl lügt nie.",
+      "quote_by": {
+        "level": 8,
+        "name": "Albrecht",
+        "badge": "14.500 €",
+        "character": "Dominant pomegranate CEO in bespoke pinstripe suit with a gold ruby signet ring, gleaming forehead display of 14.500 €.",
+        "scene": "Wide dramatic shot in the skyscraper glass foyer, pomegranate CEO gazing dismissively down at a bowed strawberry intern."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "0 €",
+          "bar": 0.0
+        },
+        {
+          "label": "Dividende",
+          "value": "Vernichtet",
+          "bar": 0.0
+        },
+        {
+          "label": "Genugtuung",
+          "value": "100 %",
+          "bar": 1.0
+        }
+      ],
+      "character": "Older aristocratic pomegranate patriarch with deep crimson seed-patterned skin, handcrafted navy pinstripe suit, silk pocket square, glowing 14.500 € on forehead.",
+      "visual": "Grand double-height corporate skyscraper atrium with marble waterfall, pomegranate CEO Albrecht clutching his head as his forehead display drops to zero in front of cheering workers.",
+      "scenes": [
+        "Soaring skyscraper atrium with monumental glass entrance, wide shot, fruit employees gathered around as Albrecht flaunts his glowing forehead, a golden coin sparkles at the base of a bronze fountain.",
+        "Skyscraper revolving entrance door, medium two-shot, Albrecht the pomegranate stepping out while strawberry intern Timo stands tall holding his smartphone, a golden coin lies in the brass door track.",
+        "Close-up of Timo's thumb tapping 'EXECUTE_PURGE.SH' on his glowing mobile screen, with a golden coin reflected on the protective glass.",
+        "Extreme close-up of Albrecht's forehead display rapidly scrolling backwards in red glitching artifacts until settling on '0 €', a golden coin shaking in his pocket.",
+        "Atrium balcony shot, employees cheering as the digital displays on the walls crash to error screens, a golden coin resting on the upper balustrade.",
+        "Low-angle dramatic hero shot of Timo the strawberry stepping into the center light with his forehead exploding into six figures, a tiny golden coin embedded on the marble pedestal."
+      ],
+      "caption": "Der CEO dachte er sei unantastbar – bis der Praktikant den Stecker zieht und seine Stirn auf 0 Euro crasht! Welches Thema decken wir als Nächstes auf? #vorstand #ceo #reichtum #stirnzahl #katharsis"
+    }
+  ],
+  "lang": "de",
+  "topic": "Der bittere Neid, wenn der faulste Arbeitskollege befördert wird",
+  "frame": "frucht"
+}

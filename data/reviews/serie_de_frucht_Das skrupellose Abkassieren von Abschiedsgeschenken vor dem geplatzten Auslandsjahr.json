@@ -1,0 +1,33 @@
+{
+  "best_score": 46,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 5,
+        "story": 4,
+        "identifikation": 4,
+        "verbindungen": 6,
+        "sog": 5,
+        "wut": 4,
+        "merkfaehigkeit": 5,
+        "sprache": 4
+      },
+      "gesamt": 46,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den lahmen Einstieg durch: '14,50 Euro?! Für diesen Abschied kriegst du nicht mal ’ne trockene Brezel!' Mona schnappt sich den Umschlag und tritt den Koffer weg."
+        },
+        {
+          "n": 2,
+          "fix": "Erhöhe die Wut im Dialog: 'Wer unter 200 Euro zahlt, fliegt fristlos!' Bruno wirft das Trinkgeld in den Ausguss, während Mia fassungslos zusieht."
+        },
+        {
+          "n": 3,
+          "fix": "Baue echten Verrat ein: Viktor lacht Leon aus: 'Du klaust von der Barista? Deine eigenen Schulden fressen dich auf, du loser Broker!'"
+        }
+      ],
+      "fazit": "Die Serie hat nette Ansätze mit den Obst-Figuren, aber der Text wirkt aktuell wie eine gelesene Buchseite und nicht wie ein brutales 9:16-TikTok-Reel. Die Sätze sind zu lang, der Konflikt verpufft in Beschreibungen statt in harten, direkten Konfrontationen, und die Wortanzahl pro Story knackt die geforderten 175 Wörter nicht. Ohne puren Hass auf den Bösewicht in den ersten Sekunden swischt die Gen-Z sofort weg."
+    }
+  ]
+}
