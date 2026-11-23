@@ -2,7 +2,7 @@
 
 - URL: https://www.instagram.com/p/Df8gBrKO_LM/
 - Dauer: 70.2 s, Sprache: ?
-- Likes: 223, Kommentare: 4, Views: 12604
+- Likes: 232, Kommentare: 4, Views: 13796
 - Datum: 2026-11-20T01:43:29.000Z
 
 ## Beschreibung

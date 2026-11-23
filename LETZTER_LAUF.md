@@ -1,7 +1,9 @@
-- _8_levels/Df5n7y5x6pQ: 61 s, 429 Likes
-- _8_levels/Df-g3ChBTmT: 67 s, 120 Likes
-- _8_levels/Df8gBrKO_LM: 70 s, 223 Likes
-- simpsonsvorhersage.n/Dfwi9lPMblp: 131 s, 2372 Likes
-- simpsonsvorhersage.n/Dfz5khWsmEk: 190 s, 2765 Likes
-- simpsonsvorhersage.n/DgABGgMM2Hm: 92 s, 5583 Likes
-- https://www.instagram.com/herr.amorim/: nichts geladen (Instagram verlangt Login; mit Secret APIFY_TOKEN klappt es über Apify)
+- _8_levels/Df8gBrKO_LM: 70 s, 232 Likes
+- _8_levels/Df5n7y5x6pQ: 61 s, 442 Likes
+- _8_levels/Df-g3ChBTmT: 67 s, 128 Likes
+- simpsonsvorhersage.n/Dfwi9lPMblp: 131 s, 2425 Likes
+- simpsonsvorhersage.n/DgABGgMM2Hm: 92 s, 7139 Likes
+- simpsonsvorhersage.n/Dfz5khWsmEk: 190 s, 2964 Likes
+- herr.amorim/Df3HuhtIe64: 94 s, 1226 Likes
+- herr.amorim/Df-nRCZI1nU: 81 s, 1342 Likes
+- herr.amorim/DgAdqxpIoXj: 87 s, 2554 Likes
