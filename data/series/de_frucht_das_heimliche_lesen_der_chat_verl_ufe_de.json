@@ -1,0 +1,796 @@
+{
+  "title": "Die 8 Level vom heimlichen Chat-Lesen",
+  "house": "A bustling German metropolis named Fruchtstadt, featuring neon-lit tram stations, damp asphalt streets, high-rise glass apartments, and a busy central kiosk where fruit and vegetable people cross paths daily. A tiny golden coin is hidden in every scene.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Die Barista aus Level 2 erwähnt den ruhigen Anzugträger aus Level 8.",
+    "Der Kioskbesitzer aus Level 4 verkauft morgens den Kaffee an die Studentin aus Level 1.",
+    "Der Handwerker aus Level 6 repariert die Haustür der Ärztin aus Level 7."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was genau stand in der ungesendeten Nachricht, die er sofort gelöscht hat?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Schnappt sich herablassend das Handy und wirft es auf den Tisch."
+      },
+      "name": "Mia, 19, Studentin",
+      "badge": "0 Sekunden",
+      "verdict": "VERBOTEN",
+      "story": "Die 8 Level vom heimlichen Chat-Lesen. Level 1. Level 1: 0 Sekunden Blickzeit und mein Herz rast wie verrückt im Hörsaal, während der Professor vorne monoton über Makroökonomie spricht. Die Apple Watch meines Freundes Ben leuchtet plötzlich auf dem kalten Holztisch auf. Er ist auf Toilette, sein Handgelenk liegt nur fünf Zentimeter von meiner Hand entfernt. Ich atme flach, meine rote Erdbeer-Haut kribbelt vor panischer Angst. Darf ich das? Ein kurzer Wisch auf dem Display, ohne ihn auch nur zu berühren, enthüllt den Anfang eines mysteriösen Chats. Eine fremde Himbeere schreibt: Wir sehen uns heute Abend im Club, Schatz. Mein Puls springt sofort auf zweihundert. Ich tippe schneller, um den ganzen Verlauf zu sehen. Doch plötzlich friert der Bildschirm ein und eine Fehlermeldung flackert auf. Was machst du da an meiner Uhr, bist du völlig krank geworden? Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "-1 Sek.",
+        "after": "0 Sek."
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom heimlichen Chat-Lesen. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 0 Sekunden Blickzeit und mein Herz rast wie verrückt im Hörsaal, während der Professor vorne monoton über Makroökonomie spricht."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Apple Watch meines Freundes Ben leuchtet plötzlich auf dem kalten Holztisch auf."
+        },
+        {
+          "s": "Figur",
+          "t": "Er ist auf Toilette, sein Handgelenk liegt nur fünf Zentimeter von meiner Hand entfernt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich atme flach, meine rote Erdbeer-Haut kribbelt vor panischer Angst. Darf ich das?"
+        },
+        {
+          "s": "Figur",
+          "t": "Ein kurzer Wisch auf dem Display, ohne ihn auch nur zu berühren, enthüllt den Anfang eines mysteriösen Chats."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Eine fremde Himbeere schreibt: Wir sehen uns heute Abend im Club, Schatz.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Puls springt sofort auf zweihundert. Ich tippe schneller, um den ganzen Verlauf zu sehen."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch plötzlich friert der Bildschirm ein und eine Fehlermeldung flackert auf."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Was machst du da an meiner Uhr, bist du völlig krank geworden?",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Was machst du da an meiner Uhr, bist du völlig krank geworden?",
+      "quote_by": {
+        "level": 3,
+        "name": "Ben, 28, Broker",
+        "badge": "12.000 €",
+        "character": "An orange person wearing a sharp navy suit, slicked hair, and an expensive titanium watch. Cold eyes.",
+        "scene": "Close-up in a crowded university hallway, bending over the wooden table, snatching the Apple Watch away with a smirk while his bright orange digits glow."
+      },
+      "stats": [
+        {
+          "label": "Blickzeit",
+          "value": "0 Sek.",
+          "bar": 0.05
+        },
+        {
+          "label": "Vertrauen",
+          "value": "12 %",
+          "bar": 0.12
+        },
+        {
+          "label": "Paranoia",
+          "value": "99 %",
+          "bar": 0.99
+        }
+      ],
+      "character": "A young strawberry person with bright red seed skin, wearing an oversized beige hoodie and nervous eyes. On her forehead, a glowing digital display shows 0 Sekunden.",
+      "visual": "Close-up of a strawberry girl nervously swiping air above an Apple Watch on a university desk, neon light reflecting in her eyes.",
+      "scenes": [
+        "Wide shot of a crowded, rain-drenched university lecture hall with concrete walls and green-skinned student figures murmuring.",
+        "Medium shot of a wooden desk where a glowing Apple Watch sits next to a steaming coffee cup and a tiny golden coin hidden on the pen holder.",
+        "Close-up of the strawberry girl's glowing forehead showing 0 Sekunden while she stares at the smartwatch screen.",
+        "Over-the-shoulder shot showing invisible air gestures scrolling through chat snippets on the tiny screen.",
+        "Dynamic shot of an orange man in a sharp suit suddenly grabbing the table with an angry expression.",
+        "Detail shot of the notification bubble fading away into darkness with a chilling blue light."
+      ],
+      "caption": "Hättest du auch auf das Display geschaut? Schreib es in die Kommentare! #stirnzahl #beziehung #applewatch #drama #viral"
+    },
+    {
+      "n": 2,
+      "open_loop": "Welche geheime Sprachnachricht hat der Kioskbesitzer auf dem Schirm gesehen?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Drückt den Bildschirm weg und lacht laut über die Eifersucht."
+      },
+      "name": "Leo, 24, Barista",
+      "badge": "5 Sekunden",
+      "verdict": "RISIKO",
+      "story": "Die 8 Level vom heimlichen Chat-Lesen. Level 2. Level 2: 5 Sekunden lang wische ich im vollen, dampfenden Café über den Bildschirm, während die Espressomaschine laut zischt und Gäste nach Cappuccino rufen. Meine gelbe Zitronen-Haut brennt vor innerer Verzweiflung. Meine Freundin sitzt draußen am Tisch und telefoniert angeregt, ihre Apple Watch liegt unbeaufsichtigt direkt neben der Kasse. Ein Wisch nach links enthüllt den Chat mit ihrem Arbeitskollegen, der völlig neue Abgründe öffnet. Wir müssen reden, das mit uns hat keinen Sinn mehr. Mein Magen zieht sich sofort zusammen. Ich will mehr lesen, zoome mit den Fingern, ohne das feine Glas zu berühren, um die vorherigen Nachrichten wiederherzustellen. Doch plötzlich taucht der Kioskbesitzer auf. Suchst du etwa nach Beweisen, du armselige Zitrone? Der Kioskbesitzer grinst mich hämisch an und hält ein kompromittierendes Foto in der Hand. Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+2 Sek.",
+        "after": "7 Sek."
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom heimlichen Chat-Lesen. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 5 Sekunden lang wische ich im vollen, dampfenden Café über den Bildschirm, während die Espressomaschine laut zischt und Gäste nach Cappuccino rufen."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine gelbe Zitronen-Haut brennt vor innerer Verzweiflung."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Freundin sitzt draußen am Tisch und telefoniert angeregt, ihre Apple Watch liegt unbeaufsichtigt direkt neben der Kasse."
+        },
+        {
+          "s": "Figur",
+          "t": "Ein Wisch nach links enthüllt den Chat mit ihrem Arbeitskollegen, der völlig neue Abgründe öffnet."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Wir müssen reden, das mit uns hat keinen Sinn mehr.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Magen zieht sich sofort zusammen. Ich will mehr lesen, zoome mit den Fingern, ohne das feine Glas zu berühren, um die vorherigen Nachrichten wiederherzustellen."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch plötzlich taucht der Kioskbesitzer auf."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Suchst du etwa nach Beweisen, du armselige Zitrone?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Der Kioskbesitzer grinst mich hämisch an und hält ein kompromittierendes Foto in der Hand."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Suchst du etwa nach Beweisen, du armselige Zitrone?",
+      "quote_by": {
+        "level": 5,
+        "name": "Klaus, 42, Kioskbesitzer",
+        "badge": "45 Sekunden",
+        "character": "A stout coconut person with a hard brown shell head, wearing a dirty gray apron and chewing a toothpick.",
+        "scene": "Medium shot behind a messy kiosk counter filled with magazines, pointing a finger and laughing loudly at the trembling lemon barista."
+      },
+      "stats": [
+        {
+          "label": "Blickzeit",
+          "value": "5 Sek.",
+          "bar": 0.2
+        },
+        {
+          "label": "Vertrauen",
+          "value": "25 %",
+          "bar": 0.25
+        },
+        {
+          "label": "Paranoia",
+          "value": "80 %",
+          "bar": 0.8
+        }
+      ],
+      "character": "A sour lemon person with yellow textured peel skin, wearing a stained barista apron and silver rings. On his forehead, 5 Sekunden glows brightly.",
+      "visual": "Medium shot of a lemon barista hovering fingers over an Apple Watch at a bustling cafe counter with espresso steam rising.",
+      "scenes": [
+        "Wide shot of a trendy Berlin cafe with glass windows, neon signs, and various fruit people sitting outside.",
+        "Close-up of the lemon barista's trembling yellow fingers moving above a sleek smartwatch screen, a golden coin resting on a saucer.",
+        "Detail shot of the glowing forehead showing 5 Sekunden under warm overhead pendant lamps.",
+        "Over-the-shoulder view of chat bubbles appearing on the tiny curved glass display.",
+        "Medium shot of a rugged coconut man leaning over the counter with a mocking grin.",
+        "Close-up of the lemon person's face turning pale as the chat scrolls down autonomously."
+      ],
+      "caption": "Würdest du deinem Partner so hinterherschnüffeln? #beziehung #eifersucht #zitronen #drama #viral"
+    },
+    {
+      "n": 3,
+      "open_loop": "Welche Frau verbirgt sich hinter dem Kürzel in den Benachrichtigungen?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Zieht arrogant die Augenbrauen hoch und verlangt sofortige Ruhe."
+      },
+      "name": "Ben, 28, Broker",
+      "badge": "15 Sekunden",
+      "verdict": "KONTROLLE",
+      "story": "Die 8 Level vom heimlichen Chat-Lesen. Level 3. Level 3: 15 Sekunden lang scrolle ich genialerweise durch die Nachrichten, während mein Partner im Fitnessstudio unter der schweren Hantel schwitzt. Meine orange Haut glänzt im teuren Bürolicht des Penthouses. Ich sehe jeden gelöschten Satz, jedes Herz-Emoji, das an eine fremde Avocado gesendet wurde. Niemand entkommt meiner digitalen Überwachung, ich bin immer einen Schritt voraus. Doch plötzlich ploppt eine neue Nachricht auf, die mein ganzes System sprengt und mich völlig aus der Fassung bringt. Eine anonyme Nummer schreibt: Er weiß von uns, hör auf anzurufen! Ich erstarre, während das Handy unaufhörlich auf dem teuren Marmortisch vibriert. Ich versuche den Sender zu orten, da betritt eine kalte Gestalt das Zimmer. Du spielst ein sehr gefährliches Spiel mit falschen Karten. Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+5 Sek.",
+        "after": "20 Sek."
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom heimlichen Chat-Lesen. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 15 Sekunden lang scrolle ich genialerweise durch die Nachrichten, während mein Partner im Fitnessstudio unter der schweren Hantel schwitzt."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine orange Haut glänzt im teuren Bürolicht des Penthouses."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sehe jeden gelöschten Satz, jedes Herz-Emoji, das an eine fremde Avocado gesendet wurde."
+        },
+        {
+          "s": "Figur",
+          "t": "Niemand entkommt meiner digitalen Überwachung, ich bin immer einen Schritt voraus."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch plötzlich ploppt eine neue Nachricht auf, die mein ganzes System sprengt und mich völlig aus der Fassung bringt."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Eine anonyme Nummer schreibt: Er weiß von uns, hör auf anzurufen!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich erstarre, während das Handy unaufhörlich auf dem teuren Marmortisch vibriert."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich versuche den Sender zu orten, da betritt eine kalte Gestalt das Zimmer."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du spielst ein sehr gefährliches Spiel mit falschen Karten.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Du spielst ein sehr gefährliches Spiel mit falschen Karten.",
+      "quote_by": {
+        "level": 7,
+        "name": "Dr. Clara, 35, Chirurgin",
+        "badge": "90 Sekunden",
+        "character": "A sleek dragon fruit person with magenta scaled skin, sharp white collar, and cold professional composure.",
+        "scene": "Wide shot in a luxurious hotel lobby, looking down with extreme condescension at the orange broker while adjusting her stethoscope necklace."
+      },
+      "stats": [
+        {
+          "label": "Blickzeit",
+          "value": "15 Sek.",
+          "bar": 0.35
+        },
+        {
+          "label": "Vertrauen",
+          "value": "40 %",
+          "bar": 0.4
+        },
+        {
+          "label": "Paranoia",
+          "value": "65 %",
+          "bar": 0.65
+        }
+      ],
+      "character": "An orange person with smooth citrus-textured skin, wearing a tailored business suit and gold cufflinks. On his forehead, 15 Sekunden glows in piercing orange.",
+      "visual": "Close-up of an orange broker swiping smoothly above a luxury smartwatch in a high-rise glass office overlooking Frankfurt.",
+      "scenes": [
+        "Wide shot of a luxury glass penthouse office with modern art and city skyline in the background.",
+        "Medium shot of the orange broker intensely staring at a tiny glowing smartwatch screen, a golden coin embedded in the marble desk.",
+        "Close-up of the forehead display showing 15 Sekunden under cool neon strips.",
+        "Over-the-shoulder shot revealing chat fragments about a secret meeting.",
+        "Medium shot of a striking dragon fruit woman approaching with a sharp, warning glare.",
+        "Detail shot of an incoming message flashing in red letters on the curved glass."
+      ],
+      "caption": "Wer kontrolliert hier eigentlich wen? #kontrolle #beziehung #broker #drama #viral"
+    },
+    {
+      "n": 4,
+      "open_loop": "Welches dunkle Geheimnis wurde über den verschlüsselten Kanal ausgetauscht?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Schlägt mit der Faust auf den Tresen und droht mit Rauswurf."
+      },
+      "name": "Klaus, 42, Kioskbesitzer",
+      "badge": "30 Sekunden",
+      "verdict": "BESESSEN",
+      "story": "Die 8 Level vom heimlichen Chat-Lesen. Level 4. Level 4: 30 Sekunden starre ich gebannt auf das Display, während draußen der Dauerregen gegen die alten, beschlagenen Fensterscheiben peitscht. Meine Kokosnuss-Schale ist hart, aber innen kocht pure, zerstörerische Eifersucht. Seit Wochen lese ich heimlich die Chats meiner Frau über ihre Apple Watch, während sie tief schläft. Ich kenne jeden Kumpel, jede Sprachnachricht, jede verschwiegene Minute. Heute sehe ich einen Chat, der mir endgültig den Boden unter den Füßen wegzieht: Ein Bild von unserem letzten gemeinsamen Urlaub, aber mit einem anderen Mann, dessen Gesicht geschwärzt ist. Mein Herz hämmert gegen die holprige Schale. Ich will zoomen, um das exakte Datum zu erkennen, da taucht plötzlich ein kräftiger Handwerker vor meinem Ladentresen auf. Hör auf zu stalken, Alter, das macht dich komplett kaputt! Tom mustert mich mit strengem Blick. Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+10 Sek.",
+        "after": "40 Sek."
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom heimlichen Chat-Lesen. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 30 Sekunden starre ich gebannt auf das Display, während draußen der Dauerregen gegen die alten, beschlagenen Fensterscheiben peitscht."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Kokosnuss-Schale ist hart, aber innen kocht pure, zerstörerische Eifersucht."
+        },
+        {
+          "s": "Figur",
+          "t": "Seit Wochen lese ich heimlich die Chats meiner Frau über ihre Apple Watch, während sie tief schläft."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich kenne jeden Kumpel, jede Sprachnachricht, jede verschwiegene Minute."
+        },
+        {
+          "s": "Figur",
+          "t": "Heute sehe ich einen Chat, der mir endgültig den Boden unter den Füßen wegzieht: Ein Bild von unserem letzten gemeinsamen Urlaub, aber mit einem anderen Mann, dessen Gesicht geschwärzt ist."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Herz hämmert gegen die holprige Schale. Ich will zoomen, um das exakte Datum zu erkennen, da taucht plötzlich ein kräftiger Handwerker vor meinem Ladentresen auf."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Hör auf zu stalken, Alter, das macht dich komplett kaputt!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Tom mustert mich mit strengem Blick."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Hör auf zu stalken, Alter, das macht dich komplett kaputt!",
+      "quote_by": {
+        "level": 6,
+        "name": "Tom, 31, Handwerker",
+        "badge": "60 Sekunden",
+        "character": "A rugged broccoli person with dark green florets, wearing a denim work jacket and holding a heavy wrench.",
+        "scene": "Medium shot inside a damp, neon-lit convenience store, leaning aggressively over the counter and pointing at the coconut owner."
+      },
+      "stats": [
+        {
+          "label": "Blickzeit",
+          "value": "30 Sek.",
+          "bar": 0.5
+        },
+        {
+          "label": "Vertrauen",
+          "value": "15 %",
+          "bar": 0.15
+        },
+        {
+          "label": "Paranoia",
+          "value": "90 %",
+          "bar": 0.9
+        }
+      ],
+      "character": "A rugged coconut person with a hard, fibrous brown shell head, wearing a faded gray shopkeeper vest. On his forehead, 30 Sekunden glows in bright neon green.",
+      "visual": "Close-up of a coconut man squinting at a tiny smartwatch display inside a cluttered, moody night kiosk.",
+      "scenes": [
+        "Wide shot of a rain-soaked urban street corner at night with flickering neon signs illuminating a small kiosk.",
+        "Medium shot of the coconut man peering intently at an Apple Watch resting on a stack of local newspapers, a golden coin tucked behind a candy jar.",
+        "Close-up of the glowing forehead showing 30 Sekunden reflecting in wet window glass.",
+        "Over-the-shoulder view of a vacation photo thumbnail appearing on the tiny watch screen.",
+        "Dynamic shot of a broccoli man bursting into the kiosk with an angry expression.",
+        "Detail shot of the smartwatch screen locking automatically with a red warning icon."
+      ],
+      "caption": "Wer seine Partnerin so kontrolliert, verliert sie am Ende. #eifersucht #kiosk #kokosnuss #drama #viral"
+    },
+    {
+      "n": 5,
+      "open_loop": "Welche Sprachdatei hat das Smartphone in Panik automatisch gelöscht?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Schüttelt mitleidig den Kopf und blockiert sofort jede Diskussion."
+      },
+      "name": "Samira, 26, Influencerin",
+      "badge": "2 Minuten",
+      "verdict": "SUCHT",
+      "story": "Die 8 Level vom heimlichen Chat-Lesen. Level 5. Level 5: 2 Minuten lang wische ich im VIP-Club unbemerkt über das Handgelenk meines Verlobten, während er drüben Selfies für seine Follower macht. Meine Drachenfrucht-Haut glitzert unter den bunten Stroboskopen. Ich lese jeden gelöschten Chat, jede versteckte Nachricht, jede angebliche Freundschaftsanfrage. Ich lebe für diesen gefährlichen Adrenalinkick der Eifersucht. Plötzlich friert mein Blick ein: Eine Nachricht von einer bekannten Moderatorin mit den Worten: Er weiß von nichts, wir machen weiter. Mein Atem stockt, die glitzernde Social-Media-Welt bricht in sich zusammen. Ich will den Verlauf per Air-Geste sichern, um Beweise zu haben, da stellt sich mir eine geheimnisvolle Gestalt in den Weg und lächelt eiskalt. Du gräbst dein eigenes Grab mit jedem Wisch. Das siehst du in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+30 Sek.",
+        "after": "2,5 Min."
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom heimlichen Chat-Lesen. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 2 Minuten lang wische ich im VIP-Club unbemerkt über das Handgelenk meines Verlobten, während er drüben Selfies für seine Follower macht."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Drachenfrucht-Haut glitzert unter den bunten Stroboskopen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich lese jeden gelöschten Chat, jede versteckte Nachricht, jede angebliche Freundschaftsanfrage."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich lebe für diesen gefährlichen Adrenalinkick der Eifersucht. Plötzlich friert mein Blick ein:"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Eine Nachricht von einer bekannten Moderatorin mit den Worten: Er weiß von nichts, wir machen weiter.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Atem stockt, die glitzernde Social-Media-Welt bricht in sich zusammen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich will den Verlauf per Air-Geste sichern, um Beweise zu haben, da stellt sich mir eine geheimnisvolle Gestalt in den Weg und lächelt eiskalt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du gräbst dein eigenes Grab mit jedem Wisch.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Du gräbst dein eigenes Grab mit jedem Wisch.",
+      "quote_by": {
+        "level": 8,
+        "name": "Milo, 30, Unbekannter",
+        "badge": "UNENDLICH",
+        "character": "A mysterious melon person with smooth dark green rind, wearing an immaculate black trench coat and glowing silver eyes.",
+        "scene": "Wide shot in a dark, pulsing VIP lounge, stepping out from the shadows with a piercing gaze while pointing at the dragon fruit influencer."
+      },
+      "stats": [
+        {
+          "label": "Blickzeit",
+          "value": "2 Min.",
+          "bar": 0.65
+        },
+        {
+          "label": "Vertrauen",
+          "value": "5 %",
+          "bar": 0.05
+        },
+        {
+          "label": "Paranoia",
+          "value": "95 %",
+          "bar": 0.95
+        }
+      ],
+      "character": "A vibrant dragon fruit person with magenta scaled skin and green leaf-like spikes, wearing a sparkling silver party dress. On her forehead, 2 Minuten glows in bright pink.",
+      "visual": "Close-up of a dragon fruit influencer swiping air above a luxury smartwatch in a neon-lit nightclub with blurred background dancers.",
+      "scenes": [
+        "Wide shot of an exclusive Berlin rooftop club with flashing neon laser lights and glamorous fruit people dancing.",
+        "Medium shot of the dragon fruit woman holding a champagne glass while secretly reading a smartwatch display, a golden coin hidden on the bar counter.",
+        "Close-up of the glowing forehead display showing 2 Minuten under colorful strobe lights.",
+        "Over-the-shoulder view of scandalous chat bubbles glowing on the tiny screen.",
+        "Dynamic shot of a mysterious person in a dark trench coat stepping forward with a warning smile.",
+        "Detail shot of a chat notification disappearing in a cloud of digital pixels."
+      ],
+      "caption": "Wer so tief graben muss, hat längst verloren. #club #eifersucht #drachenfrucht #drama #viral"
+    },
+    {
+      "n": 6,
+      "open_loop": "Welche Banküberweisung wurde im Hintergrund des Chats versteckt?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Schüttelt den Kopf über so viel verlorene Lebenszeit."
+      },
+      "name": "Tom, 31, Handwerker",
+      "badge": "5 Minuten",
+      "verdict": "OBSESSION",
+      "story": "Die 8 Level vom heimlichen Chat-Lesen. Level 6. Level 6: 5 Minuten lang sitze ich in meinem Lieferwagen und starre stundenlang auf die Apple Watch meiner Partnerin, die auf dem Armaturenbrett liegt. Meine Brokkoli-Krone bebt vor purer Anspannung. Ich kenne jeden Buchstaben, jede winzige Änderung in ihrem Schreibstil, jedes verdächtige Leerzeichen. Ich bin längst absolut süchtig nach dieser ungesunden Kontrolle. Ein neuer Chat öffnet sich wie ein harten Schlag ins Gesicht: Treffen wir uns im Hotel, solange er arbeitet? Mein schwerer Schraubenschlüssel fällt mir aus der Hand auf den Boden. Ich will den Absender tracken, da klopft plötzlich jemand energisch an die Scheibe. Bist du eigentlich völlig bescheuert geworden? Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+2 Min.",
+        "after": "7 Min."
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom heimlichen Chat-Lesen. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 5 Minuten lang sitze ich in meinem Lieferwagen und starre stundenlang auf die Apple Watch meiner Partnerin, die auf dem Armaturenbrett liegt."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Brokkoli-Krone bebt vor purer Anspannung."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich kenne jeden Buchstaben, jede winzige Änderung in ihrem Schreibstil, jedes verdächtige Leerzeichen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin längst absolut süchtig nach dieser ungesunden Kontrolle. Ein neuer Chat öffnet sich wie ein harten Schlag ins Gesicht:"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Treffen wir uns im Hotel, solange er arbeitet?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein schwerer Schraubenschlüssel fällt mir aus der Hand auf den Boden."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich will den Absender tracken, da klopft plötzlich jemand energisch an die Scheibe."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Bist du eigentlich völlig bescheuert geworden?",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Bist du eigentlich völlig bescheuert geworden?",
+      "quote_by": {
+        "level": 2,
+        "name": "Leo, 24, Barista",
+        "badge": "5 Sekunden",
+        "character": "A sour lemon person with yellow textured peel skin, wearing a stained barista apron and silver rings.",
+        "scene": "Medium shot outside a parked delivery van in the rain, knocking angrily on the window and staring at the broccoli driver."
+      },
+      "stats": [
+        {
+          "label": "Blickzeit",
+          "value": "5 Min.",
+          "bar": 0.8
+        },
+        {
+          "label": "Vertrauen",
+          "value": "2 %",
+          "bar": 0.02
+        },
+        {
+          "label": "Paranoia",
+          "value": "98 %",
+          "bar": 0.98
+        }
+      ],
+      "character": "A rugged broccoli person with dark green floret hair, wearing a thick flannel work shirt and tool belt. On his forehead, 5 Minuten glows in bright green.",
+      "visual": "Close-up of a broccoli handyman staring intensely at a smartwatch screen inside a messy delivery van dashboard.",
+      "scenes": [
+        "Wide shot of a grey, industrial parking lot under heavy rain with parked delivery vans and flickering streetlamps.",
+        "Medium shot of the broccoli man leaning over the dashboard, tracking chat notifications on a smartwatch, a golden coin resting on the steering wheel hub.",
+        "Close-up of the glowing forehead display showing 5 Minuten under gloomy dashboard lights.",
+        "Over-the-shoulder view of a betrayal message glowing on the tiny screen.",
+        "Dynamic shot of a lemon barista outside knocking furiously on the driver side window.",
+        "Detail shot of a wrench slipping from greasy green fingers onto the rubber floor mat."
+      ],
+      "caption": "Die Wahrheit tut weh, aber das Warten macht alles kaputt. #handwerker #brokkoli #beziehung #drama #viral"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welche IP-Adresse stand in den Metadaten der letzten Chat-Datei?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Zuckt erschrocken zurück und rennt sofort davon."
+      },
+      "name": "Dr. Clara, 35, Chirurgin",
+      "badge": "15 Minuten",
+      "verdict": "WAHN",
+      "story": "Die 8 Level vom heimlichen Chat-Lesen. Level 7. Level 7: 15 Minuten lang analysiere ich im sterilen OP-Bereich jede winzige Bewegung auf dem Apple Watch Display meines Mannes, während er gerade operiert. Meine Drachenfrucht-Haut brennt wie Feuer. Ich habe mir eigene Skripte geschrieben, um gelöschte Nachrichten in Echtzeit abzufangen. Ich sehe die absolute Wahrheit in Bits und Bytes. Doch dann taucht eine Chat-ID auf, die mich völlig paralysiert und meinen Verstand an den Rand des Wahnsinns treibt: Meine eigene Chefärztin plant hinter meinem Rücken meine fristlose Entlassung. Mein Skalpell zittert in der Hand. Ich will den gesamten Serververlauf sichern, da stolpert eine junge Erdbeer-Studentin in den Raum und starrt mich entsetzt an. Was in aller Welt tust du da mit seinem Armband? Mia schreit fast vor Entsetzen. Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "+5 Min.",
+        "after": "20 Min."
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom heimlichen Chat-Lesen. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 15 Minuten lang analysiere ich im sterilen OP-Bereich jede winzige Bewegung auf dem Apple Watch Display meines Mannes, während er gerade operiert."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Drachenfrucht-Haut brennt wie Feuer."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe mir eigene Skripte geschrieben, um gelöschte Nachrichten in Echtzeit abzufangen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sehe die absolute Wahrheit in Bits und Bytes. Doch dann taucht eine Chat-ID auf, die mich völlig paralysiert und meinen Verstand an den Rand des Wahnsinns treibt:"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Meine eigene Chefärztin plant hinter meinem Rücken meine fristlose Entlassung.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Skalpell zittert in der Hand. Ich will den gesamten Serververlauf sichern, da stolpert eine junge Erdbeer-Studentin in den Raum und starrt mich entsetzt an."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Was in aller Welt tust du da mit seinem Armband?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mia schreit fast vor Entsetzen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Was in aller Welt tust du da mit seinem Armband?",
+      "quote_by": {
+        "level": 1,
+        "name": "Mia, 19, Studentin",
+        "badge": "0 Sekunden",
+        "character": "A young strawberry person with bright red seed skin, wearing an oversized beige hoodie and nervous eyes.",
+        "scene": "Wide shot in a sterile hospital corridor, gasping in shock and pointing at the dragon fruit surgeon near the operating theatre door."
+      },
+      "stats": [
+        {
+          "label": "Blickzeit",
+          "value": "15 Min.",
+          "bar": 0.9
+        },
+        {
+          "label": "Vertrauen",
+          "value": "0 %",
+          "bar": 0.0
+        },
+        {
+          "label": "Paranoia",
+          "value": "100 %",
+          "bar": 1.0
+        }
+      ],
+      "character": "A sleek dragon fruit person with magenta scaled skin and sharp white medical scrubs. On her forehead, 15 Minuten glows in piercing pink.",
+      "visual": "Close-up of a dragon fruit surgeon intently tracking chat streams on an Apple Watch inside a bright white operating room.",
+      "scenes": [
+        "Wide shot of a modern, sterile hospital hallway with gleaming white tile floors and fluorescent lighting.",
+        "Medium shot of the dragon fruit surgeon tapping air above a smartwatch on a steel medical cart, a golden coin hidden beneath a tray of surgical instruments.",
+        "Close-up of the glowing forehead display showing 15 Minuten under cold medical lamps.",
+        "Over-the-shoulder view of complex server logs and decrypted chat texts on the tiny glass display.",
+        "Dynamic shot of a terrified strawberry student bursting through automated doors.",
+        "Detail shot of a surgical scalpel slipping from gloved fingers onto the stainless steel tray."
+      ],
+      "caption": "Kontrolle ist gut, Paranoia zerstört alles. #chirurgin #drachenfrucht #krankenhaus #drama #viral"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches Thema sollen wir als Nächstes in 8 Leveln beleuchten?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Schaut schweigend auf die eigene Stirn und begreift die Konsequenz."
+      },
+      "name": "Milo, 30, Unbekannter",
+      "badge": "UNENDLICH",
+      "verdict": "ERLEUCHTUNG",
+      "story": "Die 8 Level vom heimlichen Chat-Lesen. Level 8. Level 8: Unendliche Stunden lang habe ich aus den dunklen Schatten heraus zugesehen, wie ihr alle euer Leben durch den obsessiven Blick auf fremde Handgelenke zerstört habt. Meine Melonen-Haut spiegelt die kalte Dunkelheit der Stadt wider. Niemand von euch hat jemals die echten Nachrichten gelesen – ihr habt immer nur eure eigenen tiefen Ängste auf die Bildschirme projiziert. Die Apple Watch zeigt niemals die wahre Intention des anderen, sondern enthüllt immer nur die schmerzhafte Leere im eigenen Herzen. Das Spiel ist jetzt endgültig vorbei, alle Displays bleiben unwiderruflich schwarz. Alle Kanten des Netzes verbinden sich in diesem einzigen, eisigen Moment vor dem zentralen Kiosk in Fruchtstadt. Plötzlich treten alle Charaktere aus dem Schatten hervor und halten ihre Uhren in der Hand. Wer von euch wird jetzt endlich den Mut haben, das Handy wegzulegen und mir direkt in die Augen zu blicken? Welches Thema sollen wir als Nächstes in 8 Leveln beleuchten?",
+      "gender": "m",
+      "twist": {
+        "delta": "0",
+        "after": "UNENDLICH"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom heimlichen Chat-Lesen. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: Unendliche Stunden lang habe ich aus den dunklen Schatten heraus zugesehen, wie ihr alle euer Leben durch den obsessiven Blick auf fremde Handgelenke zerstört habt."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Melonen-Haut spiegelt die kalte Dunkelheit der Stadt wider."
+        },
+        {
+          "s": "Figur",
+          "t": "Niemand von euch hat jemals die echten Nachrichten gelesen – ihr habt immer nur eure eigenen tiefen Ängste auf die Bildschirme projiziert."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Apple Watch zeigt niemals die wahre Intention des anderen, sondern enthüllt immer nur die schmerzhafte Leere im eigenen Herzen."
+        },
+        {
+          "s": "Figur",
+          "t": "Das Spiel ist jetzt endgültig vorbei, alle Displays bleiben unwiderruflich schwarz. Alle Kanten des Netzes verbinden sich in diesem einzigen, eisigen Moment vor dem zentralen Kiosk in Fruchtstadt."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich treten alle Charaktere aus dem Schatten hervor und halten ihre Uhren in der Hand."
+        },
+        {
+          "s": "Figur",
+          "t": "Wer von euch wird jetzt endlich den Mut haben, das Handy wegzulegen und mir direkt in die Augen zu blicken?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema sollen wir als Nächstes in 8 Leveln beleuchten?"
+        }
+      ],
+      "quote": "Wer von euch wird jetzt den Mut haben, das Handy wegzulegen und direkt in die Augen zu blicken?",
+      "quote_by": {
+        "level": 8,
+        "name": "Milo, 30, Unbekannter",
+        "badge": "UNENDLICH",
+        "character": "A mysterious melon person with smooth dark green rind, wearing an immaculate black trench coat and glowing silver eyes.",
+        "scene": "Wide shot in front of the central kiosk at midnight, surrounded by all previous characters holding dark smartwatches while glowing silver digits shine."
+      },
+      "stats": [
+        {
+          "label": "Blickzeit",
+          "value": "Unendlich",
+          "bar": 1.0
+        },
+        {
+          "label": "Vertrauen",
+          "value": "100 %",
+          "bar": 1.0
+        },
+        {
+          "label": "Paranoia",
+          "value": "0 %",
+          "bar": 0.0
+        }
+      ],
+      "character": "A mysterious melon person with smooth dark green rind skin, wearing an immaculate black trench coat and silver accessories. On his forehead, UNENDLICH glows in bright silver.",
+      "visual": "Wide cinematic shot of the central kiosk at midnight with all fruit characters gathering under streetlamps, looking at their black watch screens.",
+      "scenes": [
+        "Wide shot of Fruchtstadt at midnight with rain reflecting neon lights on wet asphalt streets.",
+        "Medium shot of the mysterious melon man standing in front of the closed kiosk, a golden coin resting on the pay phone ledge.",
+        "Close-up of the glowing forehead display showing UNENDLICH under dramatic moonlight.",
+        "Over-the-shoulder view of all previous characters (strawberry, lemon, orange, coconut, dragon fruit, broccoli) standing together in silence.",
+        "Dynamic panning shot connecting all locations: cafe, university, hospital, and delivery van.",
+        "Final wide shot fading into dark screen with glowing title card."
+      ],
+      "caption": "Das Ende aller Geheimnisse. Welches Thema kommt als Nächstes? #ende #stirnzahl #melone #viral #drama"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das heimliche Lesen der Chat-Verläufe des Partners über den Apple Watch Bildschirm ohne ihn zu berühren",
+  "frame": "frucht"
+}

@@ -1,0 +1,766 @@
+{
+  "title": "The 8 Levels of Planning a Fake Dream Trip",
+  "house": "A bustling fruit-and-vegetable metropolis named Produce City, where towering skyscrapers made of giant hollowed-out gourds cast long shadows over neon-lit asphalt streets, and every single resident wears a glowing digital forehead display of their monthly disposable income.",
+  "catchphrase": "The number on your forehead never lies.",
+  "links": [
+    "The bitter lemon barista in Level 1 mentions a quiet wealthy carrot customer who always tips in gold coins.",
+    "The coconut travel agent in Level 3 spots the broke strawberry running past her agency window.",
+    "The dragon fruit influencer in Level 6 complains about a loud orange making flight videos on public transit."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Why did the luxury travel brochure suddenly catch fire right after she touched the first page?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Laughs loudly at her handwritten itinerary and spills expensive imported oat milk over her printed map."
+      },
+      "name": "Milo, 22, Grocery Bagger",
+      "badge": "120 $",
+      "verdict": "DEBT COLLECTOR BAIT",
+      "story": "The 8 levels of planning a luxury vacation with zero budget. Level 1. Level 1: 120 dollars a month to plan a first-class trip to Bora Bora. My name is Milo, I'm a sweet potato guy with dirt smudged on my cheeks, and my jacket is safety-pinned together. I'm sitting at the corner table of the neon-lit Central Station Diner, sketching a five-star overwater bungalow on a dirty napkin while my app shows exactly zero cents for flights. You are booking a private yacht with two dollars in your pocket, Milo. Are you swimming across the ocean? The whole diner goes dead silent, staring at my flashing red digit. My face burns hot under the fluorescent lights as I clutch my colored pencils. I pull a crumpled paper stub from my pocket and whisper my exact philosophy right back at her. We are all just tourists passing through a town we cannot afford. Then my phone vibrates violently with a notification that changes everything. You will see that in Level 2. You'll see that in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-50 $",
+        "after": "70 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of planning a luxury vacation with zero budget. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 120 dollars a month to plan a first-class trip to Bora Bora."
+        },
+        {
+          "s": "Figur",
+          "t": "My name is Milo, I'm a sweet potato guy with dirt smudged on my cheeks, and my jacket is safety-pinned together."
+        },
+        {
+          "s": "Figur",
+          "t": "I'm sitting at the corner table of the neon-lit Central Station Diner, sketching a five-star overwater bungalow on a dirty napkin while my app shows exactly zero cents for flights."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are booking a private yacht with two dollars in your pocket, Milo. Are you swimming across the ocean?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "The whole diner goes dead silent, staring at my flashing red digit."
+        },
+        {
+          "s": "Figur",
+          "t": "My face burns hot under the fluorescent lights as I clutch my colored pencils."
+        },
+        {
+          "s": "Figur",
+          "t": "I pull a crumpled paper stub from my pocket and whisper my exact philosophy right back at her."
+        },
+        {
+          "s": "Figur",
+          "t": "We are all just tourists passing through a town we cannot afford."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then my phone vibrates violently with a notification that changes everything. You will see that in Level 2."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "We are all just tourists passing through a town we cannot afford.",
+      "quote_by": {
+        "level": 1,
+        "name": "Milo",
+        "badge": "120 $",
+        "character": "A rugged sweet potato man with a bruised skin texture, wearing an oversized thrift-store denim jacket and clutching a broken yellow pencil.",
+        "scene": "Wide angle shot in a neon-lit 24-hour diner at 3 AM, rain streaking the greasy window glass, pointing a stained pencil at a glossy travel pamphlet."
+      },
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "120 $",
+          "bar": 0.05
+        },
+        {
+          "label": "Dreams",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Reality",
+          "value": "0%",
+          "bar": 0.0
+        }
+      ],
+      "character": "A rugged sweet potato man with a rough, earthy skin texture, wearing an oversized faded denim jacket and holding a broken yellow colored pencil; his forehead displays a glowing red digital 120 $.",
+      "visual": "Wide angle shot in a neon-lit greasy spoon diner at 3 AM, rain splashing against grease-streaked windows, a sweet potato man sketching a luxury resort on a napkin while a dragon fruit sneers at him.",
+      "scenes": [
+        "Wide angle shot of the Central Station Diner interior at night, flickering neon signs casting pink light on worn vinyl booths, background figures of vegetable people slurping instant noodles, a tiny golden coin hidden near the ketchup bottle.",
+        "Close-up detail shot of Milo's rough sweet potato hands coloring a paper airplane with a stubby blue crayon next to a negative bank balance alert on a cracked screen.",
+        "Medium shot across a Formica table where a sleek dragon fruit woman in a metallic tracksuit leans in with a smug smirk, pointing at Milo's flashing red forehead display.",
+        "Exterior shot of Produce City's subway entrance in heavy rain, commuters rushing past a glowing billboard advertising tropical islands that nobody can afford.",
+        "Detail shot of a hidden gold coin resting on the wet pavement right beside a discarded first-class airline ticket stub soaked in puddles.",
+        "Close-up of Milo's intense expression as he bites his lip, staring at an incoming phone notification under the buzzing amber glow of a streetlamp."
+      ],
+      "caption": "Planning a luxury vacation when your bank account is screaming. Would you still dream big? #ProduceCity #BrokeLife #TravelDreams #SweetPotato #ViralDrama"
+    },
+    {
+      "n": 2,
+      "open_loop": "Who sent the mysterious envelope filled with boarding passes to an unknown island?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Snatches his laminated flight schedule out of his hands and drops it straight into a steaming public trash bin."
+      },
+      "name": "Cleo, 25, Barista",
+      "badge": "850 $",
+      "verdict": "BARELY SURVIVING",
+      "story": "The 8 levels of planning a luxury vacation with zero budget. Level 2. Level 2: 850 dollars a month and an entire wall covered in postcard dreams of Tokyo. My name is Cleo, a sour lemon person with a permanent bitter frown, working the espresso machine at the commuter rail station kiosk. I spend every spare second measuring flight times with a ruler on a huge world map taped to the tiles. You are measuring first-class routes with barista tips, Cleo? You will never even afford a bus ticket to the suburbs. My yellow peel heats up with pure humiliation as commuters stare at my low number. I grip the steaming milk pitcher and look him dead in the eyes with my sharpest comeback. My imagination flies much faster than your overpriced private jet. Suddenly, a strange courier drops a sealed Manila envelope onto my spill tray. You will see that in Level 3. You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+200 $",
+        "after": "1.050 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of planning a luxury vacation with zero budget. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 850 dollars a month and an entire wall covered in postcard dreams of Tokyo."
+        },
+        {
+          "s": "Figur",
+          "t": "My name is Cleo, a sour lemon person with a permanent bitter frown, working the espresso machine at the commuter rail station kiosk."
+        },
+        {
+          "s": "Figur",
+          "t": "I spend every spare second measuring flight times with a ruler on a huge world map taped to the tiles."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are measuring first-class routes with barista tips, Cleo? You will never even afford a bus ticket to the suburbs.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My yellow peel heats up with pure humiliation as commuters stare at my low number."
+        },
+        {
+          "s": "Figur",
+          "t": "I grip the steaming milk pitcher and look him dead in the eyes with my sharpest comeback."
+        },
+        {
+          "s": "Figur",
+          "t": "My imagination flies much faster than your overpriced private jet."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Suddenly, a strange courier drops a sealed Manila envelope onto my spill tray. You will see that in Level 3."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "My imagination flies much faster than your overpriced private jet.",
+      "quote_by": {
+        "level": 2,
+        "name": "Cleo",
+        "badge": "850 $",
+        "character": "A sharp-featured lemon woman with bright yellow textured skin, wearing a stained green barista apron and a tight hairnet.",
+        "scene": "Medium shot behind a stainless steel coffee kiosk counter, steam rising from espresso machines, pointing a measuring ruler at a large world map."
+      },
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "850 $",
+          "bar": 0.15
+        },
+        {
+          "label": "Dreams",
+          "value": "Tokyo",
+          "bar": 0.8
+        },
+        {
+          "label": "Reality",
+          "value": "12%",
+          "bar": 0.1
+        }
+      ],
+      "character": "A sour lemon woman with bright yellow, bumpy skin and a permanent sharp frown, wearing a stained green barista apron over a gray sweater; her forehead glows with 850 $.",
+      "visual": "Medium shot inside a bustling train station coffee kiosk with steam rising from espresso wands, a yellow lemon woman pointing a metal ruler at a world map while commuters rush past.",
+      "scenes": [
+        "Wide shot of the underground commuter train station platform during morning rush hour, flickering fluorescent lights, vegetable commuters rushing past a coffee kiosk covered in travel posters.",
+        "Close-up detail shot of Cleo's lemon-textured fingers holding a red marking pen against a detailed flight schedule filled with handwritten calculations.",
+        "Medium over-the-shoulder shot of an arrogant broccoli man in a sharp suit slamming a heavy briefcase onto the counter, glaring at the map with his 4,200 $ forehead.",
+        "Detail shot of a golden coin tucked neatly beneath the base of a commercial coffee grinder handle, glinting in the harsh fluorescent light.",
+        "Close-up shot of Cleo's tightened lips and narrowed eyes as she grips a steel milk pitcher, her yellow skin flushing pale under stress.",
+        "Wide angle shot of a mysterious courier in a black trench coat dropping a thick brown envelope onto the wet counter before disappearing into the crowd."
+      ],
+      "caption": "When a billionaire broccoli guy mocks your dream trip to Tokyo. Never let them dim your sparkle! #LemonLife #BaristaDrama #TokyoDreams #ProduceCity #Level2"
+    },
+    {
+      "n": 3,
+      "open_loop": "What secret code was written on the back of the travel agency business card?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Tears her carefully glued vacation collage in half and tosses it into a recycling bin."
+      },
+      "name": "Maya, 28, Freelance Illustrator",
+      "badge": "2.100 $",
+      "verdict": "BORDERLINE STABLE",
+      "story": "The 8 levels of planning a luxury vacation with zero budget. Level 3. Level 3: 2,100 dollars a month spent entirely on mood boards for a nonexistent trip to the Swiss Alps. My name is Maya, an avocado woman with smooth green skin and a large wooden pit pendant around my neck, sitting cross-legged on my studio floor surrounded by printed hotel brochures. My roommate, a towering coconut man from Level 7 with a hard, hairy brown shell and an 8,900 dollar forehead, kicks my stack of Swiss Alps photos across the hardwood floor. You are building snow castles with freelance table scraps, Maya. You cannot even afford a winter coat, let alone a ski chalet in Zermatt. My green cheeks burn with rage as I scramble to pick up my scattered pictures of snowy peaks. I look up from the floor and deliver the line that makes him pause. A poor artist builds palaces while a rich man lives in a cage. Just as he turns to storm out, my phone lights up with a text from an unknown sender. You will see that in Level 4. You'll see that in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "-300 $",
+        "after": "1.800 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of planning a luxury vacation with zero budget. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 2,100 dollars a month spent entirely on mood boards for a nonexistent trip to the Swiss Alps."
+        },
+        {
+          "s": "Figur",
+          "t": "My name is Maya, an avocado woman with smooth green skin and a large wooden pit pendant around my neck, sitting cross-legged on my studio floor surrounded by printed hotel brochures."
+        },
+        {
+          "s": "Figur",
+          "t": "My roommate, a towering coconut man from Level 7 with a hard, hairy brown shell and an 8,900 dollar forehead, kicks my stack of Swiss Alps photos across the hardwood floor."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are building snow castles with freelance table scraps, Maya. You cannot even afford a winter coat, let alone a ski chalet in Zermatt.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My green cheeks burn with rage as I scramble to pick up my scattered pictures of snowy peaks."
+        },
+        {
+          "s": "Figur",
+          "t": "I look up from the floor and deliver the line that makes him pause."
+        },
+        {
+          "s": "Figur",
+          "t": "A poor artist builds palaces while a rich man lives in a cage."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Just as he turns to storm out, my phone lights up with a text from an unknown sender. You will see that in Level 4."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "A poor artist builds palaces while a rich man lives in a cage.",
+      "quote_by": {
+        "level": 3,
+        "name": "Maya",
+        "badge": "2.100 $",
+        "character": "An avocado woman with smooth pear-shaped green skin, wearing an oversized beige knit sweater and a wooden seed pendant necklace.",
+        "scene": "Low-angle shot sitting on a messy apartment floor surrounded by travel brochures, looking up defiantly at an imposing figure above."
+      },
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "2.100 $",
+          "bar": 0.3
+        },
+        {
+          "label": "Mood",
+          "value": "Alps",
+          "bar": 0.9
+        },
+        {
+          "label": "Savings",
+          "value": "45 $",
+          "bar": 0.05
+        }
+      ],
+      "character": "An avocado woman with smooth pear-shaped green skin and a dark green crown, wearing a cozy oversized beige knit sweater and a large wooden pit pendant; her forehead glows with 2.100 $.",
+      "visual": "Low-angle medium shot inside a cluttered sunlit art studio apartment, an avocado woman sitting on wooden floors surrounded by travel boards while a towering coconut man kicks her papers.",
+      "scenes": [
+        "Wide angle shot of a sunlit loft apartment with exposed brick walls, easels, paint splatters, and a massive corkboard pinned with pictures of Swiss mountains and luxury chalets.",
+        "Close-up detail shot of an avocado-textured hand cutting out a picture of a ski lift with small precision scissors next to a half-empty coffee mug.",
+        "Medium shot of a hairy coconut man in a dark tailored vest standing over Maya, his glowing forehead showing 8,900 $ as his foot kicks a stack of photos.",
+        "Detail shot of a small golden coin wedged between the wooden slats of the studio floorboards near a dropped paintbrush.",
+        "Close-up of Maya's determined green face, her jaw clenched as she glares upward from the floorboards.",
+        "Wide shot of the apartment doorway as the coconut man slams the door shut, leaving Maya alone with her glowing phone screen."
+      ],
+      "caption": "When your rich roommate tells you your travel dreams are trash. Who is really living? #AvocadoArt #SwissAlps #RoommateDrama #ProduceCity #Level3"
+    },
+    {
+      "n": 4,
+      "open_loop": "What did the VIP concierge whisper into her ear before handing her the golden key card?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Refuses to validate her parking ticket and forces her to pay double the standard garage fee."
+      },
+      "name": "Sam, 31, Junior Accountant",
+      "badge": "4.500 $",
+      "verdict": "MID-TIER STRUGGLE",
+      "story": "The 8 levels of planning a luxury vacation with zero budget. Level 4. Level 4: 4,500 dollars a month spent entirely on planning a fantasy honeymoon to Santorini with no partner in sight. My name is Sam, an orange man with a dimpled citrus texture and wire-rimmed glasses, sitting at my cubicle under harsh fluorescent lights with three different booking tabs open. You are booking sunset cliff villas for two when you eat instant ramen alone, Sam. Even your calculator feels sorry for you. My citrus peel tingles with humiliation as neighboring cubicle workers chuckle softly. I push my glasses up my nose and give her a cold, calculated reality check. I am investing in my happiness while you are only counting everyone else's pennies. Suddenly, the office phone rings with an exclusive travel agency invite. You will see that in Level 5. You'll see that in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+800 $",
+        "after": "5.300 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of planning a luxury vacation with zero budget. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 4,500 dollars a month spent entirely on planning a fantasy honeymoon to Santorini with no partner in sight."
+        },
+        {
+          "s": "Figur",
+          "t": "My name is Sam, an orange man with a dimpled citrus texture and wire-rimmed glasses, sitting at my cubicle under harsh fluorescent lights with three different booking tabs open."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are booking sunset cliff villas for two when you eat instant ramen alone, Sam. Even your calculator feels sorry for you.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My citrus peel tingles with humiliation as neighboring cubicle workers chuckle softly."
+        },
+        {
+          "s": "Figur",
+          "t": "I push my glasses up my nose and give her a cold, calculated reality check."
+        },
+        {
+          "s": "Figur",
+          "t": "I am investing in my happiness while you are only counting everyone else's pennies."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Suddenly, the office phone rings with an exclusive travel agency invite. You will see that in Level 5."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "I am investing in my happiness while you are only counting everyone else's pennies.",
+      "quote_by": {
+        "level": 4,
+        "name": "Sam",
+        "badge": "4.500 $",
+        "character": "An orange man with dimpled bright citrus skin and wire-rimmed glasses, wearing a crisp blue dress shirt and a narrow striped silk tie.",
+        "scene": "Close-up shot inside a cramped corporate cubicle with glowing computer screens reflecting off glasses, speaking firmly across gray fabric partitions."
+      },
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "4.500 $",
+          "bar": 0.5
+        },
+        {
+          "label": "Santorini",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Date",
+          "value": "None",
+          "bar": 0.0
+        }
+      ],
+      "character": "An orange man with dimpled bright citrus skin and wire-rimmed glasses, wearing a crisp blue dress shirt and a narrow striped silk tie; his glowing forehead shows 4.500 $.",
+      "visual": "Medium close-up shot inside a gray corporate office cubicle lit by cold fluorescent ceiling panels, an orange man staring intensely at a Santorini resort website on dual monitors.",
+      "scenes": [
+        "Wide angle shot of a massive open-plan accounting office floor with rows of gray cubicles, flickering overhead lights, and vegetable office workers typing furiously.",
+        "Close-up detail shot of Sam's dimpled orange fingers clicking through flight comparison websites while a half-eaten sandwich sits beside his keyboard.",
+        "Medium shot of a sour lemon woman standing in the aisle, slamming folders onto Sam's desk with an aggressive expression and a low forehead number.",
+        "Detail shot of a hidden golden coin resting inside the plastic cup of a mechanical stapler on the adjacent desk.",
+        "Close-up of Sam adjusting his wire-rimmed glasses, his citrus skin tightening in frustration as colleagues whisper behind him.",
+        "Wide angle shot of the office telephone flashing red in the dim evening shadows while Sam reaches out his hand slowly."
+      ],
+      "caption": "Planning a dream honeymoon to Santorini when you're completely single. Corporate life hits different! #OrangeLife #SantoriniDreams #OfficeDrama #ProduceCity #Level4"
+    },
+    {
+      "n": 5,
+      "open_loop": "What was hidden inside the VIP suitcase stamped with a red top-secret seal?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Accidentally knocks over his expensive model airplane display while rushing through the lounge."
+      },
+      "name": "Zoe, 29, Senior Architect",
+      "badge": "7.200 $",
+      "verdict": "UPPER BRACKET",
+      "story": "The 8 levels of planning a luxury vacation with zero budget. Level 5. Level 5: 7,200 dollars a month and an entire architectural portfolio dedicated to luxury treehouse resorts in Bali. My name is Zoe, a dragon fruit woman with bright magenta skin and spiky green-tipped bracts framing my face, standing over a massive 3D model of a jungle villa in my glass-walled penthouse studio. Watch where you are going, peasant. You cannot even afford a ticket to the city zoo, let alone my jungle resort. He picks himself up off the floor, dusts off his patched jacket, and looks straight up into my eyes with a chilling grin. A broken model can be rebuilt, but a cold heart stays empty forever. Right after he leaves, my private secretary hands me a mysterious golden passport. You will see that in Level 6. You'll see that in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1.500 $",
+        "after": "8.700 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of planning a luxury vacation with zero budget. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 7,200 dollars a month and an entire architectural portfolio dedicated to luxury treehouse resorts in Bali."
+        },
+        {
+          "s": "Figur",
+          "t": "My name is Zoe, a dragon fruit woman with bright magenta skin and spiky green-tipped bracts framing my face, standing over a massive 3D model of a jungle villa in my glass-walled penthouse studio."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Watch where you are going, peasant. You cannot even afford a ticket to the city zoo, let alone my jungle resort.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "He picks himself up off the floor, dusts off his patched jacket, and looks straight up into my eyes with a chilling grin."
+        },
+        {
+          "s": "Figur",
+          "t": "A broken model can be rebuilt, but a cold heart stays empty forever."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Right after he leaves, my private secretary hands me a mysterious golden passport. You will see that in Level 6."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "A broken model can be rebuilt, but a cold heart stays empty forever.",
+      "quote_by": {
+        "level": 5,
+        "name": "Zoe",
+        "badge": "7.200 $",
+        "character": "A striking dragon fruit woman with magenta skin and spiky green-tipped leaves framing her face, wearing a sleek silver silk blouse and modern geometric earrings.",
+        "scene": "Wide architectural studio shot leaning over an intricate miniature 3D model of a tropical jungle resort, looking down with an imperious expression."
+      },
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "7.200 $",
+          "bar": 0.7
+        },
+        {
+          "label": "Bali",
+          "value": "Ready",
+          "bar": 0.95
+        },
+        {
+          "label": "Ego",
+          "value": "High",
+          "bar": 0.9
+        }
+      ],
+      "character": "A striking dragon fruit woman with vibrant magenta skin and spiky green-tipped bracts framing her face, wearing a sleek silver silk blouse; her forehead displays 7.200 $.",
+      "visual": "Wide angle shot in a sunlit architectural penthouse with floor-to-ceiling glass windows overlooking Produce City, a dragon fruit woman inspecting a miniature model while a sweet potato stumbles into her desk.",
+      "scenes": [
+        "Wide angle shot of a high-end architectural studio in a glass skyscraper, sunlight pouring over sleek drafting tables, miniature bamboo models, and panoramic views of the city.",
+        "Close-up detail shot of Zoe's magenta-skinned hands placing a tiny wooden lounge chair onto the deck of a miniature jungle treehouse model.",
+        "Medium action shot of a scruffy sweet potato delivery guy tripping over a thick black power cable and crashing straight into the center of the architectural model.",
+        "Detail shot of a hidden golden coin resting inside the hollow base of a miniature palm tree on the shattered model.",
+        "Close-up of Zoe's sharp facial features, her magenta bracts flaring in anger as she stares down at the intruder.",
+        "Wide shot of the penthouse elevator doors sliding open to reveal a courier holding a heavy metallic briefcase stamped with gold seals."
+      ],
+      "caption": "When a clumsy delivery guy ruins your million-dollar architecture model of Bali. Absolute chaos! #DragonFruit #BaliResort #ArchitectLife #ProduceCity #Level5"
+    },
+    {
+      "n": 6,
+      "open_loop": "Why did the private jet pilot cancel the flight seconds before takeoff?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Deletes her entire digital travel folder while pretending to borrow her laptop for work."
+      },
+      "name": "Leo, 34, Tech Founder",
+      "badge": "14.500 $",
+      "verdict": "ELITE TIER",
+      "story": "The 8 levels of planning a luxury vacation with zero budget. Level 6. Level 6: 14,500 dollars a month spent on chartering private jets to nowhere while living in a luxury high-rise. My name is Leo, a coconut man with a polished, lacquered brown shell, custom designer sunglasses perched on my crown, standing on my marble balcony overlooking Produce City with an iPad full of Maldives flight itineraries. You are renting airplanes on paper while your company servers are crashing, Leo. You are just a hollow shell playing billionaire. My polished brown shell heats up with intense embarrassment as my startup valuation alerts flash red on my tablet. I take off my sunglasses and hit her with the ultimate truth bomb. A hollow shell holds the milk of paradise while you only squeeze pits. Right at that exact second, my private pilot calls with shocking news about my account balance. You will see that in Level 7. You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "-5.000 $",
+        "after": "9.500 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of planning a luxury vacation with zero budget. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 14,500 dollars a month spent on chartering private jets to nowhere while living in a luxury high-rise."
+        },
+        {
+          "s": "Figur",
+          "t": "My name is Leo, a coconut man with a polished, lacquered brown shell, custom designer sunglasses perched on my crown, standing on my marble balcony overlooking Produce City with an iPad full of Maldives flight itineraries."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are renting airplanes on paper while your company servers are crashing, Leo. You are just a hollow shell playing billionaire.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My polished brown shell heats up with intense embarrassment as my startup valuation alerts flash red on my tablet."
+        },
+        {
+          "s": "Figur",
+          "t": "I take off my sunglasses and hit her with the ultimate truth bomb."
+        },
+        {
+          "s": "Figur",
+          "t": "A hollow shell holds the milk of paradise while you only squeeze pits."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Right at that exact second, my private pilot calls with shocking news about my account balance. You will see that in Level 7."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "A hollow shell holds the milk of paradise while you only squeeze pits.",
+      "quote_by": {
+        "level": 6,
+        "name": "Leo",
+        "badge": "14.500 $",
+        "character": "A polished brown coconut man with a smooth lacquered shell, wearing an Italian cashmere turtleneck and designer sunglasses on his crown.",
+        "scene": "Medium shot on a luxury glass penthouse balcony at sunset, holding a sleek tablet showing private flight routes while arguing with a roommate."
+      },
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "14.500 $",
+          "bar": 0.85
+        },
+        {
+          "label": "Maldives",
+          "value": "Booked",
+          "bar": 1.0
+        },
+        {
+          "label": "Servers",
+          "value": "CRASH",
+          "bar": 0.2
+        }
+      ],
+      "character": "A polished brown coconut man with a smooth lacquered shell and custom designer sunglasses perched on his head, wearing an Italian cashmere turtleneck; his forehead glows with 14.500 $.",
+      "visual": "Wide angle shot on a high-rise luxury penthouse balcony at sunset overlooking Produce City's glittering skyline, a coconut man holding a glowing tablet while arguing with an avocado woman.",
+      "scenes": [
+        "Wide angle shot of a luxury penthouse balcony at golden hour, overlooking the glowing skyscrapers of Produce City with private helipads in the distance.",
+        "Close-up detail shot of Leo's polished brown coconut shell reflecting a tablet screen displaying private jet charter contracts for the Maldives.",
+        "Medium shot of an avocado woman in a beige sweater leaning against the glass balcony door, smirking and holding a ceramic mug while looking at Leo's forehead display.",
+        "Detail shot of a hidden golden coin embedded into the white marble railing of the penthouse balcony.",
+        "Close-up of Leo removing his designer sunglasses, his dark eyes narrowing in sharp defiance.",
+        "Wide shot of Leo holding his ringing smartphone to his ear as stormy clouds gather quickly over the city skyline."
+      ],
+      "caption": "When your roommate exposes your startup crash while you're planning a private jet trip to the Maldives. Brutal! #CoconutLife #StartupDrama #MaldivesTrip #ProduceCity #Level6"
+    },
+    {
+      "n": 7,
+      "open_loop": "What was written inside the black ledger found in the executive boardroom safe?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Cancels all his corporate travel reimbursements right before his big international flight."
+      },
+      "name": "Victor, 42, Hedge Fund Director",
+      "badge": "38.000 $",
+      "verdict": "TOP 1 PERCENT",
+      "story": "The 8 levels of planning a luxury vacation with zero budget. Level 7. Level 7: 38,000 dollars a month spent on booking private islands in the Pacific just to test internet speeds. My name is Victor, a robust broccoli man with a dense, dark green florets crown and an impeccably tailored pinstripe suit, sitting at the head of a mahogany boardroom table reviewing global vacation portfolios. You are spending millions on imaginary islands while our portfolio is bleeding out, Victor. You are nothing but a loud stalk of stems. My dark green florets bristle with cold fury as the board members murmur behind their leather chairs. I stand up slowly, button my suit jacket, and deliver the final sentence that freezes the room. A real boss buys the island while the accountant keeps counting the sand. Suddenly, the boardroom double doors fly open, revealing an unexpected visitor with a shocking demand. You will see that in Level 8. You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "-12.000 $",
+        "after": "26.000 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of planning a luxury vacation with zero budget. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 38,000 dollars a month spent on booking private islands in the Pacific just to test internet speeds."
+        },
+        {
+          "s": "Figur",
+          "t": "My name is Victor, a robust broccoli man with a dense, dark green florets crown and an impeccably tailored pinstripe suit, sitting at the head of a mahogany boardroom table reviewing global vacation portfolios."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are spending millions on imaginary islands while our portfolio is bleeding out, Victor. You are nothing but a loud stalk of stems.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My dark green florets bristle with cold fury as the board members murmur behind their leather chairs."
+        },
+        {
+          "s": "Figur",
+          "t": "I stand up slowly, button my suit jacket, and deliver the final sentence that freezes the room."
+        },
+        {
+          "s": "Figur",
+          "t": "A real boss buys the island while the accountant keeps counting the sand."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Suddenly, the boardroom double doors fly open, revealing an unexpected visitor with a shocking demand. You will see that in Level 8."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "A real boss buys the island while the accountant keeps counting the sand.",
+      "quote_by": {
+        "level": 7,
+        "name": "Victor",
+        "badge": "38.000 $",
+        "character": "A distinguished broccoli man with dark green dense florets for hair, wearing a custom navy pinstripe suit and a silk pocket square.",
+        "scene": "Wide angle shot at the head of a massive mahogany boardroom table in a high-rise tower, standing up authoritatively to address a junior employee."
+      },
+      "stats": [
+        {
+          "label": "Budget",
+          "value": "38.000 $",
+          "bar": 0.95
+        },
+        {
+          "label": "Islands",
+          "value": "3 Owned",
+          "bar": 1.0
+        },
+        {
+          "label": "Power",
+          "value": "Max",
+          "bar": 0.9
+        }
+      ],
+      "character": "A robust broccoli man with dense dark green florets for hair and an aristocratic posture, wearing a custom navy pinstripe suit; his glowing forehead shows 38.000 $.",
+      "visual": "Wide angle shot in a luxurious wood-paneled corporate boardroom with panoramic city views, a broccoli director standing triumphantly over an orange accountant.",
+      "scenes": [
+        "Wide angle shot of a palatial executive boardroom with polished mahogany tables, leather executive chairs, and floor-to-ceiling windows showing Produce City at dusk.",
+        "Close-up detail shot of Victor's broccoli-stem fingers flipping through glossy brochures of private tropical islands in the South Pacific.",
+        "Medium shot of an orange accountant in a crisp blue shirt slamming audit papers down onto the polished wood table in front of Victor.",
+        "Detail shot of a hidden golden coin embedded inside the carved wooden armrest of the director's chair.",
+        "Close-up of Victor's dark green florets twitching slightly as he glares across the table with absolute authority.",
+        "Wide angle shot of the heavy double oak doors bursting open, revealing a mysterious figure standing in the doorway under flashing emergency lights."
+      ],
+      "caption": "When your accountant tries to block your private island purchase. Power move! #BroccoliBoss #HedgeFund #PrivateIsland #ProduceCity #Level7"
+    },
+    {
+      "n": 8,
+      "open_loop": "Who was behind the entire network of fake dream vacations all along?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Stands up in the center of the room and reveals the master plan to every single resident."
+      },
+      "name": "Aura, 50, Master Architect",
+      "badge": "???.??? $",
+      "verdict": "THE ARCHITECT",
+      "story": "The 8 levels of planning a luxury vacation with zero budget. Level 8. The finale. Level 8: Unlimited numbers on the forehead, yet I live in a modest wooden cabin at the very edge of Produce City. My name is Aura, an ancient coconut-and-pine hybrid woman with silver-dusted roots and an infinite symbol glowing across my forehead where digits used to be. Every single person you saw across all seven levels—Milo the sweet potato, Cleo the bitter lemon, Maya the avocado, Sam the orange, Zoe the dragon fruit, Leo the coconut, and Victor the broccoli—was never planning a real trip. They were all testing their own capacity to dream when reality tried to crush them. I walk down the central avenue of Produce City as the digital signs above us all flicker simultaneously. The sweet potato's debt vanished, the lemon's Tokyo map became a real ticket, and the billionaire's island was shared with everyone. I stop in front of the Central Station Diner where it all started, looking directly into the camera lens. The number on your forehead never lies, but it also never tells you where you are actually going. Now tell us in the comments below: Which topic should we explore in the next series?",
+      "gender": "w",
+      "twist": {
+        "delta": "∞",
+        "after": "INFINITY"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of planning a luxury vacation with zero budget. Level 8. The finale."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: Unlimited numbers on the forehead, yet I live in a modest wooden cabin at the very edge of Produce City."
+        },
+        {
+          "s": "Figur",
+          "t": "My name is Aura, an ancient coconut-and-pine hybrid woman with silver-dusted roots and an infinite symbol glowing across my forehead where digits used to be."
+        },
+        {
+          "s": "Figur",
+          "t": "Every single person you saw across all seven levels—Milo the sweet potato, Cleo the bitter lemon, Maya the avocado, Sam the orange, Zoe the dragon fruit, Leo the coconut, and Victor the broccoli—was never planning a real trip."
+        },
+        {
+          "s": "Figur",
+          "t": "They were all testing their own capacity to dream when reality tried to crush them."
+        },
+        {
+          "s": "Figur",
+          "t": "I walk down the central avenue of Produce City as the digital signs above us all flicker simultaneously."
+        },
+        {
+          "s": "Figur",
+          "t": "The sweet potato's debt vanished, the lemon's Tokyo map became a real ticket, and the billionaire's island was shared with everyone."
+        },
+        {
+          "s": "Figur",
+          "t": "I stop in front of the Central Station Diner where it all started, looking directly into the camera lens."
+        },
+        {
+          "s": "Figur",
+          "t": "The number on your forehead never lies, but it also never tells you where you are actually going."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Now tell us in the comments below: Which topic should we explore in the next series?"
+        }
+      ],
+      "quote": "The number on your forehead never lies, but it also never tells you where you are actually going.",
+      "quote_by": {
+        "level": 8,
+        "name": "Aura",
+        "badge": "INFINITY",
+        "character": "An ancient coconut-and-pine hybrid woman with silver-dusted roots and an infinite symbol glowing across her forehead.",
+        "scene": "Wide cinematic shot standing in the center of Produce City's main boulevard as all digital billboards light up in unison, looking directly into the camera."
+      },
+      "stats": [
+        {
+          "label": "Wealth",
+          "value": "Infinite",
+          "bar": 1.0
+        },
+        {
+          "label": "Truth",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Journey",
+          "value": "Complete",
+          "bar": 1.0
+        }
+      ],
+      "character": "An ancient coconut-and-pine hybrid woman with silver-dusted roots and textured brown bark skin, wearing a flowing emerald cloak; her forehead glows with a bright white infinity symbol.",
+      "visual": "Wide cinematic master shot of Produce City's grand central plaza at twilight, all vegetable residents gathered together under glowing digital signs as an infinite symbol shines above.",
+      "scenes": [
+        "Wide establishing shot of Produce City at twilight, all the iconic locations from previous levels connected by glowing neon pathways under a violet sky.",
+        "Close-up detail shot of all eight main characters' glowing foreheads reflecting together in a giant mirrored puddle on the street.",
+        "Medium shot of Aura standing calmly in the center of the plaza, wearing a flowing emerald cloak with silver roots and holding a wooden staff.",
+        "Detail shot of a final golden coin resting right at the center of the intersection where all streets meet, glowing brightly.",
+        "Close-up of Aura smiling warmly into the camera lens as the digital signs across the city change from currency amounts to bright green checkmarks.",
+        "Wide cinematic final shot of Produce City fading into a starry night sky as the screen gently fades to black."
+      ],
+      "caption": "The epic finale of The 8 Levels of Planning a Fake Dream Trip. The truth is finally revealed! What should we do next? #ProduceCity #Finale #InfiniteDreams #Level8 #ViralSeries"
+    }
+  ],
+  "lang": "en",
+  "topic": "Das stundenlange Planen einer Traumreise ohne jegliches Budget",
+  "frame": "frucht"
+}

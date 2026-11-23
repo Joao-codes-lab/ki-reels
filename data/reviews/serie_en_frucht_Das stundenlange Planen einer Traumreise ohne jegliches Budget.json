@@ -1,0 +1,121 @@
+{
+  "best_score": 49,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 6,
+        "story": 5,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 6,
+        "wut": 5,
+        "merkfaehigkeit": 4,
+        "sprache": 4
+      },
+      "gesamt": 49,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den lahmen Start durch einen harten Schlag: '120 Dollar im Monat? Du wirst nie im Leben diesen First-Class-Flug sehen, Milo!' Lass die Drachenfrucht sofort sein Armband zertrümmern, bevor er überhaupt atmen kann."
+        },
+        {
+          "n": 3,
+          "fix": "Lass den Kokosnuss-Mitbewohner in Level 3 nicht nur reden, sondern Mâyas gesamte echte Skizze für den Schweizer Alpen-Urlaub vor laufender Kamera zerreißen und in den Müll werfen, während ihr Kontostand von 2.100 auf glatt null stürzt."
+        },
+        {
+          "n": 5,
+          "fix": "Erhöhe die Wut in Level 5: Die reiche Drachenfrucht lacht Zoe gnadenlos aus, weil sie sich mit 7.200 Dollar lächerliche Baumhaus-Träume in Bali baut, obwohl ihr eigenes Architekturbüro kurz vor der Pleite steht."
+        },
+        {
+          "n": 7,
+          "fix": "Gib dem Broccoli-Direktor in Level 7 echte Arroganz: Er feuert den Buchhalter sofort vor versammelter Mannschaft, statt nur langweilig am Tisch zu sitzen."
+        }
+      ],
+      "fazit": "Die Obst-Metropole ist ein cooler visueller Ansatz, aber die Dialoge klingen zu hölzern, die Wutmomente verpuffen zu schnell und die Story-Wendungen sind zu brav. Mehr rohe Konfrontation, echte Demütigung und spürbare Rache."
+    },
+    {
+      "scores": {
+        "hook": 5,
+        "story": 4,
+        "identifikation": 3,
+        "verbindungen": 6,
+        "sog": 4,
+        "wut": 3,
+        "merkfaehigkeit": 4,
+        "sprache": 6
+      },
+      "gesamt": 44,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den Beginn durch einen harten Schock-Einstieg: '2 Dollar auf dem Konto? Dieser reiche Drachenfrucht-Schnösel lacht mich aus, bis er meinen echten Bankbeleg sieht.'"
+        },
+        {
+          "n": 2,
+          "fix": "Erhöhe die Wut im Dialog, indem der Gegenspieler Cleos Kiosk-Möbel demoliert statt nur zu lästern: 'Dein Kaffee schmeckt nach Armut, Cleo.'"
+        },
+        {
+          "n": 3,
+          "fix": "Verzichte auf Aufzählungen und starte direkt mit dem Konflikt: 'Mein Mitbewohner reißt meine Traum-Skizze in Stücke, während mein Konto auf null stürzt.'"
+        },
+        {
+          "n": 4,
+          "fix": "Füge einen sofort greifbaren Schmerzpunkt für den Zuschauer ein: 'Single mit 4.500 Euro Gehalt und niemand da, mit dem man nach Santorini fliegen kann.'"
+        },
+        {
+          "n": 5,
+          "fix": "Lass die Arroganz des Gegenspielers eskalieren: 'Zoe tritt absichtlich auf das Architekturmodell und lacht, während sie mit ihrem 7.200-Dollar-Badge prahlt.'"
+        }
+      ],
+      "fazit": "Die Serie hat eine starke visuelle Welt mit den Gemüse-Figuren und Stirn-Zahlen, aber sie scheitert an der emotionalen Fallhöhe. Die Demütigungen tun nicht weh genug, und die Rache bzw. Genugtuung bleibt zu abstrakt. Der Zuschauer swipt nach 2 Sekunden weg, weil echte Wut und Mitleid in den ersten Sätzen fehlen. Mehr direkter Konflikt, härtere Angriffe der Gegenspieler und klarere 'Versteckter Wert'-Momente sind zwingend erforderlich, um virale Retention zu erreichen."
+    },
+    {
+      "scores": {
+        "hook": 4,
+        "story": 5,
+        "identifikation": 3,
+        "verbindungen": 6,
+        "sog": 4,
+        "wut": 4,
+        "merkfaehigkeit": 5,
+        "sprache": 4
+      },
+      "gesamt": 43,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den ersten Satz durch: '2 Dollar auf dem Konto, aber ich buche die First-Class-Yacht – bis die Drachenfrucht mich vor allen Gästen blamiert.'"
+        },
+        {
+          "n": 2,
+          "fix": "Ersetze den ersten Satz durch: '850 Dollar Gehalt als Barista und die Kollegin lacht mein Tokyo-Plakat aus, bis der anonyme Brief ankommt.'"
+        },
+        {
+          "n": 3,
+          "fix": "Ersetze den ersten Satz durch: 'Null Euro auf dem Konto, und mein Mitbewohner reißt meine Alpin-Träume in Stücke – bis die SMS eintrifft.'"
+        },
+        {
+          "n": 4,
+          "fix": "Ersetze den ersten Satz durch: '4.500 Euro Gehalt, komplett Single, und die Kollegen spotten über meine Santorini-Flitterwochen.'"
+        },
+        {
+          "n": 5,
+          "fix": "Ersetze den ersten Satz durch: '7.200 Dollar Budget, und die Architektin zertritt absichtlich mein Bali-Modell, bis der goldene Pass eintrifft.'"
+        },
+        {
+          "n": 6,
+          "fix": "Ersetze den ersten Satz durch: '14.500 Dollar im Monat für Privatjets – bis der Server abstürzt und die Mitbewohnerin mich entlarvt.'"
+        },
+        {
+          "n": 7,
+          "fix": "Ersetze den ersten Satz durch: '38.000 Dollar im Monat für Privatinseln, und ich feuere den Buchhalter, bis die Tür aufreißt.'"
+        },
+        {
+          "n": 8,
+          "fix": "Ersetze den ersten Satz durch: 'Unendliches Guthaben auf der Stirn, aber ich lebe in der Holzhütte – weil alles nur ein Test war.'"
+        }
+      ],
+      "fazit": "Die Serie hat eine starke visuelle Idee mit den Gemüse-Figuren und Stirnzahlen, scheitert aber an echten, harten Konflikten und packenden Hooks. Die Sätze klingen oft nach uninspirierter KI-Übersetzung statt nach aggressivem TikTok-Sog. Ohne spürbare Demütigung und Genugtuung in den ersten Sekunden swischt das Publikum sofort weg."
+    }
+  ]
+}

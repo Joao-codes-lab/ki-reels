@@ -3,147 +3,127 @@
   "rounds": [
     {
       "scores": {
-        "hook": 3,
-        "story": 4,
-        "identifikation": 5,
-        "verbindungen": 4,
-        "sog": 3,
-        "wut": 3,
-        "merkfaehigkeit": 4,
-        "sprache": 5
-      },
-      "gesamt": 39,
-      "fixes": [
-        {
-          "n": 1,
-          "fix": "Ersetze den ersten Satz durch eine brutale, direkte Beleidigung des Gegenspielers mit konkreter Zahl auf der Stirn: 'Minus 42 Euro? Wer hat diesen armseligen Kiwi eigentlich in den VIP-Bereich gelassen? Wahrscheinlich putzt er gleich unsere Toiletten.'"
-        },
-        {
-          "n": 2,
-          "fix": "Erhöhe die Wut im ersten Satz durch sofortige Bloßstellung: '145 Euro? Kein Wunder, dass diese Strawberry-Barista sich nicht mal einen Kaffee leisten kann, während wir hier Champagner trinken.'"
-        },
-        {
-          "n": 3,
-          "fix": "Verschärfe den Hook mit sofortigem Druck: '820 Euro auf der Stirn? Dieser arrogante Pear-Designer hat gerade unsere gesamte Monatsmiete verspielt und lacht uns auch noch ins Gesicht.'"
-        },
-        {
-          "n": 4,
-          "fix": "Baue echten Kontrast ein: '1.450 Euro? Dieser abgehalfterte Lemon-Fahrer stinkt nach billigem Sprit und wagt es, uns im Regen stehen zu lassen.'"
-        },
-        {
-          "n": 5,
-          "fix": "Zuspitzung der Demütigung: '3.200 Euro? Diese Plum-Ladenbesitzerin verkauft uns minderwertigen Schrott, um ihre Festival-Saufnächte zu finanzieren.'"
-        },
-        {
-          "n": 6,
-          "fix": "Verbinde die Sichtweisen direkt: Zeige hier, wie der vermeintliche Bösewicht aus Level 3 hinterrücks betrogen wird, statt nur Text aufzusagen."
-        },
-        {
-          "n": 7,
-          "fix": "Erhöhe den Hass auf die Elite: 'Fast 30 Riesen? Dieser arrogante Cucumber-Banker schüttet absichtlich seinen Scotch auf unsere Jacken, weil wir für ihn nur Abschaum sind.'"
-        },
-        {
-          "n": 8,
-          "fix": "Löse das Rätsel nicht so plump auf. Lass Arthur die Figuren einzeln in den Ruin treiben, bevor die echte Genugtuung einsetzt."
-        }
-      ],
-      "fazit": "Die Serie hat eine solide visuelle Grundidee mit den Obst- und Gemüsewesen und den Stirnzahlen, scheitert aber komplett an der harten Viral-Realität von TikTok und Reels. Die Hooks sind träge und klingen wie Erklärbär-Texte statt nach purem Hass und Arroganz. Der Konflikt wird nur in drögen Sätzen runtergebetet, statt echte Wut und sofortige Genugtuung zu triggern. Ohne brutale Zuspitzung in den ersten drei Sekunden swipt jeder Zuschauer sofort weg."
-    },
-    {
-      "scores": {
-        "hook": 3,
-        "story": 4,
-        "identifikation": 3,
-        "verbindungen": 4,
-        "sog": 3,
-        "wut": 4,
-        "merkfaehigkeit": 3,
-        "sprache": 4
-      },
-      "gesamt": 35,
-      "fixes": [
-        {
-          "n": 1,
-          "fix": "Ersetze den verwirrenden englischen Text im deutschen Skript durch einen harten, deutschen Einstieg: 'Minus 42 Euro? Wer hat diesen pleitegesagten Kiwi in den VIP-Bereich gelassen? Der putzt gleich unsere Toiletten!'"
-        },
-        {
-          "n": 2,
-          "fix": "Erhöhe den Konflikt in Level 2 sofort in den ersten 3 Sekunden und streiche die unnatürliche Selbstvorstellung."
-        },
-        {
-          "n": 3,
-          "fix": "Passe den Text auf mindestens 175 Wörter pro Teil an, indem du die innere Zerrissenheit und den Verrat detaillierter beschreibst."
-        },
-        {
-          "n": 4,
-          "fix": "Verschärfe die Demütigung in Level 4, sodass die Genugtuung am Ende deutlich spürbar wird."
-        },
-        {
-          "n": 5,
-          "fix": "Verbinde die Handlungen der Figuren enger mit dem 'versteckter Wert'-Prinzip, damit der Zuschauer den wahren Wert der Figuren vor dem Bösewicht ahnt."
-        },
-        {
-          "n": 6,
-          "fix": "Stelle sicher, dass jeder Teil mit einer echten offenen Frage endet, statt mit sinnlosen Meta-Sätzen wie 'You'll see that in Level...'."
-        },
-        {
-          "n": 7,
-          "fix": "Schaffe echten Hass auf den Gegenspieler durch gezielte, unverschämte Arroganz in den ersten Sekunden."
-        },
-        {
-          "n": 8,
-          "fix": "Beende das Staffelfinale mit einem echten Plottwist, der alle offenen Fäden logisch und befriedigend verknüpft."
-        }
-      ],
-      "fazit": "Die Serie hat eine originelle visuelle Idee (Frucht- und Gemüse-Menschen mit Stirnzahlen), scheitert aber massiv an der Umsetzung. Der Mix aus Deutsch und unnatürlichem Englisch, zu kurze Texte weit unter 175 Wörtern, schwache Hooks und das Fehlen echter Genugtuung nach Demütigung zerstören jeden viralen Sog. Nach 2 Sekunden wird hier gnadenlos weggewischt."
-    },
-    {
-      "scores": {
         "hook": 4,
         "story": 5,
         "identifikation": 4,
         "verbindungen": 6,
-        "sog": 5,
+        "sog": 3,
         "wut": 4,
         "merkfaehigkeit": 5,
-        "sprache": 4
+        "sprache": 6
       },
       "gesamt": 46,
       "fixes": [
         {
           "n": 1,
-          "fix": "Ersetze den neutralen Einstieg durch eine radikale Demütigung mit extremer Stirnzahl: 'Minus 42 Euro? Wer hat diesen pleitegesagten Kiwi in den VIP-Garten gelassen, während wir hier Champagner trinken?'"
-        },
-        {
-          "n": 2,
-          "fix": "Verkürze die Innenschau und erhöhe den Konflikt: 'Hundertfünfundvierzig Euro? Die Strawberry-Bitch hinter der Kasse lacht mich aus, weil ich mir nicht mal mehr Hafermilch leisten kann.'"
+          "fix": "Ersetze das langweilige Intro durch einen harten Schlag: 'Minus 412 Euro. Mein gesamtes Festival-Wochenende hat gerade meine Monatsmiete gefressen – und der reiche Kokosnuss-Typ lacht mich aus.' Lass den Zuschauer die Ungerechtigkeit in Sekunde 1 spüren."
         },
         {
           "n": 3,
-          "fix": "Schärfe den Wut-Faktor des Gegenspielers: 'Dein Designer-Lifestyle ruiniert unser ganzes Gebäude, du Parasit! Zahl sofort oder flieg raus.'"
-        },
-        {
-          "n": 4,
-          "fix": "Erhöhe den Druck in den ersten Sekunden: 'Tausendvierzig Euro Wochenverdienst? Dafür schuftest du wie ein Hund, während die Fahrgäste dich wie Dreck behandeln.'"
-        },
-        {
-          "n": 5,
-          "fix": "Fokussiere auf pure Genugtuung und Neid: 'Du verkaufst überteuerte Kleidung, während wir uns nicht mal mehr Ramen leisten können. Dein Laden brennt heute noch ab.'"
-        },
-        {
-          "n": 6,
-          "fix": "Verschärfe den Verrat: 'Dein Startup bricht zusammen, weil dein Partner gerade im Morgengrauen alle Konten leergeräumt und dich an die Konkurrenz verkauft hat.'"
-        },
-        {
-          "n": 7,
-          "fix": "Lass den Reichen arrogant auf den armen Gegenspieler herabsehen: 'Du denkst, deine Proteste berühren mein Imperium? Ich kaufe deine Straße einfach auf, um sie zu asphaltieren.'"
+          "fix": "Erhöhe den Konflikt: Der Lieferfahrer (Kai) wird nicht nur von einem Auto nassgespritzt, sondern sieht, wie genau der arrogante Orangenzahn-Broker aus Level 5 seine vegane Bestellung wegwirft und ihn verhöhnt."
         },
         {
           "n": 8,
-          "fix": "Präsentiere die ultimative Rache im Finale: 'Ich habe euer aller Konten absichtlich auf Null gefahren, um zu sehen, wie ihr elendig kriecht. Willkommen im Ruin.'"
+          "fix": "Löse die Genugtuung ein: Baron Nut darf nicht ungestraft davonkommen. Zeige, dass sein System am Ende durch einen verckten Bank-Glitch zusammenbricht und seine Millionen auf Null schrumpfen, während die Underdogs triumphieren."
         }
       ],
-      "fazit": "Die Serie hat eine starke visuelle Idee (Frucht- und Gemüsemenschen im modernen Moloch), scheitert aber an echten viralen Standards: Die Hooks sind zu hölzern, die Figuren jammern zu viel statt echten, hasserfüllten Konflikt zu liefern, und der Verrat/die Genugtuung zündet nicht emotional genug. Mehr Tempo, härtere Arroganz, klarere Rache."
+      "fazit": "Die Serie hat eine starke visuelle Idee mit den Frucht-Figuren und Stirnzahlen, verschenkt aber das virale Potenzial durch zu zahme Konflikte und fehlende echte Genugtuung. Ohne die emotionale Rache und sofortigen Hass auf den Gegenspieler swipen die Leute nach 2 Sekunden weg."
+    },
+    {
+      "scores": {
+        "hook": 3,
+        "story": 4,
+        "identifikation": 4,
+        "verbindungen": 5,
+        "sog": 3,
+        "wut": 4,
+        "merkfaehigkeit": 4,
+        "sprache": 2
+      },
+      "gesamt": 36,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den halulosen Start durch eine sofortige Demütigung mit extremer Zahl und baue den Text auf mindestens 175 Wörter aus: 'Minus 412,50 Euro auf meiner Stirn. Der reiche Kokosnuss-Typ im maßgeschneiderten Anzug lacht mich aus: Du hättest zu Hause bleiben sollen, du armer Schlucker. Mein Strawberry-Kopf dröhnt unter den Neonröhren der U-Bahn, während ich auf mein leuchtend rotes Display starre. Monatsmiete weg für ein einziges Festival-Wochenende. Um mich herum drängen sich gestresste Gestalten, die mich anrempeln, weil ich den Weg versperre. Mein Handy vibriert heftig in der kaputten Hosentasche. Eine neue Push-Nachricht von der Bank flimmert auf. Die Summe darauf raubt mir den letzten Atem. Was genau dort steht, erfährst du in Level 2.'"
+        },
+        {
+          "n": 2,
+          "fix": "Erweitere auf über 175 Wörter und schärfe den Konflikt: 'Genau 48,20 Euro bleiben mir noch zum Leben, und die Miete für meine winzige Wohnung wird in exakt drei Stunden abgebucht. Mein Zitronenkopf zuckt vor Koffeinfreiheit und Panik, während ich die klebrige Espressomaschine im Café schrubbe. Da taucht plötzlich der arrogante Broker auf, knallt seine Zettel auf den Tresen und brüllt: Wo ist der Rest des Nebenkosten-Zuschlags, den du mir bis Dienstag versprochen hast? Neben ihm bestellt eine ungeduldige Kundin schnöselig ihren Hafermilch-Latte. Mein Puls rast, die Hände zittern am Siebträger. Mein Smartphone leuchtet auf dem Tresen auf und zeigt eine völlig unerwartete Überweisung, die alles verändert. Wer mir dieses rettende Geld geschickt hat, siehst du in Level 3.'"
+        },
+        {
+          "n": 3,
+          "fix": "Baue die Story auf über 175 Wörter aus: 'Genau 312,40 Euro auf dem Display. Es reicht exakt für die Stromrechnung und absolut gar nichts mehr. Mein Drachenfrucht-Kopf brennt unter dem durchnässten Lieferhelm, während der kalte Regen unbarmherzig auf die Windschutzscheibe meines E-Rollers prasselt. Da drängelt sich der arrogante Orangenhaut-Typ aus Level 5 im Sportwagen vorbei, spritzt mich absichtlich nass und brüllt aus dem Fenster: Pass auf, du lahme Ente, manche von uns haben echte Termine! Die Leute starren mich an. Ich bin am Ende meiner Kräfte. Da vibriert mein Handy mit einer panischen Nachricht meiner Mitbewohnerin über einen geplatzten Wasserschaden. Der Albtraum geht weiter. Die schockierende Wahrheit dazu siehst du in Level 4.'"
+        },
+        {
+          "n": 4,
+          "fix": "Schreibe den Text auf mindestens 175 Wörter um: 'Genau 1.450 Euro. Solides Freelancer-Geld für harte Arbeit, aber meine Festival-Kreditkartenrechnung ist dreimal so hoch. Mein glatter Avocadokopf sinkt erschöpft in meine Hände, während ich auf das Chaos meiner Designskizzen am Monitor starre. Plötzlich steht die strenge Zitrone aus Level 2 im Flur, zeigt mit dem Finger auf mich und giftet: Du hast gestern nicht mal Trinkgeld dagelassen, obwohl du drei Stunden an meinem Tisch gesessen hast! Mein Magen zieht sich zusammen. Ein Kunde ruft an und droht mit Entzug des Auftrags. Da flackert mein Laptopbildschirm plötzlich rot auf: Eine unbarmherzige Warnung meiner Bank springt mir ins Gesicht. Welcher verheerende Betrag dort abgebucht wurde, erfährst du in Level 5.'"
+        },
+        {
+          "n": 5,
+          "fix": "Erweitere auf über 175 Wörter und spitze den Konflikt zu: '3.890 Euro. Ein scheinbar respektables Gehalt, doch ich fühle mich völlig bankrott in dieser gläsernen Betonwüste. Meine Orangenhaut glänzt im kalten Neonlicht des Finanzdistrikts. Da taucht der Botenjunde aus Level 3 auf, wirft seine durchnässte Papiertüte voller Abscheu auf meinen sauberen Schreibtisch und zischt: Pass auf, wo du deinen Müll ablädst, Boss-Mann! Kurz darauf schreit meine Vorgesetzte durch das Großraumbüro: Leo, ist der Bericht für den Vorstand endlich fertig? Mein Kopf dröhnt, der Druck ist unmenschlich. Plötzlich klingelt mein Bürotelefon schrill mit einem dringenden internen Notruf aus der Chefetage. Welches fatale Geheimnis dort gelüftet wird, siehst du in Level 6.'"
+        },
+        {
+          "n": 6,
+          "fix": "Baue den Text auf über 175 Wörter aus: 'Exakt 4.250 Euro an Miete heute eingenommen, aber meine Mieter zahlen mal wieder zu spät und die Wasserrechnung sprengt alles. Mein Brokkolikopf richtet die Tweed-Weste, während ich den klappernden Altbau-Heizkörper im Flur inspiziere. Da kommt die arrogante Grafikdesignerin aus Level 4 die Treppe herunter, mustert mich verächtlich und motzt: Ihre Mieten sind völlig lächerlich für jemanden, der das ganze Wochenende auf Festivals feiert! Mieter betteln um Zahlungsaufschub, der Verfall des Hauses friszt meine Reserven auf. Mein Handy vibriert heftig in der Tasche mit einer bedrohlichen SMS der Stadtwerke. Was dort stand, enthülle ich in Level 7.'"
+        },
+        {
+          "n": 7,
+          "fix": "Erweitere auf über 175 Wörter und erzeuge echten Sog: '28.400 Euro. Ein gigantischer Krypto-Pump am Wochenende, der mein Konto sprengt, aber das Finanzamt wird mich vernichten. Mein Sternfrucht-Kopf glänzt im warmen Penthouse-Licht. Und dann steht plötzlich dieser arme Schlucker von ganz unten, Pip aus Level 1, in meinem luxuriösen Eingangsbereich, schaut mich eingeschüchtert an und bettelt: Kannst du mir ein paar Dollar leihen, um meine Festival-Schulden zu bezahlen? Ich lache ihn aus. Doch im nächsten Moment stürzt mein Multi-Monitor-Setup ab und blinkt blutrot. Ein totaler Marktcrasch vernichtet mein Vermögen in Sekunden. Welcher Albtraum mich in die Knie zwingt, siehst du im finalen Level 8.'"
+        },
+        {
+          "n": 8,
+          "fix": "Erweitere auf über 175 Wörter für das Grande Finale: 'Einnahmen von 85.400 Dollar im Monat. Ich stehe ganz oben auf der Pyramide. Mein Kokosnuss-Kopf thront im Fond der Limousine, während ich auf die Stadt herabblicke. Doch plötzlich sehe ich fassungslos zu, wie mein gesamtes System durch einen unvorhersehbaren Bank-Glitch kollabiert. Meine Millionen schrumpfen auf absolut null, während die Underdogs triumphieren und Genugtuung erlangen. Die arrogante Krypto-Händlerin aus Level 7 ruft per Videocall an und höhnt: Du hättest dein Portfolio diversifizieren sollen! Überall in der Stadt blinken die digitalen Stirn-Anzeigen rot auf, als das System einen totalen Neustart erzwingt. Welches Thema wir als Nächstes zerlegen sollen? Das entscheidest jetzt du in den Kommentaren.'"
+        }
+      ],
+      "fazit": "Die Serie hat eine extrem coole visuelle Grundidee (Produce City, Stirn-Zahlen als Status), scheitert aber massiv an der harten Realität von TikTok und Instagram Reels. Die Texte sind viel zu kurz (weit unter den geforderten 175 Wörtern), klingen wie maschinelle Übersetzungen statt echtem, gesprochenen Slang und verschenken das virale 'Versteckter-Wert'-Prinzip komplett. Es gibt kaum echte Wut beim Zuschauer, weil die Bösewichte zu flach bleiben und die Genugtuung verwässert wird. Ohne radikale sprachliche Verdichtung, mehr Emotion und knallharte Cliffhanger swipt jeder Zuschauer nach zwei Sekunden weg."
+    },
+    {
+      "scores": {
+        "hook": 3,
+        "story": 4,
+        "identifikation": 4,
+        "verbindungen": 6,
+        "sog": 3,
+        "wut": 3,
+        "merkfaehigkeit": 4,
+        "sprache": 5
+      },
+      "gesamt": 40,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Ersetze den schwachen Einstieg durch pure Demütigung und einen absurden Kontrast: 'Minus 412,50 Euro. Und der Kokos-Milliardär spuckt auf meine Sneakers: Wer hat diesen Obdachlosen überhaupt in den Club gelassen?'"
+        },
+        {
+          "n": 2,
+          "fix": "Erhöhe die Wut im zweiten Satz: 'Genau 48,20 Euro Restgeld, während der Vermieter mir ins Gesicht lacht und droht: Bis heute Abend das Geld oder deine Kaffeemaschine fliegt auf den Müll!'"
+        },
+        {
+          "n": 3,
+          "fix": "Schärfe den Konflikt und die Verknüpfung: '312 Euro auf der Stirn. Der arrogante Orangemensch aus Level 5 rast absichtlich durch die Pfündung, spritzt mich nass und grölt: Schwimm, du armselige Ente!'"
+        },
+        {
+          "n": 4,
+          "fix": "Verbinde die Story direkt mit dem Vorlevel: '1.450 Euro. Die Barista aus Level 2 steht plötzlich in meiner Agentur und kreischt: Nicht mal Trinkgeld geben, aber hier auf dicke Hose machen!'"
+        },
+        {
+          "n": 5,
+          "fix": "Mach den Bösewicht verachtenswerter: '3.890 Euro Gehalt und trotzdem Pleite. Der nassgesprühte Lieferant aus Level 3 wirft mir den Müll auf den Tisch und lacht: Dein Chef zahlt dir bald gar nichts mehr!'"
+        },
+        {
+          "n": 6,
+          "fix": "Eskaliere die Konfrontation: '4.250 Euro Miete, aber die Grafikdesignerin aus Level 4 verweigert jede Zahlung und spottet: Für so miese Arbeit zahlt dir kein Mensch einen Cent!'"
+        },
+        {
+          "n": 7,
+          "fix": "Bring die Genugtuung näher: '28.400 Euro Crypto-Gewinn. Und wer bettelt plötzlich um Bargeld vor meinem Penthouse? Genau der pleitegegangene Erdbeer-Praktikant aus Level 1!'"
+        },
+        {
+          "n": 8,
+          "fix": "Verankere die Rache und den Fall absolut klar: '85.400 Dollar im Monat und ganz oben. Bis die Crypto-Traderin aus Level 7 meine Millionensumme mit einem Klick auf Null setzt und lacht: Willkommen im Dreck!'"
+        }
+      ],
+      "fazit": "Die Serie hat eine tolle visuelle Welt und coole Querverweise, aber es fehlt ihr an der extremen, hochemotionalen Zuspitzung der viralen Vorbilder. Die Hooks sind zu zahm, die Demütigungen oft harmlos, und die Genugtuung wird zu spät oder gar nicht greifbar ausgelöst. Ohne echten Hass auf den Bösewicht und ein ungeduldiges Warten auf die Rache wischt der Nutzer nach zwei Sekunden weg."
     }
   ]
 }

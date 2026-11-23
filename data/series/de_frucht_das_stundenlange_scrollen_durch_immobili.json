@@ -1,0 +1,829 @@
+{
+  "title": "Die 8 Level vom Immobilien-Scrollen",
+  "house": "A bustling neon-lit fruit and vegetable metropolis under a perpetual rainy twilight, featuring cramped apartments, high-tech subway lines, and luxury glass penthouses.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Level 1 Tim mentions seeing an expensive carrot walking out of a penthouse.",
+    "Level 2 Bea works at the Kiosk where Level 3 Ben buys his midnight snacks.",
+    "Level 3 Ben is the mysterious buyer admired by Level 4 Clara.",
+    "Level 4 Clara reviews the architectural blueprints designed by Level 6 David.",
+    "Level 5 Emma delivers packages to Level 7 Frank's huge estate.",
+    "Level 6 David builds the luxury apartments coveted by Level 2 Bea.",
+    "Level 7 Frank invested in the startup where Level 1 Tim works.",
+    "Level 8 The grand master reveals he owns every single building in the city."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Warum hatte der Mann im Anzug sofort den Notdienst gerufen, als er Tim auf dem Balkon sah?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Lacht Tim wegen seiner winzigen Mietwohnung aus und schüttet seinen teuren Soja-Latte über Tims Laptop."
+      },
+      "name": "Tim, 22, Werkstudent",
+      "badge": "14 qm Zimmer",
+      "verdict": "SCHACHTEL",
+      "story": "Die 8 Level vom Immobilien-Scrollen. Level 1. Level 1: 14 Quadratmeter Zimmer – und ich suche ein Penthouse für 4,2 Millionen Euro. Es ist Sonntagabend, 23 Uhr, und ich klicke mich auf ImmoScout durch freistehende Stadtvillen in München. Mein Kontostand zeigt 12,40 Euro, aber auf dem Bildschirm besitze ich eine Marmorküche. Du zahlst seit drei Monaten deine Miete nicht, du kleiner Beeren-Betrüger! Ich schluckte und starrte auf mein Handy, wo gerade eine neue Villa lud. Du kannst dir nicht mal ein Zelt im Park leisten, du Witzfigur. Da passierte es: Mein Handy vibrierte, eine Push-Nachricht leuchtete auf. Eine unerwartete Steuerrückzahlung traf ein und mein Guthaben sprang sofort nach oben. Was zum Teufel... Du zahlst plötzlich im Voraus? Was stand in der Überweisung, die alles veränderte? Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+3.400 €",
+        "after": "3.412 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Immobilien-Scrollen. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 14 Quadratmeter Zimmer – und ich suche ein Penthouse für 4,2 Millionen Euro."
+        },
+        {
+          "s": "Figur",
+          "t": "Es ist Sonntagabend, 23 Uhr, und ich klicke mich auf ImmoScout durch freistehende Stadtvillen in München."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Kontostand zeigt 12,40 Euro, aber auf dem Bildschirm besitze ich eine Marmorküche."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du zahlst seit drei Monaten deine Miete nicht, du kleiner Beeren-Betrüger!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schluckte und starrte auf mein Handy, wo gerade eine neue Villa lud."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du kannst dir nicht mal ein Zelt im Park leisten, du Witzfigur.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Da passierte es: Mein Handy vibrierte, eine Push-Nachricht leuchtete auf."
+        },
+        {
+          "s": "Figur",
+          "t": "Eine unerwartete Steuerrückzahlung traf ein und mein Guthaben sprang sofort nach oben."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Was zum Teufel... Du zahlst plötzlich im Voraus?",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was stand in der Überweisung, die alles veränderte?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Du kannst dir nicht mal ein Zelt im Park leisten, du Witzfigur.",
+      "quote_by": {
+        "level": 4,
+        "name": "Clara",
+        "badge": "4.800 € netto",
+        "character": "An elegant dragonfruit woman in a sharp silk blazer holding a golden tablet.",
+        "scene": "A high-end rooftop terrace at dusk, looking down with extreme condescension at a tiny window."
+      },
+      "stats": [
+        {
+          "label": "Miete",
+          "value": "450 €",
+          "bar": 0.1
+        },
+        {
+          "label": "Netto",
+          "value": "850 €",
+          "bar": 0.2
+        },
+        {
+          "label": "Tabs",
+          "value": "47 offen",
+          "bar": 0.8
+        }
+      ],
+      "character": "A young strawberry boy with bright red textured skin, wearing a faded blue hoodie and dirty sneakers. A glowing digital badge on his forehead shows 14 qm.",
+      "visual": "Close-up of a strawberry head man frantically scrolling a real estate app on a cracked smartphone inside a tiny neon-lit student room.",
+      "scenes": [
+        "Tiny student room at night with glowing blue screen light reflecting on the strawberry head and a golden coin hidden near the desk lamp.",
+        "Crowded subway carriage in Berlin with flickering fluorescent lights and tired commuter fruits staring into blank space.",
+        "Rainy sidewalk outside a luxury apartment building with reflections of neon signs in puddles and a golden coin under a bicycle.",
+        "Messy student shared kitchen with piled-up dishes, steam rising from a kettle, and an orange peel on the counter.",
+        "Bright sunny balcony overlooking a grey concrete courtyard with a potted dead plant and a golden coin on the railing.",
+        "Narrow hallway with peeling wallpaper and flickering overhead lights casting long, dramatic shadows."
+      ],
+      "caption": "Wer scrollt nachts auch stundenlang nach Immobilien, die er sich nie im Leben leisten kann? #immobilien #scrollen #fakevaeter #trashdrama #level1"
+    },
+    {
+      "n": 2,
+      "open_loop": "Warum versteckte die orangefarbene Barista das mysteriöse Kuvert unter der Kaffeemaschine?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Beschwert sich laut über die langsame Bedienung und wirft Kleingeld auf den Tresen."
+      },
+      "name": "Bea, 25, Barista",
+      "badge": "1.450 € netto",
+      "verdict": "KNAPP",
+      "story": "Die 8 Level vom Immobilien-Scrollen. Level 2. Level 2: 1.450 Euro netto – und ich berechne während der Spätschicht im Café den Kredit für eine Altbau-Wohnung in Berlin-Kreuzberg. Es ist Dienstag, 14:15 Uhr, und ich wische den Tresen ab, während auf meinem Tablet das Exposé für eine 3-Zimmer-Dachgeschosswohnung für 790.000 Euro offen ist. Für deinen Lohn kriegst du hier nicht mal den Besenwisch, Fräulein Orange! Ich biss die Zähne zusammen und hielt den Kaffebecher fester. Du arbeitest hier, während andere leben! Da passierte es: Mein Smartphone klingelte heftig, eine Benachrichtigung der Bank ploppte auf. Mein Bausparvertrag wurde überraschend ausgezahlt. Warte mal... was zeigt dein Display da an? Was hatte der Bankdirektor in der SMS geschrieben, die ihn erbleichen ließ? Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+50.000 €",
+        "after": "51.450 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Immobilien-Scrollen. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 1.450 Euro netto – und ich berechne während der Spätschicht im Café den Kredit für eine Altbau-Wohnung in Berlin-Kreuzberg."
+        },
+        {
+          "s": "Figur",
+          "t": "Es ist Dienstag, 14:15 Uhr, und ich wische den Tresen ab, während auf meinem Tablet das Exposé für eine 3-Zimmer-Dachgeschosswohnung für 790.000 Euro offen ist."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Für deinen Lohn kriegst du hier nicht mal den Besenwisch, Fräulein Orange!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich biss die Zähne zusammen und hielt den Kaffebecher fester."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du arbeitest hier, während andere leben!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Da passierte es: Mein Smartphone klingelte heftig, eine Benachrichtigung der Bank ploppte auf."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Bausparvertrag wurde überraschend ausgezahlt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Warte mal... was zeigt dein Display da an?",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was hatte der Bankdirektor in der SMS geschrieben, die ihn erbleichen ließ?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Für deinen Lohn kriegst du hier nicht mal den Besenwisch, Fräulein Orange!",
+      "quote_by": {
+        "level": 5,
+        "name": "Frank",
+        "badge": "6.200 € netto",
+        "character": "A stiff coconut man in a rigid grey suit with an expression of pure corporate coldness.",
+        "scene": "Standing inside a bustling café, slamming a card down on the counter with disdain."
+      },
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "1.450 €",
+          "bar": 0.25
+        },
+        {
+          "label": "Miete",
+          "value": "680 €",
+          "bar": 0.4
+        },
+        {
+          "label": "Immo-Tabs",
+          "value": "120",
+          "bar": 0.9
+        }
+      ],
+      "character": "A vibrant orange fruit woman with textured citrus skin, wearing a green apron over a white shirt. A glowing digital badge on her forehead shows 1.450 €.",
+      "visual": "Medium shot of an orange woman wiping a shiny café counter while secretly glancing at a real estate app on a hidden tablet.",
+      "scenes": [
+        "Cozy hipster café interior with warm amber pendant lights, steaming espresso machine, and a golden coin on the saucer.",
+        "Busy street corner in Berlin with yellow trams passing by in the background and wet autumn leaves on the pavement.",
+        "Staff break room with a squeaking metal chair, green lockers, and a half-eaten sandwich on a paper plate.",
+        "Subway station entrance with flickering neon subway signs and rushing commuters in heavy coats.",
+        "Suburban street with rows of identical brick houses under a heavy, overcast grey sky.",
+        "Nighttime park bench illuminated by a cold white streetlamp casting long shadows."
+      ],
+      "caption": "Wer kennt den Kampf zwischen Mindestlohn und Millionen-Immobilien? #barista #immobilien #berlin #level2 #mietwahnsinn"
+    },
+    {
+      "n": 3,
+      "open_loop": "Welches dunkle Geheimnis verbarg der Schlüssel in der Hand des Avocado-Mannes?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Nimmt Bens Parkplatz weg und grinst ihn dabei arrogant an."
+      },
+      "name": "Ben, 31, Sachbearbeiter",
+      "badge": "2.800 € netto",
+      "verdict": "MITTELMASS",
+      "story": "Die 8 Level vom Immobilien-Scrollen. Level 3. Level 3: 2.800 Euro netto – und ich habe 84 Favoriten auf ImmoScout für Häuser, die ich mir bis zur Rente im Jahr 2060 nicht leisten kann. Es ist Mittwoch, 19:40 Uhr, und ich sitze im tristen Büro, während der Bildschirm leuchtet. Für so einen kleinen Angestellten wie dich bleibt nur die Mietkaserne am Stadtrand, Avocado-Boy! Ich atmete tief durch und ballte die Fäuste. Ich arbeite sechzig Stunden die Woche für diesen Schrott! Da passierte es: Mein privates Postfach aktualisierte sich von selbst. Eine unerwartete Erbschaft von der verstorbenen Tante wurde bestätigt. Halt stopp... woher hast du plötzlich diese Bonität? Wer war die mysteriöse Person, die das Testament angefochten hatte? Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+180.000 €",
+        "after": "182.800 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Immobilien-Scrollen. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 2.800 Euro netto – und ich habe 84 Favoriten auf ImmoScout für Häuser, die ich mir bis zur Rente im Jahr 2060 nicht leisten kann."
+        },
+        {
+          "s": "Figur",
+          "t": "Es ist Mittwoch, 19:40 Uhr, und ich sitze im tristen Büro, während der Bildschirm leuchtet."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Für so einen kleinen Angestellten wie dich bleibt nur die Mietkaserne am Stadtrand, Avocado-Boy!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich atmete tief durch und ballte die Fäuste."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich arbeite sechzig Stunden die Woche für diesen Schrott!"
+        },
+        {
+          "s": "Figur",
+          "t": "Da passierte es: Mein privates Postfach aktualisierte sich von selbst."
+        },
+        {
+          "s": "Figur",
+          "t": "Eine unerwartete Erbschaft von der verstorbenen Tante wurde bestätigt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Halt stopp... woher hast du plötzlich diese Bonität?",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer war die mysteriöse Person, die das Testament angefochten hatte?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Für so einen kleinen Angestellten wie dich bleibt nur die Mietkaserne am Stadtrand, Avocado-Boy!",
+      "quote_by": {
+        "level": 6,
+        "name": "David",
+        "badge": "9.500 € netto",
+        "character": "A polished banana man in an expensive designer suit with slick golden hair.",
+        "scene": "Leaning against a luxury sports car in an underground parking garage, looking down at Ben with a smirk."
+      },
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "2.800 €",
+          "bar": 0.45
+        },
+        {
+          "label": "Kredit",
+          "value": "0 €",
+          "bar": 0.0
+        },
+        {
+          "label": "Favoriten",
+          "value": "84 Stk",
+          "bar": 0.85
+        }
+      ],
+      "character": "An avocado man with a smooth green textured head, wearing a crisp light blue button-down shirt and silver tie. A glowing digital badge on his forehead shows 2.800 €.",
+      "visual": "Close-up of an avocado head man staring intensely at a computer screen showing a luxury villa in a sterile corporate office.",
+      "scenes": [
+        "Sterile corporate office with grey cubicles, humming neon lights, and a golden coin resting on a stapler.",
+        "Underground parking garage with concrete pillars and luxury cars parked haphazardly under yellow security lights.",
+        "Suburban street with manicured lawns, polished fences, and a mail carrier dropping letters into a box.",
+        "Busy motorway at dusk with streaks of red and white taillights stretching into the horizon.",
+        "Small minimalist kitchen with a single coffee mug and a glowing laptop screen casting blue light.",
+        "Elevator interior with brushed steel walls reflecting the tired face of an office worker."
+      ],
+      "caption": "Wer kennt das Gefühl, wenn das Gehalt einfach nicht zum Traumhaus passt? #bueroleben #immobilien #level3 #mietwahnsinn"
+    },
+    {
+      "n": 4,
+      "open_loop": "Welches verheerende Dokument lag in dem goldenen Ordner auf dem Besprechungstisch?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Klopft versehentlich gegen Claras teure Designer-Sonnenbrille und entschuldigt sich kaum."
+      },
+      "name": "Clara, 29, Architektin",
+      "badge": "4.800 € netto",
+      "verdict": "OBERE MITTE",
+      "story": "Die 8 Level vom Immobilien-Scrollen. Level 4. Level 4: 4.800 Euro netto – und ich verbringe meine Mittagspause damit, Grundrisse von Designer-Lofts zu analysieren, die das Dreifache meines Jahreseinkommens kosten. Es ist Donnerstag, 12:30 Uhr, im Architekturbüro. Auf meinem Zeichentablett dreht sich eine Penthouse-Wohnung für 1,8 Millionen Euro. Für solche Dimensionen reicht dein Portfolio noch lange nicht, liebe Drachenfrucht! Ich richtete mich auf und sah ihm direkt in die Augen. Ich habe dieses Konzept entworfen, während du im Urlaub warst! Da passierte es: Mein Firmenhandy vibrierte laut auf dem Glastisch. Der Zuschlag für das größte Bauprojekt der Stadt wurde erteilt. Das kann unmöglich dein Entwurf sein... Zeig her! Was stand in der offiziellen Zusage des Investors, die ihn blass werden ließ? Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+3.200 €",
+        "after": "8.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Immobilien-Scrollen. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 4.800 Euro netto – und ich verbringe meine Mittagspause damit, Grundrisse von Designer-Lofts zu analysieren, die das Dreifache meines Jahreseinkommens kosten."
+        },
+        {
+          "s": "Figur",
+          "t": "Es ist Donnerstag, 12:30 Uhr, im Architekturbüro. Auf meinem Zeichentablett dreht sich eine Penthouse-Wohnung für 1,8 Millionen Euro."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Für solche Dimensionen reicht dein Portfolio noch lange nicht, liebe Drachenfrucht!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich richtete mich auf und sah ihm direkt in die Augen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe dieses Konzept entworfen, während du im Urlaub warst!"
+        },
+        {
+          "s": "Figur",
+          "t": "Da passierte es: Mein Firmenhandy vibrierte laut auf dem Glastisch."
+        },
+        {
+          "s": "Figur",
+          "t": "Der Zuschlag für das größte Bauprojekt der Stadt wurde erteilt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Das kann unmöglich dein Entwurf sein... Zeig her!",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was stand in der offiziellen Zusage des Investors, die ihn blass werden ließ?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Für solche Dimensionen reicht dein Portfolio noch lange nicht, liebe Drachenfrucht!",
+      "quote_by": {
+        "level": 1,
+        "name": "Tim",
+        "badge": "14 qm Zimmer",
+        "character": "A young strawberry boy in a hoodie looking overwhelmed in a fancy lobby.",
+        "scene": "Stumbling into a high-tech architecture firm and bumping into Clara's table by accident."
+      },
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "4.800 €",
+          "bar": 0.6
+        },
+        {
+          "label": "Projekte",
+          "value": "14 aktiv",
+          "bar": 0.7
+        },
+        {
+          "label": "Immo-Watch",
+          "value": "Top 1%",
+          "bar": 0.95
+        }
+      ],
+      "character": "An exotic dragonfruit woman with magenta skin and green leaf tips, wearing a tailored white blazer and modern glasses. A glowing digital badge on her forehead shows 4.800 €.",
+      "visual": "A stylish dragonfruit woman reviewing architectural blueprints on a transparent digital screen in a sunlit modern studio.",
+      "scenes": [
+        "Bright modern design studio with floor-to-ceiling glass windows, white drafting tables, and a golden coin on a model building.",
+        "Busy downtown street with sleek electric cars driving past towering glass skyscrapers under a crisp blue sky.",
+        "Rooftop terrace with minimalist wooden furniture and panoramic views of the city skyline.",
+        "Conference room with a long oak table, leather chairs, and digital presentation screens.",
+        "Quiet hallway with polished concrete floors and abstract art hanging on white walls.",
+        "Chic downtown coffee shop with marble tabletops and designer pendant lights."
+      ],
+      "caption": "Wenn man schöne Häuser entwirft, aber selbst zur Miete wohnt. #architektur #immobilien #level4 #designloft"
+    },
+    {
+      "n": 5,
+      "open_loop": "Warum schaute der Makler so panisch auf das geöffnete Grundbuch im Safe?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Kleckert versehentlich Kaffee auf Franks teuren Lederschuhe im Foyer."
+      },
+      "name": "Frank, 42, Investor",
+      "badge": "6.200 € netto",
+      "verdict": "REICH",
+      "story": "Die 8 Level vom Immobilien-Scrollen. Level 5. Level 5: 6.200 Euro netto – und ich scrolle nachts auf meinem Tablet durch historische Schlösser in der Toskana, während meine Frau schläft. Es ist Freitag, 01:00 Uhr, im Arbeitszimmer. Ein Landsitz für 3,4 Millionen Euro mit eigenem Olivenhain. Du kannst dir den Unterhalt für so ein Anwesen niemals leisten, Kokosnuss! I lehnte mich zurück und lächelte kalt. Meine Portfolios sind breiter gestreut als deine Aktien. Da passierte es: Mein Online-Broker-Account schickte eine dringende Push-Meldung. Eine Akquisition wurde unerwartet mit einem satten Millionengewinn abgeschlossen. Unfassbar... Dein Depot ist explodiert! Welcher geheime Investor hatte im letzten Moment den Deal platziert? Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+15.000 €",
+        "after": "21.200 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Immobilien-Scrollen. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 6.200 Euro netto – und ich scrolle nachts auf meinem Tablet durch historische Schlösser in der Toskana, während meine Frau schläft."
+        },
+        {
+          "s": "Figur",
+          "t": "Es ist Freitag, 01:00 Uhr, im Arbeitszimmer. Ein Landsitz für 3,4 Millionen Euro mit eigenem Olivenhain."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du kannst dir den Unterhalt für so ein Anwesen niemals leisten, Kokosnuss!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I lehnte mich zurück und lächelte kalt."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Portfolios sind breiter gestreut als deine Aktien."
+        },
+        {
+          "s": "Figur",
+          "t": "Da passierte es: Mein Online-Broker-Account schickte eine dringende Push-Meldung."
+        },
+        {
+          "s": "Figur",
+          "t": "Eine Akquisition wurde unerwartet mit einem satten Millionengewinn abgeschlossen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Unfassbar... Dein Depot ist explodiert!",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welcher geheime Investor hatte im letzten Moment den Deal platziert?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Du kannst dir den Unterhalt für so ein Anwesen niemals leisten, Kokosnuss!",
+      "quote_by": {
+        "level": 2,
+        "name": "Bea",
+        "badge": "1.450 € netto",
+        "character": "A hardworking orange fruit woman in a simple café uniform.",
+        "scene": "Accidentally spilling a drop of coffee on the floor near Frank's desk while looking exhausted."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "6.200 €",
+          "bar": 0.75
+        },
+        {
+          "label": "Depot",
+          "value": "1.2 Mio",
+          "bar": 0.8
+        },
+        {
+          "label": "Schlösser",
+          "value": "12 fav",
+          "bar": 0.7
+        }
+      ],
+      "character": "A hard-shelled coconut man with textured brown husk skin, wearing a dark wool suit and gold-rimmed glasses. A glowing digital badge on his forehead shows 6.200 €.",
+      "visual": "A coconut man sitting in a dark, luxurious mahogany study with glowing monitors displaying European castles.",
+      "scenes": [
+        "Luxurious dark wood study with leather armbooks, a glowing desk lamp, and a golden coin on a globe.",
+        "Private airfield with a small twin-engine jet parked on wet tarmac under grey morning clouds.",
+        "Exclusive golf course club house with rolling green hills and polished wooden lockers.",
+        "High-end restaurant interior with velvet booth seating and crystal chandeliers.",
+        "Modern penthouse hallway with recessed warm lighting and minimalist artwork.",
+        "Suburban gated community entrance with automated security gates and manicured hedges."
+      ],
+      "caption": "Wer träumt auch insgeheim von einer Villa in der Toskana? #investor #immobilien #level5 #luxusleben"
+    },
+    {
+      "n": 6,
+      "open_loop": "Warum ließ der Notar den Kaufvertrag plötzlich im Aktenvernichter verschwinden?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Brummt David im Aufzug an und drückt demonstrativ auf den Schließen-Knopf."
+      },
+      "name": "David, 36, Projektentwickler",
+      "badge": "9.500 € netto",
+      "verdict": "OBERLIGA",
+      "story": "Die 8 Level vom Immobilien-Scrollen. Level 6. Level 6: 9.500 Euro netto – und ich biete auf Portalen anonym auf ganze Wohnblocks in bester Innenstadtlage. Es ist Samstag, 10:00 Uhr, in meiner Penthouse-Galerie. Ein kompletter Häuserblock für 14 Millionen Euro. Selbst mit deinem Gehalt kaufst du hier höchstens die Mülltonnen, Bananen-Mann! Ich nahm einen Schluck Champagner und musterte ihn kühl. Ich besitze bereits die Straße hinter dir. Da passierte es: Mein Tablet zeigte eine globale Transaktionsbestätigung an. Ein ausländischer Fonds hatte meine Übernahme offiziell freigegeben. Wie hast du diesen Block so schnell bekommen?! Wer war der Strippenzieher im Hintergrund, der diesen Millionen-Deal autorisiert hatte? Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+40.000 €",
+        "after": "49.500 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Immobilien-Scrollen. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 9.500 Euro netto – und ich biete auf Portalen anonym auf ganze Wohnblocks in bester Innenstadtlage."
+        },
+        {
+          "s": "Figur",
+          "t": "Es ist Samstag, 10:00 Uhr, in meiner Penthouse-Galerie. Ein kompletter Häuserblock für 14 Millionen Euro."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Selbst mit deinem Gehalt kaufst du hier höchstens die Mülltonnen, Bananen-Mann!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich nahm einen Schluck Champagner und musterte ihn kühl."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich besitze bereits die Straße hinter dir."
+        },
+        {
+          "s": "Figur",
+          "t": "Da passierte es: Mein Tablet zeigte eine globale Transaktionsbestätigung an."
+        },
+        {
+          "s": "Figur",
+          "t": "Ein ausländischer Fonds hatte meine Übernahme offiziell freigegeben."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wie hast du diesen Block so schnell bekommen?!",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer war der Strippenzieher im Hintergrund, der diesen Millionen-Deal autorisiert hatte?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Selbst mit deinem Gehalt kaufst du hier höchstens die Mülltonnen, Bananen-Mann!",
+      "quote_by": {
+        "level": 3,
+        "name": "Ben",
+        "badge": "2.800 € netto",
+        "character": "An avocado man in a simple office shirt looking tense.",
+        "scene": "Staring angrily at David in a sleek corporate elevator while holding a coffee cup."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "9.500 €",
+          "bar": 0.88
+        },
+        {
+          "label": "Objekte",
+          "value": "34 Stk",
+          "bar": 0.9
+        },
+        {
+          "label": "Portfolio",
+          "value": "42 Mio",
+          "bar": 0.95
+        }
+      ],
+      "character": "A sleek banana man with a curved yellow peel face, wearing a bespoke Italian charcoal suit and silk tie. A glowing digital badge on his forehead shows 9.500 €.",
+      "visual": "A banana head man standing on a high glass balcony overlooking a massive metropolis with a digital tablet in hand.",
+      "scenes": [
+        "Luxurious glass penthouse living room with modern art sculptures and a golden coin on a designer coffee table.",
+        "Private helipad on top of a skyscraper with a red helicopter blades spinning slowly in the wind.",
+        "Exclusive auction room with velvet seats, raised podium, and bright spotlights.",
+        "High-end restaurant terrace overlooking a glittering harbor at night.",
+        "Sleek minimalist office with white leather couches and panoramic city views.",
+        "Subterranean garage filled with expensive exotic sports cars under neon illumination."
+      ],
+      "caption": "Wenn man ganze Stadtteile auf dem Immobilienportal kauft. #immobilienhai #level6 #luxusleben #immobilien"
+    },
+    {
+      "n": 7,
+      "open_loop": "Warum rief der Chef der Zentralbank genau in diesem Moment auf dem Nottelefon an?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Kauft Emma vor der Nase das letzte Traumhaus weg und verlangt die doppelte Miete."
+      },
+      "name": "Emma, 45, Immobilien-Tycoon",
+      "badge": "24.000 € netto",
+      "verdict": "ELITE",
+      "story": "Die 8 Level vom Immobilien-Scrollen. Level 7. Level 7: 24.000 Euro netto – und ich lasse mir per Algorithmus exklusive Inseln und Privatinseln auf Luxus-Portalen anzeigen. Es ist Sonntag, 16:00 Uhr, auf meiner Yacht vor Monaco. Eine Privatinsel für 28 Millionen Euro. Du spielst in einer Liga, die eine Nummer zu groß für dich ist, Zitronen-Lady! I drehte mein Champagnerglas und lächelte siegessicher. Ich besitze bereits die Bank, die deine Kredite verwaltet. Da passierte es: Mein Satellitentelefon piepste schrill. Die finale Überweisung für das gesamte Stadtviertel war eingegangen. Nein! Das kann nicht sein... wer hat meine Anteile aufgekauft? Welcher unbekannte Milliardär hatte soeben das gesamte Finanzsystem übernommen? Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "+150.000 €",
+        "after": "174.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Immobilien-Scrollen. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 24.000 Euro netto – und ich lasse mir per Algorithmus exklusive Inseln und Privatinseln auf Luxus-Portalen anzeigen."
+        },
+        {
+          "s": "Figur",
+          "t": "Es ist Sonntag, 16:00 Uhr, auf meiner Yacht vor Monaco. Eine Privatinsel für 28 Millionen Euro."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du spielst in einer Liga, die eine Nummer zu groß für dich ist, Zitronen-Lady!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I drehte mein Champagnerglas und lächelte siegessicher."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich besitze bereits die Bank, die deine Kredite verwaltet."
+        },
+        {
+          "s": "Figur",
+          "t": "Da passierte es: Mein Satellitentelefon piepste schrill."
+        },
+        {
+          "s": "Figur",
+          "t": "Die finale Überweisung für das gesamte Stadtviertel war eingegangen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Nein! Das kann nicht sein... wer hat meine Anteile aufgekauft?",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welcher unbekannte Milliardär hatte soeben das gesamte Finanzsystem übernommen?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Du spielst in einer Liga, die eine Nummer zu groß für dich ist, Zitronen-Lady!",
+      "quote_by": {
+        "level": 8,
+        "name": "Mister Gold",
+        "badge": "UNENDLICH",
+        "character": "A mysterious golden pineapple man wearing a diamond-encrusted crown and royal cape.",
+        "scene": "Standing on the bow of a mega yacht with absolute serenity, watching Emma's empire shake."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "24.000 €",
+          "bar": 0.95
+        },
+        {
+          "label": "Inseln",
+          "value": "4 Stk",
+          "bar": 0.92
+        },
+        {
+          "label": "Vermögen",
+          "value": "180 Mio",
+          "bar": 0.98
+        }
+      ],
+      "character": "A sophisticated lemon woman with bright yellow textured peel skin, wearing an emerald green velvet dress and diamond earrings. A glowing digital badge on her forehead shows 24.000 €.",
+      "visual": "A lemon woman standing on the deck of a luxury yacht in the Mediterranean Sea with a tablet showing satellite maps of private islands.",
+      "scenes": [
+        "Luxury yacht deck at sunset with golden water reflections and a golden coin resting on a crystal glass.",
+        "Private helipad in the Alps surrounded by snow-capped mountains and crystal clear blue skies.",
+        "Exclusive private bank vault with stainless steel safety deposit boxes and warm spotlights.",
+        "Grand ballroom with crystal chandeliers, marble floors, and tuxedo-clad guests.",
+        "Modern glass boardroom with panoramic views of the Monaco coastline.",
+        "Suburban street with historic mansions surrounded by high iron gates."
+      ],
+      "caption": "Wenn man auf Immobilien-Portalen nach ganzen Inseln sucht. #immobilienhai #level7 #milliarden #luxusleben"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welche magische Zahl erschien auf der Stirn des Meisters, als er das Portal für immer schloss?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Tritt versehentlich auf den goldenen Teppich des Meisters im Eingangsbereich."
+      },
+      "name": "Mister Gold, 99, Der Architekt",
+      "badge": "UNENDLICH",
+      "verdict": "SCHöpfer",
+      "story": "Die 8 Level vom Immobilien-Scrollen. Level 8. Level 8: Unendlich – und ich habe soeben jede einzelne Immobilie auf diesem Planeten für null Euro gekauft. Es ist Sonntag, 23:59 Uhr, im Zentrum des Netzes. Auf meinem goldenen Bildschirm sehe ich alle sieben Figuren aus den vorherigen Leveln gleichzeitig scrollen. Warum zeigst du uns all diese Wohnungen, die wir nie besitzen werden? Ich lächelte und legte meine goldene Hand auf seine Schulter. Weil nicht der Besitz zählt, sondern das Sehnen, mein junger Freund. Da passierte es: Die Server aller Immobilien-Portale weltweit froren gleichzeitig ein. Alle Stirnzahlen der Stadt begannen synchron zu leuchten und zeigten plötzlich denselben Wert. Wer von euch hat jemals wirklich verstanden, wem diese Welt gehört? Welches Thema soll in der nächsten Serie als Nächstes kommen?",
+      "gender": "m",
+      "twist": {
+        "delta": "0 €",
+        "after": "ALLES"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Immobilien-Scrollen. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: Unendlich – und ich habe soeben jede einzelne Immobilie auf diesem Planeten für null Euro gekauft."
+        },
+        {
+          "s": "Figur",
+          "t": "Es ist Sonntag, 23:59 Uhr, im Zentrum des Netzes."
+        },
+        {
+          "s": "Figur",
+          "t": "Auf meinem goldenen Bildschirm sehe ich alle sieben Figuren aus den vorherigen Leveln gleichzeitig scrollen."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Warum zeigst du uns all diese Wohnungen, die wir nie besitzen werden?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich lächelte und legte meine goldene Hand auf seine Schulter."
+        },
+        {
+          "s": "Figur",
+          "t": "Weil nicht der Besitz zählt, sondern das Sehnen, mein junger Freund."
+        },
+        {
+          "s": "Figur",
+          "t": "Da passierte es: Die Server aller Immobilien-Portale weltweit froren gleichzeitig ein."
+        },
+        {
+          "s": "Figur",
+          "t": "Alle Stirnzahlen der Stadt begannen synchron zu leuchten und zeigten plötzlich denselben Wert."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer von euch hat jemals wirklich verstanden, wem diese Welt gehört? Welches Thema soll in der nächsten Serie als Nächstes kommen?"
+        }
+      ],
+      "quote": "Weil nicht der Besitz zählt, sondern das Sehnen, mein junger Freund.",
+      "quote_by": {
+        "level": 1,
+        "name": "Tim",
+        "badge": "14 qm Zimmer",
+        "character": "A young strawberry boy looking up in absolute awe at the glowing golden master.",
+        "scene": "Standing in a mystical room filled with floating screens displaying real estate portals."
+      },
+      "stats": [
+        {
+          "label": "Besitz",
+          "value": "Alles",
+          "bar": 1.0
+        },
+        {
+          "label": "Portale",
+          "value": "Alle",
+          "bar": 1.0
+        },
+        {
+          "label": "Level",
+          "value": "Max",
+          "bar": 1.0
+        }
+      ],
+      "character": "A majestic golden pineapple man with shimmering metallic fruit skin and a royal crown, wearing a glowing golden robe. A glowing digital badge on his forehead shows UNENDLICH.",
+      "visual": "Wide shot of a golden pineapple man sitting on a throne of glowing screens displaying real estate listings across a dark futuristic city.",
+      "scenes": [
+        "Mystical control room filled with floating holographic screens showing every real estate portal in existence and a golden coin hovering in mid-air.",
+        "The central obsidian tower of the fruit city with beams of golden light shooting up into the rainy night sky.",
+        "A grand assembly hall where all seven previous characters stand together in stunned silence.",
+        "An endless digital corridor filled with millions of floating house keys and glowing numbers.",
+        "A serene rooftop garden overlooking the entire fruit metropolis bathed in golden dawn light.",
+        "A massive server room with rows of glowing racks humming with infinite data."
+      ],
+      "caption": "Das große Finale der Stirn-Zahl! Welches Thema soll als Nächstes kommen? Schreib es in die Kommentare! #finale #stirnzahl #immobilien #level8 #drama"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das stundenlange Scrollen durch Immobilien-Portale ohne Kaufabsicht",
+  "frame": "frucht"
+}

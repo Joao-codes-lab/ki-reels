@@ -1,0 +1,753 @@
+{
+  "title": "Die 8 Level von Sprachnachrichten",
+  "house": "A bustling urban metropolis where fruit and vegetable people live, featuring neon-lit tram stations, rainy concrete alleyways, cozy bakeries, and modern glass office towers.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Barista in Level 2 mentions the regular customer with 10.000 listens who never leaves voice notes.",
+    "The broken tram in Level 4 blocks the exact route where the strawberry from Level 1 is waiting.",
+    "The bakery in Level 3 sells the same pastries the lawyer in Level 7 buys for breakfast."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was war der genaue Grund, warum er nach zwei Minuten Stille aufgelegt hat?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Lacht sie wegen ihrer zitternden Stimme aus und zeigt auf ihre niedrige Stirn-Zahl.",
+        "name": "Mia, 19, Studentin",
+        "badge": "0 Sekunden"
+      },
+      "name": "Mia, 19, Studentin",
+      "badge": "0 Sekunden",
+      "verdict": "SCHWEIGEN",
+      "story": "Die 8 Level von emotionalen Sprachnachrichten. Level 1. Level 1: 0 Sekunden Hörzeit und mein Handy brennt seit vier Stunden. Ich starre auf das Display in meiner Hand, während der Kaffee in der Uni-Mensa kalt wird und die anderen Studenten mich ignorieren. 14 Minuten lang war meine Sprachnachricht an Jonas, voller Gestammel, Tränen und purer Gefühle. Jetzt steht da nur: Gesehen vor 240 Minuten. Keine Antwort. Nicht mal ein Daumen hoch, nicht ein winziges Lebenszeichen. 14 Minuten? Ernsthaft? Niemand hört sich so ein Hörspiel von dir an, Mia. Er hat nur gesagt, dass er beschäftigt ist und seine Ruhe braucht. Niemand liebt jemanden, der so billig bettelt. Doch genau in diesem Moment vibriert das Display erneut und eine unbekannte Nummer ruft an. Wer wagt es jetzt noch, mich zu quälen? Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1 Nachric",
+        "after": "1 Nachric"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von emotionalen Sprachnachrichten. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 0 Sekunden Hörzeit und mein Handy brennt seit vier Stunden."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich starre auf das Display in meiner Hand, während der Kaffee in der Uni-Mensa kalt wird und die anderen Studenten mich ignorieren."
+        },
+        {
+          "s": "Figur",
+          "t": "14 Minuten lang war meine Sprachnachricht an Jonas, voller Gestammel, Tränen und purer Gefühle."
+        },
+        {
+          "s": "Figur",
+          "t": "Jetzt steht da nur: Gesehen vor 240 Minuten. Keine Antwort. Nicht mal ein Daumen hoch, nicht ein winziges Lebenszeichen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "14 Minuten? Ernsthaft? Niemand hört sich so ein Hörspiel von dir an, Mia.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Er hat nur gesagt, dass er beschäftigt ist und seine Ruhe braucht."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Niemand liebt jemanden, der so billig bettelt.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch genau in diesem Moment vibriert das Display erneut und eine unbekannte Nummer ruft an. Wer wagt es jetzt noch, mich zu quälen?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Niemand liebt jemanden, der so billig bettelt.",
+      "quote_by": {
+        "level": 3,
+        "name": "Tom",
+        "badge": "4.500 Aufrufe",
+        "character": "An arrogant avocado person with smooth green skin, wearing a sharp grey blazer and a golden chain.",
+        "scene": "Close-up in a crowded university cafeteria, pointing mockingly at a glowing digital display on a small smartphone."
+      },
+      "stats": [
+        {
+          "label": "Hörzeit",
+          "value": "0 Sek.",
+          "bar": 0.05
+        },
+        {
+          "label": "Mut",
+          "value": "12 %",
+          "bar": 0.12
+        },
+        {
+          "label": "Schmerz",
+          "value": "99 %",
+          "bar": 0.99
+        }
+      ],
+      "character": "A strawberry person with a bright red textured head dotted with tiny seeds, wearing an oversized beige hoodie, holding a cracked smartphone; glowing green digits on the forehead.",
+      "visual": "Wide shot of a noisy university canteen with concrete pillars, misty windows, and diverse fruit and vegetable students sitting at wooden tables under harsh neon lights.",
+      "scenes": [
+        "Wide shot: A bustling university canteen with concrete pillars, misty windows, and diverse fruit students sitting at wooden tables under harsh neon lights. A hidden golden coin rests on a nearby tray.",
+        "Medium shot: Mia, a strawberry person with a red dotted head, staring with wide, shocked eyes at a cracked smartphone displaying a read receipt in the dim light.",
+        "Close-up: A glowing digital display on Mia's forehead showing '0 Sekunden' in pulsing red numbers while condensation drips down a nearby window.",
+        "Medium shot: Tom, an arrogant avocado person in a sharp grey blazer, leaning over the table and smirking down at Mia with his superior forehead number.",
+        "Detail shot: A hand trembling over a wooden table, fingers clenching around a cheap plastic coffee cup as a notification banner pops up.",
+        "Close-up: Mia's tear-filled eyes reflecting the harsh blue light of her phone screen in the quiet corner of the crowded cafeteria."
+      ],
+      "caption": "Wer kennt dieses schmerzhafte Warten auf eine Antwort? #sprachnachricht #drama #beziehung #level1 #viral"
+    },
+    {
+      "n": 2,
+      "open_loop": "Was stand in der Benachrichtigung, die plötzlich alles auf den Kopf stellte?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Nimmt ihr das Handy weg und behauptet, sie würde nur Aufmerksamkeit heischen.",
+        "name": "Ben, 24, Barista",
+        "badge": "1 Nachricht"
+      },
+      "name": "Ben, 24, Barista",
+      "badge": "1 Nachricht",
+      "verdict": "GELESEN",
+      "story": "Die 8 Level von emotionalen Sprachnachrichten. Level 2. Level 2: 1 neue Nachricht und mein Herz schlägt gegen meine Rippen wie ein wilder Hammer, während die Espressomaschine im Hintergrund zischend entlüftet. Eine winzige Push-Nachricht leuchtet auf dem Display hinter der Kaffeemaschine auf und wirft ein kaltes Licht auf mein Gesicht. Was glotzt du so blöd auf dein Handy, du Heulsuse? Will sie Mitleid für deine Kack-Beziehung? Will sie etwa Mitleid oder ist das der endgültige Schlussstrich? Sie hat einfach nur geschrieben, dass wir reden müssen. Genau den Satz kenne ich, bevor sie dich abserviert, ohne Vorwarnung, ohne Gnade. Plötzlich geht die Tür auf und ein Schatten betritt das Café. Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "Blockiert",
+        "after": "0 Notizen"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von emotionalen Sprachnachrichten. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 1 neue Nachricht und mein Herz schlägt gegen meine Rippen wie ein wilder Hammer, während die Espressomaschine im Hintergrund zischend entlüftet."
+        },
+        {
+          "s": "Figur",
+          "t": "Eine winzige Push-Nachricht leuchtet auf dem Display hinter der Kaffeemaschine auf und wirft ein kaltes Licht auf mein Gesicht."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Was glotzt du so blöd auf dein Handy, du Heulsuse? Will sie Mitleid für deine Kack-Beziehung?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Will sie etwa Mitleid oder ist das der endgültige Schlussstrich?"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie hat einfach nur geschrieben, dass wir reden müssen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Genau den Satz kenne ich, bevor sie dich abserviert, ohne Vorwarnung, ohne Gnade.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich geht die Tür auf und ein Schatten betritt das Café."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Genau den Satz kenne ich, bevor sie dich abserviert.",
+      "quote_by": {
+        "level": 4,
+        "name": "Leon",
+        "badge": "12 Nachrichten",
+        "character": "A stern broccoli person with a dense dark green floret head, wearing a black leather biker jacket.",
+        "scene": "Leaning aggressively over a zinc café counter in a dimly lit coffee shop, pointing a thick finger."
+      },
+      "stats": [
+        {
+          "label": "Nachrichten",
+          "value": "1 Stk.",
+          "bar": 0.15
+        },
+        {
+          "label": "Mut",
+          "value": "35 %",
+          "bar": 0.35
+        },
+        {
+          "label": "Koffein",
+          "value": "4 Tassen",
+          "bar": 0.6
+        }
+      ],
+      "character": "A sour lemon person with vibrant yellow bumpy skin, wearing a stained white barista apron and silver hoop earrings; a glowing yellow number on the forehead.",
+      "visual": "Medium shot of a warm, steamy café interior behind a zinc counter, with copper pipes and various vegetable customers waiting in line.",
+      "scenes": [
+        "Medium shot: Ben, a yellow lemon person in a stained white apron, standing behind a zinc café counter filled with steam and espresso machines. A hidden golden coin gleams near the cash register.",
+        "Close-up: A single notification banner glowing brightly on an old smartphone screen amidst coffee powder stains.",
+        "Close-up: Ben's forehead glowing with yellow digital numbers flickering nervously.",
+        "Medium shot: Leon, a bulky broccoli person in a black leather jacket, leaning over the counter and intimidating Ben with a cold stare.",
+        "Detail shot: Steam rising from an espresso portafilter while a hand grips the edge of the wooden counter in frustration.",
+        "Wide shot: The cozy café seen from the outside through rain-streaked windows, with warm amber light spilling onto the wet pavement."
+      ],
+      "caption": "Wenn die eine Nachricht kommt, die alles verändert. #kaffee #beziehungsstatus #level2 #viral"
+    },
+    {
+      "n": 3,
+      "open_loop": "Warum wusste der Anwalt genau, was in der Sprachnachricht gesagt wurde?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Zerreißt ihren Notizzettel und nennt sie eine unreife Dramaqueen.",
+        "name": "Sarah, 27, Grafikerin",
+        "badge": "3 Minuten"
+      },
+      "name": "Sarah, 27, Grafikerin",
+      "badge": "3 Minuten",
+      "verdict": "GEHÖRT",
+      "story": "Die 8 Level von emotionalen Sprachnachrichten. Level 3. Level 3: 3 Minuten Hörzeit und mein ganzer Entwurf fliegt in den Papierkorb, während die Kollegen tuscheln. Ich sitze im Großraumbüro, während die Neonröhren nervtötend über meinem Kopf summen und meine Tastatur unter meinen Fingern zittert. Drei Minuten Gejammer um diese Uhrzeit? Kein Wunder, dass deine Entwürfe so billig aussehen und niemand sie kaufen will! Es war kein Gejammer, es war die pure Wahrheit über unsere Arbeit! Die Wahrheit interessiert niemanden, wenn du so klingen tust wie eine sterbende Ente, die um Hilfe fleht. Plötzlich ertönt ein greller Alarmton aus dem System, der alle Bildschirme schwarz färben lässt. Das siehst du in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "+5 Antwort",
+        "after": "8 Minuten"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von emotionalen Sprachnachrichten. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 3 Minuten Hörzeit und mein ganzer Entwurf fliegt in den Papierkorb, während die Kollegen tuscheln."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze im Großraumbüro, während die Neonröhren nervtötend über meinem Kopf summen und meine Tastatur unter meinen Fingern zittert."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Drei Minuten Gejammer um diese Uhrzeit? Kein Wunder, dass deine Entwürfe so billig aussehen und niemand sie kaufen will!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Es war kein Gejammer, es war die pure Wahrheit über unsere Arbeit!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die Wahrheit interessiert niemanden, wenn du so klingen tust wie eine sterbende Ente, die um Hilfe fleht.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich ertönt ein greller Alarmton aus dem System, der alle Bildschirme schwarz färben lässt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Die Wahrheit interessiert niemanden, wenn du klingen tust wie eine sterbende Ente.",
+      "quote_by": {
+        "level": 5,
+        "name": "Clara",
+        "badge": "50 Minuten",
+        "character": "An elegant orange person with bright citrus skin, wearing a tailored navy blue suit and gold-rimmed glasses.",
+        "scene": "Standing proudly beside a modern office desk, looking down her nose at a computer monitor with a sneer."
+      },
+      "stats": [
+        {
+          "label": "Hörzeit",
+          "value": "3 Min.",
+          "bar": 0.3
+        },
+        {
+          "label": "Stolz",
+          "value": "40 %",
+          "bar": 0.4
+        },
+        {
+          "label": "Druck",
+          "value": "85 %",
+          "bar": 0.85
+        }
+      ],
+      "character": "A coconut person with a hard brown hairy shell head, wearing a cozy oversized turtleneck sweater; glowing white digits on the forehead.",
+      "visual": "Wide shot of a modern, sterile open-plan office with grey cubicles, glowing computer screens, and stressed vegetable colleagues under bright LED panels.",
+      "scenes": [
+        "Wide shot: A modern, sterile open-plan office with grey cubicles, glowing computer screens, and stressed vegetable colleagues under bright LED panels. A hidden golden coin is stuck behind a potted desk plant.",
+        "Medium shot: Sarah, a brown coconut person with a hairy shell head, sitting tensely in front of a dual-monitor setup in a cozy turtleneck.",
+        "Close-up: Sarah's forehead displaying glowing white numbers showing '3 Minuten' as sweat beads on her textured shell.",
+        "Medium shot: Clara, an elegant orange person in a tailored navy suit, standing over Sarah's desk with a cold, condescending expression.",
+        "Detail shot: A computer mouse gripped tightly by a brown coconut hand while an angry design file stays open on screen.",
+        "Close-up: Sarah's determined eyes reflecting the harsh white glow of an incoming phone call on her desk."
+      ],
+      "caption": "Wenn deine Sprachnachricht komplett zerpflückt wird. #büro #arbeitsplatz #level3 #viral"
+    },
+    {
+      "n": 4,
+      "open_loop": "Wer war am anderen Ende der Leitung und rief mitten in der Nacht an?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Nimmt ihr den Hörer weg und legt einfach auf, um sie zu demütigen.",
+        "name": "Max, 31, Kurierfahrer",
+        "badge": "12 Minuten"
+      },
+      "name": "Max, 31, Kurierfahrer",
+      "badge": "12 Minuten",
+      "verdict": "ERKLÄRUNG",
+      "story": "Die 8 Level von emotionalen Sprachnachrichten. Level 4. Level 4: 12 Minuten Erklärung und mein Lieferwagen steht mitten auf der Kreuzung im strömenden Regen, während hinter mir hunderte Autos hupen. Ich habe in einer ewig langen Sprachnachricht versucht, all meine Fehler zu beichten und mein Herz auszuschütten. Sag mal, spinnst du komplett? Du blockierst hier die ganze Lieferzone für dein peinliches Liebesgeständnis! Es ist ein Notfall, verdammt noch mal, es geht um mein ganzes Leben! Notfall? Weil deine Alte keinen Bock auf deine Tränendrüsen hat? Hör auf zu heulen und fahr zur Seite, sonst knallt es gewaltig! In diesem Augenblick flackert die Straßenlaterne und eine Sirene heult auf. Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "Angenommen",
+        "after": "15 Minute"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von emotionalen Sprachnachrichten. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 12 Minuten Erklärung und mein Lieferwagen steht mitten auf der Kreuzung im strömenden Regen, während hinter mir hunderte Autos hupen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe in einer ewig langen Sprachnachricht versucht, all meine Fehler zu beichten und mein Herz auszuschütten."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sag mal, spinnst du komplett? Du blockierst hier die ganze Lieferzone für dein peinliches Liebesgeständnis!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Es ist ein Notfall, verdammt noch mal, es geht um mein ganzes Leben!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Notfall? Weil deine Alte keinen Bock auf deine Tränendrüsen hat? Hör auf zu heulen und fahr zur Seite, sonst knallt es gewaltig!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Augenblick flackert die Straßenlaterne und eine Sirene heult auf."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Notfall? Weil deine Alte keinen Bock auf deine Tränendrüsen hat?",
+      "quote_by": {
+        "level": 6,
+        "name": "Tim",
+        "badge": "30 Minuten",
+        "character": "A bulky pumpkin person with a ribbed orange round head, wearing a high-vis neon yellow vest over a hoodie.",
+        "scene": "Leaning into the window of a delivery van in heavy rain, shouting with a mocking grin."
+      },
+      "stats": [
+        {
+          "label": "Hörzeit",
+          "value": "12 Min.",
+          "bar": 0.5
+        },
+        {
+          "label": "Stau",
+          "value": "4 Autos",
+          "bar": 0.4
+        },
+        {
+          "label": "Geduld",
+          "value": "10 %",
+          "bar": 0.1
+        }
+      ],
+      "character": "A dragon fruit person with vibrant pink skin and green leafy scales on the head, wearing a faded denim jacket; glowing pink digits on the forehead.",
+      "visual": "Medium shot from inside a delivery van looking out at a rain-soaked city intersection at night, with neon streetlights reflecting on wet asphalt.",
+      "scenes": [
+        "Medium shot from inside a delivery van looking out at a rain-soaked city intersection at night, with neon streetlights reflecting on wet asphalt. A hidden golden coin is resting on the dashboard.",
+        "Medium shot: Max, a dragon fruit person with pink scaly skin and green leaf tips, gripping the steering wheel inside the cramped truck cabin.",
+        "Close-up: Max's forehead glowing with bright pink digits reading '12 Minuten' under flickering dashboard lights.",
+        "Medium shot: Tim, a bulky pumpkin person in a neon safety vest, pulling open the van door while rain pours down in sheets.",
+        "Detail shot: A wet smartphone screen showing an active audio recording waveform frozen at minute twelve.",
+        "Wide shot: The delivery van stranded in the middle of a busy urban street surrounded by honking cars and splashing puddles."
+      ],
+      "caption": "Wenn man sich in einer Sprachnachricht komplett um Kopf und Kragen redet. #lieferdienst #regen #level4 #viral"
+    },
+    {
+      "n": 5,
+      "open_loop": "Was war der geheime Inhalt der Nachricht, den niemand hören durfte?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Droht ihr mit rechtlichen Schritten wegen angeblicher Belästigung.",
+        "name": "Hanna, 26, Yogalehrerin",
+        "badge": "25 Minuten"
+      },
+      "name": "Hanna, 26, Yogalehrerin",
+      "badge": "25 Minuten",
+      "verdict": "GESTÄNDNIS",
+      "story": "Die 8 Level von emotionalen Sprachnachrichten. Level 5. Level 5: 25 Minuten Geständnis und mein Studio ist komplett leer bis auf das Summen der alten Heizung. Ich habe mir in einer Mammut-Sprachnachricht die Seele aus dem Leib geredet und alle meine tiefsten Ängste offengelegt. 25 Minuten Heulerei ohne Ende? Dafür mietest du dir hier teuer Räume, Hanna, um die Leute zu vergraulen? Es ist kein Wrack, es ist reine Ehrlichkeit und emotionale Freiheit! Ehrlichkeit ist in unserer Welt nur was für Verlierer, die nichts auf die Reihe kriegen und scheitern müssen. Doch plötzlich öffnet sich die Hintertür des Studios und eine Gestalt tritt ein. Das siehst du in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "Gepostet",
+        "after": "30 Minute"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von emotionalen Sprachnachrichten. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 25 Minuten Geständnis und mein Studio ist komplett leer bis auf das Summen der alten Heizung."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe mir in einer Mammut-Sprachnachricht die Seele aus dem Leib geredet und alle meine tiefsten Ängste offengelegt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "25 Minuten Heulerei ohne Ende? Dafür mietest du dir hier teuer Räume, Hanna, um die Leute zu vergraulen?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Es ist kein Wrack, es ist reine Ehrlichkeit und emotionale Freiheit!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Ehrlichkeit ist in unserer Welt nur was für Verlierer, die nichts auf die Reihe kriegen und scheitern müssen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch plötzlich öffnet sich die Hintertür des Studios und eine Gestalt tritt ein."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Ehrlichkeit ist in unserer Welt nur was für Verlierer, die nichts auf die Reihe kriegen.",
+      "quote_by": {
+        "level": 7,
+        "name": "Viktor",
+        "badge": "45 Minuten",
+        "character": "A tall, slender asparagus person with pale green spear-like head, wearing a crisp charcoal suit and silk tie.",
+        "scene": "Standing rigidly on a hardwood yoga floor, looking down with extreme arrogance through gold-rimmed glasses."
+      },
+      "stats": [
+        {
+          "label": "Hörzeit",
+          "value": "25 Min.",
+          "bar": 0.7
+        },
+        {
+          "label": "Tränen",
+          "value": "1 Liter",
+          "bar": 0.8
+        },
+        {
+          "label": "Mut",
+          "value": "60 %",
+          "bar": 0.6
+        }
+      ],
+      "character": "A tomato person with a plump, shiny red round head and green stem crown, wearing a relaxed linen yoga shirt; glowing red digits on the forehead.",
+      "visual": "Wide shot of a minimalist yoga studio with polished wooden floors, large mirrors, soft warm lighting, and potted bamboo plants in the corner.",
+      "scenes": [
+        "Wide shot: A minimalist yoga studio with polished wooden floors, large mirrors, soft warm lighting, and potted bamboo plants in the corner. A hidden golden coin is tucked under a yoga block.",
+        "Medium shot: Hanna, a plump red tomato person with a green stem crown, sitting cross-legged on a mat in a linen yoga shirt.",
+        "Close-up: Hanna's forehead glowing with bright red numbers reading '25 Minuten' while sweat forms on her shiny skin.",
+        "Medium shot: Viktor, a tall slender asparagus person in a sharp charcoal suit, standing stiffly on the wooden floor and sneering down.",
+        "Detail shot: A sleek laptop screen displaying a long audio waveform with red markers indicating multiple message segments.",
+        "Close-up: Hanna's shocked face illuminated by the cold blue light of a sudden incoming notification."
+      ],
+      "caption": "Wenn ein Geständnis über 20 Minuten lang wird. #yoga #geständnis #level5 #viral"
+    },
+    {
+      "n": 6,
+      "open_loop": "Was hatte der Anwalt in seiner eigenen Sprachnachricht verborgen?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Sperrt ihn aus dem Konferenzraum aus und lacht über seine niedrige Reichweite.",
+        "name": "David, 35, Architekt",
+        "badge": "40 Minuten"
+      },
+      "name": "David, 35, Architekt",
+      "badge": "40 Minuten",
+      "verdict": "VIRAL",
+      "story": "Die 8 Level von emotionalen Sprachnachrichten. Level 6. Level 6: 40 Minuten Hörzeit und meine Sprachnachricht wurde im ganzen Viertel geteilt, während mein Ruf in Schutt und Asche sinkt. Ich stehe auf der Baustelle im Rohbau, während der kalte Wind durch die offenen Betondecken pfeift und die Bauarbeiter mich mustern. 40 Minuten peinlicher Herzschmerz, David? Ganz Berlin lacht über deine kleine Audiospur im Netz! Das war absolut privat und sollte niemals das Licht der Öffentlichkeit erblicken! Wer so schwach ist und seine Gefühle offenbart, gehört nicht auf diesen harten Markt. Deine Karriere ist hiermit endgültig beendet. Doch in der Ferne ertönt ein Kichern, das alles verändert. Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "100k Plays",
+        "after": "50 Minute"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von emotionalen Sprachnachrichten. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 40 Minuten Hörzeit und meine Sprachnachricht wurde im ganzen Viertel geteilt, während mein Ruf in Schutt und Asche sinkt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe auf der Baustelle im Rohbau, während der kalte Wind durch die offenen Betondecken pfeift und die Bauarbeiter mich mustern."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "40 Minuten peinlicher Herzschmerz, David? Ganz Berlin lacht über deine kleine Audiospur im Netz!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Das war absolut privat und sollte niemals das Licht der Öffentlichkeit erblicken!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer so schwach ist und seine Gefühle offenbart, gehört nicht auf diesen harten Markt. Deine Karriere ist hiermit endgültig beendet.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch in der Ferne ertönt ein Kichern, das alles verändert."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Wer so schwach ist, gehört nicht auf diesen Markt. Deine Karriere ist hiermit beendet.",
+      "quote_by": {
+        "level": 8,
+        "name": "Elena",
+        "badge": "60 Minuten",
+        "character": "An elegant pear person with smooth curved yellow-green skin, wearing a white cashmere coat and diamond earrings.",
+        "scene": "Standing on a windy concrete construction floor, holding a glowing tablet with a triumphant smile."
+      },
+      "stats": [
+        {
+          "label": "Hörzeit",
+          "value": "40 Min.",
+          "bar": 0.85
+        },
+        {
+          "label": "Reichweite",
+          "value": "50k",
+          "bar": 0.9
+        },
+        {
+          "label": "Wut",
+          "value": "95 %",
+          "bar": 0.95
+        }
+      ],
+      "character": "A cucumber person with crisp dark green bumpy skin, wearing a tailored architect's woolen vest over a shirt; glowing green digits on the forehead.",
+      "visual": "Wide shot of a massive unfinished concrete skyscraper interior with exposed pillars, steel rebars, and dust dancing in shafts of sunlight.",
+      "scenes": [
+        "Wide shot: A massive unfinished concrete skyscraper interior with exposed pillars, steel rebars, and dust dancing in shafts of sunlight. A hidden golden coin lies on a concrete block.",
+        "Medium shot: David, a crisp green cucumber person in a woolen vest, standing alone in the windy grey concrete room.",
+        "Close-up: David's forehead glowing with bright green numbers reading '40 Minuten' while wind blows past his textured skin.",
+        "Medium shot: Elena, an elegant pear person in a white cashmere coat, holding a sleek tablet and smirking confidently.",
+        "Detail shot: A tablet screen showing thousands of live stream comments and looping audio waveforms.",
+        "Close-up: David's clenched jaw and narrowed eyes reflecting the harsh glare of the city skyline outside."
+      ],
+      "caption": "Wenn deine private Sprachnachricht plötzlich viral geht. #architektur #viral #level6 #drama"
+    },
+    {
+      "n": 7,
+      "open_loop": "Wer stand hinter dem anonymen Account, der alle Sprachnachrichten kaufte?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Versucht ihm den Vertrag vor der Nase wegzuschnappen und ihn öffentlich zu demütigen.",
+        "name": "Sophie, 29, Galeristin",
+        "badge": "55 Minuten"
+      },
+      "name": "Sophie, 29, Galeristin",
+      "badge": "55 Minuten",
+      "verdict": "MAU",
+      "story": "Die 8 Level von emotionalen Sprachnachrichten. Level 7. Level 7: 55 Minuten Hörzeit und mein Handy explodiert vor wütenden Anrufen und Kaufangeboten. Ich stehe in meiner Luxus-Galerie, während der teure Champagner auf den Tischen lauwarm geworden ist und die Gäste flüstern. 55 Minuten Geheule als moderne Kunst? Du bist eine absolute Betrügerin, Sophie, das ist völlig wertlos! Es ist keine billige Kunst, Markus, es ist das echte Leben und der Schmerz, den du nie hattest. Niemand kauft das Drama von einer Versagerin, die nur Mitleid sucht! Doch bevor er den Raum verlassen kann, geht die Haupttür auf und eine Gestalt betritt das Licht. Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "1 Million",
+        "after": "100 Min."
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von emotionalen Sprachnachrichten. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 55 Minuten Hörzeit und mein Handy explodiert vor wütenden Anrufen und Kaufangeboten."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe in meiner Luxus-Galerie, während der teure Champagner auf den Tischen lauwarm geworden ist und die Gäste flüstern."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "55 Minuten Geheule als moderne Kunst? Du bist eine absolute Betrügerin, Sophie, das ist völlig wertlos!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Es ist keine billige Kunst, Markus, es ist das echte Leben und der Schmerz, den du nie hattest."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Niemand kauft das Drama von einer Versagerin, die nur Mitleid sucht!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch bevor er den Raum verlassen kann, geht die Haupttür auf und eine Gestalt betritt das Licht."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Niemand kauft das Drama von einer Versagerin!",
+      "quote_by": {
+        "level": 8,
+        "name": "Markus",
+        "badge": "100 Minuten",
+        "character": "A polished mushroom person with a smooth white cap head, wearing a bespoke velvet tuxedo and silver cufflinks.",
+        "scene": "Standing in the center of an upscale art gallery under warm spotlights, pointing aggressively at a microphone."
+      },
+      "stats": [
+        {
+          "label": "Hörzeit",
+          "value": "55 Min.",
+          "bar": 0.95
+        },
+        {
+          "label": "Anrufe",
+          "value": "1.200",
+          "bar": 0.98
+        },
+        {
+          "label": "Macht",
+          "value": "88 %",
+          "bar": 0.88
+        }
+      ],
+      "character": "A plum person with deep blue-purple smooth skin and a delicate oval head, wearing an elegant silver silk dress; glowing purple digits on the forehead.",
+      "visual": "Wide shot of an opulent art gallery with white minimalist walls, glowing modern sculptures, expensive champagne glasses, and well-dressed vegetable elites.",
+      "scenes": [
+        "Wide shot: An opulent art gallery with white minimalist walls, glowing modern sculptures, expensive champagne glasses, and well-dressed vegetable elites. A hidden golden coin is on the base of a sculpture.",
+        "Medium shot: Sophie, a smooth blue plum person in an elegant silver silk dress, standing near a pedestal with a microphone.",
+        "Close-up: Sophie's forehead glowing with bright purple numbers reading '55 Minuten' under warm gallery spotlights.",
+        "Medium shot: Markus, a polished mushroom person in a velvet tuxedo, stepping forward with a scornful expression.",
+        "Detail shot: A crystal champagne glass vibrating on a table as heavy bass notes from an audio player echo through the room.",
+        "Close-up: Sophie's calm, fearless expression as she looks directly into the camera lens while the lights flicker."
+      ],
+      "caption": "Wenn deine Sprachnachricht plötzlich zur teuersten Kunst der Stadt wird. #kunst #galerie #level7 #viral"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welche Sprachnachricht hat am Ende das gesamte System für immer verändert?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Vergibt allen seinen Kritikern und schickt die allererste Sprachnachricht zurück.",
+        "name": "Karl, 42, Gründer",
+        "badge": "Unendlich"
+      },
+      "name": "Karl, 42, Gründer",
+      "badge": "Unendlich",
+      "verdict": "KÖNIG",
+      "story": "Die 8 Level von emotionalen Sprachnachrichten. Level 8. Level 8: Unendliche Hörzeit und ich halte das Schicksal aller Sprachnachrichten in meinen Händen. Ich stehe ganz oben auf dem gläsernen Wolkenkratzer, während der kalte Wind an meinem maßgeschneiderten Anzug zerrt und die Skyline glitzert. Unten in der Stadt blinken Millionen von Stirn-Zahlen, von der armen Erdbeere bis zum reichen Pilz, alle gefangen im ewigen System. Alle haben sie geschwiegen, gestammelt, geliebt und geweint, ohne zu wissen, wer am Ende die Fäden zieht. Die Zahl lügt nie, aber das Herz entscheidet, wer gewinnt und wer im Lärm untergeht. Und während ich den roten Hauptschalter drücke, beginnt das Netz sich neu zu ordnen. Welches Thema der Stirn-Zahlen soll als Nächstes verfilmt werden?",
+      "gender": "m",
+      "twist": {
+        "delta": "Reset",
+        "after": "0 Level"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von emotionalen Sprachnachrichten. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: Unendliche Hörzeit und ich halte das Schicksal aller Sprachnachrichten in meinen Händen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe ganz oben auf dem gläsernen Wolkenkratzer, während der kalte Wind an meinem maßgeschneiderten Anzug zerrt und die Skyline glitzert."
+        },
+        {
+          "s": "Figur",
+          "t": "Unten in der Stadt blinken Millionen von Stirn-Zahlen, von der armen Erdbeere bis zum reichen Pilz, alle gefangen im ewigen System."
+        },
+        {
+          "s": "Figur",
+          "t": "Alle haben sie geschwiegen, gestammelt, geliebt und geweint, ohne zu wissen, wer am Ende die Fäden zieht."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl lügt nie, aber das Herz entscheidet, wer gewinnt und wer im Lärm untergeht."
+        },
+        {
+          "s": "Figur",
+          "t": "Und während ich den roten Hauptschalter drücke, beginnt das Netz sich neu zu ordnen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema der Stirn-Zahlen soll als Nächstes verfilmt werden?"
+        }
+      ],
+      "quote": "Die Zahl lügt nie, aber das Herz entscheidet, wer gewinnt.",
+      "quote_by": {
+        "level": 1,
+        "name": "Karl",
+        "badge": "Unendlich",
+        "character": "A majestic coconut-pine hybrid person with a golden polished crown head, wearing an executive tailored white suit.",
+        "scene": "Standing on a high glass penthouse balcony overlooking a glowing futuristic metropolis at sunset, holding a master transmitter."
+      },
+      "stats": [
+        {
+          "label": "Macht",
+          "value": "100 %",
+          "bar": 1.0
+        },
+        {
+          "label": "Hörzeit",
+          "value": "Unendl.",
+          "bar": 1.0
+        },
+        {
+          "label": "Einfluss",
+          "value": "Global",
+          "bar": 1.0
+        }
+      ],
+      "character": "A golden coconut person with a smooth polished crown head and glittering metallic shell, wearing a bespoke white executive suit; glowing gold digits on the forehead.",
+      "visual": "Wide cinematic shot from a high glass penthouse balcony overlooking a sprawling futuristic metropolis glowing in golden hour light.",
+      "scenes": [
+        "Wide cinematic shot from a high glass penthouse balcony overlooking a sprawling futuristic metropolis glowing in golden hour light. A hidden golden coin gleams on the balcony railing.",
+        "Medium shot: Karl, a golden coconut person in a bespoke white executive suit, standing tall against the horizon.",
+        "Close-up: Karl's forehead glowing with golden numbers reading 'Unendlich' under the warm sunset rays.",
+        "Wide shot: The entire city below showing millions of tiny glowing forehead numbers flickering and changing colors simultaneously.",
+        "Detail shot: A golden master transmitter button being pressed firmly by a polished coconut hand.",
+        "Close-up: Karl's confident, calm smile as he looks down over the vast urban world where all stories finally connect."
+      ],
+      "caption": "Das große Finale der Stirn-Zahlen. Welches Thema soll als Nächstes kommen? #finale #stirnzahl #level8 #viral"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das unerträgliche Schweigen nach dem Verschicken einer emotionalen Sprachnachricht",
+  "frame": "frucht"
+}

@@ -1,0 +1,811 @@
+{
+  "title": "The 8 Levels of Midnight Cooking Videos",
+  "house": "Neon-lit Urban Veggie Metropolis with flickering diner signs, damp asphalt streets, and endless yellow cab taxis racing past fruit-stand corner stores.",
+  "catchphrase": "The number on your forehead never blinks.",
+  "links": [
+    "The tired bell pepper at the 24-hour deli mentions a stressed banana in level 3 who buys too many energy drinks.",
+    "The leaking pipe in the avocado kitchen was already reported by the coconut in level 7.",
+    "The golden coin under the greasy blender keeps rolling from level 1 straight into level 6."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "What was the mysterious missing ingredient hidden inside the broken toaster?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Laughs loudly at her dry toast and drops a greasy napkin on her plate.",
+        "name": "Milo, 21, Night-Shift Janitor"
+      },
+      "name": "Milo, 21, Night-Shift Janitor",
+      "badge": "0.3 views",
+      "verdict": "STARVING",
+      "story": "The 8 levels of midnight cooking videos. Level 1. Level 1: 0.3 views on my midnight cooking stream while my dry toast smells like burnt paper. My name is Milo, I am a 21-year-old bananaed janitor scrubbing dirty hospital floors in Queens for $14 an hour. It is 3:14 AM and I am watching a 4K video of a golden-brown roast chicken while chewing cold butter on plain bread. Suddenly, a strange sound echoes from the hallway, and the hospital lights flicker violently into total darkness. You call this burnt garbage a midnight snack, you pathetic yellow peel? I clutch my single piece of white toast and try to hide my screen, but my heart is pounding so hard it hurts because footsteps are approaching my supply closet. Just as I think I am completely safe, a heavy knock rattles the metal door and a cold voice whispers through the crack. You will never taste real butter, boy. But little does this arrogant critic know, a hidden camera is recording every single tear. You'll see that in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-0.3 views",
+        "after": "0.0 views"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of midnight cooking videos. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 0.3 views on my midnight cooking stream while my dry toast smells like burnt paper."
+        },
+        {
+          "s": "Figur",
+          "t": "My name is Milo, I am a 21-year-old bananaed janitor scrubbing dirty hospital floors in Queens for $14 an hour."
+        },
+        {
+          "s": "Figur",
+          "t": "It is 3:14 AM and I am watching a 4K video of a golden-brown roast chicken while chewing cold butter on plain bread."
+        },
+        {
+          "s": "Figur",
+          "t": "Suddenly, a strange sound echoes from the hallway, and the hospital lights flicker violently into total darkness."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You call this burnt garbage a midnight snack, you pathetic yellow peel?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I clutch my single piece of white toast and try to hide my screen, but my heart is pounding so hard it hurts because footsteps are approaching my supply closet."
+        },
+        {
+          "s": "Figur",
+          "t": "Just as I think I am completely safe, a heavy knock rattles the metal door and a cold voice whispers through the crack."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You will never taste real butter, boy.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "But little does this arrogant critic know, a hidden camera is recording every single tear."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You will never taste real butter, boy.",
+      "quote_by": {
+        "level": 4,
+        "name": "Brock",
+        "badge": "9.8M views",
+        "character": "An aggressive broccoli man wearing a sharp navy suit and a diamond-encrusted tie.",
+        "scene": "Wide angle shot in a cramped apartment kitchen, pointing a heavy golden fork down at a trembling banana man."
+      },
+      "stats": [
+        {
+          "label": "Views",
+          "value": "0.3",
+          "bar": 0.01
+        },
+        {
+          "label": "Toast",
+          "value": "1 slice",
+          "bar": 0.1
+        },
+        {
+          "label": "Time",
+          "value": "3:14 AM",
+          "bar": 0.95
+        }
+      ],
+      "character": "A slender banana man with bright yellow bruised skin, wearing a faded gray janitor jumpsuit and holding a butter knife.",
+      "visual": "Wide angle shot in a tiny NYC studio kitchen at night, a sad banana man staring at a glowing phone screen while eating dry toast.",
+      "scenes": [
+        "Wide shot of a sterile hospital hallway at 3 AM with flickering fluorescent lights and cleaning carts.",
+        "Medium shot in a tiny apartment kitchen, a banana man staring at a glowing phone screen showing a gourmet steak.",
+        "Close-up detail of a single piece of white toast with unevenly spread yellow butter and a hidden golden coin.",
+        "Halbnah shot of an angry broccoli man in a sharp suit leaning over the kitchen counter.",
+        "Close-up on a glowing digital forehead display showing 0.3 views flashing in red numbers.",
+        "Wide shot of a dark Queens street through a dirty apartment window with yellow cabs passing by."
+      ],
+      "caption": "Would you eat dry toast while watching gourmet food at 3 AM? Let us know! #midnightcravings #toast #broke #nyc #fooddrama"
+    },
+    {
+      "n": 2,
+      "open_loop": "Who sent the anonymous midnight package filled with fresh garlic cloves?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Snatches her butter knife and throws her last slice of bread into the sink.",
+        "name": "Penny, 24, Barista"
+      },
+      "name": "Penny, 24, Barista",
+      "badge": "14 views",
+      "verdict": "UNNOTICED",
+      "story": "The 8 levels of midnight cooking videos. Level 2. Level 2: 14 views on my recipe remix and my landlord is threatening to lock the kitchen. My name is Penny, I am a 24-year-old strawberry barista pouring oat milk lattes in Brooklyn for $16 an hour. It is 2:50 AM and my phone battery is at 4 percent while I watch a 10-hour loop of sizzling bacon. Right in the middle of my livestream, the espresso machine downstairs explodes with a deafening hiss, spraying hot steam across the entire cafe floor. Stop making noise with your stupid butter knife, nobody cares about your kitchen failures! I wipe the dark brown liquid off my apron, feeling hot tears sting my bruised strawberry skin. Suddenly, my phone screen flashes with an unexpected notification that changes everything in an instant. Your recipes taste like cardboard and despair. But the viewer count is starting to climb despite the chaos. You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+50 views",
+        "after": "64 views"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of midnight cooking videos. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 14 views on my recipe remix and my landlord is threatening to lock the kitchen."
+        },
+        {
+          "s": "Figur",
+          "t": "My name is Penny, I am a 24-year-old strawberry barista pouring oat milk lattes in Brooklyn for $16 an hour."
+        },
+        {
+          "s": "Figur",
+          "t": "It is 2:50 AM and my phone battery is at 4 percent while I watch a 10-hour loop of sizzling bacon."
+        },
+        {
+          "s": "Figur",
+          "t": "Right in the middle of my livestream, the espresso machine downstairs explodes with a deafening hiss, spraying hot steam across the entire cafe floor."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Stop making noise with your stupid butter knife, nobody cares about your kitchen failures!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I wipe the dark brown liquid off my apron, feeling hot tears sting my bruised strawberry skin."
+        },
+        {
+          "s": "Figur",
+          "t": "Suddenly, my phone screen flashes with an unexpected notification that changes everything in an instant."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your recipes taste like cardboard and despair.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "But the viewer count is starting to climb despite the chaos."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Your recipes taste like cardboard and despair.",
+      "quote_by": {
+        "level": 6,
+        "name": "Koko",
+        "badge": "45K views",
+        "character": "A tough coconut man with a hard brown shell and a scarred leather jacket.",
+        "scene": "Halbnah shot in a messy hallway, slamming a wooden door while pointing a heavy finger."
+      },
+      "stats": [
+        {
+          "label": "Views",
+          "value": "14",
+          "bar": 0.08
+        },
+        {
+          "label": "Toast",
+          "value": "2 slices",
+          "bar": 0.2
+        },
+        {
+          "label": "Battery",
+          "value": "4%",
+          "bar": 0.04
+        }
+      ],
+      "character": "A red strawberry woman with tiny green leaves on top, wearing a stained barista apron and holding a chipped coffee mug.",
+      "visual": "Halbnah shot in a dimly lit Brooklyn apartment kitchen, a strawberry woman staring sadly at a phone showing bacon.",
+      "scenes": [
+        "Wide shot of a bustling Brooklyn coffee shop at 7 AM with steam rising from espresso machines.",
+        "Medium shot in a cramped apartment hallway with peeling wallpaper and flickering overhead lights.",
+        "Close-up detail of a chipped white coffee mug with a tiny golden coin hidden underneath.",
+        "Halbnah shot of a coconut man in a leather jacket crossing his arms aggressively.",
+        "Close-up on a forehead display showing 14 views glowing in faint amber light.",
+        "Wide shot of an empty fire escape at night with distant city skylines under a purple sky."
+      ],
+      "caption": "Have you ever stayed up until 3 AM watching food tutorials? Tell us your story! #baristalife #midnightcooking #brooklyn #strawberry"
+    },
+    {
+      "n": 3,
+      "open_loop": "Why did the credit card get declined right at the grocery store checkout?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Steps on his phone charger and kicks his loaf of toast across the floor.",
+        "name": "Sam, 29, Delivery Driver"
+      },
+      "name": "Sam, 29, Delivery Driver",
+      "badge": "1.2K views",
+      "verdict": "BURNT OUT",
+      "story": "The 8 levels of midnight cooking videos. Level 3. Level 3: 1.2K views on my toast tutorial and my rent check just bounced for the second time. My name is Sam, I am a 29-year-old orange delivery driver riding a broken electric bike through Chicago traffic for $19 an hour. It is 3:30 AM and my stomach is completely empty while I stream a famous chef cutting a five-tier chocolate cake. Without any warning, a speeding yellow cab splashes icy puddle water all over my delivery jacket and ruins my phone screen. You think a thousand views makes you a chef, delivery boy? I grip my handlebar tightly, trying to swallow the lump of shame rising in my throat as my brakes fail completely on the downhill slope. Just as I am about to crash into a fruit stand, a mysterious package falls from my basket. You are just delivering trash while eating garbage. And the worst part is someone is filming my failure from the shadows. You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-300 views",
+        "after": "900 views"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of midnight cooking videos. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 1.2K views on my toast tutorial and my rent check just bounced for the second time."
+        },
+        {
+          "s": "Figur",
+          "t": "My name is Sam, I am a 29-year-old orange delivery driver riding a broken electric bike through Chicago traffic for $19 an hour."
+        },
+        {
+          "s": "Figur",
+          "t": "It is 3:30 AM and my stomach is completely empty while I stream a famous chef cutting a five-tier chocolate cake."
+        },
+        {
+          "s": "Figur",
+          "t": "Without any warning, a speeding yellow cab splashes icy puddle water all over my delivery jacket and ruins my phone screen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You think a thousand views makes you a chef, delivery boy?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I grip my handlebar tightly, trying to swallow the lump of shame rising in my throat as my brakes fail completely on the downhill slope."
+        },
+        {
+          "s": "Figur",
+          "t": "Just as I am about to crash into a fruit stand, a mysterious package falls from my basket."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are just delivering trash while eating garbage.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "And the worst part is someone is filming my failure from the shadows."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "You are just delivering trash while eating garbage.",
+      "quote_by": {
+        "level": 7,
+        "name": "Drax",
+        "badge": "250K views",
+        "character": "A vibrant pink and green dragon-fruit man wearing an expensive neon designer puffer jacket.",
+        "scene": "Medium shot in a dark delivery garage, pointing a glowing smartphone directly at the camera."
+      },
+      "stats": [
+        {
+          "label": "Views",
+          "value": "1.2K",
+          "bar": 0.25
+        },
+        {
+          "label": "Toast",
+          "value": "3 slices",
+          "bar": 0.35
+        },
+        {
+          "label": "Speed",
+          "value": "18 mph",
+          "bar": 0.5
+        }
+      ],
+      "character": "A bright orange citrus man with dimpled skin, wearing a waterproof delivery jacket and a faded baseball cap.",
+      "visual": "Wide angle shot in a damp Chicago delivery garage at night, an orange man staring at his electric bike and phone.",
+      "scenes": [
+        "Wide shot of an icy Chicago street corner at 3 AM with snow falling under yellow streetlights.",
+        "Medium shot in a cramped delivery garage filled with cardboard boxes and old bicycle parts.",
+        "Close-up detail of a broken bicycle chain with a tiny golden coin jammed in the links.",
+        "Halbnah shot of a dragon-fruit man in a neon puffer jacket laughing arrogantly.",
+        "Close-up on a forehead display showing 1.2K views glowing in bright orange.",
+        "Wide shot of an elevated train track cutting through the dark concrete city."
+      ],
+      "caption": "Ever delivered food while starving yourself at 3 AM? Drop a comment! #deliverylife #chicagofood #orange #midnightgrind"
+    },
+    {
+      "n": 4,
+      "open_loop": "What was hidden inside the CEO's secret kitchen drawer?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Throws a steaming pan of butter across the marble counter right at his suit.",
+        "name": "Leo, 32, Sous Chef"
+      },
+      "name": "Leo, 32, Sous Chef",
+      "badge": "9.8M views",
+      "verdict": "TRENDING",
+      "story": "The 8 levels of midnight cooking videos. Level 4. Level 4: 9.8 million views on my midnight carbonara tutorial and my boss just demoted me. My name is Leo, I am a 32-year-old broccoli sous chef chopping onions in a Michelin-star Los Angeles kitchen for $22 an hour. It is 4:00 AM and I am eating buttered toast over a stainless steel sink while checking my analytics. Suddenly, the main refrigerator trips its circuit breaker, spoiling thousands of dollars worth of gourmet ingredients in seconds. Nine million views and you still eat like a homeless rat. I clench my chef knife so hard my wooden knuckles turn white as the restaurant alarm system begins to wail. You are a kitchen peasant playing dress-up. But then a secret document slips out of the broken freezer door, revealing a conspiracy that goes straight to the top. You'll see that in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "-5M views",
+        "after": "4.8M view"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of midnight cooking videos. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 9.8 million views on my midnight carbonara tutorial and my boss just demoted me."
+        },
+        {
+          "s": "Figur",
+          "t": "My name is Leo, I am a 32-year-old broccoli sous chef chopping onions in a Michelin-star Los Angeles kitchen for $22 an hour."
+        },
+        {
+          "s": "Figur",
+          "t": "It is 4:00 AM and I am eating buttered toast over a stainless steel sink while checking my analytics."
+        },
+        {
+          "s": "Figur",
+          "t": "Suddenly, the main refrigerator trips its circuit breaker, spoiling thousands of dollars worth of gourmet ingredients in seconds."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Nine million views and you still eat like a homeless rat.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I clench my chef knife so hard my wooden knuckles turn white as the restaurant alarm system begins to wail."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are a kitchen peasant playing dress-up.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "But then a secret document slips out of the broken freezer door, revealing a conspiracy that goes straight to the top."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "You are a kitchen peasant playing dress-up.",
+      "quote_by": {
+        "level": 8,
+        "name": "Avocado King",
+        "badge": "999M views",
+        "character": "An elegant avocado man with a smooth green head and a luxury white silk tuxedo.",
+        "scene": "Wide shot in an ultra-modern stainless steel restaurant kitchen, looking down with extreme disdain."
+      },
+      "stats": [
+        {
+          "label": "Views",
+          "value": "9.8M",
+          "bar": 0.5
+        },
+        {
+          "label": "Toast",
+          "value": "4 slices",
+          "bar": 0.5
+        },
+        {
+          "label": "Rank",
+          "value": "#4",
+          "bar": 0.6
+        }
+      ],
+      "character": "A dark green broccoli man with curly textured floret hair, wearing a professional chef coat and holding a stainless steel spatula.",
+      "visual": "Wide angle shot in a luxurious high-end restaurant kitchen at 4 AM, a broccoli chef staring at a smartphone over a sink.",
+      "scenes": [
+        "Wide shot of an opulent Los Angeles restaurant kitchen with polished marble counters and copper pots.",
+        "Medium shot of a broccoli chef standing over a stainless steel sink eating dry toast.",
+        "Close-up detail of a sharp chef knife resting on a cutting board with a hidden golden coin.",
+        "Halbnah shot of an avocado man in a white silk tuxedo pointing an accusatory finger.",
+        "Close-up on a forehead display showing 9.8M views glowing in sharp white light.",
+        "Wide shot of a glittering downtown Los Angeles skyline through floor-to-ceiling glass windows."
+      ],
+      "caption": "Would you quit your restaurant job if your video hit 9 million views? Drop your thoughts! #chefslife #losangeles #broccoli #viral"
+    },
+    {
+      "n": 5,
+      "open_loop": "Why did the secret recipe book disappear right before the live broadcast?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Pours stale coffee over her keyboard while she is editing her clips.",
+        "name": "Maya, 26, Food Stylist"
+      },
+      "name": "Maya, 26, Food Stylist",
+      "badge": "22.4K views",
+      "verdict": "RISING",
+      "story": "The 8 levels of midnight cooking videos. Level 5. Level 5: 22.4K views on my midnight pancake art and my studio lights just blew up. My name is Maya, I am a 26-year-old lemon food stylist arranging fake berries in a studio loft for $24 an hour. It is 3:15 AM and I am eating plain toast with butter while editing frame rates. Out of nowhere, the ceiling sprinkler system malfunctions, soaking all my professional photography gear in dirty water. Stop pretending you are a professional, your styling is an absolute joke! I drop my editing stylus, feeling the bitter acid rise in my throat like a fresh lemon as my hard drive begins to smoke. You will never make it to the front page. But as the sparks fly, a strange digital file appears on my desktop from an unknown sender. You'll see that in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+100K view",
+        "after": "122.4K vi"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of midnight cooking videos. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 22.4K views on my midnight pancake art and my studio lights just blew up."
+        },
+        {
+          "s": "Figur",
+          "t": "My name is Maya, I am a 26-year-old lemon food stylist arranging fake berries in a studio loft for $24 an hour."
+        },
+        {
+          "s": "Figur",
+          "t": "It is 3:15 AM and I am eating plain toast with butter while editing frame rates."
+        },
+        {
+          "s": "Figur",
+          "t": "Out of nowhere, the ceiling sprinkler system malfunctions, soaking all my professional photography gear in dirty water."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Stop pretending you are a professional, your styling is an absolute joke!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I drop my editing stylus, feeling the bitter acid rise in my throat like a fresh lemon as my hard drive begins to smoke."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You will never make it to the front page.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "But as the sparks fly, a strange digital file appears on my desktop from an unknown sender."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "You will never make it to the front page.",
+      "quote_by": {
+        "level": 2,
+        "name": "Penny",
+        "badge": "14 views",
+        "character": "A stressed strawberry woman in a stained barista apron with green leaf hair.",
+        "scene": "Medium shot in a messy studio loft, pointing a shaking finger at a computer monitor."
+      },
+      "stats": [
+        {
+          "label": "Views",
+          "value": "22.4K",
+          "bar": 0.4
+        },
+        {
+          "label": "Toast",
+          "value": "5 slices",
+          "bar": 0.6
+        },
+        {
+          "label": "Lights",
+          "value": "1 burnt",
+          "bar": 0.3
+        }
+      ],
+      "character": "A bright yellow lemon woman with textured porous skin, wearing a paint-splattered denim artist smock and silver hoop earrings.",
+      "visual": "Wide angle shot in a sunlit art studio loft at night with scattered props, a lemon woman staring at a glowing editing monitor.",
+      "scenes": [
+        "Wide shot of an industrial art studio loft in downtown Seattle with tall windows and exposed brick.",
+        "Medium shot of a lemon woman arranging artificial fruit on a rustic wooden photo table.",
+        "Close-up detail of a silver camera lens cap with a tiny golden coin resting on top.",
+        "Halbnah shot of a strawberry woman holding a coffee cup with an angry expression.",
+        "Close-up on a forehead display showing 22.4K views glowing in bright yellow numbers.",
+        "Wide shot of a rainy Seattle alleyway reflecting neon store signs in puddles."
+      ],
+      "caption": "Ever had your hard work criticized by someone else in the industry? Tell us below! #foodstyling #lemon #studio #midnightart"
+    },
+    {
+      "n": 6,
+      "open_loop": "Who transferred the mysterious ten thousand dollars into her empty business account?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Knocks her delivery bag into the street and laughs at her empty wallet.",
+        "name": "Koko, 35, Cafe Owner"
+      },
+      "name": "Koko, 35, Cafe Owner",
+      "badge": "45K views",
+      "verdict": "ESTABLISHED",
+      "story": "The 8 levels of midnight cooking videos. Level 6. Level 6: 45K views on my secret coffee blend recipe and my basement is flooded with water. My name is Koko, I am a 35-year-old coconut cafe owner wiping espresso counters in Miami for $28 an hour. It is 3:45 AM and I am eating toasted brioche while counting my daily tips. Suddenly, a pipe bursts beneath the floorboards, sending dirty brown water gushing over my expensive ceramic tile. Forty-five thousand views and you still hide behind a coffee counter, coconut? I grab a heavy ceramic mug, my hard brown shell heating up with sudden rage as the cash register shorts out. Your little shop is sinking, and so are you. But right before the power cuts out completely, an anonymous transfer notification pops up on the screen. You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+500K view",
+        "after": "545K view"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of midnight cooking videos. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 45K views on my secret coffee blend recipe and my basement is flooded with water."
+        },
+        {
+          "s": "Figur",
+          "t": "My name is Koko, I am a 35-year-old coconut cafe owner wiping espresso counters in Miami for $28 an hour."
+        },
+        {
+          "s": "Figur",
+          "t": "It is 3:45 AM and I am eating toasted brioche while counting my daily tips."
+        },
+        {
+          "s": "Figur",
+          "t": "Suddenly, a pipe bursts beneath the floorboards, sending dirty brown water gushing over my expensive ceramic tile."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Forty-five thousand views and you still hide behind a coffee counter, coconut?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I grab a heavy ceramic mug, my hard brown shell heating up with sudden rage as the cash register shorts out."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your little shop is sinking, and so are you.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "But right before the power cuts out completely, an anonymous transfer notification pops up on the screen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "Your little shop is sinking, and so are you.",
+      "quote_by": {
+        "level": 3,
+        "name": "Sam",
+        "badge": "1.2K views",
+        "character": "An orange delivery driver in a waterproof yellow jacket and baseball cap.",
+        "scene": "Medium shot in a cozy cafe doorway, pointing mockingly at a flooded tile floor."
+      },
+      "stats": [
+        {
+          "label": "Views",
+          "value": "45K",
+          "bar": 0.65
+        },
+        {
+          "label": "Toast",
+          "value": "6 slices",
+          "bar": 0.7
+        },
+        {
+          "label": "Shop",
+          "value": "Flooded",
+          "bar": 0.4
+        }
+      ],
+      "character": "A tough coconut man with a fibrous brown textured head, wearing a rugged leather jacket and a silver wristwatch.",
+      "visual": "Wide angle shot in a cozy Miami cafe at night with warm Edison bulbs reflecting in puddles on the tile floor.",
+      "scenes": [
+        "Wide shot of a colorful Miami cafe exterior at 4 AM surrounded by palm trees and neon signs.",
+        "Medium shot of a coconut cafe owner wiping down a shiny espresso machine with a towel.",
+        "Close-up detail of an antique cash register with a tiny golden coin wedged in the coin slot.",
+        "Halbnah shot of an orange delivery driver holding a wet package and sneering.",
+        "Close-up on a forehead display showing 45K views glowing in warm amber light.",
+        "Wide shot of a dark Miami marina with expensive yachts bobbing in the harbor waves."
+      ],
+      "caption": "Ever had a business crisis right when things started going well? Let us know! #cafeowner #miami #coconut #smallbusiness"
+    },
+    {
+      "n": 7,
+      "open_loop": "What was written on the legal document found inside the luxury sports car?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Deletes her latest viral video file right in front of her eyes.",
+        "name": "Drax, 28, Food Influencer"
+      },
+      "name": "Drax, 28, Food Influencer",
+      "badge": "250K views",
+      "verdict": "VIRAL",
+      "story": "The 8 levels of midnight cooking videos. Level 7. Level 7: 250K views on my midnight ramen challenge and my brand deal just got canceled. My name is Drax, I am a 28-year-old dragon-fruit food influencer filming luxury recipes in a penthouse in Dallas for $35 an hour. It is 3:20 AM and I am eating plain toast with expensive truffle butter while reviewing comment sections. Without warning, a hacker shuts down my streaming channel and replaces my bio with a mocking insult. Two hundred fifty thousand views and you still fake all your recipes, dragon-fruit! I grip my camera stabilizer, my pink scale plates bristling with sudden anger as my ring light shatters on the floor. Your entire career is built on plastic food. And then my phone receives a final text message containing the coordinates of the ultimate corporate vault. You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+2.5M view",
+        "after": "2.75M vie"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of midnight cooking videos. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 250K views on my midnight ramen challenge and my brand deal just got canceled."
+        },
+        {
+          "s": "Figur",
+          "t": "My name is Drax, I am a 28-year-old dragon-fruit food influencer filming luxury recipes in a penthouse in Dallas for $35 an hour."
+        },
+        {
+          "s": "Figur",
+          "t": "It is 3:20 AM and I am eating plain toast with expensive truffle butter while reviewing comment sections."
+        },
+        {
+          "s": "Figur",
+          "t": "Without warning, a hacker shuts down my streaming channel and replaces my bio with a mocking insult."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Two hundred fifty thousand views and you still fake all your recipes, dragon-fruit!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I grip my camera stabilizer, my pink scale plates bristling with sudden anger as my ring light shatters on the floor."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your entire career is built on plastic food.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "And then my phone receives a final text message containing the coordinates of the ultimate corporate vault."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "Your entire career is built on plastic food.",
+      "quote_by": {
+        "level": 5,
+        "name": "Maya",
+        "badge": "22.4K views",
+        "character": "A bright yellow lemon woman wearing a paint-splattered artist smock and silver earrings.",
+        "scene": "Halbnah shot on a high-rise balcony, holding a broken tripod over a glass railing."
+      },
+      "stats": [
+        {
+          "label": "Views",
+          "value": "250K",
+          "bar": 0.8
+        },
+        {
+          "label": "Toast",
+          "value": "7 slices",
+          "bar": 0.85
+        },
+        {
+          "label": "Deals",
+          "value": "Canceled",
+          "bar": 0.5
+        }
+      ],
+      "character": "A vibrant pink and green dragon-fruit man with speckled skin, wearing an expensive neon designer puffer jacket and gold chain.",
+      "visual": "Wide angle shot in a luxury Dallas penthouse apartment at night with floor-to-ceiling windows showing city lights.",
+      "scenes": [
+        "Wide shot of a modern Dallas high-rise penthouse interior at 3 AM with sleek modern furniture.",
+        "Medium shot of a dragon-fruit influencer standing by a glass balcony door eating toast.",
+        "Close-up detail of a silver camera tripod leg with a tiny golden coin stuck in the screw joint.",
+        "Halbnah shot of a lemon food stylist holding a broken ring light pole angrily.",
+        "Close-up on a forehead display showing 250K views glowing in neon pink light.",
+        "Wide shot of a glowing Dallas highway bridge stretching across the dark horizon."
+      ],
+      "caption": "Have you ever had a major brand deal fall through at the last minute? Let us know! #influencer #dallas #dragonfruit #midnight"
+    },
+    {
+      "n": 8,
+      "open_loop": "Which of the eight characters will finally unlock the secret vault of the city?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Brings him a single warm slice of buttered toast and smiles in silence.",
+        "name": "Avocado King, 40, Tycoon"
+      },
+      "name": "Avocado King, 40, Tycoon",
+      "badge": "999M views",
+      "verdict": "LEGENDARY",
+      "story": "The 8 levels of midnight cooking videos. Level 8. Level 8: 999 million views on my midnight cooking empire and I still eat plain toast alone. My name is Avocado King, I am a 40-year-old avocado tycoon sitting in a glass mansion in Manhattan counting billions. It is 3:59 AM and I am looking down at the entire city where all seven fruit people are struggling in the dark. Suddenly, every single screen in the metropolis turns on simultaneously, broadcasting a live feed from the basement. You built an empire, but you forgot how it feels to share a midnight snack. I stare at his bright yellow peel and suddenly remember every single person I stepped on to get here as the massive steel vault door starts to grind open. What is your empire really worth if nobody is sitting at your table? And as the final numbers on every forehead lock into place, the screen fades to black. Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1B views",
+        "after": "EXPIRED"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of midnight cooking videos. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 999 million views on my midnight cooking empire and I still eat plain toast alone."
+        },
+        {
+          "s": "Figur",
+          "t": "My name is Avocado King, I am a 40-year-old avocado tycoon sitting in a glass mansion in Manhattan counting billions."
+        },
+        {
+          "s": "Figur",
+          "t": "It is 3:59 AM and I am looking down at the entire city where all seven fruit people are struggling in the dark."
+        },
+        {
+          "s": "Figur",
+          "t": "Suddenly, every single screen in the metropolis turns on simultaneously, broadcasting a live feed from the basement."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "You built an empire, but you forgot how it feels to share a midnight snack.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I stare at his bright yellow peel and suddenly remember every single person I stepped on to get here as the massive steel vault door starts to grind open."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "What is your empire really worth if nobody is sitting at your table?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "And as the final numbers on every forehead lock into place, the screen fades to black."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "What is your empire really worth if nobody is sitting at your table?",
+      "quote_by": {
+        "level": 1,
+        "name": "Milo",
+        "badge": "1M views",
+        "character": "A confident banana man wearing a clean gold-trimmed janitor jumpsuit.",
+        "scene": "Wide shot in a luxurious Manhattan penthouse office, holding out a single warm plate of toast."
+      },
+      "stats": [
+        {
+          "label": "Views",
+          "value": "999M",
+          "bar": 1.0
+        },
+        {
+          "label": "Toast",
+          "value": "Endless",
+          "bar": 1.0
+        },
+        {
+          "label": "Empire",
+          "value": "#1",
+          "bar": 1.0
+        }
+      ],
+      "character": "A smooth dark green avocado man with a pale creamy center texture, wearing a custom white silk tuxedo and diamond cufflinks.",
+      "visual": "Wide angle shot in a luxurious Manhattan penthouse office at 4 AM, looking out over the entire illuminated city skyline.",
+      "scenes": [
+        "Wide shot of a towering glass skyscraper in Manhattan at 4 AM overlooking the glittering city streets.",
+        "Medium shot of an avocado tycoon sitting at a massive mahogany desk reviewing global analytics.",
+        "Close-up detail of a solid gold desk paperweight shaped like a golden coin reflecting city lights.",
+        "Halbnah shot of a banana janitor standing tall in the executive office holding a warm plate of toast.",
+        "Close-up on a forehead display showing 999M views glowing in blinding white light.",
+        "Wide shot of the entire veggie metropolis lighting up as all eight levels connect in a glowing network."
+      ],
+      "caption": "Which character's journey was your favorite in this series? Tell us in the comments! #avocado #manhattan #finale #midnightcooking #endless"
+    }
+  ],
+  "lang": "en",
+  "topic": "Das stundenlange Anschauen von Rezept-Videos um Mitternacht, obwohl man nur Toast mit Butter isst",
+  "frame": "frucht"
+}
