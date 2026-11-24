@@ -1,149 +1,53 @@
 {
-  "best_score": 54,
+  "best_score": 45,
   "rounds": [
     {
       "scores": {
-        "hook": 5,
-        "story": 4,
-        "identifikation": 4,
-        "verbindungen": 6,
-        "sog": 5,
-        "wut": 4,
-        "merkfaehigkeit": 5,
-        "sprache": 4
-      },
-      "gesamt": 46,
-      "fixes": [
-        {
-          "n": 1,
-          "fix": "Ersetze den Beginn durch: 'Level 1: 12 Prozent Harmonie auf meiner Stirn – und mein Freund trennt sich live per Sprachnachricht, weil meine KI-Entschuldigung zu cringe war.' Jede Story muss mindestens 175 Wörter umfassen."
-        },
-        {
-          "n": 2,
-          "fix": "Ersetze den Beginn durch: 'Level 2: 24 Prozent Harmonie, und meine Freundin blockiert mich, während diese arrogante Designerin mir den Kaffee wegschüttet.' Jede Story muss mindestens 175 Wörter umfassen."
-        },
-        {
-          "n": 3,
-          "fix": "Ersetze den Beginn durch: 'Level 3: 68 Prozent Harmonie im Großraumbüro, und meine Chefin droht, meinen KI-Beziehungsbetrug an die ganze Firma zu leaken.' Jede Story muss mindestens 175 Wörter umfassen."
-        },
-        {
-          "n": 4,
-          "fix": "Ersetze den Beginn durch: 'Level 4: 45 Prozent Harmonie auf der Stirn, während mein Ex an der U-Bahn meine ChatGPT-Liebesgedichte laut vor allen vorliest.' Jede Story muss mindestens 175 Wörter umfassen."
-        },
-        {
-          "n": 5,
-          "fix": "Ersetze den Beginn durch: 'Level 5: 52 Prozent Harmonie, und ich erwische meine eigene Freundin dabei, wie sie jeden Chat-Verlauf von einer Bot-KI schreiben lässt.' Jede Story muss mindestens 175 Wörter umfassen."
-        },
-        {
-          "n": 6,
-          "fix": "Ersetze den Beginn durch: 'Level 6: 89 Prozent Harmonie, und plötzlich sperrt der Algorithmus mein gesamtes Firmenkonto wegen eines simplen KI-Befehls.' Jede Story muss mindestens 175 Wörter umfassen."
-        },
-        {
-          "n": 7,
-          "fix": "Ersetze den Beginn durch: 'Level 7: 94 Prozent Harmonie, und diese arrogante Influencerin verkauft meine echte Beziehung als billigen Fake für ihre Follower.' Jede Story muss mindestens 175 Wörter umfassen."
-        },
-        {
-          "n": 8,
-          "fix": "Ersetze den Beginn durch: 'Level 8: 100 Prozent Harmonie, und der Erfinder des Systems will alle menschlichen Emotionen für immer löschen, um uns zu steuern.' Jede Story muss mindestens 175 Wörter umfassen."
-        }
-      ],
-      "fazit": "Die Serie hat eine nette visuelle Idee mit dem Gemüsen-Metropolitan-Setting und den Stirnzahlen, aber sie scheitert an den harten TikTok-Regeln. Die Texte sind viel zu kurz (keine 175 Wörter pro Teil), klingen stellenweise nach generischem Prompt-Output und lassen die pure, hasserfüllte Genugtuung und den Schmerz vermissen, die für 600k+ Views nötig sind. Die Bösewichte sind nicht arrogant genug, und die Übergänge erzeugen keinen echten Sog, weil die Einsätze zu abstrakt bleiben. Streichen, länger machen, mehr rohe Emotion rein."
-    },
-    {
-      "scores": {
-        "hook": 5,
-        "story": 4,
-        "identifikation": 3,
-        "verbindungen": 4,
-        "sog": 4,
-        "wut": 3,
-        "merkfaehigkeit": 4,
-        "sprache": 6
-      },
-      "gesamt": 41,
-      "fixes": [
-        {
-          "n": 1,
-          "fix": "Ersetze den Beginn durch einen brutalen Kontrast: '12 Prozent Harmonie auf meiner Stirn, und mein Freund schickt mir die Trennung per Sprachnachricht, weil ChatGPT unsere Beziehung gecrasht hat. Während ich in unserer Messi-Küche heule, stellt sich der arrogante Berater Ben hin und lacht mich aus: Mit so einer Loser-Zahl kommst du hier nie an.' (Füge mindestens 175 Wörter echtes Drama hinzu, lass den Erzähler weg und zeige, wie die KI eine peinliche Nachricht raushaut, die den Zuschauer sofort erröten lässt)."
-        },
-        {
-          "n": 2,
-          "fix": "Beginne direkt mit dem physischen Angriff und echter Ungerechtigkeit: '24 Prozent Harmonie, und diese arrogante Designerin schüttet mir gerade absichtlich den heißen Kaffee über den Tisch, weil mein KI-Prompt zu peinlich war.' (Erhöhe die Wortanzahl auf über 175 Wörter, zeige, dass der Zitrone Ungerechtigkeit widerfährt, und gib dem Zuschauer das dringende Verlangen nach Genugtuung)."
-        },
-        {
-          "n": 3,
-          "fix": "Baue echten Druck und Hass auf den Gegenspieler auf: '68 Prozent Harmonie im Großraumbüro, und meine Chefin droht gerade, meinen privaten KI-Beziehungsbetrug an die gesamte Firma zu leaken.' (Schreibe den Text auf über 175 Wörter aus, vertiefe den Konflikt und zeige die drohende Demütigung vor allen Kollegen)."
-        },
-        {
-          "n": 4,
-          "fix": "Löse pure Scham und Wut aus: '45 Prozent Harmonie, während mein Ex an der U-Bahn meine intimsten ChatGPT-Liebesgedichte laut vor allen Vorbeigehenden vorliest.' (Schreibe mindestens 175 Wörter, in denen die Influencerin das Handy stiehlt und die Zuschauer mitfühlen, weil jeder diese Bloßstellung fürchtet)."
-        },
-        {
-          "n": 5,
-          "fix": "Konzentriere dich auf den Verrat: '52 Prozent Harmonie, und ich erwische meine Partnerin dabei, wie sie jeden einzelnen Chat-Verlauf und jede Entschuldigung von einer kalten Bot-KI schreiben lässt.' (Erweitere auf 175+ Wörter, lass den Tomaten-Mann vor Wut kochen und verdeutliche den Vertrauensbruch)."
-        },
-        {
-          "n": 6,
-          "fix": "Erhöhe den Einsatz und die Arroganz des Gegenspielers: '89 Prozent Harmonie, und plötzlich sperrt der Algorithmus mein gesamtes Firmenkonto, während der Barkeeper mich genüsslich auslacht.' (Mindestens 175 Wörter, zeige den plötzlichen Absturz von Reichtum zu absolutem Nichts)."
-        },
-        {
-          "n": 7,
-          "fix": "Stelle den Vorwurf ins Zentrum: '94 Prozent Harmonie, und diese arrogante Influencerin verkauft meine echte Beziehung als billigen Fake für ihre Follower.' (Über 175 Wörter, baue echte Genugtuung auf, indem der Zuschauer weiß, dass ihr System gleich kollabiert)."
-        },
-        {
-          "n": 8,
-          "fix": "Liefere das absolute Finale mit klarem Twist: '100 Prozent Harmonie, und der Erfinder des Systems will alle menschlichen Emotionen für immer löschen, um uns endgültig zu versklaven.' (Schreibe über 175 Wörter, löse das Geheimnis um die Stirnzahlen schockierend auf und gib dem Zuschauer die finale Genugtuung)."
-        }
-      ],
-      "fazit": "Als strenge Jury sehen wir hier massives Potenzial, das komplett verschenkt wurde. Die Story-Teile sind viel zu kurz (keiner erreicht die geforderten 175+ echten Wörter), lesen sich wie sterile Aufzählungen statt hochemotionalem Drama und lassen die virale Formel des versteckten Werts vermissen. Die Figuren handeln oft unlogisch, die Wut auf die Bösewichte verpufft, weil die Genugtuung fehlt, und der Erzähler killt mit seinen Meta-Sätzen jeden Sog. Wer bei TikTok nach 2 Sekunden weiterswischt, ist hier längst weg. Überarbeitet jedes Video massiv nach den Vorgaben, sonst bleibt das Ding bei unter 50 Aufrufen hängen."
-    },
-    {
-      "scores": {
-        "hook": 6,
+        "hook": 4,
         "story": 5,
         "identifikation": 4,
         "verbindungen": 6,
-        "sog": 7,
-        "wut": 5,
-        "merkfaehigkeit": 5,
-        "sprache": 6
+        "sog": 5,
+        "wut": 3,
+        "merkfaehigkeit": 4,
+        "sprache": 5
       },
-      "gesamt": 54,
+      "gesamt": 45,
       "fixes": [
         {
           "n": 1,
-          "fix": "Ersetze den ersten Satz durch: '12 Prozent Harmonie auf meiner Stirn – und mein Freund trennt sich live per Sprachnachricht, weil ChatGPT unsere Beziehung gecrasht hat. Ben, unser arroganter Berater mit 68 Prozent, lacht mich aus: Mit so einer Loser-Zahl kommst du nie an. Aber er ahnt nicht, dass mein KI-Befehl gerade sein gesamtes Konto sperrt.'"
+          "fix": "Ersetze den lahmen Einstieg durch einen brutalen Satz wie: '2.000 Euro für KI-Therapie? Wer hat diesen verlierer überhaupt eingeladen?' Lass Ben sofort von einem arroganten Level-4-Typen vor laufender Kamera gedemütigt werden, statt langweiliger Textzeilen. Wortanzahl auf über 175 Wörter ausbauen."
         },
         {
           "n": 2,
-          "fix": "Ersetze den Konfliktbeginn durch: '24 Prozent Harmonie, und diese arrogante Designerin schüttet mir den Kaffee über den Tisch. Sie lacht über meinen KI-Prompt – aber sie weiß nicht, dass ich ihre Entlassung bereits im Chat vorbereitet habe.'"
+          "fix": "Erhöhe den Konflikt: Mia wird nicht nur im Café gestört, sondern ihr gesamter Umsatz wird von Level 5 konfisziert, weil ihre KI-Prompts angeblich den Betrieb schädigen. Zeige echte Ungerechtigkeit, die nach Rache schreit."
         },
         {
           "n": 3,
-          "fix": "Schärfe den Konflikt: '68 Prozent Harmonie im Großraumbüro, und meine Chefin droht, meinen KI-Beziehungsbetrug zu leaken. Sie hält mich für einen Loser, doch sie merkt zu spät, dass ich längst Zugriff auf ihre geheimen Aktien habe.'"
+          "fix": "Leon muss von Level 6 vor dem gesamten Team bloßgestellt werden. Füge eine handfeste Demütigung ein, bei der seine privaten Chats auf die Großbildleinwand geworfen werden."
         },
         {
           "n": 4,
-          "fix": "Korrigiere den Einstieg: '45 Prozent Harmonie, während mein Ex an der U-Bahn meine intimsten ChatGPT-Liebesgedichte vorliest. Die Menge lacht, doch gleich fliegt ihre eigene Fake-Fassade auf.'"
+          "fix": "Jonas verliert nicht nur einen Parkplatz, sondern sein gesamtes Startup, weil Viktor (Level 7) seine KI-Strategie stiehlt und ihn als unfähigen Idioten darstellt."
         },
         {
           "n": 5,
-          "fix": "Erhöhe die Wut: '52 Prozent Harmonie, und ich erwische meine Partnerin dabei, wie sie jeden Chat von einer Bot-KI schreiben lässt. Sie wirft mir Kaltherzigkeit vor, während ich im Hintergrund ihren Zugriff sperre.'"
+          "fix": "Helena wird von Arthur (Level 8) vor allen Partnern als emotional gestört entlarvt. Der Zuschauer muss sofort Mitleid und brennende Wut auf den arroganten Architekten spüren."
         },
         {
           "n": 6,
-          "fix": "Präzisiere die Rache: '89 Prozent Harmonie, und plötzlich sperrt der Algorithmus mein Firmenkonto, während der Barkeeper mich auslacht. Er hält sich für unantastbar – bis mein System seinen Laden übernimmt.'"
+          "fix": "Markus (Level 6) zeigt im Penthouse falsche Reue, wird aber von Ben (Level 1) gnadenlos gefilmt und bloßgestellt. Mehr Tempo, weniger Meta-Gerede."
         },
         {
           "n": 7,
-          "fix": "Fokussiere auf Genugtuung: '94 Prozent Harmonie, und diese Influencerin verkauft unsere Beziehung als Fake. Sie filmt mein Elend, doch die finale Systemnachricht löscht ihren Account in drei Sekunden.'"
+          "fix": "Viktor verliert im Sternerestaurant seine Fassung, als Mia ihn mit seinen eigenen KI-Lügen konfrontiert und den Champagner über sein Designer-Sakko schüttet."
         },
         {
           "n": 8,
-          "fix": "Beende den Loop logisch: '100 Prozent Harmonie, und der Erfinder will alle Emotionen löschen. Ich tippe den letzten Befehl und zeige ihm, dass seine eigene Zahl schon längst abgelaufen ist.'"
+          "fix": "Das Finale muss zeigen, wie alle unteren Level gemeinsam Rache an Arthur nehmen und sein System crashen, statt eines weichgespülten Endes."
         }
       ],
-      "fazit": "Die Serie hat starke visuelle Ansätze und ein absurdes Gemüse-Metropolis-Setting, verliert aber massiv an Punkten durch zu wenig echte Genugtuung und Rachemechaniken. Die Bösewichte sind oft nur nervig statt hassenswert, und die Zuschauer bekommen den 'versteckten Wert' und die Überlegenheit der Hauptfigur oft zu spät oder zu unklar zu spüren. Mehr Fokus auf Genugtuung vor dem Cut steigert die viralen Chancen drastisch."
+      "fazit": "Die Serie hat eine nette Grundidee mit den Obst-Figuren und Stirn-Zahlen, verfehlt aber die knallharte virale Formel der Vorbilder völlig. Es fehlt an echter, roher Demütigung, spürbarer Wut und einer befriedigenden Genugtuung. Die Texte sind viel zu kurz (unter 175 Wörter pro Teil), klingen oft nach sterilem Drehbuch statt echtem TikTok-Slang und lassen den Zuschauer nach 2 Sekunden wegwischen. Mehr Aggression, höhere Einsätze, sofortiger Schockwert."
     }
   ]
 }
