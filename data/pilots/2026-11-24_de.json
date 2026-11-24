@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "nr": 2,
+    "ersatzbilder": 2,
+    "topic": "Das panische Prüfen des Kontostands nach einer legendären Festival-Eskalation",
+    "frame": "frucht",
+    "title": "Die 8 Level nach dem Festival",
+    "file": "2026-11-24_pilot2_de_frucht_das_panische_pr_fen_des_kontostands_nach_teil1.mp4",
+    "hook": "„Du denkst, du hast nur ein bisschen gefeiert – bis dein Online-Banking dir zeigt, dass du gerade drei Zelte und eine Kuh gekauft hast.“",
+    "warum": "Garantiert hoher Wiedererkennungswert und sofortiger Lachkrampf bei jedem Festivalgänger nach dem Wochenende.",
+    "score": 89,
+    "jury": [
+      "Noch schnellere Bildwechsel in den ersten Sekunden, um den Hook zu maximieren",
+      "Die Farbabstimmung bei einigen KI-generierten Übergängen harmonisieren",
+      "Soundeffekte für Benachrichtigungen und Magenknurren lauter abmischen"
+    ],
+    "sid": "de_frucht_das_panische_pr_fen_des_kontostands_nach",
+    "design": {}
+  },
+  {
+    "nr": 4,
+    "ersatzbilder": 0,
+    "topic": "Das heimliche Aufessen von Lebensmitteln des Mitbewohners mit der festen Absicht, sie neu zu kaufen",
+    "frame": "frucht",
+    "title": "Die 8 Level vom heimlichen Aufessen",
+    "file": "2026-11-24_pilot4_de_frucht_das_heimliche_aufessen_von_lebensmitteln_teil1.mp4",
+    "hook": "„Du isst heimlich den teuren Hummus der Avocado auf und schwörst dir, noch vor ihrem Auszug genau denselben nachzukaufen – Jahre vergehen.“",
+    "warum": "Löst sofort WG-Traumata und den ewigen Krieg um den Gemeinschaftskühlschrank aus.",
+    "score": 89,
+    "jury": [
+      "Das Design der KI-Charaktere in Level 2 noch konsistenter halten, um visuelle Brüche zu vermeiden.",
+      "Das Sounddesign bei den Dialogen minimal dynamischer gestalten, damit Emotionen noch stärker wirken.",
+      "Den Spannungsbogen zum Schluss in Level 2 noch direkter anteasern, um die Conversion zum nächsten Video zu maximieren."
+    ],
+    "sid": "de_frucht_das_heimliche_aufessen_von_lebensmitteln",
+    "design": {}
+  }
+]

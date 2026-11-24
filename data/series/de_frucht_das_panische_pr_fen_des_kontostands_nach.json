@@ -1,0 +1,763 @@
+{
+  "title": "Die 8 Level nach dem Festival",
+  "house": "A bustling vegetable metropolis named Freshburg under neon rain, featuring a central station, damp asphalt streets reflecting glowing digital numbers, and busy fruit citizens rushing between crowded bars and underground techno clubs.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Barista in Level 2 mentions the quiet man in the suit who always tips well",
+    "Kiosk owner in Level 4 finds a dropped VIP festival wristband from Level 7",
+    "Broccoli guy in Level 5 complains about the huge electricity bill of the coconut neighbor in Level 8"
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was befand sich in dem mysteriösen Umschlag, den der Türsteher fallen ließ?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Lacht sie an der U-Bahn-Sperre aus und nennt sie einen Pleite-Haufen."
+      },
+      "name": "Tomate Tom, 19, Student",
+      "badge": "-142,50 €",
+      "verdict": "TOTAL PLEITE",
+      "story": "Die 8 Level nach dem Festival. Level 1. Mein Kontostand nach dem Festival ist ein absoluter Horrorfilm. Level 1: Minus 142,50 Euro – und mein Kühlschrank besteht nur aus Leitungswasser und einer halben Zwiebel. Ich stehe im Späti, halte eine Dosen-Ravioli für 1,89 Euro in der Hand und mein Magen knurrt lauter als der Bass im Techno-Bunker gestern Nacht. Die Kassiererin mustert mich skeptisch, als mein Handy piept und die App mich vor dem sofortigen Schufa-Eintrag warnt. Wie willst du das bezahlen, Tom, mit Luft und Liebe? Mit solchen Zahlen kommt man heute nicht mal mehr in den Club, Kleiner. Plötzlich zuckt mein Smartphone heftig, und eine Push-Meldung verkündet, dass meine Kaution komplett einbehalten wird. Ich schlucke den Kloß im Hals herunter, schaue auf die kleine goldene Münze neben der Kasse und überlege, ob ich meine Sneaker auf Kleinanzeigen verkaufe. Doch plötzlich flackert das Display an der Wand und zeigt eine unerwartete Überweisung von einem Unbekannten. Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+50,00 €",
+        "after": "-92,50 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level nach dem Festival. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Kontostand nach dem Festival ist ein absoluter Horrorfilm. Level 1: Minus 142,50 Euro – und mein Kühlschrank besteht nur aus Leitungswasser und einer halben Zwiebel."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im Späti, halte eine Dosen-Ravioli für 1,89 Euro in der Hand und mein Magen knurrt lauter als der Bass im Techno-Bunker gestern Nacht."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Kassiererin mustert mich skeptisch, als mein Handy piept und die App mich vor dem sofortigen Schufa-Eintrag warnt."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Wie willst du das bezahlen, Tom, mit Luft und Liebe?",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit solchen Zahlen kommt man heute nicht mal mehr in den Club, Kleiner.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich zuckt mein Smartphone heftig, und eine Push-Meldung verkündet, dass meine Kaution komplett einbehalten wird."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schlucke den Kloß im Hals herunter, schaue auf die kleine goldene Münze neben der Kasse und überlege, ob ich meine Sneaker auf Kleinanzeigen verkaufe."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch plötzlich flackert das Display an der Wand und zeigt eine unerwartete Überweisung von einem Unbekannten."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Mit solchen Zahlen kommt man heute nicht mal mehr in den Club, Kleiner.",
+      "quote_by": {
+        "level": 6,
+        "name": "Aubergine Arthur",
+        "badge": "14.500 €",
+        "character": "An arrogant eggplant person wearing a sleek velvet suit and expensive sunglasses, glowing digital numbers on the forehead.",
+        "scene": "Close-up in a neon-lit convenience store, looking down scornfully at a tomato guy holding cheap canned food."
+      },
+      "stats": [
+        {
+          "label": "Guthaben",
+          "value": "-142 €",
+          "bar": 0.01
+        },
+        {
+          "label": "Festival-Score",
+          "value": "10/10",
+          "bar": 1.0
+        },
+        {
+          "label": "Ravioli",
+          "value": "1 Dose",
+          "bar": 0.05
+        }
+      ],
+      "character": "A young tomato person with bright red, slightly bruised skin, wearing a faded festival hoodie and worn-out sneakers; a glowing digital display on the forehead shows -142,50 €.",
+      "visual": "Wide shot of a neon-lit Späti at night in Freshburg, rain slicked pavement, a tomato guy staring desperately at his negative bank account display while holding cheap canned food.",
+      "scenes": [
+        "Wide shot of a dark student WG kitchen at 3 AM, empty bottles everywhere, a glowing red number -142,50 € on a tomato guy's forehead, a tiny hidden golden coin on the microwave.",
+        "Medium shot inside a glowing neon convenience store, flickering fluorescent lights, shelves with cheap instant noodles, a tomato guy looking shocked at his phone.",
+        "Close-up on a smartphone screen showing a terrifying bank app with negative balance and red alert banners.",
+        "Over-the-shoulder shot of an arrogant eggplant person in a velvet suit pointing mockingly at the tomato guy's forehead display.",
+        "Detail shot of a small golden coin wedged between two dusty soda cans on a store shelf.",
+        "Wide shot of a damp subway entrance outside, commuters rushing past a freezing tomato person with a glowing red warning sign."
+      ],
+      "caption": "Wer kennt diesen Panik-Moment am Monatsanfang nach einer legendären Party? 💸 #festival #kontostand #freshburg #level1 #drama"
+    },
+    {
+      "n": 2,
+      "open_loop": "Welche ominöse Transaktion tauchte plötzlich auf dem Online-Banking auf?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Kürzt ihre Arbeitszeit im Café willkürlich wegen ihrer angeblichen Festival-Müdigkeit."
+      },
+      "name": "Zitrone Zora, 22, Barista",
+      "badge": "450 €",
+      "verdict": "KNAPP BEI KASSE",
+      "story": "Die 8 Level nach dem Festival. Level 2. Nach drei Tagen Techno-Dauereinsatz zeigt meine Stirn lächerliche 450 Euro. Level 2: Der Albtraum geht weiter, als die Miete abgebucht wird und ich nur noch Cent-Beträge übrig habe. Ich stehe hinter der Espressomaschine in unserem Szene-Café, die Kaffeemühle brummt, und mir schlottern die Knie vor Erschöpfung, während draußen der Regen unaufhörlich gegen die große Glasscheibe prallt. Wer die ganze Nacht feiert, kann tagsüber keine Milch aufschäumen. Mein Chef verschränkt die Arme vor der Brust und droht mit einer fristlosen Kündigung, falls der Umsatz heute nicht drastisch steigt. Ich beiße die Zähne zusammen, wische den Tresen und entdecke eine winzige goldene Münze im Kaffeesatz. Du wirst diesen Monat nicht mal deine Ramen-Nudeln bezahlen können. Plötzlich öffnet sich die Tür und ein mysteriöser Mann im Anzug betritt das Lokal, der einen Umschlag auf dem Tisch vergisst. Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+120,00 €",
+        "after": "570 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level nach dem Festival. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Nach drei Tagen Techno-Dauereinsatz zeigt meine Stirn lächerliche 450 Euro. Level 2: Der Albtraum geht weiter, als die Miete abgebucht wird und ich nur noch Cent-Beträge übrig habe."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe hinter der Espressomaschine in unserem Szene-Café, die Kaffeemühle brummt, und mir schlottern die Knie vor Erschöpfung, während draußen der Regen unaufhörlich gegen die große Glasscheibe prallt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer die ganze Nacht feiert, kann tagsüber keine Milch aufschäumen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Chef verschränkt die Arme vor der Brust und droht mit einer fristlosen Kündigung, falls der Umsatz heute nicht drastisch steigt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich beiße die Zähne zusammen, wische den Tresen und entdecke eine winzige goldene Münze im Kaffeesatz."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du wirst diesen Monat nicht mal deine Ramen-Nudeln bezahlen können.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich öffnet sich die Tür und ein mysteriöser Mann im Anzug betritt das Lokal, der einen Umschlag auf dem Tisch vergisst."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Wer die ganze Nacht feiert, kann tagsüber keine Milch aufschäumen.",
+      "quote_by": {
+        "level": 5,
+        "name": "Avocado Alex",
+        "badge": "3.800 €",
+        "character": "A smug avocado person with a smooth green head, wearing a crisp barista apron and looking down at everyone.",
+        "scene": "Medium shot behind a bustling hipster café counter, pointing sternly at a tired lemon barista."
+      },
+      "stats": [
+        {
+          "label": "Guthaben",
+          "value": "450 €",
+          "bar": 0.12
+        },
+        {
+          "label": "Miete",
+          "value": "420 €",
+          "bar": 0.95
+        },
+        {
+          "label": "Trinkgeld",
+          "value": "1,50 €",
+          "bar": 0.03
+        }
+      ],
+      "character": "A sharp lemon person with a bright yellow, sour-sweet expression, wearing a stained apron and messy hair; a glowing digital display on the forehead shows 450 €.",
+      "visual": "Medium shot of a hipster café in Freshburg with warm amber pendant lights, a yellow lemon barista looking stressed at an old cash register.",
+      "scenes": [
+        "Wide shot of a crowded hipster café interior, steam from espresso machines, a lemon barista wiping down wooden tables under warm lights.",
+        "Close-up of a glowing digital forehead display showing 450 € reflecting in a shiny metal milk jug.",
+        "Medium shot of an avocado manager crossing arms angrily while pointing at a schedule sheet.",
+        "Detail shot of a small hidden golden coin resting inside a ceramic coffee filter.",
+        "Close-up of trembling hands holding an overdue electricity bill in a cramped studio apartment.",
+        "Wide shot of rain streaming down the café window as pedestrians with higher numbers hurry past outside."
+      ],
+      "caption": "Wer kennt diesen Moment, wenn der Chef wegen des Party-Wochenendes Stress macht? ☕️ #barista #finanzen #freshburg #level2 #reality"
+    },
+    {
+      "n": 3,
+      "open_loop": "Wer hat die geheimnisvolle Nachricht auf dem Kassenzettel hinterlassen?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Drängt sich an der Kasse vordringt und verspottet seinen veralteten WG-Mietvertrag."
+      },
+      "name": "Broccoli Ben, 24, Kurier",
+      "badge": "1.250 €",
+      "verdict": "KNAPP DRÜBER",
+      "story": "Die 8 Level nach dem Festival. Level 3. Mit 1.250 Euro auf der Stirn dachte ich, ich komme nach dem Festival gut durch den Monat. Level 3: Falsch gedacht, denn die Werkstatt will plötzlich 600 Euro für meine kaputte Roller-Bremse. Ich stehe im Discounter an der Kasse, das Fließband rattert, und mein Kopf dröhnt noch von den Boxentürmen auf dem Campingplatz, während mein Roller draußen auf dem nassen Asphalt tropft. Mach mal hinne mit deinen Billig-Nudeln, ich habe einen Termin bei der Bank. Ein Kunde drängelt ungeduldig und schubst fast meinen Einkaufswagen um. Die Kassiererin schaut mich mitleidig an, während ich mein Kleingeld auf dem Band zähle. Du wirst deine Miete diesen Monat definitiv nicht überweisen können. Plötzlich klingelt mein Liefer-Smartphone mit einem Großauftrag, der alles verändern könnte. Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-300,00 €",
+        "after": "950 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level nach dem Festival. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Mit 1.250 Euro auf der Stirn dachte ich, ich komme nach dem Festival gut durch den Monat. Level 3: Falsch gedacht, denn die Werkstatt will plötzlich 600 Euro für meine kaputte Roller-Bremse."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im Discounter an der Kasse, das Fließband rattert, und mein Kopf dröhnt noch von den Boxentürmen auf dem Campingplatz, während mein Roller draußen auf dem nassen Asphalt tropft."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mach mal hinne mit deinen Billig-Nudeln, ich habe einen Termin bei der Bank.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ein Kunde drängelt ungeduldig und schubst fast meinen Einkaufswagen um."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Kassiererin schaut mich mitleidig an, während ich mein Kleingeld auf dem Band zähle."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Du wirst deine Miete diesen Monat definitiv nicht überweisen können.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich klingelt mein Liefer-Smartphone mit einem Großauftrag, der alles verändern könnte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Mach mal hinne mit deinen Billig-Nudeln, ich habe einen Termin bei der Bank.",
+      "quote_by": {
+        "level": 7,
+        "name": "Drachenfrucht Dave",
+        "badge": "7.900 €",
+        "character": "A flamboyant dragonfruit person with pink-green scaled skin and an expensive leather jacket, flashing a very high digital number.",
+        "scene": "Over-the-shoulder shot at a crowded discount supermarket checkout, pushing impatiently behind a broccoli courier."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "1.250 €",
+          "bar": 0.35
+        },
+        {
+          "label": "Werkstatt",
+          "value": "600 €",
+          "bar": 0.8
+        },
+        {
+          "label": "Stress",
+          "value": "99%",
+          "bar": 0.99
+        }
+      ],
+      "character": "A friendly broccoli person with a rich green curly head, wearing a reflective delivery vest and a worn helmet; a glowing digital display on the forehead shows 1.250 €.",
+      "visual": "Wide shot of a discount supermarket checkout line under harsh neon lights, a broccoli courier counting loose coins while an impatient customer waits behind.",
+      "scenes": [
+        "Wide shot of a brightly lit discount supermarket interior, shoppers with baskets, a broccoli delivery guy staring anxiously at the cash register display.",
+        "Close-up of a glowing digital forehead display showing 1.250 € next to a packet of discount pasta.",
+        "Medium shot of a flamboyant dragonfruit customer rolling his eyes and crossing his arms in an expensive leather jacket.",
+        "Detail shot of a small hidden golden coin tucked underneath the metal handle of a shopping cart.",
+        "Close-up of a broken scooter brake lever on a greasy workbench in a back alley garage.",
+        "Wide shot of wet asphalt outside the supermarket as delivery mopeds zip past under flickering street lamps."
+      ],
+      "caption": "Wer kennt den Kampf an der Supermarktkasse am Ende des Monats? 🛒 #kurier #rechnungen #freshburg #level3 #struggle"
+    },
+    {
+      "n": 4,
+      "open_loop": "Was stand in dem eingeschriebenen Brief von der Hausverwaltung?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Bettelt vor dem Kiosk um Kleingeld für Energy-Drinks und nervt die Kundschaft."
+      },
+      "name": "Orange Olivia, 28, Grafikerin",
+      "badge": "2.100 €",
+      "verdict": "MITTELSTAND",
+      "story": "Die 8 Level nach dem Festival. Level 4. Nach dem Festival dachte ich mit 2.100 Euro, ich sei sicher. Level 4: Die harte Realität schlägt ein, als die Steuernachzahlung für letztes Jahr im Briefkasten liegt. Ich stehe in meinem winzigen Homeoffice, der Bildschirm leuchtet grell, und die Kaffeetasse ist seit Stunden leer, während ich versuche, einen neuen Kundenauftrag zu retten. Kannst du mir nicht fünf Euro für eine Dose Energy leihen, Olivia? Vor meinem Kiosk an der Ecke treibt sich mal wieder dieser nervige Typ herum, der jeden Cent für Festival-Tickets verprasst hat. Er klopft unverschämt an meine Fensterscheibe und stört meine Konzentration. Wer so lebt wie du, lernt es eben nie. Ein amtlicher Einschreibebrief liegt plötzlich auf der Fußmatte und verkündet eine Mietminderung wegen Bauarbeiten. Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "-520,00 €",
+        "after": "1.580 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level nach dem Festival. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Nach dem Festival dachte ich mit 2.100 Euro, ich sei sicher. Level 4: Die harte Realität schlägt ein, als die Steuernachzahlung für letztes Jahr im Briefkasten liegt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe in meinem winzigen Homeoffice, der Bildschirm leuchtet grell, und die Kaffeetasse ist seit Stunden leer, während ich versuche, einen neuen Kundenauftrag zu retten."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Kannst du mir nicht fünf Euro für eine Dose Energy leihen, Olivia?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Vor meinem Kiosk an der Ecke treibt sich mal wieder dieser nervige Typ herum, der jeden Cent für Festival-Tickets verprasst hat."
+        },
+        {
+          "s": "Figur",
+          "t": "Er klopft unverschämt an meine Fensterscheibe und stört meine Konzentration."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Wer so lebt wie du, lernt es eben nie.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ein amtlicher Einschreibebrief liegt plötzlich auf der Fußmatte und verkündet eine Mietminderung wegen Bauarbeiten."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Kannst du mir nicht fünf Euro für eine Dose Energy leihen, Olivia?",
+      "quote_by": {
+        "level": 1,
+        "name": "Tomate Tom",
+        "badge": "-142 €",
+        "character": "A battered red tomato person in a worn-out festival hoodie, looking desperate and broke.",
+        "scene": "Low-angle shot outside a street kiosk, shouting up toward a graphic designer's open apartment window."
+      },
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "2.100 €",
+          "bar": 0.52
+        },
+        {
+          "label": "Steuern",
+          "value": "520 €",
+          "bar": 0.65
+        },
+        {
+          "label": "Kaffee",
+          "value": "0 Tassen",
+          "bar": 0.0
+        }
+      ],
+      "character": "A vibrant orange person with dimpled citrus skin, wearing paint-splattered overalls and creative glasses; a glowing digital display on the forehead shows 2.100 €.",
+      "visual": "Medium shot of a cluttered creative studio apartment in Freshburg, graphic design tablets glowing, an orange woman staring at a terrifying tax notice.",
+      "scenes": [
+        "Wide shot of an artist's apartment filled with sketchbooks, digital tablets glowing, an orange woman looking stressed at her mail.",
+        "Close-up of a glowing digital forehead display showing 2.100 € against a backdrop of colorful paint tubes.",
+        "Medium shot looking down from a window at a broke tomato guy begging for loose change on the sidewalk.",
+        "Detail shot of a small hidden golden coin resting right beside a digital drawing pen.",
+        "Close-up of an official yellow tax notice with bold red warning numbers printed on it.",
+        "Wide shot of the neighborhood street at dusk, warm window lights reflecting on wet pavement as commuters pass by."
+      ],
+      "caption": "Wer kennt den Schreckmoment, wenn plötzlich das Finanzamt Briefe schickt? ✉️ #freelancer #steuern #freshburg #level4 #panik"
+    },
+    {
+      "n": 5,
+      "open_loop": "Welches dunkle Geheimnis verbarg der Kontosuszug im Tresor?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Beschwert sich laut über die Arbeitszeiten im Café und fordert eine Extrarunde."
+      },
+      "name": "Avocado Alex, 32, Café-Inhaber",
+      "badge": "3.800 €",
+      "verdict": "SOLIDE",
+      "story": "Die 8 Level nach dem Festival. Level 5. Mit 3.800 Euro auf der Stirn dachte ich nach dem Festival, ich hätte alles unter Kontrolle. Level 5: Der Lieferant steht im Laden und fordert sofortige Barzahlung für die neuen Kaffeebohnen, während die Gäste ungeduldig auf ihre Bestellungen warten. Ich stehe hinter der Theke, die Espressomaschine faucht, und meine Mitarbeiterin Zora mustert mich mit eisigem Blick. Du verlangst von uns immer Perfektion, obwohl du selbst jeden Cent zwei Mal umdrehst. Sie knallt die Kaffeetasse demonstrativ auf den Tisch und droht mit Kündigung. Ich atme tief durch, poliere einen Löffel und versuche, mir nichts anmerken zu lassen, während mein Bankkonto bedrohlich schrumpft. Wer ein eigenes Café führt, muss eben hart kalkulieren. Plötzlich entdecke ich in der Kaffeekasse einen mysteriösen Umschlag mit einer unbekannten Visitenkarte. Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "-1.200,00 ",
+        "after": "2.600 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level nach dem Festival. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Mit 3.800 Euro auf der Stirn dachte ich nach dem Festival, ich hätte alles unter Kontrolle. Level 5: Der Lieferant steht im Laden und fordert sofortige Barzahlung für die neuen Kaffeebohnen, während die Gäste ungeduldig auf ihre Bestellungen warten."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe hinter der Theke, die Espressomaschine faucht, und meine Mitarbeiterin Zora mustert mich mit eisigem Blick."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du verlangst von uns immer Perfektion, obwohl du selbst jeden Cent zwei Mal umdrehst.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie knallt die Kaffeetasse demonstrativ auf den Tisch und droht mit Kündigung."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich atme tief durch, poliere einen Löffel und versuche, mir nichts anmerken zu lassen, während mein Bankkonto bedrohlich schrumpft."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Wer ein eigenes Café führt, muss eben hart kalkulieren.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich entdecke ich in der Kaffeekasse einen mysteriösen Umschlag mit einer unbekannten Visitenkarte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Du verlangst von uns immer Perfektion, obwohl du selbst jeden Cent zwei Mal umdrehst.",
+      "quote_by": {
+        "level": 2,
+        "name": "Zitrone Zora",
+        "badge": "450 €",
+        "character": "A sour-sweet lemon barista wearing a stained apron and an exhausted expression.",
+        "scene": "Medium shot across a stainless steel counter, glaring at the café owner with crossed arms."
+      },
+      "stats": [
+        {
+          "label": "Umsatz",
+          "value": "3.800 €",
+          "bar": 0.7
+        },
+        {
+          "label": "Bohnen",
+          "value": "1.200 €",
+          "bar": 0.85
+        },
+        {
+          "label": "Stress",
+          "value": "85%",
+          "bar": 0.85
+        }
+      ],
+      "character": "A smooth avocado person with rich green skin, wearing a neat apron and silver rings; a glowing digital display on the forehead shows 3.800 €.",
+      "visual": "Wide shot of a stylish, modern café interior in Freshburg, polished wooden tables, an avocado owner looking nervously at an invoice.",
+      "scenes": [
+        "Wide shot of a chic specialty coffee shop interior, minimalist design, an avocado owner reviewing supplier bills under pendant lights.",
+        "Close-up of a glowing digital forehead display showing 3.800 € reflecting in a clean espresso tamper.",
+        "Medium shot of a lemon barista glaring angrily across the stainless steel counter.",
+        "Detail shot of a small hidden golden coin wedged beneath the heavy chrome espresso grinder.",
+        "Close-up of a business bank statement showing sudden unexpected withdrawal fees.",
+        "Wide shot of the rain-swept street outside through large glass windows, pedestrians hurrying past."
+      ],
+      "caption": "Selbst als Chef hat man nach dem Festival den Kopf voller Sorgen. ☕️ #gastronomie #unternehmer #freshburg #level5 #business"
+    },
+    {
+      "n": 6,
+      "open_loop": "Was befand sich in dem Aktenkoffer des ominösen Anzugs?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Versucht im U-Bahn-Schalter dranzubleiben und beschwert sich über Verspätungen."
+      },
+      "name": "Aubergine Arthur, 41, Investment-Manager",
+      "badge": "14.500 €",
+      "verdict": "OBEREN 10 PROZENT",
+      "story": "Die 8 Level nach dem Festival. Level 6. Nach dem exklusiven VIP-Festival auf Sylt zeigt meine Stirn stolze 14.500 Euro netto. Level 6: Doch die Compliance-Abteilung prüft plötzlich meine Spesenabrechnungen und friert alle Konten ein, während die Börsenkurse im Hintergrund rasant abstürzen. Ich stehe in der gläsernen Lobby unseres Finanzdistrikts, der Marmorboden spiegelt das Neonlicht, und mein Krawattenknoten sitzt zu eng, als ein Lieferkurier mich provokant mustert. Mit so viel Geld auf dem Display hat man wohl keine Sorgen mehr, wa? Er grinst höhnisch und deutet auf meine gesperrten Kreditkarten. Ich drehe mich langsam um, richte meinen maßgeschneiderten Anzug und lächle kühl. Wer ganz oben spielen will, muss eben härtere Bandagen tolerieren. Ein Anruf aus der Chefetage kündigt eine sofortige Hausdurchsuchung an. Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "-4.500,00 ",
+        "after": "10.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level nach dem Festival. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Nach dem exklusiven VIP-Festival auf Sylt zeigt meine Stirn stolze 14.500 Euro netto. Level 6: Doch die Compliance-Abteilung prüft plötzlich meine Spesenabrechnungen und friert alle Konten ein, während die Börsenkurse im Hintergrund rasant abstürzen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe in der gläsernen Lobby unseres Finanzdistrikts, der Marmorboden spiegelt das Neonlicht, und mein Krawattenknoten sitzt zu eng, als ein Lieferkurier mich provokant mustert."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit so viel Geld auf dem Display hat man wohl keine Sorgen mehr, wa?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Er grinst höhnisch und deutet auf meine gesperrten Kreditkarten."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich drehe mich langsam um, richte meinen maßgeschneiderten Anzug und lächle kühl."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Wer ganz oben spielen will, muss eben härtere Bandagen tolerieren.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ein Anruf aus der Chefetage kündigt eine sofortige Hausdurchsuchung an."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Mit so viel Geld auf dem Display hat man wohl keine Sorgen mehr, wa?",
+      "quote_by": {
+        "level": 3,
+        "name": "Broccoli Ben",
+        "badge": "1.250 €",
+        "character": "A delivery courier in a green vest looking stressed and overworked.",
+        "scene": "Medium shot in a sleek corporate lobby, staring up critically at an eggplant manager in a velvet suit."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "14.500 €",
+          "bar": 0.9
+        },
+        {
+          "label": "Spesen",
+          "value": "4.500 €",
+          "bar": 0.5
+        },
+        {
+          "label": "Status",
+          "value": "VIP",
+          "bar": 0.95
+        }
+      ],
+      "character": "An elegant eggplant person with deep purple, glossy skin, wearing a sharp velvet suit and expensive cufflinks; a glowing digital display on the forehead shows 14.500 €.",
+      "visual": "Wide shot of a luxurious high-rise corporate lobby in Freshburg with polished marble floors, panoramic glass windows overlooking the city skyline at night.",
+      "scenes": [
+        "Wide shot of a luxury corporate lobby in Freshburg, soaring glass ceilings, sleek marble pillars, an eggplant manager adjusting his suit.",
+        "Close-up of a glowing digital forehead display showing 14.500 € against a backdrop of dark designer fabric.",
+        "Medium shot of a delivery courier looking resentful near the security turnstiles.",
+        "Detail shot of a small hidden golden coin embedded right into the polished marble floor engraving.",
+        "Close-up of an elite banking app showing frozen assets and compliance alert notifications.",
+        "Wide shot of a panoramic elevator ascending rapidly through a skyscraper shaft at night."
+      ],
+      "caption": "Auch in den oberen Etagen läuft nach dem Festival nicht immer alles glatt. 💼 #finance #investment #freshburg #level6 #corporate"
+    },
+    {
+      "n": 7,
+      "open_loop": "Wer stand am Ende des roten Teppichs und wartete auf sie?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Kritisierte ihre kreative Arbeit im Kiosk und nannte sie größenwahnsinnig."
+      },
+      "name": "Drachenfrucht Dave, 35, Club-Besitzer",
+      "badge": "28.000 €",
+      "verdict": "ELITE",
+      "story": "Die 8 Level nach dem Festival. Level 7. Nach dem legendären Festival-Wochenende in Ibiza zeigt meine Stirn glänzende 28.000 Euro im Monat. Level 7: Trotzdem bricht mein VIP-Club an der Waterfront wegen neuer Auflagen fast zusammen, und die Behörden drohen mit Entzug der Lizenz. Ich stehe auf der goldenen VIP-Terrasse, der Champagner fließt in Strömen, und unten am Eingang starrt eine Grafikerin neidisch nach oben, während sie Flyer verteilt. Du mit deinem Jetset-Leben hast doch keine Ahnung, wie es ist, unten zu kämpfen. Sie ruft mir wütend zu und zeigt auf mein teures Outfit. Ich nehme einen Schluck aus meinem Kristallglas, wische mir eine Strähne aus dem Gesicht und blicke auf mein leuchtendes Display. Wer die Vision hat, zahlt eben den Preis dafür. Ein anonymer Investor bietet plötzlich an, den Club zu übernehmen. Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "-8.000,00 ",
+        "after": "20.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level nach dem Festival. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Nach dem legendären Festival-Wochenende in Ibiza zeigt meine Stirn glänzende 28.000 Euro im Monat. Level 7: Trotzdem bricht mein VIP-Club an der Waterfront wegen neuer Auflagen fast zusammen, und die Behörden drohen mit Entzug der Lizenz."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe auf der goldenen VIP-Terrasse, der Champagner fließt in Strömen, und unten am Eingang starrt eine Grafikerin neidisch nach oben, während sie Flyer verteilt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du mit deinem Jetset-Leben hast doch keine Ahnung, wie es ist, unten zu kämpfen.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie ruft mir wütend zu und zeigt auf mein teures Outfit."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich nehme einen Schluck aus meinem Kristallglas, wische mir eine Strähne aus dem Gesicht und blicke auf mein leuchtendes Display."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Wer die Vision hat, zahlt eben den Preis dafür.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ein anonymer Investor bietet plötzlich an, den Club zu übernehmen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Du mit deinem Jetset-Leben hast doch keine Ahnung, wie es ist, unten zu kämpfen.",
+      "quote_by": {
+        "level": 4,
+        "name": "Orange Olivia",
+        "badge": "2.100 €",
+        "character": "A creative orange person with paint-splattered overalls looking frustrated from below.",
+        "scene": "Low-angle shot looking up from a sidewalk toward a brightly lit club balcony."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "28.000 €",
+          "bar": 0.98
+        },
+        {
+          "label": "Umsatz",
+          "value": "120k €",
+          "bar": 1.0
+        },
+        {
+          "label": "Risiko",
+          "value": "Hoch",
+          "bar": 0.9
+        }
+      ],
+      "character": "A flamboyant dragonfruit person with magenta and green scaled skin, wearing an expensive leather jacket and designer sunglasses; a glowing digital display on the forehead shows 28.000 €.",
+      "visual": "Wide shot of a glamorous rooftop club terrace in Freshburg overlooking the night skyline, golden lights, glowing cocktail glasses.",
+      "scenes": [
+        "Wide shot of a luxury rooftop club terrace in Freshburg, neon lights reflecting off glass balconies, a dragonfruit owner looking down at the street.",
+        "Close-up of a glowing digital forehead display showing 28.000 € against a background of sparkling city lights.",
+        "Medium shot looking down from the terrace at a frustrated graphic designer standing on the sidewalk.",
+        "Detail shot of a small hidden golden coin resting on the edge of a silver champagne bucket.",
+        "Close-up of an urgent text message on a smartphone screen warning about club license suspensions.",
+        "Wide shot of fireworks bursting over the Freshburg skyline in the background as bass beats thump through the night."
+      ],
+      "caption": "Selbst ganz oben auf der Club-Terrasse holt einen die Realität ein. 🍾 #nightlife #vip #freshburg #level7 #luxury"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches Geheimnis verband alle acht Figuren am Ende des Festivals?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Kritisierte seine vermeintlich veralteten Investitionen im Konferenzraum."
+      },
+      "name": "Kokosnuss Karl, 52, Investor",
+      "badge": "??? €",
+      "verdict": "UNBEKANNT",
+      "story": "Die 8 Level nach dem Festival. Level 8. Nach all den Jahren und unzähligen Festivals zeigt meine Stirn plötzlich keine Zahl mehr, sondern nur noch ein mysteriöses Fragezeichen, während die gesamte Stadt den Atem anhält. Ich stehe am Panoramafenster, halte eine Tasse schwarzen Kaffee in der Hand und beobachte das bunte Treiben auf den nassen Straßen unten, während mein Geschäftspartner ungefragt das Büro betritt. Du kannst dich nicht einfach über die Regeln des Marktes hinwegsetzen, Karl! Er gestikuliert wild mit den Händen und fordert eine sofortige Erklärung für meine riskanten Finanzmanöver. Ich drehe mich langsam um, nehme einen ruhigen Schluck und lächle in die Runde. Wer die Zahlen versteht, weiß, dass der wahre Reichtum ganz woanders liegt. Plötzlich erlöschen alle digitalen Werbetafeln in Freshburg gleichzeitig und offenbaren eine geheime Botschaft. Welches Thema sollen wir als Nächstes zeigen? Schreib es in die Kommentare.",
+      "gender": "m",
+      "twist": {
+        "delta": "0 €",
+        "after": "??? €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level nach dem Festival. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Nach all den Jahren und unzähligen Festivals zeigt meine Stirn plötzlich keine Zahl mehr, sondern nur noch ein mysteriöses Fragezeichen, während die gesamte Stadt den Atem anhält."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe am Panoramafenster, halte eine Tasse schwarzen Kaffee in der Hand und beobachte das bunte Treiben auf den nassen Straßen unten, während mein Geschäftspartner ungefragt das Büro betritt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du kannst dich nicht einfach über die Regeln des Marktes hinwegsetzen, Karl!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Er gestikuliert wild mit den Händen und fordert eine sofortige Erklärung für meine riskanten Finanzmanöver."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich drehe mich langsam um, nehme einen ruhigen Schluck und lächle in die Runde."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Wer die Zahlen versteht, weiß, dass der wahre Reichtum ganz woanders liegt.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich erlöschen alle digitalen Werbetafeln in Freshburg gleichzeitig und offenbaren eine geheime Botschaft."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema sollen wir als Nächstes zeigen? Schreib es in die Kommentare."
+        }
+      ],
+      "quote": "Du kannst dich nicht einfach über die Regeln des Marktes hinwegsetzen, Karl!",
+      "quote_by": {
+        "level": 6,
+        "name": "Aubergine Arthur",
+        "badge": "14.500 €",
+        "character": "An ambitious investment manager in a sharp velvet suit looking outraged in a luxury penthouse.",
+        "scene": "Medium shot inside a high-rise penthouse office, pointing aggressively at a coconut investor."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "??? €",
+          "bar": 1.0
+        },
+        {
+          "label": "Einfluss",
+          "value": "Max",
+          "bar": 1.0
+        },
+        {
+          "label": "Geheimnis",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "A tough coconut person with a hard, fibrous brown shell head, wearing an elegant silk scarf and a tailored vintage coat; a glowing digital display on the forehead shows ??? €.",
+      "visual": "Wide shot of a luxurious penthouse office in Freshburg at night, panoramic curved windows showing the glittering city lights below, rain pattering against the glass.",
+      "scenes": [
+        "Wide shot of a luxury penthouse office in Freshburg, floor-to-ceiling curved glass windows, city lights stretching infinitely into the rainy night.",
+        "Close-up of a glowing digital forehead display showing a mysterious question mark against a hard coconut shell texture.",
+        "Medium shot of an angry eggplant manager shouting inside the minimalist penthouse office.",
+        "Detail shot of a small hidden golden coin resting squarely on a heavy antique wooden desk.",
+        "Close-up of an open leather folder containing photographs and financial records of all eight characters.",
+        "Wide shot of the entire Freshburg skyline glowing in neon harmony as rain stops and morning light begins to break."
+      ],
+      "caption": "Das große Finale der Stirn-Zahl! Welches Thema sollen wir als Nächstes verfilmen? 🥥✨ #finale #stirnzahl #freshburg #level8 #mysterium"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das panische Prüfen des Kontostands nach einer legendären Festival-Eskalation",
+  "frame": "frucht"
+}

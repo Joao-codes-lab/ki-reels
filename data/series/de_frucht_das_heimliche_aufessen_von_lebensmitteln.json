@@ -1,0 +1,796 @@
+{
+  "title": "Die 8 Level vom heimlichen Aufessen",
+  "house": "A bustling vegetable city with neon-lit fruit markets, crowded subway stations, and a modern shared apartment building where kitchen shelves are sacred.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Barista in Level 2 mentions the quiet delivery guy who always leaves exact change.",
+    "The 3-Euro-Döner kiosk from Level 4 is seen in the background of Level 1.",
+    "A dropped golden coin rolls from Level 3's hallway straight into Level 6's shoe store."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Warum fehlte plötzlich die teure Bio-Hafermilch aus dem Kühlschrank, obwohl der Mitbewohner schwor, er war es nicht?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Beschuldigt ihn lautstark vor allen Nachbarn des Diebstahls und klebt einen passiv-aggressiven Zettel an den Kühlschrank."
+      },
+      "name": "Tom, 23, Student",
+      "badge": "12 € im Fach",
+      "verdict": "PLEITE",
+      "story": "Die 8 Level vom heimlichen Aufessen. Level 1. 12 Euro auf dem Konto und der arrogante Jonas hat mich gerade beim Hafermilch-Klau erwischt! Ich bin Tom, 23, Student und eine kleine, gestresste Tomaten-Figur mit schrumpeligem Stiel. Gestern Nacht hatte ich diesen unstillbaren Hunger und habe den letzten Becher Bio-Hafermilch von meinem Mitbewohner aus dem Regal genommen, mit dem festen Plan, heute früh sofort neue zu kaufen. Doch bevor ich zum Supermarkt rennen konnte, stand er schon in der WG-Küche und starrte auf das leere Tetra-Pak. Hey Tom, wo ist meine Hafermilch hin, hast du die etwa wieder leergesoffen? Ich stammelte, ich wollte sie sofort nachkaufen, aber er schüttelte nur angewidert den Kopf. Du bleibst immer ein kleiner Dieb, der sich an fremdem Essen vergreift. Wer nur zwölf Euro hat, kann sich keine eigene Milch leisten. Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+50 €",
+        "after": "62 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom heimlichen Aufessen. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "12 Euro auf dem Konto und der arrogante Jonas hat mich gerade beim Hafermilch-Klau erwischt!"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Tom, 23, Student und eine kleine, gestresste Tomaten-Figur mit schrumpeligem Stiel."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern Nacht hatte ich diesen unstillbaren Hunger und habe den letzten Becher Bio-Hafermilch von meinem Mitbewohner aus dem Regal genommen, mit dem festen Plan, heute früh sofort neue zu kaufen."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch bevor ich zum Supermarkt rennen konnte, stand er schon in der WG-Küche und starrte auf das leere Tetra-Pak."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Hey Tom, wo ist meine Hafermilch hin, hast du die etwa wieder leergesoffen?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stammelte, ich wollte sie sofort nachkaufen, aber er schüttelte nur angewidert den Kopf."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du bleibst immer ein kleiner Dieb, der sich an fremdem Essen vergreift.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer nur zwölf Euro hat, kann sich keine eigene Milch leisten.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Wer nur zwölf Euro hat, kann sich keine eigene Milch leisten.",
+      "quote_by": {
+        "level": 6,
+        "name": "Jonas",
+        "badge": "450 €",
+        "character": "A smug orange person with a glossy peel and spotless white sneakers.",
+        "scene": "A wide angle shot of a messy shared apartment kitchen at sunrise, pointing accusingly at a tiny tomato."
+      },
+      "stats": [
+        {
+          "label": "Guthaben",
+          "value": "12 €",
+          "bar": 0.05
+        },
+        {
+          "label": "Schuld",
+          "value": "1 L Milch",
+          "bar": 0.1
+        },
+        {
+          "label": "Reue",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "A small tomato person with a slightly wrinkled green stem on top, wearing a faded gray student hoodie, glowing digital badge on the forehead reading 12 € im Fach.",
+      "visual": "A close-up shot in a cluttered student kitchen with morning light filtering through dirty blinds, a tiny tomato looking guilty next to an empty milk carton.",
+      "scenes": [
+        "Wide shot of a messy shared kitchen at 7 AM, green tiles, dirty mugs in the sink, a hidden golden coin on the counter.",
+        "Medium shot of Tom the tomato holding an empty oat milk carton with shaking hands.",
+        "Close-up on Tom's glowing forehead badge showing 12 € im Fach.",
+        "Medium shot of Jonas the orange standing in the doorway with folded arms, glowing 450 € badge.",
+        "Detail shot of a small sticky note on the fridge saying 'Finger weg!'.",
+        "Wide shot of Tom opening his banking app on a cracked smartphone screen showing red numbers."
+      ],
+      "caption": "Wer kennt diesen Moment, wenn man den Einkauf des Mitbewohner anknabbert? Wer war schon mal in Level 1? #WGLeleben #Hafermilch #StudiLife #Drama #DieStirnZahl"
+    },
+    {
+      "n": 2,
+      "open_loop": "Was passierte mit dem teuren Bio-Käse, den die Erdbeere im Kühlschrank fand und sofort gegen einen billigen Gouda austauschen wollte?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Wirft ihr vor, eine Betrügerin zu sein und verlangt dreifachen Schadensersatz."
+      },
+      "name": "Mia, 25, Barista",
+      "badge": "85 €",
+      "verdict": "KNAPP",
+      "story": "Die 8 Level vom heimlichen Aufessen. Level 2. 85 Euro im Beutel – und die reiche Banane Lisa will mich wegen eines Stücks Käse ruinieren! Ich bin Mia, 25, Barista und eine süße Erdbeere mit grünen Blättern im Haar und einer Schürze voller Kaffeeflecken. Gestern Abend hatte mich der Heißhunger übermannt und ich habe den echten Parmesan geplündert, fest entschlossen, morgen früh um acht beim Discounter neuen zu holen. Doch als ich die Packung im Supermarktregal suchte, traf mich der Schlag: Zehn Euro für ein Stück Käse! Du klaust wohl gerne bei anderen, was? Ich versuchte zu erklären, dass ich ihn längst ersetzen wollte, aber sie lachte nur kalt. Mit so wenig Geld im Beutel kaufst du doch nur Billigschrott. Echtes Essen ist nichts für kleine Erdbeeren. Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+120 €",
+        "after": "205 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom heimlichen Aufessen. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "85 Euro im Beutel – und die reiche Banane Lisa will mich wegen eines Stücks Käse ruinieren!"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Mia, 25, Barista und eine süße Erdbeere mit grünen Blättern im Haar und einer Schürze voller Kaffeeflecken."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern Abend hatte mich der Heißhunger übermannt und ich habe den echten Parmesan geplündert, fest entschlossen, morgen früh um acht beim Discounter neuen zu holen."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch als ich die Packung im Supermarktregal suchte, traf mich der Schlag: Zehn Euro für ein Stück Käse!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du klaust wohl gerne bei anderen, was?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich versuchte zu erklären, dass ich ihn längst ersetzen wollte, aber sie lachte nur kalt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit so wenig Geld im Beutel kaufst du doch nur Billigschrott.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Echtes Essen ist nichts für kleine Erdbeeren.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Echtes Essen ist nichts für kleine Erdbeeren.",
+      "quote_by": {
+        "level": 5,
+        "name": "Lisa",
+        "badge": "320 €",
+        "character": "A sleek yellow banana person with a sharp, judgmental smirk and expensive designer sunglasses.",
+        "scene": "A brightly lit supermarket aisle next to the dairy section, looking down her nose at a tiny strawberry."
+      },
+      "stats": [
+        {
+          "label": "Bargeld",
+          "value": "85 €",
+          "bar": 0.12
+        },
+        {
+          "label": "Parmesan",
+          "value": "0 g",
+          "bar": 0.0
+        },
+        {
+          "label": "Stress",
+          "value": "85%",
+          "bar": 0.85
+        }
+      ],
+      "character": "A cheerful strawberry person with tiny seeds on her red skin, green leafy hair, wearing a stained coffee shop apron, glowing digital badge on the forehead reading 85 €.",
+      "visual": "A medium shot in a bustling discount supermarket aisle under neon lights, a strawberry person holding an expensive cheese wedge with panic in her eyes.",
+      "scenes": [
+        "Wide shot of a crowded supermarket aisle with fluorescent ceiling lights, a hidden golden coin on the lowest shelf.",
+        "Medium shot of Mia the strawberry staring at a price tag in absolute shock.",
+        "Close-up on Mia's glowing forehead badge showing 85 €.",
+        "Medium shot of Lisa the banana crossing her arms with a sneer, badge glowing 320 €.",
+        "Detail shot of an empty parmesan wrapper hidden inside a shopping basket.",
+        "Wide shot of Mia walking away from the dairy counter with slumped shoulders."
+      ],
+      "caption": "Wer hat sich auch schon mal beim teuren Käse im Kühlregal verschätzt? Willkommen in Level 2! #Supermarkt #Erdbeere #KäseKlau #Drama #DieStirnZahl"
+    },
+    {
+      "n": 3,
+      "open_loop": "Welches geheime Versteck nutzte die Zitrone für die gestohlenen Schokoriegel, bevor der Hausmeister sie erwischte?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Konfisziert ihre Einkaufstasche und droht mit fristloser Kündigung aus dem Wohnheim."
+      },
+      "name": "Ben, 28, Praktikant",
+      "badge": "410 €",
+      "verdict": "ENG",
+      "story": "Die 8 Level vom heimlichen Aufessen. Level 3. 410 Euro Gehalt und diese arrogante Ananas droht mir wegen einer Schokoriegel-Packung mit dem Rauswurf! Ich bin Ben, 28, Praktikant und eine leicht verbitterte Zitrone mit gelber, poröser Haut und einer riesigen Brille. Gestern Nacht packte mich der Jieper und ich verschlang seine finnischen Bio-Schokoriegel, fest eingeplant, beim nächsten Einkauf direkt drei neue Tafeln zu besorgen. Doch als ich heute in den Hausflur trat, wartete bereits Markus, eine stechende Ananas mit glänzenden 1.200 Euro auf der Stirn. Hast du etwa wieder meine Süßigkeiten gefressen, du Schnorrer? Ich wollte erklären, dass ich heute Nachmittag Nachschub hole, aber er winkte nur ab. Für solche Naschereien reicht dein kleinen Azubi-Gehalt sowieso nicht. Wer naschen will, muss eben echtes Geld verdienen. Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+350 €",
+        "after": "760 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom heimlichen Aufessen. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "410 Euro Gehalt und diese arrogante Ananas droht mir wegen einer Schokoriegel-Packung mit dem Rauswurf!"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Ben, 28, Praktikant und eine leicht verbitterte Zitrone mit gelber, poröser Haut und einer riesigen Brille."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern Nacht packte mich der Jieper und ich verschlang seine finnischen Bio-Schokoriegel, fest eingeplant, beim nächsten Einkauf direkt drei neue Tafeln zu besorgen."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch als ich heute in den Hausflur trat, wartete bereits Markus, eine stechende Ananas mit glänzenden 1.200 Euro auf der Stirn."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Hast du etwa wieder meine Süßigkeiten gefressen, du Schnorrer?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich wollte erklären, dass ich heute Nachmittag Nachschub hole, aber er winkte nur ab."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Für solche Naschereien reicht dein kleinen Azubi-Gehalt sowieso nicht.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer naschen will, muss eben echtes Geld verdienen.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Wer naschen will, muss eben echtes Geld verdienen.",
+      "quote_by": {
+        "level": 7,
+        "name": "Markus",
+        "badge": "1.200 €",
+        "character": "A tall, prickly pineapple person wearing a sharp suit jacket and an expensive watch.",
+        "scene": "A narrow apartment hallway with dim lighting, waving an empty chocolate wrapper in front of a lemon person."
+      },
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "410 €",
+          "bar": 0.25
+        },
+        {
+          "label": "Schoki",
+          "value": "0 g",
+          "bar": 0.0
+        },
+        {
+          "label": "Koffein",
+          "value": "90%",
+          "bar": 0.9
+        }
+      ],
+      "character": "A sour lemon person with bumpy yellow skin and thick-rimmed glasses, wearing a worn-out hoodie, glowing digital badge on the forehead reading 410 €.",
+      "visual": "A medium shot in a narrow apartment hallway with yellowish wallpaper, a lemon holding an empty candy wrapper with a defeated look.",
+      "scenes": [
+        "Wide shot of an apartment stairwell with concrete steps, a hidden golden coin resting on the handrail.",
+        "Medium shot of Ben the lemon looking at a crumpled chocolate wrapper.",
+        "Close-up on Ben's glowing forehead badge showing 410 €.",
+        "Medium shot of Markus the pineapple pointing aggressively, badge glowing 1.200 €.",
+        "Detail shot of a digital clock on the microwave showing 07:15 AM.",
+        "Wide shot of Ben exiting the building into the cold morning drizzle."
+      ],
+      "caption": "Wer kennt den Kampf um die letzten Süßigkeiten im WG-Fach? Auf zu Level 3! #Zitrone #WGLeleben #Schoki #Drama #DieStirnZahl"
+    },
+    {
+      "n": 4,
+      "open_loop": "Was war wirklich in der mysteriösen Tupperdose, die der Brokkoli heimlich aus dem Fach des Chefs stahl?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Beschuldigt sie des Verrats und schüttet ihr demonstrativ einen Becher kalten Kaffee über den Stängel."
+      },
+      "name": "Sarah, 31, Grafikerin",
+      "badge": "1.450 €",
+      "verdict": "MITTEL",
+      "story": "Die 8 Level vom heimlichen Aufessen. Level 4. 1.450 Euro Netto – und Chantal kippt mir eiskalt den Kaffee über den Stängel, nur wegen zwei Avocados! Ich bin Sarah, 31, Grafikerin und ein frisch gewaschener Brokkoli mit dichten grünen Röschen und einem bunten Haargummi. Gestern Abend brauchte ich dringend Fett für mein Omelett und nahm mir zwei ihrer Premium-Avocados, mit dem festen Vorsatz, heute in der Mittagspause im Bioladen neuen zu besorgen. Doch als ich in die Küche kam, stand sie da: Chantal, eine arrogante Kokosnuss mit leuchtenden 2.800 Euro auf der Stirn. Du hast meine Bio-Avocados geklaut, gib’s zu! Ich stammelte, dass ich längst neuen Ersatz besorge, aber sie lachte verächtlich auf. Mit deinem kleinen Einkommen kannst du dir doch nicht mal den Stein davon leisten. Wer Avocado isst, muss auch das Konto dafür haben. Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+500 €",
+        "after": "1.950 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom heimlichen Aufessen. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "1.450 Euro Netto – und Chantal kippt mir eiskalt den Kaffee über den Stängel, nur wegen zwei Avocados!"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Sarah, 31, Grafikerin und ein frisch gewaschener Brokkoli mit dichten grünen Röschen und einem bunten Haargummi."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern Abend brauchte ich dringend Fett für mein Omelett und nahm mir zwei ihrer Premium-Avocados, mit dem festen Vorsatz, heute in der Mittagspause im Bioladen neuen zu besorgen."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch als ich in die Küche kam, stand sie da: Chantal, eine arrogante Kokosnuss mit leuchtenden 2.800 Euro auf der Stirn."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast meine Bio-Avocados geklaut, gib’s zu!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stammelte, dass ich längst neuen Ersatz besorge, aber sie lachte verächtlich auf."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit deinem kleinen Einkommen kannst du dir doch nicht mal den Stein davon leisten.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer Avocado isst, muss auch das Konto dafür haben.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Wer Avocado isst, muss auch das Konto dafür haben.",
+      "quote_by": {
+        "level": 1,
+        "name": "Chantal",
+        "badge": "2.800 €",
+        "character": "A tough coconut person with a hard brown shell and a sleek silk scarf.",
+        "scene": "A modern, sunlit kitchen island holding two empty avocado skins and glaring at a broccoli person."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "1.450 €",
+          "bar": 0.45
+        },
+        {
+          "label": "Avocados",
+          "value": "0 Stk",
+          "bar": 0.0
+        },
+        {
+          "label": "Design",
+          "value": "78%",
+          "bar": 0.78
+        }
+      ],
+      "character": "A lush broccoli person with detailed green florets and a colourful hair tie, wearing a casual denim shirt, glowing digital badge on the forehead reading 1.450 €.",
+      "visual": "A medium shot in a modern kitchen with white marble countertops, a broccoli person looking guilty next to an empty fruit bowl.",
+      "scenes": [
+        "Wide shot of a clean, minimalist kitchen with sunlight streaming through large windows, a hidden golden coin on top of the toaster.",
+        "Medium shot of Sarah the broccoli holding two empty avocado pits.",
+        "Close-up on Sarah's glowing forehead badge showing 1.450 €.",
+        "Medium shot of Chantal the coconut crossing her arms angrily, badge glowing 2.800 €.",
+        "Detail shot of a receipt on the counter showing high grocery prices.",
+        "Wide shot of Sarah grabbing her jacket to rush to the organic supermarket."
+      ],
+      "caption": "Wer kennt den Kampf um die teuren Avocados in der WG? Auf zu Level 4! #Brokkoli #Avocado #WGDrama #GrafikDesign #DieStirnZahl"
+    },
+    {
+      "n": 5,
+      "open_loop": "Welche teure Zutat versteckte die Kokosnuss in ihrem privaten Safe, nachdem der Verdacht auf Diebstahl fiel?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Schickt eine formelle Abmahnung per Hausverwaltung wegen unerlaubten Verzehrs von Gemeinschaftsgut."
+      },
+      "name": "Leo, 34, Buchhalter",
+      "badge": "2.800 €",
+      "verdict": "SOLIDE",
+      "story": "Die 8 Level vom heimlichen Aufessen. Level 5. 2.800 Euro im Monat – und Leon lacht mich wegen eines Stücks Trüffelkäse gnadenlos aus! Ich bin Leo, 34, Buchhalter und eine harte Kokosnuss mit brauner Schale und feiner Hornbrille. Gestern Nacht hatte ich diesen enormen Appetit und schnitt mir ein dickes Stück vom importierten Trüffelkäse ab, fest entschlossen, morgen früh direkt beim Feinkostladen Ersatz zu holen. Doch als ich die Küche betrat, stand Leon, eine prächtige Drachenfrucht mit leuchtenden 5.400 Euro auf der Stirn, vor dem Kühlschrank. Du hast meinen Trüffelkäse gefressen, du Sparfuchs! Ich wollte erklären, dass ich den Ersatz schon im Kalender eingetragen habe, aber er lachte nur herablassend. Mit deinen knapp dreitausend Euro weißt du den Geschmack doch gar nicht zu schätzen. Wer Trüffel will, muss erst mal richtig arbeiten. Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1.200 €",
+        "after": "4.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom heimlichen Aufessen. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "2.800 Euro im Monat – und Leon lacht mich wegen eines Stücks Trüffelkäse gnadenlos aus!"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Leo, 34, Buchhalter und eine harte Kokosnuss mit brauner Schale und feiner Hornbrille."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern Nacht hatte ich diesen enormen Appetit und schnitt mir ein dickes Stück vom importierten Trüffelkäse ab, fest entschlossen, morgen früh direkt beim Feinkostladen Ersatz zu holen."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch als ich die Küche betrat, stand Leon, eine prächtige Drachenfrucht mit leuchtenden 5.400 Euro auf der Stirn, vor dem Kühlschrank."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast meinen Trüffelkäse gefressen, du Sparfuchs!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich wollte erklären, dass ich den Ersatz schon im Kalender eingetragen habe, aber er lachte nur herablassend."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit deinen knapp dreitausend Euro weißt du den Geschmack doch gar nicht zu schätzen.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer Trüffel will, muss erst mal richtig arbeiten.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Wer Trüffel will, muss erst mal richtig arbeiten.",
+      "quote_by": {
+        "level": 3,
+        "name": "Leon",
+        "badge": "5.400 €",
+        "character": "A vibrant pink dragon fruit person with green scales and a sharp silk tie.",
+        "scene": "A high-end designer kitchen with marble surfaces, pointing at an empty cheese board."
+      },
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "2.800 €",
+          "bar": 0.65
+        },
+        {
+          "label": "Trüffel",
+          "value": "0 g",
+          "bar": 0.0
+        },
+        {
+          "label": "Zahlen",
+          "value": "99%",
+          "bar": 0.99
+        }
+      ],
+      "character": "A hard coconut person with textured brown shell, wearing a neat business shirt and wire-rimmed glasses, glowing digital badge on the forehead reading 2.800 €.",
+      "visual": "A medium shot in an upscale kitchen with granite countertops, a coconut person holding an empty cheese wrapper with a serious expression.",
+      "scenes": [
+        "Wide shot of a luxury apartment kitchen with stainless steel appliances, a hidden golden coin under the espresso machine.",
+        "Medium shot of Leo the coconut looking at an empty cheese platter.",
+        "Close-up on Leo's glowing forehead badge showing 2.800 €.",
+        "Medium shot of Leon the dragon fruit crossing his arms with a smug grin, badge glowing 5.400 €.",
+        "Detail shot of a high-end banking app showing steady savings.",
+        "Wide shot of Leo putting on his trench coat to buy replacement cheese."
+      ],
+      "caption": "Wer kennts, wenn der edle Käse im Kühlschrank plötzlich verschwunden ist? Willkommen in Level 5! #Kokosnuss #Trüffel #Buchhaltung #Drama #DieStirnZahl"
+    },
+    {
+      "n": 6,
+      "open_loop": "Welche geheime Botschaft hinterließ die Drachenfrucht auf dem Küchentisch, bevor der große Streit eskalierte?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Wirft ihre feinen Teetassen in die Spüle und verlangt sofortige Entschädigung in bar."
+      },
+      "name": "Maya, 29, Architektin",
+      "badge": "5.400 €",
+      "verdict": "GUT",
+      "story": "Die 8 Level vom heimlichen Aufessen. Level 6. 5.400 Euro Honorar – und Sarah nennt mich einen Schmarotzer wegen ein paar Macadamianüssen! Ich bin Maya, 29, Architektin und eine leuchtende Drachenfrucht mit pinker Schale und grünen Schuppen. Gestern Abend nach der Arbeit übermannte mich der Hunger und ich leerte die ganze Dose, fest entschlossen, morgen früh beim Feinkosthändler direkt zwei neue Dosen zu kaufen. Doch als ich in die Küche kam, stand sie dort: Sarah, ein frischer Brokkoli mit 1.450 Euro auf der Stirn, und starrte wütend auf die leere Dose. Du hast meine teuren Nüsse geklaut, ich fass es nicht! Ich wollte ihr erklären, dass ich den Ersatz schon bestellt habe, aber sie winkte nur ab. Mit deinem Gehalt tust du immer so wichtig, aber Respekt hast du keinen. Wer im Glaspalast sitzt, sollte nicht fremde Nüsse knabbern. Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+2.100 €",
+        "after": "7.500 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom heimlichen Aufessen. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "5.400 Euro Honorar – und Sarah nennt mich einen Schmarotzer wegen ein paar Macadamianüssen!"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Maya, 29, Architektin und eine leuchtende Drachenfrucht mit pinker Schale und grünen Schuppen."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern Abend nach der Arbeit übermannte mich der Hunger und ich leerte die ganze Dose, fest entschlossen, morgen früh beim Feinkosthändler direkt zwei neue Dosen zu kaufen."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch als ich in die Küche kam, stand sie dort: Sarah, ein frischer Brokkoli mit 1.450 Euro auf der Stirn, und starrte wütend auf die leere Dose."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast meine teuren Nüsse geklaut, ich fass es nicht!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich wollte ihr erklären, dass ich den Ersatz schon bestellt habe, aber sie winkte nur ab."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit deinem Gehalt tust du immer so wichtig, aber Respekt hast du keinen.",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer im Glaspalast sitzt, sollte nicht fremde Nüsse knabbern.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Wer im Glaspalast sitzt, sollte nicht fremde Nüsse knabbern.",
+      "quote_by": {
+        "level": 4,
+        "name": "Sarah",
+        "badge": "1.450 €",
+        "character": "A vibrant green broccoli person with detailed florets and an angry expression.",
+        "scene": "A modern loft kitchen holding an empty gourmet nut jar and glaring upwards."
+      },
+      "stats": [
+        {
+          "label": "Honorar",
+          "value": "5.400 €",
+          "bar": 0.85
+        },
+        {
+          "label": "Nüsse",
+          "value": "0 g",
+          "bar": 0.0
+        },
+        {
+          "label": "Design",
+          "value": "95%",
+          "bar": 0.95
+        }
+      ],
+      "character": "A striking dragon fruit person with vibrant pink skin and green leafy scales, wearing a sleek architect blazer, glowing digital badge on the forehead reading 5.400 €.",
+      "visual": "A medium shot in a high-end architectural loft kitchen with polished concrete floors, a dragon fruit person looking shocked holding an empty gourmet jar.",
+      "scenes": [
+        "Wide shot of a designer penthouse kitchen with floor-to-ceiling windows, a hidden golden coin behind a modern vase.",
+        "Medium shot of Maya the dragon fruit looking at an empty macadamia jar.",
+        "Close-up on Maya's glowing forehead badge showing 5.400 €.",
+        "Medium shot of Sarah the broccoli pointing angrily, badge glowing 1.450 €.",
+        "Detail shot of architectural blueprints spread across a marble island.",
+        "Wide shot of Maya walking towards the elevator to order replacement gourmet snacks."
+      ],
+      "caption": "Wer kennt den Ärger um die teuren Snacks im Designer-Loft? Auf zu Level 6! #Drachenfrucht #Architektur #Nüsse #Drama #DieStirnZahl"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welches millionenschwere Geheimnis verbarg die Ananas in ihrem privaten Weinkeller, während alle anderen stritten?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Kippt ihr demonstrativ den teuren Champagner aus und fordert die sofortige Auflösung des Mietvertrags."
+      },
+      "name": "Paul, 42, Investor",
+      "badge": "12.500 €",
+      "verdict": "REICH",
+      "story": "Die 8 Level vom heimlichen Aufessen. Level 7. 12.500 Euro passives Einkommen – und Felix kippt mir eiskalt den Champagner weg wegen etwas Safran! Ich bin Paul, 42, Investor und eine stachelige Ananas mit goldener Krone und Maßanzug. Gestern Nacht hatte ich diesen exklusiven Kochabend und nutzte den gesamten Safran für mein Risotto, mit der festen Absicht, heute per Expresskurier zwei neue Gläser aus Persien liefern zu lassen. Doch als ich das Penthouse betrat, stand Felix, eine eisige Limette mit leuchtenden 35.000 Euro auf der Stirn, vor dem Vorratsregal. Du hast meinen Safran angerührt, das gibt Ärger! Ich versuchte zu erklären, dass der Kurier bereits unterwegs ist, aber er lachte eiskalt. Selbst mit deinen zwölf Mille verstehst du den Wert von echtem Luxus nicht. Wer Safran stiehlt, hat die Krone nicht verdient. Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+8.000 €",
+        "after": "20.500 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom heimlichen Aufessen. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "12.500 Euro passives Einkommen – und Felix kippt mir eiskalt den Champagner weg wegen etwas Safran!"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Paul, 42, Investor und eine stachelige Ananas mit goldener Krone und Maßanzug."
+        },
+        {
+          "s": "Figur",
+          "t": "Gestern Nacht hatte ich diesen exklusiven Kochabend und nutzte den gesamten Safran für mein Risotto, mit der festen Absicht, heute per Expresskurier zwei neue Gläser aus Persien liefern zu lassen."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch als ich das Penthouse betrat, stand Felix, eine eisige Limette mit leuchtenden 35.000 Euro auf der Stirn, vor dem Vorratsregal."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast meinen Safran angerührt, das gibt Ärger!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich versuchte zu erklären, dass der Kurier bereits unterwegs ist, aber er lachte eiskalt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Selbst mit deinen zwölf Mille verstehst du den Wert von echtem Luxus nicht.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer Safran stiehlt, hat die Krone nicht verdient.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Wer Safran stiehlt, hat die Krone nicht verdient.",
+      "quote_by": {
+        "level": 2,
+        "name": "Felix",
+        "badge": "35.000 €",
+        "character": "A frosty lime person with a glowing emerald crown and a bespoke cashmere suit.",
+        "scene": "A ultra-luxury penthouse kitchen holding an empty saffron jar with absolute disdain."
+      },
+      "stats": [
+        {
+          "label": "Einkommen",
+          "value": "12.500 €",
+          "bar": 0.92
+        },
+        {
+          "label": "Safran",
+          "value": "0 g",
+          "bar": 0.0
+        },
+        {
+          "label": "Aktien",
+          "value": "99%",
+          "bar": 0.99
+        }
+      ],
+      "character": "A spiky pineapple person with a natural golden crown on top, wearing a sharp tailored suit, glowing digital badge on the forehead reading 12.500 €.",
+      "visual": "A medium shot in a luxury penthouse kitchen with marble and gold accents, a pineapple person holding an empty spice jar with a tense look.",
+      "scenes": [
+        "Wide shot of an ultra-luxury penthouse kitchen overlooking the city skyline at dusk, a hidden golden coin on the marble windowsill.",
+        "Medium shot of Paul the pineapple looking at an empty saffron container.",
+        "Close-up on Paul's glowing forehead badge showing 12.500 €.",
+        "Medium shot of Felix the lime staring down with a freezing glare, badge glowing 35.000 €.",
+        "Detail shot of a smartphone showing a high-value express delivery confirmation.",
+        "Wide shot of Paul turning toward the private elevator to resolve the dispute."
+      ],
+      "caption": "Wer hätte gedacht, dass selbst im Luxus-Penthouse um Safran gestritten wird? Willkommen in Level 7! #Ananas #Investor #Safran #Drama #DieStirnZahl"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches unglaubliche Geheimnis über alle vorherigen Lebensmittel-Diebstähle wurde im obersten Penthouse enthüllt?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Bringt alle Beteiligten an einen Tisch und deckt auf, dass der Supermarkt-Lieferdienst alle Snacks längst ersetzt hatte."
+      },
+      "name": "Clara, 50, Mäzenin",
+      "badge": "Unendlich",
+      "verdict": "ELITE",
+      "story": "Die 8 Level vom heimlichen Aufessen. Level 8. Unendlicher Reichtum auf der Stirn – und ich habe sie alle absichtlich in die Falle gelockt! Ich bin Clara, 50, Kunstmäzenin und eine schimmernde Wassermelone mit tiefrotem Fruchtfleisch und Diamant-Ohrringen. Jahrelang habe ich nachts heimlich all eure Hafermilch, den Parmesan, die Schoki, die Avocados, den Trüffelkäse, die Macadamias und den Safran gegessen, weil ich jeden einzelnen von euch testen wollte. Heute stehen sie alle in meinem Penthouse: Tom, Mia, Ben, Sarah, Leo, Maya und Paul. Sie starren auf meine leuchtende Stirnanzeige, auf der das Zeichen für unendlich pulsiert. Niemand von euch hat verstanden, dass der Kühlschrank für alle da ist und ich jeden neuen Einkauf längst doppelt bezahlt habe. Da drehte ich mich um, blickte in ihre fassungslosen Gesichter und sprach diesen letzten Satz, der alle 8 Level verbindet: Die Zahl auf deiner Stirn zeigt deinen Kontostand, aber dein Hunger zeigt, wer du wirklich bist. Welches Thema sollen wir als Nächstes in 8 Leveln erzählen?",
+      "gender": "w",
+      "twist": {
+        "delta": "MAX",
+        "after": "Unendlich"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom heimlichen Aufessen. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Unendlicher Reichtum auf der Stirn – und ich habe sie alle absichtlich in die Falle gelockt!"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bin Clara, 50, Kunstmäzenin und eine schimmernde Wassermelone mit tiefrotem Fruchtfleisch und Diamant-Ohrringen."
+        },
+        {
+          "s": "Figur",
+          "t": "Jahrelang habe ich nachts heimlich all eure Hafermilch, den Parmesan, die Schoki, die Avocados, den Trüffelkäse, die Macadamias und den Safran gegessen, weil ich jeden einzelnen von euch testen wollte."
+        },
+        {
+          "s": "Figur",
+          "t": "Heute stehen sie alle in meinem Penthouse: Tom, Mia, Ben, Sarah, Leo, Maya und Paul."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie starren auf meine leuchtende Stirnanzeige, auf der das Zeichen für unendlich pulsiert."
+        },
+        {
+          "s": "Figur",
+          "t": "Niemand von euch hat verstanden, dass der Kühlschrank für alle da ist und ich jeden neuen Einkauf längst doppelt bezahlt habe."
+        },
+        {
+          "s": "Figur",
+          "t": "Da drehte ich mich um, blickte in ihre fassungslosen Gesichter und sprach diesen letzten Satz, der alle 8 Level verbindet:"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl auf deiner Stirn zeigt deinen Kontostand, aber dein Hunger zeigt, wer du wirklich bist."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema sollen wir als Nächstes in 8 Leveln erzählen?"
+        }
+      ],
+      "quote": "Die Zahl auf deiner Stirn zeigt deinen Kontostand, aber dein Hunger zeigt, wer du wirklich bist.",
+      "quote_by": {
+        "level": 8,
+        "name": "Clara",
+        "badge": "Unendlich",
+        "character": "A magnificent watermelon person with shimmering dark green skin and bright red pulp, wearing diamond earrings and a silk robe.",
+        "scene": "A grand penthouse living room overlooking the entire glowing fruit city, surrounded by all previous characters."
+      },
+      "stats": [
+        {
+          "label": "Vermögen",
+          "value": " ∞ ",
+          "bar": 1.0
+        },
+        {
+          "label": "Kühlschrank",
+          "value": "Voll",
+          "bar": 1.0
+        },
+        {
+          "label": "Weisheit",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "A majestic watermelon person with deep green rind and sparkling ruby-red flesh, wearing diamond earrings and a flowing silk gown, glowing digital badge on the forehead reading Unendlich.",
+      "visual": "A wide cinematic shot of a lavish rooftop penthouse in a glowing fruit metropolis at night, a watermelon person standing before all other characters.",
+      "scenes": [
+        "Wide shot of a panoramic rooftop terrace overlooking a glowing neon fruit city at night, a hidden golden coin on the glass railing.",
+        "Medium shot of Clara the watermelon standing proudly in front of her assembled neighbours.",
+        "Close-up on Clara's glowing forehead badge showing the infinity symbol.",
+        "Medium shot of all previous characters (Tom, Mia, Ben, Sarah, Leo, Maya, Paul) looking in utter shock.",
+        "Detail shot of a giant banquet table filled with all the previously stolen foods.",
+        "Wide shot of all characters raising their glasses together as the final twist completes the loop."
+      ],
+      "caption": "Das große Finale der 8 Level! Welches Thema sollen wir als Nächstes verfilmen? Schreibt es in die Kommentare! #Wassermelone #Finale #DieStirnZahl #Endless #Viral"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das heimliche Aufessen von Lebensmitteln des Mitbewohners mit der festen Absicht, sie neu zu kaufen",
+  "frame": "frucht"
+}
