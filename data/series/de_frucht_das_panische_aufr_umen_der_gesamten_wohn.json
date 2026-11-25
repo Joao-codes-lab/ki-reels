@@ -1,0 +1,795 @@
+{
+  "title": "Die 8 Level vom panischen Aufräumen",
+  "house": "A bustling German suburb filled with anthropomorphic fruit and vegetable people scurrying through chaotic apartments, neon-lit corridors, and overcrowded train stations under a gray autumn sky.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Barista in Level 2 mentions the frantic cleaner from Level 1.",
+    "The clean apartment in Level 8 belongs to the landlord from Level 4."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was hat die Mutter unter dem Teppich versteckt?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Lacht sie aus und tritt mit dreckigen Schuhen auf den frisch gewischten Flur.",
+        "name": "Tom, 35, Nachbar",
+        "badge": "45 Minuten",
+        "character": "An arrogant avocado person with a shiny green skin, wearing a tight designer jacket and sunglasses indoors.",
+        "scene": "Medium shot in a chaotic hallway, pointing a finger and laughing at a stressed strawberry person holding a vacuum cleaner."
+      },
+      "name": "Mia, 22, Studentin",
+      "badge": "12 Minuten",
+      "verdict": "VOLLSTÄNDIGES CHAOS",
+      "story": "Die 8 Level von Panik. Level 1. 2.000 Euro Miete und du lebst wie im Schweinestall! Raus mit dir! Mein Herz rast, während ich schweißgebadet versuche, den unfassbaren Müllberg in meinem Wohnzimmer zu beseitigen. Diese panische Angst, dass meine Eltern gleich vor der Tür stehen und mein erbärmliches Leben sehen, frisst mich innerlich auf. Überall liegen alte Zeitungen, Pizzakartons und klebrige Gläser herum, die seit Wochen auf ihren Abtransport warten. Plötzlich fällt mir auf, dass der Staubsauger einen Kabelbruch hat und gar keinen Mucks mehr macht. Du schaffst das sowieso nie, deine Bude stinkt nach Pizza von gestern. Ich beiße die Zähne zusammen, werfe die Kissen auf das Sofa und fluche laut über mein eigenes Versagen. Doch als es an der Wohnungstür plötzlich heftig klopft, stockt mir der Atem, denn das sind niemals meine Eltern. Du kennst diesen Moment, in dem alles auf einmal schiefgeht. Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+5 Minuten",
+        "after": "17 Minute"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Panik. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "2.000 Euro Miete und du lebst wie im Schweinestall! Raus mit dir!"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Herz rast, während ich schweißgebadet versuche, den unfassbaren Müllberg in meinem Wohnzimmer zu beseitigen."
+        },
+        {
+          "s": "Figur",
+          "t": "Diese panische Angst, dass meine Eltern gleich vor der Tür stehen und mein erbärmliches Leben sehen, frisst mich innerlich auf."
+        },
+        {
+          "s": "Figur",
+          "t": "Überall liegen alte Zeitungen, Pizzakartons und klebrige Gläser herum, die seit Wochen auf ihren Abtransport warten."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich fällt mir auf, dass der Staubsauger einen Kabelbruch hat und gar keinen Mucks mehr macht."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du schaffst das sowieso nie, deine Bude stinkt nach Pizza von gestern.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich beiße die Zähne zusammen, werfe die Kissen auf das Sofa und fluche laut über mein eigenes Versagen."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch als es an der Wohnungstür plötzlich heftig klopft, stockt mir der Atem, denn das sind niemals meine Eltern."
+        },
+        {
+          "s": "Figur",
+          "t": "Du kennst diesen Moment, in dem alles auf einmal schiefgeht."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Du schaffst das sowieso nie, deine Bude stinkt nach Pizza von gestern.",
+      "quote_by": {
+        "level": 5,
+        "name": "Tom",
+        "badge": "45 Minuten",
+        "character": "An arrogant avocado person with a shiny green skin, wearing a tight designer jacket and sunglasses indoors.",
+        "scene": "Medium shot in a chaotic hallway, pointing a finger and laughing at a stressed strawberry person holding a vacuum cleaner."
+      },
+      "stats": [
+        {
+          "label": "Restzeit",
+          "value": "12 Min.",
+          "bar": 0.15
+        },
+        {
+          "label": "Müllsäcke",
+          "value": "7 Stück",
+          "bar": 0.4
+        },
+        {
+          "label": "Panik",
+          "value": "99 %",
+          "bar": 0.95
+        }
+      ],
+      "character": "A stressed strawberry girl with bright red textured skin, wearing an oversized gray sweat-shirt and mismatched socks. A glowing digital counter on her forehead shows 12 Minuten.",
+      "visual": "Close-up shot of a stressed strawberry girl in a chaotic, messy student apartment living room, surrounded by empty pizza boxes, holding a vacuum hose, looking frantically at her glowing forehead display.",
+      "scenes": [
+        "Wide shot of a messy student apartment living room with clothes strewn everywhere, cold daylight through the window, an anthropomorphic strawberry girl panicking.",
+        "Medium shot in the cramped hallway, a smug avocado neighbor in a tight jacket points at the strawberry girl and laughs.",
+        "Detail shot of a digital forehead display glowing bright red with the numbers 12 Minuten.",
+        "Close-up of a broken vacuum cleaner spitting out old socks onto a dirty wooden floor.",
+        "Medium shot in the kitchen, stacking towering pyramids of empty beer bottles into a crate.",
+        "Wide shot of the front door shaking as someone knocks aggressively from the outside, dust motes floating in the air."
+      ],
+      "caption": "Hättest du das in 12 Minuten geschafft? #putzpanik #elternbesuch #chaos #studentenleben #storytime"
+    },
+    {
+      "n": 2,
+      "open_loop": "Wer hat den Blutfleck auf dem Teppich verursacht?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Beschwert sich laut über den Dreck im Treppenhaus und wirft Müll vor ihre Haustür.",
+        "name": "Frau Müller, 58, Rentnerin",
+        "badge": "55 Minuten",
+        "character": "A sour, bitter lemon person with yellow textured skin and a severe gray wig, wearing a stiff tweed coat.",
+        "scene": "Medium shot in an apartment stairwell, leaning over the banister with a disgusted facial expression, looking down."
+      },
+      "name": "Mia, 22, Studentin",
+      "badge": "17 Minuten",
+      "verdict": "SCHOCKMOMENT",
+      "story": "Die 8 Level von Panik. Level 2. Level 2: 17 Minuten Restzeit und der Teppich ist ruiniert, bevor Mama überhaupt klingelt. Ich knie im Flur, schrubbe mit vanish Seife und schwitze wie verrückt, während das heiße Wasser langsam auf meine Hände tropft. Neben dem großen Kaffeefleck entdecke ich plötzlich einen verdächtigen roten Fleck, dessen Herkunft ich gar nicht wissen will. Du eklige Messie-Erdbeere, verschwinde aus unserem Haus! Ich schlucke die Tränen runter und versuche, den Fleck mit einem schweren Schrank zu verdecken. Doch die Zeit rennt unerbittlich weiter und der stechende Geruch von chemischem Putzmittel brennt in meinen Augen. Du hast keine Ahnung, wie schnell eine weiße Hose voller Putzmittel wird, wenn man die Nerven verliert. Plötzlich geht die Kellertür auf und eine Gestalt schleicht herein. Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+3 Minuten",
+        "after": "20 Minute"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Panik. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 17 Minuten Restzeit und der Teppich ist ruiniert, bevor Mama überhaupt klingelt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich knie im Flur, schrubbe mit vanish Seife und schwitze wie verrückt, während das heiße Wasser langsam auf meine Hände tropft."
+        },
+        {
+          "s": "Figur",
+          "t": "Neben dem großen Kaffeefleck entdecke ich plötzlich einen verdächtigen roten Fleck, dessen Herkunft ich gar nicht wissen will."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du eklige Messie-Erdbeere, verschwinde aus unserem Haus!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schlucke die Tränen runter und versuche, den Fleck mit einem schweren Schrank zu verdecken."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch die Zeit rennt unerbittlich weiter und der stechende Geruch von chemischem Putzmittel brennt in meinen Augen."
+        },
+        {
+          "s": "Figur",
+          "t": "Du hast keine Ahnung, wie schnell eine weiße Hose voller Putzmittel wird, wenn man die Nerven verliert."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich geht die Kellertür auf und eine Gestalt schleicht herein."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Sie riecht den alten Fisch von vorgestern schon im Treppenhaus.",
+      "quote_by": {
+        "level": 6,
+        "name": "Frau Müller",
+        "badge": "55 Minuten",
+        "character": "A sour, bitter lemon person with yellow textured skin and a severe gray wig, wearing a stiff tweed coat.",
+        "scene": "Medium shot in an apartment stairwell, leaning over the banister with a disgusted facial expression, looking down."
+      },
+      "stats": [
+        {
+          "label": "Restzeit",
+          "value": "17 Min.",
+          "bar": 0.25
+        },
+        {
+          "label": "Seife",
+          "value": "1 Liter",
+          "bar": 0.5
+        },
+        {
+          "label": "Panik",
+          "value": "85 %",
+          "bar": 0.8
+        }
+      ],
+      "character": "A stressed strawberry girl with bright red textured skin, wearing an oversized gray sweat-shirt and mismatched socks. A glowing digital counter on her forehead shows 17 Minuten.",
+      "visual": "Medium shot of the strawberry girl kneeling on a dirty hallway floor scrubbing a carpet stain with a brush, warm indoor lighting.",
+      "scenes": [
+        "Wide shot of an apartment building hallway with peeling wallpaper, harsh fluorescent lighting overhead.",
+        "Close-up of a sour lemon woman opening her door a crack, glaring out with narrowed eyes.",
+        "Detail shot of soapy water bubbling on a dark gray carpet stain.",
+        "Medium shot of the strawberry girl wiping sweat from her forehead with the back of her wrist.",
+        "Close-up of a ringing smartphone vibrating on a wooden shoe rack.",
+        "Wide shot of the building entrance door opening downstairs as footsteps approach."
+      ],
+      "caption": "Wer kennt diese panische Angst vor Nachbarn? #putzen #nachbarschaft #stress #wohnung #drama"
+    },
+    {
+      "n": 3,
+      "open_loop": "Was wollte der mysteriöse Anrufer wirklich von ihr?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Schickt den Kammerjäger weg, weil angeblich kein Notfall vorliegt.",
+        "name": "Bruno, 45, Handwerker",
+        "badge": "1 Stunde",
+        "character": "A bulky broccoli man with a dense dark green head, wearing a stained blue overall and heavy work boots.",
+        "scene": "Wide shot in a small living room, standing over a frightened strawberry person with folded arms and a teasing smile."
+      },
+      "name": "Mia, 22, Studentin",
+      "badge": "22 Minuten",
+      "verdict": "FAST GESCHAFFT",
+      "story": "Die 8 Level von Panik. Level 3. Level 3: 22 Minuten bis zur Ankunft und plötzlich steht der Kammerjäger mitten im Wohnzimmer. Cash auf die Kralle, sonst informiere ich sofort den Vermieter über deine illegale Untermiete! Ich greife in meine Hosentasche und zähle meine letzten Münzen für den Notfall, während er grinsend an der Türrahmen lehnt. Die ganze Wohnung riecht nach billigem Insektenspray, das er angeblich gegen eine Mottenplage versprühen muss. Du stehst da mit dem Staubsauger in der Hand und weißt nicht, ob du lachen oder heulen sollst, weil dir das Geld für die Miete fehlt. Das ist hier kein Kindergarten, Fräulein, ich mache nur meinen Job und will meine Barzahlung. Doch bevor ich ihm das Geld geben kann, klingelt das Handy und der Vermieter kündigt seinen sofortigen Besuch an. Das siehst du in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "+8 Minuten",
+        "after": "30 Minute"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Panik. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 22 Minuten bis zur Ankunft und plötzlich steht der Kammerjäger mitten im Wohnzimmer."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Cash auf die Kralle, sonst informiere ich sofort den Vermieter über deine illegale Untermiete!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich greife in meine Hosentasche und zähle meine letzten Münzen für den Notfall, während er grinsend an der Türrahmen lehnt."
+        },
+        {
+          "s": "Figur",
+          "t": "Die ganze Wohnung riecht nach billigem Insektenspray, das er angeblich gegen eine Mottenplage versprühen muss."
+        },
+        {
+          "s": "Figur",
+          "t": "Du stehst da mit dem Staubsauger in der Hand und weißt nicht, ob du lachen oder heulen sollst, weil dir das Geld für die Miete fehlt."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Das ist hier kein Kindergarten, Fräulein, ich mache nur meinen Job und will meine Barzahlung.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch bevor ich ihm das Geld geben kann, klingelt das Handy und der Vermieter kündigt seinen sofortigen Besuch an."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Wer nicht zahlt, kriegt den Schädling nicht weg, Kleine.",
+      "quote_by": {
+        "level": 7,
+        "name": "Bruno",
+        "badge": "1 Stunde",
+        "character": "A bulky broccoli man with a dense dark green head, wearing a stained blue overall and heavy work boots.",
+        "scene": "Wide shot in a small living room, standing over a frightened strawberry person with folded arms and a teasing smile."
+      },
+      "stats": [
+        {
+          "label": "Restzeit",
+          "value": "22 Min.",
+          "bar": 0.35
+        },
+        {
+          "label": "Münzen",
+          "value": "4,50 €",
+          "bar": 0.2
+        },
+        {
+          "label": "Panik",
+          "value": "90 %",
+          "bar": 0.85
+        }
+      ],
+      "character": "A stressed strawberry girl with bright red textured skin, wearing an oversized gray sweat-shirt and mismatched socks. A glowing digital counter on her forehead shows 22 Minuten.",
+      "visual": "Medium shot of the strawberry girl facing a bulky broccoli man holding large metal spray canisters in a tight living room.",
+      "scenes": [
+        "Wide shot of the cluttered living room with moving boxes stacked high against the floral wallpaper.",
+        "Close-up of the broccoli man's smiling face under harsh ceiling light.",
+        "Detail shot of sweaty hands dropping small silver coins onto a dusty coffee table.",
+        "Medium shot of the strawberry girl pulling the broccoli man's sleeve toward the exit.",
+        "Close-up of a flickering ceiling lamp shedding sparks over the dining table.",
+        "Wide shot of the hallway filled with heavy work equipment and discarded tools."
+      ],
+      "caption": "Ungebetener Besuch mitten im Putzchaos! #kammerjäger #brokkoli #panik #chaos #verzweiflung"
+    },
+    {
+      "n": 4,
+      "open_loop": "Woher kam plötzlich das laute Knacken an der Decke?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Droht mit fristloser Kündigung des Mietvertrags wegen Vernachlässigung.",
+        "name": "Herr Coconut, 50, Vermieter",
+        "badge": "2 Stunden",
+        "character": "An extremely wealthy coconut person with a hard brown shell head, wearing an expensive tailored Italian suit and gold cufflinks.",
+        "scene": "Wide shot in the doorway of a messy apartment, looking down his nose with a cold, superior expression at a crying strawberry person."
+      },
+      "name": "Mia, 22, Studentin",
+      "badge": "35 Minuten",
+      "verdict": "KATASTROPHE",
+      "story": "Die 8 Level von Panik. Level 4. Level 4: 35 Minuten über der Zeit und das absolute Desaster bricht über uns herein. Wegen solcher asozialen Messie-Zustände kündige ich dir hiermit fristlos, du fliegst noch heute aus meinem Haus! Ich stehe da mit Staubtuch und Tränen in den Augen, unfähig ein einziges Wort zu sagen, während er meine Mietakte durchblättert. Du fühlst dich so klein, wenn jemand deine Privatsphäre mit Füßen tritt und dich vor allen Nachbarn bloßstellt. Meine Hände zittern, als ich versuche, den umgestürzten Blumenkübel aufzuräumen, in dem sich alte Rechnungen verbergen. Plötzlich fällt ein schwerer Briefumschlag aus der Deckenverkleidung direkt vor seine edlen Lederschuhe. Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "-10 Minute",
+        "after": "25 Minute"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Panik. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 35 Minuten über der Zeit und das absolute Desaster bricht über uns herein."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wegen solcher asozialen Messie-Zustände kündige ich dir hiermit fristlos, du fliegst noch heute aus meinem Haus!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe da mit Staubtuch und Tränen in den Augen, unfähig ein einziges Wort zu sagen, während er meine Mietakte durchblättert."
+        },
+        {
+          "s": "Figur",
+          "t": "Du fühlst dich so klein, wenn jemand deine Privatsphäre mit Füßen tritt und dich vor allen Nachbarn bloßstellt."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Hände zittern, als ich versuche, den umgestürzten Blumenkübel aufzuräumen, in dem sich alte Rechnungen verbergen."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich fällt ein schwerer Briefumschlag aus der Deckenverkleidung direkt vor seine edlen Lederschuhe."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Solche Messie-Zustände dulde ich in meinem Haus keine Sekunde länger.",
+      "quote_by": {
+        "level": 8,
+        "name": "Herr Coconut",
+        "badge": "2 Stunden",
+        "character": "An extremely wealthy coconut person with a hard brown shell head, wearing an expensive tailored Italian suit and gold cufflinks.",
+        "scene": "Wide shot in the doorway of a messy apartment, looking down his nose with a cold, superior expression at a crying strawberry person."
+      },
+      "stats": [
+        {
+          "label": "Restzeit",
+          "value": "35 Min.",
+          "bar": 0.5
+        },
+        {
+          "label": "Staubtuch",
+          "value": "1 Stk.",
+          "bar": 0.1
+        },
+        {
+          "label": "Panik",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "A stressed strawberry girl with bright red textured skin, wearing an oversized gray sweat-shirt and mismatched socks. A glowing digital counter on her forehead shows 35 Minuten.",
+      "visual": "Wide shot of an angry coconut man in a sharp suit standing in a wrecked apartment hallway, glaring at a weeping strawberry girl.",
+      "scenes": [
+        "Wide shot of the apartment entrance with a broken flowerpot and scattered potting soil across the tiles.",
+        "Close-up of the coconut man adjusting his gold wristwatch with a cold glare.",
+        "Detail shot of wet potting soil staining a pair of white sneakers.",
+        "Medium shot of curious neighbors peeking through door cracks in the background corridor.",
+        "Close-up of tearful strawberry eyes reflecting the harsh hallway lights.",
+        "Wide shot of an elevator doors sliding open at the end of the hallway."
+      ],
+      "caption": "Wenn der Vermieter unerwartet vor der Tür steht! #vermieter #messie #stress #wohnung #drama"
+    },
+    {
+      "n": 5,
+      "open_loop": "Wie hat die Mutter auf das Chaos reagiert?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Stiehlt heimlich die frischen Brötchen aus der Einkaufstasche der Mutter.",
+        "name": "Mia, 22, Studentin",
+        "badge": "12 Minuten",
+        "character": "A stressed strawberry girl with bright red textured skin, wearing a dirty gray sweatshirt and looking furious.",
+        "scene": "Medium shot on a neighboring balcony, pointing angrily across the gap with a wooden broom handle."
+      },
+      "name": "Tom, 35, Nachbar",
+      "badge": "45 Minuten",
+      "verdict": "SELbstGERECHT",
+      "story": "Die 8 Level von Panik. Level 5. Level 5: 45 Minuten schaue ich dem Spektakel aus dem sicheren Abstand meines makellosen Balkons zu. Ich, Tom, die Avocado mit dem perfekten Durchblick und der besten Stirnzahl im ganzen Block. Die kleine Erdbeere drüben bricht fast zusammen, weil ihre Muddi im Anmarsch ist und die Lage eskaliert. Vollkommen amateurhaft, wie die da mit dem Wischmopp hantiert und ins Leere greift, während der Nachbar sie beschimpft. Du bildest dir wohl ein, du wärst hier der König von Schwanenwerder, du Angeber. Doch plötzlich verliert sie die Balance und lässt ihren Eimer fallen, der genau auf meinem sauberen Teppich landet. Das Drama erreicht einen neuen Höhepunkt, als die Polizei gerufen wird. Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+15 Minute",
+        "after": "60 Minute"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Panik. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 45 Minuten schaue ich dem Spektakel aus dem sicheren Abstand meines makellosen Balkons zu."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich, Tom, die Avocado mit dem perfekten Durchblick und der besten Stirnzahl im ganzen Block."
+        },
+        {
+          "s": "Figur",
+          "t": "Die kleine Erdbeere drüben bricht fast zusammen, weil ihre Muddi im Anmarsch ist und die Lage eskaliert."
+        },
+        {
+          "s": "Figur",
+          "t": "Vollkommen amateurhaft, wie die da mit dem Wischmopp hantiert und ins Leere greift, während der Nachbar sie beschimpft."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du bildest dir wohl ein, du wärst hier der König von Schwanenwerder, du Angeber.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch plötzlich verliert sie die Balance und lässt ihren Eimer fallen, der genau auf meinem sauberen Teppich landet."
+        },
+        {
+          "s": "Figur",
+          "t": "Das Drama erreicht einen neuen Höhepunkt, als die Polizei gerufen wird."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Du bildest dir wohl ein, du wärst hier der König von Schwanenwerder, du Angeber.",
+      "quote_by": {
+        "level": 1,
+        "name": "Mia",
+        "badge": "12 Minuten",
+        "character": "A stressed strawberry girl with bright red textured skin, wearing a dirty gray sweatshirt and looking furious.",
+        "scene": "Medium shot on a neighboring balcony, pointing angrily across the gap with a wooden broom handle."
+      },
+      "stats": [
+        {
+          "label": "Status",
+          "value": "Perfekt",
+          "bar": 0.9
+        },
+        {
+          "label": "Bio-Äpfel",
+          "value": "6 Stk.",
+          "bar": 0.6
+        },
+        {
+          "label": "Arroganz",
+          "value": "95 %",
+          "bar": 0.95
+        }
+      ],
+      "character": "An arrogant avocado man with smooth light green skin and dark stubble, wearing trendy designer sunglasses and a silk bathrobe on a sunny balcony.",
+      "visual": "Medium shot of a smug avocado man in a silk bathrobe lounging on a sunny balcony, eating an apple and looking down derisively.",
+      "scenes": [
+        "Wide shot of a modern apartment balcony with potted palm trees and clean glass railings under bright noon sunlight.",
+        "Close-up of the avocado man wearing expensive sunglasses with a self-satisfied smirk.",
+        "Detail shot of a shiny, polished apple being bitten into with a crisp crunch.",
+        "Medium shot looking across to the neighboring messy balcony where a strawberry girl struggles with a mop.",
+        "Close-up of a digital forehead display glowing bright green with the numbers 45 Minuten.",
+        "Wide shot of a heavy clay pot shattering against the glass partition wall."
+      ],
+      "caption": "Manchmal genießt man das Chaos der Nachbarn einfach zu sehr! #nachbarn #balkon #drama #comedy #status"
+    },
+    {
+      "n": 6,
+      "open_loop": "Wer hat den Blumentopf auf den Nachbarbalkon geworfen?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Klopf wütend an die Wand, weil die Musik zu laut ist.",
+        "name": "Mia, 22, Studentin",
+        "badge": "17 Minuten",
+        "character": "A stressed strawberry girl with bright red textured skin, looking exhausted and holding a cleaning cloth.",
+        "scene": "Medium shot in a dark hallway, leaning against a doorframe with an irritated, defiant expression."
+      },
+      "name": "Frau Müller, 58, Rentnerin",
+      "badge": "55 Minuten",
+      "verdict": "STRENG & SAUER",
+      "story": "Die 8 Level von Panik. Level 6. Level 6: 55 Minuten Ruhe im Haus, bis diese unverschämten Erdbeeren wieder extremen Lärm machen. Mit voller Wucht trete ich gegen diese verdammte Holztür und verlangen sofort eine harte Strafe für dieses unverschämte Pack! Dieses ganze moderne Pack hat keinen Respekt mehr vor Ordnung und Sauberkeit im Treppenhaus. Hören Sie auf, ständig an meiner Tür zu lauschen, alte Schachtel. Zischt die Studentin und knallt mir fast den Besen vor die Nase. Ich habe mein Leben lang hart gearbeitet für meine makellose Zitronen-Haut und den Frieden in diesem Haus. Doch während wir uns streiten, bemerke ich ein lautes Rauschen aus dem Keller, das nichts Gutes verheißt. Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "-5 Minuten",
+        "after": "50 Minute"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Panik. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 55 Minuten Ruhe im Haus, bis diese unverschämten Erdbeeren wieder extremen Lärm machen."
+        },
+        {
+          "s": "Figur",
+          "t": "Mit voller Wucht trete ich gegen diese verdammte Holztür und verlangen sofort eine harte Strafe für dieses unverschämte Pack!"
+        },
+        {
+          "s": "Figur",
+          "t": "Dieses ganze moderne Pack hat keinen Respekt mehr vor Ordnung und Sauberkeit im Treppenhaus."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Hören Sie auf, ständig an meiner Tür zu lauschen, alte Schachtel.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Zischt die Studentin und knallt mir fast den Besen vor die Nase."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe mein Leben lang hart gearbeitet für meine makellose Zitronen-Haut und den Frieden in diesem Haus."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch während wir uns streiten, bemerke ich ein lautes Rauschen aus dem Keller, das nichts Gutes verheißt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Hören Sie auf, ständig an meiner Tür zu lauschen, alte Schachtel.",
+      "quote_by": {
+        "level": 2,
+        "name": "Mia",
+        "badge": "17 Minuten",
+        "character": "A stressed strawberry girl with bright red textured skin, looking exhausted and holding a cleaning cloth.",
+        "scene": "Medium shot in a dark hallway, leaning against a doorframe with an irritated, defiant expression."
+      },
+      "stats": [
+        {
+          "label": "Ordnung",
+          "value": "100 %",
+          "bar": 1.0
+        },
+        {
+          "label": "Besenstiel",
+          "value": "1 Stk.",
+          "bar": 0.8
+        },
+        {
+          "label": "Wut",
+          "value": "90 %",
+          "bar": 0.9
+        }
+      ],
+      "character": "A sour lemon woman with textured bright yellow skin and pursed lips, wearing a vintage floral apron and gray orthopedic shoes.",
+      "visual": "Medium shot of an angry lemon woman holding a wooden broom handle in a dim, clean apartment hallway with floral wallpaper.",
+      "scenes": [
+        "Wide shot of a sterile, perfectly organized apartment hallway with neatly aligned shoes on a rack.",
+        "Close-up of the lemon woman's wrinkled yellow face scowling with intense irritation.",
+        "Detail shot of bony yellow hands gripping a polished wooden broom handle tightly.",
+        "Medium shot of the lemon woman opening her apartment door with an aggressive jerk.",
+        "Close-up of a mysterious brown cardboard package resting on the clean doormat.",
+        "Wide shot of the stairwell looking downward into the echoing concrete lobby."
+      ],
+      "caption": "Die Nachbarschaft hat einfach keinen Respekt mehr! #rentnerin #zitrone #nachbarn #drama #streit"
+    },
+    {
+      "n": 7,
+      "open_loop": "Was befand sich in dem mysteriösen Paket vor der Tür?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Verlangt überhöhte Zusatzgebühren für die angeblich verstopften Rohre.",
+        "name": "Mia, 22, Studentin",
+        "badge": "22 Minuten",
+        "character": "A stressed strawberry girl with bright red textured skin, holding a glowing smartphone in her hand.",
+        "scene": "Medium shot in a basement corridor, pointing a finger angrily at a bulky broccoli man holding a pipe wrench."
+      },
+      "name": "Bruno, 45, Handwerker",
+      "badge": "1 Stunde",
+      "verdict": "EISKALT",
+      "story": "Die 8 Level von Panik. Level 7. Level 7: 1 Stunde harter Einsatz im Keller, während die Mietshäuser über mir im totalen Chaos versinken. Ich sperre jetzt die Wasserzufuhr komplett ab, wenn du nicht sofort auf der Stelle den doppelten Betrag in bar zahlst! Die Rohre sind völlig verkalkt, aber das interessiert hier oben im Erdgeschoss wieder mal niemanden. Sie stellen hier gar nichts ab, sonst rufe ich sofort die Polizei und den Vermieter! Sie stellen hier gar nichts ab, sonst rufe ich sofort die Polizei. Ich schwinge meinen schweren Schraubenschlüssel und drohe damit, das Hauptventil für immer zu versiegeln. Plötzlich fliegt die Kellertür auf und der Hausmeister stürzt mit schlechten Nachrichten herein. Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+30 Minute",
+        "after": "1,5 Std."
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Panik. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 1 Stunde harter Einsatz im Keller, während die Mietshäuser über mir im totalen Chaos versinken."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sperre jetzt die Wasserzufuhr komplett ab, wenn du nicht sofort auf der Stelle den doppelten Betrag in bar zahlst!"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Rohre sind völlig verkalkt, aber das interessiert hier oben im Erdgeschoss wieder mal niemanden."
+        },
+        {
+          "s": "Figur",
+          "t": "Sie stellen hier gar nichts ab, sonst rufe ich sofort die Polizei und den Vermieter!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sie stellen hier gar nichts ab, sonst rufe ich sofort die Polizei.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schwinge meinen schweren Schraubenschlüssel und drohe damit, das Hauptventil für immer zu versiegeln."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich fliegt die Kellertür auf und der Hausmeister stürzt mit schlechten Nachrichten herein."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Sie stellen hier gar nichts ab, sonst rufe ich sofort die Polizei.",
+      "quote_by": {
+        "level": 3,
+        "name": "Mia",
+        "badge": "22 Minuten",
+        "character": "A stressed strawberry girl with bright red textured skin, holding a glowing smartphone in her hand.",
+        "scene": "Medium shot in a basement corridor, pointing a finger angrily at a bulky broccoli man holding a pipe wrench."
+      },
+      "stats": [
+        {
+          "label": "Einsatz",
+          "value": "1 Std.",
+          "bar": 0.7
+        },
+        {
+          "label": "Rohre",
+          "value": "Kalkig",
+          "bar": 0.85
+        },
+        {
+          "label": "Härte",
+          "value": "88 %",
+          "bar": 0.88
+        }
+      ],
+      "character": "A bulky broccoli man with a dense dark green floret head and thick arms, wearing a heavy blue denim work shirt and a tool belt.",
+      "visual": "Medium shot of a muscular broccoli workman holding a large wrench in a dark, damp concrete basement with exposed pipes.",
+      "scenes": [
+        "Wide shot of a dingy apartment basement with dripping water pipes and flickering overhead bulbs.",
+        "Close-up of the broccoli man's rugged green face wiping sweat from his brow with a forearm.",
+        "Detail shot of a heavy steel pipe wrench striking a rusty iron valve with sparks.",
+        "Medium shot of the broccoli man kicking an empty metal toolbox across the dusty floor.",
+        "Close-up of a glowing forehead display showing 1 Stunde in bright blue digits.",
+        "Wide shot of the main electrical fuse box on the basement wall sparking as a hand pulls the lever."
+      ],
+      "caption": "Im Keller herrscht ein ganz anderes Gesetz! #handwerker #brokkoli #keller #drama #handwerk"
+    },
+    {
+      "n": 8,
+      "open_loop": "Was passierte, als der Hauptschalter im ganzen Haus umgelegt wurde?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Wirft alle Beteiligten hochkant aus dem Gebäude und kündigt die Mietverträge.",
+        "name": "Herr Coconut, 50, Vermieter",
+        "badge": "2 Stunden",
+        "character": "An extremely wealthy coconut person with a hard brown shell head, wearing an expensive tailored Italian suit, silk tie, and shiny leather shoes.",
+        "scene": "Wide shot of a grand luxury apartment building lobby with marble pillars, where a coconut man in a sharp suit stands triumphantly beside the main fuse box."
+      },
+      "name": "Herr Coconut, 50, Vermieter",
+      "badge": "2 Stunden",
+      "verdict": "CHEF IM RING",
+      "story": "Die 8 Level von Panik. Level 8. Level 8: 2 Stunden absoluter Ausnahmezustand im luxuriössten Mietshaus der ganzen Stadt. Jetzt fallen alle Masken, und ihr elenden Versager fliegt alle, ausnahmslos alle, mit sofortiger Wirkung auf die kalte Straße! Unten im glänzenden Flur stehen die kreischende Erdbeere, der arrogante Nachbar und der Handwerker und beschimpfen sich gegenseitig. Sie sind ein herzloser Despot, und wir lassen uns das nicht länger bieten. Ruft die Studentin und stellt sich schützend vor die Gruppe, während die Sirenen von draußen näher kommen. Ich zücke meine goldene Uhr, blicke auf die Runde und verziehe keine Miene. Ich betätige den Hauptschalter mit einem lauten Klicken und tauche das gesamte Gebäude in absolute, undurchdringliche Finsternis. Doch in der Dunkelheit beginnt das Spiel von vorn. Das siehst du in Level 1.",
+      "gender": "m",
+      "twist": {
+        "delta": "Reset",
+        "after": "0 Stunden"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Panik. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 2 Stunden absoluter Ausnahmezustand im luxuriössten Mietshaus der ganzen Stadt."
+        },
+        {
+          "s": "Figur",
+          "t": "Jetzt fallen alle Masken, und ihr elenden Versager fliegt alle, ausnahmslos alle, mit sofortiger Wirkung auf die kalte Straße!"
+        },
+        {
+          "s": "Figur",
+          "t": "Unten im glänzenden Flur stehen die kreischende Erdbeere, der arrogante Nachbar und der Handwerker und beschimpfen sich gegenseitig."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sie sind ein herzloser Despot, und wir lassen uns das nicht länger bieten.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ruft die Studentin und stellt sich schützend vor die Gruppe, während die Sirenen von draußen näher kommen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich zücke meine goldene Uhr, blicke auf die Runde und verziehe keine Miene."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich betätige den Hauptschalter mit einem lauten Klicken und tauche das gesamte Gebäude in absolute, undurchdringliche Finsternis."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch in der Dunkelheit beginnt das Spiel von vorn."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 1."
+        }
+      ],
+      "quote": "Sie sind ein herzloser Despot, und wir lassen uns das nicht länger bieten.",
+      "quote_by": {
+        "level": 4,
+        "name": "Mia",
+        "badge": "35 Minuten",
+        "character": "A stressed strawberry girl with bright red textured skin, looking furious and standing tall in a dark hallway.",
+        "scene": "Medium shot in a pitch-black corridor lit by a single flashlight beam, pointing a finger at an unfazed coconut man in a suit."
+      },
+      "stats": [
+        {
+          "label": "Eigentum",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Miete",
+          "value": "Luxus",
+          "bar": 0.99
+        },
+        {
+          "label": "Macht",
+          "value": "MAX",
+          "bar": 1.0
+        }
+      ],
+      "character": "An extremely wealthy coconut person with a hard brown shell head, wearing an expensive tailored Italian suit, silk tie, and shiny leather shoes.",
+      "visual": "Wide shot of a grand luxury apartment building lobby with marble pillars, where a coconut man in a sharp suit stands triumphantly beside the main fuse box.",
+      "scenes": [
+        "Wide shot of a luxury marble lobby with grand staircases and glittering chandeliers under twilight sky.",
+        "Close-up of the coconut man's hard brown shell face smiling with absolute superiority.",
+        "Detail shot of expensive Italian leather shoes stepping purposefully onto a Persian rug.",
+        "Medium shot of all previous fruit characters gathered in the lobby arguing under flickering emergency lights.",
+        "Close-up of a glowing digital forehead display showing 2 Stunden in blinding white light.",
+        "Wide shot of the entire building plunging into sudden, total darkness as the main switch is pulled down."
+      ],
+      "caption": "Das große Finale der Putzpanik! Welches Thema soll als Nächstes kommen? #vermieter #kokosnuss #finale #stirnzahl #storytime"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das panische Aufräumen der gesamten Wohnung, weil die Eltern unangekündigt zu Besuch kommen",
+  "frame": "frucht"
+}

@@ -1,0 +1,843 @@
+{
+  "title": "Die 8 Level der ersten Miete",
+  "house": "A bustling metropolitan city made of giant kitchen utensils where fruit and vegetable people commute through subway tunnels shaped like hollowed-out baguettes, under neon lights of a perpetual twilight.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Barista in Level 2 mentions the quiet man in the suit from Level 8",
+    "Kiosk owner in Level 4 sells the same energy drinks as seen in Level 1",
+    "Bus line 44 from Level 3 passes the exact apartment building in Level 7"
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was hatte der Vermieter in den Schimmel-Vertrag geschrieben?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Lacht sie wegen ihrer Bruchbude aus und blockiert den Aufzug."
+      },
+      "name": "Finn, 19, Azubi",
+      "badge": "380 € Miette",
+      "verdict": "SCHIMMEL-LOCH",
+      "story": "Die 8 Level der ersten Miete. Level 1. Level 1: 380 Euro Miete für ein Zimmer mit feuchter Tapete. Ich stehe im Flur meiner ersten eigenen Bruchbude, Kiste in der Hand, und zittere am ganzen Körper, während der kalte Wind durch die undichten Fenster pfeift. Wer so wenig zahlt, wohnt direkt im Müll, hörte ich den Nachbarn im Treppenhaus rufen. Für mehr reicht mein mageres Azubi-Gehalt als Kochlehrling im Schichtdienst eben nicht! Deine Stirn zeigt nur Mitleid, Kleiner. Fauchte er verächtlich und trat gegen meine Umzugskiste, sodass der Inhalt auf dem staubigen Fliesenboden landete. Plötzlich fiel mir ein Umschlag aus der Tasche, den ich gestern im Briefkasten gefunden hatte. Was stand in dem mysteriösen Brief vom Amt, der meinen Auszug sofort zerstörte? Ein rot gedruckter Stempel forderte die Räumung binnen 48 Stunden wegen angeblicher Einsturzgefahr! Doch als ich den Zettel umdrehte, traf mich der Schlag: Meine eigene Kontonummer war darauf gar nicht vermerkt, sondern die des ominösen Vermieters aus dem Penthouse. Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-150 €",
+        "after": "230 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der ersten Miete. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 380 Euro Miete für ein Zimmer mit feuchter Tapete."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im Flur meiner ersten eigenen Bruchbude, Kiste in der Hand, und zittere am ganzen Körper, während der kalte Wind durch die undichten Fenster pfeift."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer so wenig zahlt, wohnt direkt im Müll, hörte ich den Nachbarn im Treppenhaus rufen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Für mehr reicht mein mageres Azubi-Gehalt als Kochlehrling im Schichtdienst eben nicht!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Deine Stirn zeigt nur Mitleid, Kleiner.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Fauchte er verächtlich und trat gegen meine Umzugskiste, sodass der Inhalt auf dem staubigen Fliesenboden landete."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Plötzlich fiel mir ein Umschlag aus der Tasche, den ich gestern im Briefkasten gefunden hatte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was stand in dem mysteriösen Brief vom Amt, der meinen Auszug sofort zerstörte?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Ein rot gedruckter Stempel forderte die Räumung binnen 48 Stunden wegen angeblicher Einsturzgefahr!"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Doch als ich den Zettel umdrehte, traf mich der Schlag: Meine eigene Kontonummer war darauf gar nicht vermerkt, sondern die des ominösen Vermieters aus dem Penthouse."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Deine Stirn zeigt nur Mitleid, Kleiner.",
+      "quote_by": {
+        "level": 3,
+        "name": "Klaus",
+        "badge": "1.200 € Miete",
+        "character": "A bitter lemon person with a sharp tweed jacket and a smug expression.",
+        "scene": "Close-up shot in a narrow, peeling hallway, lemon man sneering down at a younger fruit person."
+      },
+      "stats": [
+        {
+          "label": "Miete",
+          "value": "380 €",
+          "bar": 0.1
+        },
+        {
+          "label": "Gehalt",
+          "value": "720 €",
+          "bar": 0.15
+        },
+        {
+          "label": "qm",
+          "value": "14",
+          "bar": 0.08
+        }
+      ],
+      "character": "A young strawberry boy with skin full of tiny seeds, wearing an oversized faded hoodie and carrying a single taped cardboard box; a bright digital display on his forehead shows his rent.",
+      "visual": "Wide angle shot of a gloomy, damp corridor in an old apartment building with peeling wallpaper and flickering light bulbs.",
+      "scenes": [
+        "Wide angle shot of a gloomy, damp corridor in an old apartment building with peeling wallpaper and flickering light bulbs.",
+        "Medium shot in a cramped, dark kitchen with a single cold water tap and a tiny dirty window overlooking a brick wall.",
+        "Close-up detail shot of a digital forehead display flickering from 380 to 230 while a tiny golden coin sits on the dusty floor.",
+        "Medium shot of the strawberry boy holding a cardboard box while a lemon man in tweed laughs at him.",
+        "Wide shot of a bustling subway station with fruit commuters rushing past concrete pillars under grey neon light.",
+        "Close-up of an open mailbox stuffed with unpaid utility bills and a red warning sticker."
+      ],
+      "caption": "Wer kennt den Kampf mit der ersten eigenen Wohnung? #ersteWohnung #miete #struggle #finanzen #drama"
+    },
+    {
+      "n": 2,
+      "open_loop": "Warum lag die Kündigung auf der Fußmatte?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Wirft seine alten Umzugskartons auf ihren frisch gewischten Flur."
+      },
+      "name": "Mia, 22, Studentin",
+      "badge": "550 € Miete",
+      "verdict": "KLEINER BALKON",
+      "story": "Die 8 Level der ersten Miete. Level 2. Level 2: 550 Euro Miete und ein Blick direkt auf die Mülltonnen im Hinterhof. Ich streiche gerade konzentriert die Wände meines WG-Zimmers, als die Nachbarin im teuren Designer-Kostüm reinkommt und ungefragt die Nase rümpft. Mit so einer kleinen Zahl auf der Stirn kriegst du hier nie einen Kredit oder Respekt von den Banken! Wenigstens ist hier alles selbst erarbeitet ohne Papas Geld! Deine Miete ist ein Witz, genau wie dein jämmerliches Leben als Studentin. Zischte sie zurück und schüttete absichtlich einen Eimer Farbreste über meinen frisch verlegten Teppich. In diesem Moment summte mein Smartphone auf dem Tisch und zeigte eine Push-Nachricht der Hausverwaltung. Wer hatte mein ohnehin klammes Konto plötzlich komplett leergeräumt und die Kaution verdoppelt? Eine unautorisierte Abbuchung von exakt 670 Euro prangte auf dem Display mit dem Verwendungszweck 'Gebäudeversicherung für Höhergestellte'. Doch das Schlimmste war der Anruf meiner Bank: Jemand hatte meine Identität gestohlen und einen Kredit aufgenommen. Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+120 €",
+        "after": "670 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der ersten Miete. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 550 Euro Miete und ein Blick direkt auf die Mülltonnen im Hinterhof."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich streiche gerade konzentriert die Wände meines WG-Zimmers, als die Nachbarin im teuren Designer-Kostüm reinkommt und ungefragt die Nase rümpft."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit so einer kleinen Zahl auf der Stirn kriegst du hier nie einen Kredit oder Respekt von den Banken!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Wenigstens ist hier alles selbst erarbeitet ohne Papas Geld!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Deine Miete ist ein Witz, genau wie dein jämmerliches Leben als Studentin.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Zischte sie zurück und schüttete absichtlich einen Eimer Farbreste über meinen frisch verlegten Teppich."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "In diesem Moment summte mein Smartphone auf dem Tisch und zeigte eine Push-Nachricht der Hausverwaltung."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hatte mein ohnehin klammes Konto plötzlich komplett leergeräumt und die Kaution verdoppelt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Eine unautorisierte Abbuchung von exakt 670 Euro prangte auf dem Display mit dem Verwendungszweck 'Gebäudeversicherung für Höhergestellte'."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Doch das Schlimmste war der Anruf meiner Bank: Jemand hatte meine Identität gestohlen und einen Kredit aufgenommen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Deine Miete ist ein Witz, genau wie dein Leben.",
+      "quote_by": {
+        "level": 4,
+        "name": "Madame Zucchini",
+        "badge": "900 € Miete",
+        "character": "An elegant zucchini woman with a silk scarf and an arrogant posture.",
+        "scene": "Medium shot in a bright apartment doorway, zucchini woman looking down her nose with crossed arms."
+      },
+      "stats": [
+        {
+          "label": "Miete",
+          "value": "550 €",
+          "bar": 0.25
+        },
+        {
+          "label": "Bafög",
+          "value": "450 €",
+          "bar": 0.2
+        },
+        {
+          "label": "qm",
+          "value": "18",
+          "bar": 0.15
+        }
+      ],
+      "character": "An orange woman with vibrant citrus peel skin, wearing paint-splattered overalls and holding a small roller brush; her bright digital display shows her rent.",
+      "visual": "Medium shot of a sunlit, half-empty student room with paint buckets and drop cloths on the floor.",
+      "scenes": [
+        "Medium shot of a sunlit, half-empty student room with paint buckets and drop cloths on the floor.",
+        "Close-up detail of a digital forehead display glowing orange with the number 550.",
+        "Wide shot of a messy shared kitchen with dirty dishes piled high in the sink and a small golden coin hidden near the toaster.",
+        "Medium shot of the orange woman arguing with a zucchini woman in a silk scarf.",
+        "Close-up of a banking app notification on a cracked smartphone showing a red minus balance.",
+        "Wide angle shot of a rainy street corner outside the apartment building with umbrellas passing by."
+      ],
+      "caption": "WG-Gründung ist purer Stress. Wer kennt diesen Moment? #studentenleben #wg #umzug #miete #uni"
+    },
+    {
+      "n": 3,
+      "open_loop": "Wer hatte den Mietvertrag heimlich gefälscht?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Beschuldigt ihn des Hausfriedensbruchs im Treppenhaus."
+      },
+      "name": "Klaus, 31, Lagerist",
+      "badge": "850 € Miete",
+      "verdict": "ALTBAU-STANDARD",
+      "story": "Die 8 Level der ersten Miete. Level 3. Level 3: 850 Euro Miete für zwei Zimmer im Hinterhaus – und der Schimmel wächst im Takt der tropfenden Rohre. Ich trage meinen schweren Couchtisch in den dritten Stock hinauf, schwer schnaufend, als der arrogante Typ aus dem Penthouse vorbeiläuft. Mit dieser Zahl kommst du hier nie an die Spitze, alter Mann. Für ehrliche Arbeit im Lager gibt es eben kein Dankeschön in dieser Welt! Wer so wenig zahlt, bleibt ein Niemand und fliegt als Erster raus. Mitten in den Streit hinein trat der Hausmeister aus der Nebentür und drückte mir ein versiegeltes Dokument in die Hand. Was stand in diesem amtlichen Schreiben, das meine Unterschrift trug, die ich nie geleistet hatte? Der Mietvertrag war von einer unbekannten Person auf den doppelten Betrag hochgeschrieben worden! Noch während ich fassungslos auf das Papier starrte, schloss der Hausmeister das Treppenhaus von außen ab und rief die Security. Wer hatte meine Unterschrift gefälscht und wollte mich aus dem Haus treiben? Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-50 €",
+        "after": "800 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der ersten Miete. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 850 Euro Miete für zwei Zimmer im Hinterhaus – und der Schimmel wächst im Takt der tropfenden Rohre."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich trage meinen schweren Couchtisch in den dritten Stock hinauf, schwer schnaufend, als der arrogante Typ aus dem Penthouse vorbeiläuft."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit dieser Zahl kommst du hier nie an die Spitze, alter Mann.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Für ehrliche Arbeit im Lager gibt es eben kein Dankeschön in dieser Welt!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer so wenig zahlt, bleibt ein Niemand und fliegt als Erster raus.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mitten in den Streit hinein trat der Hausmeister aus der Nebentür und drückte mir ein versiegeltes Dokument in die Hand."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was stand in diesem amtlichen Schreiben, das meine Unterschrift trug, die ich nie geleistet hatte?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Der Mietvertrag war von einer unbekannten Person auf den doppelten Betrag hochgeschrieben worden!"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Noch während ich fassungslos auf das Papier starrte, schloss der Hausmeister das Treppenhaus von außen ab und rief die Security."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wer hatte meine Unterschrift gefälscht und wollte mich aus dem Haus treiben?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Wer so wenig zahlt, bleibt ein Niemand.",
+      "quote_by": {
+        "level": 5,
+        "name": "Viktor",
+        "badge": "1.400 € Miete",
+        "character": "A sleek eggplant man with a sharp tailored suit and silver cufflinks.",
+        "scene": "Wide shot on a marble staircase, eggplant man looking down condescendingly while adjusting his cuffs."
+      },
+      "stats": [
+        {
+          "label": "Miete",
+          "value": "850 €",
+          "bar": 0.35
+        },
+        {
+          "label": "Lohn",
+          "value": "2.100 €",
+          "bar": 0.4
+        },
+        {
+          "label": "qm",
+          "value": "52",
+          "bar": 0.3
+        }
+      ],
+      "character": "A rough coconut man with a hard fibrous shell head, wearing a stained blue worker shirt and heavy boots; his digital display glows steadily.",
+      "visual": "Medium shot in a stairwell with old wooden banisters and scuffed walls.",
+      "scenes": [
+        "Medium shot in a stairwell with old wooden banisters and scuffed walls.",
+        "Close-up of the coconut man's hands gripping a heavy wooden table edge.",
+        "Wide shot of a small living room filled with mismatched furniture and a tiny golden coin on the windowsill.",
+        "Medium shot of the coconut man confronting a sharp eggplant man in a suit.",
+        "Close-up of an official yellow envelope marked 'Dringend' with broken red wax seal.",
+        "Wide shot of a grey cobblestone courtyard surrounded by high brick walls under a hazy sky."
+      ],
+      "caption": "Der tägliche Kampf im Treppenhaus. Wer kennt das? #umzug #wohnung #mietwahnsinn #arbeit #realität"
+    },
+    {
+      "n": 4,
+      "open_loop": "Warum rief der Hausmeister panisch auf dem Festnetz an?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Zieht ohne Erlaubnis den Stromstecker ihrer Waschmaschine."
+      },
+      "name": "Madame Zucchini, 29, Grafikerin",
+      "badge": "1.100 € Miete",
+      "verdict": "BALKON MIT BLICK",
+      "story": "Die 8 Level der ersten Miete. Level 4. Level 4: 1.100 Euro Miete für eine renovierte Altbauwohnung mit aufgearbeiteten Dielenboden. Ich stelle stolz meine neue Design-Lampe auf den Flur, als die gestrenge Nachbarin von oben ohne zu klopfen in meine Räume reinplatzt. So eine Durchschnittszahl wird niemals für die Oberschicht in diesem Block reichen! Ich brauche keine Oberschicht, um glücklich und unabhängig zu sein! Mit diesem Betrag wirst du hier jeden Monat zittern müssen, bis du rausgeekelt wirst. Lachte sie kalt und trat demonstrativ auf meinen frisch verpackten Umzugskartons herum. Plötzlich klingelte das alte Festnetztelefon in der Küche ununterbrochen – ein extrem ungewöhnlicher Anruf, da niemand meine Nummer kennen konnte. Warum rief der Hausmeister panisch auf dem Festnetz an? Er schrie in den Hörer, dass im Keller sämtliche Wasserzähler manipuliert worden seien und mein Stromzähler auf den Namen des Besitzers lief. Bevor ich reagieren konnte, erloschen alle Lichter und ein roter Countdown auf meinem Kühlschrank begann abzulaufen. Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+200 €",
+        "after": "1.300 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der ersten Miete. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 1.100 Euro Miete für eine renovierte Altbauwohnung mit aufgearbeiteten Dielenboden."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stelle stolz meine neue Design-Lampe auf den Flur, als die gestrenge Nachbarin von oben ohne zu klopfen in meine Räume reinplatzt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "So eine Durchschnittszahl wird niemals für die Oberschicht in diesem Block reichen!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich brauche keine Oberschicht, um glücklich und unabhängig zu sein!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit diesem Betrag wirst du hier jeden Monat zittern müssen, bis du rausgeekelt wirst.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Lachte sie kalt und trat demonstrativ auf meinen frisch verpackten Umzugskartons herum."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Plötzlich klingelte das alte Festnetztelefon in der Küche ununterbrochen – ein extrem ungewöhnlicher Anruf, da niemand meine Nummer kennen konnte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Warum rief der Hausmeister panisch auf dem Festnetz an?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Er schrie in den Hörer, dass im Keller sämtliche Wasserzähler manipuliert worden seien und mein Stromzähler auf den Namen des Besitzers lief."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Bevor ich reagieren konnte, erloschen alle Lichter und ein roter Countdown auf meinem Kühlschrank begann abzulaufen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Mit diesem Betrag wirst du hier jeden Monat zittern müssen.",
+      "quote_by": {
+        "level": 6,
+        "name": "Drachenfrucht",
+        "badge": "1.800 € Miete",
+        "character": "An exotic dragonfruit woman with bright magenta skin and crystal earrings.",
+        "scene": "Close-up in a sunlit living room, dragonfruit woman smirking while pointing at a paper."
+      },
+      "stats": [
+        {
+          "label": "Miete",
+          "value": "1.100 €",
+          "bar": 0.5
+        },
+        {
+          "label": "Gehalt",
+          "value": "3.100 €",
+          "bar": 0.55
+        },
+        {
+          "label": "qm",
+          "value": "65",
+          "bar": 0.45
+        }
+      ],
+      "character": "A green zucchini woman with smooth cylindrical skin, wearing a chic beige trench coat and round glasses; her digital display glows softly.",
+      "visual": "Wide shot of a bright, high-ceilinged room with large white windows and wooden flooring.",
+      "scenes": [
+        "Wide shot of a bright, high-ceilinged room with large white windows and wooden flooring.",
+        "Medium shot of the zucchini woman unboxing a modern lamp on a clean white desk.",
+        "Close-up detail of a digital forehead display showing 1100 with a tiny golden coin resting on the window sill.",
+        "Medium shot of the zucchini woman arguing with a dragonfruit woman in magenta.",
+        "Close-up of a smartphone screen showing an abrupt email alert from the landlord.",
+        "Wide angle shot of a peaceful tree-lined avenue outside the balcony during late afternoon."
+      ],
+      "caption": "Der erste eigene Altbau ist ein Traum, aber die Nebenkosten... #altbau #miete #wohnen #interieur #erwachsenwerden"
+    },
+    {
+      "n": 5,
+      "open_loop": "Welche geheime Klausel stand auf Seite 12?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Sperrt die Tiefgarageneinfahrt mit seinem SUV ab."
+      },
+      "name": "Viktor, 35, IT-Berater",
+      "badge": "1.450 € Miete",
+      "verdict": "OBERES DRITTEL",
+      "story": "Die 8 Level der ersten Miete. Level 5. Level 5: 1.450 Euro Miete für drei Zimmer mit moderner Fußbodenheizung. Ich schließe die Balkontür auf, als der Typ im glänzenden Sportwagen unten im Hof hupt und nach oben brüllt. Für so ein kleines Budget kriegst du hier keinen Respekt unter den Investoren, Kollege! Mein Konto ist wenigstens nicht durch illegale Kredite geliehen wie deines! Mit dieser Zahl spielst du in der falschen Liga und wirst noch diesen Monat untergehen. Er gab Vollgas und hinterließ eine dicke Abgaswolke direkt vor meinem frisch geputzten Fenster. Doch als ich den dicken Aktenordner mit den Nebenkostenabrechnungen aufschlug, fiel mir eine unübersehbare Unstimmigkeit auf. Welche geheime Klausel stand auf Seite 12 des Kleingedruckten? Dort war vermerkt, dass bei Mieterwechseln das gesamte Inventar automatisch in den Besitz des Hausbesitzers übergeht! Noch während ich den Kopf schüttelte, klingelte es heftig und ein Gerichtsvollzieher stand mit einer Eigentumsurkunde vor mir. Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "-300 €",
+        "after": "1.150 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der ersten Miete. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 1.450 Euro Miete für drei Zimmer mit moderner Fußbodenheizung."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schließe die Balkontür auf, als der Typ im glänzenden Sportwagen unten im Hof hupt und nach oben brüllt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Für so ein kleines Budget kriegst du hier keinen Respekt unter den Investoren, Kollege!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Konto ist wenigstens nicht durch illegale Kredite geliehen wie deines!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit dieser Zahl spielst du in der falschen Liga und wirst noch diesen Monat untergehen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Er gab Vollgas und hinterließ eine dicke Abgaswolke direkt vor meinem frisch geputzten Fenster."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Doch als ich den dicken Aktenordner mit den Nebenkostenabrechnungen aufschlug, fiel mir eine unübersehbare Unstimmigkeit auf."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welche geheime Klausel stand auf Seite 12 des Kleingedruckten?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Dort war vermerkt, dass bei Mieterwechseln das gesamte Inventar automatisch in den Besitz des Hausbesitzers übergeht!"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Noch während ich den Kopf schüttelte, klingelte es heftig und ein Gerichtsvollzieher stand mit einer Eigentumsurkunde vor mir."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Mit dieser Zahl spielst du in der falschen Liga.",
+      "quote_by": {
+        "level": 7,
+        "name": "Avocado",
+        "badge": "2.200 € Miete",
+        "character": "A smooth avocado man with a dark green skin tone and designer sunglasses.",
+        "scene": "Medium shot near a luxury sports car, avocado man leaning against the door with folded arms."
+      },
+      "stats": [
+        {
+          "label": "Miete",
+          "value": "1.450 €",
+          "bar": 0.65
+        },
+        {
+          "label": "Gehalt",
+          "value": "4.500 €",
+          "bar": 0.7
+        },
+        {
+          "label": "qm",
+          "value": "82",
+          "bar": 0.6
+        }
+      ],
+      "character": "A sleek eggplant man with glossy dark purple skin, wearing a sharp navy suit and thin metal glasses; his forehead display glows bright blue.",
+      "visual": "Wide shot of a modern, minimalist living room with large glass sliding doors leading to a balcony.",
+      "scenes": [
+        "Wide shot of a modern, minimalist living room with large glass sliding doors leading to a balcony.",
+        "Medium shot of the eggplant man unpacking a laptop on a glass dining table.",
+        "Close-up detail of a digital forehead display glowing with 1450 while a tiny golden coin rests on the marble floor.",
+        "Medium shot of the eggplant man looking down at an avocado man in a sports car.",
+        "Close-up of a banking notification flashing red on an expensive tablet screen.",
+        "Wide angle shot of an underground parking garage with polished concrete floors and luxury vehicles."
+      ],
+      "caption": "Wer im Glaspalast wohnt, sollte die Nebenkosten prüfen. #immobilien #miete #karriere #wohnen #finanzen"
+    },
+    {
+      "n": 6,
+      "open_loop": "Warum stand die Polizei plötzlich vor der Penthouse-Tür?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Storniert eigenmächtig den Mietvertrag der gesamten Etage."
+      },
+      "name": "Drachenfrucht, 33, Architektin",
+      "badge": "1.850 € Miete",
+      "verdict": "PENTHOUSE-NIVEAU",
+      "story": "Die 8 Level der ersten Miete. Level 6. Level 6: 1.850 Euro Miete für eine exklusive Dachgeschosswohnung mit privater Dachterrasse über den Dächern. Ich stelle meine moderne Skulptur auf, als der Besitzer des Hauses im Flur auftaucht und mich kühl mustert. Mit dieser Summe kannst du dir hier oben keinen einzigen Fehler erlauben! Ich mache keine Fehler in meinen Plänen, ich plane sie nur von vornherein ein! Selbst mit dieser astronomischen Miete bleibst du nur Mieter zweiter Klasse in meinem Imperium. Er drehte sich um und verschwand im Schatten des Aufzugschachts, während die Automatik-Türen zufielen. In diesem Augenblick flackerten alle Smart-Home-Displays im Loft gleichzeitig auf und zeigten eine rote Fehlermeldung. Warum stand die Polizei plötzlich vor der Penthouse-Tür und forderte Einlass? Sie hatten einen Durchsuchungsbefehl wegen angeblicher Geldwäsche und Industriespionage gegen den Bauherrn. Auf meinem Tablet zeigte eine Live-Kamera, dass der gesamte Flur abgeriegelt wurde und Flucht unmöglich schien. Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "+400 €",
+        "after": "2.250 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der ersten Miete. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 1.850 Euro Miete für eine exklusive Dachgeschosswohnung mit privater Dachterrasse über den Dächern."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stelle meine moderne Skulptur auf, als der Besitzer des Hauses im Flur auftaucht und mich kühl mustert."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit dieser Summe kannst du dir hier oben keinen einzigen Fehler erlauben!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich mache keine Fehler in meinen Plänen, ich plane sie nur von vornherein ein!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Selbst mit dieser astronomischen Miete bleibst du nur Mieter zweiter Klasse in meinem Imperium.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Er drehte sich um und verschwand im Schatten des Aufzugschachts, während die Automatik-Türen zufielen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "In diesem Augenblick flackerten alle Smart-Home-Displays im Loft gleichzeitig auf und zeigten eine rote Fehlermeldung."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Warum stand die Polizei plötzlich vor der Penthouse-Tür und forderte Einlass?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Sie hatten einen Durchsuchungsbefehl wegen angeblicher Geldwäsche und Industriespionage gegen den Bauherrn."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Auf meinem Tablet zeigte eine Live-Kamera, dass der gesamte Flur abgeriegelt wurde und Flucht unmöglich schien."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Selbst mit der Miete bleibst du nur Mieter zweiter Klasse.",
+      "quote_by": {
+        "level": 8,
+        "name": "Kokosnuss",
+        "badge": "??? € Miete",
+        "character": "A mysterious coconut man with a hard textured shell and an impenetrable expression.",
+        "scene": "Wide shot on a glowing rooftop terrace at dusk, coconut man standing in deep shadows."
+      },
+      "stats": [
+        {
+          "label": "Miete",
+          "value": "1.850 €",
+          "bar": 0.8
+        },
+        {
+          "label": "Gehalt",
+          "value": "6.200 €",
+          "bar": 0.85
+        },
+        {
+          "label": "qm",
+          "value": "110",
+          "bar": 0.75
+        }
+      ],
+      "character": "A striking dragonfruit woman with vivid magenta skin and green leafy tips, wearing a sleek white blazer and silver statement earrings; her digital forehead display glows intensely.",
+      "visual": "Wide shot of a luxurious penthouse loft with floor-to-ceiling windows showing the city skyline at sunset.",
+      "scenes": [
+        "Wide shot of a luxurious penthouse loft with floor-to-ceiling windows showing the city skyline at sunset.",
+        "Medium shot of the dragonfruit woman placing a modern art sculpture on a wooden pedestal.",
+        "Close-up detail of a digital forehead display showing 1850 with a tiny golden coin hidden on the balcony railing.",
+        "Medium shot of the dragonfruit woman arguing with a mysterious coconut man in the shadow.",
+        "Close-up of a smart home control panel flashing red warning lights across the wall.",
+        "Wide angle shot of a rooftop terrace overlooking a glowing neon metropolis during a light rain."
+      ],
+      "caption": "Über den Dächern der Stadt zahlt man jeden Blick mit. #penthouse #architektur #luxus #wohnen #design"
+    },
+    {
+      "n": 7,
+      "open_loop": "Was befand sich in dem goldenen Safe hinter dem Gemälde?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Kauft das gesamte Gebäude und kündigt allen Mietern per App."
+      },
+      "name": "Avocado, 40, Investor",
+      "badge": "2.400 € Miete",
+      "verdict": "LUXUS-ETAGE",
+      "story": "Die 8 Level der ersten Miete. Level 7. Level 7: 2.400 Euro Miete und ein privater Aufzug, der direkt in das luxuriöse Penthouse führt. Ich betrachte mein goldenes Porträt im glänzenden Foyer, als der wahre Eigentümer des Häuserblocks hinter mir aus dem Schatten tritt. Mit diesem kleinen Betrag wirst du den Turm niemals besitzen oder kontrollieren können! Wer hoch steigt, kann bekanntlich sehr tief fallen, wenn das Fundament bricht! Das ganze Viertel gehört mir, du bist nur ein Mieter auf Zeit. Er lachte kalt und drückte einen versteckten goldenen Schalter an der marmornen Wand. Was befand sich in dem goldenen Safe, der hinter dem schweren Ölgemälde zum Vorschein kam? Ein Stapel originaler Grundbucheinträge, die bewiesen, dass sämtliche Mietverträge der letzten zehn Jahre manipuliert waren. Doch das Erstaunlichste war ein Brief des jungen Azubis aus Level 1, der das Gebäude angeblich erworben hatte. Wie konnte ein einfacher Azubi der rechtmäßige Eigentümer des teuersten Wolkenkratzers der Stadt sein? Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+600 €",
+        "after": "3.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der ersten Miete. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 2.400 Euro Miete und ein privater Aufzug, der direkt in das luxuriöse Penthouse führt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich betrachte mein goldenes Porträt im glänzenden Foyer, als der wahre Eigentümer des Häuserblocks hinter mir aus dem Schatten tritt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit diesem kleinen Betrag wirst du den Turm niemals besitzen oder kontrollieren können!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Wer hoch steigt, kann bekanntlich sehr tief fallen, wenn das Fundament bricht!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Das ganze Viertel gehört mir, du bist nur ein Mieter auf Zeit.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Er lachte kalt und drückte einen versteckten goldenen Schalter an der marmornen Wand."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Was befand sich in dem goldenen Safe, der hinter dem schweren Ölgemälde zum Vorschein kam?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Ein Stapel originaler Grundbucheinträge, die bewiesen, dass sämtliche Mietverträge der letzten zehn Jahre manipuliert waren."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Doch das Erstaunlichste war ein Brief des jungen Azubis aus Level 1, der das Gebäude angeblich erworben hatte."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Wie konnte ein einfacher Azubi der rechtmäßige Eigentümer des teuersten Wolkenkratzers der Stadt sein?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Das ganze Viertel gehört mir, du bist nur ein Mieter auf Zeit.",
+      "quote_by": {
+        "level": 8,
+        "name": "Kokosnuss",
+        "badge": "MAXIMAL",
+        "character": "An immaculate coconut man with a polished brown shell and custom gold cufflinks.",
+        "scene": "Close-up in a lavish private elevator, coconut man looking straight ahead with absolute dominance."
+      },
+      "stats": [
+        {
+          "label": "Miete",
+          "value": "2.400 €",
+          "bar": 0.9
+        },
+        {
+          "label": "Gehalt",
+          "value": "9.500 €",
+          "bar": 0.95
+        },
+        {
+          "label": "qm",
+          "value": "150",
+          "bar": 0.9
+        }
+      ],
+      "character": "A smooth avocado man with rich green skin, wearing a tailored Italian suit and designer sunglasses resting on his head; his forehead display glows brightly.",
+      "visual": "Wide shot of a sprawling luxury foyer with polished marble floors and a private elevator.",
+      "scenes": [
+        "Wide shot of a sprawling luxury foyer with polished marble floors and a private elevator.",
+        "Medium shot of the avocado man adjusting his gold watch near a floor-to-ceiling glass window.",
+        "Close-up detail of a digital forehead display showing 2400 with a tiny golden coin resting on the marble ledge.",
+        "Medium shot of the avocado man confronting the powerful coconut man in the private elevator.",
+        "Close-up of digital building blueprints showing entire floor ownership transfers.",
+        "Wide angle shot of the city skyline at night from a massive glass balcony."
+      ],
+      "caption": "Wer oben steht, verliert oft den Boden unter den Füßen. #investor #luxus #immobilien #miete #erfolg"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches Thema sollen wir als Nächstes zeigen?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Vergisst den Schlüssel im Schloss und schließt alle aus."
+      },
+      "name": "Kokosnuss, 45, Eigentümer",
+      "badge": "99.999 €",
+      "verdict": "DAS GANZE HAUS",
+      "story": "Die 8 Level der ersten Miete. Level 8. Level 8: 99.999 Euro Mieteinnahmen – ich besitze jeden einzelnen Stein in dieser neonbeleuchteten Stadt. Ich stehe auf dem höchsten Turm und sehe all die Gesichter unten im Viertel: den Azubi, die Studentin, den Investor. Sie alle haben gestritten, gezählt und geweint wegen einer einzigen Zahl auf ihrer Stirn. Doch als ich den letzten finalen Mietvertrag öffne, steht dort nicht meine Kontonummer, sondern der Name des Jungen aus Level 1. Die Zahl lügt nie, aber sie gehört längst niemandem mehr in dieser verkehrten Welt. Mit einem leisen Klick schloss sich der Kreis aller acht Level und die gesamte Stadt begann unter dem Sonnenaufgang zu strahlen. Welches verborgene Thema der Welt der Stirn-Zahl sollen wir als Nächstes für dich enthüllen und aufdecken? Schreib es jetzt sofort unten in die Kommentare, teile das Video und verpasse kein neues Abenteuer aus dieser Reihe!",
+      "gender": "m",
+      "twist": {
+        "delta": "0 €",
+        "after": "99.999 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level der ersten Miete. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 99.999 Euro Mieteinnahmen – ich besitze jeden einzelnen Stein in dieser neonbeleuchteten Stadt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe auf dem höchsten Turm und sehe all die Gesichter unten im Viertel: den Azubi, die Studentin, den Investor."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sie alle haben gestritten, gezählt und geweint wegen einer einzigen Zahl auf ihrer Stirn.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch als ich den letzten finalen Mietvertrag öffne, steht dort nicht meine Kontonummer, sondern der Name des Jungen aus Level 1."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die Zahl lügt nie, aber sie gehört längst niemandem mehr in dieser verkehrten Welt.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mit einem leisen Klick schloss sich der Kreis aller acht Level und die gesamte Stadt begann unter dem Sonnenaufgang zu strahlen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches verborgene Thema der Welt der Stirn-Zahl sollen wir als Nächstes für dich enthüllen und aufdecken?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Schreib es jetzt sofort unten in die Kommentare, teile das Video und verpasse kein neues Abenteuer aus dieser Reihe!"
+        }
+      ],
+      "quote": "Die Zahl lügt nie, aber sie gehört längst niemandem mehr.",
+      "quote_by": {
+        "level": 1,
+        "name": "Finn",
+        "badge": "380 €",
+        "character": "A young strawberry boy looking up with absolute determination.",
+        "scene": "Wide shot on a glowing rooftop helipad, strawberry boy holding the master deed while the coconut man looks on in shock."
+      },
+      "stats": [
+        {
+          "label": "Besitz",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Miete",
+          "value": "0 €",
+          "bar": 1.0
+        },
+        {
+          "label": "Wert",
+          "value": "MAX",
+          "bar": 1.0
+        }
+      ],
+      "character": "An enigmatic coconut man with a hard fibrous shell head, wearing an impeccably tailored velvet coat and gold-rimmed glasses; his forehead display glows with an infinite infinity symbol.",
+      "visual": "Wide panoramic shot from the highest glass spire overlooking the entire fruit and vegetable metropolis at sunrise.",
+      "scenes": [
+        "Wide panoramic shot from the highest glass spire overlooking the entire fruit and vegetable metropolis at sunrise.",
+        "Medium shot of the coconut man looking down at the streets holding a golden portfolio.",
+        "Close-up detail of a digital forehead display glowing with an infinite symbol while a pure golden coin rests on the steel railing.",
+        "Medium shot of all previous characters gathered together in the central courtyard looking up.",
+        "Close-up of a master deed document with signatures from all eight levels.",
+        "Wide cinematic final shot of the glowing city as day breaks completely over the towers."
+      ],
+      "caption": "Das Finale aller Level. Welches Thema kommt als Nächstes? #finale #mietwahnsinn #stirnzahl #geschichte #viral"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das heimliche Vergleichen der Mietpreise beim Einzug in die erste eigene Bruchbude",
+  "frame": "frucht"
+}

@@ -1,0 +1,806 @@
+{
+  "title": "The 8 Levels of Reality Show Binges",
+  "house": "A bustling metropolis of produce-people where glowing digital forehead numbers dictate social class, neon billboards flash streaming subscriptions, and every subway car features a gold coin hidden on the ads.",
+  "catchphrase": "The forehead number never lies, but the watch history exposes your soul.",
+  "links": [
+    "Level 2 baristas mention a brooding carrot customer who leaves massive tips.",
+    "Level 5 developer spots a glowing avocado missing her designer purse at the neon kiosk.",
+    "Level 8 executive remembers the quiet plum girl from the late shift."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Why did the lead accountant suddenly freeze when the viewing statistics projected onto the office screen?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Laughs loudly at her low binge-watch hours and labels her a basic amateur in front of the entire conference room."
+      },
+      "name": "Pip, 24, Junior Assistant",
+      "badge": "12 hrs/mo",
+      "verdict": "TOTAL AMATEUR",
+      "story": "The 8 levels of reality show consumption. Level 1. Twelve hours a month on cheap reality shows—and my new boss just saw my browser tab! Twelve hours? That is rookie numbers around here, Pip. You are practically allergic to drama. I slouched behind my dual monitors at desks crowded with half-empty energy drinks in our fluorescent-lit open-plan office. How do you even function without crying over staged trash-TV breakups until 3 AM? I gripped my chipped ceramic mug tightly while searching for an escape route through the glass partitions. You will never survive the corporate elite with numbers like that. Brody had already planted a corrupted file in my local network folder just to humiliate me further. If you cannot explain this viewing drop by noon, your career here is officially over, Pip. You'll see that in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+50 hrs",
+        "after": "62 hrs/mo"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of reality show consumption. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Twelve hours a month on cheap reality shows—and my new boss just saw my browser tab!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Twelve hours? That is rookie numbers around here, Pip. You are practically allergic to drama.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I slouched behind my dual monitors at desks crowded with half-empty energy drinks in our fluorescent-lit open-plan office."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "How do you even function without crying over staged trash-TV breakups until 3 AM?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I gripped my chipped ceramic mug tightly while searching for an escape route through the glass partitions."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You will never survive the corporate elite with numbers like that.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Brody had already planted a corrupted file in my local network folder just to humiliate me further."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "If you cannot explain this viewing drop by noon, your career here is officially over, Pip.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You will never survive the corporate elite with numbers like that.",
+      "quote_by": {
+        "level": 6,
+        "badge": "450 hrs",
+        "name": "Brody",
+        "character": "A smug, tall brocco-man with a tailored suit and a condescending smirk.",
+        "scene": "Wide angle shot in a modern glass corporate office with Brody leaning over a small desk, pointing mockingly at a glowing forehead."
+      },
+      "stats": [
+        {
+          "label": "Monthly Hours",
+          "value": "12 hrs",
+          "bar": 0.05
+        },
+        {
+          "label": "Guilty Pleasure",
+          "value": "Low",
+          "bar": 0.1
+        },
+        {
+          "label": "Social Rank",
+          "value": "Bottom",
+          "bar": 0.02
+        }
+      ],
+      "character": "Pip is a small strawberry-woman with freckled red skin, wearing a baggy grey hoodie, silver hoop earrings, and a glowing digital forehead badge.",
+      "visual": "Wide angle of a fluorescent-lit open-plan office with grey cubicles, green plant accents, and a hidden gold coin on a coffee cup.",
+      "scenes": [
+        "Wide shot of a bustling open-plan office under harsh fluorescent lights, employees typing furiously, golden coin resting on a water cooler.",
+        "Medium shot of Pip clutching her chipped mug, strawberry skin flushing red with embarrassment.",
+        "Close-up of Brody's broccoli head and glowing 450 hrs forehead display sneering down.",
+        "Detail shot of dual computer monitors reflecting colorful trash-TV pause screens.",
+        "Over-the-shoulder shot looking past Pip at the glass conference room doors in the rainy downtown district.",
+        "Close-up of the glowing digital badge shifting from 12 to 62 hours after the system update."
+      ],
+      "caption": "Could you survive working with a reality show snob? Drop your monthly watch hours below! #RealityTV #OfficeDrama #StirnZahl #SecretObsession #CorporateLife"
+    },
+    {
+      "n": 2,
+      "open_loop": "What was hidden inside the encrypted flash drive that dropped onto the subway floor?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Snatches her popcorn bucket on the train and mocks her for crying over a 2012 dating show reunion."
+      },
+      "name": "Toby, 29, Transit Dispatcher",
+      "badge": "85 hrs/mo",
+      "verdict": "CASUAL WATCHER",
+      "story": "The 8 levels of reality show consumption. Level 2. Eighty-five hours a month—and my entire train car just heard my tablet blare the theme song. Eighty-five hours of garbage TV? Even the subway rats have better taste. I stood frozen in the packed underground carriage rattling beneath neon-drenched city streets while commuters stared at my orange-peel skin turning pale. Do you need a tissue for your fake tears, drama queen? I shoved my tablet into my canvas satchel, desperately wishing the subway floor would swallow me whole. Your secret playlist is about to be emailed to your entire department. The emergency brakes screeched violently, plunging the entire underground carriage into pitch blackness. Look at the central terminal screens! Everyone's watch history is being broadcast live to the city! You'll see that in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+110 hrs",
+        "after": "195 hrs/m"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of reality show consumption. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Eighty-five hours a month—and my entire train car just heard my tablet blare the theme song."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Eighty-five hours of garbage TV? Even the subway rats have better taste.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I stood frozen in the packed underground carriage rattling beneath neon-drenched city streets while commuters stared at my orange-peel skin turning pale."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Do you need a tissue for your fake tears, drama queen?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I shoved my tablet into my canvas satchel, desperately wishing the subway floor would swallow me whole."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your secret playlist is about to be emailed to your entire department.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "The emergency brakes screeched violently, plunging the entire underground carriage into pitch blackness."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Look at the central terminal screens! Everyone's watch history is being broadcast live to the city!",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Your secret playlist is about to be emailed to your entire department.",
+      "quote_by": {
+        "level": 7,
+        "badge": "890 hrs",
+        "name": "Marcus",
+        "character": "A sleek, golden mango-man wearing designer sunglasses indoors and a tailored trench coat.",
+        "scene": "Medium shot inside a crowded subway train with Marcus sneering down at a seated orange person, holding a smartphone."
+      },
+      "stats": [
+        {
+          "label": "Monthly Hours",
+          "value": "85 hrs",
+          "bar": 0.22
+        },
+        {
+          "label": "Guilty Pleasure",
+          "value": "Medium",
+          "bar": 0.3
+        },
+        {
+          "label": "Social Rank",
+          "value": "Average",
+          "bar": 0.25
+        }
+      ],
+      "character": "Toby is a zesty orange-man with textured citrus skin, wearing a faded denim jacket, a knit beanie, and carrying a worn leather satchel.",
+      "visual": "Medium shot inside a crowded underground subway carriage with flickering fluorescent tubes and a hidden gold coin on a metal handrail.",
+      "scenes": [
+        "Medium shot inside a packed subway train at night, flickering lights reflecting off windows, golden coin on the door frame.",
+        "Close-up of Toby's orange textured skin sweating under harsh commuter stares.",
+        "Wide angle of Marcus in a sharp trench coat pointing mockingly at the tablet screen.",
+        "Detail shot of the cracked tablet screen playing a neon-colored reality show title card.",
+        "Over-the-shoulder shot of commuters whispering behind newspapers and shopping bags.",
+        "Close-up of the digital forehead display glitching and ticking up from 85 to 195 hours."
+      ],
+      "caption": "Ever had your guilty pleasure audio blast out loud on public transit? #SubwayDrama #RealityTVAddict #StirnZahl #EmbarrassingMoments #CommuteLife"
+    },
+    {
+      "n": 3,
+      "open_loop": "Who slipped the anonymous blackmail note into her locker before the morning pitch meeting?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Steals her reserved conference seat and mocks her multi-season binge marathon history."
+      },
+      "name": "Cleo, 26, Marketing Copywriter",
+      "badge": "195 hrs/mo",
+      "verdict": "HEAVY CONSUMER",
+      "story": "The 8 levels of reality show consumption. Level 3. One hundred ninety-five hours a month—and my CEO just caught me watching island makeout dramas during a budget review! Look at her eyes, she has not seen sunlight since the streaming age began. I slammed my laptop shut in the sleek glass boardroom overlooking the misty skyline while my avocado skin tingled with embarrassment. Is this what our marketing budget goes toward, or do you just fund your emotional breakdowns? I gripped the edges of my sleek mahogany chair, refusing to let my voice shake in front of the board of directors. Pack your desk by noon or your viewing history goes viral. The projector screen suddenly shifted to display a top-secret corporate directive overriding my terminal. The entire marketing division has been reassigned to manual data archiving in the basement. You'll see that in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "+150 hrs",
+        "after": "345 hrs/m"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of reality show consumption. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "One hundred ninety-five hours a month—and my CEO just caught me watching island makeout dramas during a budget review!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Look at her eyes, she has not seen sunlight since the streaming age began.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I slammed my laptop shut in the sleek glass boardroom overlooking the misty skyline while my avocado skin tingled with embarrassment."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Is this what our marketing budget goes toward, or do you just fund your emotional breakdowns?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I gripped the edges of my sleek mahogany chair, refusing to let my voice shake in front of the board of directors."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Pack your desk by noon or your viewing history goes viral.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "The projector screen suddenly shifted to display a top-secret corporate directive overriding my terminal."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "The entire marketing division has been reassigned to manual data archiving in the basement.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Pack your desk by noon or your viewing history goes viral.",
+      "quote_by": {
+        "level": 8,
+        "badge": "1,450 hrs",
+        "name": "Nicole",
+        "character": "A polished, pristine coco-woman with a hard white shell helmet and an ultra-expensive minimalist white pantsuit.",
+        "scene": "Wide shot in a luxurious penthouse boardroom with floor-to-ceiling windows, Nicole standing triumphantly by the projector screen."
+      },
+      "stats": [
+        {
+          "label": "Monthly Hours",
+          "value": "195 hrs",
+          "bar": 0.45
+        },
+        {
+          "label": "Guilty Pleasure",
+          "value": "Extreme",
+          "bar": 0.7
+        },
+        {
+          "label": "Social Rank",
+          "value": "Vulnerable",
+          "bar": 0.4
+        }
+      ],
+      "character": "Cleo is a smooth green avocado-woman with dark seed-brown hair, wearing a sleek beige blazer, tortoiseshell glasses, and a glowing forehead badge.",
+      "visual": "Wide angle of a high-tech boardroom with a large projection screen, city skyline view in the rain, and a hidden gold coin on the conference table.",
+      "scenes": [
+        "Wide shot of a luxury glass boardroom at dusk, neon city lights glowing outside, golden coin on the mahogany desk.",
+        "Medium shot of Cleo's smooth avocado face paling as the projector reveals her streaming stats.",
+        "Close-up of Nicole's coconut shell head grinning smugly under her glowing 1,200 hour badge.",
+        "Detail shot of a sleek laptop screen displaying an open trash-TV streaming tab.",
+        "Over-the-shoulder shot of nervous coworkers whispering behind leather folders.",
+        "Close-up of the forehead digital display jumping from 195 to 345 hours after the forced data sync."
+      ],
+      "caption": "What would you do if your entire office saw your secret binge-watch log? #CorporateDrama #BingeWatch #StirnZahl #OfficePolitics #RealityTV"
+    },
+    {
+      "n": 4,
+      "open_loop": "Who hacked into the neon streaming kiosk and replaced all movie trailers with her secret diary?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Laughs at her for spending all night watching trashy mansion dating shows instead of studying."
+      },
+      "name": "Zack, 22, University Student",
+      "badge": "345 hrs/mo",
+      "verdict": "ADDICTED BINGER",
+      "story": "The 8 levels of reality show consumption. Level 4. Three hundred forty-five hours a month—and my entire lecture hall is watching my live reaction to the season finale! Three hundred forty-five hours of garbage? Even my cat has a better GPA than you. I stood frozen in the middle of our crowded university amphitheater while my lemon-rind skin turned sour with humiliation. Are you actually taking notes on crying millionaires while organic chemistry finals are tomorrow? I slammed my backpack shut, scattering my lecture notes across the dusty wooden floorboards while students howled with laughter. Your professor just subscribed to your live reaction feed. Campus security suddenly bolted the heavy oak doors shut from the outside. Nobody leaves until the streaming algorithm completes its mandatory student behavior assessment. You'll see that in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+200 hrs",
+        "after": "545 hrs/m"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of reality show consumption. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Three hundred forty-five hours a month—and my entire lecture hall is watching my live reaction to the season finale!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Three hundred forty-five hours of garbage? Even my cat has a better GPA than you.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I stood frozen in the middle of our crowded university amphitheater while my lemon-rind skin turned sour with humiliation."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Are you actually taking notes on crying millionaires while organic chemistry finals are tomorrow?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I slammed my backpack shut, scattering my lecture notes across the dusty wooden floorboards while students howled with laughter."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your professor just subscribed to your live reaction feed.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Campus security suddenly bolted the heavy oak doors shut from the outside."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Nobody leaves until the streaming algorithm completes its mandatory student behavior assessment.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Your professor just subscribed to your live reaction feed.",
+      "quote_by": {
+        "level": 1,
+        "badge": "12 hrs",
+        "name": "Pip",
+        "character": "A tiny strawberry-woman with bright freckles, wearing an oversized hoodie and holding a stack of textbooks.",
+        "scene": "Medium shot in a tiered university lecture hall with Pip pointing up at a massive projection screen showing reality show clips."
+      },
+      "stats": [
+        {
+          "label": "Monthly Hours",
+          "value": "345 hrs",
+          "bar": 0.6
+        },
+        {
+          "label": "Guilty Pleasure",
+          "value": "Severe",
+          "bar": 0.85
+        },
+        {
+          "label": "Social Rank",
+          "value": "Exposed",
+          "bar": 0.55
+        }
+      ],
+      "character": "Zack is a tart yellow lemon-man with textured citrus skin, wearing a crumpled vintage bomber jacket, headphones around his neck, and a glowing forehead badge.",
+      "visual": "Wide angle of a tiered university lecture hall with wooden desks, bright morning sunlight streaming through windows, and a hidden gold coin on the podium base.",
+      "scenes": [
+        "Wide shot of a historic university lecture hall with tiered wooden seating, bright morning light, hidden coin on the front row desk.",
+        "Medium shot of Zack's yellow lemon skin turning pale as students point at the projector screen.",
+        "Close-up of Pip's strawberry head grinning mockingly beneath her tiny 12-hour badge.",
+        "Detail shot of scattered chemistry notebooks and a buzzing tablet on the wooden desktop.",
+        "Over-the-shoulder shot looking toward the amphitheater exit doors blocked by laughing peers.",
+        "Close-up of the digital forehead display ticking upward rapidly from 345 to 545 hours."
+      ],
+      "caption": "Ever accidentally cast your private screen to a room full of strangers? #CollegeLife #RealityTV #StirnZahl #StudentStruggles #Embarrassing"
+    },
+    {
+      "n": 5,
+      "open_loop": "Who wired the mysterious five-figure donation into her streaming channel account?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Threatens to expose her subscription spending to her landlord and cuts off her building Wi-Fi."
+      },
+      "name": "Maya, 27, Independent Streamer",
+      "badge": "545 hrs/mo",
+      "verdict": "HARDCORE STREAMER",
+      "story": "The 8 levels of reality show consumption. Level 5. Five hundred forty-five hours a month—and my entire subscriber base just watched my rent check bounce live on stream! Five hundred forty-five hours of talking to empty chat rooms while your real life crumbles. I sat in my neon-lit streaming studio surrounded by ring lights and empty energy drink cans while my dragon-fruit scales flushed bright pink. Do you expect your fictional reality boyfriends to pay your electric bill when the power gets shut off? I clutched my streaming microphone tightly, fighting back tears as three thousand live viewers watched the disaster unfold. Your streaming studio lease has just been terminated by the landlord. A high-priority donation alert suddenly chimed across my audio monitoring software. Check your encrypted messages, Maya. The master network servers are wide open tonight. You'll see that in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+250 hrs",
+        "after": "795 hrs/m"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of reality show consumption. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Five hundred forty-five hours a month—and my entire subscriber base just watched my rent check bounce live on stream!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Five hundred forty-five hours of talking to empty chat rooms while your real life crumbles.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I sat in my neon-lit streaming studio surrounded by ring lights and empty energy drink cans while my dragon-fruit scales flushed bright pink."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Do you expect your fictional reality boyfriends to pay your electric bill when the power gets shut off?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I clutched my streaming microphone tightly, fighting back tears as three thousand live viewers watched the disaster unfold."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your streaming studio lease has just been terminated by the landlord.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "A high-priority donation alert suddenly chimed across my audio monitoring software."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Check your encrypted messages, Maya. The master network servers are wide open tonight.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Your streaming studio lease has just been terminated by the landlord.",
+      "quote_by": {
+        "level": 3,
+        "badge": "195 hrs",
+        "name": "Cleo",
+        "character": "An sleek avocado-woman in a sharp beige blazer, wearing tortoiseshell glasses and an unimpressed expression.",
+        "scene": "Medium shot inside a neon-lit bedroom studio with Cleo standing in the doorway, holding a clipboard and looking down at the streamer."
+      },
+      "stats": [
+        {
+          "label": "Monthly Hours",
+          "value": "545 hrs",
+          "bar": 0.75
+        },
+        {
+          "label": "Guilty Pleasure",
+          "value": "Obsessive",
+          "bar": 0.9
+        },
+        {
+          "label": "Social Rank",
+          "value": "Failing",
+          "bar": 0.7
+        }
+      ],
+      "character": "Maya is an exotic pink dragon-fruit woman with green-tipped scale spikes, wearing a glowing LED headset, an oversized graphic tee, and her digital forehead badge.",
+      "visual": "Wide angle of a cozy, chaotic bedroom streaming studio with purple and blue RGB lighting, ring lights, and a hidden gold coin on a microphone stand.",
+      "scenes": [
+        "Wide shot of a cramped bedroom studio glowing with purple and pink LED lights, golden coin taped under the desk.",
+        "Medium shot of Maya's dragon-fruit scales flushing pink in panic as the bank alert flashes on screen.",
+        "Close-up of Cleo's avocado face sneering in the doorway with her 195-hour badge shining.",
+        "Detail shot of a computer monitor displaying a negative bank account balance and live chat scrolling rapidly.",
+        "Over-the-shoulder shot looking past Maya at the chaotic stack of empty energy drink cans.",
+        "Close-up of the digital forehead display jumping instantly from 545 to 795 hours."
+      ],
+      "caption": "Have you ever let a hobby consume your entire life until reality hit? #StreamingLife #RealityTV #StirnZahl #ContentCreator #Drama"
+    },
+    {
+      "n": 6,
+      "open_loop": "What was recorded on the security camera footage outside the VIP streaming lounge?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Exposes his low-tier streaming subscriptions on a public billboard in the financial district."
+      },
+      "name": "Brody, 31, Reality Show Producer",
+      "badge": "795 hrs/mo",
+      "verdict": "INDUSTRY ADDICT",
+      "story": "The 8 levels of reality show consumption. Level 6. Seven hundred ninety-five hours a month—and my own network executives just confiscated my master viewing pass! Seven hundred ninety-five hours of editing trash TV and you still cannot tell scripted drama from real life. I paced across the polished marble floor of our downtown broadcasting tower while my broccoli-floret hair bristled with pure rage. Are you really crying because the network cancelled your favorite trashy romance spinoff? I clenched my fists inside my tailored suit pockets, feeling my professional reputation evaporate into thin air. Your master archive access has been revoked by the board of directors. The central mainframe alarms wailed as the emergency purge countdown hit zero on all monitors. Sir, someone is deliberately uploading a master override file from the executive penthouse! You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+300 hrs",
+        "after": "1,095 hrs"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of reality show consumption. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Seven hundred ninety-five hours a month—and my own network executives just confiscated my master viewing pass!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Seven hundred ninety-five hours of editing trash TV and you still cannot tell scripted drama from real life.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I paced across the polished marble floor of our downtown broadcasting tower while my broccoli-floret hair bristled with pure rage."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Are you really crying because the network cancelled your favorite trashy romance spinoff?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I clenched my fists inside my tailored suit pockets, feeling my professional reputation evaporate into thin air."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your master archive access has been revoked by the board of directors.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "The central mainframe alarms wailed as the emergency purge countdown hit zero on all monitors."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Sir, someone is deliberately uploading a master override file from the executive penthouse!",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "Your master archive access has been revoked by the board of directors.",
+      "quote_by": {
+        "level": 2,
+        "badge": "85 hrs",
+        "name": "Toby",
+        "character": "A rugged orange-man in a worn transit jacket, holding a dispatcher cap and grinning confidently.",
+        "scene": "Wide shot in a sleek marble broadcasting lobby with Toby leaning against a glass pillar, holding up a revoked security badge."
+      },
+      "stats": [
+        {
+          "label": "Monthly Hours",
+          "value": "795 hrs",
+          "bar": 0.88
+        },
+        {
+          "label": "Guilty Pleasure",
+          "value": "Professional",
+          "bar": 0.95
+        },
+        {
+          "label": "Social Rank",
+          "value": "Elite Fall",
+          "bar": 0.8
+        }
+      ],
+      "character": "Brody is a tall broccoli-man with tightly clustered green florets, wearing a tailored charcoal suit, a silk tie, and his glowing forehead badge.",
+      "visual": "Wide angle of a luxury television network lobby with polished white marble floors, dramatic golden pillars, and a hidden coin on a reception desk.",
+      "scenes": [
+        "Wide shot of a luxury broadcasting skyscraper lobby at night, marble floors reflecting neon city signs, golden coin on the front desk.",
+        "Medium shot of Brody's broccoli head bristling with anger as his security pass deactivates.",
+        "Close-up of Toby's orange textured skin smiling in triumph beneath his 85-hour badge.",
+        "Detail shot of a glowing digital turnstile rejecting a black executive access card.",
+        "Over-the-shoulder shot looking out the massive glass doors at the rainy downtown street.",
+        "Close-up of the digital forehead display ticking upward from 795 to 1,095 hours."
+      ],
+      "caption": "What happens when the reality TV producer gets addicted to his own shows? #Broadcasting #RealityTV #StirnZahl #ProducerLife #CorporateDrama"
+    },
+    {
+      "n": 7,
+      "open_loop": "Who leaked the confidential master broadcast schedule to the rival streaming conglomerate?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Interrupts her VIP broadcast and exposes her total monthly streaming addiction to the press."
+      },
+      "name": "Marcus, 35, Head of Network Syndication",
+      "badge": "1,095 hrs/mo",
+      "verdict": "MEDIA MOGUL",
+      "story": "The 8 levels of reality show consumption. Level 7. One thousand ninety-five hours a month—and my entire media empire is crashing down because my viewing logs leaked! One thousand ninety-five hours of streaming addiction while running the biggest network in the country. I stood in my private penthouse office overlooking the glowing city skyline while my mango-skin turned a pale, sickly yellow. Do you expect the board to keep a network chief who spends more time watching trash TV than producing it? I gripped the edge of my custom glass desk, realizing my entire career had been built on a foundation of sand. Your resignation letter has already been sent to every major news outlet. The private elevator bell chimed softly as the security team blocked my escape route. Step away from the console, Marcus. The Supreme CEO is waiting upstairs. You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+355 hrs",
+        "after": "1,450 hrs"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of reality show consumption. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "One thousand ninety-five hours a month—and my entire media empire is crashing down because my viewing logs leaked!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "One thousand ninety-five hours of streaming addiction while running the biggest network in the country.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I stood in my private penthouse office overlooking the glowing city skyline while my mango-skin turned a pale, sickly yellow."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Do you expect the board to keep a network chief who spends more time watching trash TV than producing it?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I gripped the edge of my custom glass desk, realizing my entire career had been built on a foundation of sand."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your resignation letter has already been sent to every major news outlet.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "The private elevator bell chimed softly as the security team blocked my escape route."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Step away from the console, Marcus. The Supreme CEO is waiting upstairs.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "Your resignation letter has already been sent to every major news outlet.",
+      "quote_by": {
+        "level": 5,
+        "badge": "545 hrs",
+        "name": "Maya",
+        "character": "An exotic dragon-fruit woman with bright pink skin and green scale spikes, wearing a sharp executive jacket.",
+        "scene": "Wide shot in a lavish glass penthouse office with Maya holding a glowing tablet and confronting a panicked mango-man."
+      },
+      "stats": [
+        {
+          "label": "Monthly Hours",
+          "value": "1,095 hrs",
+          "bar": 0.95
+        },
+        {
+          "label": "Guilty Pleasure",
+          "value": "Maximum",
+          "bar": 0.98
+        },
+        {
+          "label": "Social Rank",
+          "value": "Summit",
+          "bar": 0.92
+        }
+      ],
+      "character": "Marcus is a smooth golden mango-man with vibrant orange-yellow skin, wearing an expensive tailored trench coat, designer sunglasses, and his glowing forehead badge.",
+      "visual": "Wide angle of a luxurious penthouse office at night with floor-to-ceiling windows overlooking a rainy cyberpunk skyline, hidden coin on the windowsill.",
+      "scenes": [
+        "Wide shot of a luxury penthouse office with panoramic rainy city views, golden coin resting on the marble windowsill.",
+        "Medium shot of Marcus's smooth mango skin sweating under harsh indoor lighting as news alerts pop up.",
+        "Close-up of Maya's dragon-fruit head smirking triumphantly beneath her glowing 545-hour badge.",
+        "Detail shot of a tablet screen displaying breaking news headlines and leaked streaming logs.",
+        "Over-the-shoulder shot looking out at the glittering neon skyscrapers flashing in the storm.",
+        "Close-up of the digital forehead display surging upward from 1,095 to 1,450 hours."
+      ],
+      "caption": "When the ultimate media boss gets exposed for watching too much reality TV! #MediaMogul #RealityTV #StirnZahl #PenthouseDrama #Scandal"
+    },
+    {
+      "n": 8,
+      "open_loop": "Who truly controls the global streaming network behind the glowing forehead numbers?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Attempts to audit her personal archive but discovers she owns the entire streaming corporation."
+      },
+      "name": "Nicole, 42, Supreme Streaming CEO",
+      "badge": "1,450 hrs/mo",
+      "verdict": "THE ARCHITECT",
+      "story": "The 8 levels of reality show consumption. Level 8. Final Level. One thousand four-hundred fifty hours a month—and I am the one who scripted every single drama you ever watched! I whispered while gazing down at the entire glowing metropolis from my glass citadel. Every single fight, every broken engagement, every viral tear was engineered in this very room to feed your digital numbers. Cleo the Avocado stared up at me from the lower terrace, her 195-hour badge trembling beneath the flashing neon skyline. You built an entire society on judging people by their watch history. I adjusted my pristine white shell helmet, smiling as my digital forehead badge pulsed with absolute authority over every citizen below. My own forehead number began to flicker violently, exposing a hidden ninth tier deep within the master mainframe. Warning: Supreme Administrator session terminating. The viewers are now watching you. Who do you think is really watching your screen right now?",
+      "gender": "w",
+      "twist": {
+        "delta": "MAX",
+        "after": "1,450 hrs"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of reality show consumption. Level 8. Final Level."
+        },
+        {
+          "s": "Figur",
+          "t": "One thousand four-hundred fifty hours a month—and I am the one who scripted every single drama you ever watched!"
+        },
+        {
+          "s": "Figur",
+          "t": "I whispered while gazing down at the entire glowing metropolis from my glass citadel."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Every single fight, every broken engagement, every viral tear was engineered in this very room to feed your digital numbers.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Cleo the Avocado stared up at me from the lower terrace, her 195-hour badge trembling beneath the flashing neon skyline."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You built an entire society on judging people by their watch history.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I adjusted my pristine white shell helmet, smiling as my digital forehead badge pulsed with absolute authority over every citizen below."
+        },
+        {
+          "s": "Figur",
+          "t": "My own forehead number began to flicker violently, exposing a hidden ninth tier deep within the master mainframe."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Warning: Supreme Administrator session terminating. The viewers are now watching you.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Who do you think is really watching your screen right now?"
+        }
+      ],
+      "quote": "Who do you think is really watching your screen right now?",
+      "quote_by": {
+        "level": 8,
+        "badge": "1,450 hrs",
+        "name": "Nicole",
+        "character": "A pristine coconut-woman with a hard white shell helmet and an ultra-expensive minimalist white pantsuit.",
+        "scene": "Wide angle cinematic shot from a high-tech glass spire overlooking a glowing futuristic city, Nicole holding a champagne glass with her 1,450 badge glowing brightly."
+      },
+      "stats": [
+        {
+          "label": "Monthly Hours",
+          "value": "1,450 hrs",
+          "bar": 1.0
+        },
+        {
+          "label": "Guilty Pleasure",
+          "value": "Absolute",
+          "bar": 1.0
+        },
+        {
+          "label": "Social Rank",
+          "value": "Architect",
+          "bar": 1.0
+        }
+      ],
+      "character": "Nicole is a pristine coconut-woman with a smooth white shell helmet, wearing an immaculate minimalist white designer pantsuit, silver accessories, and her glowing forehead badge.",
+      "visual": "Wide angle cinematic shot from the top of a futuristic glass citadel overlooking a vast glowing metropolis in the rain, hidden coin on the glass railing.",
+      "scenes": [
+        "Wide cinematic shot of a futuristic neon city from a ultra-luxury glass penthouse balcony, golden coin resting on the glass railing.",
+        "Medium shot of Nicole's coconut-shell head smiling serenely as her 1,450-hour badge illuminates the dark room.",
+        "Close-up of Cleo looking up from the rainy street below in utter shock.",
+        "Detail shot of giant holographic screens across the city displaying all eight character numbers.",
+        "Over-the-shoulder shot looking down at the interconnected streets where all previous characters cross paths.",
+        "Close-up of Nicole raising her crystal glass as the screen fades to black."
+      ],
+      "caption": "Which thematic series of the Stirn-Zahl universe should we explore next? Drop your ideas below! #TheStirnZahl #RealityTV #GrandFinale #CyberpunkDrama #SecretSociety"
+    }
+  ],
+  "lang": "en",
+  "topic": "Das peinliche Outen des eigenen High-Speed-Konsums von Billig-Reality-Shows vor neuen Kollegen",
+  "frame": "frucht"
+}

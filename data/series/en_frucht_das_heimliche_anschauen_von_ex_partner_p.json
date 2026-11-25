@@ -1,0 +1,843 @@
+{
+  "title": "The 8 Levels of Ex-Profile Stalking",
+  "house": "A bustling neon-lit metropolis of fruit and vegetable people, filled with damp rainy bus stops, cramped co-living apartments, glowing digital foreheads, and hidden gold coins stamped onto street corners.",
+  "catchphrase": "The forehead number never lies.",
+  "links": [
+    "Level 1 mentions the flickering streetlight outside Grandma's kitchen where Level 5 drops her mail.",
+    "Level 2 hears a rumor about an old woman renting out her ancient phone to desperate youth.",
+    "Level 3 passes the exact same blue diner booth where Level 7 sits counting her savings.",
+    "Level 4 drops his vintage flip phone on the pavement near the kiosk where Level 2 buys chewing gum.",
+    "Level 5 leaves her spare house keys with the prickly lemon woman from Level 1.",
+    "Level 6 spots a mysterious glowing forehead number flashing from the second-story window of Level 3's apartment.",
+    "Level 7 buys her morning coffee from the very same barista who once rejected Level 2.",
+    "Level 8 reveals that the grandma whose phone was used belongs to the mastermind of Level 4."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Why was Grandma's old flip phone locked with a password she never set?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Laughs at her cheap phone and threatens to report her for digital trespassing."
+      },
+      "name": "Pip, 21, Intern",
+      "badge": "0.03 Views/s",
+      "verdict": "DESPERATE",
+      "story": "The 8 levels of ex-profile stalking. Level 1. 2.000 Abos? Wer hat den Versager denn reingelassen? Vielleicht putzt er gleich die Toiletten für uns Influencer. I am Pip, a 21-year-old strawberry intern living on instant noodles and $1,100 rent. My forehead glows with a pathetic 0.03 views per second rating. Outside, the rain hammers against the dirty window of our cramped kitchenette. For forty minutes, I have been refreshing my ex-boyfriend Leo's new girlfriend's vacation story through Grandma Betty's dusty account. You cannot afford to live here, let alone use the Wi-Fi for stalking. My stomach drops into my shoes as I clutch the greasy phone tighter. Suddenly, a cold draft sweeps across the room, extinguishing the flickering fluorescent bulb overhead. Grandma Betty steps out from the shadows, her wrinkled coconut fingers closing tightly around the cracked screen. You are looking at the wrong profile, honey. You'll see that in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+5 Views",
+        "after": "5.03 View"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of ex-profile stalking. Level 1."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "2.000 Abos? Wer hat den Versager denn reingelassen? Vielleicht putzt er gleich die Toiletten für uns Influencer.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I am Pip, a 21-year-old strawberry intern living on instant noodles and $1,100 rent."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead glows with a pathetic 0.03 views per second rating."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Outside, the rain hammers against the dirty window of our cramped kitchenette.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "For forty minutes, I have been refreshing my ex-boyfriend Leo's new girlfriend's vacation story through Grandma Betty's dusty account."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You cannot afford to live here, let alone use the Wi-Fi for stalking.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My stomach drops into my shoes as I clutch the greasy phone tighter."
+        },
+        {
+          "s": "Figur",
+          "t": "Suddenly, a cold draft sweeps across the room, extinguishing the flickering fluorescent bulb overhead."
+        },
+        {
+          "s": "Figur",
+          "t": "Grandma Betty steps out from the shadows, her wrinkled coconut fingers closing tightly around the cracked screen."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "You are looking at the wrong profile, honey.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You are looking at the wrong profile, honey.",
+      "quote_by": {
+        "level": 5,
+        "name": "Grandma Betty",
+        "badge": "45.000 €",
+        "character": "An elderly, wrinkled coconut woman with a floral cardigan and a tiny golden coin hidden in her knitting basket.",
+        "scene": "Wide shot of a cluttered, warm kitchen at night, Grandma Betty leaning over a glowing antique flip phone with a condescending smile."
+      },
+      "stats": [
+        {
+          "label": "Views/s",
+          "value": "0.03",
+          "bar": 0.05
+        },
+        {
+          "label": "Rent",
+          "value": "$1,100",
+          "bar": 0.2
+        },
+        {
+          "label": "Ex-Sight",
+          "value": "0",
+          "bar": 0.01
+        }
+      ],
+      "character": "A fragile, pale strawberry boy with seeds dotting his red skin, wearing an oversized thrift-store hoodie and clutching an ancient flip phone.",
+      "visual": "Medium shot of a strawberry person in a dark, cramped kitchen, staring intensely at a glowing cracked phone screen under a dim yellow bulb, tiny gold coin on the counter.",
+      "scenes": [
+        "Wide shot of a rainy neon-lit city street at 3 AM, dark apartment windows, a tiny flickering streetlight.",
+        "Medium shot of Pip, a strawberry person with seeds on his face, tapping frantically on an old phone.",
+        "Close-up of the forehead glowing digital display reading 0.03 views per second.",
+        "Halbnah shot in the cluttered kitchen with the landlord pointing at Pip's glowing forehead.",
+        "Detail shot of a thumb refreshing an Instagram story showing a tropical beach vacation.",
+        "Close-up of Grandma Betty's wrinkled coconut face whispering near the phone screen."
+      ],
+      "caption": "Would you use your grandma's phone to stalk your ex? #stalking #exboyfriend #drama #strawberry #relatable"
+    },
+    {
+      "n": 2,
+      "open_loop": "What secret did Grandma's secondary burner account actually expose?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Blocks her access to the shared router and laughs at her outdated phone."
+      },
+      "name": "Chloe, 24, Barista",
+      "badge": "1.850 €",
+      "verdict": "BLOCKED",
+      "story": "The 8 levels of ex-profile stalking. Level 2. 1.850 Euro im Monat? Du stalkst deinen Ex auf Staatskosten, während er in Dubai den Champagner köpft. I am Chloe, a 24-year-old orange woman working at a noisy downtown café. My forehead shows 1.850 €, just enough to pay for half a studio apartment. You think you are sneaky, using an old lady's phone to watch his stories. My hands shook as I tried to delete the app before he could report me. The café lights flickered, casting long, menacing shadows across the tiled floor. He leaned in closer, his sharp scales brushing against my orange peel skin. He whispered the exact words I feared most. Without warning, the front glass doors slammed open, revealing a towering figure in a sharp suit holding an encrypted laptop. The screen flashed with my exact search history for everyone to see. You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "-150 €",
+        "after": "1.700 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of ex-profile stalking. Level 2."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "1.850 Euro im Monat? Du stalkst deinen Ex auf Staatskosten, während er in Dubai den Champagner köpft.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I am Chloe, a 24-year-old orange woman working at a noisy downtown café."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead shows 1.850 €, just enough to pay for half a studio apartment."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You think you are sneaky, using an old lady's phone to watch his stories.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My hands shook as I tried to delete the app before he could report me."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "The café lights flickered, casting long, menacing shadows across the tiled floor.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "He leaned in closer, his sharp scales brushing against my orange peel skin."
+        },
+        {
+          "s": "Figur",
+          "t": "He whispered the exact words I feared most."
+        },
+        {
+          "s": "Figur",
+          "t": "Without warning, the front glass doors slammed open, revealing a towering figure in a sharp suit holding an encrypted laptop."
+        },
+        {
+          "s": "Figur",
+          "t": "The screen flashed with my exact search history for everyone to see."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Your grandma's account has been flagged for corporate espionage.",
+      "quote_by": {
+        "level": 4,
+        "name": "Zack",
+        "badge": "9.420 €",
+        "character": "A sleek, arrogant dragonfruit man in a sharp grey suit with a tiny golden coin pinned to his lapel.",
+        "scene": "Medium shot inside a bustling neon café, Zack leaning over the wooden counter sneering at Chloe."
+      },
+      "stats": [
+        {
+          "label": "Salary",
+          "value": "1.850 €",
+          "bar": 0.25
+        },
+        {
+          "label": "Anxiety",
+          "value": "99%",
+          "bar": 0.9
+        },
+        {
+          "label": "Stalking",
+          "value": "Active",
+          "bar": 0.5
+        }
+      ],
+      "character": "A vibrant citrus orange woman with textured pulpy skin, wearing a stained green apron and silver hoop earrings.",
+      "visual": "Halbnah shot of an orange woman behind a café counter looking terrified at a sleek dragonfruit man in a suit, hidden gold coin on the espresso machine.",
+      "scenes": [
+        "Wide shot of a bustling downtown café with steam rising from coffee machines and blurry customers in the background.",
+        "Medium shot of Chloe, an orange person with textured skin, staring at her phone in horror.",
+        "Close-up of her forehead digital display glowing bright orange at 1.850 €.",
+        "Halbnah shot of Zack the dragonfruit man slamming his coffee cup down on the wooden counter.",
+        "Detail shot of a smartphone screen showing a blocked notification and a mysterious direct message.",
+        "Close-up of Chloe's tear-filled eyes reflecting the glowing neon menu signs."
+      ],
+      "caption": "Getting caught stalking your ex at work is peak nightmare material. #baristalife #exdrama #orange #caught #relatable"
+    },
+    {
+      "n": 3,
+      "open_loop": "Who transferred 500 dollars into Grandma's blocked bank account?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Demands payment for sharing Wi-Fi passwords and threatens legal action."
+      },
+      "name": "Milo, 28, Delivery Driver",
+      "badge": "2.400 €",
+      "verdict": "EXPOSED",
+      "story": "The 8 levels of ex-profile stalking. Level 3. Dein Ex hat dich nicht wegen des Geldes verlassen, sondern weil du jeden Tag seinen Kontostand stalkst wie ein Creep. I am Milo, a 28-year-old avocado man dodging traffic on an electric scooter. My forehead glows with a mediocre 2.400 € digital display. Using Grandma Betty's backup profile let me see that my ex, Maya, checked into a luxury penthouse. Then my phone buzzed with an alert from Grandma's banking app. You are tracking the wrong person, delivery boy. My skin heated up under my green avocado peel as I gripped the handlebar. She knew about the account, the stalking, and everything else. A sleek black car pulled up beside me in the pouring rain, lowering its tinted window to reveal an icy smile. A folder stamped with classified corporate seals slid across the passenger seat toward me. You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+500 €",
+        "after": "2.900 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of ex-profile stalking. Level 3."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein Ex hat dich nicht wegen des Geldes verlassen, sondern weil du jeden Tag seinen Kontostand stalkst wie ein Creep.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I am Milo, a 28-year-old avocado man dodging traffic on an electric scooter."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead glows with a mediocre 2.400 € digital display."
+        },
+        {
+          "s": "Figur",
+          "t": "Using Grandma Betty's backup profile let me see that my ex, Maya, checked into a luxury penthouse."
+        },
+        {
+          "s": "Figur",
+          "t": "Then my phone buzzed with an alert from Grandma's banking app."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are tracking the wrong person, delivery boy.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My skin heated up under my green avocado peel as I gripped the handlebar."
+        },
+        {
+          "s": "Figur",
+          "t": "She knew about the account, the stalking, and everything else."
+        },
+        {
+          "s": "Figur",
+          "t": "A sleek black car pulled up beside me in the pouring rain, lowering its tinted window to reveal an icy smile."
+        },
+        {
+          "s": "Figur",
+          "t": "A folder stamped with classified corporate seals slid across the passenger seat toward me."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Your ex didn't leave you for money, she left because you use her grandma's login.",
+      "quote_by": {
+        "level": 7,
+        "name": "Beatrix",
+        "badge": "12.500 €",
+        "character": "A stern, impeccably groomed broccoli woman wearing emerald earrings and holding a leather portfolio, with a tiny golden coin on her ring.",
+        "scene": "Halbnah shot outside a luxury apartment building entrance, Beatrix looking down her nose at Milo on his scooter."
+      },
+      "stats": [
+        {
+          "label": "Income",
+          "value": "2.400 €",
+          "bar": 0.35
+        },
+        {
+          "label": "Stalking",
+          "value": "Level 3",
+          "bar": 0.4
+        },
+        {
+          "label": "Speed",
+          "value": "25km/h",
+          "bar": 0.6
+        }
+      ],
+      "character": "A smooth green avocado man with a large pit-shaped chest emblem, wearing a waterproof courier jacket and a baseball cap.",
+      "visual": "Wide shot of an avocado man on an electric scooter on a wet city street, facing a stern broccoli woman in front of a high-rise, hidden gold coin on the scooter handle.",
+      "scenes": [
+        "Wide shot of a chaotic city intersection with yellow cabs and blurry pedestrians in the rain.",
+        "Medium shot of Milo, an avocado person, looking down at his buzzing smartphone screen.",
+        "Close-up of the banking notification showing a 500 dollar deposit.",
+        "Halbnah shot of Beatrix the broccoli woman standing with her arms crossed, glaring at Milo.",
+        "Detail shot of the smartwatch displaying encrypted stalking data.",
+        "Close-up of Milo's avocado-skin forehead glowing with the 2.400 € number."
+      ],
+      "caption": "When the bank notification hits harder than the breakup. #avocado #deliverylife #exstalking #broke #drama"
+    },
+    {
+      "n": 4,
+      "open_loop": "What was hidden inside the encrypted folder on Grandma's cloud storage?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Blackmails him with screenshots of his private search history."
+      },
+      "name": "Zack, 31, Stock Broker",
+      "badge": "9.420 €",
+      "verdict": "AUDITED",
+      "story": "The 8 levels of ex-profile stalking. Level 4. Mit deinem Gehalt kannst du dir nicht mal die Anwaltskosten leisten, wenn ich deine Suchanfragen veröffentliche. I am Zack, a 31-year-old dragonfruit man sitting in a glass-walled office. My forehead displays 9.420 €, giving me access to high-society circles. Logging into Grandma Betty's shared cloud account revealed my entire search history synced to her device. The door to my office swung open without a warning. You think your money hides your pathetic habits. My scales tightened in pure panic as she dropped a printed folder onto my desk. She leaned over my desk, her acidic smile cutting deep into my pride. A sudden system alert echoed across my monitors, revealing that my entire personal portfolio had just been transferred to an unknown offshore account. You'll see that in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "-3.000 €",
+        "after": "6.420 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of ex-profile stalking. Level 4."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit deinem Gehalt kannst du dir nicht mal die Anwaltskosten leisten, wenn ich deine Suchanfragen veröffentliche.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I am Zack, a 31-year-old dragonfruit man sitting in a glass-walled office."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead displays 9.420 €, giving me access to high-society circles."
+        },
+        {
+          "s": "Figur",
+          "t": "Logging into Grandma Betty's shared cloud account revealed my entire search history synced to her device."
+        },
+        {
+          "s": "Figur",
+          "t": "The door to my office swung open without a warning."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You think your money hides your pathetic habits.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My scales tightened in pure panic as she dropped a printed folder onto my desk."
+        },
+        {
+          "s": "Figur",
+          "t": "She leaned over my desk, her acidic smile cutting deep into my pride."
+        },
+        {
+          "s": "Figur",
+          "t": "A sudden system alert echoed across my monitors, revealing that my entire personal portfolio had just been transferred to an unknown offshore account."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Your grandmother owns more shares in your ex's new company than you do.",
+      "quote_by": {
+        "level": 6,
+        "name": "Madame Citron",
+        "badge": "18.500 €",
+        "character": "A sharp, bitter lemon woman in a bright yellow designer suit with gold-rimmed glasses and a tiny golden coin on her brooch.",
+        "scene": "Wide shot of a luxury glass office, Madame Citron towering over Zack at his sleek executive desk."
+      },
+      "stats": [
+        {
+          "label": "Portfolio",
+          "value": "9.420 €",
+          "bar": 0.55
+        },
+        {
+          "label": "Stalking",
+          "value": "Level 4",
+          "bar": 0.6
+        },
+        {
+          "label": "Panic",
+          "value": "85%",
+          "bar": 0.85
+        }
+      ],
+      "character": "A sleek pinkish-red dragonfruit man with green-tipped scale leaves on his crown, wearing a tailored charcoal suit and a silk tie.",
+      "visual": "Medium shot of a dragonfruit man sitting at a glass desk in a skyscraper office looking up in shock at a lemon woman holding printed documents, hidden gold coin on the pen holder.",
+      "scenes": [
+        "Wide shot of a gleaming skyscraper interior overlooking a massive sprawling city at dusk.",
+        "Medium shot of Zack, a dragonfruit person, typing furiously on a dual-monitor setup.",
+        "Close-up of the forehead glowing digital display at 9.420 €.",
+        "Halbnah shot of the office door opening sharply, revealing Madame Citron in a yellow suit.",
+        "Detail shot of printed paper pages showing timestamped social media activity logs.",
+        "Close-up of Zack's pink scaled face sweating under the office lights."
+      ],
+      "caption": "When your high-paying job can't hide your 3 AM stalking history. #dragonfruit #corporate #exstalking #rich #drama"
+    },
+    {
+      "n": 5,
+      "open_loop": "Why did Grandma Betty have keys to every single luxury apartment in the city?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Threatens to delete the master database of all ex-profile trackers."
+      },
+      "name": "Grandma Betty, 74, Retired",
+      "badge": "45.000 €",
+      "verdict": "MASTERMIND",
+      "story": "The 8 levels of ex-profile stalking. Level 5. Jeder von euch stalkt in Wahrheit die Person, die ihn gerade ruiniert hat. I am Betty, a 74-year-old coconut woman sitting in my rocking chair. My forehead shines with a staggering 45.000 € earned from leasing burner accounts. Pip, Chloe, Milo, Zack—they all used my old phone thinking they were being clever. A heavy knock rattled my front door as a mysterious visitor stepped inside. You've built quite an empire on broken hearts, Grandma. My wooden rocking chair creaked to a halt as I narrowed my eyes. He tossed a velvet pouch onto my lap and whispered a dark secret. Before I could answer, the floorboards beneath us gave way, revealing a massive underground control center that connected every single stalker in the city. You'll see that in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+10.000 €",
+        "after": "55.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of ex-profile stalking. Level 5."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Jeder von euch stalkt in Wahrheit die Person, die ihn gerade ruiniert hat.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I am Betty, a 74-year-old coconut woman sitting in my rocking chair."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead shines with a staggering 45.000 € earned from leasing burner accounts."
+        },
+        {
+          "s": "Figur",
+          "t": "Pip, Chloe, Milo, Zack—they all used my old phone thinking they were being clever."
+        },
+        {
+          "s": "Figur",
+          "t": "A heavy knock rattled my front door as a mysterious visitor stepped inside."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You've built quite an empire on broken hearts, Grandma.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My wooden rocking chair creaked to a halt as I narrowed my eyes."
+        },
+        {
+          "s": "Figur",
+          "t": "He tossed a velvet pouch onto my lap and whispered a dark secret."
+        },
+        {
+          "s": "Figur",
+          "t": "Before I could answer, the floorboards beneath us gave way, revealing a massive underground control center that connected every single stalker in the city."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Every single person you've been stalking is actually stalking you back.",
+      "quote_by": {
+        "level": 8,
+        "name": "The Architect",
+        "badge": "UNLIMITED",
+        "character": "A mysterious, smooth coconut man in a dark velvet trench coat with glowing amber eyes and a massive golden coin around his neck.",
+        "scene": "Wide shot of a cozy, yarn-filled living room, the Architect standing over Grandma Betty's rocking chair."
+      },
+      "stats": [
+        {
+          "label": "Income",
+          "value": "45.000 €",
+          "bar": 0.7
+        },
+        {
+          "label": "Clients",
+          "value": "1,420",
+          "bar": 0.8
+        },
+        {
+          "label": "Control",
+          "value": "Max",
+          "bar": 0.95
+        }
+      ],
+      "character": "A weathered, tough brown coconut woman with a hard fibrous shell texture, wearing a floral knitted cardigan and round wire-rimmed glasses.",
+      "visual": "Medium shot of an elderly coconut woman in a rocking chair holding an old smartphone, looking calmly at a mysterious tall visitor in a velvet coat, hidden gold coin in the knitting basket.",
+      "scenes": [
+        "Wide shot of a warm, dimly lit living room filled with stacks of old electronics and yarn balls.",
+        "Medium shot of Grandma Betty, a coconut person, rocking gently in her wooden chair.",
+        "Close-up of her forehead digital display glowing brightly at 45.000 €.",
+        "Halbnah shot of the mysterious visitor in a dark trench coat tossing a coin pouch.",
+        "Detail shot of multiple smartphones wired together into a custom server rack.",
+        "Close-up of Betty's fibrous brown face smiling knowingly behind her glasses."
+      ],
+      "caption": "Grandma always knows who is stalking who. The ultimate mastermind revealed. #coconut #mastermind #exstalking #plottwist #drama"
+    },
+    {
+      "n": 6,
+      "open_loop": "What was written on the physical letter left inside the safety deposit box?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Accidentally leaks her financial records on a public livestream."
+      },
+      "name": "Madame Citron, 42, Executive",
+      "badge": "18.500 €",
+      "verdict": "EXPOSED",
+      "story": "The 8 levels of ex-profile stalking. Level 6. Deine Arroganz hält genau so lange, bis dein gesamter Suchverlauf auf dem Screen deiner Chefin landet. I am Citron, a 42-year-old lemon woman ruling the corporate banking sector. My forehead glows with 18.500 €, a badge of absolute untouchable power. Using Grandma Betty's master network to check my ex's profile triggered a live feed on my TV. The intercom buzzed aggressively as a trembling delivery boy appeared on a livestream. You think your lemon-sour attitude hides your loneliness. My acidic skin tingled with blinding rage as I dropped my crystal wine glass. He held up a handwritten envelope with my maiden name written across it. Right behind him on the broadcast, my entire bank account balance plummeted to zero in real time. You'll see that in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "-5.000 €",
+        "after": "13.500 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of ex-profile stalking. Level 6."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Deine Arroganz hält genau so lange, bis dein gesamter Suchverlauf auf dem Screen deiner Chefin landet.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I am Citron, a 42-year-old lemon woman ruling the corporate banking sector."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead glows with 18.500 €, a badge of absolute untouchable power."
+        },
+        {
+          "s": "Figur",
+          "t": "Using Grandma Betty's master network to check my ex's profile triggered a live feed on my TV."
+        },
+        {
+          "s": "Figur",
+          "t": "The intercom buzzed aggressively as a trembling delivery boy appeared on a livestream."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You think your lemon-sour attitude hides your loneliness.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My acidic skin tingled with blinding rage as I dropped my crystal wine glass."
+        },
+        {
+          "s": "Figur",
+          "t": "He held up a handwritten envelope with my maiden name written across it."
+        },
+        {
+          "s": "Figur",
+          "t": "Right behind him on the broadcast, my entire bank account balance plummeted to zero in real time."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "Your entire fortune was founded on the money your ex left behind.",
+      "quote_by": {
+        "level": 1,
+        "name": "Pip",
+        "badge": "0.03 Views",
+        "character": "A nervous strawberry boy with seeds on his face, wearing a damp hoodie and holding a shaking smartphone livestreaming to thousands.",
+        "scene": "Wide shot of a luxury penthouse lobby, Pip holding a phone up to a towering lemon woman in a yellow suit."
+      },
+      "stats": [
+        {
+          "label": "Salary",
+          "value": "18.500 €",
+          "bar": 0.85
+        },
+        {
+          "label": "Stalking",
+          "value": "Level 6",
+          "bar": 0.75
+        },
+        {
+          "label": "Control",
+          "value": "Failing",
+          "bar": 0.4
+        }
+      ],
+      "character": "A sharp, oval-shaped yellow lemon woman with textured skin pores, wearing an emerald-green pantsuit and gold statement earrings.",
+      "visual": "Medium shot of a lemon woman in a luxury penthouse staring in shock at a smartphone screen showing a live broadcast, hidden gold coin on the marble coffee table.",
+      "scenes": [
+        "Wide shot of a minimalist luxury penthouse living room with floor-to-ceiling windows overlooking a rainy skyline.",
+        "Medium shot of Citron, a lemon person, staring at a smart TV displaying her own search logs.",
+        "Close-up of her forehead digital display glowing bright yellow at 18.500 €.",
+        "Halbnah shot of the intercom screen showing Pip holding a phone and broadcasting live.",
+        "Detail shot of a crystal wine glass shattering on expensive white marble flooring.",
+        "Close-up of Citron's textured yellow skin sweating under recessed lighting."
+      ],
+      "caption": "When your corporate empire gets leaked on a random livestream. #lemon #executivelife #exstalking #exposed #drama"
+    },
+    {
+      "n": 7,
+      "open_loop": "What was hidden inside the safety deposit box that changed the city forever?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Refuses to deliver the package containing the ultimate stalking archive."
+      },
+      "name": "Beatrix, 50, Investor",
+      "badge": "12.500 €",
+      "verdict": "COMPROMISED",
+      "story": "The 8 levels of ex-profile stalking. Level 7. Du kaufst kaputte Startups, aber deine eigene Beziehung hast du längst weggeworfen. I am Beatrix, a 50-year-old broccoli woman buying failing startups. My forehead glows with a solid 12.500 €, earned through cold precision. Grandma Betty's network flagged an unauthorized access attempt on my private terminal. An avocado delivery driver marched straight into my executive boardroom. You can buy companies, Beatrix, but you can't buy closure. My florets tightened in disbelief as he dropped a battered delivery bag on my table. He leaned over the table and dropped the final warning before the system locked out. A blinding red emergency light flashed across the glass walls as every terminal in the building downloaded an encrypted file titled 'Project Ex'. You'll see that in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "-4.000 €",
+        "after": "8.500 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of ex-profile stalking. Level 7."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du kaufst kaputte Startups, aber deine eigene Beziehung hast du längst weggeworfen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I am Beatrix, a 50-year-old broccoli woman buying failing startups."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead glows with a solid 12.500 €, earned through cold precision."
+        },
+        {
+          "s": "Figur",
+          "t": "Grandma Betty's network flagged an unauthorized access attempt on my private terminal."
+        },
+        {
+          "s": "Figur",
+          "t": "An avocado delivery driver marched straight into my executive boardroom."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You can buy companies, Beatrix, but you can't buy closure.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My florets tightened in disbelief as he dropped a battered delivery bag on my table."
+        },
+        {
+          "s": "Figur",
+          "t": "He leaned over the table and dropped the final warning before the system locked out."
+        },
+        {
+          "s": "Figur",
+          "t": "A blinding red emergency light flashed across the glass walls as every terminal in the building downloaded an encrypted file titled 'Project Ex'."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "The entire ex-stalking network was built by your ex to see if you still care.",
+      "quote_by": {
+        "level": 3,
+        "name": "Milo",
+        "badge": "2.400 €",
+        "character": "A rugged green avocado man in a waterproof courier jacket with a determined look and a tiny golden coin pinned to his zipper.",
+        "scene": "Medium shot inside a sleek glass boardroom, Milo slamming a delivery bag down in front of a startled broccoli woman."
+      },
+      "stats": [
+        {
+          "label": "Dividends",
+          "value": "12.500 €",
+          "bar": 0.65
+        },
+        {
+          "label": "Stalking",
+          "value": "Level 7",
+          "bar": 0.85
+        },
+        {
+          "label": "Risk",
+          "value": "High",
+          "bar": 0.9
+        }
+      ],
+      "character": "A dense, tree-like broccoli woman with textured green florets for hair, wearing a structured wool blazer and silver brooches.",
+      "visual": "Wide shot of a high-end corporate boardroom at night, a broccoli woman staring down an avocado delivery man across a glass table, hidden gold coin on the water pitcher.",
+      "scenes": [
+        "Wide shot of a dark corporate tower floor with panoramic city views reflecting in the glass walls.",
+        "Medium shot of Beatrix, a broccoli person, tapping furiously on a Bloomberg terminal.",
+        "Close-up of her forehead digital display glowing green at 12.500 €.",
+        "Halbnah shot of Milo the avocado driver entering the boardroom with a delivery bag.",
+        "Detail shot of a leather-bound folder stamped with classified corporate seals.",
+        "Close-up of Beatrix's green floret hair rustling in tension under the lights."
+      ],
+      "caption": "When your corporate takeover gets interrupted by your own ex-stalking history. #broccoli #investor #exstalking #drama #rich"
+    },
+    {
+      "n": 8,
+      "open_loop": "Who was behind the master server that connected every single ex-profile in the city?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Handed over the master keys that unlocked every single user's digital history."
+      },
+      "name": "The Architect, 35, System Admin",
+      "badge": "UNLIMITED",
+      "verdict": "CONNECTED",
+      "story": "The 8 levels of ex-profile stalking. Level 8. Die Zahl auf deiner Stirn zeigt nur, wie einsam du wirklich bist. I am the Architect, a smooth coconut man sitting in the central server room. My forehead displays an infinite looping symbol as the creator of Grandma Betty's network. Every time someone checked an ex's story, my algorithm recorded their exact heartbeat. Today, all eight levels converged on my underground bunker. You built a kingdom on curiosity. Grandma Betty placed a single golden coin onto my control console. Das siehst du in Level 8. With a final keystroke, the main server emitted a deafening pulse, wiping all digital identities and plunging the entire metropolis into total darkness. You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "RESET",
+        "after": "00.00 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of ex-profile stalking. Level 8."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die Zahl auf deiner Stirn zeigt nur, wie einsam du wirklich bist.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I am the Architect, a smooth coconut man sitting in the central server room."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead displays an infinite looping symbol as the creator of Grandma Betty's network."
+        },
+        {
+          "s": "Figur",
+          "t": "Every time someone checked an ex's story, my algorithm recorded their exact heartbeat."
+        },
+        {
+          "s": "Figur",
+          "t": "Today, all eight levels converged on my underground bunker."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You built a kingdom on curiosity.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Grandma Betty placed a single golden coin onto my control console."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "With a final keystroke, the main server emitted a deafening pulse, wiping all digital identities and plunging the entire metropolis into total darkness."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "The number on your forehead only shows what you're looking for.",
+      "quote_by": {
+        "level": 5,
+        "name": "Grandma Betty",
+        "badge": "45.000 €",
+        "character": "An elderly coconut woman with floral knitting and a victorious smile, holding the master drive.",
+        "scene": "Wide shot of a massive underground server room glowing with blue neon light, Grandma Betty facing the Architect."
+      },
+      "stats": [
+        {
+          "label": "Access",
+          "value": "ALL",
+          "bar": 1.0
+        },
+        {
+          "label": "Network",
+          "value": "Active",
+          "bar": 1.0
+        },
+        {
+          "label": "Truth",
+          "value": "100%",
+          "bar": 1.0
+        }
+      ],
+      "character": "A polished, smooth brown coconut man with a glowing amber visor, wearing a high-tech dark velvet coat and silver accessories.",
+      "visual": "Wide shot of a massive underground server room filled with glowing blue server racks, a coconut man standing before a giant digital screen showing eight glowing forehead numbers, hidden gold coin on the central console.",
+      "scenes": [
+        "Wide shot of an underground bunker filled with towering server racks blinking with blue neon light.",
+        "Medium shot of the Architect, a coconut person, typing on a futuristic glass console.",
+        "Close-up of his forehead digital display showing an infinite looping symbol.",
+        "Halbnah shot of Grandma Betty entering the server room carrying the master drive.",
+        "Detail shot of a single golden coin resting on top of a blinking computer mainframe.",
+        "Close-up of all eight characters' glowing forehead numbers syncing to zero simultaneously."
+      ],
+      "caption": "Will you check your ex's profile today, or is your number finally enough? What theme should we do next? #coconut #exstalking #finale #mindblown #endgame"
+    }
+  ],
+  "lang": "en",
+  "topic": "Das heimliche Anschauen von Ex-Partner-Profilen über den Account der eigenen Grossmutter",
+  "frame": "frucht"
+}

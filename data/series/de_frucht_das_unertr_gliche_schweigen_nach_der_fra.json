@@ -1,0 +1,799 @@
+{
+  "title": "Die 8 Level vom Chat-Schweigen",
+  "house": "A bustling neon-lit metropolis where fruit and vegetable people commute on crowded subway trains, grab coffee at foggy corner kiosks, and stress over read receipts on their glowing forehead numbers.",
+  "catchphrase": "Die Stirn-Zahl lügt nie.",
+  "links": [
+    "In Level 1, a glowing 0-Stunden badge is mocked near the kiosk where Level 2 buys espresso.",
+    "The quiet man in the suit from Level 8 drops heavy tips at the exact bakery counter where Level 3 drops her phone.",
+    "The broken chat notification from Level 1 is whispered about by the barista in Level 2."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Warum starrt sie seit vier Stunden auf die graue Sprechblase, obwohl er online war?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Niedermachen der Hauptfigur wegen ihrer 0-Stunden-Zahl im VIP-Bereich.",
+        "name": "Kim, 26"
+      },
+      "name": "Mia, 21, Studentin",
+      "badge": "0 h Schweigen",
+      "verdict": "IGNORIERT",
+      "story": "Die 8 Level vom Chat-Schweigen. Level 1. 2.000 Euro? Wer hat die denn eingeladen? Vielleicht putzt sie nachher unsere Toiletten, während wir im VIP-Bereich Champagner trinken. Die arrogante Avocado mustert mich von oben bis unten, während auf meiner Stirn die null leuchtet. Du schreibst ihm wohl zum zehnten Mal, du Klammeräffchen? Niemand will jemanden, der so verzweifelt bettelt, besonders nicht mit deiner Null-Stunden-Zahl. Ich halte mein Handy in der vollgestopften Berliner U-Bahn fest, während die Blicke der anderen Passagiere mich wie Nadeln treffen. Es waren doch nur zwei einfache Fragen über unseren Beziehungsstatus, die er einfach eiskalt ignoriert. Plötzlich fängt mein Smartphone an, heftig in meiner Tasche zu vibrieren. Eine unbekannte Nummer ruft an, und eine kalte Frauenstimme flüstert durch den Lautsprecher: Er wird dir gleich die Wahrheit sagen. Die Tür öffnet sich am Kottbusser Tor und ein eisiger Windstoß fegt in den Waggon. Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+2 h",
+        "after": "2 h"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Chat-Schweigen. Level 1."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "2.000 Euro? Wer hat die denn eingeladen? Vielleicht putzt sie nachher unsere Toiletten, während wir im VIP-Bereich Champagner trinken.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Die arrogante Avocado mustert mich von oben bis unten, während auf meiner Stirn die null leuchtet."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du schreibst ihm wohl zum zehnten Mal, du Klammeräffchen?",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Niemand will jemanden, der so verzweifelt bettelt, besonders nicht mit deiner Null-Stunden-Zahl.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich halte mein Handy in der vollgestopften Berliner U-Bahn fest, während die Blicke der anderen Passagiere mich wie Nadeln treffen."
+        },
+        {
+          "s": "Figur",
+          "t": "Es waren doch nur zwei einfache Fragen über unseren Beziehungsstatus, die er einfach eiskalt ignoriert."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich fängt mein Smartphone an, heftig in meiner Tasche zu vibrieren."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Eine unbekannte Nummer ruft an, und eine kalte Frauenstimme flüstert durch den Lautsprecher: Er wird dir gleich die Wahrheit sagen.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Tür öffnet sich am Kottbusser Tor und ein eisiger Windstoß fegt in den Waggon."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Niemand will jemanden, der so verzweifelt bettelt.",
+      "quote_by": {
+        "level": 3,
+        "name": "Kim, 26",
+        "badge": "48 h",
+        "character": "An arrogant avocado person with smooth dark green skin, wearing a sharp grey trench coat and gold-rimmed glasses, displaying a glowing 48-hour badge.",
+        "scene": "Wide shot of a crowded Berlin subway car at dusk, cinematic neon lighting, an avocado woman looking down with a sneer at a strawberry girl."
+      },
+      "stats": [
+        {
+          "label": "Wartezeit",
+          "value": "0 h",
+          "bar": 0.05
+        },
+        {
+          "label": "Nachrichten",
+          "value": "14",
+          "bar": 0.8
+        },
+        {
+          "label": "Selbstwert",
+          "value": "12 %",
+          "bar": 0.1
+        }
+      ],
+      "character": "A fragile, sweet red strawberry person with tiny green leaf hair, wearing an oversized hoodie and holding a cracked smartphone. Glowing digital forehead number reads 0 h.",
+      "visual": "Medium shot of a stressed strawberry girl staring at her smartphone inside a dimly lit Berlin subway train, neon light reflecting off her glowing forehead display.",
+      "scenes": [
+        "Wide shot of a crowded Berlin subway platform at night, flickering fluorescent lights, foggy windows of an arriving U8 train.",
+        "Close-up of a cracked smartphone screen showing an unanswered chat bubble with a golden coin hidden near the bottom corner.",
+        "Medium shot of an arrogant avocado woman in a sharp trench coat sneering inside the subway car.",
+        "Detail shot of glowing digital forehead numbers casting a red and blue glow on passengers' faces.",
+        "Close-up of shaking hands holding a phone with unread message notifications.",
+        "Wide shot of the subway doors opening at Kottbusser Tor station with cold winter steam pouring in."
+      ],
+      "caption": "Wie lange würdest du auf eine Antwort warten? #beziehung #chatdrama #berlin #level1 #verzweiflung"
+    },
+    {
+      "n": 2,
+      "open_loop": "Wer hat den mysteriösen Screenshot direkt an seinen besten Freund geschickt?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Wirft das Kaffeetablett in den Müll und zeigt allen den verheulten Chatverlauf.",
+        "name": "Sam, 29"
+      },
+      "name": "Ben, 24, Barista",
+      "badge": "6 h Schweigen",
+      "verdict": "GEKÜHLT",
+      "story": "Die 8 Level vom Chat-Schweigen. Level 2. 6 Stunden? Mein Chef grinst hämisch und wirft mein Kaffeetablett in den Müll. Sechs Stunden Funkstille nach dem Date. Und er zeigt allen im Café meinen verheulten Chatverlauf. Ich stehe hinter der La Marzocco Kaffeemaschine im dampfenden Hipster-Café in Neukölln, während auf meiner Stirn die Sechs aufleuchtet und jeder Gast mich auslacht. Ernsthaft, Ben? Du fragst nach Exklusivität und bettelst wie ein Anfänger? Die Milchkanne zittert in meiner Hand, heißer Dampf zischt aus der Düse und verbrennt mir fast das Handgelenk. Niemand will einen verheulten Barista, der nach sechs Stunden die Nerven verliert. Ich wollte nur Klarheit, keinen Zirkus vor versammelter Mannschaft. Plötzlich betritt eine Person den Laden, die ich niemals hier erwartet hätte. Mein Ex-Partner steht im Türrahmen und winkt meinem Chef zu. Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+6 h",
+        "after": "12 h"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Chat-Schweigen. Level 2."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "6 Stunden? Mein Chef grinst hämisch und wirft mein Kaffeetablett in den Müll. Sechs Stunden Funkstille nach dem Date. Und er zeigt allen im Café meinen verheulten Chatverlauf.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe hinter der La Marzocco Kaffeemaschine im dampfenden Hipster-Café in Neukölln, während auf meiner Stirn die Sechs aufleuchtet und jeder Gast mich auslacht."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Ernsthaft, Ben? Du fragst nach Exklusivität und bettelst wie ein Anfänger?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Milchkanne zittert in meiner Hand, heißer Dampf zischt aus der Düse und verbrennt mir fast das Handgelenk."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Niemand will einen verheulten Barista, der nach sechs Stunden die Nerven verliert.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich wollte nur Klarheit, keinen Zirkus vor versammelter Mannschaft."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich betritt eine Person den Laden, die ich niemals hier erwartet hätte."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Ex-Partner steht im Türrahmen und winkt meinem Chef zu."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Er wird dich eh für jemand Besseren ghosten.",
+      "quote_by": {
+        "level": 4,
+        "name": "Sam, 29",
+        "badge": "12 h",
+        "character": "A tough coconut person with a hard fibrous brown shell, wearing a leather biker jacket and dark sunglasses, displaying a glowing 12-hour badge.",
+        "scene": "Medium shot of a trendy Berlin café counter, a coconut man leaning over the marble top laughing loudly while showing a phone screen."
+      },
+      "stats": [
+        {
+          "label": "Wartezeit",
+          "value": "6 h",
+          "bar": 0.2
+        },
+        {
+          "label": "Espressi",
+          "value": "142",
+          "bar": 0.6
+        },
+        {
+          "label": "Mut",
+          "value": "35 %",
+          "bar": 0.3
+        }
+      ],
+      "character": "A vibrant orange citrus person with juicy segments, wearing a black barista apron over a vintage striped t-shirt. Glowing digital forehead number reads 6 h.",
+      "visual": "Close-up of an orange barista behind a steaming espresso machine, looking stressed at a glowing forehead display inside a warm, busy cafe.",
+      "scenes": [
+        "Wide shot of a cozy, steam-filled artisan café in Neukölln with exposed brick walls and hanging Edison bulbs.",
+        "Detail shot of a gleaming chrome espresso portafilter dripping golden espresso with a tiny golden coin resting on the spill tray.",
+        "Medium shot of a tough coconut customer slamming a fist on the wooden counter while mocking the barista.",
+        "Close-up of the orange barista's sweating forehead and the glowing digital number 6 h.",
+        "Wide shot of cafe patrons turning their heads in judgment toward the front counter.",
+        "Close-up of a steaming milk pitcher with white foam art taking a chaotic turn."
+      ],
+      "caption": "Wer liest im Café auch heimlich die Chats von anderen mit? #baristalife #neukölln #ghosting #level2 #kaffee"
+    },
+    {
+      "n": 3,
+      "open_loop": "Welches dunkle Geheimnis verbirgt sich hinter seiner Lesebestätigung um 3 Uhr nachts?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Liest den Chat laut vor und stempelt die Protagonistin als emotionalen Notfall ab.",
+        "name": "Mona, 31"
+      },
+      "name": "Lara, 25, Grafikerin",
+      "badge": "24 h Schweigen",
+      "verdict": "BLOCKIERT",
+      "story": "Die 8 Level vom Chat-Schweigen. Level 3. Wollen wir exklusiv sein? Bitte antworte mir! Schauet her, ein emotionaler Notfall im WG-Zimmer! Ich sitze in meinem hellgelben WG-Zimmer in Kreuzberg, umgeben von Skizzen, und meine Stirn leuchtet unerbittlich mit der Zahl 24. Du erwartest Exklusivität mit so einem lächerlichen Gehalt und so einer armseligen Nachricht? Kein Wunder, dass er dich stummgeschaltet hat. Die Zitrone zeigt auf meine Leinwand und lacht mich gnadenlos aus. Er hat dich komplett blockiert, Süße, wach endlich auf und hör auf zu heulen! Meine Hände verkrampfen sich um den Stift. Plötzlich fängt mein Grafiktablett an zu flackern und ein unbekanntes Chatfenster poppt auf. Eine Sprachnachricht wird automatisch abgespielt, und seine vertraute Stimme flüstert meinen Namen. Das siehst du in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "+12 h",
+        "after": "36 h"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Chat-Schweigen. Level 3."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wollen wir exklusiv sein? Bitte antworte mir! Schauet her, ein emotionaler Notfall im WG-Zimmer!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze in meinem hellgelben WG-Zimmer in Kreuzberg, umgeben von Skizzen, und meine Stirn leuchtet unerbittlich mit der Zahl 24."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du erwartest Exklusivität mit so einem lächerlichen Gehalt und so einer armseligen Nachricht? Kein Wunder, dass er dich stummgeschaltet hat.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zitrone zeigt auf meine Leinwand und lacht mich gnadenlos aus."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Er hat dich komplett blockiert, Süße, wach endlich auf und hör auf zu heulen!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Hände verkrampfen sich um den Stift."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich fängt mein Grafiktablett an zu flackern und ein unbekanntes Chatfenster poppt auf."
+        },
+        {
+          "s": "Figur",
+          "t": "Eine Sprachnachricht wird automatisch abgespielt, und seine vertraute Stimme flüstert meinen Namen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Er hat dich stummgeschaltet, Süße, wach endlich auf!",
+      "quote_by": {
+        "level": 6,
+        "name": "Mona, 31",
+        "badge": "36 h",
+        "character": "A bitter, bright yellow lemon person with a puckered expression, wearing a tailored yellow blazer and high heels, displaying a glowing 36-hour badge.",
+        "scene": "Medium shot inside a messy art student room, a lemon woman standing with crossed arms looking down contemptuously at a graphic tablet."
+      },
+      "stats": [
+        {
+          "label": "Wartezeit",
+          "value": "24 h",
+          "bar": 0.4
+        },
+        {
+          "label": "Entwürfe",
+          "value": "89",
+          "bar": 0.7
+        },
+        {
+          "label": "Geduld",
+          "value": "18 %",
+          "bar": 0.15
+        }
+      ],
+      "character": "A creative broccoli person with curly green floret hair, wearing a paint-splattered denim overall and holding a digital stylus. Glowing digital forehead number reads 24 h.",
+      "visual": "Wide shot of a messy Berlin loft apartment at night, a broccoli artist staring at a glowing drawing tablet with frustration on her face.",
+      "scenes": [
+        "Wide shot of a bohemian Berlin shared apartment living room filled with canvases, plants, and empty coffee mugs.",
+        "Detail shot of a digital drawing pen hovering over a screen showing a chat window with a single blue checkmark and a tiny golden coin near the corner.",
+        "Medium shot of a bitter yellow lemon woman bursting through a wooden door with an icy expression.",
+        "Close-up of a glowing digital forehead number 24 h casting a soft green light on art supplies.",
+        "Wide shot of loose sketches flying through the air as a draft wind hits the room.",
+        "Close-up of tear-filled eyes reflecting the harsh blue light of an unyielding smartphone screen."
+      ],
+      "caption": "Wer kennt diesen Schmerz, wenn nach der wichtigen Frage nur blaue Häkchen kommen? #kreuzberg #kunst #beziehung #level3 #whatsapp"
+    },
+    {
+      "n": 4,
+      "open_loop": "Welche Person aus seiner Vergangenheit tauchte plötzlich in seiner Story auf?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Lacht den Protagonisten aus und postet den Screenshot in die Gruppenchat-Story.",
+        "name": "Ben, 24"
+      },
+      "name": "Timo, 28, Fitnesstrainer",
+      "badge": "48 h Schweigen",
+      "verdict": "AUF GEHALT",
+      "story": "Die 8 Level vom Chat-Schweigen. Level 4. 48 Stunden? Der Coach lacht mich aus und postet meinen Screenshot in die Gruppenchat-Story: Schaut euch diesen verarmten Simp an, der nach zwei Tagen heulend nach Exklusivität bettelt! Ich stehe in der Muckibude am Alexanderplatz und wuchte die Langhantel nach oben, während meine Stirn glüht vor Wut und Scham. Zwei Tage lang kein Piep nach meiner klaren Frage, und jetzt zieht er mich vor allen durch den Kakao. Wenn eine Frau nach zwei Tagen nicht antwortet, bist du komplett wertlos, Mann! Ich knalle das schwere Gewicht in die Halterung, dass die Stange vibriert und alle umherzucken. Die pure Demütigung verwandelt sich in unbändige Rache. Genau in diesem Moment öffnet sich das Hallentor und die Polizei betritt das Studio. Sie suchen laut und deutlich nach der Person, die meinen Account gehackt hat. Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+24 h",
+        "after": "72 h"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Chat-Schweigen. Level 4."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "48 Stunden? Der Coach lacht mich aus und postet meinen Screenshot in die Gruppenchat-Story: Schaut euch diesen verarmten Simp an, der nach zwei Tagen heulend nach Exklusivität bettelt!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe in der Muckibude am Alexanderplatz und wuchte die Langhantel nach oben, während meine Stirn glüht vor Wut und Scham."
+        },
+        {
+          "s": "Figur",
+          "t": "Zwei Tage lang kein Piep nach meiner klaren Frage, und jetzt zieht er mich vor allen durch den Kakao."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wenn eine Frau nach zwei Tagen nicht antwortet, bist du komplett wertlos, Mann!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich knalle das schwere Gewicht in die Halterung, dass die Stange vibriert und alle umherzucken."
+        },
+        {
+          "s": "Figur",
+          "t": "Die pure Demütigung verwandelt sich in unbändige Rache."
+        },
+        {
+          "s": "Figur",
+          "t": "Genau in diesem Moment öffnet sich das Hallentor und die Polizei betritt das Studio."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Sie suchen laut und deutlich nach der Person, die meinen Account gehackt hat.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Wenn eine Frau nach zwei Tagen nicht antwortet, bist du abgeschrieben, Mann!",
+      "quote_by": {
+        "level": 2,
+        "name": "Ben, 24",
+        "badge": "6 h",
+        "character": "A vibrant orange citrus person wearing a tight black gym tank top, sweating profusely, displaying a glowing 6-hour badge.",
+        "scene": "Medium shot inside a neon-lit Berlin gym, an orange fitness trainer lifting heavy weights with an intense, annoyed look."
+      },
+      "stats": [
+        {
+          "label": "Wartezeit",
+          "value": "48 h",
+          "bar": 0.6
+        },
+        {
+          "label": "Gewicht",
+          "value": "140 kg",
+          "bar": 0.85
+        },
+        {
+          "label": "Stolz",
+          "value": "45 %",
+          "bar": 0.4
+        }
+      ],
+      "character": "A muscular coconut person with a hard brown shell head, wearing black athletic compression gear and a silver chain necklace. Glowing digital forehead number reads 48 h.",
+      "visual": "Medium shot of a coconut fitness guy straining under a heavy barbell in a high-tech Berlin gym, neon blue lights bouncing off his glowing forehead number.",
+      "scenes": [
+        "Wide shot of a modern, industrial-style gym near Alexanderplatz with mirrors and heavy equipment under moody blue LED strips.",
+        "Detail shot of heavy iron dumbbell racks with a tiny golden coin resting on the edge of the 30kg weight.",
+        "Medium shot of an orange citrus guy mocking a fellow gym member near the water fountain.",
+        "Close-up of sweat dripping down a coconut person's hard shell forehead next to the glowing 48 h sign.",
+        "Wide shot of gym members watching the sudden confrontation by the squat rack.",
+        "Close-up of a vibrating smartphone screen inside an open locker showing a flashing notification dot."
+      ],
+      "caption": "Wer kennt diesen Moment im Gym, wenn man ablenken will aber der Chat nervt? #gymlife #alexanderplatz #beziehung #level4 #fitness"
+    },
+    {
+      "n": 5,
+      "open_loop": "Warum stand plötzlich eine unbekannte Anwältin vor ihrer Haustür mit einem versiegelten Brief?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Demütigt sie vor dem gesamten Großraumbüro, weil sie angeblich zu schwach für den Job ist.",
+        "name": "Elena, 34"
+      },
+      "name": "Sophie, 29, Buchhalterin",
+      "badge": "72 h Schweigen",
+      "verdict": "RISIKO",
+      "story": "Die 8 Level vom Chat-Schweigen. Level 5. Sophie! Schnauze halten und weiterarbeiten! Du bist doch wegen deiner emotionalen Bettlerei im Chat viel zu schwach für diesen Job! Meine Vorgesetzte baut sich vor dem gesamten Großraumbüro auf und blamiert mich bis auf die Knochen. Ich sitze im grauen Büro in Mitte, umgeben von Excel-Tabellen, während meine Stirn im Takt der Uhr pulsiert. 72 Stunden eisiges Schweigen und sie tritt auf meinen Stolz, als wäre ich Dreck. Du machst dich komplett lächerlich mit deiner Bettlerei nach Verbindlichkeit! Die offene Frage brennt mir auf den Lippen: Wird die bevorstehende Enthüllung in Level 6 alles verändern? Mein Handy liegt verdeckt neben der Kaffeetasse. Ein leises Summen unterbricht die angespannte Stille. Eine Push-Nachricht taucht auf und enthüllt ein Geheimnis über meine Chefin, das sie sofort vernichten wird. Das siehst du in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+24 h",
+        "after": "96 h"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Chat-Schweigen. Level 5."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sophie! Schnauze halten und weiterarbeiten! Du bist doch wegen deiner emotionalen Bettlerei im Chat viel zu schwach für diesen Job!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Vorgesetzte baut sich vor dem gesamten Großraumbüro auf und blamiert mich bis auf die Knochen."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze im grauen Büro in Mitte, umgeben von Excel-Tabellen, während meine Stirn im Takt der Uhr pulsiert."
+        },
+        {
+          "s": "Figur",
+          "t": "72 Stunden eisiges Schweigen und sie tritt auf meinen Stolz, als wäre ich Dreck."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du machst dich komplett lächerlich mit deiner Bettlerei nach Verbindlichkeit!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Die offene Frage brennt mir auf den Lippen: Wird die bevorstehende Enthüllung in Level 6 alles verändern?"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Handy liegt verdeckt neben der Kaffeetasse."
+        },
+        {
+          "s": "Figur",
+          "t": "Ein leises Summen unterbricht die angespannte Stille."
+        },
+        {
+          "s": "Figur",
+          "t": "Eine Push-Nachricht taucht auf und enthüllt ein Geheimnis über meine Chefin, das sie sofort vernichten wird."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Wer nach drei Tagen noch auf eine Antwort wartet, hat die Kontrolle verloren!",
+      "quote_by": {
+        "level": 7,
+        "name": "Elena, 34",
+        "badge": "120 h",
+        "character": "A sharp dragon fruit person with vibrant pink and green scaled skin, wearing a high-fashion white designer suit, displaying a glowing 120-hour badge.",
+        "scene": "Medium shot inside a sleek corporate Berlin office, a dragon fruit woman standing over a desk pointing condescendingly at an employee."
+      },
+      "stats": [
+        {
+          "label": "Wartezeit",
+          "value": "72 h",
+          "bar": 0.75
+        },
+        {
+          "label": "Bilanzen",
+          "value": "420",
+          "bar": 0.9
+        },
+        {
+          "label": "Nerven",
+          "value": "10 %",
+          "bar": 0.1
+        }
+      ],
+      "character": "A neat plum person with smooth deep purple skin, wearing a conservative grey office blouse and rimless glasses. Glowing digital forehead number reads 72 h.",
+      "visual": "Close-up of a stressed purple plum accountant looking at a glowing computer screen in a sterile Berlin office under harsh fluorescent lights.",
+      "scenes": [
+        "Wide shot of a minimalist, high-rise corporate office floor in Berlin Mitte overlooking a grey rainy cityscape.",
+        "Detail shot of a glowing mechanical desk calculator next to a smartphone showing a 72-hour timer and a tiny golden coin.",
+        "Medium shot of a pink dragon fruit executive slamming a red folder onto a pristine glass desk.",
+        "Close-up of glowing digital forehead numbers reflecting off a polished wooden desktop.",
+        "Wide shot of colleagues pretending not to watch the intense workplace confrontation.",
+        "Close-up of a sudden push notification banner popping up on an iPhone screen."
+      ],
+      "caption": "Wer kennt das Gefühl, wenn im Büro plötzlich alles zu viel wird wegen einer WhatsApp? #berlinmitte #buchhaltung #beziehung #level5 #bureau"
+    },
+    {
+      "n": 6,
+      "open_loop": "Was stand in der gelöschten Nachricht, die vor der Sperrung noch kurz aufblinkte?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Lacht hämisch über die Blockierung und zerreißt den Entwurf vor den Augen aller.",
+        "name": "Mia, 21"
+      },
+      "name": "David, 32, Architekt",
+      "badge": "96 h Schweigen",
+      "verdict": "KRITISCH",
+      "story": "Die 8 Level vom Chat-Schweigen. Level 6. 96 Stunden? Du bist doch absolut lächerlich mit deiner Blockierung und deinen erbärmlichen Entwürfen! Niemand würde jemals einen Charakter wie dich lieben! Mia lacht mich hämisch aus und zerreißt meinen fertigen Architekturplan vor den Augen des gesamten Teams. Ich stehe in meinem Loft am Prenzlauer Berg, trinke kalten Kaffee, und meine Stirn zeigt eine grelle Sechsundneunzig. Vier Tage her, dass ich gefragt habe, ob wir exklusiv sein wollen, und jetzt werde ich komplett vernichtet. Du verdienst es, dass man dich stundenlang ignoriert und wie Dreck behandelt! Mein Blick fällt auf mein eigenes Smartphone, das auf dem Architektentisch summt. Eine Überraschungs-E-Mail aus dem Nichts verkündet, dass mein Hauptinvestor abgesprungen ist – genau zum selben Zeitpunkt, als die Blockierung aufgehoben wurde. Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+24 h",
+        "after": "120 h"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Chat-Schweigen. Level 6."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "96 Stunden? Du bist doch absolut lächerlich mit deiner Blockierung und deinen erbärmlichen Entwürfen! Niemand würde jemals einen Charakter wie dich lieben!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mia lacht mich hämisch aus und zerreißt meinen fertigen Architekturplan vor den Augen des gesamten Teams."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe in meinem Loft am Prenzlauer Berg, trinke kalten Kaffee, und meine Stirn zeigt eine grelle Sechsundneunzig."
+        },
+        {
+          "s": "Figur",
+          "t": "Vier Tage her, dass ich gefragt habe, ob wir exklusiv sein wollen, und jetzt werde ich komplett vernichtet."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du verdienst es, dass man dich stundenlang ignoriert und wie Dreck behandelt!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Blick fällt auf mein eigenes Smartphone, das auf dem Architektentisch summt."
+        },
+        {
+          "s": "Figur",
+          "t": "Eine Überraschungs-E-Mail aus dem Nichts verkündet, dass mein Hauptinvestor abgesprungen ist – genau zum selben Zeitpunkt, als die Blockierung aufgehoben wurde."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Du verdienst es, dass man dich stundenlang ignoriert!",
+      "quote_by": {
+        "level": 1,
+        "name": "Mia, 21",
+        "badge": "0 h",
+        "character": "A fragile strawberry person with green leaf hair and an oversized hoodie, displaying a glowing 0-hour badge.",
+        "scene": "Medium shot inside a bright architectural loft, a strawberry woman pointing angrily at an architect table."
+      },
+      "stats": [
+        {
+          "label": "Wartezeit",
+          "value": "96 h",
+          "bar": 0.85
+        },
+        {
+          "label": "Modelle",
+          "value": "12",
+          "bar": 0.5
+        },
+        {
+          "label": "Kontrolle",
+          "value": "22 %",
+          "bar": 0.2
+        }
+      ],
+      "character": "A sleek coconut person with a polished brown shell head, wearing a minimalist black turtleneck and designer glasses. Glowing digital forehead number reads 96 h.",
+      "visual": "Wide shot of a gorgeous high-ceiling Berlin loft apartment filled with architectural models, moody lighting, and a glowing forehead number.",
+      "scenes": [
+        "Wide shot of an industrial-chic Berlin loft at twilight with large factory windows overlooking Prenzlauer Berg rooftops.",
+        "Detail shot of a delicate cardboard building model with a tiny golden coin hidden among the pillars.",
+        "Medium shot of a furious strawberry girl storming into a modern apartment interior.",
+        "Close-up of glowing digital forehead number 96 h casting a stark white light on architectural blueprints.",
+        "Wide shot of two people arguing across a messy wooden drafting table covered in pens and coffee cups.",
+        "Close-up of a vibrating smartphone screen lighting up in the dark foreground."
+      ],
+      "caption": "Wer kennt das, wenn man tagelang auf eine Antwort wartet und die Nerven blank liegen? #prenzlauerberg #architektur #beziehung #level6 #loft"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welche überraschende Sprachnachricht kam genau in der Sekunde rein, als sie aufgeben wollte?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Liest den schmerzhaft echten Chat im Redaktionsmeeting vor und nennt sie eine lächerliche Witzfigur.",
+        "name": "Sophie, 29"
+      },
+      "name": "Klara, 30, Journalistin",
+      "badge": "120 h Schweigen",
+      "verdict": "ABGESAGT",
+      "story": "Die 8 Level vom Chat-Schweigen. Level 7. 120 Stunden? Die Chefin liest im Redaktionsmeeting unseren schmerzhaft echten Chat vor und nennt mich eine lächerliche Witzfigur, die nach fünf Tagen immer noch auf eine Antwort bettelt! Ich tippe wie wild in die Tasten im Herzen von Berlin, während meine Stirn eine unheimliche 120 anzeigt. Du glaubst doch nicht ernsthaft, dass sich nach fünf Tagen noch jemand meldet bei so einer erbärmlichen Nervensäge? Fünf Tage ohne ein Wort nach meiner Frage nach Exklusivität. Keine Nachricht, kein Lebenszeichen, nur das tickende Echo der absoluten Demütigung. Der Zuschauer will nur noch eins: Genugtuung. Mein Handy vibriert heftig am Rand des Holztisches. Auf dem Display erscheint ein Livestream-Link, der zeigt, wie mein Chatpartner gerade auf einem öffentlichen Platz eine ganz andere Person um Handarbeit anfleht. Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "+24 h",
+        "after": "144 h"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Chat-Schweigen. Level 7."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "120 Stunden? Die Chefin liest im Redaktionsmeeting unseren schmerzhaft echten Chat vor und nennt mich eine lächerliche Witzfigur, die nach fünf Tagen immer noch auf eine Antwort bettelt!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich tippe wie wild in die Tasten im Herzen von Berlin, während meine Stirn eine unheimliche 120 anzeigt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du glaubst doch nicht ernsthaft, dass sich nach fünf Tagen noch jemand meldet bei so einer erbärmlichen Nervensäge?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Fünf Tage ohne ein Wort nach meiner Frage nach Exklusivität. Keine Nachricht, kein Lebenszeichen, nur das tickende Echo der absoluten Demütigung."
+        },
+        {
+          "s": "Figur",
+          "t": "Der Zuschauer will nur noch eins: Genugtuung."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Handy vibriert heftig am Rand des Holztisches."
+        },
+        {
+          "s": "Figur",
+          "t": "Auf dem Display erscheint ein Livestream-Link, der zeigt, wie mein Chatpartner gerade auf einem öffentlichen Platz eine ganz andere Person um Handarbeit anfleht."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Wer so lange bettelt, hat schon verloren, Liebes!",
+      "quote_by": {
+        "level": 5,
+        "name": "Sophie, 29",
+        "badge": "72 h",
+        "character": "A neat plum person with deep purple skin, wearing a conservative grey office blouse, displaying a glowing 72-hour badge.",
+        "scene": "Medium shot inside a bustling newsroom, a plum woman standing next to a desk holding a glossy magazine with a cold smirk."
+      },
+      "stats": [
+        {
+          "label": "Wartezeit",
+          "value": "120 h",
+          "bar": 0.95
+        },
+        {
+          "label": "Artikel",
+          "value": "310",
+          "bar": 0.88
+        },
+        {
+          "label": "Geduld",
+          "value": "5 %",
+          "bar": 0.05
+        }
+      ],
+      "character": "An exotic dragon fruit person with vibrant pink and green scaled skin, wearing a sleek black turtleneck and silver hoop earrings. Glowing digital forehead number reads 120 h.",
+      "visual": "Close-up of a dragon fruit journalist staring intensely at a laptop screen in a busy Berlin newsroom with red emergency lights reflecting.",
+      "scenes": [
+        "Wide shot of a chaotic, brightly lit newspaper newsroom in Berlin with ringing phones and papers scattered everywhere.",
+        "Detail shot of an old mechanical typewriter key with a tiny golden coin balanced on the metal arm.",
+        "Medium shot of a purple plum office worker leaning over a partition wall with a sarcastic expression.",
+        "Close-up of glowing digital forehead number 120 h casting a pink hue over a stack of newspapers.",
+        "Wide shot of journalists rushing past desks in the background while a tense argument unfolds.",
+        "Close-up of a glowing smartphone screen displaying an incoming message preview."
+      ],
+      "caption": "Fünf Tage Funkstille nach einer wichtigen Frage – wer kennt das? #journalismus #berlin #beziehung #level7 #schweigen"
+    },
+    {
+      "n": 8,
+      "open_loop": "Was stand in der ultimativen Nachricht, die alle anderen 7 Level augenblicklich verstummen ließ?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Wird vor versammelter Mannschaft als komplett bankrott und besitzlos entlarvt.",
+        "name": "Kim, 26"
+      },
+      "name": "Leo, 35, Schriftsteller",
+      "badge": "168 h Schweigen",
+      "verdict": "EXKLUSIV",
+      "story": "Die 8 Level vom Chat-Schweigen. Level 8. Das Finale liefert die absolute Genugtuung! Ich zeige allen Hatern, die mich tagelang gedemütigt haben, den wahren Wert und entlarve Kim vor versammelter Mannschaft als komplett bankrott und pleite. Ich sitze in meinem ruhigen Altbauarbeitszimmer im Scheunenviertel, der Kamin knistert, und auf meiner Stirn leuchtet die finale Zahl. Keine lahmen Rätselfragen am Ende, sondern der finale, eiskalte Beweis auf dem Display. Draußen rauscht die Stadt, drinnen herrscht friedliche Gewissheit. Die Hater schauen durch das Fenster und begreifen, dass sie verloren haben. Das lange Warten hat ein eiskaltes Ende gefunden, und der Bildschirm zeigt den Kontostand, der alle stumm schaltet. Doch plötzlich geht die Haustür auf, und jemand betritt den Raum, den ich seit Jahren nicht mehr gesehen habe. Welches Thema aus dem Alltag soll als Nächstes durch alle 8 Level seziert werden?",
+      "gender": "m",
+      "twist": {
+        "delta": "0 h",
+        "after": "0 h"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Chat-Schweigen. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Das Finale liefert die absolute Genugtuung! Ich zeige allen Hatern, die mich tagelang gedemütigt haben, den wahren Wert und entlarve Kim vor versammelter Mannschaft als komplett bankrott und pleite."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze in meinem ruhigen Altbauarbeitszimmer im Scheunenviertel, der Kamin knistert, und auf meiner Stirn leuchtet die finale Zahl."
+        },
+        {
+          "s": "Figur",
+          "t": "Keine lahmen Rätselfragen am Ende, sondern der finale, eiskalte Beweis auf dem Display."
+        },
+        {
+          "s": "Figur",
+          "t": "Draußen rauscht die Stadt, drinnen herrscht friedliche Gewissheit."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Die Hater schauen durch das Fenster und begreifen, dass sie verloren haben.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Das lange Warten hat ein eiskaltes Ende gefunden, und der Bildschirm zeigt den Kontostand, der alle stumm schaltet."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch plötzlich geht die Haustür auf, und jemand betritt den Raum, den ich seit Jahren nicht mehr gesehen habe."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema aus dem Alltag soll als Nächstes durch alle 8 Level seziert werden?"
+        }
+      ],
+      "quote": "Wer fragt, gewinnt nicht die Kontrolle, sondern die Klarheit.",
+      "quote_by": {
+        "level": 8,
+        "name": "Leo, 35",
+        "badge": "168 h",
+        "character": "A wise coconut writer with a textured brown shell head, wearing an elegant tweed jacket and a silk scarf, displaying a glowing 168-hour badge.",
+        "scene": "Wide shot of a cozy Berlin attic study with bookshelves, a fireplace, and warm amber light illuminating a coconut man looking at a smartphone."
+      },
+      "stats": [
+        {
+          "label": "Wartezeit",
+          "value": "168 h",
+          "bar": 1.0
+        },
+        {
+          "label": "Kapitel",
+          "value": "450",
+          "bar": 1.0
+        },
+        {
+          "label": "Klarheit",
+          "value": "100 %",
+          "bar": 1.0
+        }
+      ],
+      "character": "A wise coconut person with a polished brown shell head, wearing an elegant tweed blazer and a vintage pocket watch. Glowing digital forehead number reads 168 h.",
+      "visual": "Wide shot of a warm, book-filled Berlin attic study at night, a coconut writer smiling softly at a glowing smartphone screen next to a fireplace.",
+      "scenes": [
+        "Wide shot of a peaceful Berlin attic study in the Scheunenviertel with glowing bookshelves and rain pattering on old skylights.",
+        "Detail shot of an antique brass pocket watch lying next to a tiny golden coin on a mahogany desk.",
+        "Medium shot of characters from previous levels gathered outside a lit window, watching the final reveal.",
+        "Close-up of glowing digital forehead number 168 h casting a warm golden glow across the room.",
+        "Wide shot of the final smartphone screen displaying two green checkmarks and an accepted exclusive status.",
+        "Close-up of a smiling coconut face reflecting absolute peace and resolution."
+      ],
+      "caption": "Die Auflösung nach einer ganzen Woche Warten! Welches Thema soll als Nächstes kommen? #scheunenviertel #beziehung #level8 #finale #happyend"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das unerträgliche Schweigen nach der Frage 'Wollen wir exklusiv sein?' im Chat",
+  "frame": "frucht"
+}
