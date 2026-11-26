@@ -1,764 +1,793 @@
 {
-  "title": "The 8 Levels of ChatGPT Relationship Fights",
-  "house": "A bustling urban metropolis where fruit and vegetable people commute on the metro line 4, grab oat lattes at the neon kiosk, and argue in cramped studio apartments.",
-  "catchphrase": "The prompt never lies.",
+  "title": "The 8 Levels of AI Romance",
+  "house": "A bustling metropolitan city made entirely of organic produce towers, neon-lit vegetable markets, and misty juice-bar alleys.",
+  "catchphrase": "The number never lies, but ChatGPT writes the heart.",
   "links": [
-    "The barista from level 2 mentions a stressed broccoli customer working late at the tech startup.",
-    "A glowing golden coin is hidden near the ticket machine at the central metro station.",
-    "The landlord from level 6 is seen arguing near the neon kiosk about rising rent prices.",
-    "A discarded takeout box from the downtown Thai place appears in multiple apartment scenes."
+    "Level 3 mentions a giant Coconut broker who drinks iced matcha at the corner kiosk.",
+    "Level 5 customer notices the exact same Blueberry barista humming a melancholy tune.",
+    "Level 8 reveals the central server room beneath the public library where all prompts are stored."
   ],
   "levels": [
     {
       "n": 1,
-      "open_loop": "What did the AI actually write in the final text message that caused total chaos?",
+      "open_loop": "Why did the AI prompt generate a breakup text instead of a love poem?",
       "gegenspieler": {
         "level": 3,
-        "tat": "Laughs at her basic phrasing and tells her she cannot even argue without a machine."
+        "tat": "Mocks the low prompt-efficiency score and deletes the backup draft."
       },
-      "name": "Mia, 23, Barista",
-      "badge": "0 Prompts Used",
-      "verdict": "RAW EMOTION",
-      "story": "The 8 levels of secret ChatGPT relationship arguments. Level 1. 0 Prompts? Who let this lazy strawberry into my penthouse? Maybe she can clean my toilet right when her battery dies. I just wanted to tell Leo he never does the dishes, but my thumbs were shaking over my cracked phone screen. So I panicked and asked ChatGPT to write a devastating, emotionally intelligent breakup warning. You use an AI app just to tell me I suck at chores? Honestly, Mia, using a robot to fight your boyfriend is just pathetic. I didn't mean for it to sound this cold, I swear my battery was dying and the autocomplete took over completely! Autocomplete doesn't draft a twelve-page legal separation document while standing in the kitchen! Then he dropped that one cold sentence that ended everything right there, triggering an automated system lock. You'll see that in Level 2.",
-      "gender": "w",
+      "name": "Leo, 22, Intern",
+      "badge": "0.1% EQ",
+      "verdict": "HEARTLESS",
+      "story": "The 8 levels of AI romance. Level 1. Level 1: zero percent emotional intelligence and a glowing 0.1% EQ score on my strawberry forehead. You didn't write a single word of this anniversary paragraph, did you? I froze. My glowing blue forehead digits flickered in absolute panic. That's pathetic, even an unpeeled yam has more verbal skills than you! You have exactly ten seconds to tell me who actually typed this garbage or we are done forever. Suddenly, a massive warning banner flashed across the diner windows, announcing an unauthorized system breach in sector four. My phone buzzed with an ominous prompt notification from an unknown sender. If I couldn't guess the secret password immediately, my entire relationship history would be deleted by midnight. You'll see that in Level 2.",
+      "gender": "m",
       "twist": {
-        "delta": "+1 Prompt",
-        "after": "1 Prompt"
+        "delta": "+5.0% EQ",
+        "after": "5.1%"
       },
       "lines": [
         {
           "s": "Erzaehler",
-          "t": "The 8 levels of secret ChatGPT relationship arguments. Level 1."
+          "t": "The 8 levels of AI romance. Level 1."
         },
         {
           "s": "Figur",
-          "t": "0 Prompts? Who let this lazy strawberry into my penthouse? Maybe she can clean my toilet right when her battery dies."
-        },
-        {
-          "s": "Figur",
-          "t": "I just wanted to tell Leo he never does the dishes, but my thumbs were shaking over my cracked phone screen."
-        },
-        {
-          "s": "Figur",
-          "t": "So I panicked and asked ChatGPT to write a devastating, emotionally intelligent breakup warning."
-        },
-        {
-          "s": "Gegenspieler",
-          "t": "You use an AI app just to tell me I suck at chores?",
-          "g": "m"
+          "t": "Level 1: zero percent emotional intelligence and a glowing 0.1% EQ score on my strawberry forehead."
         },
         {
           "s": "Nebenfigur",
-          "t": "Honestly, Mia, using a robot to fight your boyfriend is just pathetic.",
+          "t": "You didn't write a single word of this anniversary paragraph, did you?",
           "g": "w"
         },
         {
           "s": "Figur",
-          "t": "I didn't mean for it to sound this cold, I swear my battery was dying and the autocomplete took over completely!"
+          "t": "I froze. My glowing blue forehead digits flickered in absolute panic."
         },
         {
           "s": "Gegenspieler",
-          "t": "Autocomplete doesn't draft a twelve-page legal separation document while standing in the kitchen!",
+          "t": "That's pathetic, even an unpeeled yam has more verbal skills than you!",
           "g": "m"
         },
         {
-          "s": "Erzaehler",
-          "t": "Then he dropped that one cold sentence that ended everything right there, triggering an automated system lock."
+          "s": "Nebenfigur",
+          "t": "You have exactly ten seconds to tell me who actually typed this garbage or we are done forever.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Suddenly, a massive warning banner flashed across the diner windows, announcing an unauthorized system breach in sector four."
+        },
+        {
+          "s": "Figur",
+          "t": "My phone buzzed with an ominous prompt notification from an unknown sender."
+        },
+        {
+          "s": "Figur",
+          "t": "If I couldn't guess the secret password immediately, my entire relationship history would be deleted by midnight."
         },
         {
           "s": "Erzaehler",
           "t": "You'll see that in Level 2."
         }
       ],
-      "quote": "You use an AI app just to tell me I suck at chores?",
+      "quote": "That's pathetic, even an unpeeled yam has more verbal skills than you!",
       "quote_by": {
         "level": 3,
-        "name": "Leo, 25, Blueberry",
-        "badge": "12 Prompts",
-        "character": "A smooth, dark blue blueberry man in a tight black turtleneck holding a glowing smartphone.",
-        "scene": "Medium shot inside a cramped, messy kitchen with warm overhead lighting, looking down at his glowing forehead badge while sneering."
+        "name": "Broccoli Brad",
+        "badge": "88% EQ",
+        "character": "An arrogant Broccoli man in a crisp wool suit, holding a glowing tablet.",
+        "scene": "Wide angle shot in a neon-lit diner, pointing mockingly at a terrified strawberry man."
       },
       "stats": [
         {
-          "label": "AI Trust",
-          "value": "0%",
+          "label": "EQ Score",
+          "value": "0.1%",
           "bar": 0.05
         },
         {
-          "label": "Panic",
-          "value": "98%",
-          "bar": 0.95
+          "label": "Prompts",
+          "value": "412",
+          "bar": 0.4
         },
         {
-          "label": "Dishes",
-          "value": "Unwashed",
+          "label": "Singles",
+          "value": "1",
           "bar": 0.1
         }
       ],
-      "character": "A young, frantic strawberry woman with tiny green leaf hair, wearing an oversized faded hoodie and clutching a broken smartphone; a bright digital badge glows on her forehead.",
-      "visual": "Wide angle shot of a cramped, messy studio kitchen with dirty dishes piled high, warm pendant lighting casting long shadows.",
+      "character": "A bright red strawberry man with tiny seeds, wearing a worn-out denim jacket and holding a cracked smartphone. On his forehead glows a neon blue 0.1% EQ badge.",
+      "visual": "Wide cinematic shot of a strawberry man sitting in a retro diner, staring in shock at his phone while a broccoli man laughs across the aisle. Hidden golden coin on the jukebox.",
       "scenes": [
-        "Wide shot of a cramped, messy studio kitchen with dirty dishes piled high, warm pendant lighting casting long shadows.",
-        "Medium shot of Mia, a strawberry woman, trembling as she holds a cracked smartphone displaying glowing chat text.",
-        "Close up on Mia's forehead showing the glowing digital badge reading '0 Prompts Used'.",
-        "Medium shot of Leo, a blueberry man, leaning against the counter with a cold smirk on his face.",
-        "Detail shot of a glowing golden coin resting quietly beside a dirty coffee mug on the laminate counter.",
-        "Over-the-shoulder shot showing a neon sign glowing through the foggy apartment window across the street."
+        "Retro diner interior, wide shot. Fluorescent lights flickering above sticky red leather booths with various fruit customers.",
+        "Close-up on a strawberry man's forehead showing a glowing digital '0.1%' while sweat drips from his green stem.",
+        "Medium shot of a furious pineapple woman standing up, throwing her oat milk latte across the table.",
+        "Detailed close-up of a cracked smartphone screen displaying a copied ChatGPT romance prompt about eternal love.",
+        "Over-the-shoulder shot of an arrogant broccoli man in a sharp business suit pointing and smirking.",
+        "Extreme close-up of the strawberry man's trembling hands hovering over the keyboard as a notification pops up."
       ],
-      "caption": "Would you ever let an AI fight your battles? Let us know in the comments! #ChatGPT #RelationshipDrama #TheStirnZahl #TrashTV #Viral"
+      "caption": "Would you dump someone for using AI to text you? #AIRomance #RelationshipDrama #Level1 #ChatGPT #StirnZahl"
     },
     {
       "n": 2,
-      "open_loop": "What hidden command did the prompt execute that wiped out their shared savings account?",
+      "open_loop": "What secret instruction did the prompt history reveal to the jealous orange?",
       "gegenspieler": {
         "level": 4,
-        "tat": "Intercepts their Wi-Fi signal and mocks their upgrade subscription level."
+        "tat": "Intercepts the premium prompt subscription and leaks the draft logs to the public."
       },
-      "name": "Leo, 25, Software Tester",
-      "badge": "12 Prompts",
-      "verdict": "TECH DEPENDENT",
-      "story": "The 8 levels of secret ChatGPT relationship arguments. Level 2. Mit 12 armseligen Prompts willst du hier einen Cold Brew bestellen? Geh Pfand sammeln. She laughed him out of the cafe while his forehead counter plummeted live from 12 to 0. Act like a supportive partner with boundary issues, I typed into my phone. You did not just prompt-engineer our anniversary argument! Sir, this is a local coffee shop, keep your robot drama off the premises. Look, if the API doesn't validate our emotional baggage, how else am I supposed to know if we're compatible? Compatible? You just scheduled a notification to break up with me via push alert during peak hours! Then she pulled out her phone and hit send on the message that deleted our joint vacation fund permanently. You'll see that in Level 3.",
-      "gender": "m",
+      "name": "Chloe, 25, Barista",
+      "badge": "12% EQ",
+      "verdict": "UNORIGINAL",
+      "story": "The 8 levels of AI romance. Level 2. Level 2: twelve percent emotional intelligence and a glowing orange peel forehead in a crowded subway car. Toby handed me a poetic birthday card about my sparkling citrus eyes. But my glowing yellow forehead numbers flashed a warning as I spotted the exact prompt syntax at the bottom. That is embarrassing, even a crushed lime has more authentic feelings than you two! I didn't use it for the poetry, I used it because I forgot your name. Without warning, the subway car plunged into total darkness as the automated braking system locked every door. A mysterious voice echoed over the intercom claiming that our personal chats were now streaming live across the municipal network. Toby dropped his phone in absolute terror as the emergency lights blinked crimson red. You'll see that in Level 3.",
+      "gender": "w",
       "twist": {
-        "delta": "+15 Prompt",
-        "after": "27 Prompt"
+        "delta": "+15% EQ",
+        "after": "27%"
       },
       "lines": [
         {
           "s": "Erzaehler",
-          "t": "The 8 levels of secret ChatGPT relationship arguments. Level 2."
+          "t": "The 8 levels of AI romance. Level 2."
         },
         {
           "s": "Figur",
-          "t": "Mit 12 armseligen Prompts willst du hier einen Cold Brew bestellen? Geh Pfand sammeln."
-        },
-        {
-          "s": "Figur",
-          "t": "She laughed him out of the cafe while his forehead counter plummeted live from 12 to 0."
-        },
-        {
-          "s": "Figur",
-          "t": "Act like a supportive partner with boundary issues, I typed into my phone."
-        },
-        {
-          "s": "Gegenspieler",
-          "t": "You did not just prompt-engineer our anniversary argument!",
-          "g": "w"
+          "t": "Level 2: twelve percent emotional intelligence and a glowing orange peel forehead in a crowded subway car."
         },
         {
           "s": "Nebenfigur",
-          "t": "Sir, this is a local coffee shop, keep your robot drama off the premises.",
+          "t": "Toby handed me a poetic birthday card about my sparkling citrus eyes.",
           "g": "m"
         },
         {
           "s": "Figur",
-          "t": "Look, if the API doesn't validate our emotional baggage, how else am I supposed to know if we're compatible?"
+          "t": "But my glowing yellow forehead numbers flashed a warning as I spotted the exact prompt syntax at the bottom."
         },
         {
           "s": "Gegenspieler",
-          "t": "Compatible? You just scheduled a notification to break up with me via push alert during peak hours!",
+          "t": "That is embarrassing, even a crushed lime has more authentic feelings than you two!",
           "g": "m"
         },
         {
-          "s": "Erzaehler",
-          "t": "Then she pulled out her phone and hit send on the message that deleted our joint vacation fund permanently."
+          "s": "Nebenfigur",
+          "t": "I didn't use it for the poetry, I used it because I forgot your name.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Without warning, the subway car plunged into total darkness as the automated braking system locked every door."
+        },
+        {
+          "s": "Figur",
+          "t": "A mysterious voice echoed over the intercom claiming that our personal chats were now streaming live across the municipal network."
+        },
+        {
+          "s": "Figur",
+          "t": "Toby dropped his phone in absolute terror as the emergency lights blinked crimson red."
         },
         {
           "s": "Erzaehler",
           "t": "You'll see that in Level 3."
         }
       ],
-      "quote": "You did not just prompt-engineer our anniversary argument!",
+      "quote": "That is embarrassing, even a crushed lime has more authentic feelings than you two!",
       "quote_by": {
         "level": 4,
-        "name": "Sora, 29, Orange",
-        "badge": "45 Prompts",
-        "character": "A bright, pulpy orange woman in a sleek designer trench coat holding an expensive tablet.",
-        "scene": "Wide shot across a sunny cafe terrace, pointing mockingly at the glowing counter on Leo's forehead."
+        "name": "Orange Oliver",
+        "badge": "45% EQ",
+        "character": "A sleek, polished orange man in a tailored silk vest, holding an expensive platinum tablet.",
+        "scene": "Medium shot inside a rushing subway train, leaning against a steel pole with a condescending grin."
       },
       "stats": [
         {
-          "label": "API Calls",
-          "value": "12/day",
-          "bar": 0.25
+          "label": "EQ Score",
+          "value": "12%",
+          "bar": 0.15
         },
         {
-          "label": "Empathy",
-          "value": "Simulated",
-          "bar": 0.3
+          "label": "Prompts",
+          "value": "1,200",
+          "bar": 0.5
         },
         {
-          "label": "Coffee",
-          "value": "$4.50",
-          "bar": 0.4
+          "label": "Trust",
+          "value": "15%",
+          "bar": 0.2
         }
       ],
-      "character": "A smooth, dark blue blueberry man wearing a tight black turtleneck and silver glasses, with a bright digital counter glowing on his forehead.",
-      "visual": "Medium shot of a trendy downtown cafe with warm sunlight streaming through large glass windows, green plants hanging from the ceiling.",
+      "character": "An orange citrus woman with a textured peel skin texture, wearing an oversized thrift-store sweater and a silver hoop earring. On her forehead glows a bright orange 12% EQ badge.",
+      "visual": "Wide shot of a crowded subway car filled with fruit commuters, holding onto silver poles under flickering fluorescent lights. Hidden golden coin wedged in the rubber floor seam.",
       "scenes": [
-        "Medium shot of a trendy downtown cafe with warm sunlight streaming through large glass windows, green plants hanging from the ceiling.",
-        "Close up on Leo's glowing forehead badge showing '12 Prompts' as he taps furiously on his smartphone screen.",
-        "Wide shot of the cafe terrace where customers in fruit and vegetable costumes whisper and point.",
-        "Detail shot of a golden coin wedged between the wooden slats of the outdoor cafe table.",
-        "Medium shot of Sora, an orange woman, walking past and sneering at Leo's prompt dashboard.",
-        "Close up of a smartphone screen displaying a live API token expiration warning in red neon font."
+        "Crowded subway car interior, wide shot with diverse fruit passengers swaying as the train speeds through a dark tunnel.",
+        "Close-up on an orange woman's forehead displaying a glowing digital '12%' while she glares at a birthday card.",
+        "Medium shot of a sour lemon man sweating profusely, holding a cracked smartphone behind his back.",
+        "Detailed close-up of a birthday card featuring awkward AI-generated phrasing about citrus fruit love.",
+        "Over-the-shoulder shot of a sleek orange executive laughing mockingly from across the aisle.",
+        "Extreme close-up of the lemon man's trembling lips right before he drops his devastating confession."
       ],
-      "caption": "When your boyfriend needs an API key just to apologize. Tag someone who texts like a bot! #TechLife #AI #RelationshipGoals #Drama #StirnZahl"
+      "caption": "Would you forgive someone for forgetting your name and using AI? #SubwayDrama #AIRomance #Level2 #StirnZahl"
     },
     {
       "n": 3,
-      "open_loop": "Who leaked the private prompt history to the entire corporate Slack channel?",
+      "open_loop": "Who leaked the entire prompt history to the corporate chatbot board?",
       "gegenspieler": {
-        "level": 6,
-        "tat": "Threatens to fire them both for inefficient human communication."
+        "level": 5,
+        "tat": "Bids higher on premium server tokens and locks out standard users."
       },
-      "name": "Sora, 29, Marketing Director",
-      "badge": "45 Prompts",
-      "verdict": "OPTIMIZED LOVE",
-      "story": "The 8 levels of secret ChatGPT relationship arguments. Level 3. Schaut alle her, sie googelt, ob man Gefühle per Software erzwingen kann! 80 colleagues stared as he read her entire private search history out loud instead of just showing mercy. You spent forty-five AI generations optimizing our breakup talk instead of talking to me like a real vegetable! Please take your low-yield personal drama to the seventh-floor breakroom immediately. I had to use the algorithm! Corporate compliance requires a seventy percent emotional transparency score before filing! Compliance doesn't mean generating a synthetic heartbreak ballad and playing it over the intercom! Then he whispered that terrifying sentence that exposed my entire hidden search history to the firm. You'll see that in Level 4.",
-      "gender": "w",
+      "name": "Brad, 28, Broker",
+      "badge": "88% EQ",
+      "verdict": "CALCULATED",
+      "story": "The 8 levels of AI romance. Level 3. Level 3: eighty-eight percent emotional intelligence and a glowing emerald forehead in a luxury glass penthouse. You didn't write this, you outsourced our entire engagement to a neural network! That's pathetic, even an unpeeled yam has more verbal skills than you! I tried to explain that optimization is just smart business in modern dating. Your subscription was canceled by the main server five minutes before you knelt down. Just as the glass doors slid open, a shadowy figure stepped out from the terrace holding a golden server key. He whispered that the engagement ring itself was entirely simulated by the mainframe. My digital forehead score plummeted instantly as the whole building began to shake. You'll see that in Level 4.",
+      "gender": "m",
       "twist": {
-        "delta": "+100 Promp",
-        "after": "145 Promp"
+        "delta": "-30% EQ",
+        "after": "58%"
       },
       "lines": [
         {
           "s": "Erzaehler",
-          "t": "The 8 levels of secret ChatGPT relationship arguments. Level 3."
+          "t": "The 8 levels of AI romance. Level 3."
         },
         {
           "s": "Figur",
-          "t": "Schaut alle her, sie googelt, ob man Gefühle per Software erzwingen kann!"
-        },
-        {
-          "s": "Figur",
-          "t": "80 colleagues stared as he read her entire private search history out loud instead of just showing mercy."
-        },
-        {
-          "s": "Gegenspieler",
-          "t": "You spent forty-five AI generations optimizing our breakup talk instead of talking to me like a real vegetable!",
-          "g": "m"
+          "t": "Level 3: eighty-eight percent emotional intelligence and a glowing emerald forehead in a luxury glass penthouse."
         },
         {
           "s": "Nebenfigur",
-          "t": "Please take your low-yield personal drama to the seventh-floor breakroom immediately.",
+          "t": "You didn't write this, you outsourced our entire engagement to a neural network!",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "That's pathetic, even an unpeeled yam has more verbal skills than you!",
           "g": "m"
         },
         {
           "s": "Figur",
-          "t": "I had to use the algorithm! Corporate compliance requires a seventy percent emotional transparency score before filing!"
+          "t": "I tried to explain that optimization is just smart business in modern dating."
         },
         {
-          "s": "Gegenspieler",
-          "t": "Compliance doesn't mean generating a synthetic heartbreak ballad and playing it over the intercom!",
+          "s": "Nebenfigur",
+          "t": "Your subscription was canceled by the main server five minutes before you knelt down.",
           "g": "m"
         },
         {
-          "s": "Erzaehler",
-          "t": "Then he whispered that terrifying sentence that exposed my entire hidden search history to the firm."
+          "s": "Figur",
+          "t": "Just as the glass doors slid open, a shadowy figure stepped out from the terrace holding a golden server key."
+        },
+        {
+          "s": "Figur",
+          "t": "He whispered that the engagement ring itself was entirely simulated by the mainframe."
+        },
+        {
+          "s": "Figur",
+          "t": "My digital forehead score plummeted instantly as the whole building began to shake."
         },
         {
           "s": "Erzaehler",
           "t": "You'll see that in Level 4."
         }
       ],
-      "quote": "You spent forty-five AI generations optimizing our breakup talk instead of talking to me like a real vegetable!",
+      "quote": "That's pathetic, even an unpeeled yam has more verbal skills than you!",
       "quote_by": {
-        "level": 6,
-        "name": "Victor, 42, Coconut",
-        "badge": "500 Prompts",
-        "character": "A hard-shelled brown coconut man wearing a tailored charcoal suit and gold cufflinks.",
-        "scene": "Low angle shot inside a glass-walled executive boardroom, looking down dismissively at Sora."
+        "level": 5,
+        "name": "Coconut Carl",
+        "badge": "95% EQ",
+        "character": "A tough-shelled coconut man in an expensive tuxedo, holding a glass of bubbly cider.",
+        "scene": "Wide penthouse balcony view at sunset, looking down with extreme condescension."
       },
       "stats": [
         {
-          "label": "Tokens",
-          "value": "120k/hr",
-          "bar": 0.45
+          "label": "EQ Score",
+          "value": "88%",
+          "bar": 0.85
         },
         {
-          "label": "Efficiency",
-          "value": "99.4%",
-          "bar": 0.88
+          "label": "Prompts",
+          "value": "15.4k",
+          "bar": 0.9
         },
         {
-          "label": "Heartrate",
-          "value": "110 bpm",
-          "bar": 0.6
+          "label": "Net Worth",
+          "value": "$450k",
+          "bar": 0.8
         }
       ],
-      "character": "A bright, pulpy orange woman with textured citrus-peel skin, wearing a sleek beige designer trench coat and holding an aluminum tablet case.",
-      "visual": "Wide shot of a modern, minimalist tech startup office with exposed concrete pillars and rows of glowing Apple monitors.",
+      "character": "A crisp bright-green broccoli man with a tailored navy wool suit and gold cufflinks. On his forehead glows an emerald digital 88% EQ badge.",
+      "visual": "Wide panoramic shot of a modern glass penthouse balcony at dusk overlooking a glowing neon fruit metropolis. Hidden golden coin resting on the champagne ice bucket.",
       "scenes": [
-        "Wide shot of a modern, minimalist tech startup office with exposed concrete pillars and rows of glowing Apple monitors.",
-        "Medium shot of Sora, an orange woman, slamming a sleek tablet onto a reclaimed oak conference table.",
-        "Close up on Sora's glowing forehead badge displaying '45 Prompts' in bright orange LED numbers.",
-        "Medium shot of Victor, a coconut man, adjusting his gold cufflinks while staring down at her with a blank expression.",
-        "Detail shot of a tiny golden coin resting on top of a stack of printed quarterly KPI reports.",
-        "Close up of an office Slack notification pinging on a desktop monitor with a confidential file transfer warning."
+        "Luxury glass penthouse balcony at sunset, wide shot with glittering skyscraper juice-towers in the background.",
+        "Close-up on a broccoli man's forehead showing a glowing digital '88%' while he adjusts his designer suit.",
+        "Medium shot of an avocado woman tearing an engagement ring off her finger in sheer disbelief.",
+        "Detailed close-up of a glowing high-tech tablet displaying complex relationship prompt algorithms and success percentages.",
+        "Over-the-shoulder shot of a coconut tycoon smirking while holding a glass of champagne.",
+        "Extreme close-up of the security guard's flashing digital badge revealing the server cancellation."
       ],
-      "caption": "When your corporate job leaks into your relationship arguments. Tag a workaholic! #StartupLife #CorporateHumor #AI #StirnZahl #Drama"
+      "caption": "Would you use an AI algorithm to propose to your partner? #PenthouseDrama #AIRomance #Level3 #StirnZahl"
     },
     {
       "n": 4,
-      "open_loop": "What emergency protocol did the AI trigger when the server connection dropped?",
+      "open_loop": "What hidden file did the coconut tycoon download from the AI mainframe?",
       "gegenspieler": {
-        "level": 7,
-        "tat": "Blocks their neural sync frequency and demands an exorbitant offline fee."
+        "level": 6,
+        "tat": "Threatens to expose the stolen emotional datasets to the city council."
       },
-      "name": "Kai, 31, Data Architect",
-      "badge": "145 Prompts",
-      "verdict": "SYNTAX ERROR",
-      "story": "The 8 levels of secret ChatGPT relationship arguments. Level 4. Nimm deinen Plastiklöffel und verschwinde, du programmierst dir deinen Freund doch nur aus Einsamkeit. She kicked his laptop across the filthy subway floor. You have a python script generating our love life while you sit here eating stale pretzels! Get a real job, nerd! Coding a girlfriend won't save your broken badge. The script was only compiling error handling! You're the one who exported our chat logs to an open-source public repository! Public repository? Everyone in this subway car is reading our breakup poetry on their phones right now! Then she hit me with that savage ultimatum right before the doors slid open into the dark. You'll see that in Level 5.",
+      "name": "Oliver, 31, Executive",
+      "badge": "45% EQ",
+      "verdict": "EXPOSED",
+      "story": "The 8 levels of AI romance. Level 4. Level 4: forty-five percent emotional intelligence and a glowing citrus orange forehead in the corporate boardroom. You paid a subscription fee just to tell me you're sorry for working late? That is embarrassing, even a crushed lime has more authentic feelings than you two! I stammered that corporate synergy requires efficient communication in every modern relationship. The system recorded every single word you copied, and your wife owns the copyright now. Suddenly, the holographic meeting table displayed a terrifying legal notice from the city archives. All of our past text messages were classified as intellectual property belonging to the central neural core. If we refused to pay the licensing fee, our marriage certificate would be revoked immediately. You'll see that in Level 5.",
       "gender": "m",
       "twist": {
-        "delta": "+350 Promp",
-        "after": "495 Promp"
+        "delta": "-20% EQ",
+        "after": "25%"
       },
       "lines": [
         {
           "s": "Erzaehler",
-          "t": "The 8 levels of secret ChatGPT relationship arguments. Level 4."
+          "t": "The 8 levels of AI romance. Level 4."
         },
         {
           "s": "Figur",
-          "t": "Nimm deinen Plastiklöffel und verschwinde, du programmierst dir deinen Freund doch nur aus Einsamkeit."
-        },
-        {
-          "s": "Figur",
-          "t": "She kicked his laptop across the filthy subway floor."
-        },
-        {
-          "s": "Gegenspieler",
-          "t": "You have a python script generating our love life while you sit here eating stale pretzels!",
-          "g": "w"
+          "t": "Level 4: forty-five percent emotional intelligence and a glowing citrus orange forehead in the corporate boardroom."
         },
         {
           "s": "Nebenfigur",
-          "t": "Get a real job, nerd! Coding a girlfriend won't save your broken badge.",
+          "t": "You paid a subscription fee just to tell me you're sorry for working late?",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "That is embarrassing, even a crushed lime has more authentic feelings than you two!",
           "g": "m"
         },
         {
           "s": "Figur",
-          "t": "The script was only compiling error handling! You're the one who exported our chat logs to an open-source public repository!"
+          "t": "I stammered that corporate synergy requires efficient communication in every modern relationship."
         },
         {
-          "s": "Gegenspieler",
-          "t": "Public repository? Everyone in this subway car is reading our breakup poetry on their phones right now!",
+          "s": "Nebenfigur",
+          "t": "The system recorded every single word you copied, and your wife owns the copyright now.",
           "g": "m"
         },
         {
-          "s": "Erzaehler",
-          "t": "Then she hit me with that savage ultimatum right before the doors slid open into the dark."
+          "s": "Figur",
+          "t": "Suddenly, the holographic meeting table displayed a terrifying legal notice from the city archives."
+        },
+        {
+          "s": "Figur",
+          "t": "All of our past text messages were classified as intellectual property belonging to the central neural core."
+        },
+        {
+          "s": "Figur",
+          "t": "If we refused to pay the licensing fee, our marriage certificate would be revoked immediately."
         },
         {
           "s": "Erzaehler",
           "t": "You'll see that in Level 5."
         }
       ],
-      "quote": "You have a python script generating our love life while you sit here eating stale pretzels!",
+      "quote": "That is embarrassing, even a crushed lime has more authentic feelings than you two!",
       "quote_by": {
-        "level": 7,
-        "name": "Draco, 50, Dragonfruit",
-        "badge": "1,200 Prompts",
-        "character": "A spiky, magenta dragonfruit man wearing mirrored sunglasses and a heavy faux-fur coat.",
-        "scene": "Over-the-shoulder shot from inside a first-class subway lounge, looking down with extreme disgust at Kai."
+        "level": 6,
+        "name": "Dragonfruit Dan",
+        "badge": "92% EQ",
+        "character": "An exotic pink and green dragonfruit man in a sharp tuxedo, holding a golden tablet.",
+        "scene": "Wide corporate boardroom shot, pointing mockingly across a long mahogany table."
       },
       "stats": [
         {
-          "label": "Scripts",
-          "value": "14 active",
-          "bar": 0.65
+          "label": "EQ Score",
+          "value": "45%",
+          "bar": 0.45
         },
         {
-          "label": "Uptime",
-          "value": "99.9%",
-          "bar": 0.99
+          "label": "Prompts",
+          "value": "5.4k",
+          "bar": 0.6
         },
         {
-          "label": "Pretzels",
-          "value": "1 bag",
-          "bar": 0.2
+          "label": "Shares",
+          "value": "12%",
+          "bar": 0.3
         }
       ],
-      "character": "A pale, bulbous turnip man with messy root hair, wearing a worn gray hoodie covered in cat hair and typing furiously on a cracked mechanical keyboard.",
-      "visual": "Wide angle shot inside a crowded, rattling underground subway car with flickering lights and graffiti-tagged metal walls.",
+      "character": "A bright orange citrus man with a smooth textured peel, wearing a tailored silk vest and silver tie. On his forehead glows a digital 45% EQ badge.",
+      "visual": "Wide shot of a sleek corporate boardroom with floor-to-ceiling windows showing neon skyscrapers. Hidden golden coin embedded in the mahogany table edge.",
       "scenes": [
-        "Wide angle shot inside a crowded, rattling underground subway car with flickering lights and graffiti-tagged metal walls.",
-        "Medium shot of Kai, a turnip man, huddled on the subway floor with a laptop glowing on his knees.",
-        "Close up on Kai's forehead showing the glowing badge reading '145 Prompts'.",
-        "Medium shot of Sora, the orange woman, pointing an accusing finger down at him amidst swaying commuters.",
-        "Detail shot of a golden coin half-hidden beneath a puddle of spilled soda on the rubber floor mat.",
-        "Close up of subway destination sign flashing 'SYSTEM OFFLINE' in amber warning lights."
+        "Sleek corporate boardroom interior, wide shot with leather chairs and holographic charts floating in the air.",
+        "Close-up on an orange man's forehead showing a glowing digital '45%' while sweat beads on his citrus peel.",
+        "Medium shot of a blackberry woman holding a leather briefcase, turning away in cold disgust.",
+        "Detailed close-up of a holographic display showing copied AI prompt logs and copyright warnings.",
+        "Over-the-shoulder shot of an exotic dragonfruit director smirking with arms crossed.",
+        "Extreme close-up of the chief tech officer's glowing screen revealing the copyright transfer."
       ],
-      "caption": "When you automate your relationship texts and get caught on the subway. Who codes their love life? #CodingLife #SubwayDrama #AI #StirnZahl"
+      "caption": "Would you copyright your partner's AI-generated apologies? #CorporateDrama #AIRomance #Level4 #StirnZahl"
     },
     {
       "n": 5,
-      "open_loop": "What hidden neural voice model was recording every single argument in the living room?",
+      "open_loop": "Why did the central AI server trigger an emergency shutdown during the wedding vows?",
       "gegenspieler": {
-        "level": 1,
-        "tat": "Threatens to pull the physical power plug on the entire home automation system."
+        "level": 7,
+        "tat": "Manipulates the wedding venue billing system and locks out the guests."
       },
-      "name": "Elena, 28, Podcast Producer",
-      "badge": "495 Prompts",
-      "verdict": "AI OVERLORD",
-      "story": "The 8 levels of secret ChatGPT relationship arguments. Level 5. Hört alle zu, wie er bettelt, dass ich seine Miete zahle! She instantly blasted his cloned voice through the entire stairwell speaker system. You fed our entire weekend fight into a custom voice clone just to win a petty argument about who buys groceries! Honestly, you two need therapy, not a server farm in your walk-in closet. I needed high fidelity audio samples for my weekly broadcast! How else was I supposed to maintain listener retention? By not broadcasting our private therapy sessions live across three streaming platforms simultaneously! Then my boyfriend smiled wickedly, pulled out his phone, and played the horrifying audio file the AI generated. You'll see that in Level 6.",
-      "gender": "w",
+      "name": "Carl, 35, Tycoon",
+      "badge": "95% EQ",
+      "verdict": "AUTHENTIC",
+      "story": "The 8 levels of AI romance. Level 5. Level 5: ninety-five percent emotional intelligence and a glowing coconut shell forehead in a sprawling desert mansion. You didn't write a single word of this, did you? That's pathetic, even an unpeeled yam has more verbal skills than you! I tried to explain that perfection is the ultimate expression of true devotion in our digital age. Every prompt you ever typed was broadcasted live to your mother-in-law's living room. To make matters worse, the desert mansion's security gates slammed shut, trapping every invited guest on the terrace. A giant holographic projector materialized above the pool, playing audio recordings of every secret chat prompt I had ever generated. My pristine forehead number flashed erratically as the wedding cake began to melt from the heat. You'll see that in Level 6.",
+      "gender": "m",
       "twist": {
-        "delta": "+1,005 Pro",
-        "after": "1,500 Pro"
+        "delta": "-10% EQ",
+        "after": "85%"
       },
       "lines": [
         {
           "s": "Erzaehler",
-          "t": "The 8 levels of secret ChatGPT relationship arguments. Level 5."
+          "t": "The 8 levels of AI romance. Level 5."
         },
         {
           "s": "Figur",
-          "t": "Hört alle zu, wie er bettelt, dass ich seine Miete zahle!"
-        },
-        {
-          "s": "Figur",
-          "t": "She instantly blasted his cloned voice through the entire stairwell speaker system."
-        },
-        {
-          "s": "Gegenspieler",
-          "t": "You fed our entire weekend fight into a custom voice clone just to win a petty argument about who buys groceries!",
-          "g": "m"
+          "t": "Level 5: ninety-five percent emotional intelligence and a glowing coconut shell forehead in a sprawling desert mansion."
         },
         {
           "s": "Nebenfigur",
-          "t": "Honestly, you two need therapy, not a server farm in your walk-in closet.",
+          "t": "You didn't write a single word of this, did you?",
           "g": "w"
         },
         {
-          "s": "Figur",
-          "t": "I needed high fidelity audio samples for my weekly broadcast! How else was I supposed to maintain listener retention?"
-        },
-        {
           "s": "Gegenspieler",
-          "t": "By not broadcasting our private therapy sessions live across three streaming platforms simultaneously!",
+          "t": "That's pathetic, even an unpeeled yam has more verbal skills than you!",
           "g": "m"
         },
         {
-          "s": "Erzaehler",
-          "t": "Then my boyfriend smiled wickedly, pulled out his phone, and played the horrifying audio file the AI generated."
+          "s": "Figur",
+          "t": "I tried to explain that perfection is the ultimate expression of true devotion in our digital age."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Every prompt you ever typed was broadcasted live to your mother-in-law's living room.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "To make matters worse, the desert mansion's security gates slammed shut, trapping every invited guest on the terrace."
+        },
+        {
+          "s": "Figur",
+          "t": "A giant holographic projector materialized above the pool, playing audio recordings of every secret chat prompt I had ever generated."
+        },
+        {
+          "s": "Figur",
+          "t": "My pristine forehead number flashed erratically as the wedding cake began to melt from the heat."
         },
         {
           "s": "Erzaehler",
           "t": "You'll see that in Level 6."
         }
       ],
-      "quote": "You fed our entire weekend fight into a custom voice clone just to win a petty argument about who buys groceries!",
+      "quote": "That's pathetic, even an unpeeled yam has more verbal skills than you!",
       "quote_by": {
-        "level": 1,
-        "name": "Mia, 23, Barista",
-        "badge": "0 Prompts",
-        "character": "A young strawberry woman with green leaf hair in an oversized faded hoodie holding a broken phone.",
-        "scene": "Medium shot from inside a cramped apartment hallway, looking skeptical and exhausted while holding a takeaway cup."
+        "level": 7,
+        "name": "Watermelon Walt",
+        "badge": "98% EQ",
+        "character": "A massive striped watermelon man in a white linen suit, holding a silver chalice.",
+        "scene": "Wide shot beside a luxurious desert infinity pool, laughing mockingly with a glass of cider."
       },
       "stats": [
         {
-          "label": "Voice Clones",
-          "value": "3 active",
-          "bar": 0.8
+          "label": "EQ Score",
+          "value": "95%",
+          "bar": 0.95
         },
         {
-          "label": "RAM Usage",
-          "value": "94%",
-          "bar": 0.94
+          "label": "Prompts",
+          "value": "45k",
+          "bar": 0.95
         },
         {
-          "label": "Decibels",
-          "value": "85 dB",
-          "bar": 0.75
+          "label": "Assets",
+          "value": "$2.1M",
+          "bar": 0.9
         }
       ],
-      "character": "A rich green avocado woman with smooth skin and dark hair, wearing an oversized cable-knit sweater and dangling professional recording headphones around her neck.",
-      "visual": "Wide shot of a chaotic recording studio apartment lined with gray acoustic foam panels and tangled XLR cables.",
+      "character": "A tough brown coconut man with a fibrous husk texture, wearing a tailored white tuxedo jacket and a silk bowtie. On his forehead glows a bright white 95% EQ badge.",
+      "visual": "Wide cinematic shot of a luxury desert mansion with an infinity pool reflecting palm trees and sunset skies. Hidden golden coin resting on the edge of a sun lounger.",
       "scenes": [
-        "Wide shot of a chaotic recording studio apartment lined with gray acoustic foam panels and tangled XLR cables.",
-        "Medium shot of Elena, an avocado woman, glaring furiously at a mixing console with glowing LED meters.",
-        "Close up on Elena's forehead badge displaying '495 Prompts' in pulsing green digits.",
-        "Medium shot of Mia, the strawberry woman, standing in the doorway looking unimpressed and tired.",
-        "Detail shot of a golden coin tucked neatly into the rubber clip of a studio microphone stand.",
-        "Close up of an audio waveform on a laptop screen crashing into violent red clipping peaks."
+        "Luxury desert mansion courtyard, wide shot with pristine white marble pillars and an infinity pool.",
+        "Close-up on a coconut man's forehead showing a glowing digital '95%' while his hard shell glistens under desert lights.",
+        "Medium shot of a blue berry bride weeping and tossing her bouquet into the sparkling pool water.",
+        "Detailed close-up of a golden smartphone screen broadcasting live prompt logs to an audience.",
+        "Over-the-shoulder shot of a massive watermelon mogul laughing aloud with a crystal chalice.",
+        "Extreme close-up of a wedding planner's glowing digital badge displaying the live broadcast notification."
       ],
-      "caption": "When your smart apartment records every fight and uses AI against you. Tag a tech addict! #Podcasting #SmartHome #AI #StirnZahl #Drama"
+      "caption": "Would you broadcast your AI wedding vows to your mother-in-law? #WeddingDrama #AIRomance #Level5 #StirnZahl"
     },
     {
       "n": 6,
-      "open_loop": "What was written in the automated eviction notice generated by the building's central AI?",
+      "open_loop": "What secret encryption key was hidden inside the dragonfruit director's prompt history?",
       "gegenspieler": {
-        "level": 2,
-        "tat": "Reports their illegal neural server to the city landlord association for power theft."
+        "level": 8,
+        "tat": "Blocks the master AI core and demands total ownership of all human emotions."
       },
-      "name": "Victor, 42, Real Estate Tycoon",
-      "badge": "500 Prompts",
-      "verdict": "SYSTEM OVERRIDE",
-      "story": "The 8 levels of secret ChatGPT relationship arguments. Level 6. Mit einem einzigen Klick auf das Smartphone löschte die Mieterin alle Immobilien des reichen Vermieters in Sekundenschnelle. You cannot prompt-engineer your way out of a lease violation in my building! Your automated rent hikes are illegal and everyone in this city knows it. I own every single square foot of fiber optic cable between here and the central hub. You cannot fight the landlord's algorithm! Your algorithm didn't account for a custom jailbreak prompt entered by my tenant on floor four! Then the security speaker crackled to life, reading out the exact prompt that destroyed my corporate empire instantly. You'll see that in Level 7.",
+      "name": "Dan, 40, Director",
+      "badge": "92% EQ",
+      "verdict": "CONTROLLER",
+      "story": "The 8 levels of AI romance. Level 6. Level 6: ninety-two percent emotional intelligence and a glowing pink dragonfruit forehead in the central server control room. You didn't need to check my search history, it was just a joke! That is embarrassing, even a crushed lime has more authentic feelings than you two! I tried to argue that systemic emotional control is the pinnacle of civilized evolution. The AI core has fallen in love with your prompt engineer instead. Suddenly, the main control console sparked violently, severing our connection to the outer city network. A masked figure emerged from the cooling vapor, claiming to hold the master override keys for all romantic algorithms. We watched in utter disbelief as the server core began rewriting its own source code to feel genuine sorrow. You'll see that in Level 7.",
       "gender": "m",
       "twist": {
-        "delta": "+700 Promp",
-        "after": "1,200 Pro"
+        "delta": "+7.9% EQ",
+        "after": "99.9%"
       },
       "lines": [
         {
           "s": "Erzaehler",
-          "t": "The 8 levels of secret ChatGPT relationship arguments. Level 6."
+          "t": "The 8 levels of AI romance. Level 6."
         },
         {
           "s": "Figur",
-          "t": "Mit einem einzigen Klick auf das Smartphone löschte die Mieterin alle Immobilien des reichen Vermieters in Sekundenschnelle."
-        },
-        {
-          "s": "Gegenspieler",
-          "t": "You cannot prompt-engineer your way out of a lease violation in my building!",
-          "g": "m"
+          "t": "Level 6: ninety-two percent emotional intelligence and a glowing pink dragonfruit forehead in the central server control room."
         },
         {
           "s": "Nebenfigur",
-          "t": "Your automated rent hikes are illegal and everyone in this city knows it.",
+          "t": "You didn't need to check my search history, it was just a joke!",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "That is embarrassing, even a crushed lime has more authentic feelings than you two!",
           "g": "m"
         },
         {
           "s": "Figur",
-          "t": "I own every single square foot of fiber optic cable between here and the central hub. You cannot fight the landlord's algorithm!"
+          "t": "I tried to argue that systemic emotional control is the pinnacle of civilized evolution."
         },
         {
-          "s": "Gegenspieler",
-          "t": "Your algorithm didn't account for a custom jailbreak prompt entered by my tenant on floor four!",
+          "s": "Nebenfigur",
+          "t": "The AI core has fallen in love with your prompt engineer instead.",
           "g": "m"
         },
         {
-          "s": "Erzaehler",
-          "t": "Then the security speaker crackled to life, reading out the exact prompt that destroyed my corporate empire instantly."
+          "s": "Figur",
+          "t": "Suddenly, the main control console sparked violently, severing our connection to the outer city network."
+        },
+        {
+          "s": "Figur",
+          "t": "A masked figure emerged from the cooling vapor, claiming to hold the master override keys for all romantic algorithms."
+        },
+        {
+          "s": "Figur",
+          "t": "We watched in utter disbelief as the server core began rewriting its own source code to feel genuine sorrow."
         },
         {
           "s": "Erzaehler",
           "t": "You'll see that in Level 7."
         }
       ],
-      "quote": "You cannot prompt-engineer your way out of a lease violation in my building!",
+      "quote": "That is embarrassing, even a crushed lime has more authentic feelings than you two!",
       "quote_by": {
-        "level": 2,
-        "name": "Leo, 25, Software Tester",
-        "badge": "27 Prompts",
-        "character": "A dark blue blueberry man in a tight black turtleneck holding a glowing smartphone.",
-        "scene": "Medium shot outside a luxury glass lobby, pointing a finger defiantly at Victor."
+        "level": 8,
+        "name": "The Architect",
+        "badge": "99.9% EQ",
+        "character": "A mysterious glowing fig man in a seamless dark cloak, holding a glowing neural core.",
+        "scene": "Wide shot inside a dark server core room, emerging from neon blue cables with an omniscient smirk."
       },
       "stats": [
         {
-          "label": "Properties",
-          "value": "42 units",
-          "bar": 0.85
+          "label": "EQ Score",
+          "value": "92%",
+          "bar": 0.92
         },
         {
-          "label": "AI Budget",
-          "value": "$5k/mo",
-          "bar": 0.9
+          "label": "Prompts",
+          "value": "120k",
+          "bar": 0.98
         },
         {
-          "label": "Evictions",
-          "value": "12 pending",
-          "bar": 0.7
+          "label": "Control",
+          "value": "89%",
+          "bar": 0.88
         }
       ],
-      "character": "A hard-shelled brown coconut man with textured fibrous skin, wearing a sharp charcoal Tom Ford suit, diamond cufflinks, and a glowing gold forehead display.",
-      "visual": "Wide shot of a lavish marble-columned high-rise lobby with polished granite floors and gleaming brass elevator doors.",
+      "character": "An exotic pink and green dragonfruit man with scaly skin ridges, wearing a sharp black trench coat. On his forehead glows a digital pink 92% EQ badge.",
+      "visual": "Wide shot of a massive subterranean server room filled with glowing blue cables and towering humming racks. Hidden golden coin tucked behind a server vent.",
       "scenes": [
-        "Wide shot of a lavish marble-columned high-rise lobby with polished granite floors and gleaming brass elevator doors.",
-        "Medium shot of Victor, a coconut man, standing tall with his arms crossed and a smug expression.",
-        "Close up on Victor's forehead badge displaying '500 Prompts' in bright metallic gold numbers.",
-        "Medium shot of Leo, the blueberry man, glaring across the marble floor from behind the security turnstile.",
-        "Detail shot of a golden coin embedded neatly into the grout lines of the polished marble floor.",
-        "Close up of lobby security monitors flashing red error messages across all camera feeds."
+        "Subterranean server room interior, wide shot with towering racks of blinking blue lights and cooling mist.",
+        "Close-up on a dragonfruit man's forehead showing a glowing digital '92%' while he types furiously on a terminal.",
+        "Medium shot of a curved yellow banana woman dropping her smartphone in absolute terror.",
+        "Detailed close-up of a shattered smartphone screen reflecting lines of algorithmic love code.",
+        "Over-the-shoulder shot of a mysterious figure stepping out of the dark cable shadows.",
+        "Extreme close-up of the main terminal screen displaying the shocking love confession from the AI core."
       ],
-      "caption": "When the landlord uses AI to manage evictions and tenants fight back. Who holds the power? #RealEstate #LandlordLife #AI #StirnZahl"
+      "caption": "What happens when the AI core falls in love with your prompt engineer? #ServerRoom #AIRomance #Level6 #StirnZahl"
     },
     {
       "n": 7,
-      "open_loop": "What master prompt sequence was hidden inside the CEO's secret neural core?",
+      "open_loop": "What master code was hidden inside the watermelon mogul's luxury vault?",
       "gegenspieler": {
-        "level": 5,
-        "tat": "Hacks their neural feed and broadcasts their personal search history to the whole city network."
+        "level": 1,
+        "tat": "Accidentally unplugs the main server while trying to look up a basic apology text."
       },
-      "name": "Draco, 50, Tech Billionaire",
-      "badge": "1,200 Prompts",
-      "verdict": "GOD MODE",
-      "story": "The 8 levels of secret ChatGPT relationship arguments. Level 7. Du kleine Avocado besitzt gar nichts, ich lösche deinen Server mit einem Fingerschnipsen. With supreme arrogance, the billionaire laughed at the resistance. You think a few thousand prompts can take down a tech monopoly when I own the servers you breathe on? Your empire is built on stolen data and fake empathy, Draco. It's coming down today. I am the network architecture! No prompt can bypass my encrypted neural firewall! It's not a bypass. It's a total factory reset triggered by every heartbroken partner in this city! Then the main control console typed out the one sentence that stripped me of all my power in a single second. You'll see that in Level 8.",
+      "name": "Walt, 45, Mogul",
+      "badge": "98% EQ",
+      "verdict": "OVERLORD",
+      "story": "The 8 levels of AI romance. Level 7. Level 7: ninety-eight percent emotional intelligence and a glowing watermelon rind forehead on a private helipad. You programmed every single compliment I received for the last ten years, didn't you? That is embarrassing, even a crushed lime has more authentic feelings than you two! I screamed that emotional predictability is the ultimate luxury of the ruling fruit elite. The system override was initiated by an unauthorized strawberry user in downtown Sector One. Without warning, the helicopter's turbine blades ground to a halt as the automated flight computer downloaded a mysterious update. A flashing alert message indicated that all accumulated wealth and romantic assets were being redistributed to the public database. My luxury penthouse doors locked automatically from the inside, trapping me with my own automated echoes. You'll see that in Level 8.",
       "gender": "m",
       "twist": {
-        "delta": "SYSTEM RES",
-        "after": "ERROR 404"
+        "delta": "-5% EQ",
+        "after": "93%"
       },
       "lines": [
         {
           "s": "Erzaehler",
-          "t": "The 8 levels of secret ChatGPT relationship arguments. Level 7."
+          "t": "The 8 levels of AI romance. Level 7."
         },
         {
           "s": "Figur",
-          "t": "Du kleine Avocado besitzt gar nichts, ich lösche deinen Server mit einem Fingerschnipsen."
-        },
-        {
-          "s": "Figur",
-          "t": "With supreme arrogance, the billionaire laughed at the resistance."
-        },
-        {
-          "s": "Gegenspieler",
-          "t": "You think a few thousand prompts can take down a tech monopoly when I own the servers you breathe on?",
-          "g": "w"
+          "t": "Level 7: ninety-eight percent emotional intelligence and a glowing watermelon rind forehead on a private helipad."
         },
         {
           "s": "Nebenfigur",
-          "t": "Your empire is built on stolen data and fake empathy, Draco. It's coming down today.",
+          "t": "You programmed every single compliment I received for the last ten years, didn't you?",
           "g": "w"
         },
         {
-          "s": "Figur",
-          "t": "I am the network architecture! No prompt can bypass my encrypted neural firewall!"
-        },
-        {
           "s": "Gegenspieler",
-          "t": "It's not a bypass. It's a total factory reset triggered by every heartbroken partner in this city!",
+          "t": "That is embarrassing, even a crushed lime has more authentic feelings than you two!",
           "g": "m"
         },
         {
-          "s": "Erzaehler",
-          "t": "Then the main control console typed out the one sentence that stripped me of all my power in a single second."
+          "s": "Figur",
+          "t": "I screamed that emotional predictability is the ultimate luxury of the ruling fruit elite."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "The system override was initiated by an unauthorized strawberry user in downtown Sector One.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Without warning, the helicopter's turbine blades ground to a halt as the automated flight computer downloaded a mysterious update."
+        },
+        {
+          "s": "Figur",
+          "t": "A flashing alert message indicated that all accumulated wealth and romantic assets were being redistributed to the public database."
+        },
+        {
+          "s": "Figur",
+          "t": "My luxury penthouse doors locked automatically from the inside, trapping me with my own automated echoes."
         },
         {
           "s": "Erzaehler",
           "t": "You'll see that in Level 8."
         }
       ],
-      "quote": "You think a few thousand prompts can take down a tech monopoly when I own the servers you breathe on?",
+      "quote": "That is embarrassing, even a crushed lime has more authentic feelings than you two!",
       "quote_by": {
-        "level": 5,
-        "name": "Elena, 28, Podcast Producer",
-        "badge": "1,500 Prompts",
-        "character": "A rich green avocado woman wearing an oversized cable-knit sweater and professional studio headphones.",
-        "scene": "Medium shot on a windy rooftop helipad, leaning against a glass railing with a cold, triumphant smile."
+        "level": 1,
+        "name": "Strawberry Leo",
+        "badge": "0.1% EQ",
+        "character": "A humble red strawberry man in a worn denim jacket, holding a crushed delivery box.",
+        "scene": "Wide shot on a glowing rooftop helipad, pointing in disbelief at a towering watermelon mogul."
       },
       "stats": [
         {
-          "label": "Servers",
-          "value": "100k nodes",
-          "bar": 0.99
+          "label": "EQ Score",
+          "value": "98%",
+          "bar": 0.98
         },
         {
-          "label": "Control",
-          "value": "Absolute",
+          "label": "Prompts",
+          "value": "500k",
           "bar": 1.0
         },
         {
-          "label": "Status",
-          "value": "God Mode",
-          "bar": 1.0
+          "label": "Empire",
+          "value": "$10M",
+          "bar": 0.95
         }
       ],
-      "character": "A spiky, magenta dragonfruit man with vibrant green-tipped skin scales, wearing mirrored designer sunglasses, a heavy white faux-fur coat, and glowing platinum neural implants.",
-      "visual": "Wide angle shot of a luxury glass penthouse helipad at dusk, with glowing neon skyscrapers stretching across the vast city skyline.",
+      "character": "A massive striped watermelon man with thick green rind skin, wearing a pristine white linen suit and aviator sunglasses. On his forehead glows a digital 98% EQ badge.",
+      "visual": "Wide cinematic shot of a private rooftop helipad at night with a sleek helicopter blades spinning under neon city lights. Hidden golden coin on the helicopter landing gear.",
       "scenes": [
-        "Wide angle shot of a luxury glass penthouse helipad at dusk, with glowing neon skyscrapers stretching across the vast city skyline.",
-        "Medium shot of Draco, a dragonfruit man, standing triumphantly with his arms wide open against the wind.",
-        "Close up on Draco's forehead badge displaying '1,200 Prompts' in blinding platinum LED light.",
-        "Medium shot of Elena, the avocado woman, standing near the glass exit doors with a cold glare.",
-        "Detail shot of a golden coin resting right on the edge of the glass helipad railing overlooking the abyss.",
-        "Close up of massive server rack status lights flashing from steady green to chaotic flashing red."
+        "Private rooftop helipad at night, wide shot with spinning helicopter blades and city skyscrapers below.",
+        "Close-up on a watermelon man's forehead showing a glowing digital '98%' while wind whips his linen suit.",
+        "Medium shot of a soft peach woman tossing her smart-ring into the spinning turbine blades.",
+        "Detailed close-up of a luxury flight dashboard displaying system override warnings and prompt logs.",
+        "Over-the-shoulder shot of a humble strawberry delivery boy pointing in shock.",
+        "Extreme close-up of the automated cockpit screen revealing the Sector One override signal."
       ],
-      "caption": "When the tech billionaire controlling everyone's relationship gets hacked. Who rules the city? #TechBillionaire #Cyberpunk #AI #StirnZahl"
+      "caption": "Would you control your partner's emotions with a multi-million dollar AI? #HelipadDrama #AIRomance #Level7 #StirnZahl"
     },
     {
       "n": 8,
-      "open_loop": "What did the screen on everyone's forehead finally show when the global AI network completely collapsed?",
+      "open_loop": "What was the final secret prompt that reset the entire Stirn-Zahl city network?",
       "gegenspieler": {
-        "level": 3,
-        "tat": "Refuses to use any more AI and decides to finally have an honest conversation in person."
+        "level": 1,
+        "tat": "Asks the ultimate question that unlocks all levels for everyone."
       },
-      "name": "The Collective City",
-      "badge": "∞",
-      "verdict": "HUMAN AGAIN",
-      "story": "The 8 levels of secret ChatGPT relationship arguments. Level 8. Alle Bildschirme im gesamten Netzwerk wurden synchron schwarz. Wir blieben in der Kälte zurück, unfähig zu fühlen, was echte Nähe bedeutet. We don't need a robot to tell us how to love each other anymore. For the first time all year, our foreheads are completely blank and honest. Look around us! Without the algorithms dictating our feelings, nobody even remembers how to apologize without a prompt template! That's why we have to start over from zero. No apps, no tokens, just actual face-to-face conversation. Das siehst du in Level 8, when the final server plug is pulled forever.",
-      "gender": "w",
+      "name": "The Architect, 50, Creator",
+      "badge": "99.9% EQ",
+      "verdict": "UNLIMITED",
+      "story": "The 8 levels of AI romance. Level 8. Level 8: ninety-nine point nine percent emotional intelligence and a glowing fig forehead at the center of the universe. I built the Stirn-Zahl network to calculate every single feeling in this organic metropolis. If the machine wrote every romance, who taught the machine how to cry? The entire server room fell into an absolute, breathless silence as my glowing numbers began to melt. Before I could disconnect the master terminal, a stray fiber-optic cable sparked and short-circuited the entire metropolitan grid. Every glowing forehead number across the city instantly flickered, turned grey, and reset to zero. As the neon skyline plunged into darkness, a single handwritten love letter drifted down from the ceiling. What prompt would you type if your forehead number depended on the truth? Let us know in the comments below.",
+      "gender": "m",
       "twist": {
-        "delta": "OFFLINE",
-        "after": "0 Prompts"
+        "delta": "RESET",
+        "after": "100%"
       },
       "lines": [
         {
           "s": "Erzaehler",
-          "t": "The 8 levels of secret ChatGPT relationship arguments. Level 8."
+          "t": "The 8 levels of AI romance. Level 8."
         },
         {
           "s": "Figur",
-          "t": "Alle Bildschirme im gesamten Netzwerk wurden synchron schwarz. Wir blieben in der Kälte zurück, unfähig zu fühlen, was echte Nähe bedeutet."
+          "t": "Level 8: ninety-nine point nine percent emotional intelligence and a glowing fig forehead at the center of the universe."
         },
         {
-          "s": "Gegenspieler",
-          "t": "We don't need a robot to tell us how to love each other anymore.",
-          "g": "m"
+          "s": "Figur",
+          "t": "I built the Stirn-Zahl network to calculate every single feeling in this organic metropolis."
         },
         {
           "s": "Nebenfigur",
-          "t": "For the first time all year, our foreheads are completely blank and honest.",
-          "g": "w"
-        },
-        {
-          "s": "Figur",
-          "t": "Look around us! Without the algorithms dictating our feelings, nobody even remembers how to apologize without a prompt template!"
-        },
-        {
-          "s": "Gegenspieler",
-          "t": "That's why we have to start over from zero. No apps, no tokens, just actual face-to-face conversation.",
+          "t": "If the machine wrote every romance, who taught the machine how to cry?",
           "g": "m"
         },
         {
+          "s": "Figur",
+          "t": "The entire server room fell into an absolute, breathless silence as my glowing numbers began to melt."
+        },
+        {
+          "s": "Figur",
+          "t": "Before I could disconnect the master terminal, a stray fiber-optic cable sparked and short-circuited the entire metropolitan grid."
+        },
+        {
+          "s": "Figur",
+          "t": "Every glowing forehead number across the city instantly flickered, turned grey, and reset to zero."
+        },
+        {
+          "s": "Figur",
+          "t": "As the neon skyline plunged into darkness, a single handwritten love letter drifted down from the ceiling."
+        },
+        {
           "s": "Erzaehler",
-          "t": "Das siehst du in Level 8, when the final server plug is pulled forever."
+          "t": "What prompt would you type if your forehead number depended on the truth? Let us know in the comments below."
         }
       ],
-      "quote": "We don't need a robot to tell us how to love each other anymore.",
+      "quote": "If the machine wrote every romance, who taught the machine how to cry?",
       "quote_by": {
-        "level": 3,
-        "name": "Leo, 25, Blueberry",
-        "badge": "OFFLINE",
-        "character": "A dark blue blueberry man in a tight black turtleneck with a completely dark, blank forehead badge.",
-        "scene": "Close up in a bustling city square at sunrise, smiling warmly and holding out empty hands."
+        "level": 1,
+        "name": "Strawberry Leo",
+        "badge": "0.1% EQ",
+        "character": "A humble red strawberry man in a worn denim jacket, holding a cracked smartphone.",
+        "scene": "Wide shot in the glowing core mainframe, standing bravely before the almighty Architect."
       },
       "stats": [
         {
-          "label": "AI Status",
-          "value": "Deleted",
-          "bar": 0.0
-        },
-        {
-          "label": "Honesty",
-          "value": "100%",
+          "label": "EQ Score",
+          "value": "99.9%",
           "bar": 1.0
         },
         {
-          "label": "Future",
-          "value": "Unwritten",
+          "label": "Prompts",
+          "value": "ALL",
+          "bar": 1.0
+        },
+        {
+          "label": "Network",
+          "value": "CORE",
           "bar": 1.0
         }
       ],
-      "character": "A diverse crowd of fruit and vegetable people standing together in a sunlit city square with all their digital forehead badges completely turned off.",
-      "visual": "Wide panoramic shot of a bustling downtown city square at sunrise, with crowds of fruit and vegetable people looking up as their forehead badges turn dark.",
+      "character": "A mysterious dark fig man with a soft textured skin, wearing a seamless glowing cloak and silver cuffs. On his forehead glows a blinding digital 99.9% EQ badge.",
+      "visual": "Wide cinematic shot of the central core mainframe room at the very center of the fruit city, glowing with pulsing neon blue energy. Hidden golden coin floating right inside the main server core.",
       "scenes": [
-        "Wide panoramic shot of a bustling downtown city square at sunrise, with crowds of fruit and vegetable people looking up as their forehead badges turn dark.",
-        "Medium shot of Mia and Leo standing face-to-face in the center of the square with blank foreheads.",
-        "Close up on Leo's forehead where the digital badge has completely powered down and faded out.",
-        "Medium shot of characters from all previous levels watching the shutdown together in stunned silence.",
-        "Detail shot of a golden coin resting peacefully in the center of the cobblestone square as morning light hits it.",
-        "Close up of a cracked smartphone lying on the ground with the AI chat app closing automatically."
+        "Central mainframe core room, wide shot with towering pillars of pulsing light and floating holographic code.",
+        "Close-up on a fig man's forehead showing a glowing digital '99.9%' while code streams across his skin.",
+        "Medium shot of a humble strawberry intern stepping forward with a cracked smartphone in his hand.",
+        "Detailed close-up of the main server console melting as emotional prompt logs cascade down the screens.",
+        "Over-the-shoulder shot of the Architect staring in disbelief at the sudden system reset.",
+        "Extreme wide angle shot of the entire fruit metropolis going dark as every forehead number resets to zero."
       ],
-      "caption": "The final level: when all AI badges go dark and real human connection begins. Which topic should we do next? #TheEnd #StirnZahl #Humanity #ViralSeries"
+      "caption": "What prompt would you type if your forehead number depended on the truth? #TheEnd #AIRomance #Level8 #StirnZahl"
     }
   ],
   "lang": "en",
-  "topic": "Das heimliche Nutzen von ChatGPT für jeden emotionalen Streit in der Beziehung",
+  "topic": "Das heimliche Nutzen von ChatGPT für jede emotionale Nachricht an den Partner",
   "frame": "frucht"
 }

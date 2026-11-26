@@ -1,0 +1,707 @@
+{
+  "title": "Die 8 Level vom Bibliotheks-Platz",
+  "house": "A bustling German university campus and overcrowded central library with neon-lit study desks, rainy courtyards, and a nearby crowded ICE train station filled with fruit and vegetable people.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Level 3 mentions the quiet barista from Level 6 giving free coffee.",
+    "Level 5 drops a hint about the student selling old textbooks in Level 2.",
+    "Level 7 sees the fast ICE train from Level 1 rushing by."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Warum legte der Fremde mit der Top-Zahl ausgerechnet meine Taschen auf den nassen Boden?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Schmeißt Leo seine Tasche kommentarlos vom besetzten Tisch und lacht."
+      },
+      "name": "Leo, 21, Germanistik-Student",
+      "badge": "12 €",
+      "verdict": "PLEITE",
+      "story": "12 Euro auf meiner Stirn? Der Typ schmeißt meine Tasche in den Müll und lacht – doch er ahnt nicht, dass mein USB-Stick den Server der ganzen Bib steuert. Plötzlich bricht im gesamten Lesesaal panische Hektik aus, als die Lampen flackern und alle Bildschirme schwarz werden. Du mit deinen 12 Euro blockierst hier keine Premium-Lernzone für echte Akademiker. Er packt meinen abgewetzten Rucksack und schleudert meine Notizen eiskalt in den nassen Innenhof, direkt in eine riesige Pfütze. Hier ist alles reserviert, such dir einen Stehplatz im Gang! Doch während er sich selbstgefällig auf meinen Platz fallen lässt, tippe ich bereits den Override-Code ein, der sein gesamtes System lahmlegen wird. Seine Kontrollleuchte springt auf Warnmodus, und plötzlich steht der Wachdienst direkt hinter ihm und fordert seinen Ausweis. Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "+50 €",
+        "after": "62 €"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "12 Euro auf meiner Stirn? Der Typ schmeißt meine Tasche in den Müll und lacht – doch er ahnt nicht, dass mein USB-Stick den Server der ganzen Bib steuert."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich bricht im gesamten Lesesaal panische Hektik aus, als die Lampen flackern und alle Bildschirme schwarz werden."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du mit deinen 12 Euro blockierst hier keine Premium-Lernzone für echte Akademiker.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Er packt meinen abgewetzten Rucksack und schleudert meine Notizen eiskalt in den nassen Innenhof, direkt in eine riesige Pfütze."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Hier ist alles reserviert, such dir einen Stehplatz im Gang!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch während er sich selbstgefällig auf meinen Platz fallen lässt, tippe ich bereits den Override-Code ein, der sein gesamtes System lahmlegen wird."
+        },
+        {
+          "s": "Figur",
+          "t": "Seine Kontrollleuchte springt auf Warnmodus, und plötzlich steht der Wachdienst direkt hinter ihm und fordert seinen Ausweis."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Du mit deinen 12 Euro blockierst hier keine Premium-Lernzone für echte Akademiker.",
+      "quote_by": {
+        "level": 8,
+        "name": "Prof. Dr. Granatapfel",
+        "badge": "99.999 €",
+        "character": "An arrogant pomegranate man wearing a tailored tweed suit, gold-rimmed glasses, and holding a glowing digital forehead display of nearly one hundred thousand.",
+        "scene": "Wide angle shot in the grand university hall, pomegranate man looking down contemptuously at a struggling fruit student."
+      },
+      "stats": [
+        {
+          "label": "Guthaben",
+          "value": "12 €",
+          "bar": 0.05
+        },
+        {
+          "label": "Semester",
+          "value": "6.",
+          "bar": 0.4
+        },
+        {
+          "label": "Noten",
+          "value": "2,3",
+          "bar": 0.7
+        }
+      ],
+      "character": "A young lemon boy with bright yellow citrus skin, wearing a faded blue hoodie and carrying a torn canvas bag. His glowing blue digital forehead shows 12 €. A tiny hidden golden coin sits on the library table edge.",
+      "visual": "Close-up shot in the noisy university library corridor, lemon boy looking stressed at his glowing forehead display while students rush past.",
+      "scenes": [
+        "Wide angle shot of the overcrowded university library entrance with students pushing through glass doors under grey autumn rain.",
+        "Medium shot inside the reading room, rows of wooden tables blocked entirely with backpacks, thick textbooks, and half-empty coffee cups.",
+        "Detail shot of a bright digital forehead display showing 12 € reflecting in a puddle on the cold library floor.",
+        "Two-shot of the lemon boy confronting an arrogant pomegranate man in a tweed suit next to a tall bookshelf.",
+        "Close-up shot of a torn paper notebook flying through the air into a wet courtyard outside the library window.",
+        "Wide angle shot of the empty rainy university courtyard with a glowing golden coin half-hidden beneath a fallen maple leaf."
+      ],
+      "caption": "Wer kennt diese egoistischen Bib-Besetzer? 😡 Wie hättet ihr reagiert? #bibdrama #studleben #uni #fairness"
+    },
+    {
+      "n": 2,
+      "open_loop": "Warum flüsterte mir die Bibliothekarin diesen geheimen Tipp über den Reservierungs-Betrug zu?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Verkauft gefälschte Platzreservierungen für 5 Euro schwarz im Foyer."
+      },
+      "name": "Mia, 20, VWL-Studentin",
+      "badge": "145 €",
+      "verdict": "KNAPP",
+      "story": "Der Grund, warum Leos Tasche im Schlamm landete, ist ein korruptes Schwarzmarkt-Kartell mitten im Bibliotheksfoyer. Überall hängen verbotene Zettel, während dubiose Gestalten mit dicken Geldbündeln winken. Hier kostet der VIP-Platz mit Steckdose fünf Euro extra, zahl oder verschwinde! Was sie nicht ahnt: Mein Skript fängt jede einzelne ihrer illegalen Reservierungen ab und verteilt sie gratis an bedürftige Erstsemester. So eine freche Erdbeere fliegt hier hochkant raus, hörst du? Wütend greift sie nach ihrem Funkgerät und ruft den Sicherheitsdienst, um mich abführen zu lassen, doch die Beamten haben längst den Zettel in meiner Hand gesehen. Plötzlich schaltet sich die Universitätsleitung ein und friert ihre Konten mit sofortiger Wirkung ein. Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "-30 €",
+        "after": "115 €"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Der Grund, warum Leos Tasche im Schlamm landete, ist ein korruptes Schwarzmarkt-Kartell mitten im Bibliotheksfoyer."
+        },
+        {
+          "s": "Figur",
+          "t": "Überall hängen verbotene Zettel, während dubiose Gestalten mit dicken Geldbündeln winken."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Hier kostet der VIP-Platz mit Steckdose fünf Euro extra, zahl oder verschwinde!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Was sie nicht ahnt: Mein Skript fängt jede einzelne ihrer illegalen Reservierungen ab und verteilt sie gratis an bedürftige Erstsemester."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "So eine freche Erdbeere fliegt hier hochkant raus, hörst du?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Wütend greift sie nach ihrem Funkgerät und ruft den Sicherheitsdienst, um mich abführen zu lassen, doch die Beamten haben längst den Zettel in meiner Hand gesehen."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich schaltet sich die Universitätsleitung ein und friert ihre Konten mit sofortiger Wirkung ein."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "So eine freche Erdbeere fliegt hier hochkant raus, hörst du?",
+      "quote_by": {
+        "level": 5,
+        "name": "Madame Maracuja",
+        "badge": "3.400 €",
+        "character": "A smug passionfruit woman with a sharp yellow shell, wearing a chic leather trench coat and designer sunglasses indoors.",
+        "scene": "Medium shot by the library entrance desk, passionfruit woman pointing aggressively at a student."
+      },
+      "stats": [
+        {
+          "label": "Guthaben",
+          "value": "145 €",
+          "bar": 0.12
+        },
+        {
+          "label": "Miete",
+          "value": "480 €",
+          "bar": 0.5
+        },
+        {
+          "label": "Job",
+          "value": "Minijob",
+          "bar": 0.25
+        }
+      ],
+      "character": "A cheerful strawberry girl with bright red textured skin and tiny green leaf hair clips. Her glowing forehead display shows 145 €. A golden coin rests on top of the library scanner.",
+      "visual": "Medium shot in the university library lobby, strawberry girl arguing with a security guard near automated turnstiles.",
+      "scenes": [
+        "Wide angle shot of the university library entrance at sunrise with cold morning fog and rushing students.",
+        "Close-up shot of a glowing forehead display showing 145 € next to a university ID card.",
+        "Medium shot of rows of study desks covered in unattended jackets and notebooks in a brightly lit reading hall.",
+        "Detail shot of a golden coin hidden underneath a computer mouse on a library study desk.",
+        "Two-shot of the strawberry girl facing off against the passionfruit woman near the turnstiles.",
+        "Wide angle shot of the library basement corridor with vending machines and flickering fluorescent lights."
+      ],
+      "caption": "Wer kennt diese skrupellosen Platz-Mafias in der Bib? 😡 Abzocke pur! #bibdrama #studentenleben #gerechtigkeit"
+    },
+    {
+      "n": 3,
+      "open_loop": "Warum lag auf dem Notplatz mit meiner Kennung plötzlich ein Ordner voller manipulierter Gutachten?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Weigert sich trotz gültiger Reservierung aufzustehen und blockiert den Gang."
+      },
+      "name": "Ben, 24, Medizinstudent",
+      "badge": "680 €",
+      "verdict": "MITTEL",
+      "story": "In genau zwölf Stunden steht mein Staatsexamen an, und ich kämpfe in der Fachbib um den allerletzten Platz, während draußen der Sturm tobt. Du mit deiner Mini-Zahl sitzt hier sicher nicht, ich habe für diesen ganzen Block gezahlt und brauche die Ruhe für meine Präparation. Er knallt seine Aktentasche auf meine Organkarten, doch dann erblickt er meine handschriftliche Korrektur am Rand des Tisches. Ich habe die Formel gelöst, an der sein Labor seit Monaten scheitert – er spürt mein Genie sofort und wird kreidebleich vor Neid. Setzen Sie sich doch einfach auf den Klo-Gang, junger Mann! Doch in diesem Moment fällt mir ein vertrauliches Dokument aus seinem Aktenordner, das seine gesamte Schummelei offenbart. Plötzlich zieht er die Notbremse des Raumes und droht mit dem Entzug meiner Approbation. Das siehst du in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+120 €",
+        "after": "800 €"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "In genau zwölf Stunden steht mein Staatsexamen an, und ich kämpfe in der Fachbib um den allerletzten Platz, während draußen der Sturm tobt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du mit deiner Mini-Zahl sitzt hier sicher nicht, ich habe für diesen ganzen Block gezahlt und brauche die Ruhe für meine Präparation.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Er knallt seine Aktentasche auf meine Organkarten, doch dann erblickt er meine handschriftliche Korrektur am Rand des Tisches."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe die Formel gelöst, an der sein Labor seit Monaten scheitert – er spürt mein Genie sofort und wird kreidebleich vor Neid."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Setzen Sie sich doch einfach auf den Klo-Gang, junger Mann!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch in diesem Moment fällt mir ein vertrauliches Dokument aus seinem Aktenordner, das seine gesamte Schummelei offenbart."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich zieht er die Notbremse des Raumes und droht mit dem Entzug meiner Approbation."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Du mit deinen 12 Euro blockierst hier keine Premium-Lernzone für echte Akademiker.",
+      "quote_by": {
+        "level": 7,
+        "name": "Viktor, die Kokosnuss",
+        "badge": "12.500 €",
+        "character": "A tough coconut man with a hard brown shell, wearing a sharp business suit and gold cufflinks, flashing a high five-figure digital forehead display.",
+        "scene": "Close-up in a crowded library hallway, coconut man sneering across a desk."
+      },
+      "stats": [
+        {
+          "label": "Stipendium",
+          "value": "680 €",
+          "bar": 0.3
+        },
+        {
+          "label": "Bücher",
+          "value": "119 €",
+          "bar": 0.45
+        },
+        {
+          "label": "Stress",
+          "value": "99 %",
+          "bar": 0.95
+        }
+      ],
+      "character": "A healthy broccoli boy with curly green floret hair, wearing a casual denim jacket and carrying a heavy medical backpack. His glowing forehead shows 680 €. A golden coin lies on the desk corner.",
+      "visual": "Medium shot inside the crowded medical reading hall with students crammed between shelves under cold neon light.",
+      "scenes": [
+        "Wide angle shot of the crowded medical reading room with exhausted students surrounded by towering stacks of textbooks.",
+        "Medium shot inside aisle 4, broccoli boy staring stressed at a complex clinical diagram.",
+        "Detail shot of a digital forehead display showing 680 € next to a stethoscope.",
+        "Two-shot of broccoli boy confronting an arrogant coconut man wearing a tailored suit.",
+        "Close-up shot of medical flashcards fluttering across the wooden reading desk.",
+        "Wide angle shot of the silent library corridor with a golden coin gleaming on the window sill."
+      ],
+      "caption": "Wer kennt diese arroganten Schnösel, die Plätze stehlen? 😤 Unfassbar! #medizinstudium #bibstress #uni #gerechtigkeit"
+    },
+    {
+      "n": 4,
+      "open_loop": "Warum klebte plötzlich ein roter 'Hausverbot'-Zettel an meinem Lieblingsspind?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Meldet Lias angeblichen Regelverstoß direkt an die Bibliotheksleitung."
+      },
+      "name": "Lia, 22, Jura-Studentin",
+      "badge": "1.450 €",
+      "verdict": "SOLIDE",
+      "story": "Der rote Hausverbot-Zettel an meinem Spind war reine Schikane von Aufseher Richard, der jeden Morgen kontrolliert, ob jemand eine Minute zu lange verweilt. Solche Paragrafenreiterinnen mit 1.450 Euro gehören nicht in die obere Etage. Ich weine nicht, sondern zitiere eiskalt Paragraf vier der Benutzungsordnung: Sein Rauswurf ist illegal und rechtlich null und nichtig! Geh lieber Jura lernen statt hier rumzusein! Ich entlarve seinen illegalen Generalschlüsselbund vor dem gesamten Lesesaal, und plötzlich bricht ungläubiges Staunen aus. Er versucht den Schlüssel zu verstecken, doch ich halte bereits das Beweisfoto in die Höhe und lächle triumphierend. Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "+300 €",
+        "after": "1.750 €"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Der rote Hausverbot-Zettel an meinem Spind war reine Schikane von Aufseher Richard, der jeden Morgen kontrolliert, ob jemand eine Minute zu lange verweilt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Solche Paragrafenreiterinnen mit 1.450 Euro gehören nicht in die obere Etage.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich weine nicht, sondern zitiere eiskalt Paragraf vier der Benutzungsordnung: Sein Rauswurf ist illegal und rechtlich null und nichtig!"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Geh lieber Jura lernen statt hier rumzusein!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich entlarve seinen illegalen Generalschlüsselbund vor dem gesamten Lesesaal, und plötzlich bricht ungläubiges Staunen aus."
+        },
+        {
+          "s": "Figur",
+          "t": "Er versucht den Schlüssel zu verstecken, doch ich halte bereits das Beweisfoto in die Höhe und lächle triumphierend."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Solche Paragrafenreiterinnen mit 1.450 Euro gehören nicht in die obere Etage.",
+      "quote_by": {
+        "level": 6,
+        "name": "Richard, der Rettich",
+        "badge": "5.200 €",
+        "character": "A stern white radish man with a sharp green sprout on top, wearing a stiff librarian uniform and strict wire-rimmed glasses.",
+        "scene": "Medium shot behind the high wooden reception desk of the law library, pointing authoritatively at a student."
+      },
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "1.450 €",
+          "bar": 0.5
+        },
+        {
+          "label": "Miete",
+          "value": "650 €",
+          "bar": 0.6
+        },
+        {
+          "label": "Bücher",
+          "value": "200 €",
+          "bar": 0.8
+        }
+      ],
+      "character": "A smooth avocado girl with light green creamy skin and a dark brown wooden core pendant around her neck. Her glowing digital forehead shows 1.450 €. A golden coin sits on the wooden library reception counter.",
+      "visual": "Medium shot inside the stately wood-paneled law library reading room with green desk lamps and focused students.",
+      "scenes": [
+        "Wide angle shot of the grand law faculty library with classic stone columns and autumn light through stained glass.",
+        "Close-up shot of a glowing forehead display showing 1.450 € next to a thick BGB law textbook.",
+        "Medium shot of avocado girl confronting a strict radish librarian in front of metal locker 104.",
+        "Detail shot of a golden coin half-hidden under a heavy leather-bound civil code book.",
+        "Two-shot of security guards watching the legal debate from near the mahogany doors.",
+        "Wide angle shot of the silent library hallway with gleaming marble floors reflecting the tall arched windows."
+      ],
+      "caption": "Wer kennt diese arroganten Bibliotheks-Aufseher? 😤 Unfair bis zum letzten Paragraphen! #jura #studentenleben #bibdrama #gerechtigkeit"
+    },
+    {
+      "n": 5,
+      "open_loop": "Warum stand plötzlich mein eigener Name auf dem Schild der Bibliotheksleitung?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Beschuldigt Samira öffentlich der Platzbesetzung und versucht ihre Proben zu stehlen."
+      },
+      "name": "Samira, 25, Doktorandin",
+      "badge": "2.800 €",
+      "verdict": "GUT",
+      "story": "Auf diesem Schreibtisch entsteht gerade ein millionenschweres Patent für die Krebsforschung, an dem ich jahrelang gearbeitet habe. Mit deinen 2.800 Euro kannst du dir keinen eigenen Labortisch leisten, du Schmarotzerin. Ich projiziere die Urkunde des Ministeriums an die Wand: Mein Patent bringt der Uni zwölf Millionen Euro und sichert die Zukunft aller Institute. Lass sie einfach, die ist nur neidisch auf deinen Erfolg! Ihr eigener Lehrstuhl hängt an meinen Geldern – die umstehenden Professoren wenden sich beschämt ab, als mein Beweisvideo startet. Plötzlich stürzt die Institutsleitung herbei und erteilt ihr ein sofortiges Hausverbot auf Lebenszeit. Das siehst du in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+650 €",
+        "after": "3.450 €"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Auf diesem Schreibtisch entsteht gerade ein millionenschweres Patent für die Krebsforschung, an dem ich jahrelang gearbeitet habe."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mit deinen 2.800 Euro kannst du dir keinen eigenen Labortisch leisten, du Schmarotzerin.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich projiziere die Urkunde des Ministeriums an die Wand: Mein Patent bringt der Uni zwölf Millionen Euro und sichert die Zukunft aller Institute."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Lass sie einfach, die ist nur neidisch auf deinen Erfolg!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ihr eigener Lehrstuhl hängt an meinen Geldern – die umstehenden Professoren wenden sich beschämt ab, als mein Beweisvideo startet."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich stürzt die Institutsleitung herbei und erteilt ihr ein sofortiges Hausverbot auf Lebenszeit."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Mit deinen 2.800 Euro kannst du dir keinen eigenen Labortisch leisten, du Schmarotzerin.",
+      "quote_by": {
+        "level": 2,
+        "name": "Madame Maracuja",
+        "badge": "3.400 €",
+        "character": "A smug passionfruit woman with a sharp yellow shell, wearing a chic leather trench coat and designer sunglasses indoors.",
+        "scene": "Medium shot by the library science desk, passionfruit woman sneering over confidential research papers."
+      },
+      "stats": [
+        {
+          "label": "Stipendium",
+          "value": "2.800 €",
+          "bar": 0.7
+        },
+        {
+          "label": "Publikationen",
+          "value": "4",
+          "bar": 0.6
+        },
+        {
+          "label": "Forschung",
+          "value": "Genetik",
+          "bar": 0.85
+        }
+      ],
+      "character": "A vibrant dragonfruit woman with magenta skin and bright green leaf tips, wearing a crisp white lab coat over a smart black turtleneck. Her glowing forehead shows 2.800 €. A golden coin sits on a microscope base.",
+      "visual": "Medium shot in a modern university science library with glass partitions and glowing blue LED study desks.",
+      "scenes": [
+        "Wide angle shot of the modern science campus with futuristic glass architecture under a clear blue sky.",
+        "Close-up shot of a glowing forehead display showing 2.800 € next to a high-end microscope ocular.",
+        "Medium shot of dragonfruit researcher confronting the passionfruit woman across a glass desk.",
+        "Detail shot of a golden coin resting near a glowing glass beaker filled with blue liquid.",
+        "Two-shot of professors whispering behind towering stacks of scientific journals in the reading gallery.",
+        "Wide angle shot of the quiet campus courtyard with fountain spray catching the afternoon sunlight."
+      ],
+      "caption": "Wer kennt diese unverschämten Leute, die fremde Arbeit stehlen wollen? 🧪 #doktorarbeit #phdlife #wissenschaft #fairness"
+    },
+    {
+      "n": 6,
+      "open_loop": "Warum rief der Rektor mitten in der Vorlesung meinen Namen aus den Lautsprechern?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Blockiert die digitale Buchungsplattform mit automatisierten Bots für alle anderen."
+      },
+      "name": "Paul, 29, Universitäts-Dozent",
+      "badge": "4.600 €",
+      "verdict": "OBERENDE",
+      "story": "Prinzessin Ananas blockiert mit automatisierten Bots den gesamten Dozentenbereich der Bibliothek und verkauft die Plätze weiter an Meistbietende. Für 4.600 Euro im Monat können Sie sich gefälligst einen eigenen Stuhl kaufen, Kollegechen. Ich bleibe absolut ruhig, öffne ihre Bachelorarbeit auf dem Hauptbildschirm und zeige ihr das nachgewiesene Plagiat auf Seite vier. Legen Sie sich besser nicht mit der Fachbereichs-Sprecherin an! Ihr Grinsen gefriert zu Entsetzen, als sie erkennt, dass ihr gesamter akademischer Grad auf dem Spiel steht. Genau in dem Moment schrillt das rote Rektoratstelefon an der Wand, und der Präsident persönlich verlangt nach einer Erklärung. Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+400 €",
+        "after": "5.000 €"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Prinzessin Ananas blockiert mit automatisierten Bots den gesamten Dozentenbereich der Bibliothek und verkauft die Plätze weiter an Meistbietende."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Für 4.600 Euro im Monat können Sie sich gefälligst einen eigenen Stuhl kaufen, Kollegechen.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bleibe absolut ruhig, öffne ihre Bachelorarbeit auf dem Hauptbildschirm und zeige ihr das nachgewiesene Plagiat auf Seite vier."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Legen Sie sich besser nicht mit der Fachbereichs-Sprecherin an!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ihr Grinsen gefriert zu Entsetzen, als sie erkennt, dass ihr gesamter akademischer Grad auf dem Spiel steht."
+        },
+        {
+          "s": "Figur",
+          "t": "Genau in dem Moment schrillt das rote Rektoratstelefon an der Wand, und der Präsident persönlich verlangt nach einer Erklärung."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Für 4.600 Euro im Monat können Sie sich gefälligst einen eigenen Stuhl kaufen, Kollegechen.",
+      "quote_by": {
+        "level": 4,
+        "name": "Prinzessin Ananas",
+        "badge": "1.850 €",
+        "character": "A prickly pineapple girl with a spiky yellow crown head, wearing a flashy pink blazer and expensive pearl earrings.",
+        "scene": "Medium shot in the opulent university reading hall, pineapple girl leaning back lazily in a leather armchair."
+      },
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "4.600 €",
+          "bar": 0.82
+        },
+        {
+          "label": "Stunden",
+          "value": "50h/w",
+          "bar": 0.9
+        },
+        {
+          "label": "Status",
+          "value": "Dozent",
+          "bar": 0.75
+        }
+      ],
+      "character": "A wise old plum man with deep purple skin and tiny silver-rimmed spectacles perched on his nose, wearing a tailored brown tweed vest. His glowing forehead shows 4.600 €. A golden coin rests on the corner of an oak podium.",
+      "visual": "Medium shot in the historic university library with high vaulted ceilings, massive wooden bookshelves, and warm reading lamps.",
+      "scenes": [
+        "Wide angle shot of the monumental university main building at dusk with illuminated arched windows.",
+        "Close-up shot of a glowing forehead display showing 4.600 € next to a stack of red grading pens.",
+        "Medium shot of plum dozent confronting a spiky pineapple student in the faculty lounge.",
+        "Detail shot of a golden coin hidden beneath an antique wooden paperweight on a desk.",
+        "Two-shot of frightened students watching the confrontation from behind tall bookshelves.",
+        "Wide angle shot of the grand central staircase with marble statues and polished brass handrails."
+      ],
+      "caption": "Wenn Respekt vor Dozenten komplett fehlt! 📚 Unfassbare Frechheit in der Bib! #uni #dozentenleben #respekt #bibdrama"
+    },
+    {
+      "n": 7,
+      "open_loop": "Warum sperrte die Universitätswache plötzlich den gesamten oberen Bibliotheksflügel ab?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Blockiert Helenes reservierten Ehrenplatz mit einem Server-Terminal."
+      },
+      "name": "Helene, 41, Universitätsprofessorin",
+      "badge": "8.900 €",
+      "verdict": "ELITE",
+      "story": "Auf meinem reservierten Ehrenplatz im Balkonsaal sitzt ausgerechnet Leo, der Student aus Level eins, der mich zuvor schikaniert hat. Dein teures Professoren-Gehalt interessiert hier keinen, ich sitze hier! Er dreht seinen Bildschirm zu mir: Er hat das korrupte Zuteilungssystem unseres Dekanats komplett gehackt und alle Finanzströme offengelegt. Bitte rufen Sie sofort den Zugschaffner, Frau Professor! Mein eigener Name steht auf den fingierten Protokollen, die Millionenbeträge unterschlagen haben. In zehn Minuten beginnt die öffentliche Senatssitzung, und plötzlich stürmen Reporter mit Kameras den Saal. Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "+1.100 €",
+        "after": "10.000 €"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Auf meinem reservierten Ehrenplatz im Balkonsaal sitzt ausgerechnet Leo, der Student aus Level eins, der mich zuvor schikaniert hat."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein teures Professoren-Gehalt interessiert hier keinen, ich sitze hier!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Er dreht seinen Bildschirm zu mir: Er hat das korrupte Zuteilungssystem unseres Dekanats komplett gehackt und alle Finanzströme offengelegt."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Bitte rufen Sie sofort den Zugschaffner, Frau Professor!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein eigener Name steht auf den fingierten Protokollen, die Millionenbeträge unterschlagen haben."
+        },
+        {
+          "s": "Figur",
+          "t": "In zehn Minuten beginnt die öffentliche Senatssitzung, und plötzlich stürmen Reporter mit Kameras den Saal."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Dein teures Professoren-Gehalt interessiert hier keinen, ich sitze hier!",
+      "quote_by": {
+        "level": 1,
+        "name": "Leo, die Zitrone",
+        "badge": "12 €",
+        "character": "A young lemon boy with bright yellow citrus skin, wearing a faded blue hoodie and carrying a torn canvas bag.",
+        "scene": "Medium shot in the historic balcony hall, lemon boy calmly looking up from a glowing hacking terminal."
+      },
+      "stats": [
+        {
+          "label": "Gehalt",
+          "value": "8.900 €",
+          "bar": 0.92
+        },
+        {
+          "label": "Titel",
+          "value": "Prof. Dr.",
+          "bar": 0.95
+        },
+        {
+          "label": "Projekte",
+          "value": "12",
+          "bar": 0.88
+        }
+      ],
+      "character": "A sophisticated coconut woman with a polished brown shell surface, wearing a tailored emerald green cashmere coat and gold-rimmed glasses. Her glowing forehead shows 8.900 €. A golden coin sits on the train armrest.",
+      "visual": "Medium shot inside the historic balcony library with carved oak balustrades and stained-glass windows.",
+      "scenes": [
+        "Wide angle shot of the grand balcony hall of the central library overlooking hundreds of studying students.",
+        "Close-up shot of a glowing forehead display showing 8.900 € next to a gold fountain pen.",
+        "Medium shot of coconut professor confronting the lemon student sitting at the historic oak desk.",
+        "Detail shot of a golden coin resting on a leather-bound catalog ledger.",
+        "Two-shot of campus guards murmuring nervously at the arched glass entrance doors.",
+        "Wide angle shot of the illuminated university tower at dusk with students assembling outside."
+      ],
+      "caption": "Wenn der Student plötzlich die Macht über die Professoren hat! 📚 Enthüllung pur! #uni #whistleblower #professorenleben #bibskandal"
+    },
+    {
+      "n": 8,
+      "open_loop": "Was passierte, als die digitale Zentralanzeige plötzlich für alle auf Null sprang?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Präsentiert auf der Großleinwand die Beweise für Granatapfels Erpressungssystem."
+      },
+      "name": "Dr. Granatapfel, 52, Universitätspräsident",
+      "badge": "99.999 €",
+      "verdict": "MAXIMUM",
+      "story": "Jahrelang thronte ich mit 99.999 Euro auf der Stirn über dieser Uni als unangefochtener Herrscher – doch jetzt stehe ich vor tausend Zeugen auf der Bühne. Hier sind die Beweise für fünf Jahre Korruption und systematische Unterdrückung. Ich muss ins Mikrofon bekennen: Leos Mut und Verstand sind unbezahlbar und überstrahlen mein gesamtes Vermögen. Schaut alle auf eure Stirn, die Anzeigen verändern sich! Die Zahlen flackern wild und fallen für alle auf null: Ab heute kauft kein Geld der Welt mehr einen einzigen Platz. Plötzlich erlischt das letzte künstliche Licht, und eine goldene Morgenröte bricht durch die großen Fenster der Bibliothek an. Welches Thema soll als Nächstes kommen?",
+      "gender": "m",
+      "twist": {
+        "delta": "0 €",
+        "after": "0 €"
+      },
+      "lines": [
+        {
+          "s": "Figur",
+          "t": "Jahrelang thronte ich mit 99.999 Euro auf der Stirn über dieser Uni als unangefochtener Herrscher – doch jetzt stehe ich vor tausend Zeugen auf der Bühne."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Hier sind die Beweise für fünf Jahre Korruption und systematische Unterdrückung.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich muss ins Mikrofon bekennen: Leos Mut und Verstand sind unbezahlbar und überstrahlen mein gesamtes Vermögen."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Schaut alle auf eure Stirn, die Anzeigen verändern sich!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahlen flackern wild und fallen für alle auf null: Ab heute kauft kein Geld der Welt mehr einen einzigen Platz."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich erlischt das letzte künstliche Licht, und eine goldene Morgenröte bricht durch die großen Fenster der Bibliothek an."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema soll als Nächstes kommen?"
+        }
+      ],
+      "quote": "Die Zahl lügt nie – aber ab heute zählt sie gar nichts mehr.",
+      "quote_by": {
+        "level": 8,
+        "name": "Dr. Granatapfel",
+        "badge": "99.999 €",
+        "character": "An authoritative pomegranate man with deep red gem-like seeds visible through his crown, wearing a majestic velvet robe over a business suit.",
+        "scene": "Wide angle shot on the grand university auditorium stage, pomegranate man addressing a packed crowd of cheering fruit and vegetable students."
+      },
+      "stats": [
+        {
+          "label": "Einfluss",
+          "value": "MAX",
+          "bar": 1.0
+        },
+        {
+          "label": "Budget",
+          "value": "10 Mio",
+          "bar": 1.0
+        },
+        {
+          "label": "Macht",
+          "value": "Ende",
+          "bar": 1.0
+        }
+      ],
+      "character": "A distinguished pomegranate man with ruby-red crown segments and a sharp tailored dark grey suit. His glowing digital forehead shows 99.999 €. A glowing golden coin lies right in the center of the auditorium stage floor.",
+      "visual": "Wide angle shot of a packed historic university auditorium with glowing digital numbers floating above hundreds of students in the dark.",
+      "scenes": [
+        "Wide angle shot of the majestic university great hall filled with hundreds of seated students under towering chandeliers.",
+        "Close-up shot of a glowing digital forehead display showing 99.999 € slowly fading out to zero.",
+        "Medium shot of the pomegranate president standing behind a carved wooden lectern with microphone.",
+        "Detail shot of a golden coin shining brightly right in the center of the wooden stage floorboards.",
+        "Two-shot of students from all previous levels smiling at each other in the auditorium rows.",
+        "Wide angle shot of the illuminated university tower at night with fireworks lighting up the German sky."
+      ],
+      "caption": "Das große Finale! Was passiert, wenn die Stirn-Zahl plötzlich verschwindet? 🎓 Schreibt euer Thema in die Kommentare! #finale #stirnzahl #unidrama #deutschland"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das asoziale 'Reservieren' von Plätzen in der Uni-Bibliothek oder im ICE",
+  "frame": "frucht"
+}

@@ -1,0 +1,81 @@
+{
+  "best_score": 68,
+  "rounds": [
+    {
+      "scores": {
+        "hook": 3,
+        "story": 2,
+        "identifikation": 5,
+        "verbindungen": 3,
+        "sog": 2,
+        "wut": 3,
+        "merkfaehigkeit": 3,
+        "sprache": 1
+      },
+      "gesamt": 24,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Streiche das verbotene Intro ('Die 8 Level...'). Starte sofort mit Demütigung und verstecktem Wert: '12 Euro auf meiner Stirn? Der Typ schmeißt meine Tasche in den Müll und lacht – doch er ahnt nicht, dass mein USB-Stick den Server der ganzen Bib steuert.' Erhöhe den Text von 65 auf mindestens 175 Wörter und baue den Konflikt mit Prof. Granatapfel direkt im Lesesaal auf."
+        },
+        {
+          "n": 2,
+          "fix": "Löse die offene Frage aus Level 1 auf (warum die Tasche im Dreck landete) statt ohne Übergang nach Frankfurt zu springen. Baue die 5-Euro-Platzmafia zur echten Bedrohung aus, bei der Mia heimlich die Reservierungs-App gehackt hat (versteckter Wert), und beende das Skript bei mindestens 175 Wörtern kurz vor der Konfrontation mit der Sicherheitskraft."
+        },
+        {
+          "n": 3,
+          "fix": "Beseitige den Bruch: Die Serie heißt 'Bibliotheks-Platz', verlagere Ben zurück in die Unibib oder verbinde den ICE plausibel mit der Flucht vor der Bib-Sperre. Kokosnuss Viktor muss Bens Genie-Status spüren, bevor er ihn wegdrängt. Dehne den Text von knapp 65 auf über 175 Wörter mit spürbarem Prüfungsstress."
+        },
+        {
+          "n": 4,
+          "fix": "Zeige Rettich Richard als arroganten Aufseher, der Lia bloßstellt. Lia muss vor den Zuschauern beweisen, dass Richards Rauswurf illegal ist (Paragraph parat haben), statt passiv zu erröten. Baue die offene Spind-Frage aktiv in den Text ein und erreiche das 175-Wörter-Minimum."
+        },
+        {
+          "n": 5,
+          "fix": "Korrigiere die Kontinuität: Warum ist Zitronen-Monika (Level 3) plötzlich Gegenspielerin, wenn Level 3 Ben war? Gib Samira echten Triumph über die Neiderin, lass die Zuschauer wissen, dass ihr Forschungsstipendium kurz vor einem Millionen-Patent steht, und erweitere die Story auf 175+ Wörter."
+        },
+        {
+          "n": 6,
+          "fix": "Schaffe den absurden ICE-Sprung ab und bleibe im akademischen Machtkampf. Dozent Paul muss die arrogante Ananas-Studentin auflaufen lassen, weil er ihre Note in der Hand hat. Beende direkt vor dem Rektor-Anruf und fülle die Wortanzahl auf mindestens 175 Wörter auf."
+        },
+        {
+          "n": 7,
+          "fix": "Korrigiere den Gegenspieler: In Level 1 war Leo eine Zitrone mit 12 €, hier taucht plötzlich 'Tim, der Kürbis' auf. Lass Professorin Helene auf Leo treffen, der ihren Platz besetzt hält, weil er ihr System durchschaut hat. Textlänge massiv von 60 auf 175+ Wörter erweitern."
+        },
+        {
+          "n": 8,
+          "fix": "Löse das Versprechen der Genugtuung ein: Granatapfel darf nicht denselben Text wie in Level 1 als Monolog rezitieren, sondern muss Leos wahren Wert vor der versammelten Uni anerkennen. Baue die Szene mit Publikum und fallenden Stirnzahlen auf über 175 Wörter episch aus."
+        }
+      ],
+      "fazit": "Totalausfall bei den Grundregeln: Keine einzige Story erreicht das Pflichtminimum von 175 Wörtern (alle dümpeln bei 60–65 Wörtern), das verbotene neutrale Intro wird in jedem Video wiederholt, und der Schauplatz driftet ohne Logik von Bibliotheken in ICE-Züge ab. Die Formel des 'versteckten Werts' fehlt fast völlig; stattdessen gibt es plumpe Pöbeleien ohne absehbare Genugtuung, logische Kontinuitätsbrüche bei den Gegenspielern und Cliffhanger, die im Folgeteil ignoriert werden."
+    },
+    {
+      "scores": {
+        "hook": 7,
+        "story": 6,
+        "identifikation": 6,
+        "verbindungen": 8,
+        "sog": 7,
+        "wut": 7,
+        "merkfaehigkeit": 6,
+        "sprache": 7
+      },
+      "gesamt": 68,
+      "fixes": [
+        {
+          "n": 1,
+          "fix": "Beginne direkt mit der Demütigung und der Zahl: '12 Euro? Wer lässt so einen armen Schlucker überhaupt in die Bib?'"
+        },
+        {
+          "n": 3,
+          "fix": "Verkürze die innere Monologe und steigere die verbale Arroganz des Gegenspielers in den ersten 5 Sekunden."
+        },
+        {
+          "n": 5,
+          "fix": "Lasse die Hauptfigur sofort mit einer harten, unfairen Entlassung oder Konfrontation starten, statt langer Beschreibungen."
+        }
+      ],
+      "fazit": "Solide Struktur mit klaren Querverweisen und starkem Motiv der Demütigung und Genugtuung, aber die Texte sind zu lang und die Hooks müssen aggressiver und unmittelbarer auf den Punkt kommen."
+    }
+  ]
+}

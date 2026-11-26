@@ -1,0 +1,883 @@
+{
+  "title": "The 8 Levels of Procrastination Cleaning",
+  "house": "A bustling fruit and vegetable metropolis called Produce City, featuring neon-lit apartment blocks, a central farmers market plaza, and tiny golden coins hidden on every street corner.",
+  "catchphrase": "The number on your forehead never lies.",
+  "links": [
+    "The barista in Level 2 mentions a stressed potato rushing to work",
+    "The lost keys in Level 4 belong to the kiwi from Level 7",
+    "The glowing digital billboard in Level 1 shows the exact rent due in Level 6"
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Why was the eviction notice sitting right next to a spotless kitchen floor?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Laughs at her unpaid bills while inspecting baseboards with a magnifying glass."
+      },
+      "name": "Bella, 24, Accounting Intern",
+      "badge": "140 min clean",
+      "verdict": "TOTAL CHAOS",
+      "story": "The 8 levels of absurd cleaning procrastination. Level 1. Level one. 140 minutes spent scrubbing my oven while my final exam starts in twenty minutes. I am Bella, a stressed-out blueberry with blue skin, wearing a stained oversized hoodie and holding an old toothbrush. My tiny apartment is drowning in laundry, yet every tile in the bathroom shines like a diamond. How are you polishing grout when your rent is five days overdue? You can scrub all you want, but your bank account is still empty. I clutch the toothbrush tighter, blinking back tears as the glowing digits on my forehead suddenly flicker and drop by twenty minutes. Why did my timer reset right when I needed it most? Suddenly, a loud knock echoes through the hallway, and the door swings open to reveal my landlord inspecting my dust-free walls with utter disdain. He points directly at my unopened textbooks while shaking his head in total disbelief. If I do not pass this exam today, I will literally be homeless by tomorrow morning. My heart races as a sudden chill runs down my spine. You'll see that in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "-20 min",
+        "after": "120 min"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of absurd cleaning procrastination. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level one. 140 minutes spent scrubbing my oven while my final exam starts in twenty minutes."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Bella, a stressed-out blueberry with blue skin, wearing a stained oversized hoodie and holding an old toothbrush."
+        },
+        {
+          "s": "Figur",
+          "t": "My tiny apartment is drowning in laundry, yet every tile in the bathroom shines like a diamond."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "How are you polishing grout when your rent is five days overdue?",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You can scrub all you want, but your bank account is still empty.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I clutch the toothbrush tighter, blinking back tears as the glowing digits on my forehead suddenly flicker and drop by twenty minutes."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Why did my timer reset right when I needed it most?"
+        },
+        {
+          "s": "Figur",
+          "t": "Suddenly, a loud knock echoes through the hallway, and the door swings open to reveal my landlord inspecting my dust-free walls with utter disdain."
+        },
+        {
+          "s": "Figur",
+          "t": "He points directly at my unopened textbooks while shaking his head in total disbelief."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "If I do not pass this exam today, I will literally be homeless by tomorrow morning."
+        },
+        {
+          "s": "Figur",
+          "t": "My heart races as a sudden chill runs down my spine."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You can scrub all you want, but your bank account is still empty.",
+      "quote_by": {
+        "level": 6,
+        "name": "Victor",
+        "badge": "8,500 $ rent",
+        "character": "An arrogant yellow Lemon-man with sharp pinstripe suit and a golden monocle.",
+        "scene": "Wide angle shot of a messy apartment doorway, Victor leaning against the frame looking down with a sneer."
+      },
+      "stats": [
+        {
+          "label": "Cleaning Min",
+          "value": "120 min",
+          "bar": 0.15
+        },
+        {
+          "label": "Focus Level",
+          "value": "4%",
+          "bar": 0.05
+        },
+        {
+          "label": "Exam Prep",
+          "value": "0%",
+          "bar": 0.0
+        }
+      ],
+      "character": "Bella is a blueberry-person with deep blue skin, dark circles under her eyes, wearing a faded gray college hoodie and holding a worn-out pink cleaning toothbrush.",
+      "visual": "Close-up shot of a tiny blue blueberry-girl staring in horror at a glowing digital timer on her forehead showing 140 min clean inside a chaotic studio apartment.",
+      "scenes": [
+        "Wide angle shot of a cluttered student bedroom with clothes everywhere, soft morning light filtering through blinds, and a small golden coin hidden on a messy bookshelf.",
+        "Medium close-up of a blue blueberry-girl frantically scrubbing a stainless steel sink with an old toothbrush while sweat drips down her forehead.",
+        "Detail shot of a glowing digital display on a smooth blue forehead reading 140 min clean in bright red neon numbers.",
+        "Medium shot in a cramped hallway with a grumpy lemon-man pointing at the door, holding a clipboard with overdue bills.",
+        "Close-up of a stack of unopened textbooks covered in a thin layer of dust next to a squeaky-clean glass window.",
+        "Wide angle shot of the street outside the apartment building where a tiny golden coin rests on the pavement near a bicycle rack."
+      ],
+      "caption": "Would you rather clean your entire room or fail your exam? Tell me below! #procrastination #cleaninghacks #relatable #studentlife #funny"
+    },
+    {
+      "n": 2,
+      "open_loop": "Who left five hundred unwashed coffee mugs in the middle of the living room floor?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Trips over the mugs and dumps hot tea on her freshly washed rug."
+      },
+      "name": "Sam, 29, Freelance Writer",
+      "badge": "450 min clean",
+      "verdict": "AVOIDING WORK",
+      "story": "The 8 levels of absurd cleaning procrastination. Level 2. Level two. 450 minutes deep into organizing my sock drawer by fabric density instead of writing my article. I am Sam, a nervous orange-man with bright citrus skin, wearing a neon green apron and holding a label maker. My deadline was two hours ago, but these socks refuse to stay unsorted. Are you seriously color-coding socks when our electricity is about to get cut? Get out of my way before I throw your entire wardrobe into the street. I freeze, my label maker buzzing in my hand as the bright digital number on my forehead flashes and suddenly jumps to zero. Why did the machine wipe my entire cleaning progress instantly? Without any warning, the power grid in the building shuts down completely, plunging my meticulously organized apartment into total darkness. My laptop screen flickers and dies, destroying three hours of unsaved work in a single second. I realize with utter horror that my extreme cleaning obsession has completely sabotaged my livelihood. A sinister shadow appears in the doorway. You'll see that in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "-450 min",
+        "after": "0 min"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of absurd cleaning procrastination. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level two. 450 minutes deep into organizing my sock drawer by fabric density instead of writing my article."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Sam, a nervous orange-man with bright citrus skin, wearing a neon green apron and holding a label maker."
+        },
+        {
+          "s": "Figur",
+          "t": "My deadline was two hours ago, but these socks refuse to stay unsorted."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Are you seriously color-coding socks when our electricity is about to get cut?",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Get out of my way before I throw your entire wardrobe into the street.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I freeze, my label maker buzzing in my hand as the bright digital number on my forehead flashes and suddenly jumps to zero."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Why did the machine wipe my entire cleaning progress instantly?"
+        },
+        {
+          "s": "Figur",
+          "t": "Without any warning, the power grid in the building shuts down completely, plunging my meticulously organized apartment into total darkness."
+        },
+        {
+          "s": "Figur",
+          "t": "My laptop screen flickers and dies, destroying three hours of unsaved work in a single second."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "I realize with utter horror that my extreme cleaning obsession has completely sabotaged my livelihood."
+        },
+        {
+          "s": "Figur",
+          "t": "A sinister shadow appears in the doorway."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Get out of my way before I throw your entire wardrobe into the street.",
+      "quote_by": {
+        "level": 5,
+        "name": "Peach Guy",
+        "badge": "1,200 $ electric",
+        "character": "A fuzzy peach-man wearing a tight designer workout vest and gold chain.",
+        "scene": "Medium shot in a chaotic hallway, peach-man kicking a tower of mugs with an angry expression."
+      },
+      "stats": [
+        {
+          "label": "Cleaning Min",
+          "value": "0 min",
+          "bar": 0.0
+        },
+        {
+          "label": "Socks Sorted",
+          "value": "312 pcs",
+          "bar": 0.25
+        },
+        {
+          "label": "Deadline",
+          "value": "-2 hrs",
+          "bar": 0.0
+        }
+      ],
+      "character": "Sam is an orange-person with textured citrus skin, wearing a bright green cleaning apron, glasses pushed up on his head, and holding a handheld label printer.",
+      "visual": "Medium shot of an orange-guy sitting on a wooden floor surrounded by hundreds of colorful socks, staring at a digital forehead number reading 450 min clean.",
+      "scenes": [
+        "Wide angle shot of a sunlit living room floor covered in neat rows of categorized socks, with a hidden golden coin resting under the sofa leg.",
+        "Medium close-up of an orange-guy sweating while carefully applying a tiny white label to a black wool sock.",
+        "Detail shot of the digital forehead display glitching from 450 to 0 with a bright red flash.",
+        "Medium shot of an angry peach-man bursting through a doorway, spilling hot tea onto a freshly vacuumed rug.",
+        "Close-up shot of a vintage laptop screen displaying a blinking cursor on a completely blank word document.",
+        "Wide angle shot of the apartment kitchen sink piled high with dirty dishes, catching the afternoon glare."
+      ],
+      "caption": "When folding socks becomes more important than your career. Who else does this? #procrastination #cleaning #freelance #funny #relatable"
+    },
+    {
+      "n": 3,
+      "open_loop": "What was hidden inside the hollow wooden leg of the dining room table?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Steals her custom sponge collection while she is polishing the floorboards."
+      },
+      "name": "Maya, 32, Graphic Designer",
+      "badge": "890 min clean",
+      "verdict": "MASTER ESCAPIST",
+      "story": "The 8 levels of absurd cleaning procrastination. Level 3. Level three. 890 minutes spent waxing the hardwood floors with organic lavender oil instead of sending client revisions. I am Maya, an avocado-woman with soft green skin, wearing rubber cleaning gloves and holding a professional buffer. My client has called twelve times, but the grain of this oak needs absolute perfection. You call this professional work? Your design files are empty, yet your floor is reflecting my face! Give me that back or I'll cancel your contract right now! I gasp, clutching the floor buffer as my forehead display suddenly shifts from 890 to 40 minutes. Why did my timer crash after she touched the sponge? Suddenly, a massive crack echoes beneath my feet as the freshly polished wood begins to splinter apart from the excess moisture. The entire floor caves in slightly, revealing a hidden compartment filled with overdue invoices I had completely forgotten about. My professional reputation vanishes into thin air right before my eyes. I am completely ruined. You'll see that in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "-850 min",
+        "after": "40 min"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of absurd cleaning procrastination. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level three. 890 minutes spent waxing the hardwood floors with organic lavender oil instead of sending client revisions."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Maya, an avocado-woman with soft green skin, wearing rubber cleaning gloves and holding a professional buffer."
+        },
+        {
+          "s": "Figur",
+          "t": "My client has called twelve times, but the grain of this oak needs absolute perfection."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You call this professional work? Your design files are empty, yet your floor is reflecting my face!",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Give me that back or I'll cancel your contract right now!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I gasp, clutching the floor buffer as my forehead display suddenly shifts from 890 to 40 minutes."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Why did my timer crash after she touched the sponge?"
+        },
+        {
+          "s": "Figur",
+          "t": "Suddenly, a massive crack echoes beneath my feet as the freshly polished wood begins to splinter apart from the excess moisture."
+        },
+        {
+          "s": "Figur",
+          "t": "The entire floor caves in slightly, revealing a hidden compartment filled with overdue invoices I had completely forgotten about."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "My professional reputation vanishes into thin air right before my eyes."
+        },
+        {
+          "s": "Figur",
+          "t": "I am completely ruined."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "You call this professional work? Your design files are empty, yet your floor is reflecting my face!",
+      "quote_by": {
+        "level": 7,
+        "name": "Madame Pitaya",
+        "badge": "10,000 $ contract",
+        "character": "A pink and green dragonfruit-woman with spiky outer leaves and a sharp designer handbag.",
+        "scene": "Close-up of a dragonfruit woman looking down at a shiny wooden floor, holding a pink sponge triumphantly."
+      },
+      "stats": [
+        {
+          "label": "Cleaning Min",
+          "value": "40 min",
+          "bar": 0.2
+        },
+        {
+          "label": "Floor Shine",
+          "value": "99%",
+          "bar": 0.95
+        },
+        {
+          "label": "Client Emails",
+          "value": "0 sent",
+          "bar": 0.0
+        }
+      ],
+      "character": "Maya is an avocado-person with a smooth green head and dark pit-shaped earrings, wearing yellow rubber cleaning gloves and a pastel pink apron.",
+      "visual": "Wide angle shot of an avocado-woman sliding across a gleaming wooden floor on polishing pads while holding a heavy buffer machine.",
+      "scenes": [
+        "Wide angle shot of a minimalist loft apartment with sunbeams hitting a mirror-finish hardwood floor, featuring a hidden golden coin under the baseboard heater.",
+        "Close-up of green rubber gloves carefully applying lavender wax to a stubborn wooden scratch.",
+        "Detail shot of the digital forehead display glowing bright green, reading 890 min clean.",
+        "Medium shot of a pink dragonfruit-woman stepping onto the pristine floor with muddy heels, smirking maliciously.",
+        "Close-up of an open laptop showing urgent client revision emails piling up unread.",
+        "Wide angle shot of the apartment building lobby where a tiny golden coin sits near the elevator buttons."
+      ],
+      "caption": "When your floor is cleaner than your future. Tag someone who avoids work like this! #procrastination #interiordesign #avocado #cleaning #relatable"
+    },
+    {
+      "n": 4,
+      "open_loop": "Who sent the mysterious package filled entirely with vintage dusting feathers?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Drops dirty mop water right across her freshly sanitized entryway."
+      },
+      "name": "Leo, 26, App Developer",
+      "badge": "1,450 min clean",
+      "verdict": "PRO LEVEL AVOIDANCE",
+      "story": "The 8 levels of absurd cleaning procrastination. Level 4. Level four. 1,450 minutes spent disinfecting every single key on my mechanical keyboard with isopropyl alcohol instead of launching the app. I am Leo, a yellow lemon-man with a sharp citrus peel, wearing wire-rimmed glasses and holding a cotton swab. The app launch was scheduled for dawn, but the spacebar still has dust particles. Are you really cleaning when our server budget expires in ten minutes? Get out of my chair so I can fix your code! I push my glasses up, glaring at her as my glowing forehead number suddenly drops by half. Why did my hours vanish the second she touched my keyboard? Out of nowhere, the main server terminal emits a piercing alarm as our entire startup platform crashes due to a missed deployment window. All our hard work vanishes from the cloud in a single catastrophic glitch. I stare blankly at the screen as my co-founder walks in with a final termination notice. There is no turning back now. You'll see that in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "-700 min",
+        "after": "750 min"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of absurd cleaning procrastination. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level four. 1,450 minutes spent disinfecting every single key on my mechanical keyboard with isopropyl alcohol instead of launching the app."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Leo, a yellow lemon-man with a sharp citrus peel, wearing wire-rimmed glasses and holding a cotton swab."
+        },
+        {
+          "s": "Figur",
+          "t": "The app launch was scheduled for dawn, but the spacebar still has dust particles."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Are you really cleaning when our server budget expires in ten minutes?",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Get out of my chair so I can fix your code!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I push my glasses up, glaring at her as my glowing forehead number suddenly drops by half."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Why did my hours vanish the second she touched my keyboard?"
+        },
+        {
+          "s": "Figur",
+          "t": "Out of nowhere, the main server terminal emits a piercing alarm as our entire startup platform crashes due to a missed deployment window."
+        },
+        {
+          "s": "Figur",
+          "t": "All our hard work vanishes from the cloud in a single catastrophic glitch."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "I stare blankly at the screen as my co-founder walks in with a final termination notice."
+        },
+        {
+          "s": "Figur",
+          "t": "There is no turning back now."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Get out of my chair so I can fix your code!",
+      "quote_by": {
+        "level": 1,
+        "name": "Bella",
+        "badge": "120 min clean",
+        "character": "A stressed blue blueberry-girl wearing an oversized hoodie and holding a dirty sponge.",
+        "scene": "Medium shot in a tech office, blue girl pointing aggressively at a computer screen while holding a mop."
+      },
+      "stats": [
+        {
+          "label": "Cleaning Min",
+          "value": "750 min",
+          "bar": 0.4
+        },
+        {
+          "label": "Keys Cleaned",
+          "value": "104 pcs",
+          "bar": 1.0
+        },
+        {
+          "label": "App Status",
+          "value": "Paused",
+          "bar": 0.0
+        }
+      ],
+      "character": "Leo is a sour lemon-person with bright yellow citrus skin, sharp features, wearing a black tech vest and holding a precision cotton swab for cleaning electronics.",
+      "visual": "Close-up of a yellow lemon-man meticulously cleaning a computer keyboard with a cotton swab while his forehead glows with bright digital numbers.",
+      "scenes": [
+        "Wide angle shot of a messy tech startup office glowing with multiple monitor screens, with a tiny golden coin hidden beneath the server rack.",
+        "Medium close-up of a lemon-guy wearing glasses, gently dipping a Q-tip into a bottle of cleaning alcohol.",
+        "Detail shot of the digital forehead display glowing bright yellow, reading 1,450 min clean.",
+        "Medium shot of a blue blueberry-girl rushing into the room with a sloshing bucket of grey mop water.",
+        "Close-up of a computer monitor displaying lines of red error code next to a spotless, sterile desk surface.",
+        "Wide angle shot of the building corridor where a tiny golden coin rests on top of a water cooler."
+      ],
+      "caption": "When your keyboard is cleaner than your source code. Who else avoids coding by cleaning? #coding #procrastination #lemon #techlife #funny"
+    },
+    {
+      "n": 5,
+      "open_loop": "What secret formula was written on the back of the pantry cleaning schedule?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Throws away her special collection of color-coded dusting cloths."
+      },
+      "name": "Chloe, 28, Podcast Host",
+      "badge": "2,300 min clean",
+      "verdict": "PEAK AVOIDANCE",
+      "story": "The 8 levels of absurd cleaning procrastination. Level 5. Level five. 2,300 minutes spent steam-cleaning the wallpaper patterns instead of recording episode fifty. I am Chloe, a fuzzy peach-woman with velvety pink skin, wearing a retro housewife dress and holding a steaming wand. My listeners are waiting, but these floral walls have hidden grease stains. Are you out of your mind? Your sponsors just pulled out because you missed three upload dates! Stop playing domestic goddess and turn on the microphone! I gasp, gripping the steam wand as my glowing forehead number instantly plummets by a thousand. Why did my timer crash right when he insulted my wallpaper? Suddenly, the studio ceiling speaker short-circuits and broadcasts a live feed of my silence to ten thousand angry listeners worldwide. My entire podcast network drops me on the spot, canceling my contract with immediate effect. Panic sets in as I realize my cleaning addiction has cost me everything. I am completely speechless. You'll see that in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "-1,000 min",
+        "after": "1,300 min"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of absurd cleaning procrastination. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level five. 2,300 minutes spent steam-cleaning the wallpaper patterns instead of recording episode fifty."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Chloe, a fuzzy peach-woman with velvety pink skin, wearing a retro housewife dress and holding a steaming wand."
+        },
+        {
+          "s": "Figur",
+          "t": "My listeners are waiting, but these floral walls have hidden grease stains."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Are you out of your mind? Your sponsors just pulled out because you missed three upload dates!",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Stop playing domestic goddess and turn on the microphone!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I gasp, gripping the steam wand as my glowing forehead number instantly plummets by a thousand."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Why did my timer crash right when he insulted my wallpaper?"
+        },
+        {
+          "s": "Figur",
+          "t": "Suddenly, the studio ceiling speaker short-circuits and broadcasts a live feed of my silence to ten thousand angry listeners worldwide."
+        },
+        {
+          "s": "Figur",
+          "t": "My entire podcast network drops me on the spot, canceling my contract with immediate effect."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Panic sets in as I realize my cleaning addiction has cost me everything."
+        },
+        {
+          "s": "Figur",
+          "t": "I am completely speechless."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Stop playing domestic goddess and turn on the microphone!",
+      "quote_by": {
+        "level": 2,
+        "name": "Sam",
+        "badge": "450 min clean",
+        "character": "An orange-man with citrus texture wearing a neon green apron and holding a label maker.",
+        "scene": "Wide angle shot of a recording studio doorway, orange-guy kicking a bucket of pink soapy water with an angry glare."
+      },
+      "stats": [
+        {
+          "label": "Cleaning Min",
+          "value": "1,300 min",
+          "bar": 0.55
+        },
+        {
+          "label": "Wall Shine",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Episode No.",
+          "value": "49.5",
+          "bar": 0.49
+        }
+      ],
+      "character": "Chloe is a peach-person with soft fuzzy pink skin, wearing a vintage 1950s floral apron, cat-eye glasses, and holding a handheld steam-cleaning wand.",
+      "visual": "Medium close-up of a fuzzy peach-woman holding a steaming wand against floral wallpaper, with glowing digital numbers on her forehead reading 2,300 min clean.",
+      "scenes": [
+        "Wide angle shot of a retro-styled podcast studio with pastel pink walls, featuring a tiny golden coin hidden beneath a vintage microphone stand.",
+        "Medium close-up of a peach-girl operating a white steam cleaner, watching thick vapor rise against the wall.",
+        "Detail shot of the digital forehead display glowing bright pink, reading 2,300 min clean.",
+        "Medium shot of an angry orange-man storming into the studio, kicking over a bucket of pink soapy water.",
+        "Close-up of a professional recording interface with all audio input sliders turned completely down.",
+        "Wide angle shot of the street outside the studio window where a tiny golden coin rests on a parking meter."
+      ],
+      "caption": "When cleaning the wallpaper sounds more fun than recording your podcast. Who relates? #podcaster #cleaning #peach #funny #relatable"
+    },
+    {
+      "n": 6,
+      "open_loop": "Why was the solid gold vacuum cleaner locked inside a glass display case?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Spills organic lavender floor wax all over his Persian rug."
+      },
+      "name": "Victor, 41, Luxury Real Estate Broker",
+      "badge": "4,100 min clean",
+      "verdict": "ELITE AVOIDANCE",
+      "story": "The 8 levels of absurd cleaning procrastination. Level 6. Level six. 4,100 minutes spent polishing the brass doorknobs in my penthouse instead of closing the multi-million dollar sale. I am Victor, a wealthy lemon-man with polished yellow skin, wearing an Italian pinstripe suit and holding a microfiber cloth. My phone is ringing with buyers, but these hinges have microscopic smudges. You call yourself a top broker while your desk is buried in dust? Clean up this mess before my investors arrive! I stare in sheer disbelief, my gold cloth trembling as my forehead display drops by two thousand minutes. Why did my luxury timer crash so violently? Without warning, the penthouse smart-lock system malfunctions and locks all the exterior doors, trapping my wealthiest investors outside in the hallway. They assume I am incompetent and walk away from the multi-million dollar deal forever. My career as a top broker crumbles into dust in mere seconds. I am utterly ruined. You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "-2,000 min",
+        "after": "2,100 min"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of absurd cleaning procrastination. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level six. 4,100 minutes spent polishing the brass doorknobs in my penthouse instead of closing the multi-million dollar sale."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Victor, a wealthy lemon-man with polished yellow skin, wearing an Italian pinstripe suit and holding a microfiber cloth."
+        },
+        {
+          "s": "Figur",
+          "t": "My phone is ringing with buyers, but these hinges have microscopic smudges."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You call yourself a top broker while your desk is buried in dust?",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Clean up this mess before my investors arrive!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I stare in sheer disbelief, my gold cloth trembling as my forehead display drops by two thousand minutes."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Why did my luxury timer crash so violently?"
+        },
+        {
+          "s": "Figur",
+          "t": "Without warning, the penthouse smart-lock system malfunctions and locks all the exterior doors, trapping my wealthiest investors outside in the hallway."
+        },
+        {
+          "s": "Figur",
+          "t": "They assume I am incompetent and walk away from the multi-million dollar deal forever."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "My career as a top broker crumbles into dust in mere seconds."
+        },
+        {
+          "s": "Figur",
+          "t": "I am utterly ruined."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "Clean up this mess before my investors arrive!",
+      "quote_by": {
+        "level": 3,
+        "name": "Maya",
+        "badge": "890 min clean",
+        "character": "An avocado-woman with smooth green skin wearing rubber cleaning gloves and a pink apron.",
+        "scene": "Wide angle shot of a luxury penthouse doorway, avocado-woman pouring lavender wax onto an expensive Persian rug with a calm smile."
+      },
+      "stats": [
+        {
+          "label": "Cleaning Min",
+          "value": "2,100 min",
+          "bar": 0.7
+        },
+        {
+          "label": "Knobs Polished",
+          "value": "84 pcs",
+          "bar": 1.0
+        },
+        {
+          "label": "Deals Closed",
+          "value": "0",
+          "bar": 0.0
+        }
+      ],
+      "character": "Victor is a lemon-person with shiny polished yellow skin, wearing a sharp charcoal pinstripe suit, a silk tie, and holding a gold-threaded microfiber polishing cloth.",
+      "visual": "Medium close-up of a wealthy lemon-man wearing a tailored suit while meticulously polishing a brass doorknob in a luxury penthouse with a glowing forehead timer.",
+      "scenes": [
+        "Wide angle shot of a lavish penthouse living room with crystal chandeliers and floor-to-ceiling windows, featuring a tiny golden coin hidden inside a decorative glass vase.",
+        "Medium close-up of a yellow lemon-man wiping a brass doorknob with a silk microfiber cloth.",
+        "Detail shot of the digital forehead display glowing bright gold, reading 4,100 min clean.",
+        "Medium shot of a calm avocado-woman tipping a bottle of purple lavender oil onto a red Persian rug.",
+        "Close-up of a luxury smartphone ringing continuously on a mahogany desk covered in dust.",
+        "Wide angle shot of the private penthouse elevator lobby where a tiny golden coin rests on the marble floor."
+      ],
+      "caption": "When polishing doorknobs is more important than closing a million-dollar deal. #luxury #realestate #lemon #cleaning #relatable"
+    },
+    {
+      "n": 7,
+      "open_loop": "What was locked inside the vault beneath the floorboards of the grand mansion?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Spills isopropyl alcohol over her antique collection of imported dusting feathers."
+      },
+      "name": "Madame Pitaya, 45, Art Collector",
+      "badge": "7,800 min clean",
+      "verdict": "LEGENDARY AVOIDANCE",
+      "story": "The 8 levels of absurd cleaning procrastination. Level 7. Level seven. 7,800 minutes spent sanitizing every picture frame in the gallery with organic alcohol instead of opening the exhibition. I am Madame Pitaya, a pink and green dragonfruit-woman with spiky outer leaves, wearing a haute couture gown and holding a velvet feather duster. VIP guests are arriving in minutes, but the gilded frames lack absolute luster. Are you insane? Your entire art collection is locked in storage while collectors wait outside! Open this vault right now or I'm walking away! I freeze, my velvet duster dropping as my forehead display instantly crashes by four thousand minutes. Why did my elite timer collapse right at that second? Suddenly, the gallery fire sprinklers trigger above us, releasing a massive torrent of water that instantly ruins every single priceless painting on display. Millions of dollars in art history dissolve into colorful mush right before our eyes. The ultimate disaster has finally arrived. There is no escape from this. You'll see that in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "-4,000 min",
+        "after": "3,800 min"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of absurd cleaning procrastination. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level seven. 7,800 minutes spent sanitizing every picture frame in the gallery with organic alcohol instead of opening the exhibition."
+        },
+        {
+          "s": "Figur",
+          "t": "I am Madame Pitaya, a pink and green dragonfruit-woman with spiky outer leaves, wearing a haute couture gown and holding a velvet feather duster."
+        },
+        {
+          "s": "Figur",
+          "t": "VIP guests are arriving in minutes, but the gilded frames lack absolute luster."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Are you insane? Your entire art collection is locked in storage while collectors wait outside!",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Open this vault right now or I'm walking away!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I freeze, my velvet duster dropping as my forehead display instantly crashes by four thousand minutes."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Why did my elite timer collapse right at that second?"
+        },
+        {
+          "s": "Figur",
+          "t": "Suddenly, the gallery fire sprinklers trigger above us, releasing a massive torrent of water that instantly ruins every single priceless painting on display."
+        },
+        {
+          "s": "Figur",
+          "t": "Millions of dollars in art history dissolve into colorful mush right before our eyes."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The ultimate disaster has finally arrived."
+        },
+        {
+          "s": "Figur",
+          "t": "There is no escape from this."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "Open this vault right now or I'm walking away!",
+      "quote_by": {
+        "level": 4,
+        "name": "Leo",
+        "badge": "1,450 min clean",
+        "character": "A sharp yellow lemon-man wearing wire-rimmed glasses and holding an alcohol swab.",
+        "scene": "Medium shot in an art gallery, lemon-guy splashing cleaning liquid over ostrich feathers with an angry expression."
+      },
+      "stats": [
+        {
+          "label": "Cleaning Min",
+          "value": "3,800 min",
+          "bar": 0.85
+        },
+        {
+          "label": "Frames Polished",
+          "value": "240 pcs",
+          "bar": 1.0
+        },
+        {
+          "label": "Exhibition",
+          "value": "Delayed",
+          "bar": 0.0
+        }
+      ],
+      "character": "Madame Pitaya is a dragonfruit-person with vibrant pink skin, green spiky leaf-tips, wearing an elegant magenta evening gown, and holding a vintage black ostrich feather duster.",
+      "visual": "Wide angle shot of a grand art gallery hall with pink and green dragonfruit-woman dusting gilded frames under bright spotlights, showing massive glowing numbers on her forehead.",
+      "scenes": [
+        "Wide angle shot of an opulent art gallery with marble floors and velvet ropes, featuring a tiny golden coin hidden behind a modern sculpture pedestal.",
+        "Medium close-up of a dragonfruit-woman in a haute couture gown gently sweeping dust off a golden picture frame.",
+        "Detail shot of the digital forehead display glowing bright magenta, reading 7,800 min clean.",
+        "Medium shot of a lemon-guy in a tech vest pouring cleaning fluid onto a bundle of expensive black feathers.",
+        "Close-up of a heavy steel vault door with a glowing digital combination lock.",
+        "Wide angle shot of the gallery entrance plaza where a tiny golden coin rests on the edge of a marble fountain."
+      ],
+      "caption": "When cleaning picture frames is more important than your art exhibition. #artcollector #dragonfruit #cleaning #procrastination #luxury"
+    },
+    {
+      "n": 8,
+      "open_loop": "What happened when all eight produce citizens finally opened their front doors together?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Demands rent while filming their messy hallway chaos for social media."
+      },
+      "name": "The Master Cleaner, ???, Grand Archivist",
+      "badge": "MAX PROCRASTINATION",
+      "verdict": "THE ULTIMATE CLEAN",
+      "story": "The 8 levels of absurd cleaning procrastination. Level 8. Level eight. Infinite minutes spent cleaning the entire city sidewalk with a toothbrush while the universe collapses from unwashed dishes. I am the Master Cleaner, an ancient coconut-man with a hard brown shell, wearing a golden janitor jumpsuit and holding the ultimate sponge. All seven characters from previous levels stand in front of me, staring at my glowing forehead as the numbers merge into infinity. You cannot clean the whole world if your own life is still a mess! You cannot clean the whole world if your own life is still a mess! I smile slowly, gripping my golden sponge as the city clock strikes midnight and the entire street falls completely silent. Out of nowhere, the ground opens up beneath our feet, swallowing all our cleaning tools into a bottomless void of eternal procrastination. The fabric of time itself begins to unravel, leaving us floating in a surreal dimension of endless chores. We are trapped here forever. The final truth is revealed. What is the secret number hidden behind the final golden door? Which theme should we do next?",
+      "gender": "m",
+      "twist": {
+        "delta": "INF",
+        "after": "INFINITY"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of absurd cleaning procrastination. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level eight. Infinite minutes spent cleaning the entire city sidewalk with a toothbrush while the universe collapses from unwashed dishes."
+        },
+        {
+          "s": "Figur",
+          "t": "I am the Master Cleaner, an ancient coconut-man with a hard brown shell, wearing a golden janitor jumpsuit and holding the ultimate sponge."
+        },
+        {
+          "s": "Figur",
+          "t": "All seven characters from previous levels stand in front of me, staring at my glowing forehead as the numbers merge into infinity."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You cannot clean the whole world if your own life is still a mess!",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You cannot clean the whole world if your own life is still a mess!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I smile slowly, gripping my golden sponge as the city clock strikes midnight and the entire street falls completely silent."
+        },
+        {
+          "s": "Figur",
+          "t": "Out of nowhere, the ground opens up beneath our feet, swallowing all our cleaning tools into a bottomless void of eternal procrastination."
+        },
+        {
+          "s": "Figur",
+          "t": "The fabric of time itself begins to unravel, leaving us floating in a surreal dimension of endless chores."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "We are trapped here forever."
+        },
+        {
+          "s": "Figur",
+          "t": "The final truth is revealed."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What is the secret number hidden behind the final golden door? Which theme should we do next?"
+        }
+      ],
+      "quote": "You cannot clean the whole world if your own life is still a mess!",
+      "quote_by": {
+        "level": 5,
+        "name": "Peach Guy",
+        "badge": "1,200 $ electric",
+        "character": "A fuzzy peach-man wearing a designer workout vest and gold chain.",
+        "scene": "Wide angle street view at midnight, peach-guy pointing at the coconut-man's glowing forehead with a dramatic expression."
+      },
+      "stats": [
+        {
+          "label": "Cleaning Min",
+          "value": "INFINITY",
+          "bar": 1.0
+        },
+        {
+          "label": "World Clean",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Real Life",
+          "value": "Paused",
+          "bar": 0.0
+        }
+      ],
+      "character": "The Master Cleaner is a coconut-person with a tough fibrous brown shell head, wearing a shiny golden janitor jumpsuit, polarized sunglasses, and holding a glowing golden cleaning sponge.",
+      "visual": "Wide angle cinematic shot of an ancient coconut-man standing in the middle of Produce City plaza holding a glowing sponge, surrounded by all seven fruit characters under neon night lights.",
+      "scenes": [
+        "Wide angle night shot of Produce City central plaza glowing with neon signs, featuring a giant golden coin embedded right in the center of the pavement.",
+        "Medium close-up of a tough brown coconut-man wearing golden janitor overalls and sunglasses.",
+        "Detail shot of the digital forehead display showing swirling infinite neon symbols.",
+        "Medium group shot of all seven fruit and vegetable characters gathered together in the street, looking up in shock.",
+        "Close-up shot of a glowing golden cleaning sponge resting inside a velvet display box.",
+        "Wide angle shot of the entire Produce City skyline at midnight where a tiny golden coin shines brightly on top of the tallest skyscraper."
+      ],
+      "caption": "Level 8: The ultimate cleaning procrastination. Which topic should we do next? Tell me in the comments! #cleaning #coconut #procrastination #funny #final"
+    }
+  ],
+  "lang": "en",
+  "topic": "Das absurde Aufschieben wichtiger Aufgaben durch exzessives Putzen der Wohnung",
+  "frame": "frucht"
+}

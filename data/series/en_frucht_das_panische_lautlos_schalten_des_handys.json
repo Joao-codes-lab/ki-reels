@@ -1,0 +1,781 @@
+{
+  "title": "The 8 Levels of Silent Phone Panic",
+  "house": "A bustling neon-lit metropolis where anthropomorphic fruit and vegetable citizens navigate careers, rent prices, and parental expectations while glowing numbers on their foreheads dictate their social worth.",
+  "catchphrase": "The number on your forehead never rings.",
+  "links": [
+    "Level 3 Toby mentions a nervous pineapple barista who drops extra-hot espresso on customers.",
+    "Level 5 Maya spots a stressed avocado manager rushing into the subway with unread voicemails.",
+    "Level 8 the mysterious landlord collects the exact rent sums from all previous characters."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "What hidden emergency was my mother actually calling about while my screen flashed red?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Publicly insults poor Leo in the subway crowd and mocks his forehead number: '1,150 dollars? With so a bankruptcy number I would not even dare to answer my mother.'"
+      },
+      "name": "Leo, 22, Intern",
+      "badge": "1,150 $",
+      "verdict": "BROKE",
+      "story": "The 8 levels of silent phone panic. Level 1. 1,150 dollars? With so a bankruptcy number I would not even dare to answer my mother. Level 1: 1,150 dollars in my bank account and my phone starts vibrating like an angry hornet. I freeze right inside the packed Brooklyn subway car during morning rush hour. My mom's name pops up on the screen with five missed calls already staring at me. I slam my thumb onto the silent mode button so fast my green apple skin nearly scuffs. You cannot afford to ignore your family with a poverty badge like that. My heart hammers against my ribs while commuters stare at my pathetic glowing digits. I keep my head down and stare at the sticky subway floor in pure shame. You'll see that in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-50 $",
+        "after": "1,100 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of silent phone panic. Level 1."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "1,150 dollars? With so a bankruptcy number I would not even dare to answer my mother.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 1,150 dollars in my bank account and my phone starts vibrating like an angry hornet."
+        },
+        {
+          "s": "Figur",
+          "t": "I freeze right inside the packed Brooklyn subway car during morning rush hour."
+        },
+        {
+          "s": "Figur",
+          "t": "My mom's name pops up on the screen with five missed calls already staring at me."
+        },
+        {
+          "s": "Figur",
+          "t": "I slam my thumb onto the silent mode button so fast my green apple skin nearly scuffs."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You cannot afford to ignore your family with a poverty badge like that.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My heart hammers against my ribs while commuters stare at my pathetic glowing digits."
+        },
+        {
+          "s": "Figur",
+          "t": "I keep my head down and stare at the sticky subway floor in pure shame."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You cannot afford to ignore your family with a poverty badge like that.",
+      "quote_by": {
+        "level": 3,
+        "name": "Marcus",
+        "badge": "6,400 $",
+        "character": "A slick red dragonfruit man with gelled thorn hair, wearing an expensive tailored gray suit and a gold watch.",
+        "scene": "A crowded subway train with neon lights, pointing arrogantly at an apple man's glowing forehead."
+      },
+      "stats": [
+        {
+          "label": "Savings",
+          "value": "1,150 $",
+          "bar": 0.12
+        },
+        {
+          "label": "Rent Share",
+          "value": "900 $",
+          "bar": 0.85
+        },
+        {
+          "label": "Anxiety",
+          "value": "99 %",
+          "bar": 0.99
+        }
+      ],
+      "character": "Leo is a young green apple man with smooth chartreuse skin, messy leaf hair, wearing a worn oversized thrift-store hoodie, and a glowing digital forehead display.",
+      "visual": "Wide angle shot of a crowded New York subway car at 8 AM, a green apple man panicking over his glowing phone screen while a dragonfruit man glares at him.",
+      "scenes": [
+        "Subway Car Wide Shot: Morning rush hour, flickering fluorescent lights, dozens of fruit commuters holding onto rails, a hidden golden coin tucked behind an emergency brake lever.",
+        "Close-up Detail: A green apple thumb frantically tapping the volume down button while a bright digital forehead number glows 1,150 $.",
+        "Medium Shot: A sharp-dressed dragonfruit man leaning over, pointing a finger at the apple man with a condescending smirk.",
+        "Exterior Street Level: Rain-slicked Manhattan pavement reflecting yellow cabs, an open subway entrance with steam billowing out.",
+        "Kitchenette Detail: A cramped studio apartment counter with an unwashed coffee mug, a ringing smartphone vibrating on a wooden table.",
+        "Close-up Face: Sweat beading on shiny green apple skin, eyes wide with terror as the caller ID flashes 'Mom'."
+      ],
+      "caption": "Would you pick up or silence your phone when your mom calls during a tight month? #PhonePanic #FruitDrama #StirnZahl #Relatable #NewYorkLife #Level1"
+    },
+    {
+      "n": 2,
+      "open_loop": "What secret voicemail did the angry landlord leave right after the phone went dead?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Humiliates Mia instantly: 'You let your mother get pushed away while you throw a half-baked macchiato at me? No wonder with 2,400 dollars tip poverty.'"
+      },
+      "name": "Mia, 25, Barista",
+      "badge": "2,400 $",
+      "verdict": "BARELY",
+      "story": "The 8 levels of silent phone panic. Level 2. You let your mother get pushed away while you throw a half-baked macchiato at me? No wonder with 2,400 dollars tip poverty. Level 2: 2,400 dollars monthly tip jar income and my phone buzzes against the espresso machine. My mother's face flashes on the screen while steam hisses loudly from the milk wand. I swipe it to silent mode instantly so my boss doesn't dock my hourly wage. Answer your mother right now instead of ruining my macchiato order. My hands shake so badly I spill oat milk all over the stainless steel drip tray. She points at my forehead number and rolls her eyes at the cafe patrons watching us. I bite my lip to stop the hot tears stinging behind my eyelids right there. You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+300 $",
+        "after": "2,700 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of silent phone panic. Level 2."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You let your mother get pushed away while you throw a half-baked macchiato at me? No wonder with 2,400 dollars tip poverty.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 2,400 dollars monthly tip jar income and my phone buzzes against the espresso machine."
+        },
+        {
+          "s": "Figur",
+          "t": "My mother's face flashes on the screen while steam hisses loudly from the milk wand."
+        },
+        {
+          "s": "Figur",
+          "t": "I swipe it to silent mode instantly so my boss doesn't dock my hourly wage."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Answer your mother right now instead of ruining my macchiato order.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My hands shake so badly I spill oat milk all over the stainless steel drip tray."
+        },
+        {
+          "s": "Figur",
+          "t": "She points at my forehead number and rolls her eyes at the cafe patrons watching us."
+        },
+        {
+          "s": "Figur",
+          "t": "I bite my lip to stop the hot tears stinging behind my eyelids right there."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Answer your mother right now instead of ruining my macchiato order.",
+      "quote_by": {
+        "level": 4,
+        "name": "Clara",
+        "badge": "4,100 $",
+        "character": "A rigid purple plum woman with smooth velvety skin, wearing a structured vintage tweed coat and pearl earrings.",
+        "scene": "A trendy Brooklyn coffee shop counter, glaring down at a barista while tapping her phone impatiently."
+      },
+      "stats": [
+        {
+          "label": "Income",
+          "value": "2,400 $",
+          "bar": 0.28
+        },
+        {
+          "label": "Tips",
+          "value": "400 $",
+          "bar": 0.2
+        },
+        {
+          "label": "Stress",
+          "value": "88 %",
+          "bar": 0.88
+        }
+      ],
+      "character": "Mia is an orange citrus woman with textured bumpy peel skin, bright ginger hair tied in a messy bun, wearing a stained canvas apron, and a glowing digital forehead display.",
+      "visual": "Medium shot of a trendy coffee shop counter where an orange woman panics as her phone buzzes next to a professional espresso machine.",
+      "scenes": [
+        "Cafe Interior Wide Shot: Sunlit hipster coffee shop with hanging ferns, wooden stools, a golden coin hidden inside a ceramic sugar jar on the counter.",
+        "Close-up Hand: An orange citrus hand frantically swiping a ringing phone to silent mode while white milk foam overflows.",
+        "Medium Shot: A severe purple plum customer in tweed crossing her arms and pointing angrily at the barista's forehead display.",
+        "Street Corner View: Outside the cafe window, yellow autumn leaves swirling past parked bicycles and busy pedestrians.",
+        "Backroom Detail: A narrow employee locker room with a half-eaten bagel on a paper plate and a glowing locker light.",
+        "Close-up Face: Ornate citrus skin glistening with nervous sweat, wide eyes staring fixedly at the ringing mobile screen."
+      ],
+      "caption": "Have you ever silenced a parental call just to survive your shift? #BaristaLife #PhoneAnxiety #StirnZahl #CoffeeShop #WorkingHard #Level2"
+    },
+    {
+      "n": 3,
+      "open_loop": "Whose private number was waiting on my second phone when I finally locked the office door?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Shames Marcus mercilessly: 'Six grand salary and trembling like a schoolboy before dad? The shareholders are laughing at your fear.'"
+      },
+      "name": "Marcus, 31, Accountant",
+      "badge": "6,400 $",
+      "verdict": "MID-TIER",
+      "story": "The 8 levels of silent phone panic. Level 3. Six grand salary and trembling like a schoolboy before dad? The shareholders are laughing at your fear. Level 3: 6,400 dollars a month in corporate salary and my desk phone starts blaring right during the tax audit meeting. My father's name lights up the caller ID with a red warning badge. I hit the mute button so fast my tailored cufflink snaps against the mahogany table. You look terrified of your parents for someone making six grand. The auditors stare at my forehead numbers like I am a walking spreadsheet error. I adjust my collar to hide the sweat pooling beneath my dragonfruit skin tone. They think I have it all figured out, but my family demands perfection every single hour. You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+500 $",
+        "after": "6,900 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of silent phone panic. Level 3."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Six grand salary and trembling like a schoolboy before dad? The shareholders are laughing at your fear.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 6,400 dollars a month in corporate salary and my desk phone starts blaring right during the tax audit meeting."
+        },
+        {
+          "s": "Figur",
+          "t": "My father's name lights up the caller ID with a red warning badge."
+        },
+        {
+          "s": "Figur",
+          "t": "I hit the mute button so fast my tailored cufflink snaps against the mahogany table."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You look terrified of your parents for someone making six grand.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "The auditors stare at my forehead numbers like I am a walking spreadsheet error."
+        },
+        {
+          "s": "Figur",
+          "t": "I adjust my collar to hide the sweat pooling beneath my dragonfruit skin tone."
+        },
+        {
+          "s": "Figur",
+          "t": "They think I have it all figured out, but my family demands perfection every single hour."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "You look terrified of your parents for someone making six grand.",
+      "quote_by": {
+        "level": 5,
+        "name": "Elena",
+        "badge": "12,500 $",
+        "character": "A sleek avocado woman with smooth green skin and a dark pit-shaped brooch, wearing an emerald silk blouse.",
+        "scene": "A high-rise glass boardroom overlooking Manhattan, smirking across a mahogany table during an audit."
+      },
+      "stats": [
+        {
+          "label": "Salary",
+          "value": "6,400 $",
+          "bar": 0.52
+        },
+        {
+          "label": "Bonus",
+          "value": "1,200 $",
+          "bar": 0.4
+        },
+        {
+          "label": "Pressure",
+          "value": "94 %",
+          "bar": 0.94
+        }
+      ],
+      "character": "Marcus is a vibrant red dragonfruit man with green-tipped leathery skin spikes, wearing a dark charcoal tailored business suit, and a glowing digital forehead display.",
+      "visual": "Medium shot of a sleek glass-walled corporate boardroom where a dragonfruit man silences his desk phone while an avocado woman smirks at him.",
+      "scenes": [
+        "Boardroom Wide Shot: Modern high-rise office with floor-to-ceiling windows showing the Manhattan skyline, a golden coin taped under a leather chair arm.",
+        "Close-up Hand: A tailored dragonfruit cuff pressing the mute button on a sleek office VoIP phone.",
+        "Medium Shot: An avocado woman in an emerald silk blouse leaning back and laughing silently at the accountant's expense.",
+        "Elevator Lobby: Polished marble floors reflecting ceiling lights, chrome elevator doors sliding shut slowly.",
+        "Briefcase Detail: Inside an open leather briefcase, a ringing secondary phone vibrating against tax return folders.",
+        "Close-up Face: Dragonfruit skin flushing crimson with embarrassment under bright recessed LED lighting."
+      ],
+      "caption": "Even with a solid corporate paycheck, parental pressure gets to everyone. #CorporateLife #OfficeDrama #StirnZahl #Accountant #TaxSeason #Level3"
+    },
+    {
+      "n": 4,
+      "open_loop": "What emergency inheritance clause was hidden inside the legal document my mother was screaming about?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Strikes hard at Clara: 'With almost ten thousand dollars honorarium still a trauma from your parents' house? You are embarrassing for this floor.'"
+      },
+      "name": "Clara, 38, Architect",
+      "badge": "9,800 $",
+      "verdict": "UPPER MID",
+      "story": "The 8 levels of silent phone panic. Level 4. With almost ten thousand dollars honorarium still a trauma from your parents' house? You are embarrassing for this floor. Level 4: 9,800 dollars net consulting fee per month and my cell phone starts howling like a siren during a design pitch. My mother's emergency number flashes across the screen in bold crimson letters. I slam the phone face down onto the architectural blueprint table so fast my ink pen shatters. You are too old to be shaking over a family call when your number is nearly ten grand. The junior draftsmen stare at my forehead display, whispering among themselves about my sudden panic. My pristine velvet coat feels like a straitjacket under their judging gazes. I built this firm from scratch, yet one ring from home reduces me to a terrified child. You'll see that in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "-1,200 $",
+        "after": "8,600 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of silent phone panic. Level 4."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "With almost ten thousand dollars honorarium still a trauma from your parents' house? You are embarrassing for this floor.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 9,800 dollars net consulting fee per month and my cell phone starts howling like a siren during a design pitch."
+        },
+        {
+          "s": "Figur",
+          "t": "My mother's emergency number flashes across the screen in bold crimson letters."
+        },
+        {
+          "s": "Figur",
+          "t": "I slam the phone face down onto the architectural blueprint table so fast my ink pen shatters."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are too old to be shaking over a family call when your number is nearly ten grand.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "The junior draftsmen stare at my forehead display, whispering among themselves about my sudden panic."
+        },
+        {
+          "s": "Figur",
+          "t": "My pristine velvet coat feels like a straitjacket under their judging gazes."
+        },
+        {
+          "s": "Figur",
+          "t": "I built this firm from scratch, yet one ring from home reduces me to a terrified child."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "You are too old to be shaking over a family call when your number is nearly ten grand.",
+      "quote_by": {
+        "level": 6,
+        "name": "Arthur",
+        "badge": "18,200 $",
+        "character": "A rugged brown coconut man with a hard fibrous shell cap, wearing a tweed vest and a pocket watch.",
+        "scene": "An industrial architectural studio with blueprint rolls, pointing a ruler at a panicking designer."
+      },
+      "stats": [
+        {
+          "label": "Fees",
+          "value": "9,800 $",
+          "bar": 0.7
+        },
+        {
+          "label": "Contracts",
+          "value": "14",
+          "bar": 0.65
+        },
+        {
+          "label": "Panic",
+          "value": "85 %",
+          "bar": 0.85
+        }
+      ],
+      "character": "Clara is a smooth purple plum woman with deep violet velvety skin, wearing an elegant structured emerald blazer, and a glowing digital forehead display.",
+      "visual": "Medium shot of an architectural studio table covered in blueprints where a plum woman frantically silences her ringing phone.",
+      "scenes": [
+        "Studio Wide Shot: Bright loft studio with drafting tables, scale models of skyscrapers, a golden coin hidden inside a plaster model of a church.",
+        "Close-up Hand: A purple plum hand slapping a vibrating smartphone face-down onto rolled blue architectural blueprints.",
+        "Medium Shot: A rugged coconut man in a tweed vest crossing his arms and smirking at the architect's visible distress.",
+        "Window View: Looking down from a third-story Soho loft onto a rain-slicked cobblestone street with passing yellow cabs.",
+        "Model Detail: A tiny cardboard staircase with a ringing mini-phone prop resting on the landing.",
+        "Close-up Face: Deep purple plum skin tightening around the jawline as the phone buzzes through its silenced case."
+      ],
+      "caption": "Success doesn't stop your parents from giving you a heart attack via phone call. #ArchitectLife #DesignStudio #StirnZahl #Anxiety #Level4"
+    },
+    {
+      "n": 5,
+      "open_loop": "What secret offshore bank transfer was triggering my father's endless midnight phone calls?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Tears Elena apart in front of investors: 'You pull millions and crouch here like an intern. Call your family when you are outside.'"
+      },
+      "name": "Elena, 29, Tech Founder",
+      "badge": "14,500 $",
+      "verdict": "WELL OFF",
+      "story": "The 8 levels of silent phone panic. Level 5. You pull millions and crouch here like an intern. Call your family when you are outside. Level 5: 14,500 dollars monthly startup revenue and my private line rings right during our Series A investor pitch. My father's stern face pops up with an ominous flashing red border. I silence the ringer with a swipe that almost cracks my iPad screen in half. You can command a fourteen grand badge, yet you cower like a teenager when Dad calls. The venture capitalists exchange amused glances, questioning my leadership stability over a phone vibration. My avocado skin flushes a deep distressed green under the recessed spotlights. I have raised millions, but my family still treats me like an unpaid intern. You'll see that in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+3,000 $",
+        "after": "17,500 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of silent phone panic. Level 5."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You pull millions and crouch here like an intern. Call your family when you are outside.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 14,500 dollars monthly startup revenue and my private line rings right during our Series A investor pitch."
+        },
+        {
+          "s": "Figur",
+          "t": "My father's stern face pops up with an ominous flashing red border."
+        },
+        {
+          "s": "Figur",
+          "t": "I silence the ringer with a swipe that almost cracks my iPad screen in half."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You can command a fourteen grand badge, yet you cower like a teenager when Dad calls.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "The venture capitalists exchange amused glances, questioning my leadership stability over a phone vibration."
+        },
+        {
+          "s": "Figur",
+          "t": "My avocado skin flushes a deep distressed green under the recessed spotlights."
+        },
+        {
+          "s": "Figur",
+          "t": "I have raised millions, but my family still treats me like an unpaid intern."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "You can command a fourteen grand badge, yet you cower like a teenager when Dad calls.",
+      "quote_by": {
+        "level": 7,
+        "name": "Julian",
+        "badge": "29,000 $",
+        "character": "A sleek yellow banana man with a curved stem quiff, wearing a spotless white linen suit and Italian loafers.",
+        "scene": "A luxury penthouse boardroom in Silicon Alley, leaning back in a leather chair with an amused smirk."
+      },
+      "stats": [
+        {
+          "label": "Revenue",
+          "value": "14,500 $",
+          "bar": 0.78
+        },
+        {
+          "label": "Funding",
+          "value": "2.1M $",
+          "bar": 0.85
+        },
+        {
+          "label": "Stress",
+          "value": "91 %",
+          "bar": 0.91
+        }
+      ],
+      "character": "Elena is a smooth dark-green avocado woman with a creamy oval face, wearing an emerald silk blouse, and a glowing digital forehead display.",
+      "visual": "Medium shot of a sleek glass-walled startup incubator room where an avocado woman silences her iPad while a banana man smirks across the table.",
+      "scenes": [
+        "Incubator Wide Shot: Modern tech workspace with whiteboards, beanbag chairs, a golden coin hidden inside the base of a glowing neon company logo.",
+        "Close-up Hand: An avocado woman's manicured finger swiping ruthlessly to silence an iPad notification during a pitch meeting.",
+        "Medium Shot: A sharp banana man in a white linen suit laughing softly while adjusting his gold-rimmed glasses.",
+        "Rooftop Terrace: View of tech campus gardens with glass walkways and stainless steel sculpture installations.",
+        "Server Room Detail: Blue flashing LED lights on server racks, a forgotten smartphone vibrating loudly on a metal cable tray.",
+        "Close-up Face: Smooth green avocado skin tight with tension, teeth clenched as the phone continues its silent war in her pocket."
+      ],
+      "caption": "Raising millions won't stop your parents from calling at the worst possible moment. #StartupLife #TechFounder #StirnZahl #VentureCapital #Level5"
+    },
+    {
+      "n": 6,
+      "open_loop": "What hidden family bankruptcy audit was my father desperate to keep out of the news?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Demolishes Arthur completely: 'Twenty-two thousand rent and whining like a tenant before eviction? Pitiful.'"
+      },
+      "name": "Arthur, 45, Real Estate Mogul",
+      "badge": "22,000 $",
+      "verdict": "WEALTHY",
+      "story": "The 8 levels of silent phone panic. Level 6. Twenty-two thousand rent and whining like a tenant before eviction? Pitiful. Level 6: 22,000 dollars monthly rental yield and my encrypted satellite phone starts vibrating like an earthquake. My elderly father's private number flashes across the glass with a terrifying triple-zero warning. I hit the emergency kill switch so fast my tweed sleeve rips at the elbow. You command twenty-two grand in real estate yet you tremble like a bankrupt tenant when your father calls. The elite investors around us turn their heads, sneering at my momentary lapse in composure. My rough coconut shell skin breaks out in cold sweat beneath the crystal chandeliers. I own half of Manhattan, but my family's shadow still controls every breath I take. You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "-4,000 $",
+        "after": "18,000 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of silent phone panic. Level 6."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Twenty-two thousand rent and whining like a tenant before eviction? Pitiful.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 22,000 dollars monthly rental yield and my encrypted satellite phone starts vibrating like an earthquake."
+        },
+        {
+          "s": "Figur",
+          "t": "My elderly father's private number flashes across the glass with a terrifying triple-zero warning."
+        },
+        {
+          "s": "Figur",
+          "t": "I hit the emergency kill switch so fast my tweed sleeve rips at the elbow."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You command twenty-two grand in real estate yet you tremble like a bankrupt tenant when your father calls.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "The elite investors around us turn their heads, sneering at my momentary lapse in composure."
+        },
+        {
+          "s": "Figur",
+          "t": "My rough coconut shell skin breaks out in cold sweat beneath the crystal chandeliers."
+        },
+        {
+          "s": "Figur",
+          "t": "I own half of Manhattan, but my family's shadow still controls every breath I take."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "You command twenty-two grand in real estate yet you tremble like a bankrupt tenant when your father calls.",
+      "quote_by": {
+        "level": 8,
+        "name": "Victoria",
+        "badge": "50,000+ $",
+        "character": "A majestic dragonfruit woman with vivid pink skin and emerald green leaf wings, wearing a platinum-threaded evening gown and diamond choker.",
+        "scene": "A luxury penthouse rooftop bar overlooking the glittering Manhattan skyline at midnight, holding a champagne flute."
+      },
+      "stats": [
+        {
+          "label": "Yield",
+          "value": "22,000 $",
+          "bar": 0.88
+        },
+        {
+          "label": "Properties",
+          "value": "31",
+          "bar": 0.82
+        },
+        {
+          "label": "Anxiety",
+          "value": "89 %",
+          "bar": 0.89
+        }
+      ],
+      "character": "Arthur is a rugged brown coconut man with a hard fibrous shell, wearing a vintage tweed vest with brass buttons, and a glowing digital forehead display.",
+      "visual": "Medium shot of a luxurious penthouse bar with crystal chandeliers where a coconut man panics over his vibrating satellite phone.",
+      "scenes": [
+        "Penthouse Bar Wide Shot: High-end rooftop lounge with glittering city views through panoramic glass, a golden coin hidden inside the stem of a crystal champagne flute.",
+        "Close-up Hand: A rough fibrous coconut hand pressing an emergency mute button on a heavy titanium satellite phone.",
+        "Medium Shot: A dragonfruit woman in a diamond gown turning her head with a scornful sneer at the real estate mogul.",
+        "Balcony View: Looking out over illuminated skyscrapers and the East River bridge twinkling in the midnight fog.",
+        "Desk Detail: A mahogany humidor with a ringing secure line flashing red digits in the dark.",
+        "Close-up Face: Fibrous coconut shell skin tightening as sweat beads on his forehead above the glowing 22,000 $ display."
+      ],
+      "caption": "Even real estate tycoons panic when the family calls at midnight. #RealEstateMogul #PenthouseLife #StirnZahl #Wealth #Level6"
+    },
+    {
+      "n": 7,
+      "open_loop": "What bombshell revelation about our family trust was waiting in the final voicemail?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Undermines Julian completely in the background while Julian shows absolute arrogance, making his inevitable downfall in level 8 completely clear."
+      },
+      "name": "Julian, 34, Hedge Fund Partner",
+      "badge": "29,000 $",
+      "verdict": "ELITE",
+      "story": "The 8 levels of silent phone panic. Level 7. Level 7: 29,000 dollars monthly dividend payout and my private line rings with a red alert code during our partner gala. My father's name lights up my custom smartphone screen like a five-alarm fire. I silence the ringer with one thumb movement so smooth nobody notices my hand shaking. You hold a twenty-nine grand badge and yet you still flinch like a frightened child at your father's ring. The room full of billionaires turns their gaze toward my glowing forehead display with cool amusement. My pristine white linen suit feels suddenly suffocating beneath the glaring spotlights. I manage billions in assets, but my family can still reduce me to zero with a single ring. You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+15,000 $",
+        "after": "44,000 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of silent phone panic. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 29,000 dollars monthly dividend payout and my private line rings with a red alert code during our partner gala."
+        },
+        {
+          "s": "Figur",
+          "t": "My father's name lights up my custom smartphone screen like a five-alarm fire."
+        },
+        {
+          "s": "Figur",
+          "t": "I silence the ringer with one thumb movement so smooth nobody notices my hand shaking."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You hold a twenty-nine grand badge and yet you still flinch like a frightened child at your father's ring.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "The room full of billionaires turns their gaze toward my glowing forehead display with cool amusement."
+        },
+        {
+          "s": "Figur",
+          "t": "My pristine white linen suit feels suddenly suffocating beneath the glaring spotlights."
+        },
+        {
+          "s": "Figur",
+          "t": "I manage billions in assets, but my family can still reduce me to zero with a single ring."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "You hold a twenty-nine grand badge and yet you still flinch like a frightened child at your father's ring.",
+      "quote_by": {
+        "level": 8,
+        "name": "Victoria",
+        "badge": "50,000+ $",
+        "character": "A majestic dragonfruit woman with vivid pink skin and emerald green leaf wings, wearing a platinum-threaded evening gown and diamond choker.",
+        "scene": "A luxury penthouse rooftop bar overlooking the glittering Manhattan skyline at midnight, holding a champagne flute."
+      },
+      "stats": [
+        {
+          "label": "Payout",
+          "value": "29,000 $",
+          "bar": 0.94
+        },
+        {
+          "label": "Assets",
+          "value": "45M $",
+          "bar": 0.92
+        },
+        {
+          "label": "Control",
+          "value": "95 %",
+          "bar": 0.95
+        }
+      ],
+      "character": "Julian is a sleek yellow banana man with a curved stem quiff, wearing a spotless white linen suit, and a glowing digital forehead display.",
+      "visual": "Medium shot of a lavish rooftop gala where a banana man silences his custom smartphone while a dragonfruit woman smirks knowingly.",
+      "scenes": [
+        "Gala Wide Shot: Extravagant rooftop party with ice sculptures, string quartet, a golden coin hidden inside the base of a glowing ice pillar.",
+        "Close-up Hand: A banana man's manicured finger pressing the silent button on a diamond-encrusted smartphone.",
+        "Medium Shot: A majestic dragonfruit woman in a platinum gown raising her champagne glass with a triumphant smile.",
+        "City View: Panoramic view of Manhattan skyscrapers glowing in the dark night air.",
+        "Phone Screen Detail: An incoming call from 'Family Trust' flashing red against a black OLED background.",
+        "Close-up Face: Yellow banana skin unblemished but eyes betraying absolute panic as the phone vibrates against his palm."
+      ],
+      "caption": "No matter how much you make, family calls always test your nerves. #HedgeFund #WallStreet #StirnZahl #Elite #Level7"
+    },
+    {
+      "n": 8,
+      "open_loop": "What secret truth about the Stirn-Zahl was revealed when every phone in the city rang at once?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Confronts Victoria in the penthouse and delivers the ultimate payback: 'You have the empire, but you are just as scared as all of us.'"
+      },
+      "name": "Victoria, 50, Empire Founder",
+      "badge": "50,000+ $",
+      "verdict": "UNLIMITED",
+      "story": "The 8 levels of silent phone panic. Level 8. Level 8: 50,000 plus dollars daily empire revenue and every single phone in the penthouse starts ringing simultaneously. The entire room falls dead silent as hundreds of screens flash with my own childhood phone number. I look down at my glowing infinity badge and realize the number on our foreheads was never about money. You have the empire, but you are just as scared as all of us. The universal panic that binds every fruit and vegetable citizen connects us all in the end. I take a deep breath, touch my glowing display, and finally press accept on the call that started it all. The number on your forehead never rings, but the truth finally speaks. Which series should we explore next?",
+      "gender": "w",
+      "twist": {
+        "delta": "∞",
+        "after": "∞"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of silent phone panic. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 50,000 plus dollars daily empire revenue and every single phone in the penthouse starts ringing simultaneously."
+        },
+        {
+          "s": "Figur",
+          "t": "The entire room falls dead silent as hundreds of screens flash with my own childhood phone number."
+        },
+        {
+          "s": "Figur",
+          "t": "I look down at my glowing infinity badge and realize the number on our foreheads was never about money."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You have the empire, but you are just as scared as all of us.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "The universal panic that binds every fruit and vegetable citizen connects us all in the end."
+        },
+        {
+          "s": "Figur",
+          "t": "I take a deep breath, touch my glowing display, and finally press accept on the call that started it all."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The number on your forehead never rings, but the truth finally speaks."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Which series should we explore next?"
+        }
+      ],
+      "quote": "You have the empire, but you are just as scared as all of us.",
+      "quote_by": {
+        "level": 1,
+        "name": "Leo",
+        "badge": "1,150 $",
+        "character": "A young green apple man with smooth chartreuse skin and messy leaf hair, wearing an oversized thrift-store hoodie.",
+        "scene": "A luxury penthouse doorway holding a ringing phone while looking up at the empire founder."
+      },
+      "stats": [
+        {
+          "label": "Revenue",
+          "value": "50K+ $",
+          "bar": 1.0
+        },
+        {
+          "label": "Empire",
+          "value": "Global",
+          "bar": 1.0
+        },
+        {
+          "label": "Truth",
+          "value": "100 %",
+          "bar": 1.0
+        }
+      ],
+      "character": "Victoria is a majestic dragonfruit woman with vivid pink skin and emerald green leaf wings, wearing a platinum-threaded evening gown, and a glowing digital forehead display.",
+      "visual": "Wide angle shot of a luxury penthouse overlooking Manhattan at sunrise, where a dragonfruit woman looks at hundreds of ringing phones while an apple intern watches.",
+      "scenes": [
+        "Penthouse Wide Shot: Massive glass-walled penthouse at dawn with golden sunlight flooding the room, a golden coin resting on the edge of a grand piano.",
+        "Close-up Phone: Hundreds of smartphones laid out on a marble table all flashing the same incoming call simultaneously.",
+        "Medium Shot: A dragonfruit empire founder turning around to face a young green apple intern standing in the doorway.",
+        "City Skyline View: All of Manhattan visible through glass windows, tiny lights blinking across the entire fruit metropolis.",
+        "Forehead Display Detail: A glowing infinity symbol shining brightly on the dragonfruit woman's forehead.",
+        "Final Close-up: A finger pressing the accept button on a ringing phone as the screen illuminates her face with a smile."
+      ],
+      "caption": "The final level changes everything you thought you knew about the Stirn-Zahl. Which series should we do next? #StirnZahl #Finale #PhonePanic #FruitDrama #Level8"
+    }
+  ],
+  "lang": "en",
+  "topic": "Das panische Lautlos-Schalten des Handys bei einem unerwarteten Anruf der Eltern",
+  "frame": "frucht"
+}

@@ -1,0 +1,798 @@
+{
+  "title": "Die 8 Level von Homeoffice-Fakes",
+  "house": "A bustling metropolis named Fruchtstadt, where sleek glass corporate skyscrapers clash with cozy altbau apartments, neon late-night kiosks, and commuter trains filled with living fruit and vegetable citizens.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Kevin (Level 1) kauft Energy-Drinks im Späti, wo David (Level 7) nachts auf einem Barhocker sitzt.",
+    "Sarah (Level 2) und Timo (Level 4) teilen sich denselben Coworking-Drucker im Hipster-Viertel.",
+    "Elena (Level 3) bestellte ihr analoges Uhr-Gadget aus dem Onlineshop von Viktor (Level 8).",
+    "Marc (Level 5) überwacht als Teamleiter versehentlich das falsche Skript von Laura (Level 6).",
+    "David (Level 7) trinkt seinen Filterkaffee im selben Café, in dem Kevin (Level 1) panisch WLAN schnorrt."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Welche geheime Software-Meldung taucht plötzlich auf Kevins Bildschirm auf, die sein ganzes Leben ruinieren könnte?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Sarah demütigt Kevin im Team-Chat öffentlich als faulen Versager und meldet seine Abwesenheit."
+      },
+      "name": "Kevin, 22, Trainee",
+      "badge": "12 % Aktivität",
+      "verdict": "ERWISCHT",
+      "story": "Die 8 Level von Homeoffice-Fakes. Level 1. Zwölf Prozent Aktivität auf der Stirn, aber pünktlich zweitausend Euro kassieren. Ich sitze in meiner chaotischen Berliner WG-Küche. Die Kaffeetasse steht direkt auf der Leertaste meines Firmenlaptops. Deine Zahl lügt nie, Kevin. Du machst gar nichts. Ich schwitze. Sie tippt weiter: Für solche Faulpelze zahlen wir keine Gehälter. Vor allen Kollegen demütigt sie meine erbärmliche Stirn-Zahl. Mein Magen krampft. Mein System rechnet gerade Daten! Doch genau in dieser Sekunde vibriert mein Bildschirm rot. Mein Teamleiter hat eine automatische Warnung geschickt. Eine Abmahnung droht sofort. Sarah lacht im Chatroom schadenfroh auf. Kennst du diese Panik, wenn der Status plötzlich gelb wird? Wo stehst du im Homeoffice? Ich starre panisch auf die blinkende Fehlermeldung, die plötzlich mein gesamtes Postfach sperrt. Sie enthält einen einzigen Satz, der mein Berufsleben komplett beenden könnte ... Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-4 %",
+        "after": "8 %"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Homeoffice-Fakes. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Zwölf Prozent Aktivität auf der Stirn, aber pünktlich zweitausend Euro kassieren."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze in meiner chaotischen Berliner WG-Küche. Die Kaffeetasse steht direkt auf der Leertaste meines Firmenlaptops."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Deine Zahl lügt nie, Kevin. Du machst gar nichts.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schwitze. Sie tippt weiter:"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Für solche Faulpelze zahlen wir keine Gehälter.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Vor allen Kollegen demütigt sie meine erbärmliche Stirn-Zahl. Mein Magen krampft."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein System rechnet gerade Daten!"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch genau in dieser Sekunde vibriert mein Bildschirm rot. Mein Teamleiter hat eine automatische Warnung geschickt. Eine Abmahnung droht sofort."
+        },
+        {
+          "s": "Figur",
+          "t": "Sarah lacht im Chatroom schadenfroh auf. Kennst du diese Panik, wenn der Status plötzlich gelb wird? Wo stehst du im Homeoffice?"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich starre panisch auf die blinkende Fehlermeldung, die plötzlich mein gesamtes Postfach sperrt. Sie enthält einen einzigen Satz, der mein Berufsleben komplett beenden könnte ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Deine Zahl lügt nie, Kevin. Du machst gar nichts.",
+      "quote_by": {
+        "level": 2,
+        "name": "Sarah",
+        "badge": "94 %",
+        "character": "Slender carrot-woman in an immaculate navy-blue tailored blazer, sharp gold glasses, holding an expensive tablet, glowing digital 94% on forehead.",
+        "scene": "A modern glass meeting room, Sarah pointing disdainfully at a presentation screen while looking down at Kevin."
+      },
+      "stats": [
+        {
+          "label": "Fake-Rate",
+          "value": "12 %",
+          "bar": 0.12
+        },
+        {
+          "label": "Gehalt",
+          "value": "1.950 €",
+          "bar": 0.2
+        },
+        {
+          "label": "Puls",
+          "value": "145 bpm",
+          "bar": 0.75
+        }
+      ],
+      "character": "Young green pear man, rumpled grey hoodie, disheveled stem hair, tired dark circles under eyes, glowing digital 12% on forehead.",
+      "visual": "Chaotic shared apartment kitchen, dirty mugs, a green pear young man panicking in front of an open laptop with a red warning alert, a glowing digital 12% on his forehead. A tiny gold coin rests on the kitchen toaster.",
+      "scenes": [
+        "Messy apartment kitchen, medium shot, pear-faced young man desperately placing a heavy mug on the keyboard while sweat drops form on his forehead, glowing forehead display, tiny gold coin beside the coffee machine.",
+        "Split laptop screen perspective, close-up, angry video conference call showing carrot woman Sarah smirking cruelly with 94% on her forehead, tiny gold coin on the webcam clip.",
+        "Dull morning light in hallway, wide shot, neighbor passing by looking through open door with disgust at Kevin's low forehead rating, tiny gold coin embedded in the hallway coat rack.",
+        "Kitchen table detail, extreme close-up of keyboard spacebar compressed under a chipped ceramic cup, red LED reflection glowing on table surface, tiny gold coin on the table grain.",
+        "Dimly lit apartment living room, wide shot, Kevin pacing anxiously while gripping his temples, flashing red system error casting eerie shadows, tiny gold coin resting on the window sill.",
+        "Street corner kiosk at night outside the apartment building, medium shot, Kevin buying cheap energy drink under flickering neon light, tiny gold coin next to cash register."
+      ],
+      "caption": "Wenn die Kaffeetasse auf der Tastatur versagt. Bist du im Homeoffice ehrlich oder trickst du? #homeoffice #arbeitswelt #fails #drama #stirnzahl"
+    },
+    {
+      "n": 2,
+      "open_loop": "Welches kompromittierende Foto von Sarahs Schreibtisch hält Elena plötzlich triumphierend in der Hand?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Elena entlarvt Sarahs angebliche Fleißarbeit vor versammelter Mannschaft als billigen Trick."
+      },
+      "name": "Sarah, 29, Junior Managerin",
+      "badge": "94 % Aktivität",
+      "verdict": "SCHEINHEILIG",
+      "story": "Die 8 Level von Homeoffice-Fakes. Level 2. Vierundneunzig Prozent Aktivität auf meiner Stirn, doch ich liege entspannt auf dem Sofa. Kevin dachte wirklich, ich arbeite hart. Mein Geheimnis ist simpel: Ein kleiner YouTube-Zehn-Stunden-Mausbeweger-Loop im Vollbildmodus. Dreitausendvierhundert Euro Gehalt laufen einfach weiter. Doch plötzlich klopft es hart an meiner Altbautür. Elena, die giftige Zitrone mit ihren exakten 78 Prozent, steht unangemeldet im Flur. Sie riecht den Braten sofort. Du betrügst uns alle mit billigen Tricks, Sarah. Mein Atem stockt. Sie drängt sich an mir vorbei ins Arbeitszimmer. Geh sofort raus, das ist Privatsphäre! Doch Elena bleibt am Schreibtisch stehen und zückt ihr Smartphone. Ein lauter Ton erklingt, und die Firmenüberwachung registriert meinen plötzlichen Stillstand. Elena grinst eiskalt. Schämst du dich auch manchmal für deinen Fake-Fleiß? Wo stehst du? Dann dreht Elena ihr Handy langsam um und zeigt mir ein Foto, das mich sofort erpressbar macht ... Das siehst du in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "-24 %",
+        "after": "70 %"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Homeoffice-Fakes. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Vierundneunzig Prozent Aktivität auf meiner Stirn, doch ich liege entspannt auf dem Sofa."
+        },
+        {
+          "s": "Figur",
+          "t": "Kevin dachte wirklich, ich arbeite hart. Mein Geheimnis ist simpel: Ein kleiner YouTube-Zehn-Stunden-Mausbeweger-Loop im Vollbildmodus. Dreitausendvierhundert Euro Gehalt laufen einfach weiter."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch plötzlich klopft es hart an meiner Altbautür. Elena, die giftige Zitrone mit ihren exakten 78 Prozent, steht unangemeldet im Flur. Sie riecht den Braten sofort."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du betrügst uns alle mit billigen Tricks, Sarah.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Atem stockt. Sie drängt sich an mir vorbei ins Arbeitszimmer."
+        },
+        {
+          "s": "Figur",
+          "t": "Geh sofort raus, das ist Privatsphäre!"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch Elena bleibt am Schreibtisch stehen und zückt ihr Smartphone. Ein lauter Ton erklingt, und die Firmenüberwachung registriert meinen plötzlichen Stillstand."
+        },
+        {
+          "s": "Figur",
+          "t": "Elena grinst eiskalt. Schämst du dich auch manchmal für deinen Fake-Fleiß? Wo stehst du?"
+        },
+        {
+          "s": "Figur",
+          "t": "Dann dreht Elena ihr Handy langsam um und zeigt mir ein Foto, das mich sofort erpressbar macht ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Du betrügst uns alle mit billigen Tricks, Sarah.",
+      "quote_by": {
+        "level": 3,
+        "name": "Elena",
+        "badge": "78 %",
+        "character": "Sharp-eyed lemon-woman, dressed in an oversized beige trench coat, strict tortoiseshell glasses, glowing digital 78% on forehead.",
+        "scene": "A sunlit modern apartment hallway, Elena pointing her index finger accusingly while smirking sourly."
+      },
+      "stats": [
+        {
+          "label": "Fake-Rate",
+          "value": "70 %",
+          "bar": 0.35
+        },
+        {
+          "label": "Gehalt",
+          "value": "3.400 €",
+          "bar": 0.45
+        },
+        {
+          "label": "Risiko",
+          "value": "Mittel",
+          "bar": 0.5
+        }
+      ],
+      "character": "Slender carrot-woman, bright orange complexion, stylish silk emerald blouse, gold hoop earrings, glowing digital 94% on forehead.",
+      "visual": "Chic Scandinavian living room, sunlight streaming through sheer curtains, carrot-woman reclining comfortably on designer sofa while a monitor loops video, glowing 94% on forehead. Tiny gold coin on coffee table book.",
+      "scenes": [
+        "Designer living room, medium shot, carrot-woman lounging casually with nail polish while laptop mouse cursor moves automatically on screen, glowing forehead, tiny gold coin on speaker.",
+        "Apartment entrance hallway, two-shot confrontation, lemon-woman Elena sneering with 78% on forehead at Sarah, narrow wooden floorboards, tiny gold coin on the key rack.",
+        "Home office desk detail, close-up of monitor showing looped mouse simulation video, reflections in glossy wooden surface, tiny gold coin near mousepad corner.",
+        "Doorway perspective, wide shot, Elena intruding into the workspace while Sarah reaches forward in distress, dramatic shadow lines, tiny gold coin on bookshelf edge.",
+        "Laptop keyboard close-up, finger hovering in suspense over the trackpad as status turns amber, tiny gold coin stuck to base of desk lamp.",
+        "Hipster coffee bar across the street, wide shot through window, Sarah anxiously drinking iced latte while watching colleagues pass by, tiny gold coin on café sugar bowl."
+      ],
+      "caption": "Entlarvt im eigenen Wohnzimmer! Nutzt du heimlich Tricks für den grünen Punkt? #homeofficehacks #teams #karriere #skandal #stirnzahl"
+    },
+    {
+      "n": 3,
+      "open_loop": "Wessen Name steht auf der anonymen Lieferadresse für Elenas illegales Sabotage-Werkzeug?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Timo sabotiert Elenas mechanische Konstruktion heimlich bei einem spontanen Kontrollbesuch."
+      },
+      "name": "Elena, 34, Controllerin",
+      "badge": "78 % Präzision",
+      "verdict": "AUFGEFLOGEN",
+      "story": "Die 8 Level von Homeoffice-Fakes. Level 3. Achtundsiebzig Prozent auf der Stirn, und kein Algorithmus kann mir etwas anhaben. Bei Sarah hat ein einfaches Video gereicht, aber ich bin Ingenieurstochter. Meine optische Maus liegt auf einer analogen Armbanduhr. Der Sekundenzeiger bewegt den Sensor perfekt alle sechzig Sekunden. Vierzehnhundert Euro Warmmiete zahle ich lächelnd vom Homeoffice-Bett aus. Doch dann steht Timo, der sportliche Brokkoli mit 88 Prozent auf der Stirn, in meinem Flur. Er liefert angeblich Firmenunterlagen ab. Seine Augen scannen blitzschnell meine Installation. Deine Zahl lügt nie, aber deine Uhr tickt ab jetzt rückwärts. Mit einer gezielten Bewegung stößt er gegen meinen Schreibtisch. Die Uhr verrutscht, die Maus stürzt polternd zu Boden. Der Laser blickt ins Leere. Ein lautes Bimmeln ertönt aus den Lautsprechern. Status: Abwesend seit 15 Minuten. Timo lacht dreckig. Warst du schon mal so sicher, dass dein Trick unbesiegbar ist? Plötzlich bemerkt Timo ein verdächtiges Paket neben dem Papierkorb. Er reißt das Etikett ab und liest den Absendernamen laut vor ... Das siehst du in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "-30 %",
+        "after": "48 %"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Homeoffice-Fakes. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Achtundsiebzig Prozent auf der Stirn, und kein Algorithmus kann mir etwas anhaben."
+        },
+        {
+          "s": "Figur",
+          "t": "Bei Sarah hat ein einfaches Video gereicht, aber ich bin Ingenieurstochter. Meine optische Maus liegt auf einer analogen Armbanduhr. Der Sekundenzeiger bewegt den Sensor perfekt alle sechzig Sekunden. Vierzehnhundert Euro Warmmiete zahle ich lächelnd vom Homeoffice-Bett aus."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch dann steht Timo, der sportliche Brokkoli mit 88 Prozent auf der Stirn, in meinem Flur. Er liefert angeblich Firmenunterlagen ab. Seine Augen scannen blitzschnell meine Installation."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Deine Zahl lügt nie, aber deine Uhr tickt ab jetzt rückwärts.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mit einer gezielten Bewegung stößt er gegen meinen Schreibtisch. Die Uhr verrutscht, die Maus stürzt polternd zu Boden. Der Laser blickt ins Leere."
+        },
+        {
+          "s": "Figur",
+          "t": "Ein lautes Bimmeln ertönt aus den Lautsprechern. Status: Abwesend seit 15 Minuten."
+        },
+        {
+          "s": "Figur",
+          "t": "Timo lacht dreckig. Warst du schon mal so sicher, dass dein Trick unbesiegbar ist?"
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich bemerkt Timo ein verdächtiges Paket neben dem Papierkorb. Er reißt das Etikett ab und liest den Absendernamen laut vor ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Deine Zahl lügt nie, aber deine Uhr tickt ab jetzt rückwärts.",
+      "quote_by": {
+        "level": 4,
+        "name": "Timo",
+        "badge": "88 %",
+        "character": "Athletic broccoli-man, crisp white collar shirt, rolled up sleeves, expensive smartwatch, glowing digital 88% on forehead.",
+        "scene": "Dimly lit study, broccoli-man Timo leaning over a wooden desk with a cynical grin, pointing down at a knocked-over mechanical watch."
+      },
+      "stats": [
+        {
+          "label": "Fake-Rate",
+          "value": "48 %",
+          "bar": 0.48
+        },
+        {
+          "label": "Miete",
+          "value": "1.400 €",
+          "bar": 0.55
+        },
+        {
+          "label": "Kreativität",
+          "value": "Hoch",
+          "bar": 0.8
+        }
+      ],
+      "character": "Sharp-featured lemon-woman, pale yellow textured skin, tailored grey cardigan, elegant thin reading glasses, glowing digital 78% on forehead.",
+      "visual": "Minimalist study with bookshelves, lemon-woman watching an optical computer mouse resting on a ticking wristwatch, glowing digital 78% on forehead. Tiny gold coin nestled inside an open desk drawer.",
+      "scenes": [
+        "Minimalist study desk, close-up macro perspective, computer mouse sensor balancing on a ticking quartz watch crystal, red glow pulsing, tiny gold coin on pencil sharpener.",
+        "Hallway doorway, medium shot, broccoli-man Timo glaring condescendingly at Elena with glowing 88% forehead badge, holding clipboard, tiny gold coin on mail slot.",
+        "Desk edge action shot, medium close-up, elbow knocking into table edge as mouse and watch tumble toward floor, motion blur, tiny gold coin under desk leg.",
+        "Floor perspective, low angle, red sensor light shining uselessly onto hardwood floor next to shattered watch face, tiny gold coin beside radiator pipe.",
+        "Room wide shot, evening twilight coming through tall window, Elena holding her temples as her digital score drops violently, tiny gold coin on window frame.",
+        "Busy tram interior, wide shot, lemon-woman commuting next morning looking nervously at fellow fruit commuters' forehead numbers, tiny gold coin on ticket validator."
+      ],
+      "caption": "Wenn die Analoguhr-Methode schiefgeht! Welcher Trick ist dein Favorit? #homeofficegoals #arbeitsleben #businesstips #stirnzahl #bust"
+    },
+    {
+      "n": 4,
+      "open_loop": "Was entdeckt Timo auf dem USB-Stick, der Marc direkt mit dem Firmenbetrug verknüpft?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Marc sperrt Timos Hardwarezugang aus der Ferne und droht ihm mit Kündigung."
+      },
+      "name": "Timo, 31, Vertriebsleiter",
+      "badge": "88 % Effizienz",
+      "verdict": "SABOTIERT",
+      "story": "Die 8 Level von Homeoffice-Fakes. Level 4. Achtundachtzig Prozent auf der Stirn, während ich gemütlich im Fitnessstudio Gewichte stemme. Elena dachte, sie wäre schlau mit ihrer Uhr. Ich habe mir für neunundvierzig Euro einen echten mechanischen USB-Mover gekauft. Er dreht eine physische Scheibe. Völlig unaufspürbar für die IT. Mein Fixgehalt: Viertausendachtundert Euro. Doch mitten im Proteinshake vibriert mein Firmenhandy. Marc, die finstere Avocado mit gigantischen 95 Prozent Stirn-Wert, ruft per Videocall an. Sein Blick bohrt sich durch die Kamera. Deine Zahl lügt nie, Timo, aber die Hardware-IDs deiner USB-Ports schon. Mein Herz setzt einen Schlag aus. Er teilt seinen Bildschirm und zeigt das IT-Sicherheitsprotokoll. Das ist nur ein Dongle für mein Headset! Doch Marc drückt einen Knopf: Remote-Sperre aktiviert. Im selben Augenblick erlischt die Anzeige auf meiner Stirn zur Hälfte. Andere Sportler im Studio starren mich verächtlich an. Kennst du das Gefühl, wenn ein Kollege dir ein Messer in den Rücken rammt? Auf Marcs geteiltem Bildschirm blinkt plötzlich ein geheimer Ordner mit pikanten Daten auf ... Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "-38 %",
+        "after": "50 %"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Homeoffice-Fakes. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Achtundachtzig Prozent auf der Stirn, während ich gemütlich im Fitnessstudio Gewichte stemme."
+        },
+        {
+          "s": "Figur",
+          "t": "Elena dachte, sie wäre schlau mit ihrer Uhr. Ich habe mir für neunundvierzig Euro einen echten mechanischen USB-Mover gekauft. Er dreht eine physische Scheibe. Völlig unaufspürbar für die IT. Mein Fixgehalt: Viertausendachtundert Euro."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch mitten im Proteinshake vibriert mein Firmenhandy. Marc, die finstere Avocado mit gigantischen 95 Prozent Stirn-Wert, ruft per Videocall an. Sein Blick bohrt sich durch die Kamera."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Deine Zahl lügt nie, Timo, aber die Hardware-IDs deiner USB-Ports schon.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Herz setzt einen Schlag aus. Er teilt seinen Bildschirm und zeigt das IT-Sicherheitsprotokoll."
+        },
+        {
+          "s": "Figur",
+          "t": "Das ist nur ein Dongle für mein Headset!"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch Marc drückt einen Knopf: Remote-Sperre aktiviert. Im selben Augenblick erlischt die Anzeige auf meiner Stirn zur Hälfte."
+        },
+        {
+          "s": "Figur",
+          "t": "Andere Sportler im Studio starren mich verächtlich an. Kennst du das Gefühl, wenn ein Kollege dir ein Messer in den Rücken rammt?"
+        },
+        {
+          "s": "Figur",
+          "t": "Auf Marcs geteiltem Bildschirm blinkt plötzlich ein geheimer Ordner mit pikanten Daten auf ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Deine Zahl lügt nie, Timo, aber die Hardware-IDs deiner USB-Ports schon.",
+      "quote_by": {
+        "level": 5,
+        "name": "Marc",
+        "badge": "95 %",
+        "character": "Heavy-set avocado-man, dark textured skin, charcoal tailored suit, cold expression, glowing digital 95% on forehead.",
+        "scene": "High-tech corner office at dusk, avocado-man Marc glaring into his laptop screen while clicking a red override button."
+      },
+      "stats": [
+        {
+          "label": "Fake-Rate",
+          "value": "50 %",
+          "bar": 0.5
+        },
+        {
+          "label": "Gehalt",
+          "value": "4.800 €",
+          "bar": 0.65
+        },
+        {
+          "label": "Technik",
+          "value": "Hardware",
+          "bar": 0.85
+        }
+      ],
+      "character": "Muscular broccoli-man, deep green florets, black athletic tank top, sweatband on wrist, glowing digital 88% on forehead.",
+      "visual": "Brightly lit modern gym with mirrors and chrome dumbbells, broccoli-man holding a protein shaker while staring shocked at his glowing smartphone, glowing digital 88% on forehead. Tiny gold coin on dumbbell rack.",
+      "scenes": [
+        "Modern fitness gym floor, wide shot, broccoli-man Timo resting against benchpress rack holding protein shaker, digital 88% lighting his face, tiny gold coin on weight plate.",
+        "Smartphone screen close-up, video call showing stern avocado-man Marc with 95% forehead display smiling predatory, tiny gold coin on gym phone tripod.",
+        "Home office desk elsewhere, detail shot, small black mechanical USB-device silently rotating an optical mouse under blue ambient light, tiny gold coin beside external hard drive.",
+        "Locker room bench, medium shot, Timo frantically typing on phone as red error symbols flash across screen, athletic bags surrounding him, tiny gold coin on locker handle.",
+        "Gym mirrors reflection, wide shot, other fruit citizens (apple, banana) whispering and pointing at Timo's suddenly degraded forehead score, tiny gold coin on towel dispenser.",
+        "Subway station entrance, twilight, Timo walking outside looking despondent while rain starts pouring, tiny gold coin on ticket booth ledge."
+      ],
+      "caption": "Hardware-Mover aufgeflogen! Kann die IT wirklich jedes Gerät erkennen? #itsecurity #corporate #scam #arbeitsalltag #stirnzahl"
+    },
+    {
+      "n": 5,
+      "open_loop": "Welche geheime Zeile in Lauras Python-Skript stürzt Marcs gesamtes Abteilungs-Netzwerk ab?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Laura überlistet Marcs Überwachungstool mit einem perfekten KI-Ghost-Skript und blockiert ihn."
+      },
+      "name": "Marc, 42, Senior Abteilungsleiter",
+      "badge": "95 % Kontrolle",
+      "verdict": "BLAMIERT",
+      "story": "Die 8 Level von Homeoffice-Fakes. Level 5. Fünfundneunzig Prozent auf der Stirn, und ich bin der Jäger, nicht die Beute. Timo habe ich mit einem einzigen Klick erledigt. Mein Job als Überwacher bringt mir siebentausendzweihundert Euro im Monat. Meine Stirn-Zahl verschafft mir pure Macht über die gesamte Abteilung. Doch dann prüfe ich die Logs von Laura, der unscheinbaren Blaubeere mit 96 Prozent. Ihre Zahlen sind zu perfekt. Ich rufe sie sofort in mein Büro. Laura tritt ein, ihre Brille spiegelt den Monitor. Deine Zahl lügt nie, Laura, aber du hast seit drei Monaten keine echte Taste gedrückt! Wer überwacht eigentlich dich, Marc? Sie zuckt nicht einmal mit der Wimper. Sie tippt drei Befehle in ihr Tablet. Plötzlich färbt sich mein Kontroll-Dashboard pechschwarz. Mein Admin-Zugang ist gelöscht. Ein Systemalarm heult los. Wo bist du im Machtkampf im Büro? Vor mir öffnet sich Lauras geheime Codezeile, die ein dunkles Firmengeheimnis offenbart ... Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "-25 %",
+        "after": "70 %"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Homeoffice-Fakes. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Fünfundneunzig Prozent auf der Stirn, und ich bin der Jäger, nicht die Beute."
+        },
+        {
+          "s": "Figur",
+          "t": "Timo habe ich mit einem einzigen Klick erledigt. Mein Job als Überwacher bringt mir siebentausendzweihundert Euro im Monat. Meine Stirn-Zahl verschafft mir pure Macht über die gesamte Abteilung."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch dann prüfe ich die Logs von Laura, der unscheinbaren Blaubeere mit 96 Prozent. Ihre Zahlen sind zu perfekt. Ich rufe sie sofort in mein Büro. Laura tritt ein, ihre Brille spiegelt den Monitor."
+        },
+        {
+          "s": "Figur",
+          "t": "Deine Zahl lügt nie, Laura, aber du hast seit drei Monaten keine echte Taste gedrückt!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer überwacht eigentlich dich, Marc?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie zuckt nicht einmal mit der Wimper. Sie tippt drei Befehle in ihr Tablet. Plötzlich färbt sich mein Kontroll-Dashboard pechschwarz. Mein Admin-Zugang ist gelöscht."
+        },
+        {
+          "s": "Figur",
+          "t": "Ein Systemalarm heult los. Wo bist du im Machtkampf im Büro?"
+        },
+        {
+          "s": "Figur",
+          "t": "Vor mir öffnet sich Lauras geheime Codezeile, die ein dunkles Firmengeheimnis offenbart ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Wer überwacht eigentlich dich, Marc?",
+      "quote_by": {
+        "level": 6,
+        "name": "Laura",
+        "badge": "96 %",
+        "character": "Compact blueberry-woman, sleek indigo business jacket, round thick nerdy spectacles, calm posture, glowing digital 96% on forehead.",
+        "scene": "Modern corporate glass office, blueberry-woman Laura tapping serenely on an iPad while staring down the flustered avocado manager."
+      },
+      "stats": [
+        {
+          "label": "Fake-Rate",
+          "value": "70 %",
+          "bar": 0.7
+        },
+        {
+          "label": "Gehalt",
+          "value": "7.200 €",
+          "bar": 0.8
+        },
+        {
+          "label": "Macht",
+          "value": "Bröckelt",
+          "bar": 0.6
+        }
+      ],
+      "character": "Heavy-set avocado-man, dark green textured peel, tailored charcoal executive suit with striped silk tie, glowing digital 95% on forehead.",
+      "visual": "Prestigious corporate executive office overlooking the metropolis skyline at sunset, avocado-man slamming desk while multiple monitors show red security locks, glowing digital 95% on forehead. Tiny gold coin on pen stand.",
+      "scenes": [
+        "Corner executive office, wide shot, avocado-man Marc standing furiously behind massive mahogany desk, wall-to-wall glass revealing city skyline, digital 95% blazing, tiny gold coin on bronze desk sculpture.",
+        "Doorway medium shot, blueberry-woman Laura entering calmly holding sleek metallic tablet, digital 96% shining cool blue on forehead, tiny gold coin on door handle.",
+        "High-end monitors close-up, dashboard showing employee activity tracking graphs suddenly turning error-black with red skull alert, tiny gold coin glued to monitor base.",
+        "Two-shot confrontation across desk, Marc leaning forward shouting while Laura stands unbothered with a tiny smirk, tiny gold coin on leather desk blotter.",
+        "Office glass reflection, medium shot, Marc seeing his forehead score tumble while assistant outside looks through blinds shocked, tiny gold coin on air vent grill.",
+        "Corporate elevator hall, wide shot, Marc clutching briefcase in silence while elevator doors ping, tiny gold coin on elevator button panel."
+      ],
+      "caption": "Wenn der Chef selbst gehackt wird! Wer kontrolliert bei euch die Arbeitszeit? #officedrama #itcheck #bossfight #stirnzahl #gefeuert"
+    },
+    {
+      "n": 6,
+      "open_loop": "Welche Datei auf Davids zweitem Laptop beweist, dass Laura nicht die Einzige mit zwei Jobs ist?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "David deckt auf, dass Laura in Wahrheit für zwei konkurrierende Konzerne gleichzeitig arbeitet."
+      },
+      "name": "Laura, 36, Lead Architect",
+      "badge": "96 % Autonomie",
+      "verdict": "ÜBERLISTET",
+      "story": "Die 8 Level von Homeoffice-Fakes. Level 6. Sechsundneunzig Prozent auf der Stirn, während mein selbstgeschriebenes Python-Skript meine gesamte Arbeit erledigt. Marc dachte, er hätte Macht. Mein KI-Agent antwortet auf Slack, bewegt Fenster und erzeugt perfekten Code. Ich kassiere achttausendfünfhundert Euro und liege auf Mallorca am Pool. Doch heute sitze ich in einem exklusiven Café am Kudamm. Am Nachbartisch sitzt David, die coole Kokosnuss mit unfassbaren 98 Prozent. Er trägt maßgeschneiderte Kopfhörer und klappt seinen Laptop auf. Deine Zahl lügt nie, Laura, aber dein Skript arbeitet gerade für zwei Firmen gleichzeitig. Ein eiskalter Schauer läuft mir über den Rücken. Er hat meine GitHub-Repositories analysiert. Doppelbeschäftigung bedeutet fristlose Kündigung und Schadensersatz in Millionenhöhe. Woher weißt du das? David lächelt unbarmherzig und sendet einen IP-Ping an meinen Server. Meine Stirn-Zahl verliert sofort ihren Glanz. Hast du je heimlich zwei Jobs gleichzeitig gemacht? Da dreht David seinen zweiten Bildschirm und zeigt mir eine Datei, die alles auf den Kopf stellt ... Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "-20 %",
+        "after": "76 %"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Homeoffice-Fakes. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Sechsundneunzig Prozent auf der Stirn, während mein selbstgeschriebenes Python-Skript meine gesamte Arbeit erledigt."
+        },
+        {
+          "s": "Figur",
+          "t": "Marc dachte, er hätte Macht. Mein KI-Agent antwortet auf Slack, bewegt Fenster und erzeugt perfekten Code. Ich kassiere achttausendfünfhundert Euro und liege auf Mallorca am Pool."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch heute sitze ich in einem exklusiven Café am Kudamm. Am Nachbartisch sitzt David, die coole Kokosnuss mit unfassbaren 98 Prozent. Er trägt maßgeschneiderte Kopfhörer und klappt seinen Laptop auf."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Deine Zahl lügt nie, Laura, aber dein Skript arbeitet gerade für zwei Firmen gleichzeitig.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ein eiskalter Schauer läuft mir über den Rücken. Er hat meine GitHub-Repositories analysiert. Doppelbeschäftigung bedeutet fristlose Kündigung und Schadensersatz in Millionenhöhe."
+        },
+        {
+          "s": "Figur",
+          "t": "Woher weißt du das?"
+        },
+        {
+          "s": "Figur",
+          "t": "David lächelt unbarmherzig und sendet einen IP-Ping an meinen Server."
+        },
+        {
+          "s": "Figur",
+          "t": "Meine Stirn-Zahl verliert sofort ihren Glanz. Hast du je heimlich zwei Jobs gleichzeitig gemacht?"
+        },
+        {
+          "s": "Figur",
+          "t": "Da dreht David seinen zweiten Bildschirm und zeigt mir eine Datei, die alles auf den Kopf stellt ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Deine Zahl lügt nie, Laura, aber dein Skript arbeitet gerade für zwei Firmen gleichzeitig.",
+      "quote_by": {
+        "level": 7,
+        "name": "David",
+        "badge": "98 %",
+        "character": "Rugged coconut-man, brown fibrous hair, stylish beige linen shirt, designer wireframe glasses, glowing digital 98% on forehead.",
+        "scene": "Sunlit upscale outdoor café terrace, coconut-man David staring piercingly over his laptop rim with a smug half-smile."
+      },
+      "stats": [
+        {
+          "label": "Fake-Rate",
+          "value": "76 %",
+          "bar": 0.76
+        },
+        {
+          "label": "Gehalt",
+          "value": "8.500 €",
+          "bar": 0.88
+        },
+        {
+          "label": "Skill",
+          "value": "Expert",
+          "bar": 0.95
+        }
+      ],
+      "character": "Intelligent blueberry-woman, deep indigo skin, dark turtleneck under blazer, neat silver wristwatch, glowing digital 96% on forehead.",
+      "visual": "Upscale minimalist sidewalk café in Berlin-Charlottenburg, blueberry-woman staring in horror at a coconut-man working on two laptops at adjacent marble table, glowing digital 96% on forehead. Tiny gold coin on sugar canister.",
+      "scenes": [
+        "Upscale sidewalk café terrace, medium shot, blueberry-woman Laura drinking espresso with laptop open, glowing 96% on forehead, tiny gold coin on bistro table edge.",
+        "Adjacent marble table, two-shot, coconut-man David looking across with calm intimidation, digital 98% blazing sharply, tiny gold coin tucked under napkin dispenser.",
+        "Split laptop screen detail, code comparison showing identical commit messages to two rival corporate servers, tiny gold coin lying next to trackpad.",
+        "Street perspective, wide shot, passers-by in expensive clothing looking at the tension between the two high-earner fruit professionals, tiny gold coin on boutique display base.",
+        "Coffee cup and keyboard close-up, shaking blue hand knocking spoon as forehead reflection shows score descending to 76%, tiny gold coin in the saucer.",
+        "Underground subway platform, dim lighting, Laura walking alone past advertising screens clutching her encrypted laptop, tiny gold coin on ticket machine slit."
+      ],
+      "caption": "Overemployed und aufgeflogen! Zwei Gehälter gleichzeitig – genial oder kriminell? #overemployed #doppeljob #itdeveloper #stirnzahl #erwischt"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welchen Vertrag legt Viktor David vor, der das gesamte System der Stirn-Zahlen als gigantische Lüge entlarvt?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Viktor schaltet Davids gesamtes Remote-Imperium ab und übernimmt seine Konten."
+      },
+      "name": "David, 38, Overemployed Pro",
+      "badge": "98 % Dominanz",
+      "verdict": "ABGESTÜRZT",
+      "story": "Die 8 Level von Homeoffice-Fakes. Level 7. Achtundneunzig Prozent auf der Stirn, während vier Laptops gleichzeitig für vier verschiedene DAX-Konzerne laufen. Laura war nur ein kleiner Fisch. Ich kassiere einundzwanzigtausendfünfhundert Euro netto jeden Monat. Vier Mausbeweger, synchronisierte KVM-Switches, null Fehler. Ich fühle mich wie ein digitaler Gott in meinem Penthouse am Potsdamer Platz. Doch Punkt dreiundzwanzig Uhr klingelt das private Telefon. Viktor, die mysteriöse Drachenfrucht mit der legendären Stirn von Level 8, spricht mit tiefer, ruhiger Stimme. Deine Zahl lügt nie, David, aber dein ganzes Imperium gehört bereits mir. Mein Blut gefriert in den Adern. Auf allen vier Bildschirmen gleichzeitig springt die Verbindung um: Remote Session Terminated by Vendor. Viktor ist der Entwickler der Überwachungs-Software, die wir alle ausgetrickst haben. Er wusste es die ganze Zeit. Das ist illegal! Doch ein zynisches Lachen antwortet mir. Meine Stirn-Zahl kollabiert in freiem Fall. Was würdest du tun, wenn dein größter Triumph in einer Sekunde verbrennt? Dann schickt Viktor mir ein einziges Dokument auf mein Smartphone, das die Wahrheit über Level 8 enthüllt ... Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "-40 %",
+        "after": "58 %"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Homeoffice-Fakes. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Achtundneunzig Prozent auf der Stirn, während vier Laptops gleichzeitig für vier verschiedene DAX-Konzerne laufen."
+        },
+        {
+          "s": "Figur",
+          "t": "Laura war nur ein kleiner Fisch. Ich kassiere einundzwanzigtausendfünfhundert Euro netto jeden Monat. Vier Mausbeweger, synchronisierte KVM-Switches, null Fehler. Ich fühle mich wie ein digitaler Gott in meinem Penthouse am Potsdamer Platz."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch Punkt dreiundzwanzig Uhr klingelt das private Telefon. Viktor, die mysteriöse Drachenfrucht mit der legendären Stirn von Level 8, spricht mit tiefer, ruhiger Stimme."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Deine Zahl lügt nie, David, aber dein ganzes Imperium gehört bereits mir.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Blut gefriert in den Adern. Auf allen vier Bildschirmen gleichzeitig springt die Verbindung um: Remote Session Terminated by Vendor. Viktor ist der Entwickler der Überwachungs-Software, die wir alle ausgetrickst haben. Er wusste es die ganze Zeit."
+        },
+        {
+          "s": "Figur",
+          "t": "Das ist illegal!"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch ein zynisches Lachen antwortet mir. Meine Stirn-Zahl kollabiert in freiem Fall. Was würdest du tun, wenn dein größter Triumph in einer Sekunde verbrennt?"
+        },
+        {
+          "s": "Figur",
+          "t": "Dann schickt Viktor mir ein einziges Dokument auf mein Smartphone, das die Wahrheit über Level 8 enthüllt ..."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Deine Zahl lügt nie, David, aber dein ganzes Imperium gehört bereits mir.",
+      "quote_by": {
+        "level": 8,
+        "name": "Viktor",
+        "badge": "100 %",
+        "character": "Exotic dragonfruit-man, vibrant magenta-spiked skin, bespoke velvet black tuxedo, platinum signet ring, glowing digital 100% on forehead.",
+        "scene": "Hyper-luxurious dark penthouse office, dragonfruit-man Viktor holding an antique telephone receiver while overlooking the glittering city night."
+      },
+      "stats": [
+        {
+          "label": "Fake-Rate",
+          "value": "58 %",
+          "bar": 0.58
+        },
+        {
+          "label": "Netto",
+          "value": "21.500 €",
+          "bar": 0.95
+        },
+        {
+          "label": "Laptops",
+          "value": "4 aktive",
+          "bar": 1.0
+        }
+      ],
+      "character": "Hard-boiled coconut-man, rough brown textured exterior, unbuttoned luxury beige linen shirt, expensive smartwatch, glowing digital 98% on forehead.",
+      "visual": "Luxury glass penthouse apartment at night, four laptops on glass table suddenly displaying black termination screens, shocked coconut-man holding golden smartphone, glowing digital 98% on forehead. Tiny gold coin on balcony railing.",
+      "scenes": [
+        "Luxury penthouse living room at midnight, wide panoramic shot, four high-end laptops glowing on glass table facing floor-to-ceiling windows, digital 98% on forehead, tiny gold coin on designer floor lamp base.",
+        "Desk array close-up, four identical mice resting on mechanical rotary pads, all screens simultaneously turning red with termination notices, tiny gold coin on USB hub.",
+        "Floor-to-ceiling window perspective, medium shot, coconut-man David clutching phone to ear in utter disbelief while city lights shimmer below, tiny gold coin on window ledge.",
+        "Smartphone screen macro shot, encrypted incoming call displaying ominous silhouette of dragonfruit-man with 100%, tiny gold coin reflected in screen bezel.",
+        "Room low-angle shot, David collapsing onto leather armchair as his forehead display abruptly drops down to 58%, room plunged into emergency screen glare, tiny gold coin beneath glass coffee table.",
+        "Empty corporate server room late at night, wide shot, racks of blinking green server lights with a lone silhouette walking away, tiny gold coin on cable tray."
+      ],
+      "caption": "Vier Firmen gleichzeitig abgezockt – bis der Schöpfer anrief! Würdest du 21k im Monat riskieren? #overemployedlife #hacker #itsecurity #stirnzahl #drama"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches dunkle Tabuthema soll unser nächstes 8-Level-Drama für immer aufdecken?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Viktor entlarvt, dass er alle Level von Kevin bis David heimlich selbst überwacht und monetarisiert hat."
+      },
+      "name": "Viktor, 48, Software-Mogul",
+      "badge": "100 % Allmacht",
+      "verdict": "DER MEISTER",
+      "story": "Die 8 Level von Homeoffice-Fakes. Level 8. Einhundert Prozent auf der Stirn. Die absolute Zahl. Ihr dachtet alle, ihr wärt clever. Kevin mit seiner Kaffeetasse, Sarah mit ihrem Video, Elena mit der Uhr, Timo mit dem Hardware-Mover, Marc mit seiner falschen Macht, Laura mit ihrem Skript und David mit seinen vier Jobs. Ich habe die Mausbeweger-Tools erfunden und gleichzeitig die Spionage-Software an eure Chefs verkauft! Fünfundsiebzigtausend Euro passives Einkommen fließen jeden Monat auf mein Schweizer Konto. David dachte im Penthouse, er wäre ein Gott. Doch David war nur mein lukrativster Testkunde. Ich sitze in meiner Villa am Wannsee und beobachte die Stirn-Zahlen der ganzen Stadt auf einer gigantischen Wandkarte. Plötzlich betritt Kevin, die kleine Birne aus Level eins, mein Büro. Er serviert meinen Tee als Bote. Herr Viktor, Ihre Zahl lügt nie! Ich lächle milde und werfe ihm ein Fünfhundert-Euro-Trinkgeld hin. Seine Zahl springt sofort nach oben. Ich beherrsche das Spiel, weil ich die Regeln geschrieben habe. Auf welchem Level hättest du aufgehört zu tricksen? Welches Thema willst du als Nächstes sehen?",
+      "gender": "m",
+      "twist": {
+        "delta": "+0 %",
+        "after": "100 %"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level von Homeoffice-Fakes. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Einhundert Prozent auf der Stirn. Die absolute Zahl."
+        },
+        {
+          "s": "Figur",
+          "t": "Ihr dachtet alle, ihr wärt clever. Kevin mit seiner Kaffeetasse, Sarah mit ihrem Video, Elena mit der Uhr, Timo mit dem Hardware-Mover, Marc mit seiner falschen Macht, Laura mit ihrem Skript und David mit seinen vier Jobs."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich habe die Mausbeweger-Tools erfunden und gleichzeitig die Spionage-Software an eure Chefs verkauft! Fünfundsiebzigtausend Euro passives Einkommen fließen jeden Monat auf mein Schweizer Konto."
+        },
+        {
+          "s": "Figur",
+          "t": "David dachte im Penthouse, er wäre ein Gott. Doch David war nur mein lukrativster Testkunde. Ich sitze in meiner Villa am Wannsee und beobachte die Stirn-Zahlen der ganzen Stadt auf einer gigantischen Wandkarte."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich betritt Kevin, die kleine Birne aus Level eins, mein Büro. Er serviert meinen Tee als Bote."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Herr Viktor, Ihre Zahl lügt nie!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich lächle milde und werfe ihm ein Fünfhundert-Euro-Trinkgeld hin. Seine Zahl springt sofort nach oben. Ich beherrsche das Spiel, weil ich die Regeln geschrieben habe. Auf welchem Level hättest du aufgehört zu tricksen? Welches Thema willst du als Nächstes sehen?"
+        }
+      ],
+      "quote": "Herr Viktor, Ihre Zahl lügt nie!",
+      "quote_by": {
+        "level": 1,
+        "name": "Kevin",
+        "badge": "8 %",
+        "character": "Young pear-man wearing a plain courier jacket, hesitant posture, holding a porcelain tea tray, glowing digital 8% on forehead.",
+        "scene": "A grand private study with dark oak paneling, pear-man Kevin bowing nervously while handing a silver teacup to the dragonfruit tycoon."
+      },
+      "stats": [
+        {
+          "label": "Fake-Rate",
+          "value": "100 %",
+          "bar": 1.0
+        },
+        {
+          "label": "Passiv",
+          "value": "75.000 €",
+          "bar": 1.0
+        },
+        {
+          "label": "Kontrolle",
+          "value": "Total",
+          "bar": 1.0
+        }
+      ],
+      "character": "Exotic dragonfruit-man, vibrant pink scaled exterior, tailored midnight-blue velvet tuxedo, golden signet ring, glowing digital 100% on forehead.",
+      "visual": "Opulent lakeside mansion library, dragonfruit-man sitting in high-backed leather armchair smoking cigar in front of massive wall map monitoring thousands of glowing employee numbers, glowing digital 100% on forehead. Tiny gold coin on antique globe.",
+      "scenes": [
+        "Opulent mansion study, wide angle, dragonfruit-man Viktor sitting behind an antique walnut desk surrounded by glowing digital wall maps of the city, digital 100% on forehead, tiny gold coin on antique globe.",
+        "Wall display close-up, digital nodes tracking all characters from Level 1 to 7 with their declining forehead scores, tiny gold coin fixed to mahogany trim.",
+        "Doorway medium shot, young pear-man Kevin entering humbly carrying a silver tea tray, his low 8% badge contrasting with the grandeur, tiny gold coin on door threshold.",
+        "Desk surface interaction, close-up, Viktor's clawed hand casually sliding a crisp 500-euro banknote across polished leather, tiny gold coin beside crystal decanter.",
+        "Terrace overlooking Wannsee lake at dawn, wide shot, Viktor standing by marble balustrade savoring his total digital empire, morning mist over water, tiny gold coin on balustrade post.",
+        "Darkened cinematic server room, extreme close-up of master server rack pulsing with emerald light, tiny gold coin sitting on top of the cooling fan grate."
+      ],
+      "caption": "Das geheime Mastermind hinter allen Homeoffice-Fakes enthüllt! Welches Thema sollen wir als Nächstes zerlegen? Schreib es in die Kommentare! #mastermind #stirnzahl #finale #arbeitswelt #enthuellt"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das Vortäuschen von Arbeitszeit im Homeoffice durch Maus-Beweger und Fake-Status",
+  "frame": "frucht"
+}

@@ -1,0 +1,663 @@
+{
+  "title": "Die 8 Level einer Instagram-Story",
+  "house": "A vibrant fruit-and-vegetable metropolis where glowing digital numbers hover on every forehead, featuring neon-lit bus stops, a bustling central plaza, and cozy corner cafés.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Barista in Level 2 mentions the delivery guy from Level 5.",
+    "The broken coffee machine from Level 1 is repaired in Level 6.",
+    "The lost phone from Level 3 reappears on the bench in Level 7."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Was war der echte Grund, warum die Story nach nur zehn Sekunden wieder gelöscht wurde?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Lacht sie wegen ihrer niedrigen Follower-Zahl aus und kommentiert öffentlich einen Hohn."
+      },
+      "name": "Mia, 19, Azubi",
+      "badge": "12 Aufrufe",
+      "verdict": "UNWICHTIG",
+      "story": "12 Aufrufe? Wer hat diesen Abschaum eigentlich ins Team gelassen? Vielleicht putzt sie nachher unsere Toiletten. Die 8 Level einer Instagram-Story. Level 1. 12 Aufrufe auf eine Story – und genau eine einzige Person darf sie sehen, die sich sofort darüber lustig macht. Ich sitze im kalten Flur meiner WG, starre auf das kleine Smartphone-Display und halte den Atem an, während die Realität mich eiskalt trifft. Lösch das lieber, Mia. Das sieht doch sowieso kein Schwein hier in dieser Stadt, du bist einfach absolut wertlos für diesen Algorithmus. Plötzlich vibriert das Handy in meiner Hand so heftig, dass ich es fast fallen lasse. Eine Direktnachricht poppt auf, gesendet direkt aus den oberen Etagen der Stadt. Hast du ernsthaft gedacht, dass ich mir diesen billigen Müll anschaue? Deine Reichweite ist ein Witz, genau wie du. Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "+5 Aufrufe",
+        "after": "17 Aufruf"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "12 Aufrufe? Wer hat diesen Abschaum eigentlich ins Team gelassen? Vielleicht putzt sie nachher unsere Toiletten."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level einer Instagram-Story. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "12 Aufrufe auf eine Story – und genau eine einzige Person darf sie sehen, die sich sofort darüber lustig macht."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze im kalten Flur meiner WG, starre auf das kleine Smartphone-Display und halte den Atem an, während die Realität mich eiskalt trifft."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Lösch das lieber, Mia. Das sieht doch sowieso kein Schwein hier in dieser Stadt, du bist einfach absolut wertlos für diesen Algorithmus.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich vibriert das Handy in meiner Hand so heftig, dass ich es fast fallen lasse. Eine Direktnachricht poppt auf, gesendet direkt aus den oberen Etagen der Stadt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Hast du ernsthaft gedacht, dass ich mir diesen billigen Müll anschaue? Deine Reichweite ist ein Witz, genau wie du.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Hast du ernsthaft gedacht, dass ich mir diesen billigen Müll anschaue?",
+      "quote_by": {
+        "level": 4,
+        "name": "Ben, 26, Influencer",
+        "badge": "45.000 Follower",
+        "character": "A slick dragon fruit person with neon pink scales, wearing a sleek silver jacket and holding an expensive ring light.",
+        "scene": "Wide shot of a neon-lit rooftop party at night, Ben pointing mockingly at a small smartphone screen held by Mia."
+      },
+      "stats": [
+        {
+          "label": "Aufrufe",
+          "value": "12",
+          "bar": 0.05
+        },
+        {
+          "label": "Mut",
+          "value": "80%",
+          "bar": 0.8
+        },
+        {
+          "label": "Reichweite",
+          "value": "0.1%",
+          "bar": 0.01
+        }
+      ],
+      "character": "A shy strawberry person with a head made of a ripe red berry, wearing a worn-out gray hoodie and holding a cracked smartphone with a golden coin sticker on the back.",
+      "visual": "Close-up shot in a dimly lit, cluttered student apartment hallway at dusk, soft yellow light from a single bulb reflecting off the glowing red digits on her forehead.",
+      "scenes": [
+        "Close-up shot in a dimly lit, cluttered student apartment hallway at dusk, soft yellow light from a single bulb reflecting off the glowing red digits on her forehead.",
+        "Medium shot in a crowded, noisy subway car during rush hour, gray metallic walls, people looking down at their glowing foreheads in silence.",
+        "Detail shot of a cracked smartphone screen displaying an Instagram story view counter showing twelve tiny profile pictures.",
+        "Wide shot at a rainy bus stop under a flickering neon light, a tiny golden coin is hidden near the metal bench leg.",
+        "Medium shot inside a warm, steamy corner bakery, a lemon person handing over a warm coffee cup with a forced smile.",
+        "Detail shot of a glowing forehead number flashing rapidly from twelve to seventeen amidst city reflections in a puddle."
+      ],
+      "caption": "Manchmal sieht nur die falsche Person zu. Hättest du die Story auch gelöscht? #StirnZahl #Drama #Story #Viral #Berlin"
+    },
+    {
+      "n": 2,
+      "open_loop": "Warum hat der anonyme Account genau um Mitternacht diese mysteriöse Sprachnachricht geschickt?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Blockiert ihren Account sofort, nachdem sie eine Frage zur Story gestellt hat."
+      },
+      "name": "Leo, 23, Barista",
+      "badge": "340 Aufrufe",
+      "verdict": "IGNORIERT",
+      "story": "Die 8 Level einer Instagram-Story. Level 2. 340 Aufrufe – und keiner davon gehört der Frau, die ich eigentlich erreichen wollte, während Tom mich vor versammelter Kundschaft gnadenlos bloßstellt. Ich stehe hinter der lauten Espressomaschine in unserem Stammcafé, wische hektisch Kaffeebohnen von der nassen Theke und starre auf die Statistiken. Schau dir diesen armseligen Kerl an. 340 Aufrufe? Selbst meine Kaffeebestellung hat mehr Reichweite als dein gesamtes Leben. Da greife ich plötzlich in meine Tasche und spüre das vibrierende Display, während im Hintergrund mein geplanter viralster Post lädt. Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+120 Aufru",
+        "after": "460 Aufru"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level einer Instagram-Story. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "340 Aufrufe – und keiner davon gehört der Frau, die ich eigentlich erreichen wollte, während Tom mich vor versammelter Kundschaft gnadenlos bloßstellt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe hinter der lauten Espressomaschine in unserem Stammcafé, wische hektisch Kaffeebohnen von der nassen Theke und starre auf die Statistiken."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Schau dir diesen armseligen Kerl an. 340 Aufrufe? Selbst meine Kaffeebestellung hat mehr Reichweite als dein gesamtes Leben.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Da greife ich plötzlich in meine Tasche und spüre das vibrierende Display, während im Hintergrund mein geplanter viralster Post lädt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Du kannst noch so schöne Bilder posten, sie wird dich niemals ernst nehmen.",
+      "quote_by": {
+        "level": 5,
+        "name": "Tom, 31, Manager",
+        "badge": "12.500 Aufrufe",
+        "character": "A sharp coconut person with a hard brown textured shell, wearing a crisp business suit and gold-rimmed glasses.",
+        "scene": "Medium shot inside a sleek glass-walled corporate office overlooking the city skyline, Tom sipping espresso while looking down at a phone."
+      },
+      "stats": [
+        {
+          "label": "Aufrufe",
+          "value": "340",
+          "bar": 0.2
+        },
+        {
+          "label": "Kaffee/Tag",
+          "value": "6 Tassen",
+          "bar": 0.6
+        },
+        {
+          "label": "Hoffnung",
+          "value": "45%",
+          "bar": 0.45
+        }
+      ],
+      "character": "A bright orange person with a textured citrus peel head, wearing a green apron stained with coffee and a silver wristwatch showing the wrong time.",
+      "visual": "Medium shot inside a bustling, warm-toned coffee shop, steam rising from the espresso machine, blue neon light glowing on his orange forehead.",
+      "scenes": [
+        "Medium shot inside a bustling, warm-toned coffee shop, steam rising from the espresso machine, blue neon light glowing on his orange forehead.",
+        "Detail shot of a smartphone screen showing an Instagram insight graph with a sharp downward spike at midnight.",
+        "Wide shot of the rainy street outside the café, a tiny golden coin resting on the wet pavement near a bicycle rack.",
+        "Close-up shot of a coworker laughing mockingly, pointing a finger directly at the glowing number on the orange person's forehead.",
+        "Medium shot in the stockroom surrounded by stacked cardboard coffee boxes, dim overhead bulb casting long shadows.",
+        "Detail shot of a notification popup on a phone screen showing a mysterious sender with no profile picture."
+      ],
+      "caption": "Wer kennt diesen einen Blick, wenn die Story einfach ignoriert wird? #StirnZahl #CaféLife #Berlin #InstaDrama #Unfair"
+    },
+    {
+      "n": 3,
+      "open_loop": "Welches dunkle Geheimnis verbirgt sich hinter dem zweiten Account, der die Story sofort geteilt hat?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Meldet ihre Story wegen angeblicher Urheberrechtsverletzung, um sie offline zu nehmen."
+      },
+      "name": "Clara, 25, Grafikerin",
+      "badge": "1.200 Aufrufe",
+      "verdict": "BEOBACHTET",
+      "story": "Die 8 Level einer Instagram-Story. Level 3. 1.200 Aufrufe in zwanzig Minuten – und die falsche Person hat sie geteilt, während ich im kalten Atelier sitze und Victor mich öffentlich als talentlose Diebin abstempelt. Ich sitze an meinem Zeichenbrett in dem alten Altbau-Atelier, die Nacht ist stockfinster draußen, während meine Entwürfe auf Victor's Agentur-Bildschirmen leuchten. Du wolltest Aufmerksamkeit für dich allein, jetzt hast du den Zirkus, während ich deine wertlosen Skizzen zu Geld mache. Ich schnappe mir mein Tablet, bereit ihm den Bildschirm an den Kopf zu werfen, als plötzlich eine E-Mail mit den finalen Beweisen aufschlägt. Das siehst du in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "+850 Aufru",
+        "after": "2.050 Auf"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level einer Instagram-Story. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "1.200 Aufrufe in zwanzig Minuten – und die falsche Person hat sie geteilt, während ich im kalten Atelier sitze und Victor mich öffentlich als talentlose Diebin abstempelt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze an meinem Zeichenbrett in dem alten Altbau-Atelier, die Nacht ist stockfinster draußen, während meine Entwürfe auf Victor's Agentur-Bildschirmen leuchten."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du wolltest Aufmerksamkeit für dich allein, jetzt hast du den Zirkus, während ich deine wertlosen Skizzen zu Geld mache.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schnappe mir mein Tablet, bereit ihm den Bildschirm an den Kopf zu werfen, als plötzlich eine E-Mail mit den finalen Beweisen aufschlägt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Du wolltest Aufmerksamkeit für dich allein, jetzt hast du den Zirkus.",
+      "quote_by": {
+        "level": 6,
+        "name": "Victor, 40, Agenturchef",
+        "badge": "25.000 Aufrufe",
+        "character": "A sleek eggplant person with a glossy purple crown, wearing an expensive tailored designer suit and a gold signet ring.",
+        "scene": "Medium shot in a high-rise corner office with floor-to-ceiling windows, Victor crossing his arms and smirking at a digital tablet."
+      },
+      "stats": [
+        {
+          "label": "Aufrufe",
+          "value": "1.200",
+          "bar": 0.35
+        },
+        {
+          "label": "Follower",
+          "value": "3.400",
+          "bar": 0.3
+        },
+        {
+          "label": "Stress",
+          "value": "95%",
+          "bar": 0.95
+        }
+      ],
+      "character": "An artistic avocado person with a smooth light green skin head, wearing a paint-splattered denim overall and large round vintage glasses.",
+      "visual": "Wide shot of a cluttered creative studio at night, paint tubes scattered everywhere, glowing green digits on her forehead contrasting with the dark room.",
+      "scenes": [
+        "Wide shot of a cluttered creative studio at night, paint tubes scattered everywhere, glowing green digits on her forehead contrasting with the dark room.",
+        "Detail shot of a drawing tablet screen flashing with hundreds of heart notifications in rapid succession.",
+        "Close-up shot of the avocado person biting her lip in frustration, watching the view counter climb uncontrollably.",
+        "Medium shot near the wooden studio door where a tiny golden coin is wedged into the old floorboards.",
+        "Wide shot of the rainy cobblestone street outside the studio window, illuminated by harsh streetlights.",
+        "Detail shot of an incoming email notification with a subject line written completely in capital letters."
+      ],
+      "caption": "Ein einziger Post und plötzlich schaut die ganze Stadt zu. #StirnZahl #Design #Atelier #BerlinLife #ViralDrama"
+    },
+    {
+      "n": 4,
+      "open_loop": "Wer hat die geheimen Screenshot-Beweise an die lokale Presse weitergeleitet?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Droht ihr mit rechtlichen Schritten wegen Markenrechtsverletzung durch das gepostete Foto."
+      },
+      "name": "Ben, 26, Influencer",
+      "badge": "45.000 Aufrufe",
+      "verdict": "VIRAL",
+      "story": "Die 8 Level einer Instagram-Story. Level 4. 45.000 Aufrufe und ein Shitstorm, der exakt auf eine einzige Person zielt, während ich im Luxus bade und über Mias Pleite spötte. Ich stehe im Blitzlichtgewitter der Rooftop-Bar, halte mein Smartphone in die Kamera und lache über die Naivität der Kleinen da unten. Du denkst, du bist unantastbar mit deinen paar Klicks, oder? Schau dir an, wie du und deine Freunde im Dreck kriecht. Bevor ich antworten kann, lädt im Hintergrund das Dokument, das meine eigene Maskerade sofort zerstören wird, und mein Handy vibriert hektisch. Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+15.000 Au",
+        "after": "60.000 Au"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level einer Instagram-Story. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "45.000 Aufrufe und ein Shitstorm, der exakt auf eine einzige Person zielt, während ich im Luxus bade und über Mias Pleite spötte."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe im Blitzlichtgewitter der Rooftop-Bar, halte mein Smartphone in die Kamera und lache über die Naivität der Kleinen da unten."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du denkst, du bist unantastbar mit deinen paar Klicks, oder? Schau dir an, wie du und deine Freunde im Dreck kriecht.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Bevor ich antworten kann, lädt im Hintergrund das Dokument, das meine eigene Maskerade sofort zerstören wird, und mein Handy vibriert hektisch."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Du denkst, du bist unantastbar mit deinen paar Klicks, oder?",
+      "quote_by": {
+        "level": 7,
+        "name": "Madame Zimt, 52, Investorin",
+        "badge": "250.000 Aufrufe",
+        "character": "A stern bark person with a deeply wrinkled wooden texture head, wearing a luxurious faux-fur coat and heavy gold necklaces.",
+        "scene": "Wide shot of a VIP lounge in an upscale hotel, Madame Zimt looking down disdainfully from a balcony."
+      },
+      "stats": [
+        {
+          "label": "Aufrufe",
+          "value": "45.000",
+          "bar": 0.55
+        },
+        {
+          "label": "Reichweite",
+          "value": "89%",
+          "bar": 0.89
+        },
+        {
+          "label": "Ego",
+          "value": "MAX",
+          "bar": 1.0
+        }
+      ],
+      "character": "A flashy dragon fruit person with bright pink and green skin spikes, wearing a reflective silver bomber jacket and wireless white earbuds.",
+      "visual": "Wide shot of an exclusive rooftop party at night with glowing fairy lights, city skyline in the background, neon pink digits shining brightly on his forehead.",
+      "scenes": [
+        "Wide shot of an exclusive rooftop party at night with glowing fairy lights, city skyline in the background, neon pink digits shining brightly on his forehead.",
+        "Medium shot of guests holding champagne glasses, staring at their phones while whispering amongst themselves.",
+        "Detail shot of a smartphone screen showing a viral post with thousands of angry comment notifications.",
+        "Close-up-shot of the dragon fruit person smirking confidently directly into the camera lens.",
+        "Medium shot near the glass railing of the terrace where a tiny golden coin is half-hidden behind a planter.",
+        "Detail shot of the forehead number suddenly jumping by fifteen thousand views in a matter of seconds."
+      ],
+      "caption": "Wenn der eigene Post plötzlich die Kontrolle verliert. Wer schaut gerade zu? #StirnZahl #InfluencerLife #Rooftop #Berlin #Drama"
+    },
+    {
+      "n": 5,
+      "open_loop": "Welche Summe stand in dem vertraulichen Dokument, das der Manager in seinem Safe versteckt?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Kauft die Plattform auf und löscht alle Spuren der viralen Story innerhalb von Sekunden."
+      },
+      "name": "Tom, 31, Manager",
+      "badge": "12.500 Aufrufe",
+      "verdict": "KONTROLLE",
+      "story": "Die 8 Level einer Instagram-Story. Level 5. 12.500 Aufrufe – und ich schwitze im Konferenzraum, während Madame Zimt mich kühl herabsetzt und mit der Vernichtung droht. Ich sitze in meinem fensterlosen Konferenzraum im achten Stock, die Klimaanlage summt leise vor sich hin, während mein Blick an ihren eiskalten Augen hängt. Wenn dieser Skandal die Firma erreicht, vernichte ich deine gesamte Existenz mit einem einzigen Mausklick, Tom. Ich schlucke schwer, während mein Handy vibriert und eine unbekannte Nummer drohend auf dem Display aufleuchtet. Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "-5.000 Auf",
+        "after": "7.500 Auf"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level einer Instagram-Story. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "12.500 Aufrufe – und ich schwitze im Konferenzraum, während Madame Zimt mich kühl herabsetzt und mit der Vernichtung droht."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze in meinem fensterlosen Konferenzraum im achten Stock, die Klimaanlage summt leise vor sich hin, während mein Blick an ihren eiskalten Augen hängt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wenn dieser Skandal die Firma erreicht, vernichte ich deine gesamte Existenz mit einem einzigen Mausklick, Tom.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schlucke schwer, während mein Handy vibriert und eine unbekannte Nummer drohend auf dem Display aufleuchtet."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Wenn dieser Skandal die Firma erreicht, bist du deinen Job schneller los, als du gucken kannst.",
+      "quote_by": {
+        "level": 8,
+        "name": "Der Unbekannte, ??",
+        "badge": "??? Aufrufe",
+        "character": "A mysterious coconut person wrapped in a dark trench coat with a completely shadowed face and a faint silver glow.",
+        "scene": "Medium shot inside a dimly lit underground parking garage, the mysterious figure leaning against a black luxury car."
+      },
+      "stats": [
+        {
+          "label": "Aufrufe",
+          "value": "12.500",
+          "bar": 0.45
+        },
+        {
+          "label": "Risiko",
+          "value": "88%",
+          "bar": 0.88
+        },
+        {
+          "label": "Power",
+          "value": "70%",
+          "bar": 0.7
+        }
+      ],
+      "character": "A smooth coconut person with a hard brown textured shell, wearing a crisp tailored business suit, a silk tie, and gold-rimmed reading glasses.",
+      "visual": "Medium shot inside a sleek glass-walled corporate boardroom at dusk, cool blue lighting reflecting off the polished conference table and his glowing forehead.",
+      "scenes": [
+        "Medium shot inside a sleek glass-walled corporate boardroom at dusk, cool blue lighting reflecting off the polished conference table and his glowing forehead.",
+        "Detail shot of a tablet screen displaying corporate metrics and a spike in social media mentions.",
+        "Close-up shot of the coconut person massaging his temples in deep stress.",
+        "Wide shot of the empty hallway outside the office, a tiny golden coin resting on the edge of a water dispenser.",
+        "Medium shot near the elevator doors as they open to reveal a dimly lit corridor.",
+        "Detail shot of a phone screen showing an incoming call from an unknown location."
+      ],
+      "caption": "Wenn die Karriere von einem einzigen falschen Klick abhängt. #StirnZahl #CorporateLife #BusinessDrama #Berlin"
+    },
+    {
+      "n": 6,
+      "open_loop": "Was geschah in den drei Minuten, in denen das Firmennetzwerk plötzlich komplett zusammenbrach?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Postet unbewusst den entscheidenden Beweis, der das ganze System zum Einsturz bringt."
+      },
+      "name": "Victor, 40, Agenturchef",
+      "badge": "25.000 Aufrufe",
+      "verdict": "MACHT",
+      "story": "Die 8 Level einer Instagram-Story. Level 6. 25.000 Aufrufe – und ich triumphiere im Penthouse über meine vermeintliche absolute Macht, kurz bevor Mia im Serverraum den Stecker zieht und mein Imperium einstürzt. Ich stehe in meinem Penthouse-Büro, blicke hinab auf die glitzernden Straßen von Berlin und halte das Tablet in der Hand, sicher, dass mir niemand das Wasser reichen kann. Alles fliegt uns um die Ohren, Chef! Die Plattform löscht gerade alle unsere Server und das ganze Imperium bricht zusammen. Ich trete einen Schritt vor, bereit ihn zu feuern, als mein eigener Bildschirm schwarz wird und die Panik mich packt. Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+50.000 Au",
+        "after": "75.000 Au"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level einer Instagram-Story. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "25.000 Aufrufe – und ich triumphiere im Penthouse über meine vermeintliche absolute Macht, kurz bevor Mia im Serverraum den Stecker zieht und mein Imperium einstürzt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe in meinem Penthouse-Büro, blicke hinab auf die glitzernden Straßen von Berlin und halte das Tablet in der Hand, sicher, dass mir niemand das Wasser reichen kann."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Alles fliegt uns um die Ohren, Chef! Die Plattform löscht gerade alle unsere Server und das ganze Imperium bricht zusammen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich trete einen Schritt vor, bereit ihn zu feuern, als mein eigener Bildschirm schwarz wird und die Panik mich packt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Alles fliegt uns um die Ohren, Chef. Die Plattform löscht gerade alle unsere Server.",
+      "quote_by": {
+        "level": 1,
+        "name": "Mia, 19, Azubi",
+        "badge": "12 Aufrufe",
+        "character": "A shy strawberry person with a head made of a ripe red berry, wearing a worn-out gray hoodie.",
+        "scene": "Medium shot in a dark server room, Mia plugging in a small USB drive that triggers a system shutdown."
+      },
+      "stats": [
+        {
+          "label": "Aufrufe",
+          "value": "25.000",
+          "bar": 0.7
+        },
+        {
+          "label": "Macht",
+          "value": "90%",
+          "bar": 0.9
+        },
+        {
+          "label": "Kontrolle",
+          "value": "12%",
+          "bar": 0.12
+        }
+      ],
+      "character": "A sleek eggplant person with a glossy purple crown, wearing an expensive tailored designer suit, a silk pocket square, and a heavy gold signet ring.",
+      "visual": "Wide shot of a luxurious penthouse office with floor-to-ceiling windows showing the Berlin skyline at night, purple neon light illuminating his forehead numbers.",
+      "scenes": [
+        "Wide shot of a luxurious penthouse office with floor-to-ceiling windows showing the Berlin skyline at night, purple neon light illuminating his forehead numbers.",
+        "Detail shot of a multi-monitor setup displaying plummeting server graphs and red error warnings.",
+        "Close-up shot of the eggplant person gritting his teeth in sudden panic.",
+        "Medium shot near the leather executive armchair where a tiny golden coin is placed on the armrest.",
+        "Wide shot of the private elevator lobby as the doors slide open with a metallic chime.",
+        "Detail shot of a computer monitor turning completely black except for a single blinking cursor."
+      ],
+      "caption": "Wenn die eigene Machtmaschine ins Stottern gerät. Wer zieht im Hintergrund die Fäden? #StirnZahl #Penthouse #PowerPlay #Berlin"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welches entscheidende Detail wurde in den Verträgen von vor fünf Jahren absichtlich verschwiegen?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Weigert sich, die entscheidenden Grafik-Dateien herauszugeben, solange ihre Forderungen nicht erfüllt werden."
+      },
+      "name": "Madame Zimt, 52, Investorin",
+      "badge": "250.000 Aufrufe",
+      "verdict": "UNAUFHALTSAM",
+      "story": "Die 8 Level einer Instagram-Story. Level 7. 250.000 Aufrufe – und ich genieße meinen Triumph in der Oper, während Clara auf dem Balkon steht und die Verträge offenlegt, die meine illegalen Millionen-Deals entlarven. Ich sitze in der ersten Reihe der Oper, trinke Champagner aus einem Kristallglas und beobachte, wie unten auf den Bildschirmen der Stadt die Server zusammenbrechen. Du hast geglaubt, du könntest alles kaufen, Zimt, aber diese Verträge entlarven deine Millionen-Deals vor der ganzen Welt. Bevor ich aufstehen kann, verdunkelt sich der ganze Saal und Panik bricht unter den reichen Gästen aus. Das siehst du in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "+500.000 A",
+        "after": "750.000 A"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level einer Instagram-Story. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "250.000 Aufrufe – und ich genieße meinen Triumph in der Oper, während Clara auf dem Balkon steht und die Verträge offenlegt, die meine illegalen Millionen-Deals entlarven."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sitze in der ersten Reihe der Oper, trinke Champagner aus einem Kristallglas und beobachte, wie unten auf den Bildschirmen der Stadt die Server zusammenbrechen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du hast geglaubt, du könntest alles kaufen, Zimt, aber diese Verträge entlarven deine Millionen-Deals vor der ganzen Welt.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Bevor ich aufstehen kann, verdunkelt sich der ganze Saal und Panik bricht unter den reichen Gästen aus."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Du hast geglaubt, du könntest alles kaufen, aber das Spiel ist vorbei.",
+      "quote_by": {
+        "level": 3,
+        "name": "Clara, 25, Grafikerin",
+        "badge": "1.200 Aufrufe",
+        "character": "An artistic avocado person with a smooth light green skin head, wearing a paint-splattered denim overall.",
+        "scene": "Medium shot on a grand opera balcony, Clara holding a glowing tablet that projects financial records across the entire auditorium."
+      },
+      "stats": [
+        {
+          "label": "Aufrufe",
+          "value": "250K",
+          "bar": 0.9
+        },
+        {
+          "label": "Einfluss",
+          "value": "99%",
+          "bar": 0.99
+        },
+        {
+          "label": "Macht",
+          "value": "MAX",
+          "bar": 1.0
+        }
+      ],
+      "character": "A stern bark person with a deeply wrinkled wooden texture head, wearing a luxurious faux-fur coat, heavy gold necklaces, and dark velvet gloves.",
+      "visual": "Wide shot of a grand, ornate opera house interior filled with velvet seats and crystal chandeliers, a warm golden glow reflecting off her forehead numbers.",
+      "scenes": [
+        "Wide shot of a grand, ornate opera house interior filled with velvet seats and crystal chandeliers, a warm golden glow reflecting off her forehead numbers.",
+        "Detail shot of a crystal champagne glass shattering slightly against a velvet armrest.",
+        "Close-up shot of the bark person's face turning pale as she reads the incoming notification.",
+        "Medium shot near the velvet auditorium curtains where a tiny golden coin rests on the floor.",
+        "Wide shot of the stage lights flickering and dimming simultaneously across the entire room.",
+        "Detail shot of a smartphone screen displaying a live financial stream with glowing red graphs."
+      ],
+      "caption": "Wenn die mächtigste Person im Raum plötzlich alles verliert. Wer gewinnt am Ende? #StirnZahl #Opera #Finale #Berlin #PlotTwist"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welches universelle Geheimnis verbindet alle acht Level zu einer einzigen, unendlichen Schleife?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Startet die allererste Story von vorn, wodurch sich der Kreis für alle Figuren schließt."
+      },
+      "name": "Der Unbekannte, ??",
+      "badge": "Unendlich",
+      "verdict": "EWIG",
+      "story": "Die 8 Level einer Instagram-Story. Level 8. Unendliche Aufrufe – und die finale Erkenntnis auf dem Dach, dass die Demütigung erst dann endet, wenn man die Regeln des Systems komplett zerbricht. Ich stehe auf dem Dach des höchsten Gebäudes der Stadt, genau dort, wo sich alle Wege der acht Figuren kreuzen und der Kreis sich schließt. Jede Story, die gepostet wurde, jede Demütigung, jeder Triumph – sie alle waren nur Teile desselben großen Puzzles, das wir nun sprengen. Die Zahlen auf unseren Stirnen beginnen langsam zu verblassen und verwandeln sich in ein einziges warmes Leuchten für alle. Welches Thema sollte deiner Meinung nach in der nächsten Serie unbedingt als Nächstes kommen?",
+      "gender": "m",
+      "twist": {
+        "delta": "RESET",
+        "after": "12 Aufruf"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level einer Instagram-Story. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Unendliche Aufrufe – und die finale Erkenntnis auf dem Dach, dass die Demütigung erst dann endet, wenn man die Regeln des Systems komplett zerbricht."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich stehe auf dem Dach des höchsten Gebäudes der Stadt, genau dort, wo sich alle Wege der acht Figuren kreuzen und der Kreis sich schließt."
+        },
+        {
+          "s": "Figur",
+          "t": "Jede Story, die gepostet wurde, jede Demütigung, jeder Triumph – sie alle waren nur Teile desselben großen Puzzles, das wir nun sprengen."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahlen auf unseren Stirnen beginnen langsam zu verblassen und verwandeln sich in ein einziges warmes Leuchten für alle."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema sollte deiner Meinung nach in der nächsten Serie unbedingt als Nächstes kommen?"
+        }
+      ],
+      "quote": "Welches Thema sollte deiner Meinung nach in der nächsten Serie unbedingt als Nächstes kommen?",
+      "quote_by": {
+        "level": 1,
+        "name": "Mia, 19, Azubi",
+        "badge": "12 Aufrufe",
+        "character": "A shy strawberry person with a head made of a ripe red berry, wearing a worn-out gray hoodie.",
+        "scene": "Wide shot on the rooftop at sunrise, Mia holding her phone as the loop starts over from Level 1."
+      },
+      "stats": [
+        {
+          "label": "Aufrufe",
+          "value": "∞",
+          "bar": 1.0
+        },
+        {
+          "label": "Kreis",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Wahrheit",
+          "value": "ECHT",
+          "bar": 1.0
+        }
+      ],
+      "character": "A mysterious coconut person wrapped in a dark trench coat with a completely shadowed face and a faint silver glowing symbol on the forehead.",
+      "visual": "Wide shot from a bird's-eye perspective on a skyscraper rooftop at sunrise, the entire city glowing beneath a sea of digital numbers, golden light breaking through the horizon.",
+      "scenes": [
+        "Wide shot from a bird's-eye perspective on a skyscraper rooftop at sunrise, the entire city glowing beneath a sea of digital numbers, golden light breaking through the horizon.",
+        "Medium shot showing all eight characters passing each other briefly in the glowing streets below.",
+        "Detail shot of a glowing forehead number slowly fading into a universal infinity symbol.",
+        "Close-up shot of a tiny golden coin resting in the center of the rooftop helipad, catching the first morning sunbeam.",
+        "Wide shot of the bustling central plaza where the morning routine begins all over again.",
+        "Detail shot of a cracked smartphone screen displaying an Instagram story view counter showing twelve tiny profile pictures."
+      ],
+      "caption": "Der Kreis schließt sich. Welches Thema kommt als Nächstes? Schreib es in die Kommentare! #StirnZahl #Finale #Loop #Berlin #StoryOfLife"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das gezielte Posten einer Instagram-Story für genau eine einzige Person",
+  "frame": "frucht"
+}

@@ -1,0 +1,807 @@
+{
+  "title": "The 8 Levels of Overpriced Hipster Coffee",
+  "house": "A bustling neon-lit metropolis called Bean City where produce citizens hustle through morning commutes, sipping expensive artisan brews under digital status glows.",
+  "catchphrase": "The number on your forehead never lies.",
+  "links": [
+    "Barista in Level 2 mentions a quiet man in a tailored suit who leaves massive tips.",
+    "The broken espresso machine in Level 4 gets repaired in Level 6 by a passing technician.",
+    "The golden coin graffiti on the subway wall in Level 1 reappears inside the café in Level 7."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Why did the head barista crush his loyalty card right in front of the manager?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Laughs loudly at his cheap card and tells him to drink tap water outside."
+      },
+      "name": "Pip, 22, Dishwasher",
+      "badge": "$2.15",
+      "verdict": "BROKE",
+      "story": "The 8 levels of overpriced coffee. Level 1. Two dollars and fifteen cents left in my checking account, and I am standing in line at Brewtopia trying to pretend I belong here. Step aside, kid, you are blocking the real customers who pay for organic oat milk foam art and imported vanilla pods. My chest tightens with humiliation as the entire café stares at the glowing red digits flashing above my eyebrows. People like you shouldn't even smell authentic espresso beans, let alone look at them. I reach into my pocket for loose change, praying for a miracle, but my fingers only brush against a rusted paperclip. Then the manager points toward the exit and bans me forever without a word of explanation. Don't walk away yet, kid. Take this pass and see what lies behind the kitchen doors. Suddenly, the front glass shatters as a delivery drone crashes into the street outside, distracting everyone. In that brief moment of total chaos, a hooded figure slips me a counterfeit VIP pass. You'll see how that changes everything in Level 2. You'll see that in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-$5.00",
+        "after": "-$2.85"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of overpriced coffee. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Two dollars and fifteen cents left in my checking account, and I am standing in line at Brewtopia trying to pretend I belong here."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Step aside, kid, you are blocking the real customers who pay for organic oat milk foam art and imported vanilla pods.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My chest tightens with humiliation as the entire café stares at the glowing red digits flashing above my eyebrows."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "People like you shouldn't even smell authentic espresso beans, let alone look at them.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I reach into my pocket for loose change, praying for a miracle, but my fingers only brush against a rusted paperclip."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then the manager points toward the exit and bans me forever without a word of explanation."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Don't walk away yet, kid. Take this pass and see what lies behind the kitchen doors.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Suddenly, the front glass shatters as a delivery drone crashes into the street outside, distracting everyone."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "In that brief moment of total chaos, a hooded figure slips me a counterfeit VIP pass."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see how that changes everything in Level 2."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "People like you shouldn't even smell authentic espresso beans.",
+      "quote_by": {
+        "level": 3,
+        "name": "Broccoli Boss",
+        "badge": "$8,450",
+        "character": "An arrogant broccoli person wearing a tailored wool suit and gold-rimmed glasses.",
+        "scene": "Close-up in the crowded café, sneering down at a blueberry person while pointing a gold pen."
+      },
+      "stats": [
+        {
+          "label": "Balance",
+          "value": "-$2.85",
+          "bar": 0.02
+        },
+        {
+          "label": "Tip Given",
+          "value": "$0.00",
+          "bar": 0.0
+        },
+        {
+          "label": "Dine Status",
+          "value": "Banned",
+          "bar": 0.0
+        }
+      ],
+      "character": "Pip is a tiny round blueberry person with dark blue skin, wearing a stained dishwasher apron and holding a frayed cloth. A glowing digital display on his forehead shows -$2.85.",
+      "visual": "Wide shot of a freezing rainy morning outside Brewtopia café, with a neon sign flickering and a tiny blue blueberry person standing dejectedly on the sidewalk.",
+      "scenes": [
+        "Street level wide shot of Brewtopia café exterior in the rain, neon sign buzzing, golden coin hidden near the doorstep.",
+        "Medium shot inside the warm café, steam rising from espresso machines, hipsters chatting on velvet couches.",
+        "Close-up of Pip's forehead showing a glowing red -$2.85 digital display.",
+        "Over-the-shoulder shot of a broccoli person in a suit sneering at the counter.",
+        "Detail shot of a contactless payment terminal flashing a bright red error light.",
+        "Wide shot of Pip walking away down a wet alleyway as city lights reflect in puddles."
+      ],
+      "caption": "Would you stay in line if everyone judged your bank account? #coffee #broke #drama #bean #viral"
+    },
+    {
+      "n": 2,
+      "open_loop": "Who left the mysterious black envelope inside the tip jar?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Snaps her fingers at the barista, demands a remake, and throws her hot drink on the floor."
+      },
+      "name": "Sunny, 25, Barista",
+      "badge": "$14.50/h",
+      "verdict": "STRUGGLING",
+      "story": "The 8 levels of overpriced coffee. Level 2. Fourteen dollars and fifty cents per hour is all I make while pouring artisanal lattes for ungrateful snobs who wouldn't know hard work if it hit them. You call yourself a barista with that pathetic minimum wage number glowing on your forehead? My manager glares at me for accepting outside help and threatens to dock my weekly hours if I mispronounce a single order. Leave her alone, she works harder than anyone in this pretentious trap while carrying the whole shift. My back aches, my wrists are swollen from repetitive strain, and my rent is due tomorrow morning. Then the cafe doors swing open to reveal an unexpected visitor holding a federal audit warrant. Nobody move! We have reason to believe unregistered beans are being processed on these premises. All the chatter stops instantly as heavy footsteps echo across the polished tile floor. You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "-$2.00",
+        "after": "$12.50/h"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of overpriced coffee. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Fourteen dollars and fifty cents per hour is all I make while pouring artisanal lattes for ungrateful snobs who wouldn't know hard work if it hit them."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You call yourself a barista with that pathetic minimum wage number glowing on your forehead?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "My manager glares at me for accepting outside help and threatens to dock my weekly hours if I mispronounce a single order."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Leave her alone, she works harder than anyone in this pretentious trap while carrying the whole shift.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My back aches, my wrists are swollen from repetitive strain, and my rent is due tomorrow morning."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then the cafe doors swing open to reveal an unexpected visitor holding a federal audit warrant."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Nobody move! We have reason to believe unregistered beans are being processed on these premises.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "All the chatter stops instantly as heavy footsteps echo across the polished tile floor."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Clean this spilled latte off my designer boots right now or you are fired.",
+      "quote_by": {
+        "level": 4,
+        "name": "Zara",
+        "badge": "$3,200",
+        "character": "A glamorous dragonfruit person with pink-scaled skin and oversized sunglasses indoors.",
+        "scene": "Medium shot pointing down at a barista behind the counter while holding a spilled ceramic coffee mug."
+      },
+      "stats": [
+        {
+          "label": "Hourly Wage",
+          "value": "$12.50",
+          "bar": 0.15
+        },
+        {
+          "label": "Tips Today",
+          "value": "$12.00",
+          "bar": 0.1
+        },
+        {
+          "label": "Stress Level",
+          "value": "98%",
+          "bar": 0.95
+        }
+      ],
+      "character": "Sunny is a bright yellow lemon person with a sour expression, wearing a green canvas apron smeared with coffee stains and a tiny golden coin earring. Her forehead shows $12.50/h.",
+      "visual": "Medium shot of a lemon barista wiping down a gleaming espresso machine inside a trendy hipster coffee shop.",
+      "scenes": [
+        "Interior medium shot of Brewtopia counter, warm pendant lighting shining on brass espresso handles, golden coin on saucer.",
+        "Close-up of Sunny's lemon skin glistening with sweat under hot café lights.",
+        "Over-the-shoulder shot of a dragonfruit customer pointing angrily at a coffee mug.",
+        "Detail shot of a digital forehead display flickering from $14.50 down to $12.50.",
+        "Wide shot of the crowded café seating area with diverse produce patrons gossiping.",
+        "Close-up of a mysterious black envelope sliding underneath the tip jar."
+      ],
+      "caption": "Have you ever been humiliated at your service job? #barista #coffee #service #drama #bean"
+    },
+    {
+      "n": 3,
+      "open_loop": "What secret document was hidden inside the CEO's leather briefcase?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Steals his reserved VIP table and laughs at his mid-level corporate position."
+      },
+      "name": "Mason, 31, Marketing Lead",
+      "badge": "$4,200/m",
+      "verdict": "MID-TIER",
+      "story": "The 8 levels of overpriced coffee. Level 3. Four thousand two hundred dollars a month sounds decent until rent eats half of it in Bean City and taxes swallow the rest. Four thousand? That is what my assistant makes for lunch money in a week without breaking a sweat. I grit my teeth and stare at my laptop screen, watching my savings account slowly bleed out while my boss demands impossible quarterly growth. Don't listen to them, Mason, you are doing great work despite the impossible corporate pressure. I take a deep breath, trying to calm my racing heartbeat before my next pitch presentation. Then my phone rings with an urgent call from human resources announcing sudden restructuring. Effective immediately, your entire team is being reassigned to the basement archives. The screen of my computer flashes red, locking me out of my main project files completely. You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "-$300",
+        "after": "$3,900/m"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of overpriced coffee. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Four thousand two hundred dollars a month sounds decent until rent eats half of it in Bean City and taxes swallow the rest."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Four thousand? That is what my assistant makes for lunch money in a week without breaking a sweat.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I grit my teeth and stare at my laptop screen, watching my savings account slowly bleed out while my boss demands impossible quarterly growth."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Don't listen to them, Mason, you are doing great work despite the impossible corporate pressure.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I take a deep breath, trying to calm my racing heartbeat before my next pitch presentation."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then my phone rings with an urgent call from human resources announcing sudden restructuring."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Effective immediately, your entire team is being reassigned to the basement archives.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The screen of my computer flashes red, locking me out of my main project files completely."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Sign this NDA or your entire department gets outsourced by tomorrow morning.",
+      "quote_by": {
+        "level": 6,
+        "name": "Rex",
+        "badge": "$18,500",
+        "character": "A tough coconut person with a hard brown textured shell and an expensive silk tie.",
+        "scene": "Wide shot leaning aggressively over a corner café table, slamming a leather briefcase down."
+      },
+      "stats": [
+        {
+          "label": "Monthly Net",
+          "value": "$3,900",
+          "bar": 0.35
+        },
+        {
+          "label": "Coffee Budget",
+          "value": "$180",
+          "bar": 0.3
+        },
+        {
+          "label": "Corporate Rank",
+          "value": "Mid-Level",
+          "bar": 0.4
+        }
+      ],
+      "character": "Mason is an avocado person with smooth green skin and a dark pit-shaped patch on his cheek, wearing a minimalist black turtleneck. His forehead display reads $3,900/m.",
+      "visual": "Medium shot of an avocado marketing manager sitting at a sleek coffee shop table with an open laptop and a cold brew.",
+      "scenes": [
+        "Corner table inside Brewtopia, soft afternoon sunlight filtering through large windows, golden coin etched into the wooden tabletop.",
+        "Close-up of Mason's avocado skin and the glowing $3,900/m digital forehead display.",
+        "Medium shot of a coconut person in a sharp suit walking past and sneering.",
+        "Detail shot of a laptop screen displaying corporate budget cuts and spreadsheet graphs.",
+        "Over-the-shoulder shot of a strawberry waitress offering words of encouragement.",
+        "Close-up of a smartphone screen vibrating with an incoming call labeled 'HR Director'."
+      ],
+      "caption": "Is corporate life worth the endless stress? #corporate #coffee #avocado #worklife #bean"
+    },
+    {
+      "n": 4,
+      "open_loop": "Why did the bank reject her platinum credit card at checkout?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Demotes her from her penthouse suite and blocks her elevator access card."
+      },
+      "name": "Zara, 28, Influencer",
+      "badge": "$3,200",
+      "verdict": "LIVING LARGE",
+      "story": "The 8 levels of overpriced coffee. Level 4. Three thousand two hundred followers on my lifestyle page, and people treat me like Hollywood royalty in this designer café. Three thousand followers? That is cute, I make that much every ten minutes in crypto dividends without lifting a finger. My chest burns with sudden public embarrassment as my ring light tripod gets knocked over by a clumsy busboy. Let me help you pick up your camera gear before someone steps on it and ruins your stream. I force a smile for my live audience while fighting back hot tears of frustration. Then my phone screen goes entirely black as my main account gets permanently suspended for policy violations. Your brand sponsorships have all been canceled. You don't exist in the algorithm anymore. A strange notification pops up claiming my identity has been flagged by municipal authorities. You'll see that in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "-500",
+        "after": "2,700"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of overpriced coffee. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Three thousand two hundred followers on my lifestyle page, and people treat me like Hollywood royalty in this designer café."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Three thousand followers? That is cute, I make that much every ten minutes in crypto dividends without lifting a finger.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My chest burns with sudden public embarrassment as my ring light tripod gets knocked over by a clumsy busboy."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Let me help you pick up your camera gear before someone steps on it and ruins your stream.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I force a smile for my live audience while fighting back hot tears of frustration."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then my phone screen goes entirely black as my main account gets permanently suspended for policy violations."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Your brand sponsorships have all been canceled. You don't exist in the algorithm anymore.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "A strange notification pops up claiming my identity has been flagged by municipal authorities."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Delete your social media page before you embarrass yourself further.",
+      "quote_by": {
+        "level": 7,
+        "name": "Duke",
+        "badge": "$45,000",
+        "character": "A wealthy peach person with velvety orange skin and diamond-encrusted cufflinks.",
+        "scene": "Medium shot standing over a pink dragonfruit influencer, looking down dismissively."
+      },
+      "stats": [
+        {
+          "label": "Followers",
+          "value": "2,700",
+          "bar": 0.55
+        },
+        {
+          "label": "Engagement",
+          "value": "1.4%",
+          "bar": 0.4
+        },
+        {
+          "label": "Brand Deals",
+          "value": "2 Active",
+          "bar": 0.45
+        }
+      ],
+      "character": "Zara is a striking dragonfruit person with magenta skin and green-tipped bracts, wearing oversized designer sunglasses and a pink silk jacket. Her forehead display shows 2,700.",
+      "visual": "Medium shot of a dragonfruit influencer filming herself with a ring light inside an upscale hipster café.",
+      "scenes": [
+        "VIP lounge area of Brewtopia, velvet seating, ring light glowing brightly, golden coin hidden on a saucer rim.",
+        "Close-up of Zara's dragonfruit skin texture and glowing 2,700 digital follower count.",
+        "Medium shot of a peach mogul in a designer suit walking past her table dismissively.",
+        "Detail shot of a ring light tripod tipping over onto the polished tile floor.",
+        "Over-the-shoulder shot of a friendly busboy helping gather scattered camera accessories.",
+        "Close-up of a smartphone screen going completely black as the app crashes."
+      ],
+      "caption": "Is social media fame just an illusion? #influencer #dragonfruit #socialmedia #drama #bean"
+    },
+    {
+      "n": 5,
+      "open_loop": "Who transferred five hundred thousand dollars into her startup account?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Denies her patent application and blocks her entry to the tech summit."
+      },
+      "name": "Cleo, 26, Founder",
+      "badge": "$45,000",
+      "verdict": "RISING STAR",
+      "story": "The 8 levels of overpriced coffee. Level 5. Forty-five thousand dollars in angel funding is all I have to launch my green-tech startup in Bean City before our runway ends. Forty-five grand? That wouldn't even cover my weekly parking fees downtown, let alone a real venture. My hands shake as I pull up my prototype demo on my tablet screen for the skeptical venture capitalists sitting across the table. Your algorithm is solid, Cleo, don't let the old money dinosaurs intimidate you with their shiny badges. I wipe my sweaty palms on my blazer, refusing to back down from their piercing stares. Then my laptop receives an encrypted notification containing an anonymous wire transfer confirmation. Check the sender address. Someone just bought a controlling stake in your company. The numbers on the screen keep climbing higher and higher until my breath catches in my throat. You'll see that in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "-$5,000",
+        "after": "$40,000"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of overpriced coffee. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Forty-five thousand dollars in angel funding is all I have to launch my green-tech startup in Bean City before our runway ends."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Forty-five grand? That wouldn't even cover my weekly parking fees downtown, let alone a real venture.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My hands shake as I pull up my prototype demo on my tablet screen for the skeptical venture capitalists sitting across the table."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Your algorithm is solid, Cleo, don't let the old money dinosaurs intimidate you with their shiny badges.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I wipe my sweaty palms on my blazer, refusing to back down from their piercing stares."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then my laptop receives an encrypted notification containing an anonymous wire transfer confirmation."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Check the sender address. Someone just bought a controlling stake in your company.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The numbers on the screen keep climbing higher and higher until my breath catches in my throat."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Your pathetic little app will be bankrupt before the end of the fiscal quarter.",
+      "quote_by": {
+        "level": 8,
+        "name": "The Mayor",
+        "badge": "$1,000,000+",
+        "character": "A majestic mushroom person with an ornate cap and a heavy gold mayoral chain.",
+        "scene": "Low-angle shot looking up at a powerful mushroom tycoon pointing dismissively at a startup pitch deck."
+      },
+      "stats": [
+        {
+          "label": "Funding",
+          "value": "$40,000",
+          "bar": 0.65
+        },
+        {
+          "label": "Runway",
+          "value": "6 Months",
+          "bar": 0.5
+        },
+        {
+          "label": "Tech Stack",
+          "value": "AI / Cloud",
+          "bar": 0.7
+        }
+      ],
+      "character": "Cleo is a vibrant orange pumpkin person with smooth ribbed skin, wearing a sharp business blazer and smart glasses. Her forehead display reads $40,000.",
+      "visual": "Medium shot of an orange pumpkin startup founder pitching her app on a tablet inside a modern tech café.",
+      "scenes": [
+        "Tech hub café interior with exposed brick walls, glowing monitors, and a golden coin tucked beneath a flower vase.",
+        "Close-up of Cleo's pumpkin skin texture and the glowing $40,000 startup valuation display.",
+        "Medium shot of a mushroom tycoon in an ornate suit walking past and sneering.",
+        "Detail shot of a tablet screen displaying complex AI green-tech data charts.",
+        "Over-the-shoulder shot of a supportive broccoli engineer offering advice.",
+        "Close-up of a laptop screen flashing an encrypted notification window."
+      ],
+      "caption": "Would you risk everything to build your own company? #startup #founder #pumpkin #tech #bean"
+    },
+    {
+      "n": 6,
+      "open_loop": "What hidden camera footage was leaked onto the corporate network?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Accidentally spills scalding coffee on his handmade leather shoes."
+      },
+      "name": "Rex, 39, Executive",
+      "badge": "$18,500",
+      "verdict": "UPPER CRUST",
+      "story": "The 8 levels of overpriced coffee. Level 6. Eighteen thousand five hundred dollars a month gives me total control over corporate acquisitions in Bean City and access to the executive lounge. Eighteen grand? That is my hourly dividend return before breakfast, so why are you even talking to me? My jaw tightens with sudden shock as my corporate expense card gets declined by the automated register with a piercing buzzer sound. Sometimes the penthouse view makes you forget how gravity works, boss, especially when the floor gives way. I look around the room, realizing that my power and status were nothing more than a temporary illusion. Then my private corporate phone starts buzzing nonstop with emergency alerts from the board of directors. Sir, your accounts have been frozen under suspicion of insider trading and market manipulation. A masked security team steps out from the shadows of the hallway, blocking all exits. You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "-$2,500",
+        "after": "$16,000"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of overpriced coffee. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Eighteen thousand five hundred dollars a month gives me total control over corporate acquisitions in Bean City and access to the executive lounge."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Eighteen grand? That is my hourly dividend return before breakfast, so why are you even talking to me?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My jaw tightens with sudden shock as my corporate expense card gets declined by the automated register with a piercing buzzer sound."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Sometimes the penthouse view makes you forget how gravity works, boss, especially when the floor gives way.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I look around the room, realizing that my power and status were nothing more than a temporary illusion."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then my private corporate phone starts buzzing nonstop with emergency alerts from the board of directors."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Sir, your accounts have been frozen under suspicion of insider trading and market manipulation.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "A masked security team steps out from the shadows of the hallway, blocking all exits."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "Your division is being liquidated by noon, coconut boy.",
+      "quote_by": {
+        "level": 7,
+        "name": "Duke",
+        "badge": "$45,000",
+        "character": "A wealthy peach person with velvety orange skin and diamond-encrusted cufflinks.",
+        "scene": "Close-up looking down at a coconut executive sitting at a VIP table in the café."
+      },
+      "stats": [
+        {
+          "label": "Monthly Bonus",
+          "value": "$16,000",
+          "bar": 0.8
+        },
+        {
+          "label": "Stock Options",
+          "value": "12,000",
+          "bar": 0.75
+        },
+        {
+          "label": "Power Index",
+          "value": "High",
+          "bar": 0.85
+        }
+      ],
+      "character": "Rex is a hard-shelled coconut person with dark brown textured skin, wearing a sharp grey pinstripe suit and an expensive silk tie. His forehead display shows $16,000.",
+      "visual": "Medium shot of a coconut executive sitting in a luxury leather armchair inside Brewtopia café, looking stressed.",
+      "scenes": [
+        "Luxury VIP corner of Brewtopia, marble table, golden coin gleaming beside a crystal water glass.",
+        "Close-up of Rex's brown coconut shell texture and the glowing $16,000 digital salary display.",
+        "Medium shot of a peach mogul walking past and delivering a harsh warning.",
+        "Detail shot of a corporate credit card being rejected by a sleek brass card reader.",
+        "Over-the-shoulder shot of a young blueberry dishwasher watching the executive fall from grace.",
+        "Close-up of a high-end smartphone screen buzzing incessantly with missed calls from the board."
+      ],
+      "caption": "Karma always comes back around in the corporate world. #karma #executive #coconut #corporate #bean"
+    },
+    {
+      "n": 7,
+      "open_loop": "What secret truth is hidden inside the master ledger of Bean City?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Rejects his zoning permit and shuts down his private airstrip."
+      },
+      "name": "Duke, 45, Mogul",
+      "badge": "$45,000/d",
+      "verdict": "ELITE",
+      "story": "The 8 levels of overpriced coffee. Level 7. Forty-five thousand dollars a day flows into my offshore accounts from real estate empire holdings across Bean City. Forty-five grand a day? That wouldn't even pay for my morning security detail or my private yacht maintenance fees. My chest tightens with sudden rage as my private banking app flashes a sudden asset freeze warning notice across the screen. Empire built on sand always washes away when the tide comes in, sir, and your tide is turning fast. I slam my fist against the mahogany table, sending my porcelain teacup shattering onto the floor. Then my private security guards rush toward my table with drawn weapons. Stand back, everyone! The federal authorities have jurisdiction over this entire property now. The glass walls of the VIP lounge begin to retract, exposing us to the roaring rain outside. You'll see that in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "-$10,000",
+        "after": "$35,000/d"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of overpriced coffee. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Forty-five thousand dollars a day flows into my offshore accounts from real estate empire holdings across Bean City."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Forty-five grand a day? That wouldn't even pay for my morning security detail or my private yacht maintenance fees.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My chest tightens with sudden rage as my private banking app flashes a sudden asset freeze warning notice across the screen."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Empire built on sand always washes away when the tide comes in, sir, and your tide is turning fast.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I slam my fist against the mahogany table, sending my porcelain teacup shattering onto the floor."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then my private security guards rush toward my table with drawn weapons."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Stand back, everyone! The federal authorities have jurisdiction over this entire property now.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "The glass walls of the VIP lounge begin to retract, exposing us to the roaring rain outside."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "Your entire portfolio has just been seized by federal regulators.",
+      "quote_by": {
+        "level": 5,
+        "name": "Cleo",
+        "badge": "$40,000",
+        "character": "An ambitious orange pumpkin startup founder wearing a bright orange blazer and smart glasses.",
+        "scene": "Medium shot standing tall in front of a wealthy peach mogul while holding an official legal document."
+      },
+      "stats": [
+        {
+          "label": "Daily Income",
+          "value": "$35,000",
+          "bar": 0.9
+        },
+        {
+          "label": "Real Estate",
+          "value": "42 Assets",
+          "bar": 0.95
+        },
+        {
+          "label": "Influence",
+          "value": "Max",
+          "bar": 0.95
+        }
+      ],
+      "character": "Duke is a velvety peach person with soft orange fuzz skin, wearing a luxury cashmere overcoat and sparkling diamond cufflinks. His forehead display shows $35,000/d.",
+      "visual": "Medium shot of a peach real estate mogul sitting in a private leather booth inside Brewtopia, looking shocked.",
+      "scenes": [
+        "Private VIP alcove of Brewtopia, crystal chandelier lighting, golden coin embedded in the marble floor.",
+        "Close-up of Duke's velvety peach skin texture and the glowing $35,000/d financial display.",
+        "Medium shot of a powerful pumpkin startup founder confronting him with legal papers.",
+        "Detail shot of a mobile banking app flashing a red asset freeze warning alert.",
+        "Over-the-shoulder shot of security guards approaching the private booth.",
+        "Wide shot of Duke standing up in disbelief as other patrons whisper around him."
+      ],
+      "caption": "Even the wealthiest empires can crumble overnight. #wealth #mogul #peach #finance #bean"
+    },
+    {
+      "n": 8,
+      "open_loop": "Which topic of the absurd daily struggle in Bean City should we explore next?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Bows respectfully and hands over the master key to the city."
+      },
+      "name": "The Mayor, 60, Ruler",
+      "badge": "UNLIMITED",
+      "verdict": "THE SOURCE",
+      "story": "The 8 levels of overpriced coffee. Level 8. The final level. Unlimited resources mean nothing when you realize every single coffee bean in Bean City is grown from the exact same soil of human experience. You dropped this outside, mister, and I think it belongs to the person who started this whole endless cycle. I look at his glowing red digits and remember every cruel thing that was ever said across these marble tables by people who thought numbers defined their souls. The number on your forehead never lies, but maybe the heart behind it tells a completely different story when the cups are finally empty. I take a step forward as the digital displays across the entire metropolis begin to flicker and reset to zero. Suddenly, every citizen in the café drops their cups simultaneously, turning to face the front entrance as a new dawn breaks. Look outside. The rain has finally stopped, and the numbers are completely gone. You won't believe what happens when the doors open wide. What topic should we explore next in Bean City?",
+      "gender": "m",
+      "twist": {
+        "delta": "RESET",
+        "after": "INFINITY"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of overpriced coffee. Level 8. The final level."
+        },
+        {
+          "s": "Figur",
+          "t": "Unlimited resources mean nothing when you realize every single coffee bean in Bean City is grown from the exact same soil of human experience."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You dropped this outside, mister, and I think it belongs to the person who started this whole endless cycle.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I look at his glowing red digits and remember every cruel thing that was ever said across these marble tables by people who thought numbers defined their souls."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "The number on your forehead never lies, but maybe the heart behind it tells a completely different story when the cups are finally empty.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I take a step forward as the digital displays across the entire metropolis begin to flicker and reset to zero."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Suddenly, every citizen in the café drops their cups simultaneously, turning to face the front entrance as a new dawn breaks."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Look outside. The rain has finally stopped, and the numbers are completely gone.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You won't believe what happens when the doors open wide."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What topic should we explore next in Bean City?"
+        }
+      ],
+      "quote": "The coffee was never expensive; the price was just a test of who remains human.",
+      "quote_by": {
+        "level": 8,
+        "name": "The Mayor",
+        "badge": "UNLIMITED",
+        "character": "An ancient mushroom person with a wise spotted cap and glowing golden mayoral regalia.",
+        "scene": "Wide cinematic shot sitting at the center table of Brewtopia, surrounded by all produce citizens."
+      },
+      "stats": [
+        {
+          "label": "City Control",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Wisdom",
+          "value": "Infinite",
+          "bar": 1.0
+        },
+        {
+          "label": "Loop Status",
+          "value": "Active",
+          "bar": 1.0
+        }
+      ],
+      "character": "The Mayor is an ancient mushroom person with a wide speckled red cap, wearing a heavy golden mayoral chain and velvet robes. His forehead display glows with an infinity symbol.",
+      "visual": "Cinematic wide shot of the majestic mushroom mayor sitting at the central table of Brewtopia as all produce citizens look on in silence.",
+      "scenes": [
+        "Center of Brewtopia café, majestic lighting illuminating the entire room, golden coin resting on the main table.",
+        "Close-up of the ancient mushroom cap texture and the glowing infinity forehead display.",
+        "Medium shot of all previous characters—blueberry, lemon, avocado, dragonfruit, pumpkin, coconut, peach—gathered together.",
+        "Detail shot of digital forehead displays across the room flickering simultaneously.",
+        "Over-the-shoulder shot of the young blueberry boy handing a golden coin to the mayor.",
+        "Wide epic shot of the entire city skyline as the morning sun rises over Bean City."
+      ],
+      "caption": "Which topic of the absurd daily struggle in Bean City should we explore next? #finale #mayor #coffee #mushrooms #bean"
+    }
+  ],
+  "lang": "en",
+  "topic": "Das absurde Rechtfertigen von völlig überteuertem Kaffee im Hipster-Café",
+  "frame": "frucht"
+}
