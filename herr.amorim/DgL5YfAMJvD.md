@@ -2,7 +2,7 @@
 
 - URL: https://www.instagram.com/p/DgL5YfAMJvD/
 - Dauer: 80.8 s, Sprache: de
-- Likes: 24, Kommentare: 0, Views: 984
+- Likes: 142, Kommentare: 0, Views: 6695
 - Datum: 2026-11-26T01:36:53.000Z
 
 ## Beschreibung
