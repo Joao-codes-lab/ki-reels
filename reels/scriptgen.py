@@ -428,12 +428,17 @@ def blueprint_hint(topic):
             " Übernimm nur die Mechanik, keinen Inhalt:\n"
             f"- Hook-Typ: {bp['hook_typ']}\n- Aufbau: {bp['aufbau']}\n- Spannung: {bp['spannung']}\n"
             f"- Emotion: {bp['emotion']}\n- Stil des Originals (nur als Anregung): {bp.get('design', '')}\n"
-            f"{rules}\n- Mögliche Hooks (frei abwandeln): {hooks}\n")
+            f"{rules}\n- Mögliche Hooks (frei abwandeln und IMMER in die Sprache der Serie übersetzen): {hooks}\n")
 
 
 GERMAN_WORDS = {"und", "der", "die", "das", "ich", "nicht", "mit", "ist", "ein", "eine", "auf", "mich", "mir", "sich", "auch", "aber",
                 "heute", "mal", "wir", "du", "dein", "mein", "noch", "schon", "sehr", "kein", "keine", "wenn",
                 "dann", "oder", "wie", "habe", "sind", "zu", "dem", "nur", "siehst"}
+# Nur für die Satzprüfung: eindeutig deutsche Wörter, die im Englischen nicht vorkommen
+# (26.11.: "0 chats gelesen? Genau deshalb hat sie dich gerade aus der Wohnung geworfen" rutschte durch)
+GERMAN_SENT_WORDS = GERMAN_WORDS | {"sie", "dich", "dir", "aus", "genau", "deshalb", "gerade", "warum", "weil", "jetzt",
+                                    "immer", "nie", "wer", "bist", "hast", "nach", "für", "über", "doch", "hier", "deine",
+                                    "meine", "einen", "einem", "nichts", "alles", "wirklich", "gelesen", "werden", "wurde"}
 
 
 def _looks_german(text):
@@ -447,9 +452,9 @@ def _looks_german(text):
         print("  Sprachprüfung: Deutsch erkannt", umlaut_words[:3])
         return True
     for sent in re.split(r"[.!?\n]+", text.lower()):
-        w = re.findall(r"[a-z]+", sent)
+        w = re.findall(r"[a-zäöüß]+", sent)
         # "die" ist auch ein englisches Wort und zählt hier nicht
-        if len(w) >= 3 and sum(x in GERMAN_WORDS and x != "die" for x in w) >= 2:
+        if len(w) >= 3 and sum(x in GERMAN_SENT_WORDS and x != "die" for x in w) >= 2:
             print("  Sprachprüfung: deutscher Satz:", sent.strip()[:100])
             return True
     return False
@@ -519,7 +524,9 @@ def write_series(topic, lang, frame="aufzug"):
                     lang_name=LANG_NAMES[lang], json=json.dumps(s, ensure_ascii=False))))), lang)
                 lw = len(longer["levels"][0]["story"].split())
                 print(f"  Story verlängert: {words} -> {lw} Wörter")
-                if lw > words:
+                if lang != "de" and _looks_german(_series_text(longer)):
+                    print("  Verlängerung enthält Deutsch – verworfen")
+                elif lw > words:
                     s, words = longer, lw
             except Exception as e:  # noqa: BLE001 – Verlängern ist nur ein Rettungsversuch
                 print(f"  Verlängern fehlgeschlagen ({e})")
