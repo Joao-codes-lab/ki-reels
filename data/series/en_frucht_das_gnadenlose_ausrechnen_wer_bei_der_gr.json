@@ -1,0 +1,753 @@
+{
+  "title": "The 8 Levels of Restaurant Splitting",
+  "house": "A bustling neon-lit metropolis where anthropomorphic fruit and vegetable citizens live, work, and eat together, all bearing glowing digital numbers on their foreheads.",
+  "catchphrase": "The number never lies.",
+  "links": [
+    "Level 3 mentions the barista with the cheap coffee who always sits near the old wooden clock",
+    "Level 6 references the crying coconut dropping change outside the subway station",
+    "Level 8 ties together the forgotten receipt left on table four"
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Why did the glowing digital display on her forehead suddenly flash red and drop her calculated share by half?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Insulted her cheap house salad and forced her to pay for the table's expensive imported sparkling water."
+      },
+      "name": "Mia, 22, Intern",
+      "badge": "$3.50 salad",
+      "verdict": "BROKE",
+      "story": "The 8 levels of restaurant splitting. Level 1. Level 1: $3.50 for a house salad—and they still expected me to split the $400 lobster bill equally. I stared at my lettuce-leaf fingers, trembling over the greasy receipt at Bistro 9 while the ambient neon hummed a warning song. You only ordered leaves, Mia, but luxury costs extra. A tiny gold coin glinted near my water glass, mocking my bank account and whispering of hidden fortunes. I held my breath, gripping my fork, while the waitress tapped her notepad impatiently, waiting for a breakdown. Pay your fair share or wash the dishes. Then she said this one sentence that changed everything about the entire evening. A sudden whisper echoed through the dining room, revealing that someone had already tampered with the ledger. Why did the glowing digital display on her forehead suddenly flash red and drop her calculated share by half? You'll see that in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "-$1.50",
+        "after": "$2.00"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of restaurant splitting. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: $3.50 for a house salad—and they still expected me to split the $400 lobster bill equally."
+        },
+        {
+          "s": "Figur",
+          "t": "I stared at my lettuce-leaf fingers, trembling over the greasy receipt at Bistro 9 while the ambient neon hummed a warning song."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You only ordered leaves, Mia, but luxury costs extra.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "A tiny gold coin glinted near my water glass, mocking my bank account and whispering of hidden fortunes. I held my breath, gripping my fork, while the waitress tapped her notepad impatiently, waiting for a breakdown."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Pay your fair share or wash the dishes.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then she said this one sentence that changed everything about the entire evening. A sudden whisper echoed through the dining room, revealing that someone had already tampered with the ledger."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Why did the glowing digital display on her forehead suddenly flash red and drop her calculated share by half?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "Pay your fair share or wash the dishes.",
+      "quote_by": {
+        "level": 7,
+        "name": "Victor",
+        "badge": "$8,900 bill",
+        "character": "An arrogant Dragon Fruit man with scaly pink skin, sharp green tips, wearing a tailored charcoal suit and a gold Rolex.",
+        "scene": "Wide angle shot of a luxurious restaurant table, Victor leaning back with a cruel smirk, pointing a dragon-fruit finger at terrified Mia."
+      },
+      "stats": [
+        {
+          "label": "Salad Cost",
+          "value": "$3.50",
+          "bar": 0.05
+        },
+        {
+          "label": "Tip Left",
+          "value": "$0.00",
+          "bar": 0.01
+        },
+        {
+          "label": "Bank Acc",
+          "value": "$12.40",
+          "bar": 0.08
+        }
+      ],
+      "character": "An anxious Iceberg Lettuce woman with pale, crisp green layered leaves for hair, wearing a worn cotton apron, and a bright glowing digital forehead display.",
+      "visual": "Close-up shot of a terrified iceberg lettuce woman staring at a restaurant bill inside a dimly lit bistro with a glowing digital forehead.",
+      "scenes": [
+        "Wide shot of a crowded, neon-lit bistro interior with vegetable patrons eating under warm hanging amber lights.",
+        "Medium shot of a crisp green lettuce woman looking down at a small white salad plate with a hidden tiny gold coin.",
+        "Close-up of a glowing digital forehead display showing $3.50 in bright red LED numbers.",
+        "Medium shot of an arrogant dragon-fruit man in a sharp suit slamming a black credit card onto the wooden table.",
+        "Detailed macro shot of a greasy restaurant bill resting next to a half-empty glass of tap water.",
+        "Overhead shot of a bustling restaurant kitchen window with steam rising and shadows of fruit people moving."
+      ],
+      "caption": "Splitting the bill is the ultimate friendship test! Would you pay for someone else's lobster? #restaurantdrama #billsplit #broke #foodie #trend"
+    },
+    {
+      "n": 2,
+      "open_loop": "Who slipped the mysterious fifty-dollar bill under the cracked ceramic sugar bowl?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Laughed loudly at her basic drip coffee and accused her of stealing the leftover bread basket."
+      },
+      "name": "Chloe, 25, Barista",
+      "badge": "$4.20 coffee",
+      "verdict": "UNDERPAID",
+      "story": "Level 2. Level 2: $4.20 for a black drip coffee—and the table next to mine argued for twenty minutes over a single nickel while the morning rush reached its peak. I wiped down the sticky counter at the corner cafe while a stiff coconut man named Arthur pointed his hard shell at my tip jar with utter disdain. You call that service, little bean? A hidden gold coin rolled past my worn sneakers as the espresso machine hissed loudly, venting pressurized steam into the cold air. I gritted my teeth, gripping my damp rag, while the morning commuters glared at me like I owed them money for simply breathing. Tip jars are for people who actually work hard. Then she dropped her heavy leather wallet right on my foot, scattering receipts across the slick tile floor. A secret note tumbled out from the folds, pointing toward a massive financial conspiracy. Who slipped the mysterious fifty-dollar bill under the cracked ceramic sugar bowl? You'll see that in Level 3.",
+      "gender": "w",
+      "twist": {
+        "delta": "+$50.00",
+        "after": "$54.20"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: $4.20 for a black drip coffee—and the table next to mine argued for twenty minutes over a single nickel while the morning rush reached its peak."
+        },
+        {
+          "s": "Figur",
+          "t": "I wiped down the sticky counter at the corner cafe while a stiff coconut man named Arthur pointed his hard shell at my tip jar with utter disdain."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You call that service, little bean?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "A hidden gold coin rolled past my worn sneakers as the espresso machine hissed loudly, venting pressurized steam into the cold air. I gritted my teeth, gripping my damp rag, while the morning commuters glared at me like I owed them money for simply breathing."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Tip jars are for people who actually work hard.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then she dropped her heavy leather wallet right on my foot, scattering receipts across the slick tile floor. A secret note tumbled out from the folds, pointing toward a massive financial conspiracy."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Who slipped the mysterious fifty-dollar bill under the cracked ceramic sugar bowl?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Tip jars are for people who actually work hard.",
+      "quote_by": {
+        "level": 5,
+        "name": "Arthur",
+        "badge": "$4,500 limit",
+        "character": "A stubborn Coconut man with a hard brown hairy shell head, wearing a stiff tweed jacket and a silver pocket watch.",
+        "scene": "Medium shot inside a noisy cafe, Arthur tapping his hard coconut fingers aggressively on a glass tip jar."
+      },
+      "stats": [
+        {
+          "label": "Coffee Price",
+          "value": "$4.20",
+          "bar": 0.12
+        },
+        {
+          "label": "Hourly Wage",
+          "value": "$14.50",
+          "bar": 0.2
+        },
+        {
+          "label": "Tip Total",
+          "value": "$3.10",
+          "bar": 0.1
+        }
+      ],
+      "character": "A sweet Coffee Bean woman with smooth dark brown glossy skin, wearing a pastel yellow barista apron and a bright glowing forehead display.",
+      "visual": "Medium shot of a glossy brown coffee bean woman wiping a counter in a sunlit urban cafe with glowing forehead numbers.",
+      "scenes": [
+        "Wide shot of a bustling morning cafe with steam rising from espresso machines and diverse produce customers.",
+        "Medium shot of a stubborn coconut man with a brown hairy shell leaning over a wooden counter pointing at a tip jar.",
+        "Close-up of a glowing digital forehead display showing $4.20 in bright amber LED numbers.",
+        "Detailed macro shot of a shiny gold coin resting beside a chipped white ceramic sugar bowl.",
+        "Overhead shot of a worn leather wallet dropping onto tiled cafe flooring next to a spilled drop of milk.",
+        "Close-up of a steaming ceramic coffee mug with foam art shaped like a tiny leaf."
+      ],
+      "caption": "Working in customer service tests your patience every single day! Have you ever been short-changed? #baristalife #cafe #tipping #struggle #drama"
+    },
+    {
+      "n": 3,
+      "open_loop": "What secret note was folded inside the expensive steakhouse napkin?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Mocked his budget-friendly side dish and claimed he didn't deserve a seat at the anniversary dinner."
+      },
+      "name": "Leo, 28, Accountant",
+      "badge": "$12.50 soup",
+      "verdict": "BUDGET",
+      "story": "Level 3. Level 3: $12.50 for split onion soup—and my date's brother treated me like I was robbing his trust fund while flashing his gold watch. I sat across the white linen tablecloth at Prime Grill, adjusting my celery-stalk collar nervously as the chandeliers cast long shadows. You actually budget your soup? How embarrassing for someone in finance. A tiny gold coin sat hidden beneath the salt shaker, reflecting the dim candlelight and revealing an encrypted symbol. I swallowed my pride, gripping my silver spoon, while the waiter cleared our empty plates with a heavy, sympathetic sigh. Some of us prefer actual gourmet food, not warm water served in a chipped bowl. Then he slid the final bill across the polished wood, revealing an astronomical total that made my heart skip a beat. The waiter winked, sliding an extra ledger page right into my hands. What secret note was folded inside the expensive steakhouse napkin? You'll see that in Level 4.",
+      "gender": "m",
+      "twist": {
+        "delta": "+$120.0",
+        "after": "$132.5"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: $12.50 for split onion soup—and my date's brother treated me like I was robbing his trust fund while flashing his gold watch."
+        },
+        {
+          "s": "Figur",
+          "t": "I sat across the white linen tablecloth at Prime Grill, adjusting my celery-stalk collar nervously as the chandeliers cast long shadows."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You actually budget your soup? How embarrassing for someone in finance.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "A tiny gold coin sat hidden beneath the salt shaker, reflecting the dim candlelight and revealing an encrypted symbol. I swallowed my pride, gripping my silver spoon, while the waiter cleared our empty plates with a heavy, sympathetic sigh."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Some of us prefer actual gourmet food, not warm water served in a chipped bowl.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then he slid the final bill across the polished wood, revealing an astronomical total that made my heart skip a beat. The waiter winked, sliding an extra ledger page right into my hands."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What secret note was folded inside the expensive steakhouse napkin?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Some of us prefer actual gourmet food, not warm water.",
+      "quote_by": {
+        "level": 1,
+        "name": "Trixie",
+        "badge": "$120k trust",
+        "character": "A glamorous Orange woman with vibrant citrus-peel skin, wearing a bright silk designer dress and oversized sunglasses indoors.",
+        "scene": "Close-up shot in an upscale steakhouse, Trixie looking down her nose with a sarcastic smile across a candlelit table."
+      },
+      "stats": [
+        {
+          "label": "Soup Cost",
+          "value": "$12.5",
+          "bar": 0.25
+        },
+        {
+          "label": "Monthly Rent",
+          "value": "$1,100",
+          "bar": 0.35
+        },
+        {
+          "label": "Savings",
+          "value": "$4,200",
+          "bar": 0.3
+        }
+      ],
+      "character": "A neat Celery man with crisp pale green stalks for limbs, wearing a sharp navy blue business vest and a glowing digital forehead display.",
+      "visual": "Medium shot of a crisp green celery man sitting at a luxury restaurant table under soft golden candlelight.",
+      "scenes": [
+        "Wide shot of a luxurious high-end steakhouse interior with dark wood paneling and crystal chandeliers.",
+        "Medium shot of a vibrant orange woman in a silk dress sneering across a white linen restaurant table.",
+        "Close-up of a glowing digital forehead display showing $12.50 in crisp white LED numbers.",
+        "Detailed macro shot of a heavy silver soup spoon resting on a fine porcelain bowl rim.",
+        "Overhead shot of a polished wooden restaurant table with a hidden gold coin beneath a glass salt shaker.",
+        "Close-up of a neatly folded white cloth napkin resting beside a heavy silver butter knife."
+      ],
+      "caption": "First dates at fancy restaurants are always a financial minefield! Who should pay the bill? #datenight #accounting #luxury #restaurant #drama"
+    },
+    {
+      "n": 4,
+      "open_loop": "Why did the credit card terminal emit a piercing alarm instead of approving the split payment?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Insisted on calculating every single calorie and decimal point to make everyone else look financially illiterate."
+      },
+      "name": "Sam, 31, Developer",
+      "badge": "$28.00 pasta",
+      "verdict": "AVERAGE",
+      "story": "Level 4. Level 4: $28.00 for truffle pasta—and the table erupted into a full spreadsheet war over who ordered extra mushrooms and garnish. I wiped sweat from my smooth avocado forehead while sitting in the trendy bistro booth as ambient music pulsed aggressively. You had the mushrooms, Sam, that adds four dollars to your grand total! A hidden gold coin rested inside my empty water glass, catching the neon purple club light and flashing an encoded binary string. I clenched my fists under the table, holding my breath as the group glared at my math error on the shared tablet. Basic math shouldn't be this difficult for a tech guy who codes all day. Then the handheld payment machine beeped ominously, locking down every account linked to the table. A red warning banner flashed across the screen, demanding an immediate manual audit. Why did the credit card terminal emit a piercing alarm instead of approving the split payment? You'll see that in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "-$28.0",
+        "after": "$0.00"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: $28.00 for truffle pasta—and the table erupted into a full spreadsheet war over who ordered extra mushrooms and garnish."
+        },
+        {
+          "s": "Figur",
+          "t": "I wiped sweat from my smooth avocado forehead while sitting in the trendy bistro booth as ambient music pulsed aggressively."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You had the mushrooms, Sam, that adds four dollars to your grand total!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "A hidden gold coin rested inside my empty water glass, catching the neon purple club light and flashing an encoded binary string. I clenched my fists under the table, holding my breath as the group glared at my math error on the shared tablet."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Basic math shouldn't be this difficult for a tech guy who codes all day.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then the handheld payment machine beeped ominously, locking down every account linked to the table. A red warning banner flashed across the screen, demanding an immediate manual audit."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Why did the credit card terminal emit a piercing alarm instead of approving the split payment?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Basic math shouldn't be this difficult for a tech guy.",
+      "quote_by": {
+        "level": 8,
+        "name": "Viktor",
+        "badge": "$15,000/mo",
+        "character": "An sour Lemon man with bright yellow bumpy citrus skin, wearing a tight pinstripe vest and gold-rimmed glasses.",
+        "scene": "Medium shot in a trendy neon-lit bistro, Viktor holding a digital tablet calculator and laughing smugly at Sam."
+      },
+      "stats": [
+        {
+          "label": "Pasta Cost",
+          "value": "$28.0",
+          "bar": 0.45
+        },
+        {
+          "label": "Salary",
+          "value": "$5,200",
+          "bar": 0.5
+        },
+        {
+          "label": "Savings",
+          "value": "$12k",
+          "bar": 0.42
+        }
+      ],
+      "character": "A calm Avocado man with pale green creamy skin, a dark brown pit pattern on his chest, wearing a casual hoodie and a glowing forehead display.",
+      "visual": "Medium shot of a light green avocado man holding a receipt in a neon-lit modern bistro with glowing numbers.",
+      "scenes": [
+        "Wide shot of a modern industrial bistro with exposed brick walls and neon signs glowing in purple and pink.",
+        "Medium shot of a sour yellow lemon man tapping furiously on a digital tablet screen across a crowded booth.",
+        "Close-up of a glowing digital forehead display showing $28.00 in bright cyan LED digits.",
+        "Detailed macro shot of a shiny gold coin gleaming at the bottom of a clear glass water tumbler.",
+        "Overhead shot of a cluttered restaurant table covered in half-eaten plates, cocktail glasses, and credit cards.",
+        "Close-up of a handheld wireless card machine flashing a blinking red error light."
+      ],
+      "caption": "Splitting bills with friends who itemize every single mushroom is exhausting! Tag a friend who does this. #techlife #splittingbills #dinner #drama #relatable"
+    },
+    {
+      "n": 5,
+      "open_loop": "Who transferred the exact remaining balance into my mobile banking app just before midnight?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Complained about the portion size of the appetizer and refused to tip the exhausted server."
+      },
+      "name": "Maya, 26, Designer",
+      "badge": "$45.00 steak",
+      "verdict": "SOLID",
+      "story": "Level 5. Level 5: $45.00 for the shared steak platter—and my frugal cousin acted like I had just bankrupted the entire family lineage over dinner. I crossed my broccoli-floret arms tightly inside the upscale steakhouse booth, glaring at the oversized bill and its absurd service fees. You ordered the most expensive meat on the board, Maya! Pay up right now! A tiny gold coin lay hidden under the heavy ceramic gravy boat, pulsating with a warm, mysterious amber glow. I rolled my eyes, tapping my golden stylus against my tablet screen while the table waited in heavy, suffocating silence. Family discounts don't cover your gourmet appetite for expensive beef dishes. Then my phone buzzed with an unexpected notification that shattered our assumptions. A mysterious benefactor had deposited funds directly into our pooled account. Who transferred the exact remaining balance into my mobile banking app just before midnight? You'll see that in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "-$45.0",
+        "after": "$0.00"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: $45.00 for the shared steak platter—and my frugal cousin acted like I had just bankrupted the entire family lineage over dinner."
+        },
+        {
+          "s": "Figur",
+          "t": "I crossed my broccoli-floret arms tightly inside the upscale steakhouse booth, glaring at the oversized bill and its absurd service fees."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You ordered the most expensive meat on the board, Maya! Pay up right now!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "A tiny gold coin lay hidden under the heavy ceramic gravy boat, pulsating with a warm, mysterious amber glow. I rolled my eyes, tapping my golden stylus against my tablet screen while the table waited in heavy, suffocating silence."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Family discounts don't cover your gourmet appetite for expensive beef dishes.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then my phone buzzed with an unexpected notification that shattered our assumptions. A mysterious benefactor had deposited funds directly into our pooled account."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Who transferred the exact remaining balance into my mobile banking app just before midnight?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Family discounts don't cover your gourmet appetite.",
+      "quote_by": {
+        "level": 2,
+        "name": "Clara",
+        "badge": "$2,100/mo",
+        "character": "A bitter Lemon woman with puckered yellow citrus skin, wearing a faded green cardigan and a stern expression.",
+        "scene": "Medium shot across a fancy dinner table, Clara glaring angrily at Maya while pointing at a shared receipt."
+      },
+      "stats": [
+        {
+          "label": "Steak Price",
+          "value": "$45.0",
+          "bar": 0.6
+        },
+        {
+          "label": "Monthly",
+          "value": "$6,800",
+          "bar": 0.65
+        },
+        {
+          "label": "Savings",
+          "value": "$18k",
+          "bar": 0.58
+        }
+      ],
+      "character": "A creative Broccoli woman with a dense dark green floret afro, wearing an artist's denim smock and a glowing forehead display.",
+      "visual": "Medium shot of a dark green broccoli woman holding a sleek tablet in a classy restaurant with glowing forehead numbers.",
+      "scenes": [
+        "Wide shot of a sophisticated restaurant dining room with polished hardwood floors and glowing wall sconces.",
+        "Medium shot of a bitter yellow lemon woman leaning across a white tablecloth pointing aggressively.",
+        "Close-up of a glowing digital forehead display showing $45.00 in bright white LED numbers.",
+        "Detailed macro shot of a shiny gold coin half-hidden beneath a ceramic gravy boat.",
+        "Overhead shot of a smartphone screen displaying a mobile banking transfer notification with green text.",
+        "Close-up of a decorative ceramic plate with leftover food scraps under warm overhead spotlighting."
+      ],
+      "caption": "Family dinners turn ugly the second the check arrives! Have you ever fought over a food bill? #familydrama #dinnerparty #designlife #money #relatable"
+    },
+    {
+      "n": 6,
+      "open_loop": "What did the manager whisper to the table after inspecting the disputed restaurant receipt?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Demanded a full refund after eating three-quarters of the appetizer because it lacked salt."
+      },
+      "name": "Marcus, 34, Architect",
+      "badge": "$85.00 wine",
+      "verdict": "ABOVE AVG",
+      "story": "Level 6. Level 6: $85.00 for vintage wine—and the table amateur insisted on splitting every drop evenly even though he only drank tap water all night. I leaned back against the plush leather booth, my coconut-shell head tapping the mahogany wall while jazz played softly. You ordered the expensive cabernet, Marcus, don't expect us to sponsor your private cellar! A hidden gold coin rested inside the empty wine cradle, glinting with an unmistakable golden sheen. I tightened my grip on the heavy leather checkholder, feeling the collective glare of the entire dining room bearing down on us. Real professionals pay their own tab without whining like children. Then the restaurant manager stepped forward with a strange, knowing smile that put everyone on edge. He placed a golden seal over the disputed total. What did the manager whisper to the table after inspecting the disputed restaurant receipt? You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "-$85.0",
+        "after": "$0.00"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: $85.00 for vintage wine—and the table amateur insisted on splitting every drop evenly even though he only drank tap water all night."
+        },
+        {
+          "s": "Figur",
+          "t": "I leaned back against the plush leather booth, my coconut-shell head tapping the mahogany wall while jazz played softly."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You ordered the expensive cabernet, Marcus, don't expect us to sponsor your private cellar!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "A hidden gold coin rested inside the empty wine cradle, glinting with an unmistakable golden sheen. I tightened my grip on the heavy leather checkholder, feeling the collective glare of the entire dining room bearing down on us."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Real professionals pay their own tab without whining like children.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then the restaurant manager stepped forward with a strange, knowing smile that put everyone on edge. He placed a golden seal over the disputed total."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "What did the manager whisper to the table after inspecting the disputed restaurant receipt?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "Real professionals pay their own tab without whining.",
+      "quote_by": {
+        "level": 3,
+        "name": "Julian",
+        "badge": "$4,100/mo",
+        "character": "A stiff Celery man with rigid green stalks for hair, wearing a tweed vest and a silver tie clip.",
+        "scene": "Medium shot in a dimly lit wine bar, Julian lifting a glass of water with a condescending smirk."
+      },
+      "stats": [
+        {
+          "label": "Wine Cost",
+          "value": "$85.0",
+          "bar": 0.75
+        },
+        {
+          "label": "Monthly",
+          "value": "$9,400",
+          "bar": 0.72
+        },
+        {
+          "label": "Savings",
+          "value": "$35k",
+          "bar": 0.7
+        }
+      ],
+      "character": "A sturdy Coconut man with a hard brown fibrous shell head, wearing a tailored charcoal blazer and a glowing forehead display.",
+      "visual": "Medium shot of a brown coconut man sitting in a moody upscale wine bar with glowing forehead numbers.",
+      "scenes": [
+        "Wide shot of a high-end wine bar with floor-to-ceiling wooden racks filled with antique wine bottles.",
+        "Medium shot of a rigid celery man pointing condescendingly across a candlelit leather booth.",
+        "Close-up of a glowing digital forehead display showing $85.00 in bright amber LED numbers.",
+        "Detailed macro shot of a shiny gold coin resting inside a silver metal wine cradle.",
+        "Overhead shot of an empty crystal wine glass reflecting soft amber restaurant lighting.",
+        "Close-up of a restaurant manager in a black vest holding a leather folder with a mysterious expression."
+      ],
+      "caption": "Splitting wine tabs with people who don't even drink is the worst! Tag your wine buddy. #winelover #architecture #restaurant #billsplit #drama"
+    },
+    {
+      "n": 7,
+      "open_loop": "Who left the gold platinum card behind the cash register with instructions to pay for everyone?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Comploded into a shouting match over who ordered extra garlic bread for the table."
+      },
+      "name": "Elena, 29, Surgeon",
+      "badge": "$210.00 chef",
+      "verdict": "WEALTHY",
+      "story": "Level 7. Level 7: $210.00 for the chef's tasting menu—and my arrogant colleague complained that my salad choice ruined the mathematical symmetry of the bill. I smoothed my dragon-fruit scaly pink petals, staring down at the absurdly long paper scroll cascading off our table. You ordered the tasting menu, Elena, so you carry the heavy percentage of the tip! A tiny gold coin gleamed right beside my heavy gold fountain pen, etching a hidden code into the tablecloth. I let out a sharp sigh, tapping my titanium card against the wood while the table waited in breathless silence. High earners shouldn't nickel-and-diming over a simple tasting menu when salaries are high. Then the head waiter returned with an unbelievable envelope sealed in red wax. A signature on the back matched someone we thought had left hours ago. Who left the gold platinum card behind the cash register with instructions to pay for everyone? You'll see that in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "-$210.",
+        "after": "$0.00"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: $210.00 for the chef's tasting menu—and my arrogant colleague complained that my salad choice ruined the mathematical symmetry of the bill."
+        },
+        {
+          "s": "Figur",
+          "t": "I smoothed my dragon-fruit scaly pink petals, staring down at the absurdly long paper scroll cascading off our table."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You ordered the tasting menu, Elena, so you carry the heavy percentage of the tip!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "A tiny gold coin gleamed right beside my heavy gold fountain pen, etching a hidden code into the tablecloth. I let out a sharp sigh, tapping my titanium card against the wood while the table waited in breathless silence."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "High earners shouldn't nickel-and-diming over a simple tasting menu when salaries are high.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then the head waiter returned with an unbelievable envelope sealed in red wax. A signature on the back matched someone we thought had left hours ago."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Who left the gold platinum card behind the cash register with instructions to pay for everyone?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "High earners shouldn't nickel-and-diming over a simple tasting menu.",
+      "quote_by": {
+        "level": 4,
+        "name": "Sam",
+        "badge": "$5,200/mo",
+        "character": "An avocado man with pale green creamy skin and a dark brown pit pattern, wearing a casual grey hoodie.",
+        "scene": "Medium shot in a fine dining restaurant, Sam crossing his arms defensively across a long bill scroll."
+      },
+      "stats": [
+        {
+          "label": "Tasting",
+          "value": "$210.",
+          "bar": 0.88
+        },
+        {
+          "label": "Monthly",
+          "value": "$14.5k",
+          "bar": 0.85
+        },
+        {
+          "label": "Savings",
+          "value": "$95k",
+          "bar": 0.82
+        }
+      ],
+      "character": "A striking Dragon Fruit woman with vibrant pink scaly skin, bright green leafy tips, wearing a sleek white blazer and a glowing forehead display.",
+      "visual": "Medium shot of a pink dragon-fruit woman sitting at a high-end restaurant table with glowing forehead numbers.",
+      "scenes": [
+        "Wide shot of a luxury rooftop restaurant overlooking a glowing metropolis skyline at dusk.",
+        "Medium shot of a casual avocado man crossing his arms defensively across a long bill scroll.",
+        "Close-up of a glowing digital forehead display showing $210.00 in bright white LED numbers.",
+        "Detailed macro shot of a shiny gold coin resting next to a heavy gold fountain pen.",
+        "Overhead shot of a massive printed restaurant receipt scroll spilling off the edge of a mahogany table.",
+        "Close-up of a silver waiter's tray holding a sealed black envelope tied with a silk ribbon."
+      ],
+      "caption": "Even top earners hate unfair restaurant bills! What is the most you have ever paid for dinner? #surgeonlife #finedining #luxury #billsplit #drama"
+    },
+    {
+      "n": 8,
+      "open_loop": "Which topic of the 8 levels of restaurant splitting should we uncover next?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Watched silently from the corner table while everyone else fought over the cheap salad."
+      },
+      "name": "Viktor, 42, Investor",
+      "badge": "$1,250 tab",
+      "verdict": "ELITE",
+      "story": "Level 8. Level 8: $1,250 for the entire restaurant's evening tab—and nobody at the table knew I was the one who paid for every single salad, coffee, soup, and wine item. I adjusted my lemon-yellow collar, looking across the quiet room where all seven previous characters sat in stunned silence as the truth finally set in. A young intern named Mia stared at her forehead number, finally understanding why her bill had dropped to zero earlier that night without explanation. The number never lies, I whispered softly, flashing my elite seven-figure status while sliding a final gold coin across the polished wooden floor. The tension in the room broke as everyone realized the entire restaurant bill had been settled from the very beginning by a master planner. A final chime rang out from the kitchen clock overhead, signaling the end of the night. Which topic of the 8 levels of restaurant splitting should we uncover next?",
+      "gender": "m",
+      "twist": {
+        "delta": "-$1,250",
+        "after": "$0.00"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: $1,250 for the entire restaurant's evening tab—and nobody at the table knew I was the one who paid for every single salad, coffee, soup, and wine item."
+        },
+        {
+          "s": "Figur",
+          "t": "I adjusted my lemon-yellow collar, looking across the quiet room where all seven previous characters sat in stunned silence as the truth finally set in."
+        },
+        {
+          "s": "Figur",
+          "t": "A young intern named Mia stared at her forehead number, finally understanding why her bill had dropped to zero earlier that night without explanation."
+        },
+        {
+          "s": "Figur",
+          "t": "The number never lies, I whispered softly, flashing my elite seven-figure status while sliding a final gold coin across the polished wooden floor."
+        },
+        {
+          "s": "Figur",
+          "t": "The tension in the room broke as everyone realized the entire restaurant bill had been settled from the very beginning by a master planner."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "A final chime rang out from the kitchen clock overhead, signaling the end of the night."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Which topic of the 8 levels of restaurant splitting should we uncover next?"
+        }
+      ],
+      "quote": "The number never lies.",
+      "quote_by": {
+        "level": 8,
+        "name": "Viktor",
+        "badge": "$15,000/mo",
+        "character": "An sour Lemon man with bright yellow bumpy citrus skin, wearing a tight pinstripe vest and gold-rimmed glasses.",
+        "scene": "Wide shot of the entire restaurant, Viktor standing calmly by the exit dropping a gold coin as everyone looks on."
+      },
+      "stats": [
+        {
+          "label": "Total Tab",
+          "value": "$1,250",
+          "bar": 1.0
+        },
+        {
+          "label": "Monthly",
+          "value": "$28.5k",
+          "bar": 0.98
+        },
+        {
+          "label": "Savings",
+          "value": "$450k",
+          "bar": 1.0
+        }
+      ],
+      "character": "A sharp Lemon man with bright yellow bumpy citrus skin, wearing a tailored charcoal pinstripe vest, gold-rimmed glasses, and a glowing forehead display.",
+      "visual": "Wide angle shot of a luxury restaurant with all eight fruit and vegetable characters gathered around a massive table under glowing chandeliers.",
+      "scenes": [
+        "Wide panoramic shot of a grand restaurant dining hall filled with warm crystal lighting and vegetable patrons.",
+        "Medium shot of a sharp yellow lemon man smiling calmly while holding a black leather bill folder.",
+        "Close-up of a glowing digital forehead display showing $1,250 in brilliant gold LED numbers.",
+        "Detailed macro shot of a shiny gold coin rolling across polished hardwood flooring.",
+        "Overhead shot of all eight character receipts gathered together in one massive pile with a single black card.",
+        "Close-up of a vintage brass table clock ticking precisely at midnight under soft golden lighting."
+      ],
+      "caption": "The final twist of the restaurant bill series! Which topic should we do next? Comment below! #finances #plottwist #restaurant #viral #theend"
+    }
+  ],
+  "lang": "en",
+  "topic": "Das gnadenlose Ausrechnen, wer bei der Gruppen-Rechnung im Restaurant den billigsten Salat hatte",
+  "frame": "frucht"
+}

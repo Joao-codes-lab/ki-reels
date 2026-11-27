@@ -1,0 +1,825 @@
+{
+  "title": "The 8 Levels of Walking Home in the Dark",
+  "house": "A bustling neon-lit metropolis where fruit and vegetable people commute on crowded subway lines and walk past rainy asphalt streets.",
+  "catchphrase": "The number on your forehead never lies.",
+  "links": [
+    "The barista in Level 2 mentions a regular who tips heavily.",
+    "The broken streetlamp from Level 1 is fixed in Level 4.",
+    "The subway platform in Level 3 connects to the office lobby in Level 7."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "What was the mysterious message glowing on her locked phone screen?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Laughs loudly at her fake phone call and mocks her low security badge.",
+        "name": "Marcus, 29, Accountant",
+        "badge": "4.500 €"
+      },
+      "name": "Mia, 21, Intern",
+      "badge": "120 €",
+      "verdict": "BROKE",
+      "story": "The 8 levels of walking home in the dark. Level 1. Level 1: 120 euros left in my bank account and three blocks of dark alleyway ahead. My skin is a pale green pear, trembling in the cold midnight fog. I tap my cracked smartphone, pressing it hard against my ear as I walk past the abandoned subway station. Hello, yes Dad, I am right at the corner of 5th Avenue, just two minutes away. My footsteps echo loudly on the wet concrete. Suddenly, a cold draft sweeps through the corridor, carrying the sharp scent of ozone and copper. I quicken my pace, but the shadows seem to stretch unnaturally along the brick walls. Is someone following my tracks, or is it just the wind playing tricks on my exhausted mind? Hey little pear, who are you pretending to talk to when your screen is completely black? You are walking alone because nobody cares about a zero. My heart drops into my stomach as the phone suddenly vibrates with an incoming text from an unknown sender. The glowing screen reveals a live camera feed of my exact location, and the heavy security gate at the end of the alley begins to slide shut. You'll see that in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "-50 €",
+        "after": "70 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of walking home in the dark. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 120 euros left in my bank account and three blocks of dark alleyway ahead."
+        },
+        {
+          "s": "Figur",
+          "t": "My skin is a pale green pear, trembling in the cold midnight fog."
+        },
+        {
+          "s": "Figur",
+          "t": "I tap my cracked smartphone, pressing it hard against my ear as I walk past the abandoned subway station."
+        },
+        {
+          "s": "Figur",
+          "t": "Hello, yes Dad, I am right at the corner of 5th Avenue, just two minutes away."
+        },
+        {
+          "s": "Figur",
+          "t": "My footsteps echo loudly on the wet concrete."
+        },
+        {
+          "s": "Figur",
+          "t": "Suddenly, a cold draft sweeps through the corridor, carrying the sharp scent of ozone and copper."
+        },
+        {
+          "s": "Figur",
+          "t": "I quicken my pace, but the shadows seem to stretch unnaturally along the brick walls."
+        },
+        {
+          "s": "Figur",
+          "t": "Is someone following my tracks, or is it just the wind playing tricks on my exhausted mind?"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Hey little pear, who are you pretending to talk to when your screen is completely black?",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are walking alone because nobody cares about a zero.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My heart drops into my stomach as the phone suddenly vibrates with an incoming text from an unknown sender."
+        },
+        {
+          "s": "Figur",
+          "t": "The glowing screen reveals a live camera feed of my exact location, and the heavy security gate at the end of the alley begins to slide shut."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "You are walking alone because nobody cares about a zero.",
+      "quote_by": {
+        "level": 4,
+        "name": "Marcus",
+        "badge": "4.500 €",
+        "character": "A glossy Red Apple man wearing a tailored wool coat and designer loafers.",
+        "scene": "Wide street shot under a flickering yellow streetlamp showing the Apple sneering down at the pear."
+      },
+      "stats": [
+        {
+          "label": "Balance",
+          "value": "120 €",
+          "bar": 0.05
+        },
+        {
+          "label": "Safety",
+          "value": "12%",
+          "bar": 0.1
+        },
+        {
+          "label": "Battery",
+          "value": "4%",
+          "bar": 0.04
+        }
+      ],
+      "character": "A pale green pear woman with smooth skin, wearing an oversized thrift-store hoodie and carrying a frayed canvas tote bag. Glowing digital badge on her forehead reads 120 €.",
+      "visual": "Wide dark alleyway shot at midnight with a glowing green pear woman holding a dark smartphone to her ear under a broken streetlamp.",
+      "scenes": [
+        "Wide shot of a dark, foggy midnight alleyway with wet asphalt reflecting neon lights from a distant bodega.",
+        "Medium shot of a pale green pear woman clutching a cracked smartphone to her ear, looking terrified.",
+        "Close-up detail shot of a dark smartphone screen showing a faint reflection of a glowing digital forehead badge.",
+        "Medium shot of a glossy red apple man stepping out of the shadows, pointing mockingly at the pear.",
+        "Close-up detail shot of the red apple's forehead displaying a bright digital 4.500 € badge.",
+        "Wide shot of an abandoned subway staircase entrance with flickering emergency lights casting long shadows."
+      ],
+      "caption": "Would you pretend to be on the phone in this situation? #StirnZahl #DarkAlley #BrokeLife #Survival #Drama"
+    },
+    {
+      "n": 2,
+      "open_loop": "Why did the barista hand her a wet napkin with a hidden phone number?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Refuses to hold the shop door open and calls her a liability.",
+        "name": "Victor, 31, Architect",
+        "badge": "3.100 €"
+      },
+      "name": "Leo, 24, Barista",
+      "badge": "850 €",
+      "verdict": "STRUGGLING",
+      "story": "The 8 levels of walking home in the dark. Level 2. Level 2: 850 euros monthly rent and a two-mile night walk past the industrial district. My orange peel skin is damp from the cold drizzle, and my cheap plastic earbuds hang uselessly around my neck. I pretend to chat animatedly with my mom about lasagna recipes, talking loudly into empty air. The streetlamps flicker overhead, buzzing like angry hornets in the damp night air. I clutch my thermal coffee flask tighter, wishing I had enough cash for a late-night taxi ride. Why are you shouting at your pocket in the dark, orange boy? Save your breath, nobody listens to beggars in the rain. A sleek black sedan rolls slowly beside the curb, its tinted windows winding down with a mechanical hum. A gloved hand tosses a heavy leather envelope at my feet before speeding off into the foggy tunnel. You'll see that in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+150 €",
+        "after": "1.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of walking home in the dark. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 850 euros monthly rent and a two-mile night walk past the industrial district."
+        },
+        {
+          "s": "Figur",
+          "t": "My orange peel skin is damp from the cold drizzle, and my cheap plastic earbuds hang uselessly around my neck."
+        },
+        {
+          "s": "Figur",
+          "t": "I pretend to chat animatedly with my mom about lasagna recipes, talking loudly into empty air."
+        },
+        {
+          "s": "Figur",
+          "t": "The streetlamps flicker overhead, buzzing like angry hornets in the damp night air."
+        },
+        {
+          "s": "Figur",
+          "t": "I clutch my thermal coffee flask tighter, wishing I had enough cash for a late-night taxi ride."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Why are you shouting at your pocket in the dark, orange boy?",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Save your breath, nobody listens to beggars in the rain.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "A sleek black sedan rolls slowly beside the curb, its tinted windows winding down with a mechanical hum."
+        },
+        {
+          "s": "Figur",
+          "t": "A gloved hand tosses a heavy leather envelope at my feet before speeding off into the foggy tunnel."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "Save your breath, nobody listens to beggars in the rain.",
+      "quote_by": {
+        "level": 5,
+        "name": "Victor",
+        "badge": "3.100 €",
+        "character": "A smooth Avocado man wearing a sleek leather jacket and silver rings.",
+        "scene": "Medium shot outside a closed coffee shop where the Avocado looks down with disgust."
+      },
+      "stats": [
+        {
+          "label": "Rent",
+          "value": "850 €",
+          "bar": 0.2
+        },
+        {
+          "label": "Tips",
+          "value": "45 €",
+          "bar": 0.15
+        },
+        {
+          "label": "Nerves",
+          "value": "30%",
+          "bar": 0.25
+        }
+      ],
+      "character": "An orange peel man with textured skin, wearing a soaked canvas apron over a faded sweatshirt. Glowing digital badge on forehead reads 850 €.",
+      "visual": "Medium shot of an orange peel man walking past a closed industrial warehouse at night, holding a dead phone to his ear.",
+      "scenes": [
+        "Medium shot of an orange peel man walking past a closed industrial warehouse at night.",
+        "Close-up detail shot of wet asphalt reflecting a golden coin hidden near a storm drain.",
+        "Wide shot of a foggy city street corner with green traffic lights casting an eerie glow.",
+        "Medium shot of an avocado man in a leather jacket blocking the sidewalk.",
+        "Close-up detail shot of the avocado's glowing 3.100 € forehead display.",
+        "Wide shot of an empty bus stop shelter with shattered glass panels."
+      ],
+      "caption": "Have you ever faked a phone call when someone was following you? #StirnZahl #NightWalk #OrangeLife #Survival #Suspense"
+    },
+    {
+      "n": 3,
+      "open_loop": "What secret document was hidden inside the taxi driver's glove compartment?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Honks aggressively and splashes dirty puddle water all over her boots.",
+        "name": "Arthur, 34, Senior Manager",
+        "badge": "6.800 €"
+      },
+      "name": "Chloe, 26, Graphic Designer",
+      "badge": "2.400 €",
+      "verdict": "MODERATE",
+      "story": "The 8 levels of walking home in the dark. Level 3. Level 3: 2,400 euros freelance salary and a terrifying four-block stretch past the dark park. My strawberry skin is dotted with tiny seeds, glistening under the neon sign of an all-night diner. I hold my phone up high, talking loudly into the speaker about quarterly tax returns and client meetings. The autumn wind howls through the metal branches of the oak trees, making the shadows dance like frantic specters. Every footstep behind me matches my own cadence, creating a chilling echo in the deserted street. Look at this amateur trying to sound corporate in an empty street. Confidence cannot be faked when your badge is that small. A sharp siren wails in the distance, and the neon sign above the diner abruptly explodes in a shower of blue sparks, plunging the sidewalk into absolute darkness. You'll see that in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "+400 €",
+        "after": "2.800 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of walking home in the dark. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 2,400 euros freelance salary and a terrifying four-block stretch past the dark park."
+        },
+        {
+          "s": "Figur",
+          "t": "My strawberry skin is dotted with tiny seeds, glistening under the neon sign of an all-night diner."
+        },
+        {
+          "s": "Figur",
+          "t": "I hold my phone up high, talking loudly into the speaker about quarterly tax returns and client meetings."
+        },
+        {
+          "s": "Figur",
+          "t": "The autumn wind howls through the metal branches of the oak trees, making the shadows dance like frantic specters."
+        },
+        {
+          "s": "Figur",
+          "t": "Every footstep behind me matches my own cadence, creating a chilling echo in the deserted street."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Look at this amateur trying to sound corporate in an empty street.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Confidence cannot be faked when your badge is that small.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "A sharp siren wails in the distance, and the neon sign above the diner abruptly explodes in a shower of blue sparks, plunging the sidewalk into absolute darkness."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Confidence cannot be faked when your badge is that small.",
+      "quote_by": {
+        "level": 6,
+        "name": "Arthur",
+        "badge": "6.800 €",
+        "character": "A stern Broccoli man wearing a rigid dark suit and carrying a leather briefcase.",
+        "scene": "Wide shot next to a parked black sedan where the Broccoli man looks down disdainfully."
+      },
+      "stats": [
+        {
+          "label": "Salary",
+          "value": "2.400 €",
+          "bar": 0.4
+        },
+        {
+          "label": "Clients",
+          "value": "4",
+          "bar": 0.35
+        },
+        {
+          "label": "Courage",
+          "value": "45%",
+          "bar": 0.45
+        }
+      ],
+      "character": "A bright red strawberry woman with tiny green leaves on top, wearing a chic trench coat and designer ankle boots. Glowing digital badge on forehead reads 2.400 €.",
+      "visual": "Medium shot of a strawberry woman walking past a brightly lit neon diner sign at night, holding her phone up.",
+      "scenes": [
+        "Medium shot of a strawberry woman walking past a neon diner sign at night.",
+        "Close-up detail shot of a golden coin resting on the chrome counter of the diner window.",
+        "Wide shot of a dark urban park entrance flanked by towering oak trees.",
+        "Medium shot of a stiff broccoli man in a dark suit stepping out of a sedan.",
+        "Close-up detail shot of the broccoli's glowing 6.800 € forehead badge.",
+        "Wide shot of wet cobblestone streets reflecting yellow headlights."
+      ],
+      "caption": "Does a higher number really make you less scared of the dark? #StirnZahl #Strawberry #NightCommute #FreelanceLife #CityLife"
+    },
+    {
+      "n": 4,
+      "open_loop": "Who sent the anonymous text warning him to turn back immediately?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Drops her empty soda can right in front of his path to trip him.",
+        "name": "Mia, 21, Intern",
+        "badge": "120 €"
+      },
+      "name": "Marcus, 29, Accountant",
+      "badge": "4.500 €",
+      "verdict": "STABLE",
+      "story": "The 8 levels of walking home in the dark. Level 4. Level 4: 4,500 euros net salary and a midnight shortcut through the old railway tunnels. My glossy Red Apple skin gleams under the emergency tunnel lights, and my designer wool coat keeps out the biting chill. I hold my phone to my ear, pretending to discuss stock portfolios with my fictitious investment broker. The damp concrete walls drip with oily water, and the metallic tang of rust fills the stagnant air around me. I check my watch, realizing the tunnel shouldn't be open at this hour. Who are you trying to impress in an abandoned tunnel, little fruit? Money cannot buy you an exit when the tunnel doors lock from the outside. A massive steel bulkhead slams shut behind me with a thunderous crash, trapping me in the pitch-black corridor with only my glowing forehead badge for light. You'll see that in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "-300 €",
+        "after": "4.200 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of walking home in the dark. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 4,500 euros net salary and a midnight shortcut through the old railway tunnels."
+        },
+        {
+          "s": "Figur",
+          "t": "My glossy Red Apple skin gleams under the emergency tunnel lights, and my designer wool coat keeps out the biting chill."
+        },
+        {
+          "s": "Figur",
+          "t": "I hold my phone to my ear, pretending to discuss stock portfolios with my fictitious investment broker."
+        },
+        {
+          "s": "Figur",
+          "t": "The damp concrete walls drip with oily water, and the metallic tang of rust fills the stagnant air around me."
+        },
+        {
+          "s": "Figur",
+          "t": "I check my watch, realizing the tunnel shouldn't be open at this hour."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Who are you trying to impress in an abandoned tunnel, little fruit?",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Money cannot buy you an exit when the tunnel doors lock from the outside.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "A massive steel bulkhead slams shut behind me with a thunderous crash, trapping me in the pitch-black corridor with only my glowing forehead badge for light."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "Money cannot buy you an exit when the tunnel doors lock from the outside.",
+      "quote_by": {
+        "level": 1,
+        "name": "Mia",
+        "badge": "120 €",
+        "character": "A pale green pear woman wearing an oversized hoodie and carrying a frayed canvas bag.",
+        "scene": "Medium shot inside a damp railway tunnel where the pear looks back with warning eyes."
+      },
+      "stats": [
+        {
+          "label": "Net Salary",
+          "value": "4.500 €",
+          "bar": 0.6
+        },
+        {
+          "label": "Stocks",
+          "value": "18.0k",
+          "bar": 0.65
+        },
+        {
+          "label": "Ego",
+          "value": "85%",
+          "bar": 0.8
+        }
+      ],
+      "character": "A glossy red apple man with a polished stem on top, wearing a tailored wool coat and designer loafers. Glowing digital badge on forehead reads 4.500 €.",
+      "visual": "Wide shot of a damp brick railway tunnel with a red apple man walking confidently past flickering emergency lights.",
+      "scenes": [
+        "Wide shot of a damp brick railway tunnel with flickering emergency lights.",
+        "Close-up detail shot of a golden coin wedged between the iron railway tracks.",
+        "Medium shot of a glossy red apple man talking on a sleek smartphone.",
+        "Medium shot of a pear woman dropping an empty soda can near the apple's feet.",
+        "Close-up detail shot of the apple's glowing 4.500 € forehead display.",
+        "Wide shot of heavy iron tunnel security gates slowly sliding down into place."
+      ],
+      "caption": "Does a higher salary protect you when things go wrong in the dark? #StirnZahl #AppleLife #TunnelWalk #Corporate #UrbanLegend"
+    },
+    {
+      "n": 5,
+      "open_loop": "Why did the security guard confiscate her gym bag without explanation?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Bumps his shoulder against her deliberately and laughs at her fake conversation.",
+        "name": "Helena, 38, Director",
+        "badge": "14.5k €"
+      },
+      "name": "Victor, 31, Architect",
+      "badge": "3.100 €",
+      "verdict": "RISING",
+      "story": "The 8 levels of walking home in the dark. Level 5. Level 5: 3,100 euros project fee and a late-night walk past the construction zone. My smooth Avocado skin is cool, but sweat beads near my collar as scaffolding creaks in the wind. I press my phone against my ear, pretending to chew out a contractor. Towering cranes loom overhead like prehistoric skeletons against the bruised purple sky. A stray cat darts across the gravel, scattering rusted tools that clatter against the chain-link fence. What are you shouting about on the sidewalk, avocado boy? Mid-tier numbers always make the loudest noise in the dark. A floodlight suddenly snaps on, blinding me with a harsh white glare, and a security drone hums aggressively as it descends right in front of my face. You'll see that in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "+700 €",
+        "after": "3.800 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of walking home in the dark. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 3,100 euros project fee and a late-night walk past the construction zone."
+        },
+        {
+          "s": "Figur",
+          "t": "My smooth Avocado skin is cool, but sweat beads near my collar as scaffolding creaks in the wind."
+        },
+        {
+          "s": "Figur",
+          "t": "I press my phone against my ear, pretending to chew out a contractor."
+        },
+        {
+          "s": "Figur",
+          "t": "Towering cranes loom overhead like prehistoric skeletons against the bruised purple sky."
+        },
+        {
+          "s": "Figur",
+          "t": "A stray cat darts across the gravel, scattering rusted tools that clatter against the chain-link fence."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "What are you shouting about on the sidewalk, avocado boy?",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mid-tier numbers always make the loudest noise in the dark.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "A floodlight suddenly snaps on, blinding me with a harsh white glare, and a security drone hums aggressively as it descends right in front of my face."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "Mid-tier numbers always make the loudest noise in the dark.",
+      "quote_by": {
+        "level": 8,
+        "name": "Helena",
+        "badge": "14.5k €",
+        "character": "A golden Pineapple woman wearing an immaculate white pantsuit and diamond earrings.",
+        "scene": "Medium shot through the tinted window of a luxury sports car where the Pineapple smirks."
+      },
+      "stats": [
+        {
+          "label": "Project Fee",
+          "value": "3.100 €",
+          "bar": 0.5
+        },
+        {
+          "label": "Savings",
+          "value": "12.4k",
+          "bar": 0.55
+        },
+        {
+          "label": "Status",
+          "value": "60%",
+          "bar": 0.55
+        }
+      ],
+      "character": "A smooth avocado man with dark green skin and a textured pit pattern on his chest, wearing a leather jacket and silver rings. Glowing digital badge on forehead reads 3.100 €.",
+      "visual": "Medium shot of an avocado man walking past a towering construction site at night, holding a phone to his ear.",
+      "scenes": [
+        "Medium shot of an avocado man walking past a towering construction site at night.",
+        "Close-up detail shot of a golden coin resting on a dusty stack of red bricks.",
+        "Wide shot of a luxury sports car idling beside a wet concrete curb.",
+        "Medium shot of a lemon woman rolling down her tinted window to sneer.",
+        "Close-up detail shot of the lemon's glowing high-tier forehead display.",
+        "Wide shot of an empty boulevard under heavy fog and amber streetlights."
+      ],
+      "caption": "Does a mid-tier salary make you feel invisible in the city? #StirnZahl #Avocado #LateNightWalk #Architecture #CityVibes"
+    },
+    {
+      "n": 6,
+      "open_loop": "Whose signature was forged on the delivery slip left on the front porch?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Criticizes her font choice on a public poster and walks away laughing.",
+        "name": "Chloe, 26, Graphic Designer",
+        "badge": "2.400 €"
+      },
+      "name": "Arthur, 34, Senior Manager",
+      "badge": "6.800 €",
+      "verdict": "SUCCESS",
+      "story": "The 8 levels of walking home in the dark. Level 6. Level 6: 6,800 euros monthly corporate paycheck and a lonely walk past the financial district towers. My Broccoli head is tightly packed, standing tall inside my rigid dark suit. I hold my phone to my ear, talking loudly about corporate mergers to an empty dial tone. The towering glass skyscrapers reflect distorted funhouse versions of my silhouette against the polished granite pavement. A cold gust of wind rattles the revolving glass doors of an empty bank lobby. Who are you trying to impress with that fake corporate jargon, designer girl? A high salary cannot buy you respect when everyone knows you are a fraud. The digital clock on the towering stock exchange ticker suddenly freezes at midnight, and all the automatic doors unlock simultaneously with a synchronized click. You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "-1.2k €",
+        "after": "5.600 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of walking home in the dark. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 6,800 euros monthly corporate paycheck and a lonely walk past the financial district towers."
+        },
+        {
+          "s": "Figur",
+          "t": "My Broccoli head is tightly packed, standing tall inside my rigid dark suit."
+        },
+        {
+          "s": "Figur",
+          "t": "I hold my phone to my ear, talking loudly about corporate mergers to an empty dial tone."
+        },
+        {
+          "s": "Figur",
+          "t": "The towering glass skyscrapers reflect distorted funhouse versions of my silhouette against the polished granite pavement."
+        },
+        {
+          "s": "Figur",
+          "t": "A cold gust of wind rattles the revolving glass doors of an empty bank lobby."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Who are you trying to impress with that fake corporate jargon, designer girl?",
+          "g": "w"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "A high salary cannot buy you respect when everyone knows you are a fraud.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "The digital clock on the towering stock exchange ticker suddenly freezes at midnight, and all the automatic doors unlock simultaneously with a synchronized click."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "A high salary cannot buy you respect when everyone knows you are a fraud.",
+      "quote_by": {
+        "level": 3,
+        "name": "Chloe",
+        "badge": "2.400 €",
+        "character": "A bright red strawberry woman wearing a chic trench coat and carrying an art portfolio.",
+        "scene": "Medium shot outside a glass office tower where the strawberry stares back defiantly."
+      },
+      "stats": [
+        {
+          "label": "Paycheck",
+          "value": "6.800 €",
+          "bar": 0.75
+        },
+        {
+          "label": "Bonus",
+          "value": "3.5k",
+          "bar": 0.7
+        },
+        {
+          "label": "Power",
+          "value": "75%",
+          "bar": 0.75
+        }
+      ],
+      "character": "A stiff broccoli man with dark green florets for hair, wearing a rigid dark suit and carrying a leather briefcase. Glowing digital badge on forehead reads 6.800 €.",
+      "visual": "Wide shot of towering glass financial skyscrapers at night with a broccoli man walking in a sharp suit.",
+      "scenes": [
+        "Wide shot of towering glass financial skyscrapers under a dark, moonless sky.",
+        "Close-up detail shot of a golden coin resting on the polished granite steps of a bank.",
+        "Medium shot of a broccoli man in a dark suit talking on a luxury phone.",
+        "Medium shot of a strawberry woman glaring at him while holding an art portfolio.",
+        "Close-up detail shot of the broccoli's glowing 6.800 € forehead display.",
+        "Wide shot of a deserted pedestrian plaza with sharp shadows cast by security lights."
+      ],
+      "caption": "Does a high corporate salary protect you from feeling lonely? #StirnZahl #Broccoli #CorporateLife #Finance #NightWalk"
+    },
+    {
+      "n": 7,
+      "open_loop": "What was inside the locked velvet box delivered to the penthouse suite?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Spills coffee on his designer shoes and refuses to apologize.",
+        "name": "Leo, 24, Barista",
+        "badge": "850 €"
+      },
+      "name": "Helena, 38, Director",
+      "badge": "9.200 €",
+      "verdict": "ELITE",
+      "story": "The 8 levels of walking home in the dark. Level 7. Level 7: 9.200 euros monthly executive bonus and a private stroll past the luxury penthouse balconies. My bright Lemon skin is smooth and bright, glowing fiercely against the dark velvet night. I hold my phone to my ear, effortlessly managing my corporate empire in fluent French. The panoramic city lights stretch out below like a sea of burning embers, beautiful yet completely sterile. I hear the faint hum of a helicopter hovering somewhere above the cloud layer. Watch where you are walking, coffee boy, before you scratch my bumper. Your high number means nothing when your engine is running on empty. A private elevator bell chimes loudly in the middle of the empty plaza, its doors parting to reveal an ascending path straight into the upper atmosphere. You'll see that in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "+3.0k €",
+        "after": "12.2k €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of walking home in the dark. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 9.200 euros monthly executive bonus and a private stroll past the luxury penthouse balconies."
+        },
+        {
+          "s": "Figur",
+          "t": "My bright Lemon skin is smooth and bright, glowing fiercely against the dark velvet night."
+        },
+        {
+          "s": "Figur",
+          "t": "I hold my phone to my ear, effortlessly managing my corporate empire in fluent French."
+        },
+        {
+          "s": "Figur",
+          "t": "The panoramic city lights stretch out below like a sea of burning embers, beautiful yet completely sterile."
+        },
+        {
+          "s": "Figur",
+          "t": "I hear the faint hum of a helicopter hovering somewhere above the cloud layer."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Watch where you are walking, coffee boy, before you scratch my bumper.",
+          "g": "m"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your high number means nothing when your engine is running on empty.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "A private elevator bell chimes loudly in the middle of the empty plaza, its doors parting to reveal an ascending path straight into the upper atmosphere."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "Your high number means nothing when your engine is running on empty.",
+      "quote_by": {
+        "level": 2,
+        "name": "Leo",
+        "badge": "850 €",
+        "character": "An orange peel man wearing a soaked canvas apron and carrying a metal thermos.",
+        "scene": "Medium shot beside a parked luxury car where the orange barista stands dripping in the rain."
+      },
+      "stats": [
+        {
+          "label": "Bonus",
+          "value": "9.200 €",
+          "bar": 0.88
+        },
+        {
+          "label": "Assets",
+          "value": "1.2M",
+          "bar": 0.9
+        },
+        {
+          "label": "Control",
+          "value": "90%",
+          "bar": 0.9
+        }
+      ],
+      "character": "A bright yellow lemon woman with textured, zesty skin, wearing an immaculate white pantsuit and diamond earrings. Glowing digital badge on forehead reads 9.200 €.",
+      "visual": "Wide shot of a luxury penthouse balcony overlooking a glittering city skyline at night with a lemon woman in a white suit.",
+      "scenes": [
+        "Wide shot of a luxury penthouse balcony overlooking a glittering city skyline.",
+        "Close-up detail shot of a golden coin resting on the glass railing of the balcony.",
+        "Medium shot of a lemon woman in a white suit talking on a smartphone.",
+        "Medium shot of an orange barista carrying a heavy supply crate through the rain.",
+        "Close-up detail shot of the lemon's glowing 9.200 € forehead display.",
+        "Wide shot of a sleek sports car speeding away down a wet boulevard."
+      ],
+      "caption": "Does extreme wealth give you total peace of mind? #StirnZahl #LemonLife #Penthouse #Executive #Wealth"
+    },
+    {
+      "n": 8,
+      "open_loop": "Which topic should we explore in the next 8-level series?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Bows respectfully and hands over the master keys without a single word.",
+        "name": "Victor, 31, Architect",
+        "badge": "3.100 €"
+      },
+      "name": "Magnus, 42, Mogul",
+      "badge": "25.0k €",
+      "verdict": "UNTOUCHABLE",
+      "story": "The 8 levels of walking home in the dark. Level 8. Level 8: 25,000 euros daily passive income and the entire city bowing down at my feet. My Crown Jewel Pineapple head gleams with golden facets, radiating absolute power across the midnight skyline. I don't need to pretend to make phone calls anymore; my phone rings constantly with people begging for my attention. Every single person I passed in the dark were all just stepping stones on my path to the top. The wind up here whispers secrets of ancient fortunes and fallen empires, reminding me that absolute power is a lonely throne. Below me, millions of glowing numbers pulse in the dark like constellations of trapped souls. The number on your forehead never lies, but it is never the whole truth. Suddenly, all the numbers across the entire metropolis flicker simultaneously, turning blood red before every single digital badge in the city shorts out completely, plunging the world into total, unreadable darkness. Which topic should we explore in the next 8-level series?",
+      "gender": "m",
+      "twist": {
+        "delta": "+5.0k €",
+        "after": "30.0k €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of walking home in the dark. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 25,000 euros daily passive income and the entire city bowing down at my feet."
+        },
+        {
+          "s": "Figur",
+          "t": "My Crown Jewel Pineapple head gleams with golden facets, radiating absolute power across the midnight skyline."
+        },
+        {
+          "s": "Figur",
+          "t": "I don't need to pretend to make phone calls anymore; my phone rings constantly with people begging for my attention."
+        },
+        {
+          "s": "Figur",
+          "t": "Every single person I passed in the dark were all just stepping stones on my path to the top."
+        },
+        {
+          "s": "Figur",
+          "t": "The wind up here whispers secrets of ancient fortunes and fallen empires, reminding me that absolute power is a lonely throne."
+        },
+        {
+          "s": "Figur",
+          "t": "Below me, millions of glowing numbers pulse in the dark like constellations of trapped souls."
+        },
+        {
+          "s": "Figur",
+          "t": "The number on your forehead never lies, but it is never the whole truth."
+        },
+        {
+          "s": "Figur",
+          "t": "Suddenly, all the numbers across the entire metropolis flicker simultaneously, turning blood red before every single digital badge in the city shorts out completely, plunging the world into total, unreadable darkness."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Which topic should we explore in the next 8-level series?"
+        }
+      ],
+      "quote": "The number on your forehead never lies, but it is never the whole truth.",
+      "quote_by": {
+        "level": 8,
+        "name": "Magnus",
+        "badge": "25.0k €",
+        "character": "A majestic Pineapple man with golden crown leaves, wearing a custom velvet tuxedo and gold-rimmed glasses.",
+        "scene": "Wide panoramic rooftop shot overlooking the entire metropolis as the pineapple looks down like a king."
+      },
+      "stats": [
+        {
+          "label": "Daily Income",
+          "value": "25.0k €",
+          "bar": 1.0
+        },
+        {
+          "label": "Empire",
+          "value": "100%",
+          "bar": 1.0
+        },
+        {
+          "label": "Power",
+          "value": "MAX",
+          "bar": 1.0
+        }
+      ],
+      "character": "A majestic pineapple man with golden spiky crown leaves, wearing a custom velvet tuxedo and gold-rimmed glasses. Glowing digital badge on forehead reads 25.0k €.",
+      "visual": "Wide panoramic rooftop shot overlooking the entire glittering metropolis at midnight with a majestic pineapple man in a velvet tuxedo.",
+      "scenes": [
+        "Wide panoramic rooftop shot overlooking the entire glittering metropolis at midnight.",
+        "Close-up detail shot of a golden coin resting on the edge of a penthouse helipad.",
+        "Medium shot of a majestic pineapple man in a velvet tuxedo looking out over the city.",
+        "Close-up detail shot of the pineapple's glowing 25.0k € forehead display.",
+        "Wide montage shot showing all previous characters walking in the lit city streets below.",
+        "Close-up shot of the pineapple smiling as the screen fades to black."
+      ],
+      "caption": "What topic should we cover in the next 8-level series? Let us know in the comments! #StirnZahl #Pineapple #Finale #Power #Mogul"
+    }
+  ],
+  "lang": "en",
+  "topic": "Das peinliche Vortäuschen von Anrufen auf dem Heimweg im Dunkeln",
+  "frame": "frucht"
+}

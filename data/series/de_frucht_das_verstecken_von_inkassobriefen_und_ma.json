@@ -1,0 +1,772 @@
+{
+  "title": "Die 8 Level der Scham-Schublade",
+  "house": "Fruchtberg, a vibrant European metropolis where towering concrete brutalist apartment blocks contrast with sleek neon-lit glass skyscrapers. Steam rises from rain-slicked asphalt streets lined with late-night kiosks, bustling subway stairs, and fruit-human commuters.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Tims alter Vermieter Herr Rhabarber aus Level 5 besitzt auch Julias feuchte Kellerwohnung aus Level 1.",
+    "Miras Kiosk aus Level 3 verkauft die Energy-Drinks, die Felix in Level 2 vor dem Mahnbescheid hortet.",
+    "Der glänzende Sportwagen von Anwalt Dr. Granatapfel aus Level 8 parkt regelmäßig vor Tims Baustelle aus Level 4.",
+    "Die gelben Vollstreckungsbescheide stammen alle aus der Kanzlei von Dr. Granatapfel in Level 8."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Welche erschütternde Summe steht wirklich auf dem roten Überweisungsträger im Umschlag?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Reißt vor den Nachbarn im Hausflur die Schublade auf und verspottet die ungeöffnete Mahnung."
+      },
+      "name": "Julia, 21, Auszubildende",
+      "badge": "920 € netto",
+      "verdict": "ERSTE MAHNUNG",
+      "story": "„920 Euro? Dafür stehe ich nicht mal auf, du faules Gemüse!“ Als Felix meine Schublade aufriss, ahnte er nicht, dass mein gelber Brief eine Erbschaftsvollstreckung über 120.000 Euro enthielt, die sein ganzes Haus kauft. Neunhundertzwanzig Euro Ausbildungsvergütung reichen in Berlin für genau zwei Wochen Miete und Haferflocken. Als heute der gelbe Brief im Kasten lag, rutschte mein Herz in die Turnschuhe. Ich schob ihn panisch ganz nach hinten in die Küchenschublade, direkt unter die alten Geschirrtücher. Schon wieder Post vom Inkassobüro, Kleine? Doch Nachbar Felix, die grüne Birne aus dem dritten Stock, stand plötzlich dreist in meiner offenen Wohnungstür. Seine Stirn glänzte mit arroganten zweitausendvierhundert Euro. Mach doch auf! Zeig her! Ich presste die Schublade mit beiden Händen zu. Verschwinde hier, Felix! Das ist nur Werbung vom Möbelhaus! Siebzig Euro Mahngebühr für eine Jeans? Zahl deine Schulden, du faules Gemüse! Er riss die Lade mit einem Ruck auf, fuchtelte mit dem Umschlag herum und rief durch den Flur. Seine Worte trafen mich wie ein Schlag in den Magen. Kennst du diese lähmende Angst vor dem eigenen Briefkasten? Dann klingelte mein Handy, und das Display meiner Stirn sank sofort nach unten. Vor Schreck ließ Felix das Schreiben fallen. Als ich die Zahl las, schrie ich laut auf. Das siehst du in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "-120 €",
+        "after": "800 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "„920 Euro? Dafür stehe ich nicht mal auf, du faules Gemüse!“ Als Felix meine Schublade aufriss, ahnte er nicht, dass mein gelber Brief eine Erbschaftsvollstreckung über 120.000 Euro enthielt, die sein ganzes Haus kauft."
+        },
+        {
+          "s": "Figur",
+          "t": "Neunhundertzwanzig Euro Ausbildungsvergütung reichen in Berlin für genau zwei Wochen Miete und Haferflocken. Als heute der gelbe Brief im Kasten lag, rutschte mein Herz in die Turnschuhe. Ich schob ihn panisch ganz nach hinten in die Küchenschublade, direkt unter die alten Geschirrtücher."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Schon wieder Post vom Inkassobüro, Kleine?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Doch Nachbar Felix, die grüne Birne aus dem dritten Stock, stand plötzlich dreist in meiner offenen Wohnungstür. Seine Stirn glänzte mit arroganten zweitausendvierhundert Euro."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Mach doch auf! Zeig her!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich presste die Schublade mit beiden Händen zu."
+        },
+        {
+          "s": "Figur",
+          "t": "Verschwinde hier, Felix! Das ist nur Werbung vom Möbelhaus!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Siebzig Euro Mahngebühr für eine Jeans? Zahl deine Schulden, du faules Gemüse!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Er riss die Lade mit einem Ruck auf, fuchtelte mit dem Umschlag herum und rief durch den Flur. Seine Worte trafen mich wie ein Schlag in den Magen. Kennst du diese lähmende Angst vor dem eigenen Briefkasten? Dann klingelte mein Handy, und das Display meiner Stirn sank sofort nach unten. Vor Schreck ließ Felix das Schreiben fallen. Als ich die Zahl las, schrie ich laut auf."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Zahl deine Schulden, du faules Gemüse!",
+      "quote_by": {
+        "level": 2,
+        "name": "Felix",
+        "badge": "2.400 € netto",
+        "character": "Cocky athletic green pear man wearing an oversized black streetwear bomber jacket, gold neck chain, glowing digital 2.400 € display on forehead.",
+        "scene": "Dimly lit Berlin apartment corridor, pear man sneers arrogantly, waving a opened yellow debt notice letter in his hand, tiny golden coin on floorboard."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "920 €",
+          "bar": 0.12
+        },
+        {
+          "label": "Mahnung",
+          "value": "240 €",
+          "bar": 0.08
+        },
+        {
+          "label": "Scham",
+          "value": "Stufe 1",
+          "bar": 0.15
+        }
+      ],
+      "character": "Young petite strawberry girl with seed-freckled red skin, wearing a faded oversized gray hoodie, glowing digital 920 € display on her forehead.",
+      "visual": "A narrow gloomy hallway in a gritty Berlin apartment block. A strawberry girl desperately leans her weight against an open wooden kitchen drawer hiding red letters, while an arrogant pear man towers over her smirking.",
+      "scenes": [
+        "Apartment staircase, high angle wide shot, cracked walls, mailboxes overflowing with flyers, a small golden coin glinting beside the front door mat.",
+        "Cramped kitchen, medium shot, strawberry girl shoving a yellow envelope beneath patterned cotton towels in a rustic wooden drawer, panicked expression.",
+        "Apartment doorway, medium two-shot, tall smug green pear man in bomber jacket pointing mockingly at the girl's glowing forehead number.",
+        "Kitchen counter, extreme close-up, green pear hands violently yanking open the drawer, scattering utility bills, tiny golden coin hidden near drawer handle.",
+        "Apartment hallway, eye-level medium shot, pear man holding high a yellow letter shouting down the stairs while strawberry girl covers her face in shame.",
+        "Kitchen floor, dramatic low angle, the strawberry girl staring in pure horror at her vibrating smartphone as her forehead number digits rapidly tick down."
+      ],
+      "caption": "Schiebst du ungeöffnete Briefe auch ganz nach hinten in die Schublade? Schreib deine Zahl in die Kommentare! #schulden #mahnung #inkasso #drama #reallife"
+    },
+    {
+      "n": 2,
+      "open_loop": "Warum droht dem vermeintlich wohlhabenden Angestellten morgen die fristlose Kündigung seiner Wohnung?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Verweigert an der Kasse den Anschrieb und demütigt ihn vor allen Kunden mit seinen unbezahlten Rechnungen."
+      },
+      "name": "Felix, 26, Vertriebler",
+      "badge": "2.400 € netto",
+      "verdict": "INKASSO-STUFE",
+      "story": "„Vorgang abgelehnt – zahl bar oder verpiss dich!“ Vor zwanzig Kioskkunden knallte Mira meine Goldkarte auf den Tresen – sie wusste nicht, dass ich denselben Leasingvertrag halte, der ihren Kiosk beliefert. Zweitausendvierhundert Euro Gehalt klingen nach Luxusleben, doch meine Schreibtischschublade klemmt bereits vor ungeöffneten Mahnbescheiden. Gestern lachte ich Nachbarin Julia noch aus, heute zitterten meine eigenen Knie. Im Spätkauf an der Ecke wollte ich nur schnell Energy-Drinks und Toastbrot holen. Meine Kreditkarte wurde mit lautem Piepen abgelehnt. Die Zahl lügt nie, Felix. Hinter dem Tresen stand Kioskbesitzerin Mira, eine stachelige Ananasfrau mit eiskalten Augen und einer leuchtenden viertausend Euro auf der Stirn. Deine Karte ist gesperrt! Ich flüsterte beschämt: Schreib es bitte an, Mira. Nur zehn Euro bis Montag! Wer auf dicke Hose macht, zahlt bar oder hungert! Sie lachte schrill durch den vollen Laden. Bei mir liegen bereits drei Mahnungen von deinem Fitnessstudio und dem Leasingwagen, rief sie. Die wartenden Kunden starrten auf meine Stirn. Mira packte die Dosen eiskalt weg. In dieser Sekunde zog eine Pfändung von meinem Girokonto ab, und meine Stirnzahl brach komplett zusammen. Genau dann reichte mir ein Fremder einen Umschlag. Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "-950 €",
+        "after": "1.450 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "„Vorgang abgelehnt – zahl bar oder verpiss dich!“ Vor zwanzig Kioskkunden knallte Mira meine Goldkarte auf den Tresen – sie wusste nicht, dass ich denselben Leasingvertrag halte, der ihren Kiosk beliefert."
+        },
+        {
+          "s": "Figur",
+          "t": "Zweitausendvierhundert Euro Gehalt klingen nach Luxusleben, doch meine Schreibtischschublade klemmt bereits vor ungeöffneten Mahnbescheiden. Gestern lachte ich Nachbarin Julia noch aus, heute zitterten meine eigenen Knie. Im Spätkauf an der Ecke wollte ich nur schnell Energy-Drinks und Toastbrot holen. Meine Kreditkarte wurde mit lautem Piepen abgelehnt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die Zahl lügt nie, Felix.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Hinter dem Tresen stand Kioskbesitzerin Mira, eine stachelige Ananasfrau mit eiskalten Augen und einer leuchtenden viertausend Euro auf der Stirn."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Deine Karte ist gesperrt!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich flüsterte beschämt:"
+        },
+        {
+          "s": "Figur",
+          "t": "Schreib es bitte an, Mira. Nur zehn Euro bis Montag!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer auf dicke Hose macht, zahlt bar oder hungert!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie lachte schrill durch den vollen Laden. Bei mir liegen bereits drei Mahnungen von deinem Fitnessstudio und dem Leasingwagen, rief sie. Die wartenden Kunden starrten auf meine Stirn. Mira packte die Dosen eiskalt weg. In dieser Sekunde zog eine Pfändung von meinem Girokonto ab, und meine Stirnzahl brach komplett zusammen. Genau dann reichte mir ein Fremder einen Umschlag."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Wer auf dicke Hose macht, zahlt bar oder hungert!",
+      "quote_by": {
+        "level": 3,
+        "name": "Mira",
+        "badge": "4.100 € netto",
+        "character": "Sharp spiky pineapple woman wearing a leopard-print blazer, heavy gold hoop earrings, sharp manicured claws, glowing 4.100 € forehead badge.",
+        "scene": "Behind a brightly illuminated neon kiosk counter, pineapple woman glaring down crossing her arms dismissively, tiny golden coin resting next to the cash register."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "2.400 €",
+          "bar": 0.32
+        },
+        {
+          "label": "Ratenkredit",
+          "value": "1.890 €",
+          "bar": 0.45
+        },
+        {
+          "label": "Scham",
+          "value": "Stufe 2",
+          "bar": 0.3
+        }
+      ],
+      "character": "Athletic green pear man wearing an oversized black streetwear bomber jacket, gold neck chain, glowing digital 2.400 € display on forehead.",
+      "visual": "A colorful late-night corner kiosk bathed in neon pink and blue light. An embarrassed pear man clutches a crumpled wallet while an intimidating pineapple woman crosses her arms sternly behind the register.",
+      "scenes": [
+        "Messy bedroom, wide shot, wooden desk drawer overflowing with red and yellow debt collection notices, a tiny golden coin glinting under the computer desk.",
+        "Night street outside neon kiosk, medium shot, pear man jogging nervously in rain toward the glowing shop entrance.",
+        "Inside neon kiosk, point-of-view medium shot, card terminal flashing a bright red error signal 'Vorgang Abgelehnt'.",
+        "Behind counter, close-up, stylish pineapple woman sneering down at him, tapping the glass counter, golden coin hidden inside glass candy jar.",
+        "Kiosk interior, wide two-shot, other fruit customers in queue watching with judgmental gazes as the pear man's forehead number visibly drops.",
+        "Kiosk doorstep, dramatic low angle, a mysterious gloved hand tapping the pear man's shoulder offering a thick brown parcel."
+      ],
+      "caption": "War deine Karte schon mal an der Kasse peinlich gesperrt? Wo stehst du auf der Skala? #inkasso #schuldenfalle #kiosk #drama #armut"
+    },
+    {
+      "n": 3,
+      "open_loop": "Was fand der aggressive Handwerker wirklich hinter der doppelten Wand des Kiosks?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Blockiert ihren Kiosk mit Baugerüsten und beschuldigt sie lautstark des gewerblichen Betrugs."
+      },
+      "name": "Mira, 34, Kioskbesitzerin",
+      "badge": "4.100 € netto",
+      "verdict": "PFÄNDUNGSBESCHLUSS",
+      "story": "„Hier ist der Überweisungsbeleg über 15.000 Euro für dein Material, Tim – gedeckt durch den Kredithai, der dich morgen enteignet!“ Viertausend einhundert Euro Monatsumsatz, und trotzdem ersticke ich heimlich an unbezahlten Lieferantenrechnungen. Meine Scham-Schublade ist das alte Eisfach im Hinterzimmer, vollgestopft mit sechzig roten Briefen. Nach außen spiele ich die taffe Chefin, die Felix im Laden abserviert. Doch heute Morgen stand Bauleiter Tim vor mir, eine stämmige Avocado im Blaumann mit fünftausend zweihundert Euro auf der Stirn. Er knallte seine Werkzeugkiste auf meinen Verkaufstresen, dass die Kaugummispender klapperten. Schluss mit den Ausreden, Mira! Deine Renovierung ist seit vier Monaten unbezahlt! Ich schluckte trocken: Das Geld kommt nächste Woche, Tim. Das Großhandels-Konto war blockiert! Lüg mich nicht an! Die Zahl lügt nie! Er beugte sich bedrohlich vor, roch nach Zement und Kaffee. Zahl die zwölftausend Euro, sonst reiß ich deinen Laden ab! Vor versammelter Kundschaft riss er die Tür zum Hinterzimmer auf und stürmte direkt auf mein Eisfach zu. Plötzlich blitzte meine Stirnanzeige rot auf und verlor fast die Hälfte ihres Wertes. Tim erstarrte mitten im Schritt. Das siehst du in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "-1.800 €",
+        "after": "2.300 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "„Hier ist der Überweisungsbeleg über 15.000 Euro für dein Material, Tim – gedeckt durch den Kredithai, der dich morgen enteignet!“"
+        },
+        {
+          "s": "Figur",
+          "t": "Viertausend einhundert Euro Monatsumsatz, und trotzdem ersticke ich heimlich an unbezahlten Lieferantenrechnungen. Meine Scham-Schublade ist das alte Eisfach im Hinterzimmer, vollgestopft mit sechzig roten Briefen. Nach außen spiele ich die taffe Chefin, die Felix im Laden abserviert. Doch heute Morgen stand Bauleiter Tim vor mir, eine stämmige Avocado im Blaumann mit fünftausend zweihundert Euro auf der Stirn. Er knallte seine Werkzeugkiste auf meinen Verkaufstresen, dass die Kaugummispender klapperten."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Schluss mit den Ausreden, Mira! Deine Renovierung ist seit vier Monaten unbezahlt!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schluckte trocken:"
+        },
+        {
+          "s": "Figur",
+          "t": "Das Geld kommt nächste Woche, Tim. Das Großhandels-Konto war blockiert!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Lüg mich nicht an! Die Zahl lügt nie!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Er beugte sich bedrohlich vor, roch nach Zement und Kaffee."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Zahl die zwölftausend Euro, sonst reiß ich deinen Laden ab!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Vor versammelter Kundschaft riss er die Tür zum Hinterzimmer auf und stürmte direkt auf mein Eisfach zu. Plötzlich blitzte meine Stirnanzeige rot auf und verlor fast die Hälfte ihres Wertes. Tim erstarrte mitten im Schritt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Zahl die zwölftausend Euro, sonst reiß ich deinen Laden ab!",
+      "quote_by": {
+        "level": 4,
+        "name": "Tim",
+        "badge": "5.200 € netto",
+        "character": "Muscular rugged avocado man with brown textured seed belly, wearing dusty blue work overalls, heavy leather tool belt, glowing 5.200 € forehead display.",
+        "scene": "A crowded busy kiosk corridor, avocado contractor holding a heavy steel wrench aggressively, tiny golden coin resting on top of a stack of cigarette packs."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "4.100 €",
+          "bar": 0.48
+        },
+        {
+          "label": "Lieferanten",
+          "value": "12.400 €",
+          "bar": 0.55
+        },
+        {
+          "label": "Scham",
+          "value": "Stufe 3",
+          "bar": 0.45
+        }
+      ],
+      "character": "Sharp spiky pineapple woman wearing a leopard-print blazer, heavy gold hoop earrings, sharp manicured claws, glowing 4.100 € forehead badge.",
+      "visual": "Inside a neon-lit kiosk backroom, a furious avocado construction foreman confronting an elegant pineapple woman, pointing a thick finger at an open rusty freezer filled with red envelopes.",
+      "scenes": [
+        "Backroom storage of kiosk, wide shot, stacked beverage crates, rusty freezer with red inkasso envelopes spilling out, a tiny golden coin near the floor drain.",
+        "Kiosk front counter, medium shot, heavy metal toolbox slamming onto glass counter, dislodging candy displays in dramatic motion blur.",
+        "Kiosk doorway, medium two-shot, avocado contractor in dusty overalls looming over pineapple woman as customers watch outside through the shop window.",
+        "Close-up of contractor's harsh face, avocado skin texture glistening with sweat, forehead badge shining bright, tiny golden coin reflected in his belt buckle.",
+        "Backroom threshold, wide action shot, avocado man grabbing the freezer handle while pineapple woman tries to block him with both arms outstretched.",
+        "Counter cash till, extreme close-up, the glowing digital display on Mira's forehead flickering violently as numbers plummet by nearly half."
+      ],
+      "caption": "Selbstständig und trotzdem keinen Cent auf dem Konto? Kennst du diese Panik vor Handwerker-Rechnungen? #selbststaendig #pleite #schulden #kiosk #handwerker"
+    },
+    {
+      "n": 4,
+      "open_loop": "Welches dunkle Geheimnis steht in dem Einschreiben, das Tim gerade auf der Baustelle zugestellt wurde?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Kündigt vor versammelter Mannschaft den Bauvertrag und beschlagnahmt Tims Maschinen."
+      },
+      "name": "Tim, 42, Bauleiter",
+      "badge": "5.200 € netto",
+      "verdict": "GERICHTSVOLLZIEHER",
+      "story": "„Sie versiegeln meine Bagger, Herr Rhabarber? Schauen Sie ins Grundbuch: Der Baugrund gehört meiner Mutter, und ohne meine Freigabe ist Ihr gesamtes Penthouse illegal!“ Fünftausendzweihundert Euro Netto, Firmenwagen vor der Tür, aber meine Scham-Schublade ist das Handschuhfach meines Pickups, bis oben hin gefüllt mit Mahnungen vom Finanzamt. Eben brüllte ich noch Mira im Kiosk an, weil mir das Wasser bis zum Hals steht. Jetzt stand mein Hauptauftraggeber vor mir auf der Baustelle: Herr Rhabarber, ein knorriger, riesiger Rhabarber-Patron im Maßanzug mit siebentausend achthundert Euro auf der Stirn. Neben ihm zwei Sicherheitsleute. Baustopp, Tim! Deine Subunternehmer stehen seit Wochen unbezahlt vor meinem Büro! Du bist ein Blender! Ich sprang von der Pritsche: Herr Rhabarber, der Rohbau ist fast fertig! Ich brauche nur den nächsten Abschlag für meine Arbeiter! Das Geld ist gebunden! Glauben Sie mir! Du baust hier gar nichts mehr, du Versager! Mit einem Wink ließ er meine Bagger versiegeln. In diesem Moment sackte mein Stirnwert drastisch ab. Plötzlich trat ein Gerichtsbeamter aus dem Baucontainer. Das siehst du in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "-2.100 €",
+        "after": "3.100 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "„Sie versiegeln meine Bagger, Herr Rhabarber? Schauen Sie ins Grundbuch: Der Baugrund gehört meiner Mutter, und ohne meine Freigabe ist Ihr gesamtes Penthouse illegal!“"
+        },
+        {
+          "s": "Figur",
+          "t": "Fünftausendzweihundert Euro Netto, Firmenwagen vor der Tür, aber meine Scham-Schublade ist das Handschuhfach meines Pickups, bis oben hin gefüllt mit Mahnungen vom Finanzamt. Eben brüllte ich noch Mira im Kiosk an, weil mir das Wasser bis zum Hals steht. Jetzt stand mein Hauptauftraggeber vor mir auf der Baustelle: Herr Rhabarber, ein knorriger, riesiger Rhabarber-Patron im Maßanzug mit siebentausend achthundert Euro auf der Stirn. Neben ihm zwei Sicherheitsleute."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Baustopp, Tim! Deine Subunternehmer stehen seit Wochen unbezahlt vor meinem Büro! Du bist ein Blender!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich sprang von der Pritsche:"
+        },
+        {
+          "s": "Figur",
+          "t": "Herr Rhabarber, der Rohbau ist fast fertig! Ich brauche nur den nächsten Abschlag für meine Arbeiter!"
+        },
+        {
+          "s": "Figur",
+          "t": "Das Geld ist gebunden! Glauben Sie mir!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du baust hier gar nichts mehr, du Versager!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mit einem Wink ließ er meine Bagger versiegeln. In diesem Moment sackte mein Stirnwert drastisch ab. Plötzlich trat ein Gerichtsbeamter aus dem Baucontainer."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Du baust hier gar nichts mehr, du Versager!",
+      "quote_by": {
+        "level": 5,
+        "name": "Herr Rhabarber",
+        "badge": "7.800 € netto",
+        "character": "Towering stern rhubarb gentleman with fibrous crimson-green skin, bespoke charcoal tweed trench coat, polished silver cane, glowing 7.800 € forehead display.",
+        "scene": "Muddy construction yard under heavy gray clouds, rhubarb aristocrat pointing his silver-tipped cane menacingly at construction machinery, tiny golden coin embedded in wet concrete."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "5.200 €",
+          "bar": 0.58
+        },
+        {
+          "label": "Steuerschuld",
+          "value": "48.000 €",
+          "bar": 0.7
+        },
+        {
+          "label": "Scham",
+          "value": "Stufe 4",
+          "bar": 0.6
+        }
+      ],
+      "character": "Muscular rugged avocado man with brown textured seed belly, wearing dusty blue work overalls, heavy leather tool belt, glowing 5.200 € forehead display.",
+      "visual": "A rain-drenched metropolitan construction site surrounded by concrete scaffolding. A distressed avocado foreman confronts a towering, elegant rhubarb real estate magnate flanked by guards in the mud.",
+      "scenes": [
+        "Interior of pickup truck, wide shot, open glove compartment stuffed with crumpled red tax enforcement letters, tiny golden coin stuck between dashboard vents.",
+        "Muddy construction site, wide total, towering yellow cranes against stormy clouds, concrete skeletons of buildings, workers standing idle.",
+        "Under scaffolding, medium two-shot, avocado builder pleading with open palms before the towering rhubarb tycoon leaning on a silver cane.",
+        "Close-up of rhubarb magnate, deep red fibrous stalk head, eyes cold with contempt, glowing forehead badge reflecting in rainwater puddle, golden coin nearby in gravel.",
+        "Construction yard, medium shot, two stern security guards slapping red official seal tape across the cabin of a heavy yellow excavator.",
+        "Beside site office container, low angle, avocado man staring down in utter despair as his glowing forehead badge plummets, a uniformed bailiff emerging behind him."
+      ],
+      "caption": "Große Firma, große Einnahmen – und trotzdem fast insolvent? Wie geht ihr mit unbezahlten Rechnungen um? #bauleiter #finanzamt #insolvenz #mahnung #drama"
+    },
+    {
+      "n": 5,
+      "open_loop": "Welches brisante Dokument holte die Bankdirektorin aus ihrem Tresor, das Herrn Rhabarber das Blut in den Adern fror?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Kündigt vor den Aktionären im Konferenzraum alle Millionenkredite seiner Immobiliengruppe."
+      },
+      "name": "Herr Rhabarber, 58, Immobilien-Investor",
+      "badge": "7.800 € netto",
+      "verdict": "KREDITKÜNDIGUNG",
+      "story": "„Kündigen Sie nur, Viktoria. Während Sie reden, sind Ihre Bankaktien um 40 % abgestürzt – ich halte die Short-Position.“ Siebentausendachthundert Euro offizielles Netto, hundertsechzig Mietwohnungen in ganz Berlin, doch mein Mahnungen-Versteck ist der Mahagoni-Sekretär im Penthouse, voll mit unbedienten Bankzinsen. Tim auf der Baustelle nannte ich einen Versager, nur um von meiner eigenen Panik abzulenken. Doch heute saß ich im marmornen Konferenzsaal der Privatbank. Gegenüber thronte Bankdirektorin Viktoria, eine makellose Kokosnuss-Dame mit zehnfünftausend Euro auf der Stirn. Die Zahl lügt nie, Rhabarber. Ihre Zinsdeckungsquote ist tot. Ihre Firmenkonten sind seit gestern gesperrt! Ich lächelte jovial: Frau Direktorin, meine Mieteinnahmen sind stabil! Eine bloße Formsache! Sie können meine Kreditlinie nicht mitten im Bauprojekt streichen! Unterschreiben Sie die Zwangsversteigerung, oder die Presse erfährt von Ihren Schulden! Der Konferenztisch schwankte vor meinen Augen. Meine leuchtende Stirnzahl fiel im freien Fall um dreitausend Euro. Genau da vibrierte ihr rotes Notfalltelefon. Das siehst du in Level 6.",
+      "gender": "m",
+      "twist": {
+        "delta": "-3.000 €",
+        "after": "4.800 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "„Kündigen Sie nur, Viktoria. Während Sie reden, sind Ihre Bankaktien um 40 % abgestürzt – ich halte die Short-Position.“"
+        },
+        {
+          "s": "Figur",
+          "t": "Siebentausendachthundert Euro offizielles Netto, hundertsechzig Mietwohnungen in ganz Berlin, doch mein Mahnungen-Versteck ist der Mahagoni-Sekretär im Penthouse, voll mit unbedienten Bankzinsen. Tim auf der Baustelle nannte ich einen Versager, nur um von meiner eigenen Panik abzulenken. Doch heute saß ich im marmornen Konferenzsaal der Privatbank. Gegenüber thronte Bankdirektorin Viktoria, eine makellose Kokosnuss-Dame mit zehnfünftausend Euro auf der Stirn."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die Zahl lügt nie, Rhabarber. Ihre Zinsdeckungsquote ist tot. Ihre Firmenkonten sind seit gestern gesperrt!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich lächelte jovial:"
+        },
+        {
+          "s": "Figur",
+          "t": "Frau Direktorin, meine Mieteinnahmen sind stabil! Eine bloße Formsache!"
+        },
+        {
+          "s": "Figur",
+          "t": "Sie können meine Kreditlinie nicht mitten im Bauprojekt streichen!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Unterschreiben Sie die Zwangsversteigerung, oder die Presse erfährt von Ihren Schulden!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Der Konferenztisch schwankte vor meinen Augen. Meine leuchtende Stirnzahl fiel im freien Fall um dreitausend Euro. Genau da vibrierte ihr rotes Notfalltelefon."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Unterschreiben Sie die Zwangsversteigerung, oder die Presse erfährt von Ihren Schulden!",
+      "quote_by": {
+        "level": 6,
+        "name": "Direktorin Viktoria",
+        "badge": "10.500 € netto",
+        "character": "Polished severe coconut woman with hard fibrous shell coiffure, wearing an immaculate white power suit, pearl necklace, glowing 10.500 € forehead display.",
+        "scene": "Ultra-luxurious high-rise executive boardroom overlooking city skyline, coconut woman tapping manicured finger on foreclosure papers, tiny golden coin beside the silver water decanter."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "7.800 €",
+          "bar": 0.72
+        },
+        {
+          "label": "Bankdarlehen",
+          "value": "2.4 Mio €",
+          "bar": 0.85
+        },
+        {
+          "label": "Scham",
+          "value": "Stufe 5",
+          "bar": 0.75
+        }
+      ],
+      "character": "Towering stern rhubarb gentleman with fibrous crimson-green skin, bespoke charcoal tweed trench coat, polished silver cane, glowing 7.800 € forehead display.",
+      "visual": "A lavish private bank boardroom with polished black marble walls and sweeping city views. An aristocratic rhubarb businessman slumps into a leather armchair while a stern coconut director slides foreclosure documents across the long mahogany table.",
+      "scenes": [
+        "Luxury penthouse study, wide shot, antique mahogany roll-top desk overflowing with sealed bank repossession demands, tiny golden coin near antique brass lamp.",
+        "Private bank lobby, wide shot, marble columns, quiet suited fruit people walking on thick wool carpets, tension in the air.",
+        "Executive boardroom, eye-level medium two-shot, rhubarb investor clutching silver cane confronting elegant coconut director across boardroom table.",
+        "Desk surface, extreme close-up, thick foreclosure contract stamped 'VERSTEIGERUNGSVERFAHREN', tiny golden coin resting next to a gold fountain pen.",
+        "Boardroom wide angle, coconut director standing tall and adjusting her pearl necklace while rhubarb man trembles visibly in his seat.",
+        "Close-up of rhubarb man's forehead, red LED numbers recalculating and plunging downward by 3.000 €, red emergency phone flashing in background."
+      ],
+      "caption": "Reich nach außen, aber die Bank besitzt alles? Wann platzt die Immobilienblase? #immobilien #kredit #insolvenz #bank #oberklasse"
+    },
+    {
+      "n": 6,
+      "open_loop": "Was war auf dem Überwachungsvideo zu sehen, das der Steuerfahnder Viktorias Bankvorstand vorlegte?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Beschlagnahmt ihre Bankunterlagen wegen Beihilfe zur schweren Geldwäsche."
+      },
+      "name": "Viktoria, 49, Bankdirektorin",
+      "badge": "10.500 € netto",
+      "verdict": "ZWANGSVERWALTUNG",
+      "story": "„Verhaften Sie mich ruhig, Bruno. In zehn Minuten geht die anonyme Anzeige über Ihre Spielcasinos an die Generalstaatsanwaltschaft.“ Zehntausendfünfhundert Euro Monatsgehalt, Maßanzug und Chauffeur. Doch meine geheime Schublade ist ein Bankschließfach im Tresorraum, randvoll mit ungedeckten Bürgschaften meiner privaten Holding. Herrn Rhabarber demütigte ich eiskalt, um meine eigene Haut zu retten. Doch eine Stunde später stürmte Steuerfahnder Bruno mein Chefbüro. Eine verbitterte, knallharte Zitrone im zerknitterten Trenchcoat mit vierzehntausendzweihundert Euro Amtsbezügen auf der Stirn. Hinter ihm vier Bundespolizisten mit Durchsuchungsbeschluss. Guten Tag, Frau Direktorin. Die Bundesbank hat Ihre faulen Kredite überprüft! Ich blieb kühl: Herr Oberinspektor, das ist ein Eingriff in das Bankgeheimnis! Verlassen Sie mein Büro! Sie haben über dreißig Millionen Euro Schrottkredite in Scheinfirmen versteckt! Die Zahl lügt nie! Ich spürte, wie mir das Blut in die Ohren schoss. Ihre Immunität ist aufgehoben, Viktoria! Zeitgleich sperrte die Finanzaufsicht meine Konten, meine Stirnzahl kollabierte. Bruno griff zum Hörer. Das siehst du in Level 7.",
+      "gender": "w",
+      "twist": {
+        "delta": "-4.500 €",
+        "after": "6.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "„Verhaften Sie mich ruhig, Bruno. In zehn Minuten geht die anonyme Anzeige über Ihre Spielcasinos an die Generalstaatsanwaltschaft.“"
+        },
+        {
+          "s": "Figur",
+          "t": "Zehntausendfünfhundert Euro Monatsgehalt, Maßanzug und Chauffeur. Doch meine geheime Schublade ist ein Bankschließfach im Tresorraum, randvoll mit ungedeckten Bürgschaften meiner privaten Holding. Herrn Rhabarber demütigte ich eiskalt, um meine eigene Haut zu retten. Doch eine Stunde später stürmte Steuerfahnder Bruno mein Chefbüro. Eine verbitterte, knallharte Zitrone im zerknitterten Trenchcoat mit vierzehntausendzweihundert Euro Amtsbezügen auf der Stirn. Hinter ihm vier Bundespolizisten mit Durchsuchungsbeschluss."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Guten Tag, Frau Direktorin. Die Bundesbank hat Ihre faulen Kredite überprüft!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich blieb kühl:"
+        },
+        {
+          "s": "Figur",
+          "t": "Herr Oberinspektor, das ist ein Eingriff in das Bankgeheimnis! Verlassen Sie mein Büro!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Sie haben über dreißig Millionen Euro Schrottkredite in Scheinfirmen versteckt! Die Zahl lügt nie!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich spürte, wie mir das Blut in die Ohren schoss."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Ihre Immunität ist aufgehoben, Viktoria!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Zeitgleich sperrte die Finanzaufsicht meine Konten, meine Stirnzahl kollabierte. Bruno griff zum Hörer."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Ihre Immunität ist aufgehoben, Viktoria!",
+      "quote_by": {
+        "level": 7,
+        "name": "Bruno",
+        "badge": "14.200 € netto",
+        "character": "Sour wrinkly yellow lemon investigator in a rumpled vintage beige trench coat, thick tortoiseshell glasses, glowing 14.200 € forehead display.",
+        "scene": "A glass executive office, lemon investigator slamming an official federal search warrant onto a glass table, tiny golden coin resting on top of a bookshelf ledger."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "10.500 €",
+          "bar": 0.85
+        },
+        {
+          "label": "Haftungssumme",
+          "value": "32 Mio €",
+          "bar": 0.92
+        },
+        {
+          "label": "Scham",
+          "value": "Stufe 6",
+          "bar": 0.85
+        }
+      ],
+      "character": "Polished severe coconut woman with hard fibrous shell coiffure, wearing an immaculate white power suit, pearl necklace, glowing 10.500 € forehead display.",
+      "visual": "A sleek corner office high above Frankfurt's banking district. A proud coconut bank director stands frozen as a sour, wrinkled lemon tax investigator displays an official federal badge, armed fruit officers securing the exit behind him.",
+      "scenes": [
+        "Underground bank vault, low angle wide shot, heavy steel safety deposit box pulled open, bursting with unpaid offshore guarantee notes, tiny golden coin on metal floor grating.",
+        "Corner office double glass doors, medium shot, lemon investigator in trench coat forcefully pushing doors open with badge in hand.",
+        "Executive desk, medium two-shot, elegant coconut woman glaring in outrage while lemon investigator leans over desk unbothered.",
+        "Desk surface close-up, thick red binder labeled 'STEUERSTRAFSACHE' thrown down next to a silver laptop, tiny golden coin near the mouse pad.",
+        "Office panorama, wide shot, fruit police officers packing hard drives into plastic evidence crates while banking staff look on through glass partitions.",
+        "Close-up of Viktoria's shell face, eyes widening in panic as her forehead badge drops by 4.500 € while the investigator dials his desk phone."
+      ],
+      "caption": "Glaubst du, Bankchefs haften jemals wirklich für ihre Fehler? Schreib deine Meinung! #bankenkrise #steuerfahndung #skandal #finanzkrise #gerechtigkeit"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welche geheime Klausel im Insolvenzvertrag zerstörte Brunos Plan im allerletzten Moment?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Entzieht ihm mit einem Ministerialbeschluss die Lizenz und deckt Brunos eigene private Steuerschulden auf."
+      },
+      "name": "Bruno, 55, Leitender Steuerfahnder",
+      "badge": "14.200 € netto",
+      "verdict": "AMTSENTHEBUNG",
+      "story": "„Sie verhaften Milliardäre, Herr Prüfer? Dann erklären Sie mal Ihre 180.000 Euro Spielschulden!“ Mit diabolischem Grinsen legte Dr. Granatapfel die gefälschte Beweisakte auf meinen Tisch, während Zuschauer sahen, dass seine Kanzlei die Dokumente eigenhändig manipuliert hatte. Vierzehntausendzweihundert Euro Gehalt als oberster Steuerprüfer, gefürchtet von jedem Millionär des Landes. Doch meine eigene Scham-Schublade ist das unterste Fach meines Amtsstuben-Schreibtischs: Sieben Jahre verjährte Spielschulden und Nachforderungen, die ich mit meiner Dienstmacht erstickte. Viktoria in der Bank ließ ich abführen, um mich unantastbar zu fühlen. Doch heute Mittag betrat Star-Insolvenzanwalt Dr. Granatapfel mein Büro. Eine glänzende, blutrote Granatapfel-Gestalt in einer seidenen Maßweste mit sagenhaften fünfundzwanzigtausend Euro auf der Stirn. Hinter ihm zwei Notare. Herr Oberinspektor Bruno. Sie haben Viktoria festgenommen, doch Ihre eigene Akte liegt auf meinem Tisch. Ich knallte die Faust auf den Tisch: Wollen Sie die Justiz bestechen, Herr Anwalt? Ich lasse Sie verhaften! Wer im Glashaus sitzt, Herr Prüfer, sollte die eigenen Zwangsvollstreckungen nicht im Aktenschrank verstecken! Mit diesen Worten überreichte er mir meine eigene Entlassungsurkunde. In diesem Moment brach mein Stirnwert ins Bodenlose ein. Granatapfel wandte sich langsam zur Tür um. Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "-6.000 €",
+        "after": "8.200 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "„Sie verhaften Milliardäre, Herr Prüfer? Dann erklären Sie mal Ihre 180.000 Euro Spielschulden!“ Mit diabolischem Grinsen legte Dr. Granatapfel die gefälschte Beweisakte auf meinen Tisch, während Zuschauer sahen, dass seine Kanzlei die Dokumente eigenhändig manipuliert hatte."
+        },
+        {
+          "s": "Figur",
+          "t": "Vierzehntausendzweihundert Euro Gehalt als oberster Steuerprüfer, gefürchtet von jedem Millionär des Landes. Doch meine eigene Scham-Schublade ist das unterste Fach meines Amtsstuben-Schreibtischs: Sieben Jahre verjährte Spielschulden und Nachforderungen, die ich mit meiner Dienstmacht erstickte. Viktoria in der Bank ließ ich abführen, um mich unantastbar zu fühlen. Doch heute Mittag betrat Star-Insolvenzanwalt Dr. Granatapfel mein Büro. Eine glänzende, blutrote Granatapfel-Gestalt in einer seidenen Maßweste mit sagenhaften fünfundzwanzigtausend Euro auf der Stirn. Hinter ihm zwei Notare."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Herr Oberinspektor Bruno. Sie haben Viktoria festgenommen, doch Ihre eigene Akte liegt auf meinem Tisch.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich knallte die Faust auf den Tisch:"
+        },
+        {
+          "s": "Figur",
+          "t": "Wollen Sie die Justiz bestechen, Herr Anwalt? Ich lasse Sie verhaften!"
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer im Glashaus sitzt, Herr Prüfer, sollte die eigenen Zwangsvollstreckungen nicht im Aktenschrank verstecken!",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Mit diesen Worten überreichte er mir meine eigene Entlassungsurkunde. In diesem Moment brach mein Stirnwert ins Bodenlose ein. Granatapfel wandte sich langsam zur Tür um."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Wer im Glashaus sitzt, Herr Prüfer, sollte die eigenen Zwangsvollstreckungen nicht im Aktenschrank verstecken!",
+      "quote_by": {
+        "level": 8,
+        "name": "Dr. Granatapfel",
+        "badge": "25.000 € netto",
+        "character": "Magnificent ruby pomegranate man with brilliant crimson skin and glistening blood-red seeds, wearing a three-piece charcoal pinstripe tailored suit, gold signet ring, glowing 25.000 € forehead display.",
+        "scene": "A dim wood-paneled state tax enforcement chamber, pomegranate attorney adjusting his cufflinks with a venomous calm grin, tiny golden coin sitting on top of the desk scale."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "14.200 €",
+          "bar": 0.92
+        },
+        {
+          "label": "Glücksspiel",
+          "value": "180.000 €",
+          "bar": 0.96
+        },
+        {
+          "label": "Scham",
+          "value": "Stufe 7",
+          "bar": 0.9
+        }
+      ],
+      "character": "Sour wrinkly yellow lemon investigator in a rumpled vintage beige trench coat, thick tortoiseshell glasses, glowing 14.200 € forehead display.",
+      "visual": "A wood-paneled government office with dusty blinds and stacks of tax files. A disgraced yellow lemon bureaucrat recoils as a dazzling ruby pomegranate super-lawyer calmly places a dismissal decree on the dark oak desk.",
+      "scenes": [
+        "Government ministry office, wide shot, metal filing cabinets, dusty venetian blinds cutting midday sun into stripes, tiny golden coin hidden under the water dispenser.",
+        "Office desk, low angle, lemon investigator slamming his fist onto a stack of official case documents, scattering stamps and inkpads.",
+        "Office doorway, medium two-shot, towering ruby pomegranate attorney in bespoke pinstripe suit stepping inside flanked by two stoic notaries.",
+        "Close-up of attorney's hand, sparkling gold signet ring resting on an embossed envelope containing an official ministerial removal order, tiny golden coin on the pen tray.",
+        "Office total shot, lemon investigator collapsing backward into his swivel chair, trench coat crumpled, staring blankly as his authority slips away.",
+        "Extreme close-up of Bruno's forehead display, numbers flashing frantically, dropping from 14.200 € down to 8.200 € in harsh red illumination."
+      ],
+      "caption": "Macht schützt vor Schulden nicht! Was denkst du: Wer kontrolliert eigentlich die Kontrolleure? #justiz #steuerfahnder #skandal #drama #thriller"
+    },
+    {
+      "n": 8,
+      "open_loop": "Wem gehörte der allerletzte Brief, der die gesamte Stadt vor dem finanziellen Ruin retten könnte?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Erkennt, dass Julias unbezahlte Jeans-Rechnung aus Level 1 der Auslöser des gesamten Schuldennetzwerks war."
+      },
+      "name": "Dr. Granatapfel, 52, Star-Insolvenzanwalt",
+      "badge": "25.000 € netto",
+      "verdict": "DIE WAHRHEIT",
+      "story": "„Diese 70 Euro Jeans-Mahnung war Ihr allererstes Mandat – und enthält den Formfehler, der Ihre gesamte Kanzlei rückwirkend haftbar macht. Unterschreiben Sie die Abtretung an uns alle, oder Sie gehen in Beugehaft.“ Fünfundzwanzigtausend Euro Netto jeden Monat. Ich vertrete die Reichsten der Stadt, zerlegte Bruno, jagte Rhabarber und trieb Miras Kiosk in den Ruin. Alle glauben, ich sei der unantastbare König dieses Finanzsystems. Doch meine Scham-Schublade ist mein persönlicher Tresor im Penthouse-Büro, gefüllt mit tausenden Mahnbriefen der gesamten Stadt. Ich verdiene an jeder einzelnen Scham! Heute trat eine Gestalt ein, die ich nie erwartet hätte: Julia, das Erdbeermädchen aus Level 1, immer noch mit ihren armseligen achthundert Euro. Herr Dr. Granatapfel? Sie leiten das Inkassounternehmen, das mir wegen siebzig Euro mein Leben zerstört? Ich schaute auf ihre Stirn, dann auf meine eigene. Die Zahl lügt nie, Julia. Auf diesem Brief steht Ihre private Unterschrift! Sie haben vor zehn Jahren mit genau denselben Schulden angefangen! In diesem Moment wurde mir klar: Wir sitzen alle in derselben Schublade. Mein System stürzte in sich zusammen, und meine Millionen-Zahl schrumpfte vor ihren Augen. Welches virale Thema willst du als Nächstes sehen? Schreib es jetzt in die Kommentare!",
+      "gender": "m",
+      "twist": {
+        "delta": "-10.000 €",
+        "after": "15.000 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "„Diese 70 Euro Jeans-Mahnung war Ihr allererstes Mandat – und enthält den Formfehler, der Ihre gesamte Kanzlei rückwirkend haftbar macht. Unterschreiben Sie die Abtretung an uns alle, oder Sie gehen in Beugehaft.“"
+        },
+        {
+          "s": "Figur",
+          "t": "Fünfundzwanzigtausend Euro Netto jeden Monat. Ich vertrete die Reichsten der Stadt, zerlegte Bruno, jagte Rhabarber und trieb Miras Kiosk in den Ruin. Alle glauben, ich sei der unantastbare König dieses Finanzsystems. Doch meine Scham-Schublade ist mein persönlicher Tresor im Penthouse-Büro, gefüllt mit tausenden Mahnbriefen der gesamten Stadt. Ich verdiene an jeder einzelnen Scham! Heute trat eine Gestalt ein, die ich nie erwartet hätte: Julia, das Erdbeermädchen aus Level 1, immer noch mit ihren armseligen achthundert Euro."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Herr Dr. Granatapfel? Sie leiten das Inkassounternehmen, das mir wegen siebzig Euro mein Leben zerstört?",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich schaute auf ihre Stirn, dann auf meine eigene."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl lügt nie, Julia."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Auf diesem Brief steht Ihre private Unterschrift! Sie haben vor zehn Jahren mit genau denselben Schulden angefangen!",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "In diesem Moment wurde mir klar: Wir sitzen alle in derselben Schublade. Mein System stürzte in sich zusammen, und meine Millionen-Zahl schrumpfte vor ihren Augen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches virale Thema willst du als Nächstes sehen? Schreib es jetzt in die Kommentare!"
+        }
+      ],
+      "quote": "Sie haben vor zehn Jahren mit genau denselben Schulden angefangen!",
+      "quote_by": {
+        "level": 1,
+        "name": "Julia",
+        "badge": "800 € netto",
+        "character": "Young petite strawberry girl with seed-freckled red skin, wearing a faded oversized gray hoodie, glowing digital 800 € display on her forehead.",
+        "scene": "A towering penthouse law library, strawberry girl holding out a wrinkled debt letter with trembling hands, tiny golden coin visible on the marble floor tile."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "25.000 €",
+          "bar": 1.0
+        },
+        {
+          "label": "Inkasso-Pool",
+          "value": "8.5 Mio €",
+          "bar": 1.0
+        },
+        {
+          "label": "Scham",
+          "value": "Level 8",
+          "bar": 1.0
+        }
+      ],
+      "character": "Magnificent ruby pomegranate man with brilliant crimson skin and glistening blood-red seeds, wearing a three-piece charcoal pinstripe tailored suit, gold signet ring, glowing 25.000 € forehead display.",
+      "visual": "A majestic floor-to-ceiling penthouse law library overlooking the entire illuminated city at dusk. A grand ruby pomegranate lawyer standing humbled before the humble strawberry girl who reveals the original debt letter.",
+      "scenes": [
+        "Massive private office safe, wide shot, steel door swinging open to reveal hundreds of color-coded debt collection folders, tiny golden coin hidden on the top safe hinge.",
+        "Penthouse entrance hall, medium shot, strawberry girl Julia standing timidly on white marble floor, clutching a yellowed envelope in her small hands.",
+        "Library interior, dramatic two-shot, opulent ruby pomegranate lawyer turning slowly from panoramic window to face the girl, city lights glimmering behind him.",
+        "Close-up of the crumpled letter, vintage ink signature 'Dr. Granatapfel' matching the lawyer's golden fountain pen, tiny golden coin resting on the edge of the glass desk.",
+        "Panoramic view of penthouse, wide shot, the lawyer bowing his head in profound realization as his glowing forehead numbers plummet by 10.000 €.",
+        "High angle view over the entire metropolis of Fruchtberg, all 8 characters subtly visible across the city as dusk falls and streetlights flicker on."
+      ],
+      "caption": "Das Netz der Scham ist aufgelöst: Alle hängen zusammen! Welches Thema soll die nächste 8-Level-Staffel behandeln? Kommentiert jetzt! #finale #aufloesung #inkasso #schulden #plotttwist"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das Verstecken von Inkassobriefen und Mahnungen in der Scham-Schublade",
+  "frame": "frucht"
+}

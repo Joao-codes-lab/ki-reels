@@ -1,0 +1,843 @@
+{
+  "title": "Die 8 Level vom Nachbarn im Flur",
+  "house": "A dense urban apartment building with endless hallways, squeaking doors, and echoing footsteps where everyone hides behind peepholes.",
+  "catchphrase": "Die Zahl lügt nie.",
+  "links": [
+    "Barista in Level 2 mentions the delivery driver who always hides",
+    "Postman in Level 4 leaves letters for the silent neighbour",
+    "Landlady in Level 6 complains about closed doors"
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "Warum stand die Postbotin plötzlich genau vor meiner Tür, obwohl ich keinen Brief erwartet hatte?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Klopft demonstrativ an die Tür und lästert über die niedrige Stirnzahl.",
+        "g": "w"
+      },
+      "name": "Tom, 24, Student",
+      "badge": "0 € Ersparnis",
+      "verdict": "UNTER GETAUCHT",
+      "story": "0 Euro auf der Stirn? Wer hat diesen armen Schlucker überhaupt in unser Haus gelassen? Vielleicht schrubbt er gleich unsere Toiletten, während wir im Warmen sitzen. Die 8 Level vom Nachbarn im Flur. Level 1. Level 1: 0 Euro Ersparnis – und der Schritt vor die Wohnungstür wird zur lebensgefährlichen Mission. Ich halte den Atem an, während draußen der Schlüssel im Schloss des Nachbarn dreht. Mein Magen knurrt, der Kühlschrank ist leer, aber ich bewege mich keinen Zentimeter. Hol den Müll raus, du unsichtbarer Taugenichts, deine Armut stinkt bis hierher. Mein Herz pocht bis zum Hals, während ich mich tiefer in den Schatten ducke. Plötzlich knackt das Holz der Nachbartür bedrohlich. Ein eiskalter Lufthauch zieht durch den schmalen Spalt, und schwere Schritte nähern sich zielgerichtet meinem Fußabtreter. Jemand bleibt direkt vor meinem Spion stehen, und das schwere Atmen lässt mich erstarren. Hat mich etwa jemand bei der Hausverwaltung verpetzt, oder droht mir jetzt die sofortige Zwangsräumung wegen unbezahlter Miete? Das siehst du in Level 2.",
+      "gender": "m",
+      "twist": {
+        "delta": "-50 €",
+        "after": "-50 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "0 Euro auf der Stirn? Wer hat diesen armen Schlucker überhaupt in unser Haus gelassen? Vielleicht schrubbt er gleich unsere Toiletten, während wir im Warmen sitzen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Nachbarn im Flur. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 0 Euro Ersparnis – und der Schritt vor die Wohnungstür wird zur lebensgefährlichen Mission."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich halte den Atem an, während draußen der Schlüssel im Schloss des Nachbarn dreht."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Magen knurrt, der Kühlschrank ist leer, aber ich bewege mich keinen Zentimeter."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Hol den Müll raus, du unsichtbarer Taugenichts, deine Armut stinkt bis hierher.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Herz pocht bis zum Hals, während ich mich tiefer in den Schatten ducke."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich knackt das Holz der Nachbartür bedrohlich."
+        },
+        {
+          "s": "Figur",
+          "t": "Ein eiskalter Lufthauch zieht durch den schmalen Spalt, und schwere Schritte nähern sich zielgerichtet meinem Fußabtreter."
+        },
+        {
+          "s": "Figur",
+          "t": "Jemand bleibt direkt vor meinem Spion stehen, und das schwere Atmen lässt mich erstarren."
+        },
+        {
+          "s": "Figur",
+          "t": "Hat mich etwa jemand bei der Hausverwaltung verpetzt, oder droht mir jetzt die sofortige Zwangsräumung wegen unbezahlter Miete?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 2."
+        }
+      ],
+      "quote": "Hol den Müll raus, du unsichtbarer Taugenichts, deine Armut stinkt bis hierher.",
+      "quote_by": {
+        "level": 3,
+        "name": "Klara",
+        "badge": "2.400 €",
+        "character": "A sour, green broccoli vegetable-person with a permanent frown, wearing a grey knitted vest and holding a clip-board.",
+        "scene": "Wide shot of a dingy apartment hallway with flickering neon light, broccoli woman pointing angrily at a closed wooden door."
+      },
+      "stats": [
+        {
+          "label": "Ersparnis",
+          "value": "0 €",
+          "bar": 0.05
+        },
+        {
+          "label": "Mut",
+          "value": "12 %",
+          "bar": 0.1
+        },
+        {
+          "label": "Hunger",
+          "value": "Max",
+          "bar": 0.95
+        }
+      ],
+      "character": "A pale white mushroom-person with messy dirt spots, wearing a worn-out oversized black hoodie and sneakers; a glowing digital '0 €' floats on his forehead.",
+      "visual": "Close-up shot in a narrow, dark hallway, a young mushroom-person pressing his ear against a wooden door, holding his breath, soft yellow light from a hidden golden coin on the floor.",
+      "scenes": [
+        "Extreme close-up on a glowing digital display showing '0 €' on a mushroom person's forehead inside a dark room.",
+        "Medium shot in a cramped hallway with peeling floral wallpaper, a gloomy broccoli person knocking aggressively on a door.",
+        "Detail shot of a shiny golden coin hidden under a torn doormat next to muddy sneakers.",
+        "Wide shot of an old apartment building staircase with flickering ceiling lights and closed numbered doors.",
+        "Close-up of shaking hands holding a cold instant noodle cup in a tiny kitchen.",
+        "Medium shot through a door peephole showing a shadowy figure walking past with a glowing number."
+      ],
+      "caption": "Wer kennt das Gefühl, im Flur mucksmäuschenstill zu sein? 🙈 Wo stehst du heute? #stirnzahl #nachbarn #drama #viral #fy"
+    },
+    {
+      "n": 2,
+      "open_loop": "Was war in dem mysteriösen Paket, das der Paketbote einfach vor meiner Tür abstellte?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Tritt absichtlich gegen das Paket des armen Paketzustellers und spuckt ihm vor die Füße.",
+        "g": "w"
+      },
+      "name": "Ben, 29, Paketzusteller",
+      "badge": "1.450 € netto",
+      "verdict": "FLUR-SCHLEICHER",
+      "story": "Die Zitronenfrau tritt absichtlich gegen das Paket des armen Paketzustellers und spuckt ihm vor die Füße. Die 8 Level vom Nachbarn im Flur. Level 2. Level 2: 1.450 Euro netto – und jede Treppenstufe fühlt sich an wie einsehbarer Bankrott. Ihre schmerzenden Knochen nach 18.400 Schritten verlangen nach Gnade, doch der Flur erbarmt sich nicht. Du solltest lieber schneller arbeiten, statt hier den Flur zu blockieren. Die Zahl lügt nie, denke ich bitter, trete einen Schritt zurück und verliere fast mein Gleichgewicht. Ich ducke mich weg, um demütigendem Streit zu entkommen, und schließe blitzschnell meine Wohnungstür ab. Genau in diesem Moment fällt mir ein blutiges Strichmännchen auf, das jemand mit Kreide an die Flurwand gemalt hat. Aus dem Aufzug drückt sich dumpfe Musik nach oben, und ein schweres Paket stürzt plötzlich aus dem Regal, ohne dass jemand es berührt hätte. Plötzlich geht die Notbeleuchtung aus und rotes Warnlicht flackert auf. Was will der geheimnisvolle Nachbar von mir? Das siehst du in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+120 €",
+        "after": "1.570 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die Zitronenfrau tritt absichtlich gegen das Paket des armen Paketzustellers und spuckt ihm vor die Füße."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Nachbarn im Flur. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 1.450 Euro netto – und jede Treppenstufe fühlt sich an wie einsehbarer Bankrott."
+        },
+        {
+          "s": "Figur",
+          "t": "Ihre schmerzenden Knochen nach 18.400 Schritten verlangen nach Gnade, doch der Flur erbarmt sich nicht."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Du solltest lieber schneller arbeiten, statt hier den Flur zu blockieren.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Die Zahl lügt nie, denke ich bitter, trete einen Schritt zurück und verliere fast mein Gleichgewicht."
+        },
+        {
+          "s": "Figur",
+          "t": "Ich ducke mich weg, um demütigendem Streit zu entkommen, und schließe blitzschnell meine Wohnungstür ab."
+        },
+        {
+          "s": "Figur",
+          "t": "Genau in diesem Moment fällt mir ein blutiges Strichmännchen auf, das jemand mit Kreide an die Flurwand gemalt hat."
+        },
+        {
+          "s": "Figur",
+          "t": "Aus dem Aufzug drückt sich dumpfe Musik nach oben, und ein schweres Paket stürzt plötzlich aus dem Regal, ohne dass jemand es berührt hätte."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich geht die Notbeleuchtung aus und rotes Warnlicht flackert auf."
+        },
+        {
+          "s": "Figur",
+          "t": "Was will der geheimnisvolle Nachbar von mir?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 3."
+        }
+      ],
+      "quote": "Du solltest lieber schneller arbeiten, statt hier den Flur zu blockieren.",
+      "quote_by": {
+        "level": 4,
+        "name": "Melissa",
+        "badge": "3.800 €",
+        "character": "An elegant lemon-person with glossy yellow skin, wearing a sharp white blazer and carrying a designer handbag.",
+        "scene": "Medium shot by the elevator doors, lemon woman sneering down at an orange delivery guy with a glowing low number."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "1.450 €",
+          "bar": 0.25
+        },
+        {
+          "label": "Stress",
+          "value": "89 %",
+          "bar": 0.9
+        },
+        {
+          "label": "Schritte",
+          "value": "18.400",
+          "bar": 0.7
+        }
+      ],
+      "character": "A round orange-person with textured citrus skin, wearing a high-visibility yellow vest and blue jeans; a glowing digital '1.450 € netto' on his forehead.",
+      "visual": "Medium shot in a bright stairwell, an orange delivery worker standing anxiously next to open mailboxes while carrying heavy cardboard boxes.",
+      "scenes": [
+        "Wide shot of a concrete apartment stairwell with graffiti and scattered delivery packages.",
+        "Close-up on a glowing digital display showing '1.450 € netto' on an orange person's forehead.",
+        "Detail shot of a small golden coin resting on a concrete stair step.",
+        "Medium shot of a sharp lemon-person tapping her designer watch impatiently by the elevator.",
+        "Close-up of a hand quickly sliding a deadbolt lock shut from the inside.",
+        "Wide shot of the hallway through a wide-angle door peephole, fish-eye distortion."
+      ],
+      "caption": "Wer kennt das, wenn man einfach nur seine Ruhe im Treppenhaus will? 📦 Wo stehst du? #stirnzahl #pakete #flur #viral #fy"
+    },
+    {
+      "n": 3,
+      "open_loop": "Warum schaute mich der Mann im teuren Anzug plötzlich so triumphierend an?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Schleicht sich an die Tür heran und lauscht heimlich an meinem Schlüsselloch.",
+        "g": "m"
+      },
+      "name": "Klara, 34, Sachbearbeiterin",
+      "badge": "2.400 € netto",
+      "verdict": "KONTROLL-FREAK",
+      "story": "Mit 2.400 Euro bist du hier der Abschaum du bist der Abschaum des Flurs, wag es ja nicht, mich anzusehen. Die 8 Level vom Nachbarn im Flur. Level 3. Level 3: 2.400 Euro netto – und ich lasse mir von niemandem auf der Etage auf der Nase herumtanzen. Als eiskalter Brokkoli-Mensch spüre ich das bedrückende Gefühl der totalen Überwachung im ganzen Gebäude. Hol den Müll raus, du unsichtbarer Taugenichts, rufe ich drüben durch die geschlossene Tür. Kehr erst mal vor deiner eigenen Tür, du alte Kontrollschraube. Eine goldene Münze kullert mir direkt vor die Füße, während mein Puls rast. Plötzlich zerbricht eine Glühbirne an der Decke mit einem lauten Knall und Splitter regnen auf den kalten Boden. Aus dem Lüftungsschacht weht ein frostiger Wind, der die Zettel an den Pinnwänden wild flattern lässt. Jemand flüstert meinen Namen durch das Treppenhaus, obwohl hier niemand sein dürfte. Ein bedrohlicher Schatten schiebt sich unter meiner Tür hindurch und ein unheimlicher Countdown beginnt. Das siehst du in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "+300 €",
+        "after": "2.700 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Mit 2.400 Euro bist du hier der Abschaum du bist der Abschaum des Flurs, wag es ja nicht, mich anzusehen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Nachbarn im Flur. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 2.400 Euro netto – und ich lasse mir von niemandem auf der Etage auf der Nase herumtanzen."
+        },
+        {
+          "s": "Figur",
+          "t": "Als eiskalter Brokkoli-Mensch spüre ich das bedrückende Gefühl der totalen Überwachung im ganzen Gebäude."
+        },
+        {
+          "s": "Figur",
+          "t": "Hol den Müll raus, du unsichtbarer Taugenichts, rufe ich drüben durch die geschlossene Tür."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Kehr erst mal vor deiner eigenen Tür, du alte Kontrollschraube.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Eine goldene Münze kullert mir direkt vor die Füße, während mein Puls rast."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich zerbricht eine Glühbirne an der Decke mit einem lauten Knall und Splitter regnen auf den kalten Boden."
+        },
+        {
+          "s": "Figur",
+          "t": "Aus dem Lüftungsschacht weht ein frostiger Wind, der die Zettel an den Pinnwänden wild flattern lässt."
+        },
+        {
+          "s": "Figur",
+          "t": "Jemand flüstert meinen Namen durch das Treppenhaus, obwohl hier niemand sein dürfte."
+        },
+        {
+          "s": "Figur",
+          "t": "Ein bedrohlicher Schatten schiebt sich unter meiner Tür hindurch und ein unheimlicher Countdown beginnt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 4."
+        }
+      ],
+      "quote": "Kehr erst mal vor deiner eigenen Tür, du alte Kontrollschraube.",
+      "quote_by": {
+        "level": 1,
+        "name": "Tom",
+        "badge": "0 €",
+        "character": "A pale white mushroom-person with a nervous twitch, wearing a dark hoodie and clutching a broken key.",
+        "scene": "Close-up through a dark door gap, mushroom guy whispering defiantly with flashing eyes."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "2.400 €",
+          "bar": 0.45
+        },
+        {
+          "label": "Macht",
+          "value": "54 %",
+          "bar": 0.5
+        },
+        {
+          "label": "Ordnung",
+          "value": "98 %",
+          "bar": 0.95
+        }
+      ],
+      "character": "A crisp green broccoli-person with a structured floret head, wearing a beige knitted cardigan and neat glasses; a glowing digital '2.400 € netto' on her forehead.",
+      "visual": "Medium shot in a clean hallway, a broccoli woman standing firmly with hands on hips, staring disapprovingly at a closed door.",
+      "scenes": [
+        "Wide shot of an orderly hallway with potted plants and clean doormats.",
+        "Close-up on glowing digital numbers '2.400 € netto' on a green forehead.",
+        "Detail shot of a shiny golden coin resting on pristine linoleum flooring.",
+        "Medium shot of a frightened mushroom person hiding behind a cracked door.",
+        "Close-up of an aggressive knock on a numbered apartment door with knuckles.",
+        "Wide shot from above showing two doors facing each other in quiet tension."
+      ],
+      "caption": "Wer kennt diese Nachbarn, die immer alles genau wissen wollen? 🥦 Wo stehst du? #stirnzahl #flurdebatte #nachbarn #viral #fy"
+    },
+    {
+      "n": 4,
+      "open_loop": "Was stand in dem amtlichen Umschlag, den die Hausverwaltung mit rotem Siegel einwarf?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Klopft mit dem goldenen Stock an meine Tür und droht mit Mietaufschlag.",
+        "g": "m"
+      },
+      "name": "Melissa, 38, Immobilienmaklerin",
+      "badge": "3.800 € netto",
+      "verdict": "LUXUS-ZITRONE",
+      "story": "Die Luxus-Zitrone zerreißt vor laufender Kamera die Kündigung des ärmeren Nachbarn und lacht ihn eiskalt aus. Die 8 Level vom Nachbarn im Flur. Level 4. Level 4: 3.800 Euro netto – und ich dulde keinen Schmutz oder Trödel im elitären Flur. Auf dem kalten Marmorboden im Geruch teuren Parfums zerreiße ich die Papiere mit maximaler Arroganz. Das schallende Gelächter über den finanziellen Ruin des Nachbarn zeigt die psychologische Grausamkeit meiner Fassade. Wer im Glaspalast sitzt, sollte nicht mit Mietverträgen werfen. Ich lächze siegesgewiss und gehe auf meine Wohnung zu, während der Zettel an der Tür klebt. Unvermittelt springt der Aufzug im Schacht nach oben und steuert ungebremst auf meine Etage zu. Die Türen öffnen sich langsam mit einem quietschenden Geräusch, doch im Inneren befindet sich niemand außer einer unheimlichen Puppe. An ihrer Brust blinkt eine rote Ziffer, die exakt mein Gehalt anzeigt. Was hat dieses Zeichen zu bedeuten? Das siehst du in Level 5.",
+      "gender": "w",
+      "twist": {
+        "delta": "-500 €",
+        "after": "3.300 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die Luxus-Zitrone zerreißt vor laufender Kamera die Kündigung des ärmeren Nachbarn und lacht ihn eiskalt aus."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Nachbarn im Flur. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 3.800 Euro netto – und ich dulde keinen Schmutz oder Trödel im elitären Flur."
+        },
+        {
+          "s": "Figur",
+          "t": "Auf dem kalten Marmorboden im Geruch teuren Parfums zerreiße ich die Papiere mit maximaler Arroganz."
+        },
+        {
+          "s": "Figur",
+          "t": "Das schallende Gelächter über den finanziellen Ruin des Nachbarn zeigt die psychologische Grausamkeit meiner Fassade."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Wer im Glaspalast sitzt, sollte nicht mit Mietverträgen werfen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich lächze siegesgewiss und gehe auf meine Wohnung zu, während der Zettel an der Tür klebt."
+        },
+        {
+          "s": "Figur",
+          "t": "Unvermittelt springt der Aufzug im Schacht nach oben und steuert ungebremst auf meine Etage zu."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Türen öffnen sich langsam mit einem quietschenden Geräusch, doch im Inneren befindet sich niemand außer einer unheimlichen Puppe."
+        },
+        {
+          "s": "Figur",
+          "t": "An ihrer Brust blinkt eine rote Ziffer, die exakt mein Gehalt anzeigt."
+        },
+        {
+          "s": "Figur",
+          "t": "Was hat dieses Zeichen zu bedeuten?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 5."
+        }
+      ],
+      "quote": "Wer im Glaspalast sitzt, sollte nicht mit Mietverträgen werfen.",
+      "quote_by": {
+        "level": 6,
+        "name": "Arthur",
+        "badge": "7.500 €",
+        "character": "An austere coconut-person with a hard brown textured shell, wearing a vintage tweed waistcoat and holding a cane.",
+        "scene": "Medium shot near the penthouse stairs, coconut man tapping his cane warningly at a lemon woman."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "3.800 €",
+          "bar": 0.65
+        },
+        {
+          "label": "Status",
+          "value": "82 %",
+          "bar": 0.8
+        },
+        {
+          "label": "Stolz",
+          "value": "99 %",
+          "bar": 0.99
+        }
+      ],
+      "character": "A bright yellow lemon-person with smooth waxy skin, wearing a tailored white suit jacket and gold earrings; a glowing digital '3.800 € netto' on her forehead.",
+      "visual": "Medium shot in a luxury carpeted hallway, a sleek lemon woman adjusting her sunglasses while looking down at a delivery worker.",
+      "scenes": [
+        "Wide shot of a marble-tiled luxury foyer with large mirrors and modern art.",
+        "Close-up on glowing digital numbers '3.800 € netto' on a yellow forehead.",
+        "Detail shot of a gleaming golden coin reflecting off a polished brass door handle.",
+        "Medium shot of an intimidated delivery worker stepping aside quickly.",
+        "Close-up of a red administrative notice stuck to a shiny wooden door.",
+        "Wide shot of an elevator descending with glass walls showing the city lights."
+      ],
+      "caption": "Manche denken echt, ihnen gehört das ganze Gebäude. 🍋 Wo stehst du? #stirnzahl #luxusflur #zitrone #viral #fy"
+    },
+    {
+      "n": 5,
+      "open_loop": "Warum lag plötzlich ein geheimnisvoller Schlüssel auf der Fußmatte, den niemand besessen hatte?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Beobachtet mich aus dem Dachfenster und lacht laut über meine Panik.",
+        "g": "m"
+      },
+      "name": "Samira, 32, Grafikerin",
+      "badge": "4.900 € netto",
+      "verdict": "KREATIVE KLAUE",
+      "story": "Die Drachenfrucht wird vom Investor im Penthouse öffentlich im Flur als Versagerin abgestempelt. Die 8 Level vom Nachbarn im Flur. Level 5. Level 5: 4.900 Euro netto – und der harte Aufprall der Realität trifft mich, als meine Kreativität im Hochhaus wertlos wird. Die wachsende Paranoia und der immense Druck im Treppenhaus lassen mich fast den Verstand verlieren. Der kalte Klick des Schlosses und der eiskalte Hohn des Investors vom Penthouse verfolgen mich auf Schritt und Tritt. Dein buntes Design täuscht nicht über die leere Portokasse hinweg. Ich bückte mich hastig, um die goldene Münze aufzuheben, während das Schloss klickte. Da fiel mein Blick auf den Aushang am Schwarzen Brett, der plötzlich blutrot aufleuchtete. Ein handschriftlicher Zettel trug exakt die Anschrift meiner Wohnung mit dem Vermerk: Räumung in Kürze. Panik überkam mich, als ich hörte, wie sich ein schwerer Riegel von außen vorschob. Wer sperrt mich hier im Flur ein? Das siehst du in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "+450 €",
+        "after": "5.350 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Die Drachenfrucht wird vom Investor im Penthouse öffentlich im Flur als Versagerin abgestempelt."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Nachbarn im Flur. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 4.900 Euro netto – und der harte Aufprall der Realität trifft mich, als meine Kreativität im Hochhaus wertlos wird."
+        },
+        {
+          "s": "Figur",
+          "t": "Die wachsende Paranoia und der immense Druck im Treppenhaus lassen mich fast den Verstand verlieren."
+        },
+        {
+          "s": "Figur",
+          "t": "Der kalte Klick des Schlosses und der eiskalte Hohn des Investors vom Penthouse verfolgen mich auf Schritt und Tritt."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein buntes Design täuscht nicht über die leere Portokasse hinweg.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Ich bückte mich hastig, um die goldene Münze aufzuheben, während das Schloss klickte."
+        },
+        {
+          "s": "Figur",
+          "t": "Da fiel mein Blick auf den Aushang am Schwarzen Brett, der plötzlich blutrot aufleuchtete."
+        },
+        {
+          "s": "Figur",
+          "t": "Ein handschriftlicher Zettel trug exakt die Anschrift meiner Wohnung mit dem Vermerk: Räumung in Kürze."
+        },
+        {
+          "s": "Figur",
+          "t": "Panik überkam mich, als ich hörte, wie sich ein schwerer Riegel von außen vorschob."
+        },
+        {
+          "s": "Figur",
+          "t": "Wer sperrt mich hier im Flur ein?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 6."
+        }
+      ],
+      "quote": "Wer hoch steigt, fällt tief, deine Kreativität zahlt keine Miete.",
+      "quote_by": {
+        "level": 7,
+        "name": "Viktor",
+        "badge": "11.200 €",
+        "character": "A stiff avocado-person with a smooth dark green leather jacket and severe slicked hair.",
+        "scene": "Wide shot on the penthouse balcony, avocado man looking down with a cold smirk through expensive binoculars."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "4.900 €",
+          "bar": 0.75
+        },
+        {
+          "label": "Kreativ",
+          "value": "95 %",
+          "bar": 0.95
+        },
+        {
+          "label": "Paranoia",
+          "value": "78 %",
+          "bar": 0.8
+        }
+      ],
+      "character": "A vibrant pink dragonfruit-person with neon green leaf-tips, wearing an artistic paint-splattered denim jacket; a glowing digital '4.900 € netto' on her forehead.",
+      "visual": "Medium shot in a modern loft hallway, a striking dragonfruit woman holding a sketchpad and looking nervously at a neighboring door.",
+      "scenes": [
+        "Wide shot of an industrial-style loft corridor with exposed brick walls and track lighting.",
+        "Close-up on glowing digital numbers '4.900 € netto' on a pink forehead.",
+        "Detail shot of a shiny golden coin resting on a dark wooden floorboard.",
+        "Medium shot of a stern coconut-person looking down from an upper balcony.",
+        "Close-up of fingers gripping a brass doorknob anxiously.",
+        "Wide shot of stairs viewed from below with dramatic shadows."
+      ],
+      "caption": "Kreative Köpfe haben es im spießigen Flur echt nicht leicht. 🐉 Wo stehst du? #stirnzahl #drachenfrucht #loft #viral #fy"
+    },
+    {
+      "n": 6,
+      "open_loop": "Was verbarg sich hinter der eisernen Panzertür im obersten Stockwerk, die niemals geöffnet wurde?",
+      "gegenspieler": {
+        "level": 8,
+        "tat": "Sperrt den gesamten Flur ab und verlangt einen Passierschein.",
+        "g": "m"
+      },
+      "name": "Arthur, 54, Hausbesitzer",
+      "badge": "7.500 € netto",
+      "verdict": "CHEF-KOKOSNUSS",
+      "story": "Der Vermieter droht noch erbarmungsloser mit dem Rauswurf und treibt die Angst der Mieter auf die Spitze. Die 8 Level vom Nachbarn im Flur. Level 6. Level 6: 7.500 Euro netto – mit dem dumpfen Klang meines goldenen Stocks auf dem Holzfußboden verbreite ich Angst vor der Zwangsräumung. Als erbarmungslose Kokosnuss lasse ich mir von niemandem widersprechen und herrsche über das gesamte Gebäude. Deine dicke Schale schützt dich nicht vor dem, was von ganz oben kommt. Die plötzliche Entdeckung der mysteriösen Münze vor meiner eigenen Panzertür lässt mein Imperium erbeben. Mitten in meiner Siegesgewissheit fängt plötzlich das schwere Eisentor am Ende des Flurs an zu vibrieren. Ein dumpfer, mechanischer Ton dröhnt durch den gesamten Betonschacht, und die Beleuchtung schaltet auf Notstrom um. Eine tiefe, verzerrte Stimme flüstert aus den Lautsprechern, dass das System nun neu gestartet wird. Niemand kann mehr entkommen, denn der Aufzug blockiert. Das siehst du in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+1.200 €",
+        "after": "8.700 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Der Vermieter droht noch erbarmungsloser mit dem Rauswurf und treibt die Angst der Mieter auf die Spitze."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Nachbarn im Flur. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 7.500 Euro netto – mit dem dumpfen Klang meines goldenen Stocks auf dem Holzfußboden verbreite ich Angst vor der Zwangsräumung."
+        },
+        {
+          "s": "Figur",
+          "t": "Als erbarmungslose Kokosnuss lasse ich mir von niemandem widersprechen und herrsche über das gesamte Gebäude."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Deine dicke Schale schützt dich nicht vor dem, was von ganz oben kommt.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Die plötzliche Entdeckung der mysteriösen Münze vor meiner eigenen Panzertür lässt mein Imperium erbeben."
+        },
+        {
+          "s": "Figur",
+          "t": "Mitten in meiner Siegesgewissheit fängt plötzlich das schwere Eisentor am Ende des Flurs an zu vibrieren."
+        },
+        {
+          "s": "Figur",
+          "t": "Ein dumpfer, mechanischer Ton dröhnt durch den gesamten Betonschacht, und die Beleuchtung schaltet auf Notstrom um."
+        },
+        {
+          "s": "Figur",
+          "t": "Eine tiefe, verzerrte Stimme flüstert aus den Lautsprechern, dass das System nun neu gestartet wird."
+        },
+        {
+          "s": "Figur",
+          "t": "Niemand kann mehr entkommen, denn der Aufzug blockiert."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 7."
+        }
+      ],
+      "quote": "Deine dicke Schale schützt dich nicht vor dem, was von ganz oben kommt.",
+      "quote_by": {
+        "level": 8,
+        "name": "Milo",
+        "badge": "UNENDLICH",
+        "character": "A mysterious golden starfruit-person wearing a sleek silver trench coat and reflecting all light around him.",
+        "scene": "Low-angle shot at the very top of the grand staircase, starfruit figure standing silently in blinding white light."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "7.500 €",
+          "bar": 0.88
+        },
+        {
+          "label": "Macht",
+          "value": "94 %",
+          "bar": 0.95
+        },
+        {
+          "label": "Ego",
+          "value": "Max",
+          "bar": 1.0
+        }
+      ],
+      "character": "A brown fibrous coconut-person with a rigid spherical shell, wearing a vintage tweed waistcoat and gold-rimmed monocle; a glowing digital '7.500 € netto' on his forehead.",
+      "visual": "Medium shot in a grand penthouse hallway with dark wood paneling, a coconut landlord leaning on a carved wooden cane with stern authority.",
+      "scenes": [
+        "Wide shot of a majestic foyer with crystal chandeliers and sweeping staircases.",
+        "Close-up on glowing digital numbers '7.500 € netto' on a brown coconut forehead.",
+        "Detail shot of a shiny golden coin resting on an antique Persian hallway rug.",
+        "Medium shot of a worried tenant stepping back into their doorway.",
+        "Close-up of a heavy brass key turning twice in a massive deadbolt.",
+        "Wide shot from the highest balcony looking straight down into the deep stairwell shaft."
+      ],
+      "caption": "Der Vermieter hat immer das letzte Wort... oder etwa nicht? 🥥 Wo stehst du? #stirnzahl #kokosnuss #vermieter #viral #fy"
+    },
+    {
+      "n": 7,
+      "open_loop": "Welches dunkle Geheimnis verbarg der Mann mit der höchsten Zahl im ganzen Gebäude?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Klopft an mein Penthouse und fordert Einblick in meine Unterlagen.",
+        "g": "w"
+      },
+      "name": "Viktor, 41, Investor",
+      "badge": "11.200 € netto",
+      "verdict": "PENTHOUSE-ELITE",
+      "story": "Der Elite-Investor erreicht einen absoluten Höhepunkt der Arroganz und richtet über alle Bewohner. Die 8 Level vom Nachbarn im Flur. Level 7. Level 7: 11.200 Euro netto – mit einem einzigen Wisch auf dem Tablet lösche ich Existenzen aus. Mein Ego und meine Stirnzahl scheinen unantastbar, während ich von oben auf das Elend herabblicke. Dein ganzer Reichtum bricht zusammen, sobald die wahre Zahl ans Licht kommt. Die goldene Münze erschüttert mein Marmor-Reich und bedroht meine absolute Herrschaft. Plötzlich frieren sämtliche Bildschirme in meinem luxuriösen Penthouse ein und zeigen nur noch einen mysteriösen Countdown. An meiner Wohnungstür ertönt ein markerschütterndes Hämmern, das nicht von Menschenhand stammen kann. Die Wände beginnen zu beben und die Stirnzahl auf meiner Stirn fängt an unkontrolliert zu flackern. Verliere ich etwa gerade die Kontrolle über alles? Das siehst du in Level 8.",
+      "gender": "m",
+      "twist": {
+        "delta": "+3.000 €",
+        "after": "14.200 €"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Der Elite-Investor erreicht einen absoluten Höhepunkt der Arroganz und richtet über alle Bewohner."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Nachbarn im Flur. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 11.200 Euro netto – mit einem einzigen Wisch auf dem Tablet lösche ich Existenzen aus."
+        },
+        {
+          "s": "Figur",
+          "t": "Mein Ego und meine Stirnzahl scheinen unantastbar, während ich von oben auf das Elend herabblicke."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Dein ganzer Reichtum bricht zusammen, sobald die wahre Zahl ans Licht kommt.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "Die goldene Münze erschüttert mein Marmor-Reich und bedroht meine absolute Herrschaft."
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich frieren sämtliche Bildschirme in meinem luxuriösen Penthouse ein und zeigen nur noch einen mysteriösen Countdown."
+        },
+        {
+          "s": "Figur",
+          "t": "An meiner Wohnungstür ertönt ein markerschütterndes Hämmern, das nicht von Menschenhand stammen kann."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Wände beginnen zu beben und die Stirnzahl auf meiner Stirn fängt an unkontrolliert zu flackern."
+        },
+        {
+          "s": "Figur",
+          "t": "Verliere ich etwa gerade die Kontrolle über alles?"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Das siehst du in Level 8."
+        }
+      ],
+      "quote": "Dein ganzer Reichtum bricht zusammen, sobald die wahre Zahl ans Licht kommt.",
+      "quote_by": {
+        "level": 5,
+        "name": "Samira",
+        "badge": "4.900 €",
+        "character": "A vibrant pink dragonfruit-person with neon green spikes, wearing an artistic paint-splattered denim jacket.",
+        "scene": "Medium shot by the penthouse elevator, dragonfruit woman looking up fearlessly with glowing pink eyes."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "11.200 €",
+          "bar": 0.95
+        },
+        {
+          "label": "Aktien",
+          "value": "99 %",
+          "bar": 0.99
+        },
+        {
+          "label": "Kontrolle",
+          "value": "98 %",
+          "bar": 0.98
+        }
+      ],
+      "character": "A dark green avocado-person with a smooth pear-shaped head, wearing a designer black leather jacket and expensive watch; a glowing digital '11.200 € netto' on his forehead.",
+      "visual": "Wide shot of a luxury penthouse interior with floor-to-ceiling glass windows, an avocado investor looking down at the city skyline with absolute arrogance.",
+      "scenes": [
+        "Wide shot of a sprawling penthouse living room with minimalist modern art and leather couches.",
+        "Close-up on glowing digital numbers '11.200 € netto' on a green avocado forehead.",
+        "Detail shot of a shiny golden coin resting on polished white marble flooring.",
+        "Medium shot of a furious investor checking digital stock charts on a tablet.",
+        "Close-up of smart-home security cameras flashing red on the hallway walls.",
+        "Wide shot from the penthouse terrace looking out over the entire illuminated city."
+      ],
+      "caption": "Ganz oben angekommen und doch nicht sicher. 🥑 Wo stehst du? #stirnzahl #avocado #penthouse #viral #fy"
+    },
+    {
+      "n": 8,
+      "open_loop": "Welche Zahl leuchtete am Ende auf allen Stirnen gleichzeitig im Treppenhaus?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Öffnet als Erster die Tür und bricht das System für immer auf.",
+        "g": "m"
+      },
+      "name": "Milo, 28, Der stille Beobachter",
+      "badge": "UNENDLICH",
+      "verdict": "SYSTEM-KNACKER",
+      "story": "Im großen Finale fallen die Masken endgültig und das grausame System bricht für immer in sich zusammen. Die 8 Level vom Nachbarn im Flur. Level 8. Level 8: Unendlich – die Zahlen auf den Stirnen aller Tyrannen erlöschen in grellen Blitzen. Die Türen springen auf und werden durch echten Zusammenhalt und die finale Genugtuung ersetzt. Niemand muss sich mehr verstecken, denn wir stehen gemeinsam im Licht. Die Zahl hat euch blind gemacht, aber jetzt öffnen sich alle Türen. Plötzlich erloschen alle Euro-Zahlen und wurden durch puren Zusammenhalt ersetzt. Ein gleißendes Licht flutet den gesamten Flur und alle Barrieren zwischen den Wohnungen lösen sich in Luft auf. Die Nachbarn reichen sich die Hände, während das alte Haus friedlich im Sonnenlicht erstrahlt. Doch in der Dunkelheit des Kellers blinkt leise ein neuer, unbekannter Code. Welches Thema aus unserem Alltag soll als Nächstes durch die Stirn-Zahl enthüllt werden?",
+      "gender": "m",
+      "twist": {
+        "delta": "0",
+        "after": "FREI"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "Im großen Finale fallen die Masken endgültig und das grausame System bricht für immer in sich zusammen."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Die 8 Level vom Nachbarn im Flur. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: Unendlich – die Zahlen auf den Stirnen aller Tyrannen erlöschen in grellen Blitzen."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Türen springen auf und werden durch echten Zusammenhalt und die finale Genugtuung ersetzt."
+        },
+        {
+          "s": "Figur",
+          "t": "Niemand muss sich mehr verstecken, denn wir stehen gemeinsam im Licht."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Die Zahl hat euch blind gemacht, aber jetzt öffnen sich alle Türen.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Plötzlich erloschen alle Euro-Zahlen und wurden durch puren Zusammenhalt ersetzt."
+        },
+        {
+          "s": "Figur",
+          "t": "Ein gleißendes Licht flutet den gesamten Flur und alle Barrieren zwischen den Wohnungen lösen sich in Luft auf."
+        },
+        {
+          "s": "Figur",
+          "t": "Die Nachbarn reichen sich die Hände, während das alte Haus friedlich im Sonnenlicht erstrahlt."
+        },
+        {
+          "s": "Figur",
+          "t": "Doch in der Dunkelheit des Kellers blinkt leise ein neuer, unbekannter Code."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Welches Thema aus unserem Alltag soll als Nächstes durch die Stirn-Zahl enthüllt werden?"
+        }
+      ],
+      "quote": "Die Zahl hat euch blind gemacht, aber jetzt öffnen sich alle Türen.",
+      "quote_by": {
+        "level": 1,
+        "name": "Tom",
+        "badge": "FREI",
+        "character": "A confident mushroom-person standing tall in the center hallway with a wide smile.",
+        "scene": "Wide shot of the entire apartment building hallway filled with all characters standing together smiling under glowing warm lights."
+      },
+      "stats": [
+        {
+          "label": "Status",
+          "value": "UNENDLICH",
+          "bar": 1.0
+        },
+        {
+          "label": "Wahrheit",
+          "value": "100 %",
+          "bar": 1.0
+        },
+        {
+          "label": "Zusammen",
+          "value": "ALLE",
+          "bar": 1.0
+        }
+      ],
+      "character": "A glowing golden starfruit-person with five sharp geometric points, wearing a sleek silver trench coat that shimmers with all colors; a glowing symbol '∞' on his forehead.",
+      "visual": "Wide angle shot looking down the entire central stairwell of the building, all floors lit in warm golden light with doors wide open and characters smiling together.",
+      "scenes": [
+        "Wide shot of the main building lobby filled with warm sunlight and all fruit characters standing together.",
+        "Close-up on the glowing '∞' symbol on the starfruit person's forehead.",
+        "Detail shot of multiple golden coins gathered together in a shiny pile on the floor.",
+        "Medium shot of former rivals Tom and Klara shaking hands in the hallway.",
+        "Close-up of digital forehead numbers fading away into soft glowing stars.",
+        "Wide shot of the apartment building exterior bathed in golden sunrise light."
+      ],
+      "caption": "Das große Finale! Manchmal zählt viel mehr als nur die Zahl auf der Stirn. ✨ Welches Thema soll als Nächstes kommen? #stirnzahl #finale #nachbarn #zusammenhalt #viral #fy"
+    }
+  ],
+  "lang": "de",
+  "topic": "Das Verharren hinter der Wohnungstür, um dem Nachbarn im Flur zu entkommen",
+  "frame": "frucht"
+}

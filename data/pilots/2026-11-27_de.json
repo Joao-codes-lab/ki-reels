@@ -1,0 +1,54 @@
+[
+  {
+    "nr": 1,
+    "ersatzbilder": 5,
+    "topic": "Das Verstecken von Inkassobriefen und Mahnungen in der Scham-Schublade",
+    "frame": "frucht",
+    "title": "Die 8 Level der Scham-Schublade",
+    "file": "2026-11-27_pilot1_de_frucht_das_verstecken_von_inkassobriefen_und_ma_teil1.mp4",
+    "hook": "Mit Level 1 öffnest du Briefe am selben Tag – ich bin eine Zitrone auf Level 7 und schiebe gelbe Umschläge ungeöffnet ganz nach hinten unter meine Socken.",
+    "warum": "Finanzielle Verdrängung und 'Paper Phobia' bei Gen Z und Millennials ist ein massives Tabuthema mit extrem hohem Identifikationspotenzial ('Ich fühle mich ertappt').",
+    "score": 40,
+    "jury": [
+      "KI-generierte Bildartefakte und Konsistenzfehler zwischen den Szenen reduzieren",
+      "Den Spannungsbogen im Mittelteil straffen, um die Aufmerksamkeit durchgehend hochzuhalten",
+      "Das Ende noch stärker mit einem Cliffhanger versehen, um die Conversion zu Level 2 zu steigern"
+    ],
+    "sid": "de_frucht_das_verstecken_von_inkassobriefen_und_ma",
+    "design": {
+      "punkte": [
+        24,
+        28,
+        22
+      ],
+      "sieger": 1,
+      "warum": "Bild 1 trifft mit dem Rotkopf und dem Salat-Haar den Stil von 3D-Obst- und Gemüsemenschen am ehesten, hat aber wie die anderen das Problem, dass die spezifischen Details der Szene (wie der Hoodie oder die Briefe) nicht präzise umgesetzt wurden. Alle Bilder verfehlen die geforderte Zahl auf der Stirn und das genaue Szenario, aber Bild 1 hat die stimmigste Charakterästhetik für das virale Reels-Format."
+    }
+  },
+  {
+    "nr": 3,
+    "ersatzbilder": 1,
+    "topic": "Das Verharren hinter der Wohnungstür, um dem Nachbarn im Flur zu entkommen",
+    "frame": "frucht",
+    "title": "Die 8 Level vom Nachbarn im Flur",
+    "file": "2026-11-27_pilot3_de_frucht_das_verharren_hinter_der_wohnungst_r_um_teil1.mp4",
+    "hook": "Auf Level 1 grüßt man freundlich im Treppenhaus – ich bin eine Banane auf Level 8, stehe im Dunkeln mit angehaltenem Atem am Türspion und warte 12 Minuten, bis der Nachbar endlich im Aufzug verschwindet.",
+    "warum": "Social Anxiety und die extreme Vermeidung von Smalltalk im eigenen Hausflur sind universell relatable für Gen Z und Millennials, lösen sofort peinlich berührtes Wiedererkennen und hundertfaches Taggen aus.",
+    "score": 88,
+    "jury": [
+      "Die Hook ist durch den auffälligen Text und die surrealen Figuren sehr stark, aber direkt zu Beginn könnte das Sprach-Tempo noch packender sein.",
+      "Die KI-Bilder sind extrem kreativ und passen zur bizarre Atmosphäre, allerdings wirken manche Übergänge etwas abrupt.",
+      "Am Ende könnte ein klarer Call-to-Action (z.B. Like für Level 2) die Conversion für die nächste Folge noch steigern."
+    ],
+    "sid": "de_frucht_das_verharren_hinter_der_wohnungst_r_um",
+    "design": {
+      "punkte": [
+        18,
+        22,
+        15
+      ],
+      "sieger": 1,
+      "warum": "Bild 1 hat eine menschliche Anatomie statt einer reinen Frucht- oder Gemüsefigur wie gefordert. Bild 3 passt stilistisch gar nicht zu den viralen Vorbildern und trifft die Szene nicht. Bild 2 setzt den gewünschten Cartoon-Stil für Gemüsefiguren am besten um, auch wenn alle Bilder die genauen Prompt-Vorgaben für den Pilzmenschen verfehlen."
+    }
+  }
+]

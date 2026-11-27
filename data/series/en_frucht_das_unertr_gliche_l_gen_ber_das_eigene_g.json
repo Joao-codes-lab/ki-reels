@@ -1,0 +1,875 @@
+{
+  "title": "The 8 Levels of Salary Lies to Parents",
+  "house": "A bustling metropolis where plant-people navigate high rents, corporate pressures, and family dinners under glowing digital salary displays on their foreheads.",
+  "catchphrase": "The glowing digit on your forehead never lies.",
+  "links": [
+    "Level 1 mentions the expensive wine bought at Level 8's store.",
+    "Level 2 drops off a package at Level 6's apartment building.",
+    "Level 3 borrows bus fare from the barista in Level 5.",
+    "Level 4 finds a dropped receipt from Level 7's startup office.",
+    "Level 5 hears complaints about Level 1's missed rent.",
+    "Level 6 receives a delivery from Level 2's cousin.",
+    "Level 7 invests in Level 8's real estate portfolio.",
+    "Level 8 remembers buying coffee from Level 3 years ago."
+  ],
+  "levels": [
+    {
+      "n": 1,
+      "open_loop": "What secret package did Dad intercept from the doorstep?",
+      "gegenspieler": {
+        "level": 6,
+        "tat": "Laughs at her unpaid internship and sends a mocking text about her $1,200 forehead badge during dinner.",
+        "name": "Julian, 36, Tech Founder",
+        "badge": "12,500 $",
+        "character": "An orange-man in a modern navy blazer.",
+        "scene": "Sitting across the table looking at his phone."
+      },
+      "name": "Mia, 22, Intern",
+      "badge": "1,200 $",
+      "verdict": "BROKE",
+      "story": "The 8 levels of lying about your salary to your parents. Level 1. Level 1: 1,200 dollars a month, and my parents think I am running a tech startup. I sat at the mahogany dining table, trembling as my dad carved the roast beef. My forehead glowed a pitiful 1,200 dollars, but I lied and said I made 9,500. You are wearing thrift store clothes with that salary? You are spending money we know you do not have. Then my dad uttered this exact phrase that shattered my entire evening. We raised a liar under our own roof. My phone buzzed with an urgent notification showing my account was deeply in the red. I do not know how I will even pay my electric bill this week. You'll see that in Level 2.",
+      "gender": "w",
+      "twist": {
+        "delta": "-200 $",
+        "after": "1,000 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of lying about your salary to your parents. Level 1."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 1: 1,200 dollars a month, and my parents think I am running a tech startup."
+        },
+        {
+          "s": "Figur",
+          "t": "I sat at the mahogany dining table, trembling as my dad carved the roast beef."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead glowed a pitiful 1,200 dollars, but I lied and said I made 9,500."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are wearing thrift store clothes with that salary?",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "You are spending money we know you do not have.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then my dad uttered this exact phrase that shattered my entire evening."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "We raised a liar under our own roof.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My phone buzzed with an urgent notification showing my account was deeply in the red."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "I do not know how I will even pay my electric bill this week.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 2."
+        }
+      ],
+      "quote": "We raised a liar under our own roof.",
+      "quote_by": {
+        "level": 6,
+        "name": "Arthur, 54, Father",
+        "badge": "8,500 $",
+        "character": "An austere Apple-man with a smooth red skin and a tailored tweed vest, glaring coldly.",
+        "scene": "Wide shot of a dimly lit dining room, pointing a silver carving knife at his daughter across the table."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "1,200 $",
+          "bar": 0.1
+        },
+        {
+          "label": "Rent",
+          "value": "950 $",
+          "bar": 0.8
+        },
+        {
+          "label": "Debt",
+          "value": "4,500 $",
+          "bar": 0.5
+        }
+      ],
+      "character": "A fragile Strawberry-girl with freckled pink skin, wearing an oversized beige thrift-store sweater and a glowing digital badge on her forehead.",
+      "visual": "Medium close-up of a strawberry-girl sitting at a tense family dinner table, her forehead showing 1,200 with a golden coin resting near her water glass.",
+      "scenes": [
+        "Wide shot of a suburban dining room at dusk, warm chandelier light illuminating plant-people arguing.",
+        "Medium shot of the strawberry-girl looking down in shame at her plate of roast beef.",
+        "Detail shot of the forehead digital display glowing 1,200 with a tiny hidden gold coin next to it.",
+        "Over-the-shoulder shot of the stern Apple-father pointing a knife across the table.",
+        "Close-up of a buzzing smartphone screen on the wooden table showing an overdue rent alert.",
+        "Wide shot of the hallway as the daughter grabs her worn-out canvas coat to leave early."
+      ],
+      "caption": "Would you lie about your salary to keep your parents proud? #salarylies #familydrama #strawberrygirl #struggle #level1"
+    },
+    {
+      "n": 2,
+      "open_loop": "Who sent the mysterious bank transfer that doubled her balance overnight?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Inspects her bank app over her shoulder in the subway and laughs at her savings.",
+        "name": "Marcus, 34, Senior Analyst",
+        "badge": "6,800 $",
+        "character": "A crisp Broccoli-man in a charcoal suit.",
+        "scene": "Standing near the cafe entrance looking important."
+      },
+      "name": "Leo, 25, Barista",
+      "badge": "2,400 $",
+      "verdict": "STRUGGLING",
+      "story": "The 8 levels of lying about your salary to your parents. Level 2. Level 2: 2,400 dollars a month, serving overpriced oat lattes while my mom asks why I am not a manager yet. I handed a 7-dollar caramel macchiato to a sleek Broccoli-man with a 6,000 badge on his forehead. Is that your weekly take-home, kid? My face burned hot red behind the espresso machine as the queue behind him snickered. How can I afford a flight when my rent swallows eighty percent of my life? Then a customer dropped a folded envelope right into my tip jar with a heavy thud. You do not have to hide your truth from us anymore. I opened the envelope and found a cashiers check for five hundred dollars. Who could have possibly known about my financial struggles? You'll see that in Level 3.",
+      "gender": "m",
+      "twist": {
+        "delta": "+500 $",
+        "after": "2,900 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of lying about your salary to your parents. Level 2."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 2: 2,400 dollars a month, serving overpriced oat lattes while my mom asks why I am not a manager yet."
+        },
+        {
+          "s": "Figur",
+          "t": "I handed a 7-dollar caramel macchiato to a sleek Broccoli-man with a 6,000 badge on his forehead."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Is that your weekly take-home, kid?",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My face burned hot red behind the espresso machine as the queue behind him snickered."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "How can I afford a flight when my rent swallows eighty percent of my life?",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then a customer dropped a folded envelope right into my tip jar with a heavy thud."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You do not have to hide your truth from us anymore.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "I opened the envelope and found a cashiers check for five hundred dollars."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Who could have possibly known about my financial struggles?",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 3."
+        }
+      ],
+      "quote": "You do not have to hide your truth from us anymore.",
+      "quote_by": {
+        "level": 4,
+        "name": "Marcus, 38, Consultant",
+        "badge": "6,000 $",
+        "character": "A rigid Broccoli-man with dark green florets, wearing a sharp charcoal suit and gold cufflinks.",
+        "scene": "Medium shot inside a bustling downtown café, sliding a mysterious white envelope across the marble counter."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "2,400 $",
+          "bar": 0.25
+        },
+        {
+          "label": "Tips",
+          "value": "180 $",
+          "bar": 0.1
+        },
+        {
+          "label": "Tips-Total",
+          "value": "320 $",
+          "bar": 0.15
+        }
+      ],
+      "character": "A zesty Lemon-man with bright yellow textured skin, wearing a stained green apron and silver hoop earrings.",
+      "visual": "Medium shot of a lemon-man standing behind a busy cafe counter, glowing badge showing 2,400 with a golden coin sitting in the tip jar.",
+      "scenes": [
+        "Wide shot of a crowded downtown coffee shop during the morning rush hour with steam rising from espresso machines.",
+        "Medium shot of the lemon-barista pouring milk into a paper cup while looking stressed.",
+        "Detail shot of the forehead digital display glowing 2,400 with a tiny hidden gold coin resting on the espresso grinder.",
+        "Over-the-shoulder shot of a sharply dressed broccoli-man mocking the barista's badge.",
+        "Close-up of a text message on a cracked smartphone screen asking for money.",
+        "Wide shot of the cafe seating area where plant-people chat in the background."
+      ],
+      "caption": "When your side hustle barely covers your coffee addiction. #baristalife #lemonman #salarylie #relatable #level2"
+    },
+    {
+      "n": 3,
+      "open_loop": "What was hidden inside the fake designer bag her mother brought to brunch?",
+      "gegenspieler": {
+        "level": 5,
+        "tat": "Compares her modest handbag to luxury brands and loudly comments on her cheap shoes.",
+        "name": "Sienna, 31, Marketing Director",
+        "badge": "9,200 $",
+        "character": "A vibrant Dragonfruit-woman in an emerald silk dress.",
+        "scene": "Sitting nearby sipping expensive champagne."
+      },
+      "name": "Chloe, 28, Accountant",
+      "badge": "4,100 $",
+      "verdict": "AVERAGE",
+      "story": "The 8 levels of lying about your salary to your parents. Level 3. Level 3: 4,100 dollars a month, yet I told my parents I pull in six figures at a hedge fund. I sat across from my mother at an upscale bistro, nervously sipping lemon water. My forehead proudly displayed my real 4,100 net, but I kept my bangs swept low to obscure it. Why is your number still so embarrassingly low, Chloe? I pay my own rent, buy my own groceries, and I am debt-free. Then my mother leaned across the white tablecloth and dropped a bombshell. Everyone in our family knows you are just a glorified clerk. The manager handed me a housing contract for a luxury penthouse I never requested. Your mother insisted you could easily afford the monthly down payment. You'll see that in Level 4.",
+      "gender": "w",
+      "twist": {
+        "delta": "+400 $",
+        "after": "4,500 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of lying about your salary to your parents. Level 3."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 3: 4,100 dollars a month, yet I told my parents I pull in six figures at a hedge fund."
+        },
+        {
+          "s": "Figur",
+          "t": "I sat across from my mother at an upscale bistro, nervously sipping lemon water."
+        },
+        {
+          "s": "Figur",
+          "t": "My forehead proudly displayed my real 4,100 net, but I kept my bangs swept low to obscure it."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Why is your number still so embarrassingly low, Chloe?",
+          "g": "w"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "I pay my own rent, buy my own groceries, and I am debt-free.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then my mother leaned across the white tablecloth and dropped a bombshell."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Everyone in our family knows you are just a glorified clerk.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "The manager handed me a housing contract for a luxury penthouse I never requested."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Your mother insisted you could easily afford the monthly down payment.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 4."
+        }
+      ],
+      "quote": "Everyone in our family knows you are just a glorified clerk.",
+      "quote_by": {
+        "level": 5,
+        "name": "Helena, 52, Investor",
+        "badge": "7,500 $",
+        "character": "A sophisticated Plum-woman with deep purple skin, wearing a velvet blazer and oversized sunglasses.",
+        "scene": "Close-up at an outdoor bistro table, leaning forward with a condescending smirk while pointing at her daughter's forehead."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "4,100 $",
+          "bar": 0.45
+        },
+        {
+          "label": "Savings",
+          "value": "12,000$",
+          "bar": 0.4
+        },
+        {
+          "label": "Invest",
+          "value": "300 $",
+          "bar": 0.2
+        }
+      ],
+      "character": "A crisp Avocado-woman with smooth light-green skin, wearing a minimalist black turtleneck and silver hoop earrings.",
+      "visual": "Medium shot of an avocado-woman sitting at an outdoor cafe table, glowing badge showing 4,100 with a golden coin resting on the saucer.",
+      "scenes": [
+        "Wide shot of a sunny upscale bistro patio with flowering plants and plant-people dining.",
+        "Medium shot of the avocado-woman nervously adjusting her bangs over her forehead.",
+        "Detail shot of the digital display glowing 4,100 with a tiny hidden gold coin under the water glass.",
+        "Over-the-shoulder shot of the plum-mother looking down her nose at the menu.",
+        "Close-up of bank notification on a smartphone screen showing a student loan deduction.",
+        "Wide shot of pedestrians walking past the bistro in stylish business attire."
+      ],
+      "caption": "When your parents expect Wall Street but you work in local accounting. #accountantlife #avocadogirl #familypressure #salarytruth #level3"
+    },
+    {
+      "n": 4,
+      "open_loop": "What document was accidentally left in the printer at the corporate office?",
+      "gegenspieler": {
+        "level": 7,
+        "tat": "Steals his project pitch and claims it as her own during the executive quarterly review.",
+        "name": "Victoria, 40, Venture Capitalist",
+        "badge": "18,000 $",
+        "character": "A striking Dragonfruit-woman in a cashmere coat.",
+        "scene": "Walking past his glass office with an arrogant smile."
+      },
+      "name": "Marcus, 34, Senior Analyst",
+      "badge": "6,800 $",
+      "verdict": "DOING OK",
+      "story": "The 8 levels of lying about your salary to your parents. Level 4. Level 4: 6,800 dollars a month, and I told my dad I bought a penthouse when I actually rent a damp basement studio. I stood in my sleek glass-walled office, loosening my tie after a grueling twelve-hour shift. My phone rang with my father's caller ID flashing on the screen. Your cousin just bought a vacation home in Aspen with his 12,000 salary. I make enough to live comfortably without your handouts. Then my father uttered the most humiliating sentence of my entire adult life. You are the biggest financial disappointment in this family. My monitor lit up with a data breach alert exposing my secret basement apartment. Look at this address, he does not live in a penthouse at all. You'll see that in Level 5.",
+      "gender": "m",
+      "twist": {
+        "delta": "+900 $",
+        "after": "7,700 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of lying about your salary to your parents. Level 4."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 4: 6,800 dollars a month, and I told my dad I bought a penthouse when I actually rent a damp basement studio."
+        },
+        {
+          "s": "Figur",
+          "t": "I stood in my sleek glass-walled office, loosening my tie after a grueling twelve-hour shift."
+        },
+        {
+          "s": "Figur",
+          "t": "My phone rang with my father's caller ID flashing on the screen."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your cousin just bought a vacation home in Aspen with his 12,000 salary.",
+          "g": "w"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "I make enough to live comfortably without your handouts.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then my father uttered the most humiliating sentence of my entire adult life."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are the biggest financial disappointment in this family.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My monitor lit up with a data breach alert exposing my secret basement apartment."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Look at this address, he does not live in a penthouse at all.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 5."
+        }
+      ],
+      "quote": "You are the biggest financial disappointment in this family.",
+      "quote_by": {
+        "level": 7,
+        "name": "George, 60, Patriarch",
+        "badge": "14,000 $",
+        "character": "A stern Coconut-man with a hard brown textured shell and a tailored navy suit.",
+        "scene": "Medium shot in a modern corporate lobby, holding a smartphone to his ear with a look of utter disdain."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "6,800 $",
+          "bar": 0.6
+        },
+        {
+          "label": "Bonus",
+          "value": "1,500 $",
+          "bar": 0.35
+        },
+        {
+          "label": "Rent",
+          "value": "2,100 $",
+          "bar": 0.5
+        }
+      ],
+      "character": "A crisp Broccoli-man with dark green florets, wearing a charcoal-grey suit and gold-rimmed glasses.",
+      "visual": "Medium close-up of a broccoli-man in a high-rise office, glowing badge showing 6,800 with a golden coin resting on the polished wooden desk.",
+      "scenes": [
+        "Wide shot of a sleek modern corporate office interior with floor-to-ceiling glass windows at sunset.",
+        "Medium shot of the broccoli-analyst talking anxiously on his smartphone.",
+        "Detail shot of the digital forehead display glowing 6,800 with a tiny hidden gold coin near the keyboard.",
+        "Over-the-shoulder shot of a dragonfruit-woman walking past and smirking at him.",
+        "Close-up of a banking app screen showing steady investment growth.",
+        "Wide shot of the bustling open-plan office floor with plant-people working at computer stations."
+      ],
+      "caption": "When corporate success still isn't enough to impress your parents. #corporatelife #broccoliman #salarypressure #analyst #level4"
+    },
+    {
+      "n": 5,
+      "open_loop": "Who leaked her confidential quarterly bonus numbers to the whole department?",
+      "gegenspieler": {
+        "level": 2,
+        "tat": "Brings up her old barista debt in front of her new wealthy investor boyfriend.",
+        "name": "Leo, 25, Barista",
+        "badge": "2,400 $",
+        "character": "A zesty Lemon-man in a stained green apron.",
+        "scene": "Standing by the coffee bar looking unimpressed."
+      },
+      "name": "Sienna, 31, Marketing Director",
+      "badge": "9,200 $",
+      "verdict": "THRIVING",
+      "story": "The 8 levels of lying about your salary to your parents. Level 5. Level 5: 9,200 dollars a month, yet I lied to my mother and said I make double that just to earn her approval. I sat in my luxurious glass penthouse overlooking the city skyline, swirling a glass of red wine. My mother stood by the floor-to-ceiling window, her 13,000 forehead badge glowing brightly under the recessed lights. Nine thousand is respectable, I suppose, but your cousin runs an entire conglomerate. I slammed my wine glass down on the marble counter, spilling crimson drops across the pristine surface. Then my mother turned around with a cold, piercing stare that froze my blood. You will never truly be successful until your number matches mine. The intercom buzzer echoed through the penthouse with an unexpected delivery notification. There is a legal notice downstairs demanding an immediate asset audit. You'll see that in Level 6.",
+      "gender": "w",
+      "twist": {
+        "delta": "-1,500 $",
+        "after": "7,700 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of lying about your salary to your parents. Level 5."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 5: 9,200 dollars a month, yet I lied to my mother and said I make double that just to earn her approval."
+        },
+        {
+          "s": "Figur",
+          "t": "I sat in my luxurious glass penthouse overlooking the city skyline, swirling a glass of red wine."
+        },
+        {
+          "s": "Figur",
+          "t": "My mother stood by the floor-to-ceiling window, her 13,000 forehead badge glowing brightly under the recessed lights."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Nine thousand is respectable, I suppose, but your cousin runs an entire conglomerate.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "I slammed my wine glass down on the marble counter, spilling crimson drops across the pristine surface."
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then my mother turned around with a cold, piercing stare that froze my blood."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You will never truly be successful until your number matches mine.",
+          "g": "w"
+        },
+        {
+          "s": "Figur",
+          "t": "The intercom buzzer echoed through the penthouse with an unexpected delivery notification."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "There is a legal notice downstairs demanding an immediate asset audit.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 6."
+        }
+      ],
+      "quote": "You will never truly be successful until your number matches mine.",
+      "quote_by": {
+        "level": 2,
+        "name": "Beatrice, 58, Socialite",
+        "badge": "13,000 $",
+        "character": "An elegant Dragonfruit-woman with magenta skin and green leaf-like spikes, wearing a white fur coat.",
+        "scene": "Wide shot of a luxury penthouse balcony, looking back with a haughty expression over her shoulder."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "9,200 $",
+          "bar": 0.75
+        },
+        {
+          "label": "Stocks",
+          "value": "45,000$",
+          "bar": 0.65
+        },
+        {
+          "label": "Bonus",
+          "value": "3,000 $",
+          "bar": 0.5
+        }
+      ],
+      "character": "A vibrant Dragonfruit-woman with magenta-pink skin and green-tipped bracts, wearing an emerald silk dress and gold choker.",
+      "visual": "Medium shot of a dragonfruit-woman in a luxury penthouse, glowing badge showing 9,200 with a golden coin resting on the marble bar.",
+      "scenes": [
+        "Wide shot of a high-end penthouse living room with panoramic city skyline views at night.",
+        "Medium shot of the dragonfruit-woman holding a wine glass with a tense expression.",
+        "Detail shot of the digital forehead display glowing 9,200 with a tiny hidden gold coin near the wine bottle.",
+        "Over-the-shoulder shot of her mother looking down from the balcony window.",
+        "Close-up of a laptop screen displaying a corporate restructuring email.",
+        "Wide shot of the designer kitchen area with modern stainless steel appliances."
+      ],
+      "caption": "When earning nearly ten grand a month still isn't enough for your parents. #penthouse #dragonfruit #salarylie #marketing #level5"
+    },
+    {
+      "n": 6,
+      "open_loop": "What hidden offshore account was discovered on the family trust documents?",
+      "gegenspieler": {
+        "level": 1,
+        "tat": "Threatens to expose his fabricated salary numbers to the entire extended family group chat.",
+        "name": "Mia, 22, Intern",
+        "badge": "1,200 $",
+        "character": "A fragile Strawberry-girl in an oversized sweater.",
+        "scene": "Holding a phone with a threatening text message ready."
+      },
+      "name": "Julian, 36, Tech Founder",
+      "badge": "12,500 $",
+      "verdict": "WEALTHY",
+      "story": "The 8 levels of lying about your salary to your parents. Level 6. Level 6: 12,500 dollars a month, and I told my parents I sold my startup for millions just to stop their nagging. I stood in my minimalist glass-walled conference room, surrounded by venture capitalists and anxious investors. My phone buzzed incessantly with text messages from my father demanding proof of my supposed multi-million dollar exit. When are you going to buy a real estate portfolio like your sister? I make twelve thousand a month building software used by millions. Then my father uttered the devastating line that ended the phone call forever. You are a small-time failure pretending to be a giant. Federal agents suddenly entered the boardroom with freeze orders for all company assets. Mr. Julian, your startup accounts have been flagged for severe financial discrepancies. You'll see that in Level 7.",
+      "gender": "m",
+      "twist": {
+        "delta": "+3,000 $",
+        "after": "15,500 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of lying about your salary to your parents. Level 6."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 6: 12,500 dollars a month, and I told my parents I sold my startup for millions just to stop their nagging."
+        },
+        {
+          "s": "Figur",
+          "t": "I stood in my minimalist glass-walled conference room, surrounded by venture capitalists and anxious investors."
+        },
+        {
+          "s": "Figur",
+          "t": "My phone buzzed incessantly with text messages from my father demanding proof of my supposed multi-million dollar exit."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "When are you going to buy a real estate portfolio like your sister?",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "I make twelve thousand a month building software used by millions.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then my father uttered the devastating line that ended the phone call forever."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You are a small-time failure pretending to be a giant.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "Federal agents suddenly entered the boardroom with freeze orders for all company assets."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "Mr. Julian, your startup accounts have been flagged for severe financial discrepancies.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 7."
+        }
+      ],
+      "quote": "You are a small-time failure pretending to be a giant.",
+      "quote_by": {
+        "level": 1,
+        "name": "Richard, 62, Investor",
+        "badge": "19,000 $",
+        "character": "An imposing Coconut-man with a rugged brown fibrous shell, wearing a bespoke Italian tuxedo.",
+        "scene": "Medium shot in a boardroom, holding a smartphone to his ear with a look of supreme condescension."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "12,500 $",
+          "bar": 0.85
+        },
+        {
+          "label": "Equity",
+          "value": "180,000$",
+          "bar": 0.8
+        },
+        {
+          "label": "Revenue",
+          "value": "40,000$",
+          "bar": 0.7
+        }
+      ],
+      "character": "A sleek Orange-man with bright citrus-textured skin, wearing a modern navy blazer and a titanium smart watch.",
+      "visual": "Medium close-up of an orange-man in a glass boardroom, glowing badge showing 12,500 with a golden coin resting on the glass table.",
+      "scenes": [
+        "Wide shot of a high-tech startup boardroom with glowing monitors and glass partitions.",
+        "Medium shot of the orange-founder looking stressed while holding his smartphone.",
+        "Detail shot of the digital forehead display glowing 12,500 with a tiny hidden gold coin near a laptop hinge.",
+        "Over-the-shoulder shot of investors whispering among themselves at the end of the table.",
+        "Close-up of a group chat notification on a phone screen showing family taunts.",
+        "Wide shot of the downtown tech hub illuminated by neon office lights outside."
+      ],
+      "caption": "When a twelve-thousand dollar tech salary still isn't a billion-dollar exit for your dad. #techfounder #orangeman #salarylie #startup #level6"
+    },
+    {
+      "n": 7,
+      "open_loop": "Whose signature was forged on the multi-million dollar acquisition papers?",
+      "gegenspieler": {
+        "level": 3,
+        "tat": "Exposes his inflated family background to the board of directors just before the merger.",
+        "name": "Chloe, 28, Accountant",
+        "badge": "4,100 $",
+        "character": "An avocado-woman in a black turtleneck.",
+        "scene": "Handing incriminating financial files to the board chairman."
+      },
+      "name": "Victoria, 40, Venture Capitalist",
+      "badge": "18,000 $",
+      "verdict": "ELITE",
+      "story": "The 8 levels of lying about your salary to your parents. Level 7. Level 7: 18,000 dollars a month, yet I told my aging parents I am a billionaire hedge fund owner. I stood on the private helipad of my skyscraper, the wind whipping my silk scarf around my neck. My father called me from his modest suburban kitchen, his forehead badge glowing a meager 3,500. Your brother's startup just raised fifty million. I manage a billion-dollar fund. Then my father uttered the final words that cut straight through my armor. You will never be more than a fake in a rich person's world. My tablet flashed with an emergency memo from the board regarding my forged credentials. All fund transactions have been suspended pending a criminal inquiry. You'll see that in Level 8.",
+      "gender": "w",
+      "twist": {
+        "delta": "+5,000 $",
+        "after": "23,000 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of lying about your salary to your parents. Level 7."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 7: 18,000 dollars a month, yet I told my aging parents I am a billionaire hedge fund owner."
+        },
+        {
+          "s": "Figur",
+          "t": "I stood on the private helipad of my skyscraper, the wind whipping my silk scarf around my neck."
+        },
+        {
+          "s": "Figur",
+          "t": "My father called me from his modest suburban kitchen, his forehead badge glowing a meager 3,500."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "Your brother's startup just raised fifty million.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "I manage a billion-dollar fund.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then my father uttered the final words that cut straight through my armor."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "You will never be more than a fake in a rich person's world.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "My tablet flashed with an emergency memo from the board regarding my forged credentials."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "All fund transactions have been suspended pending a criminal inquiry.",
+          "g": "m"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "You'll see that in Level 8."
+        }
+      ],
+      "quote": "You will never be more than a fake in a rich person's world.",
+      "quote_by": {
+        "level": 3,
+        "name": "Samuel, 70, Retired",
+        "badge": "3,500 $",
+        "character": "An elderly Avocado-man with wrinkled light-green skin, wearing a worn cardigan and holding an old landline phone.",
+        "scene": "Medium shot inside a dated suburban kitchen, speaking sternly into a corded telephone."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "18,000$",
+          "bar": 0.9
+        },
+        {
+          "label": "Portfolio",
+          "value": "2.4M $",
+          "bar": 0.95
+        },
+        {
+          "label": "Dividends",
+          "value": "12,000$",
+          "bar": 0.85
+        }
+      ],
+      "character": "A striking Dragonfruit-woman with deep crimson skin and lime-green scales, wearing a tailored white cashmere coat and diamond earrings.",
+      "visual": "Medium close-up of a dragonfruit-woman on a skyscraper helipad, glowing badge showing 18,000 with a golden coin resting on the metal railing.",
+      "scenes": [
+        "Wide shot of a private skyscraper helipad at dusk with a sleek helicopter parked in the background.",
+        "Medium shot of the dragonfruit-executive talking intensely on a smartphone.",
+        "Detail shot of the digital forehead display glowing 18,000 with a tiny hidden gold coin on the helipad control box.",
+        "Over-the-shoulder shot of a wealthy business partner looking disapprovingly at her.",
+        "Close-up of a financial portfolio app showing multi-million dollar asset allocations.",
+        "Wide shot of the glittering city skyline viewed from the top of the financial district tower."
+      ],
+      "caption": "When earning eighteen grand a month still isn't enough to satisfy your aging father. #venturecapital #dragonfruit #salarylie #elite #level7"
+    },
+    {
+      "n": 8,
+      "open_loop": "What was the secret message left in the final inheritance envelope?",
+      "gegenspieler": {
+        "level": 4,
+        "tat": "Refuses to accept the truth about the family fortune until the final audit is revealed.",
+        "name": "Marcus, 34, Senior Analyst",
+        "badge": "6,800 $",
+        "character": "A broccoli-man holding audit papers.",
+        "scene": "Standing near the hospital door looking solemn."
+      },
+      "name": "Evelyn, 50, Tech Tycoon",
+      "badge": "50,000 $",
+      "verdict": "UNLIMITED",
+      "story": "The 8 levels of lying about your salary to your parents. Level 8. Level 8: 50,000 dollars a month, and I finally told my dying mother the absolute truth about my entire fabricated life. I sat beside her hospital bed in the VIP palliative suite, the rhythmic beep of the heart monitor filling the quiet room. Her forehead badge flickered weakly at 1,500, a lifetime of struggle etched into her weathered skin. We always knew you were lying, my child. The glowing digits on our foreheads never mattered to us as much as your happiness did. Then my mother used her last breath to utter the sentence that completed our entire journey. The number on your forehead was never your true worth. The lawyer stepped forward and placed a dusty wooden box on the bedside table. She kept every single artwork you ever created when you were little. Which theme of salary lies or family secrets should we explore next?",
+      "gender": "w",
+      "twist": {
+        "delta": "+0 $",
+        "after": "50,000 $"
+      },
+      "lines": [
+        {
+          "s": "Erzaehler",
+          "t": "The 8 levels of lying about your salary to your parents. Level 8."
+        },
+        {
+          "s": "Figur",
+          "t": "Level 8: 50,000 dollars a month, and I finally told my dying mother the absolute truth about my entire fabricated life."
+        },
+        {
+          "s": "Figur",
+          "t": "I sat beside her hospital bed in the VIP palliative suite, the rhythmic beep of the heart monitor filling the quiet room."
+        },
+        {
+          "s": "Figur",
+          "t": "Her forehead badge flickered weakly at 1,500, a lifetime of struggle etched into her weathered skin."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "We always knew you were lying, my child.",
+          "g": "m"
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "The glowing digits on our foreheads never mattered to us as much as your happiness did.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Then my mother used her last breath to utter the sentence that completed our entire journey."
+        },
+        {
+          "s": "Gegenspieler",
+          "t": "The number on your forehead was never your true worth.",
+          "g": "m"
+        },
+        {
+          "s": "Figur",
+          "t": "The lawyer stepped forward and placed a dusty wooden box on the bedside table."
+        },
+        {
+          "s": "Nebenfigur",
+          "t": "She kept every single artwork you ever created when you were little.",
+          "g": "w"
+        },
+        {
+          "s": "Erzaehler",
+          "t": "Which theme of salary lies or family secrets should we explore next?"
+        }
+      ],
+      "quote": "The number on your forehead was never your true worth.",
+      "quote_by": {
+        "level": 4,
+        "name": "Martha, 78, Matriarch",
+        "badge": "1,500 $",
+        "character": "An elderly Coconut-woman with a smooth polished brown shell and a soft knitted floral shawl.",
+        "scene": "Close-up in a sunlit hospital room, holding her daughter's hand with a serene and loving expression."
+      },
+      "stats": [
+        {
+          "label": "Netto",
+          "value": "50,000$",
+          "bar": 1.0
+        },
+        {
+          "label": "Empire",
+          "value": "12.0M$",
+          "bar": 1.0
+        },
+        {
+          "label": "Legacy",
+          "value": "MAX",
+          "bar": 1.0
+        }
+      ],
+      "character": "A magnificent Coconut-woman with a polished dark brown shell and silver-streaked husk, wearing an elegant cream silk blouse and pearl necklace.",
+      "visual": "Medium close-up of a coconut-woman holding her mother's hand in a hospital room, glowing badge showing 50,000 with a golden coin resting on the bedside table.",
+      "scenes": [
+        "Wide shot of a serene VIP hospital room overlooking a tranquil garden at sunrise.",
+        "Medium shot of the coconut-woman holding her elderly mother's hand by the bedside.",
+        "Detail shot of the digital forehead display glowing 50,000 with a tiny hidden gold coin on the medical tray.",
+        "Over-the-shoulder shot of the heart monitor glowing steadily in the background.",
+        "Close-up of the mother's weathered face smiling peacefully despite her low badge number.",
+        "Wide shot of the hallway outside the hospital suite where plant-people pass quietly."
+      ],
+      "caption": "What theme of salary lies or family secrets should we explore next? #familylove #coconutwoman #salarylies #finale #level8"
+    }
+  ],
+  "lang": "en",
+  "topic": "Das unerträgliche Lügen über das eigene Gehalt im Gespräch mit den Eltern",
+  "frame": "frucht"
+}
